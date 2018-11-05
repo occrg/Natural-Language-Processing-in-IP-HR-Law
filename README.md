@@ -3,8 +3,10 @@
 More information can be found in admin/preliminary_outline.txt.
 
 ## Use
-There are no usable elements of this project yet.
+* Install Python and Jupyter.
+* Navigate to files in 'src' folder.
 
 ## File Structure
+* 'src' folder: contains code used to process data.
 * 'admin' folder: contains files used to manage and administrate the project.
 * 'submission' folder: contains all files submitted as required by course.
