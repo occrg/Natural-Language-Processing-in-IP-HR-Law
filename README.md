@@ -2,10 +2,16 @@
 ## Project Summary
 More information can be found in admin/preliminary_outline.txt.
 
-## Use
-* Install Python and Jupyter.
-* Install pdfminer library using pip or otherwise
+## Progress
+* Python script made to convert PDFs to TXT files. 
+
+## Preparation
+* Install Python.
+* Install pdfminer library using pip or otherwise.
 * Navigate to files in 'src' folder.
+
+## Use
+* Enter the following into command line: "python convertPDFtoTXT.py example.pdf".
 
 ## File Structure
 * 'src' folder: contains code used to process data.
