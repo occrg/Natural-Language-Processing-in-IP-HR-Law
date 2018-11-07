@@ -4,6 +4,7 @@ More information can be found in admin/preliminary_outline.txt.
 
 ## Use
 * Install Python and Jupyter.
+* Install pdfminer library using pip or otherwise
 * Navigate to files in 'src' folder.
 
 ## File Structure
