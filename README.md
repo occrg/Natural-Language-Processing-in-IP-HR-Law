@@ -13,7 +13,8 @@ More information can be found in admin/preliminary_outline.txt.
 
 ## Use
 Enter the following commands into the terminal:
-* "python convertPDFtoTXT.py example.pdf",
+* "python convertPDFtoTXT.py example.pdf $start_page $end_page",
+  * Where $start_page is the number of the first page you want to change to text (with the first page of the PDF being 1) and $end_page is the last. These can be left blank if all pages from the PDF are wanted.
 * "python tokeniseTXT.py example.txt",
 * "cat exampleCount.csv".
 

@@ -10,7 +10,7 @@ from pdfminer.layout import LAParams
 from pdfminer.converter import TextConverter
 from io import StringIO
 
-def pdfToTextVar(path):
+def pdfToTextVar(path, start, end):
     rsrcmgr = PDFResourceManager()
     retstr = StringIO()
     codec = 'utf-8'
@@ -23,9 +23,15 @@ def pdfToTextVar(path):
     maxpages = 0
     caching = True
     pagenos = set()
-
-    for page in PDFPage.get_pages(fp, pagenos, maxpages = maxpages, password = password, caching = caching, check_extractable = True):
-        interpreter.process_page(page)
+    if (start == 0 and end == 0):
+        for page in PDFPage.get_pages(fp, pagenos, maxpages = maxpages, password = password, caching = caching, check_extractable = True):
+            interpreter.process_page(page)
+    else:
+        n = 1
+        for page in PDFPage.get_pages(fp, pagenos, maxpages = maxpages, password = password, caching = caching, check_extractable = True):
+            if n in range(start, end + 1):
+                interpreter.process_page(page)
+            n += 1
 
     text = retstr.getvalue()
 
@@ -43,7 +49,10 @@ def textVarToTXTfile(text, path):
 
 def main():
     path = sys.argv[1]
-    text = pdfToTextVar(path)
+    try:
+        text = pdfToTextVar(path, int(sys.argv[2]), int(sys.argv[3]))
+    except IndexError:
+        text = pdfToTextVar(path, 0, 0)
     textVarToTXTfile(text, path)
 
 if __name__ == '__main__':
