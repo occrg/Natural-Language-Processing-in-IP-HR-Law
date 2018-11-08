@@ -4,7 +4,7 @@ More information can be found in admin/preliminary_outline.txt.
 
 ## Progress
 * Python script made to convert PDFs to TXT files.
-* Playing with separating text into words, sentences, paragraphs etc. with and without punctuation.
+* Python script made to clean data and count words.
 
 ## Preparation
 * Install Python.
@@ -12,8 +12,10 @@ More information can be found in admin/preliminary_outline.txt.
 * Navigate to files in 'src' folder.
 
 ## Use
-* Enter the following into command line: "python convertPDFtoTXT.py example.pdf".
-* Alternatively, open separatingText.ipynb in jupyter notebook to see results.
+Enter the following commands into the terminal:
+* "python convertPDFtoTXT.py example.pdf",
+* "python tokeniseTXT.py example.txt",
+* "cat exampleCount.csv".
 
 ## File Structure
 * 'src' folder: contains code used to process data.
