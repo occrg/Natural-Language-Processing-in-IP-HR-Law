@@ -29,7 +29,6 @@ Enter the following commands into the terminal:
 * 'submission' folder: contains all files submitted as required by course.
 
 ## Problems
-* Bug: stopwords no longer being removed.
 * Words sometimes appear as two different words because of formatting of PDFs.
   * Possibly add feature so user can review whether words are as intended.
 * I haven't checked how to programs work on non-unix OSs. They might behave differently because of different ways that OSs process new lines.

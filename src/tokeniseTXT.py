@@ -1,6 +1,6 @@
 import sys
 
-import string
+import re
 import csv
 
 def splitByParagraph(text):
@@ -22,8 +22,9 @@ def removeNewLines(text):
     return text.replace('\n', ' ')
 
 def removePunctuation(text):
-    remove_punct_map = dict.fromkeys(map(ord, string.punctuation))
-    return text.translate(remove_punct_map)
+    punctuation = re.compile(r'[-.?!,/\"”’:;()|0-9]')
+    textWOPuncts = punctuation.sub("", text)
+    return textWOPuncts
 
 def lowerCaseWords(words):
     lowerCaseWords = []
