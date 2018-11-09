@@ -85,18 +85,20 @@ def openTXTfile(path):
 
 def dictToCSVfile(wordCount, path):
     filename, format = path.split(".")
-    newFile = open('%sCount.csv' % filename, 'w')
+    newFile = open('%s.csv' % filename, 'w')
     csv_out = csv.writer(newFile)
     csv_out.writerows(wordCount)
     newFile.close()
 
 
 def main():
-    path = sys.argv[1]
-    text = openTXTfile(path)
+    file = sys.argv[1]
+    origin = 'TXTs/%s' % file
+    destination = 'wordCounts/%s' % file
+    text = openTXTfile(origin)
     words = tokeniseText(text)
     wordCount = countWords(words)
-    dictToCSVfile(wordCount, path)
+    dictToCSVfile(wordCount, destination)
 
 if __name__ == '__main__':
     main()

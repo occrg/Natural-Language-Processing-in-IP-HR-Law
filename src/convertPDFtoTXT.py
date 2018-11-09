@@ -41,19 +41,21 @@ def pdfToTextVar(path, start, end):
 
     return text
 
-def textVarToTXTfile(text, path):
-    filename, format = path.split(".")
+def textVarToTXTfile(text, file):
+    filename, format = file.split(".")
     newFile = open('%s.txt' % filename, 'w')
     newFile.write('%s' % text + '\n')
     newFile.close()
 
 def main():
-    path = sys.argv[1]
+    file = sys.argv[1]
+    origin = 'PDFs/%s' % file
+    destination = 'TXTs/%s' % file
     try:
-        text = pdfToTextVar(path, int(sys.argv[2]), int(sys.argv[3]))
+        text = pdfToTextVar(origin, int(sys.argv[2]), int(sys.argv[3]))
     except IndexError:
-        text = pdfToTextVar(path, 0, 0)
-    textVarToTXTfile(text, path)
+        text = pdfToTextVar(origin, 0, 0)
+    textVarToTXTfile(text, destination)
 
 if __name__ == '__main__':
     main()
