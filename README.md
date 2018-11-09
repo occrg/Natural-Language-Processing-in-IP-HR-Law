@@ -18,9 +18,9 @@ Enter the following commands into the terminal:
   * $file_destination is the location of where you want to output the TXT file (e.g. TXTs/example.txt),
   * $start_page is the number of the first page you want to change to text (with the first page of the PDF being 1). This is an optional argument. All pages will be converted if this is left blank,
   * $end_page is the number of the last page you want to change to text. This is an optional argument;
-* "python $file_origin $file_destination", where:
-  * $file_origin is the location of count the frequency of the words of (e.g. TXTs/example.txt),
-  * $file_destination is the location of where you want to output the CSV file (e.g. wordCounts/example.csv);
+* "python tokeniseOnFolder.py $folder_origin $folder_destination", where:
+  * $folder_origin is the location of the folder which contains the TXT files that you want to count the frequency of words of (e.g. TXTs),
+  * $folder_destination is the location of where you want to output the CSV files that contain the results (e.g. wordCounts);
 * "cat wordCounts/example.csv".
 
 ## File Structure
