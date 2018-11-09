@@ -109,15 +109,19 @@ def dictToCSVfile(wordCount, path):
     newFile.close()
 
 
+def varToCSVwordCount(text, destination):
+    words = tokeniseText(text)
+    wordCount = countWords(words)
+    dictToCSVfile(wordCount, destination)
+
+
 def main():
     origin = sys.argv[1]
     destination = sys.argv[2]
     if(len(sys.argv) != 3):
         raise ValueError("Wrong number of arguments. There should be 2 (excluding Python file name).")
     text = openTXTfile(origin)
-    words = tokeniseText(text)
-    wordCount = countWords(words)
-    dictToCSVfile(wordCount, destination)
+    varToCSVwordCount(text, destination)
 
 if __name__ == '__main__':
     main()
