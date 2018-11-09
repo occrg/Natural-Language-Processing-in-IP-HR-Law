@@ -3,6 +3,21 @@ import sys
 import string
 import csv
 
+def splitByParagraph(text):
+    return text.split("\n\n")
+
+def splitBySentence(text):
+    pars = splitByParagraph(text)
+    for p in pars:
+        pNoNewLines = p.replace('\n', ' ')
+        sentencesInPars.append(pNoNewLines.split(". "))
+        sentences = [sentence for par in sentencesInPars for sentence in par]
+    return setences
+
+def combineWords(words):
+    block = ' '.join(words)
+    return block
+
 def removeNewLines(text):
     return text.replace('\n', ' ')
 
@@ -21,10 +36,13 @@ def loadStopwords():
     file = open('stopwords.txt', 'r')
     stopwords = []
     for line in file.readlines():
-        newline = line.replace('\n', '')
+        newline = line.replace('\n', ' ')
         stopwords.append(newline)
     file.close()
     return stopwords
+
+def splitByWord(text):
+    return text.split(' ')
 
 def removeStopwords(words):
     stopwords = loadStopwords()
@@ -50,8 +68,8 @@ def removeEmpties(words):
 def tokeniseText(text):
     text = removeNewLines(text)
     text = removePunctuation(text)
-    words = text.split(' ')
-    words = lowerCaseWords(words)
+    text = lowerCaseWords(words)
+    words = splitByWord(text)
     words = removeStopwords(words)
     words = list(removeIntegers(words))
     words = removeEmpties(words)
