@@ -36,7 +36,7 @@ def loadStopwords():
     file = open('stopwords.txt', 'r')
     stopwords = []
     for line in file.readlines():
-        newline = line.replace('\n', ' ')
+        newline = line.replace('\n', '')
         stopwords.append(newline)
     file.close()
     return stopwords
