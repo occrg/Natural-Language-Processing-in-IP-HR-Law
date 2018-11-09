@@ -5,11 +5,11 @@ from tokeniseTXT import openTXTfile
 from tokeniseTXT import varToCSVwordCount
 
 def tokeniseOnFolder(origin, destinationFolder):
-    files = []
     for file in os.listdir(origin):
         filePath = os.path.join(origin, file)
+        filename, ext = file.split(".")
         text = openTXTfile(filePath)
-        destination = "%s/%s" % (destinationFolder, file)
+        destination = "%s/%s.csv" % (destinationFolder, filename)
         varToCSVwordCount(text, destination)
 
 def main():
