@@ -68,8 +68,8 @@ def removeEmpties(words):
 def tokeniseText(text):
     text = removeNewLines(text)
     text = removePunctuation(text)
-    text = lowerCaseWords(words)
     words = splitByWord(text)
+    words = lowerCaseWords(words)
     words = removeStopwords(words)
     words = list(removeIntegers(words))
     words = removeEmpties(words)
@@ -102,17 +102,17 @@ def openTXTfile(path):
 
 
 def dictToCSVfile(wordCount, path):
-    filename, format = path.split(".")
-    newFile = open('%s.csv' % filename, 'w')
+    newFile = open('%s' % path, 'w')
     csv_out = csv.writer(newFile)
     csv_out.writerows(wordCount)
     newFile.close()
 
 
 def main():
-    file = sys.argv[1]
-    origin = 'TXTs/%s' % file
-    destination = 'wordCounts/%s' % file
+    origin = sys.argv[1]
+    destination = sys.argv[2]
+    if(len(sys.argv) != 3):
+        raise ValueError("Wrong number of arguments. There should be 2 (excluding Python file name).")
     text = openTXTfile(origin)
     words = tokeniseText(text)
     wordCount = countWords(words)

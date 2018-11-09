@@ -13,12 +13,24 @@ More information can be found in admin/preliminary_outline.txt.
 
 ## Use
 Enter the following commands into the terminal:
-* "python convertPDFtoTXT.py example.pdf $start_page $end_page",
-  * Where $start_page is the number of the first page you want to change to text (with the first page of the PDF being 1) and $end_page is the last. These can be left blank if all pages from the PDF are wanted.
-* "python tokeniseTXT.py example.txt",
-* "cat exampleCount.csv".
+* "python convertPDFtoTXT.py $file_origin $start_page $end_page $file_destination", where:
+  * $file_origin is the location of the file you want to convert from PDF to TXT (e.g. PDFs/example.pdf),
+  * $file_destination is the location of where you want to output the TXT file (e.g. TXTs/example.txt),
+  * $start_page is the number of the first page you want to change to text (with the first page of the PDF being 1). This is an optional argument. All pages will be converted if this is left blank,
+  * $end_page is the number of the last page you want to change to text. This is an optional argument;
+* "python $file_origin $file_destination", where:
+  * $file_origin is the location of count the frequency of the words of (e.g. TXTs/example.txt),
+  * $file_destination is the location of where you want to output the CSV file (e.g. wordCounts/example.csv);
+* "cat wordCounts/example.csv".
 
 ## File Structure
 * 'src' folder: contains code used to process data.
 * 'admin' folder: contains files used to manage and administrate the project.
 * 'submission' folder: contains all files submitted as required by course.
+
+## Problems
+* Bug: stopwords no longer being removed.
+* Words sometimes appear as two different words because of formatting of PDFs.
+  * Possibly add feature so user can review whether words are as intended.
+* I haven't checked how to programs work on non-unix OSs. They might behave differently because of different ways that OSs process new lines.
+  * Pull Git repository to Windows OS and accomadate for differences in code so same code will work regardless of OS.
