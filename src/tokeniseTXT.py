@@ -98,8 +98,8 @@ def openTXTfile(path):
     for line in file.readlines():
         lines.append(line)
     text = ''.join(lines)
-    return text
     file.close()
+    return text
 
 
 def dictToCSVfile(wordCount, path):
