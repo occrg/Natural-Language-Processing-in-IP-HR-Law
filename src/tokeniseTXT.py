@@ -22,7 +22,7 @@ def removeNewLines(text):
     return text.replace('\n', ' ')
 
 def removePunctuation(text):
-    punctuation = re.compile(r'[-.?!,/\"“”’:;()|0-9]')
+    punctuation = re.compile(r'[-.?!,/\"“”’:;()[]{}|0-9]')
     textWOPuncts = punctuation.sub("", text)
     return textWOPuncts
 
