@@ -116,10 +116,10 @@ def varToCSVwordCount(text, destination):
 
 
 def main():
-    origin = sys.argv[1]
-    destination = sys.argv[2]
     if(len(sys.argv) != 3):
         raise ValueError("Wrong number of arguments. There should be 2 (excluding Python file name).")
+    origin = sys.argv[1]
+    destination = sys.argv[2]
     text = openTXTfile(origin)
     varToCSVwordCount(text, destination)
 

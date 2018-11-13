@@ -13,11 +13,11 @@ def tokeniseOnFolder(origin, destinationFolder):
         varToCSVwordCount(text, destination)
 
 def main():
-        origin = sys.argv[1]
-        destination = sys.argv[2]
-        if(len(sys.argv) != 3):
-            raise ValueError("Wrong number of arguments. There should be 2 (excluding Python file name).")
-        tokeniseOnFolder(origin, destination)
+    origin = sys.argv[1]
+    destination = sys.argv[2]
+    if(len(sys.argv) != 3):
+        raise ValueError("Wrong number of arguments. There should be 2 (excluding Python file name).")
+    tokeniseOnFolder(origin, destination)
 
 if __name__ == '__main__':
     main()
