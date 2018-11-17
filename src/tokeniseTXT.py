@@ -24,8 +24,14 @@ def removeNewLines(text):
     noNewLines = wordsOnTwoLines.replace('\n', ' ')
     return noNewLines
 
+def substituteKerning(text):
+    replaceFis = text.replace('ﬁ ', 'fi')
+    replaceFls = replaceFis.replace('ﬂ ', 'fl')
+    replaceFfs = replaceFls.replace('ﬀ ', 'ff')
+    return replaceFis
+
 def removePunctuation(text):
-    punctuation = re.compile(r'[-.?!,/"“””’:;()[\]{}0-9]')
+    punctuation = re.compile(r'[.?!,/"“””’:;()[\]{}0-9]')
     textWOPuncts = punctuation.sub("", text)
     return textWOPuncts
 
@@ -80,6 +86,7 @@ def removeEmpties(words):
 
 def tokeniseText(text):
     text = removeNewLines(text)
+    text = substituteKerning(text)
     text = removePunctuation(text)
     words = splitByWord(text)
     words = lowerCaseWords(words)
