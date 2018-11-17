@@ -25,7 +25,7 @@ def removeNewLines(text):
     return noNewLines
 
 def removePunctuation(text):
-    punctuation = re.compile(r'[-.?!,/"“””’:;()[]{}|0-9]')
+    punctuation = re.compile(r'[-.?!,/"“””’:;()[\]{}0-9]')
     textWOPuncts = punctuation.sub("", text)
     return textWOPuncts
 
@@ -70,9 +70,7 @@ def lemmatise(words):
     lemma = nltk.wordnet.WordNetLemmatizer()
     for w in words:
         l = lemma.lemmatize(w)
-        if l not in lemmatisedWords:
-            lemmatisedWords.append(l)
-    print(lemmatisedWords)
+        lemmatisedWords.append(l)
     return lemmatisedWords
 
 def removeEmpties(words):
