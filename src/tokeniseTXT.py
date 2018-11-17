@@ -1,6 +1,7 @@
 import sys
 
 import re
+import nltk
 import csv
 
 def splitByParagraph(text):
@@ -19,10 +20,12 @@ def combineWords(words):
     return block
 
 def removeNewLines(text):
-    return text.replace('\n', ' ')
+    wordsOnTwoLines = text.replace('-\n', '')
+    noNewLines = wordsOnTwoLines.replace('\n', ' ')
+    return noNewLines
 
 def removePunctuation(text):
-    punctuation = re.compile(r'[-.?!,/\"“”’:;()[]{}|0-9]')
+    punctuation = re.compile(r'[-.?!,/"“””’:;()[]{}|0-9]')
     textWOPuncts = punctuation.sub("", text)
     return textWOPuncts
 
@@ -61,6 +64,17 @@ def removeIntegers(words):
         except ValueError:
             yield w
 
+def lemmatise(words):
+    lemmatisedWords = []
+    nltk.download('wordnet')
+    lemma = nltk.wordnet.WordNetLemmatizer()
+    for w in words:
+        l = lemma.lemmatize(w)
+        if l not in lemmatisedWords:
+            lemmatisedWords.append(l)
+    print(lemmatisedWords)
+    return lemmatisedWords
+
 def removeEmpties(words):
     while '' in words:
         words.remove('')
@@ -74,6 +88,7 @@ def tokeniseText(text):
     words = removeStopwords(words)
     words = list(removeIntegers(words))
     words = removeEmpties(words)
+    words = lemmatise(words)
     return words
 
 
