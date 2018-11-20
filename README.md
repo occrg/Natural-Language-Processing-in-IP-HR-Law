@@ -4,7 +4,7 @@ More information can be found in admin/preliminary_outline.txt.
 
 ## Progress
 * Python script made to convert PDFs to TXT files.
-* Python script made to clean data and count words.
+* Python script made to give word count of all words in TXTs folders separately and together
 
 ## Preparation
 * Install Python.
@@ -18,10 +18,8 @@ Enter the following commands into the terminal:
   * $file_destination is the location of where you want to output the TXT file (e.g. TXTs/example.txt),
   * $start_page is the number of the first page you want to change to text (with the first page of the PDF being 1). This is an optional argument. All pages will be converted if this is left blank,
   * $end_page is the number of the last page you want to change to text. This is an optional argument;
-* "python tokeniseOnFolder.py $folder_origin $folder_destination", where:
-  * $folder_origin is the location of the folder which contains the TXT files that you want to count the frequency of words of (e.g. TXTs),
-  * $folder_destination is the location of where you want to output the CSV files that contain the results (e.g. wordCounts);
-* "cat wordCounts/example.csv".
+* "python allTXTsToCSVs.py"
+* "cat wordCounts/treaties/hr/combination.csv"
 
 ## File Structure
 * 'src' folder: contains code used to process data.
@@ -29,5 +27,5 @@ Enter the following commands into the terminal:
 * 'submission' folder: contains all files submitted as required by course.
 
 ## Problems
-* I haven't checked how to programs work on non-unix OSs. They might behave differently because of different ways that OSs process new lines.
+* I haven't checked how to programs work on non-unix OSs. They might behave differently because of different ways that OSs process new lines and directory paths.
   * Pull Git repository to Windows OS and accomadate for differences in code so same code will work regardless of OS.

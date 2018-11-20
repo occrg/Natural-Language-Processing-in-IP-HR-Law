@@ -46,6 +46,7 @@ def textVarToTXTfile(text, destination):
     newFile.write('%s' % text + '\n')
     newFile.close()
 
+
 def main():
     origin = sys.argv[1]
     if (len(sys.argv) == 3):
