@@ -2,6 +2,7 @@ import sys
 import os
 from lib.countTXT import folderOfTXTsToCSVs
 from lib.combineCSVs import folderToCombined
+from lib.barGraph import barGraphPath
 
 
 def tokeniseAll(typesOfDocument, areasOfLaw):
@@ -20,6 +21,17 @@ def combineAll(typesOfDocument, areasOfLaw):
             origin = '%s/%s/%s' % (originFolder, t, a)
             folderToCombined(origin)
 
+def graphAll(typesOfDocument, areasOfLaw):
+    originFolder = 'wordCounts'
+    numberOfTopResults = 20
+    for t in typesOfDocument:
+        for a in areasOfLaw:
+            originFolderPath = '%s/%s/%s' % (originFolder, t, a)
+            for file in os.listdir(originFolderPath):
+                filePath = os.path.join(originFolderPath, file)
+                barGraphPath(filePath, numberOfTopResults, originFolderPath)
+
+
 def main():
     typesOfDocument = ['journals', 'treaties']
     areasOfLaw = ['hr', 'ip']
@@ -27,6 +39,7 @@ def main():
         raise ValueError("There should be no arguments (excluding Python file name).")
     tokeniseAll(typesOfDocument, areasOfLaw)
     combineAll(typesOfDocument, areasOfLaw)
+    graphAll(typesOfDocument, areasOfLaw)
 
 if __name__ == '__main__':
     main()

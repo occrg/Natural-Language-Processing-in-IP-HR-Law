@@ -26,6 +26,8 @@ def combining(folderPath):
 
 
 def readCSV(path):
+    if(not os.path.isfile(path)):
+        raise ValueError("File does not exist. File path (%s) wrong." % path)
     file = open('%s' % path, 'r')
     wordCount = {}
     for line in file.readlines():
