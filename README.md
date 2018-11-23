@@ -4,7 +4,7 @@ More information can be found in admin/preliminary_outline.txt.
 
 ## Progress
 * Python script made to convert PDFs to TXT files.
-* Python script made to give word count of all words in TXTs folders separately and together
+* Python script made to give word count of all words in TXTs folders separately present these together in a graph
 
 ## Preparation
 * Install Python.
@@ -29,3 +29,5 @@ Enter the following commands into the terminal:
 ## Problems
 * I haven't checked how to programs work on non-unix OSs. They might behave differently because of different ways that OSs process new lines and directory paths.
   * Pull Git repository to Windows OS and accomadate for differences in code so same code will work regardless of OS.
+* Repetition of some I/O functions
+  * Create single library with all of these uniformly
