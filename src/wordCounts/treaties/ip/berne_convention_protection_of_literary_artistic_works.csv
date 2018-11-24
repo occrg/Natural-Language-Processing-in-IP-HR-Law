@@ -1,7 +1,7 @@
 country,334
 shall,300
+article,263
 work,253
-article,252
 union,178
 right,117
 may,85
@@ -128,6 +128,7 @@ conference,12
 due,12
 copyright,12
 written,12
+edition,12
 obligation,11
 applied,11
 wire,11
@@ -141,7 +142,6 @@ use,11
 exclusive,11
 session,11
 class,11
-edition,11
 sound,10
 analogous,10
 adaptation,10
@@ -257,6 +257,7 @@ provide,6
 fifty,6
 available,6
 permit,6
+iii,6
 regulation,6
 used,6
 upon,6
@@ -267,6 +268,7 @@ sentence,6
 distributed,6
 systematic,6
 instructional,6
+criterion,5
 restriction,5
 claim,5
 longer,5
@@ -301,7 +303,6 @@ authorized,5
 cease,5
 lawfully,5
 far,5
-iii,5
 circumstance,5
 party,5
 notify,5
@@ -326,7 +327,6 @@ june,4
 industrial,4
 speech,4
 lecture,4
-criterion,4
 eligibility,4
 object,4
 action,4
@@ -685,7 +685,6 @@ close,2
 draft,2
 submit,2
 either,2
-c,2
 performed,2
 secretariat,2
 various,2
@@ -711,7 +710,6 @@ three-fourths,2
 received,2
 accepted,2
 bind,2
-a,2
 therein,2
 ratified,2
 acceded,2
@@ -923,7 +921,6 @@ deal,1
 maintenance,1
 development,1
 implementation,1
-iii,1
 competence,1
 elect,1
 vii,1
@@ -985,7 +982,6 @@ consult,1
 discussion,1
 carry,1
 assigned,1
-b,1
 proper,1
 attributable,1
 share,1
@@ -1122,7 +1118,6 @@ medium,1
 translate,1
 nonexclusive,1
 non-transferable,1
-the,1
 ai,1
 except,1
 natural,1
@@ -1138,7 +1133,6 @@ limited,1
 audio,1
 requested,1
 denied,1
-edition,1
 diligence,1
 unable,1
 found,1

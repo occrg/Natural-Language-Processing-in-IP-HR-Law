@@ -27,6 +27,7 @@ judicial,36
 application,35
 indication,34
 case,34
+page,33
 without,32
 period,31
 party,31
@@ -49,11 +50,11 @@ infringement,22
 public,21
 country,20
 section,20
+service,20
 review,20
 within,19
 purpose,19
 person,19
-service,19
 prevent,19
 authorization,19
 reasonable,19
@@ -218,7 +219,6 @@ notwithstanding,7
 known,7
 importation,7
 delay,7
-page,6
 result,6
 counterfeit,6
 well,6
@@ -821,7 +821,6 @@ impairing,1
 whenever,1
 photographic,1
 calculated,1
-from,1
 confine,1
 certain,1
 recording,1
@@ -854,7 +853,6 @@ opposed,1
 presumed,1
 described,1
 well-known,1
-services,1
 damaged,1
 descriptive,1
 renewal,1
@@ -1156,7 +1154,7 @@ distinguished,1
 thereby,1
 infringes,1
 constituted,1
-met,1
+met,1
 destined,1
 initiating,1
 detailed,1

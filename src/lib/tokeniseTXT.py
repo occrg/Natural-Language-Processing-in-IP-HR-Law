@@ -9,8 +9,8 @@ def splitBySentence(text):
     pars = splitByParagraph(text)
     for p in pars:
         pNoNewLines = p.replace('\n', ' ')
-        sentencesInPars.append(pNoNewLines.split(". "))
-        sentences = [sentence for par in sentencesInPars for sentence in par]
+        pars.append(pNoNewLines.split(". "))
+        sentences = [sentence for par in pars for sentence in par]
     return setences
 
 def combineWords(words):
@@ -20,7 +20,8 @@ def combineWords(words):
 def removeNewLines(text):
     wordsOnTwoLines = text.replace('-\n', '')
     noNewLines = wordsOnTwoLines.replace('\n', ' ')
-    return noNewLines
+    noX0Cs = noNewLines.replace('\x0c', '')
+    return noX0Cs
 
 def substituteKerning(text):
     replaceFis = text.replace('ﬁ ', 'fi')
@@ -71,7 +72,6 @@ def removeIntegers(words):
 
 def lemmatise(words):
     lemmatisedWords = []
-    nltk.download('wordnet')
     lemma = nltk.wordnet.WordNetLemmatizer()
     for w in words:
         l = lemma.lemmatize(w)
