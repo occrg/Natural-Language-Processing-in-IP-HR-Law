@@ -1,6 +1,8 @@
 import re
 import nltk
 
+from lib.filesInOut import loadPhrases
+
 def cleanText(text):
     text = removeNewLines(text)
     text = substituteKerning(text)
@@ -35,18 +37,8 @@ def lowerCaseWords(words):
             lowerCaseWords.append(w.lower())
     return lowerCaseWords
 
-def loadStopwords():
-    stopwordsFileLocation = 'lists/stopwords.txt'
-    file = open('%s' % stopwordsFileLocation, 'r')
-    stopwords = []
-    for line in file.readlines():
-        newline = line.replace('\n', '')
-        stopwords.append(newline)
-    file.close()
-    return stopwords
-
 def removeStopwords(words):
-    stopwords = loadStopwords()
+    stopwords = loadPhrases('lists/stopwords.txt')
     wordsWOStops = []
     for w in words:
         if w not in stopwords:
@@ -108,7 +100,6 @@ def splitByWord(text):
     words = removeEmpties(words)
     words = lemmatise(words)
     return words
-
 
 def splitBySentence(text):
     sentenceBlocks = separatingIntoSentenceBlocks(text)

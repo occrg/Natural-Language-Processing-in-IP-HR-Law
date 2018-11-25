@@ -2,33 +2,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
+from lib.filesInOut import readCSVinList
+from lib.filesInOut import readCSVinDict
 from lib.combineCSVs import collatingCSVs
-
-
-def readCSVordered(origin, num):
-    if(not os.path.isfile(origin)):
-        raise ValueError("File does not exist. File path (%s) wrong." % path)
-    file = open('%s' % origin, 'r')
-    wordCount = []
-    for line in file.readlines()[:num]:
-        key, rhs = line.split(",")
-        value = int(rhs)
-        row = (key, value)
-        wordCount.append(row)
-        file.close()
-    return wordCount
-
-def readCSV(path, num):
-    if(not os.path.isfile(path)):
-        raise ValueError("File does not exist. File path (%s) wrong." % path)
-    file = open('%s' % path, 'r')
-    wordCount = {}
-    for line in file.readlines()[:num]:
-        index, rhs = line.split(",")
-        value = int(rhs)
-        wordCount[index] = value
-        file.close()
-    return wordCount
 
 def barGraphDict(wordCount, title):
     index = np.arange(len(wordCount))
@@ -46,7 +22,7 @@ def barGraphDict(wordCount, title):
     return plt
 
 def barGraphPath(origin, num, title):
-    wordCount = readCSVordered(origin, num)
+    wordCount = readCSVinList(origin, num)
     plt = barGraphDict(wordCount, title)
     location, docType, area, rest = origin.split('/', 4)
     restAndFilename, ext = rest.split('.')
@@ -98,7 +74,7 @@ def barGraphGroupPath(origin, num, title):
 
         if originExt == 'csv':
             filenames.append(filename)
-            wordCount = readCSV(filePath, num)
+            wordCount = readCSVinDict(filePath, num)
             wordCountList.append(wordCount)
     if wordCountList:
         plt = barGraphGroup(wordCountList, filenames, num, title)

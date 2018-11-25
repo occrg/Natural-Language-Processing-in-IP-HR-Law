@@ -2,6 +2,8 @@ import sys
 import os
 import csv
 
+from lib.filesInOut import readCSVinDict
+from lib.filesInOut import dictToCSVfile
 
 
 def sortWordCount(wordCount):
@@ -24,29 +26,11 @@ def collatingCSVs(wordCountsList):
 def combiningCSVsFromPaths(filePaths):
     wordCountsList = []
     for p in filePaths:
-        currWordCount = readCSV(p)
+        numLines = sum(1 for line in open(p))
+        currWordCount = readCSVinDict(p, numLines)
         wordCountsList.append(currWordCount)
     wordCounts = collatingCSVs(wordCountsList)
     return wordCounts
-
-
-def readCSV(path):
-    if(not os.path.isfile(path)):
-        raise ValueError("File does not exist. File path (%s) wrong." % path)
-    file = open('%s' % path, 'r')
-    wordCount = {}
-    for line in file.readlines():
-        index, rhs = line.split(",")
-        value = int(rhs)
-        wordCount[index] = value
-        file.close()
-    return wordCount
-
-def dictToCSVfile(wordCount, destination):
-    newFile = open('%s' % destination, 'w')
-    csv_out = csv.writer(newFile)
-    csv_out.writerows(wordCount)
-    newFile.close()
 
 
 def folderToCombined(folder):

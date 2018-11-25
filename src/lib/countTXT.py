@@ -1,6 +1,8 @@
 import os
 import csv
 
+from lib.filesInOut import openTXTfile
+from lib.filesInOut import dictToCSVfile
 from lib.tokeniseTXT import splitByWord
 
 
@@ -17,22 +19,6 @@ def countWords(words):
             wordCount[w] = 1
     sortedWordCount = sortWordCount(wordCount)
     return sortedWordCount
-
-
-def openTXTfile(path):
-    file = open('%s' % path, 'r')
-    lines = []
-    for line in file.readlines():
-        lines.append(line)
-    text = ''.join(lines)
-    file.close()
-    return text
-
-def dictToCSVfile(wordCount, path):
-    newFile = open('%s' % path, 'w')
-    csv_out = csv.writer(newFile)
-    csv_out.writerows(wordCount)
-    newFile.close()
 
 
 def TXTtoCSVwordCount(origin, destination):

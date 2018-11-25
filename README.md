@@ -29,6 +29,3 @@ Enter the following commands into the terminal:
 ## Problems
 * I haven't checked how to programs work on non-unix OSs. They might behave differently because of different ways that OSs process new lines and directory paths.
   * Pull Git repository to Windows OS and accomadate for differences in code so same code will work regardless of OS.
-* Repetition of some I/O functions
-  * Create single library with all of these uniformly
-  * Also make a general module for loading list of words (such as stopwords)
