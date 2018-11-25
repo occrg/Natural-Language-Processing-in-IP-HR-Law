@@ -4,7 +4,7 @@ More information can be found in admin/preliminary_outline.txt.
 
 ## Progress
 * Python script made to convert PDFs to TXT files.
-* Python script made to give word count of all words in TXTs folders separately present these together in a graph
+* Python script made to give word count of all words in TXTs folders separately present these together in a graph. It also produces a csv file for the occurrence of key phrases.
 
 ## Preparation
 * Install Python.
@@ -19,7 +19,6 @@ Enter the following commands into the terminal:
   * $start_page is the number of the first page you want to change to text (with the first page of the PDF being 1). This is an optional argument. All pages will be converted if this is left blank,
   * $end_page is the number of the last page you want to change to text. This is an optional argument;
 * "python allTXTsToCSVs.py"
-* "cat wordCounts/treaties/hr/combination.csv"
 
 ## File Structure
 * 'src' folder: contains code used to process data.

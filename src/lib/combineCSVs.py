@@ -43,6 +43,7 @@ def folderToCombined(folder):
             currWordCount = {}
             alreadyInDict = []
             filePath = os.path.join(folder, file)
-            filePaths.append(filePath)
+            if '.' in filePath:
+                filePaths.append(filePath)
         wordCounts = combiningCSVsFromPaths(filePaths)
         dictToCSVfile(wordCounts, destination)

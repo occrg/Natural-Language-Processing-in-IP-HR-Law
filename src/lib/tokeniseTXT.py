@@ -2,6 +2,7 @@ import re
 import nltk
 
 from lib.filesInOut import loadPhrases
+from lib.filesInOut import openTXTfile
 
 def cleanText(text):
     text = removeNewLines(text)
@@ -117,3 +118,16 @@ def splitBySentence(text):
     sentencesWempties = joinWordsInList(sentencesSplitByWords)
     sentences = removeEmpties(sentencesWempties)
     return sentences
+
+def TXTtoWordList(origin):
+    text = openTXTfile(origin)
+    words = splitByWord(text)
+    return words
+
+def folderOfTXTsToWordLists(originFolder):
+    wordLists = []
+    for file in os.listdir(originFolder):
+        filePath = os.path.join(originFolder, file)
+        wordList = TXTtoWordList(filePath)
+        wordLists.append(wordList)
+        return wordLists

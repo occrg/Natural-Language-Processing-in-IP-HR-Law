@@ -69,10 +69,9 @@ def barGraphGroupPath(origin, num, title):
     filePaths = []
     for file in os.listdir(origin):
         filePath = os.path.join(origin, file)
-        discard, filenameAndExt = filePath.rsplit('/', 1)
-        filename, originExt = filenameAndExt.split('.')
-
-        if originExt == 'csv':
+        if '.csv' in filePath:
+            discard, filenameAndExt = filePath.rsplit('/', 1)
+            filename, originExt = filenameAndExt.split('.')
             filenames.append(filename)
             wordCount = readCSVinDict(filePath, num)
             wordCountList.append(wordCount)
