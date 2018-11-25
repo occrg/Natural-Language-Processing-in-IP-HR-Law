@@ -1,17 +1,11 @@
 import re
 import nltk
 
-
-def splitByParagraph(text):
-    return text.split("\n\n")
-
-def splitBySentence(text):
-    pars = splitByParagraph(text)
-    for p in pars:
-        pNoNewLines = p.replace('\n', ' ')
-        pars.append(pNoNewLines.split(". "))
-        sentences = [sentence for par in pars for sentence in par]
-    return setences
+def cleanText(text):
+    text = removeNewLines(text)
+    text = substituteKerning(text)
+    text = removePunctuation(text)
+    return text
 
 def combineWords(words):
     block = ' '.join(words)
@@ -51,9 +45,6 @@ def loadStopwords():
     file.close()
     return stopwords
 
-def splitByWord(text):
-    return text.split(' ')
-
 def removeStopwords(words):
     stopwords = loadStopwords()
     wordsWOStops = []
@@ -83,14 +74,45 @@ def removeEmpties(words):
         words.remove('')
     return words
 
-def tokeniseText(text):
-    text = removeNewLines(text)
-    text = substituteKerning(text)
-    text = removePunctuation(text)
-    words = splitByWord(text)
+def separatingIntoSentenceBlocks(text):
+    pars = text.split("\n\n")
+    parsSplitBySentence = []
+    for p in pars:
+        if isinstance(p, str):
+            pNoNewLines = removeNewLines(p)
+            parsSplitBySentence.append(pNoNewLines.split(". "))
+            sentencesWempties = [sentence for sublist in parsSplitBySentence for sentence in sublist]
+            sentences = [x for x in sentencesWempties if x]
+    return sentences
+
+def cleanSentencesAsWords(sentences):
+    splitSentences = []
+    for s in sentences:
+        s = splitByWord(s)
+        splitSentences.append(s)
+    return splitSentences
+
+def joinWordsInList(listOfLists):
+    joinedBlocks = []
+    for l in listOfLists:
+        block = ' '.join(l)
+        joinedBlocks.append(block)
+    return joinedBlocks
+
+def splitByWord(text):
+    text = cleanText(text)
+    words = text.split(' ')
     words = lowerCaseWords(words)
     words = removeStopwords(words)
     words = list(removeIntegers(words))
     words = removeEmpties(words)
     words = lemmatise(words)
     return words
+
+
+def splitBySentence(text):
+    sentenceBlocks = separatingIntoSentenceBlocks(text)
+    sentencesSplitByWords = cleanSentencesAsWords(sentenceBlocks)
+    sentencesWempties = joinWordsInList(sentencesSplitByWords)
+    sentences = removeEmpties(sentencesWempties)
+    return sentences

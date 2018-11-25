@@ -1,7 +1,7 @@
 import os
 import csv
 
-from lib.tokeniseTXT import tokeniseText
+from lib.tokeniseTXT import splitByWord
 
 
 def sortWordCount(wordCount):
@@ -37,7 +37,7 @@ def dictToCSVfile(wordCount, path):
 
 def TXTtoCSVwordCount(origin, destination):
     text = openTXTfile(origin)
-    words = tokeniseText(text)
+    words = splitByWord(text)
     wordCount = countWords(words)
     dictToCSVfile(wordCount, destination)
 
