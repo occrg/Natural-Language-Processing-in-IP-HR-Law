@@ -4,11 +4,12 @@ import csv
 from lib.filesInOut import openTXTfile
 from lib.filesInOut import dictToCSVfile
 from lib.tokeniseTXT import splitByWord
+from lib.tokeniseTXT import lemmatisePhrases
 
 
-def sortWordCount(wordCount):
-    sortedWordCount = sorted(wordCount.items(), key=lambda kv: kv[1], reverse=True)
-    return sortedWordCount
+def sortDict(dict):
+    sortedDict = sorted(dict.items(), key=lambda kv: kv[1], reverse=True)
+    return sortedDict
 
 def countWords(words):
     wordCount = {}
@@ -17,8 +18,30 @@ def countWords(words):
             wordCount[w] += 1
         else:
             wordCount[w] = 1
-    sortedWordCount = sortWordCount(wordCount)
+    sortedWordCount = sortDict(wordCount)
     return sortedWordCount
+
+def countGivenPhrases(phrases, words):
+    phrases = lemmatisePhrases(phrases)
+    phraseCount = {}
+    phrasesOnly = []
+    for p in phrases:
+        phraseInWords = p.split()
+        for i in range(len(words)):
+            phraseMatch = True
+            for j in range(len(phraseInWords)):
+                try:
+                    if not words[i + j] == phraseInWords[j]:
+                        phraseMatch = False
+                except IndexError:
+                    phraseMatch = False
+            if phraseMatch:
+                if p in phraseCount:
+                    phraseCount[p] += 1
+                else:
+                    phraseCount[p] = 1
+    sortedPhraseCount = sortDict(phraseCount)
+    return sortedPhraseCount
 
 
 def TXTtoCSVwordCount(origin, destination):

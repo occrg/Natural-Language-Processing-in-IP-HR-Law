@@ -61,6 +61,16 @@ def lemmatise(words):
         lemmatisedWords.append(l)
     return lemmatisedWords
 
+def lemmatisePhrases(phrases):
+    lemmatisedPhrases = []
+    for p in phrases:
+        phraseInWords = p.split()
+        lemmatisedPhraseInWords = lemmatise(phraseInWords)
+        lemmatisedPhrase = ' '.join(lemmatisedPhraseInWords)
+        lemmatisedPhrases.append(lemmatisedPhrase)
+    return lemmatisedPhrases
+
+
 def removeEmpties(words):
     while '' in words:
         words.remove('')
