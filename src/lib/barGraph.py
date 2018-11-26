@@ -46,12 +46,15 @@ def barGraphGroup(wordCountList, filenames, num, title):
                     barGraphArray[n][wordList.index(w)] = sepWordCount[row]
         n += 1
 
+    fig = plt.figure()
+    ax = fig.add_subplot(111)
+
     index = np.arange(len(wordList))
     p = []
     legends = []
     bottom = np.zeros(len(wordList))
     for i in range(len(wordCountList)):
-        p.append(plt.bar(index, barGraphArray[i], bottom=bottom))
+        p.append(ax.bar(index, barGraphArray[i], bottom=bottom))
         bottom += barGraphArray[i]
         legends.append(p[i][0])
 
@@ -77,9 +80,10 @@ def barGraphGroupPath(origin, num, title):
             wordCountList.append(wordCount)
     if wordCountList:
         plt = barGraphGroup(wordCountList, filenames, num, title)
-        location, docType, area = origin.split('/', 3)
+        slashNum = origin.count('/')
+        location, rest = origin.split('/', 1)
         location = 'graphs'
         name = 'graph'
         destinationExt = 'png'
-        destination = '%s/%s/%s/%s.%s' % (location, docType, area, location, destinationExt)
+        destination = '%s/%s/%s.%s' % (location, rest, name, destinationExt)
         plt.savefig(destination)

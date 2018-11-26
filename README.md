@@ -4,7 +4,7 @@ More information can be found in admin/preliminary_outline.txt.
 
 ## Progress
 * Python script made to convert PDFs to TXT files.
-* Python script made to give word count of all words in TXTs folders separately present these together in a graph. It also produces a csv file for the occurrence of key phrases.
+* Python script made to give word count of all words in TXTs folders separately present these together in a graph. It also produces a csv file for the occurrence of key phrases and the occurence of other words in the same sentence as these phrases.
 
 ## Preparation
 * Install Python.

@@ -1,6 +1,5 @@
 country,334
 shall,300
-article,263
 work,253
 union,178
 right,117
@@ -11,7 +10,6 @@ license,74
 act,70
 convention,69
 general,69
-paragraph,69
 declaration,62
 provision,61
 director,58
@@ -22,10 +20,10 @@ provided,49
 made,48
 public,47
 certain,45
+article,44
 member,43
 copy,42
 appendix,42
-date,40
 period,40
 term,38
 force,38
@@ -188,6 +186,7 @@ adopt,8
 applies,8
 unless,8
 extent,8
+paragraph,8
 headquarters,8
 latter,8
 avail,8
