@@ -1,0 +1,2133 @@
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6, pp. 160–190
+
+doi: 10.1002/jwip.12028
+
+Patent Law Treaty: Promises Not Delivered-How the
+Negotiations Resulted in Ambiguities in the Treaty
+
+Cees Mulder
+Maastricht University, The Netherlands
+
+The Patent Law Treaty was drafted with the aim to “streamline and harmonize” formal requirements set by national or
+regional Patent Ofﬁces for the ﬁling of national or regional patent applications and the maintenance of patents. In this
+Article, a number of core issues of the Patent Law Treaty has been selected: requirements for the accordance of a ﬁling
+date, relief in respect of time limits and restoration of priority. A conclusion of this Article is that the goals of the Patent
+Law Treaty were not achieved by the Treaty as concluded. One of the reasons is that the Treaty contains too many
+optional requirements (“may require”), which may be implemented as compulsory by the Contracting Parties,
+allowing them too much freedom when implementing requirements of the Treaty into their national and regional
+patent laws. This deﬁes the aim of harmonization and streamlining of the Patent Law Treaty. The negotiation history is
+described and discussed with emphasis on what went wrong during the negotiations. Reasons for the failure of the
+Patent Law Treaty are discussed and recommendations for repair are given.
+
+Keywords patent law treaty; negotiations; effect of PLT; ﬁling date requirements; relief in respect of time limits;
+continued processing; reinstatement of rights; restoration of priority right
+
+Introduction to Patent Law Treaty
+
+The Patent Law Treaty (PLT) was concluded during a Diplomatic Conference held at the World
+Intellectual Property Organization (WIPO) in Geneva (Switzerland) from May 11 to June 2, 2000.1 The
+PLT is open to States member of WIPO and/or States party to the Paris Convention for the Protection of
+Industrial Property;2 it is also open to certain intergovernmental organizations, such as the European
+Patent Organization.3 Instruments of ratiﬁcation or accession must be deposited with the Director General
+of WIPO. The PLT entered into force on April 28, 2005.
+
+The PLT emanated from discussions on the reform of substantive patent law that began in 1984.
+Those discussions continued until June 1991, during which a ﬁrst part of a Diplomatic Conference to
+conclude a “Treaty Supplementing the Paris Convention as far as Patents are Concerned.”4 The second
+part of the Diplomatic Conference was scheduled for July 1993, but did never take place. In January 1994,
+the United States discontinued substantive patent law harmonization discussions due to a lack of domestic
+support for the effort.5 The international community was disappointed by the ensuing “loss of momentum”
+on the subject of substantive patent law harmonization as a result of the position of the United States.
+In 1995, it was agreed that another approach for promoting harmonization, covering matters
+concerning the formality requirements of national and regional patent procedures, would be initiated by
+WIPO.6 Five sessions of the Committee of Experts on the Patent Law Treaty,7 and three sessions of its
+successor, the Standing Committee on the Law of Patents (SCP),8 were held to develop the “Basic
+Proposal” to be presented to the Diplomatic Conference for the Adoption of the Patent Law Treaty, which
+was held from May 11 to June 2, 2000.9,10
+
+The Final Act of the PLT witnessing the Diplomatic Conference and its outcome, was signed by 104
+countries and 3 Intergovernmental Organizations. At present 66 countries signed the PLT. In 2005 the
+PLT was in force in 11 countries; currently (October 2014) there are 36 Contracting Parties.11
+
+The PLT includes 27 articles and 21 rules. In addition, six “Agreed Statements” were adopted at the
+
+end of the Conference.12
+
+160
+
+© 2014 John Wiley & Sons Ltd
+
+Patent Law Treaty
+
+Cees Mulder
+
+Aim and Purpose of the PLT
+
+Since the adoption of the PLT, the involvement of the WIPO has diminished as there are no centralized
+functions. The International Bureau of WIPO merely acts as a depository of the PLT and is not in a
+position to give an ofﬁcial interpretation of the Treaty; such interpretation being in the exclusive
+competence of the PLT Contracting Parties.
+
+The PLT aims at harmonizing and streamlining formal procedures relating to national and regional
+patent applications and maintenance of patents. In spite of the goal of harmonization, the PLT does not
+establish a uniform procedure for all PLT Contracting Parties by leaving many requirements optional,
+thereby allowing divergence in implementation between PLT Contracting Parties.13
+
+The PLT sets forth, with one exception, maximum formal/procedural requirements that Contracting
+Parties may impose on patent applicants and patentees. Otherwise, PLT Contracting Parties are free to
+provide requirements that, from the viewpoint of applicants and owners, are more favorable than PLT
+requirements.14 The one exception to this freedom are the ﬁling date requirements, which are both a
+maximum and a minimum, i.e., a so-called “ﬁling-date standard.”15
+
+The aim of the PLT is to simplify the formal obligations and to reduce the associated costs for patent
+applicants and owners of patents in obtaining and preserving their rights in inventions in many countries of
+the world. The PLT complements the existing international obligations and fosters the policy of strong
+intellectual property protection. The PLT simpliﬁes the ﬁling of an application and obtaining and
+maintaining of patents throughout the world and, to a large extent, promotes the merging of national and
+international formal requirements associated with patent applications and patents.
+
+In a birds’ eye view, the principle features of the PLT offer the following advantages:
+
+ The PLT simpliﬁes and minimizes application requirements for obtaining a ﬁling date;
+ The PLT imposes a maximum on the formal requirements that a PLT Contracting Party may impose;
+ The PLT eases representation requirements for formal matters;
+ The PLT provides a basis for means of communications, including the electronic ﬁling of applications;
+ The PLT provides relief in respect of time limits that may be imposed by the Ofﬁce of a PLT
+
+Contracting Party and re-instatement of rights where an applicant or owner has unintentionally failed to
+comply with a time limit and that failure has the direct consequence of causing a loss of rights; and
+
+ The PLT provides for correction or addition of priority claims and restoration of priority rights.
+
+A main feature of the PLT is that it provides standardized formality requirements for patent
+applications, which are ﬁled with a national or regional patent Ofﬁce. Instead of deﬁning these
+requirements again or differently in the PLT, it was decided to incorporate by reference the provisions
+of the PCT and its Regulations, wherever appropriate, into the PLT (see Mulder (2011a) for a discussion
+of the issue of “Incorporation by reference of PCT provisions into the PLT”). The main reason for
+this is that the PCT already regulates in detail the formality requirements with respect to patent
+applications.16
+
+From the viewpoint of inventors, applicants and patent attorneys, standardization and simpliﬁcation
+of the formality requirements lead to a reduced risk of formality errors resulting in a less frequent loss of
+rights. On the other hand, Ofﬁces may operate more efﬁciently because of the simpliﬁcation of procedures
+and the streamlining of the process. Eventually, this will result in cost reductions on both sides.
+
+After the failure in 1994 of the earlier “Treaty Supplementing the Paris Convention as far as Patents
+are Concerned,” there was an eagerness to conclude a new Treaty which was limited to cover matters
+concerning the formality requirements of national and regional patent procedures. This pushing ahead has
+resulted in the introduction of weaknesses into the PLT. In particular, the achievement of the goal of the
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+161
+
+Cees Mulder
+
+Patent Law Treaty
+
+PLT to “streamline and harmonize” formal requirements was often disregarded if a negotiating party
+insisted to have certain measures implemented into the PLT, which reﬂected peculiarities of its national
+law. This has resulted in a Treaty which allows too much freedom when a Contracting Party implements
+the basic requirements of the PLT into its national or regional patent law.
+
+Basic Features of the PLT
+In a number of documents, the main features of the PLT are described.17,18,19 In the following paragraphs a
+condensed overview of these principle features is presented.
+
+Filing Date Requirements
+The accordance of a date of ﬁling is essential to deciding who has priority for the grant of a patent in each
+country and to determining prior art and the patentability of the invention. It is also relevant to claiming a
+right of priority under the Paris Convention as well as to the calculation of the term of patent protection.
+Article 5 PLT sets a maximum and minimum set of requirements for obtaining a ﬁling date and
+procedures to avoid loss of the ﬁling date because of a failure to comply with other formality requirements.
+In principle, the Ofﬁce of any PLT Contracting Party is obliged to accord a ﬁling date to an application on
+the basis of only three elements. These requirements are (Article 5(1)(a) PLT):
+
+(i) an indication that what is ﬁled is intended to be a patent application;
+(ii) indications identifying the applicant or allowing the applicant to be contacted; and
+(iii) a part which on the face of it appears to be a description.
+
+No additional element can be required for a ﬁling date to be accorded. In particular, a PLT Contracting
+Party cannot require the presence of one or more claims as a ﬁling date requirement. In addition, an
+applicant can ﬁle the description in any language (Article 5(2)(b) PLT), or replace the description and/or
+drawings by a reference to a previously ﬁled application (Article 5(7) PLT). A PLT Contracting Party
+may, for the purposes of the ﬁling date, accept a drawing as the element referred to Article 5(1)(a)(iii) PLT
+(Article 5(1)(b) PLT).
+
+The PLT also provides rules to establish a ﬁling date where a part of the description or drawing is
+missing from the initially ﬁled application. Normally, the ﬁling of a missing part results in the accordance
+of a later ﬁling date, i.e., the ﬁling date becomes the date on which the missing part or missing drawing is
+ﬁled (Article 5(6)(a) PLT). However, if the application claims priority of an earlier application and the
+missing part or drawing is “completely contained” in the earlier application, the originally accorded ﬁling
+date will be maintained (Article 5(6)(b) PLT).
+
+Standardized Application and Forms
+A main feature of the PLT is that it provides standardized formality requirements for patent applications,
+which are ﬁled with a national or regional patent Ofﬁce. Instead of deﬁning these requirements again or
+differently in the PLT, it was decided to incorporate by reference the provisions of the PCT and its
+Regulations, wherever appropriate, into the PLT (Article 6(1) PLT). In addition, the PLT provides for the
+establishment of several Model International Forms that have to be accepted by all Ofﬁces of PLT
+Contracting Parties (Article 6(2) and 8(3) PLT).
+
+Simplified Procedures Before the Office
+“Simpliﬁcation” is one of the keywords for the PLT. The PLT simpliﬁes a number of procedures before the
+Ofﬁce of PLT Contracting Parties during the processing of a patent application, as well as for the
+maintenance of a patent.
+
+162
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+Patent Law Treaty
+
+Cees Mulder
+
+The PLT allows an Ofﬁce of a PLT Contracting Party to require an applicant or owner to appoint a
+representative for the purposes of any procedure before the Ofﬁce, except for certain procedures (Article 7
+(2) PLT). In addition, an Ofﬁce may only require the applicant to ﬁle evidence in support of the formal
+contents of an application, declarations of priority or the authentication of translations when the Ofﬁce has
+a reasonable doubt as to the truthfulness of the indications or the accuracy of the translation submitted by
+the applicant (Article 6(6) PLT). As regards signature, a PLT Contracting Party may require evidence only
+where the Ofﬁce has a reasonable doubt as to its authenticity (Article 8(4)(c) PLT).
+
+A PLT Contracting Party may not require the applicant to ﬁle a copy or a certiﬁed copy of the earlier
+application or the previously ﬁled application if such earlier application or previously ﬁled application has
+been ﬁled with the Ofﬁce of that Contracting Party (Rule 4(3) PLT). The same applies to cases where the
+Ofﬁce could obtain the copy or the certiﬁcation from other Ofﬁces through a digital library, which is
+accepted by that Ofﬁce for that purpose (Rule 4(3) PLT). In addition, an Ofﬁce may require a translation of
+the earlier application only where the validity of the priority claim is relevant to the determination of
+whether the invention concerned is patentable (Rule 4(4) PLT).
+
+Avoiding Loss of Rights
+Apart from the ﬁling date requirements, one of the principal features of the PLT is that it prescribes
+procedures for the avoidance of unintentional loss of rights as a result of failure to comply with formality
+requirements. It can be regarded as a breakthrough of the PLT that for all these measures of relief, time
+limits with a duration of at least two months are speciﬁed.
+
+Relief in Respect of Time Limits
+In principle, the PLT provides three types of relief procedures. The ﬁrst is an extension of the time limit
+(for at least 2 months) where an applicant or owner requests the extension prior to the expiration of
+the time limit (Article 11(1)(i) PLT). The second is an extension of the time limit (again for at least 2
+months) where an applicant or owner requests the extension after the expiration of the unobserved time
+limit (Article 11(1)(ii) PLT). The third remedy is the provision of continued processing (Article 11(2)
+PLT).
+
+A PLT Contracting Party is not obliged to provide the ﬁrst type of extension (extension prior to the
+expiration of the time limit). However, it is obliged to provide either the second type of extension
+(extension after the expiration of the time limit) or continued processing. Relief under these provisions is
+limited to non-compliance with a time limit ﬁxed by the Ofﬁce for an action in a procedure before the
+Ofﬁce; it does not apply to time limits the duration of which is ﬁxed in the law.
+
+Reinstatement of Rights
+Another safeguard provision established by the PLT is the provision of reinstatement of rights if an
+applicant or owner fails to meet a time limit and, as a consequence, loses his rights with respect to an
+application or patent unintentionally or in spite of all due care required by the circumstances (Article 12
+PLT). The time limit to request reinstatement of rights shall not be less than 2 months from the date on
+which the reason of the non-compliance with the time limit is removed, or not less than 12 months from the
+expiration of the missed time limit, whichever is shorter (Article 13(2) PLT). In contrast to the relief in
+respect of time limits, reinstatement of rights is applicable to all time limits, including time limits of which
+the duration is ﬁxed in the law.
+
+Correction and Addition of a Priority Claim
+The PLT provides for the possibility of addition and correction of priority claims for national/regional
+applications (Article 13 PLT). This provision was copied into the PLT from the already existing provision
+in PCT Rule 26bis.1.20
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+163
+
+Cees Mulder
+
+Patent Law Treaty
+
+Restoration of the Priority Right
+Another safeguard provision established by the PLT is the provision of restoration of the priority right.
+There are two cases to be considered. In the ﬁrst case, restoration of the priority right must be provided
+where an application is ﬁled after the expiration of the 12-month priority period if the failure to claim
+priority within the Paris Convention period occurred in spite of all due care taken by the applicant or was
+unintentional (Article 13(2) PLT). The request for restoration including the ﬁling of the application must
+be made within a time limit of at least 2 months from the date on which the priority period expired.
+
+In the second case, restoration of the priority right must be provided where an applicant cannot submit
+a copy of an earlier application within 16 months from the priority date because of a delay in the Ofﬁce
+with which the earlier application was ﬁled (Article 13(3) PLT).
+
+Paper and Electronic Communications
+One of the goals of the PLT is to facilitate the implementation of electronic ﬁling of applications and other
+communications while, at the same time, not excluding any users from the beneﬁts of the patent system, if
+they are not ready to apply electronic ﬁling.
+
+In principle, a PLT Contracting Party may,
+
+the
+implementation of full electronic ﬁling) with certain exceptions (Rule 8 PLT). These exceptions are the
+obligation on all Ofﬁces to accord a ﬁling date for a paper application (Article 5(1) PLT), and to accept the
+ﬁling of communications on paper for the purpose of meeting a time limit (Article 8(1)(d) PLT).
+
+if it so wishes, exclude paper ﬁling (i.e.
+
+Methodology
+
+The research methodology used in this Article mainly consists of an analysis of the documents in relation
+to the negotiation history of the PLT. In particular, the reports and preparatory documents of the sessions
+of the Committee of Experts on the Patent Law Treaty in the period from December 1995 to
+December 1997, and the sessions of the SCP in the period from June 1998 to September 1999 have been
+studied.21,22 In addition, the Summary Minutes of the Main Committees during the Diplomatic Conference
+for the Adoption of the Patent Law Treaty held in Geneva in the period May-June 2000 have been
+studied.23 Where necessary, the documents in relation to the 1991 Diplomatic Conference for the adoption
+of the “Treaty Supplementing the Paris Convention as far as Patents are Concerned” in The Hague were
+taken into account.24
+
+The majority of the Travaux Pre´ paratoires of the PLT is not directly available to the public. Some of
+the later preparatory documents are accessible and downloadable from web pages of the WIPO. However,
+the earlier versions of the “Draft PLT Articles and Draft Regulations” including the corresponding
+“Notes,” “Reports” and other related documents can be accessed by requesting the WIPO to make them
+available.25
+
+Information has also been gathered by speaking with representatives of the Patent Law Section and
+the Patent Cooperation Treaty Legal Division of the WIPO and with representatives of the Directorate-
+General Legal and International Affairs of the European Patent Ofﬁce. These conversations have been
+conducted off the record following the request of the persons involved not to be quoted in an explicit
+manner.
+
+Negotiation History of the PLT
+
+Five sessions of the Committee of Experts on the Patent Law Treaty in the period from December 1995 to
+December 1997,26 and three sessions of the SCP in the period from June 1998 to September 1999,27 were
+held in Geneva to come to the “Basic Proposal” of the PLT and its Regulations which was presented to the
+
+164
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+Patent Law Treaty
+
+Cees Mulder
+
+Diplomatic Conference for the Adoption of the Patent Law Treaty in Geneva from May 11 to June 2,
+2000.28,29
+
+As indicated above, the original negotiations to come to a “Patent Law Treaty” (ofﬁcially addressed
+as the “Treaty Supplementing the Paris Convention as far as Patents are Concerned”;30 also addressed as
+the “Patent Harmonization Treaty”) that would harmonize formal as well as substantive patent law
+stranded in January 1994 when the United States declared that it was unable to continue the discussions
+because of a lack of domestic support.31
+
+In 1995, the WIPO initiated another approach for promoting harmonization whereby only matters
+concerning the formality requirements of national and regional patent procedures would be
+covered.32,33,34 Convened by the Director General following decisions made by the General Assembly
+of WIPO and the Assembly of the Paris Union in their meetings of September/October 1995,35,36 the
+Committee of Experts on the Patent Law Treaty held its ﬁrst session in Geneva in December 1995. The
+meetings of the Committee were attended by representatives of States members of WIPO and/or the Paris
+Union. Representatives of the European Communities, the European Patent Ofﬁce, the Organization of
+African Unity and the World Trade Organization as well as representatives of numerous non-
+governmental organizations took part in the sessions in an observer capacity.
+
+During the meetings of the Committee of Experts on the Patent Law Treaty the delegation of the
+United States repeated time after time “that it was still not in a position to discuss substantive patent law
+harmonization.”37 In addition, the delegation continuously expressed its concern about any requirement
+present in or introduced into the Draft PLT that could be regarded as a substantive requirement. By way of
+example, in the Draft PLT as presented at the second session of Committee of Experts on the Patent Law
+Treaty, there was a new Article on unity of invention (Article 6 and corresponding implementing Rule 6)
+which was regarded as “not appropriate for inclusion in this Treaty directed to formalities” as observed by
+the delegation of the United States.38 In the Draft PLT as presented at the fourth session of the Committee
+of Experts on the Patent Law Treaty the Article on “unity of invention” was deleted.
+
+In March 1998, the Assemblies of the Member States of WIPO and the Unions administered by the
+WIPO approved a proposal for the establishment of “Standing Committees.”39,40 The SCP became the
+successor of the Committee of Experts on the Patent Law Treaty. Because considerable progress had
+already been made, three sessions of the SCP (in June 1998, April 1999 and September 1999) were
+sufﬁcient to convene a Diplomatic Conference in Geneva to conclude the PLT and the Regulations under
+the PLT (May 11 to June 2, 2000).
+
+In this Article, aspects of the negotiation history will be described with respect to three core issues of
+
+the PLT (parts of this Article were incorporated in Mulder, 2011b). These are:
+
+(1) Requirements for the accordance of a ﬁling date (Article 5 PLT). The focus will be on the following
+
+three issues:
+
+ The basic requirements for according a ﬁling date (Article 5(1) PLT);
+ The ﬁling date where a missing part of the description or a missing drawing is ﬁled (Article 5(6)
+ The ﬁling of an application by reference to a previously ﬁled application (Article 5(7) PLT).
+
+PLT);
+
+(2) Relief in respect of time limits including continued processing (Article 11 PLT) and reinstatement of
+
+rights after a ﬁnding of due care or unintentionality by the Ofﬁce (Article12 PLT).
+
+(3) Restoration of the priority right (Article 13(2) and (3) PLT).
+
+None of the above subjects was present in the Draft PLT put before the Committee of Experts on the
+Patent Law Treaty at its ﬁrst session in December 1995, although some of the later added provisions were
+modeled after texts in the Basic Proposal submitted to the 1991 Diplomatic Conference in The Hague.41
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+165
+
+Cees Mulder
+
+Patent Law Treaty
+
+Filing Date Requirements
+
+Committee of Experts on the Patent Law Treaty
+In the “Draft PLT and Draft Regulations” prepared by the International Bureau and presented at the ﬁrst
+session of the Committee of Experts on the Patent Law Treaty there was no article on requirements for
+accordance of a ﬁling date.42 This was also noted in the corresponding “Notes” prepared by the
+International Bureau.43 In the “Report” adopted by the Committee of Experts, many delegations favored,
+amongst other things, the inclusion in the PLT of provisions relating to requirements for the accordance of
+a ﬁling date.44
+
+As a consequence a ﬁrst draft of an Article 3 PLT “Filing Date” was presented before the Committee
+on its second session.45 The text was modeled after Article 8 of the Basic Proposal submitted to the 1991
+Diplomatic Conference in relation to the “Patent Harmonization Treaty.”46 The ﬁling date requirements
+contained 4 items:
+
+Article 3(1) (Requirements)
+
+(a) The ﬁling date of the application shall be the date of receipt by the Ofﬁce of a communication
+
+containing the following elements:
+
+(i) an express or implicit indication to the effect that the communication is an application for a
+
+patent;
+
+(ii) indications allowing the identity of the applicant to be established;
+(iii) a description;
+(iv) if the description is not in the language or in one of the languages of or admitted by the Ofﬁce, an
+
+indication to the effect that the application contains a description.
+
+In the corresponding “Notes” prepared by the International Bureau, it was remarked that Article 3 sets
+an international standard for the granting of a ﬁling date. In that respect, Article 3 is different from other
+provisions of the Treaty, which establish a maximum list of allowed requirements.47 In the “Report”
+adopted by the Committee of Experts, many delegations noted with satisfaction that a provision on the
+ﬁling date had been included.48 Several delegations proposed that the payment of a ﬁling fee should be a
+requirement for a ﬁling date to be accorded; this proposal was rejected by a majority of delegations.49
+Several delegations also suggested that the inclusion of claims should be a requirement for a ﬁling date to
+be accorded. This suggestion was opposed by a majority of delegations, which were of the view that,
+although claims were necessary before a patent could be granted, it was not necessary to furnish them at
+the date of ﬁling.50
+
+In the third session of the Committee of Experts on the Patent Law Treaty, Article 3 PLT on “Filing
+Date” was renumbered to become Article 2 PLT.51 In addition, a new paragraph (4) was added to the
+Article allowing an applicant to replace the description and drawings by reference to another application
+from which priority is claimed; in addition, a certiﬁed copy of the earlier application must be furnished to
+the Ofﬁce within a prescribed time limit. This provision was modeled after Article 8(4) of the Basic
+Proposal submitted to the 1991 Diplomatic Conference in relation to the “Patent Harmonization Treaty.”52
+In the subsequent “Report” adopted by the Committee of Experts, it was agreed that the paragraph on
+“ﬁling by reference” would be maintained.53 Several delegations suggested that the applicant should be
+required to furnish details concerning the date and country of ﬁling of the previously ﬁled application or
+even that the title of that application should be indicated.54 It was also suggested that the provision should
+not be restricted to those applications in respect of which priority is claimed.55 The delegation of the
+United States of America suggested that the paragraph should provide for the electronic exchange of
+documents between Ofﬁces in place of submitting certiﬁed copies.56 The International Bureau explained
+
+166
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+Patent Law Treaty
+
+Cees Mulder
+
+that if the required certiﬁed copy of the previously ﬁled application were not ﬁled, the application
+containing a reference to that previously ﬁled application would be considered as not having been ﬁled.57
+Eventually, many suggestions were honored in the later versions of the PLT. In addition, the regulatory
+requirements relating to “ﬁling by reference to a previously ﬁled application” were moved to the
+Regulations under the PLT and, due to lack of agreement between the delegations, contain a puzzling mix
+of compulsory requirements (“shall”) and optional requirements which may be implemented as
+compulsory (“may require”) by a PLT Contracting Party (see Rule 2(5) PLT: Requirements under Article
+5(7)(a) PLT). The pile of optional requirements which may be implemented as compulsory by a PLT
+Contracting Party, allows too much freedom when implementing requirements of the PLT into its national
+and regional patent laws and is contrary to the aim of harmonization and streamlining as advocated by the
+PLT.
+
+In the meantime, the WIPO General Assembly and the Assembly of the Paris Union58 considering a
+Memorandum by the Director General in respect of Matters Concerning the Patent Law Treaty, decided,
+amongst others, to include ﬁling date provisions in the draft PLT.59
+
+In the fourth session of the Committee of Experts on the Patent Law Treaty, Article 2 PLT on “Filing
+Date” was renumbered to become Article 4 PLT.60 The formulation “a description” in item (iii) of Article
+4(1)(a) PLT of the requirements for accordance of a ﬁling date was broadened to read: “a part which on the
+face of it appears to be a description,” this formulation is identical to the one in PCT Article 11(1)(iii)(d).
+In addition, in item ii of Article 4(1)(a) PLT, apart from “indications allowing the identity of the applicant
+… to be established,” a formulation was added “or allowing the applicant … to be contacted by the
+Ofﬁce.” For example, where the application indicates the address without any name and there is only one
+resident at that address, the requirement of Article 4(1)(a)(ii) PLT would be regarded as having been
+complied with.
+
+In the Draft PLT, a new item (b) was added to Article 4(3) PLT (subsequent compliance with
+requirements) in relation to the late ﬁling of drawings. If the applicant ﬁles missing drawings later on, the
+ﬁling date would become the date on which the Ofﬁce has received those drawings. Where these “later
+furnished drawings do not contain new matter” the original ﬁling date may be retained. In the “Report,” the
+International Bureau commented that the standard applied by a PLT Contracting Party in determining
+whether later furnished drawings contained “new matter” was a matter of substance.61
+
+In the ﬁfth session of the Committee of Experts on the Patent Law Treaty there were no substantial
+changes in Article 4 PLT on “Filing Date”.62 A new item (c) was added to Article 4(3) PLT in relation to
+missing drawings and missing parts of the description, a provision according to which, where priority is
+claimed in the application, the contents of the priority document has to be taken into account in
+establishing whether correction by way of furnishing a missing part of the description or missing drawing
+should be allowed without loss of the initial ﬁling date.63
+
+Standing Committee on the Law of Patents
+In the “Draft PLT and Draft Regulations” prepared by the International Bureau and presented at the ﬁrst
+session of the Standing Committee on the Law of Patents, Article 4(1)(a) PLT was restricted to three
+items:64
+
+Article 4(1) (Elements of Application)
+
+(a) Subject to paragraphs (2) to (5), a Contracting Party shall provide that the ﬁling date of an
+application shall be the date on which its Ofﬁce has received all of the following elements, ﬁled by
+means permitted by the Ofﬁce:
+
+(i) an express or implicit indication to the effect that the elements are intended to be an application;
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+167
+
+Cees Mulder
+
+Patent Law Treaty
+
+(ii) indications allowing the identity of the applicant to be established or allowing the applicant to be
+
+contacted by the Ofﬁce;
+
+(iii) a part which on the face of it appears to be a description;
+
+The above formulations of the ﬁling date requirements are already relatively close to the texts adopted
+
+during the Diplomatic Conference.
+
+In the “Draft PLT and Draft Regulations” presented at the ﬁrst session of the Standing Committee on
+the Law of Patents, the provision permitting an applicant to replace the description and any drawings in an
+application by reference to a previously ﬁled application in respect of the same invention was no longer
+restricted to references to applications from which priority is claimed, but broadened to also cover
+references to any previously ﬁled application by the same applicant or his predecessor in title (Article 4(7)
+PLT).65
+
+In the “Draft PLT and Draft Regulations” prepared by the International Bureau and presented at the
+second session of the Standing Committee on the Law of Patents, there were no substantial changes in
+Article 4 PLT on “Filing Date”.66 Following a proposal by the delegation of Australia with respect to the
+paragraph in Article 4 PLT in relation to the ﬁling of missing parts of the description and missing
+drawings, and suggestions by the International Bureau based on this proposal, the formulation “the
+missing part of the description and the missing drawing … do not contain new matter” in paragraph (5) of
+Article 4 PLT, was replaced by “the missing part of the description or missing drawing be completely
+contained in the earlier application”; this formulation was incorporated in a new paragraph of the Rule
+regulating the details concerning the ﬁling date requirements under Article 4 PLT.67,68
+
+In the “Draft PLT and Draft Regulations” prepared by the International Bureau and presented at the
+third session of the Standing Committee on the Law of Patents, Article 4 PLT on “Filing Date” and
+implementing Rule 2 PLT were “framed” indicating that the Article and Rule had been adopted by the
+Standing Committee.69 Two amendments are worth mentioning. The ﬁrst one is that a new item was added
+to the requirements of Rule 2(4) PLT in relation to the situation where the applicant ﬁles missing parts of the
+description or missing drawings based on an earlier application from which priority is claimed (Article 4(6)
+(b) PLT), i.e. that “the application, at the time of ﬁling, contained an indication that the contents of the earlier
+application were incorporated by reference in the application”.70 The second one is that in Article 4(6)(b)
+PLT relating to the situation where the applicant ﬁles missing parts of the description or missing drawings
+based on an earlier application from which priority is claimed, the words “at the time of ﬁling” were replaced
+by the words “at the date on which one or more elements referred to in Article 4(1)(a) were ﬁrst received by
+the Ofﬁce”.71 It is noted that all requirements in Rule 2(4) PLT are of the kind “may require”: this allows a
+PLT Contracting Party to select its own mix of compulsory requirements when implementing the ﬁling of
+missing parts of the description or missing drawings based on an earlier application. This freedom of choice
+is contrary to the aim of the PLT to streamline and harmonize formal requirements.
+
+Diplomatic Conference for the Adoption of the PLT
+In the Draft Proposal submitted to the Diplomatic Conference for the Adoption of the Patent Law Treaty
+submitted by the Director General of WIPO, Article 4 PLT on “Filing Date” was renumbered to become
+Article 5 PLT.72
+
+Issues relevant for the Draft PLT were discussed at a session of the PCT Assembly held in
+March 2000; these issues were summarized in a document submitted for consideration to the PLT
+Diplomatic Conference.73 In relation to the ﬁling date requirements, it was suggested that a discussion
+should take place at the Diplomatic Conference on the question of amending draft Article 5(1) PLT,
+perhaps in a general way or subject to future amendments of the Regulations, in order to allow applicants
+to obtain a ﬁling date using future technologies.74
+
+168
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+Patent Law Treaty
+
+Cees Mulder
+
+During the meetings at the Diplomatic Conference for the Adoption of the Patent Law Treaty, the
+ﬁling date requirements were extensively discussed.75,76 Of course, the issue of adding a fourth item: “(iv)
+a part which on the face appears to a claim or claims” was brought up and rejected (again).77
+
+It was observed by a representative of the WIPO, that PCT Article 11(1) was also relevant as the PCT
+was the starting point for the provision on the ﬁling date in Article 5(1) PLT.78 The drafting of the PLT
+had closely followed the PCT, although, in some cases, it had been deemed that the PLT should be more
+user-friendly. In PCT Article 11(1), there are seven requirements for according a ﬁling date under
+the PCT. Two of those requirements would not apply to national ﬁlings, because they dealt with
+residency requirements and the designation of a PLT Contracting State. Of the remaining ﬁve, three
+corresponded to items in the PLT. There were two remaining items in the ﬁling date requirements for the
+PCT where the PLT was more liberal, namely the inclusion of claims and the language requirements.79 A
+Representative of the European Patent Organization said that Article 5(1) PLT was perhaps the most
+important provision in the draft PLT, as it established a uniform worldwide standard; any possible
+deviation from this standard, including the possibility for national Ofﬁces to require a fee, should
+be avoided.80 Eventually, the three items of Article 5(1)(a) PLT for establishing a ﬁling date were
+maintained as proposed.
+
+In addition, the language requirements in Article 5(2) PLT were adopted in relation to the languages
+in which the three items of Article 5(1)(a) PLT can be ﬁled.81 It was observed by a representative of the
+WIPO that the possibility of ﬁling the description of an application in any language was one of the key
+issues of the draft PLT.82
+
+With respect to Article 5(5) PLT relating to the notiﬁcation concerning a missing part of the
+description or a missing drawing, a representative of the WIPO emphasized that an Ofﬁce would not be
+required to make any special check for missing descriptions or drawings; also, Article 5(5) PLT did not
+apply where the Ofﬁce discovered the omission in a different procedure, for example in the course of
+substantive examination.83 With regard to Article 5(6) PLT relating to the situation where the missing part
+of the description or the missing drawing was ﬁled subsequently, the representative of the WIPO pointed
+out that the ﬁling date would, under Article 5(6)(a) PLT, be the date on which the missing part of the
+description or missing drawing was received by the Ofﬁce, whereas Article 5(6)(b) and (c) PLT addressed
+two situations in which the earlier date of receipt of the incomplete application could be preserved as the
+ﬁling date.84 Article 5(5) and (6) PLT were meant to give an applicant the opportunity to ﬁle missing parts
+as quickly as possible in order to minimize the loss of ﬁling date.85
+
+With respect to Article 5(7) PLT allowing an applicant to replace the description or the drawings by a
+reference to an earlier application, a representative of the WIPO emphasized that it is a very user-friendly
+provision.86 The representative of the Institute of Professional Representatives before the European
+Patent Ofﬁce (epi) said that ﬁling by reference would particularly be beneﬁcial for small applicants who
+had to ﬁle in the last minute before the expiration of the priority period, and who were not interested in
+applying in a great number of countries, and therefore did not want to incur the cost of a PCT application.87
+
+Conclusion
+From the above overview of the negotiations, it can be concluded that Article 5 PLT is a breakthrough in
+that it simpliﬁes and minimizes application requirements for obtaining a ﬁling date. However, even the
+text of article comprises at least two formulations specifying optional requirements, which may be
+implemented as compulsory (“may require”) by a PLT Contracting Party. Furthermore, Rule 2 PLT
+implementing Article 5 PLT includes a complicated mix of “shall” and “may require” requirements. The
+majority of the latter requirements results from speciﬁc wishes of negotiating parties to insert a certain
+optional requirement into the draft Treaty. The inclusion of “may require” formulations should have been
+avoided or at least minimized because it introduces too much freedom for PLT Contracting Parties when
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+169
+
+Cees Mulder
+
+Patent Law Treaty
+
+implementing requirements of the PLT into their national and regional patent laws. This abundance of
+“may require” formulations is contrary to the aim of harmonization and streamlining of the PLT.
+
+Relief in Respect of Time Limits
+
+Committee of Experts on the Patent Law Treaty
+In the “Draft PLT and Draft Regulations” prepared by the International Bureau and presented at the ﬁrst
+session of the Committee of Experts on the Patent Law Treaty, there was no article on relief in respect of
+time limits.88 In the “Report” adopted by the Committee of Experts, a number of delegations favored,
+amongst other things, the inclusion in the PLT of provisions relating to the extension of speciﬁc time
+limits.89
+
+In the “Draft PLT and Draft Regulations” prepared by the International Bureau and presented at the
+third session of the Committee of Experts on the Patent Law Treaty, there was a new Article 12 PLT
+“Extension of a time limit”.90 Article 12 PLT sets a minimum of rights a Contracting Party shall extend to
+an applicant or owner in respect of a request for an extension of a time limit. It is to be noted that this
+Article deals with the time limit for an action before the Ofﬁce, and not the time limit before a court.91
+Article 12(1) PLT addresses the situation in which an applicant or owner requests the extension of a time
+limit before that time limit has expired. However, in accordance with subparagraph (c), the term does not
+include the submission of a priority claim for which a new Article 13 PLT (belated claiming of priority)
+was introduced. An Ofﬁce would not be permitted to impose any payment of a fee for the ﬁrst extension of
+the time limit.92 Article 12(2) PLT addresses the situation in which an applicant or owner requests the
+extension of a time limit after that time limit has expired. Subparagraph (b) is intended to prevent that an
+applicant or owner loses rights attached to his application or other communication because of a failure to
+meet a time limit if he has taken all due care required by the circumstances to comply with the time limit.93
+In the meantime, the WIPO General Assembly and the Assembly of the Paris Union (meeting in
+September/October 1996) considering a Memorandum by the Director General in respect of Matters
+Concerning the Patent Law Treaty, decided, amongst others, to include provisions relating to restoration
+of rights where a time limit has been missed (including “further processing”) and extension of time limits
+which have not yet expired but whose extension has been requested by the party concerned.94
+
+In the “Report” adopted by the Committee of Experts of the third session, many delegations and
+representatives of intergovernmental and non-governmental organizations supported the principle of
+harmonization of extension of time limits expressed in Article 12 PLT.95 However, several delegations
+expressed the view that it was necessary to differentiate between time limits established by law or
+convention and those established by the Ofﬁce. By way of example, several delegations observed that the
+time limit for the payment of fees for the maintenance of industrial property rights should not be extensible
+beyond what was prescribed by Article 5bis of the Paris Convention.96
+
+In the “Draft PLT and Draft Regulations” prepared by the International Bureau and presented at the
+fourth session of the Committee of Experts on the Patent Law Treaty, Article 12 PLT was renumbered to
+become Article 13 PLT and new Article 14 PLT was introduced.97 Article 13 PLT sets a minimum of
+rights a PLT Contracting Party must extend to an applicant or owner in respect of a request for an extension
+of a time limit established by the Ofﬁce whereas the extension of time limits established by national
+legislation or regional treaty is regulated by Article 14 PLT.98 Article 13(1) PLT addresses the situation in
+which an applicant or owner requests the extension of a time limit established by the Ofﬁce before that
+time limit has expired whereas Article 13(2) PLT addresses the situation in which an applicant or owner
+requests the extension of a time limit established by the Ofﬁce after that time limit has expired.99 Article
+14 PLT sets a minimum of rights a PLT Contracting Party must extend to an applicant or owner concerned
+in respect of a request for an extension of a time limit established by national legislation or under a treaty
+providing for the grant of regional patents. Except in respect of intervening rights (Article 14(5) PLT), any
+
+170
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+Patent Law Treaty
+
+Cees Mulder
+
+PLT Contracting Party would be free to be more liberal in granting such an extension. As in the case of
+Article 13 PLT, it was be noted that Article 14 PLT deals with the time limit for an action before the Ofﬁce,
+and not the time limit before a court.100
+
+In the “Report” adopted by the Committee of Experts it was agreed that Article 13(2) PLT related to
+restoration, not extension, and should be transferred to Article 14 PLT.101 In addition, a proposal by the
+delegation of the United States of America that the concept “in spite of due care required by the
+circumstances” be replaced by the concept “the failure to comply was unintentional” was approved.102
+Relief in the form of “further processing” or restoration of rights may be available in the case where
+the time limit to request extension of a time limit has expired.103 In particular, Article 14(1)(a) PLT was
+introduced following the approval by the previous session of the Committee of Experts that a proposal
+providing for “further processing” should generally be permitted on the mere basis of a request and the
+payment of a fee.104 Further processing under this provision would be restricted to the cases in which an
+application is to be, or has been, refused or considered withdrawn or abandoned following failure to
+comply with a time limit ﬁxed by the Ofﬁce for an action before the Ofﬁce.105
+
+In the “Report” adopted by the Committee of Experts, the Representative of the European Patent
+Organization explained that it was intended to extend further processing under the European Patent
+Convention (in view of the EPC 2000 Revision) to non-compliance with time limits established under that
+Convention.106 Accordingly, it was agreed that the International Bureau would revise the corresponding
+provisions.
+
+Standing Committee on the Law of Patents
+In the “Draft PLT and Draft Regulations” prepared by the International Bureau and presented at the ﬁrst
+session of the Standing Committee on the Law of Patents, Article 13 PLT (“Extension of a time limit ﬁxed
+by the Ofﬁce”) was restricted to requests for extension of a time limit ﬁxed by the Ofﬁce for an action in a
+procedure before the Ofﬁce prior to the expiration of that time limit.107 Article 13(1) PLT provides for the
+extension of a time limit as of right; in particular, the applicant or owner concerned could not be required to
+state the grounds on which the request is based.108 Article 14 PLT provides that “further processing” of an
+application should generally be permitted on the mere basis of a request and the payment of a fee.109 In
+contrast to restoration of rights, a Contracting Party would not be permitted to restrict further processing to
+those cases in which the failure to comply with the time limit occurred in spite of all due care or was
+unintentional, so that there would be no requirement for a declaration or other evidence in this respect.110
+Article 15 PLT provides for the restoration of rights in respect of an application or patent following
+failure to comply with a time limit for an action before the Ofﬁce. However, restoration would be restricted
+to those situations in which the failure of the time limit occurred in spite of all due care required by the
+circumstances or was unintentional (Article 15(1)(iii) PLT).111
+
+In the “Draft PLT and Draft Regulations” prepared by the International Bureau and presented at the
+second session of the Standing Committee on the Law of Patents, Articles 13, 14, 15 and 16 PLT were
+renumbered to become Articles 10, 11, 12 and 13 PLT, respectively.112 In the corresponding “Notes” the
+distinction between Articles 10, 11, 12 and 13 PLT was explained by the International Bureau:113
+ Article 10 PLT provides for the extension of a time limit as of right, where the request for such extension
+
+is made before the expiration of that time limit. It is limited to the extension of time limits ﬁxed by the
+Ofﬁce for an action in a procedure before the Ofﬁce and is subject only to the payment of a fee.
+Accordingly, the applicant or owner concerned could not be required to state the grounds on which the
+request under Article 10 PLT is based.114
+ In contrast, Articles 11 and 12 PLT apply where the request for relief is made after the expiration of the
+
+time limit concerned. Article 11 PLT provides for the Ofﬁce to consider the time limit to have been
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+171
+
+Cees Mulder
+
+Patent Law Treaty
+
+complied with, and to continue processing and re-instate any rights with respect to the application (or
+patent), subject only to the payment of a fee, provided that the request is ﬁled, and the requirements in
+respect of which the time limit applied are complied with in due time.115 As in the case of Article 10
+PLT, Article 11 PLT is limited to the extension of time limits ﬁxed by the Ofﬁce for an action in a
+procedure before the Ofﬁce.
+
+ As in the case of Article 11, Article 12 PLT provides for the re-instatement of rights where the request is
+
+made after the expiration of the time limits concerned. In contrast to Article 11 PLT, Article 12 PLT is
+not restricted to time limits ﬁxed by the Ofﬁce but applies to any time limit in respect of which failure to
+comply has the direct consequence of causing a loss of rights with respect to the application or patent
+concerned.116
+ Article 13 PLT provides for the addition of a priority claim (Article 13(1) PLT). In addition, Article 13
+
+PLT provides for the restoration of a priority claim in the case of the delayed ﬁling of the subsequent
+application (Article 13(2) PLT) or the failure to furnish a copy of the earlier application within the
+prescribed time limit (Article 13(3) PLT). In order to avoid the possibility of double relief, the time
+limits referred to in Article 13(1), (2) and (3)(a) PLT are expressly excluded in the exceptions under
+Articles 10 to 12 PLT.117,115,116,117
+
+Each of Articles 10 to 13 PLT sets the maximum standard, which a PLT Contracting Party may apply.
+A PLT Contracting Party would be permitted, but is not obliged, to dispense with any requirement under
+these Articles, or to apply any requirement or provide any relief which, from the viewpoint of applicants,
+owners or other interested persons, is more favorable than the requirements or relief prescribed in these
+Articles and associated Regulations.118
+
+In the “Draft PLT and Draft Regulations” prepared by the International Bureau and presented at the
+third session of the Standing Committee on the Law of Patents, Article 10 PLT (“relief in respect of the
+non-compliance with a time limit”) was reformulated to provide for relief in respect of the non-
+compliance with a time limit ﬁxed by the Ofﬁce with regard to an application or a patent, without
+specifying the form of relief.119 In particular, Article 10 PLT does not distinguish between extensions of
+time limits ﬁled after the expiration of the un-extended time limit and remedies like continued processing,
+which have the effect to reinstate the rights of the applicant or owner. It only obliges PLT Contracting
+Parties to provide for at least one relief for applicants or owners in the case of a missed time limit, subject
+only to a request and the payment of a fee.120.
+
+In the “Report” of the third session of the Standing Committee on the Law of Patents, the
+basic concept of draft Article 10 PLT providing certain relief without specifying its mechanism was
+supported in general.121 However, some delegations preferred to accommodate both requests ﬁled
+before and after the expiration of the time limit. Based on the discussion, the International Bureau
+presented a revised text of Article 10 PLT for consideration by the Committee, which reads as
+follows:122
+
+Article 10(1) (Extension of Time Limits)
+A Contracting Party may provide for the extension, for the period prescribed in the Regulations, of a
+time limit ﬁxed by the Ofﬁce for an action in a procedure before the Ofﬁce in respect of an application or a
+patent, if a request to that effect is made to the Ofﬁce in accordance with the requirements prescribed in
+the Regulations, and the request is made, at the option of the Contracting Party:
+
+(a) prior to the expiration of the time limit; or
+(b) after the expiration of the time limit, and within the time limit prescribed in the Regulations.
+
+Article 10(2) (Continued Processing)
+
+172
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+Patent Law Treaty
+
+Cees Mulder
+
+Where an applicant or owner has failed to comply with a time limit ﬁxed by the Ofﬁce of a Contracting
+Party for an action in a procedure before the Ofﬁce in respect of an application or a patent, and that
+Contracting Party does not provide for extension of a time limit under paragraph (1)(ii), the Contracting
+Party shall (notify the applicant or owner, and) provide for continued processing with respect to the
+application or patent and, if necessary, re-instatement of the rights of the applicant or owner with respect
+to that application or patent, if:
+
+(i) a request to that effect is made to the Ofﬁce in accordance with the requirements prescribed in the
+
+Regulations;
+
+(ii) the request is made, and all of the requirements in respect of which the time limit for the action
+
+concerned applied are complied with, within the time limit prescribed in the Regulations.
+
+The above text of Article 10 PLT is a combination of the earlier Articles 10 and 11 PLT and is already
+relatively close to the text adopted during the Diplomatic Conference. As regards Article 10(1) PLT,
+several delegations supported the text suggested by the International Bureau; other Representatives were
+in favor of replacing “may” by “shall.”123
+
+Diplomatic Conference for the Adoption of the PLT
+In the Draft Proposal submitted to the Diplomatic Conference for the Adoption of the Patent Law Treaty
+submitted by the Director General of WIPO, Article 10 PLT on “Relief in respect of time limits” was
+renumbered to become Article 11 PLT and Article 13 PLT on “Re-instatement of rights after a ﬁnding of
+due care or unintentionality by the Ofﬁce” was renumbered to become Article 12 PLT.124
+
+During the meetings at the Diplomatic Conference for the Adoption of the Patent Law Treaty, the
+requirements for extension of time limits were extensively discussed. A delegation asked whether a PLT
+Contracting Party was obliged to provide for the extension of time limits even though Article 11(1) PLT
+was a “may” provision. A representative of the WIPO referred to Article 11(2) PLT according to which a
+PLT Contracting Party that did not provide for the extension of time limits after the expiration of the time
+limit (Article 11(1)(ii) PLT), would be obliged to provide for continued processing.125 A representative of
+the European Patent Organization said that Article 11(2) PLT was the core provision of the whole Article,
+making it mandatory to provide for relief of missed time limits, either in form of an extension of the time
+limit requested after its expiry, or through continued processing.126-127
+
+With respect to Article 12 PLT, a Representative of WIPO explained that Article 12 PLT provided for
+the re-instatement of rights after a ﬁnding of due care or unintentionally by the Ofﬁce. In contrast to Article
+11 PLT, Article 12 PLT was not limited to time limits ﬁxed by the Ofﬁce, but applied to any time limit for
+an action in a procedure before the Ofﬁce. It also only dealt with time limits where failure to comply had
+the direct consequence of causing loss of rights with respect to an application or patent.128
+
+Conclusion
+From the above overview of the negotiations, it can be concluded that Articles 11 and 12 PLT regulate
+minimum requirements for relief in respect of time limits and reinstatement of rights. However, the
+formulations chosen in Article 11 PLT in relation to extension of time limits and the provision of
+continued processing are a typical compromise while accommodating the common practice before the US
+Patent and Trademark Ofﬁce (USPTO) and the European Patent Ofﬁce (EPO). The EPO allows extension
+of ofﬁce time limits (see Rule 132 EPC “Periods speciﬁed by the European Patent Ofﬁce”) if requested
+before the expiry of the time limit and allows applicants to request continued processing when the time
+limit is overrun (see Article 121 and Rule 135 EPC “Further processing of the European patent
+application”). On the other hand, the USPTO allows applicants to request extension of time limits after
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+173
+
+Cees Mulder
+
+Patent Law Treaty
+
+expiry of the time limit. Both options were accommodated in the PLT by inserting the formulation “may
+require” into Article 11(1) PLT. Article 11(2) PLT contains a “shall,” but this comes into effect only if the
+“may require” extension of time limits after expiry of the time limit (Article 11(1)(ii) PLT) is not provided
+in the national law.
+
+Article 12 PLT is also a compromise because no choice was made between whether and, if so,
+how much argumentation is required upon requesting re-instatement of rights. For a request for re-
+instatement to be successful, the EPO requires that the applicant for or proprietor of a European patent
+proves “all due care required by the circumstance” (see Article 122 and Rule 136 EPC “Re-establishment
+of rights”) whereas before the USPTO it is sufﬁcient that the delay was “unintentional.” Again this
+introduces too much freedom for PLT Contracting Parties when implementing requirements of the PLT
+into their national and regional patent laws and is contrary to the aim of harmonization and streamlining of
+the PLT.
+
+Restoration of Priority Right
+
+Committee of Experts on the Patent Law Treaty
+In the “Draft PLT and Draft Regulations” prepared by the International Bureau and presented at the ﬁrst
+session of the Committee of Experts on the Patent Law Treaty, there was no article on restoration of the
+priority right.129 In the “Report” adopted by the Committee of Experts, a number of delegations favored,
+amongst other things, the inclusion in the PLT of provisions relating to restoration of rights.130
+
+In the “Draft PLT and Draft Regulations” prepared by the International Bureau and presented at
+the third session of the Committee of Experts on the Patent Law Treaty, there was a new Article 13
+PLT “Belated claiming of priority”.131 This provision was modeled after Article 7 of the Basic
+Proposal submitted to the 1991 Diplomatic Conference in relation to the “Patent Harmonization
+Treaty”.132
+
+Article 13(1) PLT addresses the situation in which an application which could claim the priority of an
+earlier application does not, when ﬁled, contain such a claim. The paragraph allows the claiming of
+priority in a separate declaration ﬁled later than the application. This is permissible since the Paris
+Convention does not require that the priority claim (“the declaration” containing the priority claim,
+according to the terminology of Article 4D(1) of that Convention) be contained in the subsequent
+application itself.133 Article 13(2) PLT provides for the restoration of the priority right where a subsequent
+application is ﬁled after, but within 2 months from, the date on which the priority period expired. It applies
+only where the failure to ﬁle the application within the priority period occurred in spite of all due care
+required by the circumstances having been taken.134
+
+In the meantime, the WIPO General Assembly and the Assembly of the Paris Union (meeting in
+September/October 1996) considering a Memorandum by the Director General in respect of Matters
+Concerning the Patent Law Treaty, decided, amongst others, to include provisions relating to the belated
+claiming of priority (delayed submission of priority claim and delayed ﬁling of the subsequent
+application) in the draft PLT.135
+
+In the subsequent “Report” adopted by the Committee of Experts, the basic concept of draft Article 13
+
+PLT was supported in general.136
+
+In the fourth session of the Committee of Experts on the Patent Law Treaty, Article 13 PLT on
+“Belated claiming of priority” was renumbered to become Article 15 PLT.137 In the “Report” adopted by
+the Committee of Experts, the delegation of France asked whether, under Article 15(2)(a) PLT, the
+priority period would be extended to 14 months or would remain a 12-month period subject to possible
+restoration and, in the latter case, whether third party rights would be recognized.138 The International
+Bureau replied that the priority period would remain a 12-month period and that third party rights would
+not be recognized in case of restoration.
+
+174
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+Patent Law Treaty
+
+Cees Mulder
+
+In the ﬁfth session of the Committee of Experts on the Patent Law Treaty, the title of Article 15 PLT
+was amended to become: “Addition and restoration of priority claim.”139 As before, Article 15(1) PLT
+addresses the situation in which an application which could claim the priority of an earlier application does
+not, when ﬁled, contain such a priority claim.140 Article 15(2) PLT provides for the restoration of the
+priority right where a subsequent application is ﬁled after, but within 2 months, from the expiration of the
+priority period. It was noted again that the priority period, namely the 12-month period under Article 4C(1)
+of the Paris Convention, would not be extended.141 Article 15(3) PLT provides a remedy for the applicant
+where his right of priority is lost because of the failure on the part of the Ofﬁce with which the earlier
+application was ﬁled to provide a copy of that application in time for the applicant to comply with the
+prescribed time limit, despite a timely request for that copy having been made.142 A new paragraph (5) was
+added to Article 15 PLT allowing a PLT Contracting Party to levy a fee in relation to Article 15(1), (2) or
+(3) PLT to be paid to its Ofﬁce.
+
+Standing Committee on the Law of Patents
+In the “Draft PLT and Draft Regulations” prepared by the International Bureau and presented at the ﬁrst
+session of the Standing Committee on the Law of Patents, Article 15 PLT on “Addition and restoration of
+priority claim” was renumbered to become Article 16 PLT.143
+
+Article 16(1) PLT in relation of the addition of a priority claim is modeled after a portion of PCT Rule
+26bis.1.144,145 Article 16(2) PLT in relation to restoration of the priority was amended to include that the
+failure to furnish that application within the priority period occurred either in spite of all due care required
+by the circumstances having been taken, or, at
+the option of the PLT Contracting Party, was
+unintentional.146
+
+In the “Draft PLT and Draft Regulations” prepared by the International Bureau and presented at the
+second session of the Standing Committee on the Law of Patents, Article 16 PLT was renumbered to
+become Article 13 PLT. In the corresponding “Notes” the scope of Articles 13 PLT in relation to Articles
+10-12 PLT was explained by the International Bureau (also see Standing Committee on the Law of Patents
+Section): Article 13 PLT provides for the addition of a priority claim (Article 13(1) PLT). In addition,
+Article 13 PLT provides for the restoration of a priority claim in the case of the delayed ﬁling of the
+subsequent application (Article 13(2) PLT) or the failure to furnish a copy of the earlier application within
+the prescribed time limit (Article 13(3) PLT).
+
+In the “Draft PLT and Draft Regulations” prepared by the International Bureau and presented at the
+third session of the Standing Committee on the Law of Patents, there were only minor amendment to Article
+13 PLT on “Correction, addition or restoration of priority claim.”147 Later on, the title was amended to read:
+“Correction or addition of priority claim; restoration of priority right.”148 In the “Report” of the third
+session of the Standing Committee on the Law of Patents, only minor amendments were proposed and
+adopted. Amongst others, the word “may” in the chapeau of Article 13(1) PLT was changed into “shall.”149
+
+Diplomatic Conference for the Adoption of the PLT
+With respect to Article 13 PLT in the Draft Proposal submitted to the Diplomatic Conference for the
+Adoption of the Patent Law Treaty submitted by the Director General of WIPO, a representative of the
+WIPO explained Article 13 PLT comprised three provisions relating to priority claims, all of which were
+intended to be very user-friendly.150,151 The remedy of Article 13(1) PLT already existed under the PCT in
+Rule 26bis.1. With respect to Article 13(2) PLT, the Representative of WIPO explained that this paragraph
+provided for the restoration of the priority right where the application claiming priority was not received
+by the Ofﬁce until after the expiration of the 12-month priority period. It did not provide for an extension
+of the priority period provided for under the Paris Convention and the provision would apply only after the
+expiration of that period.152
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+175
+
+Cees Mulder
+
+Patent Law Treaty
+
+With respect to Article 13(3) PLT, the Representative of WIPO noted that it was intended to address
+the situation where the applicant requested a copy of the earlier application on which the priority claim
+was based, but as a result of delays in the Ofﬁce with which the earlier application had been ﬁled, he did not
+receive it in time to comply with the period for ﬁling that application, which was typically 16 months.153
+
+Conclusion
+From the above overview of the negotiations, it can be concluded that Article 13 PLT regulates minimum
+requirements for the correction or addition of a priority claim (Article 13(1) PLT), the restoration of a
+priority claim in the case of the delayed ﬁling of the subsequent application (Article 13(2) PLT) or the
+failure to furnish a copy of the earlier application within the prescribed time limit (Article 13(3) PLT).
+Article 13(1) PLT was copied into the PLT based on PCT Rule 26bis.1 which functions well.
+However, Article 13(2) PLT is again (see Conclusion in Restoration of Priority Right Section) a
+compromise between different viewpoints of the delegations, because no choice was made between
+whether and, if so, how much argumentation is required upon requesting restoration of the priority right.
+For a request for restoration to be successful, the EPO requires that the applicant for or proprietor of a
+European patent proves all due care required by the circumstance whereas before the USPTO it is
+sufﬁcient that the delay was unintentional. Again this introduces too much freedom for PLT Contracting
+Parties when implementing requirements of the PLT into their national and regional patent laws and is
+contrary to the aim of harmonization and streamlining of the PLT.
+
+Guidance by WIPO
+The WIPO is a specialized agency of the United Nations.154 It is dedicated to developing a balanced and
+accessible international intellectual property system.155
+
+During the negotiation process of the PLT, the WIPO played an active role by preparing the draft texts
+of the PLT and its Regulations, looking for compromises and seeking political agreement between the
+interests of the various States.
+
+As the conclusion of the PLT, the involvement of the WIPO has diminished, because there are no
+centralized functions. The International Bureau of WIPO merely acts as depository of the PLT and is not in
+a position to give an ofﬁcial interpretation of the Treaty; as such interpretation is the exclusive competence
+of the PLT Contracting Parties.
+
+The International Bureau has issued a set of Explanatory Notes on the PLT and Regulations under the
+PLT; the Notes have not been adopted by the Diplomatic Conference.156 These Notes are helpful in
+understanding the meaning of the PLT. However, these texts are based on the Notes prepared by the
+International Bureau of WIPO in preparation for the meetings of the Committee of Experts on the Patent
+Law Treaty and the SCP, which are sometimes difﬁcult to understand, if one has not followed the
+developments during the negotiation process.
+
+In order to stimulate the electronic distribution of draft modiﬁcations in the Treaty and the submission
+of comments and observations, a PLT Web Forum was established following a decision of the PLT
+Assembly at its ﬁrst session.157,158 The PLT Web Forum is intended to be used for consultations prior to the
+meetings of the PLT Assembly.159
+
+As the PLT is a mix of compulsory requirements (“shall”) and optional requirements which may
+be implemented as compulsory (“may require”) by a PLT Contracting Party, a lot of choices need be
+made when implementing the PLT into the national/regional patent law of an aspirant PLT Contracting
+Party.160
+
+In 2010 a Questionnaire was established and placed on the PLT Web Forum to collect information
+from the PLT Contracting Parties on how the PLT is implemented at the national/regional level, and to
+
+176
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+Patent Law Treaty
+
+Cees Mulder
+
+share such information with current and future PLT Contracting Parties, as well as with patent
+practitioners and the public.161 The Questionnaire encompasses eleven categories of questions, amongst
+which are the following ones:
+
+ Question 1 - Filing date (Article 5 and Rule 2 PLT);
+ Question 4 - Relief in respect of time limits (Article 11 and Rule 12 PLT);
+ Question 5 - Reinstatement of Rights (Article 12 and Rule 13 PLT);
+ Question 6 - Restoration of priority rights where the ﬁling of the subsequent application was delayed
+ Question 7 - Restoration of priority rights where the ﬁling of a copy of the earlier application was
+
+(Article 13(2) and Rule 14(4) and (5) PLT);
+
+delayed (Article 13(3) and Rule 14(6) PLT).
+
+Most of these Questions are split into a number of sub-questions. By way of example, three of the six
+
+sub-questions of Question 1 read as follows:
+
+Q1-2
+
+Q1-5
+
+Q1-6
+
+Does your Office accept a drawing as the element referred to as “a part which on the face of it
+appears to be a description” in Article 5(1)(a)(iii) PLT? (Reference: Article 5(1)(b) PLT).
+For the filing date to be determined under Article 5(6)(b) PLT (filing of a missing part of the
+description or a missing drawing), which of the optional elements referred to in Rule 2(4) PLT
+are required by your Office? (Reference: Rule 2(4) PLT).
+For a reference to a previously filed application to replace the description and any drawing for
+the purpose of the filing date under Article 5(7) PLT, which of the requirements referred to in
+Rule 2(5) PLT are required by your Office? (Reference: Rule 2(5) PLT)
+
+A number of PLT Contracting Parties have posted answers to the Questionnaire.162 From the
+responses a large variety of choices can be observed. With respect to Q1-2 (Is a “drawing” accepted as a
+“description?”), 10 PLT Contracting Parties answered “Yes,” 14 “No” and one Party answered: “This is
+something we would consider on a case by case basis if and when it arose.” 163
+
+With respect to Q1-5 (“ﬁling missing parts of the description or missing drawings”) six sub-questions
+have to be answered in relation to “which of the optional elements referred to in PLT Rule 2(4) are
+required by your Ofﬁce?”. 164
+
+Question Q1-5
+
+(a) A copy of the earlier application
+(b) A copy of the earlier application and its filing date, certified as correct
+(c) A translation of the earlier application
+(d) The missing part of the description or missing drawing must be completely
+
+contained in the earlier application
+
+(e) The application must contain an indication that the contents of the earlier
+
+application were incorporated by reference
+
+(f) An indication as to where the missing part of the description or the missing
+
+drawing is contained in the earlier application or in the translation
+
+Yes
+
+No
+
+20
+8
+15
+17
+
+10
+
+9
+
+3
+15
+8
+6
+
+13
+
+14
+
+With respect to Q1-6 (“ﬁling by reference”) ﬁve sub-questions have to be answered in relation to
+
+“which of the requirements referred to in PLT Rule 2(5) are required by your Ofﬁce?” 165
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+177
+
+Cees Mulder
+
+Question Q1-6
+
+(a) The reference to a previously filed application must indicate the filing date of
+
+the previously filed application
+
+(b) A copy of the previously filed application
+(c) A copy of the previously filed application, certified as correct
+(d) A translation of the previously filed application
+(e) The reference mentioned in PLT Article 5(7)(a) shall be to a previously filed
+
+application that has been filed by the applicant or his predecessor or
+successor in title
+
+Patent Law Treaty
+
+Yes
+
+16
+
+17
+7
+15
+11
+
+No
+
+6
+
+5
+15
+7
+11
+
+From the above comparison, it can be concluded that when a country considers becoming a
+Contracting Party to the PLT, studying the responses to the Questionnaire is not very helpful in making
+choices.
+
+When asked, the WIPO provides assistance to an aspirant PLT Contracting Party. This assistance is
+given bilaterally on a case-by-case basis, depending on the circumstances of the country concerned.
+Example texts can be employed as a guidance on how the requirements of the PLT can be implemented in
+the national/regional law. However, these texts have no ofﬁcial status.
+
+Two examples are given here. The ﬁrst example of a textual suggestion relates to the requirements for
+the accordance of a ﬁling date (Article 5 PLT). Such an Article could be formulated in the national law as
+follows:166
+
+“Filing date of the Application
+
+1. The accordance of the ﬁling date of an application shall require that on such a date the application
+
+ﬁled with the Institution contains:
+
+(a) an express indication that the grant of a patent is applied for;
+(b) information identifying the applicant or allowing the applicant to be contacted; and
+(c) a part which on the face of it appears to be a description, or reference to a previously ﬁled
+
+application.
+
+2. A reference to a previously ﬁled application under paragraph 1(c) shall state the ﬁling date and
+number of that application and the Ofﬁce with which that application was ﬁled. The reference shall
+indicate that it replaces the description for the purpose of the ﬁling date.
+
+3. Where the application contains a reference under paragraph 2, a copy of the previously ﬁled
+application shall be ﬁled within two months from the date on which the application containing the
+reference was received by the Institute. Where the previously ﬁled application is not in one of the
+ofﬁcial languages of (), a translation thereof shall be ﬁled within the same period.”
+
+The second example relates to the remedy of “continued processing.” With respect to providing
+relieve in respect of time limits, a PLT Contracting Party may provide for the extension of a time limit
+ﬁxed by the Ofﬁce for an action in a procedure before the Ofﬁce, if a request to that effect is made to the
+Ofﬁce in accordance with the requirements prescribed in the Regulations, and the request is ﬁled, at the
+option of the Contracting Party either prior to the expiration of the time limit, or after the expiration of the
+time limit (Article 11(1) and Rule 12(1) PLT). In principle, the PLT does not oblige a PLT Contracting
+Party to impose continued processing. However, the relief is mandatory if it is not allowed to ﬁle the
+request for an extension of a time limit after the expiration of the time limit (Article 11(2) and Rule 12(3)
+and (4) PLT). This implies that if a PLT Contracting Party chooses that the request for the extension of the
+time limit can only be ﬁled before the expiration thereof, providing continued processing is mandatory, but
+
+178
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+Patent Law Treaty
+
+Cees Mulder
+
+if a giving country allows that the request for extension can be ﬁled after the expired time limit (but within
+a certain period of time; Rule 12(2)(b) PLT), there is no need providing for continued processing
+provisions. On the other hand, if the national law of a PLT Contracting Party (already) has a provision on
+continued processing, it is not mandatory to provide for the extension of time limits (see the wording “may
+provide for the extension” in the chapeau of Article 11(1) PLT).
+
+A textual suggestion in relation to providing “continued processing” in the patent law of a PLT
+
+Contracting Party reads as follows:
+
+1) If the applicant for a patent has failed to perform an act in the course of the procedure before the
+Institute within a time limit prescribed by this Law (or the Regulations), the direct result of which is a
+loss of rights conferred by a patent application, he may ﬁle a request for the continued processing. The
+Institute shall allow the continued processing, provided that the applicant:
+
+(a) ﬁles a request for the continued processing, and performs all the omitted acts within a time limit
+
+referred to in paragraph 2 of this Article;
+
+(b) pays the fee and procedural charges in accordance with Article () of this Law.
+
+2) A time limit for ﬁling a request and for the performance of the omitted acts referred to in paragraph 1
+
+of this Article shall be two months from the notiﬁcation to the applicant or holder of a patent.
+
+3) If the omitted acts have not been performed within a time limit referred to in paragraph 2 of this
+Article, or if the fees and procedural charges referred to in Article () of this Law have not been paid, a
+request for the continued processing shall be considered as not ﬁled, and the Institute shall issue a
+conclusion to that effect.
+
+4) A request for the continued processing shall not be ﬁled in the case of failure to comply with a time
+
+limit:
+
+(a) referred to in paragraph 2 of this Article,
+(b) (…)
+(c) for performing all the acts in the appeal procedure,
+(d) for actions in inter partes proceedings.
+
+5) The content of the request, the conditions and the procedure concerning the request referred to in
+
+paragraph 1 of this Article shall be regulated more speciﬁcally by the Implementing Regulations.
+
+An aspirant PLT Contracting Party is, of course, entirely free to make its own choices when
+implementing the PLT in its national/regional patent law. Nevertheless, it is believed that such textual
+suggestions are very helpful in understanding and illustrating the scope of the PLT and would stimulate a
+more uniform implementation of the PLT in national/regional patent laws. A more active role of the WIPO
+would be welcomed in this respect.
+
+Discussion
+
+Since the continuation of the 1991 Diplomatic Conference in The Hague on the harmonization of the
+substantive provisions of patent laws had become impossible in view of the position taken by the
+delegation of the United States of America,167 the WIPO incited new negotiations in 1995 which
+eventually resulted in the adoption of the PLT during a Diplomatic Conference held in Geneva in 2000.
+The resulting PLT focuses on the harmonization of patent formalities with the aim of stimulating
+uniformity, simpliﬁcation and cost reduction within the international patent system.
+
+During the negotiation process, a number of provisions in the PLT were modeled after texts of
+Articles already contained in the Basic Proposal submitted to the 1991 Diplomatic Conference in relation
+to the “Patent Harmonization Treaty.”168 In addition, many proposals to amend the Draft Articles and
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+179
+
+Cees Mulder
+
+Patent Law Treaty
+
+Draft Regulations under the PLT were brought forward by the delegations in order to accommodate the
+local practice in their home countries. If no agreement could be reached on the implementation of such a
+requirement, often the desired amendment was incorporated in the PLT but without prescribing that this
+was mandatory. As a consequence, the PLT contains a mix of compulsory requirements (“shall”) and
+optional requirements which may be implemented as compulsory (“may require”) by a PLT Contracting
+Party. Such diversity of requirements is counterproductive with respect to achieving the goal of the PLT to
+“streamline and harmonize” formal requirements set by national and regional Patent Ofﬁces for the ﬁling
+of national or regional patent applications,
+the maintenance of patents and certain additional
+requirements.169
+
+From studying the documents relating to the negotiation history of the PLT, it can be inferred that the
+role of the WIPO in the negotiation process resulting in the PLT was more of a facilitating nature than
+aimed at obtaining a Treaty that encompasses mainly compulsory requirements. The inclusion of optional
+requirements should only have been allowed in a limited number of exceptional cases. On the other hand,
+it can be understood that the desire to reach an agreement on a PLT often made it necessary to bridge
+differences; this was not always possible, and this is one of the reasons why there are so many alternative
+routes in the PLT.
+
+By allowing too much freedom in relation to the fundamental requirements of the PLT has resulted in
+a fallible Treaty. This conclusion becomes the more evident from studying the answers posted by a
+number of PLT Contracting Parties to the Questionnaire on the PLT Web Forum.170 The large variety of
+choices deﬁes any striving to “streamline and harmonize” formal requirements.
+
+In principle, there are two ways in solving these fundamental problems of the PLT. One option to
+make the PLT more coherent is to amend the Treaty in a comprehensive manner. As a ﬁrst step, the
+Regulations under the PLT could be made more restrictive by deleting the majority of the “may require”
+formulations and/or by reformulating them into obligatory (“shall”) requirements. Amending the PLT
+Rules does not require a Revision Conference. Whether consensus can be reached on these amendments is
+questionable, in particular, because a number of PLT Contracting Parties has already amended their
+national or regional law in view of the PLT as concluded in 2000.
+
+Another option would be to re-open negotiations in relation to the “Treaty Supplementing the Paris
+Convention as far as Patents are Concerned.” This could work because the objections by one of the major
+Contracting Parties have recently been overcome.171-172
+
+By not changing anything in the PLT, the Contracting Parties will continue to implement the PLT into
+their national law. This will result in less harmonization and streamlining in patent laws than before the
+adoption of the PLT.
+
+Conclusion
+
+When the PLT was negotiated in the nineties of the previous century, the emphasis was on making the
+ﬁling of a patent application as simple and user-friendly as possible. Inventors and small business
+enterprises were afforded easy access to ﬁling a patent application. The requirements for the accordance of
+a ﬁling date were reduced to an absolute minimum, rendering it practically impossible to miss this date. As
+a consequence, procedures had to be put in place at the (receiving) Ofﬁces allowing the applicant to meet
+additional requirements (such as furnishing a set of claims) at a later stage. All this laid a heavy
+administrative burden on the Ofﬁces which have to deal with such applications.
+
+In the present time, the focus of the national Ofﬁces and intergovernmental organizations dealing with
+national and regional patent applications, is moving away from the needs of the applicants to issues such as
+how to deal with huge numbers of patent applications in a more efﬁcient manner. Therefore, the
+procedural requirements of the PLT are regarded as counterproductive to achieving that objective.
+
+180
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+Patent Law Treaty
+
+Cees Mulder
+
+Perhaps this is also one of the reasons why accession to the PLT of countries and intergovernmental
+organizations, such as the European Patent Organization, takes place at a slow pace.173
+
+In view of the above, the following conclusions can be formulated:
+
+(1) The PLT did not achieve the goal of streamlining and harmonizing formal requirements set by
+national or regional Patent Ofﬁces for the ﬁling of national or regional patent applications and the
+maintenance of patents.
+
+(2) The PLT contains too many optional requirements, which may be implemented as compulsory (“may
+require”) by PLT Contracting Parties, allowing them too much freedom when implementing
+requirements of the PLT into their national and regional patent laws. This deﬁes the aim of
+harmonization and streamlining of the PLT. A solution to make the PLT more coherent would be to
+amend the PLT Rules in making them more restrictive.
+
+(3) The WIPO could play a more active role in issuing instructions and guidelines on how to implement
+the PLT in national and regional patent laws. A preferred manner of implementing the PLT could be
+advocated.
+
+(4) The provision in the PLT allowing an applicant to ﬁle a missing part of the description or a missing
+drawing based on content which is “completely contained” in an earlier application from which
+priority is claimed, while maintaining the originally accorded ﬁling date, is a powerful tool because it
+permits an applicant to complete his application without losing his priority claim.
+
+(5) The obligation of a PLT Contracting State to provide for relief in respect of time limits either by means
+of providing an extension of the time limit or by providing continued processing is one of the major
+achievements of the PLT.
+
+(6) The obligation of a PLT Contracting State to provide for restoration of priority rights is a powerful
+instrument to rectify mistakes in relation to priority claims allowing applicants to counteract the
+unintentional loss of such rights.
+
+About the Author
+Cees Mulder is a European Patent Attorney and a Lecturer in Intellectual Property Law at the Department
+of International and European Law at the Faculty of Law of Maastricht University (NL). Helze 1, NL-5662
+JE Geldrop, The Netherlands; e-mail: cees.mulder@helze.com
+
+Notes
+
+1. Patent Law Treaty, WIPO Publication No. 258(E). See http://www.wipo.int/treaties/en/ip/plt/ (Accessed
+
+October 2014).
+
+2. Paris Convention for the Protection of Industrial Property, WIPO Publication No. 351(E). See http://www.
+
+wipo.int/treaties/en/ip/paris/ (Accessed October 2014).
+
+3. At present, the European Patent Organization is not a Contracting Party to the Patent Law Treaty. The option for
+Intergovernmental Organizations to become Party to the PLT was created in Article 20(2) PLT. In addition, the
+European Patent Organization is explicitly mentioned in Article 20(3) and Article 26 PLT as one of the Regional
+Patent Organizations that may become Party to the PLT. In the Basic Proposal for the Revision of the European
+Patent Convention (issued in preparation of the Revision Conference in November 2000), the European Patent
+Organization indicated its wish to become a Contracting Party to the PLT. “Basic Proposal for the Revision of
+the European Patent Convention”; Document MR/2/00, Travaux Pre´ paratoires to the EPC 2000; comment in
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+181
+
+Cees Mulder
+
+Patent Law Treaty
+
+relation to Article 80 EPC. See: http://www.epo.org/law-practice/legal-texts/archive/documentation/travaux-
+preparatoires.html (Accessed October 2014).
+
+4. “Records of the Diplomatic Conference for the Conclusion of a Treaty Supplementing the Paris Convention as
+far as Patents are Concerned - Volume I: First Part of the Diplomatic Conference - The Hague, 1991”, WIPO
+Publication No. 351(E).
+
+5. “The Situation Concerning the Patent Law Treaty (PLT)” (memorandum of the International Bureau),
+Consultative Meeting for the further preparation of the Diplomatic Conference for the Conclusion of the Patent
+Law Treaty, Document PLT/CM/2 (March 1995), Items 4 and 7.
+
+6. “Report” (adopted by the Assembly), Assembly of the International Union for the Protection of Industrial
+
+Property (Paris Union), Document P/A/XXII/2 (October 1994).
+
+7. Committee of Experts on the Patent Law Treaty. See http://www.wipo.int/meetings/en/topic.jsp?group_id¼53
+8. Standing Committee on the Law of Patents. See http://www.wipo.int/meetings/en/topic.jsp?group_id¼
+
+(Accessed October 2014).
+
+61&items¼30 (Accessed October 2014).
+jsp?group_id¼136 (Accessed October 2014).
+
+9. Diplomatic Conference for the Adoption of the Patent Law Treaty. See http://www.wipo.int/meetings/en/topic.
+
+10. “Records of the Diplomatic Conference for the Adoption of the Patent Law Treaty (Geneva, 2000)”, WIPO
+
+Publication No 327(E).
+
+11. PLT Contracting Parties. See http://www.wipo.int/treaties/en/ShowResults.jsp?lang¼en&treaty_id¼4 (Ac-
+
+cessed October 2014). On December 18, 2013, the PLT entered into force for the United States of America
+thereby becoming the 36th Contracting Party.
+
+12. “Agreed Statements by the Diplomatic Conference regarding the Patent Law Treaty and the Regulations under
+the Patent Law Treaty” (adopted by the Diplomatic Conference on June 1, 2000). See http://www.wipo.int/
+
+treaties/en/text.jsp?ﬁle_id¼289482 (Accessed October 2014).
+
+13. “Basic Features to the Patent Law Treaty” (prepared by the Secretariat) (November 2006), Item 3. See http://
+
+www.wipo.int/patent-law/en/pdf/plt_features.pdf (Accessed October 2014).
+
+14. “Report” (adopted by the Standing Committee), Standing Committee on the Law of Patents, Document SCP/3/
+(Accessed
+
+http://www.wipo.int/meetings/en/details.jsp?meeting_id¼3824
+
+1999). See
+
+(September
+
+11
+October 2014).
+
+15. “Notes” (prepared by the International Bureau), Standing Committee on the Law of Patents, Document SCP/2/4
+
+(February 1999). See http://www.wipo.int/meetings/en/details.jsp?meeting_id¼3713 (Accessed October
+
+2014).
+
+16. “Basic Features to the Patent Law Treaty (PLT)” (prepared by the International Bureau; November 2006).
+17. “The Patent Law Treaty (PLT)” in the WIPO Intellectual Property Handbook: Policy, Law and Use - Chapter 5:
+“International Treaties and Conventions on Intellectual Property”, items 5.398-5.423 (WIPO Publication No.
+489). See http://www.wipo.int/about-ip/en/iprm/ (Accessed October 2014).
+
+18. “Basic Features to the Patent Law Treaty (PLT)” (prepared by the International Bureau; November 2006).
+19. “Explanatory Notes on the Patent Law Treaty and Regulations under the Patent Law Treaty adopted by the
+Diplomatic Conference on June 1, 2000” (prepared by the International Bureau), Diplomatic Conference for the
+Adoption of the PLT, Document PT/DC/48 Prov. (November 2000), Note 11.01. See http://www.wipo.int/
+export/sites/www/scp/en/meetings/pt_dc/pdf/pt_dc_48p1.pdf (Accessed October 2014). Also see http://www.
+wipo.int/patent-law/en/plt.htm (Accessed October 2014).
+
+20. PCT Rule 26bis.1 allows an applicant to correct or add a priority claim, on or after the ﬁling date, to an
+application which could have claimed the priority of an earlier application but did not do so. PCT Rule 26bis.1
+was introduced in the PCT on July 1, 1998.
+
+21. Committee of Experts on the Patent Law Treaty. See http://www.wipo.int/meetings/en/topic.jsp?group_id¼53
+
+(Accessed October 2014).
+
+182
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+Patent Law Treaty
+
+Cees Mulder
+
+22. Standing Committee on the Law of Patents. See http://www.wipo.int/meetings/en/topic.jsp?group_id¼61&
+
+items¼30 (Accessed October 2014).
+
+23. “Records of the Diplomatic Conference for the Adoption of the Patent Law Treaty (Geneva, 2000)”, WIPO
+
+Publication No 327(E), pp. 262-568.
+
+24. “Records of the Diplomatic Conference for the Conclusion of a Treaty Supplementing the Paris Convention as
+far as Patents are Concerned - Volume I: First Part of the Diplomatic Conference - The Hague, 1991”, WIPO
+Publication No. 351(E).
+
+25. Recently, an e-version of the Records of the Diplomatic Conference for the Adoption of the Patent Law
+Treaty (Geneva, 2000) was made available on the ftp website of WIPO.See ftp://ftp.wipo.int/pub/library/
+ebooks/Internationalconferences-recordsproceedings/wipo_pub_327e.pdf (Accessed October 2014).
+
+26. Committee of Experts on the Patent Law Treaty. See http://www.wipo.int/meetings/en/details.jsp?meet-
+
+27. Standing Committee on the Law of Patents. See http://www.wipo.int/meetings/en/topic.jsp?group_id¼61&
+
+ing_id¼3286 (Accessed October 2014).
+items¼30 (Accessed October 2014).
+details.jsp?meeting_id¼4057 (Accessed October 2014). Many of the early documents are not electronically
+
+28. “Diplomatic Conference for the Adoption of the Patent Law Treaty”. See http://www.wipo.int/meetings/en/
+
+available but can, on request, be obtained from the WIPO.
+
+29. “Records of the Diplomatic Conference for the Adoption of the Patent Law Treaty (Geneva, 2000)”, WIPO
+
+Publication No 327(E).
+
+30. “Records of the Diplomatic Conference for the Conclusion of a Treaty Supplementing the Paris Convention as
+far as Patents are Concerned - Volume I: First Part of the Diplomatic Conference - The Hague, 1991”, WIPO
+Publication No. 351(E).
+
+31. On January 24, 1994, the International Bureau was informed, through a press release of the Department of
+Commerce of the United States of America, “that the United States would not seek to resume negotiations of a
+treaty harmonizing the world’s patent laws at this time. While other international negotiations continue, we will
+maintain our ﬁrst-to-invent system while keeping open the option of full patent harmonization in the future”. See
+“The Situation Concerning the Patent Law Treaty (PLT)” (memorandum of the International Bureau),
+Consultative Meeting for the further preparation of the Diplomatic Conference for the Conclusion of the Patent
+Law Treaty, Document PLT/CM/2 (March 1995), Item 7.
+
+32. “Report” (adopted by the Assembly), Assembly of the International Union for the Protection of Industrial
+
+Property (Paris Union), Document P/A/XXII/2 (October 1994).
+
+33. “The Situation Concerning the Patent Law Treaty (PLT)” (memorandum of the International Bureau),
+Consultative Meeting for the further preparation of the Diplomatic Conference for the Conclusion of the Patent
+Law Treaty, Document PLT/CM/2 (March 1995).
+
+34. “Report” (adopted by the Consultative Meeting), Consultative Meeting for the further preparation of the
+
+Diplomatic Conference for the Conclusion of the Patent Law Treaty, Document PLT/CM/4 (May 1995).
+
+35. WIPO General Assembly, Meeting WO/GA/XVI (September 25 to October 3, 1995). See http://www.wipo.int/
+
+meetings/en/details.jsp?meeting_id¼2688 (Accessed October 2014). The documents are not electronically available.
+
+36. International Union for the Protection of Industrial Property (Paris Union) Assembly, Meeting P/A/XXIII
+
+(September 25 to October 3, 1995).
+
+37. See e.g. “Committee of Experts on the Patent Law Treaty - Report” (adopted by the Committee of Experts),
+Document PLT/CE/II/5 (June 1996), Item 12: “The delegation of the United States of America recalled its
+opening remarks made in the ﬁrst session of the Committee of Experts and stated that it was still not in a position
+to discuss substantive patent law harmonization.”
+
+38. Ibid, Item 12: “The distinction between formal and substantive matters was important. In this regard, the
+delegation expressed its concern over inclusion of the new Article on unity of invention as a substantive
+requirement that was not appropriate for inclusion in this Treaty directed to formalities.”
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+183
+
+Cees Mulder
+
+Patent Law Treaty
+
+39. “Assembly of the Member States of WIPO - General Report” (adopted by the Assemblies of the Member States),
+
+Document A/32/7 (March 1998). See http://www.wipo.int/meetings/en/doc_details.jsp?doc_id¼778 (Accessed
+
+October 2014).
+
+40. “Organizational Matters and Overview of the Issues to be Considered by the Standing Committee on the Law of
+Patents” (Memorandum prepared by the International Bureau), Document SCP/1/2 (May 1998). See http://
+
+www.wipo.int/meetings/en/details.jsp?meeting_id¼3462 (Accessed October 2014).
+
+41. “Records of the Diplomatic Conference for the Conclusion of a Treaty Supplementing the Paris Convention as
+far as Patents are Concerned - Volume I: First Part of the Diplomatic Conference - The Hague, 1991”, WIPO
+Publication No. 351(E).
+
+42. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Committee of Experts
+
+on the Patent Law Treaty, Document PLT/CE/I/2 (October 1995).
+
+43. “Notes” (prepared by the International Bureau), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/I/4 (October 1995), Item 2.01.
+
+44. “Report” (adopted by the Committee of Experts), Committee of Experts on the Patent Law Treaty, Document
+PLT/CE/I/5 (December 1995), see e.g. Items 14 (Canada), 27 (Switzerland), 37 (EPO) and 193 (Chairman).
+45. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Committee of Experts
+
+on the Patent Law Treaty, Document PLT/CE/II/2 (April 1996).
+
+46. “Records of the Diplomatic Conference for the Conclusion of a Treaty Supplementing the Paris Convention as
+far as Patents are Concerned - Volume I: First Part of the Diplomatic Conference - The Hague, 1991”, WIPO
+Publication No. 351(E), Article 8 “Filing Date”.
+
+47. “Notes” (prepared by the International Bureau), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/II/3 (April 1996), Item 3.01.
+
+48. “Report” (adopted by the Committee of Experts), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/II/5 (June 1996), see e.g. Items 15 (Switzerland), 16 (Canada), 28 (EPO).
+
+49. Ibid, Items 162-163.
+50. Ibid, Item 164 .
+51. “Selected Provisions of the Draft Patent Law Treaty and Draft Regulations” (prepared by the International
+
+Bureau), Committee of Experts on the Patent Law Treaty, Document PLT/CE/III/2 (September 1996).
+
+52. “Records of the Diplomatic Conference for the Conclusion of a Treaty Supplementing the Paris Convention as
+far as Patents are Concerned - Volume I: First Part of the Diplomatic Conference - The Hague, 1991”, WIPO
+Publication No. 351(E), Article 8 “Filing Date”.
+
+53. “Report” (adopted by the Committee of Experts), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/III/6 (November 1996), Item 63.
+
+54. Ibid, Item 64.
+55. Ibid, Item 65.
+56. Ibid, Item 66.
+57. Ibid, Item 67.
+58. Meeting of the Assembly of the Paris Union: September 23 to October 2, 1996 (Geneva).
+59. “Scope of the Patent Law Treaty” (Memorandum by the International Bureau), Committee of Experts on the
+
+Patent Law Treaty, Document PLT/CE/III/5 (October 1996).
+
+60. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Committee of Experts
+
+on the Patent Law Treaty, Document PLT/CE/IV/2 (April 1997).
+
+61. “Report” (adopted by the Committee of Experts), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/IV/4 (June 1997), Item 62.
+
+62. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Committee of Experts
+on the Patent Law Treaty, Document PLT/CE/V/2 (October 1997). See http://www.wipo.int/meetings/en/
+
+details.jsp?meeting_id¼3286 (Accessed October 2014).
+
+184
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+Patent Law Treaty
+
+Cees Mulder
+
+63. “Notes” (prepared by the International Bureau), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/V/3 (October 1997), Item 4.23. See http://www.wipo.int/meetings/en/details.jsp?meeting_id¼3286
+
+(Accessed October 2014).
+
+64. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Standing Committee
+on the Law of Patents, Document SCP/1/3 (April 1998). See http://www.wipo.int/meetings/en/details.jsp?
+
+meeting_id¼3462 (Accessed October 2014).
+
+65. “Notes” (prepared by the International Bureau), Standing Committee on the Law of Patents, Document SCP/1/4
+
+(April 1998), Item 4.27.
+
+66. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Standing Committee
+on the Law of Patents, Document SCP/2/3 (February 1999). See http://www.wipo.int/meetings/en/details.jsp?
+
+meeting_id¼3713 (Accessed October 2014).
+
+67. “Draft Article 4(5bis) and draft Rule 2(2)” (Proposal by the delegation of Australia), Standing Committee on
+the Law of Patents, Document SCP/2/9 (April 1999). See http://www.wipo.int/meetings/en/details.jsp?
+
+meeting_id¼3713 (Accessed October 2014).
+
+68. “Draft Article 4(5bis) and draft Rule 2(2)” (Suggestion of the International Bureau, based on the Proposal by the
+delegation of Australia in document SCP/2/9), Standing Committee on the Law of Patents, Document SCP/2/
+9bis (April 1999).
+
+69. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Standing Committee
+
+on the Law of Patents, Document SCP/3/2 (June 1999).
+
+70. “Notes” (prepared by the International Bureau), Standing Committee on the Law of Patents, Document SCP/3/3
+
+(June 1999), Item R2.07 (proposal by the delegation of the United States of America).
+
+71. Ibid, Item 27.
+72. “Basic Proposal for the Patent Law Treaty” (submitted by the Director General of WIPO), Diplomatic
+Conference for the Adoption of the Patent Law Treaty, Document PT/DC/3 (November 1999). See http://www.
+
+wipo.int/meetings/en/details.jsp?meeting_id¼4057 (Accessed October 2014).
+
+73. “Results of the 28th (16th Extraordinary) Session of the PCT Assembly, March 13 to 17, 2000; Issues for possible
+Discussion at the Diplomatic Conference” (prepared by the International Bureau), Diplomatic Conference for
+the Adoption of the Patent Law Treaty, Document PT/DC/6 (April 2000).
+
+74. Ibid, Item 33.
+75. Summary Minutes of the Main Committee I (prepared by the International Bureau); 9th session (Friday, May 19,
+2000, morning); published in Records of the Diplomatic Conference for the Adoption of the Patent Law (Geneva,
+2000) (WIPO Publication 327E), Item 701.
+
+76. Ibid, Item 706.
+77. Ibid, Item 705.
+78. Ibid, Item 718.
+79. Ibid, Item 718.
+80. Summary Minutes of the Main Committee I (prepared by the International Bureau); 10th session (Friday, May 19,
+2000, afternoon); published in Records of the Diplomatic Conference for the Adoption of the Patent Law
+(Geneva, 2000) (WIPO Publication 327E), Item 731.
+
+81. Summary Minutes of the Main Committee I (prepared by the International Bureau); 11th session (Friday, May 19,
+2000, evening); published in Records of the Diplomatic Conference for the Adoption of the Patent Law (Geneva,
+2000) (WIPO Publication 327E), Item 811.
+
+82. Ibid, Item 806.
+83. Summary Minutes of the Main Committee I (prepared by the International Bureau); 19th session (Wednesday,
+May 24, 2000, evening); published in Records of the Diplomatic Conference for the Adoption of the Patent Law
+(Geneva, 2000) (WIPO Publication 327E), Item 1861.
+
+84. Ibid, Item 1861.
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+185
+
+Cees Mulder
+
+Patent Law Treaty
+
+85. Ibid, Item 1867.
+86. Summary Minutes of the Main Committee I (prepared by the International Bureau); 20h session (Thursday,
+May 25, 2000, morning); published in Records of the Diplomatic Conference for the Adoption of the Patent Law
+(Geneva, 2000) (WIPO Publication 327E), Item 1944.
+
+87. Ibid, Item 1960.
+88. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Committee of Experts
+
+on the Patent Law Treaty, Document PLT/CE/I/2 (October 1995).
+
+89. “Report” (adopted by the Committee of Experts), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/I/5 (December 1995), Items 46 (Japan), 205 (France and AIPPI).
+
+90. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Committee of Experts
+
+on the Patent Law Treaty, Document PLT/CE/III/2 (September 1996).
+
+91. “Notes” (prepared by the International Bureau), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/III/3 (September 1996), Item 12.01.
+
+92. Ibid, Item 12.02.
+93. Ibid, Item 12.05.
+94. “Scope of the Patent Law Treaty” (Memorandum by the International Bureau), Committee of Experts on the
+
+Patent Law Treaty, Document PLT/CE/III/5 (October 1996).
+
+95. “Report” (adopted by the Committee of Experts), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/III/6 (November 1996), Item 159.
+
+96. Ibid, Item 167.
+97. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Committee of Experts
+
+on the Patent Law Treaty, Document PLT/CE/IV/2 (April 1997).
+
+98. “Notes” (prepared by the International Bureau), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/IV/3 (April 1997), Item 13.01.
+
+99. Ibid, Items 13.02 and 13.05.
+
+100. Ibid, Item 14.01.
+101. “Report” (adopted by the Committee of Experts), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/IV/4 (June 1996), Item 189.
+
+102. “Report” (adopted by the Committee of Experts), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/IV/4 (June 1996), Item 190.
+
+103. “Notes” (prepared by the International Bureau), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/V/3 (October 1997), Item 13.05. See http://www.wipo.int/meetings/en/details.jsp?meeting_id¼3286
+
+(Accessed October 2014).
+
+104. Ibid, Item 14.01.
+105. Ibid, Item 14.02.
+106. “Report” (adopted by the Committee of Experts), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/V/5 (December 1997), Item 213. See http://www.wipo.int/meetings/en/details.jsp?meeting_id¼3286
+
+(Accessed October 2014).
+
+107. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Standing Committee
+on the Law of Patents, Document SCP/1/3 (April 1998). See http://www.wipo.int/meetings/en/details.jsp?
+
+meeting_id¼3462 (Accessed October 2014).
+
+108. “Notes” (prepared by the International Bureau), Standing Committee on the Law of Patents, Document SCP/1/4
+
+(April 1998), Item 13.02.
+
+109. Ibid, Items 14.01 and 14.10.
+110. Ibid, Item 14.10.
+111. Ibid, Item 15.01.
+
+186
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+Patent Law Treaty
+
+Cees Mulder
+
+112. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Standing Committee
+on the Law of Patents, Document SCP/2/3 (February 1999). See http://www.wipo.int/meetings/en/details.jsp?
+
+meeting_id¼3713 (Accessed October 2014).
+
+113. “Notes” (prepared by the International Bureau), Standing Committee on the Law of Patents, Document SCP/2/4
+
+(February 1999), Item 10.01.
+
+114. Ibid, Item 10.01.
+115. Ibid, Item 10.02.
+116. Ibid, Item 10.03.
+117. Ibid, Item 10.04.
+118. Ibid, Item 10.05.
+119. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Standing Committee
+on the Law of Patents, Document SCP/3/2 (June 1999). See http://www.wipo.int/meetings/en/details.jsp?
+
+meeting_id¼3713 (Accessed October 2014).
+
+120. “Notes” (prepared by the International Bureau), Standing Committee on the Law of Patents, Document SCP/3/3
+
+Item 10.02. See http://www.wipo.int/meetings/en/details.jsp?meeting_id¼3824 (Accessed
+
+(June 1999),
+October 2014).
+
+121. “Report” (adopted by the Standing Committee), Standing Committee on the Law of Patents, Document SCP/3/
+
+11 (September 1999), Item 64.
+
+122. Ibid, Item 71.
+123. Ibid, Item 72.
+124. “Basic Proposal for the Patent Law Treaty” (submitted by the Director General of WIPO), Diplomatic
+Conference for the Adoption of the Patent Law Treaty, Document PT/DC/3 (November 1999). See http://www.
+
+wipo.int/meetings/en/details.jsp?meeting_id¼4057 (Accessed October 2014).
+
+125. Summary Minutes of the Main Committee I (prepared by the International Bureau); 13th session (Monday,
+May 22, 2000, morning); published in Records of the Diplomatic Conference for the Adoption of the Patent Law
+(Geneva, 2000) (WIPO Publication 327E), Items 1196 and 1197.
+
+126. Ibid, Item 1213.
+127. For a comparison of the requirements in respect of relief regarding time-limits and the remedy of
+continued processing under the PLT with their counterparts in the European Patent Convention, see Cees
+Mulder: “Periods and Remedies under the EPC: Compliance of the EPC with the PLT: Part 1 - Extension
+of Periods and Further Processing”, European Intellectual Property Review, Volume 34, Issue 1 (2012),
+pp. 12-21.
+
+128. Summary Minutes of the Main Committee I (prepared by the International Bureau); 13th session (Monday,
+May 22, 2000, morning); published in Records of the Diplomatic Conference for the Adoption of the Patent Law
+(Geneva, 2000) (WIPO Publication 327E), Item 1285.
+
+129. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Committee of Experts
+
+on the Patent Law Treaty, Document PLT/CE/I/2 (October 1995).
+
+130. “Report” (adopted by the Committee of Experts), Committee of Experts on the Patent Law Treaty, Document
+PLT/CE/I/5 (December 1995), Items 46 (Japan), 169 (international Bureau), 200 (observer organization) and
+205 (France and AIPPI).
+
+131. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Committee of Experts
+
+on the Patent Law Treaty, Document PLT/CE/III/2 (September 1996).
+
+132. “Records of the Diplomatic Conference for the Conclusion of a Treaty Supplementing the Paris Convention as
+far as Patents are Concerned - Volume I: First Part of the Diplomatic Conference - The Hague, 1991”, WIPO
+Publication No. 351(E), Article 7 “Belated claiming of priority”.
+
+133. “Notes” (prepared by the International Bureau), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/III/3 (September 1996), Item 12.01.
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+187
+
+Cees Mulder
+
+Patent Law Treaty
+
+134. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Committee of Experts
+on the Patent Law Treaty, Document PLT/CE/III/2 (September 1996), Article 13(2): “Delayed Filing of the
+Subsequent Application”.
+
+135. “Scope of the Patent Law Treaty” (Memorandum by the International Bureau), Committee of Experts on the
+
+Patent Law Treaty, Document PLT/CE/III/5 (October 1996).
+
+136. “Report” (adopted by the Committee of Experts), Committee of Experts on the Patent Law Treaty, Document
+PLT/CE/III/6 (November 1996), Items 17 (Switzerland), 21 (Australia), 32 (Japan Patent Attorneys
+Association) and 114 (several delegations).
+
+137. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Committee of Experts
+
+on the Patent Law Treaty, Document PLT/CE/IV/2 (April 1997).
+
+138. “Report” (adopted by the Committee of Experts), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/IV/4 (June 1997), Item 218.
+
+139. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Committee of Experts
+on the Patent Law Treaty, Document PLT/CE/V/2 (October 1997). See http://www.wipo.int/meetings/en/
+
+details.jsp?meeting_id¼3286 (Accessed October 2014).
+
+140. “Notes” (prepared by the International Bureau), Committee of Experts on the Patent Law Treaty, Document
+
+PLT/CE/V/3 (October 1997), Item 15.03.
+
+141. Ibid, Item 15.06.
+142. Ibid, Item 15.12.
+143. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Standing Committee
+on the Law of Patents, Document SCP/1/3 (April 1998). See http://www.wipo.int/meetings/en/details.jsp?
+
+meeting_id¼3462 (Accessed October 2014).
+
+144. “Notes” (prepared by the International Bureau), Standing Committee on the Law of Patents, Document SCP/1/4
+
+(April 1998), Item 16.02.
+
+145. PCT Rule 26bis.1 entered into force on July 1, 1998.
+146. “Notes” (prepared by the International Bureau), Standing Committee on the Law of Patents, Document SCP/1/4
+
+(April 1998), Item 16.02, Item 16.06.
+
+147. “Draft Patent Law Treaty and Draft Regulations” (prepared by the International Bureau), Standing Committee
+
+on the Law of Patents, Document SCP/3/2 (June 1999).
+
+148. “Draft Patent Law Treaty: Working Document” (prepared by the International Bureau), Standing Committee on
+
+the Law of Patents, Document SCP/3/7 (July 1999).
+
+149. Ibid, Item 80.
+150. Summary Minutes of the Main Committee I (prepared by the International Bureau); 16th session (Tuesday,
+May 23, 2000, afternoon); published in Records of the Diplomatic Conference for the Adoption of the Patent
+Law (Geneva, 2000) (WIPO Publication 327E), Item 1483.
+
+151. For a comparison of the remedies of reinstatement of rights and restoration of the priority right under the PLT with
+the remedy of re-establishment of rights under the European Patent Convention, see Cees Mulder: “Periods and
+Remedies under the EPC: Compliance of the EPC with the PLT: Part 2 -Re-establishment of Rights”, European
+Intellectual Property Review, Volume 34, Issue 2 (2012), pp. 87–94.
+
+152. Summary Minutes of the Main Committee I (prepared by the International Bureau); 16th session (Tuesday,
+May 23, 2000, afternoon); published in Records of the Diplomatic Conference for the Adoption of the Patent
+Law (Geneva, 2000) (WIPO Publication 327E), Item 1502.
+
+153. Summary Minutes of the Main Committee I (prepared by the International Bureau); 16th session (Tuesday,
+May 23, 2000, afternoon); published in Records of the Diplomatic Conference for the Adoption of the Patent
+Law (Geneva, 2000) (WIPO Publication 327E), Item 1573.
+
+188
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+Patent Law Treaty
+
+Cees Mulder
+
+154. “Agreement between the United Nations and the World Intellectual Property Organization” (Agreement entered
+
+into effect on December 17, 1974). See http://www.wipo.int/treaties/en/text.jsp?ﬁle_id¼305623 (Accessed
+
+October 2014).
+
+155. “Convention Establishing the World Intellectual Property Organization” (signed at Stockholm on July 14, 1967
+and as amended on September 28, 1979 (document WO 029 EN). See http://www.wipo.int/treaties/en/text.jsp?
+
+ﬁle_id¼283854 (Accessed October 2014).
+
+156. “Explanatory Notes on the Patent Law Treaty and Regulations under the Patent Law Treaty adopted by the
+Diplomatic Conference on June 1, 2000” (prepared by the International Bureau), Diplomatic Conference for the
+adoption of the PLT, Document PT/DC/48 Prov. (November 2000), Note 5.23. See http://www.wipo.int/export/
+sites/www/scp/en/meetings/pt_dc/pdf/pt_dc_48p1.pdf (Accessed October 2014). Also see http://www.wipo.
+int/patent-law/en/plt.htm (Accessed October 2014).
+
+157. Meeting of the PLT Assembly in Geneva during the forty-ﬁrst series of meetings of the Assemblies of the
+
+Member States of WIPO (September 26 to October 5, 2005).
+
+158. “Future Work” (prepared by the International Bureau), PLT Assembly, 1st (ordinary) session, Document PLT/A/
+1/3. (July 2005), Item 3 (ii). See http://www.wipo.int/meetings/en/details.jsp?meeting_id¼9003 (Accessed
+
+October 2014).
+
+159. See http://www.wipo.int/plt-forum/en/ (Accessed October 2014).
+160. In the Articles of the PLT there are 19 occurrences and in the PLT Rules 58 occurrences of the wording “may
+
+require”.
+
+161. See http://www.wipo.int/plt-forum/en/questionnaire/ (Accessed October 2014).
+162. See http://www.wipo.int/plt-forum/en/questionnaire/table.html (Accessed October 2014). Currently (Octo-
+
+ber 2014), 25 of the 36 PLT Contracting Parties have responded to the Questionnaire.
+
+163. United Kingdom.
+164. Ukraine declared that this procedure is “not applicable” in its Ofﬁce.
+165. Serbia has declared that its Patent Law does not contain such provisions. The Montenegrin has declared that its
+
+Patent Law does not contain such provisions.
+
+166. Note that this text is more or less the same as what can be found in Rule 40(1) implementing the ﬁling date
+
+requirements of Article 80 of the European Patent Convention (EPC 2000).
+
+167. See § 1 and § 5.
+168. “Records of the Diplomatic Conference for the Conclusion of a Treaty Supplementing the Paris Convention as
+far as Patents are Concerned - Volume I: First Part of the Diplomatic Conference - The Hague, 1991”, WIPO
+Publication No. 351(E).
+
+169. “Basic Features to the Patent Law Treaty” (prepared by the Secretariat) (November 2006), Item 2.See http://
+
+www.wipo.int/patent-law/en/pdf/plt_features.pdf (Accessed October 2014).
+
+170. See http://www.wipo.int/plt-forum/en/questionnaire/table.html (Accessed October 2014).
+171. Upon the entry into force of the America Invents Act (March 16, 2013), the main obstacles which obstructed
+agreement on the “Treaty Supplementing the Paris Convention as far as Patents are Concerned” in 1994 were
+overcome.
+
+172. In December 2012, US Congress passed the Patent Law Treaties Implementation Act of 2012 to implement the
+provisions of the Patent Law Treaty. This Act and ensuing changes became effective on December 18,
+2013.
+
+173. In the comment in relation to Article 80 EPC in the “Basic Proposal for the Revision of the European Patent
+Convention” (Document MR/2/00), Travaux Pre´ paratoires to the EPC 2000, the EPO indicated its intention “to
+be become a Contraction Party to the PLT”. See: http://www.epo.org/law-practice/legal-texts/archive/
+documentation/travaux-preparatoires.html (Accessed October 2014). In the comment in relation to Article 80
+EPC in the Revision of the European Patent Convention (EPC 2000): Synoptic presentation EPC 1973/2000 -
+Part I: The Articles (Ofﬁcial Journal of the European Patent Ofﬁce, Special Edition No.4, 2007), the EPO did not
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+189
+
+Cees Mulder
+
+Patent Law Treaty
+
+repeat this intention. See: http://archive.epo.org/epo/pubs/oj007/08_07/special_edition_4_epc_2000_synoptic.
+pdf (Accessed October 2014).
+
+References
+
+Mulder, C. A. M. (2011a) Filing date requirements under the PCT—Alignment with the PLT? The WIPO Journal,
+
+2(2), 173–195.
+
+Mulder, C. A. M. (2011b) ‘On the Alignment of the European Patent Convention and the Patent Cooperation Treaty
+with Requirements of the Patent Law Treaty’, Unpublished PhD Thesis, Faculty of Law, Maastricht University
+
+(NL), http://arno.unimaas.nl/show.cgi?ﬁd¼23885 (Accessed October 2014).
+
+190
+
+© 2014 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2014) Vol. 17, no. 5–6
+
+

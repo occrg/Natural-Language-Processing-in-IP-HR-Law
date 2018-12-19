@@ -1,0 +1,765 @@
+The Journal of World Intellectual Property (2010) Vol. 13, no. 2, pp. 81–93
+
+doi: 10.1111/j.1747-1796.2009.00382.x
+
+Incentives for and Protection of Cultural
+Expression: Art, Trade and Geographical
+Indications
+
+Anselm Kamperman Sanders
+Maastricht University
+
+After the adoption of the Universal Declaration of Cultural Diversity, the interaction between
+the protection of traditional cultural expressions (TCEs) and geographical indicators (GIs) is an
+interesting one. The capacity of a geographical indication of origin to create a global market
+with local control over brand, quality and methods of production seems to make it immensely
+suitable for preservation of cultural diversity. Since the Agreement on Trade-Related Aspects of
+Intellectual Property Rights does not limit the potential causes of action for the unauthorized
+use of GIs, the tort of misappropriation may be applied in relation to TCEs. In order to
+reconcile intellectual property rights with non-Western belief systems, application of the tort of
+misappropriation, unjust enrichment and the remedy of restitution may make enforcement of
+GIs in relation to TCEs more palatable than other forms of protection.
+
+Keywords geographical indications; culture; unfair competition; misappropriation
+
+In the Preamble of the 2001 Universal Declaration of Cultural Diversity (UNESCO
+Convention), the United Nations Educational, Scientiﬁc and Cultural Organization
+(UNESCO) deﬁned the concept of culture as follows:
+
+Culture should be regarded as the set of distinctive spiritual, material,
+intellectual and emotional features of society or a social group, and that
+it encompasses, in addition to art and literature, lifestyles, ways of living
+together, value systems,
+(UNESCO, 2001,
+Preamble, fn. 2).
+
+traditions and beliefs
+
+The UNESCO Convention entered into force on 18 March 2007 and provides a
+framework for states to engage in protective measures to safeguard the diversity of
+cultural expressions against the inﬂuences of globalization and free trade.
+
+Trade in cultural expressions is of prime importance for cultural industries that
+wish to export products embodying cultural expression freely across the globe, yet
+many states wish to reduce the inﬂuence of foreign culture and rather stimulate their
+own. To that end, many countries have in place, legitimately or not (Van den
+Bossche, 2007), systems to protect predominantly domestic cultural values against
+the onslaught of popular cultural goods and services, such as Hollywood movies,
+books, television programmes, musical recordings, video games and online content.
+These systems comprise direct subsidies,1 import restrictions, tax rebates, screen
+quotas,2 licensing restrictions, price ﬁxing, limits on foreign investment and foreign
+
+r 2009 Blackwell Publishing Ltd
+
+81
+
+Anselm Kamperman Sanders
+
+Incentives for and Protection of Cultural Expression
+
+ownership, nationality requirements, domestic content requirements and intellec-
+tual property protection. Striking in this respect is the practice of siphoning off a
+percentage of the revenue of mandatory collecting rights societies for domestic
+artists and production. Copyright holders, foreign or domestic, will not receive the
+full proceeds of the secondary use rights of their works, but the collecting rights
+society rather acts as an organizer or sponsor of domestic cultural events, or
+‘‘ﬁnancial coach’’ of individual members.3
+
+Unlike the protective measures for the protection of cultural expression described
+above, this contribution will discuss more free trade-oriented methods of stimulating
+and protecting localized art and cultural expression by means of the intellectual
+property system. The focus is on the use of geographical indications (GIs) to create a
+differentiated market for cultural expressions with localized characteristics and on the
+possibilities available under the Agreement on Trade-Related Aspects of Intellectual
+Property Rights (TRIPS Agreement) and Paris Convention for the Protection of
+Industrial Property (Paris Convention)4 to use unfair competition law as a means to
+augment a GI-type protection for traditional knowledge and cultural expressions with
+the doctrinal basis to act against misappropriation.
+
+GIs as a Model for Protecting Cultural Expressions?
+
+Most commonly associated with wines, cheeses and other agricultural products, GIs
+are known to be powerful marketing tools that enable consumers to differentiate
+between goods and make rational choices about price, quality and product character-
+istics (Akerlof, 1970). GIs may indicate a country, region, locality, city, or even an
+address from which a product or service emanates. Like a trademark, GIs are signs
+whose function (Maniatis and Kamperman Sanders, 1993) is to provide information
+and protect its owner. GIs indicate the precise geographical origin and denote a
+quality or reputation that results from that place of origin of a product. According to
+Kretschmer (2003), GIs are eminently suitable for citizens from developing nations to
+experiment individually or collectively with accessing global markets. Asserting one’s
+position on a global market through branding encapsulating local products and its
+associated knowledge on production and cultural expression may lead to self-
+discovery and a restatement and even preservation of traditions. The creation of
+value in the minds of those expressing culture and in the marketplace is conducive to
+the protection of cultural diversity, as market differentiation, even in purely economic
+terms, increases consumer welfare. Its abilities to engender collective stakeholdership,
+the connection to a certain place or locality, and differentiating characteristics, make
+GIs eminently suitable to play a role in the protection, not only of a market in
+traditional cultural expressions (TCEs), but also of TCEs and cultural diversity itself.
+In spite of the fact that the international deﬁnition of what exactly constitutes a
+GI is not uniform, the question whether TCEs can be protected by GIs has been
+convincingly answered afﬁrmatively by Zografos (2006). The Paris Convention
+covers two notions of GIs: ‘‘indications of source or appellations of origin’’,5 which
+
+82
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 2
+
+Incentives for and Protection of Cultural Expression
+
+Anselm Kamperman Sanders
+
+are further deﬁned by the Madrid Agreement for Repression of False and Deceptive
+Indications of Source of Goods (Madrid Agreement)6 and the Lisbon Agreement
+for the Protection of Appellations of Origin and their International Registration
+(Lisbon Agreement). It is of importance to realize that the notion of ‘‘appellation’’
+covers names, whereas ‘‘indication’’ also comprises drawings, photos, national
+emblems, ﬂags or even symbolism.
+
+The Madrid Agreement indicates that ‘‘indications of source’’ denote that a
+product or service originates from a certain area, country, region or locality.
+According to the Lisbon Agreement, ‘‘appellation of origin’’ covers a ‘‘geographical
+name of a country, region, or locality, which serves to designate a product originating
+therein, the quality and characteristics of which are due exclusively or essentially to the
+geographical environment, including natural and human factors’’.7
+
+In the European Union (EU), GIs are protected on the basis of Council
+Regulation 510/2006/EC,8 which offers protection to GIs of agricultural products
+and foodstuffs.9 It employs other deﬁnitions. Whereas the deﬁnition of designation
+of origin10 corresponds largely with those of the Lisbon Agreement, the deﬁnition
+of ‘‘geographical indication’’11 raises the threshold for appellations of origin.
+
+The TRIPS Agreement has yet another deﬁnition in article 22, which deﬁnes
+GIs as ‘‘indications which identify a good as originating in the territory of a
+member, or locality in that territory, where a given quality, reputation or other
+characteristic of the good is essentially attributable to its geographic origin’’.
+Although similar to the deﬁnition in the Council Regulation, the notion of
+‘‘indication’’ is wider than that of ‘‘name’’, and its overall scope is somewhat wider
+(Gervais, 1998, pp. 123–5; Stewart, 1993). The crucial aspect of the deﬁnition of GIs
+in the TRIPS Agreement is the requirement that the goods to be covered have a
+quality or characteristic that derives from the place of origin and cannot have been
+derived from another place.
+
+Whatever the deﬁnition in various international agreements, however, it is clear
+that within the context of the TRIPS Agreement, GIs can be used for price
+discrimination, but also for the bundling of local knowledge through a localized
+organization of producers. Unlike a trademark, which can be transferred freely,
+irrespective of the locality in which production takes place, the link between the
+product and its geographical origin furthermore ensures that the geographical
+indication is tied to a locality and controlled locally.
+
+The TRIPS Agreement does not specify by which method World Trade
+Organization (WTO) members have to protect GIs. This can be done through a
+sui generis GI protection regime, or through use of trademark and certiﬁcation
+marks. Trade and certiﬁcation mark systems can be relied upon for applications,
+registrations, oppositions, cancellations, adjudication and enforcement through
+national trademark regimes (Bengedkey and Mead, 1992; McCarthy, 1998–2009,
+pp. 19–32; Pollack, 1962). A system like this meets the requirements for national
+treatment and TRIPS Agreement enforcement requirements in tandem with the
+national trademark regime. The disadvantage, however, is clear to see. Although
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 2
+
+83
+
+Anselm Kamperman Sanders
+
+Incentives for and Protection of Cultural Expression
+
+such multiple registration may not be a problem for strong entities or regions which
+have considerable economic power,12 smaller and poorer regions or municipalities
+may have greater difﬁculty and the cost of undertaking the task of registering in
+numerous countries.
+
+The system of protection by means of a sui generis GI system is different in
+nature. GIs are territorial in the sense that they are recognized in and by the
+jurisdiction where the area or locality lies that they are related to. The feature of
+territoriality is both its strength and its weakness. Legal protection is granted in a
+local territory, but like any IP right, it is territorial and conﬁned to its national
+jurisdiction. International conventions are commonly used to remedy this territorial
+feature. The key idea is that once a GI is recognized by the government in one
+country, other members to an international agreement will recognize the right in the
+GI too. The scope of protection for GIs found in the TRIPS Agreement encom-
+passes two levels of protection that tailor for the protection of GIs as indicators of
+consistent quality and an enhanced protection enabling product differentiation
+(Kamperman Sanders, 2005). The aforementioned local control on a territorial
+connection explains why at the ﬁfth session of the World Intellectual Property
+Organization (WIPO) Intergovernmental Committee on Intellectual Property and
+Genetic Resources, Traditional Knowledge and Folklore,13 the point was made that
+TCE’s that can be qualiﬁed as goods, such as handicraft items, can also be protected
+by GIs. In this instance, a GI can be afﬁxed to a product that is made from natural
+resources or through knowledge held by an indigenous group. Furthermore, some
+TCEs consisting of names, signs or other indications can themselves serve as GIs. It
+is then interesting to look at the scope of protection that GIs enjoy.
+
+Integrity of Information
+The prohibited acts described in article 22(2) of the TRIPS Agreement encompass
+misleading use of GIs ‘‘by any means in the designation or presentation of a good
+that indicated that the good in question originates in a geographical area other than
+the true place of origin’’ and acts of unfair competition as deﬁned under article 10bis
+of the Paris Convention.14 Through this provision, article 22(2) not only covers
+misleading allusions to or connotations of origin by use of both words and graphics,
+but also covers the use of a GI on goods of low(er) quality emanating from the
+proper geographical area. Article 22(4) extends this protection to a case of use of
+GIs that, although correct, do not correspond with the geographical indication
+commonly understood to produce the goods with the special qualities in question,
+or although factually correct do not correspond with consumer expectations about
+origin and quality. Usually this situation arises in those cases where the same name
+exists in different territories, or when a description is used that is likely to confuse
+the consumer as to the geographical area from which the product is commonly
+understood to come from, like: ‘‘Parma cheese produced in America’’ (Baeumer,
+1999, p. 17).
+
+84
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 2
+
+Incentives for and Protection of Cultural Expression
+
+Anselm Kamperman Sanders
+
+Article 22(2) protection is designed to safeguard that the consumer receives
+accurate information that enables him to differentiate between products emanating
+from the designated area from substitute products from outside the designated area.
+As indicators of quality, GIs provide information that help consumers make choices
+and reduce risk, or differently put: ‘‘If he [the consumer] is interested in origin, it is
+normally because origin imports an expectation about some quality’’ (Cornish and
+Phillips, 1982, p. 43). When the integrity of this information is tampered with, so as
+to render it incomplete or deceptive, this leads to market failure and welfare loss.
+Akerlof (1970) succinctly depicts the breakdown in the market when the consumer
+cannot trust the information about the product he wishes to purchase. The
+consumer will then prefer to buy goods of lower quality until—as in a vicious
+circle—the only goods available will be those of the lowest quality. Article 22(2) and
+22(4) therefore also leans against allusions to a geographical indication or con-
+notations in writing and image that distort the conveyance of correct information.
+The inclusion of actions against unfair competition under article 10bis of the Paris
+Convention in GIs protection, however, means that the potential scope of protection is
+not limited to confusion, but also extends to concepts such as dilution, the depreciation
+of goodwill or reputation, or even attempts to derive an undeserved beneﬁt from a GI.
+The doctrine of unfair competition may be internationally recognized by its inclusion
+in article 10bis of the Paris Convention, but a national comparison shows a wide
+diversity of forms of implementation (Kamperman Sanders, 1997; Ohly, 1995; de Very,
+2005) albeit all with the aim to strike a balance between fairness and freedom in
+competition. It is this general and elastic principle that provides the courts with the
+possibility to award protection to the fruits of someone’s ingenuity, skill, or labour on a
+case-by-case basis. This need for elasticity means that it is not possible to encapsulate
+all unfair acts in statutory provisions (Sell, 1958). Two main approaches for giving
+effect to the obligations of article 10bis of the Paris Convention can be discerned,
+namely protection on the basis of general provisions in a civil code, or enacted
+legislation on unfair competition (WIPO, 1994). Despite all examples of unfair
+behaviour provided for by article 10bis of the Paris Convention itself, or national
+legislation, there is always a residual category of ‘‘unfair commercial practices’’ that
+may be covered by a general clause. Here judges have to draw the line between what is
+fair and unfair in the marketplace (Ohly, 1995). The United Kingdom, however, has
+chosen to give effect to the obligations of the Paris Convention in relation to speciﬁc
+heads of interest under the law of passing off, injurious falsehood, or trade secrets only
+(Graf von Westerholt and Gysenberg, 1981), rather than ‘‘under a wide general-
+isation’’.15 Still, once a speciﬁc head of interest can be deﬁned, the law of passing off
+has shown to be ﬂexible as well (Wadlow, 1995). In deﬁning a head of interest for the
+protection of TCEs, however, one has to be conscious of the fact that indigenous
+peoples may have a different value system and often regard traditional knowledge and
+cultural heritage as ‘‘deeply personal and spiritual’’, a resource not subject to
+exploitation and misappropriation (Conway-Jones, 2005, p. 3). In the context of
+article 10bis of the Paris Convention, the concept of protection of misappropriation is
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 2
+
+85
+
+Anselm Kamperman Sanders
+
+Incentives for and Protection of Cultural Expression
+
+also present. It is not clearly exempliﬁed, but is nevertheless capable of offering a
+protective measure against the usurpation of intellectual assets that may be considered
+as the property or quasi-property of another (Kamperman Sanders, 1997). In this
+respect, the concept of misappropriation can be used to prevent someone from passing
+off one’s own goods as those from someone else (Cornish and Llewelyn, 2003, pp. 593
+et seq.), but also from ‘‘reaping where he has not sown’’ in the sense of the landmark
+case International News Service v Associated Press.16 This is not so much a form of
+assertion of an exclusive right of property, but the protection against usurpation or
+unjust enrichment (Callmann, 1942). When tied to and limited by geographical factors,
+such as land and human involvement, unjust enrichment may just be enough to create
+head of interest that merits protection for TCEs. If one limits the remedy for unjust
+enrichment to restitution of what one has gained at the expense of another, the scope of
+protection against misappropriation of TCEs will furthermore not be overbroad.
+
+Product Differentiation
+Article 23 of the TRIPS Agreement is limited in application to wines and spirits, but
+offers a wider scope of protection. There is no need for the consumer to be misled or
+proof that certain behaviour constitutes an act of unfair competition. The burden of
+proof is not as high. For wines and spirits this additional protection translates into
+the possibility to protect GIs even when the consumer is not confused. A prohibi-
+tion of use of expressions such as ‘‘kind’’, ‘‘type’’ or ‘‘style’’ in relation to a GI
+reﬂects that the purpose for the protection lies in the safeguarding of a particular
+production technique or product characteristic and may even be used to protect a
+GI against the dilution of a reputation for superior quality. As such, article 23
+protection may be used to facilitate product differentiation and would ideally
+enable producers in a designated geographical area to set higher prices, produce
+more, and preserve those traditional methods of production and levels of high
+quality that result from sustained investment, enable start-up industries to develop
+innovative production techniques, or enable producers to make the transformation
+from local to global markets.
+
+Still, it is important to realize that there are limitations to article 23 protection.
+Through article 24(4), existing use of a GI is preserved and generic terms are
+excluded from protection. Apart from formal limitations there is also a real-life
+limitation in economic terms. For a GI to derive real beneﬁt from this level
+of enhanced protection,
+investment in advertising and marketing is a must.
+Reputation needs time to develop. In this respect, some authors (Hausman and
+Rodrik, 2002) emphasize that the key to economic development is learning what
+one is good at producing.
+
+Traditional Knowledge and Cultural Expressions
+
+At an international level, the discussion on extending the protection of GIs to
+encompass traditional knowledge and cultural expressions has predominantly
+
+86
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 2
+
+Incentives for and Protection of Cultural Expression
+
+Anselm Kamperman Sanders
+
+focused on biopiracy issues and the protection of genetic resources (Raﬁ Commu-
+nique, 1994). Protection of traditional cultural expressions is, however, also part of
+the ongoing discussion in the context of the so-called development agenda at WIPO
+and the TRIPS Agreement discussions at the WTO (Kamperman Sanders, 2005;
+2007). Although the discussion on these issues is often conducted in parallel, it is
+clear that different forms of protection for traditional knowledge need to be
+considered (Correa, 2001). Concerns over biopiracy, misappropriation of genetic
+resources and beneﬁt sharing arrangements demand measures in the regulatory
+sphere of sovereignty and public international law.17 Protection of cultural expres-
+sions calls for different measures, a private property IP regime that is shaped by
+local mores, endorsed by the state, recognized internationally, and one which
+provides incentives for innovative approaches to preservation and marketing of
+traditional knowledge and culture. The question then is whether to do this through
+sui generis systems or through traditional IP tools. It is here that developed and
+developing countries do not see eye to eye.18
+
+Intellectual property law is commonly designed to provide incentives to create,
+rather than to preserve. For traditional cultural expressions, this means that a
+supportive legal regime should not exclusively focus on the act of creation.
+Finding novel ways of expressing traditional culture is an act of creation in and
+by itself, but this is different to the fostering of innovative approaches to preser-
+vation, and marketing of traditional knowledge and culture is more related
+to marketing and channelling revenues into traditional modes of production
+(Weeraworawit, 2003, p. 159). It is here that a system akin to those protecting
+GIs may be considered for the protection of TCEs. GIs are sustainable over a long
+period of time, even into perpetuity for as long as a particular method of production
+is maintained. A GI is also not reliant on concepts such as novelty or originality,
+like patent or copyright systems are. As such a GI would seem ideally suited as an
+example for the protection of traditional knowledge and cultural expressions. GIs
+serve to instil value in a sign that encapsulates locally produced goods containing
+unique geographical ingredients or produced with localized human knowledge.
+Protecting TCEs as GIs may not protect the knowledge encapsulated in the product
+per se, in fact the knowledge remains in the public domain. However, an entitlement
+is created that permits the holders of the right to protect not only a sign, but also a
+connection with or even paternity to the product that is the TCE. This is where the
+aforementioned concept of misappropriation may play an important role, so in the
+next section some practical examples will be provided. First, however, the issue of
+recognition of TCEs as GIs has to be further explored.
+
+Qualifying for Protection
+
+The issue of recognition domestically and internationally is a hotly contested
+issue in the area of standard GIs, so this issue will also be of concern for
+protection of TCEs. In essence all IP rights are territorial and it would be up to
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 2
+
+87
+
+Anselm Kamperman Sanders
+
+Incentives for and Protection of Cultural Expression
+
+the nation state to decide whether ‘‘Cultural Expressions’’ would be recognized
+and what the criteria are. Then international protection would have to be
+ensured. In 2005, the EU submitted a proposal under the Doha Round at the
+WTO on a multilateral register for GIs, introducing a legally binding system
+requiring member states to report their GIs to the WTO. This multilateral register
+would also have to cover agricultural products and handicrafts. Recently, during
+the WTO Trade Negotiations Committee meetings in May and June 2008,19 this
+proposal was modiﬁed to entail a register in which GI holders can publish their
+GIs multilaterally for notiﬁcation, but would have to go through the national
+register of each country to obtain legal protection. The WTO registration would
+have the purpose of providing evidence of the claim to the GI. Most notably, this
+would be that the indication is not generic, for if it is, it must be excluded from
+protection under articles 22 and 23 of the TRIPS Agreement. Once the GI, or for
+that matter a ‘‘Cultural Expression’’, is notiﬁed to the WTO, this could lead to
+protection in other member states, either through an automatic recognition (like
+in the Lisbon Agreement system), or through a national recognition of the WTO
+notiﬁcation.
+
+Which TCEs should, however, qualify for protection? The combined rationale
+for protection of GIs, traditional knowledge and cultural expression already
+provides an indication for the type of requirements that should be used by national
+governments in order to describe which products or productions fall within the
+protected category, just like Parma Ham, Champagne, or Port wine, the method of
+production, or the form of the cultural expression. If one only looks at India one
+can think of folk dances like Bhangra of the Punjab, Bihu of Assam etc., or theatre
+like the oldest surviving theatre traditions of the world, the 2000-year-old Kutiyat-
+tam of Kerala. The advantage of a GI-type system is clear to see. Since there is no
+prohibition against using the Kutiyattam itself as inspiration for new development
+in theatre, there would be a prohibition against using the term Kutiyattam in
+relation to theatre that does not adhere to the prescribed ‘‘ingredients’’ of a
+Kutiyattam play. Not to be allowed to use the component parts (story line,
+narrative, characters, symbolism, music) of Kutiyattam would go too far for a
+Westerner placing value on progress and innovation. According to WIPO (2001,
+p. 25), traditional knowledge includes ‘‘tradition based literary, artistic and
+scientiﬁc works, performances, inventions, scientiﬁc discoveries, designs, marks,
+names and symbols, undisclosed information and all other tradition-based innova-
+tions and creations resulting from intellectual activity in the industrial, scientiﬁc,
+literary or artistic ﬁeld’’. Yet when it comes to traditional knowledge, holistic
+notions of knowledge and indigenous expressions often sit uneasy with the liberties
+that modern business takes with what indigenous peoples perceive to be sacred
+(Antons, 2005). It is in this context that the concept of misappropriation is useful.
+If, for example, Maori patterns are used for tattoos of persons who have not earned
+the tribal right to wear them, both the tattoo artist and the wearer have mis-
+appropriated the imagery (Gray, 2005).
+
+88
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 2
+
+Incentives for and Protection of Cultural Expression
+
+Anselm Kamperman Sanders
+
+The remedies for misappropriation of TCEs can mostly be restitutional. Any
+beneﬁt that has passed from the claimant to the enriched must then be restored.
+Admittedly, given the more or less permanent nature of the tattoo, this example
+presents problems. Financial compensation may be in order if corrective tattooing
+or laser-removal treatment is not deemed appropriate. In other cases of misappro-
+priation, however, handing over infringing goods and corrections in the media may
+be sufﬁcient.
+
+Conclusion
+
+In a globalizing world the preservation of cultural diversity has become a prime
+concern. Intellectual property rights, traditionally used to foster innovation, can
+also be used for the purpose of preservation. A GI-type protection for traditional
+knowledge and cultural expressions with the doctrinal basis to act against mis-
+appropriation may offer a way forward in reconciling local traditional knowledge
+and belief systems with Western notions of property.
+
+About the Author
+
+Anselm Kamperman Sanders, is a Professor of Law and Director of the Masters
+Intellectual Property Law and Knowledge Management (LLM/MSc) at Maastricht
+University, the Netherlands, and Academic Director IEEM Intellectual Property
+Law School, Macau SAR, China; e-mail: a.kampermansanders@pr.unimaas.nl
+
+Notes
+
+1 For Europe, Eurimages fund, Council of Europe, Resolution (88) 15 of 16 October
+1988, Media Plus, Decision 2000/821/EC of the Council of 20 December 2000 on Media
+Plus—development, distribution and promotion; and Decisions 613/2001/EC of the
+European Parliament and the Council of 19 January 2001 on MEDIA training. For
+Canada, see the Department of Canadian Heritage website for a number of measures
+beneﬁtting Canadian publishers and music, ﬁlm, and multimedia producers [online].
+Available at hhttp://www.pch.gc.cai [Accessed July 2009].
+
+2 See, for example, the quota system for foreign broadcasts in the Television Without
+
+Frontiers Directive 89/552/EEC, which was adopted in 1989, revised in 1997 by
+Directive 97/36/EC and in 2007 to become the Audiovisual Media Services Directive
+2007/65/EC.
+
+3 See, for example, the website of BUMA/Stemra, a Dutch collecting society for music
+
+[online]. Available at hhttp://www.bumastemra.nli [Accessed July 2009]. The society
+runs a social fund that provides loans, donations, pension plans and insurance for
+individual music authors who are members and a cultural fund that promotes Dutch
+music as a product by organizing, ﬁnancing and subsidizing numerous events nationally
+and internationally. Similar arrangements are available for authors, performing artists,
+music publishers, producers and distributors of music, ﬁlm and interactive software,
+photographers, editors, translators, etc.
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 2
+
+89
+
+Anselm Kamperman Sanders
+
+Incentives for and Protection of Cultural Expression
+
+4 Paris Convention for the Protection of Industrial Property of 20 March 1883, as revised
+
+at Brussels, 1900, Washington, 1911, The Hague, 1925, London, 1934, Lisbon, 1958,
+and Stockholm, 1967, and as amended on 2 October 1979.
+
+5 Article 10 of the Paris Convention, on False Indications of Source of Goods.
+
+6 Madrid Agreement for the Repression of False or Deceptive Indications of Source on
+
+Goods of 14 April 1891, as revised at Washington 1911, The Hague, 1925, London,
+1934, and Lisbon, 1958.
+
+7 Article 2 of the Lisbon Agreement for the Protection of Appellations of Origin and their
+
+International Registration of 31 October 1958, as revised at Stockholm, 1967, and as
+amended on 28 September 1979.
+
+8 Replacing Regulation 2081/92/EEC, as amended by Council Regulation 692/2003.
+
+9 Regulation 510/2006/EC of 20 March 2006 on the protection of geographical
+
+indications and designations of origin for agricultural products and foodstuffs was
+implemented following the WTO panel reports in United States (WT/DS174) and
+Australia (WT/DS290), adopted by the DSB on 20 April 2005. The new Regulation
+extends the protection available for EU geographical indications to foreign geographical
+indications, without requiring an equivalent and reciprocal level of protection offered to
+EU geographical indications by the foreign government. Non-EU producers wishing to
+apply for protection of their geographical indication may furthermore apply directly to
+the commission, rather than having to address their own national government.
+
+10 Regulation 2081/92/EEC, article 2(2)(a) designation of origin means the name of a
+
+region, a speciﬁc place or, in exceptional cases, a country, used to describe an
+agricultural product or a foodstuff:
+ originating in that region, speciﬁc place or country and
+ the quality or characteristics of which are essentially or exclusively due to a particular
+geographical environment with its inherent natural and human factors, and the
+production, processing and preparation of which take place in the deﬁned
+geographical area.
+
+11 Regulation 2081/92/EEC, article 2(2)(b) geographical indication means the name of a
+
+region, a speciﬁc place or, in exceptional cases, a country, used to describe an
+agricultural product or a foodstuff:
+ originating in that region, speciﬁc place or country and
+ which possesses a speciﬁc quality, reputation or other characteristics attributable to
+that geographical origin and the production and/or processing and/or preparation of
+which take place in the deﬁned geographical area.
+
+12 Vide Champagne or Roquefort.
+
+13 See Document WIPO/GR TKF/IC/5/3, 52.
+14 Paris Convention, article 10bis—Unfair Competition
+
+(1) The countries of the Union are bound to assure to nationals of such countries
+effective protection against unfair competition.
+(2) Any act of competition contrary to honest practices in industrial or commercial
+matters constitutes an act of unfair competition.
+(3) The following in particular shall be prohibited:
+1. all acts of such a nature as to create confusion by any means whatever with the
+establishment, the goods, or the industrial or commercial activities, of a competitor;
+
+90
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 2
+
+Incentives for and Protection of Cultural Expression
+
+Anselm Kamperman Sanders
+
+2. false allegations in the course of trade of such a nature as to discredit the
+establishment, the goods, or the industrial or commercial activities, of a competitor;
+3. indications or allegations the use of which in the course of trade is liable to mislead the
+public as to the nature, the manufacturing process, the characteristics, the suitability for
+their purpose, or the quantity, of the goods.
+
+15 Victoria Park Racing and Recreation Grounds Co. v Taylor (1937) 58 CLR 479; see in this
+respect also Mogul Steamship Co. v McGregor Gow & Co. (1889) 23 QBD 598 at 625–6;
+and Hodgkinson & Corby Ltd and Roho Inc. v Wards Mobility Services Ltd (1995) FSR
+169 per Jacob J.: ‘‘There is no tort of copying. There is no tort of taking a man’s market
+or customers. Neither the market nor the customers are the plaintiff’s to own. There is
+no tort of making use of another’s goodwill as such. There is no tort of competition’’.
+
+16 248 US 215 (1918).
+17 For a repository of articles on this issue see the website available at hhttp://
+
+www. iprsonline.org/resources/tk.htmi [Accessed July 2009].
+
+18 See country positions submitted to the 11th Inter Governmental Conference (IGC)
+
+meeting held from 3 to 12 July 2007 in Geneva at the WIPO.
+
+19 See Document TN/C/W/52 of 19 July 2008, available from documents online at hhttp://
+
+www.wto.orgi [Accessed July 2009].
+
+References
+
+Akerlof, G. (1970) ‘The Market for ‘‘Lemons’’: Quality Uncertainty and the Market
+
+Mechanism’, Quarterly Journal of Economics, 84(3), 488–500.
+
+Antons, C. (2005) ‘Traditional Knowledge and Intellectual Property Rights in Australia and
+
+Southeast Asia’, in C. Heath and A. Kamperman Sanders (eds.), New Frontiers of
+Intellectual Property Law. Hart Publishing, Oxford, pp. 37–52.
+
+Baeumer, L. (1999) ‘Protection of Geographical Indications under WIPO Treaties and
+
+Questions Concerning the Relationship between those Treaties and the TRIPS
+Agreement’ in ‘Symposium on the Protection of Geographical Indications in the
+Worldwide Context’, WIPO publication No. 760(E), proceedings of symposium held in
+WIPO, Geneva, Egez, Hungary, 23–25 October 1997.
+
+Bengedkey, L. and Mead, C. (1992) ‘International Protection of Appellations of Origin and
+
+Other Geographical Designations of Regional Origin Under the Lanham Act’,
+Trademark Reporter, 82, 765–792.
+
+Callmann, R. (1942) ‘He Who Reaps Where He Has Not Sown: Unjust Enrichment in the
+
+Law of Unfair Competition’, Harvard Law Review, 55, 595–614.
+
+Conway-Jones, D. (2005) ‘Safeguarding Hawaiian Traditional Knowledge and Cultural
+
+Heritage: Supporting the Right to Self-determination and Preventing the
+Commodiﬁcation of Culture’, Howard Law Journal, 48, 737–762.
+
+Cornish, W. and Llewelyn, D. (2003) Intellectual Property: Patent, Copyright, Trade Marks
+
+and Allied Rights, 5th edition. Thomson Sweet & Maxwell, London.
+
+Cornish, W. and Phillips, J. (1982) ‘The Economic Function of Trade Marks: An Analysis
+
+with Special Reference to Developing Countries’, International Review of Industrial
+Property and Copyright Law, 13, 41–64.
+
+Correa, C. (2001) Traditional Knowledge and Intellectual Property—Issues and Options
+Surrounding the Protection of Traditional Knowledge [online]. QUNO. Available at
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 2
+
+91
+
+Anselm Kamperman Sanders
+
+Incentives for and Protection of Cultural Expression
+
+hhttp://www.quno.org/geneva/pdf/economic/Discussion/Traditional-Knowledge-IP-
+English.pdfi [Accessed April 2009].
+
+de Very, R. (2005) Towards a European Unfair Competition Law. Koninklijke Brill, Leiden.
+Gervais, D. (1998) The TRIPS Agreement. Drafting History and Analysis. Sweet & Maxwell,
+
+London.
+
+Graf von Westerholt, H. and Gysenberg, H. (1981) ‘Vereinigtes K ¨onigreich von
+
+Grobritannien und Nordirland, Part VI, in E. Ulmer (ed.), Das Recht des unlauteren
+Wettbewerbs in den Mitgliedstaaten der EWG. Carl Heymanns Verlag, K ¨oln.
+
+Gray, E. (2005) ‘Maori Culture and Trade Mark Law in New Zealand’, in C. Heath and A.
+Kamperman Sanders (eds.), New Frontiers of Intellectual Property Law. Hart Publishing,
+Oxford, pp. 71–96.
+
+Hausman, R. and Rodrik, D. (2002) ‘Economic Development As Self-Discovery’, National
+
+Bureau of Economic Research Working Paper 8952 [online]. Available at hhttp://
+ksghome.harvard.edu/  .drodrik.academic.ksg/papers.htmli[Accessed April 2009]
+
+Kamperman Sanders, A. (1997) Unfair Competition Law—The Protection of Intellectual and
+
+Industrial Creativity. Clarendon Press, Oxford.
+
+Kamperman Sanders, A. (2005) ‘Future Solutions for Protecting Geographical Indications
+
+Worldwide’, in C. Heath and A. Kamperman Sanders (eds.), New Frontiers of
+Intellectual Property Law. Hart Publishing, Oxford, pp. 133–48.
+
+Kamperman Sanders, A. (2007) ‘The Development Agenda for Intellectual Property’, in C.
+
+Heath and A. Kamperman Sanders (eds.), Intellectual Property and Free Trade
+Agreements. Hart Publishing, Oxford, pp. 3–26.
+
+Kretschmer, M. (2003) ‘The Economics of Geographical Indications’, in ‘Queen Mary and
+
+Fordham University NY Joint Seminar Series’, proceedings of a conference held in
+Barbican, London, November 2003 (unpublished).
+
+Maniatis, S. M. and Kamperman Sanders, A. (1993) ‘A Consumer Trade Mark: Protection
+
+based on Origin and Quality’, European Intellectual Property Review, 11, 406–415.
+
+McCarthy, J. (1998–2009) McCarthy on Trademarks and Unfair Competition, 4th edition.
+
+West Publishing, New York.
+
+Ohly, A. (1995) Richterrecht und Generalklausel im Recht des unlauteren Wettbewerbs. Carl
+
+Heymanns Verlag, K ¨oln.
+
+Pollack, L. (1962) ‘Roquefort—An Example of Multiple Protection for a Designation of
+
+Regional Origin Under the Lanham Act’, Trademark Reporter, 52, 755–67.
+
+Raﬁ Communique (1994), ‘Bioprospecting-Biopiracy and Indigenous Peoples’ [online],
+
+November. Available at hhttp://www.raﬁusa.orgi [Accessed July 2009].
+
+Sell, E. (1958) ‘The Doctrine of Misappropriation in Unfair Competition. The Associate
+
+Press Doctrine after Forty Years’, Vanderbilt Law Review, 11, 483–500.
+
+Stewart, T. (1993) The GATT Uruguay Round, A Negotiating History. Kluwer Law
+
+International, The Hague.
+
+United Nations Educational, Scientiﬁc and Cultural Organization (2001) Universal
+
+Declaration on Cultural Diversity. Available at hhttp://www.unesco.orgi [Accessed July
+2009].
+
+van den Bossche, P. (2007) Free Trade and Culture: A Study of Relevant WTO Rules and
+
+Constraints on National Cultural Policy Measures. Boekmanstudies, Amsterdam.
+
+Wadlow, C. (1995) The Law of Passing-off. Sweet and Maxwell, London.
+
+92
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 2
+
+Incentives for and Protection of Cultural Expression
+
+Anselm Kamperman Sanders
+
+Weeraworawit, W. (2003) ‘International Legal Protection for Genetic Resources, Traditional
+
+Knowledge and Folklore: Challenges for the Intellectual Property System’, in C.
+Bellmann, G. Dutﬁeld and R. Mel ´endez-Ortiz (eds.), Trading In Knowledge:
+Development Perspectives on Trips, Trade and Sustainability. Earthscan Publications,
+London, pp. 157–65.
+
+World Intellectual Property Organization (1994) Protection against Unfair Competition.
+
+World Intellectual Property Organization, Geneva.
+
+World Intellectual Property Organization (2001) Report on Fact-Finding Missions on
+
+Intellectual Property and Traditional Knowledge. World Intellectual Property
+Organization, Geneva.
+
+Zografos, D. (2006) ‘Can Geographical Indications be a Viable Alternative for the Protection
+
+of Traditional Cultural Expressions?’, in F. Macmillan and K. Bowrey (eds.), New
+Directions in Copyright Law, Vol. 3, Edward Elgar, Cheltenham, pp. 37–55.
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 2
+
+93
+
+

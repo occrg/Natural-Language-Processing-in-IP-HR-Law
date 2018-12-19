@@ -25,6 +25,10 @@ Enter the following commands into the terminal:
 * 'admin' folder: contains files used to manage and administrate the project.
 * 'submission' folder: contains all files submitted as required by course.
 
+## Look into
+* Stemming over lemmatising or a different lemmatiser.
+  * 'patent', 'patenting' and 'patentability' all considered different.
+
 ## Problems
 * I haven't checked how to programs work on non-unix OSs. They might behave differently because of different ways that OSs process new lines and directory paths.
   * Pull Git repository to Windows OS and accomadate for differences in code so same code will work regardless of OS.

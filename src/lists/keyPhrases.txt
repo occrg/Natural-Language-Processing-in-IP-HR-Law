@@ -1,4 +1,3 @@
-protection
 property
 author
 licence
@@ -24,13 +23,11 @@ fixed
 incentive
 heritage
 cultural
-intangible
 tangible
 safeguarding
 natural
 protection
 international
-property
 educational
 conservation
 universal
@@ -46,7 +43,6 @@ open
 right
 progress
 compulsory
-licence
 free
 collaborative
 reuse
@@ -61,17 +57,13 @@ exceptions
 limitations
 education
 personal
-right
-protection
 control
 exclusive
-licence
 royalty
 creative
 control
 exclusionary
 limited
-author
 individual
 literary
 artistic

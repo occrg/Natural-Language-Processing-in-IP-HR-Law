@@ -1,7 +1,7 @@
-right,288
-protection,210
-property,124
+right,144
 authority,78
+protection,70
+property,62
 intellectual,62
 trademark,59
 patent,47
@@ -12,10 +12,8 @@ copyright,12
 invention,10
 limited,8
 exclusive,8
-licence,6
 compensation,6
 free,5
-author,4
 literary,4
 natural,4
 limitation,4
@@ -23,6 +21,8 @@ economic,4
 access,3
 personal,3
 individual,3
+author,2
+licence,2
 artistic,2
 expression,2
 incentive,2

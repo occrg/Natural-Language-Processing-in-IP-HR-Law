@@ -18,16 +18,18 @@ def removeNewLines(text):
     wordsOnTwoLines = text.replace('-\n', '')
     noNewLines = wordsOnTwoLines.replace('\n', ' ')
     noX0Cs = noNewLines.replace('\x0c', '')
-    return noX0Cs
+    noLineDashes = noX0Cs.replace('—', ' ')
+    return noLineDashes
 
 def substituteKerning(text):
     replaceFis = text.replace('ﬁ ', 'fi')
-    replaceFls = replaceFis.replace('ﬂ ', 'fl')
+    replaceFis2 = replaceFis.replace('ﬁ ', 'fi')
+    replaceFls = replaceFis2.replace('ﬂ ', 'fl')
     replaceFfs = replaceFls.replace('ﬀ ', 'ff')
-    return replaceFis
+    return replaceFfs
 
 def removePunctuation(text):
-    punctuation = re.compile(r'[.?!,/"“””’:;()[\]{}0-9]')
+    punctuation = re.compile(r'[.?!,¸/"‘“””’:;()[\]{}0-9]')
     textWOPuncts = punctuation.sub("", text)
     return textWOPuncts
 

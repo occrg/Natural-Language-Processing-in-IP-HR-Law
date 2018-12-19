@@ -1,0 +1,1267 @@
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6, pp. 600–621
+
+doi: 10.1111/j.1747-1796.2009.00378.x
+
+The ‘‘Three-Step Test’’ and the Wider Public
+Interest: Towards a More Inclusive
+Interpretation
+
+Robin Wright
+Melbourne Law School
+
+Intellectual property law aims to protect the public interest in two often-contradictory ways:
+by granting exclusive rights to encourage creativity and by limiting those rights in certain
+situations for socially beneﬁcial purposes. The Three-Step Test in international intellectual
+property treaties aims to ensure that limitations and exceptions to intellectual property rights
+do not inappropriately encroach upon the interests of rights holders. This article examines the
+interpretation of the Three-Step Test as included in the Agreement on Trade-Related Aspects
+of Intellectual Property Rights for copyright and patents by two World Trade Organization
+dispute-resolution panels and by other commentators. It looks at how these interpretations
+have dealt with the public policy motivations underlying limitations and exceptions to
+exclusive rights, and considers the ways in which the public policy intentions that underlie
+decisions by national legislators to adopt the limitations and exceptions to intellectual
+property rights can be considered in each step of the test. The conclusion reached is that
+the Three-Step Test contains the potential to allow both aspects of the public interest to be
+considered as part of an inclusive interpretation.
+
+Keywords copyright; patent; public interest; Three-Step Test
+
+The notion of the ‘‘public interest’’ in intellectual property law contains a contra-
+diction that tends to polarize debate. The long history of national legislation and
+international treaties for the protection of the rights of authors and other rights
+holders has established that there is a public interest in the provision of exclusive
+intellectual property rights to encourage innovation and further creativity by
+enabling their effective economic exploitation. However, these instruments also
+include provisions that recognize a public interest in the derogation of those rights
+in certain situations to encourage wider social access to and use of knowledge,
+information and cultural products.1 Intellectual property law therefore promotes
+the public interest via two different and inherently contradictory mechanisms:
+creating rights that operate to exclude use by anyone other than the designated
+owner but also permitting socially valuable uses in certain limited situations. The
+appropriate extent of each is determined by national policy considerations and
+regulated by international law.
+
+This policy contradiction creates a tension in the interpretation of intellectual
+property legislation and the international treaties that govern national intellectual
+property laws. Intellectual property rights owners argue that they should be
+
+600
+
+r 2009 Blackwell Publishing Ltd
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+Robin Wright
+
+it has now been incorporated into a number of international
+
+provided with the widest possible protection of their rights. However, representa-
+tives of user interests contend that important social value can also arise from
+limiting these rights in certain circumstances to provide public beneﬁts in areas such
+as private use, freedom of speech, research, public health or education. Both
+positions aim to protect the public interest but legislation drafted to enhance the
+beneﬁts provided by one may potentially impede the beneﬁts provided by the other.
+Standing at the centre of this debate over the most appropriate way for
+intellectual property laws to support the public interest is the Three-Step Test
+now included in a number of international treaties. The test governs the inter-
+nationally agreed scope of exceptions and limitations to intellectual property rights.
+First introduced in 1967 into the Berne Convention for the Protection of Literary and
+Artistic Works (Berne Convention) in relation to the reproduction right in copyright
+law,
+intellectual
+property treaties that deal with a broad range of rights, most notably within the
+provisions dealing with different intellectual property rights in the Agreement on
+Trade-Related Aspects of Intellectual Property Rights (TRIPS). The test protects the
+rights of intellectual property owners by placing restraints on the scope of
+exceptions and limitations to intellectual property rights that members are per-
+mitted to include in their national legislation. However, its existence also conﬁrms
+that the exclusive rights granted by intellectual property legislation are not absolute.
+The interpretation of the Three-Step Test is therefore a highly contested area in
+international intellectual property debates. While this conﬂict is often credited,
+perhaps incorrectly, with ensuring a proper ‘‘balance’’ within intellectual property
+law between the interests of rights owners and the interests of users of the material
+(Burrell and Coleman, 2005, pp. 187–91), in practice the reaction to any interpreta-
+tion of the test is characterized by intense lobbying by or on behalf of rights holders
+as well as user groups. In addition, there is limited judicial precedent supporting an
+agreed interpretation of the test. The interpretations made have focused predomi-
+nantly on providing appropriate protection for the economic interests of rights
+holders. However, there has been less detailed discussion concerning in what
+circumstances or to what extent exceptions or limitations introduced to provide
+wider public or social beneﬁts should be permitted to derogate from the interests of
+rights holders (Grifﬁths, 2006).
+
+Outline
+
+The inclusion of the Three-Step Test in TRIPS in 1994 has led to its examination in
+a number of World Trade Organization (WTO) dispute-resolution panel reports.
+These have dealt with the test as applied to copyright, patents and trademarks. In
+Canada—Patent Protection of Pharmaceutical Products (Patent Case) in March
+2000 a complaint by the European Communities and their member states (EC) led
+to an examination of whether certain exceptions contained in Canadian patent law
+complied with the Three-Step Test in TRIPS, article 30. In June of the same year, in
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+601
+
+Robin Wright
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+United States—Section 110(5) of the US Copyright Act (Copyright Case), a
+complaint by the EC against exceptions contained in section 110(5) of the US
+Copyright Act led to an assessment of the compliance of the US legislation with
+TRIPS, article 13. In 2005, a complaint by the United States and Australia
+regarding the non-compliance of certain EC regulations relating to trademarks
+and geographical indications for agricultural products and foodstuffs led to a panel
+report: European Communities—Protection of Trademarks and Geographical Indica-
+tions for Agricultural Products and Foodstuffs (Trademark Case) that included a
+discussion of compliance by the EC with TRIPS, article 17. The test is now also
+included in some national legislative instruments and there is a signiﬁcant amount
+of academic commentary concerning its interpretation.
+
+This article will explore how arguments about the social beneﬁts arising from
+public policy considerations that extend beyond the speciﬁc interests of rights
+holders have entered the debate surrounding interpretation of the Three-Step Test.
+The ﬁrst section provides background information about the incorporation of the
+Three-Step Test into the international intellectual property treaties including how
+the test ﬁrst entered the treaties and why the drafters were prepared to allow nations
+to provide exceptions to intellectual property rights in certain situations. The
+following section examines the two WTO cases that dealt with the Three-Step Test
+in relation to patents and copyright. These have been chosen because of the
+similarity of the structure of the tests in articles 13 and 30 of TRIPS and the Berne
+Convention, article 9(2).2 The discussion focuses on the role played by the wider
+public policy rationales underlying the provision of the exceptions in arguments
+made by the respondent nations and in the interpretation of the test undertaken by
+the panels. In both these cases, the respondent nations argued that the disputed
+provision had a legitimate public policy rationale, which should be taken into
+account when using the Three-Step Test to determine its validity. The section
+considers how and at what point these arguments were examined by the panels and
+what, if any, impact they had on the ﬁnal interpretation of the test.
+
+In the ﬁnal section, the test itself is examined step by step to determine in which
+sections of the test as worded in TRIPS, articles 13 and 30 there is potential for
+wider public interest considerations to be taken into account under each of the three
+criteria. It looks at how each limb of the test was interpreted by both the WTO
+panels and by the commentators and explores where and how the public policy
+rationale for an exception can potentially play a role in the interpretation of each
+step.
+
+The article concludes that a public policy rationale focused on the provision of
+social beneﬁts can validly form part of consideration within each step of the Three-
+Step Test and to do so could lead to a more compelling interpretation of the test
+that takes both sides of the public interest supported by intellectual property law
+into account. This discussion has important public policy implications as digital
+technologies now pose both challenges and opportunities for those engaged with the
+production and use of intellectual property products. The expansion of the activities
+
+602
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+Robin Wright
+
+of public service institutions such as libraries and museums into the digital world
+alongside the development of commercial digital delivery business models for
+intellectual property products will continue to challenge the effectiveness of the
+test and its ability to provide an appropriate balance between such activities. In
+addition, the Three-Step Test is now increasingly being incorporated into domestic
+legislation,3 which means that its interpretation is no longer only of concern to
+those engaged in the arcane world of treaty interpretation, but can have an impact
+on the daily activities of citizens.
+
+The Three-Step Test
+
+In 1967, a general right of reproduction was introduced into the Berne Convention.
+(article 9(1)). A reproduction right was already a part of the majority of national
+copyright laws4 (Ricketson, 2002, p. 23), but the proposal for the explicit inclusion
+of a general right in the treaty for the ﬁrst time created a debate about the
+circumstances in which national legislators should be permitted to provide excep-
+tions or limitations to the new right.
+
+The study group developing the preparatory documents for the revision of the
+
+Berne Convention in Stockholm in 1967 observed that:
+
+. . . on the one hand, it was obvious that all the forms of exploiting a
+work which had, or were likely to acquire, considerable economic or
+practical
+importance must in principle be reserved to the authors;
+exceptions that might restrict the possibilities open to authors in these
+respects were unacceptable. On the other hand,
+it should not be
+forgotten that domestic laws already contained a series of exceptions
+in favour of various public and cultural interests and that it would be
+vain to suppose that countries would be ready at this stage to abolish
+these exceptions to any appreciable extent (Document S/1, Records
+1967, pp. 111–2).
+
+Existing exceptions in national legislation included provisions relating to a
+range of uses such as, public speeches, quotations. school books, newspaper articles,
+private use, reproduction by photocopying in libraries and reproduction for the use
+of the blind (Document S/1, Records 1967, p. 112). The study group considered that
+it would not be appropriate to include a full list of permitted exceptions in the
+convention, as this could ‘‘encourage the adoption of all the exceptions allowed and
+abolish the right of remuneration’’ and also could ‘‘never cover all the special cases
+existing in national legislation’’ (Document S/1, Records 1967, p. 112). Instead, they
+determined to ﬁnd:
+
+. . . a formula capable of safeguarding the legitimate interests of the
+author while leaving a sufﬁcient margin of freedom to the national
+legislation to satisfy important social or cultural needs (Document. S/1,
+Records 1967, p. 113).
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+603
+
+Robin Wright
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+As a result, a provision was added outlining the general terms under which
+national legislators would be permitted to allow an exercise of the reproduction
+right by someone other than the author. The ﬁnal agreed provision became known
+as the Three-Step Test. It provided that national legislation could permit the
+reproduction of works protected by the convention:
+
+. . . in certain special cases, provided that such reproduction does not
+conﬂict with a normal exploitation of
+the work and does not
+unreasonably prejudice the legitimate interests of the author (Berne
+Convention, article 9(2)).
+
+This ﬁrst iteration of the test, with minor wording changes, has since been
+adopted and expanded to apply to a broader range of rights through its inclusion in
+TRIPS (articles 13, 17, 26(2), 30), the World Intellectual Property Organization
+(WIPO) Copyright Treaty (WCT) (article 10) and the WIPO Performances and
+Phonograms Treaty (WPPT) (article 16).
+
+The inclusion of the test in TRIPS reﬂects both the desire of the members to
+‘‘promote effective and adequate protection of intellectual property rights’’ and the
+objectives and principles of the instrument as contained in articles 7 and 8. TRIPS,
+article 7 notes that the protection of intellectual property rights should contribute to
+the ‘‘transfer and dissemination of technology’’ to beneﬁt both producers and users
+of technical knowledge ‘‘in a manner conducive to social and economic welfare’’.
+TRIPS, article 8 refers to the necessity of adopting ‘‘measures necessary to protect
+public health and nutrition’’, to promote the public interest in sectors important to
+a nation’s socioeconomic and technological development and to avoid the restraint
+of trade. The test is now well established as part of these multilateral agreements
+and plays a key role in international intellectual property and trade agendas.
+
+WTO Panel Interpretations
+
+The inclusion of the Three-Step Test in TRIPS in relation to copyright, trademarks,
+industrial design and patents means that the test now functions in the context of
+international trade and is subject to the binding dispute-settlement mechanisms of
+the WTO. The two WTO dispute-resolution cases discussed in this article con-
+sidered the test as included in TRIPS, article 13 relating to copyright that reads:
+
+Members shall conﬁne limitations or exceptions to exclusive rights to
+certain special cases which do not conﬂict with a normal exploitation of
+the work and do not unreasonably prejudice the legitimate interests of
+the right holder (TRIPS, article 13)
+
+and article 30 that relates to patents:5
+
+Members may provide limited exceptions to the exclusive rights confer-
+red by a patent provided that such exceptions do not unreasonably conﬂict
+with a normal exploitation of the patent and do not unreasonably
+
+604
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+Robin Wright
+
+prejudice the legitimate interests of the patent owner, taking account of the
+legitimate interests of third parties (TRIPS, article 30).
+
+These provisions adopt slightly different wording from article 9(2) of the Berne
+Convention6 reﬂecting the different contexts in which the test operates in TRIPS. In
+both these cases, the WTO panels undertook interpretation of the text in line with
+article 31(1) of the Vienna Convention on the Law of Treaties (Vienna Convention)
+(Patent Case, paragraphs 4.30, 7.13; Copyright Case, paragraph 6.43).
+
+A treaty is to be interpreted in good faith in accordance with the ordinary
+meaning to be given to the terms of the treaty in their context and in the
+light of its object and purpose (Vienna Convention, article 31(1)).
+
+In both the disputes the defendant nations argued that an important social
+beneﬁt ﬂowed from the disputed exceptions included in their national legislation. In
+the Patent Case, the panel was required to determine whether two exceptions that
+allowed certain uses of the patent by parties other than the patent owner during the
+patent term provided in the Canadian Patent Act 1985 were compliant with article
+30 of TRIPS. In the Copyright Case, the panel examined whether or not section
+110(5) of the US Copyright Act that permitted limited public performance of
+broadcasts in certain settings complied with article 13 of TRIPS. In both cases, the
+wider public beneﬁt arising from the challenged exception was one of the factors
+used by the defendant nation to argue that the exception in question was compliant
+with the Three-Step Test.
+
+Canadian Patent Case
+
+The Patent Case in 2000 delivered the ﬁrst report by a WTO panel dealing with an
+interpretation of the Three-Step Test. It involved a dispute between the EC and
+Canada that inquired into whether two exemptions in the Canadian Patent Act
+1985, the ‘‘regulatory review’’ exception (section 55.2(1)) and the ‘‘stockpiling
+exception’’ (section 55.2(2)), were compliant with TRIPS, article 30. The ‘‘regula-
+tory review’’ exception provided that it was not a patent infringement to ‘‘make,
+construct, use or sell’’ a patented invention if done as part of the development or
+submission of information required under any law regulating the ‘‘manufacture,
+construction, use or sale of a product’’ (Canadian Patent Act 1985, section 55.2(1)).
+This was intended to allow generic pharmaceutical manufacturers to undertake the
+preparation needed to meet regulatory review requirements before a patent had
+expired thus allowing them to take a generic drug to market immediately upon
+expiry. The ‘‘stockpiling’’ exception allowed for the same acts to be undertaken for
+the purposes of ‘‘the manufacture and storage of articles intended for sale after the
+date on which the term of the patent expires’’ (Canadian Patent Act 1985, section
+55.2(2)). Canada argued that these exceptions had been introduced to allow generic
+manufacturers to compete freely with the patentee after a patent expired, thus
+protecting public health by promoting access to cost-effective, generic medicines
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+605
+
+Robin Wright
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+(Patent Case, paragraph 4.10). Its aim was to ensure that patentees were not able ‘‘to
+exploit time-consuming regulatory review systems . . . in order to extend the term of
+patent protection and to gain a windfall monopoly’’ (Patent Case, paragraph 4.12).
+The EC challenged the validity of these exceptions, claiming that Canada was in
+breach of its TRIPS obligations relating to patentable subject matter, the rights
+conferred on the owner of a patent (articles 27.1 and 28.1) and the requirement in
+article 33 that the term of patent protection should not end before 20 years from the
+ﬁling date. Canada responded that the provisions in question complied with the
+requirements of the Three-Step Test for exceptions to patent rights in article 30 and
+did not reduce the minimum term of protection required under article 33 (Patent
+Case, paragraphs 3.1–3.2).
+
+From the outset, Canada argued that the exceptions provided a public value for
+Canadian society and that TRIPS contemplated members adopting measures that
+introduced limited exceptions that would prevent a patent monopoly extending
+beyond its speciﬁc term. It explained that the exceptions were provided:
+
+. . . in the interests of promoting full competition in regulated-product
+markets after the expiry of that term and of realizing the cost-saving
+beneﬁts that competition in those markets (particularly the health care
+products market) conferred on society (Patent Case, paragraph 4.12).
+
+In response, the EC argued that:
+
+. . . the TRIPS negotiating parties had taken societal
+interests into
+consideration when agreeing on the balance of interests which were
+enshrined in the TRIPS Agreement. Consequently, individual WTO
+members could not now rebalance these interests unilaterally by
+modifying the level of protection provided for in the Agreement
+(Patent Case, paragraph 4.30).
+
+Canada asserted that TRIPS allowed for broader public interest considerations
+to be taken into account when framing valid exceptions, on condition that the rights
+of the patent owners were preserved. The EC argued that exceptions should not
+reduce the economic returns of patent owners and that any de facto period of
+economic returns, which was available after the expiry date of a patent due to
+regulatory review delays, had been built into the TRIPS system intentionally. The EC
+contended that ‘‘[i]t was one of the major features of TRIPS that its implementation
+was in principle neutral vis-a`-vis societal values’’ (Patent Case, paragraph 4.30). This
+meant that public policy considerations could not be invoked to justify measures such
+as Canada had adopted, because these had already been taken into consideration
+when negotiating the ﬁnal text of the agreement (Patent Case, paragraph 7.25).
+
+In its report, the panel concluded that:
+
+. . . Article 30’s very existence amounts to a recognition that the
+deﬁnition of patent rights contained in Article 28 would need certain
+
+606
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+Robin Wright
+
+adjustments. On the other hand, the three limiting conditions attached
+to Article 30 testify strongly that the negotiators of the Agreement did
+not intend Article 30 to bring about what would be equivalent to a
+renegotiation of the basic balance of the Agreement (Patent Case,
+paragraph 7.26).
+
+It found that section 55.2(2), the ‘‘stockpiling exception’’, was not a ‘‘limited
+exception’’ as required under the ﬁrst limb of the test in article 30 as it constituted
+‘‘a substantial curtailment of the exclusionary rights required to be granted to
+patent owners under article 28.1 of TRIPS’’ (Patent Case, paragraph 7.36).7
+However, it determined that section 55.2(1), the ‘‘regulatory review’’ exception,
+was a permitted exception as it met each of the requirements of the Three-Step Test
+in article 30 (Patent Case, paragraphs 7.44, 7.57, 7.73).8 This exception, unlike
+section 55.2(2), was considered sufﬁciently narrow in scope to meet the require-
+ments of step one of the test, because the extent of any curtailment of article 28.1
+rights that may result was limited by the requirements of the regulatory approval
+process (Patent Case, paragraph 7.45).
+
+US Copyright Case
+
+The Copyright Case, a dispute between the EC and the United States, was brought
+before a WTO panel in 1999 requiring an interpretation of the Three-Step Test in
+TRIPS, article 13. The dispute concerned section 110(5) of the US Copyright Act as
+amended by the Fairness in Music Licensing Act enacted on 27 October 1998. The
+provision permitted the public performance or display of musical works delivered
+via a broadcast in certain retail and food or drinking establishments, subject to size
+and audio-visual equipment limitations.
+
+The provision had originally been intended to ‘‘exempt from copyright liability
+anyone who merely turns on, in a public place, an ordinary radio or television
+receiving apparatus of a kind commonly sold to members of the public for private
+use’’ (Copyright Case, paragraph 2.5). When amended in 1998, the section was
+divided into two parts. The ﬁrst retained the original exemption allowing display of
+a work on a single receiving device but was restricted to a very narrow type of work
+(the communication of a transmission embodying a performance or display of a
+work other than non-dramatic musical works, i.e. music that is part of an opera,
+operetta, musical or other similar dramatic work when performed in a dramatic
+context)—referred to as the ‘‘homestyle’’ exemption. The second was a much
+broader provision exempting retail and food and drinking establishments that
+complied with certain speciﬁed size and audio-visual equipment restrictions from
+copyright infringement when displaying a transmission of non-dramatic musical
+works (a much larger potential category of works)—referred to as the ‘‘business’’
+exemption.
+
+The panel determined that for the exception to be valid it must comply with the
+Three-Step Test in article 13.9 The EC argued that section 110(5) did not comply
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+607
+
+Robin Wright
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+with article 13 because step one of the test required that there be a ‘‘special
+public policy or other exceptional circumstance’’ that would make it inappro-
+priate or impossible to enforce the exclusive rights conferred by the convention
+and that
+in question did not pursue such legitimate public
+policy objectives (Copyright Case, paragraph 6.105). In response, the United
+States argued that TRIPS only required that an exception had a speciﬁc policy
+objective:
+
+the sections
+
+It does not impose any requirement as to the legitimacy of the policy
+objectives that a particular country might consider special in the light of
+its own history and national priorities (Copyright Case, paragraph
+6.106).
+
+The United States claimed that
+
+the provisions had a speciﬁc public
+policy objective that was ‘‘fostering small businesses and preventing abusive tactics
+by CMOs’’ (collective management organizations) (Copyright Case, paragraph
+6.115).
+
+The panel concluded that the wording of article 13 did not require a legitimate
+public policy for an exception to comply with the ﬁrst limb of the test (Copyright
+Case, paragraph 6.111). However, it noted that:
+
+. . . public policy purposes stated by law-makers when enacting a
+limitation or exception may be useful from a factual perspective for
+making inferences about the scope of a limitation or exception or the
+clarity of its deﬁnition (Copyright Case, paragraph 6.112).
+
+It found that the limited ‘‘homestyle’’ exemption in section 110(5)(A) met the
+requirements of the test in article 13, but that the wider ‘‘business’’ exemption in
+section 110(5)(B) did not. The arguments taken into account included the potential
+for economic loss to rights holders now or in the future (Copyright Case,
+paragraphs 6.184–6.186), the number of rights holders likely to be affected (Copy-
+right Case, paragraphs 6.206, 6.215) and the existence of any mechanism for
+licensing the rights in question (Copyright Case, paragraph 6.216). The panel re-
+iterated that when interpreting step one of article 13 it was not required to ‘‘pass
+value judgement on the legitimacy of an exception or limitation’’. It noted the
+intention contained within the Berne Convention to allow for the possibility of
+providing minor exceptions ‘‘as long as they are de minimis in scope’’ (Copyright
+Case, paragraph 6.158) and concluded that the ‘‘homestyle’’ exemption met the
+requirement in step one that a valid exemption be ‘‘well-deﬁned and limited in its
+scope and reach’’ (Copyright Case, paragraph 6.159). The panel did not make a
+judgement on the legitimacy of the speciﬁc public policy intentions of the US
+legislators; however, it noted that the claimed public policy objectives and the
+legislative history ‘‘could be of subsidiary relevance for drawing inferences about
+the scope of an exemption and the clarity of its deﬁnition’’ (Copyright Case,
+paragraphs 6.156–6.159).
+
+608
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+Robin Wright
+
+Public Policy and a Step-by-Step Interpretation
+Interpretation of the Three-Step Test has customarily been undertaken by addres-
+sing each of the three limbs of the test separately and sequentially from one to three
+(Patent Case, paragraph 7.20). Failure to meet the criteria in any one of the steps
+will result in the overall test not being satisﬁed (Ginsburg, 2001, p. 12; Knights,
+2000, p. 3). The result is that if arguments concerning the public policy intentions of
+legislators introducing the exception are not considered as part of the interpretation
+at each step, it is possible that these issues could be completely excluded from the
+overall evaluation, particularly if they are not taken into account in step one. This
+has the potential to eliminate consideration of the anticipated wider social beneﬁts
+of an exception from the test completely. However, each limb of the test does
+contain the potential for some consideration of the broader public policy basis of
+the exception or limitation in question and adopting an interpretive methodology
+that takes this into account may assist with ensuring that the wider social policy
+intentions of legislators form part of a balanced implementation of the test.
+
+The two WTO disputes discussed here were decided predominantly on the basis
+of likely economic harm to rights owners and the fact situations did not lend
+themselves speciﬁcally to a deeper consideration of the value of the wider public
+interest concerns being promoted by the governments in question. It may not be
+appropriate for a WTO panel to pass value judgements on such issues (Copyright
+Case, paragraphs 6.112, 6.157). However, it is suggested that wider public interest
+considerations should not be completely excluded from the interpretation of the
+Three-Step Test, even if an interpreter is not required to rule on their legitimacy.
+In July 2008, a group of experts in copyright law from Europe and the United
+States signed a declaration at the International Association for the Advancement of
+Teaching and Research in Intellectual Property, calling for a more balanced
+interpretation of the Three-Step Test in copyright law (Ermet, 2008). The declara-
+tion stated that:
+
+The public interest is not well served if copyright law neglects the more
+general interests of individuals and groups in society when establishing
+incentives for right holders (Geiger et al., 2008, p. 2).
+
+It calls for a new interpretation of the Three-Step Test and argued that the test
+requires ‘‘. . . a comprehensive overall assessment, rather than the step-by-step
+application that its usual, but misleading, description implies’’ (Geiger et al., 2008,
+p. 2). The declaration argues that this would ensure that an interpretation of the test
+did not result in an inappropriate balance between the interests of rights holders and
+those of the larger general public. To some extent, this argument is justiﬁed by the
+practices undertaken by WTO panels to date, as there is already a tendency for facts
+and arguments used in the interpretation of each step under consideration to cross
+over between the three steps.
+
+However, there may also be an opportunity for working towards a more
+balanced and equitable outcome by adopting an interpretation at each step of the
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+609
+
+Robin Wright
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+test that seeks to ensure that the legislators’ social policy intentions are not excluded
+from consideration in any step. Interpretations undertaken in the two WTO cases
+discussed here demonstrate how the interpretation of the ordinary meaning of the
+words in each of the steps has the potential to accommodate a consideration of the
+public policy intentions underlying exceptions and limitations. To do this may help
+to avoid the potential for a particular interpretation to exclude completely any
+consideration of the wider social beneﬁt intentions of legislators from the inter-
+pretation.
+
+The following section will examine each of the three steps of the test and explore
+where and how wider social policy intentions can be taken into account in an
+interpretation of that step. The steps are considered here in reverse order, starting
+with step three, in which the ordinary meaning of the words appears to provide the
+greatest scope for the public policy intentions underlying an exception or limitation
+to form part of the interpretation.
+
+Step Three—No Unreasonable Prejudice to Legitimate Interests
+
+The third criteria of the Three-Step Test aims to protect the economic and
+non-economic interests of rights holders from an over-reaching exception or
+limitation by providing that, in addition to the prohibition against a conﬂict
+with ‘‘normal exploitation’’
+in step two, there is appropriate protection of a
+rights holder’s interests beyond what
+is considered normal exploitation. In
+TRIPS, articles 13 and 30, step three requires that the exceptions or limitations in
+question, ‘‘do not unreasonably prejudice the legitimate interests’’ of the right
+holder (article 13) or the patent owner (article 30). In article 30, the provision
+includes a further requirement also to take account of ‘‘the legitimate interests of
+third parties’’.
+
+In this step, the use of the limiting words ‘‘legitimate’’ and ‘‘unreasonable’’
+indicates that the rights of owners are not absolute and, in certain situations, some
+derogation of those rights could be considered legitimate. This wording acknowl-
+edges that it may be acceptable for an exception or limitation to cause some
+prejudice to the interests of a rights holder, as long as this does not extend to an
+unreasonable level, and also that a rights holder will not be able to insist on the
+protection of illegitimate interests. The panel in the Patent Case discussed inter-
+pretation of the term ‘‘legitimate interests’’ as follows:
+
+To make sense of the term ‘‘legitimate interests’’ in this context, that
+term must be deﬁned in the way that it is often used in legal discourse—
+as a normative claim calling for protection of
+interests that are
+‘‘justiﬁable’’ in the sense that they are supported by relevant public
+policies or other social norms (Patent Case, paragraph 7.69).
+
+It noted that the negotiating history of both article 9(2) of the Berne Conven-
+tion and article 30 of TRIPS showed that those drafting the text of the test had
+
+610
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+Robin Wright
+
+referred initially to an illustrative list of permissible socially valuable exceptions
+(Ricketson, 2002, p. 24) and also referred to the existence of ‘‘one of the most
+widely adopted article 30 type exceptions in national patent laws’’—the use of a
+patented product for scientiﬁc experimentation (Patent Case, paragraph 7.69). This
+indicated that whereas rights holders must be protected from unreasonable harm to
+their interests, to receive this protection the interests claimed must be justiﬁable and
+‘‘supported by relevant public policies or other social norms’’ (Patent Case,
+paragraph 7.69). The panel concluded that it was appropriate for ‘‘normative
+claims of interest’’ to play a part in the interpretation of step three of the test. When
+attempting to determine whether a patent owner had a ‘‘legitimate interest’’ in
+having access to a de facto period of market exclusivity resulting from regulatory
+delays in obtaining marketing approval, the panel noted that the ‘‘community of
+governments was obviously still divided over the merits of such claims’’ (Patent
+Case, paragraph 7.82) and therefore in this situation the public policy issues were
+unresolved:
+
+The Panel believed that Article 30’s ‘‘legitimate interests’’ concept
+should not be used to decide, through adjudication, a normative
+policy issues that is still obviously a matter of unresolved political
+debate (Patent Case, paragraph 7.82).
+
+However, this suggests that if the exception had been supported by clearly
+accepted public policy purposes and social norms, this would have been taken into
+account as part of the panel’s evaluation of legitimate interests.
+
+In the Copyright Case, the panel took a legal positivist approach when
+determining whether the provision was compliant with article 13. It used economic
+data on market conditions submitted by the parties to decide if any prejudice caused
+to the legitimate interests of the rights holder as a result of the exception reached ‘‘a
+level beyond reasonable’’ (Copyright Case, paragraphs 6.225–6.226). However, the
+panel also noted that this was not to say ‘‘that legitimate interests are necessarily
+limited to this economic value’’ (Copyright Case, paragraph 6.227) and that
+‘‘legitimate’’ also has a normative connotation:
+
+. . . in the context of calling for the protection of interests that are
+justiﬁable in the light of the objectives that underlie that protection of
+exclusive rights (Copyright Case, paragraph 6.224).
+
+It has been suggested that it would be possible to merge the different
+approaches taken by the copyright and patent panels in this step of the test and
+‘‘to follow a normative approach including the legal interest in the full enjoyment of
+exclusive rights’’ to allow a balancing of all interests involved (Senftleben, 2006,
+p. 434). Ginsburg has argued that ‘‘the same normative concerns that advocate
+against a purely economic evaluation of ‘‘normal exploitation’’ in step two of the
+test should similarly inform the analysis of whether a right holder’s interests are
+‘‘legitimate’’’’ in step three (Ginsburg, 2001, p. 15). She notes that while an author
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+611
+
+Robin Wright
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+has a legitimate interest in being paid for a use, they have ‘‘a less legitimate interest
+in preventing it altogether’’ (Ginsburg, 2001, pp. 15–16). Ricketson also notes that:
+
+. . . the adjective ‘‘legitimate’’ implies that there is a ‘‘proper’’ sphere of
+application for authors’ interests, and that this should not be overreaching
+or pursued regardless of other considerations (Ricketson, 2002, p. 39).
+
+The third criterion of the test therefore focuses most predominantly on the non-
+economic interests of rights holders and in article 30 also takes into account the
+legitimate interests of third parties. The normative interpretive approach adopted
+by the panel in the Patent Case took into account ‘‘relevant public policies or social
+norms’’ (Patent Case, paragraph 7.69), an approach which was also adopted by the
+panel in the Trademark Case (Senftleben, 2006, p. 434). The Copyright Case panel
+noted the lack of speciﬁc reference in article 13 to the legitimate interests of third
+parties; however, it still indicated that an economic analysis formed only part of a
+wider analysis of legitimate interests in this step. So both WTO panels have
+acknowledged scope for the inclusion of wider social value policy considerations
+in the interpretation of step three of the test. However, the cases provide little
+guidance on what might constitute an appropriate measure of ‘‘legitimate’’ rights or
+‘‘unreasonable’’ prejudice in future situations.
+
+Step Two—No Conﬂict with Normal Exploitation
+
+The requirement in step two of the test is that there must be no conﬂict (or in article
+30 no unreasonable conﬂict) with the ‘‘normal exploitation’’ of a work. Achieving
+an appropriate deﬁnition of ‘‘normal exploitation’’ is potentially problematic in
+light of the shifting nature of the market and technologies and the social context
+surrounding the use of intellectual property. In addition, any deﬁnition of ‘‘normal
+exploitation’’ is to some extent itself deﬁned by what rights are available for
+exploitation because they are not already limited by the existence of an exception
+(Goldstein, 2001, pp. 295–6).
+
+In the Copyright Case, the panel noted that the deﬁnition of ‘‘normal
+exploitation’’ could have both the empirical connotation of ‘‘regular, usual, typical
+or ordinary’’ and a more normative deﬁnition such as ‘‘conforming to a type or
+standard’’ (Copyright Case, paragraph 6.166). It aimed to develop an interpretation
+that gave ‘‘meaning and effect to both connotations’’ (Copyright Cases, paragraph
+6.166). However, the ﬁnal interpretation adopted relied primarily on a quantitative
+analysis of economic impact, initially determining that an exception conﬂicts with
+‘‘normal exploitation’’ if:
+
+. . . uses, that in principle are covered by the right but exempted under the
+exception or limitation, enter into economic competition with the ways
+that right holder[s] normally extract economic value from that right to
+the work (i.e., the full copyright) and thereby deprive them of signiﬁcant
+or tangible commercial gains (Copyright Case, paragraph 6.183).
+
+612
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+Robin Wright
+
+To include the second or more normative connotation of the term in its
+interpretation, the panel also examined the potential future effects of the exception
+on the market by considering, in addition, ‘‘those forms of exploitation which with
+a certain degree of likelihood and plausibility, could acquire considerable economic
+or practical importance’’ (Copyright Case, paragraph 6.180). The panel did not
+make any further normative evaluation of the type or standard of exploitation that
+an owner should be able to exploit. Ginsburg has suggested that this was possibly
+because:
+
+. . . the case . . . did not present signiﬁcant normative difﬁculties, since
+the pork barrel exceptions at issue did not further speech, scholarship, or
+other creative activities often fostered by copyright exceptions
+(Ginsburg, 2001, p. 14).
+
+By comparison, the panel in the Patent Case did include a normative evaluation
+in the interpretation of what constituted a ‘‘normal exploitation’’ of the rights in
+question. The key question it addressed when evaluating the validity of the ‘‘early
+working’’ exception in section 55.2(1) was whether the additional period of market
+exclusivity that would be available to patent owners after the term of the patent (if
+competitors were not permitted to take steps to obtain market approval during the
+term of the patent) should be considered part of an owner’s ‘‘normal exploitation’’
+(Patent Case, paragraph 7.52). The panel considered that the deﬁnition of ‘‘normal’’
+could refer to either an empirical conclusion about what is regular or usual or to a
+more normative standard of entitlement and the term was used in article 30 in a way
+that combined the two (Patent Case, paragraph 7.54). In evaluating what was a
+regular or usual exploitation (i.e. the empirical connotation of normal), the panel
+determined that any additional period of de facto market exclusivity was ‘‘not a
+natural or normal consequence of enforcing patent rights’’ (Patent Case, paragraph
+7.57) as such a period was not available to the majority of patent owners for whom
+there was no marketing regulation. Rather it was:
+
+. . . an unintended consequence of the conjunction of the patent laws
+with product regulatory laws, where the combination of patent rights
+with the time demands of the regulatory process gives a greater than
+normal period of market exclusivity to the enforcement of certain patent
+rights (Patent Case, paragraph 7.57).
+
+When examining the normative connotation of normal, the panel considered
+whether the exercise of this area of exploitation was ‘‘normal in the sense of being
+essential to the achievement of the goals of patent policy’’ (Patent Case, paragraph
+7.58). Thus, rather than widening the scope of ‘‘normal exploitation’’ by adding the
+impact of potential future markets as in the Copyright Case, the patent panel
+permitted either an empirical or a normative evaluation to be determinative and
+required a claim of normal exploitation to be ‘‘justiﬁed in the light of the policy
+objectives underlying the grant of exclusive rights’’, rather than merely resulting
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+613
+
+Robin Wright
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+from any possible exercise of exclusive rights (Senftleben, 2006, p. 424). As the EC
+had not provided evidence that either most patent owners extracted value from the
+de facto period of market exclusivity or that for them to do so was essential to the
+achievement of patent policy goals, the exception was held not to conﬂict with
+‘‘normal exploitation’’ (Patent Case, paragraph 7.58). The panel therefore did not
+go on to consider what would have made any such conﬂict ‘‘unreasonable’’.
+
+The panel in the Copyright Case noted that the very existence of article 13
+meant that the deﬁnition of ‘‘normal exploitation’’ could not extend to every
+possible form of commercial exploitation:
+
+. . . not every use of a work, which in principle is covered by the scope of
+exclusive rights and involves commercial gain, necessarily conﬂicts with
+a normal exploitation of that work. If this were the case, hardly any
+exception or limitation could pass the test of the second condition and
+Article 13 might be left devoid of meaning, because normal exploitation
+would be equated with full use of exclusive rights (Copyright Case,
+paragraph 6.182).
+
+However, the interpretation of step two of the test still remains somewhat
+‘‘open ended and uncertain’’ (Ricketson, 2002, p. 36). Neither the wording of the
+test, nor the considerations undertaken by the WTO panels give a clear indication of
+to what extent normative policy considerations should be taken into account when
+determining what would be considered normal exploitation.
+
+Commentators have adopted differing positions on the inclusion of normative
+factors in an interpretation of step, two of the test. Ricketson has suggested that any
+interpretation of the second step, as contained in article 9(2) of the Berne
+Convention, should be viewed against the wider context of the treaty and include
+an investigation of non-economic normative considerations including ‘‘whether this
+particular kind of use is one that the copyright owner should control’’ (Ricketson,
+2002, p. 35).
+
+Ginsburg has noted that if the analysis of ‘‘normal exploitation’’ is limited to
+the more strictly empirical deﬁnition relied upon by the panels in the WTO cases
+and a more normative analysis does not form part of the interpretation:
+
+. . . there is a risk that even traditionally privileged uses, such as
+scholarship or parody, could be deemed ‘‘normal exploitations,’’
+assuming copyright owners could develop a low transactions cost
+method of charging for them (Ginsburg, 2001, p. 14).
+
+The focus in step two of the test on the level of actual or potential economic
+harm to the copyright owner remains the key criteria used to determine any conﬂict
+with ‘‘normal exploitation’’ (Senftleben, 2004, p. 194). However, despite the fact
+that the two WTO cases provide only limited guidance on the requirements of the
+normative connotation of the term ‘‘normal exploitation’’, both panels indicated
+that such an assessment also plays a part in an analysis of the step. The extent to
+
+614
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+Robin Wright
+
+which normative considerations are considered an appropriate part of any deter-
+mination may depend on the speciﬁc facts of a case. However, the conclusion of the
+patent panel suggests ﬂexibility surrounding the need to consider the policy under-
+pinnings of an exception or limitation in the interpretation of this step. The
+constantly changing nature of what is considered normal exploitation in the
+contemporary environment also suggests that any deﬁnition may not remain ﬁxed
+and that ‘‘value judgements will need to be made which will clearly vary according
+to the society and culture concerned’’ (Ricketson, 2002, p. 36).
+
+Step One—Special Case
+
+The ﬁrst criterion of the Three-Step Test is worded differently in TRIPS, articles 13
+and 30. Whereas step one of the copyright provision in article 13 refers to the
+exception consisting of a ‘‘special case’’, the wording in article 30 relating to patents
+requires that the exception be ‘‘limited’’. The WTO panels examining this criterion
+both sought to ‘‘measure the extent to which legal rights were curtailed by the
+limitation in question’’ (Senftleben, 2006, p. 420) and determined that only a small
+diminution of the rights would be permissible. The panel in the Copyright Case
+considered that the word ‘‘certain’’ meant that the scope of the exception must be
+known and particularized and that the word ‘‘special’’ added an additional
+requirement that the exception should be narrow in both a quantitative and a
+qualitative sense (Copyright Case, paragraphs 6.108–9). In the Patent Case, the
+panel determined that ‘‘the word ‘‘limited’’ must be given a meaning separate from
+any limitation implicit in the word ‘‘exception’’ itself’’ and therefore must ‘‘connote
+a narrow exception—one which makes only a small diminution of the rights in
+question’’ (Patent Case, paragraph 7.30). Neither panel undertook a normative
+evaluation of the legitimacy of the exceptions in question (Senftleben, 2006, p. 421).
+The Copyright Case panel speciﬁcally rejected the proposition that exceptions
+‘‘must be justiﬁed in terms of a legitimate public policy purpose in order to fulﬁll the
+ﬁrst condition of the article’’ (Copyright Case, paragraphs 6.111–2).
+
+Some commentators, however, have pointed to a connection between the
+requirement in some versions of step one of the Three-Step Test that limitations
+or exceptions be conﬁned to ‘‘certain special cases’’ and the need for a legitimate
+public policy objective underlying a decision by legislators to restrict the rights of
+rights holders (Ficsor, 2002, p. 133). When commenting on the test as included in
+the Berne Convention in 1987, Ricketson stated:
+
+. . . there must be something ‘‘special’’ about this purposes, ‘‘special’’
+here meaning that it is justiﬁed by some clear reason of public policy or
+some other exceptional circumstance (Ricketson, 1987, p. 482).
+
+However, he later noted that in the test as incorporated into TRIPS, there was
+no requirement that a ‘‘certain special case’’ have an underlying public policy
+justiﬁcation (Ricketson, 2002, p. 31; 2003, p. 22).
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+615
+
+Robin Wright
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+Other commentators, however, do consider that a legitimate public policy
+rationale for an exception forms part of step one of the test. Senftleben notes that
+while he believes the panel
+in the Copyright Case was correct in avoiding
+‘‘inappropriate panel ‘‘activism’’’’ (Senftleben, 2004, p. 145) by declining to rule
+on the validity of the speciﬁc domestic policy rationale in that case, he still considers
+the existence of a justiﬁable reason underlying an exception plays a key role in the
+interpretation of what constitutes a ‘‘special case’’ for the purposes of step one:
+
+The legislative decision to set limits to the author’s exclusive rights must
+be a reaction to an understandable need for the reconciliation of the user
+interest at stake with the author’s legitimate interests. . . . In sum, a
+limitation that rests on a rational justiﬁcatory basis making its adoption
+plausible constitutes a special case in the sense of the three-step test
+(Senftleben, 2004, p. 152).
+
+Gervais notes that Ricketson’s initial position on the Berne provision was
+solidly anchored in the history and the text of the Berne Convention and considers
+that as ‘‘few countries will act in a purely arbitrary way’’:
+
+Any exception to copyright is arguably ‘‘special’’ because any exception
+short of a complete repeal of the Copyright Act would arguably be
+‘‘limited in its ﬁeld of application’’ (Gervais, 2005, pp. 14–16).
+
+On the other hand, it has been suggested that to consider the legitimacy of the
+public policy rationale underlying an exception in step one could inappropriately
+place an interpreter in the position of ‘‘evaluating the merits of local policy
+determinations’’ (Ginsburg, 2001, p. 12). Also, the list of national exceptions that
+were in existence when the Three-Step Test was ﬁrst introduced into the Berne
+Convention could not themselves necessarily claim ‘‘persuasive policy underpin-
+nings’’ and therefore it is arguable that under current interpretations of the test:
+‘‘‘‘special cases’’ can include unworthy as well as laudable exceptions, so long as
+they are sufﬁciently narrow’’ (Ginsburg, 2001, p. 12).
+
+The proper role for consideration of the public policy intentions underlying an
+exception in the interpretation of step one of the test therefore remains contested,
+with the panels in both the copyright and patent cases rejecting any requirement for
+a normative evaluation of the legitimacy of the public policy purposes underlying
+the exceptions. However, the copyright case panel stated that:
+
+. . . public policy purposes stated by law-makers when enacting a
+limitation or exception may be useful from a factual perspective for
+making inferences about the scope of a limitation or exception or the
+clarity of its deﬁnition (Copyright Case, paragraph 6.112).
+
+In addition, the panel in the Patent Case undertook a global assessment of
+factors inﬂuencing the scope of an exception (Senftleben, 2006, p. 421). This
+suggests that, in certain situations, the policy intentions of legislators may be
+
+616
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+Robin Wright
+
+relevant. While the terms of step one of the test may not explicitly require
+interpreters to pass judgement on the legitimacy of the public policy decision
+underlying the exception, taking the intentions of the legislators into account is
+likely to provide a more comprehensive understanding of the context in which the
+text is operating. A particular case may be more or less compellingly ‘‘special’’ or an
+exception more or less demonstrably ‘‘limited’’ if its policy underpinnings are taken
+into account as part of the evaluation.
+
+interpretation of
+
+Incorporating the Wider Public Interest
+This discussion demonstrates that the Three-Step Test, particularly as incorporated
+into TRIPS in articles 13 and 30, does contain the potential for some resolution of
+the conﬂict between the two different forms of public interest supported by
+intellectual property law. If the wider social beneﬁt intentions of legislators
+play a part in the interpretation of all three limbs of the test, while each
+step is still evaluated primarily to avoid any inappropriate incursion onto the
+legitimate interests of rights holders, this could potentially lead to a more inclusive
+overall
+the test. Such an evaluation would not require a
+radical departure from existing interpretive precedent, but may mean that con-
+sideration of the wider social beneﬁts offered by an exception or limitation is less
+likely to be completely removed from an interpretation of the test due to the
+sequential step by step methodology and the uncertainty surrounding the inter-
+pretation of step one. The wider social beneﬁt of a proposed exception or limitation
+can potentially play a legitimate role in the interpretation of each step of the test but
+will not necessarily be sufﬁciently persuasive to override a stronger case for the
+protection of an owner’s intellectual property rights as determined within each of
+the steps.
+
+In relation to step three of the test as contained in TRIPS articles 13, 30, the
+panels in both the WTO cases noted that to be considered legitimate, the interests of
+rights holders must be justiﬁable in a normative sense. If there is a sufﬁciently
+persuasive public policy justiﬁcation for an exemption or limitation, this may assist
+with evaluating the legitimacy of the interests claimed by rights holders and whether
+any potential prejudice to those interests caused by the exception would be
+considered unreasonable.
+
+In the deﬁnition of ‘‘normal exploitation’’ in step two both panels considered
+that the normative connotation should be taken into account as well as or as an
+alternative to empirical considerations when interpreting the term. If an approach
+such as that taken by the panel in the Patent Case allowing either a normative or a
+qualitative evaluation to be determinative was to be adopted, this would allow for
+the possibility that in appropriate situations a public interest purpose ‘‘might
+provide sufﬁcient non-economic normative consideration to outweigh considera-
+tions of an economic kind’’ (Ricketson, 2003, p. 75).
+
+The role of wider social policy beneﬁt considerations in step one of the test
+remains more contentious. It has been speciﬁcally discounted as a necessary
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+617
+
+Robin Wright
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+requirement for a legitimate ‘‘special case’’ by the panel in the Copyright Case;
+however, it was accepted as part of the factual matrix that may be used to evaluate
+the appropriate scope or clarity of the exemption. There is argument from
+commentators based on reference to the preparatory documents of the treaties that
+a sound public policy justiﬁcation should play a role in the determination of
+whether an exception constitutes a ‘‘special case’’ (Ficsor, 2002, pp. 129–33;
+Senftleben, 2004, p. 152). The suggestion that taking public policy justiﬁcations
+for an exception into account under step one of the test would create ‘‘unnecessary
+complexity’’ (Ricketson and Ginsburg, 2006, p. 767) does not address the possibility
+that not to do so could potentially result in the complete exclusion of any
+consideration of the wider social beneﬁts of an exception from the test if the
+interpretation does not proceed to steps two and three. It appears appropriate that
+any interpretation of the Three-Step Test should take into account both aspects of
+the public interest that the provision was designed to protect and ensure that neither
+is excluded from the debate.
+
+Ficsor has commented in relation to exceptions in the Berne Convention that:
+
+The text and the negotiating history of the Convention show that
+speciﬁc public and cultural policy purposes not only have served for
+the adoption of these provisions, but also that they must be kept in mind
+constantly in the application thereof (Ficsor, 2002, p. 131).
+
+Ensuring that normative considerations play a part in the interpretation of
+each step of the Three-Step Test could contribute to a more inclusive discussion of
+the most appropriate way for intellectual property legislation to support both
+aspects of the ‘‘public interest’’. This is likely to have important social policy as
+well as commercial implications in the contemporary international intellectual
+property environment where the Three-Step Test plays an increasingly promi-
+nent role.
+
+About the Author
+
+Robin Wright is a Research Fellow with the Centre for Media and Communications
+Law and the Intellectual Property Research Institute of Australia at Melbourne
+Law School, University of Melbourne, Australia. She holds an LLB(Hons) from
+LaTrobe University and has practiced as an in-house solicitor for an Australian
+university. She also holds a Master of Arts from Monash University and a Bachelor
+of Music from the University of Melbourne. In the 1990s Robin was the Online
+Manager at Cinemedia (now the Australian Centre for the Moving Image) where
+she managed a major broadband digital video research trial investigating the online
+delivery of educational video material. Her research interests include Australian and
+international copyright law and its intersection with the media, education and
+cultural sectors and digital technologies; e-mail: r.wright@unimelb.edu.au
+
+618
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+Robin Wright
+
+Notes
+
+This article derives from a project funded primarily by the Australian Research Council
+entitled: Cultural Collections, Creators and Copyright: Museums, Galleries, Libraries and
+Archives and Australia’s Digital Heritage (Kenyon and Christie, LP0669566). The project is
+also funded by a number of key Australian cultural institutions and peak bodies in the
+creative sector.
+
+1 In the closing speech of the Conference for the Protection of Authors’ Rights on 18
+
+September 1884, Federal Councillor Numa Droz, president of the conference, stated
+that ‘‘limitations on absolute protection are dictated, rightly in my opinion, by the
+public interest’’.
+
+2 A discussion of the test for trademark exceptions contained in TRIPS, article 17 differs
+from the test as it relates to patents and copyright because the wording of article 17 does
+not refer to conﬂict with normal exploitation or unreasonable prejudice to the legitimate
+interests of the might owner. It also includes a requirement to take account of the legiti-
+mate interests of third parties (Trademark Case, paragraph 7.649).
+The panel in the Trademark Case drew upon interpretations adopted in the Patent Case
+and the Copyright Case but emphasized the need to interpret article 17 ‘‘according to its
+own terms’’. The difference in wording and interpretation between article 17 and articles
+13 and 30 of TRIPS may be a relevant subject for further examination.
+
+3 Australian Copyright Act 1968 (Cth) section 200AB; Directive 2001/29/EC of the
+European Parliament of 22 May 2001 on the harmonisation of certain aspects of copy-
+right and related rights in the information society [2001] OJ L167/10, article 5(5).
+
+4 ‘‘This prerogative has a fundamental place in the legislation of the countries of the
+Union; the fact that it is not recognized in the convention would therefore appear to be
+an anomaly’’ (Document S/1, Records 1967, p. 111).
+
+5 The three-step test is also included in TRIPS in article 17 in relation to trademarks and
+
+in article 26(2) in relation to industrial designs.
+
+6 Article 9(2) of the Berne Convention is also incorporated into TRIPS by article 9(1) which
+
+requires that members comply with articles 1 through 21 of the Berne Convention.
+
+7 The panel asserted in relation to the interpretation of the Three-Step Test that ‘‘The
+three conditions are cumulative, each being a separate and independent requirement that
+must be satisﬁed. Failure to comply with any one of the three conditions results in the
+article 30 exception being disallowed’’ (Patent Case, paragraph 7.20). Therefore, as the
+stockpiling exception did not comply with step one, it was not necessary to investigate its
+compliance with steps two and three to decide that the exception was inconsistent with
+Canada’s obligations under article 28.1 of TRIPS (Patent Case, paragraph 7.38).
+
+8 The panel determined that the ‘‘regulatory review’’ exception was compliant with the
+three-step test because, ﬁrst, it was a ‘‘limited exception’’ as required under step one as
+this step did not require the panel to address the issue of economic impact (this was
+addressed in different contexts in steps two and three) and the exception only allowed
+for a narrow curtailment of the patentees rights. Second, the exception did not conﬂict
+with a normal exploitation of the patent owners, rights, as a de facto period of market
+exclusivity arising from the regulatory process could not be considered part of ‘‘normal’’
+exploitation of a patent. Third, there had not been prejudice to the legitimate interests of
+the patent owner, as it was not legitimate to claim that a patentee’s interests extended to
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+619
+
+Robin Wright
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+a de facto period of market exclusivity occasioned by regulatory delays (Patent Case,
+paragraphs 7.40–7.84).
+
+9 The EC had initially argued that article 13 should not be used to test the US exception as
+
+it only applied to the exclusive rights newly introduced in the TRIPS agreement itself
+(Copyright Case, paragraph 6.34). However, the United States argued that article 13 also
+applied to exceptions to all the exclusive rights incorporated into the agreement as part of
+the Berne Convention, which included the right of public performance (Copyright Case,
+paragraph 6.94). The panel accepted the US argument and, in addition, concluded that
+valid exceptions were not necessarily limited to non-commercial uses or to the exceptions
+that had been in existence before 1967 (Copyright Case, paragraph 6.93).
+
+References
+
+Burrell, R. and Coleman, A. (2005) Copyright Exceptions: The Digital Impact. Cambridge
+
+University Press, Cambridge.
+
+Canada—Patent Protection of Pharmaceutical Products, WTO Doc WT/DS114/R (2000),
+
+17 March, Report of the Panel.
+
+Ermet, M. (2008) ‘IP Experts Sign Declaration Seeking Balanced Copyright Three-Step Test’,
+
+Intellectual Property Watch [online], 24 July. Available at hhttp://www.ip-watch.org/
+weblog/index.php?p=1172i [Accessed April 2009].
+
+European Communities—Protection of Trademarks and Geographical Indications for
+
+Agricultural Products and Foodstuffs, WTO Doc WT/DS174/R, WT/DS290/R (2005),
+Report of the Panel.
+
+Ficsor, M. (2002) ‘How Much of What? The ‘Three-Step Test’ and its Application in Two
+
+Recent WTO Dispute Settlement Cases’, Revue Internationale du Droit d’Auteur,
+192(April), 111–251.
+
+Geiger, C., Hilty, R. M., Grifﬁths, J., Suthersanan, U., Benabou, V. L., Bently, L.,
+
+Dreier, T., Dusollier, S., Ghidini, G., Ruse-Khan, H. G., Hugenholtz, B., Kallinikou,
+D., Koelman, K., Kur, A., Makeen, M., Mizaras, V., MacQueen, H., Nilsson, G. O.,
+Peukert, A., Reichman, J., Rosen, J., Schovsbo, J., Senftleben, M., Siiriainen, F.,
+Torremans, P. L. C., Traple, E., Vivant, M., Weber, R., Westkamp, G., Xalabarder, R.
+(2008), Declaration: A Balanced Interpretation of the ‘Three-Step Test’ in Copyright Law,
+July. Available at hhttp://www.ip.mpg.de/shared/data/pdf/declaration_three_
+steps.pdfi [Accessed April 2009].
+
+Gervais, D. J. (2005) ‘Towards a New Core International Copyright Norm: The Reverse
+
+Three-Step Test’, Marquette Intellectual Property Law Review, 9, 1–26.
+
+Ginsburg, J. C. (2001) ‘Toward Supranational Copyright Law? The WTO Panel Decision
+and the ‘‘Three-Step Test’’ for Copyright Exceptions’, Revue Internationale du Droit
+d’Auteur, 187, 3–65.
+
+Goldstein, P. (2001) International Copyright: Principles, Law and Practice. Oxford University
+
+Press, Oxford.
+
+Grifﬁths, J. (2006) ‘The ‘‘Three-Step Test’’—Its Relationship with the Common
+
+Law Concepts of ‘‘Fairness’’ and ‘‘Public Interest’’’, in ‘‘Rethinking the Three
+Step Test’’, discussion paper for a workshop conducted in Paris, ULIP,
+16 February.
+
+620
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+The ‘‘Three-Step Test’’ and the Wider Public Interest
+
+Robin Wright
+
+Knights, R. (2000) ‘Limitations and Exceptions under the ‘‘Three-Step Test’’ and in National
+
+Legislation—Differences between the Analog and Digital Environments’. Paper
+presented at the WIPO Regional Workshop on Copyright and Related Rights in the
+Information Age, Montevideo, 13–14 September.
+
+Ricketson, S. (1987) The Berne Convention for the Protection of Literary and Artistic Works:
+
+1886–1986. Kluwer, London.
+
+Ricketson, S. (2002) The Three-Step Test, Deemed Quantities, Libraries and Closed
+
+Exceptions. Centre for Copyright Studies, Strawberry Hills, NSW.
+
+Ricketson, S. (2003) WIPO Study on Limitations and Exceptions of Copyright and Related
+
+Rights in the Digital Environment, WIPO Standing Committee on Copyright and Related
+Rights, SCCR/9/7. Available at hhttp://www.wipo.int/edocs/mdocs/copyright/en/
+sccr_9/sccr_9_7.doci [Accessed April 2009].
+
+Ricketson, S. and Ginsburg, J. C. (2006) International Copyright and Neighbouring Rights:
+
+The Berne Convention and Beyond. Oxford University Press, Oxford.
+
+Senftleben, M. (2004) Copyright, Limitations and the Three-Step Test: An Analysis of the
+
+Three-Step Test in International and EC Copyright Law. Kluwer Law International, The
+Hague.
+
+Senftleben, M. (2006) ‘Towards a Horizontal Standard for Limiting Intellectual Property
+
+Rights?—WTO Panel Reports Shed Light on the Three-Step Test in Copyright Law and
+Related Tests in Patent and Trademark Law’, International Review of Intellectual
+Property and Competition Law (IIC), 37, 407–38.
+
+United States—Section 110(5) of the US Copyright Act, WTO Doc WT/DS160/R (2000),
+
+15 June, Report of the Panel.
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 6
+
+621
+
+

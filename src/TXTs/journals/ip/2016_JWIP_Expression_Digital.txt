@@ -1,0 +1,1016 @@
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4, pp. 115–130
+
+doi: 10.1111/jwip.12057
+
+The Freedom of Expression Contours of Copyright
+in the Digital Era: A European Perspective
+
+Elena Izyumenko
+CEIPI, University of Strasbourg
+
+This paper analyses the inﬂuence of the right to freedom of expression and information on European copyright law in
+the digital context. Drawing on the practice of the two major European courts—the European Court of Human Rights
+(ECtHR) and the Court of Justice of the European Union (CJEU)—it begins by exploring how this fundamental right
+shapes both the scope of copyright protection in Europe and what is traditionally termed as “exceptions and
+limitations” to exclusive rights. Speciﬁcally, a long-standing practice of the ECtHR, in accordance with which
+copyright in turn may be viewed as an exception to freedom of expression and must hence be narrowly interpreted, is
+scrutinized. On a related note, a recent recourse by the CJEU to the language of “users’ rights” is examined, inasmuch
+as it allows for a reconceptualization—in a normative framework of freedom of information—of copyright
+“exceptions” not as the exceptions as such, but as the equal rights of users of protected subject-matter. In this regard,
+the locus standi of “mere users” of online content and the somewhat diverging approaches of the Strasbourg and
+Luxemburg courts toward granting thereof are addressed. The paper then turns to discuss the recent recourse by the
+European courts to freedom of expression as a means to deﬁne the role of internet service providers in digital copyright
+enforcement, implicating issues ranging from the providers’ liability in respect of the third-party content posted online
+to the often far-reaching injunctions imposed on non-liable intermediaries. Several conclusions are drawn from the
+above analysis, reﬂecting on the potential of freedom of expression and information to inform the development of
+European standards applicable in the ﬁeld of digital copyright.
+
+Keywords freedom of expression; copyright; users’ rights; Internet
+
+Over the past few years, European courts, responsive to the growing expansion of copyright protection,
+and notably its enforcement mechanisms in the digital environment, have been devoting increased
+attention to freedom of expression and information as a mechanism of external constraints on copyright
+law. The present paper analyses this recent dynamic, which deviates from the conventional approach
+toward copyright law as a legal regime wherein any potential conﬂict with freedom of expression has been
+already resolved internally through the idea/expression dichotomy and the so-called “exceptions and
+limitations” to copyright. The ﬁrst section outlines the recent case law of the European Court of Human
+Rights (ECtHR) and the Court of Justice of the European Union (CJEU), explicitly dislodging the
+copyright’s immunity from external free speech checks. The newly emerging concept of “users’ rights”
+engendered by this approach is scrutinized in section two. The third and ﬁnal section concentrates on how
+the right to freedom of expression is inﬂuencing the role of online intermediaries in copyright enforcement
+process—an issue that is now at the center of policy discussions on the future of EU copyright.1
+
+Freedom of Expression as an External Limit to Copyright
+The ECtHR: An Exception-to-Rule Paradigm
+Whereas no later than at the end of 90s the European Commission of Human Rights was contending on the
+unusualness—if not the lack of competence—for it to resolve a conﬂict between copyright and freedom of
+expression,2 recent years have seen a notable increase in the involvement of Strasbourg judges in
+regulating copyright disputes.
+
+© 2016 John Wiley & Sons Ltd
+
+115
+
+Elena Izyumenko
+
+The Freedom of Expression Contours of Copyright
+
+Since 2013, the Court has rendered three important copyright decisions in which the freedom of
+expression and information was at stake. Not without a reason, all these cases centered upon unauthorized
+dissemination of copyright-protected works on the internet.
+
+The ﬁrst case, Ashby Donald and Others v France, concerned the conviction in France of the three
+fashion photographers for copyright
+infringement, following unauthorized online publication of
+photographs of designers’ clothes taken by one of them at the fashion shows in Paris.3 The ECtHR,
+which had been called upon to decide whether the posting of the photographs on an internet fashion
+magazine managed by two of the applicants amounted to a proportionate exercise of freedom of
+expression, categorically admitted the latter’s relevance to the dispute at issue. The Court noted in
+particular that the publication of photographs, even for sale and in breach of national copyright laws,4 was
+covered by freedom of expression, guaranteed under Article 10 of the European Convention on Human
+Rights (ECHR) (Council of Europe, 1950). The applicants’ convictions hence constituted an interference
+with that provision.5 Although no violation was found on the merits of the case,6 the relevance of external
+freedom of expression checks and balances to the disputes traditionally conferred exclusively to copyright
+law was clearly admitted by the ECtHR. The Court has also advanced a number of criteria for shaping—
+from the freedom of expression perspective—the so-called “exceptions and limitations” to copyright
+protection,7 but also the scope thereof.8
+
+Shortly following the above developments, yet another case on conﬂicting copyright and freedom of
+expression was rendered by the Strasbourg Court in early 2013.9 The issue revolved this time around
+notorious The Pirate Bay ﬁle-sharing service, the co-founders of which were convicted in Sweden for
+complicity to commit crimes in violation of the Swedish Copyright Act in that they had furthered, through
+their service, the other persons’ infringement of copyright concerning music, ﬁlms and computer games.
+Similarly to the French case, the ECtHR was of the opinion that domestic copyright regulation that resulted
+in ﬁnding the applicants liable for their involvement in the running of a website interfered with Article 10
+ECHR. In the Court’s view, insofar as The Pirate Bay provided—albeit in breach of copyright law—the
+means for others to impart and receive information, running of this ﬁle-sharing platform was afforded
+Article 10 protection. Nevertheless, no violation of the applicants’ expression was established this time
+either, for reasons largely similar to those advanced by the Court in Ashby Donald.10
+
+Most recently, in a case of Akdeniz from March 2014, the ECtHR was confronted with an issue of
+blocking access in Turkey to the websites myspace.com and last.fm because they were disseminating musical
+works in violation of copyright.11 The applicant, who was a regular user of the websites, complained about
+the collateral effects of blocking, which amounted, according to him, to a disproportionate response based on
+Article 10 ECHR. Whereas admitting the need to balance in the cases such as this one the possibly conﬂicting
+copyright and freedom to receive information,12 the Court nevertheless stated that the sole fact that the
+applicant—like other Turkish users of the two music-sharing websites—had been indirectly affected by
+blocking did not sufﬁce for him to be regarded as a “victim” for the Convention purposes.13 The Court noted
+in particular that the blocking did not concern the applicant’s own website14 and neither did it deprive the
+applicant of other—legitimate—ways of accessing the musical works at issue.15
+
+Although in all these cases the applicants lost, the above decisions share one important feature—an
+approach to copyright as an exception to the right to freedom of expression. This approach, rather natural to
+Convention organs, inasmuch as the case is lodged under Article 10 ECHR, might strike as unusual a
+European copyright scholar, accustomed to a quite opposite perspective: of copyright being a rule, with all
+unauthorized uses thereof constituting (at most) an “exception” or “limitation” to it. In accordance with
+this latter approach, repeatedly echoed by the CJEU, any derogation from the “general principle” of
+copyright protection “must be interpreted strictly”.16
+
+The new, Strasbourg Court-driven perspective on copyright law clearly challenges this premise.
+Coming as a response to a failure by the European legislator to provide a ﬂexible framework to regulate the
+
+116
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4
+
+The Freedom of Expression Contours of Copyright
+
+Elena Izyumenko
+
+rapidly changing technological reality, it calls for the reconsideration of what is traditionally termed as
+“exceptions” to copyright protection. This is all the more so in the light of the long-established recognition
+in Europe of the need to construe “strictly” and with particular vigilance any exception to freedom of
+expression.17 Considering that many copyright exceptions derive their legitimacy from this fundamental
+right and that copyright itself has been recognized by the ECtHR as an exception to freedom of
+expression,18 a strictly restrictive approach of the EU legislator to copyright protection does not sustain the
+human rights test.
+
+The CJEU: A “Fair Balancing” Exercise
+Although the rhetoric of “strict interpretation” of copyright exceptions occasionally re-occurs in the
+Luxemburg Court’s case law, the parallel tendency of “fair balancing” of all competing rights and interests
+at stake seems to be gradually taking place of this restrictive approach. It is also “mainly from the angle of
+fundamental rights”19—and not the secondary copyright legislation—that the examination of many
+intellectual property (IP) disputes implicating the rights of users in the digital context starts being
+conducted by the Luxemburg judges.
+
+In one of the ﬁrst of such cases, Scarlet Extended v SABAM, the CJEU held that a fair balance had to be
+struck between copyright and the internet users’ freedom of information when it concerned an injunction
+requiring an internet access provider to ﬁlter and subsequently block all electronic communications on its
+services liable to infringe copyright.20 In the Court’s view, adopting such an injunction, which was to be
+applied indiscriminately to all users and for an unlimited period of time, would have amounted to a
+violation of Article 11 (freedom of expression and information) of the EU Charter (European Union,
+2000),21 as it might not have distinguished properly between unlawful and lawful content, with the
+potential result of blocking lawful communications.22
+
+A similar conclusion was reached by the Court in SABAM v Netlog with regards to injuncting
+the hosting provider (in this case—the owner of an online social networking platform), to ﬁlter, with
+a view to blocking, information stored on its services by its users in order to prevent any copyright-
+infringing activity.23 For the reasons analogous to those advanced in Scarlet Extended, the effects
+of such injunction were likewise regarded by the Court as violative of the information rights of
+users.24
+
+Most recently, in UPC Telekabel, which—alike Akdeniz from the Strasbourg Court—revolved
+around an issue of website blocking for the purpose of copyright enforcement, the Court once again
+highlighted the need to externally balance copyright with freedom of information.25 The case concerned
+ordering a major Austrian internet access provider, UPC Telekabel Wien GmbH, to block access of its
+customers to the website kino.to, offering the copyright-protected ﬁlms for streaming or download
+without the consent of the rightholders. The crux of the case was in that the order was result-oriented,
+that is to say—it did not specify the means by which the internet service provider (ISP) should have
+achieved the blocking.
+
+The CJEU held that such an order (the so-called “outcome prohibition”)26 was legitimate in
+principle, but made it necessary to reconcile, among others, copyright with freedom of information of
+internet users.27 In order to achieve such a reconciliation, the Court held, the blocking should have been
+“strictly targeted” in the sense of not unnecessarily depriving internet users of access to legitimate
+content.28 Furthermore, the CJEU was of the opinion that the users were to be accorded standing before
+the national courts once the implementing measures liable to infringe their information rights were
+known.29
+
+As could be seen from UPC Telekabel and other cases discussed above, the CJEU, alike the ECtHR, is
+repeatedly taking a position that the freedom of expression interests should be accounted for in the
+copyright discourse, especially as far as the digital environment is concerned.30
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4
+
+117
+
+Elena Izyumenko
+
+The Freedom of Expression Contours of Copyright
+
+The Rights of Users
+Substantive Content
+Much in line with the reconceptualization by both European courts of the place of freedom of expression in
+copyright sphere, the so-called “users’ rights”—understood as the equal rights of users of protected
+subject-matter, and not as mere defences in a copyright infringement suit—are progressively taking shape
+in European copyright law and policy.31
+
+Starting with Padawan in 2010,32 the CJEU has been repeatedly stating, with reference to recital 31 in
+the preamble to InfoSoc Directive,33 that exceptions to copyright “seek to achieve a ‘fair balance’ between,
+in particular, the rights and interests of authors on the one hand, and the rights of users of protected subject-
+matter on the other”.34 In most of such cases, it was freedom of expression and information that gave a
+substantive content to the rights of users.35 In Deckmyn, for example, it was “not disputed” by the CJEU
+that the parody exception that was at stake in that case was “an appropriate way to express an opinion”.36 It
+hence followed that the rights of authors were to be balanced not against the exception for parody, but
+against the right to “freedom of expression of the user of a protected work” relying on that exception.37
+Similarly, in Painer (on quotation exception), it was from the angle of “fair balancing” of the users’ right to
+freedom of expression against the reproduction right conferred on authors that the situation at issue was
+resolved.38 Most recently, in Ulmer from September 2014, the CJEU characterized the right to digitize
+works contained in the publicly accessible libraries collections as an “ancillary right” that such
+establishments enjoyed as the users of protected works wishing to communicate them to the public.39
+
+Procedural Guarantees: Users’ Locus Standi
+However, perhaps the most distinct recognition of users’ rights came with the Luxemburg Court’s
+judgment in UPC Telekabel. As noted above, the CJEU was of the opinion in that case that, in order to
+safeguard the freedom of information of the ISP’s customers, “the national procedural rules must provide a
+possibility for internet users to assert their rights before the court once the implementing measures taken by
+the internet service provider are known”.40 A hereby recognized locus standi of users came as a vivid
+illustration of the important differences between safeguarding the information freedoms through the
+“mere” defences to copyright infringement or by means of “rights”—that is to say, legal claims calling,
+among others, for procedural safeguards of their implementation.
+
+Securing that the users are granted standing on free expression grounds, particularly in the context of
+progressively expanding copyright enforcement measures, is indeed much needed in the democracy-
+sensitive and rapidly changing online environment. As observed by Article 19, a reputable independent
+human rights organization working to protect and promote the right to freedom of expression, the proper
+“mechanisms for users to appeal against decisions by ISPs to censor user-generated content” are currently
+lacking in the EU (ARTICLE 19, 2016).41 Majority of national courts habitually undertake proportionality
+analysis with regards to the rights of copyright holders, ISPs and (at most) infringers, but not the affected
+users. As such, it is submitted that in some countries “extraordinary circumstances seem to be required
+before a court would take third parties into account when balancing interests” (Savola, 2014, paragraph
+54).42 The CJEU had since UPC Telekabel obliged the national procedural rules to remedy this situation,
+albeit within a quite limited context of the result-tailored prohibitions.
+
+Likewise noteworthy in this respect is an Opinion of the Advocate General J€a€askinen in L’Oreal and
+Others, even though the case concerned trademarks and not copyright. As pointed therein, freedom of
+expression and information “entails that the protection of trade mark proprietor’s rights in the context of
+electronic commerce may not take forms that would infringe the rights of innocent users of an electronic
+marketplace or leave the alleged infringer without due possibilities of opposition and defence.”43
+
+Despite the clear growth in attention to the rights of users in IP cases, it must, however, be admitted
+that the European law still leaves a fair share of controversy on the issue of users’ locus standi on free
+
+118
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4
+
+The Freedom of Expression Contours of Copyright
+
+Elena Izyumenko
+
+expression grounds. First, as already mentioned, the UPC Telekabel Court envisaged a mandatory
+provision on the users’ standing only with regard to a quite peculiar construction of an outcome prohibition
+and alike. Under the procedural laws of certain Member States comparable types of orders are simply not
+envisaged (Angelopoulos, 2014; Husovec, 2014, p. 633). For those States the question of the users’
+capacity to bring proceedings challenging the measure-speciﬁc blocking orders might still need to be
+fought out in their respective courts.44
+
+Finally, the recent judicial practice of the ECtHR does not add much clarity on the users’ rights issue.
+Speciﬁcally, the Strasbourg Court’s decision in Akdeniz (discussed above) suggests that no victim-status
+can be asserted by the “mere user” of a website being blocked for breach of copyright.45 According to the
+ECtHR, the locus standi seems to be available for those only who own the websites affected46 or actively
+impart information on the internet,47 and not those who “simply” use such websites. This stance might,
+however, appear in contradiction to that of the CJEU in both UPC Telekabel and SABAM cases, all of
+which indeed concerned the effects of website blocking on the rights of the “mere” users to freely receive
+and impart information. Moreover, in SABAM cases the balancing of interests at issue even resulted in
+favouring the rights of users over those of the rightholders.
+
+The ISPs Role in Digital Copyright Enforcement: Toward a Private-Party Censorship?
+As could be noted from above, much of the issues at the intersection of copyright and freedom of
+expression in the digital environment arise from the rapidly evolving techniques of copyright enforcement
+online,48 most of which are characterized by shifting enforcement burdens on the intermediaries.49
+
+The mechanisms through which the ISPs are getting more actively involved in the digital copyright
+enforcement process boil down, very generally, to secondary liability and injunctive relief. Under the
+former, the ISPs may be held liable for the infringing acts of their users, whereas injunctive relief insures
+that intermediaries would cooperate in terminating or preventing an online infringement, even if no ground
+for their own liability can be established.
+
+Both the secondary liability and injunctions regimes, however, pose a risk of the private-party
+censorship “chilling” freedom of expression online. Thus, uncertainties surrounding the circumstances
+under which the ISPs can be held liable for the third-party infringement of copyright provide strong
+incentives to overblock, just in case, substantial portions of legitimate content. Analogously, ambiguity as
+to the scope of injunctions that can reasonably be required from intermediaries in order to “effectively”
+enforce copyright and associated fears of coercive penalties for non-compliance, may lead to additional
+self-censorship by the ISPs.
+
+It is, therefore, not surprising that the courts in Europe had had recourse to the right to freedom of
+expression and information in testing the boundaries of the ISPs’ liability for the third-parties’
+infringements of copyright and in determining which types of injunctions could be allowed against non-
+liable intermediaries in order to tackle the so-called online “piracy”.
+
+Liability
+In the EU, the limits of the ISPs’ liability are set forth in Articles 12–4 of the E-Commerce Directive,50
+providing for the so-called “safe harbour” exemptions from liability for the three categories of service
+providers: “mere conduit”, “caching” and hosting. In order to qualify for “safe harbours”, however, the
+service providers have to fulﬁl certain conditions. Notably, they should act as “passive” intermediaries,
+that is to say—they should have “neither knowledge of nor control over the information which is
+transmitted or stored.”51 The “mere conduit” and “caching” service providers, in particular, beneﬁt from
+safe harbours when they are “in no way[s] involved with the information transmitted; this requires among
+other things that [they] do[] not modify the information that [they] transmit[].”52 As regards the hosting
+providers, in order to beneﬁt from a limitation of liability, they have to “act expeditiously to remove or to
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4
+
+119
+
+Elena Izyumenko
+
+The Freedom of Expression Contours of Copyright
+
+disable access to the information concerned” “upon obtaining actual knowledge or awareness of illegal
+activities”.53 However, apart from these general provisions on liability outlined in the E-Commerce
+Directive, the exact conditions under which intermediaries could be deemed passive, or neutral, remain
+fragmented under European law, and the CJEU has already been called upon on several occasions to ﬁll
+into this legislative gap.
+
+In Google France and Google, for example, the Court held that Article 14 (hosting) E-Commerce
+“safe harbour” applied to an internet referencing service provider, such as Google’s “AdWords”, in the
+case where that service provider had not played an active role of such a kind as to give it knowledge of, or
+control over, the data stored.54 If it had not played such a role, that service provider could not be held liable
+for the data which it had stored at the request of an advertiser, unless, having obtained knowledge of the
+unlawful nature of those data or of that advertiser’s activities, it had failed to act expeditiously to remove or
+to disable access to the data concerned.55 Although leaving it for the national court to decide whether the
+role played by Google was neutral, the Court provided some guidance as to what criteria could be decisive
+in such an examination.56 It observed in particular that the mere fact that the advertising service was
+subject to payment, that Google set the payment terms or that it provided general information to its clients
+could not have had the effect of depriving Google of the exemptions from liability.57
+
+By contrast, as was made clear in L’Oreal and Others, when the online-marketplace operator provided
+assistance which entailed the knowledge of, or control over, the data relating to the information it stored, its
+position could not be considered as neutral.58
+
+Further clariﬁcations of the neutrality rule have followed, nevertheless, not from the CJEU, as could
+have been expected, but from another principal supranational court in Europe—the ECtHR. The case at
+issue, Delﬁ v Estonia, revolved around the question of liability (or the lack thereof) of online platforms for
+the clearly infringing content generated by their users.59 In Estonia, the owner of one of the country’s
+largest internet news portals, Delﬁ, was held liable for defamatory comments posted by its readers in the
+portal’s online commenting environment. Despite the fact that the comments were removed by Delﬁ
+immediately upon notiﬁcation by the injured person’s lawyers (which happened though some six weeks
+after they were uploaded on the website), Estonian Supreme Court found the portal liable for failing to
+remove the comments on its own initiative immediately after they had been published. In ruling so, it
+rejected the portal’s argument that its liability, as a hosting provider, was excluded under Article 14 of the
+E-Commerce Directive. It held in particular that the activities of the portal in publishing the comments
+were not merely of a technical, automatic and passive nature. In this connection, it had regard to the fact
+that the readers were actively called to comment on the news items appearing on the portal; the defendant
+had an economic interest in the posting of comments, which increased the number of visits to the portal and
+hence a revenue earned from advertisements; the portal, in contrast to the users who could no longer delete
+or modify a comment once it was uploaded, had an active control over the commenting environment. It
+followed that the applicant company was to be classiﬁed as an active intermediary (media publisher),
+including with regard to its users’ comments, with a consequence that the E-Commerce Directive did not
+apply. Instead, the Supreme Court relied on the national Obligations Act, in accordance with which Delﬁ
+could not be exempt from liability for the publication of the clearly unlawful content.
+
+Before the ECtHR, Delﬁ complained that holding it liable for the comments posted by its readers
+infringed its freedom to impart information as provided in Article 10 ECHR.60 It argued in particular
+that there was no domestic law according to which an intermediary had to be taken as a professional
+publisher of comments posted on its website by third parties regardless of whether it was aware of their
+speciﬁc content. It further argued that ﬁnding it liable would have left it with two choices: to either over-
+censor any sensitive comments “that could be labelled defamatory (or that could infringe intellectual
+property rights, inter alia)”;61 or to simply avoid any liability risks by shutting down the comment feature
+altogether.62
+
+120
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4
+
+The Freedom of Expression Contours of Copyright
+
+Elena Izyumenko
+
+In its Grand Chamber judgment delivered in June 2015, the Court held, by 15 votes to 2, that ﬁnding
+Delﬁ liable had not infringed upon its right to freedom of expression. Although acknowledging that
+the difference in the parties’ opinions as regards applicability of the E-Commerce Directive stemmed
+from their diverging views on the issue of how the applicant company was to be classiﬁed,63 it,
+however, found that it was for the national courts to interpret and apply domestic law.64 Thereby, the
+ECtHR avoided pronouncing on the appropriateness of the domestic courts’ decision not to apply the
+E-Commerce Directive, limiting itself to examining whether the application of the general provisions of
+the Obligations Act to the applicant’s situation was foreseeable and proportionate for the purposes of
+Article 10(2) ECHR.
+
+As concerned the law’s foreseeability, it held that Delﬁ, as a professional publisher and one of the
+largest news portals in Estonia, in relation to which there was moreover a known public concern about the
+controversial nature of the comments it attracted, was in a position to assess risks related to its activity.65
+As to the proportionality of an interference with the applicant’s freedom to impart information, the
+Court conceded, ﬁrst, with the domestic courts’ reasoning that Delﬁ’s involvement in making public the
+comments on its news articles went beyond that of a passive, purely technical service provider.66 It further
+noted that shifting the liability risks from the actual authors of the comments to the service provider “was
+not as such a disproportionate interference with the media company’s right to freedom of expression”,67
+regard being had to the “uncertain effectiveness of measures allowing the identity of the authors of the
+comments to be established” and a better ﬁnancial position of the media company.68 Thirdly, although
+acknowledging that Delﬁ took certain measures to ﬁlter comments with clearly unlawful contents,69 the
+Court regarded those measures as insufﬁcient.70 Hence the Contracting States were entitled “to impose
+liability on internet news portals, without contravening Article 10 of the Convention, if they fail[ed] to take
+measures to remove clearly unlawful comments without delay, even without notice from the alleged victim
+or from third parties”.71 Finally, the Court considered that the modest sum Delﬁ had been ordered to pay in
+compensation for non-pecuniary damage (EUR 320) did not compromise the proportionality of the
+interference with the applicant’s expression on that account either.72
+
+Although Delﬁ was not concerned with copyright as such, it illustrates a general idea. The Court has
+approved, with 15 votes against 2, a liability system that imposes a requirement of constructive knowledge
+on active internet intermediaries.73 That means that “active intermediaries must remove comments
+‘without delay’ after publication. . ., and not upon notice or on other grounds linked to actual
+knowledge.”74 The two dissenting judges, however, voiced the potential troubling consequences of this
+standard, naming it no less than “an invitation to self-censorship at its worst”.75 According to them, “[t]o
+avoid trouble, for active intermediaries the safe harbour [would] simply be to disable comments”,76 and
+“the fear of liability may lead to additional self-censorship by operators.”77 At the same time, “[i]n the
+overwhelming majority of the member States of the Council of Europe, and also in genuine democracies
+all over the world, the regulatory system (in conformity with the expectations of the rule of law) is based on
+the concept of actual knowledge. A safe harbour is provided by the rule of notice and action (primarily
+‘notice and take down’).”78 The dissenting judges further observed that “[n]either the domestic authorities
+nor the Court explain[ed] why the provision of binding European law that [was] part of the national legal
+system [had been] immaterial, except to say that the present case concern[ed] a matter of publication rather
+than data storage.”79 Although conceding that it was not for the Strasbourg Court to interpret EU law as
+such, this did not mean that this law was not a part of the domestic system.80 To the contrary, the national
+incorporation of the E-Commerce Directive provided a “safe harbour” rule for service providers in the case
+of storage, and hence a reasonable justiﬁcation was required, in the dissenting judges’ opinion, for the
+choice of the higher level of liability.81
+
+Neither did it follow that the publisher’s liability was foreseeable.82 According to the dissenting
+judges, the applicable law was not obvious and “[o]nly divine legal counsel could have been sufﬁciently
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4
+
+121
+
+Elena Izyumenko
+
+The Freedom of Expression Contours of Copyright
+
+certain that a portal operator would be liable for a comment it was not aware of, under a kind of strict
+liability that applied to publishers (editors) who operated in full knowledge of the whole publication.”83
+As to the proportionality of an interference with Delﬁ’s right to enable others to impart and receive
+information and associated balancing approach,
+the dissenting judges pointed to a number of
+considerations that had been left out of the Court’s analysis, including the fact that the interference
+the debate was on a matter of public interest.84
+concerned the press and journalism and that
+Inappropriateness of “equat[ing] the expressions used by the commenters with the activities of an active
+intermediary” had also been highlighted.85
+
+It needs to be noted, however, that, since Delﬁ, the ECtHR seemed to have attempted to remedy its
+rather radical approach toward the standards of liability for online intermediaries. In a judgment in the
+MTE case rendered in February 2016, the Court ruled that holding an ISP liable for the infringing content
+posted by its users indeed violated that ISP’s freedom of expression.86 The two main considerations that, in
+the opinion of the Court, distinguished this case from Delﬁ were: (i) the nature of the content at issue
+(which did not constitute, as in Delﬁ, clearly unlawful hate speech) and (ii) the non-for-proﬁt status of one
+of the applicants in MTE.87 No analysis was advanced with regards to the neutrality rule though.
+
+It remains only to be seen what consequences this disparate practice, coupled with the lack of clarity
+with respect to the secondary liability of online intermediaries and their role in policing their users’ content
+will bring for freedom of information, net neutrality and digital IP enforcement in Europe.
+
+Injunctions
+Distinct from the question of liability, a separate regime implicating a greater involvement of the ISPs in
+copyright enforcement and speech-regulation online is that of the injunctive relief. As the E-Commerce
+Directive makes it clear, “[t]he limitations of the liability of intermediary service providers established in
+this Directive do not affect the possibility of injunctions of different kinds; such injunctions can in
+particular consist of orders by courts or administrative authorities requiring the termination or prevention
+of any infringement, including the removal of illegal information or the disabling of access to it.”88 The
+legal basis of injunctions rests upon Articles 12(3), 13(2), and 14(3) of the E-Commerce Directive, as well
+as on the almost identical wording of Articles 8(3) InfoSoc and Article 11, third sentence, of the
+Enforcement Directive.89 In addition, although not saying anything on the level of speciﬁcity of
+injunctions, Article 15 of the E-Commerce Directive outlaws the general monitoring obligation.
+
+As pointed in the EU Study on the Single Market for the Information Society, “[t]he possibility to issue
+injunctions against service providers should not be underestimated: while liability claims against mere
+conduit service providers (and caching service providers) are not important in court practice, injunctions
+are frequently issued against them” (DLA Piper, 2009, p. 21).
+
+However, much alike the issue with secondary liability, “[t]he conditions and modalities relating to
+such injunctions [are] left to the national law of the Member States”,90 generating concerns about the
+collateral private-party censorship of online content.
+
+These concerns have already led the CJEU to outlaw the general ﬁltering systems at issue in SABAM
+cases as being contrary to the EU law, but also and foremost—to its fundamental rights legal order. The
+Court held in particular with regards to freedom to receive and impart information of the ISP’s customers
+that such systems could result in a violation thereof.91 In the Court’s view, an injunction requiring an
+intermediary to install, as a preventive measure and for an unlimited period, a permanent ﬁltering system
+blocking all electronic communications on its services liable to infringe copyright, did not appear to
+guarantee the blockage only of exchanges speciﬁcally identiﬁable as unlawful, potentially affecting lawful
+communications.92 The CJEU had particular regard to the fact that lawfulness or otherwise of a given
+transmission depended on the application of statutory exceptions to copyright which varied from country
+to country and therefore fell outside the sphere of technology.93
+
+122
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4
+
+The Freedom of Expression Contours of Copyright
+
+Elena Izyumenko
+
+The need to preserve a “strictly targeted” character of blocking had been likewise highlighted by the
+CJEU in UPC Telekabel,94 where the Court stressed that the blocking “must serve to bring an end to a third
+party’s infringement of copyright or of a related right but without thereby affecting internet users who are
+using the provider’s services in order to lawfully access information.”95 Failing that, according to the
+Court, “the provider’s interference in the freedom of information of those users would be unjustiﬁed in
+the light of the objective pursued.”96
+
+It worth, however, noting that—unlike in SABAM cases—the measure at issue in UPC Telekabel was
+not outlawed by the CJEU per se. The Court simply shifted a great share of responsibility for ensuring a
+“strictly targeted” character of blocking to the ISPs. According to the Court, it was for an intermediary to
+ensure, when choosing which blocking measure to adopt in order to comply with an outcome prohibition,
+that the fundamental right of internet users to freedom of information had been complied with. Failing that,
+an ISP could fear a freedom of information dispute with its customers.97 Arguably, there might have been
+better ways to reconcile the conﬂicting copyright and freedom of information at stake, one of which would
+be agreeing with Advocate General, in whose opinion the outcome prohibition simply was not precise
+enough to comply with the Union legal order, given that “[w]hether complete prevention of the outcome is
+possible at all and whether the measures necessary for that purpose take account of the parties’
+fundamental rights is not examined before the outcome prohibition is issued”.98 According to the Advocate
+General, the result-tailored injunctions (unlike the speciﬁc ones) thus failed in regard to proportionality
+“[i]n logical terms alone”, but also in light of the case law requirement that a balance of rights is observed
+when, not after, the injunction is issued.99
+
+All in all, although particular means of preserving the users’ information freedoms might be a subject
+of discussion, the general message from the Luxemburg judges remains clear—copyright enforcement
+should be safeguarded from collateral effects.
+
+The same message is being transmitted by the Strasbourg Court which, in one of its ﬁrst cases on
+website blocking made it clear that any blocking measure rendering—absent the tight control over the
+scope of the ban—large quantities of information inaccessible, “substantially restrict[s] the rights of
+internet users and ha[s] a signiﬁcant collateral effect”.100 The case at issue, Yıldırım, concerned the
+blocking in Turkey of an entire internet domain (Google Sites) in the context of criminal proceedings
+brought against a single third-party website. Before the ECtHR, the applicant complained that the blocking
+made it impossible for him to access his own website hosted on the same internet domain, but which had no
+connection with the illegal content that had given rise to blocking. In ruling on a violation of Article 10 of
+the Convention, the Court considered that the blocking produced signiﬁcant collateral effects, whereas the
+judicial-review procedures concerning the order were insufﬁcient to meet the criteria for avoiding
+abuse.101
+
+In Akdeniz, that followed two years after, the Court reafﬁrmed that “any measure blocking access to a
+website had to be part of a particularly strict legal framework ensuring both tight control over the scope of
+the ban and effective judicial review to prevent possible abuse, because it could have signiﬁcant effects of
+‘collateral censorship’”.102 That was not the case, however, in Akdeniz, where the blocking targeted
+speciﬁcally the infringing websites and not—as in Yıldırım—all websites hosted on the same internet
+domain with an infringing one.
+
+Summing up, an emerging European case law on injunctions suggests that those are most likely to be
+dismissed on the freedom of expression grounds once a strong likelihood of the adverse chilling effects on
+legitimate information is established. At the same time, the collateral effects on legitimate content do not
+impose an unconditional ban on enforcement. As it concerns in particular the website blocking, the studies
+on their different techniques demonstrate that each blocking measure carries the risk of overblocking
+(Ofcom, 2010, p. 4 et seq.). The most problematic in this regard is IP address blocking, since multiple
+websites commonly share a single IP address. As a result, the blocking of one of such websites leads to an
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4
+
+123
+
+Elena Izyumenko
+
+The Freedom of Expression Contours of Copyright
+
+automatic block of all of its “neighbours” (Ofcom, 2010, p. 30). It is for this reason the Antwerp Court of
+Appeals, for example, expressly dismissed IP address blocking based on a strong likelihood of collateral
+effects on the websites sharing the same IP address with The Pirate Bay.103 Then again, if only
+unsubstantial portion of legitimate content is affected by blocking, it is likely to be considered
+proportionate, as inter alia the recent decision of the ECtHR in Akdeniz demonstrated.104
+
+Conclusion
+In conclusion, although it is apparent that the European courts are having hard times ﬁguring out the
+standards applicable in the ﬁeld of digital copyright, the case law of recent years marks an important shift.
+It points to a greater consideration of the interests of all parties to copyright enforcement process, including
+those of the internet users.
+
+The fact that the external freedom-of-expression checks and tests have been admitted to the internal
+copyright regulation is important, as it provides a weighty counter-balance to some one-sided digital
+copyright enforcement strategies.105 The CJEU has even went as far as to mandate the “users’ rights”
+which could be enforced in courts,106 hence arguably being more attentive to freedom of expression than
+was the ECtHR in its ﬁrst case on copyright-defensive website blocking.107 From this perspective, it can be
+said that the CJEU moves toward understanding of freedom of information as an integral part of the
+European copyright order in full recognition of its underlying rationales. On the other hand, it also appears
+that both European courts expect online intermediaries to be very actively involved in copyright
+enforcement process, which might prove problematic in terms of prior restraints and the private-party
+censorship.
+
+All this leaves without doubt a wide room for further clariﬁcations, all the more precious in
+anticipation of the EU obligatory accession to the ECHR,108 which is likely to only reinforce the current
+tendency to test copyright and its enforcement strategies from the angle of fundamental rights.
+
+About the Author
+Elena Izyumenko, PhD Candidate and Researcher at the Centre for International Intellectual Property
+Studies (CEIPI), University of Strasbourg (France); LL.M, Lund University (Sweden); e-mail:
+elena.izyumenko@ceipi.edu
+
+Notes
+
+1. See e.g. European Commission (2015), listing clariﬁcation of the rules on intermediaries in relation to copyright-
+
+protected content among the priorities of the Juncker Commission.
+
+2. ECommHR, Societe Nationale de Programmes FRANCE 2 v France (dec.), no. 30262/96, 15 January 1997:
+“[The Commission] recalls that it is normally not for the Convention organs to resolve, under paragraph 2 of
+Article 10 (Article 10–2), the conﬂicts which may arise between, on the one hand, the right to freely
+communicate information and, on the other hand, the right of authors whose works are communicated”
+(translation from French by the author). For an overview of the case law of the ECtHR and its former
+Commission in the ﬁeld of copyright and freedom of expression, as well as of some cases from national European
+jurisdictions, see, among others, Hugenholtz (2001); Geiger (2004); Strowel and Tulkens (2006); Strowel
+(2014); Voorhoof (2015).
+
+3. ECtHR, Ashby Donald and Others v France, no. 36769/08, 10 January 2013.
+4. In France, both designers’ clothes and fashion shows are protected by copyright, provided that they display
+original character. Accordingly, the fashion houses concerned were entitled to authorise or forbid the
+reproduction or dissemination of their creations (Ashby Donald (supra note 3), paragraph 13).
+
+124
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4
+
+The Freedom of Expression Contours of Copyright
+
+Elena Izyumenko
+
+5. Ashby Donald (supra note 3), paragraph 34.
+6. This was largely due to the nature of information disseminated (not contributing, in the Court’s opinion, to the
+public debate of general interest) and commercial undertones of the applicants’ actions. An important factor in
+favoring the rights of the fashion houses over those of the photographers was also the weight afforded by the
+ECtHR to the protection of intellectual property. According to the Court, the interests of copyright holders
+themselves beneﬁted from the Convention protection afforded by Article 1 of First Protocol (protection of
+property) to the ECHR. It thus followed that the Court had to balance two competing interests both protected by
+the Convention—a delicate exercise, leaving the States a wide margin of discretion in regulating the dispute at
+issue (Ashby Donald (supra note 3), paragraph 40).
+
+7. An “exception” at issue in Ashby Donald was that for the purpose of news reporting, envisaged in Article L. 122–
+5 9° of the French Intellectual Property Code—a national transposition of Article 5(3)(c) of the Directive 2001/
+29/EC of the European Parliament and of the Council of 22 May 2001 on the harmonization of certain aspects of
+copyright and related rights in the information society (InfoSoc) [2001] OJ L 167/10.
+
+8. Among such criteria are: the nature of information disseminated; the character of expression; the comparative
+
+importance of a counterbalanced interest; the proportionality of the restrictions, etc.
+
+9. ECtHR, Neij and Sunde Kolmisoppi v Sweden [“The Pirate Bay”] (dec.), no. 40397/12, 19 February 2013.
+10. For a joint comment of “The Pirate Bay” and Ashby Donald decisions, see Geiger and Izyumenko (2014). See
+
+also Voorhoof (2015).
+
+11. ECtHR, Akdeniz v Turkey (dec.), no. 20877/10, 11 March 2014.
+12. Id., paragraph 28.
+13. Id., paragraph 24.
+14. Id., paragraph 27.
+15. The Court noted further that the websites were blocked because they did not comply with copyright legislation
+and that neither the collateral effects of blocking, nor the nature and the character of disseminated information
+were such as to raise an important question of general interest (Akdeniz (supra note 11), paragraphs 25, 26 and
+28).
+
+16. See e.g. ECJ, Judgment in Infopaq, C-5/08, EU:C:2009:465, paragraph 56. To that effect, see also, among other
+authorities, CJEU, Judgment in Deckmyn, C-201/13, EU:C:2014:2132, paragraph 22; CJEU, Judgment in Public
+Relations Consultants Association, C-360/13, EU:C:2014:1195, paragraph 23; CJEU, Judgment in ACI Adam
+and Others, C-435/12, EU:C:2014:254, paragraph 23; and CJEU, Judgment in Football Association Premier
+League and Others, C-403/08 and C-429/08, EU:C:2011:631, paragraph 162.
+
+17. This principle has been summarised by the ECtHR as follows: “As set forth in Article 10, this freedom is
+subject to exceptions, which . . . must, however, be construed strictly, and the need for any restrictions must
+be established convincingly”. See, among many others, ECtHR, Delﬁ AS v Estonia [GC], no. 64569/09,
+16 June 2015, paragraph 131, ECHR 2015; ECtHR, Animal Defenders International v the United Kingdom
+[GC], no. 48876/08, 22 April 2013, paragraph 100, ECHR 2013; ECtHR, Mouvement raëlien suisse v
+Switzerland [GC], no. 16354/06, 13 July 2012, paragraph 48, ECHR 2012; ECtHR, Stoll v Switzerland [GC],
+no. 69698/01, 10 December 2007, paragraph 101, ECHR 2007-V; ECtHR, Steel and Morris v the United
+Kingdom, no. 68416/01, 15 February 2005, paragraph 87, ECHR 2005-II; ECtHR, Perna v Italy [GC],
+no. 48898/99, 6 May 2003, paragraph 39, ECHR 2003-V; ECtHR, Ceylan v Turkey [GC], no. 23556/94,
+8 July 1999, paragraph 32, ECHR 1999-IV; ECtHR, Hertel v Switzerland, no. 25181/94, 25 August 1998,
+paragraph 46, ECHR 1998-VI; and ECtHR, Zana v Turkey [GC], no. 18954/91, 25 November 1997,
+paragraph 51, ECHR 1997-VII.
+
+18. See Societe Nationale de Programmes FRANCE 2 (supra note 2); Ashby Donald (supra note 3), paragraph 40;
+Neij and Sunde Kolmisoppi (supra note 9); and (somewhat implicitly) Akdeniz (supra note 11), paragraph 28.
+19. CJEU, Opinion of Advocate General Cruz Villalon in Scarlet Extended, C-70/10, EU:C:2011:255, paragraph 5.
+20. CJEU, Judgment in Scarlet Extended, C-70/10, EU:C:2011:771, paragraph 53.
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4
+
+125
+
+Elena Izyumenko
+
+The Freedom of Expression Contours of Copyright
+
+21. Notably, the meaning and scope of Article 11 of the EU Charter are the same as those guaranteed by Article 10
+ECHR (see Article 52(3) of the EU Charter, as well as the Explanations Relating to the Charter of Fundamental
+Rights [2007] OJ C 303/17, p. 21).
+
+22. Scarlet Extended (supra note 20), paragraph 52.
+23. CJEU, Judgment in SABAM v Netlog, C-360/10, EU:C:2012:85.
+24. Id., paragraph 50.
+25. CJEU, Judgment in UPC Telekabel, C-314/12, EU:C:2014:192, paragraph 47.
+26. Erfolgsverbot under the Austrian procedural law.
+27. UPC Telekabel (supra note 25), paragraph 47.
+28. Id., paragraph 56.
+29. Id., paragraph 57.
+30. See also, highlighting the importance of the internet in the exercise of freedom of expression, ECtHR, Annen v
+Germany, no. 3690/10, 26 November 2015, paragraph 66; Delﬁ AS (supra note 17), paragraph 133; Akdeniz
+(supra note 11), paragraph 24; ECtHR, Ahmet Yıldırım v Turkey, no. 3111/10, 18 December 2012, paragraphs
+48–9, ECHR 2012; ECtHR, Times Newspapers Ltd v the United Kingdom (nos. 1 and 2), nos. 3002/03 and
+23676/03, 10 March 2009, paragraph 27, ECHR 2009.
+
+31. Further on users’ rights, see Elkin-Koren (2016); Geiger (2016); Chapdelaine (2013); Vaver (2013). On the
+rights of users in the practice of the Canadian Supreme Court, see CCH Canadian Ltd. v Law Society of Upper
+Canada, [2004] 1 SCR 339; SOCAN v Bell Canada, [2012] 2 SCR 326; Alberta (Minister of Education)
+v Canadian Copyright Licensing Agency (Access Copyright), [2012] 2 SCR 345.
+
+32. CJEU, Judgment in Padawan, C-467/08, EU:C:2010:620.
+33. Directive 2001/29/EC (supra note 7).
+34. Deckmyn (supra note 16), paragraph 26 (emphasis added). See, to the same effect, starting with Padawan (supra
+note 32), paragraph 43; CJEU, Judgment in Stichting de Thuiskopie v Opus Supplies Deutschland GmbH and
+Others, C-462/09, EU:C:2011:397, paragraph 25; Football Association Premier League (supra note 16),
+paragraph 164; CJEU, Judgment in Painer, C-145/10, EU:C:2011:798, paragraph 132; Public Relations
+Consultants Association (supra note 16), paragraph 24; UPC Telekabel (supra note 25), paragraph 47.
+
+35. Another important human right often giving substantive content to the rights of users is the right to privacy and
+personal data protection, guaranteed by Article 8 ECHR and corresponding Articles 7 and 8 of the EU Charter.
+
+36. Deckmyn (supra note 16), paragraph 25.
+37. Id., paragraph 27.
+38. Painer (supra note 34), paragraphs 134 and 135.
+39. CJEU, Judgment in Ulmer, C-117/13, EU:C:2014:2196, paragraph 43 (emphasis added).
+40. UPC Telekabel (supra note 25), paragraph 57 (emphasis added).
+41. Furthermore, according to the ECtHR, there existed—at least by December 2012—“no speciﬁc provisions
+governing appeals against measures restricting access to an Internet page” in several Member States, including
+Belgium, the Czech Republic, Lithuania, Spain and the United Kingdom (Ahmet Yıldırım (supra note 30),
+paragraph 37).
+
+42. Referring in particular to Norway, Denmark and Sweden.
+43. CJEU, Opinion of Advocate General J€a€askinen in L’Oreal and Others v eBay, C-324/09, EU:C:2010:757,
+paragraph 158. More generally on the interplay of trademarks and freedom of expression, see Senftleben (2015);
+Ramsey (2015); Sakulin (2010); Burrell and Gangjee (2010).
+
+44. Some commentators, however, considered that the users’ locus standi could also extend to speciﬁc orders
+
+(Savola, 2014, paragraph 36; Husovec, 2014, p. 633).
+
+45. Akdeniz (supra note 11), paragraph 27 (emphasis added).
+46. Akdeniz (supra note 11), paragraph 27, with further references to Ahmet Yıldırım (supra note 30), paragraph 46.
+47. ECtHR, Cengiz and Others v Turkey, nos. 48226/10 and 14027/11, 1 December 2015, paragraphs 49–50.
+
+126
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4
+
+The Freedom of Expression Contours of Copyright
+
+Elena Izyumenko
+
+48. Suspensions of internet access (in particular via the so-called “graduated response” procedures), trafﬁc shaping,
+content ﬁltering and website blocking are currently among the most common “Internet-focused policy responses
+to online copyright infringement” (Internet Society, 2011, p. 11).
+
+49. Further on this trend, see Raymond (2013); Lodder and van der Meulen (2013); Karjala (2013); Elkin-Koren
+
+(2014); Giblin (2014); de Beer and Clemmer (2009); Zittrain (2006).
+
+50. Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of
+information society services, in particular electronic commerce, in the Internal Market (E-Commerce Directive)
+[2000] OJ L 178/1.
+
+51. Recital 42 of the E-Commerce Directive.
+52. Recital 43 of the E-Commerce Directive.
+53. Recital 46 of the E-Commerce Directive.
+54. CJEU, Judgment in Google France and Google, C-236/08 to C-238/08, EU:C:2008:389, paragraph 120.
+55. Id.
+56. Id., paragraphs 116–8.
+57. Id., paragraph 116.
+58. CJEU, Judgment in L’Oreal and Others v eBay, C-324/09, EU:C:2011:474, paragraph 116. In the context of the
+present case, such active role consisted in optimizing the presentation of the offers for sale in question or
+promoting those offers.
+
+59. Delﬁ AS (supra note 17).
+60. Id., paragraph 59.
+61. Id., paragraph 72.
+62. Id.
+63. Id., paragraph 125.
+64. Id., paragraph 127.
+65. Id., paragraph 129.
+66. Id., paragraph 146.
+67. Id., paragraph 151.
+68. Id.
+69. Importantly, in the Court’s view, the contents of the comments in question amounted to hate speech and
+
+incitement to violence (Delﬁ AS (supra note 17), paragraph 115).
+
+70. Delﬁ AS (supra note 17), paragraphs 154–9. The measures at issue encompassed an automatic system of deletion
+of comments that included certain stems of obscene words. Furthermore, there was a notice-and-take-down
+system in place, whereby any reader could mark a comment as inappropriate and the comment was removed
+expeditiously by the portal administrators. In addition, on some occasions inappropriate comments were
+removed by the administrators on their own initiative.
+
+71. Delﬁ AS (supra note 17), paragraph 159 (emphasis added).
+72. Id., paragraph 161.
+73. ECtHR, Joint Dissenting Opinion of Judges Sajo and Tsotsoria in Delﬁ AS v Estonia [GC], no. 64569/09,
+
+16 June 2015, paragraph 1, ECHR 2015.
+
+74. Id., paragraph 8.
+75. Id., paragraph 1.
+76. Id., paragraph 8.
+77. Id., paragraph 1.
+78. Id., paragraph 7.
+79. Id., paragraph 17.
+80. Id.
+81. Id.
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4
+
+127
+
+Elena Izyumenko
+
+The Freedom of Expression Contours of Copyright
+
+82. Id.
+83. Id., paragraph 20.
+84. Id., paragraph 39. Notably, the press-factor has also escaped the Court’s analysis in another case on freedom of
+expression and digital copyright, Ashby Donald (supra note 3) (further on this, see Geiger and Izyumenko
+(2014), pp. 335–6).
+
+85. Joint Dissenting Opinion of Judges Sajo and Tsotsoria in Delﬁ AS (supra note 73), paragraph 23.
+86. ECtHR, Magyar Tartalomszolgaltatok Egyes€ulete and Index.hu Zrt v Hungary, no. 22947/13, 2 February 2016.
+87. Cf. Google France and Google (supra note 54), paragraph 116, ﬁnding that the mere fact that Google had
+
+economic interests did not render the liability exemption inapplicable to it.
+
+88. Recital 45 of the E-Commerce Directive.
+89. Directive 2004/48/EC of the European Parliament and of the Council of 29 April 2004 on the enforcement of
+
+intellectual property rights (Enforcement Directive) [2004] OJ L 195/16.
+
+90. Recital 59 of the InfoSoc Directive. See also recital 23 of the Enforcement Directive.
+91. Scarlet Extended (supra note 20), paragraph 50; SABAM v Netlog (supra note 23), paragraph 48.
+92. Scarlet Extended (supra note 20), paragraph 52; SABAM v Netlog (supra note 23), paragraph 50.
+93. Id.
+94. UPC Telekabel (supra note 25), paragraph 56.
+95. Id.
+96. Id.
+97. Id., paragraph 57.
+98. CJEU, Opinion of Advocate General Cruz Villalon in UPC Telekabel, C-314/12, EU:C:2013:781, paragraph 68
+
+(emphasis added).
+99. Id., paragraph 88.
+100. Ahmet Yıldırım (supra note 30), paragraph 66.
+101. Id., paragraphs 66 and 68.
+102. Akdeniz (supra note 11), paragraph 28.
+103. Antwerp Court of Appeals (Hof van Beroep, Antwerpen), VZW Belgian Anti-Piracy Federation v NV Telenet, no.
+2011/8314, 26 September 2011, p. 14, available (in Dutch) at http://nurpa.be/ﬁles/20111004_BAF-Belgacom-
+Telenet-DNS-blocking.pdf [accessed on March 2016], cited in Feiler (2012), pp. 23–24; Savola (2014), note 130.
+104. Akdeniz (supra note 11), paragraph 28. See also, on the national level, Twentieth Century Fox Film Corp & Ors v
+British Telecommunications Plc [2011] EWHC 1981 (Ch) (28 July 2011), paragraphs 185–6; Maritime
+and Commercial Court
+in Copenhagen, Fritz Hansen A/S and Others v Telia Danmark, no. A-38-14,
+11 December 2014, transcript from the record of judgments, p. 10, available at http://kluwercopyrightblog.com/
+wp-content/uploads/sites/49/2015/01/IA11122014EN.pdf [accessed on March 2016]; Oslo District Court
+(Oslo Tingrett), Warner Bros. Entertainment Norge AS and Others v Telenor Norge AS and Others,
+no. 15-067093TVI-OTIR/05, 1 September 2015, available (in Norwegian) at http://www.dagbladet.no/f/
+15067093tviotirkjennelse.pdf
+[accessed on March 2016]; German Federal Supreme Court of Justice
+(Bundesgerichtshof), I ZR 3/14 and I ZR 174/14, Judgments of 26 November 2015, Press Release No. 194/
+2015,
+http://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?
+Gericht=bgh&Art=pm&Datum=2015&Sort=3&nr=72928&pos=14&anz=209 [accessed on March 2016].
+
+(in German)
+
+available
+
+at
+
+105. Further on (un)suitability of deterrence enforcement strategies in the context of unauthorised uses of copyrighted
+
+works online, see Geiger (2014).
+106. UPC Telekabel (supra note 25).
+107. Akdeniz (supra note 11).
+108. See Article 6(2) of the Treaty on European Union (Consolidated version of the Treaty on European Union [2012]
+OJ C 326), as amended by Article 1(8) of the Treaty of Lisbon (Treaty of Lisbon, Amending the Treaty on
+European Union and the Treaty Establishing the European Community [2007] OJ C 306/01); and Article 59(2)
+
+128
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4
+
+The Freedom of Expression Contours of Copyright
+
+Elena Izyumenko
+
+ECHR as amended by Article 17 of Protocol No. 14 to the ECHR. Despite the fact that the latest draft accession
+agreement was rejected by the CJEU (Opinion 2/13 of 18 December 2014, ECLI:EU:C:2014:2454), this did not
+change the binding nature of the accession.
+
+References
+Angelopoulos, C. (2014) ‘CJEU in UPC Telekabel Wien: A Totally Legal Court Order. . . To Do the Impossible’ [Blog
+post], 3 April 2014, Kluwer Copyright Blog. Available at http://kluwercopyrightblog.com/2014/04/03/upc-
+telekabel-wien/ [Accessed on March 2016].
+
+ARTICLE 19. (2016) Internet Intermediaries [online]. ARTICLE 19: Global Campaign for Free Expression.
+
+Available at http://www.article19.org/pages/en/internet-intermediaries.html [Accessed on March 2016].
+
+Burrell, R. and Gangjee, D. (2010) ‘Trade Marks and Freedom of Expression: A Call for Caution’, IIC 41(5), 544–569.
+Chapdelaine, P. (2013) ‘The Ambiguous Nature of Copyright Users’ Rights’, Intellectual Property Journal 26, 1–45.
+Council of Europe. (1950) European Convention for the Protection of Human Rights and Fundamental Freedoms, as
+
+amended by Protocols Nos. 11 and 14, 4 November 1950, ETS 5.
+
+de Beer, J. and Clemmer, C.D. (2009) ‘Global Trends in Online Copyright Enforcement: A Non-Neutral Role for
+
+Network Intermediaries?’ Jurimetrics 49, 375–409.
+
+DLA Piper. (2009) ‘Liability of Online Intermediaries’, in DLA Piper, EU Study on the Single Market for the
+Information Society: New Rules for a New Age? (commissioned by the European Commission’s Information
+Society and Media Directorate-General, Brussels, November 2009).
+
+Elkin-Koren, N. (2014) ‘After Twenty Years: Revisiting Copyright Liability of Online Intermediaries’, in S.
+Frankel and D.J. Gervais (eds.), The Evolution and Equilibrium of Copyright in the Digital Age. CUP,
+Cambridge, p. 29.
+
+Elkin-Koren, N. (2016) ‘Copyright in a Digital Ecosystem: A User-Rights Approach’, forthcoming in R. Okediji (ed.),
+
+Copyright Law in an Age of Limitations and Exceptions. CUP, Cambridge.
+
+European Commission. (2015) Communication from the Commission to the European Parliament, the Council, the
+European Economic and Social Committee and the Committee of the Regions: A Digital Single Market Strategy
+for Europe, Brussels, 6 May 2015, COM(2015) 192 ﬁnal. Available at http://ec.europa.eu/priorities/digital-
+single-market/docs/dsm-communication_en.pdf [Accessed on March 2016].
+
+European Union. (2000) Charter of Fundamental Rights of the European Union, OJ C 364/01.
+Feiler, L. (2012) ‘Website Blocking Injunctions under EU and U.S. Copyright Law—Slow Death of the Global
+Internet or Emergence of the Rule of National Copyright Law?’, Transatlantic Technology Law Forum (TTLF)
+Working Paper No. 13.
+
+Geiger, C. (2004) Droit d’auteur et droit du public a l’information, approche de droit compare. Litec, Paris.
+Geiger, C. (2014) ‘Challenges for the Enforcement of Copyright in the Online World: Time for a New Approach’, in P.
+Torremans (ed.), Research Handbook on the Cross-Border Enforcement of Intellectual Property. Edward Elgar,
+Cheltenham, UK/Northampton, MA, pp. 704–730.
+
+Geiger, C. (2016) ‘Copyright as an Access Right, Securing Cultural Participation through the Protection of Creators’
+Interests’, Max Planck Institute for Innovation and Competition Research Paper No. 15–07, forthcoming in R.
+Giblin and K.G. Weatherall (eds), What if We Could Reimagine Copyright?
+
+Geiger, C. and Izyumenko, E. (2014) ‘Copyright on the Human Rights’ Trial: Redeﬁning the Boundaries of
+
+Exclusivity through Freedom of Expression’, IIC 45(3), 316–342.
+
+Giblin, R. (2014) ‘When ISPs Become Copyright Police’, IEEE Internet Computing 18(2), 84–87.
+Hugenholtz, P.B. (2001) ‘Copyright and Freedom of Expression in Europe’, in R.C. Dreyfuss, D.L. Zimmerman and
+H. First (eds.), Expanding the Boundaries of Intellectual Property: Innovation Policy for the Knowledge Society.
+OUP, Oxford, pp. 343–363.
+
+Husovec, M. (2014) ‘CJEU Allowed Website Blocking Injunctions with Some Reservations’, JIPLP 9(8), 631–634.
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4
+
+129
+
+Elena Izyumenko
+
+The Freedom of Expression Contours of Copyright
+
+Internet Society. (2011), Perspectives on Policy Responses to Online Copyright Infringement—An Evolving Policy
+Landscape, Discussion Paper, 20 February 2011. Available at http://www.internetsociety.org/perspectives-
+policy-responses-online-copyright-infringement-evolving-policy-landscape [Accessed on March 2016].
+
+Karjala, D.S. (2013) ‘International Convergence on the Need for Third Parties to Become Internet Copyright Police
+
+(But Why?)’, Richmond Journal of Global Law and Business 12(2), 189–215.
+
+Lodder, A.R. and van der Meulen, N.S. (2013) ‘Evaluation of the Role of Access Providers: Discussion of Dutch Pirate
+Bay Case Law and Introducing Principles on Directness, Effectiveness, Costs, Relevance, and Time’, JIPITEC 4,
+130–141.
+
+Ofcom (Independent regulator and competition authority for the UK communications industries). (2010), “Site
+Blocking” to Reduce Online Copyright Infringement: A Review of Sections 17 and 18 of the Digital Economy Act
+(27 May 2010).
+
+Ramsey, L.P. (2015) ‘Reconciling Trademark Rights and Free Expression Locally and Globally’, in D.J. Gervais (ed.),
+International Intellectual Property: A Handbook of Contemporary Research. Edward Elgar, Cheltenham,
+pp. 341–388.
+
+Raymond, A.H. (2013) ‘Intermediaries’ Precarious Balance within Europe: Oddly Placed Cooperative Burdens in the
+
+Online World’, Northwestern Journal of Technology & Intellectual Property 11, 359–384.
+
+Sakulin, W. (2010) Trademark Protection and Freedom of Expression—An Inquiry into the Conﬂict between
+Trademark Rights and Freedom of Expression under European Law. Kluwer Law International, The Hague/
+London/New York.
+
+Savola, P. (2014) ‘Proportionality of Website Blocking: Internet Connectivity Providers as Copyright Enforcers’,
+
+JIPITEC 5(2), 116–138.
+
+Senftleben, M. (2015) ‘Free Signs and Free Use: How to Offer Room for Freedom of Expression within the Trademark
+System’, in C. Geiger (ed.), Research Handbook on Human Rights and Intellectual Property. Edward Elgar,
+Cheltenham/Northampton, pp. 354–376.
+
+Strowel, A. (2014) ‘Ponderation entre liberte d’expression et droit d’auteur sur internet: de la reserve des juges de
+Strasbourg a une concordance pratique par les juges de Luxembourg’, Revue Trimestrielle des Droits de
+l’Homme 100, 889–911.
+
+Strowel, A. and Tulkens, F. (2006) ‘Freedom of Expression and Copyright under Civil Law: Of Balance, Adaptation,
+and Access’, in J. Grifﬁths and U. Suthersanen (eds.), Copyright and Free Speech: Comparative and
+International Analyses. OUP, Oxford, pp. 287–313.
+
+Vaver, D. (2013) ‘User Rights’, Intellectual Property Journal 25, 105–110.
+Voorhoof, D. (2015) ‘Freedom of Expression and the Right to Information: Implications for Copyright’, in C. Geiger
+(ed.), Research Handbook on Human Rights and Intellectual Property. Edward Elgar, Cheltenham/
+Northampton, pp. 331–353.
+
+Zittrain, J. (2006) ‘A History of Online Gatekeeping’, Harvard Journal of Law & Technology 19(2), 253–298.
+
+130
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 3–4
+
+

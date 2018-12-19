@@ -10,25 +10,12 @@ def loadPhrases(location):
     file.close()
     return phrases
 
-def readCSVinList(origin, num):
-    if(not os.path.isfile(origin)):
-        raise ValueError("File does not exist. File path (%s) wrong." % path)
-    file = open('%s' % origin, 'r')
-    wordCount = []
-    for line in file.readlines()[:num]:
-        key, rhs = line.split(",")
-        value = int(rhs)
-        row = (key, value)
-        wordCount.append(row)
-        file.close()
-    return wordCount
-
-def readCSVinDict(path, num):
+def readCSVinDict(path):
     if(not os.path.isfile(path)):
         raise ValueError("File does not exist. File path (%s) wrong." % path)
     file = open('%s' % path, 'r')
     wordCount = {}
-    for line in file.readlines()[:num]:
+    for line in file.readlines():
         index, rhs = line.split(",")
         value = int(rhs)
         wordCount[index] = value
@@ -48,4 +35,9 @@ def dictToCSVfile(wordCount, path):
     newFile = open('%s' % path, 'w')
     csv_out = csv.writer(newFile)
     csv_out.writerows(wordCount)
+    newFile.close()
+
+def textVarToTXTfile(text, destination):
+    newFile = open('%s' % destination, 'w')
+    newFile.write('%s' % text + '\n')
     newFile.close()

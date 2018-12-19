@@ -1,0 +1,1374 @@
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1, pp. 54–74
+
+doi: 10.1111/j.1747-1796.2010.00409.x
+
+Access and Benefit Sharing User Measures in
+Switzerland
+
+Daniel Kraus
+
+University of Neuchaˆ tel
+
+Markus R ¨ussli
+
+Umbricht Attorneys at Law, Zurich
+
+This article, based on a study commissioned by the Swiss Federal Ofﬁce for the Environment, aims at
+identifying what legal, administrative and policy measures could be designed in a country such as Switzerland
+to promote compliance by users of genetic resources and traditional knowledge with measures regarding
+access and beneﬁt sharing (ABS). The framework of the study is set by the existing international legal system
+and the international regime currently being discussed in the negotiations of the Protocol on Access to Genetic
+Resources and Fair and Equitable Sharing of Beneﬁts Arising from their Utilization. This article states the
+situation as at June 2010. Stakeholders in Switzerland have already taken numerous measures in order to
+comply with the ABS provisions contained in the Convention on Biological Diversity, such as the declaration
+of the source of genetic resources and traditional knowledge in patent applications or the development of best
+practice guidelines and recommendations. Can more be done? Two basic options for ABS user measures in
+Switzerland are examined, depending on the development of the international regime, with or without
+international certiﬁcation. Whatever system is ﬁnally chosen, it should not reduce the stimulation in research
+and development, ought to be as little intrusive as possible into trade activities and should avoid duplications.
+
+Keywords access and beneﬁt sharing; CBD; genetic resources; traditional knowledge
+
+The Convention on Biological Diversity (CBD), concluded in Rio de Janeiro on 5 June 1992, was
+ratiﬁed by Switzerland in 1994 and entered into force in Switzerland on 19 February 1995. Its main
+objective, as described in article 1 CBD, is to ensure the conservation of biological diversity, the
+sustainable use of its components and the fair and equitable sharing of the beneﬁts arising out of
+the utilization of genetic resources, including by appropriate access to genetic resources. The CBD
+(in particular articles 15 and 16 et seq.) includes a range of provisions on access to genetic resources
+and on a balanced sharing of the beneﬁts resulting from the use of these resources, so-called access
+and beneﬁt sharing (ABS).
+
+A genetic resource, in the meaning of the CBD, is to be understood as genetic material of
+actual or potential value, genetic material being deﬁned as any material of plant, animal, microbial
+or other origin containing functional units of heredity (article 2 CBD). This deﬁnition is also used
+in the Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the
+Beneﬁts Arising out of their Utilization (article 8), and shall be referred to in the present study.
+
+States have the sovereign right over their natural resources (article 3 CBD). As a consequence,
+the authority to determine access to genetic resources rests with the national governments, and is
+subject to national legislation (article 15.1 CBD). Each Contracting Party must endeavor to create
+conditions which facilitate access to genetic resources for environmentally sound uses by other
+
+54
+
+r 2010 Blackwell Publishing Ltd
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+Daniel Kraus and Markus R ¨ussli
+
+Contracting Parties and not to impose restrictions that run counter to the objectives of the
+Convention. At the same time, access, where granted, shall be on mutually agreed terms (MAT)
+and subject to prior informed consent (PIC) of the Contracting Party providing such resources,
+unless otherwise determined by that Party, whilst beneﬁts arising out of the use of the genetic
+resources shall be shared fairly and equitably with the Contracting Party providing such resources
+and based on MAT (articles 15.4, 15.5 and 15.7 CBD).
+
+Generally speaking, a distinction is made between ‘‘provider’’ and ‘‘user’’ countries of genetic
+resources,1 the ﬁrst being mainly developing, and the second industrialized countries. However,
+industrialized countries might also be providers (e.g. Australia), whilst some developing countries
+are providers and users (e.g. Brazil) (United Nations University Institute of Advanced Studies
+(UNU-IAS) Report, 2003, p. 18).
+
+Switzerland has mainly been seen as a ‘‘user country’’, although its speciﬁc alpine ecosystems
+and agro-ecosystems also provide a source of genetic resources. As a user country, Switzerland
+mainly uses genetic resources through private-sector businesses and scientiﬁc research institutions,
+be it in the pharmaceutical sector—including biotechnology—the food, cosmetic, and ﬂavor
+industries, as well as agriculture. All these sectors are interested in a good access to genetic
+resources. In order to ensure this access is provided in respect of the obligations resulting from the
+CBD, and in parallel to measures to be taken in the provider countries, the Swiss Federal Ofﬁce for
+the Environment (FOEN) has suggested identiﬁcation of what measures could possibly be taken in
+a user country such as Switzerland. ‘‘User measures’’ have been deﬁned by the Scoping Meeting on
+Capacity Building Approaches for Access to Genetic Resources and Beneﬁt Sharing, as a package
+of legal, administrative and policy measures designed to promote compliance by users of genetic
+resources and traditional knowledge with obligations regarding PIC, MAT and beneﬁt sharing.
+These measures can be applied by either the private or the public sector and may be mandatory or
+voluntary (Report of the Scoping Meeting, p. 17).
+
+This issue is the object of the present study, which aims to identify possible measures that could
+be implemented in Switzerland. It further seeks to determine to what extent they might be in
+Switzerland’s interest, how far they could be institutionalized and under which legal conditions. In
+particular, potential checkpoints, at which the respect of the ABS provisions of the CBD could be
+controlled, possibly subject to a condition of the existence of an internationally accepted system of
+certiﬁcation, are to be identiﬁed. Existing procedures for obtaining marketing and importation
+authorizations set the framework of the study.
+
+The study is structured as follows: First, some relevant international agreements are identiﬁed,
+which serve as a general framework to the issue of access to, and beneﬁt sharing resulting from the
+use of genetic resources. The study then focuses on the current legal situation in Switzerland, in
+particular regarding the patent law, research regulations, authorization regimes and import
+regulations. A possible future legislation is examined in the next part, which tries to identify in
+which ways user measures could be introduced in the Swiss legal system, including potential
+checkpoints. Finally, possible sanctions are considered, which would help ensure the respect of the
+ABS provisions of the CBD.
+
+International Framework
+
+At the international level, beside the CBD, two instruments have been developed; one is currently
+being negotiated to help implement the access to, and beneﬁt sharing from genetic resources.
+
+First, the Bonn Guidelines were unanimously adopted by the CBD Parties in April 2002 as
+voluntary guidelines in order to provide input to Parties for the development and drafting of the
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+55
+
+Daniel Kraus and Markus R ¨ussli
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+legislative, administrative or policy measures on ABS. They embrace all genetic resources and
+associated traditional knowledge innovations and practices covered by the CBD, as well as beneﬁts
+arising from the commercial and other uses, with the exclusion of human genetic resources (article
+9 Bonn Guidelines). They suggest the creation of national focal points for ABS2 and the
+elaboration of appropriate legal, administrative or policy measures, to support compliance with
+PIC of the Contracting Party providing such resources and MAT on which access was granted.
+Measures include, amongst others, preventing the use of genetic resources obtained without the
+PIC of the Contracting Party providing such resources and cooperation between Contracting
+Parties to address alleged infringements of ABS agreements (article 16.d Bonn Guidelines). Such
+measures are also currently being discussed in international negotiations on an international ABS
+regime.
+
+The second international
+
+instrument is the Food and Agriculture Organization (FAO)
+International Treaty on Plant Genetic Resources for Food and Agriculture of 3 November
+2001. The objectives of the Treaty are the conservation and sustainable use of plant genetic
+resources for food and agriculture and the fair and equitable sharing of the beneﬁts arising out of
+their use, in harmony with the CBD, for sustainable agriculture and food security. The Treaty
+provides, amongst other things, a multilateral system of ABS (part IV, articles 10–13) with the aim
+of facilitating access to plant genetic resources for food and agriculture and to share the beneﬁts
+arising out of the use of these resources. It covers major plant genetic resources for food and
+agriculture as listed in an annexure. Access is provided on the basis of a standard material transfer
+agreement (MTA) of the Treaty. Although the use of the standard MTA is made compulsory by
+the Treaty, neither a certiﬁcate nor any checkpoints as discussed under the CBD are foreseen in
+order to control its use or its existence in a particular case. However, the Treaty established a third-
+party beneﬁciary under its MTA that has the right to request the appropriate information as
+required in a number of articles of the MTA (articles 4.3 and 4.4 MTA).
+
+Thirdly, negotiations are currently ongoing between parties to the CBD on a Protocol on
+Access to Genetic Resources and Fair and Equitable Sharing of Beneﬁts Arising from their
+Utilization. The text being circulated when the present contribution was ﬁnalized had not yet been
+negotiated. It, however, reﬂects the efforts by the co-chairs to elaborate the elements of a draft
+Protocol. Negotiating parties may still make further amendments and additions to the text (Report
+of the First Part of the Ninth Meeting of the Ad hoc Open-ended Working Group on ABS).
+
+The draft stipulates that Parties are to take legislative, administrative or policy measures in
+order to ensure the fair and equitable sharing of beneﬁts arising out of the utilization of genetic
+resources and associated traditional knowledge, including in derivatives, with the Party providing
+such resources or, where applicable, with the indigenous and local community holding such
+resources or associated traditional knowledge. It is foreseen that access to genetic resources be in
+principle subject to the PIC of the Party providing them. Parties are in particular to take the
+necessary legislative, administrative or policy measures to provide for the following:
+ Legal certainty, clarity and transparency of their national ABS requirements.
+ Easily obtainable information on how to apply for PIC.
+ Timely written decisions by a competent national authority.
+
+Issuance of a permit or internationally recognized certiﬁcate as evidence of the decision to grant
+PIC.
+ Where applicable, national law is to recognize and afﬁrm existing rights of indigenous and local
+communities to genetic resources as well as set out criteria for the PIC and involvement of such
+communities for access to their genetic resources.
+
+56
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+Daniel Kraus and Markus R ¨ussli
+
+ Requirement and establishment of MAT at the time of access. Those terms are to be set out in
+writing and may include a dispute settlement clause, terms on beneﬁt sharing, including any
+ownership of intellectual property rights and terms on subsequent third-party use.
+ Ensuring that traditional knowledge associated with genetic resources held by indigenous and
+local communities is accessed with the prior informed consent/approval and involvement of
+indigenous and local communities, and is based on MAT.
+
+A number of key issues are still to be addressed before the Protocol can be adopted at the tenth
+
+Conference of the Parties in Nagano, Japan, in October 2010, in particular:
+ The relationship with other instruments and processes.
+ Temporal and geographical application.
+ Monitoring, reporting and tracking, including disclosure requirements and checkpoints.
+ Dispute settlement and access to justice.
+ Deﬁnition of country of origin.
+ Utilization of genetic resources in derivatives.
+ General beneﬁt sharing and traditional knowledge-related issues,
+
+including appropriate
+recognition of the relationship between ABS activities and traditional knowledge associated
+with genetic resources.
+ Diversity of national circumstances, including cases in which the same genetic resources are
+ Recognition by Parties of the existence and role of customary law.
+
+found in situ within the territory of neighboring Parties.
+
+Current Legal Situation in Switzerland
+
+For the time being, Swiss national legislation hardly contains any provisions for the implementa-
+tion of the ABS obligations resulting from the CBD. One recent example and, to our knowledge
+the only one, is the introduction, as of 1 July 2008, of an obligation to declare the source of genetic
+resources and traditional knowledge used in an invention when a patent application is ﬁled.
+However, the Swiss legal system incorporates different systems of authorization, on the one hand
+for the marketing of certain products and, on the other, for their importation. These procedures
+provide for a number of authorities that are competent for the grant of these authorizations. They
+may be considered as ‘‘checkpoints’’.
+
+Marketing authorizations are provided on the basis of different systems. Competent autho-
+rities may be federal authorities, but can, in certain situations, also be regional (cantonal) ones,
+which might complicate the system. Such is the case for example in the food sector, where the so-
+called cantonal chemists have their say.
+
+Importations to Switzerland mainly originate from the European Union (EU) or the European
+Economic Area (EEA), or, as Switzerland is surrounded by EEA countries, transit from those
+countries. For this reason, the Swiss legislation on importation mainly foresees the case of
+importations from EEA countries and tends to consider direct importations from third countries
+as more of a special issue.
+
+Patent Law
+The Swiss law on patents, which dates from 1954, has been recently revised in order to comply with
+latest developments, in particular in the ﬁeld of biotechnology. The newest version, which entered
+into force on 1 July 2008, now incorporates provisions on information on the source of genetic
+resources and traditional knowledge incorporated in inventions which are the object of a patent
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+57
+
+Daniel Kraus and Markus R ¨ussli
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+application. Article 49a of the Swiss law on patents foresees that the patent application must
+contain information on the source of the genetic resource to which the inventor or the patent
+applicant had access, provided the invention is directly based on this resource. Information must
+also be contained on traditional knowledge of indigenous or local communities of genetic resources
+to which the inventor or the patent applicant had access, provided the invention is directly based
+on this knowledge. If the source is unknown to the inventor or the patent applicant, the patent
+applicant must conﬁrm this in writing.
+
+The concept of source should be interpreted widely. It includes in particular the geographical
+place of origin in the meaning of preamble paragraph 27 of the European directive on the legal
+protection of biotechnological inventions, the country of origin, the country providing genetic
+resources in the meaning of article 2 CBD and other origins, such as gene data banks, botanical
+gardens, data banks and scientiﬁc publications. The multilateral system created by the FAO
+International Treaty on Plant Genetic Resources for Food and Agriculture may also be a source of
+genetic resources (Notiﬁcation of the Swiss Federal Council, p. 76). The Swiss Government
+recognizes that the declaration of source as required by the patent law is not sufﬁcient in itself as it
+can only resolve certain aspects of the ABS issue; it expressly recognizes that further measures, in
+other ﬁelds of law, need to be adopted (Notiﬁcation of the Swiss Federal Council, p. 75).
+
+The notion of source has been chosen voluntarily, rather than that of origin, the latter being
+insufﬁciently deﬁned internationally. Besides, the rationale of this choice was to avoid research
+which would go beyond what may be expected from the patent applicant as to the country of origin
+of the genetic resources. The source that will be indicated will generally be the country providing
+genetic resource. As patent applications are published, this allows the latter countries to check if
+their national legislation related to PIC and beneﬁt sharing has been respected and, if that is not the
+case, to take the appropriate measures foreseen by their national legal system in order to restore a
+situation which is in conformity with the local law and possibly take the appropriate sanctions.
+This implies, however, that the user has a subsidiary company or a regional ofﬁce in the providing
+country. As of today, and due to the relative novelty of the law, no such case has occurred to our
+knowledge.
+
+If a patent applicant does not provide the information relating to the indication of source, the
+Swiss Federal Institute of Intellectual Property will set a deadline for the applicant in order to
+provide the missing information. If the information is still not provided at the end of that deadline,
+the patents will not be granted. Article 81a of the patent law foresees that anyone who willfully
+provides false information under article 49a is liable to a ﬁne of up to 100,000 Swiss francs. The
+courts may also order the publication of the judgment. As such, the Swiss patent law goes beyond
+what is foreseen by paragraph 27 of the preamble of the EU biotechnology directive (Notiﬁcation
+of the Swiss Federal Council, p. 77).
+
+Research Regulations and Voluntary Measures
+The competence for regulating research in Switzerland is shared between the Confederation and
+the cantons (article 64 Constitution of the Swiss Confederation). The Federal Law on Research
+aims at encouraging scientiﬁc research, but contains no provisions on the use of genetic resources.
+None of the federal laws and regulations dealing with the Federal Institutes of Technology or with
+coordination between universities contains provisions on ABS. Such is also the case for schools of
+applied sciences.
+
+Although the Swiss Federal Law on Research foresees that the Confederation may link
+ﬁnancial aid to the condition that measures be taken to encourage the valuation of results and to
+guarantee to the inventors an equitable part of the revenues generated by the commercial
+
+58
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+Daniel Kraus and Markus R ¨ussli
+
+exploitation of the result, no mention is made of the need to take into account the ABS obligations
+as resulting of the CBD.
+
+At university level, which is regulated by cantonal rules, no speciﬁc provisions are found on
+ABS either. Nonetheless, universities seem to be more and more aware of the necessity of
+respecting the provisions on ABS contained in the CBD. However, obtaining PIC for access to
+genetic resources, the elaboration of fair MAT and agreement on beneﬁt sharing seem to be mainly
+based on ethical and moral obligations rather than legal ones.
+
+The Swiss Academy of Sciences (SCNAT) has dealt with this topic and developed a set of
+recommendations in a brochure entitled ‘‘Access and Beneﬁt Sharing—Good practice for academic
+research on genetic resources’’ and addressing the needs of academic research in Switzerland.3
+These guidelines, which have been distributed to all research institutions confronted with the issue
+of ABS, provides recommendations and checklists for the researchers, allowing them to undertake
+their work in conformity with the requirements of the CBD on PIC, MAT and beneﬁt sharing.
+This, however, takes place only on a voluntary basis. In 2007, the SCNAT established a new
+consulting service, providing assistance to researchers in their administrative, negotiation and, if
+necessary, conﬂicting procedures relating to ABS. Hence today, research centers in Switzerland
+have access to the necessary tools allowing them to undertake their research in conformity with the
+CBD.
+
+Several Swiss botanical gardens are also committed to the respect of the ABS principles
+contained in the CBD, in particular by joining the International Plant Exchange Network (IPEN)
+and thereby adhering to its code of conduct, which includes regulations for sharing beneﬁts with
+countries that provide plant material.4
+
+Authorization Regime in the Pharmaceutical and Biotechnological Field
+One important sector in which genetic resources are being used is the pharmaceutical sector. The
+introduction of pharmaceutical products onto the market is subject to authorization, which is
+granted on the basis of the Federal Law on Medicines and Medical Devices [Law on Therapeutic
+Products (LTP)]. The aim of this law is to ensure that quality therapeutic products which are safe
+and efﬁcient are put on the market, in order to protect the health of human beings and animals.
+The system aims in particular at protecting consumers of therapeutic products against deception
+and at ensuring that research and development in the pharmaceutical ﬁeld takes place under
+favorable conditions (article 1 LTP).
+
+The authorization system applies to all operations relating to therapeutic products (medicines
+and medical devices),
+in particular as regards their production and marketing. It covers in
+particular pharmaceutical products, which, in the deﬁnition of the law, covers also biological
+products, including those containing genetic resources. Production under the LTP includes all
+stages, from the acquisition of the basic materials to the conditioning of the end product, including
+its preparation and quality control. Production is subject to authorization, which is delivered if
+certain conditions (such as professional qualiﬁcations, quality insurance, etc.) are fulﬁled.
+Pharmaceuticals have to be produced in conformity with recognized rules of good production
+practices. These rules are developed in a Federal Council regulation, which takes into account the
+international standards (articles 5–7 LTP). The authorization is given by the Swiss Agency for
+Therapeutic Products (SATP; Swissmedic) and is published.
+
+Ready-to-use pharmaceuticals generally need an authorization from the SATP, unless, in
+particular, they are prepared in small quantities or if they are produced in order to undertake
+clinical trials. In order to obtain the authorization, it is necessary to prove that the products or the
+process is of good quality, safe and efﬁcient. The applicant must also show that he is in possession
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+59
+
+Daniel Kraus and Markus R ¨ussli
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+of an authorization to produce, import or trade which is issued by the competent authority. The
+applicant must have its domicile, headquarters or a subsidiary in Switzerland. The SATP controls
+that these conditions are fulﬁled. The application for marketing authorization must include a
+certain amount of information, including designation of the pharmaceutical product, the name of
+the producer, the process of production, composition, quality, therapeutic effects and result of
+clinical trials (articles 9–11 LTP). A simpliﬁed procedure is foreseen in certain situations, in
+particular when active ingredients of the products are already known, for products of comple-
+mentary medicine, and in other cases such as pharmaceutical products produced by a hospital
+chemist and covering the needs of the hospital, or in the case of medicine which is important for
+rare diseases. The authorization is given by the SATP if the conditions are fulﬁled. The SATP can,
+however, link the authorization to further charges and conditions. The authorization, which is
+published, is valid for 5 years and can be renewed (articles 9–11, 14 and 16 LTP).
+
+The use of intermediary products is also subject to authorization, linked to security issues
+
+(article 3 paragraph 1 lit. d Ordinance of the SATP).
+
+An authorization from the SATP is also required in order to import ready-to-use medicine.
+The Federal Council may also foresee an authorization regime for the importation of products
+which are not ready for use (article 18 LTP; Ordinance on Authorizations in the Field of
+Medicines).
+
+All clinical trials on human beings must take place under recognized rules of good practices for
+clinical trials. These rules are elaborated by the Federal Council (article 53 LTP; Ordinance on
+Clinical Trials of Therapeutic Products). Ethics commissions guarantee the protection of the
+research subject (article 57 LTP).
+
+Control of the market is ensured jointly by the SATP and the cantons, which share competence
+
+in this matter. Inspections are generally undertaken by the SATP (articles 51–60 LTP).
+
+A system of international administrative assistance is foreseen by the law, which provides that
+the services of the Confederation dealing with marketing and import authorizations for medicines
+may request information from foreign authorities, as well as provide some information in certain
+cases (article 64 LTP).
+
+The SATP can implement a range of administrative, as well as criminal measures in order to
+ensure the LTP is respected. Administrative measures may for example include deadlines to re-
+establish a situation in conformity with the law; suspension or revocation of authorizations; closing
+establishments; seizure and possibly destruction of products; prohibition of advertising; and
+publication of decisions. Criminal sanctions may include imprisonment or ﬁnes of up to 100,000
+Swiss francs in cases of (professional) fabrication, marketing, import or export of products which
+are not in conformity with the pharmacopeia, or of infringement of provisions relating to
+advertising, labeling, etc. In the case of use of false certiﬁcates, criminal sanctions are also possible
+on the basis of the Federal Law of 6 October 1995 on Technical Barriers to Trade.
+
+Handling of Organisms
+In order,
+in particular, to protect biological diversity, the introduction into circulation in
+Switzerland of genetically altered organisms, pathogenic organisms or non-native invertebrate
+animals is subject to authorization; the public has a right to be informed and has access on request
+to the information provided by the applicant (articles 12 and 18 Law on Genetic Engineering;
+article 7 Plant Protection Ordinance; article 25 et seq. Release Ordinance). The authorization is
+given by different federal ofﬁces, according to the type of product concerned, as shown in Table 1.
+In addition, information relating to the proprieties of the organisms must be provided to the
+
+recipient (article 15 Law on Genetic Engineering).
+
+60
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+Daniel Kraus and Markus R ¨ussli
+
+Application
+
+Competent authority
+
+Applicable licensing procedure
+
+Table 1: Authorization Procedure
+
+(a) Therapeutic products
+
+(b) Foodstuffs, additives and
+
+processing aids
+
+(c) Plant propagation material
+exclusively for use in forests
+(d) Plant propagation material
+
+for all other uses
+
+(e) Plant protection products
+
+Swiss Agency for
+Therapeutic Products
+Federal Ofﬁce of
+Public Health (FOPH)
+Federal Ofﬁce for the
+Environment (FOEN)
+Federal Ofﬁce for
+Agriculture (FOAG)
+FOAG
+
+(f) Fertilizers
+
+(g) Animal feedstuffs
+
+FOAG
+
+FOAG
+
+(h) Immunological products for
+
+veterinary use
+
+(i) Import of harmful organisms
+
+Federal Veterinary
+Ofﬁce (FVO)
+FOAG
+
+that are not genetically modiﬁed
+nor particularly hazardous for
+agricultural crops or
+horticultural production
+
+(j) Biocide products
+
+(k) All other uses
+
+FOPH
+
+FOEN
+
+Source: Article 26 Release Ordinance.
+
+Therapeutic Products Ordinance
+
+of 17 October 2001
+
+Foodstuffs and Utility Articles
+Ordinance of 23 November 2005
+Release Ordinance of
+10 September 2008
+
+Seeds Ordinance of
+7 December 1998
+
+Plant Protection Products
+
+Ordinance of 18 May 2005
+
+Fertilizers Ordinance of
+
+10 January 2001
+
+Animal Feedstuffs Ordinance of
+
+26 May 1999
+
+Therapeutic Products Ordinance of
+
+17 October 2001
+
+Plant Protection Ordinance of
+
+28 February 2001
+
+Biocide Products Ordinance of
+
+18 May 2005
+
+Release Ordinance of
+10 September 2008
+
+Established national organizations for the protection of the environment have a right to appeal
+authorizations given for the introduction into circulation of genetically altered organisms to be
+used in the environment. Criminal sanctions are foreseen in case the law is not respected (articles 28
+and 35 Law on Genetic Engineering).
+
+The use of genetically altered and pathogenic organisms in conﬁned areas is subject to an
+evaluation of the risks by the person using such organisms. Depending on the degree of risk at
+stake, a notiﬁcation or an authorization is required (article 9 and annexure 2 Ordinance on the
+Handling of Organisms in conﬁned Areas).
+
+Import Regulations
+To date, Switzerland does not provide any special provisions of law relating to the import of
+genetic resources. For the protection of humans, animals, plants and the environment, however,
+Switzerland generally regulates the import of living plants, animals, animal products and foods of
+animal origin into Switzerland. The import of such products (containing genetic resources) is made
+dependent on the existence of import documentation and certiﬁcates. The documents enclosed with
+the goods are required to provide information concerning the origin of the plants, animals and
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+61
+
+Daniel Kraus and Markus R ¨ussli
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+animal products. The inspection bodies for the import into Switzerland are, in particular, the
+customs administration and the border veterinarian service, but also various ofﬁces of the federal
+government. Custom authorities, however, operate on a sampling basis.
+
+In relation to the European Community (EC), trade with agricultural products (plants, plant
+products, animals, animal products, etc.) is governed by the Agreement between the Swiss
+Confederation and the EC on Trade in Agricultural Products of 21 June 1999; the import
+regulations applicable with respect to the EC therefore deviate from those applicable with respect
+to third-party states. In connection with the import of plants from third-party states, a plant
+protection certiﬁcate must be presented; in connection with goods from the EC, a plant passport is
+required. This proves that, based on the inspections at the level of the production and processing,
+the plants and plant products conform to the phytosanitary requirements of the EC. Products from
+third-party states require a plant protection certiﬁcate as far as the border of the EC. At the border,
+they are checked in terms of their conformity with the EC regulations. If the import inspection is
+positive, the imported goods receive an EC plant passport. In the absence of a plant protection
+certiﬁcate or a plant passport, the import of plants into Switzerland is basically impossible (articles
+10 and 12 Plant Protection Ordinance).
+
+In connection with animals and animal products, a distinction is likewise made based on
+whether they stem from member states of the EC or from other (third-party) states. Animals and
+animal products from member states of the EC are not inspected by the border veterinarian service
+when they are brought into Switzerland. The same also applies with respect to animals and animal
+products from the EC which originally stem from third-party states, provided that a document and
+identiﬁcation inspection as well as a physical inspection was carried out at the outer border of the
+EC (article 18 paragraph 1 Ordinance on the Import, Transit and Export of Animals and Animal
+Products). If animals and animal products are imported directly into Switzerland from third-party
+states by air, a document and identiﬁcation inspection as well as a physical inspection must be
+conducted (article 16 Ordinance on the Import and Transit of Animals from Third Party States in
+Air Trafﬁc; article 22 Ordinance on the Import and Transit of Animal Products from Third Party
+States in Air Trafﬁc).
+
+The importation of microorganisms also needs to respect the provisions of the Plant Protection
+Ordinance of 28 February 2001 and requires an authorization, which depends on the provision of
+information allowing the Federal Ofﬁce of Agriculture to evaluate the phytosanitary risks/utility
+that the (micro)organism represents for Switzerland. Information to be provided includes the
+scientiﬁc denomination, the region of origin, possible risks, foreseen use, provider, data relating to
+the shipment and address of the claimant.5
+
+Food can—apart from food of animal origin—basically be imported into Switzerland without
+certiﬁcates, regardless of whether it stems from the EC or from third-party states; an exception
+currently applies only with respect to the import of wild mushrooms from Eastern Europe.
+Imported food, however, must conform to the requirements of the Swiss food legislation (article 2
+paragraph 3 Food Act). This must be monitored by the food importer by means of self-monitoring
+(article 23 Food Act; article 49 et seq. Ordinance on Foodstuffs and Utility Articles). The customs
+ofﬁces are responsible for the inspection of food at the border (article 67 et seq. Ordinance on
+Foodstuffs and Utility Articles; article 62 et seq. Ordinance of the Federal Department of Home
+Affairs (FDHA) on the Enforcement of the Food Legislation); within Switzerland, the inspection is
+carried out by the cantons, under the direction of the cantonal chemists (article 40 Food Act; article
+56 et seq. Ordinance on Foodstuffs and Utility Articles).
+
+Finally, for the protection of endangered species of wild animals and plants, the import, transit
+and export of animals and plants based on the Convention on International Trade in Endangered
+
+62
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+Daniel Kraus and Markus R ¨ussli
+
+Species of Wild Fauna and Flora (Washington Convention; CITES) is subject to a permit
+requirement. Protected species may be imported or pass through Switzerland in transit only if
+the permits or certiﬁcates required under the CITES and through the Ordinance for the Protection
+of Species are to hand. Permits and certiﬁcates must conform to the requirements of the CITES
+and prove without any gap the origin of the dispatch that they accompany (article 7 paragraphs 1
+and 2 Ordinance for the Protection of Species). The Protection of Species Inspection Ordinance
+lists the animals, plants and products as to which a document and identiﬁcation inspection as well
+as a physical inspection must be conducted in each situation. In all other cases, the Federal
+Veterinary Ofﬁce (FVO) or an inspection body commissioned by it carried out a document
+inspection (article 29 Ordinance for the Protection of Species).
+
+Food and Utility Articles
+In the area of food, a distinction is made between imported food and food produced in Switzer-
+land.6 Food produced in Switzerland that complies with the requirements of the food legislation
+and that are circumscribed in a product-speciﬁc ordinance7 may be introduced into commerce
+without any permit. New types of food or functional foods that are not deﬁned in a product-
+speciﬁc ordinance, on the other hand, require a permit of the Federal Ofﬁce of Public Health
+(FOPH) (article 5 paragraph 1 Ordinance on Foodstuffs and Utility Articles). For the production
+of food, ﬂavor might be used as food additive (article 1 paragraph 1 Ordinance of the FDHA
+concerning allowed Food Additive). The FOPH publishes periodically a list with the newly
+admitted types of food in the Swiss Ofﬁcial Journal of Commerce and on the internet (article 6
+paragraph 4 Ordinance on Foodstuffs and Utility Articles). Genetically altered food is not
+permitted to be introduced into commerce unless it has been approved by the FOPH (article 21
+et seq. Ordinance on Foodstuffs and Utility Articles; Ordinance of the FDHA on Genetically
+Altered Food).
+
+Cosmetics belong to utility articles. The FDHA deﬁnes in an ordinance which substances are
+allowed in cosmetics and what information has to be provided on the package. Compliance with
+the regulations must be monitored by the producer by means of self-monitoring. In addition,
+periodical and risk-based ofﬁcial controls will be exercised (articles 35, 49 and 56 Ordinance on
+Foodstuffs and Utility Articles; Ordinance of the FDHA on Cosmetics).
+
+Agriculture
+Numerous agricultural means of production may be introduced into commerce in Switzerland only
+after having passed through an approval procedure (article 160 Law on Agriculture). An approval
+procedure is foreseen for seeds (article 10 et seq. Seeds Ordinance), agricultural pesticide (article 4
+et seq. Plant Protection Products Ordinance), fertilizer (articles 2, 3, 7 et seq. Fertilizer Ordinance)
+and animal feed (article 3 et seq. Animal Feedstuffs Ordinance). The permit takes place either
+through inclusion in a list (catalog of seeds, list of fertilizers, list of animal feed) or based on a
+permit procedure (agricultural pesticides, fertilizers). The approval authority is the Federal Ofﬁce
+for Agriculture (FOAG). The permitted agricultural means of production are published either by
+the Federal Department of Economic Affairs or the FOAG.
+
+Other Fields
+The protection of new plant varieties is subject to a registration procedure. Besides the material
+obligations and in order to obtain the protection, formal obligations also need to be complied with.
+According to the Federal Law on the Protection of Plant Varieties and its implementation
+regulation, the application for protection of a plant variety must contain a number of indications
+and documentation, including (relating to the acquisition of the variety) if the holder is not, or is
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+63
+
+Daniel Kraus and Markus R ¨ussli
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+not the only, initial breeder or, if multiplication material or product of a harvest has been sold or
+transferred in another way with the agreement of the holder or one of its predecessors, the date and
+place of transfer (article 9 Law on the Protection of Plant Varieties; articles 7–10 Ordinance on the
+Protection of Plant Varieties). A similar regulation is applicable in the case of seeds (article 5
+Ordinance on the Production and Circulation of plant multiplication material).
+
+The CBD requires Parties to take measures relating to the ex situ conservation of components
+of biological diversity, with a method to complete in situ measures (article 9 CBD). The
+International Treaty on Plant Genetic Resources for Food and Agriculture also stipulates such
+measures in the ﬁeld of food and agriculture. In particular, Parties must cooperate to promote the
+development of an efﬁcient and sustainable system of ex situ conservation, giving due attention to
+the need for adequate documentation, characterization, regeneration and evaluation, and promote
+the development and transfer of appropriate technologies for this purpose with a view to
+improving the sustainable use of plant genetic resources for food and agriculture (see in particular
+articles 5.1 and 15 International Treaty on Plant Genetic Resources for Food and Agriculture).
+
+At the federal level, requirements have been issued in order for an institution to be recognized
+as a registered scientiﬁc organization in the meaning of article VII.6 CITES (Ordinance on the
+Recognition as a Registered Scientiﬁc Organization by means of the CITES). But generally,
+provisions relating to ex situ conservation of biological diversity may be found in a variety of
+including on forestry;8 on the release of organisms in the environment (Release
+legislation,
+Ordinance); on the protection of species; on the protection of plant varieties; on plant multi-
+plication material (Law on the Protection of Plant Varieties and its ordinance of application;
+Ordinance on the Production and Circulation of plant multiplication material) and on a voluntary
+basis,9 as discussed above.
+
+Possible Future Legislation
+
+The Alternative: With or Without International Certiﬁcate of Origin
+At the present stage of the international negotiations on the establishment of an international ABS
+regime, one alternative becomes apparent: either an international certiﬁcate of origin is established,
+or it is not. The choice has consequences at the national level. Before examining this alternative
+more closely, choices lying within the international regime relating to the concept of certiﬁcates of
+origin, source or legal provenance need to be addressed.
+
+The Concept of Certiﬁcates of Origin, Source or Legal Provenance
+There are several options regarding the type of system appropriate for the concept of certiﬁcates of
+origin, source or legal provenance: a legally binding system, a voluntary system or a mixed one.
+Depending on the system chosen, the provider and/or the user countries would be required to
+provide/request a certiﬁcate. In a voluntary system, it would be in the countries’ discretion to do so
+(Report of the Meeting of the Group of Technical Experts on an Internationally Recognized
+Certiﬁcate of Origin/Source/legal Provenance, pp. 5, 7).
+
+A certiﬁcate of origin, source or legal provenance is considered to be a public document, issued
+
+by a designated national authority and possibly listed in a common international database.
+
+This certiﬁcate could be monitored by speciﬁc checkpoints appointed by the competent national
+authority of the user countries and listed in the common international database. These checkpoints
+could possibly be the same authorities as the ones issuing those certiﬁcates as a provider. Such
+checkpoints could be the registration points for commercial applications (e.g. product approval
+processes) or the intellectual property rights ofﬁces (especially patent and plant variety authorities).
+
+64
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+Daniel Kraus and Markus R ¨ussli
+
+At the international level, a registry containing electronic copies of the certiﬁcate or the unique
+identiﬁer of the certiﬁcate could serve as a clearing house mechanism (CHM). The countries and/or
+the checkpoints would have to notify this registry when dealing with a certiﬁcate.
+
+A standardized internationally recognized format for certiﬁcates could contain (other than the
+codiﬁed unique identiﬁer) information agreed upon, such as the subject-matter (genetic resources,
+traditional knowledge) covered by the certiﬁcate, uses permitted and restrictions of use. It could
+also contain information on, or a link to, a national database providing non-conﬁdential
+information of PIC and MAT (Report of the Meeting of the Group of Technical Experts on an
+Internationally Recognized Certiﬁcate of Origin/Source/legal Provenance, pp. 8–11).
+
+The Case in which No International Certiﬁcate Is Introduced
+If no international certiﬁcate is introduced, the risk remains that checkpoints will have difﬁculties
+in examining whether the legislation of a given Party to the CBD on ABS is respected. Such a
+scenario would imply that checkpoints are familiar with the legislation of all 191 Parties to the
+CBD. It would also be necessary for those checkpoints to study numerous ABS contracts in the
+ofﬁcial languages of the Contracting Parties. In such a case, the control of the existence of PIC and
+MAT would therefore prove to be problematic.
+
+If there is no international certiﬁcate, a system of declaration of source could be established in
+the framework of existing registration and authorization procedures, as recently established in the
+Swiss patent law. Checkpoints would have to limit their examination to the declaration of source,
+when the object of the registration or authorization is a genetic resource or is directly based on this
+resource, as is the case in the revised patent law. What is directly based on a resource could be
+deﬁned in the international regime. The conformity test with the provider country’s national
+legislation would be left to the latter. The examination of the existence of a declaration of PIC or
+MAT is not recommended, as it would also place the burden of testing its conformity with the law
+of the providing country with the Swiss authorities, and the same difﬁculties as described above
+would arise. The system based on the declaration of source is only possible if decisions have been
+published and are therefore accessible to the public, including in particular providers of genetic
+resources, such as, beside the patent system where it already exists, in the case of marketing
+authorization for pharmaceutical products, for agricultural means of production and newly
+admitted types of food as well as for applications for protection of new plant varieties. However,
+in connection with the import of plants, animals, animal products, etc., the import permits are not
+published. In these cases, the international regime could determine that such information shall be
+published, which would allow for providers to control the respect of their national ABS legislation.
+In order to facilitate the work of the provider countries, the published information could be
+centralized and made available through the CHM. Moreover, an international understanding of
+misappropriation and misuse of genetic resources would make it easier for user and provider
+countries to identify cases of infringement of ABS rules and avoid unjustiﬁed allegations of
+biopiracy.
+
+Besides, duplications would need to be avoided, that is if a marketing authorization was
+required for a patented pharmaceutical product using genetic resources, the source of which would
+already have been declared in the patent application. But it has to be noted that, on occasion,
+products necessitating an authorization are based partly on resources which are the object of a
+patent application and partly on resources which are not. In such cases, the declaration of the
+source would be necessary for the resources which have not been the object of the patent, but not
+for those of which the source has already been declared in the patent application.
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+65
+
+Daniel Kraus and Markus R ¨ussli
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+The Case in which an International Certiﬁcate Is Introduced
+The introduction of an international certiﬁcation system (the content of which is subject to
+negotiation) would probably be most suitable to ensure that ABS measures foreseen in the
+legislation of the providing country (such as PIC, MAT and beneﬁt sharing) are respected. For the
+same reasons as mentioned in the previous section, it is suggested that checkpoints would limit
+their control to the existence of such a certiﬁcate, based on the presumption that its content is in
+conformity with the legal obligations set forth in the country having issued the certiﬁcate, and
+based on the international regime. In such a way, the system would prove to be most efﬁcient, in
+the interest of both providers and users.
+
+If, in a speciﬁc situation, an applicant does not provide the certiﬁcate, the checkpoint could set
+a deadline for the submission of the missing certiﬁcate. If the certiﬁcate were not to be provided on
+time, the requested authorization (marketing, registration) would not be granted. Willful provision
+of a false certiﬁcate could be liable to a ﬁne, and courts could order the publication of the
+judgment. The system established in the patent law could be a source of inspiration here.
+
+Neither the CBD nor the Bonn Guidelines are of any help on the issue of timely application of
+ABS measures. The legal principle of non-retroactivity of laws basically implies that certiﬁcates
+would have to be provided for applications ﬁled as of the date of entry into force of the respective
+laws. The date as of which certiﬁcates must be made available would have to be set in the
+international regime in order to be applicable in an equitable manner amongst all parties to the
+CBD. Here again, the principle of non-retroactivity of laws would imply the application of the
+system to new cases, that is genetic resources which would have been accessed to as of the
+ratiﬁcation of the international regime/entering into force of the modiﬁed legislation in Switzer-
+land, both having to be coordinated.
+
+The principle of non-retroactivity of laws, however, would exclude a number of genetic
+resources which are already in circulation. If a new use is found for a genetic resource already in
+circulation in Switzerland, the principle of non-retroactivity would also apply: indeed, the principle
+of good faith requires that possessors of genetic resources do not have imposed on them new
+conditions which were not contractually foreseen or were not foreseen in the decision providing
+them the right of use. The timely application of the system should therefore be subject to
+negotiation and be provided for in the international regime.
+
+However, bioprospecting is likely to continue in the future due to the development of new
+biopharmaceutical compounds, for which ‘‘natural products research is vital to identify novel
+products to alleviate human health problems’’ (UNU-IAS Report, 2009, p. 21 and references
+included therein). Therefore, even in application of the principle of non-retroactivity, the system
+would be justiﬁed and useful.
+
+Conceivable Checkpoints
+Patent Law
+The Swiss patent law has recently been revised and introduced the obligation to declare the source
+of genetic resources and traditional knowledge used in a product or process for which the patent
+has been applied for. Some time will be necessary in order to evaluate its efﬁciency. However, it is
+noteworthy that the Swiss patent system provides for the ﬁrst checkpoint in Switzerland.
+
+If an international regime for a certiﬁcate of source or of origin for genetic resources was to be
+agreed upon between all parties to the CBD, the veriﬁcation by the Swiss Federal Institute of
+Intellectual Property could be extended from the declaration of source to the availability and
+provision by the applicant of a copy of the certiﬁcate, containing the information agreed upon
+internationally (declaration of source, of origin, proof of the existence of MAT, etc.).
+
+66
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+Daniel Kraus and Markus R ¨ussli
+
+Research Regulations and Voluntary Measures
+For the time being, respect of the CBD provisions on ABS by universities and research institutions
+are based on a voluntary basis. Measures could be taken in Switzerland in order to further
+encourage researchers (be it at university or industry level) to respect ABS principles of the CBD on
+a voluntary basis, such as is the case with universities, applying the recommendations of the
+SCNAT. This would require public awareness measures, which could be ensured by the FOEN in
+its capacity as a focal point.
+
+A more binding measure might be introduced in federal laws on research, which would link the
+ﬁnancing of research projects including genetic resources by the Confederation to the respect of
+CBD as regard ABS. This could also be the case in projects to be funded by the Swiss National
+Science Foundation, and in the research principles included in the law on the Swiss Federal
+Institutes of Technology.
+
+At the cantonal level, laws or regulations on universities could include a provision either
+
+encouraging or obliging researchers to respect those same provisions.
+
+Authorization Regime in the Pharmaceutical and Biotechnological Field
+The SATP (Swissmedic) could also serve as a checkpoint in the process in which a production or a
+marketing authorization is required for a pharmaceutical product using genetic resources.
+
+As pharmaceuticals have to be produced in conformity with recognized rules of good
+production practices, contained in a Federal Council regulation and taking international standards
+into account (articles 5–7 LTP), it could be envisaged including standards relating to ABS in such a
+regulation.
+
+Such could also be the case for phytosanitary products, which beneﬁt from a simpliﬁed
+marketing procedure. However, if said products and/or molecules on which they are based are
+patented, and requirements of declaration of source (in the present legal environment) or of the
+existence of a certiﬁcate (in a future system) have been complied with, a multiplication of
+procedures needs to be avoided. The requirement of proving the existence of a certiﬁcate could
+then be waived at Swissmedic and a copy of the patent documentation would be sufﬁcient.
+
+One important drawback may, however, be the need for Swissmedic to check in each case
+where no certiﬁcate is presented, whether the absence of a certiﬁcate is justiﬁed in view of the CBD,
+its international implementing regime and the applicable national laws.
+
+Food and Agriculture
+The adherence to the ABS provisions of the CBD can be reviewed within the scope of the existing
+approval procedure for food, provided that such a procedure is contemplated, and in the approval
+procedure for agricultural means of production. By way of analogy to article 49a of the patent law,
+it may be foreseen that the application for a permit must contain information concerning the
+source of the genetic resource, whereby the certiﬁcate of origin is to demonstrate that the ABS
+provisions of the CBD were adhered to. The approval authority that is responsible for the product
+(the FOPH, in the case of food, and the FOAG, in the case of agricultural means of production)
+must take over the tasks of the checkpoint within the scope of the approval procedure.
+
+Import Regulations
+The import of genetic material into Switzerland can be made dependent on proof of a certiﬁcate of
+origin, as this is already the case with plant protection certiﬁcates, in connection with the import of
+plants, etc. In particular, the customs administration as well as, in the case of animals, the border
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+67
+
+Daniel Kraus and Markus R ¨ussli
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+veterinarian service, come into consideration as checkpoints; individual federal ofﬁces, such as the
+FVO, the FOAG and the FOPH may likewise take over tasks.
+
+Import regulations, however, are only suitable in certain cases. Custom authorities operate on
+a sample basis. Besides, it is not feasible to inspect all genetic resources at the border, due to the
+characteristics of genetic resources: they are elements of natural products that can be imported as
+such, but with the aim of making use of the genetic resources they contain. In addition, import
+regulations are of limited value where movements of physical samples is not required because
+analysis of the samples may have been done in the country of origin, and only the resulting
+information is exported (over, e.g., the internet).10 Import regulations are likewise unsuitable for
+the use of traditional knowledge.
+
+For the reasons set out above, the import procedure only comes into consideration as a means
+to review compliance with the ABS provisions to a limited extent. A possibility might exist by
+deﬁning certain product categories that are to be inspected upon import.
+
+Other Fields
+If genetic resources have been necessary for the development of a new plant variety, it could also be
+envisaged that the ofﬁce for the protection of varieties, which is competent for the delivery of
+protection titles, might examine the existence of a certiﬁcate of source or of origin. Such a
+certiﬁcate could be included in the documentation and indications which are requested in order to
+obtain the protection of a new plant variety. It could also be applicable in the case of seeds, for
+which the FOAG is competent.
+
+As regards ex situ collections, it has been mentioned that provisions relating to biological
+diversity may be found in several pieces of legislation, including on forestry, on the release of
+organisms in the environment, on the protection of species, on the protection of plant varieties and
+on plant multiplication material. The competent ofﬁces in those cases might act as checkpoints.
+It also has to be mentioned that ex situ collections, being very often related to scientiﬁc
+
+institutions such as universities, would also be subject to legislation dealing with research.
+
+FOEN as Focal Point
+FOEN is the Swiss focal point for ABS. As such, it is responsible for providing information and
+national regulations relating to ABS issues. The question of its role arises if an international
+certiﬁcation regime is established. Although each authorization procedure has its own particula-
+rities and may differ according to the type of procedure involved (right of protection, production,
+marketing or importation), collaboration between different ofﬁces within one procedure is
+common administrative practice. Such is the case, for example, in the procedures relating to
+dissemination of genetically altered organisms, non-native invertebrate animals or pathogenic
+organisms or for the use of genetically altered organisms or pathogenic organisms in conﬁned
+areas.
+
+It could accordingly be envisaged, in particular in the above-mentioned cases, centralizing the
+examination of certiﬁcates from provider countries within FOEN. Such a procedure might
+facilitate procedures for applicants, who could directly refer to the focal point for the examination
+of the certiﬁcate.
+
+It is also suggested that FOEN, as the Swiss focal point, could be the authority issuing
+certiﬁcates in case Switzerland is the providing country. FOEN would also continue being the
+appropriate authority for the coordination with foreign authorities (in particular focal points) not
+only for negotiations, as is already the case nowadays, but also if coordination is necessary, for
+
+68
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+Daniel Kraus and Markus R ¨ussli
+
+instance where doubts appear as to authenticity of a certiﬁcate, and more generally, as a point of
+exchange of information in the CHM.
+
+Finally, FOEN would also have an important role in building and raising awareness in issues
+relating to ABS, thus increasing voluntary application of ABS principles arising in particular from
+the CBD and the Bonn Guidelines.
+
+Remedies
+Article 27 CBD foresees a dispute settlement procedure between State Parties through negotiation,
+mediation and arbitration. However, no procedure is foreseen for a situation in which interests of
+users of genetic resources are at stake, such as individuals, research institutions or companies. As a
+result, and in the absence of an international agreement providing for the competence of the courts
+of a given country and specifying the applicable legislation, remedies are subject to the sovereignty
+of each State Party to the CBD.
+
+If no international certiﬁcate is introduced, the need for remedies may be felt in a less stringent
+way than in case a certiﬁcate is introduced. In the ﬁrst situation, possibilities of appeal need to be
+available in a user country such as Switzerland when a right of protection, commercialization or
+circulation is denied to an applicant on the ground of absence of declaration of source.
+
+If an international certiﬁcate is introduced, there may be a number of situations in which an
+applicant in a user country such as Switzerland, although he has undertaken all efforts to obtain
+the certiﬁcate, cannot provide it. Such situations may include the following:
+ The provider country unjustiﬁably refuses to issue a certiﬁcate.
+ The administrative procedure for the grant of a certiﬁcate or the judicial procedure (e.g. appeal
+ The provider country violates the CBD rules on ABS, such as minimal access standards.
+ The certiﬁcate contains false information which is not due to the applicant.
+
+against the administrative decision relating to a certiﬁcate) is unjustiﬁably long.
+
+Generally, in all these cases, the principle of state sovereignty and of territoriality of laws
+implies that the applicant would have to take legal action in the providing country. However, in
+order to avoid blocking the legitimate use of genetic resources, it is argued that the right of
+protection, circulation or commercialization ought not to be refused to the applicant on the
+grounds of absence of the certiﬁcate mentioned above, when the existence of these grounds can be
+proven by the applicant. The international regime would though have to deﬁne the following
+issues:
+ Reasonable duration of administrative and judicial procedures for the grant—or refusal—of
+ Cases in which a State Party to the CBD may refuse to issue a certiﬁcate.
+ Cases in which no certiﬁcate has to be presented.
+ Respect of human rights.
+ Possibly a deﬁnition of public policy.
+
+certiﬁcates.
+
+The same principles should apply if an applicant fails to present a certiﬁcate, arguing that it
+had been refused to him on the basis of reasons contrary to Swiss public policy (e.g. human rights,
+violation of the principle of good faith). However, applicants may invoke public policy only
+exceptionally; the refusal of a certiﬁcate in the provider country must be in obvious contradiction
+with Swiss legal rules.
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+69
+
+Daniel Kraus and Markus R ¨ussli
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+Cases of violation of the international regime could be brought by the Parties (i.e. Switzerland
+or the provider country) to the dispute settlement procedure foreseen by article 27 CBD. As an
+alternative, the Swiss legislator could provide that, in such situations, no certiﬁcate has to be
+presented. However, the applicant would have to present the reasons for which he was unable to
+obtain a certiﬁcate in the providing country.
+
+Possible Sanctions
+
+If the user fails to provide the necessary information concerning the source of the genetic resources
+or if he provides incorrect, incomplete or misleading information, the question arises as to possible
+sanctions. Within the scope of the approval procedure for pharmaceuticals, agricultural means of
+production, etc., it can be contemplated that the approval application will be rejected if the
+applicant does not provide any explanation as to the source of the genetic resource. If the applicant
+provides incorrect information, declaring for instance that no genetic resources were being used, a
+revocation of the approval that has been granted would come into consideration, in addition to
+criminal law sanctions (ﬁne, monetary penalties).
+
+If a breach of the ABS provisions of the CBD is ascertained within the scope of an import
+procedure, the imported goods can be seized, conﬁscated and, as the case may be, destroyed.
+Corresponding measures are provided, for example, under the Ordinance for the Protection of
+Species (article 33 et seq.).
+
+Conclusion
+
+A number of ABS user measures could be foreseen in Switzerland and be implemented by different
+federal ofﬁces acting as checkpoints. Basically, two options would be available, depending on the
+existence or not of an international regime which would provide a certiﬁcation system.
+
+If no international certiﬁcation system were to be developed, a requirement of a declaration of
+source of the genetic resources used or introduced into Switzerland could be provided, inspired by the
+newly implemented requirement in the Swiss patent law. Such a system would have to take place in the
+framework of published registration procedures, such as for new plant varieties, as well as of published
+production and marketing authorizations, such as for pharmaceutical products, food and agriculture.
+Based on the users’ declaration of source in Switzerland, the respect of ABS requirements would be
+controlled and ensured by the country providing the genetic resources, after publication of the patent
+application or of the grant of protection or authorization, as the case may be, and based on a screening
+by the providing country of Switzerland’s decisions. Decisions relating to protection, productions or
+marketing authorizations would be refused in Switzerland only if the source has not been declared or if
+the declaration has included false information—sanctions could then be foreseen—but not in the event
+that ABS measures in the providing country are not complied with, the examination of this question
+taking place at a later stage, in the country providing the genetic resources.
+
+Transmission of information relating to granted authorizations or protection through the
+CHM could help provider countries have access to the necessary information. Furthermore, an
+international understanding of the concept of misappropriation and misuse of genetic resources
+would make it easier for user and provider countries to identify cases of infringement of ABS rules
+and avoid unjustiﬁed allegations of biopiracy.
+
+If a compulsory international certiﬁcation system is introduced, the examination of the existence
+of a certiﬁcate from the provider country, attesting the respect of its national legislation relating to
+ABS, would allow for an earlier examination of the respect of said provisions, in the provider
+country, before the publication of a patent, or the grant of protection, production or marketing
+
+70
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+Daniel Kraus and Markus R ¨ussli
+
+right. It is therefore suggested that the existence of said certiﬁcates be controlled at the point of
+registration of new protection rights such as patents, and plant varieties not covered by the
+multilateral system of the International Treaty of the FAO; at the point at which production rights
+are granted; at the point at which marketing rights are granted; and, to a more limited extent, at the
+point where genetic resources as such (excluding genetic resources contained in end products) enter
+Switzerland. Such a system would ensure that rights relating to the use of genetic resources are
+conferred in Switzerland only once ABS principles incorporated in the provider country’s
+legislation have been complied with. Decisions relating to protection, production or marketing
+authorizations would be refused in Switzerland in the event that no valid certiﬁcate has been
+provided, ensuring in that way that the providing country’s ABS legislation has been complied with
+already before conferring any rights.
+
+Efﬁciency of the process would be guaranteed by the fact that the certiﬁcate would be issued by
+the provider country on the basis of its national legislation, based itself on an international regime;
+the examination by the checkpoint in Switzerland would therefore be limited to the existence of the
+certiﬁcate.
+
+Checkpoints in Switzerland should be established at a level which would not only ensure the
+respect of the CBD’s ABS provisions, but also allow stakeholders in provider countries to enforce
+their contractual rights at the earliest possible stage. Such a system should not reduce the
+stimulation in research and development, ought to be as little intrusive as possible as regards
+trade activities and should avoid duplications.
+
+Unless the international regime establishes a date of retroactive application of the system, in
+case genetic resources are already in circulation before the introduction of the certiﬁcation system,
+no certiﬁcate will be available or necessary.
+
+Such measures would have to be accompanied by public awareness measures, which could
+stimulate stakeholders in Switzerland (including universities, schools of applied science, industry
+and distributors) to respect ABS principles on a voluntary basis. This would help ensure respect for
+genetic resources which have already been introduced in Switzerland before the entry into force of
+the new legal provisions.
+
+Finally, the elaboration of user measures in Switzerland would require the active participation
+of experts from the different ofﬁces and ministries involved in order to set up a coherent, efﬁcient
+and not burdensome ABS system.
+
+About the Authors
+
+Dr Daniel Kraus, is Professor of innovation law at the University of Neuchaˆ tel, Faculty of Law,
+Av. du 1er-Mars 26, 2000 Neuchaˆ tel, Switzerland; e-mail: daniel.kraus@unine.ch—He is also
+attorney with Umbricht Attorneys at Law, Spitalgasse 9, P.O. Box 136, 3000 Bern 7, Switzerland;
+e-mail: kraus@umbricht.ch
+
+Dr Markus R ¨ussli, is attorney with Umbricht Attorneys at Law, Bahnhofstrasse 22, P.O. Box 2957,
+8022 Zurich, Switzerland; e-mail: ruessli@umbricht.ch
+
+Notes
+
+The opinions and points of view expressed in the document are exclusively the authors. In no way do they
+necessarily reﬂect the views of the contributors or of the Federal Ofﬁce for the Environment (FOEN).
+
+1 Article 2 CBD deﬁnes the country providing genetic resources as the country supplying genetic resources
+collected from in situ sources, including populations of both wild and domesticated species, or taken from
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+71
+
+Daniel Kraus and Markus R ¨ussli
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+ex situ sources, which may or may not have originated in that country. User countries are not deﬁned in
+the CBD.
+
+2 In Switzerland, the focal point for ABS is the FOEN.
+3 See hhttp://abs.scnat.ch/downloads/ABS_Brochure.pdfi [Accessed June 2010].
+4 See hhttp://www.bgci.org/ﬁles/ABS/IPEN/conduct.pdfi [Accessed June 2010].
+5 See hhttp://www.blw.admin.ch/themen/00012/00080/index.html?lang=fri [Accessed June 2010].
+6 As to the import provisions for food, see above, ‘‘Current Legal Situation in Switzerland, ‘‘Import
+
+Regulations’’’’.
+
+7 As to these ordinances, see SR 817.022.101–817.022.111.
+8 Article 24 of the federal Law on Forests of 4 October 1991 (SR 921.0) gives the competence to the
+Confederation to legislate on the origin, the utilization, the trade and the maintenance of forestry plant
+and seeds. Certiﬁcation of provenance for species of trees is issued by cantonal authorities according to
+the federal Ordinance on Reproduction Material for Forestry (SR 921.552.1); and the federal Ordinance
+on Forests (SR 921.01) contains provisions on the production, utilization, import and export of
+reproduction material, which are subject to authorization.
+
+9 See the SCNAT Good Practices and IPEN Code of Conduct.
+
+10 Likewise skeptical UNU-IAS Report, User Measures, pp. 26 et seq.
+
+References
+
+Access and Beneﬁt Sharing: Good Practice for Academic Research on Genetic Resources, Swiss Academy of
+Sciences, January 2006. Available at hhttp://abs.scnat.ch/downloads/ABS_Brochure.pdfi [Accessed June
+2010].
+
+Bonn Guidelines on Access to Genetic Resources and Fair and Equitable Sharing of the Beneﬁts Arising out
+
+of their Utilization, April 2002.
+
+Constitution of the Swiss Confederation of 18 April 1999 (SR 101).
+Convention on Biological Diversity (CBD) of 5 June 1992.
+Convention on International Trade in Endangered Species of Wild Fauna and Flora (Washington
+
+Convention; CITES) of 3 March 1973.
+
+Directive 98/44/EC of the European Parliament and of the Council of 6 July 1998 on the legal protection of
+
+biotechnological inventions.
+
+Food and Agriculture Organization (FAO) International Treaty on Plant Genetic Resources for Food and
+
+Agriculture of 3 November 2001.
+
+International Plant Exchange Network (IPEN): An exchange system for botanic gardens for non-commercial
+purposes according to the CBD, Botanic Gardens Conservation International (BGCI), November 2003.
+Available at hhttp://www.bgci.org/ﬁles/ABS/IPEN/conduct.pdfi [Accessed June 2010].
+
+Law on Agriculture of 29 April 1998 (SR 910.1).
+Law on Food and Utility Articles (Food Act) of 9 October 1992 (SR 817.0).
+Law on Forests of 4 October 1991 (SR 921.0).
+Law on Genetic Engineering in the Non-Human Area of 21 March 2003 (SR 814.91).
+Law on Medicines and Medical Devices (Law on Therapeutic Products; LTP) of 15 December 2000 (SR
+
+812.21).
+
+Law on Patents of 25 June 1954 (SR 232.14).
+Law on the Protection of Plant Varieties of 20 March 1975 (SR 232.16).
+Law on Research of 7 October 1983 (SR 420.1).
+Law on Technical Barriers to Trade of 6 October 1995 (SR 946.51).
+
+72
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+Daniel Kraus and Markus R ¨ussli
+
+Notiﬁcation of the Swiss Federal Council on the Modiﬁcations brought to the Patent Law, doc. 05.082 of 23
+
+November 2005, federal Gazette No 1 of 10 January 2006, pp. 1–230.
+
+Ordinance on Authorizations in the Field of Medicines of 17 October 2001 (SR 812.212.1).
+Ordinance of Biocide Products of 18 May 2005 (SR 813.12).
+Ordinance on Clinical Trials of Therapeutic Products (Therapeutic Products) of 17 October 2001 (SR
+
+812.214.2).
+
+Ordinance of the Federal Department of Economic Affairs (FDEA) on Inspections within the Scope of the
+Convention for the Protection of Species (Protection of Species Inspection Ordinance) of 16 May 2007
+(SR 453.1).
+
+Ordinance of the Federal Department of Home Affairs (FDHA) on Cosmetics of 23 November 2005 (SR
+
+817.023.31).
+
+Ordinance of the Federal Department of Home Affairs (FDHA) on the Enforcement of the Food Legislation
+
+of 23 November 2005 (SR 817.025.21).
+
+Ordinance of the Federal Department of Home Affairs (FDHA) concerning allowed Food Additive of 22
+
+June 2007 (SR 817.022.31).
+
+Ordinance of the Federal Department of Home Affairs (FDHA) on Genetically Altered Food of 23
+
+November 2005 (SR 817.022.51).
+
+Ordinance on Foodstuffs and Utility Articles of 23 November 2005 (SR 817.02).
+Ordinance on Forests of 30 November 1992 (SR 921.01).
+Ordinance on the Handling of Organisms in conﬁned Areas of 25 August 1999 (SR 814.912).
+Ordinance on the Handling of Organisms in the Environment (Release Ordinance) of 10 September 2008 (SR
+
+814.911).
+
+Ordinance on the Import, Transit and Export of Animals and Animal Products of 18 April 2007 (SR
+
+916.443.10).
+
+Ordinance on the Import and Transit of Animals from Third Party States in Air Trafﬁc of 18 April 2007 (SR
+
+916.443.12).
+
+Ordinance on the Import and Transit of Animal Products from Third Party States in Air Trafﬁc of 27 August
+
+2008 (SR 916.443.13).
+
+Ordinance on the Introduction into Commerce of Fertilizers (Fertilizer Ordinance) of 10 January 2001 (SR
+
+916.171).
+
+Ordinance on the Introduction into Commerce of Plant Protection Products (Plant Protection Products
+
+Ordinance) of 18 May 2005 (SR 916.161).
+
+Ordinance on the Production and Circulation of plant multiplication material of 7 December 1998 (SR
+
+916.151).
+
+Ordinance on the Production and the Introduction into Commerce of Animal Feed (Animal Feedstuffs
+
+Ordinance) of 26 May 1999 (SR 916.307).
+
+Ordinance on the Production and Introduction into Commerce of Vegetable Reproduction Material (Seeds
+
+Ordinance) of 7 December 1998 (SR 916.151).
+
+Ordinance on the Protection of Plants (Plant Protection Ordinance) of 28 February 2001 (SR 916.20).
+Ordinance on the Protection of Plant Varieties of 25 June 2008 (SR 232.161).
+Ordinance for the Protection of Species of 18 April 2007 of 29 November 1994 (SR 453).
+Ordinance on the Recognition as a Registered Scientiﬁc Organization by means of the Convention on
+
+International Trade in Endangered Species of Wild Fauna and Flora of 20 October 1980 (SR 453.3).
+
+Ordinance on Reproduction Material for Forestry (SR 921.552.1).
+Ordinance of the Swiss Agency for Therapeutic Products (Ordinance of the SATP) on the Requirements
+
+relating to Marketing of Medicines of 9 November 2001 (SR 812.212.22).
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+73
+
+Daniel Kraus and Markus R ¨ussli
+
+Access and Beneﬁt Sharing User Measures in Switzerland
+
+Report of the First Part of the Ninth Meeting of the Ad hoc Open-ended Working Group on Access and
+Beneﬁt Sharing (Cali 22–28 March 2010) Document UNEP/CBD/WG-ABS/9/3. Available at hhttp://
+www.cbd.int/meetingsi [Accessed June 2010].
+
+Report of the Meeting of the Group of Technical Experts on an Internationally Recognized Certiﬁcate of
+
+Origin/Source/legal Provenance (Lima 22–25 January 2007) Document UNEP/CBD/WG-ABS/5/7.
+Available at hhttp://www.cbd.int/meetingsi [Accessed June 2010].
+
+Report of the Scoping Meeting on Capacity Building Approaches for Access to Genetic Resources and
+
+Beneﬁt-Sharing (Montreal 2–4 December 2002) Document UNEP/CBD/ABS/EW-CB/1/INF/1.
+Available at hhttp://www.cbd.int/meetingsi [Accessed June 2010].
+
+United Nations University Institute of Advanced Studies (UNU-IAS) Report, ‘Beneﬁt Sharing in ABS:
+
+Options and Elaborations’, 2009.
+
+United Nations University Institute of Advanced Studies (UNU-IAS) Report, ‘User Measures: Options for
+Developing Measures in User Countries to Implement the Access and Beneﬁt-Sharing Provisions of the
+Convention on Biological Diversity’ (2nd edition), 2003.
+
+74
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 1
+
+

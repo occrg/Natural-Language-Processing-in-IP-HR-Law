@@ -1,0 +1,1331 @@
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6, pp. 197–217
+
+doi: 10.1002/jwip.12013
+
+The TRIPs Compatibility of Australia’s Tobacco
+Plain Packaging Legislation
+
+Althaf Marsoof*
+Research Higher Degree Candidate, TC Beirne School of Law, University of Queensland, Australia
+
+The use of tobacco entails negative health consequences. In fact, it is reported that had the ill effects of tobacco been
+known much earlier in time, tobacco would have been a banned substance. Yet, in today’s context tobacco has become
+part of legitimate trade, and the livelihoods in countries that export tobacco heavily depend on trade in tobacco. In the
+circumstances, could governments intervene on health and public policy grounds and regulate the manner in which
+tobacco products are marketed and sold? If so, to what extent? These are precisely the questions that fuel the gruelling dual
+between tobacco companies and health conscious countries, such as Australia that has recently enacted legislation making
+mandatory the plain packaging of tobacco products from December 2012. The Australian legislative measure, namely the
+Tobacco Plain Packaging Act 2011 (Cth), is currently under attack in several fronts, including the World Trade
+Organisation, though recently the Australian High Court upheld the constitutionality of the plain packaging legislation.
+The purpose of this paper is to approach the question of the legality of government intervention in totally prohibiting the
+striking elements of tobacco packaging from a purely international trademark law point of view. First, the paper identiﬁes
+the scope of trademark protection as set out in the Agreement on the Trade Related aspects of Intellectual Property Rights
+(“TRIPs”) and then goes on to analyse the Australian plain packaging law in the context of its own trademark legislation.
+Thence, the paper considers whether the Australian plain packaging legislation complies with the core provisions on
+trademark protection enshrined in TRIPs, and lastly provides a possible compromise to reconcile the competing interests.
+
+Keywords TRIPS; trademark rights; TRIPs plus; tobacco plain packaging; key topics
+
+Introduction
+
+All eyes are on Australia and its recent legislative initiative that proscribes all forms of beautifying elements,
+including trademarks, from being displayed on tobacco packaging. The success or failure of the Australian
+legislation will shape global tobacco trade and its future (Radio National, 2012). It is not surprising that the
+Australian Government’s move to implement stringent plain tobacco packaging and its survival of a tightly
+fought constitutional battle in the Australian High Court case of JT International SA/British American
+Tobacco Australia Ltd v Commonwealth of Australia (“JTI and BATA”) has been subject to immense
+controversy (ABC1, 2012). By a majority of 6:1 the High Court in JTI and BATA opined that the Tobacco
+Plain Packaging Act 2011 (Cth) (“TPP Act”) is not contrary to section 51(xxxi) of the Australian
+Constitution. Section 51(xxxi) of the Australian Constitution provides that “[t]he Parliament shall, subject to
+this Constitution, have power to make laws for the peace, order, and good government of the Commonwealth
+with respect to” inter alia “the acquisition of property on just terms from any State or person for any purpose
+in respect of which the Parliament has power to make laws.” The plaintiffs in JTI and BATA, in a futile
+attempt, challenged the constitutionality of the TPP Act on the basis that the said Act acquired “property” to
+which the plaintiffs’ had rights on terms that were anything but just.1 The TPP Act is also under attack in the
+
+*Prof. Suri Ratnapala (Professor of Law, TC Beirne School of Law, University of Queensland) provided me with
+valuable and critical comments which helped me improve this article immensely. I wish to also acknowledge the
+input of Ms Patrecia Pais (Research Higher Degree Candidate, TC Beirne School of Law, University of
+Queensland). However, all errors, if any, remain solely mine. (E-mail: althaf.marsoof@uq.net.au).
+
+© 2013 John Wiley & Sons Ltd
+
+197
+
+Althaf Marsoof
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+investment arena where the tobacco giant Philip Morris International’s Hong Kong afﬁliate, Philip Morris
+Asia Limited, has brought arbitral proceedings in the International Centre for Settlement of Investment
+Disputes (ICSID) under the Agreement between the Governments of Australia and Hong Kong for the
+Promotion and Protection of Investments 1993. To date, Ukraine,2 Honduras,3 the Dominican Republic4
+and, more recently, Cuba5 have invoked the dispute settlement process of the World Trade Organisation
+(WTO) the consequence of which would determine whether the Australian TPP Act complies with
+Australia’s obligations under the Agreement on the Trade Related aspects of Intellectual Property Rights
+(“TRIPs”). With countries such as the UK,6 New Zealand,7 Indonesia, China and India8 setting the stage for
+similar legislation, tobacco companies are gearing themselves for a decisive legal encounter that may very
+well determine their very existence.
+
+This paper, intends to consider the effect of the TPP Act from a purely trademark law point of view,
+and in doing so will assess whether the legislation conﬂicts with Australia’s obligations under TRIPs.
+Australia, being a member of the WTO, requires to comply with both TRIPs, which is one of the several
+covered agreements of the WTO, and the Paris Convention for the Protection of Industrial Property 1883
+(“Paris Convention”), which is incorporated by reference under Article 2:1 of TRIPs, in ensuring that
+minimum intellectual property rights are guaranteed to Australia’s trading partners. Accordingly, this
+paper will, at the outset, lay down the various claims made against Australia in the WTO and then consider
+those claims in light of Australia’s obligations under TRIPs with the aim of scrutinising the compatibility
+of the TPP Act with the provisions of TRIPs.
+
+Summary of Claims Brought in the WTO
+
+Ukraine, Honduras, the Dominican Republic and Cuba have claimed that Australia’s plain packaging
+legislation violate the General Agreement on Tariffs and Trade (“GATT”), the Agreement on Technical
+Barriers to Trade and the TRIPs. Given the focus of this paper on trademark rights, this paper summarizes
+the major claims brought under TRIPs in the table below (note that there are other claims brought under
+TRIPs which are not considered in this paper).9
+
+Country
+
+Ukraine
+
+Articles under the TRIPS
+
+Article 2.1 read with inter alia articles 6quinquies and 7 of the Paris Convention,
+
+Articles 15:1, 15:4, 16:1, 16:3 and 20
+
+Honduras
+
+Article 2.1 read with inter alia article 6quinquies of the Paris Convention, Articles
+
+Dominican
+Republic
+
+Cuba
+
+15:4, 16:1, 17 and 20
+
+Article 2.1 read with inter alia article 6quinquies of the Paris Convention, Articles
+
+15:4, 16:1 and 20
+
+Article 2.1 read with inter alia article 6quinquies of the Paris Convention, Articles
+
+15:4, 16:1 and 20
+
+It is worth noting, and perhaps surprising, that only Honduras has brought a claim under article 17 of
+TRIPs when it claims that Australia cannot justify its plain packaging measure pursuant to article 8 of
+TRIPs as necessary to protect human health because it is not consistent with article 17 of TRIPs as a
+“limited exception” to the rights conferred by a trademark.10 As it will be demonstrated later in this paper,
+article 17 of TRIPs plays a crucial role in determining the legitimacy of any domestic legislative measure
+that has the effect of restricting trademark rights, and the failure by the aforementioned complainants
+(except for Honduras) to bring a claim under article 17 may stand as a signiﬁcant disadvantage to those
+complainants.
+
+198
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+Althaf Marsoof
+
+The next section of this paper sets out the scope of trademark protection under TRIPs with speciﬁc
+reference to the TRIPs provisions mentioned in the WTO complaints against Australia, and then, moves
+on to scrutinising the TRIPs compatibility of Australia’s tobacco plain packaging legislation.
+
+The Scope of Trademark Protection Under TRIPs
+
+Prior to the establishment of the WTO, intellectual property rights were recognized by two prominent
+international instruments. These instruments are the Berne Convention for the Protection of Literary and
+Artistic Works 1886 and the Paris Convention. Trademark protection, came within the purview of the
+latter, and was conﬁned to just a few provisions therein. The Paris Convention neither deﬁned the term
+“trademark,” nor spells out the scope of trademark rights. It simply provides in article 6 that member states
+shall determine the conditions for the ﬁling and registration of trademarks through domestic legislation.
+The TRIPs, however, provides better guidance as to the nature and scope of trademark rights. Article 15:1
+of TRIPs provides that any sign capable of distinguishing the goods or services of one undertaking from
+those of another shall be capable of constituting a trademark, and becomes eligible for registration.
+
+Therefore, any sign that is capable of performing a distinguishing function would qualify to be
+registered as a trademark. Yet not all signs must be registered, and WTO members are granted discretion in
+imposing conditions pertaining to the registrability of a sign. This is apparent on a reading of article 15:2 of
+TRIPs which provides that “[p]aragraph 1 [of article 15] shall not be understood to prevent a Member from
+denying registration of a trademark on other grounds, provided that they do not derogate from the
+provisions of the Paris Convention…” Hence, a perusal of the relevant provisions of the Paris Convention
+becomes necessary and important to this discussion. Among them, article 6quinquies plays an important
+role as to the registrability of a sign that is already registered in a Paris Convention state. Accordingly, a
+sign that has already been registered in a Paris Convention state must be accepted for registration “as is”
+subject only to the express grounds of denial that are speciﬁed therein. Thus, a sign that is sought to be
+registered under article 6quinquies cannot be refused registration unless when they infringe third party
+rights in the country where registration is sought, are devoid of distinctive character or are descriptive, or
+contrary to morality or public order (Paris Convention, article 6quinquies B(i)–(iii)). None of the grounds
+stated above assists a country attempting to deny or curtail the registration of a trademark on the ground
+that the product that relates to such mark is harmful to human health and therefore contrary to morality or
+public order. Unless, the mark in itself is immoral or contrary to public order, the mark has to be registered
+“as is”—that is in the same form it has been registered in the country of origin (US—Section 211 Omnibus
+Appropriations Act of 1998, paragraph 138).
+
+However, if a fresh application is being made for registration outside the priority provisions of the Paris
+Convention, could a country limit the scope of registration of a mark relating to tobacco products? For
+example, if a fresh application is made to register a mark relating to a tobacco product; could a condition for
+registration be imposed such that the sign must be limited to its simple textual form and nothing more?
+Limiting the scope of registration of signs could be a useful measure to minimize the marketability of tobacco
+products. This is because it would in turn limit trademark protection to the sign’s textual form alone. However,
+this proposition must be analyzed in light of article 15:4 of TRIPs and article 7 of the Paris Convention.
+
+Although article 6 of the Paris Convention permits a country to determine the conditions for the ﬁling
+and registration of trademarks, article 7 therein, and article 15:4 of TRIPs, provides that “[t]he nature of
+the goods or services to which a trademark is to be applied shall in no case form an obstacle to registration
+of the trademark.” Thus, if the ground for limiting the scope of trademark registration of a sign could be
+traced to the nature of the product for which registration is sought, such a condition would stand afoul of
+the obligation imposed in terms of the aforesaid provisions. No doubt tobacco products are harmful to
+humans, but that is due to the very nature of the product. And therefore, no WTO member could refuse the
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+199
+
+Althaf Marsoof
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+registration of a sign that is intended to be used in relation to a tobacco product, solely on the ground that
+the nature of the goods are such that they are harmful to humans. It has been suggested by Correa (2007,
+p. 182) that “… Article 15:4 [of TRIPS] would not allow a Member to deny registration of trademarks for
+products which are not in the public interest, such as being harmful to health.” Thus, it would seem that
+even a complete ban on tobacco products would not permit a WTO member to refuse the registration as a
+trademark of a distinctive sign that is intended to be used for tobacco products, so long as all other
+requirements for registration are satisﬁed. Although one might argue that permitting registration of a mark
+for a banned product deﬁes all logic and sense, it has been suggested that the rationale for this provision is
+to eliminate discrimination with regard to the availability of trademark protection based on the types of
+products or services involved (Correa, 2007, p. 182; Gervais, 2008, p. 270). Thus, what TRIPs compliant
+options would a country have to curtail the marketing and sale of tobacco products with a view of
+addressing its public health concerns?
+
+The ﬁrst option is to ban the product in its entirety (Gervais, 2008, p. 270). This would, however, be the
+most restrictive measure a WTO member could impose in relation to goods/services that are not in the public
+interest and is likely to be called into question under the GATT. To-date Bhutan is the only country to impose
+a total ban on tobacco production and sale (Parameswaran, 2012), but its actions go unchallenged by the WTO
+membership as Bhutan is still to join the WTO.11 A second option is to control the marketability of tobacco
+products and their packaging. One possibility is the imposition of requirements that compel the use of health
+warnings to cover a certain percentage of the tobacco packaging (Fong et al., 2009). Uruguay was one of the
+ﬁrst countries to impose such a measure compelling health warnings to be displayed on 80% of the packaging
+(Bana and Olmedo, 2010). However, Uruguay allowed the use of tobacco related marks, unlike the recent
+plain packaging legislation in Australia. Philip Morris has invoked the jurisdiction of the ICSID alleging that
+the Government of Uruguay had misappropriated the tobacco company’s intellectual property without paying
+adequate compensation, in violation of the provisions in the Agreement between the Swiss Confederation and
+the Oriental Republic of Uruguay on the Reciprocal Promotion and Protection of Investments 1988.12 The
+dispute is still pending on a matter of jurisdiction.13 Another possibility, as Australia has currently imposed, is
+the complete prohibition of the use of tobacco related trademarks in the form they have been registered.
+Instead, the use of the mark will be limited to its simple textual form in a standardized font merely to provide
+the ability to identify the origin of the goods. Except for a limited space for the brand name to be displayed, the
+remainder of the packaging would contain health warnings. It is this form of limitation that has brought about
+the most amount of controversy under trademark law. Could such a prohibition be justiﬁed under TRIPs?
+It must be noted that article 16:1 of TRIPs requires WTO members to guarantee an exclusive right to
+prevent all third parties not having the trademark owner’s consent from using in the course of trade
+identical or similar signs for goods or services which are identical or similar to those in respect of which
+the trademark is registered in a manner so as to cause a likelihood of confusion. It has been suggested that:
+
+… Article 16 of TRIPS is drafted as conferring a negative right to exclude rather than granting
+a positive right to exploit or use the trademark. Accordingly, Members remain free to pursue
+legitimate public policy objectives as they may determine when the conditions under Art. 16
+can be validly alleged (Schmidt-Pﬁtzner, 2009, p. 317) (quotation marks omitted).
+
+Correa (2007, p. 182) points out that “article 16 [of TRIPs], […] deﬁnes the exclusive rights of a
+trademark owner in a negative way (the right to exclude others). Article 15.4 hence, cannot be interpreted
+as preventing a Member from limiting or prohibiting the use of trademarks for the commercialization of
+goods or services based on public health, security or other reasons.” Although a WTO member cannot
+refuse the registration of marks on grounds that relate to the nature of the goods concerned, it could
+impose limitations on the use of marks in relation to such dangerous or hazardous goods. Thus, article 16:1
+
+200
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+Althaf Marsoof
+
+of TRIPs does not guarantee an explicit “right to use” a trademark, though it is possible for a WTO
+member to guarantee such a right to use over and above the minimum standards imposed by TRIPs,
+commonly known as TRIPs plus standards (TRIPs, article 1:1).
+
+WTO members are permitted to impose “limited exceptions” to trademark rights in terms of article 17
+of TRIPs, which provides that a WTO member may provide limited exceptions to the rights conferred by a
+trademark provided that such exceptions take account of the legitimate interests of the owner of the
+trademark and of third parties. Accordingly, if a country was to impose plain packaging for tobacco
+products, the measure would stand the test in article 17 only if it is (1) a limited exception (2) that takes
+account of the legitimate interests of the trademark owner and (3) those of third parties. However, in
+determining the validity of a domestic legislative measure under article 17 of TRIPs, it would be crucial to
+ﬁrst determine the meaning of the phrase “rights conferred by a trade mark” appearing in article 17 of
+TRIPs, a determination that needs to be made having regard to the trademark legislation of the country
+imposing the legislative measure limiting trademark rights.
+
+Also noteworthy is article 20 of TRIPs which provides that the use of a trademark in the course of trade
+shall not be unjustiﬁably encumbered by special requirements, such as use with another trademark, use in a
+special form or use in a manner detrimental to its capability to distinguish the goods or services of one
+undertaking from those of other undertakings. Article 20 will play an important role in determining the TRIPs
+compliance of Australia’s plain packaging regime, since it could be argued (as will be expanded later) that
+limiting tobacco trademarks to standardized text amounts to a “special requirement” imposing a “special
+form” that diminishes the mark’s capacity to distinguish. It is in this backdrop that one must scrutinize the
+Australian legislation on tobacco plain packaging. The next section of this paper will be devoted for that task.
+
+The Australian Plain Packaging Regime: Is It TRIPs Compliant?
+
+Australia’s TPP Act is described as an Act to “discourage the use of tobacco products, and for related
+purposes” (TPP Act, title page). The primary features of the TPP Act (which became fully operational
+after 1 December 2012) that affects tobacco packaging may be stated albeit brieﬂy as follows:14
+
+1. The scheme applies to all tobacco products, wherein no retail packaging could have any decorative
+elements, ridges, embossing, bulges, other irregularities in shape, or any other embellishments, as well
+as all glues or adhesives used for the manufacturing of the packaging must be colourless.
+
+2. All cigarette packs and cigarette cartons must be made of cardboard and be rectangular such that all
+
+surfaces meet at 90˚ angles, and further, the edges of the packs or cartons being rigid and straight.
+
+3. All retail packages of tobacco products must have a mat ﬁnish and be coloured drab dark brown (this
+colour code does not apply to text of the brand, business or company names or the product variant name
+and health warnings that are to be displayed mandatorily on the packages).
+
+4. No retail packaging of tobacco products are permitted to display any trademark, except that the brand,
+business, company or variant name may appear only in compliance with the prescribed form. No
+trademark could appear on the tobacco product itself.
+
+5. For example, a brand name could appear on the front outer surface of a cigarette pack horizontally
+below and in the same orientation as the health warning (there is no mention of the back outer surface
+because that in its entirety is effectively a health warning) (vide, TPP Act, section 21(3) table, item 1).
+
+The message is clear. There is simply no room for the display of any trademarks on retail tobacco
+packaging. These statutory requirements concerning the packaging of tobacco products must now be
+considered in light of articles 15, 16, 17 and 20 of TRIPs as well as the Trade Marks Act 1995 (Cth) (“TM
+Act”) which is the relevant domestic trademark legislation in Australia. Prior use or intended use of a
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+201
+
+Althaf Marsoof
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+trademark is a prerequisite for its registration in Australia (TM Act, section 27(1)(b)(ii)). However, the
+TPP Act in section 28(1)(a) provides that “[f]or the purposes of the Trade Marks Act 1995, and regulations
+made under that Act, an applicant for the registration of a trade mark in respect of tobacco products is taken
+to intend to use the trade mark in Australia in relation to those products” (emphasis added).15 Thus, to
+begin with, the TPP Act does not affect the registrability of signs that relate to tobacco products.
+Accordingly, the claims brought by Ukraine, Honduras, the Dominican Republic and Cuba under articles
+15:1 and 15:4 of TRIPs and article 6quinequies and 7 of the Paris Convention should necessarily fail, as
+those provisions deal with the registrability of trademarks, an aspect that has been left untouched by
+Australia’s tobacco plain packaging legislation.
+
+Although, Australia permits tobacco related trademarks to be registered in all its glory in the country’s
+trademark register, the measure prohibits the use of tobacco related marks in their original registered form.
+Almost all tobacco brands have registered marks that go beyond simple word marks. They involve
+colours, styles and images which combine to form a mark. The effect of the TPP Act is that all ﬁgurative
+elements of a mark are denied the luxury of being displayed. The trademarks of some of the most famous
+brands have been reduced to just plain one lined text, thus, completely taking away the ability of tobacco
+manufacturers to use their marks in relation to their own goods. Thus although tobacco companies could
+register their marks comprising the fullest detail, the use of it is limited to mere plain text.
+
+As discussed under the previous heading, trademark rights (as per article 16:1 of TRIPs) are negative
+rights, and do not require the grant of exclusive rights to use one’s mark. It has been observed that “article
+16:1 alludes to the right to exclude the use under certain conditions. It is clearly provided for as a
+negative right, and not as the right to use the trademark” (Correa, 2007, p. 186). In the more relevant context
+of tobacco plain packaging, discussing the absence of a right to use a trademark, it was observed that “[a]n
+examination of the entire matrix of provisions in the Paris Convention and the TRIPS Agreement reveals a
+coherent system of trademark registration and protection that is entirely consistent with the absence of any
+right to use a trademark” (Davison, 2012, pp. 82–3). In contrast, some have argued that the spirit of
+trademark protection is to permit the use of trademarks (Gervais, 2010, paragraphs 30, 57–66), and
+therefore a total ban on the use of trademarks contradict, not the letter, but the spirit of the international
+instruments relating to trademark protection (Kur, 1996). According to Frankel and Gervais (2013, p. 31)
+“[t]here is […] a leap in logic from saying that because article 16 frames rights as exclusive rights against
+infringement (“negative rights”), therefore trademark owners have no rights to use (“positive rights”).”
+It is noteworthy that Ukraine, Honduras, the Dominican Republic and Cuba have brought claims
+against Australia under article 16 of TRIPs, on the basis that the Australian plain packaging legislation
+prevents owners of registered tobacco marks from enjoying the “rights conferred by a trademark.” It is for
+this reason, that it is important to determine the exact nature and scope of trademark rights conferred by
+TRIPs (and in particular under article 16 therein). It is necessary to emphasise at this stage that nothing in
+the TPP Act precludes a tobacco trademark owner from exercising its right to exclude third parties from
+using its mark without its consent. Alemanno and Bonadio (2011, p. 463) observed:
+
+…the marketing restriction in question does not prevent rights owners from enforcing their
+rights against infringers, but just entails that rights holders are unable to use their own trade
+marks. It would, therefore, seem that generic packaging can be implemented without violating
+article 16(1) and thus be considered lawful.
+
+Thus, the TPP Act does not conﬂict with the negative right envisaged by article 16 of TRIPs.
+Accordingly, unless the WTO Dispute Settlement Panel, once constituted to determine the complaints
+against Australia, is willing to expansively interpret the provisions of TRIPs (and the Paris Convention) to
+include a “right to use” a trademark, the claims brought under article 16 by the complainants must
+
+202
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+Althaf Marsoof
+
+necessarily fail—as nothing in the TPP Act precludes tobacco trademark owners from exercising their
+right to exclude unauthorized third party use. In fact, Frankel and Gervais (2013, p. 39) have argued that
+“[t]he negative rights approach is too literal and it does not give proper weight to the context and object
+and purpose aspects of TRIPS…” In this setting, the question as to whether there is a speciﬁc “right to use”
+a trademark becomes crucially important.
+
+At this stage an important observation has to be made concerning the Australian context. That is,
+when Australia enacted its trademark legislation (in 1995) it guaranteed a trademark owner an exclusive
+right to use a registered trademark (TM Act, section 20(1)), in addition to providing remedies for
+infringement in terms of section 20(2) read with section 120 (the negative right envisaged by article 16 of
+TRIPs). It is unfortunate that those who argue in favour of the plain packaging law, such as Davison (2012,
+p. 92)—who comments that “[t]he primary right conferred by article 16 is a right to prevent third parties
+from using a registered trademark. This is not a right to use the trademark”—fail to appreciate this very
+simple, and perhaps obvious, point. Section 20 of the TM Act enacts that “the registered owner of the trade
+mark has […] the exclusive rights: (a) to use the trade mark; and (b) to authorise other persons to use the
+trade mark; in relation to the goods and/or services in respect of which the trade mark is registered.”
+The terms “use of a trade mark in relation to goods” has been deﬁned as “use of the trade mark upon, or in
+physical or other relation to, the goods” (TM Act, section 7). Thus, it would appear that when these
+provisions are considered together, section 20 of the TM Act entitles a registered trademark owner to use
+its mark upon, or in physical or other relation to, the goods or services for which the mark has been
+registered (Evans and Bosland, 2012).16
+
+Although the decision of the Australian High Court in JTI and BATA was on a constitutional matter—
+raising the question whether any “property” of the tobacco companies was subject to an “acquisition” in
+favour of the Commonwealth—the views expressed therein concerning the nature of trademark rights in
+Australia and the TPP Act’s impact on trademark rights are most relevant to this discussion. To begin with,
+French CJ acknowledged the fact that trademarks were a type of personal property (section 21, TM Act) in
+respect of which the registered trademark owner has an exclusive right to use and authorize others to use its
+mark (JTI and BATA, paragraph 31). Justice Gummow recognized the exclusive positive right of a
+trademark owner by stating that “…the exclusive right to use [a trademark] in respect of the goods or
+services for which there is a registration is given effect and extended by the infringement provision in s
+120” (JTI and BATA, paragraph 72) (emphasis added). Justice Haydon’s judgement, albeit dissenting
+from the majority’s view on the issue of “acquisition” of property, afﬁrmed the above proposition of
+Gummow J:
+
+The Commonwealth submitted that the intellectual property legislation gave no positive
+rights to use, only a right to exclude others. The relevant legislation is not expressed in that
+way. For example, s 20(1)(a) of the Trade Marks Act provides that the registered owner of a
+trade mark has rights “to use a trade mark.” And a right to exclude other from use is not of
+value unless the owner of the right can engage in use (JTI and BATA, paragraph 208).
+
+Moreover, the Queensland Solicitor General (with the support of the Commonwealth Solicitor
+General) made the following submission in support of the argument that it was only a right to exclude
+which constituted the “property” in a registered trademark:
+
+… the “exclusive” rights of a registered owner identiﬁed in s 20(1) of the [TM Act], to use and
+authorise use, were directed to the imposition in favour of the registered owner of a duty or
+obligation upon others, thereby restricting what otherwise was their freedom of use… (JTI and
+BATA, paragraph 76).
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+203
+
+Althaf Marsoof
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+Yet, the Queensland Solicitor General’s submission only supports the point posited by this paper, that
+a registered trademark owner is conferred, by the TM Act, a “right to use” a trademark in Australia, as
+distinct and separate from the right to prevent others from using its trademark. It is a well settled
+proposition that every “right” has a corresponding “duty” (Hohfeld, 1913, p. 30). Hohfeld (1913, pp. 31–2)
+having cited Lake Shore Co. v Kurtz (1984) where it was observed that a “…duty or a legal obligation is
+that which one ought or ought not to do. “Duty” and “right” are correlative terms. When a right is invaded,
+a duty is violated,” goes on to provide an example of a “right” and “duty” relationship:
+
+In other words, if X has a right against Y that he shall stay off the former’s land, the correlative
+(and equivalent) is that Y is under a duty toward X to stay off the place (Hohfeld, 1913, p. 32)
+(emphasis added).
+
+Accordingly, the “right” that article 16 of TRIPs stipulates is a right to exclude and can be framed in
+terms of Hohfeld’s “right” and “duty” formulation as follows—If X has a right against Y (or the rest of the
+world) that Y (or they) shall not use X’s trademark without X’s consent, the correlative is that Y is under a
+duty toward X to abstain from using X’s trademark without X’s consent. It was that duty—the duty of a
+third party to restrict the use of a registered trademark—which the Queensland Solicitor General
+recognized in his submission. Yet, that duty does not, according to Hohfeld’s analysis, translate into the
+correlative right to use one’s mark guaranteed in section 20(1) of the TM Act. Rather, it transforms into the
+right conferred under section 20(2) of the TM Act read with section 120 that guarantees a registered
+trademark owner the right to prevent third party use—the right to exclude. Therefore, it is submitted with
+respect, that the Queensland Solicitor General’s “right” and “duty” analysis is inaccurate. In fact, in the
+context of intellectual property, Smith (2007, p. 1752) observed:
+
+Rights to exclude allow use entitlements to be treated largely as Hohfeldian privileges. A
+privilege does not allow me to sue others for interference; it only means that I cannot be sued
+for exercising it. Owners may feel that their privileges to use are like “rights to use” because
+the right to exclude provides such robust protection…
+
+Thus, the right to exclude incorporated in article 16 of TRIPs gives effect to, and protects, a privilege
+that a trademark owner would usually enjoy in the use of its mark. This relationship between the right to
+exclude and the use of property was recognized in JTI and BATA by French CJ—“… rights to exclude
+others from using property have no substance if all use of the property is prohibited” (paragraph 37). Smith
+(2007, p. 1752) submits that “[w]e recognize rights to exclude because people have an interest in use, and
+the right to exclude, based as it is on a simple on/off signal of violation by boundary crossing, is a very low-
+cost way to protect these interests.” What this means is that the privilege or liberty of a property owner to
+engage in the use of his property is recognized through the right to exclude others (McCarty, 2002, p. 138;
+Ratnapala, 2009, p. 306), and therefore in the trademark context, a right to exclude third party use of a
+mark is ordinarily sufﬁcient to protect the trademark owner’s exclusivity in the use of its own mark. Yet,
+notwithstanding the sufﬁciency of providing the negative right to exclude envisaged by article 16 of
+TRIPs, section 20(1) of the TM Act expressly guarantees a “right to use.” If, as Crennan J in JTI and BATA
+(paragraph 248) stated “[t]he exclusive right to use the mark is a negative right to exclude others from
+using it,” then there would have been no necessity to expressly guarantee a “right to use” a trademark,
+when the negative right to exclude could without more guarantee the trademark owner’s interests in the
+exclusive use of its mark. Justice Kiefel cited Henry Clay & Bock Co Ltd v Eddy (1915) and Campomar
+Sociedad Limitada v Nike (2000) to point out that “the right subsisting in the owner of a trade mark is a
+negative and not a positive right” (JTI and BATA, paragraph 348). Yet, while Henry Clay was a case
+
+204
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+Althaf Marsoof
+
+decided under the New South Wales Trade Marks Act (1865) which did not have an equivalent provision to
+that of section 20(1) of the TM Act, all that was observed in Campomar Sociedad was that a trademark
+owner’s right to use was not an absolute one (Campomar Sociedad, paragraph 65).
+
+In the circumstances, this paper argues that the Australian TM Act guarantees a right to use a
+trademark as a distinct and separate right, and in addition to the right to exclude third party use. Thus, even
+if the product was tobacco, the owner of a tobacco trademark has an exclusive right to use the mark in its
+registered form upon its goods. It is quite noteworthy, that the TM Act has not been amended to create an
+exception to the right to use a mark insofar as tobacco products are concerned. Thus, on the one hand the
+TM Act explicitly guarantees a right to use one’s registered mark in relation to the goods for which the
+mark was registered, and to the contrary effect, the TPP Act completely takes away the right to use one’s
+trademark in the same form it was registered if the product concerned tobacco. The interaction between the
+TPP Act and the TM Act makes it abundantly clear that tobacco related trademark owners are robbed of
+the right to use their marks. In particular, the very fact that the TPP Act clariﬁes its effect on the various
+“use” requirements under the TM Act goes to show that the effect of the TPP Act is no doubt to preclude
+the right to use tobacco related trademarks in the original form they were registered. Thus, but for
+the clariﬁcations in section 28 of the TPP Act, there are instances where a trademark owner could even lose
+the registration of his trademark due to non-use.17 This clariﬁcation would clearly entitle an opponent to a
+non-use application to defend his registration on the basis that “…the trade mark was not used by its
+registered owner in relation to those goods and/or services during that period because of circumstances
+[…] that were an obstacle to the use of the trade mark during that period.”18 As Gummow J pointed out in
+JTI and BATA “[t]he rights mentioned in respect of registered trade marks are in substance, if not in form,
+denuded of their value and thus of their utility by the imposition of the regime under the Packaging Act…”
+(paragraph 138). The comment expanded further that registered trade marks operated “as a kind of
+shortcut to get consumers to where they want to go, and in that way perform a key function in the market
+economy. The system established by the Packaging Act is designed to give the opposite effect to trade
+mark use, namely by encouraging consumers to turn away from tobacco products” (JTI and BATA,
+paragraph 139) (quotation marks omitted). Thus, the effect of the TPP Act amounts to a “taking” of
+intellectual property rights (JTI and BATA, paragraph 141). Chief Justice French highlighted the
+distinction between “taking” and “acquisition.” Accordingly, “[t]aking involves deprivation of property
+seen from the perspective of its owner. Acquisition involves receipt of something seen from the
+perspective of the acquirer” (JTI and BATA, paragraph 42). It is also worth noting the views expressed in
+the dissenting judgement of Heydon J concerning the effect of the TPP Act. Accordingly:
+
+The effect of the impugned legislation is that … the owners of tobacco trade marks can no
+longer use them or any part of them on their cigarette packaging or their cigarettes, save to the
+extent that use of the “brand, business or company name ” permitted by s 20(3)(a) is a “word”
+mark or part of a mark. Thus each trade mark owner has lost its exclusive right to use its mark
+(JTI and BATA, paragraph 213) (emphasis added).
+
+Based on the foregoing discussion, the High Court endorsed the view that the TPP Act extinguishes
+the right of tobacco trademark owners to use their marks in the same form they have been registered, thus,
+bringing the TPP Act into direct conﬂict with the TM Act. Moreover, failing an amendment that qualiﬁes
+the “right to use” provision in the TM Act, the TPP Act would be rendered legally dysfunctional. If a
+dispute arises that concerns the conﬂicting provisions, an Australian court will have to use interpretative
+tools in reconciling the conﬂict. For instance, a court might ﬁnd that the provision guaranteeing a “right to
+use” a trademark has been impliedly repealed to the extent that it conﬂicts with the TPP Act. Of course, the
+argument of implied repeal cannot be sustained if a subsequent general law and a previous special law
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+205
+
+Althaf Marsoof
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+contain the conﬂicting provisions. This is because the rule of statutory interpretation known by the Latin
+maxim generalia specialibus non derogant19 dictates that a subsequent general law cannot repeal a
+previous special law.20 Thus, a court’s conclusion on implied repeal will depend on whether the TM Act is
+a general law while the TPP Act is of a special character. Arguably, it might be stated that trademark law
+would apply generally to all forms of marks and products, whereas a law dealing with the packaging of
+tobacco products is special, in that it applies particularly to tobacco related products and no other. Thus,
+the maxim generalia specialibus non derogant may not apply and the relevant provision in the TPP Act
+that restricts the use of trademarks in the form it is registered may have the effect of having impliedly
+repealed the right to use provision in the TM Act to the extent required to give effect to the parliamentary
+intention that is patently visible from the special tobacco packaging legislation. Yet, even if the conﬂict
+between the two provisions is reconciled at a domestic level in this manner it is important to consider its
+impact under WTO law.
+
+This requires an investigation of the nature of “rights and obligations” under TRIPs. The Appellate
+Body of the WTO in Japan—Taxes on Alcoholic Beverages observed that “[t]he WTO Agreement is a
+treaty—the international equivalent of a contract” (p. 15). A contract gives rise to rights and obligations,
+and so does an international treaty. Discussing the meaning of “rights and obligations” in WTO law, it has
+been suggested that “…a right is a claim accompanied by the ability to enforce that claim [and its] jural
+correlative is an obligation” (Carmody, 2010). The second sentence of article 1:1 of TRIPs provides that
+“Members may, but shall not be obliged to, implement in their law more extensive protection than is
+required by this Agreement…” (emphasis added) which enables WTO members to provide more
+extensive protection than what
+is required under TRIPs. In EC—Protection of Trademarks and
+Geographical Indications a WTO Dispute Settlement Panel observed:
+
+Even if the TRIPS Agreement does not expressly provide for a “right to use a trademark” …
+[t]he right to use a trademark is a right that Members may provide under national law
+(paragraph 7.611).
+
+It cannot be doubted that when the Australian TM Act was enacted it had as one of its goals the
+bringing into conformity its domestic intellectual property laws with TRIPs.21 Thus, by providing a right
+to use a trademark when all that was required was to guarantee the negative right under article 16:1 of
+TRIPs, Australia intended in providing more extensive protection. In fact, the WTO Panel in EC—
+Protection of Trademarks and Geographical Indications (at footnote 557) cited section 20(1) of the
+Australian TM Act as an example where a “right to use” a trademark has been expressly guaranteed under
+national law, further evidencing the distinct and separate nature of that positive right. Since the
+guaranteeing of a right gives rise to a corresponding obligation, once Australia had guaranteed a right to
+use a mark, it also gives rise to a corresponding obligation to guarantee such right to all its trading partners,
+thus becoming a collective obligation (Carmody, 2008; Gazzini, 2006). Yet, it must be remembered that
+TRIPs imposes only minimum obligations. As Correa (2007, p. 24) comments “[t]he second sentence of
+article 1.1 clariﬁes that the provisions contained in the Agreement constitute minimum standards of
+protection, and the extent of the Members’ basic obligation to give effect to the provisions of the
+Agreement” (citations omitted). More importantly, Gervais (2008, p. 164) in his comment under article
+1:1 of TRIPs conﬁrms that “Member countries may go beyond TRIPS, which thus sets minimum
+standards. In fact, earlier drafts, including that of Japan and informal drafts in circulation before the
+Brussels meeting, stated unambiguously that the Agreement contained minimum obligations” (quotation
+marks omitted). Thus, it would seem that a WTO member would not violate the provisions of TRIPs, so
+long as it does not implement domestic legislation below these minimum TRIPs standards. Does this
+mean, however, that a member that had granted more extensive protection could at its sole discretion limit
+
+206
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+Althaf Marsoof
+
+such excess protection? If the answer is in the afﬁrmative, so long as a member does not violate any
+minimum standard, any excess obligation (TRIPs plus protection) could be limited or withdrawn, and such
+an act cannot be challenged under any provision of TRIPs. However, this paper argues the opposite. Where
+a WTO member has willingly provided more extensive protection, such excess protection cannot be
+limited unless it is in accordance with the TRIPs. Thus, any limitation to a right that is in excess of the
+minimum standards must still conform to the requirements in article 17 of TRIPs that permits exceptions.
+This is because article 17 of TRIPs permits WTO members to provide limited exceptions to “rights
+conferred by a trade mark.” Contrary to what Voon and Mitchell (2012, p. 116) have argued—claiming
+that article 17 applies only to the negative rights required to be guaranteed by article 16 of TRIPs—this
+paper argues that the meaning of “rights conferred by a trade mark” appearing in article 17 extends to any
+additional right a WTO member might have agreed to guarantee pursuant to article 1:1.
+
+Thus, in the Australian context, it is argued that “rights conferred by a trade mark” include the right
+guaranteed in terms of article 16 (that is, the negative right) as well as the additional right guaranteeing the
+exclusive right to use a trademark (the positive right). Accordingly, in evaluating the TRIPs compatibility
+of the Australian TPP Act it would be necessary to take account of the positive right to use a registered
+trademark guaranteed under the TM Act. It is in this footing that the TPP Act’s compatibility with article
+17 of TRIPs must be assessed, in particular in view of Honduras’s claim that the tobacco plain packaging
+legislation does not comply with that provision of TRIPs.
+
+Limited Exceptions to “Rights Conferred by a Trade Mark”—Article 17, TRIPs
+Article 17 affords WTO members the opportunity of imposing exceptions to trademark rights provided
+they are (1) limited exceptions (2) that take account of the legitimate interests of the trademark owner (3)
+and those of third parties. Is the plain packaging law a “limited exception”?
+
+In interpreting the term “limited exception” in light of article 30 of TRIPs, a WTO Panel in Canada—
+Patent Protection on Pharmaceutical Products observed that “[t]he term “limited exception” must […] be
+read to connote a narrow exception - one which makes only a small diminution of the rights in question”
+(paragraphs 7.30–31). The Panel further observed in light of exceptions to patent rights that “[t]o
+determine whether a particular exception constitutes a limited exception, the extent to which the patent
+owner’s rights have been curtailed must be measured” (paragraph 7.32). Adopting this approach the WTO
+Panel in EC—Protection of Trademarks and Geographical Indications construed the meaning of “limited
+exception” in the context of trademark rights. Accordingly it was observed that “[t]he limited exceptions
+apply to the rights conferred by a trademark. They do not apply to the set of all trademarks or all trademark
+owners. Accordingly, the fact that it may affect only few trademarks or few trademark owners is irrelevant
+to the question whether an exception is limited. The issue is whether the exception to the rights conferred
+by a trademark is narrow” (paragraph 7.650) (quotation marks omitted). The WTO Panel’s observation
+that “[t]here is only one right conferred by a trademark at issue in this dispute, namely the exclusive right
+to prevent certain uses of a sign, provided for in article 16.1” (paragraph 7.651) is evidence that the Panel
+was only concerned with the “negative rights” guaranteed to trademark owners. And in that context the
+Panel observed the trademark owner’s “right to prevent” others from using a registered mark could be
+limited in several ways.
+
+An exception may curtail the right in its application to the third parties concerned (EC—Protection of
+Trademarks and Geographical Indications, paragraph 7.653). Thus, an exception might be limited if not
+all third parties could use a registered mark, but only a certain category was permitted to do so. Secondly,
+limitations could be imposed as regards the degree of similarity between the marks or the goods/services
+and thirdly, the degree of the likelihood of confusion that the third party’s usage might create. The
+illustration provided in article 17 of TRIPs concerning the descriptive use of signs demonstrates this
+limitation, in that a sign which is identical to a registered trademark could be used for purely descriptive
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+207
+
+Althaf Marsoof
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+purposes even though it might create a certain degree of confusion (EC—Protection of Trademarks and
+Geographical Indications, paragraph 7.654).
+
+In considering the Australian TPP Act, the Act does not permit or in any way authorize a third party
+(without the consent of the trademark owner) to use a registered tobacco mark. Therefore, and as pointed
+out earlier, it could be stated with conﬁdence that the negative right conferred to trademark owners is in no
+way circumscribed by the TPP Act. In this regard, Alemanno and Bonadio (2011, p. 462) submitted:
+
+It is undisputed that plain packaging does not allow third parties to (mis)use tobacco majors’
+trade marks, but it is merely a restriction on right owners’ ability to use their own trade marks.
+Under such circumstances, it can be argued that the curtailment of the exclusive trade marks
+rights is “limited” and there is no violation of TRIPS Article 17.
+
+However, it must be remembered that the Australian TM Act clearly guarantees a “right to use” one’s
+mark (in addition to the negative rights to exclude use by others), and therefore in the Australian context
+“rights conferred by a trademark” include a “right to use” a registered mark. As such, the analysis under
+article 17 must be carried out to assess the TPP Act’s impact on the right to use, and only if the effect could
+be justiﬁed as a limited exception that it would be legitimate under TRIPs.
+
+Accordingly, the “limited exception” analysis must be repeated in relation to the limitation imposed
+on this positive trademark right. There is comparatively little scholarship discussing the “right to use” a
+trademark (Callmann, 1961; Kur, 1996).22 The right to use provision in the Australian TM Act permits
+owners to use their marks “upon, or in physical or other relation to” the goods. This would include use of
+the mark on the product itself, on packaging (physical relation) or in advertisements, memos and other
+documents concerning the goods and used in the course of trade (other relation). Thus, it would be
+necessary to assess as to what form of use is prohibited in relation to tobacco related goods, and determine
+if the prohibition could be regarded as a “limited exception.” In this regard it is important to note that
+the TPP Act does not prohibit all forms of use of a trademark. It only prohibits the use of trademarks on all
+forms of retail tobacco packaging (Evans and Bosland, 2012).23 However, it must be noted that retail
+packaging and the information contained therein are crucial in reaching consumers, and it might be argued
+that although the type of prohibition is limited to only retail packaging, the prohibitive measure would not
+qualify as a “limited exception.” In fact, Heydon J’s observation in JTI and BATA that “… in reality the
+area for the most valuable use of the marks is removed: connection with retail consumers as they purchase
+and use tobacco products” (paragraph 214) casts doubts on whether the Australian plain packaging
+legislation creates a “limited exception” to trademark rights.
+
+Even assuming that the Australian measure amounts to a “limited exception,” the analysis under
+article 17 has to go further and consider whether the TPP Act has “taken account of the legitimate interests
+of the owner of the trademark and of third parties” (TRIPs, proviso to article 17). Legitimate interests do
+not share the same breed as rights, but are of a lesser standard (EC—Protection of Trademarks and
+Geographical Indications, paragraph 7.662). A legitimate interest has been deﬁned by a WTO Panel as
+“…a normative claim calling for protection of interests that are ‘justiﬁable’ in the sense that they are
+supported by relevant public policies or other social norms” (Canada—Patent Protection on
+Pharmaceutical Products, paragraph 7.69). The Panel
+in EC—Protection of Trademarks and
+Geographical Indications observed:
+
+Every trademark owner has a legitimate interest in preserving the distinctiveness […] of its
+trademark… This includes its interest in using its own trademark in connection with the
+relevant goods and services of its own and authorized undertakings (paragraph 7.664)
+(emphasis added).
+
+208
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+Althaf Marsoof
+
+The right to use one’s mark in relation to the goods for which it was registered has been recognized as
+a legitimate interest. Given that in Australia, the right to use a mark has been expressly guaranteed, one
+cannot dispute that this would form a strong right, if not at least a legitimate interest, that a trademark
+owner could beneﬁt from. Of course, not only the legitimate interests of trademark owners, but also those
+of third parties must be taken account of in debating the legitimacy of an exception. The Panel in EC—
+Protection of Trademarks and Geographical Indications provided some useful hints as to who would
+comprise the category of “third parties.” Accordingly, the Panel seconded the disputants’ consensus that
+“third parties” for the purposes of article 17 include consumers (EC—Protection of Trademarks and
+Geographical Indications, paragraph 7.676). In fact, the very purpose of trademarks is to perform the
+function of an indicator of trade origin and is crucial in eliminating consumer confusion. Thus, consumers
+would no doubt form an important third party. And in this regard it must be observed that the inability to
+display trademarks on the retail packaging of tobacco products has the potential of contributing towards
+consumer confusion, or to at least its lesser evil, initial interest confusion.24 This would however depend
+on the manner in which tobacco products are sold. For instance, in Queensland, Australia, tobacco
+products can be kept only at a single point of sale in a retail store, on the seller’s side and hidden from the
+public. Only a limited area of 1 m2 of the range of tobacco products could be made visible to the consumer
+(known as “ﬂeeting incidental view”) to the extent sufﬁcient to carry out activities in the ordinary course of
+the supplier’s business.25 In such circumstances it is hard to imagine that a hard-core smoker would get
+confused as to the product he desires. It would be a matter of requesting the relevant brand from the seller
+and being provided with it. However, in the case of a new entrant to the smoking habit, such requirements
+regulating over-the-counter sales, coupled with the lack of any trademarks being displayed on the
+package, would render the purchasing decision more difﬁcult. This is probably the aim of the plain
+packaging regime, and therefore those who are new to smoking, or those who have not yet been overcome
+by the smoking habit, are relevant third parties whose legitimate interests are kept in mind by a
+government implementing a plain packaging regime. Whether Australia’s plain packaging regime
+complies with article 17 of TRIPs would have to be tested weighing all legitimate interests concerned.
+Since a trademark owner’s legitimate interest to preserve the distinctiveness of its trademark, which could
+only be achieved through the use of such trademark in relation to goods or services, has been already
+effectively recognized by a WTO Dispute Settlement Panel, that legitimate interest would no doubt carry
+signiﬁcant weight in assessing the legitimacy of Australia’s tobacco plain packaging law. Yet, given that
+only Honduras has framed a claim under article 17 of TRIPs, unless the other complaining WTO members
+amend their complaints to reﬂect a challenge of Australia’s plain packaging law under article 17, the
+success of their complaints would be signiﬁcantly undermined.
+
+Unjustified Encumbrances by the Imposition of Special Requirements—Article 20, TRIPs
+The complaints against Australia in the WTO challenge the validity of the tobacco plain packaging
+legislation under article 20 of TRIPs. In terms of article 20, the use of a mark in the course of trade cannot
+be unjustiﬁably encumbered by the imposition of “special requirements,” such as “use in a special form or
+use in a manner detrimental to its capability to distinguish…” Thus, the analysis must begin by
+considering whether plain packaging imposes “special requirements” that require trademarks to be used in
+a special form leading to a diminished capacity to perform the function of indicating trade origin. It has
+been suggested that “…plain packaging […] requires the brand name to be used “in a special form,” that is,
+such name should (i) be written in a standard form, (ii) be of a particular font and (iii) have letters of a
+speciﬁed size, which would conﬁrm that this marketing restriction falls within the scope of article 20”
+(Alemanno and Bonadio, 2011, p. 464). Thus, the next concern would be whether the measure is an
+“unjustiﬁable” encumbrance. In this regard, a weighing of relevant public interests must be carried out.
+Plain packaging is no doubt aimed at reducing smoking in order to improve the quality of health, and
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+209
+
+Althaf Marsoof
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+article 20 must be viewed in light of article 8 of TRIPs (Mitchell, 2010, p. 413) which provides inter alia
+that “Members may, in formulating or amending their laws and regulations, adopt measures necessary to
+protect public health and nutrition …provided that such measures are consistent with the provisions of
+this Agreement.” Also important in this regard is the WTO’s Declaration on the TRIPs and Public Health
+(adopted in Doha in the year 2001) (“Doha Declaration”) that provides:
+
+We agree that the TRIPS Agreement does not and should not prevent members from taking
+measures to protect public health. Accordingly, while reiterating our commitment to the
+TRIPS Agreement, we afﬁrm that the Agreement can and should be interpreted and
+implemented in a manner supportive of WTO members’ right to protect public health…
+(paragraph 4).
+
+Yet, while article 8 of TRIPs contains an important proviso that any public health related measure
+must be consistent with the other provisions of TRIPs, the Doha Declaration is only a declaration and does
+not by any means amend the provisions of TRIPs (Gervais, 2010, paragraph 52). Moreover, the right of
+governments to protect its citizens’ health must be contrasted with the consequence of plain packaging in
+increasing the risk of consumer confusion, another public interest that is just as important as protecting
+health (Alemanno and Bonadio, 2011, p. 464).
+
+An argument has been made regarding the scope of article 20 to the effect that it only “outlaws just
+positive encumbrances on the use of trade marks (e.g. an obligation on foreign owners to use their trade
+marks together with the signs of local licensees), but not those requirements restricting or prohibiting the
+use of the sign” (Alemanno and Bonadio, 2011, p. 465).26 This argument seems to be predicated on an
+overall interpretation of articles 20 and 16—that these provisions cannot be interpreted as creating a
+positive right to use a trademark. However, the point must be made that the Australian context cannot be
+considered without taking account of the express positive right to use a mark that the TM Act creates.
+Thus, the argument that article 20 could only outlaw positive encumbrances could only be sustained, if at
+all, when a WTO member has guaranteed only the negative right envisaged by article 16 of TRIPs.
+Moreover, nothing in the plain textual reading of article 20 justiﬁes restricting its scope to only
+positive restrictions on the use of marks. In any case, what the TPP Act really does is not to completely ban
+the use of trademarks, but to impose special standards concerning the use of trademarks on tobacco
+products and their retail packaging—at least as regards tobacco trademarks that comprise of letters, words
+or numbers.
+
+This leads to an important consideration concerning tobacco marks that may comprise of only
+ﬁgurative elements and combinations of colours (without containing any letters, words or numbers). It
+cannot be disputed that a simple ﬁgurative sign could become distinctive to indicate the origin of a
+product. Such marks, however, cannot be translated to form a “brand name” that could be legitimately
+displayed under the TPP Act. In relation to such tobacco marks the operation of the TPP Act would have
+the most restrictive consequences leading to a complete prohibition on the use of the mark in its registered
+form. It appears from the judgement of Crennan J in JTI and BATA that the Court was inﬂuenced by the
+translatability of the plaintiffs’ registered tobacco marks into permitted “brand names” under the plain
+packaging regime. As it was observed “[t]he complaint that the plaintiffs were deprived of the “substance”
+and “reality” of their proprietorship in their property because they could not use their registered trade
+marks as registered, or their associated product get-up, left out of account the signiﬁcance of their ability to
+continue to use their brand names so as to distinguish their tobacco products, thereby continuing to
+generate custom and goodwill” (JTI and BATA, paragraph 294). This indicates that the effect of the TPP
+Act for tobacco marks would depend on the nature of marks. The closer the mark is to a letter, word or
+number, the lesser the impact. The closer it is to a picture, more restraint is felt by the operation of the TPP
+
+210
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+Althaf Marsoof
+
+Act. This, arguably, might give rise to discriminatory consequences, which in general the WTO strives to
+eliminate.
+
+Accordingly, at least in the context of Australia, there is a strong case that article 20 should apply to
+determine the legality of its plain packaging legislation, and that the requirements imposed by the TPP Act
+prohibiting the use of marks on tobacco products and retail packaging in the same form they are registered,
+amounts to a special requirement that requires trademarks to be used in a special form which encumbers
+their capability to distinguish. Thus, the only question remaining would be whether such encumbrance is
+justiﬁable, which is to be determined on the weight each public policy consideration carries, and more
+importantly, whether less restrictive alternatives are available that carries out the public health objectives
+of plain packaging.
+
+A Possible Compromise
+
+In order to propose a compromise it is necessary to assess (1) the objectives of the plain packaging law and
+(2) the functions of a trademark. A compromise would be reached if tobacco trademarks are able to
+properly function while enabling an interested government to achieve the goals of plain packaging.
+Section 3 of the TPP Act sets out its objectives and they aim to:
+
+a. discourage people from taking up smoking, or using tobacco products,
+b. encourage people to give up smoking, and to stop using tobacco products,
+c. discourage people who have given up smoking, or who have stopped using tobacco products, from
+
+relapsing, and
+
+d. reduce people’s exposure to smoke from tobacco products (TPP Act, section 3(1)).
+
+The TPP Act proposes to achieve these objectives by reducing the appeal of tobacco products to
+consumers, increasing the effectiveness of health warnings on the retail packaging of tobacco products and
+reducing the ability of the retail packaging of tobacco products to mislead consumers about the harmful
+effects of smoking or using tobacco products (TPP Act, section 3(2)).
+
+It is then necessary to identify the functions of a trademark. It is suggested that the primary function of
+a trademark is “…to identify the origin or ownership of the goods to which it is afﬁxed” afﬁxed” (Hanover
+Star Milling Co. v Metcalf). The Australian context too shares this view and suggests that “… although
+trade marks may convey a range of messages and meanings, it is their function as an indication of trade
+source that remains central” (Burrell and Handler, 2010, p. 2). Irrespective of whether the actual origin is
+known, a consumer understands a trademark as an indication of trade origin, and expects the products
+associated with a particular trademark to maintain certain qualities to which consumer relates at the time
+of purchase. By guaranteeing the source and quality of a product, a trademark signiﬁcantly reduces
+consumer search costs (Dogan and Lemley, 2004, p. 806). Therefore, it is clear that the most crucial
+function of trademarks relate to the time of purchase, and not after. Any compromise between tobacco
+companies and governments will have to be reached having regard to these basic ideas.
+
+A possible technique that may be employed, if it stands the test of pragmatism, is to permit the use of
+tobacco trademarks in the same form they have been registered (even in a limited and conﬁned space on
+the packaging) but to compel, by legislation, the tobacco seller to remove the mark from the packaging
+immediately after the time of sale. This could be made possible by permitting the use of removable marks,
+such as in a sticker which could be removed without causing damage to the remaining components of the
+packaging. Health warnings could be printed on all sides of the tobacco packaging, except that until a retail
+sale is made, a removable trademark will be placed on one side of the packaging to enable consumers to
+identify the product. Thus, prior to and at the time of sale, the mark would be intact on the packaging, but
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+211
+
+Althaf Marsoof
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+not after. The moment the seller removes the trademark, it will uncover the remainder of the health
+warnings, thus leaving the consumer with nothing but a package of health warnings and graphic images. In
+effect, the trademark would comprise a removable sticker. This is not only in line with the ﬁrst sale
+doctrine27 and might be a useful compromise to preserve the interests of the tobacco trademark owners,
+but also totally eliminates the after sale promotional effect of tobacco trademarks.
+
+Would such an arrangement be regarded as a legitimate measure under article 17 of TRIPs? This
+measure does not prevent a tobacco trademark owner from preventing any third party from applying its
+mark on third party goods. It in fact permits a tobacco trademark owner to use its mark in relation to its
+products, until the time of sale. Trademark rights, arguably, do not extend beyond the time of sale, as the
+entire basis of trademark protection is to alleviate consumer confusion at the time of sale. Thus, once the
+goods are consumed, there is no necessity to grant further trademark protection. Accordingly, the use of a
+removable sticker as a tobacco trademark would not detract from the legitimate interests of the trademark
+owner, which include the interest of preserving a mark’s distinctiveness through its use in relation to goods
+or services, in particular at the time of sale. The legitimate interests of the government are protected, as
+immediately after a sale, the sticker comprising the tobacco mark is removed from the packaging, leaving
+a greater percentage of health warnings to be displayed than that is capable under the current TPP Act.
+Given the complete eradication of the after sales promotional capacity of tobacco packaging, the
+legitimate interests of the public (in particular, the interests of those who remain non-smokers), are also
+met.
+
+Of course, some jurisdictions (in particular, the United States) recognize the doctrine of “post-sale
+confusion,” signiﬁcantly extending the scope of trademark protection to circumstances beyond the time of
+sale (McCarthy, 1999, p. 3338). Any tobacco plain packaging legislation would no doubt affect the ability
+of trademarks to eliminate post-sale confusion. Yet, in achieving the balance between the interests of
+tobacco trademark owners and the interests of public health, the existence of post-sale confusion is a
+phenomenon that might be tolerated and preferred over the post-sale promotional impact tobacco
+packages otherwise stand to have on the public. In the circumstances, cost and technology permitting, a
+removable trademark might be an effective compromise between the competing rights and interests of all
+concerned parties.
+
+Conclusion: Lessons From the Australian Experience
+
+The analysis concerning the compatibility of the Australian TPP Act with some of the core provisions of
+TRIPs is relevant for countries that might adopt a similar plain packaging scheme in future. It can be safely
+said that the TPP Act neither conﬂicts with any of the provisions in TRIPs or the Paris Convention that
+relate to the registration of marks, nor with article 16 of TRIPs that guarantees that every trademark owner
+has a right to exclude third parties from using a registered trademark without the trademark owner’s
+consent. This is because nothing in the TPP Act seeks to proscribe (1) the ability of tobacco companies to
+register their tobacco trademarks in Australia’s trademarks register, and (2) the right of tobacco trademark
+owners to prevent third parties from using their marks without the necessary authorization.
+
+However, in the case of Australia, it has expressly guaranteed a registered trademark owner the
+exclusive right to use its mark in terms of section 20(1) of the TM Act. This is in addition to the right to
+exclude, guaranteed under section 20(2) read with section 120 of the TM Act (that gives effect to article 16
+of TRIPs). Similarly, trademark legislation in countries such as China28 Singapore,29 Indonesia,30 India31
+and Sri Lanka32 all guarantee “a right to use” a trademark in addition to the right to exclude. This must be
+contrasted with the European Union Trade Marks Directive33 which has been transposed into the
+domestic laws of European Union member states such as the UK,34 which only provides the negative right
+to exclude. This distinction is important, as once a right to use a trademark has been expressly guaranteed
+
+212
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+Althaf Marsoof
+
+under a WTO member’s domestic law (as in the case of Australia), it gives rise to a corresponding
+obligation under WTO law to keep that right alive. Any measure, legislative or otherwise, that interferes
+with trademark rights—which in Australia’s case includes both a right to use and exclude—would only be
+justiﬁed if it does not contravene the provisions of TRIPs, especially articles 17 and 20. Even assuming
+that at a domestic level, courts ﬁnd that the right to use provision in the TM Act has been impliedly
+repealed by the TPP Act, Australia may still be found guilty of breaching its obligations under the TRIPs,
+unless the limitation of such “TRIPs plus” right complies with the TRIPs framework.
+
+To date, many countries, including the UK, Egypt, Singapore, India and a majority of the Latin
+American countries, have regulated the retail marketing of tobacco products by requiring a signiﬁcant
+portion of the pack to display health warnings (at least 30%), yet permitting trademarks to be displayed.
+Uruguay has required 80% of the pack to display health warnings (which measure has been challenged in
+the ICSID). Sri Lanka, through its Tobacco Products (Labelling and Packing) Regulation 2012 (2012),
+has been the latest country to implement regulation requiring at least 80% of tobacco packs to contain
+graphic health warnings. It might be worth considering whether such an approach is more desirable (over
+plain packaging) as it least interferes with trademark rights, but at the same time conveys a powerful
+message about the ill consequences of smoking. It has been observed that “[t]he use of graphic pictures is
+an important means of replacing those positive associations with negative associations, which is far more
+appropriate given the devastating impact of tobacco products on global health” (Fong et al., 2009).
+Alternatively, this paper proposes a removable trademark to be employed. This would require a tobacco
+retailer to remove the tobacco trademark immediately after the sale of a tobacco pack to a consumer,
+leaving behind on the packaging only health warnings. This way, a measure aimed at protecting public
+health would be considered reasonable, which carries out a government’s obligation towards its citizens in
+a way that it least interferers with trademark rights.
+
+About the Author
+Althaf Marsoof holds a Bachelor of Science degree in Information Technology from the Curtin
+University of Technology, Australia and a Master of Law degree in Commercial Law from Cambridge
+University, UK. Having been admitted as an Attorney-at-Law of the Supreme Court of Sri Lanka in 2007,
+he currently serves as a State Counsel attached to the Attorney General’s Department of Sri Lanka. He has
+currently obtained leave from work to pursue the Research Higher Degree program at the University of
+Queensland, Australia; e-mail: althaf.marsoof@gmail.com.
+
+Notes
+
+1. See, written submission of JT International SA (ﬁled on 28 March 2012) and the written submission of British
+
+American Tobacco Australia Ltd (ﬁled on 26 March 2012).
+
+2. Australia—Certain Measures Concerning Trademarks and Other Plain Packaging Requirements Applicable to
+
+Tobacco Products and Packaging (complaint by Ukraine).
+
+3. Australia—Certain Measures Concerning Trademarks, Geographical Indications and Other Plain Packaging
+
+Requirements Applicable to Tobacco Products and Packaging (complaint by Honduras).
+
+4. Australia—Certain Measures Concerning Trademarks, Geographical Indications and Other Plain Packaging
+
+Requirements Applicable to Tobacco Products and Packaging (complaint by Dominican Republic).
+
+5. Australia—Certain Measures Concerning Trademarks, Geographical Indications and Other Plain Packaging
+
+Requirements Applicable to Tobacco Products and Packaging (complaint by Cuba).
+
+6. ABC-News (2012a).
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+213
+
+Althaf Marsoof
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+7. ABC-News (2012b).
+8. ABC-News (2012c). See also, Grills and Mattoo (2012).
+9. This table has been complied using information derived from documents made available in the WTO website.
+
+10. Request for the Establishment of a Panel by Honduras WT/DS435/16 (17 October 2012).
+11. See WTO website for accession status of Bhutan http://www.wto.org/english/thewto_e/acc_e/a1_bhoutan_e.htm
+
+viewed 14 November 2012.
+
+12. Philip Morris v Uruguay.
+history,
+13. For
+
+procedural
+
+pe¼CasesRH&reqFrom¼ListCases&caseId¼C1000&actionVal¼viewCase viewed 14 November 2012.
+
+ICSID websitehttps://icsid.worldbank.org/ICSID/FrontServlet?requestTy-
+
+see
+
+14. Packaging requirements are found in Part 2 of the TPP Act.
+15. It must be noted that the rest of section 28 of the TPP Act aims to clarify the position that the lack of use of tobacco
+trademarks as a result of the TPP Act would be taken into account in relation to the implications of non-use under
+the relevant provisions of the TM Act.
+
+16. Evans and Bosland argue that the Australian trademark regime guarantees a trademark owner the “right to use” its
+
+registered mark.
+
+17. See, e.g., section 28(4) of the TPP Act read with sections 92(4)(b) and 100(1)(c) of the TM Act.
+18. TM Act, section 100(3)(c). This provision (along with the clariﬁcations in the TPP Act) is required to comply with
+article 19 of TRIPs which in its last sentence provides that “[c]ircumstances arising independently of the will of
+the owner of the trademark which constitute an obstacle to the use of the trademark, such as import restrictions on
+or other government requirements for goods or services protected by the trademark, shall be recognized as valid
+reasons for non-use.”
+
+19. The principle is summarised in Halsbury’s Laws of England (4th ed., vol 44, no 1) at paragraph 1,300 as follows: “It
+is difﬁcult to imply a repeal where the earlier enactment is particular, and the later general. In such a case the maxim
+generalia specialibus non derogant (general things do not derogate from special things) applies. If Parliament has
+considered all the circumstances of, and made special provision for, a particular case, the presumption is that a
+subsequent enactment of a purely general character would not have been intended to interfere with that provision;
+and therefore, if such an enactment, although inconsistent in substance, is capable of reasonable and sensible
+application without extending to the case in question, it is prima facie to be construed as not so extending.”
+
+20. Applied in Hoger v Gibson; Ex parte Hoger.
+21. As seen from the TM Act (in its title page) one of its purposes was to bring Australia’s domestic trademark law in
+conformity “…with the minimum standards and principles prescribed for trade marks in the Agreement
+Establishing the World Trade Organization.”
+
+22. Callmann (1961) comments that “[i]t would seem, therefore, that the necessary concomitant of the right to use
+
+should be the right to exclude others from such use” (p. 1210).
+
+23. Trademarks can still be used in the context of wholesale as well as in documents such as invoices.
+24. This is a concept unique to the United States; where courts ﬁnd trademark infringement in situations where the
+consumer is only confused initially but not at the time of purchase. See e.g., cases such as Mobil Oil Corp. v
+Pegasus Petroleum Corp and Brookﬁeld Communications Inc. v West Coast Entertainment Corporation.
+
+25. See e.g., Queensland Health website.http://www.health.qld.gov.au/tobaccolaws/documents/reqs_retailers.pdf
+
+viewed 14 November 2012.
+
+26. Alemanno and Bonadio cite footnote 558 in p.136 of the Panel report in EC—Protection of Trademarks and
+
+Geographical Indications in support of their view).
+
+27. This is also known as the rule of exhaustion of trademark rights. See, Sebastian Int’l v Longs Drug Stores Corp.
+(“[C]ourts have recognized a basic limitation on the right of a trademark owner […] to control the distribution of
+its own products. … [T]he right of a [trademark owner] to control distribution of its trademarked product does not
+extend beyond the ﬁrst sale of the product” (emphasis added)). Thus, this doctrine allows a retailer to remove a
+stickered trademark immediately after the sale of a tobacco product to a consumer.
+
+214
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+Althaf Marsoof
+
+28. Trademark Law 1982, article 52.
+29. Trade Marks Act (1998), section 26.
+30. Trademark Law (1997) (as amended in 2001), article 3.
+31. Trade Marks Act 1999, section 28.
+32. Intellectual Property Act 2003, section 121(1).
+33. European Union Trade Marks Directive (Directive 2008/95/EC), article 5(1).
+34. Trade Marks Act (1994), section 9.
+
+References
+
+ABC1. (2012) Court Clears Plain Packaging for Cigarettes, 7:30 broadcast dated 15.8.2012 [online]. Available at
+
+<http://www.abc.net.au/7.30/content/2012/s3568775.htm> [Accessed February 20, 2013].
+
+ABC-News. (2012a) Australia Inspires UK on Cigarette Plain Packaging, broadcast dated 14.4.2012 [online].
+Available at <http://www.abc.net.au/news/2012-04-14/australia-inspires-uk-to-seek-cigarette-plain-packag-
+ing/3950160> [Accessed February, 20 2013].
+
+ABC-News. (2012b) Tobacco Giant Rallies Against NZ Plain Packaging, broadcast dated 22.8.2012 [online].
+Available at <http://www.abc.net.au/news/2012-08-22/nz-cigarettes/4215880> [Accessed February 20, 2013].
+ABC-News. (2012c) Will Plain Cigarette Packaging Make it in Asia?, broadcast dated 19.8.2012 [online]. Available
+at <http://www.abc.net.au/news/2012-08-18/will-plain-cigarette-packaging-make-it-in-asia/4208232> [Ac-
+cessed February 20, 2013].
+
+Agreement between the Government of Australia and the Government of Hong Kong for the promotion and Protection
+
+of Investments 1993.
+
+Agreement between the Swiss Confederation and the Oriental Republic of Uruguay on the Reciprocal Promotion and
+
+Protection of Investments 1988.
+
+Agreement on the Trade Related aspects of Intellectual Property Rights 1994 (TRIPs).
+Alemanno, A. and Bonadio, E. (2011) ‘Do you mind my Smoking? Plain packaging of cigarettes under the TRIPS
+
+Agreement’, The John Marshall Review of Intellectual Property Law, 10(3), 450–75.
+
+Australia—Certain Measures Concerning Trademarks and Other Plain Packaging Requirements Applicable to
+
+Tobacco Products and Packaging (complaint by Ukraine) WT/DS434.
+
+Australia—Certain Measures Concerning Trademarks, Geographical Indications and Other Plain Packaging
+
+Requirements Applicable to Tobacco Products and Packaging (complaint by Honduras) WT/DS435.
+
+Australia—Certain Measures Concerning Trademarks, Geographical Indications and Other Plain Packaging
+Requirements Applicable to Tobacco Products and Packaging (complaint by the Dominican Republic) WT/
+DS441.
+
+Australia—Certain Measures Concerning Trademarks, Geographical Indications and Other Plain Packaging
+
+Requirements Applicable to Tobacco Products and Packaging (complaint by Cuba) WT/DS458.
+
+Bana, A. and Olmedo, J.G. (2010) Smoke in Signs: A Trendsetting Tussle Between Tobacco Trademarks, Treaties and
+IBA Convergence [online]. Available at <http://www.ibanet.org/Publications/
+
+Public Health Policy,
+Convergence/Bana.aspx> [Accessed February 20, 2013].
+
+Berne Convention for the Protection of Literary and Artistic Works of 1886 (as revised).
+Brookﬁeld Communications Inc. v West Coast Entertainment Corporation 50 U.S.P.Q.2d 1545.
+Burrell, R. and Handler, M. (2010) Australian Trade Mark Law. Oxford University Press, Melbourne.
+Callmann, R. (1961) ‘Trademarks: The Right to Use vs. The Right to Register: The Dunhill Case’, Trademark
+
+Representative, 10(3), 1209–15.
+
+Campomar Sociedad Limited v Nike International Limited [2000] HCA 12.
+Canada—Patent Protection on Pharmaceutical Products (complaint by the European Communities) (WT/DS114/R).
+Carmody, C. (2008) ‘A theory of WTO law’, Journal of International Economic Law, 11(3), 527–58.
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+215
+
+Althaf Marsoof
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+Carmody, C. (2010) Rights and Obligations in WTO Law, WTO Scholars’ Forum dated 21.10.2010 [online] Available
+at <http://www.ucl.ac.uk/laws/wto-forum/docs/Rights-and-ObligationsWTO-Law.pdf> viewed 14 November
+2012 [Accessed February 20, 2013].
+
+Commonwealth of Australia Constitution Act (The Australian Constitution).
+Correa, C.M. (2007) Trade Related Aspects of Intellectual Property Rights: A Commentary on the TRIPS Agreement.
+
+Oxford University Press, Oxford.
+
+Davison, M. (2012) ‘The legitimacy of plain packaging under international intellectual property law: why there is no
+right to use a trademark under either the Paris Convention or the TRIPS Agreement’, in A. Mitchell, T. Voon and
+J. Liberman, (eds.), Public Health and Plain Packaging of Cigarettes: Legal Issues. Edward Elgar, Cheltenham,
+pp. 81–108.
+
+Declaration on the TRIPs and Public Health (adopted in Doha on 14 November 2001).
+Dogan, S.L. and Lemley, M.A. (2004) ‘Trademarks and Consumer Search Costs on the Internet’, Houston Law
+
+Review, 41, 777–838.
+
+Evans, S. and Bosland, J. (2012) ‘Plain Packaging of Cigarettes and Constitutional Property Rights’, in A. Mitchell, T.
+Voon and J. Liberman, (eds.), Public Health and Plain Packaging of Cigarettes: Legal Issues. Edward Elgar,
+Cheltenham, pp. 48–80.
+
+EC—Protection of Trademarks and Geographical Indications (complaint by the United States) (WT/DS174/R).
+European Union Trade Marks Directive (Directive 2008/95/EC).
+Fong, G.T., Hammond, D. and Hitchman, S.C. (2009) ‘The impact of pictures on the effectiveness of tobacco
+
+warnings’, Bulletin of the World Health Organization, 87, 640–3.
+
+Frankel, S. and Gervais, D. (2013) ‘Plain Packaging and the Interpretation of the TRIPS Agreement’, Vanderbilt
+
+Journal of Transnational Law (forthcoming) [online]. Available at <http://ssrn.com/abstract¼2234580>
+
+[Accessed June 30, 2013].
+
+Gazzini, T. (2006) ‘The Legal Nature of WTO Obligations and the Consequences of their Violation’, European
+
+Journal of International Law, 17(4), 723–42.
+
+Gervais, D. (2008) Analysis of the TRIPS Agreement, 3rd edition. Sweet & Maxwell, London.
+Gervais, D. (2010) Analysis of the Compatibility of Certain Tobacco Product Packaging Rules with the TRIPS
+Agreement and the Paris Convention, publication dated 30.11.2010 [online]. Available at <http://www.jti.com/
+ﬁles/8513/4122/2680/Gervais.pdf> [Accessed February 20, 2013].
+
+Grills, N., and Mattoo, A. (2012) Plain Tobacco Packaging in India: A Giant Leap for Global Public Health, The
+Conversation (dated 5.9.2012) [online]. Available at <http://theconversation.edu.au/plain-tobacco-packaging-
+in-india-a-giant-leap-for-global-public-health-9116> [Accessed February 20, 2013].
+
+Halsbury’s Laws of England (4th ed., vol. 44, no 1).
+Hanover Star Milling Co. v Metcalf 240 U.S. 403, 412 (1916).
+Henry Clay & Bock & Co Ltd v Eddy [1915] HCA 33.
+Hoger v Gibson; Ex parte Hoger (1987) 1 Qd R 419.
+Hohfeld, W.N. (1913) ‘Fundamental Legal Conceptions’, Yale Law Journal, 23(1), 16–59.
+Intellectual Property Act 2003 (Sri Lanka).
+Japan—Taxes on Alcoholic Beverages (WT/DS8/AB/R, WT/DS10/AB/R & WT/DS11/AB/R).
+JT International SA v Commonwealth of Australia and British American Tobacco Australasia Limited and others v
+
+Commonwealth of Australia [2012] HCA 43 (5 October 2012).
+
+Kur, A. (1996) ‘The Right to Use One’s Own Trade Mark: A Self-Evident Issue or a New Concept in German,
+
+European and International Trade Mark Law?’, European Intellectual Property Review, 18(4), 198–203.
+
+Lake Shore & M.S.R. Co. v Kurtz (1894) 10 Ind. App., 60.
+McCarty, L.T. (2002) ‘Ownership: A Case Study in the Representation of Legal Concepts’, Artiﬁcial Intelligence and
+
+Law, 10, 135–61.
+
+216
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+The TRIPs Compatibility of Australia’s Tobacco Plain Packaging Legislation
+
+Althaf Marsoof
+
+McCarthy, A.M. (1999) ‘The Post-Sale Confusion Doctrine: Why the General Public Should be Included in the
+
+Likelihood of Confusion Inquiry’, Fordham Law Review, 67, 3337–69.
+
+Mitchell, A. (2010) ‘Australia’s Move the Plain Packaging of Cigarettes and Its WTO Compatibilities’, Asian Journal
+
+of WTO & International Health Law & Policy, 5(2), 405–25.
+
+Mobil Oil Corp. v Pegasus Petroleum Corp 2 U.S.P.Q.2d 1677.
+Parameswaran, G. (2012) Bhutan Smokers Huff and Puff Over Tobacco Ban, Aljazeera-Features dated 28.9.2012
+[online]. Available at <http://www.aljazeera.com/indepth/features/2012/09/201292095920757761.html> [Ac-
+cessed February 20, 2013].
+
+Paris Convention for the Protection of Industrial Property of 1883 (as revised).
+Philip Morris Brand Sa`rl (Switzerland) and others v. Oriental Republic of Uruguay ICSID Case No. ARB/10/7.
+Radio National. (2012) Plain Packaging Decision: Will Other Countries Follow?, Breakfast broadcast dated
+16.8.2012 [online]. Available at: <http://www.abc.net.au/radionational/programs/breakfast/plain-packaging-
+decision-will-other-countries-follow/4201866> [Accessed February 20, 2013].
+
+Ratnapala, S. (2009) Jurisprudence. Cambridge, Melbourne.
+Request for the Establishment of a Panel by Honduras WT/DS435/16 (17 October 2012).
+Sebastian Int’l v Longs Drug Stores Corp., 53 F.3d 1073, 1074, 34 U.S.P.Q.2d (BNA) 1720 (9th Cir. 1995).
+Smith, H.E. (2007) ‘Intellectual Property as Property: Delineating Entitlements in Information’, Yale Law Journal,
+
+116(8), 1742–822.
+
+Schmidt-Pﬁtzner, J.H. (2009) ‘Article 16 Rights Conferred’, in P. Stoll, J. Busche and K. Arend (eds.), WTO—Trade-
+
+Related Aspects of Intellectual Property Rights. Koninklijke Brill NV, Netherlands, pp. 316–30.
+
+Trade Marks Act 1865 (New South Wales).
+Trademark Law 1982 (China).
+Trade Marks Act 1994 (United Kingdom).
+Trademark Law 1997 (Indonesia).
+Trade Marks Act 1998 (Singapore).
+Trade Marks Act 1999 (India).
+Tobacco Plain Packaging Act 2011 (Cth).
+Tobacco Products (Labelling and Packing) Regulation 2012 (published in the Gazette Extraordinary No.1770/15
+
+dated 8 August 2012) (Sri Lanka).
+
+US—Section 211 Omnibus Appropriations Act of 1998 (complaint by the European Communities) WT/DS176/AB/R.
+Voon, T. and Mitchell, A. (2012) ‘Implications of WTO law for plain packaging of tobacco products’, in A. Mitchell,
+T. Voon and J. Liberman (eds.), Public Health and Plain Packaging of Cigarettes: Legal Issues. Edward Elgar,
+Cheltenham, pp. 109–36.
+
+Written submission of JT International SA (ﬁled on 28 March 2012) [online]. Available at <http://www.hcourt.gov.
+
+au/assets/cases/s409-2011/JT_Plf.pdf> [Accessed February 20, 2013].
+
+Written submission of British American Tobacco Australia Ltd (ﬁled on 26 March 2012) [online]. Available at
+
+<http://www.hcourt.gov.au/assets/cases/s389-2012/BAT_Plf.pdf> [Accessed February 20, 2013].
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 5–6
+
+217
+
+

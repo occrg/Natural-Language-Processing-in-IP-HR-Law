@@ -2,34 +2,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-from lib.filesInOut import readCSVinList
 from lib.filesInOut import readCSVinDict
 from lib.combineCSVs import collatingCSVs
 
-def barGraphDict(wordCount, title):
-    index = np.arange(len(wordCount))
-    labels = []
-    frequencies = []
-    for i in range(len(wordCount)):
-        labels.append(wordCount[i][0])
-        frequencies.append(wordCount[i][1])
-    plt.bar(index, frequencies)
-    plt.xlabel('Word', fontsize=8)
-    plt.xticks(index, labels, fontsize=10, rotation = 75)
-    plt.ylabel('Frequency of Occurrence in Documents', fontsize=8)
-    plt.title(title)
-    plt.tight_layout()
-    return plt
-
-def barGraphPath(origin, num, title):
-    wordCount = readCSVinList(origin, num)
-    plt = barGraphDict(wordCount, title)
-    location, docType, area, rest = origin.split('/', 4)
-    restAndFilename, ext = rest.split('.')
-    location = 'graphs'
-    ext = 'png'
-    destination = '%s/%s/%s/%s.%s' % (location, docType, area, restAndFilename, ext)
-    plt.savefig(destination)
 
 def barGraphGroup(wordCountList, filenames, num, title):
     wordCountsCombinedLong = collatingCSVs(wordCountList)
@@ -58,13 +33,13 @@ def barGraphGroup(wordCountList, filenames, num, title):
         bottom += barGraphArray[i]
         legends.append(p[i][0])
 
-    plt.legend(legends, filenames, bbox_to_anchor=(0, 1.1, 1.0, 0), mode="expand", loc="lower left")
+    # plt.legend(legends, filenames, bbox_to_anchor=(0, 1.1, 1.0, 0), mode="expand", loc="lower left")
     plt.xlabel('Word', fontsize=8)
     plt.xticks(index, wordList, fontsize=10, rotation = 75)
     plt.ylabel('Cumulative Frequency in Documents', fontsize=8)
     plt.title(title)
     plt.tight_layout()
-    return plt
+    return plt, fig
 
 def barGraphGroupPath(origin, num, title):
     wordCountList = []
@@ -76,14 +51,18 @@ def barGraphGroupPath(origin, num, title):
             discard, filenameAndExt = filePath.rsplit('/', 1)
             filename, originExt = filenameAndExt.split('.')
             filenames.append(filename)
-            wordCount = readCSVinDict(filePath, num)
+            wordCount = readCSVinDict(filePath)
             wordCountList.append(wordCount)
+
+
     if wordCountList:
-        plt = barGraphGroup(wordCountList, filenames, num, title)
-        slashNum = origin.count('/')
-        location, rest = origin.split('/', 1)
-        location = 'graphs'
-        name = 'graph'
-        destinationExt = 'png'
-        destination = '%s/%s/%s.%s' % (location, rest, name, destinationExt)
-        plt.savefig(destination)
+            plt, fig = barGraphGroup(wordCountList, filenames, num, title)
+            slashNum = origin.count('/')
+            location, rest = origin.split('/', 1)
+            location = 'graphs'
+            name = 'graph'
+            destinationExt = 'png'
+            destination = '%s/%s/%s.%s' % (location, rest, name, destinationExt)
+            plt.savefig(destination)
+            plt.clf()
+            plt.close(fig)

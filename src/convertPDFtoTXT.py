@@ -10,6 +10,9 @@ from pdfminer.layout import LAParams
 from pdfminer.converter import TextConverter
 from io import StringIO
 
+from lib.filesInOut import textVarToTXTfile
+
+
 def pdfToTextVar(path, start, end):
     rsrcmgr = PDFResourceManager()
     retstr = StringIO()
@@ -40,12 +43,6 @@ def pdfToTextVar(path, start, end):
     retstr.close()
 
     return text
-
-def textVarToTXTfile(text, destination):
-    newFile = open('%s' % destination, 'w')
-    newFile.write('%s' % text + '\n')
-    newFile.close()
-
 
 def main():
     origin = sys.argv[1]
