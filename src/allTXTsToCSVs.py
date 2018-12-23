@@ -29,17 +29,21 @@ def phraseCountAll(typesOfDocument, areasOfLaw):
             destination = '%s/%s/%s/%s' % (destinationFolder, t, a, insideFolder)
             folderOfTXTsToPhrasesCSVs(origin, destination, phrases)
 
-def combineAllCounts(typesOfDocument, areasOfLaw):
+def combineAllCounts(typesOfDocument, areasOfLaw, phrasesLocs):
     originFolder = 'wordCounts'
     for t in typesOfDocument:
         for a in areasOfLaw:
             origin = '%s/%s/%s' % (originFolder, t, a)
             folderToCombined(origin)
+            origin = '%s/%s/%s/phrases' % (originFolder, t, a)
+            folderToCombined(origin)
+            for p in phrasesLocs:
+                origin = '%s/%s/%s/phrases-local/%s' % (originFolder, t, a, p)
+                folderToCombined(origin)
 
 
-def combinedCountGraphs(typesOfDocument, areasOfLaw):
+def combinedCountGraphs(typesOfDocument, areasOfLaw, phrasesLocs):
     originFolder = 'wordCounts'
-    phrasesLocs = ['HR', 'IP', 'User', 'Creator']
     numberOfTopResults = 20
     for t in typesOfDocument:
         for a in areasOfLaw:
@@ -53,11 +57,10 @@ def combinedCountGraphs(typesOfDocument, areasOfLaw):
 
 
 
-def localToPhraseWordCountAll(typesOfDocument, areasOfLaw):
+def localToPhraseWordCountAll(typesOfDocument, areasOfLaw, phrasesLocs):
     originFolder = 'TXTs'
     destinationFolder = 'wordCounts'
     insideFolder = 'phrases-local'
-    phrasesLocs = ['HR', 'IP', 'User', 'Creator']
     phrases = loadPhrases('lists/keyPhrases.txt')
     for t in typesOfDocument:
         for a in areasOfLaw:
@@ -71,13 +74,14 @@ def localToPhraseWordCountAll(typesOfDocument, areasOfLaw):
 def main():
     typesOfDocument = ['journals', 'treaties']
     areasOfLaw = ['hr', 'ip']
+    phrasesLocs = ['HR', 'IP', 'User', 'Creator']
     if(len(sys.argv) != 1):
         raise ValueError("There should be no arguments (excluding Python file name).")
     countAll(typesOfDocument, areasOfLaw)
-    # combineAllCounts(typesOfDocument, areasOfLaw)
     phraseCountAll(typesOfDocument, areasOfLaw)
-    localToPhraseWordCountAll(typesOfDocument, areasOfLaw)
-    combinedCountGraphs(typesOfDocument, areasOfLaw)
+    localToPhraseWordCountAll(typesOfDocument, areasOfLaw, phrasesLocs)
+    combineAllCounts(typesOfDocument, areasOfLaw, phrasesLocs)
+    # combinedCountGraphs(typesOfDocument, areasOfLaw, phrasesLocs)
 
 if __name__ == '__main__':
     main()

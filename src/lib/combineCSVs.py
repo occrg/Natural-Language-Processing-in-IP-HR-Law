@@ -26,8 +26,7 @@ def collatingCSVs(wordCountsList):
 def combiningCSVsFromPaths(filePaths):
     wordCountsList = []
     for p in filePaths:
-        numLines = sum(1 for line in open(p))
-        currWordCount = readCSVinDict(p)[:numLines]
+        currWordCount = readCSVinDict(p)
         wordCountsList.append(currWordCount)
     wordCounts = collatingCSVs(wordCountsList)
     return wordCounts
