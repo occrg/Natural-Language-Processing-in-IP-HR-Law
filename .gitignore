@@ -1,3 +1,7 @@
 src/.ipynb_checkpoints/
 src/__pycache__/
 src/lib/__pycache__/
+*.log
+*.out
+*.toc
+*.aux
