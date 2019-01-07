@@ -1,0 +1,1401 @@
+International Journal of Cultural Property (2006) 13:285–309. Printed in the USA.
+Copyright © 2006 International Cultural Property Society
+DOI: 10.1017/S094073910606019X
+
+Artwork, Cultural Heritage Property, and
+the Foreign Sovereign Immunities Act
+Charlene A. Caprio*
+
+INTRODUCTION
+
+Recent developments in U.S. case law have strengthened the power of private in-
+dividuals to sue foreign sovereigns in U.S. courts over claims for artwork and cul-
+tural heritage property. Traditionally, however, the U.S. government granted a large
+amount of deference to foreign sovereigns regarding ownership rights in such prop-
+erty. Principles such as grace and comity with other nations, respect for cultural
+heritage property ownership, and increasing public access to art are reflected in
+U.S. legislation. For example, the adoption of the Convention on Cultural Prop-
+erty Implementation Act (CPIA), the Archaeological Resources Protection Act
+(ARPA), and the Native American Graves Protection and Repatriation Act (NAG-
+PRA) all demonstrate a strong position held by the United States to recognize and
+protect ownership rights in cultural heritage property.
+
+Specific to art and cultural heritage property, Congress enacted the Immunity
+From Seizure Act, 22 U.S.C. § 2459 (IFSA).1 The purpose of the IFSA is to “permit
+organizations and institutions engaged in nonprofit activities to import, on a tem-
+porary basis, works of art and objects of cultural significance from foreign coun-
+tries for exhibit and display, without the risk of the seizure or attachment of the
+said objects by judicial process.”2 Under the IFSA, a foreign lender makes a re-
+quest for IFSA immunity to the State Department. If immunity is granted, a for-
+eign sovereign or museum making a loan will not have to fear seizure or attachment
+of the said objects by judicial process.3 Under the IFSA program, grants of im-
+munity grew from 125 in number in the first 15 years to 69 in just 1 year.4 Our
+museums and universities, as well as the American public, have profited tremen-
+dously from the IFSA immunity program.
+
+However, U.S. protections given to cultural heritage property have met an
+unexpected challenge. In three recent court cases, two concerning Nazi-looted
+
+*Columbia Law School. Email: cac2145@columbia.edu
+
+285
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+286
+
+CHARLENE A. CAPRIO
+
+artwork and a third involving ancient Persian artifacts loaned to an American uni-
+versity for study, individuals have invoked the Foreign Sovereign Immunities Act,
+28 U.S.C. § 1601 et seq. (FSIA) to assert ownership rights over other nations’ cul-
+tural property. The FSIA is the starting point for suing a foreign sovereign in the
+United States. It sets out the exclusive standards to be used to deny foreign
+sovereign immunity. The list of immunity exceptions is limited and contained in
+§§ 1605–1611. The granting of immunity is generally restricted to acts of a for-
+eign sovereign and their agents, which are sovereign or governmental in nature.
+One exception to immunity under the FSIA is the commercial activity excep-
+tion of §1605(a)(2), whereby a foreign sovereign can be sued as far as its com-
+mercial activities are concerned. In the adopting House Report, Congress gave
+examples of commercial activity: the carrying on of a commercial enterprise such
+as an airline or state trading corporation, an activity customarily carried on for
+profit or even a single contract if the contract could be entered into by a private
+person.5 Another exception to immunity is the expropriation clause, §1605(a)(3)
+concerning property taken in violation of international law. A third exception, found
+in §§ 1609–1610, is based on attachment of property and lists when the property
+of a foreign sovereign is and is not immune from judicial attachment. All three
+exceptions can require a commercial activity nexus to the foreign sovereign’s ac-
+tivities or property in the United States, and the latter two exceptions have been
+invoked in art and cultural heritage property cases.
+
+While giving justice to individual plaintiffs, the rulings in FSIA art-related cases
+have extended the U.S. judiciary’s arm to reach into art and cultural heritage col-
+lections owned by foreign sovereigns and their agents. Because foreign sovereigns
+may very well react by keeping their collections far away from U.S. litigation, and
+therefore U.S. soil, the rulings have the potential of chilling future U.S. cultural art
+exchanges. In turn, they can gravely restrict the amount of art and archaeological
+research being conducted by U.S. scholars, thus hampering important activities
+that further knowledge about world histories and cultures.
+
+The focus of this paper is on three cases that have invoked the FSIA and its
+commercial activity nexus to sue foreign sovereigns for artwork or cultural prop-
+erty. The first case, Altmann v. Republic of Austria (Altmann),6 which made its way
+up to the U.S. Supreme Court, was a seminal case for declaring the FSIA retroac-
+tive to cover events that occurred before the 1978 enactment of the FSIA. This
+meant that World War II and Nazi-era art looting cases, as well as any other past
+looting, could be tried in U.S. courts. Altmann also stirred awareness about how a
+foreign sovereign’s state-run museum related activities can be considered com-
+mercial activities under the FSIA. Its outcome, which ended in settlement after the
+U.S. Supreme Court’s ruling on the FSIA’s retroactive power, was indeed praise-
+worthy and sparked a new movement in Austria to actively return Nazi-looted
+artworks to their rightful owners. But Altmann’s legacy also led to further plaintiff
+friendly interpretations of the FSIA’s commercial activity definition at the expense
+of international art exchanges, as seen in the next case.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+ART, CULTURAL PROPERTY, AND THE FSIA
+
+287
+
+Malewicz v. City of Amsterdam (Malewicz)7 extended the FSIA’s commercial ac-
+tivity nexus to cover cross-border museum loans in attempt to retrieve Nazi-
+looted art from the city of Amsterdam. The Malewicz court also stripped the IFSA
+of its ability to provide any sort of meaningful immunity to art loans coming into
+the United States, by holding that immunity under the IFSA prohibits seizure but
+does not bar judicial proceedings against the property under immunity. Malewicz
+is still pending in part. Although justice may be achieved for the plaintiffs, nulli-
+fying the IFSA may very well stunt the future of international educational and
+cultural exchanges of artwork where state-owned museums are involved. Further-
+more, the U.S. court may override Dutch jurisdiction on the case, and this may
+dampen international relationships concerning the protection of cross-border art
+loans. It can also put in danger U.S. art loans abroad.
+
+The FSIA sword did not stop swinging with Nazi-looting cases. The last case I
+discuss is also ongoing, Rubin v. The Islamic Republic of Iran (Rubin).8 Rubin is
+using the precedents of Altmann and Malewicz to invoke the FSIA against Iran
+and attach Persian antiquities owned by Iran, but currently present in the United
+States, in satisfaction for a 2003 private judgment against Iran for Iran’s support
+of a deadly Hamas bombing.9 The plaintiffs in Rubin are arguing that they can
+attach the ancient Persian artifacts under §§ 1609–1610 and use them to either
+persuade Iran to pay the 2003 judgment or forfeit the artifacts.
+
+Rubin appears to be reaching into dangerous waters because of the nature of
+the property attached. First, the Rubin court seems to ignore any special, inalien-
+able ownership rights that Iran may have in its cultural heritage property. Second,
+the Rubin court does not address any public policy issues for respecting Iran’s cul-
+tural heritage property rights in the artifacts. Third, the United States’ tradition of
+respecting cultural heritage ownership rights of source countries and native cul-
+tures has not been considered.
+
+Rubin also raises complex debates that have been stirring in the art and archae-
+ological communities concerning national versus international, and private versus
+public ownership of cultural heritage objects. Does Iran have a greater claim over
+the Persian artifacts than the bombing victims harmed by Iran’s actions? Should
+we assume that Persian culture carries a direct lineage to modern Iranian culture?
+Do we need to do so to give Iran a higher cultural heritage claim in the artifacts?
+Should cultural property never be attached under the FSIA? And are all these merely
+academic debates that have no place in the courts?
+
+Although cultural internationalists may argue that Iran should not have super-
+priority rights over the Persian artifacts, transference of the artifacts from public
+ownership to private hands raises additional concerns of preservation, protection
+from partial or total loss and destruction. Furthermore, if Rubin succeeds, all uni-
+versities in the United States will be put on notice that their research loan collec-
+tions are not protected from U.S. judicial interference and seizure. This has the
+potential of gravely detracting U.S. and international archaeological studies, cul-
+tural exchanges and the furthering of knowledge about world histories and cultures.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+288
+
+CHARLENE A. CAPRIO
+
+BRIEF HISTORY OF THE FOREIGN SOVEREIGN IMMUNITIES ACT
+
+Power in the United States to grant foreign sovereign immunity at first, and for
+many years, rested in the executive branch and the standard was absolute immu-
+nity. “For more than a century and a half, the United States generally granted for-
+eign sovereigns complete immunity from suit in the courts of this country.”10 Then,
+in 1952, in what is now known as the Tate Letter, the State Department created a
+restrictive theory of foreign sovereign immunity and recognized immunity “with
+regard to sovereign or public acts ( jure imperii ) of a state but not with respect to
+private acts ( jure gestionis).11 The question then arose, who (the executive or ju-
+dicial branch) should determine immunity on a case-by-case basis? The executive
+branch continued to make most decisions by acting through the State Depart-
+ment.12 However, the courts also made some immunity decisions on claims that
+came before them; and as a result, “governing standards were neither clear nor
+uniformly applied.”13
+
+In 1976, Congress enacted the FSIA. U.S. courts were granted jurisdiction to
+hear all civil nonjury claims brought against foreign sovereigns and to decide
+issues of immunity.14 Following the FSIA’s enactment, in 1983 the U.S. Supreme
+Court, in Verlinden B.V. v. Central Bank of Nigeria (Verlinden), stressed that
+“sovereign immunity is a matter of grace and comity on the part of the United
+States,” and that the U.S. Supreme Court “consistently has deferred to the deci-
+sions . . . of the Executive Branch—on whether to take jurisdiction over actions
+against foreign sovereigns and their instrumentalities.”15 Despite the U.S.
+Supreme Court’s early showing of deference to the executive branch, however,
+federal courts in recent FSIA cases, including Altmann, Malewicz, and Rubin,
+have gone against State Department recommendations for granting FSIA
+immunity.16
+
+In the FSIA, Congress gave the courts a limited number of exceptions for when
+foreign sovereign immunity can be denied. One condition that appears in many
+of the FSIA immunity exceptions is that the foreign sovereign or property at issue
+must be connected to a commercial activity in the United States. The term com-
+mercial activity is defined in §1603(d):
+
+A “commercial activity” means either a regular course of commercial
+conduct or a particular commercial transaction or act. The commercial
+character of an activity shall be determined by reference to the nature of
+the course of conduct or particular transaction or act, rather than by
+reference to its purpose.17
+
+The art and cultural heritage related cases discussed in the following text, Alt-
+mann, Malewicz, and Rubin, give broad interpretations to the FSIA’s notion of
+what constitutes a commercial activity. In doing so, the cases have swept state-
+run museum activities, art, and cultural heritage loans under FSIA immunity
+exceptions.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+ART, CULTURAL PROPERTY, AND THE FSIA
+
+289
+
+THE FOREIGN SOVEREIGN IMMUNITIES ACT
+
+AND NAZI-LOOTED ART
+
+The Altmann Case
+
+The first case to apply the FSIA to a claim of Nazi-looted artwork was Altmann.
+Altmann involved a collection of six Gustav Klimt paintings that had a worth of
+approximately $150 million and had been stolen by the Nazis in the 1940s, ending
+up in the collection of the state-run Austrian Gallery. The plaintiff, Maria Alt-
+mann, is the niece and heir of a Jewish woman, Adele Bloch-Bauer, who as an arts
+patron, sat for Gustav Klimt and owned many of Klimt’s paintings. Adele died in
+1925, and by her will the paintings became the rightful possession of her hus-
+band, Ferdinand. Adele had expressed in her will that her husband consider do-
+nating the paintings to the Austrian Gallery. However, Ferdinand did not donate
+the paintings; and when he fled Austria in 1938 to escape Nazi persecution, the
+Nazis confiscated all of his artwork. When the will was probated, it was found that
+Ferdinand, not Adele, was the rightful owner of the paintings. The paintings,
+through different ownership paths, ended up in the collection of the Austrian
+Gallery.18
+
+In 1946 it looked like Altmann would be able to recover the paintings, because
+the Republic of Austria declared that all transactions that were motivated by dis-
+criminatory Nazi ideology were to be deemed null and void. However, a counter-
+vailing Austrian law prohibited the export of artworks that were deemed important
+to Austria’s cultural heritage. Altmann, living in the United States at the time, was
+coerced by a lawyer into donating some of the Klimt paintings to the Austrian
+Gallery in exchange for export permits for other items in her heir’s collection.
+Then, in 1998, a new restitution law was enacted in Austria, designed to return
+artworks that had been donated to federal museums under duress in exchange for
+export permits. However, the Austrian Gallery voted not to return to Altmann the
+Klimt paintings, claiming (falsely) that Adele’s will made the gallery the rightful
+owner. Because the costs for bringing a lawsuit in Austria are determined by the
+amount in controversy, Maria Altmann did not have the necessary 2 million Aus-
+trian Schillings to sue the Austrian Gallery for the paintings.19
+
+Then, in 2001, Altmann found an affordable way to sue the Austrian Gallery in
+U.S. federal court when the Austrian Gallery advertised in the United States an
+exhibition of the paintings taking place at the Gallery in Austria.20 Although both
+the defendant (the Austrian Gallery) and the property in controversy remained in
+Austria, Altmann brought her claim in U.S. court by invoking §1605(a)(3):
+
+[I]n which rights in property taken in violation of international law are
+in issue and that property or any property exchanged for such property
+is present in the United States in connection with a commercial activity
+carried on in the United States by the foreign sovereign; or that the prop-
+erty or any property exchanged for such property is owned or operated
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+290
+
+CHARLENE A. CAPRIO
+
+by an agency or instrumentality of the foreign state and that agency or
+instrumentality is engaged in a commercial activity in the United States.21
+(emphasis added)
+
+The Altmann court analyzed §1605(a)(3), which is commonly known as the
+
+expropriation exception as having three required elements:
+
+1. There must be property taken in violation of international law, (i.e. an
+
+expropriation).
+
+2. The property must be owned or operated by an agency or instrumentality of
+
+a foreign state.
+
+3. The agency or instrumentality must be engaged in commercial activity in
+
+the United States.
+
+For the first element, the court determined that an expropriation had occurred
+because the paintings were stolen from Altmann’s heirs by the Nazis, the Austrian
+government had not yet returned the paintings to Altmann and her family, and
+the Austrian government did not justly compensate the heirs for the value of the
+paintings.22 The court found that the second element was met because the state-
+owned Austrian Galley was an “agency or instrumentality of the foreign state” in
+accordance with the definition given in §1603(b).23
+
+The third element involved the last clause of §1605(a)(3): “property or any such
+property exchanged for such property is owned or operated by an agency or in-
+strumentality of the foreign state and that agency or instrumentality is engaged in
+a commercial activity in the United States” (emphasis added). To determine what
+constituted commercial activity under this clause, the court looked to the plain
+text of the FSIA definition of commercial activity in §1603(d) and asserted that it
+was the nature of the activity and not the purpose that counts. The court found
+further guidance in a prior U.S. Supreme Court case, Republic of Argentina v. Wel-
+tover, Inc., which had ruled that activities of the foreign sovereign are commercial
+with respect to the FSIA when the foreign sovereign acts in a manner of a private
+player in the market. Furthermore, what is important is not the motive (or profit
+motive) of the foreign sovereign, but “the type of actions by which a private party
+engages in trade and traffic or commerce.”24
+
+Using the previous criteria, the court assessed the Austrian government’s activ-
+ities in the United States in relation to the Klimt paintings: publishing a museum
+guidebook, publishing photographs of the Klimt paintings in controversy, and ad-
+vertising Austrian Gallery exhibitions relating to the Klimt paintings. Also, the gal-
+lery loaned one of the Klimt paintings to the United States in the past. The court
+concluded that these activities were the types of actions private parties readily en-
+gaged in; and through them the Austrian Gallery was acting as a private player in
+the market and conducting commercial activities in the United States as defined
+in the FSIA. More generally, the court asserted that operating a museum is an
+activity in which private parties engage.25 The Ninth Circuit Court upheld the
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+ART, CULTURAL PROPERTY, AND THE FSIA
+
+291
+
+ruling, noting further that Austria’s commercial activities in this case were all cen-
+tered around the paintings in controversy and even went as far as attracting Amer-
+ican tourists to Austria to view the looted artwork.26
+
+The Altmann case went up (in part) to the U.S. Supreme Court, which ruled
+that the FSIA could be applied retroactively to cover events that occurred before
+the 1976 enactment of the FSIA, and thus Nazi-era looting.27 After this ruling,
+the plaintiffs and the Austrian Gallery engaged in binding arbitration; and in
+early 2006 the Altmann heirs recovered five of the Klimt paintings.28 In Novem-
+ber of 2006, the Altmann heirs auctioned four of the five Klimt paintings at
+Christie’s in New York and received over 190 million dollars for them.29
+
+A critical part of the lower-court Altmann decision involved awarding juris-
+diction over the Republic of Austria. The court asserted that, when the second
+clause of §1605(a)(3) was invoked, which starts after the semicolon (“or that
+the property or any property exchanged for such property is owned or operated
+by an agency or instrumentality of the foreign state and that agency or instru-
+mentality is engaged in a commercial activity in the United States”), the clause
+is to be read “in the disjunctive” so that the requirement that the property be
+present in the United States, as required in the first clause before the semicolon,
+did not apply to the second clause.30 This meant that under the FSIA, the paint-
+ings and the defendant could both stay in Austria while the claim was being
+brought in the United States against an agency or instrumentality of the foreign
+sovereign.
+
+It is also interesting to note that the Altmann court dismissed the Austrian Gal-
+lery’s forum non conveniens claim because it did not consider Austria to be an
+adequate alternative forum for this lawsuit. First, the filing fee that Altmann would
+have to pay to bring the suit in Austria would be oppressively burdensome; sec-
+ond, a statute of limitations law in Austria might bar her from bringing the suit
+there altogether.31
+
+The Altmann ruling alerted the international art community that state-run mu-
+seums and galleries can be subject to U.S. lawsuits when their activities extend
+over to U.S. soil. Moreover, what were formerly viewed as educational and cultural
+promotions for international art exhibitions now can take the form of commer-
+cial activities capable of stripping foreign sovereigns of their immunity.
+
+The blow to international cultural and art exchanges made by Altmann is ar-
+guably outweighed by the justice served. After Altmann, the Austrian Government
+announced it would restitute a total of 6,292 works of art stolen by the Nazis.32
+The Austrian Government will also set up a web site “to help owners track down
+works they claim were confiscated by the Nazi regime.”33 As Nazi-looted art con-
+tinues to be tracked and restituted, cases such as Altmann may diminish.
+
+However, the Altmann ruling cast a wide net to deny immunity under the FSIA
+and set in motion a string of U.S. court decisions that are further chiseling away at
+foreign sovereign immunity when it comes to state-run museums and educational
+exchanges of artwork and cultural property. The Malewicz case went beyond Alt-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+292
+
+CHARLENE A. CAPRIO
+
+mann and attacked foreign sovereign immunity in the context of a cross-border
+museum loan.
+
+The Malewicz Case
+
+A second art case using the FSIA §1605(a)(3) expropriation exception for a Nazi-
+looting claim is Malewicz. In this case the Russian abstract artist Kazimir Malewicz
+entrusted some of his paintings before World War II to a Dr. Dorner in Berlin for
+safekeeping against Stalinist condemnation. In 1935 Dr. Dorner shipped some of
+the paintings on loan to the Museum of Modern Art (MoMA) in New York, and
+kept the rest in Berlin. In 1937 when Dr. Dorner fled Germany in fear of Nazi
+persecution he took two of the Malewicz paintings with him, which ended up by
+bequest at the Busch-Reisinger Museum at Harvard University in Cambridge, Mas-
+sachusetts, to be held on loan and for the benefit of “the rightful owners.” Dr.
+Dorner passed the rest of the paintings on to a Mr. Häring in Berlin for safekeep-
+ing. To date, MoMA has returned one, and the Busch-Reisinger Museum returned
+both of its Malewicz paintings to the rightful heirs.34
+
+During the years 1951 through 1956, Mr. Häring was approached by the Stedelijk
+Museum in Amsterdam to lend the paintings to the Stedelijk for restoration and
+exhibition. Mr. Häring refused, insisting that he did not own the paintings and
+therefore did not possess the right to lend the paintings to the Stedelijk. On his
+deathbed, Mr. Häring repeated that he did not own the paintings and could not
+sell them, but after much goading he agreed to give temporary possession of the
+works to the Stedelijk. Suspiciously, a letter signed on behalf of Mr. Häring later
+appeared, which asserted his rightful ownership of the paintings. It also explained
+how the Stedelijk loan agreement was really an option to purchase the paintings,
+which the Stedelijk exercised.35
+
+After the fall of the Soviet Union, heirs of Malewicz collectively sought restitu-
+tion of the paintings from the Stedelijk, arguing that the letter was a fabrication.
+Their request was denied by the Stedelijk in 2001, because the Museum claimed it
+rightfully owned the paintings. Then, in 2003, 14 of the Malewicz paintings were
+sent on loan to the United States for exhibition at the Guggenheim in New York
+and the Menil Collection in Houston. Two days before the paintings were sent
+back to Amsterdam, the plaintiffs commenced an action in U.S. federal court.36
+The plaintiffs commenced the action without seizing the paintings, because Am-
+sterdam had received immunity from seizure protection for the paintings by the
+State Department under the IFSA. Amsterdam argued that this immunity un-
+doubtedly meant that the paintings could not be subject to lawsuit. The State De-
+partment in amicus curiae supported Amsterdam, arguing that the IFSA immunity
+was meant to ensure protection against cases like this being brought against the
+foreign sovereign. The State Department also reminded the court that the pur-
+pose of 22 U.S.C. §2459 [the IFSA] was “to encourage the exhibition in the United
+States of objects of cultural significance, which in the absence of such assurances
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+ART, CULTURAL PROPERTY, AND THE FSIA
+
+293
+
+. . . would not be made available.” Amsterdam also asserted that had it known the
+paintings could be subject to a lawsuit, it would have never loaned them to the
+U.S. museums.37
+
+Nevertheless, the court allowed the claim without seizure. Referring to House
+Report 94-1487 on the FSIA, the court stated that the “FSIA intentionally over-
+rode the common-law requirement that a plaintiff obtain in rem jurisdiction over
+property before suit could be filed against a foreign sovereign.” The Malewicz court
+held that the paintings only had to be present in the United States at the moment
+when the suit was filed, not during the proceedings. Thus, a filing two days before
+the paintings were returned to Amsterdam was in fact timely.38
+
+This part of the Malewicz ruling stripped the IFSA of its power to promote
+international cultural loans to U.S. museums and institutions. Previously, there
+was the assumption that IFSA immunity kept the objects away from all judicial
+interference. Malewicz has put foreign sovereigns on alert that the IFSA only pro-
+tects the property from being seized; a U.S. lawsuit is still a possibility.
+
+Having established the legality of the claim, the Malewicz court considered the
+elements of §1605(a)(3) and invoked its first commercial activity clause, which
+requires property “present in the United States in connection with a commercial
+activity carried on in the United States by the foreign sovereign” (emphasis added).
+Thus, unlike in Altmann, the property had to be present in the United States.
+However, as discussed earlier, the Malewicz court read this requirement loosely
+by requiring that the property be present in the United States only at the very
+commencement of the lawsuit.
+
+To define commercial, the court repeated Altmann that profit motive or pur-
+pose should not be considered, but rather, the type of actions. The court also added,
+“Commercial means only ‘not sovereign,’ as long as there is some example of pri-
+vate action of a similar type connected with ‘trade and traffic or commerce.’” The
+court found that a museum loan fit the bill, because public and private museum
+loans occur around the world and are connected with commerce regularly.39
+
+In its findings, the court did not take into account how museum loans are gen-
+erally perceived in society as noncommercial activities that allow for cultural and
+educational exchanges. Although this point was recognized by Congress in adopt-
+ing the IFSA, it held no weight against the court’s textual interpretation of the
+FSIA’s commercial activity nexus.
+
+However, Malewicz stopped short of ruling for the plaintiffs, and showed some
+deference to the State Department. In its brief the State Department warned, “For-
+eign states are unlikely to expect that this [commercial activity] standard is satis-
+fied by a loan of artwork for a U.S. Government-immunized exhibit that must be
+carried out by a borrowing on a non-profit basis.” Furthermore, “The possibility
+that such a minimum level of contact will necessarily suffice to provide jurisdic-
+tion threatens to chill the willingness of sovereign leaders to participate in the
+section 2459 [IFSA] program.” The Malewicz court reserved judgment to consider
+whether the City of Amsterdam’s commercial activities and contacts with the United
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+294
+
+CHARLENE A. CAPRIO
+
+States were sufficient enough to satisfy the §1603(3)(e) substantial contacts re-
+quirement. Under §1603(3)(e), “A ‘commercial activity carried on in the United
+States by a foreign state’ means commercial activity carried on by such state and
+having substantial contact with the United States.” The City of Amsterdam’s lim-
+ited museum-related activities might force a ruling that Amsterdam lacked sub-
+stantial contact with the United States and thus cannot support the required
+§1603(3)(e) substantial contact requirement in the FSIA definition of commer-
+cial activity.40
+
+But even if the Malewicz court ultimately dismisses this claim, the lasting signal
+is not positive for foreign states who must decide in the future whether to loan
+artwork to U.S. museums and galleries, especially when the artwork is priced in
+the millions of dollars. Art loans that provide educational and cultural opportu-
+nities to the U.S. population may be significantly decreased because of Malewicz.
+In addition, foreign countries in response to the lack of comity offered to Dutch
+laws regarding this claim may expose U.S. art loans to burdensome overseas liti-
+gation risks.41 A detraction in cross-cultural art exchanges is not hard to imagine.
+
+THE FOREIGN SOVEREIGN IMMUNITIES ACT AND THE
+
+ATTACHMENT OF PERSIAN ARTIFACTS
+
+The Rubin Case
+
+The plaintiffs in Rubin have invoked the FSIA to assert a private claim against
+cultural property owned by a foreign sovereign. The facts of Rubin are distinct
+from the Nazi-era looting cases, Altmann and Malewicz, and the FSIA provisions
+relied upon are §§ 1609 and 1610, which concern attachment of a foreign sovereign’s
+property located in the United States. Also, Rubin, in dealing with antiquities rather
+than artwork, poses separate issues pertaining to the nature and ownership of cul-
+tural heritage property.
+
+In Rubin, the plaintiffs are seeking execution of a judgment that they were
+awarded in a prior U.S. lawsuit against Iran for Iran’s support of a Hamas-organized
+1997 suicide bombing in Jerusalem, Israel. The Rubin plaintiffs brought the prior
+lawsuit under FSIA §1605(a)(7), which allows money damages to be awarded
+against a foreign sovereign for personal injury or death caused by, inter alia, the
+foreign sovereign supporting an ‘extrajudicial killing’ whose definition includes a
+deadly terrorist attack. The plaintiffs are either the actual victims of the bombing
+or their family members. The monetary judgment against Iran, totaling more than
+$71.5 million in compensatory damages, was entered in default in 2003, because
+Iran did not make an appearance in the lawsuit.42
+
+After winning the lawsuit, the plaintiffs faced the challenge of getting Iran to
+pay the default judgment. If the FSIA allowed a monetary award without provid-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+ART, CULTURAL PROPERTY, AND THE FSIA
+
+295
+
+ing a way to actually collect against the foreign sovereign, it essentially was creat-
+ing a right without a remedy. But the FSIA solves this problem (for the issues
+relevant to this case) by allowing plaintiffs under §1610(a) to attach property that
+is both owned by the foreign sovereign and being used for a commercial activity
+in the United States. Such an attachment forces the foreign sovereign to either pay
+the default judgment or forfeit its ownership of the attached property.
+
+In searching for property owned by Iran and located in the United States, the
+plaintiffs discovered that the University of Chicago has in its possession Persian
+antiquities belonging to Iran, namely, “two collections of ancient Persian seal im-
+pressions and cuneiform writings found on clay tablets and table fragments that
+were recovered in excavations in Iran in the 1930s and 1960s.” The collections are
+known as the Persepolis Fortification Texts and the Chogha Mish collection, both
+dating to antiquity. The first collection includes tablets and tablet fragments from
+the reign of Darius I (500 b.c.). They provide information on the language and
+daily life in the Persian Empire.43
+
+The collections were loaned to the University of Chicago in the 1930s and 1960s
+following their excavations by the university “for philological and archaeological
+purposes with the understanding that the collections would be returned to Iran
+when [the University of Chicago’s] studies were complete.” Over the ensuing de-
+cades, much research and publication was generated by the collections. Many stud-
+ies are complete and most of the collection is due to be returned to Iran.44
+
+The plaintiffs invoked §§ 1609 and 1610(a) to try to attach the artifacts. The
+FSIA §1609 grants immunity from attachment of property, except when an ex-
+ception applies such as §1610(a): “The property in the United States of a foreign
+state, as defined in section 1603(a) of this chapter, used for a commercial activity in
+the United States, shall not be immune from attachment in aid of execution, or
+from execution” (emphasis added). The plaintiffs argued that the Persian artifacts
+fall under §1610(a) because they have been used for publishing and selling books
+in the United States. (This claim bears a striking resemblance to Altmann.) To
+investigate their claim, the plaintiffs demanded from the university “information
+on the printing costs and sales of any scholarly publications concerning the Ira-
+nian collection.” However, the university refused to surrender this information and
+sought a protective order. The court granted the protective order on grounds that
+in accordance with §1610(a) only the actions of the foreign sovereign and not the
+university matter when determining whether immunity should be waived. The
+university’s activities, whether commercial or not, were beyond the purview of
+discovery in this case.45
+
+After the protective order ruling, the plaintiffs moved for partial summary judg-
+ment to declare that the university did not have standing to assert an exemption
+from immunity §1609 claim on behalf of Iran. The magistrate judge agreed and
+held, “an exemption from attachment must be affirmatively raised by the judg-
+ment debtor, and it is the judgment debtor who bears the burden of proof.” The
+magistrate judge also asserted that a threshold presumption of immunity is not
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+296
+
+CHARLENE A. CAPRIO
+
+given to the foreign sovereign; rather, the foreign sovereign must appear in court
+and argue an affirmative defense under §§ 1609 and 1610 to establish immunity
+and prevent the attachment from occurring.46
+
+The State Department aggressively opposed the magistrate judge’s ruling, argu-
+ing, “the baseline presumption adopted by the FSIA is that the sovereign is im-
+mune.” Second, the State Department argued that §1610 is not an affirmative
+defense of the sort claimed by the magistrate judge, and the plaintiffs should have
+the burden to demonstrate “that one of the statutory exemptions to that presump-
+tion applies, regardless of the presence of the foreign sovereign in this litigation.”
+Furthermore, the court can raise any affirmative defense sua sponte for the defen-
+dant. The State Department also reminded the court that foreign sovereign im-
+munity is a matter of “grace and comity” and “reflects the practical knowledge
+that U.S. property located abroad will be subject to reciprocal treatment.”47
+
+The plaintiffs argued, in response, that prior case law shows “qualified immu-
+nity is an affirmative defense that can be asserted only by the defendant govern-
+ment official” and only after it is properly invoked by the foreign sovereign does it
+create a “presumption of immunity.”48
+
+One June 22, 2006, a federal judge surprisingly affirmed the magistrate judge’s
+ruling that foreign sovereign immunity under §1609 is an affirmative defense that
+must be asserted by the foreign sovereign.49 This ruling appears to flip the FSIA
+over onto its backside. For, although the FSIA was initially created to carve out
+exceptions to foreign sovereign immunity, its practical application after Rubin is
+to provide an affirmative defense, which demands a court appearance by the for-
+eign sovereign before the elements of an immunity exception are even shown to
+exist.
+
+The judge’s opinion in Rubin is a good pedagogical example of statutory and
+legislative interpretation. The judge looked at the plain wording of §1609, “the
+property in the United States of a foreign sovereign shall be immune from attach-
+ment arrest and execution except as provided in sections 1610 and 1611 of this
+chapter” (emphasis added) and did not to believe that that the phrase shall be
+immune means that a foreign sovereign is necessarily granted immunity unless an
+exception is found to apply. The judge based his analysis on how Congress used
+the verb shall in other parts of the FSIA, and also in other places in the United
+States Code, arguing that shall was used in other places to create affirmative
+defenses.50
+
+The judge based his analysis heavily on House Report 94-1487, which stated
+that foreign sovereign immunity was an affirmative defense under §1604 and, ac-
+cording to the judge, used language to imply that it was also an affirmative de-
+fense under §1610.51 The judge further held that Iran would not face any undue
+burden in representing itself in U.S. court and thus the University of Chicago was
+not able to raise the affirmative defense for Iran.52
+
+In response to the ruling, Iran has appeared in court and asserted an affirma-
+tive defense of foreign sovereign immunity to the plaintiffs’ claims. We should
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+ART, CULTURAL PROPERTY, AND THE FSIA
+
+297
+
+remember that the magistrate judge in Rubin stated, “Iran has not been shown to
+have engaged in commercial activity as to the items in question.”53 On July 14,
+2006, the district court judge also reminded the plaintiffs that the June 26 ruling
+“did not order the citation respondents to turn over the Persian artifacts, nor did
+it address whether the plaintiffs are even entitled to the artifacts.”54 Thus, with
+Iran’s appearance the plaintiffs still have to prove their case under the FSIA to win
+attachment over the Persian artifacts.
+
+Assuming for a moment that the special nature of the artifacts will not bar an
+attachment, the plaintiffs must show, in accordance with §1610(a), that the arti-
+facts owned by Iran were “used for a commercial activity in the United States.”
+The phrase “used for” in the statute is intended to narrow the type of property
+owned by the foreign sovereign that can be attached. This is in contrast to §1610(b),
+which does not have a “used for commercial activity” requirement when the prop-
+erty in issue is owned by an agency or instrumentality of the foreign sovereign.
+A good example of the §1610(a) “used for” distinction was made in the 2002
+
+case, Connecticut Bank of Commerce v. Republic of Congo:
+
+Consider an airplane owned by a foreign government and used solely to
+shuttle a foreign head-of-state back and forth for official visits. If the
+plane lands in the United States, it would not be subject to attachment
+or execution. The plane is not “used for” any commercial activity, in the
+U.S. or elsewhere.55
+
+Thus, the Persian artifacts, whether or not they theoretically can be used for com-
+mercial trade or a commercial publication, must have served such a commercial
+purpose while in the United States. Such a determination may depend on how
+deeply the plaintiffs are allowed to dig into the records of the University of Chi-
+cago and if any proceeds given to Iran for the research publications can prove
+“used for a commercial activity.” In Altmann, art publications and advertisements
+of the property in dispute rose to the level of commercial activity, but in Altmann
+the foreign sovereign was clearly actively involved in the publications for the Aus-
+trian Gallery. In Malewicz the museum loans constituted commercial activity, but
+again, the activities of the foreign sovereign were the ones under scrutiny. Another
+question to ask is what level of commercial activity does there need to be? For
+example, if Iran were to receive only $100 in total from the publications, is this
+amount sufficient to prove commercial activity and attach the artifacts?
+
+Nevertheless, a ruling adverse to Iran may spark a shopping spree around the
+country. The Rubin plaintiffs already “are attempting to take custody of a number
+of antiquities held in Harvard University’s museums.”56 Also, they are “eying an-
+tiquities at other institutions as well, including The Museum of Fine Arts in Bos-
+ton, the University of Pennsylvania Museum, the Philadelphia Museum of Art, the
+Detroit Institute of Arts, the University of Michigan, and the University of Chi-
+cago.”57 Antiquities actually owned by the museums are probably beyond the scope
+of the plaintiffs’ claims, because they are no longer the property of Iran. But ar-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+298
+
+CHARLENE A. CAPRIO
+
+tifacts and artwork that are on loan to museums, and not part of a museum’s
+permanent collections, may fall into the plaintiffs’ shopping cart.
+
+Even if commercial activity is found under §1610(a), the question of §1603(3)(e)
+substantial contact still must be addressed, as in Malewicz. Although the tablets
+have been on loan to the University for decades, the interaction between the Ira-
+nian government and the University throughout the years should be found insuf-
+ficient to satisfy the substantial contact requirement of commercial activity in
+accordance with §1603(3)(e).
+
+Can the Persian Artifacts Ever Be Attachable?
+
+A critical issue in this case, which did not reach the attention of the courts, is
+whether the Persian artifacts could, given their inherent nature, ever be attached
+under §§ 1609 and 1610. The very nature and character of the Persian artifacts,
+Iran’s ownership rights over them, and the United States’ public policy concerns
+for the protection of cultural heritage property should all preclude an attachment.
+These issues are discussed in detail in the following text.
+The Nature and Character of the Persian Artifacts
+
+Quite alarmingly, the magistrate judge in Rubin failed to address the special na-
+ture and character of the Persian artifacts. Their classification as property that can
+satisfy a FSIA claim is grossly presumed. The Persian artifacts should not be con-
+sidered available for the commercial market. They are too rare to be likened to
+antiquities available in tremendous abundance (such as ancient Greek pottery)
+that can serve the needs of a commercial market alongside those of the research
+and educational communities. The Persian artifacts are irreplaceable tablets offer-
+ing unique insights into ancient Persian cultures. Although it is likely that the bomb-
+ing victims would sell the tablets for money, a buyer is not prechosen or prescreened
+and in the event of an auction, a wealthy private bidder may very well outbid a
+museum or educational institution. Gil Stein, director of the Oriental Institute at
+the University of Chicago, provided a useful comparison to The Washington Post:
+“You’d have to imagine how we would feel if we loaned the Liberty Bell to Russia
+and a Russian court put it up for auction.”58
+
+The Persian collections, if attached, may permanently be removed from the re-
+search and educational communities or be altered, mismanaged, inadvertently de-
+faced or destroyed if private owners seek to display or store the artifacts in ways
+that compromise their preservation. The Persian collections also represent a sum
+that is greater than their individual parts, which are “clay tablets smaller than a
+deck of playing cards.”59 Mathew Stolper, an Oriental Institute assyriologist, ex-
+plained in an article in Archaeology, “It’s a large collection of individually banal
+pieces that together are an extraordinary snapshot of an administrative system. Its
+value is as a whole collection, and that would be lost, if it was sold off.”60 Dividing
+the collections up among the victims of the bombings can cause the collection to
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+ART, CULTURAL PROPERTY, AND THE FSIA
+
+299
+
+become permanently severed, with important historical and cultural information
+forever lost.
+Iran’s Ownership Rights Over the Persian Artifacts
+
+The court should consider whether an attachment over the Persian collections is
+possible given the nature of Iran’s property rights in them. The court should begin
+with the most basic question asked in a property law class: What is the bundle of
+rights granted with respect to the property in question and who owns the rights?
+The Iranian collections in Rubin are cultural artifacts that have never changed own-
+ership hands since being excavated. Iran may in fact not own transfer rights in the
+artifacts. The artifacts may be inalienable; consequently, an attachment would not
+work to satisfy a monetary judgment against Iran because Iran may have no mon-
+etary interest in them!
+
+The Persian artifacts may be inalienable by law under Article 83 of the Iranian
+
+Constitution:
+
+Article 83 [Property of National Heritage]
+Government buildings and properties forming part of the national her-
+itage cannot be transferred except with the approval of the Islamic Con-
+sultative Assembly; that, too, is not applicable in the case of irreplaceable
+treasures.61
+
+The spirit of this article in Iran’s Constitution indicates that Iran considers cer-
+tain national heritage property to be inalienable absent necessary authorizations.
+Furthermore, pieces considered irreplaceable treasures to the country are never
+transferable. It is not surprising, given the rich cultural history buried in Iranian
+soil, that Iran would place constitutional restrictions on the transfer of its na-
+tional heritage property. Thus, the bundle of rights that Iran possesses over the
+Persian antiquities may not include transferability. If this is the case, it should fol-
+low that Iran holds no monetary interest in the collections. An attachment thus
+would only result in an unlawful taking.
+
+Putting the Iranian Constitution aside, it could also be the case that Iran’s own-
+ership is in the form of a trust, and Iran as trustee oversees the property for the
+Iranian population. In fact, the University of Chicago lawyers have argued, “The
+antiquities are the unique property, not just of the government of Iran, but of
+the people of Iran.”62 Furthermore, as reported in The New York Times, “Both the
+Oriental Institute [University of Chicago] and the State Department took the po-
+sition that the antiquities were part of Iran’s national patrimony and therefore did
+not fit the definition of a commercial ‘asset’ that could be seized to satisfy judg-
+ment.”63 These positions support the argument that Iran holds the collections in
+the form of a trust and does not possess transfer rights in them.
+
+The idea of a government holding cultural property in trust for a population is
+not foreign to the United States. The federal Indian Trust Doctrine “imposes du-
+ties on the federal government to manage Native American property and other
+affairs in the best interest of Native Americans.”64 Also, ARPA grants the federal
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+300
+
+CHARLENE A. CAPRIO
+
+government ownership of all archaeological resources found on federally owned
+or controlled land. The Archaeological Resources Protection Act takes the posi-
+tion that “archaeological resources found on public lands and Indian lands are an
+accessible and irreplaceable part of the Nation’s heritage.” Furthermore, ARPA notes
+that “these resources are increasingly endangered because of their commercial at-
+tractiveness” and thus removes them from the private commercial sector.65
+
+Patty Gerstenblith’s explanation of the public trust doctrine elucidates the role
+of the government acting as trustee: “When the government possesses cultural prop-
+erty, it acts as trustee on behalf of the relevant cultural group for protecting and
+utilizing the object for the benefit of the group.”66 In the trust, alienation can be
+subject to “such restrictions as maintenance of public access for study or display
+purposes or to a requirement to remain in a particular geographic area.”67 The
+structure of a trust fits well with Iran’s ownership of the Persian artifacts. The U.S.
+court should consider that the Iranian people’s interests in the collections control
+the alienation rights and do not permit an FSIA attachment.
+
+Public Policy Issues
+
+The court should also protect Iran’s ownership of the Persian artifacts for the in-
+terests of the public, the study of archeology, and the international preservation of
+cultural heritage. The preamble of the 1970 UNESCO Convention on the Means
+of Prohibiting and Preventing the Illicit Import, Export and Transfer of Owner-
+ship of Cultural Property put forward as an important consideration:
+
+[T]he interchange of cultural property among nations for scientific, cul-
+tural and educational purposes increases the knowledge of the civiliza-
+tion of Man, enriches the cultural life of all people and inspires mutual
+respect and appreciation among nations.68
+
+An attachment of the Iranian collections seriously contravenes the spirit of the
+UNESCO Convention. For, although the University of Chicago’s research termi-
+nates soon, the university has had the tablets in its possession since excavation
+and no other archaeological groups have had access to them to conduct further
+observations or research on them. Iran may wish to use the tablets in further ac-
+ademic publications and research, or hold them as important research displays, in
+situ, at their excavated sites. Also, the science of archeology is far from stagnant;
+new techniques may develop to further the research done on the tablets.
+
+To consider on a public policy level how a U.S. courts should treat the Persian
+artifacts in question, we can also take a brief look into how the United States has
+protected cultural heritage ownership of certain groups within its own borders.
+Take NAGPRA as an example. Congress adopted NAGPRA to ensure respect for
+Native American cultural heritage property and to facilitate repatriations for Na-
+tive American tribes of their funeral objects and cultural heritage property that
+either fell into the collections of state or federal museums or have not yet been
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+ART, CULTURAL PROPERTY, AND THE FSIA
+
+301
+
+excavated, possessed or sold off. The United States National Parks web site boasts,
+“NAGPRA has a place within the global movement towards recognition of the
+cultural property rights of indigenous peoples.”69
+
+Among the objects protected under NAGPRA (and most relevant to this dis-
+
+cussion) are those of “cultural patrimony” defined as:
+
+an object having ongoing historical, traditional, or cultural importance cen-
+tral to the Native American group or culture itself, rather than property
+owned by an individual Native American, and which, therefore, cannot
+be alienated, appropriated, or conveyed by any individual regardless of
+whether or not the individual is a member of the Indian tribe or Native
+Hawaiian organization and such object shall have been considered in-
+alienable by such Native American group at the time the object was sep-
+arated from such group. (emphasis added)
+
+Under NAGPRA, cultural patrimony objects linked to a Native American tribe
+are considered inalienable. The Native American Graves Protection and Repatria-
+tion Act has sparked repatriations of cultural patrimony objects to Native Amer-
+ican tribes on a wide scale. To give just one example, “In 1999, the Robert S. Peabody
+Museum at Phillips-Andover in 1999 returned the bones of two thousand Pecos
+Indians and more than five hundred funerary items to the pueblo of Jamez, New
+Mexico.”70
+
+However, the recent controversy over Kennewick Man has shown that what is
+in the ground is not necessarily part of the cultural heritage of a later population
+that occupies the same land. Kennewick Man is a well-preserved skeleton discov-
+ered on July 28, 1996, in the Columbia River in Kennewick, Washington. The skel-
+eton dates to about 9,000 years old. The Ninth Circuit Court held that “human
+remains must bear some relationship to a presently existing tribe, people, or cul-
+ture to be ‘Native American’ within meaning of NAGPRA.”71 In the case of Ken-
+newick Man, the court agreed with scientists and found, “Scant or no evidence of
+cultural similarities between Kennewick Man and modern Indians exists.”72 Thus,
+the skeleton was not given to Native American tribes who had inhabited the re-
+gion where the skeleton was discovered. Cultural internationalists applauded the
+decision because it placed Kennewick Man as part of the cultural heritage of all
+mankind and allowed scientists to conduct research on the skeleton. The decision
+also challenged the view that whoever inherits the land can own and hoard all the
+cultural objects found buried in that land.
+
+Should we apply Kennewick Man to the case of the Persian artifacts and argue
+that Iran owns the tablets not with any special inalienable rights based on its cul-
+tural heritage lineage? That is, does Iran only possess the same ownership rights
+over the Persian artifacts as any other non-Iranian entity would because the arti-
+facts are not just part of Iran’s cultural heritage, but part of the world’s cultural
+heritage? I do not believe that this argument holds water. For, in contrast to Ken-
+newick Man, the Persian artifacts date to a much more recent period in history
+and Iran has continually treated Persian culture as part of its direct cultural lineage.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+302
+
+CHARLENE A. CAPRIO
+
+Moreover, the United States has on many occasions recognized the patrimony
+rights of modern cultures over early periods of antiquity buried in their lands.
+Such examples include the bilateral agreements in the CPIA, which prohibit the
+import of cultural property that is considered stolen according to a foreign country’s
+patrimony laws, as long as that foreign country is a signatory of CPIA. Going fur-
+ther, U.S. courts have recognized patrimony laws of non-CPIA signatory coun-
+tries as well. U.S. v. Schultz (Schultz) is a well-known example.73
+
+In Schultz, a federal court convicted a reputable New York art dealer, Frederick
+Schultz, under the National Stolen Property Act for his involvement in an inter-
+national ring dealing in Egyptian antiquities. The Schultz decision demonstrated
+that the U.S. could look to a foreign patrimony law to determine if an object should
+be considered stolen.74 The court did not dismiss Egypt’s claim because the arti-
+facts dated way back to antiquity. Likewise, Iran should be deemed to possess cul-
+tural heritage property rights over Persian artifacts.
+
+On an international scale, the U.S. has engaged in what has been a global trend
+of voluntary repatriations to return cultural heritage objects to their countries of
+origin. Examples of U.S. involvement include the National Museum of the Amer-
+ican Indian returning objects to Peru, Cuba, and Canada; The Metropolitan Mu-
+seum of Art returning the Euphronios krater to Italy; the Museum of Fine Arts,
+Boston also returning ancient works to Italy; and the Getty Museum returning
+Greek and Italian artifacts to their origin countries. The nature of these issues
+relate to the common understanding that present-day source countries possess an
+important right over the cultural heritage property associated with their lands. An
+attachment of the Persian artifacts in Rubin grossly denies this relationship and
+goes against the spirit of all the U.S. legislation that endeavors to respect and pro-
+mote national ownership of cultural heritage property.
+
+The interests of archeology and anthropology should also be considered. The
+U.S. archaeological field will most likely contract if the Rubin court allows an at-
+tachment of the Persian artifacts. Foreign state-run institutions are likely to refuse
+lending valuable and often irreplaceable cultural items to U.S. institutions for re-
+search. Yet, the studies of archeology and anthropology in our universities depend
+on such loans. Mr. Stein expressed this concern: “Scholarship depends on the abil-
+ity to trust each other to work above the level of politics and infighting. The whole
+structure of scholarly collaboration would fall apart, and the whole world would
+be very much the poorer for it.”75 If archaeologists cannot work on the pieces
+they excavate and produce publications from them, funding for excavations may
+be drastically reduced, and educational advancements in the international archae-
+ological field will undoubtedly suffer. International respect for the research and
+preservation of cultural heritage will also be terribly compromised with the dan-
+ger of retaliations.76
+
+Rubin is still being tried to see if an FSIA attachment over the Persian artifacts
+will be granted. But the irreparable harms that an attachment will cause should
+outweigh the justice that the individuals are seeking in this case.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+ART, CULTURAL PROPERTY, AND THE FSIA
+
+303
+
+CONCLUSION
+
+The Altmann court found a powerful litigation sword in the FSIA to retrieve Nazi-
+era looted artwork. This led to U.S. courts opening their doors to claims against
+foreign sovereigns for artwork based on state-run museum sponsored activities
+and cultural exchanges in the United States. While Malewicz placed cross-border
+museum loans at risk to U.S. litigation, it also stripped the IFSA of its important
+cross-border art and antiquities loan protections. Rubin is taking the FSIA com-
+mercial activity definition to the extreme by treating irreplaceable Persian arti-
+facts as property that might be used for commercial activity. If this is allowed,
+the protections and preservations of important cultural heritage property may
+be rendered void. In the following text, I suggest solutions to overcome the
+developments arising out of the three cases so as to restore the United States’ ef-
+forts to promote and protect cross-border art exchanges and cultural heritage
+property.
+
+First, in looking back at Altmann and Malewicz, we should ask if the U.S. courts
+were really the proper place to bring these lawsuits. Although the retrieval of sto-
+len property is no doubt an important judicial purpose, in Altmann and poten-
+tially in Malewicz, foreign sovereigns were forcefully denied jurisdiction over the
+claims even though both the foreign sovereigns and the property at issue were
+located (for most of the time, if not all of the time) not on U.S. soil. A museum
+promotion or art loan into the United States is not the best mechanism to trap
+foreign sovereigns into U.S. courts. It mixes together two separate interests: pro-
+moting (by protecting) cross-cultural art and cultural heritage exchanges, and pro-
+viding a forum for wronged individuals to seek justice for their private claims.
+
+Rather than mixing and therefore compromising the two interests, they should
+be made separate. An international commitment should be established (rather than
+a U.S. legal one) to restitute art and cultural property stolen in the international
+context to rightful owners. The international community can be better served, and
+a friendlier international commitment will be fostered, by bringing such inter-
+national stolen art claims in an international arbitration arena, or an international
+court system. This would allow the cases to be heard without any particular na-
+tion asserting too much control over the process, and the U.S. laws will not have
+to be strained to create jurisdiction over events that primarily occur overseas.
+
+Importantly, the U.S. can then continue to respect art and cultural heritage ex-
+changes within its borders without having to compromise the purpose and pow-
+ers of the IFSA. Removing such cases to an international arena can also allow the
+U.S. to exclude from the FSIA’s reach certain pieces of artwork and cultural her-
+itage property that constitute part of a foreign sovereign’s national heritage and
+cultural lineage, as discussed in the following text.
+
+The main issue to address on a policy level that arises out of Rubin is whether
+certain types of cultural heritage property should always be excluded from FSIA
+claims. To think about how to create a definition for such a cultural heritage
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+304
+
+CHARLENE A. CAPRIO
+
+property exclusion, we can place the analysis in the context of the cultural
+internationalists/nationalists debate.
+
+To begin, cultural nationalists and internationalists both agree that a certain class
+of cultural heritage objects should not be taken or transferred from source coun-
+tries. In John Merryman’s article,“Cultural Property Internationalism,” he gave some
+examples: fragile objects that are likely to be damaged or destroyed by movement,
+complex objects prone to dismemberment like the panels of an alter piece or the
+components of a sculptural group, and objects of ritual and religious importance.77
+In addition, inhabitants of every nation should have access to a fully representative
+collection of objects that represent their history and culture. Although cultural na-
+tionalists would broaden the basket of objects that source nations alone should own,
+cultural internationalists would keep it limited to support the concept of world her-
+itage ownership and a restricted but conducive trade in cultural objects.
+
+So if we take the narrow basket of cultural property that cultural internation-
+alists agree should be protected from entering into the stream of trade, would the
+Persian artifacts be placed in it? Arguable yes, because the artifacts do constitute a
+collection analogous to a collection of a sculptural group. Once divided, valuable
+information regarding the artifacts will be lost.
+
+But assuming the Persian artifacts do not fall into a narrow basket of special
+and fragile cultural heritage property, the next question to ask is whether the ar-
+tifacts should be considered property alienable and available for trade. Merryman
+argues that many cultural objects should be traded to be appreciated as part of a
+world heritage. However, they should be trade in a restricted trade environment,
+as Merryman has emphatically stressed, “No thinking person argues for free trade
+of cultural property.”78 Participants of a restricted trade circle include dealers, col-
+lectors, and museums. This is because these groups usually act under well-developed
+guidelines of professional codes of ethics when dealing in cultural objects.
+
+But the Rubin court does not propose to keep the artifacts within a restricted trade
+environment. Rather, an attachment would open the gates to free trade in cultural
+property and place national or world heritage property in private hands and be-
+yond internationally developed guidelines and protections for cultural property. The
+receivers of the Persian artifacts, the bombing victims, are not bound by any code of
+ethics regarding how to handle the artifacts. For example, selling the Persian arti-
+facts to the individual victims would do nothing to uphold the UNESCO Inter-
+national Code of Ethics for Dealers in Cultural Property and other such guidelines
+for the protection of cultural heritage property.
+
+Thus, whether the artifacts fall within the narrow basket of special cultural prop-
+erty or without, the Persian artifacts still should be protected from entering a free
+trade stream of commerce, because the private individuals receiving the artifacts
+are not under any obligations to give the artifacts special protections and preser-
+vation as should be given to national or world heritage property.
+
+Therefore, the FSIA should incorporate a cultural property exception to uphold
+a comparable level of protection for cultural heritage property currently reflected
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+ART, CULTURAL PROPERTY, AND THE FSIA
+
+305
+
+in international laws, national laws, and the art trade community as a whole. At
+the same time, the FSIA must allow stolen property, which may in some instances
+be cultural property, to be retrieved by their rightful owners. How to achieve the
+balance?
+
+The World Trade Organization’s General Agreement on Tariffs and Trade (GATT)
+can provide some starting guidance. Article XX of the GATT gives the following
+qualification to free trade: “the protection of national treasures of artistic, historic
+or archaeological value.” Although a good starting point, this provision is proba-
+bly too broad because both Austria and the city of Amsterdam could have claimed
+their rights to Nazi-looted art under it. But we can build on the provision with the
+following:
+
+in instances where the property 1) has never entered the stream of com-
+merce or been sold or traded; or 2) is not currently fit to enter the
+stream of commerce due to its condition(s) of fragility, uniqueness,
+irreplaceability, religious, ritual or public educational importance; and
+3) is not found to be the rightful possession of another through a claim
+of ownership.
+
+Adding to this exception, a protection for objects that have been granted immu-
+nity under the IFSA, the FSIA cultural property exception could read as follows:
+
+Property which is considered cultural heritage property and not in-
+cluded as the kind of property that can be attached, seized or form the
+basis of a lawsuit under the FSIA includes both property which has re-
+ceived immunity under the Immunity From Seizure Act and national
+treasures of artistic, historic or archaeological value in instances where
+the property 1) has never entered the stream of commerce or been sold
+or traded; or 3) is not currently fit to enter the stream of commerce due
+to its condition(s) of fragility, uniqueness, irreplaceability, religious, rit-
+ual or public educational importance; and 3) is not found to be the right-
+ful possession of another through a claim of ownership.
+
+This definition can allow for stolen art cases to proceed, while upholding the United
+States’ interests in promoting cross-cultural exchanges. It would also protect the
+Persian artifacts and other similar national treasures from being destroyed, altered
+or removed from source countries. At the same time, the proposed FSIA cultural
+heritage property exception would not extend so far as to blindly uphold cultural
+patrimony laws that can be overreaching in trying to protect every object that can
+fall under a wide and ambiguous definition of art.
+
+As it stands, the FSIA already precludes certain types of property from attach-
+ment. A list is given in §1611 and includes property owned by certain organiza-
+tions designated by the U.S. President, and property used in connection with a
+military activity. Adding a cultural heritage property exception to §1611 will not
+affect such a large number of claims so as to produce a remedy without a right
+under the FSIA.
+
+In the case of Rubin, a new FSIA art and cultural heritage property exception
+would make the plaintiff attorneys look harder to find suitable property to attach,
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+306
+
+CHARLENE A. CAPRIO
+
+or wait for other property to come into the United States; but, if an important
+piece of our cultural heritage were attacked on similar grounds in another coun-
+try, we would expect the same approach. The proposed FSIA cultural heritage prop-
+erty exception allows for a balance to be struck between facilitating access to justice
+for wronged individuals and preserving the United State’s commitment to respect-
+ing and preserving cultural heritage property, whether it be for the enjoyment and
+education of people located within source nations or for the enjoyment and ed-
+ucation of the world population as a whole.
+
+ENDNOTES
+
+1. 22 U.S.C.A. § 2459.
+2. 22 U.S.C.A. § 2459.
+3. H.R. Rep. 89-1070, H.R. Rep No. 1070, 89th Cong., 1st Sess. 1965, 1965 U.S.C.C.A.N. 3576.
+4. Noonan, “Immunity from Seizure,” 45.
+5. H.R. REP. 94-1487, H.R. Rep. No. 1487, 94th Cong. 2nd Sess. 1976, ’976 WL 14078.
+6. Altmann v. Republic of Austria, 142 F.Supp. 2d 1187 (C.D. Cal. 2001); aff ’d and remanded by
+317 F.3d 954, (9th Cir. 2002); amended by 327 F.3d 1246, (9th Cir. 2003); cert. granted in part by 539
+U.S. 987 (2003); aff ’d on other grounds by 541 U.S. 677, (2004); on remand to Altmann v. Republic
+of Austria, 335 F.Supp. 2d 1066 (C.D.Cal. 2004).
+
+7. Malewicz v. City of Amsterdam, 362 F.Supp. 2d 298 (D.D.C. 2005).
+8. Rubin v. The Islamic Republic of Iran, 408 F. Supp. 2d 549 (N.D. Ill. 2005); aff ’d by 436 F.Supp.
+2d 938 (N.D.Ill. 2006); motion to amend denied by 2006 WL 2024247 (N.D.Ill. Jul 14, 2006) (NO. 03
+CV 9370).
+
+9. See Campuzano, et al. v. The Islamic Republic of Iran, et al., 281 F.Supp. 2d 258 (D.D.C.2003).
+10. Verlinden B.V. v. Central Bank of Nigeria, 461 U.S. 480, 486 (1983).
+11. Letter from Jack B. Tate, Acting Legal Adviser, Department of State, Acting Attorney General
+Philip B. Perlman (May 19, 1952), reprinted in Alfred Dunhill of London, Inc. v. Cuba, 425 U.S. 682,
+711 (Appendix 2 to opinion of White, J.).
+
+12. Verlinden, 478.
+13. Verlinden, 488.
+14. See 28 U.S.C. §§ 1330 and 1602.
+15. Verlinden, 486.
+16. See for example, Brief for the United States as Amicus Curiae Supporting Petitioners, Republic of
+Austria v. Altmann, 124 S.Ct 2240 (No. 03-13); Statement of Interest of the United States, Malewicz
+v. City of Amsterdam at 7, 362 F.Supp. 2d 298 (D.D.C. 2005). (No 04-00024), Second Statement of
+Interest of the United States, Rubin v. The Islamic Public of Iran, 408 F.Supp. 2d 549 (N.D. Ill. 2005)(No
+03-cv-9370).
+
+17. 28 U.S.C.A. § 1603(d).
+18. Altmann, 1192; see footnote 5. The six paintings in controversy to this action are Adele Block-
+Bauer I, Adele Block-Bauer II, Beechwood, Apple Tree I, Houses in Unterach am Attersee, and the
+portrait of Amalie Zuckerkandl. For information on each painting, see the following pages in Alt-
+mann, 1191 1192; 1192; 1192; 1193; 1193; 1193, respectively.
+
+19. Altmann, 1193, 1195, 1196.
+20. Altmann, 1196.
+21. 28 U.S.C. §1605(a)(3).
+22. Altmann, 1203.
+23. Altmann, 1204. See also 28 U.S.C.A. § 1603(b) (“An ‘agency or instrumentality of a foreign
+state’ means any entity—(1) which is a separate legal person, corporate or otherwise, and (2) which
+is an organ of a foreign state or political subdivision thereof, or a majority of whose shares or other
+ownership interest is owned by a foreign state or political subdivision thereof, and (3) which is nei-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+ART, CULTURAL PROPERTY, AND THE FSIA
+
+307
+
+ther a citizen of a State of the United States as defined in Section 1332 (c) and (d) of this title, nor
+created under the laws of any third country.”)
+
+24. Altmann, 1204, quoting from Republic of Argentina v. Weltover, Inc. 504 U.S. 607,614 (1992).
+25. Altmann, 1204–1205.
+26. Altmann v. Republic of Austria, 317 F.3d 954, 969 (9th Cir. 2002).
+27. Republic of Austria v. Altmann, 541 U.S. 677 (2004).
+28. Waxman, “A Homecoming, in Los Angeles, for Looted Klimts.”
+29. Kimmelman, “Klimt sale: The roads not taken by heirs,” Vogel, “$491 Million Sale at Christie’s
+
+Shatters Art Auction Record.”
+
+30. Altmann, 1205.
+31. Altmann, 1209–1210.
+32. See “Austria ‘May Return Looted Art.’”
+33. See “Austria ‘May Return Looted Art.’”
+34. Malewicz, 301.
+35. Malewicz, 301, 302, 302–303.
+36. Malewicz, 301–303.
+37. Malewicz, 309; Statement of Interest of the United States, Malewicz v. City of Amsterdam, 362
+
+F.Supp. 2d 298 (D.D.C. 2005) (No 04-00024), 5.
+
+38. Malewicz, 309. See also H.R. Rep. No. 1487, 94th Cong., 2nd Sess. 1976, 1976 U.S.C.C.A.N.
+6604: “Claimants will clearly benefit from the expanded methods under the bill for service on a
+foreign state (sec. 1608), as well as from the certainty that section 1330(b) of the bill confers per-
+sonal jurisdiction over a foreign state in Federal and State courts as to every claim for which the
+foreign state is not entitled to immunity. The elimination of attachment as a vehicle for commenc-
+ing a lawsuit will ease the conduct of foreign relations by the United States and help eliminate the
+necessity for determinations of claims of sovereign immunity by the State Department.” Malewicz,
+312.
+
+39. Malewicz, 313, 314.
+40. Statement of Interest of the United States, Malewicz v. City of Amsterdam at 7, 362 F.Supp. 2d
+298 (D.D.C. 2005). (No 04–00024); Malewicz, 313–315. To determine whether Amsterdam estab-
+lished significant contacts in the U.S., the court stated that it wanted to know more about the extent
+of the nominal loan handling fees and the Stedelijk’s alleged loss of money on the loans.
+
+41. Malewicz, 316. The Malewicz court states that if the City of Amsterdam will not waive its
+State of Limitations defenses as are allowable in a Dutch court, the Malewicz court will render this
+claim ripe under U.S. jurisdiction.
+
+42. Rubin, 1108, 1110; Campuzano, et al. v. The Islamic Republic of Iran, et al., 281 F.Supp. 2d 258
+
+(D.D.C. 2003).
+
+43. Rubin, 1110; “Terror Victims Claim U. of C. Relics: Group Wants Valuable Iranian Artifacts to
+
+Cover $71 Million Suit,” 6.
+
+44. Rubin, 1110.
+45. Rubin, 1110–1113.
+46. Rubin v. The Islamic Public of Iran, 408 F.Supp. 2d 549 (N.D. Ill. 2005); Rubin, 555.
+47. Second Statement of Interest of the United States at 5, Rubin v. The Islamic Public of Iran, 408
+F.Supp. 2d 549 (N.D. Ill. 2005) (No 03-cv-9370); Rubin, 5, 13 (quoting from Acosta v. Artuz, 221 F.3d
+117, 121 [2d Cir. 2000]); Rubin, 5, 7.
+
+48. Plaintiff’s Memorandum in Response to The Second Statement of Interest of the United States,
+
+Rubin v. The Islamic Public of Iran, 408 F.Supp. 2d 549 (N.D. Ill. 2005) (No 03-cv-9370).
+
+49. Islamic Republic of Iran vs. University of Chicago, 436 F.Supp. 2d 938 (N.D. Ill. Jun 22, 2006).
+50. Rubin, 436 F.Supp. 2d at 941.
+51. H.R.Rep. No. 94-1487, 9th Cong., 2d Sess., at 17 (1976).
+52. Rubin, 436 F.Supp. 2d at 944–945.
+53. Rubin, 551.
+54. Islamic Republic of Iran vs. University of Chicago, 2006 WL 2024247 (N.D.Ill. Jul 14, 2006)
+
+(NO. 03 CV 9370).
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+308
+
+CHARLENE A. CAPRIO
+
+55. 309 F.3d 240 (2d Cir. 2002).
+56. Ciarelli, “Bombing Victims Seek Iranian Artifacts From Harvard Museums.”
+57. Ciarelli, “Bombing Victims Seek Iranian Artifacts.”
+58. Slevin, “U.S., Iran Form Unlikely Alliance.”
+59. “Embattled Tablets.”
+60. “Embattled Tablets.”
+61. Iran Constitution, article 83.
+62. “Terror Victims claim U. of C. relics: Group wants valuable Iranian Artifacts to cover $71
+
+million suit,” 6.
+
+63. Meier, Barry. “Antiquities and Politics Intersect in a Lawsuit.”
+64. Gerstenblith, “Identity and Cultural Property,” 651–652.
+65. 16 U.S.C. §470aa. The term archaeological resource is defined in ARPA as: “any material remains
+of past human life or activities which are of archaeological interest, as determined under uniform
+regulations promulgated pursuant to this chapter. Such regulations containing such determination
+shall include, but not be limited to: pottery, basketry, bottles, weapons, weapon projectiles, tools,
+structures or portions of structures, pit houses, rock paintings, rock carvings, intaglios, graves, human
+skeletal materials, or any portion or piece of any of the foregoing items. Nonfossilized and fossilized
+paleontological specimens, or any portion or piece thereof, shall not be considered archaeological
+resources, under the regulations under this paragraph, unless found in an archaeological context. No
+item shall be treated as an archaeological resource under regulations under this paragraph unless
+such item is at least 100 years of age.”; See also Gerstenblith, “Identity and Cultural Property,” 651–652.
+
+66. Gerstenblith, “Identity and Cultural Property,” 655.
+67. Gerstenblith, “Identity and Cultural Property,” 655.
+68. 1970 UNESCO Convention on the Means of Prohibiting and Preventing the Illicit Import,
+Export and Transfer of Ownership of Cultural Property (823 U.N.T.S. 231). The United States has
+ratified the 1970 Convention in a somewhat restrictive format, adopting articles 7 and 9 as the Con-
+vention on Cultural Property Implementation Act (CPIA).
+
+69. Web site for National Park Service, Department of the Interior.
+70. Vincent, “Indian Givers.”
+71. Bonnischen v. United States, 217 F. Supp 2d 1116 at (D. Org. 2002); aff ’d and remanded by 367
+
+F.3d 864 (9th Cir. 2004).
+
+72. Bonnischen v. United States, 217 F. Supp 2d 1116 at (D. Org. 2002).
+73. 333 F.3d 393 (2d Cir. 2003).
+74. U.S. v. Schultz. The court respected Egypt’s 1983 patrimony law, which declares all antiquities
+discovered in Egypt after 1983 to be the property of the Egyptian government and makes private
+ownership or possession of them illegal.
+
+75. Slevin, “U.S., Iran Form Unlikely Alliance.”
+76. Slevin, “U.S., Iran.” “Foreign Minister Manouchehr Mottaki described the case on June 30 as
+an ‘indecent cultural move by the United States.’ He said if federal courts approved the sale, Iran
+could make retaliatory legal claims against the United States for supporting the 1953 coup in Tehran
+and backing Iraq during the deadly 1980s Iran-Iraq war.”
+
+77. Merryman, “Cultural Property Internationalism.”
+78. Merryman, “Cultural Property Internationalism,” 12, 28.
+
+BIBLIOGRAPHY
+
+“Austria ‘May Return Looted Art.’” BBC News, April 7, 2006. 具http://news.bbc.co.uk/2/hi/
+entertainment/4883488.stm典 accessed November 15, 2006.
+“Embattled Tablets.” Archaeology, September/October (2006): 12.
+
+Gerstenblith, Patty. “Identity and Cultural Property: The Protection of Cultural Property in the United
+States.” Boston University Law Review 75 (1995): 559–688.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+ART, CULTURAL PROPERTY, AND THE FSIA
+
+309
+
+Herrmann, Andrew; Warmbir, Steve. “Terror Victims claim U. of C. relics: Group wants valuable
+Iranian Artifacts to cover $71 million suit.” Chicago Sun-Times, December 13, 2005.
+
+Kimmelman, Michael. “Klimt Sale: The Roads Not Taken by Heirs.” International Herald Tribune,
+Sept. 20, 2006.
+
+Meier, Barry. “Antiquities and Politics Intersect in a Lawsuit.” The New York Times, March 29, 2006.
+
+Merryman, John H. “Cultural Property Internationalism.” International Journal of Cultural Property
+12 (2005) 11–39.
+National Park Service, Department of the Interior, 具http://www.cr.nps.gov/nagpra/SPECIAL/
+International.htm典 accessed November 15, 2006.
+
+Noonan, Rebecca. “Immunity from Seizure.” In Who Owns the Past, edited by Kate Fitz, New Bruns-
+wick, NJ: Rutgers University Press, 2005.
+
+Slevin, Peter. “U.S., Iran Form Unlikely Alliance to Protect Artifacts From Seizure in Bombing Law-
+suit.” Washington Post, July 18, 2006.
+
+Vincent, Steven. “Indian Givers.” In Who Owns the Past, edited by Kate Fitz, New Brunswick, NJ:
+Rutgers University Press, 2005.
+
+Vogel, Carol, “$491 Million Sale at Christie’s Art Auction Record.” The New York Times, November 9,
+2006.
+
+Waxman, Sharon. “A Homecoming, in Los Angeles, for Looted Klimts.” The New York Times, April 6,
+2006.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 20 Dec 2018 at 18:22:02, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S094073910606019X
+
+

@@ -1,0 +1,848 @@
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 3
+
+ARTICLE
+
+167
+
+UK claim construction: return of the Protocol
+questions and file wrapper estoppel
+Ralph Cox and Simon Spink*
+
+Assumptions, Actavis and Arnold J
+For the 10 years since the judgment of Lord Hoffmann in
+Kirin-Amgen v Hoescht Marion Roussel,1 it has been
+widely assumed that there is no ﬁle wrapper estoppel in
+the UK and no doctrine of equivalents either. Both these
+assumptions are thrown into doubt by the Patent Court’s
+decision in Actavis v Eli Lilly.2 The judge, Mr Justice
+Arnold, ﬁrst applied the more or less defunct Improver or
+Protocol Questions3 in a manner that potentially opens
+the door to a doctrine of equivalents in all but name. The
+judge then held that the court should not shut its eyes to
+the prosecution ﬁle but should ensure a patentee did not
+abuse the system by accepting narrow claims during
+prosecution and then arguing for a broader construction
+in a subsequent infringement action.
+
+Use of the ﬁle wrapper
+In Kirin-Amgen, Lord Hoffmann said that there were good
+reasons why the German and English courts discouraged,
+if not actually prohibited, the use of patent ofﬁce prosecu-
+tion ﬁles in aid of the construction of claims. The reasons
+included the consideration that the meaning of a patent
+does not change depending on whether a party has access
+to the ofﬁce ﬁle and, in any event, the ﬁle may reﬂect no
+more than a patentee’s desire to get the patent granted
+quickly without further argument with the examiner. In
+short, it was a difﬁcult and likely unproductive exercise to
+use the ﬁle wrapper to try to work out what the patentee
+meant by a claim’s terms.
+
+Taking the hint, parties and the courts made little use
+of ﬁle wrappers in subsequent cases with Sir Robin Jacob
+observing in Eli Lilly v Human Genome Sciences4 that he
+was not conﬁdent it was legitimate to do so even though
+the UK courts had yet to decide the matter conclusively.
+Going further, Mr Justice Floyd in Qualcomm v Nokia5
+warned that it was positively counterproductive to be re-
+ferred to prosecution documents as this practice alerted
+
+Emails: rcox@fasken.com and sspink@fasken.com.
+
+*
+1 Kirin-Amgen v Hoescht Marion Roussel [2005] RPC 9.
+2 Actavis v Eli Lilly [2014] EWHC 1511 (Pat).
+3
+
+From Improver v Remington Consumer Products [1990] FSR 181: in brief, as
+guidance on arriving at a purposive construction of a claim, the Questions
+
+The authors
+† Ralph Cox and Simon Spink are in the IP depart-
+ment of Fasken Martineau LLP and specialize in
+patent litigation.
+
+This article
+† The law of patent construction in the UK has been
+largely settled since the 2004 House of Lords’ deci-
+sion in Kirin-Amgen which, in conﬁrming purposive
+construction as the correct approach, ruled out any
+US-style doctrine of equivalence. It also doubted the
+utility of
+the Protocol Questions, despite their
+regular application by the UK courts and the adop-
+tion of similar questions in other EU jurisdictions.
+
+† The law on ﬁle wrapper estoppel, the use of a
+patent’s prosecution history to estop the patentee
+from arguing a different construction during liti-
+gation, has been settled for even longer. The UK
+courts have felt strongly that it should not be ne-
+cessary to read the prosecution history in order to
+determine a patent’s scope. Germany and Canada
+concur with the UK’s approach, however, the US
+courts take the opposite stance with ﬁle wrapper
+estoppel providing a counterbalance to its doc-
+trine of equivalents.
+
+† Mr Justice Arnold’s judgment in Actavis v Eli Lilly
+has reopened both these issues. Arnold J not only
+applied the previously defunct Protocol Questions
+in construing Eli Lilly’s Alimta patent but then
+used the patent’s prosecution history in deciding
+that its claim did not extend to cover Actavis’s
+variant. This comes close to the US approach cri-
+ticized by Lord Hoffmann in Kirin-Amgen and
+may lead to a resurrection of the Protocol Ques-
+tions as a doctrine of equivalence, even if not ex-
+plicitly recognized as such.
+
+ask whether a variant has a material effect on the way an invention works,
+whether this was obvious at the patent’s publication date and whether strict
+compliance with the primary meaning of the claim is nonetheless essential.
+Eli Lilly v Human Genome Sciences [2013] RPC 22.
+
+4
+5 Qualcomm v Nokia [2008] EWHC 329 (Pat).
+
+# The Author(s) (2014). Published by Oxford University Press. All rights reserved.
+
+Advance Access publication on 23 December 2014
+
+doi:10.1093/jiplp/jpu225
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+3
+1
+6
+7
+7
+8
+6
+6
+3
+6
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+168
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 3
+
+the tribunal to the fact that there might be something to
+be said for the alternative construction.
+
+The approach in the UK can be contrasted with that of
+the US courts, where ﬁle wrapper estoppel provides a
+counterbalance to the doctrine of equivalents in construing
+a patent by ensuring that a patentee cannot argue a narrow
+claim construction on validity during prosecution but then
+seek to expand the scope of protection via the doctrine of
+equivalents in subsequent litigation on infringement. In
+contrast, the Canadian courts follow a doctrine of purpos-
+ive construction with extrinsic evidence being inadmissible.
+Accordingly, ﬁle wrapper estoppel has been rejected by the
+courts there.6 This position also prevents a patentee from
+relying on a ﬁle wrapper to show consistency of construc-
+tion before a patent ofﬁce and in the courts.
+
+Doctrine of equivalents
+Returning to Kirin-Amgen, having ﬁrst conﬁrmed that the
+Catnic7 principle of purposive construction was ﬁrmly
+in accordance with the Protocol on the construction of
+Article 69 of the European Patent Convention (EPC),
+Lord Hoffmann addressed the question of equivalents:
+
+It seems to me that both the doctrine of equivalents in the
+United States and the pith and marrow doctrine in the United
+Kingdom were born of despair. The Courts felt unable to
+escape from interpretations which ‘unsparing logic’ appeared
+to require and which prevented them from according the pa-
+tentee the full extent of the monopoly which the person skilled
+in the art would reasonably have thought he was claiming.
+
+He reasoned that if literalism stood the way of constru-
+ing patent claims in such a way as to give fair protection
+to the patentee then there were two options available:
+
+(i) to adhere to literalism in construction but evolve a
+doctrine which supplements the claims by extend-
+ing the protection of the patent to equivalents; or
+
+(ii) to abandon literalism altogether (as the House of
+
+Lords did in Catnic).
+
+Lord Hoffmann found that Article 69 of the EPC had
+shut the door on any doctrine (and in particular any
+‘structured’ approach) which extended scope of protec-
+tion beyond the claims. But he stopped short of dismiss-
+ing the concept of equivalents in its entirety; instead, he
+acknowledged that equivalents could be an important
+part of the background that would affect the skilled
+person’s understanding of a claim. His conclusions in that
+
+respect were entirely consistent with Article 28 of the
+Protocol on the Interpretation of Article 69, which states
+that, in balancing the literal and purposive construction
+of a patent’s claims, due account should be taken of ‘any
+element which is equivalent to an element speciﬁed in the
+claims’. He then speciﬁcally addressed the Protocol Ques-
+tions, doubting their usefulness in reaching a purposive
+construction and in particular highlighting the difﬁculties
+of applying the second question to new technology. In
+conclusion he said that there was in reality only one ques-
+tion which was compulsory: what would a person skilled
+in the art have understood the patentee to have used the
+language of the claim to mean?
+
+What has followed since Kirin-Amgen has not been
+unexpected; the Protocol Questions have seldom been
+used in UK patent actions,
+judges and practitioners
+shunning the structured approach in favour of asking
+Lord Hoffman’s compulsory question: ‘what would a
+person skilled in the art have understood the patentee to
+mean?’ In Smith & Nephew v Convatec Technologies,9 it
+was even questioned whether a 1992 decision on in-
+fringement of a numerical limitation would have been
+decided the same way following Kirin-Amgen as it had
+been using the Protocol Questions. This apparently
+settled state of the law on construction is now reopened
+by Mr Justice Arnold’s decision in Actavis v Eli Lilly.
+
+Actavis v Eli Lilly
+Actavis concerned Eli Lilly’s European patent protecting
+the formulation of its cancer treatment, Alimta. The
+patent claims the active ingredient, pemetrexed disodium,
+in combination with vitamin B12 and, optionally, a folic
+protein binding agent. Actavis sought declarations that its
+proposed generic version of Alimta, which would contain
+one of pemetrexed diacid, pemetrexed dipotasium or
+pemetrexed dimethamine, did not infringe this patent. If
+granted, the declarations would mean that once Eli Lilly’s
+Supplementary Protection Certiﬁcate, based on an earlier
+and now expired patent
+for pemetrexed alone, also
+expired on 10 December 2015, its path to market would
+be clear. This was not just the position in the UK but in
+other European jurisdictions too: since Actavis was not
+challenging validity, it was allowed to seek declarations of
+non-infringement under the French, Italian and Spanish
+designations of the patent as well as the UK designation.
+Originally, Actavis had sought a declaration in relation to
+the German designation of the patent too but the claim
+
+6
+
+Free World Trust v. E´lectro Sante´ Inc. [2000] 2 SCR 1024, 2000 SCC 66
+(CanLII).
+
+patent construction and in particular purposive construction of patent
+claims.
+
+7 Catnic Components Ltd v Hill & Smith [1982] RPC 183—the speech of
+
+8 As added to the Protocol by the Munich Act of 29 November 2000 which
+
+Lord Diplock (with which the other members of the House Lords agreed)
+in Catnic is considered to be the starting point of the modern approach to
+
+revised the EPC.
+Smith & Nephew v Convatec Technologies [2013] EWHC 3955 (Pat).
+
+9
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+3
+1
+6
+7
+7
+8
+6
+6
+3
+6
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+Ralph Cox and Simon Spink . UK claim construction: return of the Protocol questions and ﬁle wrapper estoppel ARTICLE
+
+169
+
+was eventually dropped after Eli Lilly ﬁled an infringe-
+ment action in the Du¨sseldorf Regional Court.
+
+In his judgment, Mr Justice Arnold carefully reviewed
+the case law on both use of ﬁle wrappers and the doc-
+trine of equivalents. On the latter, he identiﬁed three
+main classes of case in which patentees resort to argu-
+ments on equivalents, namely where:
+
+(i) the patent has been poorly drafted (as in Improver);
+
+(ii) technology has moved on signiﬁcantly since the
+
+patent was ﬁled (as in Kirin-Amgen); and
+
+(iii) the patentee regretted a decision taken during the
+
+course of prosecution.
+
+He considered Actavis to be a clear example of the third
+category. Eli Lilly had attempted to broaden its claims in
+prosecution to cover ‘pemetrexed’, failed and accepted the
+narrower claims to pemetrexed disodium. It had reserved
+the right to ﬁle a divisional application, but did not do so.
+Several years on, faced with a competing product, it
+clearly wished it had broader claims in order to catch
+Actavis’s product on infringement. But there was ‘no
+reason why the law should be sympathetic to the patentee’,
+which not only had the beneﬁt of skilled professional
+advice but also had the opportunity to appeal against
+adverse decisions by patent examiners. Further, from a
+policy point of view, to allow examiners’ decisions effect-
+ively to be overturned by the courts on claim construction
+would undermine their important role in balancing the
+monopoly granted with the disclosure given. Against this
+background, Mr Justice Arnold made use of the prosecu-
+tion history as one of several reasons why Eli Lilly’s broad
+construction, that pemetrexed disodium encompassed
+other salts because the important pemetrexed anion was
+present irrespective of the cation used, should be rejected.
+Further, it is signiﬁcant that Mr Justice Arnold choose to
+use the Protocol Questions when construing the scope of the
+claims. He noted that the Questions had fallen out of fashion
+since Kirin-Amgen, which he regarded to be unfortunate as,
+despite their shortcomings, they provided a structured ap-
+proach to the question of equivalents and had been inﬂuen-
+tial across Europe. Other factors inﬂuencing the judge’s
+decision to use the Protocol Questions were that there was
+no dispute that the alleged infringement was not within the
+primary, literal meaning of the claim and that the parties
+themselves had used the Questions for consistency of their
+submissions on the non-UK designations. What is also sig-
+niﬁcant about this choice is that Mr Justice Arnold chose to
+resurrect the Protocol Questions when there were other (and
+better-trodden) routes he could have taken to reach the same
+destination should he have wished. As with all ﬁrst instance
+
+decisions, it is now a matter of waiting for the Court of
+Appeal’s decision to see if the Protocol Questions do indeed
+have a new lease of life as a means of introducing a form of
+equivalence and whether ﬁle wrapper estoppel is here to stay.
+Meanwhile, in Du¨sseldorf, the District Court granted
+an interim injunction against Actavis ﬁnding infringement
+of the German designation of the patent by its threatened
+dealings in pemetrexed dipotassium and on the basis of
+equivalence rather than literal infringement of the patent’s
+claims. As an aid to construction the German courts use a
+set of questions which at ﬁrst read are not dissimilar to the
+Protocol Questions but that arguably give greater scope
+for a ﬁnding of equivalence (particularly in the third ques-
+tion which considers the technical effect of the equivalent
+means rather than circling back to the language of the
+claim as in the Protocol Questions). This approach is not
+generally counter-balanced by reference to a patent’s pros-
+ecution history and was not in this instance.
+
+Construction, caveat and caution
+Mr Justice Arnold observed that the US has a doctrine of
+equivalents with a doctrine of ﬁle wrapper estoppel to
+counterbalance it. Recent case law suggested the UK had
+neither. The judge’s considered use of the Protocol Ques-
+tions and ﬁle wrapper estoppel (albeit only in the case of
+the regretful patentee) in his judgment suggests that the
+status quo could be changing. As could be expected he
+issued a caveat regarding his use of ﬁle wrapper estoppel,
+cautioning that the use of prosecution history should
+only be when it is short, simple and shows clearly why
+the claims are in their granted form and not broader.
+
+As regards the Protocol Questions, they merely fell out
+of favour after Kirin-Amgen. Lord Hoffmann may have
+shut the door on doctrines that explicitly extended the
+protection outside the claims but he left it ajar in terms of
+the Protocol Questions. Mr Justice Arnold clearly felt this
+was one of the cases where the Questions were useful
+—but applying them where there is plainly no literal in-
+fringement comes very close to Lord Hoffmann’s descrip-
+tion of the US approach, ie ‘to adhere to literalism in
+construing the claims and evolve a doctrine which supple-
+ments the claims by extending protection to equivalents’.
+Even if not explicitly recognized as a doctrine of equiva-
+lence, the decision may therefore lead to a resurrection of
+the Protocol Questions by patentees effectively arguing
+just that. The decision may also see a renewed use of the
+Protocol Questions as an aid to construction generally
+but it seems unlikely to return to the time when every am-
+biguity in a claim was routinely put through them.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+3
+1
+6
+7
+7
+8
+6
+6
+3
+6
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+

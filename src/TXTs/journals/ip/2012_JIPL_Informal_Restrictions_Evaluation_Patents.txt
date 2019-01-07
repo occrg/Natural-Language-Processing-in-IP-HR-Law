@@ -1,0 +1,2845 @@
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 8
+
+ARTICLE
+
+613
+
+Informal restrictions and evaluation of patents
+Oliver P. Baldus and Christian Heckmann*
+
+Traditional IP management ideas
+The development of what is now commonly known as
+patent management began in the USA in the late
+1980s, after the newly founded Court of Appeals for
+the Federal Circuit1 handed down numerous verdicts
+in favour of patent owners.2 The existence of this new
+court signiﬁcantly increased the enforceability of IP
+rights, thereby drawing public attention to their proﬁt-
+ability.3
+
+In short order, large companies such as IBM4 and
+Instruments5 began developing sophisticated
+Texas
+licensing programs to increase patent-based revenue. In
+this context, ﬁrms also had to develop methods of
+patent valuation so as to guarantee sound investment
+decisions.
+
+Europe has lagged behind signiﬁcantly in regard to
+recognizing the importance of active patent manage-
+ment strategies, and patent-valuation methods as a part
+thereof.6 Only over the course of the past ten years or
+so has signiﬁcant progress been made in these areas.7
+
+This ever-growing interest in patent management and
+valuation is also in part a function of the recent emer-
+gence of numerous business models that utilize IP rights
+as their central asset.8 Some examples of this are:9
+† IP mutual funds
+† IP auctions
+† IP trolls
+† IP consulting
+
+IP analysis services
+
+IP data mining
+
+IP insurance
+
+IP ﬁnance
+
+As these examples indicate, there is signiﬁcant diversiﬁ-
+cation taking place in the way patents are used. No
+longer are they solely a means of protecting one’s
+invention.10
+
+* Email: baldus@patentship.eu and chris.heckmann@gmail.com.
+1
+
+Founded in 1982, this is the main court in charge of appeals regarding
+patent infringement suits.
+For example, in 1986, the court ruled that Kodak was to pay $925 million
+dollars in damages to the ten times smaller company Polaroid for
+infringement of its patents.
+JL Davis and SS Harrison Edison in the Boardroom (John Wiley and Sons
+2001) 7.
+
+2
+
+3
+
+4 KG Rivette and D Kline Rembrandts in the Attic (Harvard Business
+
+School Press 2000) 46.
+Ibid, 125.
+
+5
+6 A Wurzer and D Reinhardt Handbuch der Patentbewertung (2nd edn
+
+Heymanns 2010) 3.
+
+About the authors
+† Dr Oliver Baldus studied Economics and Physics
+and is Patent Attorney at PATENTSHIP. Chris
+Heckmann holds a degree in Philosophy and
+Economics and is currently a graduate student of
+Governance at the University of Strasbourg.
+
+This article
+† The article gives new insights into evaluating
+the underlying legal
+
+irrespective of
+
+patents,
+system.
+
+† Most patents suffer from a reduced actual en-
+forceability, eg due to a threat from counter
+patents by a competitor. This fact results in the
+set of formal rights (prohibitive rights) granted
+by patents often being reduced to a smaller set
+of rights which are actually enforceable, termed
+the informal
+restrictions approach (‘IR ap-
+proach’). The reduced set of rights is considered
+when determining the value of a patent, leading
+to more precise results.
+
+† In building on the IR approach, an IP strategy
+matrix is introduced, which serves as a useful
+interface for modelling competitive patent situa-
+tions in a simple way, thereby facilitating the
+derivation of viable patent strategies.
+
+Before we examine the world of patent strategies in
+detail,
+let us brieﬂy specify under what conditions
+patents create value for a ﬁrm so that we may better
+understand what exactly might constitute effective
+patent management.
+
+7
+
+Sykes and King published the ﬁrst ‘European’ overview on the Valuation
+of Patents. See J Sykes and K King Valuation and Exploitation of
+Intellectual Property and Intangible Assets (Emis Professional Publishing
+2001).
+
+8 C Frey and A Wurzer ‘Intellectual Property Managers in Strategy
+
+Development: Integrating IP into Business Models’ in A Wurzer and
+L Kaiser (eds), Praxishandbuch Internationaler Know-how-Schutz
+(Bundesanzeiger Verlag 2009), 49.
+See above n 6, 4.
+
+9
+10 A further approach is given in: L Escofﬁer, ‘Reinterpreting Patent
+
+Valuation and Evaluation: The Tricky World of Nanotechnology’ (2011)
+EJRR Vol.2011, No.1, 67 –78.
+
+# The Authors (2012). Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jps091
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+8
+6
+1
+3
+7
+8
+6
+9
+5
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+614
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 8
+
+In short, the economic worth of a patent is the
+utility it brings to a ﬁrm in comparison to a situation
+without the patent.11 More precisely, it can be deﬁned
+as the worth of the ﬁrm holding the patent in compari-
+son to the worth of the ﬁrm without the patent.
+
+However, there are certain misconceptions regarding
+patents and their
+supposed inherent value. Many
+people erroneously believe that mere ownership of a
+patent automatically leads to great wealth. This is
+simply not
+the case. Owning a patent guarantees
+neither wealth nor any proﬁt at all, for that matter.
+Rather, within patents, there may exist a potential for
+proﬁt, derived from the competitive advantage granted
+by the patent’s prohibitive nature, that is, the owner’s
+ability to prohibit others from making, using or selling
+his invention. However, being able to impede others
+alone will not lead to any kind of revenue. In order to
+proﬁt from a patent, its owner must also have and exer-
+cise the ability to make use of the advantage contained
+within it.12 This ability to utilize a patent’s advantage is
+usually contingent on complementary factors, such as
+having the necessary capital or production facilities to
+commercialize the invention or being familiar enough
+with the industry to know where the invention might
+be made proﬁtable in the ﬁrst place. Indeed, in some
+instances an inventor may hold a patent to a technology
+that is simply not useful in his speciﬁc industry. Apart
+from having no use for the technology, he may further
+lack the necessary funds, know-how or production
+facilities to commercialize the invention. To be sure, an
+invention, eg, in the form of an innovative technology
+or production method, does not equal a marketable
+product. Thus one of the reasons many inventions are
+licensed out to third parties is that sometimes there
+may be no other feasible way to proﬁt from them.
+
+The value-in-context phenomenon
+It becomes clear that the degree to which a patent can
+be made proﬁtable is contingent in large part on the
+speciﬁc context in which it is placed. A patent’s value
+can ﬂuctuate drastically depending on the context in
+which it is used, as we shall also see later.13 This is
+
+Figure 1. IP Value building blocks. Source: A Wurzer and S
+Hundertmark,
+‘Value oriented IP Management’ (2006) IAM-
+Magazine 12/01, 33.
+
+commonly referred to as the ‘value-in-context’ phe-
+nomenon.14
+
+Beyond the need for certain complementary goods,
+the generally high speciﬁcity of inventions and their
+corresponding patents also contribute to this phenom-
+enon. Inventions with a broad range of general uses,
+such as the light bulb, have become exceptionally rare.
+Presently, most patentable technologies are speciﬁc in
+nature and have only a small niche-area of application,
+thus exhibiting a low transfer value. This means that
+there are few, if any, other ﬁrms that could make use of
+the technology and, consequently, there is neither a
+competitor against which the patent would grant a
+competitive advantage, nor are there potential custo-
+mers to license. In this scenario, the invention itself
+may have a high value for the ﬁrm; the value of the cor-
+responding patent, however, will be close to zero.15 16
+
+To summarize, Figure 1 shows a patent’s value as a
+its potential value, the existence of the
+function of
+complementary assets necessary to tap into this poten-
+tial, as well as the exploitation process, that is, the spe-
+ciﬁc way in which one goes about tapping into the
+patent’s potential, eg, marketing techniques.17
+
+Returning to our examination of patent manage-
+ment, it becomes clear that if one’s patents (or patent
+portfolios18) are to create any signiﬁcant amount of
+revenue—be it in the form of innovative products or
+revenue from licences—active management and stra-
+tegic decision-making is mandatory.
+
+11 See above, n 6, 34.
+12 See above, n 6, 19.
+13 D Drews ‘Patent Valuation Techniques’ (2007) Les Nouvelles Vol.42,
+
+No.1, 365 –370.
+
+14 J Daum ‘Intangible Assets und die Optimierung der Enterprise Total
+
+Factor Productivity’ (2003) Controlling & Management Vol.2, 129– 135.
+
+15 Above n 6, 29.
+
+16 There are considerable costs involved with applying for and maintaining
+
+a patent. The amount is regularly in the tens of thousands of euros.
+
+17 Above n 6, 30: the varying sizes of the pieces show that the three parts do
+
+not necessarily contribute equally to the patent’s value, while the jagged
+edges symbolize the need for a holistic strategy that tailors each
+component to the other two.
+
+18 It is rare for ﬁrms to hold single patents. For our purposes, ‘patent
+
+portfolio’ means a group of patents belonging to a ﬁrm.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+8
+6
+1
+3
+7
+8
+6
+9
+5
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+Oliver P. Baldus and Christian Heckmann . Informal restrictions and evaluation of patents
+
+ARTICLE
+
+615
+
+In this sense, IP rights have become yet another stra-
+tegic marketing tool, used in ways that go far beyond
+the protection of one’s intellectual property.19
+
+Effective patent management means maximizing the
+highly context-dependent value of one’s IP rights by
+strategically coordinating all components relevant to a
+given situation.20 This requires intricate knowledge of
+business administration, economics, strategic marketing
+and law.
+
+Unfortunately, this need for interdisciplinary expert-
+ise frequently leads to confusion and, subsequently,
+mismanagement. This is especially true for mid-sized
+ﬁrms, which often cannot afford professional manage-
+ment services. In some instances, ﬁrms even choose not
+to actively manage their patents at all due to lack of
+know-how.
+
+A new way of thinking about patents?
+We will now look at the so-called Informal Restrictions
+Approach (‘IR approach’) and what it can do to facili-
+tate a more accurate understanding of patent situa-
+tions. Speciﬁcally, its purpose is to present an intuitive
+approach to understanding the
+characteristics of
+patents in competitive situations. In this sense, it can
+be considered a context in which considerations of
+patent strategy or valuation should be based.
+
+The informal restrictions approach
+The basic contention of the IR approach is that the
+formal rights granted by a patent are in many cases not
+fully exercisable due to informal restrictions arising
+from the particular environment of the patent-owning
+ﬁrm. It values patents based on the de facto opportun-
+ities they present to their owner.
+
+Formal rights afforded by a patent are based on
+negative rights, which allow the patent owner
+to
+prevent others from using the invention without his
+consent. The extent of these formal rights depends on
+the legal scope of the subject matter protected by the
+patent, the number of countries for which protection is
+granted and the lifetime of the patent.
+
+While,
+
+legally speaking, all patents afford their
+owners the same level of protection in regard to their
+right to prohibit third-party use of an invention, they
+may differ greatly in regard to the actual enforceability
+of these rights.21 Such a reduction in a patent’s enforce-
+
+Figure 2. Patent with limited enforceability.
+
+ability can have various causes. A patent may,
+for
+example, be limited in its enforceability due to consid-
+erations of reputation. Most often, however, it is due to
+competitors—or clients (in a supply chain environ-
+ment)—owning what can be referred to as ‘counter-
+patents’. These are patents that are relevant to a ﬁrm’s
+business but which are owned by a competitor.
+
+Counter-patents afford their owners the opportunity
+to ‘retaliate’, should they be the targets of legal hostil-
+ities, eg, temporary injunctions, infringement suits or
+nullity procedures. Figure 2 shows one such patent
+with a reduced scope. While the legal system grants a
+particular set of
+formal rights to the owner of the
+patent—as indicated by the dashed line—not all of
+these rights are actually enforceable. In practice, only a
+reduced subset of enforceable rights remains, as indi-
+cated by the solid line.
+
+For example, if ﬁrm A wants to make use of a new
+patent and prohibit ﬁrm B from using its technology,
+and ﬁrm B owns a patent to a technology that is cur-
+rently in use by A, there exists an interdependency
+between the ﬁrms, which would manifest itself in a
+legal stand-off should a conﬂict occur. Enforcing a par-
+ticular IP right in these situations will likely lead to
+retaliation by the competitor, resulting in legal conﬂicts
+that waste company resources. Because these legal cases
+often cannot be won by either party, coexistence and
+collaboration usually occur.
+
+Figure 3 depicts two situations. In case 1, Firm A
+enjoys full exercisability, since the de-facto-scope of its
+patent 1 coincides with its formal scope. This is the
+case because the scope of patent 1 reaches into Firm B’s
+business operations, and Firm B owns no counter-
+
+19 T Tiefel and P Haas ‘Patentbasierte Strategien zum Einsatz im
+
+Hyperwettbewerb’ in T Tiefel (ed), Patent- und Schutzrechtsmanagement
+in Zeiten des Hyperwettbewerbs (Deutscher Universita¨tsverlag 2005) 63.
+
+20 C Hilti ‘Strategische Planung—auch bei Patenten! Gibt es eine
+
+Vol.66, No.10, 54; H Ernst and N Omland ‘Patentmanagement in jungen
+Technologieunternehmen: Von der Gru¨ndung bis zur Insolvenz—
+Erfahrungen von Start-Up-Unternehmen’ (2003) Zeitschrift fu¨r
+Betriebswirtschaft, Erga¨nzungsheft No.2, 97.
+
+betriebswirtschaftlich “richtige” Patent-Strategie?’ (1997) io management,
+
+21 See R Levin, ‘A New Look at Patent Systems’ (1986) 76 AER 2, 199.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+8
+6
+1
+3
+7
+8
+6
+9
+5
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+616
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 8
+
+production facilities and necessary capital to commer-
+cialize the invention; (iii) it has a whole department
+dedicated to coordinating business strategy with IP
+management services in charge of
+the exploitation
+process.
+
+According to the ‘value-in-context’ theory, all three
+conditions needed to realize a patents potential value
+are fulﬁlled. As a consequence, a given valuation
+method would come to the conclusion that the patent
+in question is of high monetary value. This, however, is
+not necessarily the case.
+
+We established earlier that a patent’s value is not in-
+herent, but rather depends upon the owner’s ability to
+make use of the potential contained within it. This
+being so, a patent’s value becomes a function of the
+degree to which the rights granted by it are actually en-
+forceable.
+
+To make this clearer, let us add a further premise to
+our scenario: (iv) both competitors currently hold
+patents on technology used by our imaginary company.
+As is sometimes the case between large companies op-
+erating in the same industry, no licensing agreements
+were concluded.22 These patents owned by FBM’s com-
+petitors could be used to impede FBM’s production sig-
+niﬁcantly and have thus far not been utilized only
+because it was more proﬁtable for both companies to
+co-exist, peacefully that is, each allowing the other to
+use its own technology without agreement or via cross-
+licensing agreements. As to (iv), FBM could not make
+use of its patent without fear of retaliation by its com-
+petitors. This informal restriction effectively reduces the
+de facto scope of the patent. Even though, legally speak-
+ing, FBM could make use of its prohibitive rights, the
+economic backlash could be so severe that it would not
+be commercially viable to do so.
+
+Thus a patent’s value is not a function of three, but
+
+rather of four components:
+
+(1) Potential value;
+
+(2) Complementary goods;
+
+(3) Exploitation process; and
+
+(4) The de facto ability to utilize the patent, contingent
+upon the existence of counter- patents or other infor-
+mal restrictions.
+
+The severity of retaliatory measures depends on the
+quality of the counter-patents, that is, the degree of
+relevance they have to one’s business operations. If, for
+
+Figure 3. Effects of counter-patents on patent exercisability.
+
+patents with which to retaliate (Patent 2 lacks the ne-
+cessary legal scope to affect Firm A). In case 2 the situ-
+ation is different: Firm B also owns a patent that affects
+Firm A’s business, leading to mutual interdependence,
+as outlined above. In this case the de facto scope of
+both patents is reduced, as indicated by the dotted line.
+Thus, despite being identical formal rights, not all
+patents are created equally. This has signiﬁcant implica-
+tions for the commercial valuation of patents: Any
+valuation method must necessarily take these informal
+restrictions into account if the monetary value of the
+patent is to reﬂect the actual value it will have for the
+ﬁrm. This is especially relevant when buying or selling
+patents since transferring an IP right from one owner,
+ie, one context, to the next, can fundamentally change
+its value. As mentioned earlier, what may be of ex-
+tremely high value to one ﬁrm may be near useless to
+another.
+
+The IR approach can be considered a qualiﬁcation
+of the ‘value-in-context’ phenomenon. While the latter
+stresses that a patent’s value is context-dependent, it
+fails to address the fact that what ultimately matters
+most
+is the owner’s ability to actualize this value.
+‘Ability’ in this context is not know-how, but rather the
+freedom from external constraints in the form of infor-
+mal restrictions.
+
+To elaborate, let us imagine a scenario in which a
+ﬁrm, FBM, has been granted a new patent. Let us
+further assume the following premises: (i) the potential
+value of the patent is great, eg, because it grants FBM
+the ability to prohibit its only two competitors from
+using an up-and-coming technology that is vital to
+progress in the industry; (ii) the ﬁrm is well established
+the complementary goods in form of
+and has all
+
+22 The same applies to situations in which existing licence agreements are
+
+up for renewal within the next few weeks or months.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+8
+6
+1
+3
+7
+8
+6
+9
+5
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+Oliver P. Baldus and Christian Heckmann . Informal restrictions and evaluation of patents
+
+ARTICLE
+
+617
+
+Deﬁning a ﬁrm’s IP potential
+In terms of the IP potential, patents and other IP rights
+are to be regarded as prohibitive formal rights that
+could actually be used as tools against competitors.
+However, in practice it is often neglected that not the
+number of patents as such but only patents that actual-
+ly affect a competitor can be seen as this type of tool
+contributing to the aforementioned IP potential.28
+
+When determining the ﬁrm’s IP potential, the ﬁrst
+step is to measure the ﬁrm’s overall potential for using
+these tools against a given competitor. In practice,
+most ﬁrms hold a large number of patents, each of
+which has a different impact on any one competitor. In
+order to determine the ﬁrm’s overall IP potential it is
+thus necessary to review each individual patent in the
+context of its relevance for the particular competitor’s
+business operations.
+
+Far from being simple, however, a given patent’s
+impact has to be determined under consideration of
+various factors, eg, the scope of the patent, its duration,
+workaround solutions of the protected subject matter
+and enforceability.29 Beyond these, many other, some-
+times more subtle, internal and external factors may in-
+ﬂuence the viability and effectiveness of a patent’s
+ability to affect a competitor, such as the position of
+the owner within the supply chain.30
+
+Accordingly, the determination of a ﬁrm’s IP poten-
+tial involves weighing and summing up all individual
+impacts. That overall IP potential for hitting a particu-
+lar competitor in production may range from a very
+low degree (weak IP potential), where a competitor’s
+business is hardly affected by one’s possible actions, to
+a high degree, in which a competitor could actually be
+forced out of business by way of a number of effectively
+used patents that inhibit his production capabilities
+(strong IP potential).
+
+The second step in deriving a ﬁrm’s IP position
+within the IP strategy matrix is determining the com-
+petitor’s IP potential for impairing one’s own business
+activities in the same way, as seen from the opposite
+side. Having established both one’s own and the com-
+petitor’s IP potential, a relative IP strength (RIS) can be
+
+which a monetary value can be attributed only secondarily. For
+established portfolio analyses see A Poredda and S Wildschu¨tz ‘Patent
+Valuation—A controlled Market Share Approach’ (2004) Les Nouvelles
+No.2, 77 –85; A Wurzer and S Hundertmark ‘Value oriented IP
+Management’ (2006) IAM Magazine 12/01, 33.
+
+29 An overview of different methods for assessing patents was published by J
+
+Ensthaler and K Strubbe Patentbewertung: Ein Praxisleitfaden zum
+Patentmanagement (Springer 2006).
+
+30 O Baldus and C Heckmann ‘Horizontal Patents, Commercial Beneﬁt, and
+
+Sophisticated Patent Strategies’ (2011) JIPLP Vol.6, No.6, 401 –408.
+
+Figure 4. IP strategy matrix.
+
+instance, there exist simple workaround solutions, the
+counter-patents can be considered harmless.
+
+The decision of whether to make use of a given
+patent thus depends on a cost – beneﬁt analysis: if the
+gains from employing a patent are larger than the costs
+associated with the retaliatory measures, it is feasible to
+employ the patent. The IP strategy matrix introduced
+below facilitates this process of analyzing a ﬁrm’s situ-
+ation in this regard.
+
+The IP strategy matrix—a way to depict
+strategic situations
+The IP strategy matrix (IPS matrix) introduced here
+(Figure 4) uses a graphical representation in order to
+visualize a ﬁrm’s IP position with respect to a single
+competitor. In this sense, it is a form of bivariate port-
+folio analysis.23 It seeks to identify viable courses of
+action in the form of generic IP strategies and deter-
+mine optimal resource allocation of IP rights.24 25
+
+A company’s IP position is derived from two vari-
+ables: (i) its exposure,26 deﬁned as a function of the
+ﬁrm’s revenue and the competing ﬁrm’s ability to affect
+this revenue by utilizing IP rights and (ii) the ﬁrm’s IP
+potential, that is, its potential to hit the competitor in
+his business by utilizing its own IP rights, under con-
+sideration of any existing informal restrictions.27
+
+23 O Gassmann and M Bader Patentmanagement (Springer 2006) 72.
+24 A rather unstructured approach regarding patent strategies was published
+
+by RL Cantrell Outpacing the Competition (John Wiley & Sons 2009).
+
+25 Generic strategies are similar to primary strategies as outlined in G
+
+Weber, G Hedemann, H Cohausz Patentstrategien (Heymanns 2006).
+
+26 Above n 23, 72.
+27 Gassmann and Bader, above, n 23, 73, refer to this ability as Hit-Rate, but
+
+fail to emphasize on the importance of consideration of informal
+restrictions.
+
+28 In contrast to established patent portfolio analyses, the IP strategy matrix
+
+introduced here primarily focuses on identifying generic IP strategies to
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+8
+6
+1
+3
+7
+8
+6
+9
+5
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+618
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 8
+
+deﬁned as the quotient between the IP potential of the
+ﬁrm over that of its competitor and serves as a useful
+identiﬁer for a ﬁrm’s IP position. The ﬁrm’s IP position
+can then be graphically represented on the horizontal
+and vertical axes of the IPS matrix, as seen in Figure 8.
+Based on these evaluations, it assigns to the ﬁrm one of
+four distinct
+IP positions, denoted here as walls,
+weapons, weaknesses and wastelands.
+
+This differentiation into four positions takes into
+consideration the IR approach, which is imperative to
+gaining an accurate understanding of a ﬁrm’s IP situ-
+ation.
+
+Importantly, the IPS matrix functions primarily as
+an interface for visualizing competitive situations based
+on IP rights. While complex calculations could certain-
+ly be integrated into the model, its main strength lies
+in its simplicity. Thus what is presented here are not
+the particularities of calculating these situations, but
+rather the general workings of the model itself, as well
+as the generic strategies corresponding to the four IP
+positions.
+
+The ‘walls’ position
+The walls position, as shown in the upper right corner
+of the IPS matrix, arises when two competing ﬁrms
+have equally strong IP potential and the RIS-value is
+approximately one. This symmetrical situation is quite
+common and typically given between equal players, ie,
+ﬁrms of equal size. A ﬁrm’s size, however, need not ne-
+cessarily dictate its IP potential. Indeed, it is possible—
+and not entirely uncommon—for ﬁrms of signiﬁcantly
+differing sizes to ﬁnd themselves in a walls position. In
+effect, a walls position means that each company is,
+theoretically, equally capable of hindering the business
+activities of the other (see informal restrictions ap-
+proach in Figure 3). As a consequence, an implicit
+stand-off
+situation between the competitors arises,
+which can best be modelled with the game theoretic
+model of a so-called iterated prisoner’s dilemma.31 As
+mentioned, signiﬁcant
+informal restrictions tend to
+leading to the potential for
+exist in walls situations,
+costly (and futile)
+into
+account, a rational ﬁrm would not directly exercise its
+IP rights against a competitor without reason, eg, as a
+form of requital.
+
+legal battles. Taking this
+
+One optimal strategy in such a prisoner’s dilemma
+situation, as shown by the payoff matrix in Figure 5,
+
+Figure 5. depicting a matrix of the payoffs of a prisoner’s
+dilemma.
+
+involves seeking agreement and cooperation with a
+friendly competitor, which leads to a gain of 80 for
+each company. In the case of an initiated attack, which
+could temporarily lead to a gain of 100 for the attack-
+ing ﬁrm, retaliation would occur in the next round of
+the game, resulting in a much smaller payoff of 20 for
+both in all subsequent games.
+
+Therefore, collaboration is optimal only as long as
+there exists behavioural reciprocity between the two
+ﬁrms. If a competitor attacks one’s ﬁrm, it is necessary
+to retaliate in order not only to increase one’s gains but
+also to maintain credibility.32 This simple ‘tit-for-tat’
+strategy has been extensively researched, and evidence
+suggests that it provides optimum gains for each party
+in cases of on-going, ie, iterated games.33
+
+For a paradigm of a similar stand-off situation and
+tit-for-tat strategies, one can compare this IP situation
+with the arms race during the Cold War, in which the
+USA and USSR were caught in a clinch for power that
+forced each to commit
+tremendous amounts of
+resources to matching the other’s investments in order
+to avoid becoming militarily inferior and risking anni-
+hilation. Correspondingly, the role of patents in a walls
+position is to maintain an option for retaliation and
+constitute defence mechanisms against hostile IP-based
+and other attacks, such as aggressive marketing. In this
+sense, one’s own IP rights can be more illustratively
+interpreted as defence walls surrounding one’s business
+assets.34
+
+In real life, walls may be erected in order to protect
+assets from, say, an aggressive neighbour. They can be
+lowered gradually when trust and friendship emerge,
+
+31 R Axelrod The Evolution of Cooperation (rev’d edn Basic Books 2006) 28 –
+
+33 RB Shelton Gaming the Market: Applying Game Theory to Create Winning
+
+32.
+
+Trading Strategies (John Wiley & Sons 1997) 22.
+
+32 An ongoing example of such a retaliation is the current legal battle
+
+34 T Hu¨rter and P Horak ‘Schach mit Patenten’ (2004) Technology Review,
+
+conducted between Apple and Samsung, see: Frankfurter Allgemeine,
+‘Apple verklagt Samsung’, April 19, 2011.
+
+Vol.6, 23.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+8
+6
+1
+3
+7
+8
+6
+9
+5
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+Oliver P. Baldus and Christian Heckmann . Informal restrictions and evaluation of patents
+
+ARTICLE
+
+619
+
+the
+
+the underlying rationale of
+
+but should be maintained or even fortiﬁed in cases of
+uncertainty or potential danger. This analogy demon-
+strates
+strategies
+employed in a walls situation. As above, a ﬁrm’s behav-
+iour in a walls position is largely dependent on the be-
+haviour of its ‘neighbour’, that is, its competitor. This
+means that when a competitor increases investments in
+IP rights that are relevant for one’s own ﬁrm—and,
+subsequently,
+threat of an IP-related lawsuit
+increases—it is necessary to respond accordingly, ie, by
+enhancing one’s own IP position. Likewise, when the
+competing ﬁrm maintains IP investments, one’s own
+position may be kept as well.
+
+the
+
+The decision-making process with regard to IP invest-
+ments follows this train of thought in that it calls for a
+thorough analysis of one’s relationship to and with the
+competitor. Having considered the nature of one’s rela-
+tionships, one may determine whether, and to what
+degree, protective measures in the form of IP rights/
+patents, are needed in order to avoid being caught off-
+guard by a potential attack. While a minimum line of
+defence is usually necessary to protect the core of one’s
+business regardless of how good the relationship to rele-
+vant competitor’s may be, there are also situations in
+which no barriers are needed since there is no risk of an
+attack, eg, between afﬁliated parts of a corporate group.
+
+Bearing this in mind,
+
+the walls position generally
+allows for two types of strategies, namely the collaboration
+strategy and the decapitation attack strategy. As the names
+suggest, one is defensive in nature, aiming at peaceful co-
+existence and the maximization of collective gains; the
+other is offensive in nature, seeking to incapacitate a
+competitor and maximize individual gains. Presuming
+that the potential of the ﬁrm and its competitor are
+equally strong, a strategy decision should be based on
+factors such as the ﬁrm’s size, available resources and his-
+toric relationship with the competitor. Further considera-
+tions will, among other
+take into account
+marketing-related questions such as to what degree the
+competitor is actually encroaching on one’s own business.
+If, for example, both ﬁrms target the same market, there
+may be a more immediate need to take offensive action
+than if the market overlap is fairly small. Ultimately, the
+costs of an aggressive action must be weighed against the
+prospect of successfully eliminating a competitor and the
+gains this would entail. In doing so, ﬁrms should analyse
+the associated costs holistically, taking into account, for
+example, the costs of a potential loss of reputation.
+
+things,
+
+While the strategies are at opposite ends of the
+spectrum of possible actions, all intermediaries are sub-
+optimal. Keeping this in mind, ﬁrms should thus
+thoroughly evaluate the unique nature of their speciﬁc
+situation and then fully commit to their strategy of
+choice, both of which shall now be examined more
+closely.35
+
+Collaboration strategy
+Generally speaking, there is no reason to disregard in-
+formal restrictions and initiate any type of hostile
+action, eg, attacks such as infringement suits or oppos-
+ition and nullity procedures against a friendly competi-
+tor, ie, one that does not attack one’s own company.
+Such hostile action is sub-optimal in the context of a
+tit-for-tat strategy because it wastes company resources
+while achieving few gains,
+if any: a competitor will
+simply retaliate by employing his own IP rights,
+causing a stand-off leading to high legal- and oppor-
+tunity-costs for both companies.36 It follows that half-
+hearted attacks and casual
+should be
+avoided completely in these situations since they lack
+the dedicated effort necessary for achieving any signiﬁ-
+cant impact. Unfortunately, many ﬁrms still engage in
+this
+ambiguous behaviour
+without adhering to a general IP strategy, eg, by ﬁling
+scattered opposition proceedings.
+
+type of uncommitted,
+
+skirmishes
+
+Thus, if a company ﬁnds itself in a walls position
+and wants to avoid such a futile, resource-intense con-
+ﬂict, it should choose the collaboration strategy, which
+entails an approach based not only on tolerance of, and
+respect for, the competitor’s business, but also on co-
+operative measures aimed at making both companies
+better off, such as cross-licensing agreements. Seeking
+full cooperation and agreement with a competitor on
+IP-related questions will result in optimum gains for
+both parties and, it is hoped, peaceful coexistence over
+an extended period.37
+
+With regard to distinguishing a friendly competitor
+from a hostile one, it is often difﬁcult to recognize
+hostile behaviour in advance. In particular, changes in
+patenting behaviour are usually undetectable without a
+certain delay due to the 18-month period before patent
+applications are published. A competitor’s attitude can
+change quite rapidly during times of transformations,
+eg when a key patent expires, economic problems arise
+or a new manager comes in. Because of this, ﬁrms
+should monitor a competitor’s actions closely and
+
+35 See O Baldus ‘Patent-based Cooperation Effects’ (2010) JIPLP Vol.5,
+
+37 See n 31, 58 – 62.
+
+No.2, 111 –115.
+
+36 See n 30, 403.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+8
+6
+1
+3
+7
+8
+6
+9
+5
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+620
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 8
+
+continuously, even if the relationship is formally one of
+cooperation.
+
+this time should be used to prepare the second vital
+component of the strategy.
+
+Equally, a sudden and complete change of behaviour
+also offers the most promising approach for attacking
+the competitor, as will now be shown.
+
+Decapitation-attack strategy
+The offensive course of action in a walls position,
+termed the ‘decapitation-attack’ strategy, is based on
+the idea of attacking the competitor in such a way that
+he completely loses his ability to retaliate. This strategy
+seeks to obliterate the informal restrictions posed by
+the threat of an adverse counter-attack. It can be con-
+sidered both riskier and more resource-intensive than
+the collaboration strategy. However, it is also the strat-
+egy that provides much greater gains if successfully
+implemented. It is this prospect of exceedingly large
+future gains for the ‘surviving’ ﬁrm that is responsible
+for the attractiveness of this approach.
+
+The basic premise of the strategy is to ‘attack’ the
+competitor, using various IP rights-related measures
+in order to incapacitate the competitor’s economic
+resources. This can be accomplished in a two-pronged
+fashion, that is, by improving one’s own and impair-
+ing the competitor’s IP potential,
+for example by
+ﬁling a large number of suits and procedures against
+the competitor, thereby effectively overwhelming him.
+This is done in the shortest amount of time possible
+in order to take full advantage of the element of sur-
+prise, and can be accompanied by additional measures
+that assist
+the competitor’s retaliation
+potential.
+
+the loss of
+
+Since it is necessary rapidly to increase the RIS
+value, the ﬁrst element of implementing a decapita-
+tion-attack strategy is to improve one’s own IP poten-
+tial discreetly. This is achieved, for example, by ﬁling
+new patent applications or by buying existing IP rights.
+With regard to new patent applications, ﬁrms
+should attempt to ﬁle these in short order so that their
+publication is focused around the same time, which is
+generally around 18 months after the ﬁling date. To
+accomplish this,
+it may make sense to delay the
+applications for previous inventions to a date when
+applications for more recent inventions are simultan-
+eously possible. Since the competitor is not able to an-
+ticipate an attack within the 18-month period between
+the ﬁling and publication of new patent applications,
+
+recognizes
+
+As mentioned previously, the second element of a
+decapitation-attack involves impairing the competitor’s
+IP potential. Common ways of achieving this are by
+ﬁling nullity and infringement suits or triggering op-
+position procedure. Since the competitor almost imme-
+diately
+is
+important that they be coordinated in such a way that
+they coincide with the ﬁrst component of the attack as
+outlined above. If the attack is discovered before publi-
+cation of one’s ﬁled applications, the second element
+must be initiated immediately in order to maximize
+the chance of success.
+
+activities, however,
+
+these
+
+it
+
+Ideally, an attack is triggered by the simultaneous
+publication of one’s new patent applications and the
+ﬁling of a large number of supplemental measures
+aimed at tying up the competitor’s resources such as
+nullity procedures, infringement suits and temporary
+injunctions. On this note, the attack could even be
+further supplemented by including non-IP-related mea-
+sures, such as aggressive marketing campaigns, thus
+creating a truly holistic attack.38
+
+Since the decapitation-attack strategy is only success-
+ful if the targeted competitor is caught off-guard, it is
+of utmost importance to delay the competitor’s aware-
+ness of one’s undertakings for as long as possible.
+Along with thorough preparation and effective timing,
+the element of surprise is a key factor in the successful
+implementation of this strategy.
+
+Due to the surprising appearance and overwhelm-
+ing nature of the decapitation attack, it is very difﬁ-
+cult to defend against it: the competitor must hastily
+raise a defence against an unexpected and well-pre-
+pared multi-dimensional attack.39 Often the business
+simply does not have enough resources—human,
+monetary or logistical—to defend against a larger
+number of well-prepared actions. While this is a
+major advantage for an attacking ﬁrm, however, this
+fact also makes it necessary to monitor the competi-
+tor’s behaviour constantly in order to pre-empt the
+risk of falling prey to such constantly actions oneself.
+It may even make sense to keep some short-term
+human resources on standby if a relationship to a par-
+ticular competitor seems especially volatile.
+
+In summary,
+
+the collaboration strategy is best
+in most competitive situations.
+It allows ﬁrms to
+beneﬁt from mutual cooperation measures, such as
+
+38 Principles of such marketing related measures are outlined eg in: JC
+
+39 B Oetinger, T Ghyczy, C Bassford Clausewitz: Strategie denken (Deutscher
+
+Levinson Guerrilla Marketing Weapons: 100 Affordable Marketing Methods
+(Plume 1990).
+
+Taschenbuch Verlag 2006) 119.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+8
+6
+1
+3
+7
+8
+6
+9
+5
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+Oliver P. Baldus and Christian Heckmann . Informal restrictions and evaluation of patents
+
+ARTICLE
+
+621
+
+cross-licensing agreements and sharing of resources,
+while avoiding the high costs associated with legal
+battles. Nevertheless, ﬁrms should regularly (re)evaluate
+their IP potential—especially during times of transi-
+tion—both in order to detect potential decapitation
+attacks as well as recognize situations in which it may
+be advantageous to launch an attack themselves. In
+particular, a strong and sudden increase of ﬁling activ-
+ities, leading to an imbalance in IP rights, could be an
+indication of an imminent attack.
+
+Though a collaboration strategy in a walls position
+can be quite comfortable for ﬁrms and may generate
+many gains, it is nevertheless an unstable equilibrium
+and ﬁrms must remain prudent at all times, as men-
+tioned above. For this reason, ﬁrms may prefer to seek
+out the relative safety of a weapons position in the long
+term.
+
+The ‘weapons’ position
+The weapons position, depicted in the lower right
+corner of the IPS matrix, describes an asymmetrical
+state that is characterized by a strong imbalance in IP
+potential and leads to a high RIS value that signiﬁcant-
+ly exceeds one. One ﬁrm is much ‘stronger’, and can
+thus easily exert its strong IP potential on a competitor
+without fear of retaliation.
+
+In this case, the spectrum of possible strategies is
+much wider than in a walls position, allowing also for
+intermediate or extended strategies between collabor-
+ation and decapitation attack, such as attrition and
+overt attacks. This position corresponds to a state in
+which a mighty ﬁrm faces a defenceless competitor
+against which IP rights can be used as ‘weapons’ rela-
+tively indiscriminately and without fear of retaliation.40
+Speaking from the viewpoint of the IR approach, the
+low opposite potential for retaliation lowers the infor-
+mal restrictions associated with own IP rights, as can
+be seen in Figure 6. Consequently, the set of actually
+enforceable rights (solid line) is increased within the
+set of formal rights (dotted line) as compared with the
+walls position as depicted in Figure 2.
+
+itself
+
+However,
+
+just because a ﬁrm ﬁnds
+
+in a
+weapons position does not mean that it should neces-
+sarily exploit it. Indeed, there could be situations in
+which it would be more comfortable for the strong
+ﬁrm to reside in the relative comfort of arranged col-
+laboration, similar to that of a walls position.
+
+Nevertheless, though much more comfortable than a
+classic walls position, ﬁrms in a weapons position
+
+Figure 6. Patent enforceability in a weapons situation.
+
+should still monitor the activities of their competitors,
+lest they lose their advantage and are thrown back into
+a walls position. This is especially true for situations in
+which the IP based advantage rests on a single key
+patent.
+
+In order to keep weak competitors from improving
+their IP potential, a strong ﬁrm may use an attrition
+strategy, in which it intermittently ﬁles suits or proce-
+dures against the competitor in order to drain his
+resources. Which strategy should be chosen depends
+largely on the broader context of the situation. There
+may be cases in which it would be unwise to attack or
+hinder the competitor, eg, for reasons of reputation. In
+any case, whether a company chooses to fully exploit a
+weapons position or not, it should seek to maintain its
+strength by continuously monitoring its IP potential
+vis-a`-vis its main or potential competitors and invest-
+ing in its IP potential if need be.
+
+In practice, the weapons position is often occupied
+by non-producing ﬁrms, such as patent trolls, since
+their non-existing production cannot be hit by the
+patents of another ﬁrm. To these trolls,
+informal
+restrictions do not exist and, accordingly,
+they are
+assigned the highest RIS values.
+
+An example of a weapons position being exploited is
+the current struggle between the ﬁrms Oracle and
+Google, in which Oracle seeks to charge Google high
+licence fees. Google has so far been incapable of
+defending against this due to its weak IP potential in
+relation to Oracle.41
+
+‘Weaknesses’ and ‘wastelands’
+The weaknesses position, shown in the upper left hand
+corner of the IPS matrix, is the inverse of the weapons
+position, characterized by a weak and a mighty com-
+
+40 See n 34, 23.
+
+41 ‘Oracle Seeks Billions in Lawsuit against Google’, New York Times, June
+
+16, 2011.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+8
+6
+1
+3
+7
+8
+6
+9
+5
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+622
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 8
+
+attempt by utilizing his own IP rights. Thus moving
+from a weaknesses
+to a walls position essentially
+involves employing the ﬁrst half of a decapitation-
+attack strategy to establish a balance in the IP poten-
+tials and reaching a RIS value close to one.
+
+The wastelands position is shown in the lower left
+section of the IP strategy matrix (Figure 4). In most
+patent systems, these wastelands arise in settings where
+patents are not possible or competitors do not hold
+any patents even though they theoretically could.42
+Since in a wastelands situation the corresponding IP
+potential is extremely weak, the RIS value cannot be
+deﬁned reasonably and informal restrictions do not
+exist. Consequently, these situations are rather uninter-
+esting in terms of IP strategies.
+
+In reality, wastelands are found in business areas
+where patents are not provided or business is based on
+long standing technologies with expired patents.
+Common examples of wastelands are the business seg-
+ments of retailers or the clothing industry, which nor-
+mally do not hold any patents. Nonetheless, if a ﬁrm
+obtains a patent strongly affecting a competitor it
+could immediately reach the weapons position.
+
+Summary
+The IR approach presents itself as an intuitive and easy
+to apply paradigm for thinking about patents in com-
+petitive situations. It is based on the idea that the set of
+actually enforceable rights is always a subset of the
+legally granted formal rights. The size of this subset
+depends on the particular context in which the patent
+is embedded, eg, the patent owner’s position in the
+value chain. Thus changing the context of the patent
+directly affects its value.
+
+The IR approach proves itself useful by starting with
+the de facto capabilities a patent affords its owner.
+Building on this new approach, the IP strategy matrix
+serves as a useful interface for modelling competitive
+patent situations in a simple way, thereby facilitating
+the derivation of viable patent strategies. As with the
+IR approach, it too can be seen as a context in which
+other, more technical considerations of valuation may
+take place.
+
+Figure 7. Patent enforceability in a weaknesses situation.
+
+petitor, resulting in a low RIS value tending towards
+zero. The weaknesses position is dangerous since it
+leaves the company at the mercy of a mighty competi-
+tor, unable to enforce its own IP rights or even merely
+use them as ‘walls’, ie, deterrence mechanisms. Because
+a ﬁrm in a weaknesses position is so vulnerable to
+hostile attacks, aggressive behaviour
+toward strong
+competitors must be avoided at all costs so as not to
+provoke any retaliatory measures.
+
+In terms of the IR approach, informal restrictions
+are extremely high—with an RIS value tending towards
+the weak company cannot afford to
+zero—since
+enforce even one of
+its patents regardless of how
+powerful they might have been. Often start-up com-
+panies will ﬁnd themselves in a weaknesses position.
+Consequently the set of actually enforceable rights
+shrinks to an empty set.
+
+Though not as powerful initially, patents are still of
+high importance for ﬁrms in weaknesses positions:
+They are vital building blocks for achieving the safety
+of patent parity vis-a`-vis a competitor, ie, a walls pos-
+ition.
+
+To achieve this, a company must improve its IP po-
+tential despite its weak initial position, eg, by research
+and development
+investment or by buying existing
+patents. It is imperative that any measures of this sort
+be undertaken with the greatest amount of care and
+secrecy as possible. Should the competitor discover any
+efforts geared at reaching a walls position and feel
+threatened by them, he could easily snuff out any such
+
+42 While in the US ‘patents can be granted for everything under the sun
+made by man’, in Europe patents for non-technical subject matters are
+not admissible.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+8
+6
+1
+3
+7
+8
+6
+9
+5
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+

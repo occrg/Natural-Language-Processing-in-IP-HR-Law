@@ -1,0 +1,1933 @@
+716
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2013, Vol. 8, No. 9
+
+Do copies made while browsing infringe?
+Iona Silverman*
+
+The decisions of the High Court for England and Wales
+and then of the Court of Appeal in Newspaper Licensing
+Agency Ltd and others v Meltwater Holding BV and
+others1 that local copies made on a computer screen and
+on a computer’s hard drive when browsing can infringe
+copyright were bold and somewhat controversial.
+
+The speciﬁc question of whether such local copies con-
+stitute temporary copies for the purposes of Article 5(1)
+of the Information Society Directive2 was appealed to the
+Supreme Court.3 In contrast to the Court of Appeal, the
+Supreme Court recognized the broad implications and
+therefore the importance of the question, acknowledging
+that a result which would make infringers of many mil-
+lions of ordinary users of the internet was unacceptable.4
+Given the transnational dimension of the issue, the
+Supreme Court referred the question of
+temporary
+copies to the Court of Justice of the European Union
+(CJEU) for a preliminary ruling on the basis that the
+issue was of such importance that it should be resolved
+uniformly across the EU. The Supreme Court was not
+without its own view, however. In his unanimously
+agreed decision of 17 April 2013, Lord Sumption sets
+out his conclusions on the effect of the Directive, as the
+CJEU has interpreted and applied it to date. In his view,
+both on-screen and cache copies made while browsing
+should fall within the temporary copying exception.
+
+The temporary copying exception
+This case originated in the Copyright Tribunal when
+news aggregator Meltwater applied to the Tribunal to
+determine the reasonable terms of its licence with the
+Newspaper Licensing Agency (NLA). The NLA then
+sued Meltwater and its users (represented by the Public
+Relations Consultants Association Ltd (PRCA)) in the
+High Court
+infringement. Meltwater
+allegedly infringed by aggregating news content and
+distributing links with short headlines and snippets
+
+for copyright
+
+The author
+† Iona Silverman is an IP lawyer currently based in
+the London ofﬁce of international law ﬁrm Baker
+& McKenzie.
+This article
+† The decisions of the High Court and then the
+Court of Appeal
+in The Newspaper Licensing
+Agency Ltd and others v Meltwater Holding BV and
+others that local copies made on a computer
+screen and on a computer’s hard drive when
+browsing can infringe copyright was a bold and
+somewhat controversial one.
+
+† This article analyses the Supreme Court’s decision
+in the ensuing appeal, Public Relations Consultants
+Association Ltd v The Newspaper Licensing Agency
+Ltd and others, to refer the question to the Court
+of Justice of the European Union (CJEU).
+
+† The article explores and considers the detailed
+opinion of Lord Sumption on the application of
+the temporary copying exception.
+
+from articles; users allegedly infringed by receiving
+that content and by reading the news articles on the
+publishers’ websites.
+
+Since Meltwater had agreed to enter into a licence
+with the NLA, the High Court granted a stay in relation
+to the question of whether Meltwater infringed copy-
+right by providing snippets of content to its users; only
+issues relating to users reading content provided by
+Meltwater proceeded. In particular, the PRCA disagreed
+that its members infringed copyright by making local
+on-screen and hard-drive copies of articles when reading
+them online. It argued that these copies fell under the
+temporary copying exception.
+
+*
+
+Email: iona.silverman@bakermckenzie.com. Disclaimer: Baker & McKenzie
+acts for Meltwater and PRCA in this case.
+[2010] EWHC 3099 (Ch) and [2011] EWCA Civ 890.
+
+1
+2 Directive 2001/29 on the harmonisation of certain aspects of copyright and
+
+3 Public Relations Consultants Association Ltd v The Newspaper Licensing
+
+Agency Ltd and others [2013] UKSC 18.
+Ibid, para 36.
+
+4
+
+related rights in the information society.
+
+# The Author(s) (2013). Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jpt128
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+8
+9
+7
+1
+6
+8
+1
+5
+7
+1
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+Iona Silverman . Do copies made while browsing infringe?
+
+ARTICLE
+
+717
+
+Article 5(1) of the Information Society Directive5
+creates an exception to Article 2 (the reproduction right)
+for copies
+
+which are transient or incidental [and] an integral and
+essential part of a technological process and whose sole
+purpose is to enable:
+
+(a) a transmission in a network between third parties by an
+
+intermediary, or
+
+(b) a lawful use
+
+of a work or other subject-matter to be made, and which
+have no independent economic signiﬁcance.
+
+Recital 33 of the preamble to the Information Society
+Directive states that the temporary copying exception
+‘should include acts which enable browsing as well as
+acts of caching to take place’ and that ‘a use should be
+considered lawful where it is authorized by the right-
+holder or not restricted by law’.
+
+At ﬁrst instance in NLA v Meltwater, Proudman J said,
+however, that ‘[a] person making a copy of a webpage on
+his computer screen will not have a defence under s.28A
+Copyright, Designs and Patents Act 1988 simply because
+he has been browsing’,6 meaning that browsing is not
+allowed unless the person browsing has permission to do
+so from the owners of the content on the web pages
+which they are viewing. In her view, the temporary
+copies exception is solely concerned with incidental
+and intermediate copying so that any copy which is
+‘consumption of the work’, whether temporary or not,
+requires the permission of the copyright holder. Further,
+she held that the exception cannot have been intended to
+legitimize all copies made in the course of browsing,
+otherwise users would be permitted to watch pirated
+ﬁlms and listen to pirated music. As the Supreme Court
+clariﬁes at para 36 of its decision, legitimizing browsing
+does not prevent rightsholders from taking action
+against those who upload unauthorized content.
+
+The Court of Appeal agreed, saying:
+
+As is clear from a consideration of recital 33 as a whole, the
+reference to ‘browsing’ is ‘to the extent that they meet these
+conditions’. ‘They’ refers to the acts of reproduction. The
+acts of reproduction are those occasioned by the voluntary
+human process of accessing that webpage. Accordingly, they
+fail to satisfy any of the conditions to which recital 33 refers.
+S.28A does not provide even a limited defence to the claims
+
+5 Applied in the UK by the Copyright Designs and Patents Act 1988, s 28A.
+6
+7
+8 Case C-5/08 Infopaq International A/S v Danske Dagblades Forening [2009]
+
+[2010] EWHC 3099 (Ch), para 109.
+[2011] EWCA Civ 890, para 35.
+
+9
+
+ECR I-06569.
+Iona Harding ‘Is NLA v Meltwater the end of browsing?’ (2012) JIPLP 525,
+525.
+
+of infringement to which the business of Meltwater is likely
+to give rise.7
+
+The outcome was therefore that copies made when
+browsing were infringing copies: unless consent was
+given,
+internet users infringed copyright by reading
+material online.
+
+It is a general principle of copyright law that con-
+sumption of a work (for example reading a book) is per-
+mitted, whereas reproduction (for example making a
+copy of the whole or a substantial part of that book) is
+permissible. Historically, restriction on consumption has
+been limited to secondary infringement by possessing
+illegal copies; a licence was not required in order to
+merely consume a work. However, in the digital world,
+local copies (including hard-drive and on-screen copies)
+must be created in order to allow a user to read a web
+page.
+
+The Court of Appeal’s decision in NLA v Meltwater
+in Infopaq)8
+(combined with the CJEU’s judgment
+moved the law towards allowing consumption on the
+basis of permission,9 without considering the wider
+impact
+this might have on legitimate internet
+browsing.
+
+that
+
+The decisions in NLA v Meltwater have been contro-
+versial. Some found the Court of Appeal’s decision
+disappointing, condemning it for failing to confront the
+difﬁcult issues of law with which it was presented.10
+Others have observed that the real point of the decisions
+is to afﬁrm that the internet is not a copyright-free
+space, and that technological inconvenience is no reason
+for ignoring the rights of copyright owners online.11
+The High Court and the Court of Appeal were keen to
+protect rightsholders from piracy, which continues to be
+a very real problem in the digital world where illegal
+downloading and peer-to-peer ﬁle sharing are common-
+place. The Supreme Court was clear however that the
+application of
+the temporary copying exception to
+browsing is a distinct issue from that of online piracy.
+
+Proposed legislative reform
+The issue of whether browsing should explicitly be
+made legal was considered in July last year by the House
+of Commons in a public committee meeting on the
+
+10 Jeremy Phillips ‘Bently slams “very disappointing” ruling in Meltwater’
+
+IPKat (27 July 2011). Available at http://ipkitten.blogspot.fr/2011/07/
+bently-slams-very-disappointing-ruling.html (accessed 21 June 2013).
+
+11 Justine Pila ‘Copyright and Internet Browsing’ (2012) 128 Law Quarterly
+
+Review XXX, 204 –8.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+8
+9
+7
+1
+6
+8
+1
+5
+7
+1
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+718
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2013, Vol. 8, No. 9
+
+Enterprise and Regulatory Reform Bill.12 The following
+proposed new section was debated:
+
+30A Sharing and viewing on the internet
+
+Where work is made available to the public at a particular
+web address with the permission of the owner of the
+copyright in that work, copyright shall not be infringed
+by—
+
+(a) any circulation of that web address, or of its title, or of
+
+another web address that redirects to that web address;
+
+(b) the downloading of any data required to display that
+work at that address, and any subsequent processing of
+that data, including processing for display, provided
+that it does not result in any publication elsewhere
+of the work or an adaptation of the work.
+
+This provision would have made it clear that browsing
+content which has been legitimately placed on a website
+does not infringe copyright.
+
+Labour MP Fiona O’Donnell said that ‘[i]t is evident
+that the law has not caught up with new media and the
+worldwide web, and the Government must respond.’
+She then quoted Professor Lionel Bently, of Cambridge
+University, who takes the rational view that ‘[t]here is
+something fundamentally wrong with a legal regime
+which renders the innocent acts of many millions of
+citizens illegal.’13
+
+Although Business Minister Norman Lamb had previ-
+ously said that the copyright licensing system requires
+modernization in order to be ﬁt for the 21st century, he
+did not support O’Donnell’s argument in this instance,
+saying that the issue of browsing had been dealt with in
+NLA v Meltwater and that the Government should there-
+fore await the outcome of the case in the Supreme Court
+before passing any further legislation.
+
+Ultimately no action was taken (only 6 of the 17
+Committee members voted to pass the proposed s 30A)
+as the Committee decided to wait for the Supreme
+Court’s decision before passing any legislation. However,
+the fact that the issue was debated at such a high level
+conﬁrms its importance.
+
+The Supreme Court’s decision
+The Supreme Court recognized the public interest in the
+question of whether copies made when browsing are
+temporary, saying:
+
+12 Public Bill Committee, Thursday 12 July 2012 (Afternoon), Graham Brady
+
+in the Chair, Enterprise and Regulatory Reform Bill.
+
+13 Ibid.
+14 [2013] UKSC 18, above, n 3, para 4.
+15 Ibid, para 38.
+16 Ibid, para 11.
+
+The issue has reached this court because it affects the oper-
+ation of a service which is being made available on a com-
+mercial basis. But the same question potentially affects
+millions of non-commercial users of the internet who may,
+no doubt unwittingly, be incurring civil liability by viewing
+copyright material on the internet without the authority of
+the rights owner, for example because it has been unlawfully
+uploaded by a third party.14
+
+It was the far-reaching consequences, in particular the
+transnational dimension of the issue and the fact that
+the internet has become a basic technical facility used
+by millions,15 which convinced the Supreme Court that
+any decision on temporary copying should be referred to
+the CJEU for a preliminary ruling so that the issue could
+be resolved uniformly across the EU.
+
+Despite referring the question of whether copies made
+when browsing constitute copies which are (i) tempor-
+ary, (ii) transient or incidental and (iii) an integral
+and essential part of the technological process, for the
+purposes of Article 5(1) of the Information Society
+Directive, the Supreme Court was not without its own
+opinion.
+
+Before giving its view on each of the conditions of
+Article 5(1), which it said should be read together as
+they are overlapping and repetitive, as ‘each of them
+colours the meaning of the others’,16 the CJEU gave a
+helpful summary of the EU case law on Article 5(1):
+namely Infopaq I,17 FAPL18 and Infopaq II.19
+
+CJEU case law
+Infopaq I
+The Supreme Court ﬁrst considered the CJEU’s ap-
+proach to the temporary copying exception in Infopaq I,
+a case referred by the Danish courts. Infopaq is a news
+aggregation service, which used a data capture process
+involving the creation of copies at
+four successive
+stages: (i) the creation of a scanned image of the original
+article, (ii) the conversion of that image into a searchable
+text ﬁle, (iii) the extraction of the keywords from that
+text ﬁle together with the ﬁve words on either side, and
+their storage as a text ﬁle, and (iv) the printing out
+and retention of copy (iii).
+
+The issue in Infopaq I turned on the temporary or
+transient character of copies made as part of this data
+capture process. The CJEU held that Article 5(1) might
+
+17 Case C-5/08 Infopaq, above, n 8.
+18 Joined Cases C-403/08 and C-429/08 Football Association Premier League
+
+Ltd v QC Leisure and Karen Murphy v Media Protection Services Ltd,
+4 October 2011.
+
+19 Case C – 302/10 Infopaq International A/S v Danske Dagblades Forening,
+
+17 January 2012.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+8
+9
+7
+1
+6
+8
+1
+5
+7
+1
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+Iona Silverman . Do copies made while browsing infringe?
+
+ARTICLE
+
+719
+
+apply to scanned images, images converted into search-
+able text ﬁles and keywords extracted from that text ﬁle,
+if the Danish court was satisﬁed that these copies were
+deleted automatically when the technical need for them
+had passed. The CJEU held however that the printed
+copies were not ‘transient’: they were destroyed only on
+human intervention, i.e. when a person actively chose to
+destroy them. The CJEU was of the view that the re-
+quirement that the copying be an integral and essential
+part of a technological process meant that it could only
+be ‘temporary’ or ‘transient’ if it was inherent in the
+technological process that the copy would be deleted
+when that process was complete.
+
+The CJEU also conﬁrmed that the temporary copying
+exception applies to copies made for the sole purpose of
+enabling a lawful use, and that internet browsing could
+be a lawful use.20
+
+FAPL
+The fourth and ﬁfth conditions of Article 5(1) were ana-
+lysed by the CJEU in FAPL. In this case the defendant,
+Mrs Murphy was the owner of a pub. She had subscribed
+to a television service in Greece, and used a Greek satellite
+decoder to show football matches in her pub in the UK.
+The temporary copies made in the memory of the
+decoder and on the television screen in the course of the
+streaming of the football matches were alleged to infringe
+copyright. Although the facts of Infopaq I and NLA v
+Meltwater are better aligned, because both cases relate to
+news aggregation, the Supreme Court noted in NLA v
+Meltwater that the decoder and screen copies in FAPL are,
+in technically speaking, very similar to the hard-drive and
+screen copies in issue in NLA v Meltwater. Another simi-
+larity between NLA v Meltwater and FAPL is that the in-
+fringement alleged was against consumption of a work—
+reading an extract from an article or against watching a
+football match. In FAPL the CJEU held that, while any ex-
+ception from the right of the copyright owner to control
+reproduction must be strictly construed, that right must
+be balanced against the purpose of the exception, which
+was to encourage the development and operation of new
+technologies and the rights of users who wished to use
+those technologies.21 It further held that the copies made
+
+in the satellite decoder and on television screens fulﬁlled
+the conditions of Article 5(1).22
+
+Regarding the question of lawful use, the CJEU held
+that a use is lawful, whether or not the copyright
+owner has authorized it, as long as it is consistent with
+EU legislation governing the reproduction right.23
+
+The CJEU clariﬁed that
+
+‘independent economic
+signiﬁcance’ does not have the same meaning as ‘com-
+mercial value’. A work can have commercial value and
+yet have no independent economic signiﬁcance:
+for
+instance, in this case, news snippets have commercial
+value, and yet have no independent economic signiﬁ-
+cance because no value is added by digitally transmitting
+or viewing the news snippets to that already inherent in
+them as physical newspaper clippings.24
+
+Finally,
+
+the CJEU dealt with the requirement of
+Article 5(5) of the Information Society Directive which
+states that the temporary copying exception only applies
+in ‘special cases which do not conﬂict with a normal
+exploitation of the work or other subject-matter and do
+not unreasonably prejudice the legitimate interests of the
+rightholder’. The CJEU held that, as it had found that
+Article 5(1) was satisﬁed, on the same considerations
+Article 5(5) must also be satisﬁed.
+
+Infopaq II
+The CJEU further analysed the temporary copying ex-
+ception in Infopaq II, a second reference in the same case
+as Infopaq I. In this case, the CJEU held that the making
+of copies is a ‘necessary’ part of a process if that copy
+enables the process to function ‘correctly and efﬁcient-
+ly’.25 The CJEU also reiterated what it had said in Infopaq
+I concerning internet browsing being a lawful use of a
+work,26 and in FAPL that use of a work is not unlawful
+by reason only of the fact that it lacks the authorization
+of the copyright owner.27
+
+As regards the economic signiﬁcance of a work, the
+
+CJEU conﬁrmed its ﬁndings in FAPL:
+
+the economic advantage derived from their implementation
+must not be either distinct or separable from the economic
+advantage derived from the lawful use of the work con-
+cerned and it must not generate an additional economic ad-
+vantage going beyond that derived from that use of the
+protected work.28
+
+20 Case C-5/08, Infopaq, above, n 8, para 63.
+21 Joined Cases C-403/08 and C-429/08, above, n 18, paras 162– 64.
+22 Ibid, para 182.
+23 Ibid, paras 168– 73.
+24 Ibid, para 175.
+
+25 Case C – 302/10, above, n 19, paras 30, 37.
+26 Ibid, para 49.
+27 Ibid, para 42.
+28 Ibid, para 50.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+8
+9
+7
+1
+6
+8
+1
+5
+7
+1
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+720
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2013, Vol. 8, No. 9
+
+Application of the temporary copying
+exception
+Based on these cases, the Supreme Court gave a detailed
+opinion on how the temporary copying exception
+should, in its view, apply to local copies created by users
+when browsing, before referring the question to the
+CJEU.
+
+Temporary, transient and incidental
+The Supreme Court ran the ﬁrst and second conditions
+of Article 5(1) together, saying that ‘temporary’ has the
+same meaning as ‘transient’.
+
+Referring to Infopaq I, the Supreme Court explained
+that the relevant requirements for a copy to be tempor-
+ary or transient are (i) that the storage and deletion of
+the copyright material is automatic, as opposed to being
+dependent on ‘discretionary human intervention’, and
+(ii) that the duration of the copy is limited to what is
+‘necessary for the completion of the technological pro-
+cesses in question’.
+
+The question therefore arises: are on-screen and hard-
+drive copies stored and deleted automatically? The
+Supreme Court was of the view that when a user browses
+the internet the copies made on his hard-drive are made
+automatically, without ‘human intervention’ other than
+the decision to browse the internet. Similarly the
+Supreme Court explained that the deletion of those
+copies is automatic as it is caused by a lapse of time
+coupled with continuing use of the browsers, because
+hard-drive copies are automatically deleted when a cache
+becomes full.
+
+The Supreme Court took a purposive approach: the
+object of restricting Article 5(1) to temporary or transi-
+ent copies is to ensure that the exception does not apply
+to downloads or other more permanent copies which are
+‘permanent’ in the sense that they remain until the user
+personally chooses to delete them. Although an internet
+user could adjust his cache settings and leave his com-
+puter switched on in order to preserve a cached copy,
+the Supreme Court said that this was irrelevant because
+these actions ‘do not involve a discretionary decision
+whether to retain the material in memory or not. They
+are merely rather artiﬁcial ways of extending the dur-
+ation of the relevant “technological processes”’.29 Again,
+the Supreme Court was pragmatic, saying that copies
+made when browsing must be judged in light of the
+normal operation of a computer or its browser, because
+the fact that it is possible to devise of a way of extending
+
+the life of the copies does not prevent those copies from
+being temporary. The Supreme Court took the same
+view when considering whether deletion of hard-drive
+and on-screen copies is independent of human interven-
+tion, as required by Infopaq I if the copies are to be tem-
+porary; merely devising a way to extend the life of a copy
+is not sufﬁcient to make deletion dependent on human
+intervention, as this would frustrate the purpose of
+Article 5(1).
+
+The court continued that as the copies were transient
+it is ‘strictly speaking unnecessary to consider whether
+they are also “incidental”’;30 however ,it was clear that
+they were, as computer software puts a web-page on a
+screen and into a cache to enable the user to view that
+web-page therefore the creation of the copies is wholly
+incidental to the technological process involved.
+
+Lawful use
+The Supreme Court considered the question of whether
+the exception applies only to copies made in the course
+of the transmission of material within a network, as the
+NLA argued was the case. Because browsing is not a
+‘transmission’ and because recital 33 of the Information
+Society Directive is clear that the temporary copying ex-
+ception applies to ‘acts which enable browsing as well as
+acts of caching to take place’, the Supreme Court said
+that it was an ‘impossible contention’ that the exception
+should apply only to acts of transmission. Because the
+acts of temporary reproduction which ‘enable’ browsing
+to occur include the making of temporary copies in the
+internet cache of the user’s hard drive and on his screen,
+the Supreme Court said that it follows that the recital
+‘expressly envisages that the exception will apply to end-
+user viewing of web-pages’.31
+
+In any event, the Supreme Court pointed out that the
+temporary copying exception does not just cover copies
+made in the course of the transmission of material
+within a network, but it also extends to copies the sole
+purpose of which is to enable a lawful use. The term
+‘lawful use’ can be difﬁcult to understand in this context:
+it is easy to jump to the conclusion that an unauthorized
+use cannot be lawful. However, it is clear that if the tem-
+porary copying exception applied only to authorized
+copies it would be rendered meaningless as authorized
+copies have no need for an exception. The Supreme
+Court was able to cut through this confusion, saying
+that Article 5(1) is an exception which necessarily oper-
+ates to authorize certain copying which would otherwise
+be an infringement of the copyright owner’s rights.32
+
+29 [2013] UKSC 18, above, n 3, para 32.
+30 Ibid, para 33.
+
+31 Ibid, para 27.
+32 Ibid, para 36.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+8
+9
+7
+1
+6
+8
+1
+5
+7
+1
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+Iona Silverman . Do copies made while browsing infringe?
+
+ARTICLE
+
+721
+
+The question to ask when considering whether a use is
+lawful is not whether the rightsholder has authorized the
+use, but whether the use is restricted by legislation, as
+the Supreme Court clariﬁed by referring to the CJEU’s
+decisions in FAPL and Infopaq II. The Supreme Court
+was clear that ‘this necessarily includes the use of the
+work by an end-user browsing the internet’.33
+
+In the same way that it is lawful to read a book or
+a newspaper, it is lawful to browse the internet. The
+Supreme Court said that, once it is accepted that part of
+the purpose of Article 5(1) is to authorize the making of
+copies to enable users to view material on the internet,
+the conditions of Article 5(1) should be construed con-
+sistently with that purpose.
+
+Integral and essential part of a technological
+process
+In considering the third condition of Article 5(1)—that
+a copy must be an integral and essential part of a techno-
+logical process—the Supreme Court said that although
+it might be possible to design a computer which does
+not make local copies when browsing, computers today
+do make such copies when users browse the internet.
+Accordingly, on-screen and hard-drive copies are an
+integral and essential part of a technological process. It is
+difﬁcult to see, even hypothetically, how an on-screen
+copy could be avoided any more than a copy made in
+the retina of the eye could be avoided when browsing, so
+it is reassuring that the Supreme Court has taken this
+approach.
+
+Independent economic signiﬁcance
+The Supreme Court was also satisﬁed that the ﬁnal con-
+dition, namely that the copying should have no inde-
+pendent economic signiﬁcance, was satisﬁed because, as
+in FAPL, the on-screen and hard-drive copies have no
+independent economic value for users when browsing.
+
+Article 5(5)
+Article 5(5) of the Information Society Directive speci-
+ﬁes that the temporary copying exception applies only in
+cases which do not conﬂict with a normal exploitation
+of the work or other subject-matter and which do not
+unreasonably prejudice the legitimate interests of the
+rightsholder. Although it did not make a ruling on
+whether copies made when browsing fall under the ex-
+ception at Article 5(1), the Supreme Court was un-
+equivocal that
+
+Once it is accepted that article 5.1 extends in principle to
+temporary copies made for the purpose of browsing by an
+unlicensed end-user, much of the argument which the
+courts below accepted unravels.34
+
+The Supreme Court added:
+
+Once these matters are established, it follows that article 5.5
+is also satisﬁed.35
+
+The Supreme Court made no ruling on whether Article
+5(1) applies to copies made when browsing as it felt that
+this was too important an issue not to be resolved uni-
+formly across Europe. However, Lord Sumption was
+explicit in his unanimously accepted judgment that,
+in his view, based on recent CJEU case law (of which
+the High Court and Court of Appeal had not had the
+beneﬁt), the copies made when browsing fulﬁl the condi-
+tions of Article 5(1). In particular, Lord Sumption was
+not persuaded by the argument that, if viewing content
+online does not require a licence, rightsholders would be
+exposed to large-scale piracy, and he said that the CJEU
+did not appear to have been persuaded of this either. He
+said that diminution in the rights of copyright owners
+must necessarily narrow the scope of their protection
+but that this should be kept in proportion. Rightsholders
+still have a right of action against pirates, against people
+who upload infringing content; indeed, the Information
+Society Directive contains important provisions enlar-
+ging the range of procedures and sanctions available
+against piracy.
+
+Lord Sumption then considered the practical conse-
+quences which would ensue, should a decision to the
+contrary be made.
+
+Consequences
+In considering the implications of the application of the
+temporary copying exception to on-screen and hard-
+drive copies, the Supreme Court referred to the EU’s
+policy of maintaining a high level of protection of intel-
+lectual property but said that it was necessary to keep
+this concept in proportion. First, one should remember
+that Article 5(1) is an exception to the right to copy
+which, by its very nature as an exception, must operate
+to authorize copying which would otherwise be infrin-
+ging. Secondly, the Supreme Court reminds us that it
+has never been an infringement merely to read an article.
+Article 5(1) simply seeks to equate the law, as it applies
+to the physical world, to the online world making it legal
+the
+to read an article using a computer. Thirdly,
+
+33 Ibid, para 27.
+34 Ibid, para 37.
+
+35 Ibid, para 34.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+8
+9
+7
+1
+6
+8
+1
+5
+7
+1
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+722
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2013, Vol. 8, No. 9
+
+Supreme Court said that if it is an infringement to view
+copyright protected material online, then all those who
+browse the internet will likely commit infringements,
+which ‘seems an unacceptable result, which would make
+infringers of many millions of ordinary users of the
+internet across the EU who use browsers and search
+engines for private as well as commercial purposes’.36
+
+The Supreme Court next considered Meltwater’s pos-
+ition: although Article 5(1) could permit users to view
+copyright material,
+it did not permit Meltwater to
+upload or make copies of that material. Thus Meltwater
+still required a licence from the NLA or the publishers,
+which it has.
+
+The quest for uniformity
+The Supreme Court therefore referred the question of
+whether Article 5(1) of the Information Society Direct-
+ive applies to local copies made when browsing the inter-
+net to the CJEU, in order that the issue be resolved
+uniformly across Europe. While the speciﬁc questions
+are yet to be drafted, in the meantime it is clear that the
+Supreme Court has provided the CJEU with a very
+detailed opinion on the matter.
+
+The Supreme Court was clear that the aim of Article
+5(1) was not to enable pirates to circumvent the law, and
+that rightsholders would still have a course of action
+against those who upload material without authoriza-
+tion. Article 5(1) does not negate any course of action
+against pirates, it simply forces rightsholders to seek
+those who are ‘more obviously at fault’.37
+
+Although, in the Supreme Court’s view, users should
+not be required to enter into licences with rightsholders
+in order to view content, Meltwater must be authorized
+to use that content. Lord Sumption commented that it is
+likely that the licence fee chargeable to Meltwater will be
+substantially higher if the CJEU agrees that users do not
+need a licence. The NLA has lodged an alternative claim
+with the Copyright Tribunal who may need to review the
+licencing scheme between the NLA and news aggregators
+on that basis.
+
+The CJEU’s decision will not be available for 12 to 18
+months but will be eagerly awaited by users and right-
+sholders alike seeking clarity as to what constitutes a
+temporary copy. The Supreme Court’s decision is re-
+freshingly pragmatic and demonstrates that the UK
+courts are able to balance the effects of our ever evolving
+technology with the demands of the law.
+
+36 Ibid, para 36.
+
+37 [2013] UKSC 18 at [36].
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+8
+9
+7
+1
+6
+8
+1
+5
+7
+1
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+

@@ -1,0 +1,2064 @@
+18
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2019, Vol. 14, No. 1
+
+Can the law fix the problems of fashion? An
+empirical study on social norms and power
+imbalance in the fashion industry
+Guido Noto La Diega*
+
+1. Scope of the study and research
+methods
+
+It does not seem controversial that intellectual property
+law is not ﬁt for the fashion industry.1 From this consid-
+eration, the call on lawmakers to amend existing laws2 or
+current jurisprudential approaches3 usually follows in or-
+der to ensure creativity be rewarded. Conversely, some ar-
+gue that there is no need for reforms, because fashion is
+regulated by social norms,4 and the industry ‘beneﬁts
+from widespread copying’.5 There is a resurgence of stud-
+ies showing how innovation thrives without the need for
+legal monopolies.6 Researchers,7 however, recently have
+shown how the regulation of creativity by social norms is
+not necessarily only a positive fact. In the same vein, this
+author has been carrying out empirical qualitative re-
+search to map social norms and how these are interwoven
+with power imbalance throughout the fashion’s supply
+chain. If the law, including intellectual property law, is
+not a primary concern for industry players, potential
+reforms risk being useless, if not accompanied by broader
+interventions that address said imbalance. Fashion is a re-
+minder that economic rewards are not the only incentive
+to creativity. However, one should not take for granted
+that alternative incentives be better than IP rights. A low-
+IP equilibrium can be negative if some stakeholders can
+leverage their power to get away with unfair practices, like
+certain big brands’ tendency to copy clothing designs
+from young designers and small apparel companies.8
+Power imbalance reduces freedom of expression, thus
+
+The author
+ Dr Guido Noto La Diega is a senior lecturer in law at Northumbria
+
+University.
+
+This article
+ The fashion industry is affected by an imbalance of power that
+
+goes beyond the outsourcing of part of the manufacture to devel-
+oping countries. Said imbalance characterizes the whole supply
+chain and hinders freedom of expression, freedom to conduct
+business and, hence, creativity and innovation. In order to under-
+stand fashion, IP lawyers and lawmakers need to take into account
+that the law is not the main device for regulating the relevant rela-
+tionships. Indeed, fashion is a closed community, a family where
+complaining is rather frowned upon and where contracts do not
+reﬂect the actual relationships between the parties.
+
+ In order to rebalance power, this article explores the possibility of
+
+treating good faith and inequality of bargaining power as unifying
+principles of contract law. However, in light of the evidence col-
+lected during a number of in-depth interviews with fashion stake-
+holders, it seems clear that social norms are the main source of
+regulation of relationships and, therefore, intervening at the level
+of the contracts may not be helpful. Competition law, in turn,
+may be of more help in rebalancing power; however, cases such as
+Coty v Parfu¨merie Akzente do not augur well. Moreover, competi-
+tion law is useful when the relationship is over, but it is in all the
+stakeholders’ interest to keep the relationship alive while ﬁxing its
+imbalance. This study conﬁrms recent ﬁndings that social norms
+do not just have a positive impact on ﬁelds with low IP-equilib-
+rium and sheds light on the broader consequences of the reliance
+on social norms and on its relationship to power imbalance.
+
+ This work makes a twofold recommendation. First, IP lawyers should
+
+engage more with the unfamiliar ﬁeld of social norms. Second, advo-
+cates of a reform of IP aimed at transforming the industry into an IP-
+intensive one should be mindful that the effort may prove useless, in
+light of the role of social norms, especially if power is not distributed.
+
+*
+1
+
+2
+
+3
+
+4
+
+Email: guido.notoladiega@northumbria.ac.uk.
+See, eg V Atkinson, V Azard, J Canlorbe and W van Caenegem, ‘A
+Comparative Study of Fashion and IP: Trade Marks in Europe and
+Australia’ (2018) 13(3) JIPLP 194.
+AT Briggs, ‘Hung Out to Dry: Clothing Design Protection Pitfalls in
+United States Law’ (2012) 24 Hastings Comm Ent LJ 169, 194, 213. In
+the USA, see the Innovative Design Protection Act of 2012, s 3523, 112th
+Cong (2012). On its withdrawal, see G Jimenez and B Kolsun, Fashion
+Law: A Guide for Designers, Fashion Executives & Attorneys (2nd edn,
+Fairchild Books 2014) 69.
+KK Terakura, ‘Insufﬁciency of Trade Dress Protection: Lack of Guidance
+for Trade Dress Infringement Litigation in the Fashion Design Industry’
+(2000) 22 U Haw L Rev 569, 619.
+K Raustiala and C Sprigman, ‘The Piracy Paradox: Innovation and
+Intellectual Property in Fashion Design’ (2006) 92 Va L Rev 1687.
+
+5
+
+6
+
+7
+
+F Montalvo Wirtzburg, ‘Protecting Fashion: A Comparative Analysis of
+Fashion Design
+Protection in the United States and the European Union’ (2017) 107(6)
+The Trademark Reporter 1131, 1149.
+For a notable recent example, see K Darling and A Perzanowski,
+Creativity without Law. Challenging the Assumptions of Intellectual
+Property (NYU Press 2017).
+S Plamondon Bair and LG Pedraza-Fari~na, ‘Anti-Innovation Norms’
+(2018) 112(5) Northwestern Univ L Rev1069.
+
+8 When designer Carrie Ann Roberts discovered Old Navy was selling an
+exact replica of one of her t-shirts and accepted that she had no legal re-
+course, lamented that ‘(b)ig businesses think us small businesses are just
+here to pull ideas from, and they think we are weak’ (C Lieber, ‘Fashion
+Brands Steal Design Ideas All The Time. And It’s Completely Legal’, Vox
+(27 April 2018) <www.vox.com/2018/4/27/17281022/fashion-brands-
+
+VC The Author(s) 2018. Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jpy097
+Advance Access Publication 27 July 2018
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+i
+
+i
+
+/
+
+/
+
+/
+
+1
+4
+1
+1
+8
+5
+0
+6
+0
+3
+7
+6
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+ 
+
+Guido Noto La Diega  Can the law ﬁx the problems of fashion?
+
+ARTICLE
+
+19
+
+hindering creativity. Rebalancing the fashion supply chain
+could, therefore, ensure fairer relationships, as well as
+more diverse and creative expressions.
+
+In an editorial on this Journal, Neil Wilkof9 invited
+IP lawyers to better identify and understand systems
+based on social norms, suggesting that they do not lie
+outside the scope of IP practice. This work intends to
+take up this challenge, because IP law may not be ﬁt for
+fashion, but IP lawyers must be.
+
+In terms of research methods, alongside a European
+Union (EU)- and UK-based legal analysis, this author in-
+depth interviewed eighteen fashion stakeholders, eight of
+which working on the creative side of fashion,10 10 on
+the legal one.11 Snowball sampling was followed to reﬂect
+the quasi-sectary features of the fashion industry.12 The
+difﬁculty in ﬁnding fashion creatives willing to be inter-
+viewed may be regarded as a conﬁrmation of such depic-
+tion of the fashion community as a closed world, as a
+family, if not a sect. Unlike quantitative research, qualita-
+tive methods do not aim to be representative of the entire
+relevant population, nor present results that could be
+universally generalized.13 Therefore, despite the relatively
+low number of interviews, the ﬁndings are worth of pre-
+sentation because clear threads have emerged during the
+collection and analysis of the data. Future research should
+attempt to broaden the sample including representatives
+of all the professional categories involved in the industry.
+
+2. Imbalance of power in the fashion
+industry: mapping inequalities beyond
+outsourcing and human rights violations
+
+When this author approached some fashion stakehold-
+ers saying that he wanted to interview them about
+
+knockoffs-copyright-stolen-designs-old-navy-zara-h-and-m> accessed
+12 May 2018, who reports how common the practice is.
+
+9 N Wilkof, ‘IP: It’s Also About Trust and French Chefs’ (2007) 2(11)
+
+JIPLP 706.
+
+10 These included representative of different professions, such as buyers,
+
+models, fashion communication lecturers, designers, social media man-
+agers, and independent brands. Three of the interviewees were the legal
+representatives of important organizations representing the interests of
+their profession. All participants asked to remain anonymous.
+
+12
+
+11 These were Fashion Law lecturers; PhD students in Fashion Law; IP prac-
+titioners in the UK, Italy and Greece; IP lecturers and professors and em-
+ployment lawyers.
+IM Dragan and A Isaic-Maniu, ‘Snowball Sampling Completion’ (2013)
+5(2) J Stud Soc Sci 160 underline how snowball sampling is ideal for
+closed groups and hidden populations, but they admit that there is a ma-
+jor disadvantage, ie ‘the absence of objective, quantitative criteria in tak-
+ing a decision to conclude the investigation’ (ibid 160).
+See eg BL Berg and H Lune, Qualitative Research Methods for the Social
+Sciences (8th edn, Pearson Boston 2011).
+See, for instance, Landon Peoples, ‘How to Tell if a Child Made Your
+Clothes’, Reﬁnery29 (21 April 2018) <https://www.reﬁnery29.uk/2018/
+04/197022/child-labor-fashion-checklist> accessed 10 May 2018.
+
+14
+
+13
+
+power inequalities, most of them made the assumption
+that the focus would have been on the outsourcing of
+the manufacture to factories in developing
+part of
+countries where
+standard of protection of
+human rights and employment rights is often lower
+than in Europe.14 The unwillingness to talk about such
+sensitive issues may have contributed to some potential
+interviewees deciding not to take part in this research.
+
+the
+
+In 2017, Oxfam denounced how powerful brands are
+responsible for the poverty of workers in countries like
+Bangladesh, where only 2 per cent of the price paid for
+an item of clothing goes towards factory wages.15 The is-
+sue is worsened by tax avoidance practices that do not
+make possible a redistribution of wealth.16 The problem
+is closely related to the lack of transparency in the supply
+chain; most of the biggest global fashion and apparel
+brands and retailers do not disclose sufﬁcient (if at all)
+information about their suppliers, their practices, and
+socio-environmental impact.17 While the sustainability is
+increasingly on many companies’ radar,18 the commit-
+ment is still overall low and not growing fast enough.19
+The blockchain could be an important tool to achieve an
+ethical fashion by making the supply transparent, and
+distributing power,20 but its adoption will depend on
+the attainment of legal certainty. This said, the sustain-
+ability movement is no panacea, being ‘yet another band
+of privileged white women essentially focused on ﬁrst
+world problems’.21 This may be put in relation with the
+fact, analysed below, that the prevalence of social norms
+can lead to the exclusion of intersectional problems,
+approaches, and methodologies.
+
+Even though human rights are a primary concern,
+this research moved from the belief that power inequal-
+ity was a much more pervasive phenomenon in the
+
+15
+
+16
+
+17
+
+18
+
+S Nayeem Emran and J Kyriacou, What She Makes. Power and Poverty in
+the Fashion Industry (Oxfam Australia 2017) 3.
+‘The Vile Excess and Inequality of the Global Fashion Industry’. Huck (28
+April 2016) <www.huckmagazine.com/perspectives/reportage-2/vile-ex
+cess-inequality-global-fashion-industry/> accessed 10 May 2018.
+Fashion Revolution, Fashion Transparency Index (Fashion Revolution
+2018). cf CHRB, Corporate Human Rights Benchmark (CHRB 2017).
+Costco Wholesale is the worst performer in terms of human rights.
+Sustainability credibility is one of the trends identiﬁed by Business of
+Fashion and McKinsey & Company, The State of Fashion 2018 (BoF and
+McKinsey 2018).
+
+19 M Lehmann et al Pulse of the Fashion Industry 2018 (Global Fashion
+
+Agenda and The Boston Consulting Group 2018).
+
+20 A Calis, ‘Blockchain is to bring the Fashion Supply Chain to its Right
+
+Way!’, Medium (17 March 2017) <medium.com/@anicalis/supply-chain-
+blockchain-fashion-transparency-41e1c49b3108> accessed 10 May 2018.
+
+21 D Drakeford, ‘Privilege and Power Imbalances in Ethical Fashion’,
+
+Adimay (30 June 2017) <www.adimay.com/2017/07/when-peace-becomes-
+pretentious-privilege-and-power-imbalances-in-ethical-fashion/> accessed
+13 May 2018.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+i
+
+i
+
+/
+
+/
+
+/
+
+1
+4
+1
+1
+8
+5
+0
+6
+0
+3
+7
+6
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+ 
+
+20
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2019, Vol. 14, No. 1
+
+suppliers.23 However, more
+
+fashion industry22 and, therefore, aimed at mapping it
+throughout the supply chain. The examples are count-
+less. Just to name a few, ﬁrst, a study found that there is
+an imbalance of power between Western original brand
+manufacturers’ buyers and Chinese original equipment
+manufacturers’
+recent
+trends seem to suggest that the balance of power is
+shifting in favour of Asian companies.24 Moving along
+the supply chain, said imbalance can have devastating
+consequences when it leads to sexual harassment, as un-
+covered in November 2017 by some British models
+with regards to the abuses perpetrated by photogra-
+phers.25 Edie Campbell,
+in particular, denounced a
+huge power imbalance that is at the basis of an ‘unspo-
+ken contract’26 according to which models give up
+ownership of their body. This may be read in the con-
+text of the more general problem of ‘gender power im-
+balance throughout the industry’.27 However, it cannot
+be reduced to a gender issue. For example, male model
+Cory Bond,
+in talking about him being sexually
+assaulted and drugged, pointed out that he never spoke
+out because the assailants were powerful and he did not
+want to lose his job.28 In 2018, similar episodes were
+reported29 and the public outrage that followed led to
+Vogue terminating the accused photographers’ con-
+tracts30 and Conde´ Nast adopting a code of conduct to
+prevent power abuses.31 More recently, some have de-
+nounced the dominance of so-called inﬂuencers, al-
+though brands are expected to ‘right
+the power
+imbalance’32 in growing inﬂuencer marketing industry.
+Some positive changes must be acknowledged. The
+
+power imbalance between designers and models allowed
+the imposition of very unhealthy lifestyle, but LVMH33
+and Kering34 joining forces to end the use of ‘size zero’
+models is a step forward,35 even though much still
+needs to be done to re-balance the relevant relationship.
+Sometimes, competition law has been used to address
+power imbalance. For example, a number of modelling
+agencies were ﬁned for colluding on prices thus harm-
+ing high-street chains, online fashion retailers and con-
+sumer goods brands.36 However,
+this route is not
+always viable, as shown by the Court of Justice in Coty
+v Parfu¨merie Akzente,37 where a luxury brand was
+allowed to impose restrictive distribution agreements
+excluding third-party ecommerce platforms.
+
+3. Can ‘inequality of bargaining power’
+and good faith as general principles
+address the imbalance of power in the
+fashion industry?
+
+Traditional contract law is based on the assumption
+that transactions occur between parties that are on the
+same level in terms of power. One of the theoretical
+merits of EU consumer law has been to reverse the as-
+sumption and build a legal sub-system that is protective
+of vulnerable parties, whose weakness depends primar-
+ily on information asymmetries.38 Imbalance of power
+is addressed by consumer protection laws that render a
+number of contractual clauses unenforceable and by
+giving judges the power to change the content of
+
+22 According to J Zhao, The Chinese Fashion Industry: An Ethnographic
+
+30
+
+Approach (Bloomsbury 2013) 151, uneven power is ‘vested with various
+parties connected to the network of clothing’.
+ibid.
+
+23
+24 R Young, ‘In Depth: Globalisation Reboot – Fashion’s New Centre of
+
+Gravity’ in Business of Fashion (n 18) 34.
+
+25 O Petter ‘Edie Campbell Slams Fashion Industry for Model Abuse in
+
+Open Letter’, Independent (10 November 2017) <www.independent.co.
+uk/life-style/fashion/edie-campbell-fashion-industry-model-sexual-
+abuse-open-letter-a8047591.html> accessed 10 May 2018.
+
+27
+
+26 K Borovic, ‘Edie Campbell’s Comments on Sexual Assault in The
+Fashion Industry Sheds Light on An Important Issue’, Bustle (10
+November 2017) <www.bustle.com/p/edie-campbells-comments-on-sex
+ual-assault-in-the-fashion-industry-sheds-light-on-important-issue-
+3345750> accessed 10 May 2018.
+‘Women Fashion Power’ (Centre for Sustainable Fashion, 8 March 2018)
+<sustainable-fashion.com/blog/womenfashionpower/> accessed 10 May
+2018.
+S Conti, ‘Edie Campbell Pens Open Letter on Model Abuse’, WWD (9
+November 2017) <wwd.com/fashion-news/fashion-features/edie-camp
+bell-pens-open-letter-on-model-abuse-11044720/> accessed 10 May
+2018.
+J Bernstein, M Schneier and V Friedman, Male Models Say Mario Testino
+and Bruce Weber Sexually Exploited Them. ‘https://www.nytimes.com/
+2018/01/13/style/mario-testino-bruce-weber-harassment.html’, The New
+York Times (13 January 2018) <www.nytimes.com/2018/01/13/style/
+mario-testino-bruce-weber-harassment.html> accessed 10 May 2018.
+
+28
+
+29
+
+‘Anna Wintour Responds to Mario Testino and Bruce Weber Sexual
+Misconduct Allegations’, Vogue (13 January 2018) <www.vogue.com/arti
+cle/anna-wintour-responds-mario-testino-bruce-weber-sexual-miscon
+duct-allegations> accessed 10 May 2018.
+
+31 V Friedman, ‘Conde´ Nast Crafts Rules to Protect Models from
+
+Harassment’, The New York Times (13 January 2018) <www.nytimes.
+com/2018/01/13/fashion/conde-nast-new-code-of-conduct-sexual-harass
+ment-models.html> accessed 10 May 2018.
+
+32 H Milnes, ‘For Fashion Brands, 2018 Will be the Year of the “Inﬂuencer
+
+Roster”’, Digiday UK (5 January 2018) <digiday.com/marketing/fashion-
+brands-2018-will-year-inﬂuencer-roster/> accessed 10 May 2018.
+
+33 Brands owned by LVMH include Dior, Fendi, Givenchy, Louis Vuitton,
+
+Bulgari, Marc Jacobs, Loro Piana, Guerlain and Kenzo.
+
+34 Brands owned by Kering include Gucci, Yves Saint Laurent, Bottega
+
+Veneta, Balenciaga, Stella McCartney and Alexander McQueen.
+
+35 LVMH, The Charter on the Working Relations With Fashion Models And
+
+Their Well-Being (LVMH 2017).
+
+36 Decision of the Competition & Markets Authority, ‘Conduct in the
+
+Modelling Sector’ (case CE/9859-14).
+Judgment in Coty Germany GmbH v Parfu¨merie Akzente GmbH, C-230/
+16, EU:C:2017:941. See S Barratt, ‘Aiming to Preserve Luxury Image Can
+Justify Restricting Competition, Rules CJEU as it Approves Prohibition
+of Discernible Third-Party Online Sales Platforms’ (2018) 13(5) JIPLP
+354.
+See eg the Consumer Rights Act 2015.
+
+37
+
+38
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+i
+
+i
+
+/
+
+/
+
+/
+
+1
+4
+1
+1
+8
+5
+0
+6
+0
+3
+7
+6
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+ 
+
+Guido Noto La Diega  Can the law ﬁx the problems of fashion?
+
+ARTICLE
+
+21
+
+business-to-consumer (B2C) contracts. However, fash-
+ion inequalities characterize more often business-to-
+business (B2B) relationships, rather than B2C ones.
+Therefore, it is crucial to assess if there are corrective
+mechanisms in place and if they are sufﬁcient.
+
+This work’s initial thesis was that an answer to the
+problem could have been considering the imbalance of
+bargaining power and good faith as unifying principles
+in contract law, hence overcoming the rigidities of the
+established categories of vitiation, and ultimately reba-
+lancing power throughout the fashion supply chain.
+
+Lord Denning MR, in Lloyds Bank Ltd v Bundy39 sug-
+gested that there is in English law a general principle of
+inequality of bargaining power, by which agreements are
+voidable if resulting from said inequality. In particular:
+
+English law gives relief to one who, without independent ad-
+vice, enters into a contract upon terms which are very unfair
+(. . .) when his bargaining power is grievously impaired by
+reason of his own needs or desires, or by his ignorance or in-
+ﬁrmity, coupled with undue inﬂuences or pressures brought
+to bear on him by or for the beneﬁt of the other.40
+
+The existence of the principle has not been accepted by
+most scholars41 and subsequent case law.42 However,
+recently it has been suggested that a ‘unifying principle
+is discernible, but that it should be formulated alterna-
+tively as “exploitation of constrained autonomy”’.43 As
+convincing as this interpretive proposal is, the prevail-
+ing idea44 would still appear to be that a contract can
+be voided at common law or in equity only for duress,
+undue inﬂuence, and unconscionable bargains. To said
+categories of vitiation, one has to add to this the statu-
+tory restrictions to freedom of contract introduced by
+Parliament to protect certain categories, such as con-
+sumers,45 employees46 and tenants.47
+
+The argument could be put forward that the doc-
+trines of duress, undue inﬂuence, and unconscionable
+bargains could be uniﬁed under the principle of in-
+equality of bargaining power, since principles at com-
+mon law can be developed building on policies
+
+[1975] QB 326.
+ibid 328.
+
+39
+40
+41 N Andrews, Contract Law (2nd edn, CUP 2015) 316, refers to it as ‘Lord
+
+Denning’s leading balloon’. See also the less trenchant J Cartwright,
+Unequal Bargaining: A Study of Vitiating Factors in the Formation of
+Contracts (Clarendon 1991).
+
+42 National Westminster Bank Plc v Morgan; Pao On v Lau Yiu Long [1985]
+
+AC 686, 708, HL.
+
+43 M Moore, ‘Why Does Lord Denning’s Lead Balloon Intrigue Us Still?
+
+The Prospects of Finding a Unifying Principle for Duress, Undue
+Inﬂuence and Unconscionability’ (2018) 134 LQR 257.
+J Beatson, A Burrows and J Cartwright, Anson’s Law of Contracts (30th
+edn, OUP 2016).
+
+44
+
+45 Consumer Rights Act 2015.
+46 Employment Rights Act 1996.
+
+expressed by statutory regimes.48 As per Sir Thomas
+Bingham in Timeload Ltd v British Telecommunications
+plc,49 the common law could use protective statutes
+also beyond their scope ‘as a platform for invalidating
+or restricting the operation of an oppressive clause’.50
+The initial hope of this study was to provide evidence
+that the phenomenon of inequality of bargaining power
+is becoming a structural element of contemporary
+transactions. New protective policies to address the
+inequalities in the fashion industry might have contrib-
+uted to the acceptance of the inequality of bargaining
+power as a unifying principle.
+
+Another route that this author envisaged as a way to
+rebalance the relationships throughout the fashion sup-
+ply chain was good faith. Leggatt J in Yam Seng Pte Ltd
+v International Trade Corp Ltd51 innovatively argued
+that a general term of good faith may be implied under
+certain conditions. This concept is still far from being
+accepted,52 but courts seem increasingly inclined to im-
+ply good faith terms, especially in relational and long-
+term contracts,53 which raised the hopes of many as to
+its potential as a general organizing principle.54 This
+study aimed to explain several doctrines as expressions
+of the duty of good faith (eg duress and inequality of
+bargaining power), which in turn could have rectiﬁed
+some of the inequalities in the fashion industry. Thus,
+in a cross-fertilization process, good faith could have
+been an argument for the recognition of the unifying
+principle of inequality and, in turn, the latter could
+have been a piece of the good-faith puzzle. Whilst there
+is certainly potential for the development of these lines
+of thought, they do not seem useful to resolve the prob-
+lems of fashion.
+
+4. Shifting power in communities
+regulated by social norms
+
+Even in the event that inequality of bargaining power
+and good faith rose as general principles, they could ﬁx
+
+47 Landlord and Tenant Act 1985.
+48
+
+J Beatson, ‘Duress, Restitution, and Contract Renegotiation’ in The Use
+and Abuse of Unjust Enrichment. Essays on the Law of Restitution
+(Clarendon 1991); H Collins, ‘Harmonisation by Example: European
+Laws Against Unfair Commercial Practices’ (2010) 73(1) MLR 89, 113–14.
+(1995) 3 EMLR 459.
+ibid 468.
+[2013] EWHC 111 (QB), [2013] 1 CLC 662.
+JW Carter and W Courtney, ‘Good Faith in Contracts: Is There an
+Implied Promise to Act Honestly?’ (2016) 75(3) Cambridge L J 608; Mid
+Essex Hospital Services NHS Trust v Compass Group UK and Ireland LTS.
+Sheikh Tahnoon Bin Saeed Bin Shakhboot Al Nehayan v Kent (aka John
+Kent) [2018] EWHC 333 (Comm) (22 February 2018) [174].
+For example, KP Berger and T Arntz, ‘Good Faith as a “General
+Organising Principle” of the Common Law’ (2016) 32(1) Arb Int 167.
+
+49
+50
+51
+52
+
+53
+
+54
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+i
+
+i
+
+/
+
+/
+
+/
+
+1
+4
+1
+1
+8
+5
+0
+6
+0
+3
+7
+6
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+ 
+
+22
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2019, Vol. 14, No. 1
+
+the problems of fashion only if the relationship between
+the players of the industry were regulated by law and,
+in particular, contract law. The interviews conducted
+for this research suggest that this is not the case. In fact,
+they indicate that either there is a fair contract between
+the parts, but this is never applied, or the contract is
+unfair, but no one dares complaining about it because
+of the imbalance of power. This happens also because
+fashion is a closed community, a ‘family’, based on per-
+sonal contacts and courteous exchanges, where enforc-
+ing the law, especially against the big luxury brands, is
+socially unacceptable. In the same vein, copyright law
+scholars suggest that certain communities are regulated
+by social norms, rather than traditional
+laws. This
+would be the case not only for the world of fashion,55
+but also for that of chefs,56 stand-up comedians,57 and
+all the professions occupying the ‘negative space’58 of
+IP, eg tattoo artistry,59 magic60 and sports.61 Social
+norms are not the only explanation of the phenome-
+non; this is sometimes due (also) to the following fac-
+tors or a combination thereof: market
+incentives,
+psychological
+factors, ﬁrst-mover advantages, path-
+dependency, and happenstance.62 Social norms often
+prevail on the enforcement of copyright, even when
+there is no doubt that copyright laws apply: grafﬁti is a
+very clear example of this.63 Another interesting ﬁeld of
+research on copyright and social norms, then, unveiled
+
+how authors, publishers, and translators in Israel were
+slow in the reception of colonial copyright and ‘devel-
+oped an alternative set of norms, adding to an overall
+scheme of private ordering. It included literary norms,
+contractual norms, business, and industry practices’.64
+While the reception of copyright law led to a decline of
+social norms,65 this does not seem to be the case with
+fashion, where social norms thrive even in a context of
+increasing IP protection, such as the European one.
+
+In fashion, the role of social norms would explain
+the famous ‘piracy paradox’ whereby imitation sparks
+innovation and infringement is good for creativity,66 to
+the point that IP protection may be counterproductive,
+because it would inhibit more innovation than it pro-
+motes.67 It must be said, nonetheless, that while there is
+a growing body of evidence that proves that infringe-
+ment can beneﬁt all the stakeholders involved,68 more
+data is needed to ascertain the harm of IP protection. It
+seems clear, however, that even when not harmful, IP
+has been long unnecessary in ﬁelds such as fashion.
+Raustiala and Springman explain that creativity and in-
+novation beneﬁt from copying because of the key role
+played by social and economic status (fashion items are
+‘positional’)69
+cyclical.70
+These characteristics of fashion would not be possible if
+the behaviour of the relevant community were not reg-
+ulated by social norms treating copying as ordinary
+
+and because
+
+fashion is
+
+55 Raustiala (n 4).
+56
+
+E Fauchart and E von Hippel, ‘Norms-Based Intellectual Property
+Systems: The Case of French Chefs’ (2008) 19(2) Organ Sci 187. For a re-
+cent instance of how social norms regulate cuisine, see L Markham, ‘The
+Meringue War. Claiming Culinary Turf on Instagram’ (2015) 91(2)
+Virginia Quart Rev 56.
+
+57 D Oliar and C Sprigman, ‘There’s No Free Laugh (Anymore): The
+
+Emergence of Intellectual Property Norms and the Transformation of
+Stand-Up Comedy’ (2008) 94 Va L Rev 1787. Note the disagreement
+expressed by E Moranian Bolles, ‘Stand-Up Comedy, Joke Theft, and
+Copyright Law’ (2011) 14 Tul J Tech Intel Prop 237.
+
+58 K Raustiala and C Sprigman, ‘When Are IP Rights Necessary? Evidence
+
+from Innovation in IP’s Negative Space’ in P Menell and B Depoorter
+(eds), Research Handbook on the Economics of Intellectual Property
+Law (Edward Elgar 2016) 1. On the negative space, cf M
+Richardson and S Ricketson (eds), Research Handbook on Intellectual
+Property in Media and Entertainment (Edward Elgar 2017).
+
+61
+
+(2014) 37(1) Thomas Jefferson L Rev 115, argues that French copyright
+law would protect said works.
+cf P Mezei, ‘Copyright Protection of Sport Moves’ in E Bonadio and N
+Lucchi, Non-Conventional Copyright. Do New and Atypical Works Deserve
+Protection? (Edward Elgar 2018). Sport events are no one’s property
+(Sports & General Press Agency Ltd v Our Dogs Publishing Co Ltd [1917] 2
+KB 125), but the broadcast can be protected under the Copyright,
+Designs and Patents Act 1988, s 6. However, see the judgment in C More
+Entertainment AB v Linus Sandberg, C-279/13, EU:C:2015:199.
+
+62 Raustiala (n 58) 1.
+63
+
+For example, E Bonadio, ‘Copyright Protection Of Street Art And
+Grafﬁti Under UK Law’ (2017) 2 IPQ 187, 220, after showing how copy-
+right protects grafﬁti, accepts that ‘several street and grafﬁti artists even-
+tually decide not to rely on copyright to extract added value out of their
+art or to object to violations of their moral rights or unauthorized exploi-
+tations of their work’ which reﬂects sharing-based cultural and social
+norms.
+
+59 On the social norms regulating free-riding see Aaron Perzanowski,
+
+64 MD Birnhack, ‘Copyright Law and Social Norms’ in Colonial Copyright
+
+‘Tattoos & IP Norms’ (2013) 98 Minn L Rev 511, 515. The copyright
+protection of tattoos may advance signiﬁcantly as a consequence of Solid
+Oak Sketches, LLC v Visual Concepts, LLC et al, No 1:2016cv00724—
+Document 117 (S.D.N.Y. 2018). This could lead to distinguishing from
+Merchandizing Corp of America v Harpbond [1983] FSR 32, where Adam
+Ant’s makeup was deemed non-copyrightable for lack of ﬁxation.
+
+60 Teller v Dogge, 8 F Supp 3d 1228—Dist Court, D Nevada 2014 conﬁrmed
+
+that magic tricks are not copyrightable, but magicians have an exclusive
+right to publicly perform their dramatic works and pantomimes. In com-
+menting on the case, A Scheder, ‘Teller v. Dogge: Copyright Protections
+against Copycat Illusions’ JETlaw (21 March 2014) <www.jetlaw.org/
+2014/03/28/teller-v-dogge-copyright-protections-against-copycat-illu
+sions/> accessed 13 May 2018, underlines the importance of social
+norms in the protection of the magicians’ works. P Fleury-Le Gros,
+‘Protecting the Secret of Magic Work with French Copyright Legislation’
+
+(OUP 2014) 139.
+
+65 However, ‘(a)s the commercial norms stabilized, the use of social norms
+
+in the form of public shaming declined’ (ibid 154).
+
+66 K Raustiala and C Sprigman, The Knockoff Economy: How Imitation
+
+Sparks Innovation (OUP 2012).
+
+67 Raustiala (n 58).
+68
+
+In 2017, the European Commission published only after a leak a report it
+commissioned in 2014 proving that piracy is not harmful and in some
+instances is positive, for instance when it comes to videogames, where ‘il-
+legal consumption leads to increased legal consumption’ (M van der
+Ende and others, Estimating Displacement Rates of Copyrighted Content in
+the EU (European Commission 2014) 15.
+F Hirsch, The Social Limits to Growth (HUP 1976) 27.
+
+69
+70 Raustiala (n 4) 1692.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+i
+
+i
+
+/
+
+/
+
+/
+
+1
+4
+1
+1
+8
+5
+0
+6
+0
+3
+7
+6
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+ 
+
+Guido Noto La Diega  Can the law ﬁx the problems of fashion?
+
+ARTICLE
+
+23
+
+behaviour, which is neither punished nor encouraged.71
+Since the choice of buying a fashion item depends on
+what others buy, it can be said that ‘the value of a posi-
+tional good arises in part from social context’.72 A re-
+lated important social rule is the so-called ‘induced
+obsolescence’, ie the need for the fashion industry to
+make things go out-of-date rapidly. It is crucial that an
+increasing number of people wear a certain item, for it
+to lose the status of trendy. The weak IP protection of
+fashion facilitates this process; indeed, if ‘copying were
+illegal, the fashion cycle would occur very slowly’.73
+Copying seems a socially acceptable norm in its own
+right. Indeed, even if copying may harm some design-
+ers, they are not ‘strongly incentivized to break free of
+the low-IP equilibrium because, often, they are also
+copyists’.74 Copying is also important in the so-called
+anchoring,
+ie the process of establishing trends and
+communicating them effectively ‘through an undirected
+process of copying, referencing, receiving input from
+consultants, testing design themes via observation of
+rivals’ designs at runway shows, communication with
+buyers for key retailers, and coverage and commentary
+in the press’.75 A strong IP protection of fashion may
+hinder anchoring.
+
+The qualitative research carried out conﬁrms that
+the fashion community is profoundly regulated by so-
+cial norms, but argues that this can have very negative
+effects, especially when the imbalance of power is signif-
+icant and widespread. This idea is broadly related to re-
+cent work76 that for the ﬁrst time77 challenged the
+assumption that the prominent role of social norms in
+certain creative communities is by deﬁnition a positive
+phenomenon. Whereas social norms may in some con-
+texts resolve the free-riding problem, they could none-
+theless hinder innovation in other ways, especially if
+over-enforced. First, there are the ‘research priority’
+norms. They can be problematic when strongly
+enforced within a community ‘so that members—and
+in particular marginal members—are discouraged from
+focusing on intersectional problems’.78 Secondly, when
+a community identiﬁes itself by endorsing a single
+nonconforming
+methodology,
+
+alternative,
+
+71 Raustiala (n 58).
+72
+73
+
+ibid 1719, emphasis added.
+ibid 1722, who quote Miuccia Prada saying ‘We let others copy us. And
+when they do, we drop it’. ‘The Look of Prada’, In Style Magazine
+(September 2006) 213.
+ibid 1727, emphasis added.
+ibid 1728, emphasis added.
+
+74
+75
+76 Plamondon Bair (n 7).
+77 Critiques to single aspects of this stream of copyright literature on social
+norms were already present. For instance, JA Schachter, ‘That’s My Joke
+. . . Art . . . Trick! How the Internal Norms of IP Communities are
+Ineffective Against Extra-community Misappropriation’ (2012) 12(1)
+
+methodologies are excluded, and since ‘intersectional
+problems are often best addressed by a combination of
+methodologies, the kinds of exclusion described above
+can have important negative social consequences’.79
+Exclusion of methodologies equals exclusion of people
+and of their visions. For instance, mainstream abstract
+expressionists’ methodologies
+silenced young artists
+and particularly those who ‘resisted what they saw as
+Abstract Expressionists’ narcissistic tendencies and
+overfocus on art as a therapeutic tool’.80 Thirdly, the
+way a community evaluates the worth of the work of
+their members can constitute an anti-innovation norm.
+When over-enforced, said evaluation norms maintain
+‘research priority and methodological blinders that pre-
+vent boundary-crossing innovations’.81 For instance,
+important research on the impact of chemotherapeutic
+drugs on fertility was impeded by its not falling pre-
+cisely under the remit of just one funding institution.82
+Whilst the above considerations appear accurate, so-
+cial norms can be harmful not only when over-enforced
+and not only from an innovation perspective. They can
+be when they regulate communities in which power im-
+balance is substantial and pervasive; this is the case of
+fashion.
+
+The interviews conducted for this study evidenced
+the imbalance of power throughout the fashion supply
+chain. The ﬁndings presented here regard in particular
+the power exercised by the top luxury brands on buyers
+and retailers. Leveraging the imbalance, said brands im-
+pose non-negotiable contracts that do not reﬂect the ac-
+tual relationship with buyers and retailers. This means
+inter alia that although between the parties there is of-
+ten a long-term relationship, the contracts are designed
+as if a new agreement were to be agreed every season,
+thus not allowing buyers and retailers are never sure if
+they can count on the luxury items’ provision or not.
+Let us imagine, for instance, that Valentino last minute
+decreases the quantities that can be ordered and/or the
+mark-ups (how much a seller ‘marks up’ a product
+from its previous cost). Apart from a direct impact on
+the revenues, there is an uncertainty that makes plan-
+ning impossible. Sometimes the contractual provisions
+
+Virginia Sports Entertai L J 63, pointed out how social norms do not
+provide any solution to the violations coming from outside the relevant
+community.
+
+ibid 1100.
+ibid 1101.
+ibid 1102.
+
+78 Plamondon Bair (n 7) 1097.
+79
+80
+81
+82 LG Pedraza-Fari~na, ‘Constructing Interdisciplinary Collaboration: The
+Oncofertility Consortium as an Emerging Knowledge Commons’ in KJ
+Strandburg, BM Frischmann and MJ Madison (eds), Governing Medical
+Knowledge Commons (CUP 2017) 267.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+i
+
+i
+
+/
+
+/
+
+/
+
+1
+4
+1
+1
+8
+5
+0
+6
+0
+3
+7
+6
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+ 
+
+24
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2019, Vol. 14, No. 1
+
+reﬂect the reality of the relationship, that is, a ‘signiﬁ-
+cant imbalance in the parties’ rights and obligations
+arising under the contract’,83 which would be unen-
+forceable if it referred to a B2C relationship, whereas
+there is no redress in a B2B context.84
+
+The weak contractual party does not call into ques-
+tion the contracts, manage to negotiate them, nor
+enforces breaches because if they disagree with the top
+brands, they feel that they will be excluded by the latter
+the following season and they risk the interruption of
+any commercial relationship. Hence, the law—and con-
+tractual law in particular—is not the device that practi-
+cally regulates the relationships in the fashion supply
+chain. Interviewees conﬁrm that what matters is the
+factual relationship, which is very tight and is related to
+a situation of economic dependence because if a retailer
+is no longer allowed to sell, say, Gucci items, this could
+have permanent consequences on the sustainability of
+the retailer’s business model.
+
+It seems related to the imbalance of power also the
+regulation of third-party ecommerce, which is con-
+trolled one-sidedly by luxury brands. There may be a
+rational justiﬁcation for restricting the resale on online
+retail platforms such as Amazon for image and reputa-
+tion reasons or at least this was the position taken by
+the Court of Justice in Coty.85 This ruling is problem-
+atic for a number of reasons, including the undue re-
+striction of the principle of exhaustion,86 but this is
+beyond the scope of this article. The unilateral regula-
+tion of third-party ecommerce goes beyond this. For in-
+stance, many luxury brands do not allow their
+authorized retailers to put in place keyword advertising.
+If a retailer is authorized to sell ‘ofﬂine’ it means that it
+meets the image requirements imposed by the luxury
+brand and, arguably, that there has been exhaustion.
+Therefore, there is no rational
+justiﬁcation for said
+restriction.87
+
+5. Conclusion
+
+In light of the collected evidence, this researcher’s initial
+thesis of ﬁxing the power imbalance of the fashion in-
+dustry using inequality of bargaining power and good
+faith as unifying principles does not seem tenable. One
+cannot resolve said imbalance using contract law, since
+contracts do not reﬂect the actual relationship between
+the parties and when they do, their unfairness is not
+acted upon because in the fashion community it would
+be socially unacceptable to go against those who hold
+the power. Nonetheless, the development of said unify-
+ing principles may be viable and prove fertile in other
+sectors.
+
+Competition law may be of some assistance, but the
+trend in the recent European case law does not augur
+well. Interviewees conﬁrmed that competition law is
+sometimes of help after the relationship is over, but it is
+in everybody’s interest to ﬁnd tools to keep the rela-
+tionship alive, while ﬁxing its imbalance.
+
+This study aimed at contributing to the exploration
+‘dark side’.88 The fashion
+of ‘social norms’ potential
+community represents itself as a family where ﬁghts are
+rather frowned upon. In said community, law and con-
+tracts are not the devices actually regulating the rela-
+tionships throughout
+the supply chain. A twofold
+recommendation follows. First, IP lawyers should en-
+gage more with the unfamiliar ﬁeld of social norms.
+Since the over-enforcement of social norms prevents
+the full understanding of intersectional issues, only a
+genuinely multidisciplinary methodology can put pro-
+fessionals in a good position to grasp the intricacies a
+fashion. Second, advocates of a reform of IP aimed at
+transforming the industry in an IP-intensive one should
+be mindful that the effort may prove useless, in light of
+the role of social norms, especially if power is not dis-
+tributed or, at least, rebalanced.
+
+83 Council Directive 93/13/EEC of 5 April 1993 on unfair terms in con-
+
+87
+
+sumer contracts, OJ L 95/29, art 3(1).
+
+84 Much depends on the jurisdiction. In Italy, for instance, there is a tool at
+
+the crossroads of competition law and contracts, the so-called abuse of
+economic dependence that may address power imbalance in B2B rela-
+tionships. Legge 18 June 1998, No 192 Disciplina della subfornitura nelle
+attivita` produttive, art 9. See V Falce, ‘Vendite On E Off Line Dei
+Prodotti Di Lusso: Nuovi Rilievi Concorrenziali’ (2013) 4 Dir ind 377.
+See n 38.
+
+85
+86 The preliminary ruling regarded only competition law matters, ie the
+
+TFEU, art 101(1), and the Commission Regulation (EU) No 330/2010 of
+20 April 2010 on the application of art 101(3) of the Treaty on the
+Functioning of the EU to categories of vertical agreements and concerted
+practices, OJ L 102/1, art 4. However, arguably Coty (n 38) does not
+comply with the principle of exhaustion, which applies to all intellectual
+property rights.
+
+First, under Interﬂora Inc v Marks & Spencer Plc [2014] EWCA Civ 1403
+[99], keyword advertising is not inherently objectionable. In the analysed
+scenario, said practice seems lawful under the Trade Marks Act 1994, s
+10(6) (use of a registered trade mark by for the purpose of identifying
+goods or services as those of the proprietor), s 11(2)(b) (use of indica-
+tions about characteristics of goods or services), s 11(2)(c) (necessity to
+indicate the intended purpose of a product or service), and s 12 (exhaus-
+tion). The judgment in Portakabin Ltd and Portakabin BV v Primakabin
+BV, C-558/08, EU:C:2010:416, preventing third-party keyword advertis-
+ing, does not apply here because consumers do not assume that luxury
+items originate from multi-brand retailers. Moreover, an argument a con-
+trario can be construed to apply Aktiebolaget Volvo v Heritage (Leicester)
+Ltd [2000] F.S.R. 253: the Volvo’s dealer could have availed themselves
+of a defence under s 11(2)(c) if they were still an authorized seller.
+
+88 Plamondon Bair (n 7) 1135.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+i
+
+i
+
+/
+
+/
+
+/
+
+1
+4
+1
+1
+8
+5
+0
+6
+0
+3
+7
+6
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+2
+0
+D
+e
+c
+e
+m
+b
+e
+r
+ 
+2
+0
+1
+8
+
+ 
+
+ 
+
+
