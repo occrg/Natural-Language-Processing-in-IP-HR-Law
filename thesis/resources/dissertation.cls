@@ -70,7 +70,7 @@
 
 % =============================================================================
 
-\usepackage{import} 
+\usepackage{import}
 
 \makeatletter
 
@@ -96,8 +96,7 @@
 \setcounter{tocdepth}{1}
 
 % configure style of bibliography
-
-\bibliographystyle{plain}
+% \bibliographystyle{plain}
 
 % configure style of pages
 

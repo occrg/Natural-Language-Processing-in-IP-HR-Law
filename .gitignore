@@ -1,7 +1,15 @@
 src/.ipynb_checkpoints/
 src/__pycache__/
 src/lib/__pycache__/
+*.synctex.gz
 *.log
 *.out
 *.toc
 *.aux
+*.dvi
+*.blg
+*.run.xml
+*.bbl
+*.bcf
+*-blx.bib
+*.gz

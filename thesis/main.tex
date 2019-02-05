@@ -13,6 +13,7 @@
 % - year              should be formatted as a 4-digit year of submission
 %   (so 2014 rather than the accademic year, say 2013/14 say).
 
+
 \documentclass[ % the name of the author
                     author={Oliver Ryan-George},
                 % the name of the supervisor
@@ -27,6 +28,9 @@
                 %  type={enterprise},
                 % the year of submission
                       year={2019} ]{resources/dissertation}
+
+\usepackage[backend=bibtex,citestyle=numeric-comp,bibstyle=ieee]{biblatex}
+\addbibresource{chapters/ref.bib}
 
 \begin{document}
 
@@ -64,5 +68,13 @@
 
 \import{./chapters/}{1_background.tex}
 
+\cleardoublepage
+
+\begingroup
+    \renewcommand\bibname{References \vspace*{-10mm}}
+    \scriptsize
+    \setlength\bibitemsep{5pt}
+    \printbibliography
+\endgroup
 
 \end{document}
