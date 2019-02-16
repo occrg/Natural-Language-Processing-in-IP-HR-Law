@@ -12,47 +12,88 @@
     			\label{fig:ext_us_cop}
 			\end{figure}
 			
-			
 			This implementation of intellectual property law brings in the question of human rights of access to culture, education and other social and economic rights, but traditionally this has not been included in discussion of intellectual property law\cite{mapping_ip_hr_helfer}. However, recently scholarship and legislation has progrssively begun to incorporate each other's linguistics\cite{bileta_proposal_blakely}.
-			
 			
 			Dr. Megan Rae Blakely of Lancaster University is looking for assistance in analysing journals and legal instruments for overlap in languages. In this analysis, I will map the dynamics of this change in legal and social perspective, to make evident moments of significant shifts in language. 
 			
-			
 			Previously, analysis of the intersection between human rights and intellectual property law, such as Helfer's\cite{hr_ip_conflict_coexistence_helfer}, has been limited to more manual case-by-case methods. Supplying a more systematic method using natural language processing that can cope with large amounts of data would give concrete evidence of the relationship between human rights and intellectual proeprty. 
-			\newpage
 		\subsection{Aims and Objectives}
 			In the early stages of the project, the following requirements for the project were established:
 			\begin{itemize}
-				\item A simple Graphical User Interface which allows for input of law journals and treaties PDF form.
-				\item A visualisation of all inputted PDF documents with $x$-axis as time; $y$-axis as the intent of the document toward human rights to intellectual property; and $z$-axis as the measure of the extent to which the document suggests the protection of the creator/owner or the user.
-				\item A code base written well enough for any future researcher to easily understand.
+				\item A model that takes a corpus of training PDF documents as input and assess the typical language characteristics of intellectual property documents and human rights documents and which indicates the extent to which each document suggests the law protects the user or the creator/owner;
+				\item A visualisation of this model with the $x$-axis as time; the $y$-axis as the intent of the document toward human rights to intellectual property; and the $z$-axis as the measure of the extent to which the document suggests the protection of the creator/owner or the user;
+				\item An easy to use Graphical User Interface which allows for input of law journals and treaties in PDF form and then outputs the updated visualisation;
+				\item A code base written and documented well enough for any future researcher to easily understand and extend on.
 			\end{itemize}
+			
 			Over the course of the literature review, section \ref{sec:litrev}, I will review past literature in order to find the best methods to achieve each of these requirements.
 		\subsection{Added Value}
 			The originality of the project stems from its application of natural language processing methods in this domain, rather than the natural language processing methods used. The added value will be the unique way in which the findings are best illustrated for this application through the visualisation.
 			
 			The outcome of the project will help add value to its domain. As the first systematic, easily scalable technology in this domain, it will help illustrate how historical changes in technology have impacted the tone of intellectual law. Blakely points out that this, in turn, will allow legal professionals to consider how future technological changes will impact their work and adapt accordingly.
-			\newpage
 	\section{Literature Review} \label{sec:litrev}	
-		\subsection{Natural Language Processing}
-			The most common machine learning algorithm for 
-			% 1. Support Vector Machines
-			% 2. BOW v n-gram
-			% 3. Word weighting
-			% 4. Multi-labelled classifications
-		\subsection{Graphical Representation}
-			Abc
-			% 1. 
+		\subsection{Machine Learning Classifiers} \label{sec:litrev:mlclass}
+			Document topic classification is the automated assignment of natural language texts to predefined categories based on their content\cite{ml_automated_categorisation}. 
+			
+			The precision/recall break-even point is a typical measure of success in topic classification\cite{encyc_breakeven_sammut}. It is obtained by modifying parameters until the precision and recall values are equal. However, this breakeven point does not always exist\cite{bigrams_enhance_categorisation}. An alternative to this is F1-score which is calculated by multiplying two by the precision and recall and then deviding this by the sum of the precision and recall. 
+		
+			Support vector machines are a common feature-based approach to classification. They work by considering words occuring in the training set (alternatively, see section \ref{sec:litrev:langfeat}) as a feature and plotting each document in the feature space by the number of times each feature occurs in it. It then plots a hyperplane that best splits each document class. This led to an 86\% precision/recall breakeven point when they classified the Reuters 'acq' dataset\cite{svm_joachims}. %ADVANTAGES AND DISADVANTAGES
+			
+			In contrast to support vector machines, Naive Bayes is a probabilistic approach based on Bayes' rule. Bayes' rule is a formula for finding the class given a document. There are many variations of this type of classification where the likelihood, representing the probability of a document given a class, differs. The Bernoulli multivariate model only considers whether a word occurs in a document while the multinomial model considers how many times a word appears in each document. Predictably, McCallum and Nigam found that the multinomial model performs consistently stronger over any significant vocabulary size. This led to a 89\% precision/recall breakeven point when classifying the Reuters 'acq' dataset, slightly better than Support Vector Machine's 86\%.%ADVANTAGES AND DISADVANTAGES COMPARED TO SVM
+
+			Wang and Manning improved the performance of both naive Bayes and support vector machines, for datasets with average wordcounts over 100, by adding naive Bayes features to support vector machines\cite{baselines_bigrams_wang}. 
+			
+			All these methods assume that each document can only be a member of one class. This is often not the case. Godbole and Sarawagi use the example that if a document is classed as being about wheat, it is also likely to be about grain\cite{discriminative_multilabel_godbole}. This relationship between topics should be captured in a topic-topic distribution and took advantage of. Godbole and Sarawagi implement a few variations of this, all based around the standard support vector machines with one added feature per class representing how similar the given class is to all other classes. It leads to a slight improvement on F1-score across two datasets.
+			
+		\subsection{Language Features} \label{sec:litrev:langfeat}	
+			The models from Section \ref{sec:litrev:mlclass} mostly used single words as features. This is known as a bag of words model. This has the benefit of having dense feature spaces and therefore, higher computational efficiency but it is not representative of the actual meaning of text. Wallach points out that the phrases "the department chair couches offers" has a vastly different topic to "the chair department offers couches", yet a bag of words model will represent them as the same\cite{beyond_bag_wallach}. This sort of ambiguity would clearly give innacurate results so it is worth using a feature a bit more resource heavy that provides more accuracy.
+			
+			The most common feature used is an n-gram model. This is where $n$ words are taken as the feature, giving each word some ordered context. Tan et al use bigrams that pass a certain threshold to avoid the feature space being too sparce, combined with unigrams resulting in a 3\% average F1-score improvement on the Reuters datasets\cite{bigrams_enhance_categorisation}.
+		\subsection{Graphical Visualisation}
+			What visualisations have been used for topic classification before?
+			
+			What visualisations have been used in the law domain before?
+		\subsection{Iterative Process}
+			HCI - how to review in an iterative process
 		\subsection{User Interface}
-			Abc
+			Nielsen
 		\subsection{Documentation}
-			Abc
+			Best documentation processes
 	\section{Preliminary Investigation}
-		\subsection{Preliminary Investigation}
-			Abc
+		\subsection{Investigation}
+			word counts
+			
+			word counts in sentences with words indicative of classes
+		\subsection{Conclusions}
+			learnt key information about dataset to guide decisions - 64 documents (27IP;37HR - vocabulary of over 20,000 words in 37 HR documents - average wordcount 3965
+			\newpage
 	\section{Project Plan}
 		\subsection{Timeline}
-			Abc
+			Figure \ref{tab:timeline} is a plan of what actions should be carried out each week in order for the timely completion of the final deliverable. It is split into three columns, each representing a different key part of the project's source code that can be worked on somewhat independently. 
+			\FloatBarrier
+			\begin{figure}[hbt!]
+				\begin{tabular}{ p{0.8cm}|p{4.5cm}|p{4.5cm}|p{4.5cm} } 
+					\hline
+					\textbf{Week} & \textbf{Model} & \textbf{Visualisation} & \textbf{User Interface} \\ \hline
+					11/02 & Establish specific requirements & Establish specific requirements & Establish specific requirements \\  \hline
+					18/02 & SVM, bag of words model for IP/HR & Initial sketches and feedback & Initial sketches and feedback \\  \hline
+					25/02 & Evaluation tools - algorithm to determine number of successful test cases & 2D visualisation of HR-IP against time & Nothing \\  \hline
+					04/03 & SVM, bag of words model for User/Creator & 2D visualisation of HR-IP against User-Cretor & Display results as part of UI\\  \hline
+					11/03 & Evaluation tools - cross validation algorithm & 3D visualisation with time added as an axis & Add PDF selection from user interface \\  \hline
+					18/03 & SVM, ngram models & Line of best fit & Add tabs for different visualisations \\  \hline
+					25/03 & SVM/naive Bayes model & Futher tweaks based on feedback & Futher tweaks based on feedback \\  \hline
+					25/03 & Multi-label models & Futher tweaks based on feedback & Futher tweaks based on feedback \\  \hline
+					01/04 & Final checks and cleanup & Final checks and cleanup & Final checks and cleanup\\  \hline
+					08/04 & Review of results & Review of results & Review of results \\
+				\end{tabular}
+				\caption{Week by week timeline of actions for project}\label{tab:timeline}
+			\end{figure}
+			\FloatBarrier
 		\subsection{Evaluation}
-			Abc
+			\subsubsection{Classification Results}
+				Test samples appear in correct classification - aim for similar to paper that was used
+				Cross validation produces consistent results
+			\subsubsection{Visualisation and Usability}
+				HCI process
+	\section{Conclusion}
+	

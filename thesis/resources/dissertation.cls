@@ -70,7 +70,11 @@
 
 % =============================================================================
 
+% User added packages
+% For separating chapters into different files
 \usepackage{import}
+% For strict float positioning
+\usepackage{placeins}
 
 \makeatletter
 

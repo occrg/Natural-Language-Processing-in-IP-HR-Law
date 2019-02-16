@@ -1,7 +1,7 @@
 ## Outline
 This is my University of Bristol Computer Scinece BSc Final Year Project. It involves creating a Natural Language Processing model and visualising the results.
 
-## Motivtion
+## Motivation
 The project is a contribution to a law academic’s research into the growing relationship between intellectual property law and human rights law; in particular, the extent to which intellectual property laws involve human rights considerations, and their balance between consideration of creators and users.
 
 ## Project Structure
