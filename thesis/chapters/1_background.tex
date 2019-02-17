@@ -32,7 +32,7 @@
 			
 			The outcome of the project will help add value to its domain. As the first systematic, easily scalable technology in this domain, it will help illustrate how historical changes in technology have impacted the tone of intellectual law. Blakely points out that this, in turn, will allow legal professionals to consider how future technological changes will impact their work and adapt accordingly.
 	\section{Literature Review} \label{sec:litrev}	
-		\subsection{Machine Learning Classifiers} \label{sec:litrev:mlclass}
+		\subsection{Machine Learning Classifiers} \label{sec:litrev:mlclass} % ADD EQUATIONS
 			Document topic classification is the automated assignment of natural language texts to predefined categories based on their content\cite{ml_automated_categorisation}. 
 			
 			The precision/recall break-even point is a typical measure of success in topic classification\cite{encyc_breakeven_sammut}. It is obtained by modifying parameters until the precision and recall values are equal. However, this breakeven point does not always exist\cite{bigrams_enhance_categorisation}. An alternative to this is F1-score which is calculated by multiplying two by the precision and recall and then deviding this by the sum of the precision and recall. 
@@ -56,7 +56,20 @@
 		\subsection{Iterative Process}
 			HCI - how to review in an iterative process
 		\subsection{User Interface}
-			Nielsen
+			Nielsen collated his heuristics from existing sets of heuristics with the aim of creating a general set which is as good as possible at explaining the usability prblems hat occur in real systems\cite{usability_heuristics_nielsen}. These have been highly regarded since he finalised them in 1994. They are as follows: 
+			\begin{itemize}
+				\item The user must be kept informed of the system status;
+				\item The system must match the real world with concepts familiar to the user;
+				\item The user must have control over the system, especially with an easy emergency exit;
+				\item The system should be consisent with its looks and actions;
+				\item The system should do everything within its power to prevent errors;
+				\item The system should make the user's options visible so they do not have to memorise them;
+				\item The system should be flexible so novice users can use with ease but expert users can use hidden accelerators for more efficient use;
+				\item The design should be aesthetic and minimalist since every piece of information is competing for the user's attention;
+				\item The system should give error messages that are expressed in plain language, that precisely indicate the problem and that constructively suggest a solution;
+				\item The system should provide help and documentation for the user in case anything about the system is unclear.
+			\end{itemize}
+			Nielsen also presents how to measure the severity of usability problems. The severity of a problem is split into three categories: the frequency with which a problem occurs which is how commonly it occurs; the impact of when it occurs which is how easy it is to work around; and the persistence of the problem which is how frequently a user will be bothered by the problem. 
 		\subsection{Documentation}
 			Best documentation processes
 	\section{Preliminary Investigation}
@@ -66,7 +79,6 @@
 			word counts in sentences with words indicative of classes
 		\subsection{Conclusions}
 			learnt key information about dataset to guide decisions - 64 documents (27IP;37HR - vocabulary of over 20,000 words in 37 HR documents - average wordcount 3965
-			\newpage
 	\section{Project Plan}
 		\subsection{Timeline}
 			Figure \ref{tab:timeline} is a plan of what actions should be carried out each week in order for the timely completion of the final deliverable. It is split into three columns, each representing a different key part of the project's source code that can be worked on somewhat independently. 
