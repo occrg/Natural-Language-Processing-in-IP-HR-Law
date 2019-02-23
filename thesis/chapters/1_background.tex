@@ -3,7 +3,7 @@
 		\subsection{The Problem}
 			Intellectual Property law is a term typically used to describe the areas of law which establish property protection over intangibles such as ideas, signs and information. This protection is in order to make the advancement of ideas profitable which therefore incentivises this act\cite{ip_edu_bently}.
 			
-			There is, therefore, a balance to be struck between limited exclusive rights and benefits to the public. While limiting exclusive rights may facilitate progress, benefiting the public, the overprotection of the exclusive property may restrict their access\cite{handbook_ip_hr_geiger}. One example of this is the expansion of copyright terms such as the contreversial Copyright Term Extension Act of 1998 which was heavily lobbied for by Disney just years before Mickey Mouse's copyright ran out\cite{mickey_mouse_grzelak}. The trend in extension of copyright terms, illustrated by Figure \ref{fig:ext_us_cop}, illustrates the appearance that the balance is tipping towards exclusivity rights. 
+			There is, therefore, a balance to be struck between limited exclusive rights and benefits to the public. While limiting exclusive rights may facilitate progress, benefiting the public, the overprotection of the exclusive property may restrict their access\cite{handbook_ip_hr_geiger}. One example of this is the expansion of copyright terms such as the controversial Copyright Term Extension Act of 1998 which was heavily lobbied for by Disney just years before Mickey Mouse's copyright ran out\cite{mickey_mouse_grzelak}. The trend in extension of copyright terms, illustrated by Figure \ref{fig:ext_us_cop}, illustrates the appearance that the balance is tipping towards exclusivity rights. 
 
 			\begin{figure}[h]
     			\centering
@@ -45,7 +45,7 @@
 			
 			All these methods assume that each document can only be a member of one class. This is often not the case. Godbole and Sarawagi use the example that if a document is classed as being about wheat, it is also likely to be about grain\cite{discriminative_multilabel_godbole}. This relationship between topics should be captured in a topic-topic distribution and took advantage of. Godbole and Sarawagi implement a few variations of this, all based around the standard support vector machines with one added feature per class representing how similar the given class is to all other classes. It leads to a slight improvement on F1-score across two datasets.
 			
-		\subsection{Language Features} \label{sec:litrev:langfeat}	
+		\subsection{Language Features} \label{sec:litrev:langfeat}	%write about tf-idf
 			The models from Section \ref{sec:litrev:mlclass} mostly used single words as features. This is known as a bag of words model. This has the benefit of having dense feature spaces and therefore, higher computational efficiency but it is not representative of the actual meaning of text. Wallach points out that the phrases "the department chair couches offers" has a vastly different topic to "the chair department offers couches", yet a bag of words model will represent them as the same\cite{beyond_bag_wallach}. This sort of ambiguity would clearly give innacurate results so it is worth using a feature a bit more resource heavy that provides more accuracy.
 			
 			The most common feature used is an n-gram model. This is where $n$ words are taken as the feature, giving each word some ordered context. Tan et al use bigrams that pass a certain threshold to avoid the feature space being too sparce, combined with unigrams resulting in a 3\% average F1-score improvement on the Reuters datasets\cite{bigrams_enhance_categorisation}.
@@ -71,7 +71,9 @@
 			\end{itemize}
 			Nielsen also presents how to measure the severity of usability problems. The severity of a problem is split into three categories: the frequency with which a problem occurs which is how commonly it occurs; the impact of when it occurs which is how easy it is to work around; and the persistence of the problem which is how frequently a user will be bothered by the problem. 
 		\subsection{Documentation}
-			Best documentation processes
+			Spinellis outlines the best practices for readable code\cite{code_documentation_spinellis}. Notably, he explains that the 'Don't Repeat Yourself' principle means to write what the code is doing and not how in this context as the code itself shows how an action is done. He also highlights how bad code cannot be rectified with lengthy documentation and the code should be rewritten instead.
+			
+			Python documentation is standardised by the Python Enhancement Proposals. PEP 8 and PEP 257 are useful for the readability of Python code as they supply a style guide for the code and documentation respectively.
 	\section{Preliminary Investigation}
 		\subsection{Investigation}
 			word counts
