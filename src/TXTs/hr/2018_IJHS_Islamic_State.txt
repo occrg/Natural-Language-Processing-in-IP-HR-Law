@@ -1,0 +1,2732 @@
+International Journal of Heritage Studies
+
+ISSN: 1352-7258 (Print) 1470-3610 (Online) Journal homepage: http://www.tandfonline.com/loi/rjhs20
+
+Digitally Mediated Iconoclasm: the Islamic State
+and the war on cultural heritage
+
+José Antonio González Zarandona, César Albarrán-Torres & Benjamin
+Isakhan
+
+To cite this article: José Antonio González Zarandona, César Albarrán-Torres & Benjamin
+Isakhan (2018) Digitally Mediated Iconoclasm: the Islamic State and the war on cultural heritage,
+International Journal of Heritage Studies, 24:6, 649-671, DOI: 10.1080/13527258.2017.1413675
+To link to this article:  https://doi.org/10.1080/13527258.2017.1413675
+
+Published online: 20 Dec 2017.
+
+Submit your article to this journal 
+
+Article views: 498
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+
+http://www.tandfonline.com/action/journalInformation?journalCode=rjhs20
+
+InternatIonal Journal of HerItage StudIeS , 2018
+Vol. 24, no. 6, 649–671
+https://doi.org/10.1080/13527258.2017.1413675
+
+Digitally Mediated Iconoclasm: the Islamic State and the war on 
+cultural heritage
+
+José Antonio González Zarandonaa,b 
+
+, César Albarrán-Torresc and Benjamin Isakhana,d
+
+aalfred  deakin  Institute,  deakin  university,  Melbourne,  australia;  bdivisión  de  Historia,  Centro  de  Investigación  y 
+docencia económicas (CIde), aguascalientes, México;  cSwinburne university of technology, Melbourne, australia; 
+ddepartment of Politics and International relations, university of Johannesburg, Johannesburg, South africa
+
+ABSTRACT
+This paper puts forward the new analytical framework of ‘Digitally Mediated 
+Iconoclasm’  (DMI)  to  analyse  and  interpret  iconoclastic  acts  that  are 
+experienced through the propaganda (videos, social media, photographs, 
+and  other  media)  that  the  actor  perpetrating  the  destruction  makes 
+available in global information networks for its consumption, duplication, 
+and  distribution.  DMI  captures  three  stages  of  the  destruction  (before, 
+during and after the event) as both evidence of that destruction and as a 
+perdurable digital archive. To demonstrate the relevance of DMI, we focus on 
+an analysis of the videos and photographs depicting heritage destruction at 
+pre-monotheistic sites targeted by the Islamic State (IS), such as Palmyra in 
+Syria, the Mosul Cultural Museum, Nineveh and Nimrud in Iraq. The analysis 
+focuses  on  the  three  stages  that  DMI  comprises,  showing  the  different 
+photographic and audio-visual production techniques that the IS uses to 
+enhance the tension that is built up leading to the destruction of cultural 
+heritage while allocating material and human resources to produce digital 
+propaganda. This analysis demonstrates how the analytical framework of 
+DMI can be used to advance important work in heritage and media studies.
+
+ARTICLE HISTORY
+received 1 february 2017 
+accepted 25 november 2017
+
+KEYWORDS
+digitally Mediated 
+Iconoclasm; iconoclasm; 
+social media; heritage 
+destruction; Islamic State
+
+Introduction
+The video starts with the phrase ‘In the name of God, the Most Gracious, the Most Merciful’ written 
+in Arabic, in white over a black background (Al-Hayat 2015a). The soundtrack features chants reciting 
+the Qur’an: ‘Behold!’ he said to his father and his people, ‘What are these images, to which ye are (so 
+assiduously) devoted?’ They said, ‘We found our fathers worshipping them’. He said, ‘Indeed ye have 
+been in manifest error – ye and your fathers’ (Al-Anbiyaa, 52–55). As the chants continue, the video 
+shows the interior of the Mosul Cultural Museum, abandoned and dimly lit. Armed Islamic State (IS) 
+militants start unwrapping one of the statues as if participating in the ritualised undressing of a corpse. 
+Several images show the artefacts before their destruction; silent, eternal, still. The video then cuts to 
+a bearded man standing at the Gate of Nergal at the Nineveh archaeological site, five kilometres north 
+of the museum. The man justifies the destruction that viewers are about to witness. While he speaks 
+directly to the audience, the camera shows ancient Assyrian artefacts. The video then cuts back to the 
+
+CONTACT  José antonio gonzález Zarandona 
+© 2017 José antonio gonzález Zarandona, César albarrán-torres and Benjamin Isakhan. Published with license by Informa uK limited, trading as 
+taylor & francis group
+
+  antonio.g@deakin.edu.au
+
+650 
+
+ 
+
+ J. A. GONZÁLEZ ZARANDONA ET AL.
+
+museum, where two men push a statue from its plinth onto the floor. It crashes down in slow motion 
+as we hear machine guns and screams on the soundtrack. Men, dressed head-to-toe in white and 
+sporting thick black beards, raise sledgehammers over the statues before smashing them down with 
+all their might. The footage slows at the moment of impact to emphasise the destruction – the ancient 
+material splits and crumbles. The statues lie prostrate and battered on the ground.1 On the screen, 
+superimposed words from the Qur’an state: ‘So he [Ibrahim] broke them to pieces’ (Al-Anbiyaa, 58).
+It is the 25th of February 2015, and the IS use of digital media to capture and disseminate their 
+iconoclasm stands as a watershed moment in the use of jihadist propaganda. In the days to come, 
+this digital footage will ‘go viral’: seen, discussed, and shared countless times across the world, both 
+via the Internet and broadcast media. However, the video described above constitutes just one of the 
+many released by the IS. Between 2014 and 2016, they released several films of varying lengths and 
+quality. The films document not only heritage destruction but also genocidal pogroms, beheadings 
+of prisoners, enslavement of women, their training camps, religious indoctrination programmes and 
+military successes. They share the use of sophisticated audio-visual production techniques and a 
+reliance on the fast-paced dissemination of content through digital media.
+
+The group responsible for these troubling films, the self-proclaimed ‘Islamic State’ (IS), is a militant 
+network composed of mercenaries, religious fanatics and jihadists (holy warriors), all of whom are 
+loosely bound by a radical ideology. The group was originally formed from the remnants of Al-Qaeda 
+in Iraq but split with the Al-Qaeda leadership in 2013 when Al-Qaeda’s leader Ayman Al-Zawahiri 
+expelled IS’ leader, Abu Bakr Al-Baghdadi, from the organisation (Kilcullen 2016, 77; Mabon and 
+Royle 2016). Inspired by fundamentalist ideologies such as Wahhabism and Salafism, the IS suc-
+ceeded where others had failed: they established a Caliphate (khilāfa) and implemented strict shariah 
+law (Isakhan 2015; Stern and Berger 2015). In June 2014, the group conquered Mosul, Iraq’s second 
+largest city, with little resistance from the Iraqi army. Before Mosul, the IS had taken advantage of the 
+civil war that engulfed neighbouring Syria to capture territories across the border. Alongside their 
+rapid and aggressive conquests and the imposition of a strict and austere vision, the IS developed and 
+deployed a highly efficient propaganda machine to disseminate their nefarious ideology and to urge 
+the faithful to migrate to the new Islamic State and take up arms in a broader jihad (holy war) on its 
+behalf. Central to the IS propaganda machine is Dabiq, its online magazine, and Al-Hayat, the media 
+centre responsible for its audio-visual productions.2
+
+Among the most successful propaganda released by the IS – in terms of total views and widespread 
+condemnation by the international community – are the several videos that document the destruc-
+tion of heritage at institutions such as the Mosul Cultural Museum, and at archaeological sites such 
+as Palmyra, Nineveh and Nimrud. For the first time in the history of iconoclasm, a militant faction 
+had issued several propaganda films that focused solely on heritage destruction. These videos were 
+designed to simultaneously send different messages to diverse audiences: to attract and indoctrinate 
+recruits; to mobilise their support base; to strike fear into the hearts of locals; to inflame and infuriate 
+ideological and religious opponents; and to shock Western audiences with their heady mix of zealotry 
+and gore (Harmanşah 2015; Smith et al. 2015).
+
+By mediating heritage destruction, IS positions traditional iconoclasm – the deliberate targeting 
+of material culture for political and religious purposes – in the contemporary technological world. 
+Articulating a new conceptual framework to capture such mediated destruction is vital because, as 
+‘images become more widely available, more easily reproducible, and more accessible than ever before, 
+their power increases and iconoclasm becomes ever more frequent and widespread’ (Freedberg 2016, 
+87–88). As images of destruction become more commonplace, we need fresh conceptual frameworks 
+via which to analyse and interpret evolving forms of production and reception of these images, along 
+with their changing meanings, scales and impacts (cf. Elsner 2016).
+
+This  paper  analyses  and  interprets  such  videos  through  the  analytical  framework  of  Digitally 
+Mediated Iconoclasm (DMI). DMI entails the deliberate destruction of heritage sites experienced 
+primarily through the propaganda that the actor perpetrating the destruction (in this case the IS) makes 
+available for consumption via global information networks. This propaganda includes videos, social 
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  651
+
+media messages, photographs, and other digital media on online platforms such as YouTube, Twitter, 
+Instagram, Facebook and Tumblr. The strategy entails the recording of a site before, during and after 
+the moment of destruction – what Elsner (2016, 135) calls ‘a kind of slow striptease conducted through 
+episodes of filmed destruction, like a porn soap opera’. It also relies on digital technology for the storage, 
+duplication and distribution of the propaganda via social media, for its consumption and experience by 
+both global and local audiences. For the IS, the process of destruction is as important as the outcome; 
+the three stages are essential acts in their own right. For instance, recording the moments before the 
+destruction of a site builds up tension in the narrative. The process of destruction is intentional and 
+literally ‘directed’ by someone with knowledge of propagandistic filmmaking techniques. The site is 
+then dutifully recorded after the destruction has occurred as if to document the scale and veracity of 
+their war on cultural heritage. What sets DMI apart from other iconoclastic events is not only the effort 
+and attention to detail that the IS puts into creating high-quality digital products, but also the tension 
+that is produced by the stages of destruction that they document. Also, such destruction involves 
+the allocation of human resources to create a digital product, demonstrating the commitment of the 
+group towards an iconoclastic agenda. More telling is the fact that the destruction is recorded not by 
+the victim, but by the perpetrator, further evidence of IS commitment to the destruction of heritage.
+To elucidate this conceptual framework, this paper begins with a discussion of the critical con-
+cepts utilised in developing DMI, namely ‘heritage’, ‘iconoclasm’, ‘heritage destruction’, and how these 
+interface with digital media. This leads to a discussion of the precise contours and parameters of DMI 
+and its usefulness in analysing contemporary iconoclasm. DMI is then applied to an analysis of photo-
+graphs and videos produced by the IS that document the destruction of the ancient city of Palmyra in 
+Syria, the destruction of artefacts inside the Mosul Cultural Museum and at the archaeological sites of 
+Nineveh and Nimrud in Iraq. These case studies reflect one key category of the vast array of different 
+types of sites that have been attacked by the IS, that of Pre-Monotheistic Iconoclasm. Such sites are 
+deliberately attacked because they are the material remnants of polytheistic cultures and religions that 
+inhabited modern Syria and Iraq before the advent of Islam, such as those of ancient Mesopotamia 
+or the Greco-Roman world. Under strict interpretations of Abrahamic monotheism, such sites and 
+artefacts are considered heretical and blasphemous and therefore ought to be destroyed (Isakhan 
+and González Zarandona 2018). This paper concludes by proposing that understanding the various 
+motives that underpin DMI is critical to understanding and mitigating against iconoclasm as a form 
+of terror and its dissemination via digital media technologies.
+
+Heritage, iconoclasm and digital media
+To understand the processes of mediation involved in DMI, we must first contextualise the meaning 
+of ‘heritage’, ‘iconoclasm’ and ‘heritage destruction’. Heritage does not exist outside of a conceptual 
+framework (Smith 2006), particularly regarding the role of the historical past in present socio-political 
+and cultural configurations. Heritage is not only the materialisation of culture but also the intangible 
+processes by which humans socialise and construct themselves through symbols (Miller 1994). As 
+such, heritage plays a fundamental element in the construction of identity. Likewise, scholars have 
+looked at the political aspect of heritage and the tensions that arise as a result of contestations over 
+definitions, interpretations, ownership and competing claims to the past (Tunbridge and Ashworth 
+1996; García Canclini 1997). As heritage is defined and interpreted by different groups, a struggle for 
+political power arises. This political dimension of heritage is a crucial focus of Heritage Studies, where 
+contestations over the past are inherent in the formulation of contemporary identities.
+
+Iconoclasm is a term traditionally associated with historical instances of the destruction of religious 
+iconography during the Byzantine period of the eighth and ninth centuries, Protestant sects such as 
+Calvinism during the sixteenth century, and the spread of Wahhabism across the Arabian Peninsula 
+from the nineteenth century (Brubaker 2012; Noyes 2013). In these cases, iconoclasts focused on the 
+destruction of what they saw as the sacrilegious representation of God, or God’s creations, in images 
+and icons. By erasing a particular image or object, iconoclasts sought to target the mnemonic capacity 
+
+652 
+
+ 
+
+ J. A. GONZÁLEZ ZARANDONA ET AL.
+
+of images and objects that make specific practices or identities manifest in the world. The concept of 
+iconoclasm has also expanded to encompass and reflect instances where the deliberate destruction 
+of art and heritage occurs for political reasons (Gamboni 1997; Boldrick, Brubaker, and Clay 2013), 
+or because some might find it offensive and transgressional (Julius 2002; Gubern 2004). Iconoclasm 
+therefore also includes the abolition of established beliefs, ideas, and traditions that the images or 
+objects enshrine. In this regard, iconoclasts seek to purify society and remove the ideologies of their 
+political enemies through the eradication of idols. Iconoclasm is the specific targeting of material 
+manifestations of cultural heritage because of their perceived threat to a particular doctrine or ideology.
+Iconoclasm can therefore be understood to include attacks beyond religious icons. Recent literature 
+has focused on the concept of heritage destruction to interpret the attempt by an actor or group to 
+deliberately damage or destroy the tangible or intangible manifestations of the culture of a particular 
+community (Layton, Stone, and Thomas 2001; González-Ruibal 2013; Sørensen and Viejo-Rose 2015). 
+Scholarship suggests that heritage destruction is the result of a desire to erase the memories and the 
+cultural identities associated with a particular community (Mitchell 2016, 69–70; Isakhan, González 
+Zarandona, and Al-Deen 2018). By destroying heritage, the perpetrator is destroying national, social 
+or sacred aspects attached to identity (Riedlmayer 2002; Auwera 2012). For this reason, scholars have 
+argued that the destruction of cultural heritage sites may be a case of cultural genocide that seeks to 
+destroy the history and memory of entire ethnic groups (Bevan 2006), by targeting sites where the 
+practice of traditions, in the form of rituals, gives meaning to cultural identity (Braarvig 2014). In 
+sum, iconoclasts attack these places and the people who cherish them because they are central to the 
+dismantling of their cultural identity and the practices that in turn nourish this identity (Walasek 
+2015, 52–58; Isakhan forthcoming). Targets for iconoclasts can be religious sites, but also libraries 
+(Knuth 2006; Frieze 2011), museums (Stone and Bajjaly 2008), archaeological sites (Meskell 1998) or 
+any other place that promotes and encourages the practice of a group’s language and culture, including 
+repositories of their artistic, literary and intellectual achievements (Nersessian 2005).
+
+However, the mediation of heritage destruction has seldom been analysed, a lacuna that the concept 
+of DMI seeks to address. Mediation is at the core of every act of iconoclasm. We understand media-
+tion as ‘an intrinsic condition of being-in and becoming-with the technological world’ (Kember and 
+Zylinska 2012, xviii). Even though early periods of iconoclasm were not experienced through broadcast 
+or digital media, a type of mediation did take place. This mediation, between the transcendent being 
+and its depiction in an image or sculpture, was the reason why iconoclasts took issue with images 
+and objects. Iconoclasts also took a stand against the creation of ornamental objects, arguing that the 
+resources allocated to this end could be better spent elsewhere (Flood 2016, 119). Iconoclasts believed 
+that the power of images and objects resided in the mediation that was made possible through the 
+physical embodiment of the transcendent being (Freedberg 1989, 2016). The fact that a divinity could 
+be represented in an image was, for the iconoclast, the reason idolatry existed.
+
+More to the point, throughout history moments of iconoclasm have been recorded and dissem-
+inated to document the erasure of blasphemous idols or images. Iconoclasm is pointless without an 
+audience, and the witnessing or recording of heritage destruction is key to disseminating the message. 
+The defacement of the Golden Calf by Moses was not only witnessed by the Israelites but recorded in 
+the Bible alongside the recounting of the Ten Commandments which explicitly prohibit the worship of 
+idols (Exodus 20: 3–4; 32: 1–20; 34). During the French Revolution, when countless statues and effigies 
+associated with royalty and Catholicism were wrecked and removed, the destruction was mediated 
+not only by the press, but also by artists who created etchings, drawings and paintings that depicted 
+the defacement of monuments during and after the revolution (Gamboni 1997, 31–36; Clay 2012).
+
+During the twentieth century, new technologies were used to document the destruction of symbols 
+for propaganda purposes. In the First World War, photographs of the burnt Library of the University of 
+Louvain in Belgium were used to portray the German perpetrators as the barbarian ‘Huns’, while also 
+creating a collective consciousness about the loss of cultural heritage. As Tollebeek (2014, 11) writes: 
+‘The burning of the precious, centuries-old library prompted more outrage even than the civilian 
+casualties or ruined houses’. Another emblematic case was the attack on the National and University 
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  653
+
+Library of Bosnia and Herzegovina in Sarajevo in August 1992. The attack aimed to destroy the histo-
+ries and stories belonging to the different cultural groups that made up the social fabric of the former 
+Yugoslavia (Riedlmayer 2002; Walasek 2015). Mass media broadcasted images of the fire, and later 
+on, photographs of the ruins became widely known when cellist Vedran Smailovic was photographed 
+playing his instrument inside the remains of the building. The tradition of using media to document 
+iconoclasm has continued into the twenty-first century. In 2001, a video documenting the blowing 
+up of the Buddhas of Bamiyan by the Taliban brought worldwide attention to the plight of heritage 
+sites under fundamentalist rule (Flood 2002; Falser 2011; Elias 2013). Two years later, global news 
+channels covered the toppling of the statue of Saddam Hussein in Firdos Square in Baghdad, an event 
+that was carefully staged and documented by the US Army to symbolically mark the end of a regime 
+(Major and Perlmutter 2005; Isakhan 2011). The war on cultural heritage and their mediation are an 
+extension of the battlefield (cf. Mitchell 2005, 94, 2011).
+
+Digitally Mediated Iconoclasm: digital media and terrorism in the twenty-first century
+In the digital age, new media technology has created new publics to which propaganda acts and icon-
+oclastic events can be directed. What we have termed DMI is positioned in a historical and technolog-
+ical juncture in which digital media has become key to most political communication. Social media 
+platforms, therefore, provide groups such as the IS with the ability to disseminate their fundamentalist 
+message to reach both local and global audiences in ways and at a speed impossible to earlier genera-
+tions of jihadists. Using such technology to disseminate footage of violence or iconoclasm, the IS has 
+been able to dominate the narrative during the current phase of the war on terror.
+
+Social media platforms are crucial for the IS in the expansion of its ideology in digital spaces. This 
+digital ideological campaign takes advantage of the nature of online publics, which are constantly 
+being reshaped. As boyd (2010, 43) states: ‘The properties of bits regulate the structure of networked 
+publics, which, in turn, introduces new possible practices and shapes the interactions that take place’. 
+The IS has been able to identify different networked publics and shape its messages accordingly. Even 
+though the use of different types of media for terrorist propaganda is not a new phenomenon (Nacos 
+1994), the formation of networked publics alters the mechanisms by which the IS and other organi-
+sations circulate their propaganda.
+
+This change is mainly due to the potential to reach diverse and often opposing audiences. In 
+the case of the IS, these audiences include IS enthusiasts, IS cells around the world, anti-IS groups, 
+diasporic communities, news media organisations, researchers, citizen journalists, commentators, 
+and consumers. The ripples that spread out from the IS and their DMI across digital spaces could be 
+understood as what Madianou calls ‘polymedia events’, where an event ‘generates a series of reactions 
+or related events which are played out in different media platforms’ (Madianou 2013, 261). Polymedia 
+events, Madianou (2013, 261) argues, are ‘transnational and decentralised in the sense that there is 
+no shared official or central narrative; polymedia events are marked by parallel or clashing narratives’. 
+When the IS releases an iconoclastic video, the responses by different actors turn it into a polymedia 
+event – thus constituting a vital part of DMI.
+
+Another key part of their DMI strategy is that the IS also relies on the ability to archive informa-
+tion on the Internet, making its storage decentralised, and allowing its propaganda to be relatively 
+easy to access. Congealed in space and time, the destruction of heritage exists in a digital archive that 
+reminds us about the absurdity of war and the damage it brings to people and the objects they make 
+meaningful. Cultural heritage is not only transformed when it is destroyed through physical harm but 
+also when it is uploaded to the Internet where the outburst of violence is permanently stored for wide-
+spread and repeated consumption. It is then widely interpreted by networked publics, extending the 
+process of iconoclasm ad infinitum. With the advent of digital archives, ‘a universal cultural memory 
+bank accessible to all cultural producers’ (Manovich 2013, 250) has been created. The proliferation of 
+digital content distribution channels also means that violent groups – cultural producers in their own 
+right – have a more extensive range of propagandistic tools at their disposal and they can distribute 
+
+654 
+
+ 
+
+ J. A. GONZÁLEZ ZARANDONA ET AL.
+
+this content faster than ever (Mitchell 2011, 20). When spread on social media, DMI spectacles can 
+be shared, remixed and commented upon by audiences endemic to digital.
+
+The IS relies on the interplay between social and broadcast media, as ‘public discourse about 
+terrorism is also primed by mediated images of terrorists and terror violence in broadcast and (to a 
+lesser degree) print news media’ (Tuman 2009, 179), as well as online outlets. And media is the oxy-
+gen that keeps feeding the fire of terrorist propaganda, as ‘terrorists have learned to manipulate news 
+media to ensure publication and distribution of their rhetoric to a global audience’ (Tuman 2009, 
+179). Indeed, the IS has been quick to adapt to contemporary social media dynamics. Researchers 
+have identified fundamental differences between Al Qaeda and the IS use of social media, resulting 
+in part from the increasing sophistication of social media platforms. As Speckhard, Shajkovci, and 
+Yayla (2017, 84) argue:
+
+What differentiates ISIS from other extremist groups [...] is its ability to utilize its online campaign to both attract 
+and recruit potential followers and promote its brand as a serious, powerful, and ruthless organization. Unlike 
+other jihadist terrorist organizations, its online campaign does not operate in the shadows; on the contrary, its 
+content is outsourced and distributed to everyone willing to embrace it.
+
+The IS looks for publicity rather than secrecy, evidence of its sophisticated understanding of social 
+media platforms. On Twitter alone, it is estimated that, at its peak, more than 46,000 accounts were 
+created in support of the IS (Speckhard, Shajkovci, and Yayla 2017, 84). Russo (2017, 459) has recog-
+nised the use of pop culture motifs as a strategy of the IS, through which they built a powerful brand. 
+When distributed via social networking sites, IS heritage destruction is seen as newsworthy and has 
+been picked up by the mainstream media, something which amplifies the potency of their iconoclastic 
+acts. This recalls what Debord defines as a ‘spectacle’ or ‘a social relation among people, mediated by 
+images’ (Debord 1983 [1967], 2). Best and Kellner (1999, 144) take this a step further, contending that 
+we are in a more advanced stage of the spectacle: the interactive spectacle, which involves the creation 
+of cultural spaces and forms that present exciting possibilities for creativity and empowerment of 
+individuals, as well as novel ways of seduction and domination.
+
+Some scholars have sought to document the IS use of ‘interactive spectacle’ via an examination of 
+the interface between social media, cultural heritage and terrorism. For example, Smith et al. (2015, 
+10) define ‘Socially Mediated Terrorism’ (SMT) as ‘the use of social and networked media to increase 
+the impact of violent acts undertaken to further a social, political and/or religious cause with the aim 
+of creating physical, emotional or psychological suffering that extends beyond the immediate audience’. 
+The authors rightly frame the difference between previous heritage destruction and the iconoclasm 
+perpetrated by the IS as contingent on their use of digital media and its potential for global impact, 
+given that these acts are directed towards several audiences.
+
+However, we contend that DMI is a more suitable tool than SMT for the analysis and interpretation 
+of the destruction of heritage sites by groups such as the IS. Firstly, the use of the term ‘digital’, as 
+opposed to ‘socially’, shifts the focus from social media to encapsulate the broader interplay between 
+traditional media (TV, radio, print) and new media (including, but not limited to, social media), and 
+the extent to which this interface is contingent on the unprecedented speed and ubiquitous nature of 
+information technologies. Secondly, DMI’s use of the term ‘iconoclasm’ does not reduce the heritage 
+destruction perpetrated by the IS to purely a form of ‘terror’. While Smith et al. (2015) advance the 
+study of IS terror as propagated through social media, their thesis reduces the heritage destruction 
+of the IS to a part of their broader violent agenda. DMI focuses more specifically on its iconoclastic 
+programme, capturing the fact that the IS seeks to destroy venerated images and rupture a commu-
+nity’s sense of identity, to send powerful ideological messages, as well as to terrorise local populations 
+and horrify global audiences through impactful ‘interactive spectacles’. Finally, DMI advances earlier 
+work by focusing on the mediation of the key phases of destruction (before, during and after) through 
+digital technology, building a tension never experienced in earlier cases of iconoclasm. As Flood 
+(2016, 123) has put it: there is a tension ‘between the desire for information on unfolding events and 
+the fact that the full efficacy of iconoclastic spectacles occurs in a symbiotic relation to practices of 
+circulation and viewing that underwrite the ability of images of destruction to ‘go viral’’. This process 
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  655
+
+can be explained via a definition of iconoclasm as: ‘a moment in ongoing processes of discursive sign 
+transformation that precede, accompany and proceed from moments of physical breaking’ (Boldrick, 
+Brubaker, and Clay 2013, 2).
+
+Iconoclasm therefore accelerates the natural lifetime of cultural objects. This notion resonates with 
+Mitchell’s (2016, 32) argument that the destruction of images can never be achieved because images are 
+always evolving and being adapted to newer types of media. Although that adaptation is interrupted 
+by destruction, it may continue in another form of media, a fact that is emphasised by the three stages 
+of DMI. In other words, the mnemonic quality of images allows their endurance in other forms of 
+media after they are materially destroyed. Viewing iconoclasm as a process of transformation therefore 
+allows us to consider DMI as a more fluid polymedia event that permeates not only different media 
+but also different phases of the same event. The mediation of heritage destruction by the IS therefore 
+not only serves as a physical embodiment of IS ideology, terrifying local populations and horrifying 
+global audiences, it also creates a carefully staged documentation of the process of heritage destruc-
+tion, a digital legacy of the before, during and after of the moment of destruction. To demonstrate, 
+the remainder of this paper analyses and interprets videos and photographs produced and published 
+by the IS, focusing specifically on the destruction or Pre-Monotheistic artefacts and sites such as the 
+ancient city of Palmyra, the Mosul Cultural Museum, Nineveh and Nimrud.
+
+The Islamic State and Digitally Mediated Iconoclasm
+Palmyra
+A clear example of DMI is the digital mediation by the IS of the defacement of several monuments at 
+the UNESCO World Heritage site of Palmyra, located in the Homs province of Syria.3 Originally an 
+oasis, Palmyra – adjacent to the modern town of Tadmur – became a prominent caravan city on the 
+Silk Road from the first to the third century CE. It reached its splendour in the mid-second century 
+after it achieved independence from the Roman Empire in 129 CE. Its inhabitants spoke Palmyrene 
+– an Aramaic language related to Hebrew and Nabatean until it disappeared in the late-third century 
+as a result of Emperor Aurelian’s reconquest of the site (Terpak and Louis Bonfitto 2017). Although 
+Palmyra is often framed as a Greco-Roman city, for much of its history it was the capital of an inde-
+pendent trade empire. In fact, it only became known as Palmyra (the ‘City of Palms’) after it was 
+annexed to the Roman Empire in the first century. Over the centuries, the Palmyrenes venerated 
+an array of gods and devoted many temples to them, as the various rare religious sites and beautiful 
+monuments across the site attest.
+
+Since the IS established Raqqa as their de facto capital in 2013 up until their defeat in 2017, there 
+was significant concern amongst the international community about the potential destruction of 
+archaeological sites in Syria by the IS, particularly World Heritage sites such as Palmyra (Bokova 
+2015). Such concerns proved prescient. In May 2015, Palmyra was the scene of heavy fighting between 
+the IS and pro-regime forces in Syria, and by the end of the month, the IS had captured the ancient 
+city (Sami 2015). Among the first acts was the rounding up and execution of approximately 20 Syrian 
+soldiers at the site’s famous amphitheatre. Locals were forced to watch before the bodies were dumped 
+in mass graves.
+
+The first video of Palmyra uploaded to the Internet by the IS was made available on YouTube by 
+the Association for the Protection of Syrian Archaeology (APSA) on May 26, 2015, just days after the 
+group conquered the city. The video shows several architectural features of Palmyra, including the 
+Temple of Bel, the colonnaded street, and the amphitheatre (APSA 2015a). Unlike subsequent videos 
+released by the IS, no post-production effects were added to the raw footage. Consistent with the model 
+of DMI, the brief video (1:27 min) appears to deliberately document the ‘before’ stage – showing the 
+site at the time of the IS conquest and demonstrating that no destruction had yet occurred. Two days 
+later, on May 28, 2015, APSA posted on its Facebook site pictures of Palmyra published by the IS the 
+previous day. The photographs reveal that virtually no damage had been done to the site, although 
+
+656 
+
+ 
+
+ J. A. GONZÁLEZ ZARANDONA ET AL.
+
+one image from inside the small museum located at Palmyra showed some evidence of looting and 
+internal damage. Particularly noteworthy are two pictures. One is a panoramic shot of the amphitheatre 
+with the iconic IS black flag flying atop the building, symbolically showing the conquest of the site. 
+Another photograph shows a fighter holding an IS flag and standing among the famous colonnades 
+as if preparing for battle (APSA 2015b).
+
+A month and a half later, on July 15, 2015, IS posted high resolution pictures of the Palmyra citadel 
+(twelfth-thirteenth century), known in Arabic as Fakhr-al-Din al-Ma’ani Qalaat. APSA subsequently 
+posted the photographs on its website (APSA 2015c). The pictures depict the citadel, which sits at the 
+top of a hill overlooking the modern city of Tadmur and the archaeological site. The images not only 
+show the IS occupation of the site, but also help highlight the monumentality of the fortress. One 
+of the photographs – which was utilised by news outlets across the world (Al-Arabiya 2015; SMH 
+2015) – shows the fort with the IS insignia flying atop the citadel (Figure 1). The caption in Arabic 
+reads: ‘Tadmur citadel under the control of the Caliphate’. The image is dated 4 Sha’ban 1436 (23 May 
+2015). Together, the pictures document the presence of IS in Palmyra and are designed to send a clear 
+message: the fate of the site now depended on the IS.
+
+Here, we can identify a fundamental dynamic of DMI propaganda: its capacity to reach mainstream 
+global audiences and generate tension. The images were first distributed by the IS online. The immi-
+nent threat to heritage represented in these images was then echoed by concerned organisations and 
+later magnified by established print and broadcast outlets across the world in a ripple effect. By using 
+recognisable symbols, such as the placing of a flag over the site, the IS achieved both a physical and 
+an ideological conquest.
+
+Over the coming months, the IS would go on to do a great deal of damage at Palmyra and several 
+significant sites adjacent to it. There is evidence to suggest that from early on in their occupation of 
+Palmyra, the IS had begun to systematically look for small moveable antiquities they thought would 
+be easy to smuggle out of the country and onto the international black market (BBC 2015; Bokova 
+2015). In August 2015, the IS executed the 82-year-old archaeologist and site director, Khaled Al-As’ad, 
+because he would not reveal where the most precious relics had been hidden (Melvin, Elwazer, and 
+Berlinger 2015). He was brutally beheaded and strung up on a column at the site (Associated Press 
+2015). At the same time, the IS turned Palmyra’s small museum into a makeshift courtroom and prison, 
+
+Figure 1. dMI stage: before destruction. Palmyra Citadel (al-arabiya 2015).
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  657
+
+where they also destroyed the ancient statue of the ‘Lion of Athena’, dating back to the first century 
+BCE (The Guardian 2015).
+
+Between June and September 2015, the IS destroyed seven funerary monuments dating to the first 
+and second centuries CE. These sandstone structures are among the most distinctive of Palmyra’s 
+funerary objects, standing up to four stories high. They are a testament to the powerful families that 
+once inhabited the city (Danti et al. 2015d, 43–57; Shaheen 2015a). In October 2015, the IS also 
+destroyed the Arch of Triumph, a 1800-year-old structure that framed the entrance to the city (Danti 
+et al. 2015e, 48–51; Shaheen 2015b). Compared to other sites destroyed by the IS, the destruction at 
+Palmyra was widely covered by international media and frequently condemned. UNESCO described 
+the destruction of the site as evidence of ‘how terrified by history and culture the extremist are … and 
+exposes [their heritage destruction] as expressions of pure hatred and ignorance’ (UNESCO 2015).
+
+In August 2015, the IS published photos documenting the destruction of two 2000-year-old temples 
+dedicated to pagan gods, the Baalshamin Temple and the Temple of Bel (Danti et al. 2015c, 69–73; 
+89–91; Danti et al. 2015d, 26–42). These were among the best-preserved buildings devoted to these 
+ancient deities anywhere in the world (Melvin, Elwazer, and Berlinger 2015). The attacks were con-
+firmed when the United Nations released satellite images revealing that the IS had in fact destroyed 
+the two temples. The photos the IS released were also published in Issue 11 of Dabiq (2015, 32–33). 
+They appear as part of a double-page spread with 14 colour photographs documenting the defacement 
+of the temples (Figures 2 and 3). In the English edition, the only text accompanying these images is: 
+‘Destroying the shirk temple of Bel’ and ‘Destroying the shirk temple of Baal’ (Dabiq 2015, 32–33). 
+However, in the French edition of Dabiq, titled Dar Al-Islam, the same images are accompanied by 
+the text: ‘Baal is a false divinity for which people sacrificed their children as indicated in the book of 
+Jeremiah (Old Testament). But by the Grace of Allah, soldiers of the Caliphate destroyed it’. Underneath 
+the photographs showing the destruction, a verse from the Qur’an (20: 97) is cited: ‘And look at your 
+‘god’ to which you remained devoted. We will surely burn it and blow it into the sea with a blast’ 
+(Dar-Al-Islam 2015, 49).
+
+The 14 images in Dabiq conform to the model of DMI. At both sites, four photographs document 
+the ‘before’ stage. These images depict the logistics involved in setting up the explosives, a job carried 
+out by faceless IS members, anonymous iconoclasts attaching bombs to the ancient temples. Some 
+photographs are close-ups of the explosives placed in different sections of the ancient buildings, reveal-
+ing that destroying them was a complex logistical exercise, requiring the strength of at least nine men 
+in the case of the Temple of Bel. The most prominent pictures of the two sites show the temples in all 
+their splendour with the bombs attached. As a series, all of the photographs work together to build a 
+palpable tension as a result of the preparations carried out by the group, which devotes a lot of time 
+and resources to ensure maximum destruction.
+
+Two photographs of each temple document the ‘during’ stage of DMI, the moment when the 
+monuments are blown to pieces. The destruction is recorded from different angles and distances, 
+further indicating the dedication and planning that has gone into capturing iconoclasm in a coherent 
+audio-visual piece. One of the photographs depicting the destruction of the temple of Baalshamin 
+‘went viral’ after it was published in various digital outlets; it captures the exact moment when the 
+temple is destroyed and engulfed in a giant brown mushroom cloud that dwarfs the temple’s columns.
+A pair of photographs document the DMI stage of ‘after’ the destruction, revealing the desolated 
+and empty landscape after the obliteration of each temple. These photographs stand as definitive proof 
+that the task was completed. Interestingly, both images also reveal remaining architectural features at 
+the sites. They point to the ongoing nature of iconoclasm as the viewer becomes aware that although 
+the destruction of this temple is complete, other structures can be destroyed in the future. via such 
+photographs, the IS was able to not only highlight their iconoclastic agenda but also demonstrate their 
+awareness of how powerful the digital mediation of destruction can be. The number of photographs 
+dedicated to each DMI stage (see Table 1) is an indication that emphasis is placed on the moments 
+before the destruction. Focusing on these moments is particularly effective for creating tension – a 
+key characteristic of DMI. Furthermore, looking at the carefully designed way in which the pictures 
+
+658 
+
+ 
+
+ J. A. GONZÁLEZ ZARANDONA ET AL.
+
+Figure 2. dMI stages: before, during and after the destruction. the temple of Baalshamin (dabiq 2015, 32).
+
+are arranged demonstrates that someone with the necessary graphic-design skills to construct a visual 
+narrative prepared them to have maximum impact.
+
+The Mosul Cultural Museum and Nineveh
+The Mosul Cultural Museum, the second largest Iraqi museum after the Iraqi National Museum in 
+Baghdad, first opened in the 1940s and then re-opened in the 1970s in its current location, adjacent to 
+the Martyrs Park. The collection included Pre-historic, Assyrian, Hatra, and Islamic artefacts organised 
+in four ground-floor galleries or halls. The collection was testament of the rich cultural heritage of 
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  659
+
+Figure 3. dMI stages: before, during and after the destruction. the temple of Bel (dabiq 2015, 33).
+
+the area. Following the US invasion in 2003, 1500 objects belonging to the collection were relocated 
+to the Iraqi National Museum to prevent looting. Nevertheless, in April 2003 valuable books and 
+atlases from the library, as well as 30 Assyrian bronze panels, were stolen. The authorities had to close 
+the museum (Gibson 2009, 3–4). In 2009, a report commissioned by UNESCO highlighted the poor 
+conservation conditions in the museum, providing recommendations to improve security standards 
+(Gibson 2009). However, the insecurity that engulfed the nation in the aftermath of Iraq war from 
+2003 prevented these measures from being put in place.
+
+660 
+
+ 
+
+ J. A. GONZÁLEZ ZARANDONA ET AL.
+
+ 
+
+ 
+
+ 
+
+ 
+t
+a
+y
+a
+H
+-
+l
+A
+y
+b
+d
+e
+s
+a
+e
+e
+r
+ 
+o
+e
+d
+V
+
+l
+
+i
+
+ 
+
+i
+
+)
+n
+m
+5
+0
+7
+0
+(
+
+:
+
+d
+u
+r
+m
+n
+
+i
+
+ 
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+d
+n
+a
+ 
+)
+6
+1
+3
+0
+–
+0
+3
+0
+0
+(
+
+:
+
+:
+
+:
+
+:
+
+)
+5
+1
+6
+0
+–
+2
+1
+5
+0
+(
+ 
+s
+e
+v
+i
+s
+o
+p
+x
+e
+e
+h
+t
+
+l
+
+ 
+
+ 
+
+e
+h
+t
+ 
+g
+n
+i
+t
+n
+e
+m
+u
+c
+o
+d
+e
+g
+a
+t
+o
+o
+f
+
+ 
+
+ 
+
+l
+
+-
+o
+p
+x
+e
+e
+h
+t
+ 
+d
+n
+a
+ 
+)
+2
+1
+5
+0
+–
+7
+1
+3
+0
+(
+
+:
+
+:
+
+ 
+
+e
+t
+i
+s
+ 
+e
+h
+t
+ 
+e
+d
+i
+s
+n
+
+i
+ 
+
+n
+o
+i
+t
+c
+u
+r
+t
+s
+e
+d
+
+ 
+
+e
+t
+i
+s
+ 
+e
+h
+t
+ 
+e
+d
+i
+s
+n
+
+i
+ 
+
+e
+g
+a
+t
+o
+o
+f
+
+ 
+
+ 
+
+l
+
+n
+o
+i
+s
+o
+p
+x
+e
+e
+h
+t
+ 
+r
+e
+t
+f
+a
+e
+g
+a
+t
+o
+o
+f
+
+ 
+
+:
+
+)
+5
+5
+6
+0
+–
+6
+1
+6
+0
+(
+ 
+n
+o
+i
+s
+
+:
+
+:
+
+)
+2
+0
+7
+0
+–
+6
+5
+6
+0
+(
+
+:
+
+ 
+
+e
+t
+a
+g
+
+ 
+l
+
+ 
+
+a
+g
+r
+e
+n
+e
+h
+t
+ 
+e
+d
+i
+s
+t
+u
+o
+e
+g
+a
+t
+o
+o
+f
+
+ 
+
+:
+
+:
+
+ 
+)
+3
+2
+4
+0
+–
+8
+0
+4
+0
+(
+ 
+;
+)
+7
+3
+2
+0
+–
+7
+5
+0
+0
+(
+
+:
+
+:
+
+h
+e
+v
+e
+n
+n
+
+i
+
+)
+n
+m
+
+i
+
+ 
+ 
+
+ 
+
+:
+
+d
+n
+a
+ 
+)
+9
+2
+4
+0
+–
+3
+2
+4
+0
+(
+ 
+e
+t
+a
+g
+
+:
+
+ 
+l
+
+a
+g
+r
+e
+n
+
+ 
+
+d
+a
+e
+h
+
+ 
+l
+
+ 
+
+l
+
+a
+s
+s
+o
+o
+c
+d
+n
+a
+u
+s
+s
+a
+m
+a
+L
+
+ 
+
+:
+
+:
+
+)
+0
+0
+5
+0
+–
+9
+2
+4
+0
+(
+ 
+e
+t
+i
+s
+ 
+e
+h
+t
+ 
+e
+d
+i
+s
+n
+
+i
+
+ 
+
+ 
+t
+a
+u
+s
+s
+a
+m
+a
+L
+ 
+f
+o
+n
+o
+i
+t
+c
+u
+r
+t
+s
+e
+d
+
+ 
+
+l
+
+e
+b
+a
+c
+i
+l
+
+p
+p
+a
+ 
+t
+o
+n
+
+q
+a
+r
+I
+
+a
+i
+r
+y
+S
+
+ 
+
+.
+s
+e
+t
+i
+s
+ 
+e
+g
+a
+t
+i
+r
+e
+h
+c
+i
+t
+s
+i
+e
+h
+t
+o
+n
+o
+m
+-
+e
+r
+p
+ 
+f
+o
+n
+o
+i
+t
+c
+u
+r
+t
+s
+e
+d
+S
+I
+ 
+
+ 
+
+ 
+
+e
+h
+t
+ 
+:
+
+m
+s
+a
+l
+c
+o
+n
+o
+c
+I
+ 
+
+i
+
+d
+e
+t
+a
+d
+e
+M
+y
+l
+l
+
+ 
+
+ 
+
+:
+
+2
+0
+5
+0
+(
+ 
+t
+a
+y
+a
+H
+-
+l
+A
+y
+b
+d
+e
+s
+a
+e
+e
+r
+ 
+o
+e
+d
+V
+
+l
+
+i
+
+ 
+
+m
+u
+e
+s
+u
+M
+
+ 
+l
+
+a
+r
+u
+t
+l
+u
+C
+
+ 
+l
+
+u
+s
+o
+M
+e
+h
+t
+
+ 
+
+l
+
+ 
+
+e
+B
+ 
+f
+o
+e
+p
+m
+e
+t
+
+l
+
+ 
+:
+
+a
+r
+y
+m
+a
+P
+
+l
+
+i
+
+q
+b
+a
+D
+n
+
+ 
+
+i
+ 
+
+d
+e
+h
+s
+i
+l
+
+b
+u
+p
+ 
+s
+h
+p
+a
+r
+g
+o
+t
+o
+h
+P
+
+i
+
+n
+m
+a
+h
+s
+l
+a
+a
+B
+ 
+f
+o
+e
+p
+m
+e
+t
+
+l
+
+ 
+
+ 
+:
+
+a
+r
+y
+m
+a
+P
+
+l
+
+a
+t
+i
+g
+d
+
+i
+
+ 
+.
+
+ 
+
+1
+e
+l
+b
+a
+T
+
+y
+r
+t
+n
+u
+o
+C
+
+e
+t
+i
+S
+
+i
+
+a
+d
+e
+M
+S
+I
+
+ 
+
+ 
+
+y
+r
+e
+
+l
+l
+
+ 
+
+a
+g
+a
+r
+t
+a
+H
+e
+d
+i
+s
+n
+
+ 
+
+i
+ 
+
+e
+g
+a
+t
+o
+o
+f
+
+:
+
+)
+6
+5
+0
+0
+–
+5
+2
+0
+0
+(
+
+:
+
+:
+
+:
+
+)
+8
+0
+4
+0
+–
+3
+0
+4
+0
+(
+ 
+;
+)
+7
+5
+3
+0
+–
+9
+3
+2
+0
+(
+
+:
+
+:
+
+ 
+
+y
+r
+e
+
+l
+l
+
+ 
+
+a
+g
+a
+r
+t
+a
+H
+n
+
+ 
+
+i
+ 
+s
+e
+u
+t
+a
+t
+s
+ 
+f
+o
+
+ 
+
+ 
+
+n
+o
+i
+t
+c
+u
+r
+t
+s
+e
+d
+g
+n
+w
+o
+h
+s
+ 
+e
+g
+a
+t
+o
+o
+f
+
+i
+
+ 
+
+ 
+
+ 
+f
+o
+h
+t
+a
+m
+r
+e
+t
+f
+a
+g
+n
+w
+o
+h
+s
+ 
+e
+g
+a
+t
+o
+o
+f
+
+i
+
+ 
+
+y
+r
+e
+
+l
+l
+
+ 
+
+a
+g
+a
+r
+t
+a
+H
+n
+
+ 
+
+i
+ 
+
+n
+o
+i
+t
+c
+u
+r
+t
+s
+e
+d
+
+:
+
+)
+3
+0
+4
+0
+–
+8
+5
+3
+0
+(
+
+:
+
+ 
+
+-
+a
+r
+a
+p
+e
+r
+p
+d
+n
+a
+ 
+s
+e
+v
+i
+s
+o
+p
+x
+e
+h
+t
+i
+
+l
+
+ 
+
+w
+
+ 
+
+i
+
+e
+t
+i
+s
+ 
+g
+n
+w
+o
+h
+s
+ 
+s
+h
+p
+a
+r
+g
+o
+t
+o
+h
+p
+4
+
+ 
+
+ 
+
+-
+a
+r
+a
+p
+e
+r
+p
+d
+n
+a
+ 
+s
+e
+v
+i
+s
+o
+p
+x
+e
+h
+t
+i
+
+l
+
+ 
+
+w
+
+ 
+
+i
+
+e
+t
+i
+s
+ 
+g
+n
+w
+o
+h
+s
+ 
+s
+h
+p
+a
+r
+g
+o
+t
+o
+h
+p
+4
+
+ 
+
+ 
+
+i
+
+l
+
+-
+o
+p
+x
+e
+g
+n
+w
+o
+h
+s
+ 
+s
+h
+p
+a
+r
+g
+o
+t
+o
+h
+p
+2
+
+ 
+
+ 
+
+i
+
+l
+
+-
+o
+p
+x
+e
+g
+n
+w
+o
+h
+s
+ 
+s
+h
+p
+a
+r
+g
+o
+t
+o
+h
+p
+2
+
+ 
+
+l
+
+s
+e
+v
+i
+s
+o
+p
+x
+e
+ 
+f
+o
+n
+o
+i
+t
+
+ 
+
+l
+
+s
+e
+v
+i
+s
+o
+p
+x
+e
+ 
+f
+o
+n
+o
+i
+t
+
+ 
+
+e
+t
+i
+s
+ 
+t
+a
+n
+o
+i
+s
+
+ 
+
+e
+t
+i
+s
+ 
+t
+a
+n
+o
+i
+s
+
+ 
+
+i
+
+i
+
+ 
+s
+n
+u
+r
+ 
+g
+n
+w
+o
+h
+s
+ 
+h
+p
+a
+r
+g
+o
+t
+o
+h
+p
+1
+
+ 
+
+n
+o
+i
+t
+c
+u
+r
+t
+s
+e
+d
+ 
+r
+e
+t
+f
+a
+
+i
+
+i
+
+ 
+s
+n
+u
+r
+ 
+g
+n
+w
+o
+h
+s
+ 
+h
+p
+a
+r
+g
+o
+t
+o
+h
+p
+1
+
+ 
+
+n
+o
+i
+t
+c
+u
+r
+t
+s
+e
+d
+ 
+r
+e
+t
+f
+a
+
+n
+o
+i
+t
+c
+u
+r
+t
+s
+e
+d
+e
+r
+o
+f
+e
+B
+
+ 
+
+s
+e
+g
+a
+t
+s
+ 
+I
+
+M
+d
+
+n
+o
+i
+t
+c
+u
+r
+t
+s
+e
+d
+g
+n
+i
+r
+u
+D
+
+ 
+
+n
+o
+i
+t
+c
+u
+r
+t
+s
+e
+d
+ 
+r
+e
+t
+f
+A
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  661
+
+In June 2014, the IS took control of the Mosul Cultural Museum when it captured the city. In 
+February 2015 the IS released a video where militants are shown destroying Hatrene sculptures at 
+the museum (Brusasco 2016, 248), and Assyrian statues at the ancient archaeological site of Nineveh 
+(Al-Hayat 2015a). This video is perhaps the most relevant case of DMI because it is the first piece 
+that demonstrates the IS intention to record the three stages of digital iconoclasm. As described in 
+the introduction of this paper, the first part of the video shows the museum and its artefacts at the 
+‘before’ stage of DMI, when the destruction has not yet begun. The impeding destruction is justified, 
+according to a man standing at the Nergal Gate in Nineveh, in order to erase signs of polytheism:
+Oh Muslims, the remains that you see behind me are the idols of peoples of previous centuries, which were 
+worshipped instead of Allah. The so-called Assyrians, Akkadians, and others took for themselves gods of rain, 
+of agriculture, and of war, and worshipped them along with Allah, and tried to appease them with all kinds of 
+sacrifices (Al-Hayat 2015a).
+
+Back inside the Hatra gallery, once the Qur’anic words (‘So he broke them to pieces’) on the screen 
+fade out, the film moves to the ‘during’ stage of DMI, showing militants pushing a life-size statue rep-
+resenting a priest from Hatra to the floor. One by one, 15 of the museum’s most important Hatrene 
+statues and sculptures are destroyed by men with sledgehammers and drills. The statues represent 
+several Hatrene gods, priests, noblemen, animals and kings (Danti et al. 2015a, 58–59), most likely 
+from Hatra’s golden age. Like Palmyra, Hatra – 80 kilometres southwest of Mosul – was a trading city, 
+located in the fringes of the Parthian Empire, which reached its peak during the second and first half 
+of the third centuries CE. It was abandoned in 240 after a successful siege enforced by the Sassanians 
+(Dirven 2008, 210–211).
+
+After the statues have been toppled, the destruction continues as many are smashed to pieces by 
+men wielding sledgehammers. Shots from different angles and the use of slow motion allows the viewer 
+to bear witness to the relentless bashing of the ancient artefacts. The cuts are swift and precise with 
+each shot only lasting a couple of seconds, barely enough for the viewer to register the exact moment 
+when the statues are broken to pieces. A chant by a group of men can be heard on the soundtrack. The 
+destruction is not only conveyed through verbal, visual and textual cues, but also reinforced through 
+aural devices:
+
+Allah is the greatest … Destroy, destroy the state of idols.
+
+Hell is for idols and statues,
+
+Destroy the lies of America and its gang,
+
+There is no place for the liar and sinful soldiers (Al-Hayat 2015a).
+
+Once all of the statues have been smashed, the camera lingers for a few seconds to document the result, 
+consistent with DMI’s ‘after’ stage. One minute before the video is over, a tracking shot of the Hatra 
+gallery allows the viewer to assess the damage. In stark contrast to the opening scene, the museum 
+floor is now covered with the rubble of statues dating back nearly two thousand years.
+
+In the final section of the video another example of the ‘interactive spectacle’ inherent in DMI 
+unfolds. The viewer is transported back to the ancient archaeological site of Nineveh, which dates 
+back to the ninth century BCE. Located on the outskirts of the contemporary city of Mosul, Nineveh 
+was one of the oldest and most populated capital cities of the ancient Assyrian empire. Its period of 
+splendour coincided with the reigns of Sennacherib (705–681 BCE), who established Nineveh as his 
+capital, and Ashurbanipal (668–c. 627 BCE), who is famous for collecting a vast trove of cuneiform 
+tablets kept at the site. Both monarchs were instrumental in transforming Nineveh into a magnifi-
+cent city. However, Nineveh was pillaged by different enemies in 612 BCE and the Assyrian empire 
+collapsed (Russell 1998; Reade 2011, 120). In the nineteenth century, a British archaeologist by the 
+name of Austen Henry Layard undertook extensive excavations at the ancient city (Reade 1986, 12).
+When the IS captured Mosul in the summer of 2014, it also took control of the adjacent archaeo-
+logical site of Nineveh. In the February 2015 video released by the IS, they dutifully record the extent 
+of their iconoclastic campaign at the ancient city (Al-Hayat 2015a). The ‘before’ stage of DMI sees the 
+
+662 
+
+ 
+
+ J. A. GONZÁLEZ ZARANDONA ET AL.
+
+video focuses on the giant Lamassu statue at a key entrance to the city, the Nergal Gate. The Lamassu 
+statues represented an Assyrian mythological creature which is half-man and half-winged bull. The 
+well-conserved statue is then compared to a photo of a Lamassu excavated in the nineteenth century 
+to show its idolatrous provenance (Figure 4). The caption on-screen states that the statue was found 
+by ‘Satan’s worshippers’ (presumably Western archaeologists).
+
+A swift cut and a zoom-out reveal a man on top of a scaffold using a drill to remove the human 
+face of the statue (Figure 5). The sound is magnified to make the destruction more striking. Inside 
+the archaeological site, a series of shots from various angles document the ‘during’ stage constituted 
+by heavy damage being done to a statue by men using power tools. Another winged bull, less well 
+preserved than the one defaced at the Nergal Gate, suffers the same fate: its legs and head are smashed 
+with sledgehammers (Figure 6). Next, the man who defaced the statue at the Nergal Gate is filmed 
+destroying a colossal human head placed next to the heavily damaged winged bull (Figure 7). The spec-
+tacle is rendered in slow-motion to emphasise the moment when the sculpture finally crumbles. The 
+video finishes with a black screen on which white letters reveal the organisation responsible for making 
+the video: The Media Organisation of the Islamic State. The ‘after’ stage of DMI is not well-developed 
+in the Nineveh section of the video. Perhaps because this was one of their earliest videos and the IS 
+had not yet realised the potential of showing the aftermath of iconoclasm. However, as documented 
+below, this strategy was later perfected with the recording of destruction at Nimrud.
+
+Nimrud
+Nimrud is one of the most important archaeological sites in Iraq. It is located in the Nineveh province, 
+30 kilometres south of Mosul. Together with Nineveh, Nimrud was once a capital city of the Assyrian 
+empire. Nimrud gained prominence when King Ashurnasirpal II (883 – 859 BCE) transferred the 
+capital of the Assyrian empire from Ashur. Under Ashurnasirpal II and his son, Shalmaneser III 
+(859 – 824 BCE), Nimrud was ‘conceived and created as the capital city for the new imperial power’ 
+(Radner 2015, 28). It was during Ashurnasirpal II’s reign that the Northwest Palace of Nimrud was 
+built to serve as both the royal residence and the administrative capital of the empire (Danti et al. 
+2015b). Nimrud remained the capital of the Assyrian empire until 706 BCE, when Sargon II (722 – 705 
+BCE) moved the capital to Khorsabad (Radner 2015, 37). Nimrud was re-discovered in the nineteenth 
+
+Figure 4. dMI stage: before destruction. Lamassu statue at the nergal gate, nineveh (al-Hayat 2015a).
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  663
+
+Figure 5. dMI stage: during destruction. Lamassu statue at the nergal gate, nineveh (al-Hayat 2015a).
+
+Figure 6. dMI stage: during destruction. Lamassu statue at nineveh (al-Hayat 2015a).
+
+century by Layard, who began excavations in 1845. Novelist Agatha Christie’s husband, archaeologist 
+Max Mallowan, also conducted excavations in situ between 1949 and 1957.
+
+When the IS took control of the city of Mosul in 2014, they actively targeted Nimrud as part of their 
+broader campaign of heritage destruction. From 25 January to 1 April 2015, the IS conducted a series 
+of iconoclastic acts at Nimrud that culminated in the bombing of the Northwest Palace (Danti 2016). 
+Ten days later, on the 11 April 2015, they released a video documenting their destruction at the site 
+(Al-Hayat 2015b). The video starts similarly to the one at the Mosul Cultural Museum and Nineveh, 
+with the words ‘In the name of God, the most Gracious, the most Merciful’. Then, superimposed in 
+white and green typography, we read the film’s title ‘The Promotion of Virtue and the Preventers 
+of Vice’. Images document the earlier iconoclastic acts of the IS, including the destruction of other 
+
+664 
+
+ 
+
+ J. A. GONZÁLEZ ZARANDONA ET AL.
+
+Figure 7. dMI stage: during destruction. Colossal head at nineveh (al-Hayat 2015a).
+
+archaeological sites, as well as the targeting of mosques and the removal of crosses from churches. 
+Later, a voice recites the Qur’an:
+
+When Abraham said, ‘My Lord is the one who gives life and causes death’, he [the disbeliever] said, ‘I give life and 
+cause death’. Abraham said, ‘Indeed, Allah brings up the sun from the east, so bring it up from the west’. So the 
+disbeliever was overwhelmed [by astonishment], and Allah does not guide the wrongdoing people (Baqara: 258).
+
+Several images detail features of Nimrud at the ‘before’ stage of DMI, including a Lamassu statue, 
+as well as steles with cuneiform writing and various depictions of humans and gods (see Figure 8).
+
+The video then cuts to the man who defaced the Lamassu at the Nergal Gate in Nineveh, clad in 
+black, explaining why the artefacts will be destroyed. The man claims that ‘Allah has given [the IS] 
+the honour of destroying all idols worshipped instead of Allah in the old days … We are destroying 
+each idol and statue which was found as an opponent to Allah’. Then, the man offers the following 
+
+Figure 8. dMI stage: before destruction. nimrud (al-Hayat 2015b).
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  665
+
+ripost to those who condemned the destruction that occurred at the Mosul Cultural Museum and 
+Nineveh by stating that:
+
+We all saw … [the] media’s outrage over what the worshippers of Allah had done in destroying these idols and 
+condemning their actions. Scum and worthless people who were shown on TV screens crying and condemning 
+the destruction … These idols were worshipped instead of Allah … They [the TV programs] show the believers 
+[the IS] as uncivilized and savages who do not care about heritage and civilization and whatever they did to the 
+idols and statues is a big loss … To those who are angry and upset about the destruction of idols … To those who 
+kept these idols protected in museums and made these idols as their history, heritage, civilization and identity. 
+They forgot that there is no civilization, nor a life or dignity without Allah. (Al-Hayat 2015b)
+
+While the man is on camera, several images of Nimrud continue to show the archaeological site before 
+it is destroyed. Equally important is the poetic chant that can be heard on the soundtrack, encouraging 
+the attackers to perform their duty:
+
+Today is your day o’ young man,
+
+do what your ancestors did with determination.
+
+Today is your day o’ young man,
+
+do what Hamza and Usama and Ibn al-Waleed [followers of Mohammed] did with determination.
+
+Patience and determination are your way to absolute victory,
+
+declare your love loudly, the universe listens to your chant. (Al-Hayat 2015b)
+
+The conjoint soundtrack and images depicting the site enhance the dramatic nature of this ‘interactive 
+spectacle’.
+
+The video reaches its peak when the man stops talking and we are suddenly thrust into the ‘during’ 
+stage of DMI. It begins when IS militants can be seen using sledgehammers and drills to tear down 
+and smash giant reliefs covered in cuneiform writing describing Ashurnasirpal II and his conquests, as 
+well as depictions of gods and humans engaged in hunting, battle, processions and various ceremonies 
+(Danti et al. 2015b). The bulk of these reliefs were in Ashurnasirpal II’s Throne Room and the partially 
+reconstructed Northwest Palace. Every time the fighters are successful in separating a piece of the 
+ancient carvings, they shout ‘Allahu Akbar’ [God is great]. Later in the film, the men use a mechanical 
+excavator to remove a whole section of Assyrian reliefs and reduce them to a pile of rubble.
+
+Once the internal destruction has been completed, the IS militants set about destroying the vari-
+ous standing structures at the site with explosives. Characteristic of IS iconoclasm, the blowing up of 
+Nimrud is preceded by a sermon from an IS member on the unjust and heretical rule of the kings of 
+Nimrud. While he’s talking, shots of militants setting-up explosives (see Figure 9) are superimposed, 
+as well as images depicting the site covered in explosives, just as with the temples in Palmyra. The final 
+words of the man are directed to a myriad of audiences:
+
+Whenever we control a swathe of a land we remove all signs of polytheism and fill the land with monotheism. We 
+swear by Allah we will remove all signs of polytheism until we destroy the tombs and the shrines of al-Rafidha 
+[a derogatory word for the Shia] and we will break the [Christian] crosses and the [White] house in the country 
+of polytheism, America. (Al-Hayat 2015b)
+
+Once he finishes, the site is shown for a couple of seconds from afar before it is blown up (Figure 10). A 
+giant brown mushroom cloud forms over the site as the explosives are detonated (Figure 11). Different 
+angles are shown and the footage slows down to maximise the dramatic impact of the iconoclasm. The 
+camera shakes with the force of the blow. Finally, following the model of DMI, two images are shown 
+of the ‘after’ stage, documenting the destruction at the site (Figure 12). These images are important 
+because they serve as proof that the destruction has been completed. Centuries of material culture 
+have been obliterated in a matter of seconds. The landscape is barren. Only scattered rubble, twisted 
+debris and brown dust remains.
+
+666 
+
+ 
+
+ J. A. GONZÁLEZ ZARANDONA ET AL.
+
+Figure 9. dMI stage: before destruction. nimrud (al-Hayat 2015b).
+
+Figure 10. dMI stage: before destruction. nimrud (al-Hayat 2015b).
+
+Conclusion
+This paper put forward the new analytical framework of Digitally Mediated Iconoclasm. We have 
+defined DMI as a tool to analyse and interpret iconoclastic acts that are experienced through the 
+propaganda that the perpetrator makes available in global information networks for consumption, 
+duplication, and distribution. DMI therefore enables an analysis of heritage destruction within a 
+historical and technological juncture in which digital media has become key to propaganda and ter-
+rorism in the twenty-first century. To demonstrate the utility of DMI, we analysed various propaganda 
+produced by the militant jihadist network, the Islamic State, which documented their pre-monotheistic 
+iconoclasm at sites such as the ancient city of Palmyra in Syria, the Mosul Cultural Museum and at the 
+archaeological sites of Nineveh and Nimrud in Iraq. The analysis revealed a pattern in how iconoclasm 
+is performed and reproduced in the digital age (Table 1). This pattern is evident in the three key stages 
+of DMI in which the IS went to great lengths to record: the status of the site ‘before’ destruction; ‘during’ 
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  667
+
+Figure 11. dMI stage: during destruction. nimrud (al-Hayat 2015b).
+
+Figure 12. dMI stage: after destruction. nimrud (al-Hayat 2015b).
+
+the moment of destruction itself; and ‘after’ the damage had been done. The three stages are essential 
+elements of DMI, enabling the perpetrator to build up tension in the narrative and to demonstrate the 
+veracity of their war on cultural heritage. What sets DMI apart from other iconoclastic events is not 
+only the effort and attention to detail that such groups put into the destruction itself and its recording 
+and dissemination, but also that the use of digital technology and production techniques allows the 
+iconoclasm to be globally disseminated and permanently stored in digital archives for posterity.
+
+The analysis also reveals how the analytical framework of DMI can be used to advance important 
+work in heritage and media studies. Empirical analysis of the type conducted here have not yet been 
+applied to other types of heritage destruction undertaken by the IS (at Shia mosques or Christian 
+churches for example), or to other iconoclastic movements of the twenty-first century. Such analyses are 
+urgently needed in order to continue to develop an understanding of the recurring nature of heritage 
+destruction, the iconoclastic ideologies that drive it, and the interface these have with contemporary 
+
+668 
+
+ 
+
+ J. A. GONZÁLEZ ZARANDONA ET AL.
+
+digital technologies. This is critical to any attempt to develop appropriate policy responses in order to 
+minimise or mitigate against such heritage destruction, as well as to countering the violent propaganda 
+of groups such as the IS.
+
+Notes
+1. 
+
+2. 
+
+3. 
+
+ Although many of the statues inside the Mosul Cultural Museum were fakes, the intentions of the IS remain 
+the same: to destroy them in order to eradicate idolatry in the territories they conquered.
+ According to Winter (2015, 12), IS propaganda is produced by four centres: the Ajnad Foundation; Al Furqan 
+Foundation; Al-I’tisam Foundation and Al-Hayat Media Centre. Al-Hayat is in charge of translating other 
+propaganda and producing sophisticated videos as well as the IS magazine, Dabiq, which changed its name to 
+Rumiyah in mid-2016. Both Dabiq and Rumiyah are available at: https://clarionproject.org/islamic-state-isis-
+isil-propaganda-magazine-dabiq-50/
+ It should be noted that Palmyra was damaged before the IS arrived at the city and destroyed the adjacent 
+archaeological site. The site had been previously looted and was targeted by Syrian airstrikes as a result of the 
+clash between the Syrian government forces and the IS in August 2013. Likewise, Palmyra had been captured 
+in moving images before, as part of a military campaign. In 1941, a short film, titled ‘Near the End in Syria’, 
+filmed by the British section of the French owned film company Pathé, shows British troops in full colonial 
+regalia – khaki shorts and pith helmets –arriving at Palmyra and marching under the monuments, while tanks 
+manoeuvre among the ruins.
+
+Acknowledgment
+The authors gratefully acknowledges the funding for this research from both the Australian Department of Defence and 
+the Australian Research Council’s Discovery Early Career Researcher Award. The broader research project is entitled 
+‘Measuring Cultural Property Destruction in Iraq and Syria’. The authors also acknowledges the hard work and enthu-
+siasm of our colleague Taghreed Jamal Al-Deen who helped collate and translate some of the materials analysed in this 
+article. We are also grateful for the support of the Alfred Deakin Institute for Centre for Citizenship and Globalisation 
+at Deakin University Australia, and acknowledge the insightful comments and suggestions of the two anonymous 
+reviewers and the editor of this journal.
+
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+Funding
+This work was supported by the Australian Department of Defence and the Australian Research Council’s Discovery 
+Early Career Researcher Award [DE120100315]. The views expressed in this article do not reflect those of Defence or 
+Government policy.
+
+Notes on contributors
+José Antonio González Zarandona is Post-Doctoral Research Associate at the Alfred Deakin Institute for Citizenship 
+and Globalisation at Deakin University on the project, ‘Measuring Cultural Property Destruction in Iraq and Syria’. He is 
+also Associate Researcher in the División de Historia, Centro de Investigación y Docencia Económicas (CIDE), México.
+César Albarrán-Torres is Lecturer in Media and Communication at Swinburne University of Technology (Melbourne, 
+Australia). He has been widely published in academic and non-academic titles as a film and literary critic, author and 
+translator. His current research focuses on the use of digital media and shocking images for propaganda, mainly in the 
+Mexican narco wars. Other research interests include film and television studies, digital gambling, and the negotiations 
+between social media and politics in Mexico.
+Benjamin Isakhan is Associate Professor of Politics and Policy Studies and Founding Director of Polis, a research net-
+work for Politics and International Relations in the Alfred Deakin Institute for Citizenship and Globalisation at Deakin 
+University, Australia. He is also Adjunct Senior Research Associate, Department of Politics and International Relations 
+at the University of Johannesburg, South Africa.
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  669
+
+ORCID
+José Antonio González Zarandona 
+
+ http://orcid.org/0000-0002-3655-5898
+
+References
+Al-Arabiya. 2015. “ISIS Raises Flag over Citadel in Syria’s Palmyra.” Al-Arabiya, May 23.
+Al-Hayat. 2015a. “IS Destroys Ancient Artefacts in Mosul Museum.” February 26.
+Al-Hayat. 2015b. “IS Destroys Ancient Assyrian City of Nimrud.” April 11.
+APSA. 2015a. “Palmyra – the Ancient City of Palmyra after the Control of the City.” May 26. Accessed June 8, 2017. 
+
+https://www.youtube.com/watch?v=OHCAcFD0pOY&feature=youtu.be
+
+APSA. 2015b. “Pictures of Archaeological Monuments Posted by ISIS.” May 27. http://apsa2011.com/apsanew/pictures-
+
+of-archaeological-monuments-posted-by-isis-27-05-2015/.
+
+APSA. 2015c. “Palmyra: Pictures of the Citadel Posted by ISIS.” July 15. Accessed June 8, 2017. http://apsa2011.com/
+
+apsanew/palmyra-pictures-of-the-citadel-posted-by-isis-on-15-07-2015/
+
+Associated Press. 2015. “Islamic State Destroys Palmyra Temple of Baal Shamin.” August 24.
+Auwera, Sigrid van der. 2012. “Contemporary Conflict, Nationalism, and the Destruction of Cultural Property during 
+
+Armed Conflict: A Theoretical Framework.” Journal of Conflict Archaeology 7 (1): 49–65.
+BBC. 2015. “Nimrud: Outcry as iS Bulldozers Attack Ancient Iraq Site.” BBC News, March 6.
+Best, Steven, and Douglas Kellner. 1999. “Debord, Cybersituations, and the Interactive Spectacle.” SubStance 28 (3): 
+
+Bevan, Robert. 2006. The Destruction of Memory: Architecture at War. London: Reaktion.
+Bokova, Irina. 2015. “We Must save Palmyra.” UNESCO Media Services, May 14.
+Boldrick, Stacy, Leslie Brubaker, and Richard Clay, eds. 2013. Striking Images, Iconoclasms Past and Present. Burlington, 
+
+129–156.
+
+VT: Ashgate.
+
+boyd, d.. 2010. “Social Network Sites as Networked Publics: Affordances, Dynamics, and Implications.” In Networked Self: 
+Identity, Community, and Culture on Social Network Sites, edited by Zizi Papacharissi, 39–58. New York: Routledge.
+Braarvig, Jens. 2014. “Iconoclasm – Three Modern Cases.” In Iconoclasm from Antiquity to Modernity, edited by K. 
+
+Kolrud and M. Prusac, 153–170. Burlington, VT: Ashgate.
+
+Brubaker, Leslie. 2012. Inventing Byzantine Iconoclasm. London: Bristol Classical Press.
+Brusasco, Paolo. 2016. “The Assyrian Sculptures in the Mosul Cultural Museum: A Preliminary Assessment of What 
+
+Was on Display before Islamic State’s Attack.” Journal of near Eastern Studies 75 (2): 205–248.
+
+Clay, Richard. 2012. Iconoclasm in Revolutionary Paris: The Transformation of Signs. Oxford: Voltaire Foundation.
+Dabiq. 2015. Dhul-Qa’dah 1436 [August/September 2015]. “A Photo Report: Destroying the Shirk Temple of Baal Shamin 
+
+and Bel.” Issue 11: From the Battle of Al-Ahzab to the War of Coalitions, 32–33.
+
+Danti, Michael. 2016. “Special Report: Nimrud and the Islamic State Deliberate Destructions: An Update.” December, 
+2016. American School of Oriental Research Cultural Heritage Initiatives: Planning for Safeguarding Heritage Sites 
+in Syria and Iraq.
+
+Danti, Michael, Richard Zettler, Cheikhmous Ali, Abdalrazzaq Moaz, Tate Paulette, Kathryn Franklin, Allison Cuneo, 
+and David Elitzer. 2015. Weekly Report 31 (9 March, 2015). American School of Oriental Research Cultural Heritage 
+Initiatives: Planning for Safeguarding Heritage Sites in Syria and Iraq.
+
+Danti, Michael, Scott Branting, Tate Paulette and Alison Cuneo. 2015. “Report on the Destruction of the Northwest 
+Palace at Nimrud.” May 5, 2015. American School of Oriental Research Cultural Heritage Initiatives: Planning for 
+Safeguarding Heritage Sites in Syria and Iraq.
+
+Danti, Michael, Cheikhmous Ali, Allison Cuneo, Marina Gabriel, Kyra Kaercher, Katherine Burge, Lee Barnes Gordon, 
+and Erin Van Gessel. 2015. Weekly Report 55–56 (18 August-1September, 2015). American School of Oriental Research 
+Cultural Heritage Initiatives: Planning for Safeguarding Heritage Sites in Syria and Iraq.
+
+Danti, Michael, Allison Cuneo, Susan Penacho, Kyra Kaercher, Katherine Burge, Marina Gabriel, and Lee Ann Barnes 
+Gordon. 2015. Weekly Report 57–8 (2–15 September). American School of Oriental Research Cultural Heritage 
+Initiatives: Planning for Safeguarding Heritage Sites in Syria and Iraq.
+
+Danti, Michael, Alison Cuneo, Marina Gabriel, Susan Penacho, Kyra Kaercher, Lee Ann Barnes Gordon, Emily Ham, 
+and John O’Neill. 2015. Weekly Report 61–62 (30 September–13 October). American School of Oriental Research 
+Cultural Heritage Initiatives: Planning for Safeguarding Heritage Sites in Syria and Iraq.
+
+Dar-Al-Islam. 2015. Dhou Al-Hijjah 1436 [September/October 2015]. “Nouvelles De L’etat Islamique.” Issue 6: Les 
+
+Mourjia, Les Juifs De La Qiblah: Sa’id Ibn Joubayr, 49.
+
+Debord, Guy. 1983 [1967]. The Society of the Spectacle. Detroit: Black & Red.
+Dirven, Lucinda. 2008. “Aspects of Hatrene Religion: A Note on the Statues of Kings and Nobles from Hatra.” In The 
+Variety of Local Religious Life in the near East in the Hellenistic and Roman Periods, edited by Ted Kaizer, 209-246. 
+Leiden: Brill.
+
+670 
+
+ 
+
+ J. A. GONZÁLEZ ZARANDONA ET AL.
+
+Elias, Jamal. 2013. “The Taliban, Bamiyan, and Revisionist Iconoclasm.” In Striking Images, Iconoclasm past and Present, 
+
+edited by Stacy Boldrick, Leslie Brubaker and Richard Clay, 145–164. Burlington, VT: Ashgate.
+
+Elsner, Jás. 2016. “Breaking and Talking. Some Thoughts on Iconoclasm from Antiquity to the Current Moment.” Religion 
+
+and Society: Advances in Research 7: 127–138.
+
+Falser, Michael. 2011. “The Bamiyan Buddhas, Performative Iconoclasm and the ‘Image of Heritage’.” In The Image 
+of  Heritage/ICOMOS,  International  Scientific  Committee  for  the  Theory  and  the  Philosophy  of  Conservation  and 
+Restauration, edited by Andrzej Tomaszewski and Simone Giometti, 157–169. Florence: Edizioni Polistampa.
+
+Flood, Finbarr Barry. 2002. “Between Cult and Culture: Bamiyan, Islamic Iconoclasm, and the Museum.” The Art 
+
+Flood, Finbarr Barry. 2016. “Idol-Breaking as Image-Making in the ‘Islamic State’.” Religion and Society: Advances in 
+
+Freedberg, David. 1989. The Power of Images. Studies in the History and Theory of Response. Chicago: University of 
+
+Bulletin 84 (4): 641–659.
+
+Research 7: 116–126.
+
+Chicago Press.
+
+Freedberg, David. 2016. “The Fear of Art: How Censorship Becomes Iconoclasm.” Social Research 83 (1): 67–99.
+Frieze, Donna. 2011. “The Destruction of Sarajevo’s Vijećnica: A Case of Genocidal Cultural Destruction?” In New 
+
+Directions in Genocide Research, edited by Adam Jones, 57–74. Abingdon: Routledge.
+
+Gamboni, Dario. 1997. The Destruction of Art. Iconoclasm and Vandalism since the French Revolution. New Haven, CT: 
+
+Yale University Press.
+
+García Canclini, Néstor. 1997. “El Patrimonio Cultural De México Y La Construcción Imaginaria De Lo Nacional.” 
+[The Mexican Cultural Heritage and the Imaginary Construction of the National.] In El Patrimonio Nacional De 
+México, edited by Enrique Florescano, 57–86. México: Consejo Nacional para la Cultura y las Artes/Fondo de Cultura 
+Económica.
+
+Gibson, Stuart. 2009. Mission Report. Preliminary Assessment of Mosul Cultural Museum, Mosul, Iraq 7–9 April 2009. 
+
+UNESCO. Accessed November 15, 2017. https://sites.google.com/site/iraqcrisis/assessment-of-museums/
+
+González-Ruibal, Alfredo. 2013. “Embracing Destruction.” In Destruction: Archaeological, Philological and Historical 
+
+Perspectives, edited by Jan Driessen, 37-51. Louvain: Université Catholique de Louvain.
+Gubern, Román. 2004. Patologias De La Imagen [Image Pathologies]. Barcelona: Anagrama.
+Harmanşah,  Ömur.  2015.  “ISIS,  Heritage,  and  the  Spectacles  of  Destruction  in  the  Global  Media.”  Near  Eastern 
+
+Archaeology 78 (3): 170–177.
+
+Isakhan, Benjamin. 2011. “Targeting the Symbolic Dimension of Baathist Iraq: Cultural Destruction, Historical Memory, 
+
+and National Identity.” Middle East Journal of Culture and Communication 4 (3): 255–279.
+
+Isakhan, Benjamin. 2015. “The Iraq Legacies and the Roots of the ‘Islamic State’.” In The Legacy of Iraq: From the 2003 
+
+War to the ‘Islamic State’, edited by Benjamin Isakhan, 223–235. Edinburgh: Edinburgh University Press.
+
+Isakhan, Benjamin. Forthcoming. “The Islamic State Attacks on Shia Holy Sites and the ‘Shrine Protection Narrative’: 
+Threats to Sacred Space as a Mobilization Frame.” Terrorism and Political Violence. doi:10.1080/09546553.2017. 
+1398741.
+
+Isakhan, Benjamin, and José Antonio González Zarandona. 2018. “Layers of Religious and Political Iconoclasm under 
+the Islamic State: Symbolic Sectarianism and Pre-Monotheistic Iconoclasm.” International Journal of Heritage Studies 
+24 (1): 1–16.
+
+Isakhan, Benjamin, José González Zarandona, and Taghreed Jamal Al-Deen. 2018. “Cultural Cleansing and Iconoclasm 
+under the ‘Islamic State’: Human/Heritage Attacks on Yezidis and Christians Humans/Heritage.” In Pluralism and 
+Community in the Middle East, edited by Firat Oruc. Oxford: Oxford University Press.
+
+Julius, Anthony. 2002. Transgressions: The Offences of Art. London: Thames & Hudson.
+Kember, Sarah, and Joanna Zylinska. 2012. Life after New Media: Mediation as a Vital Process. Boston, MA: MIT Press.
+Kilcullen, David. 2016. Blood Year: Islamic State and the Failures of the War on Terror. Carlton: Black Inc.
+Knuth, Rebbeca. 2006. Burning Books and Levelling Libraries: Extremist Violence and Cultural Destruction. Westport: 
+
+Layton, Robert, Peter G. Stone, and Julian Thomas, eds. 2001. Destruction and Conservation of Cultural Property. 
+
+Mabon, Simon, and Stephen Royle. 2016. The Origins of ISIS: The Collapse of Nations and Revolution in the Middle East. 
+
+Praeger.
+
+London: Routledge.
+
+London: I. B. Tauris.
+
+Madianou, Mirca. 2013. “Humanitarian Campaigns in Social Media. Network Architectures and Polymedia Events.” 
+
+Journalism Studies 14 (2): 249–266.
+
+Major, Lesa Hatley, and Daniel Perlmutter. 2005. “The Fall of a Pseudo-Icon: The Toppling of Saddam Hussein's Statue 
+
+as Image Management.” Visual Communication Quarterly 12 (1-2): 38–45.
+
+Manovich, Lev. 2013. Software Takes Command. vol. 5. New York: Bloomsbury.
+Melvin, Don, Schams Elwazer and Joshua Berlinger. 2015. “ISIS Destroys Temple of Bel in Palmyra, Syria, UN.” CNN, 
+
+Meskell, Lynn, ed. 1998. Archaeology under Fire: Nationalism, Politics and Heritage in the Eastern Mediterranean and 
+
+September 1.
+
+Middle East. London: Routledge.
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  671
+
+News, May 15.
+
+Miller, Daniel. 1994. “Artefacts and the Meaning of Things.” In Companion Encyclopaedia of Anthropology: Humanity, 
+
+Culture and Social Life, edited by Tim Ingold, 396–410. London: Routledge.
+
+Mitchell, William J. T. 2005. What Do Pictures Want? The Lives and Loves of Images. Chicago, IL: University of Chicago 
+
+Mitchell, William J. T. 2011. Cloning Terror: The War of Images, 9/11 to the Present. Chicago, IL: University of Chicago 
+
+Mitchell, William J. T. 2016. Image Science: Iconology, Visual Culture, and Media Aesthetics. Chicago, IL: University of 
+
+Press.
+
+Press.
+
+Chicago Press.
+
+Nacos, Brigitte. 1994. Terrorism and the Media: From the Iran Hostage Crisis to the World Trade Center Bombing. New 
+
+Nersessian, David. 2005. “Rethinking Cultural Genocide under International Law.” Human Rights Dialogue 2 (12): 
+
+Noyes, James. 2013. The Politics of Iconoclasm: Religion, Violence and the Culture of Image-Breaking in Christianity and 
+
+York: Columbia University Press.
+
+Section 1.
+
+Islam. London: I. B. Tauris.
+
+Radner, Karen. 2015. Ancient Assyria: A Very Short Introduction. Oxford: Oxford University Press.
+Reade, Julian. 1986. “The Discovery of Nineveh.” Bulletin. the Society of Mesopotamian Studies 11: 11–17.
+Reade,  Julian.  2011.  “The  Evolution  of  Assyrian  Imperial  Architecture:  Political  Implications  and  Uncertainties.” 
+
+Mesopotamia. Revista Di Archaeologia, Epigrafia E Storia Orientale Antica 46: 109–125.
+
+Riedlmayer, András. 2002. Destruction of Cultural Heritage in Bosnia-Herzegovina, 1992–1996: A Post-War Survey of 
+Selected Municipalities (No. P486). International Criminal Tribunal for the Former Yugoslavia. Cambridge: Kosovo 
+Cultural Heritage Project.
+
+Russell,  John  Malcolm.  1998.  The  Final  Sack  of  Nineveh:  The  Discovery,  Documentation,  and  Destruction  of  King 
+
+Sennacherib’s Throne Room at Nineveh, Iraq. New Haven, CT: Yale University Press.
+
+Russo, Joseph. 2017. “The Power of Pop Culture in the Hands of ISIS.” In Foundations of Homeland Security: Law and 
+
+Policy. 2nd ed., edited by Martin Alperen, 459–467. New York: John Wiley & Sons.
+
+Sami, Mandie. 2015. “Islamic State: Militants within Kilometres of Syria’s Palmyra Raising Fear for Ancient City”. ABC 
+
+Shaheen, Kareem. 2015a. “ISIS Destroys Ancient Tombs in Palmyra”. The Guardian, September 4.
+Shaheen, Kareem. 2015b. “ISIS Blows up Arch of Triumph in 2,000-Year-Old City of Palmyra”. The Guardian, October 5.
+Smith, Laurajane. 2006. Uses of Heritage. New York: Routledge.
+Smith, Claire, Heather Burke, Cherrie de Leiuen, and Gary Jackson. 2015. “The Islamic State’s Symbolic War: Da’esh’s 
+
+Socially Mediated Terrorism as a Threat to Cultural Heritage.” Journal of Social Archaeology 16 (2): 164–188.
+
+Sørensen, Marie Louise Stiegson and Dacia Viejo-Rose. 2015. “Cultural Heritage and Armed Conflict: New Questions 
+for an Old Relationship.” The Palgrave Handbook of Contemporary Heritage Research, edited by Emma Waterton and 
+Steven Watson, 281-296. London: Palgrave Macmillan.
+
+Speckhard, Anne, Ardian Shajkovci, and Ahmet Yayla. 2017. “Following a Military Defeat of ISIS in Syria and Iraq: 
+What Happens Next after the Military Victory and the Return of Foreign Fighters?” Journal of Terrorism Research 
+8 (1): 81–89.
+
+Stern, Jessica, and John Berger. 2015. ISIS. The State of Terror. London: William Collins.
+Stone, Peter, and Joanne Farchack Bajjaly, eds. 2008. The Destruction of Cultural Heritage in Iraq. Woodbridge: The 
+
+Terpak, Frances and Peter Louis Bonfitto. 2017. The Legacy of Ancient Palmyra (Online Exhibition), Getty Institute. 
+
+Accessed August 15, 2017. http://www.getty.edu/research/exhibitions_events/exhibitions/palmyra/about.html 
+
+The Guardian. 2015. “Isis Militants Destroy 2,000-Year-Old Statue of Lion at Palmyra”, July 3.
+Tollebeek, Jo. 2014. “‘A Public Statement’ in Ravaged: Art and Culture in times of Conflict.” In Ravaged: Art and Culture 
+
+in Times of Conflict, edited by Jo Tollebeek and Eline van Asschen, 11–20. Brussels: Mercatorfonds.
+
+Tuman, Joseph. 2009. Communicating Terror: The Rhetorical Dimensions of Terrorism. Thousand Oaks, CA: Sage.
+Tunbridge, John, and Gregory Ashworth. 1996. Dissonant Heritage: The Management of the past as a Resource in Conflict. 
+
+UNESCO.  2015.  Director-General  Condemns  the  Destruction  of  the  Arch  of  Triumph  in  Palmyra.  United  Nations 
+
+Educational, Scientific and Cultural Organization, October 5.
+
+Walasek, Helen. 2015. Bosnia and the Destruction of Cultural Heritage. Farnham: Ashgate.
+Winter, Charlie. 2015. The Virtual ‘Caliphate’: Understanding Islamic State’s Propaganda Strategy. London: Quilliam 
+
+Chichester: Wiley.
+
+Foundation.
+
+Boydell Press.
+
+
