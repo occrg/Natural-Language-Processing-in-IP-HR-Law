@@ -3,6 +3,7 @@ Supplies functionality to input and output files.
 """
 
 import os
+import numpy as np
 
 
 def stringToTXTfile(text, path):
@@ -41,18 +42,18 @@ def dictToCSVfile(wordCount, path):
     Stores string as a .txt file at ${path}.
 
     Arguments:
-    wordCount  ({str: (int, str)})
-            -- the dictionary that needs to be stored with the keys
-               stored as the first column, the first value of the tuple
-               stored as the second column and the second value of the
-               tuple stored as the third column
+    wordCount  ({(str, str): int})
+            -- the dictionary that needs to be stored with the first in
+               the key's tuple stored as the first column, the second
+               in the key's tuple stored as the second column and the
+               key stored in the third column
     path       (str)
             -- the path where the dictionary should be stored
     """
     table = []
     table.append("word/phrase,value,class")
     for w in wordCount:
-        table.append("%s,%s,%s" % (w, wordCount[w][0], wordCount[w][1]))
+        table.append("%s,%s,%s" % (w[0], w[1], wordCount[(w[0], w[1])]))
     newFile = open('%s' % path, 'w')
     newFile.write("\n".join(table))
     newFile.close()
@@ -67,16 +68,17 @@ def csvFileToDict(path):
 
     Returns:
     wordCount  ({str: (int, str)}})
-            -- a dictionary containing the first column of the csv file
-               as the keys and a tuple consisting of the second and
-               third columns of the csv file
+            -- a dictionary containing the first and second columns of
+               the csv file in a tuple as the dictionaries' keys and
+               the third column of the csv file as the dictionaries'
+               values
     """
     file = open('%s' % path, 'r')
     wordCount = {}
     for line in file.readlines()[1:]:
         newLine = line.replace('\n', '')
-        w, c0, c1 = newLine.split(',')
-        wordCount[w] = (int(c0), c1)
+        w, c, n = newLine.split(',')
+        wordCount[(w, c)] = int(n)
     file.close()
     return wordCount
 

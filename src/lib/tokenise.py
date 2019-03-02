@@ -81,7 +81,7 @@ def removePunctuation(text):
     Returns:
     text  (str) -- the text with all punctuation marks removed
     """
-    punctuation = re.compile(r'[.?!,¸/"‘“””’:;()[\]{}0-9]')
+    punctuation = re.compile(r'[.?…!,¸_/"º`\'‘“””’%:;()[\]<>{}0-9]')
     text = punctuation.sub("", text)
     return text
 
@@ -105,7 +105,7 @@ def lowerCaseWords(words):
 
 def removeStopwords(words, stopwords):
     """
-    Removes all words from ${stopwords} list.
+    Removes all words from ${words} that are in ${stopwords}.
 
     Arguments:
     words         ([str]) -- a list of words
@@ -119,6 +119,21 @@ def removeStopwords(words, stopwords):
     wordsWOstops = []
     for w in words:
         if w not in stopwords:
+            wordsWOstops.append(w)
+    return wordsWOstops
+
+def removeStopstrings(words, stopstrings):
+    """
+    Removes all words that contain any elements of ${stopstrings} from
+    ${words}.
+    """
+    wordsWOstops = []
+    for w in words:
+        stopInW = False
+        for string in stopstrings:
+            if string in w:
+                stopInW = True
+        if not stopInW:
             wordsWOstops.append(w)
     return wordsWOstops
 
@@ -174,7 +189,7 @@ def removeEmpties(words):
     return words
 
 
-def splitByWord(text, stopwords):
+def splitByWord(text, stopwords, stopstrings):
     """
     Splits a text into a list of words, removing all stopwords.
 
@@ -189,6 +204,7 @@ def splitByWord(text, stopwords):
     words = text.split(' ')
     words = lowerCaseWords(words)
     words = removeStopwords(words, stopwords)
+    words = removeStopstrings(words, stopstrings)
     words = list(removeIntegers(words))
     words = removeEmpties(words)
     words = lemmatise(words)
