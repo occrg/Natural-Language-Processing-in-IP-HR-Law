@@ -3,6 +3,7 @@ Supplies functionality that converts a PDF to a string.
 """
 
 import os
+import datetime
 
 from pdfminer.pdfparser import PDFParser
 from pdfminer.pdfdocument import PDFDocument
@@ -24,14 +25,14 @@ def getPDFmetadata(path):
     was downloaded).
 
     Arguments:
-    path   (str) -- the path of the pdf file that needs its data
-                    extracted
+    path   (str)  -- the path of the pdf file that needs its data
+                     extracted
 
     Returns:
-    date   (str) -- the creation date or, failing that, the
-                    modification date of the PDF
-    title  (str) -- the title or, failing that, the path of the
-                    document's PDF
+    date   (date) -- the creation date or, failing that, the
+                     modification date of the PDF
+    title  (str)  -- the title or, failing that, the path of the
+                     document's PDF
     """
     fp = open(path, 'rb')
     parser = PDFParser(fp)
@@ -40,8 +41,16 @@ def getPDFmetadata(path):
     if 'CreationDate' in doc.info[0]:
         date = doc.info[0]['CreationDate']
         date = date.decode(encoding="utf-8", errors='ignore')
+        year = date[2:6]
+        month = date[6:8]
+        day = date[8:10]
+        stringDate = day + month + year
+        date = datetime.datetime.strptime(stringDate, '%d%m%Y').date()
     else:
-        date = os.path.getmtime(path)
+        dateEpoch = os.path.getmtime(path)
+        stringDate = datetime.datetime.fromtimestamp(dateEpoch).strftime('%Y-%m-%d %H:%M:%S')
+        date = datetime.datetime.strptime(stringDate, '%Y-%m-%d %H:%M:%S').date()
+
     if 'Title' in doc.info[0]:
         title = doc.info[0]['Title']
         title = title.decode(encoding="utf-8", errors='ignore')

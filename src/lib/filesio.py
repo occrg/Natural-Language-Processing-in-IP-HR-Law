@@ -4,6 +4,7 @@ Supplies functionality to input and output files.
 
 import os
 import numpy as np
+import datetime
 
 
 def stringToTXTfile(text, path):
@@ -90,7 +91,7 @@ def documentDetailsToCSVfile(documentDetails, path):
 
     Arguments:
     documentDetails  ([{str: str, str: str, str: str, str: str,
-                        str: str, str: int, str: int,
+                        str: date, str: int, str: int,
                         str: float, str: float, str: float,
                         str: float}])
             -- a list of dictionaries where each dictionary in the list
@@ -102,8 +103,7 @@ def documentDetailsToCSVfile(documentDetails, path):
     """
     table = []
     table.append(                                                            \
-    "title,pdf path,txt path,count path,date,class,training,hr prob,ip prob,u\
-    ser prob,creator prob")
+    "title,pdf path,txt path,count path,date,class,training,hr prob,ip prob,user prob,creator prob")
     for document in documentDetails:
         table.append("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s" % (document['title'],\
             document['pdfPath'], document['txtPath'], document['countPath'], \
@@ -125,24 +125,25 @@ def csvFileToDocumentDetails(path):
 
     Returns:
     documentDetails  ([{str: str, str: str, str: str, str: str,
-                        str: str, str: int, str: int,
+                        str: date, str: int, str: int,
                         str: float, str: float, str: float,
                         str: float}])
             -- a list of dictionaries where each dictionary has been
                retrieved from a row of the csv file at ${path} and each
-               key has been retrieved from a column of that csv file 
+               key has been retrieved from a column of that csv file
     """
     file = open('%s' % path, 'r')
     documentDetails = []
     for line in file.readlines()[1:]:
         newLine = line.replace('\n', '')
-        title, pdfPath, txtPath, countPath, date, classLabel, training,      \
+        title, pdfPath, txtPath, countPath, stringDate, classLabel, training,\
             hrProb, ipProb, userProb, creatorProb = newLine.split(',')
-        details = {'title':title, 'pdfPath':pdfPath, 'txtPath':txtPath,     \
-            'countPath':countPath, 'date': date, 'class':int(classLabel),    \
-            'test':int(training),  'hrProb':float(hrProb),                   \
-            'ipProb':float(ipProb), 'userProb':float(userProb),              \
-            'creatorProb':float(creatorProb)}
+        details = {'title':title, 'pdfPath':pdfPath, 'txtPath':txtPath,      \
+            'countPath':countPath,                                           \
+            'date': datetime.datetime.strptime(stringDate, '%Y-%m-%d').date()\
+            ,'class':int(classLabel), 'test':int(training),                  \
+            'hrProb':float(hrProb), 'ipProb':float(ipProb),                  \
+            'userProb':float(userProb),'creatorProb':float(creatorProb)}
         documentDetails.append(details)
     file.close()
     return documentDetails

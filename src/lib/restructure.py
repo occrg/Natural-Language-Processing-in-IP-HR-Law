@@ -179,3 +179,28 @@ def splitTestAndTrain(X, Y, propTrain, documentDetails):
         Xtest[i] = X[testIndexes[i]]
         Ytest.append(Y[testIndexes[i]])
     return documentDetails, Xtrain, Ytrain, Xtest, Ytest
+
+def filterDocuments(key, value, documentDetails):
+    """
+    Removes any items from ${documentDetails} that do not have the
+    value ${value} at key ${key}.
+
+    Arguments:
+    key                      (str)
+            -- the key that should have ${value} to avoid removeal
+    value                    (any)
+            -- the value that the remaining items will have at ${key}
+    documentDetails          ([{}])
+            -- a list of dictionaries with each dictionary giving the
+               attributes of a different document
+
+    Returns:
+    documentDetailsFiltered  ([{}])
+            -- the list of dictionaries without the dictionaries that
+               did not have value ${value} at key ${key} 
+    """
+    documentDetailsFiltered = []
+    for details in documentDetails:
+        if details[key] == value:
+            documentDetailsFiltered.append(details)
+    return documentDetailsFiltered

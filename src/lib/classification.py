@@ -2,7 +2,6 @@
 Supplies functionality for the training and testing of the model.
 """
 
-from sklearn.naive_bayes import MultinomialNB
 from sklearn import svm
 import numpy as np
 from sklearn.model_selection import cross_val_score
@@ -59,4 +58,5 @@ def testData(clf, X, Y, documentDetails):
             details['hrProb'] = probabilities[i][0]
             details['ipProb'] = probabilities[i][1]
             i += 1
+    print(success)
     return documentDetails

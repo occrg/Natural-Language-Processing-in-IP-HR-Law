@@ -6,11 +6,15 @@ This currently consists of:
 2. Finding the word count of every word in each article,
 3. Totalling the word counts of all words for their respective classes,
 4. Training and testing the gathered data.
+5. Visualising the test data.
 """
 
 import os
 import sys
 import numpy as np
+import datetime
+import matplotlib
+import matplotlib.pyplot as plt
 
 from lib.convertpdf import pdfToString
 from lib.convertpdf import getPDFmetadata
@@ -21,9 +25,12 @@ from lib.restructure import getListFromDocumentDetails
 from lib.restructure import fillWordCounts
 from lib.restructure import getTruths
 from lib.restructure import splitTestAndTrain
+from lib.restructure import filterDocuments
 
 from lib.classification import trainData
 from lib.classification import testData
+
+from lib.visualisation import plot
 
 from lib.filepaths import loadListOfFilePaths
 from lib.filepaths import changeRootFolderAndExtRemoveArea
@@ -142,6 +149,46 @@ def classifications(documentDetails):
     documentDetails = testData(clf, Xtest, Ytest, documentDetails)
     return documentDetails
 
+def visualisations(documentDetails):
+    """
+    Visualises the test data with the date of document creation as the
+    x-axis and the probability that a document is from an intellectual
+    property journal subtracted by the probability that it is from a
+    human rights document.  
+
+    Arguments:
+    documentDetails  ([{}])
+            -- a list of dictionaries with each dictionary giving the
+               attributes of a different document
+    """
+    testDocumentDetails = filterDocuments('test', 1, documentDetails)
+    hrTestDocumentDetails = filterDocuments('class', 0, testDocumentDetails)
+    ipTestDocumentDetails = filterDocuments('class', 1, testDocumentDetails)
+
+    hrProbsHR = np.asarray(getListFromDocumentDetails('hrProb', hrTestDocumentDetails), dtype=np.float32)
+    ipProbsHR = np.asarray(getListFromDocumentDetails('ipProb', hrTestDocumentDetails), dtype=np.float32)
+    datesHR = getListFromDocumentDetails('date', hrTestDocumentDetails)
+    Xhr = matplotlib.dates.date2num(datesHR)
+    Yhr = ipProbsHR - hrProbsHR
+
+    hrProbsIP = np.asarray(getListFromDocumentDetails('hrProb', ipTestDocumentDetails), dtype=np.float32)
+    ipProbsIP = np.asarray(getListFromDocumentDetails('ipProb', ipTestDocumentDetails), dtype=np.float32)
+    datesIP = getListFromDocumentDetails('date', ipTestDocumentDetails)
+    Xip = matplotlib.dates.date2num(datesIP)
+    Yip = ipProbsIP - hrProbsIP
+
+    Xs = []
+    Ys = []
+    Cs = []
+    Xs.append(Xhr)
+    Xs.append(Xip)
+    Ys.append(Yhr)
+    Ys.append(Yip)
+    Cs.append('r')
+    Cs.append('b')
+
+    plot(Xs, Ys, Cs)
+
 
 def main():
     areasOfLaw = ['hr', 'ip']
@@ -153,10 +200,11 @@ def main():
         documentDetails = csvFileToDocumentDetails(path)
     else:
         documentDetails = []
-    documentDetails = convertingPDFs(areasOfLaw, documentDetails, 'all')
-    documentDetails = counting(documentDetails, 'all')
+    # documentDetails = convertingPDFs(areasOfLaw, documentDetails, 'all')
+    # documentDetails = counting(documentDetails, 'all')
     documentDetails = classifications(documentDetails)
-    documentDetailsToCSVfile(documentDetails, path)
+    visualisations(documentDetails)
+    # documentDetailsToCSVfile(documentDetails, path)
 
 
 if __name__ == '__main__':
