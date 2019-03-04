@@ -6,8 +6,6 @@ of words.
 import re
 import nltk
 
-from lib.filesio import loadPhrases
-
 
 def cleanText(text):
     """
