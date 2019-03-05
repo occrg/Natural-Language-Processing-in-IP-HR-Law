@@ -79,7 +79,7 @@ def csvFileToCount(path):
     for line in file.readlines()[1:]:
         newLine = line.replace('\n', '')
         w, n = newLine.split(',')
-        wordCount[w] = int(n)
+        wordCount[w] = float(n)
     file.close()
     return wordCount
 
@@ -103,13 +103,13 @@ def documentDetailsToCSVfile(documentDetails, path):
     """
     table = []
     table.append(                                                            \
-    "title,pdf path,txt path,count path,date,class,training,hr prob,ip prob,user prob,creator prob")
+    "title,pdf path,txt path,count path,frequency path,date,class,training,hr prob,ip prob,user prob,creator prob")
     for document in documentDetails:
-        table.append("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s" % (document['title'],\
+        table.append("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s" % (document['title'],\
             document['pdfPath'], document['txtPath'], document['countPath'], \
-            document['date'], document['class'], document['test'],           \
-            document['hrProb'], document['ipProb'], document['userProb'],    \
-            document['creatorProb']))
+            document['frequencyPath'], document['date'], document['class'],  \
+            document['test'], document['hrProb'], document['ipProb'],        \
+            document['userProb'], document['creatorProb']))
     newFile = open('%s' % path, 'w')
     newFile.write("\n".join(table))
     newFile.close()
@@ -136,10 +136,11 @@ def csvFileToDocumentDetails(path):
     documentDetails = []
     for line in file.readlines()[1:]:
         newLine = line.replace('\n', '')
-        title, pdfPath, txtPath, countPath, stringDate, classLabel, training,\
-            hrProb, ipProb, userProb, creatorProb = newLine.split(',')
+        title, pdfPath, txtPath, countPath, frequencyPath, stringDate,       \
+            classLabel, training, hrProb, ipProb, userProb, creatorProb      \
+                = newLine.split(',')
         details = {'title':title, 'pdfPath':pdfPath, 'txtPath':txtPath,      \
-            'countPath':countPath,                                           \
+            'countPath':countPath, 'frequencyPath':frequencyPath,            \
             'date': datetime.datetime.strptime(stringDate, '%Y-%m-%d').date()\
             ,'class':int(classLabel), 'test':int(training),                  \
             'hrProb':float(hrProb), 'ipProb':float(ipProb),                  \

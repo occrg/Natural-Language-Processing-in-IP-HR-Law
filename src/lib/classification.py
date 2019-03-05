@@ -3,6 +3,8 @@ Supplies functionality for the training and testing of the model.
 """
 
 from sklearn import svm
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.linear_model import LogisticRegression
 import numpy as np
 from sklearn.model_selection import cross_val_score
 

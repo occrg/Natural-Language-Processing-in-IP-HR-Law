@@ -21,10 +21,12 @@ from lib.convertpdf import getPDFmetadata
 
 from lib.count import stringToWordCount
 
+from lib.frequencies import tfidf
+
 from lib.restructure import getListFromDocumentDetails
 from lib.restructure import fillWordCounts
 from lib.restructure import getTruths
-from lib.restructure import splitTestAndTrain
+from lib.restructure import allocateTestAndTrain
 from lib.restructure import filterDocuments
 
 from lib.classification import trainData
@@ -43,6 +45,8 @@ from lib.filesio import csvFileToDocumentDetails
 from lib.filesio import documentDetailsToCSVfile
 from lib.filesio import loadPhrases
 
+
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 def convertingPDFs(areasOfLaw, documentDetails, scope):
     """
@@ -81,9 +85,10 @@ def convertingPDFs(areasOfLaw, documentDetails, scope):
                 if a == 'ip':
                     classLabel = 1
 
-                details = {'title':title, 'pdfPath':path, 'txtPath':destination, \
-                    'countPath':'', 'date':date, 'class':classLabel, 'test':0,   \
-                    'hrProb':-1.0, 'ipProb':-1.0, 'userProb':-1.0,               \
+                details = {'title':title, 'pdfPath':path,                    \
+                    'txtPath':destination, 'countPath':'',                   \
+                    'frequencyPath':'', 'date':date, 'class':classLabel,     \
+                    'test':0, 'hrProb':-1.0, 'ipProb':-1.0, 'userProb':-1.0, \
                     'creatorProb':-1.0}
 
                 documentDetails.append(details)
@@ -93,6 +98,7 @@ def convertingPDFs(areasOfLaw, documentDetails, scope):
             documentDetails.remove(details)
 
     return documentDetails
+
 
 def counting(documentDetails, scope):
     """
@@ -123,6 +129,25 @@ def counting(documentDetails, scope):
             details['countPath'] = destination
     return documentDetails
 
+
+def frequencyWeighting(documentDetails):
+    wordCounts = []
+    for details in documentDetails:
+        wordCount = csvFileToCount(details['countPath'])
+        destination = changeRootFolderAndExtRemoveArea(details['countPath'], \
+            'frequency', 'csv')
+        details['frequencyPath'] = destination
+        wordCounts.append(wordCount)
+
+    tfidfWordCounts = tfidf(wordCounts)
+
+
+    i = 0
+    for wordCount in tfidfWordCounts:
+        countToCSVfile(wordCount, documentDetails[i]['frequencyPath'])
+        i += 1
+
+
 def classifications(documentDetails):
     """
     Takes each csv file specified in ${documentDetails} and trains on
@@ -133,20 +158,23 @@ def classifications(documentDetails):
             -- a list of dictionaries with each dictionary giving the
                attributes of a different document
     """
-    wordCounts = []
+    documentDetails = allocateTestAndTrain(0.75, documentDetails)
 
-    for details in documentDetails:
-        wordCount = csvFileToCount(details['countPath'])
-        wordCounts.append(wordCount)
-
-    X = fillWordCounts(wordCounts)
-    Y = getTruths(documentDetails)
-
-    documentDetails, Xtrain, Ytrain, Xtest, Ytest =                         \
-        splitTestAndTrain(X, Y, 0.75, documentDetails)
-
+    trainDocumentDetails = filterDocuments('test', 0, documentDetails)
+    trainWordCounts = []
+    for details in trainDocumentDetails:
+        wordCount = csvFileToCount(details['frequencyPath'])
+        trainWordCounts.append(wordCount)
+    Xtrain = fillWordCounts(trainWordCounts)
+    Ytrain = getTruths(trainDocumentDetails)
     clf = trainData(Xtrain, Ytrain)
+
+    testDocumentDetails = filterDocuments('test', 1, documentDetails)
+    testWordCounts = []
+    Xtest = fillWordCounts(testWordCounts)
+    Ytest = getTruths(testDocumentDetails)
     documentDetails = testData(clf, Xtest, Ytest, documentDetails)
+
     return documentDetails
 
 def visualisations(documentDetails):
@@ -154,7 +182,7 @@ def visualisations(documentDetails):
     Visualises the test data with the date of document creation as the
     x-axis and the probability that a document is from an intellectual
     property journal subtracted by the probability that it is from a
-    human rights document.  
+    human rights document.
 
     Arguments:
     documentDetails  ([{}])
@@ -200,11 +228,12 @@ def main():
         documentDetails = csvFileToDocumentDetails(path)
     else:
         documentDetails = []
-    # documentDetails = convertingPDFs(areasOfLaw, documentDetails, 'all')
-    # documentDetails = counting(documentDetails, 'all')
+    documentDetails = convertingPDFs(areasOfLaw, documentDetails, 'all')
+    documentDetails = counting(documentDetails, 'all')
+    frequencyWeighting(documentDetails)
     documentDetails = classifications(documentDetails)
     visualisations(documentDetails)
-    # documentDetailsToCSVfile(documentDetails, path)
+    documentDetailsToCSVfile(documentDetails, path)
 
 
 if __name__ == '__main__':

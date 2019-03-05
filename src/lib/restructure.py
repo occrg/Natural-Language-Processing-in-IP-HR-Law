@@ -122,18 +122,13 @@ def getTruths(documentDetails):
         Y.append(details['class'])
     return Y
 
-def splitTestAndTrain(X, Y, propTrain, documentDetails):
+def allocateTestAndTrain(propTest, documentDetails):
     """
     Splits the given data into two datasets randomly and changes the
     'test' field in the appropriate ${documentDetails} items to
     reflect the split.
 
     Arguments:
-    X                (ndarray)
-            -- the features of the entire dataset to be split
-    Y                ([int])
-            -- the classes of each sample of the entire dataset to be
-               split
     propTrain        (float)
             -- a float between 0 and 1 that represents the proportion
                of the dataset that is to be trained on
@@ -145,40 +140,18 @@ def splitTestAndTrain(X, Y, propTrain, documentDetails):
     documentDetails  ([{}])
             -- the list of dictionaries with the appropriate
                dictionaries' 'test' field ammended
-    Xtrain           (ndarray)
-            -- the portion of X that is to be trained on
-    Ytrain     ([int])
-            -- the portion of Y that is to be trained on
-    Xtest      (ndarray)
-            -- the portion of X that will be tested
-    Ytest      ([int])
-            -- the portion of Y that the tests on ${Xtest} will be
-               checked against
     """
-    setListFromDocumentDetails('test', 0, documentDetails)
-    trainNum = round(len(Y) * propTrain)
-    testNum = len(Y) - trainNum
-    testIndexes = []
-    indexes = list(range(len(Y)))
-    trainIndexes = indexes
-    for i in range(testNum):
-        randElement = random.choice(indexes)
-        trainIndexes.remove(randElement)
-        testIndexes.append(randElement)
-        documentDetails[randElement]['test'] = 1
-    Xtrain = np.zeros((trainNum, X.shape[1]))
-    Ytrain = []
-    Xtest = np.zeros((testNum, X.shape[1]))
-    Ytest = []
+    documentDetails =                                                        \
+        setListFromDocumentDetails('test', 0, documentDetails)
+    documentDetails =                                                        \
+        setListFromDocumentDetails('hrProb', -1, documentDetails)
+    documentDetails =                                                        \
+        setListFromDocumentDetails('ipProb', -1, documentDetails)
 
-    for i in range(trainNum):
-        Xtrain[i] = X[trainIndexes[i]]
-        Ytrain.append(Y[trainIndexes[i]])
-
+    testNum = round(len(documentDetails) * propTest)
     for i in range(testNum):
-        Xtest[i] = X[testIndexes[i]]
-        Ytest.append(Y[testIndexes[i]])
-    return documentDetails, Xtrain, Ytrain, Xtest, Ytest
+        documentDetails[random.randint(0, len(documentDetails) - 1)]['test'] = 1
+    return documentDetails
 
 def filterDocuments(key, value, documentDetails):
     """
@@ -197,7 +170,7 @@ def filterDocuments(key, value, documentDetails):
     Returns:
     documentDetailsFiltered  ([{}])
             -- the list of dictionaries without the dictionaries that
-               did not have value ${value} at key ${key} 
+               did not have value ${value} at key ${key}
     """
     documentDetailsFiltered = []
     for details in documentDetails:
