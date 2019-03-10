@@ -69,7 +69,7 @@ def allWords(wordCounts):
                 words.append(row)
     return words
 
-def fillWordCounts(wordCounts):
+def fillWordCounts(wordCounts, words):
     """
     Converts dictionaries into a matrix form that is accepted by
     scikitlearn.
@@ -80,17 +80,17 @@ def fillWordCounts(wordCounts):
 
     Arguments:
     wordCounts  ([{str: int}])
-                -- a list of dictionaries where each dictionary has a
-                   set of words as keys with the counts of those words
-                   as the values
+            -- a list of dictionaries where each dictionary has a
+               set of words as keys with the counts of those words
+               as the values
+    words       ([str])
+            --
 
     counts      (ndarray)
-                -- a matrix with each row representing a sample (a
-                   dictionary in ${wordCounts}) and each column
-                   representing a different feature
+            -- a matrix with each row representing a sample (a
+               dictionary in ${wordCounts}) and each column
+               representing a different feature
     """
-    words = allWords(wordCounts)
-
     counts = np.zeros((len(wordCounts), len(words)))
 
     wcInd = 0
@@ -124,22 +124,21 @@ def getTruths(documentDetails):
 
 def allocateTestAndTrain(propTest, documentDetails):
     """
-    Splits the given data into two datasets randomly and changes the
-    'test' field in the appropriate ${documentDetails} items to
-    reflect the split.
+    Randomly assigns a proportion of the dataset as test data by
+    changing the 'test' field in ${documentDetails}
 
     Arguments:
-    propTrain        (float)
+    propTest        (float)
             -- a float between 0 and 1 that represents the proportion
-               of the dataset that is to be trained on
+               of the dataset that is to be reserved for testing
     documentDetails  ([{}])
             -- a list of dictionaries with each dictionary giving the
                attributes of a different document
 
     Returns:
     documentDetails  ([{}])
-            -- the list of dictionaries with the appropriate
-               dictionaries' 'test' field ammended
+            -- the list of dictionaries with random dictionaries'
+               'test' field changed to 1
     """
     documentDetails =                                                        \
         setListFromDocumentDetails('test', 0, documentDetails)

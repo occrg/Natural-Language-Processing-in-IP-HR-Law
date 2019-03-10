@@ -11,14 +11,14 @@ def countWords(words):
     words.
 
     Arguments:
-    words      ([str])
+    words       ([str])
             -- a list of words that appear in a document (includes
                repeated words)
-    classLabel            (str)
+    classLabel  (str)
             -- the classification of the document the word originates from
 
     Returns:
-    wordCount  ({str: int}})
+    wordCount   ({str: int}})
             -- a dictionary with keys representing unique words in a document
                with corresponding values representing the count of the
                word in that document

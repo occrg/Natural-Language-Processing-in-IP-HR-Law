@@ -4,8 +4,9 @@ Performs all operations for the project.
 This currently consists of:
 1. Converting law journal articls in PDF form into plain text format,
 2. Finding the word count of every word in each article,
-3. Totalling the word counts of all words for their respective classes,
-4. Training and testing the gathered data.
+3. Totalling the word counts of all words for their respective classes
+   and normalising these counts to make them more appropriate features,
+4. Training and testing the gathered data,
 5. Visualising the test data.
 """
 
@@ -22,8 +23,10 @@ from lib.convertpdf import getPDFmetadata
 from lib.count import stringToWordCount
 
 from lib.frequencies import tfidf
+from lib.frequencies import termFrequency
 
 from lib.restructure import getListFromDocumentDetails
+from lib.restructure import allWords
 from lib.restructure import fillWordCounts
 from lib.restructure import getTruths
 from lib.restructure import allocateTestAndTrain
@@ -50,8 +53,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 def convertingPDFs(areasOfLaw, documentDetails, scope):
     """
-    Converts all PDFs in 'data/pdf/${areasOfLaw}/' to plaintext and
-    stores in txt files in 'data/txt/'.
+    Converts all PDFs in './data/pdf/${areasOfLaw}/' to plaintext and
+    stores in txt files in '/data/txt/'.
 
     Arguments:
     areasOfLaw       ([str])
@@ -103,7 +106,7 @@ def convertingPDFs(areasOfLaw, documentDetails, scope):
 def counting(documentDetails, scope):
     """
     Takes each txt file specified in ${documentDetails} and produces a
-    corresponding csv file in 'wordCounts/' which contains a row for
+    corresponding csv file in './data/count' which contains a row for
     each unique word in the document, followed by the frequency of that
     word's appearance in the document.
 
@@ -131,6 +134,16 @@ def counting(documentDetails, scope):
 
 
 def frequencyWeighting(documentDetails):
+    """
+    Takes each csv file specified in ${documentDetails} and converts
+    the term count to some weighted frequency and then stores it as a
+    csv file in './data/frequency'.
+
+    Arguments:
+    documentDetails  ([{}])
+            -- a list of dictionaries with each dictionary giving the
+               attributes of a different document
+    """
     wordCounts = []
     for details in documentDetails:
         wordCount = csvFileToCount(details['countPath'])
@@ -139,11 +152,11 @@ def frequencyWeighting(documentDetails):
         details['frequencyPath'] = destination
         wordCounts.append(wordCount)
 
-    tfidfWordCounts = tfidf(wordCounts)
+    tfWordCounts = termFrequency(wordCounts)
 
 
     i = 0
-    for wordCount in tfidfWordCounts:
+    for wordCount in tfWordCounts:
         countToCSVfile(wordCount, documentDetails[i]['frequencyPath'])
         i += 1
 
@@ -151,27 +164,36 @@ def frequencyWeighting(documentDetails):
 def classifications(documentDetails):
     """
     Takes each csv file specified in ${documentDetails} and trains on
-    some proportion of the files and then tests on the rest.
+    some proportion of the files with regards to HR-IP and then tests
+    on the rest.
 
     Arguments:
     documentDetails  ([{}])
             -- a list of dictionaries with each dictionary giving the
                attributes of a different document
     """
-    documentDetails = allocateTestAndTrain(0.75, documentDetails)
+    documentDetails = allocateTestAndTrain(0.25, documentDetails)
+    wordCounts = []
+    for details in documentDetails:
+        wordCount = csvFileToCount(details['countPath'])
+        wordCounts.append(wordCount)
+    words = allWords(wordCounts)
 
     trainDocumentDetails = filterDocuments('test', 0, documentDetails)
     trainWordCounts = []
     for details in trainDocumentDetails:
-        wordCount = csvFileToCount(details['frequencyPath'])
+        wordCount = csvFileToCount(details['countPath'])
         trainWordCounts.append(wordCount)
-    Xtrain = fillWordCounts(trainWordCounts)
+    Xtrain = fillWordCounts(trainWordCounts, words)
     Ytrain = getTruths(trainDocumentDetails)
     clf = trainData(Xtrain, Ytrain)
 
     testDocumentDetails = filterDocuments('test', 1, documentDetails)
     testWordCounts = []
-    Xtest = fillWordCounts(testWordCounts)
+    for details in testDocumentDetails:
+        wordCount = csvFileToCount(details['countPath'])
+        testWordCounts.append(wordCount)
+    Xtest = fillWordCounts(testWordCounts, words)
     Ytest = getTruths(testDocumentDetails)
     documentDetails = testData(clf, Xtest, Ytest, documentDetails)
 
@@ -228,12 +250,12 @@ def main():
         documentDetails = csvFileToDocumentDetails(path)
     else:
         documentDetails = []
-    documentDetails = convertingPDFs(areasOfLaw, documentDetails, 'all')
-    documentDetails = counting(documentDetails, 'all')
-    frequencyWeighting(documentDetails)
+    # documentDetails = convertingPDFs(areasOfLaw, documentDetails, 'all')
+    # documentDetails = counting(documentDetails, 'all')
+    # documentDetials = frequencyWeighting(documentDetails)
     documentDetails = classifications(documentDetails)
-    visualisations(documentDetails)
     documentDetailsToCSVfile(documentDetails, path)
+    visualisations(documentDetails)
 
 
 if __name__ == '__main__':
