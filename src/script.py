@@ -22,8 +22,11 @@ from lib.convertpdf import getPDFmetadata
 
 from lib.count import stringToWordCount
 
+from lib.tokenise import splitBySentence
+
+from lib.filter import removeSentencesWithoutPhrases
+
 from lib.frequencies import tfidf
-from lib.frequencies import termFrequency
 
 from lib.restructure import getListFromDocumentDetails
 from lib.restructure import allWords
@@ -48,8 +51,6 @@ from lib.filesio import csvFileToDocumentDetails
 from lib.filesio import documentDetailsToCSVfile
 from lib.filesio import loadPhrases
 
-
-from sklearn.feature_extraction.text import TfidfVectorizer
 
 def convertingPDFs(areasOfLaw, documentDetails, scope):
     """
@@ -152,14 +153,30 @@ def frequencyWeighting(documentDetails):
         details['frequencyPath'] = destination
         wordCounts.append(wordCount)
 
-    tfWordCounts = termFrequency(wordCounts)
+    tfidfWordCounts = tfidf(wordCounts)
 
 
     i = 0
-    for wordCount in tfWordCounts:
+    for wordCount in tfidfWordCounts:
         countToCSVfile(wordCount, documentDetails[i]['frequencyPath'])
         i += 1
 
+def userCreatorRatings(documentDetails):
+    """
+
+    """
+    creatorPhrases = loadPhrases('data/lists/Creator-keyPhrases.txt')
+    userPhrases = loadPhrases('data/lists/User-keyPhrases.txt')
+    for details in documentDetails:
+        text = txtFileToString(details['txtPath'])
+        sentences = splitBySentence(text)
+        creatorSentences = removeSentencesWithoutPhrases(creatorPhrases, sentences)
+        userSentences = removeSentencesWithoutPhrases(userPhrases, sentences)
+        creatorProp = len(creatorSentences) / len(sentences)
+        userProp = len(userSentences) / len(sentences)
+        details['userProb'] = userProp
+        details['creatorProb'] = creatorProp
+    return documentDetails
 
 def classifications(documentDetails):
     """
@@ -217,27 +234,37 @@ def visualisations(documentDetails):
 
     hrProbsHR = np.asarray(getListFromDocumentDetails('hrProb', hrTestDocumentDetails), dtype=np.float32)
     ipProbsHR = np.asarray(getListFromDocumentDetails('ipProb', hrTestDocumentDetails), dtype=np.float32)
+    userProbsHR = np.asarray(getListFromDocumentDetails('userProb', hrTestDocumentDetails), dtype=np.float32)
+    creatorProbsHR = np.asarray(getListFromDocumentDetails('creatorProb', hrTestDocumentDetails), dtype=np.float32)
     datesHR = getListFromDocumentDetails('date', hrTestDocumentDetails)
     Xhr = matplotlib.dates.date2num(datesHR)
     Yhr = ipProbsHR - hrProbsHR
+    Zhr = creatorProbsHR - userProbsHR
 
     hrProbsIP = np.asarray(getListFromDocumentDetails('hrProb', ipTestDocumentDetails), dtype=np.float32)
     ipProbsIP = np.asarray(getListFromDocumentDetails('ipProb', ipTestDocumentDetails), dtype=np.float32)
+    userProbsIP = np.asarray(getListFromDocumentDetails('userProb', ipTestDocumentDetails), dtype=np.float32)
+    creatorProbsIP = np.asarray(getListFromDocumentDetails('creatorProb', ipTestDocumentDetails), dtype=np.float32)
     datesIP = getListFromDocumentDetails('date', ipTestDocumentDetails)
     Xip = matplotlib.dates.date2num(datesIP)
     Yip = ipProbsIP - hrProbsIP
+    Zip = creatorProbsIP - userProbsIP
+
 
     Xs = []
     Ys = []
+    Zs = []
     Cs = []
     Xs.append(Xhr)
     Xs.append(Xip)
     Ys.append(Yhr)
     Ys.append(Yip)
+    Zs.append(Zhr)
+    Zs.append(Zip)
     Cs.append('r')
     Cs.append('b')
 
-    plot(Xs, Ys, Cs)
+    plot(Xs, Ys, Zs, Cs)
 
 
 def main():
@@ -250,10 +277,11 @@ def main():
         documentDetails = csvFileToDocumentDetails(path)
     else:
         documentDetails = []
-    # documentDetails = convertingPDFs(areasOfLaw, documentDetails, 'all')
-    # documentDetails = counting(documentDetails, 'all')
-    # documentDetials = frequencyWeighting(documentDetails)
+    documentDetails = convertingPDFs(areasOfLaw, documentDetails, 'new')
+    documentDetails = counting(documentDetails, 'new')
+    documentDetials = frequencyWeighting(documentDetails)
     documentDetails = classifications(documentDetails)
+    documentDetails = userCreatorRatings(documentDetails)
     documentDetailsToCSVfile(documentDetails, path)
     visualisations(documentDetails)
 

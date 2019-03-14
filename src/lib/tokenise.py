@@ -186,6 +186,69 @@ def removeEmpties(words):
         words.remove('')
     return words
 
+def separatingIntoSentenceBlocks(text):
+    """
+    Splits ${text} into sentences.
+
+    Arguments:
+    text       (str)   -- a string representing the text that is to be
+                          split into sentences
+
+    Returns:
+    sentences  ([str]) -- a list of strings, each representing a
+                          sentence from ${text}
+    """
+    pars = text.split("\n\n")
+    parsSplitBySentence = []
+    for p in pars:
+        if isinstance(p, str):
+            pNoNewLines = removeNewLines(p)
+            parsSplitBySentence.append(pNoNewLines.split(". "))
+            sentencesWempties = [sentence for sublist in parsSplitBySentence for sentence in sublist]
+            sentences = [x for x in sentencesWempties if x]
+    return sentences
+
+def cleanSentence(sentence):
+    """
+    Strips ${sentence} to only include lowercase plaintext words.
+
+    Arguments:
+    sentence  (str) -- a string representing the sentence that is to be
+                       cleaned
+    """
+    cleanedSentence = []
+    sentence = cleanText(sentence)
+    words = sentence.split(' ')
+    words = lowerCaseWords(words)
+    words = list(removeIntegers(words))
+    words = removeEmpties(words)
+    cleanedSentence = ' '.join(words)
+    return cleanedSentence
+
+def joinWordsInList(listOfLists):
+    """
+    Converts a list of lists of strings into a list of strings where
+    each item of the inner list is separated by a space.
+
+    Arguments:
+    listOfLists   ([[str]])
+            -- a list of lists where the outer list represents the
+               whole text, the inner lists each represent a sentence
+               and each of the items in the inner list represent a word
+               in the corresponding sentence
+
+    Returns:
+    joinedBlocks  ([str])
+            -- a list of strings where each string consists of all the
+               items of an inner list of ${listOfLists} separated by a
+               space
+    """
+    joinedBlocks = []
+    for l in listOfLists:
+        block = ' '.join(l)
+        joinedBlocks.append(block)
+    return joinedBlocks
+
 
 def splitByWord(text, stopwords, stopstrings):
     """
@@ -207,3 +270,21 @@ def splitByWord(text, stopwords, stopstrings):
     words = removeEmpties(words)
     words = lemmatise(words)
     return words
+
+def splitBySentence(text):
+    """
+    Determines how ${text} is split into sentences.
+
+    Arguments:
+    text       (str)   -- a string representing the text that is to be
+                          split into sentences
+
+    Returns:
+    sentences  ([str]) -- a list of strings, each representing a
+                          sentence from ${text}
+    """
+    sentenceBlocks = separatingIntoSentenceBlocks(text)
+    # sentencesSplitByWords = cleanSentencesAsWords(sentenceBlocks)
+    # sentencesWempties = joinWordsInList(sentencesSplitByWords)
+    sentences = removeEmpties(sentenceBlocks)
+    return sentences
