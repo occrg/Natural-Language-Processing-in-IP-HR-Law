@@ -1,0 +1,1718 @@
+114
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2009, Vol. 4, No. 2
+
+Obvious to try, one year on
+Paul England*
+
+forty years
+
+During the last
+the volume of high-tech
+research has increased enormously, especially in the ﬁelds
+of pharmaceuticals and biotechnology. The resources com-
+mitted to research are enormous, because the potential
+rewards in world-wide markets are so great. Competition
+is ﬁerce. In this climate “obvious to try” has tended to
+take on a life of its own as an important weapon in the
+armoury of those challenging the validity of a patent.
+
+Lord Walker of Gestingthorpe—Angiotech
+
+An increasing feature of the global pharmaceuticals
+market is the competition between ‘originator’ pharma-
+ceutical companies (those who research and develop
+new drugs to market), and ‘generic’ companies (those
+who market their own, ‘me-too’, non-branded copies of
+those drugs in competition with the originators). In
+order to compete with an originator, the generic must
+ﬁrst seek to invalidate the patent(s) protecting the drug
+it is interested in, either at the patent ofﬁce of regis-
+tration or in the courts of the country in which the
+patent is registered. Patents can only protect ‘inventive’
+products and processes; one way for the generics to
+have a patent revoked is to show that it is not inven-
+tive. For several years, the originators have complained
+that the generics ﬁnd it too easy to invalidate their UK
+patents in this way. English judges, they say, have been
+making it too hard to demonstrate inventiveness, stack-
+ing the odds in favour of the generics.
+
+This matters to originators because their patents are
+the result of highly expensive research, often involving
+the investment of hundreds of millions of dollars. Thus,
+they argue that they should be entitled to a greater level
+of protection against the me-too drugs coming from
+generics which have not had to invest similar resources
+and can therefore undercut their prices. Indeed, invalida-
+tion of many patents has led to damaging erosion of the
+originators’ markets in recent years. It has also placed
+pressure on them to pour resources into developing new
+drug candidates to ﬁll development pipelines, without
+having secured sufﬁcient reward for the investments
+made in their existing portfolio. In contrast, generics say
+that they are merely removing weak ‘life-cycle’ or ‘ever-
+
+*
+
+1
+
+Senior Associate, Herbert Smith LLP. Email: paul.england@herbertsmith.
+com
+Saint-Gobain PAM SA v Fusion Provida Limited [2005] EWCA Civ 177.
+
+# The Author (2009). Published by Oxford University Press. All rights reserved.
+
+Key issues
+† When patents are applied for in the UK IPO, or
+subject to a revocation proceedings for lack of
+inventive step, the comptroller of patents and the
+UK courts must address the question of what is
+obvious and if there are any approaches that can
+help them in the particular factual circumstances.
+† One such approach in certain situations is the
+‘obvious-to-try’ test, but this has been formu-
+lated in a number of different ways by the courts
+over the years, some which make it easier to
+show obviousness and some harder.
+
+† This article reviews the recent and highest auth-
+ority in the UK on the correct approach to the
+obvious-to-try test, Conor Medsystems
+Inc v
+Angiotech Pharmaceuticals Inc., with particular
+reference to lifecycle, or ‘evergreening’, patents.
+
+greening’ patents. These are those patents protecting for-
+mulations and other versions of existing drugs for which
+the original compound patents have already expired.
+
+journal,
+
+An August 2007 article in this
+
+‘Saint
+Gobain—patron of pharmaceutical patentees’, reviewed
+the key authorities behind the development of the test
+most often applicable to patents of the formulation
+kind: the so-called ‘obvious-to-try’ test. These auth-
+orities culminated in Saint Gobain1 and Angiotech,2
+heard in the Court of Appeal. The ﬁndings of Jacob LJ
+in Saint Gobain promised much for patentees in all
+technology areas by coining a somewhat easier version
+of the obvious-to-try test for those trying to demon-
+strate the inventiveness of
+their patents. However,
+this issue was then left hanging by the same judge in
+Angiotech, which followed it shortly afterwards. The
+subject was clearly in need of review by the House of
+Lords. One year on and, sure enough, things have
+moved on. The House of Lords has ﬁnally addressed
+the issue of obviousness and, in particular, the correct
+approach to asking whether an invention was ‘obvious
+
+2 Angiotech Pharmaceuticals & Anr v Conor Medsystems Inc. [2007] EWCA
+
+Civ 5.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+4
+2
+1
+1
+4
+8
+3
+8
+5
+0
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Paul England . Obvious to try, one year on
+
+ARTICLE
+
+115
+
+to try’. This article assesses what the Lords say about
+this test and its implications for the inventiveness
+handle and, in particular, pharmaceutical patents.
+
+How the ‘obvious-to-try’ test ﬁts in
+Where does the issue of ‘obvious to try’ ﬁt into patent
+law? In short, Articles 52(1) and 56 of the European
+Patent Convention 1973, as implemented by sections
+1(1)(b) and 3 Patents Act 1977, provide that an inven-
+tion shall be taken to involve a patentable inventive
+step if it is not obvious to a person skilled in the art,
+having regard to any matter which forms part of the
+state of the art. The established approach to obvious-
+ness was famously set out in Windsurﬁng.3 However,
+that case only provides the correct way in which the
+question of obviousness should be approached. It does
+not provide a means by which the essential question of
+‘what is obvious?’ may itself be assessed. The courts
+have deliberately avoided trying to deﬁne ‘obvious’
+so that
+the essential statutory test should not be
+diminished. Thus,
+in Norton
+Healthcare4 stated:
+
+the Court of Appeal
+
+No formula should be substituted for the words of the
+statute. In every case, the Court has to weigh up the evi-
+dence and decide whether the invention was obvious. This
+is the statutory task.
+
+However, perhaps inevitably, the UK courts have devel-
+‘sub-tests’ to assist in determining the
+oped several
+essential statutory question of whether a patent
+is
+obvious (while being careful not to let these replace the
+essential question). One such test, applied in appropri-
+ate circumstances, is the obvious-to-try test which is
+particularly applicable where the inventor at the pri-
+ority date had a number of known technical options
+that might, with hindsight, have been tried in coming
+to his invention. This is why this sub-test is often
+applicable
+evergreening
+inventions, where a known drug has been reformulated
+using one or more of a list of other drugs, excipients,
+salts, or dosage, crystal or hydration forms: were all the
+potential options on the list obvious to try at the time
+the patent was ﬁled?
+
+to formulation and other
+
+An obviousness ‘hurdle’ set at different
+heights
+The obvious-to-try test has been formulated in various
+ways over the years. The manner of formulation affects
+
+the ease with which a patent can be attacked for
+obviousness—what might be described as the height at
+which the obvious-to-try hurdle is set. A lower hurdle
+makes it easier to invalidate a patent for lack of inven-
+tive step; a higher one, more difﬁcult. Those critical of
+the UK courts’ approach to obviousness complain that
+the hurdle has been set too low. The key to where the
+hurdle is set is to look at how the obvious-to-try ques-
+tion is qualiﬁed by expectations that the invention
+being tried will be successful. Three formulations illus-
+trate the varying ways in which this has been done.
+First, the original
+formulation from Johns-Manville’s
+Patent:5
+
+the person versed in the art would assess
+
+1. It is enough [to show the invention was obvious to try]
+that
+the
+likelihood of
+to warrant actual
+trial . . .
+
+success as
+
+sufﬁcient
+
+This has similarly been expressed in the form of asking
+whether the invention was obvious to try with a
+‘reasonable expectation of success’. In other words,
+there must be a consideration of whether the invention
+was likely to be worth it.
+
+Before looking at the next formulation, one should
+note a second aspect, which is relevant to the way in
+which the UK courts came to address the need for
+some expectation for success. Laddie J in Brugger6
+thought that the number of routes that may be tried
+when applying the Johns-Manville’s test has no impact
+on obviousness where the resources available and the
+commercial interests at stake might compel the skilled
+person to try them all:
+
+. . . if a particular route is an obvious one to take or try,
+it
+is not rendered any less obvious from a technical
+point of view merely because there are a number, and
+perhaps a large number, of other obvious routes as well.
+If a number of obvious routes exist it is more or less
+inevitable that a skilled worker will
+try some before
+others. The order in which he chooses to try them may
+depend on factors such as the ease and speed with which
+they can be tried, the availability of testing equipment,
+the costs involved and the commercial
+interests of his
+employer. There is no rule of law or logic which says
+that only the option which is likely to be tried ﬁrst or
+second is to be treated as obvious for the purpose of
+patent litigation.
+
+This observation appeared to undermine the require-
+ment
+success
+in circumstances where one has practically
+because,
+
+there be some expectation of
+
+that
+
+3 Windsurﬁng International Inc v Tabur Marine (Great Britain) Ltd [1985]
+
+RPC as modiﬁed by Pozzoli v BDMO [2007] EWCA Civ 588.
+
+Johns-Manville’s Patent [1967] RPC 479 (CA).
+
+5
+6 Brugger v Medicaid Ltd [1996] RPC 635.
+
+4 Norton Healthcare v Beecham Group [1997] FSR 81.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+4
+2
+1
+1
+4
+8
+3
+8
+5
+0
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+116
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2009, Vol. 4, No. 2
+
+limitless resources,7 everything may potentially be tried
+with little fear that much of it will result in no success
+at all. This statement of Laddie J becomes relevant when
+looking at the House of Lords decision in Angiotech,
+which is discussed later. However, in the second of the
+example formulations
+taken here a hard line was
+espoused by Pumfrey J that has a similar practical
+effect, that the obvious-to-try test need not be qualiﬁed
+by any motivation of success at all:
+
+2. Evidence that the skilled person would be led to try
+something because there was a reasonable expectation that
+it would produce a reasonable result established one poss-
+ible route to ﬁnding obviousness. But if it was obvious to
+try that thing for other reasons, there need be no super-
+added requirement that there should also be some expec-
+tation of success.8
+
+Pumfrey J took the same approach in the ﬁrst instance
+decision on Angiotech. This
+is a lower hurdle to
+showing that a patent is obvious, since it could cover
+an unlimited range of activities and experiments with
+no regard to whether there was any apparent likelihood
+that they would be worth trying. Nonetheless, this
+seemed more or less the measure of obviousness that
+had established itself in the UK courts.
+
+Then came Saint Gobain,
+
+in which the Court of
+Appeal took a dramatically different, quite unexpected
+position. In his judgment, Jacob LJ posed a third for-
+mulation when he said of the question of obvious to
+try:
+
+3. Mere possible inclusion of something within a research
+programme on the basis you will ﬁnd out more and some-
+thing might turn up is not enough. If it were otherwise
+there would be few inventions that were patentable. The
+only research which would be worthwhile (because of the
+prospect of protection) would be into areas totally devoid
+of prospect. The ‘obvious-to-try’ test really only works
+where it is more-or-less self-evident that what is being
+tested ought to work.
+
+This radically different approach to the obvious-to-try
+test set the hurdle of showing what is obvious much
+higher. For an invention to be obvious it had to
+be ‘self-evident’ from the outset that it would work.
+This was good news for patentees and it showed that
+the Court of Appeal shared their concerns that it is too
+easy to show obviousness. But how closely would it be
+followed? Not closely, as it turned out. While afﬁrming
+it as a general proposition in the appeal of Angiotech,
+for reasons explained below, Jacob LJ felt he could not
+apply it to the facts of that particular case. The issue
+
+had become messy and it was high time the House of
+Lords cleared it up.
+
+Lundbeck
+The ﬁrst clue as to how the Lords might treat the issue
+in Angiotech came in another Court of Appeal decision,
+H. Lundbeck A/S v Generics [UK] Ltd and others.9 Here,
+Lord Hoffmann took the unusual step of coming down
+from the Lords in order to hear the case with Lords
+Justice Smith and Jacob.
+
+Lundbeck concerned escitalopram, an enantiomer of
+the racemic compound, citalopram. Both the escitalo-
+pram compound and a method for making it (using
+the ‘diol’ route) were claimed in the patent in suit.
+Among other things,
+the Court of Appeal had to
+address whether the diol route was obvious. The evi-
+dence was that there were other potential methods of
+isolating escitalopram available that might have been
+tried to effect
+the
+question was characterized by the ﬁrst instance judge
+and the Court of Appeal as a case of the obvious-to-try
+type.
+
+separation. Consequently,
+
+the
+
+Lord Hoffmann said:
+
+[the Judge] said: ‘this is a case in which it is said that the
+method of claim 6 was one which is obvious to try’. He
+then cited from Angiotech Pharmaceuticals Inc v Conor
+Medsystems [2007] RPC 20, which represents the Court’s
+last word on the extent to which the notion of some step
+being obvious to try is helpful
+in deciding whether an
+invention is obvious. The judge then summed up (at para-
+graph 72) the current state of the law:
+
+The question of obviousness must be considered on the
+facts of each case. The court must consider the weight to
+be attached to any particular factor in the light of all the
+relevant circumstances. These may include such matters as
+the motive to ﬁnd a solution to the problem the patent
+addresses, the number and extent of the possible avenues
+of research, the effort involved in pursuing them and the
+expectation of success.
+
+No criticism has been made of this statement of prin-
+ciple and in my opinion the judge proceeded to apply
+it correctly to the facts of the case. In particular, he
+took into account, ﬁrst, that there were ‘a number of
+avenues of research’ open to the skilled man seeking a
+solution to the problem and that therefore he would
+not have taken the diol route unless satisﬁed there was
+a ‘real prospect’
+the necessary reaction would
+work.
+
+that
+
+7 As has been deemed the case in the UK courts.
+8
+
+See R v Glaxo Group Ltd’s Patent [2004] EWHC 477(Ch).
+
+9
+
+[2008] EWCA Civ 311.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+4
+2
+1
+1
+4
+8
+3
+8
+5
+0
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Paul England . Obvious to try, one year on
+
+ARTICLE
+
+117
+
+So,
+
+the test endorsed in this case was not self-
+evident success but a ‘real prospect’ of success. The
+obviousness hurdle had moved down from Saint
+Gobain, but apparently not by much. Was this a reﬂec-
+tion of the facts in this case, or a more general state-
+ment of principle? The issue was soon addressed again
+by Lord Hoffmann, this time sitting in the House of
+Lords in Angiotech.10
+
+Angiotech
+The patent in suit
+The patent at suit in Angiotech concerned stent tech-
+nology used in the treatment of angiogenesis. Angio-
+genesis is the excessive growth of small blood vessels
+causing arteries to become constricted or ‘stenosed’.
+This condition can result in angina and heart failure.
+This problem can be alleviated to a certain extent by
+stents, small, tubular wire cages that are pushed into
+the blocked artery to hold it open. However, stents
+cannot prevent the further growth of tissue and associ-
+ated blood vessels by angiogenesis into the structure of
+the stent itself, causing further closing of the arteries—
+a problem called restonosis.
+
+To solve this problem, Angiotech’s patent claimed
+the use of a stent covered in an anti-angiogenic factor,
+in particular taxol, one of a number of known drugs at
+the priority date of the patent that could prevent cell
+division and thus angiogenesis. Importantly, the patent
+did not contain any proof that the stent coated with
+taxol would actually work to treat restenosis. Conor
+sought revocation of the patent on the basis that it was
+obvious in the light of prior art that disclosed an
+unspeciﬁc, drug-eluting stent for local delivery of ‘anti-
+replicate’ drugs that might reduce restenosis. At ﬁrst
+instance, Pumfrey J agreed with Conor and revoked the
+patent as obvious. This decision was upheld on appeal.
+Jacob LJ stated that:
+
+to name one ‘other’ anti-replicate which, on the
+Just
+information given in the patent is no more and no less
+likely to be found to work in practice is not to make an
+invention.
+
+Angiotech was given leave to appeal
+to the Lords
+where, due to a settlement in relation to the UK pro-
+ceedings, the Lords invited the Comptroller General to
+stand in place of the respondent and present the argu-
+ments against the validity of the patent. There were
+two key issues on which the Lords focused.
+
+10 Conor Medsystems Incorporated v Angiotech Pharmaceuticals Incorporated
+
+& others [2008] UKHL 49.
+
+invention of
+
+What is the invention?
+Establishing the actual
+the Angiotech
+patent was clearly necessary before considering its
+obviousness. Angiotech argued that inventiveness lay in
+the claim that the taxol-coated stent would have the
+property of treating restenosis. However, the respon-
+dent sought to argue that, since the patent did not
+show that taxol would actually work in reducing reste-
+nosis,
+it was nothing more than an idea that taxol
+might work. Ideas as such, they said, cannot form the
+basis of an invention. Hence, the patent taught no
+more than that taxol was worth trying, and added
+nothing to existing knowledge.
+
+to treat or prevent
+
+The Lords agreed that a patent must not be granted
+for an idea which is mere speculation, unsupported by
+any disclosure in the speciﬁcation. But in their view,
+the speciﬁcation did contain support for a claim to a
+taxol-coated stent
+restenosis.
+Although the speciﬁcation did not provide any evi-
+dence proving that taxol would actually reduce resteno-
+sis, the Lords pointed out that there is no requirement
+in UK patent law for it to do so: obviousness should
+not be subject to a different test according to the
+amount of evidence the patentee presents that his
+patent will work. In the Lords’ view, this argument was
+an illegitimate amalgam of the requirements of inven-
+tiveness and either insufﬁciency or support, or both.
+Instead it was held that the speciﬁcation need only pass
+what Lord Hoffmann referred to as a ‘threshold test’ of
+disclosing enough to make the invention plausible, as
+this patent did. And the inventive step should instead
+be identiﬁed purely by reference to the patent claims.
+A failure to appreciate this had, according to the Lords,
+led the Court of Appeal to assess obviousness incor-
+rectly. In this case, the correct question was therefore
+whether it was obvious to use a taxol-coated stent to
+treat or prevent restenosis as was claimed in the patent,
+not whether it was obvious that taxol (among other
+products) might have the effect of treating restenosis (as
+yet to be proved) and was therefore worth testing to
+ﬁnd out.
+
+Obvious-to-try
+It was because Jacob LJ had failed to appreciate that
+the court should look to the claim and disregard a lack
+of proof that he had not applied his obvious-to-try for-
+mulation from Saint Gobain. Jacob LJ had thought it
+inappropriate to measure obviousness by a test that
+looked to likelihood of success, where success had not
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+4
+2
+1
+1
+4
+8
+3
+8
+5
+0
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+118
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2009, Vol. 4, No. 2
+
+actually been shown. The Lords, however, had freed
+themselves from this restriction. Instead, they could
+now ask themselves what
+the correct approach to
+the obvious-to-try test is in this case, as in any other.
+They stated that
+the
+alternative posed, but not applied, by Pumfrey J at ﬁrst
+instance:
+
+formulation was
+
+the correct
+
+is the patent vulnerable only if it can be shown that the
+skilled person would have an expectation of success sufﬁ-
+cient to induce him to incorporate taxol in a drug-eluting
+stent . . . ?
+
+If Pumfrey J had applied this test, the Lords felt sure he
+would have found the patent
+to be non-obvious.
+However, it seemed that the Lords did not want to
+straitjacket themselves with a single, rigid expression of
+the test. Instead, they swiftly moved on to paraphrase
+the correct approach under the authorities as saying
+that ‘obvious to try was useful only in a case in which
+there was a fair expectation of success’. A ‘fair expec-
+tation’ is not intended to be an abstract measure, as
+how much expectation would be needed would depend
+on the particular facts of the case. In this respect,
+Lord Hoffman endorsed the statement of Kitchin J in
+Lundbeck at ﬁrst instance:11
+
+The question of obviousness must be considered on the
+facts of each case. The court must consider the weight to
+be attached to any particular factor in the light of all the
+relevant circumstances. These may include such matters as
+the motive to ﬁnd a solution to the problem the patent
+addresses, the number and extent of the possible avenues
+of research, the effort involved in pursuing them and the
+expectation of success.
+
+So has the House of Lords merely added a number of
+new formulations to the family of obvious-to-try tests?
+The Lords appear to have been unwilling to set any
+kind of test that should be regarded as a strict formula,
+in keeping with the court’s reluctance to replace the
+statutory test. But, what Lord Hoffmann is saying may
+actually be quite simple: when asking if an invention is
+obvious to try, one should consider if there was an
+‘expectation of success sufﬁcient to induce’ the skilled
+man to do the work. This looks very much like the
+original Johns-Manville’s test, above, except that the
+Lords add that the expectation must be a ‘fair expec-
+tation’, which must be assessed ‘holistically’ on the
+basis of all the circumstances.
+
+Clearly, the requirement to have regard to expec-
+tations of success in this way is a large move away from
+the approach of Pumfrey J where expectations of
+
+11 [2007] RPC 32, para 72.
+
+immediately rise,
+
+success need not matter at all (what Lord Hoffmann
+described as an ‘oxymoronic’ approach). As soon as
+expectations of success are introduced, the obvious-to-
+try hurdle must
+since unlimited
+things might be tried in technology research without
+any expectation that they will work. But what of the
+words ‘fair’ and even ‘real’ from Lundbeck? Is a fair/real
+prospect of success a higher hurdle than a reasonable
+one? Possibly, depending on the synonyms one looks to
+for fair, such as ‘satisfactory’ or ‘considerable’.
+
+In any case,
+
+the move from the prevailing ‘low
+hurdle’ approach to obviousness seen in decisions of
+Pumfrey J and Laddie J seems certain. This is a good
+point at which to look at the judgment of Lord Walker
+in this case.
+
+Lord Walker on Brugger
+Lord Walker’s comments seem to reveal a speciﬁc
+concern that technology is receiving insufﬁcient patent
+protection.
+In supporting Lord Hoffmann’s leading
+judgment, Lord Walker particularly noted academic
+observations made by Sir Hugh Laddie that refer to his
+decision in Brugger, referred to earlier:
+
+what makes something worth trying is the outcome of a
+simple risk to reward calculation . . . the more commer-
+cially attractive the solution . . . the harder it will be to
+avoid an obviousness attack. In those circumstances a sol-
+ution which is quite low down a list of alternatives, all of
+which are more or less worth trying, will fail for obvious-
+ness; a consequence which is consistent with the decision
+in Brugger v Medic-Aid.
+
+Lord Walker then notes Sir Hugh’s observation that the
+rapid advance of
+technology creates a serious and
+growing problem for assessing obviousness, because
+resources for researching potentially ground-breaking
+technology are huge. Thus,
+the most commercially
+attractive research is more likely to be the most
+obvious and less likely to be patentable—a bizarre
+result. In stating this, he implicitly shares Sir Hugh’s
+own criticism of the result in Brugger v Medic-Aid.
+
+In these circumstances,
+
+the Lords have sensibly
+broadened the assessment to consider the likelihood of
+technical success and the practical circumstances such
+as the length of the list of available options (in the
+endorsement of Kitchin J) and to distance somewhat
+the availability of unlimited commercial resources.
+
+It
+
+is also signiﬁcant
+
+in Conor
+Medystems was found non-obvious in circumstances
+where the prior art already disclosed stents coated in
+
+the patent
+
+that
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+4
+2
+1
+1
+4
+8
+3
+8
+5
+0
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Paul England . Obvious to try, one year on
+
+ARTICLE
+
+119
+
+anti-replicants. The Lords explained that the prior art
+nonetheless left one in no better position than knowing
+that
+the solution may lie somewhere in the large
+number of drugs which could be tried. It is difﬁcult to
+imagine a ﬁrst instance court coming to such a view in
+recent times.
+
+Implications for formulation patents,
+and beyond
+The House of Lords has clariﬁed that the court must
+look to the claim of a patent to identify the inventive
+step. Provided the claim passes the ‘threshold test’ of
+plausibility the information disclosed in the patent spe-
+ciﬁcation is not relevant to questions of obviousness,
+but only sufﬁciency. Will patentees now ﬁnd it easier
+to obtain and defend patents on the basis of their
+‘inventiveness’? The approach that something can only
+be obvious to try in the fair expectation of its success
+does appear to be a move away from the more hard
+line approach adopted by Pumfrey J that expectation of
+success is not relevant. Another move forward is the
+Lords’ criticism of the Brugger approach that a poten-
+tially vast number of hypothetical, alternative routes to
+an invention may all be obvious to try if the resources
+are available for them.
+
+The facts of Angiotech also have important impli-
+cations for patentees, and for formulation patents in
+particular. Whilst Angiotech’s patent is not itself one of
+the formulation kind, the parallels are clear: a known
+item (a stent), for a known medical condition (resteno-
+sis), combined with a component taken from a list of
+
+for example,
+known drugs (taxol). Substitute these,
+with a known active ingredient, for a known disease,
+combined with an excipient taken from a list of known
+excipients. While such claims have been difﬁcult to
+defend in the past, the analogy to Angiotech’s stent and
+the need to show a fair (or perhaps, real) a priori
+expectation that such a formulation will work suggests
+this may be an easier proposition in future.
+
+But the decision’s refusal to come to any hard and
+fast test, in favour of a holistic approach, may mean it
+is widely open to interpretation. How it settles into UK
+patent law will only be seen as it is applied by the
+lower courts in the coming months and years. But it is
+submitted here that
+the obviousness
+hurdle has been raised by the Lords and so this is an
+important authority, one that should make a difference
+particularly in the ﬁeld of pharmaceutical patents.
+
+the height of
+
+If there were any doubt that the Lords intend this
+decision to raise the hurdle on obviousness and
+provide greater protection to patents of all kinds then,
+to end, here are the words of Lord Neuberger in his
+short, supporting judgment in Angiotech:
+
+I have had the beneﬁt of reading in draft the opinions of
+my noble and learned friends Lord Hoffmann and Lord
+Walker of Gestingthorpe. I agree with them that
+this
+appeal should be allowed. Although the decision represents
+a signiﬁcant development in United Kingdom patent law,
+and we are differing from the views of highly experienced
+Judges in that ﬁeld, . . . (emphasis added)
+
+doi:10.1093/jiplp/jpn227
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+4
+2
+1
+1
+4
+8
+3
+8
+5
+0
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+

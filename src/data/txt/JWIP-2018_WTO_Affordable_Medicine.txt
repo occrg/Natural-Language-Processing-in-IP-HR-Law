@@ -1,0 +1,1275 @@
+DOI: 10.1111/jwip.12083
+
+ORIGINAL ARTICLE
+
+WTO “Paragraph 6” system for affordable access
+to medicines: Relief or regulatory ritualism?
+
+Muhammad Z. Abbas BA, LLB, LLM, PhD |
+Shamreeza Riaz BA, LLB, LLM, PhD
+
+Queensland University of Technology,
+Brisbane, Australia
+
+Correspondence
+Shamreeza Riaz, Queensland University of
+Technology, George Street, GPO Box 2434,
+Brisbane QLD 4000 CRICOS No. 00213J,
+Australia.
+Email: shamreeza.riaz@hdr.qut.edu.au
+
+Regulatory Ritualism means acceptance of regulatory goals
+while losing focus in achieving them. In other words, it means
+ignoring of goals or objectives of a process or mechanism and
+focusing too much on regulations, rules, and formalities.
+Advanced countries and developing countries have been in a
+continuous negotiation over access to drugs ever since
+coming into effect of TRIPS Agreement. The Doha Declara-
+tion was a rare negotiation win for third world countries. This
+paper endeavors to apply the notion of Regulatory Ritualism
+to Paragraph 6 of the Doha Declaration 2001 and to
+subsequent WTO General Council's Waiver Decision 2003
+which aimed at giving effect to Paragraph 6 flexibility. The
+first part of the paper discusses the historical background of
+the Doha Declaration and 2003 Decision. The second part of
+this paper analyses Paragraph 6 of the Doha Declaration and
+subsequent Waiver Decision in the light of the notion of
+Regulatory Ritualism and Rule Complexity, with a special focus
+on Apotex-Rwanda case study, the case of India and the case
+of Australia. The final part of this paper sums up the
+discussion on the issue and provides suggestions.
+
+K E Y W O R D S
+Apotex-Rwanda, access to drugs, compulsory licensing, Doha
+Declaration, Paragraph 6, patent monopoly, public health,
+regulatory ritualism, rule complexity, TRIPS flexibilities
+
+© 2017 The Authors. The Journal of World Intellectual Property © 2017 John Wiley & Sons Ltd
+
+32 | wileyonlinelibrary.com/journal/jwip
+
+J World Intellect Prop. 2018;21:32–51.
+
+ABBAS AND RIAZ
+
+1 |
+
+INTRODUCTION
+
+| 33
+
+The Trade-Related Aspects of Intellectual Property Rights (TRIPS) Agreement required patent protection for
+inventions in all fields of technology including pharmaceuticals (WTO, 1994). An obvious and direct consequence of
+monopoly on drugs is an increase in prices of needed medicines; patent protection on medicines, therefore, emerged
+as a common issue for third world countries where purchasing power is too low to afford patented medicines (Rozek,
+2000). The access to drugs problem was foreseen and TRIPS included public health safeguards like non-voluntary
+licensing of drug patents but this flexibility was of little significance for least developed countries1 and developing
+countries with no drug manufacturing capacity because of the “domestic use” condition attached to it (WTO, 1994).
+This very issue was highlighted by human rights activists, NGOs, and public health advocates in the wake of the
+outbreak of HIV/AIDS in Africa in the very beginning of the Twenty-first century. The Doha Declaration 2001 (TRIPS,
+2001), and subsequent WTO General Council's Waiver Decision 2003 (WTO, 2003a, 2003b, 2003c) aimed at
+reforming the existing system in order to resolve the issue of access to drugs for poorer countries.
+
+It has been observed that the issue of access to drugs has remained a hot issue even after breakthrough pro-
+access developments like Doha Declaration (WTO, 2001) and 2003 Waiver Decision. The adoption of a resolution on
+“Access to medicines in the context of the right of everyone to the enjoyment of the highest attainable standard of
+physical and mental health” presented by 13 countries (Saez, 2016)2 in the 32nd session of the Human Rights Council
+(13 June 2016–1 July 2016) is a recent development in this regard (Kulkarni, 2016). The resolution notes that actual or
+potential conflicts exist between the implementation of the TRIPS Agreement and access to affordable medicines
+(Mitra-Jha, 2016); the resolution urges member states to make full use of TRIPS flexibilities for affordable access to
+medicines (Human Rights Council, 2016) and specifically recalls the Doha Ministerial Declaration on the TRIPS
+Agreement and Public Health in this context (Kulkarni, 2016). The resolution fully recognizes the implications of
+pharmaceutical patent monopoly for policy coherence in developing countries.
+
+The United Nations Secretary-General's High-Level Panel on Access to Medicines Report released on 14
+September 2016, is another recent development. The Report found that the Paragraph 6 system has failed to provide
+a workable solution for countries lacking drug manufacturing capacity of their own. The Report recommended that
+“WTO Members should revise the paragraph 6 decision in order to find a solution that enables a swift and expedient
+export of pharmaceutical products produced under compulsory license” (UN, 2016). On one hand, World Health
+Organization aims that “by 2030, the deadline for the Sustainable Development Goals, all countries must be able to
+provide full coverage for quality health services to their entire populations” (Kieny, 2016) while on the other hand
+access to drugs remains an “illusive goal” for millions of people (Mitra-Jha, 2016).3
+
+Bilateral and regional free-trade agreements, which set TRIPS-Plus intellectual property standards, have arguably
+constrained the use of legitimate TRIPS flexibilities reaffirmed in the Doha Declaration (Abbas & Riaz, 2013). The
+Trans-Pacific Partnership (TPP)—an ambitious free trade agreement that the United States has negotiated with 11
+other countries (New Zealand, Australia, Canada, Japan, Singapore, Brunei Darussalam, Chile, Malaysia, Mexico, Peru,
+and Vietnam)—is the most recent example of such trade deals requiring enhanced rights and remedies for
+multinational drug companies. Article 18.6.1(b) recognizes the right of member states to utilize the Waiver flexibility
+but it neither makes any commitment for effective implementation of this public health solution nor puts any
+obligation on member states to take necessary steps to use this flexibility for the sake of improving access to essential
+medicines in the poorer countries. This provision stipulates that:
+
+In recognition of the commitment to access to medicines that are supplied in accordance with the Decision
+of the General Council of August 30, 2003 on the Implementation of Paragraph Six of the Doha Declaration
+on the TRIPS Agreement and Public Health (WT/L/540) and the WTO General Council Chairman's
+Statement Accompanying the Decision (JOB(03)/177, WT/GC/M/82), as well as the Decision of the WTO
+General Council of December 6, 2005 on the Amendment of the TRIPS Agreement, (WT/L/641) and the
+WTO General Council Chairperson's Statement Accompanying the Decision (JOB(05)319 and Corr. 1,WT/
+
+34 |
+
+ABBAS AND RIAZ
+
+GC/M/100) (collectively, the “TRIPS/health solution”), this Chapter does not and should not prevent the
+effective utilisation of the TRIPS/health solution (The Trans-Pacific Partnership Agreement, 2015).
+
+Most recently, the intergovernmental South Center organized a discussion on implementation of WTO
+“Paragraph 6” System alongside the WTO Council for TRIPS meeting held on 8 November 2016 (The South Centre,
+2016).4 The panelists, including Yuanqiong Hu, Dean Foster, Denis Broun, and Suerie Moon, generally considered the
+Paragraph 6 system an unworkable solution to provide affordable access to medicines to patients in poorer countries.
+Roger Kampf, Counsellor at the Intellectual Property Division of the WTO, presented several issues for consideration
+such as: how to use the Waiver scheme as a practical procurement tool; how to actively engage ministries of health
+and procurement agencies in the process; and how to make generic drug companies’ participation in the scheme
+economically viable (Nightingale, 2016). Keeping in view the significance of access to a cheap generic version of
+medicines in attaining global public health goals, this paper aims at critically evaluating the practical implications of
+implementing Paragraph 6 of the Doha Declaration and the Waiver flexibility in the light of the notion of Regulatory
+Ritualism.
+
+According to John Braithwaite, Ritualism means, “acceptance of institutionalized means for securing regulatory
+goals while losing focus on achieving the goals or outcomes themselves” (Braithwaite, 2008). Similarly, according to
+Jolyon Ford, “The ‘ritualism’ concept relates to formalistic participation in a regulatory system, engaging in the
+institutional processes created to achieve substantive regulatory goals but taking these verification and reporting
+processes as the point of the exercise, while losing all focus on the goals themselves” (Ford, 2016). The central theme
+of this paper is that the flexibility provided under Paragraph 6 of the Doha Declaration has been over-shadowed by the
+procedural formalities that are unnecessarily complex and burdensome and do not comply with the intended purpose
+of the flexibility.
+
+1.1 | Historical background of the Doha Declaration
+
+In 1995, the World Trade Organization (WTO) linked intellectual property (IP) protection with the trade because
+signing TRIPS is a prerequisite condition to become a member of the WTO. The 20-year patent protection provided to
+innovations in pharmaceutical industry, under Article 27(1) of the TRIPS Agreement, has direct implications for access
+to drugs, especially in poorer countries (WTO, 1994). The patients in urgent need of a patented drug cannot wait for
+20 years to have access to the drug (Jain, 2008).
+
+It was anticipated at the time of drafting the TRIPS Agreement that drug patents may have serious practical
+implications for poorer countries. Public health safeguards like compulsory licensing of drug patents5 and parallel
+importation of patented drugs6 (Kraus, 2004) were therefore included in the TRIPS Agreement (Durojaye, 2008).
+Under Article 30 of the TRIPS Agreement, member states were allowed to “provide limited exceptions to the exclusive
+rights conferred by a patent” (WTO, 1994).
+
+Third world countries soon realized that the flexibilities provided under the TRIPS Agreement were not easy to
+use because of formidable practical implications. For instance, in 1997, in South Africa, the effort of Nelson Mandela's
+government to improve the availability of affordable medicines by making changes in Medicines and Related
+Substances Control Amendment Act7 to allow parallel importation of patented medicines was challenged in the South
+African High Court. Backed by 39 giant
+research-based drug manufacturing companies, Pharmaceutical
+Manufacturers’ Association of South Africa, alleged that the government of South Africa had violated not only
+the TRIPS Agreement but also the South African Constitution by making the amendment that allowed parallel
+importation of medicines (Case No. 4183/98).
+
+This case in South Africa fueled concerns about the ability of the WTO member states to use the legitimate public
+flexibilities provided under the TRIPS Agreement. Against the backdrop of this case, public health groups started a
+campaign for an official confirmation that WTO dispute settlement proceedings would not be initiated against member
+states if they resort to using TRIPS public health safeguards. A number of public health groups and non-governmental
+
+ABBAS AND RIAZ
+
+| 35
+
+organizations like Medecins Sans Frontieres (MSF),8 Oxfam International, the Health Global Access Project (Health
+GAP),9 the Consumer Project on Technology (CPTech),10 and Health Action International (HAI)11 started campaigning
+on this issue in collaboration with national treatment action groups in countries like South Africa, Kenya, Indonesia,
+Malaysia, Brazil, Thailand, India, and others (Hoen, 2016).
+
+In this context, the MSF, Health Action International and Consumer Project on Technology sponsored the
+first meeting on compulsory licensing of AIDS medicines held at the UN in Geneva on 25–27 March, 1999.12
+On 25–26 November, as a part of this campaign, the NGOs organized the “Conference on Increasing Access
+to Essential Drugs in a Globalized Economy: Working Towards Solutions” which took place in Amsterdam, the
+Netherlands.13 This Conference was immediately followed by the Third WTO Ministerial Conference14 which
+began in Seattle, Washington, United States, on 30 November, 1999. Though the issue of public health and
+access to medicines was not on the official agenda of this Ministerial Conference,
+it received attention
+because of the context in which the Conference was held. The Ministerial Conference, however, ended
+without any progress on the issue.15
+
+By the time the Fourth WTO Ministerial Conference was held in Doha, Qatar in November 2001, the access to
+drugs issue had emerged as a global issue because of the devastating effects of the HIV/AIDS crisis in the poorer
+countries and aggressive challenges against pro-access measures of governments in these countries. For instance, in
+June 2001, the United States Trade Representative challenged the Brazilian Industrial Property Law's compulsory
+licensing provisions16 alleging a violation of Article 27(1) of TRIPS and initiated a dispute settlement proceeding at
+WTO (DISPUTE DS199, 2001).
+
+The developed countries and developing countries were at odds on the issue of access to drugs because of their
+conflicting interests. The position of developed countries, led by the United States, became weak because of anthrax
+threat in the United States following a terrorist attack in September 2001. Prompt access to affordable supplies of
+antibiotic Ciprofloxacin was needed and the US government used the threat of compulsory licensing of the patent on
+ciprofloxacin while negotiating with Bayer, the patent owner pharmaceutical company (Carroll & Winslow, 2001). This
+case negatively affected the pro-patent argument of developed countries and members of the Doha meeting reached
+a consensus that obligations under TRIPS should not bar member states from taking measures for the protection of
+public health (Hunter et al., 2009).
+
+The Doha Ministerial Declaration adopted during the Fourth WTO Ministerial Conference aimed at
+dealing with public health issues caused by pharmaceutical patents,17 especially the issue of access to drugs
+for HIV/AIDS’ patients in poor countries (Jain, 2008). The Declaration fully recognized the gravity of the
+public health problems18 (Nightingale, 2016) and affirmed the sovereign right of member states to adopt
+measures, like compulsory licensing of pharmaceutical patents and parallel importation of patented drugs, to
+protect public health (The Doha Ministerial Declaration, 2001). Though the Declaration was not meant to
+substantially amend the TRIPS Agreement (Correa, 2004a, 2004b), it not only affirmed the right of member
+states to avail themselves of the TRIPS public health flexibilities (Reichman, 2009) but also stated that public
+health crisis can represent a national emergency (Barton, 2004). Paragraph 5(c) of the Doha Declaration
+stipulated as follows:
+
+Each member has the right to determine what constitutes a national emergency or other circumstances of
+extreme urgency,
+including those relating to HIV/AIDS,
+tuberculosis, malaria and other epidemics, can represent a national emergency or other circumstances of
+extreme urgency (The Doha Ministerial Declaration, 2001).
+
+it being understood that public health crisis,
+
+The Doha Declaration was a significant success for public health groups and governments of low-income member
+states and the consensus achieved in the Ministerial Conference was hailed as “one of the major political achievements
+of the developing countries” (Correa, 2002). Some commentators called it “a bill of rights for the public health
+regulation of medicines” (Drahos & Henry, 2004).
+
+36 |
+
+ABBAS AND RIAZ
+
+1.2 | Paragraph 6 of the Doha Declaration
+
+The condition of “domestic use” imposed under Article 31(f) of the TRIPS Agreement was a serious concern for
+poorest countries having no drug manufacturing capacity of their own. Regarding the use of the compulsory license,
+Article 31(f) stipulates that: “any such use shall be authorized predominantly for the supply of the domestic market of
+the Member authorizing such use” (WTO, 1994). Though the word “predominantly” has not been defined anywhere in
+the TRIPS Agreement, the mere use of this word shows that it is meant to narrow down the scope of compulsory
+licensing of pharmaceutical patents by confining its use to national borders. This provision, therefore, puts a
+restriction that the generic copies of the drug manufactured by the use of compulsory licensing must be used within
+the territorial limits of the member country that has granted a compulsory license.19 This restriction on export of
+generics had a twofold negative impact: (i) WTO member states with generic manufacturing and exporting capacity,
+like India, would lose their external market and would have lesser economic incentive to produce generic copies of
+drugs even if the production was permissible under the legitimately granted compulsory license; (ii) This restriction on
+exports meant developing and least developed countries lacking reverse engineering capacity could not import the
+generics from countries capable of manufacturing copies of drugs.20
+
+The domestic use condition was a cause of serious concern because a vast majority of countries hit by HIV/AIDS
+lacked sufficient drug manufacturing capacity of their own and relied upon imports from major generic drug
+manufacturing countries like India to cater for the needs of the millions of patients in these countries (Descheemaeker,
+2012–2013). If member states with enhanced technological capability were barred from exporting the generics,
+manufactured by invoking compulsory licensing, to these developing and least developed countries, it clearly meant
+that access to needed medicines would remain a pipe dream for poorest countries, despite TRIPS’ public health
+safeguard, because medicines are patented in all the countries with manufacturing capacity (Durojaye, 2008). This
+particular concern caused by Article 31(f) was highlighted at the Fourth WTO Ministerial Conference in Doha (Janodia
+et al, 2008). The practical issue faced by developing and least developed countries, having no manufacturing capacity,
+because of “domestic use” restriction imposed under Article 31(f) was expressly acknowledged by the Doha
+Declaration under Paragraph 6 of the Declaration. The exact text of Paragraph 6 is as under:
+
+We recognize that WTO Members with insufficient or no manufacturing capacities in the pharmaceutical
+sector could face difficulties in making effective use of compulsory licensing under the TRIPS Agreement. We
+instruct the Council for TRIPS to find an expeditious solution to this problem and to report to the General
+Council before the end of 2002 (The Doha Ministerial Declaration, 2001).
+
+This issue could not be resolved in the Doha meeting and required further negotiations. The issue was
+discussed at the Fifth Ministerial Conference in Cancun held in 2003. A compromise in this regard was reached by
+the WTO General Council on 30 August 2003, to establish a mechanism to permit such export on a case-by-case
+basis (WTO, 2003b). The Decision waived the “domestic use” restriction and is referred to as WTO General
+Council's Waiver Decision 2003.21 This amendment to the TRIPS Agreement was not approved by WTO members
+until 2005 (WTO, 2005a, 2005b). The sixth WTO Ministerial Conference was held in Hong Kong in
+December 2005. The WTO member states endorsed the proposal to transform the Waiver Decision into a
+permanent amendment to the TRIPS Agreement.22 The amendment can be formally adopted only after two-thirds
+of WTO members accept the change. The original deadline set for formal acceptance of the amendment was 1
+December 2007. On 30 November 2015, the General Council extended the deadline, for the fifth time, to 31
+December 2017.23 As of this writing, the two-thirds threshold for formal adoption of the amendment to make the
+health flexibility permanent has been finally attained. Dominica and Benin accepted the amendment on 28
+November and 23 November 2016, respectively. Burkina Faso, Nigeria, Liechtenstein, Vietnam, and the United
+Arab Emirates followed suit and notified ratifications. The amendment entered into force on 23 January 2017
+(WTO, 2017).
+
+ABBAS AND RIAZ
+
+| 37
+
+1.3 | Paragraph 6 of the Doha Declaration and regulatory ritualism
+
+The TRIPS Council took around two years to reach an agreement on a mechanism to give effect to Paragraph 6 of the
+Doha Declaration because the pro-access spirit of Doha could not last for long. During this lengthy negotiation, the
+fundamental disagreement was over whether the solution should be based on Article 30 or Article 31 of the TRIPS
+Agreement. Low-income members of the WTO, the World Health Organization, and public health groups pressed for
+an economically feasible, simple and speedy solution that would have relied upon Article 30 which reads as follows:
+
+Members may provide limited exceptions to the exclusive rights conferred by a patent, provided that such
+exceptions do not unreasonably conflict with a normal exploitation of the patent and do not unreasonably
+prejudice the legitimate interests of the patent owner, taking account of the legitimate interests of third
+parties (WTO, 1994).
+
+A solution based on Article 30 would have automatically allowed export of a drug once a compulsory license was
+issued or need to import was expressed by the importing member state. This solution would have been consistent with
+Paragraph 6 of the Doha Declaration which specifically asked for an “expeditious solution” to address public health
+needs.
+
+The economically advanced countries, on the other hand, supported a solution based on Article 31 which required
+a grant of two compulsory licenses with all their procedural requirements because it did not leave the option of an
+automatic exception (Hoen, 2016). The solution advocated by the industrialized world was lengthy, complex and
+economically risky. These concerns were raised by Medecins Sans Frontieres (MSF) in a briefing note published on 24
+June 2002:
+
+One fundamental disadvantage of an Article 31 solution is that a decision needs to be taken before a
+compulsory licence can be granted and export can take place. The supply of a medicine to a country in need
+could either be held up (for example if negotiations with the patent holder take place in the process of
+application for a compulsory licence) or stopped altogether (an application for a compulsory licence is no
+guarantee that it will be granted and can be refused, sometimes for good reasons, sometimes not). Put
+yourself in the position of someone suffering from a lethal disease and in need of medicines that are
+unaffordable under patent. Your government has acted and issued a compulsory licence for import to your
+country. Would you prefer that the medicines you need could be produced and supplied to your country (a)
+automatically; or (b) after somebody in a different country has eventually come to a decision that, in this
+case, it would be allowed?24
+
+The Perez Motta Text, named after the then Chairman of the TRIPS Council, was drafted in December 2002 as an
+attempt to achieve consensus on the solution to Paragraph 6 problem. Though the Motta draft was far from ideal,25
+most delegations were prepared to accept it keeping in view the looming 2002 deadline (Hoen, 2002). Paragraph 1(a)
+of the Perez Motta Draft defined “pharmaceutical product,” for the purposes of paragraph 6 solution, as “any patented
+product, or product manufactured through a patented process, of the pharmaceutical sector, needed to address the
+public health problems as recognized in paragraph 1 of the Declaration.” The Perez Motta Draft failed due to
+opposition by the United States to the scope of application26 because in this Draft a reference was made to Paragraph
+1 of the Doha Declaration which mentions HIV/AIDS, tuberculosis, malaria, and other epidemics. The Draft was not
+acceptable to the United States because of her demand to restrict the application of the draft only to HIV/AIDS,
+malaria, and tuberculosis (Feichtner, 2012).
+
+Finally, a consensus was reached and, based on the mandate of the Doha Declaration 2001, a decision to waive
+“domestic market” restriction, imposed by Article 31(f) of the TRIPS Agreement, was adopted on 30 August 2003. The
+2003 Decision was followed by the first ever amendment to the TRIPS Agreement on 6 December 2005, just before
+
+38 |
+
+ABBAS AND RIAZ
+
+the 2005 WTO Ministerial Conference in Hong Kong (Gerhardsen, 2005). Although the wording of the amendment is
+different, it contains almost the same elements as the Decision. Five paragraphs of Article 31bis27 are compatible with
+the text of paragraph 2, 3, 6, 9, and 10 of the Waiver Decision (Durojaye, 2008).
+
+The Waiver Decision of August 2003, reached after extensive negotiations, was hailed as a pro-access
+
+compromise. Dr. Supachai Panitchpakdi,28 the then WTO Director-General, is reported to have said:
+
+This is a historic agreement for the WTO. The final piece of the jigsaw has fallen into place, allowing poorer
+countries to make full use of the flexibilities in the WTO's intellectual property rules in order to deal with the
+diseases that ravage their people. It proves once and for all that the organization can handle humanitarian as
+well as trade concerns (WTO News, 2003).
+
+The WTO still considers the Paragraph 6 solution a landmark development. Roberto Azevêdo, the present WTO
+Director-General, is reported to have said on 24 November 2016: “It is a very important agreement because it is an
+authorization for developing countries that do not have the capacity to manufacture pharmaceuticals, to have
+affordable access to them by means of importing from third parties. . . without infringement of intellectual property
+rights” (Kenny, 2016).
+
+This waiver to provide an expeditious solution to a public health emergency, however, is not unconditional. The
+waiver can be used subject to numerous conditions and only to the extent necessary. Only eligible countries, either
+LDCs or developing countries with insufficient or no drug manufacturing capacity, are entitled to use the waiver
+flexibility.29 Given below are the important procedural requirements for availing the flexibility:
+
+1. Prior negotiation for a voluntary license:
+
+The generic company in the exporting country, willing to supply the needed drug to the importing country under
+the Waiver flexibility, is required to negotiate a voluntary license with the patent holder/s before applying to the
+government for a compulsory license30 (MSF Canada, 2006). These negotiations are normally complex, protracted
+and time-consuming. The foreseen burden of prolonged negotiations may have a bearing on the decision of the
+generic manufacturer to participate in the process (MSF Canada, 2006). This requirement of negotiating a
+voluntary license is an unnecessary burden which tends to cause potential delay to timely access to the urgently
+needed drug. In order to achieve the primary objective of the regime, viz. access to needed drugs in a timely
+manner, the process needs to be simplified by deleting this first step of negotiating a voluntary license.
+Unnecessary delay and cost of unnecessary litigation can be avoided if the process starts by directly submitting an
+application for a compulsory license.
+
+2. Notification of intention from the importing country:
+
+A general notification of intent is required from the importing member states (TRIPS Amendment, 2005). The least
+developed countries (LDCs) are exempted from this requirement of notification of intent (TRIPS Amendment,
+2005). The eligible importing country is required to notify the Council for TRIPS of its intention to import the
+needed drug;31 the eligible country must provide requisite information to the Council that is, specific name of the
+needed drug and the estimated quantity of the drug. Moreover, the importing country must specify whether the
+product is protected by a patent. Furthermore, the potential importing country must provide a confirmation to the
+Council that the country has no or insufficient manufacturing capacity of its own32 and wants to issue a non-
+voluntary license under Article 31 of TRIPS (Abbott & Van Puymbroeck, 2005). The determination of
+manufacturing capacity excludes production facilities owned or controlled by the patent holder. The
+manufacturing capacity means the capacity to manufacture the specific drug in question and not the general
+drug manufacturing capacity (Para 2[a][ii], Article 31bis).
+
+3. Compulsory licensing applications in both countries:
+
+The generic manufacturer, willing to supply the generic drug, is required to apply for two compulsory licenses: one
+in the exporting country or home country and one in the importing country if the needed drug is patented in the
+
+ABBAS AND RIAZ
+
+| 39
+
+importing country.33 The mechanism may, however, be used without a request for compulsory license by a generic
+company in the importing country if the importing country decides government use for public non-commercial
+purposes or for national emergency. The compulsory licenses are required to be granted only for a predetermined
+limited duration (Durojaye, 2008). It is important to note here that, within the overall scheme of the TRIPS
+Agreement, the grant of a compulsory license itself entails numerous legal, administrative, and procedural
+complications. Fully aware of the effort, cost, and risk involved in seeking dual compulsory licenses, generic
+manufacturing companies may decide not to participate in the process. Secondly, the condition of the limited
+duration of the license appears to be an unnecessary requirement because the issue of access to the needed drug
+will remain as long as the drug patent is in force. The unnecessary hassle to renew the compulsory license for
+limited durations is an administrative burden which discourages generic manufacturers from participating in the
+Waiver scheme. The objectives of the scheme can better obtain if the term of the compulsory license is defined as
+the time under which the patent is still valid.
+
+4. Notification of authorization from the exporting country:
+
+The member country that has manufacturing capacity and willingness to export the needed drug is also required to
+notify the Council for TRIPS regarding grant of the non-voluntary license; the notification must contain the
+following requisite information to be supplied to the Council:
+a. the name and address of the licensee;
+b. the product(s) for which the license has been granted;
+c. the quantity(ies) for which it has been granted;
+d. the country(ies) to which the product(s) is (are) to be supplied;
+e. the duration of the licence;
+f. the address of the website where the supplier will post the information referred to in paragraph 2(b)(iii) of the
+
+Decision (Durojaye, 2008).
+
+The restriction on the quantity of medicines that can be manufactured for export to an eligible country by using the
+waiver flexibility appears to be unreasonable and inhibitive. It is almost impossible, both practically and
+economically, to have a clear estimate of the quantity of the needed drug especially in the case of epidemics and
+pandemics. The entire process, starting with the voluntary license negotiations between the patent holder and
+generic manufacturers and involving a succession of complex procedural step, needs to be repeated for the
+purchase of more drugs if the need exceeds the forecasted amount. The regime can better deliver if a swift and
+simplified procedure is provided to amend the compulsory license when the additional quantity of the drug is
+needed by the importing country.
+Each individual generic manufacturing company is required to maintain a website to post the requisite information.
+This requirement is onerous for generic drug companies, especially for smaller firms. The unnecessary cost of
+maintaining individual websites can be avoided if the regime is amended to allow a central website within the
+patent office of the exporting country to serve the same purpose.
+
+5. Adoption of anti-diversion measures:
+
+Only the quantity of the product required by the importing member can be manufactured under compulsory
+license and the entire production of the generic manufactured under the compulsory license must be exported to
+the eligible country in need of the generic drug.34 The exporting country is required to post on a website certain
+information, about quantities being supplied, before shipment of the drug manufactured under the decision
+commences.35 There is a further requirement for exporting country to maintain a distinction between the generics
+manufactured for domestic use and the generics manufactured for export under waiver flexibility. The rationale for
+this distinction is to prevent abuse of the waiver flexibility. There is a clear understanding that generics
+manufactured under this scheme should not be treated as “lawful parallel imports” (Abbott & Reichman, 2007). The
+exporting country may manufacture the drug with a distinguishable36 shape, color, size, or distinctive outer
+packaging or bottle caps or even a different trademark name37 of the drug in order to maintain the distinction. The
+drugs to be exported under the 2003 decision are required to be identifiable “through specific labeling or marking”
+
+40 |
+
+ABBAS AND RIAZ
+
+and this requirement could be satisfied by literally stating on the label that the drug had been manufactured under
+the Waiver Decision (Correa, 2002).38
+The additional burden of compliance with the onerous anti-diversion measures, which not only add to the cost of
+production but can also be subject to litigation, may negatively impact the decision of the generic drug
+manufacturers to participate in the process. Generic manufacturers tend to shy away from participating in the
+regime keeping in view the additional costs incurred on these measures and on potential litigation.39 Instead of
+putting the willing member states and generic manufacturers in a never-ending exercise of evaluation and
+monitoring, an appeal mechanism to the compulsory license may be included in the regime as an alternative
+approach to making sure that the scheme is not used for commercial purposes.
+Though the Waiver Decision aimed at addressing the practical implications of “domestic market” condition, it
+seems to have created more hurdles because of Regulatory/Procedural Ritualism and Rule Complexity. The
+developed countries arguably had a “strategy of loading-up the Waiver Decision and Amendment with
+bureaucratic requirements” (Abbott & Reichman, 2007).
+In view of Abbott and Reichman (2007), “the
+complications that emerged in the Waiver Decision and Amendment were the product of a decision to reject
+an administratively simple solution at Doha, and to construct a new, administratively complex regime, as
+envisioned in provisions introduced by the EU and the United States.”
+
+James Love, Director Knowledge Ecology International, is reported to have said about the Waiver scheme that:
+“The new agreement has very modest benefits, and it has very substantial costs, risks, and uncertainties” (Love, 2003).
+Mr. Greg Perry, Director General of the European Generic Medicine Association, expressed a similar view about the
+scheme. He is reported to have said at the WTO Public Forum 2008 that: “The WTO's 2003 August 30 Decision
+concerning compulsory licenses is complicated, unworkable and unable to deliver any significant improvement in
+access to medicines” (European Generic Medicine Association, 2008). In emergency situations like an outbreak of an
+epidemic resulting in hundreds or even thousands of deaths every day, access to the needed life-saving drug may be
+delayed because of the formalities and bureaucratic approach of the Waiver scheme. Let alone the use of this
+expeditious mechanism, most of the developing and least developed countries have not even implemented the
+enabling legislation to avail this waiver because of the complexities involved.
+
+1.4 | The case of Rwanda
+
+As of this writing, the Waiver flexibility—which is based on a drug-by-drug, country-by-country, and case-by-case
+decision-making process- has been used only once ever since the adoption of the Decision in August 2003. In
+December 2004, Medecins Sans Frontieres (MSF) committed itself to test the 2003 solution to the Paragraph 6
+problem and convinced the Canadian drug company Apotex Inc., to manufacture a fixed-dose combination of the
+lamivudine, and zidovudine (later known as TriAvir).40 These drugs were
+three HIV/AIDS drugs nevirapine,
+protected under nine Canadian patents: four owned by Glaxo Group, two owned by the Wellcome Foundation,
+two belonged to Shire Biochem, and one belonged to Boehringer Ingelheim and Dr. Karl Thomae (Hestermeyer,
+2007). Apotex Inc., attempted to negotiate voluntary licenses with the patent holders but the negotiations failed
+because at that stage no importing country was identified as the recipient country (Knowledge Ecology
+International, 2010). Despite MSF's efforts, no developing or least developed country was willing to be named as
+an importing country possibly because of the industry pressure which Thailand and Brazil had to face, in the very
+recent past, after resorting to compulsory licensing of pharmaceutical patents in March 2007 and May 2007,
+respectively (Hestermeyer, 2007).
+
+Finally, in May 2007, Rwanda, a small economy, took a bold step and signaled its willingness to be named as an
+importing country. On 17 July 2007, Rwanda became the first least developed member to notify the WTO TRIPS
+Council of its intention to import the HIV/AIDS drug TriAvir from the Canadian drug manufacturer Apotex Inc.41 As a
+least-developed country, Rwanda was exempted from the requirement to establish its eligibility as an importing
+
+ABBAS AND RIAZ
+
+| 41
+
+member. Apotex Inc., filed a compulsory license in Canada for manufacturing 15.6 million tablets and exporting them
+to Rwanda.
+
+Only a small number of developed countries have made changes in their national laws to give effect to the Waiver
+Decision and Canada is one of these countries. In May 2004, Canada enacted the Jean Chrétien Pledge to Africa Act,
+2005 (JCPA) in order to implement the Decision.42 Under the JCPA, “export only” compulsory licenses can be granted
+to Canadian generic manufacturing companies for supply of generic drugs to countries with no or inadequate drug
+manufacturing capacity (MSF Canada, 2006). The amended law came into force in May 2005. Schedule 1 of the Patent
+Act was also amended in September 2005 to include Apo-TriAvir in the listed drugs. The amendment was made to
+resolve a technical issue. Under the Patent Act, a “pharmaceutical product” is defined as “any product listed in
+Schedule 1” (Jean Chrétien Pledge to Africa Act, 2005). To be eligible for manufacture and export under JCPA, a
+pharmaceutical product must be listed in Schedule 1. In the case at hand, Schedule 1 included all the components of
+Apo-TriAvir but the new composite drug was not listed.
+
+In December 2005, after removal of the technical barrier, Apotex sought approval from Health Canada to
+manufacture the needed drug for export. In June 2006, Health Canada approved the drug (Knowledge Ecology
+International, 2010). At this stage, no recipient importing country was identified yet. In July 2007, Rwanda became the
+first country to notify WTO of its intention to use the Waiver (Knowledge Ecology International, 2010). In July 2007,
+Apotex began negotiations with major patent holders to acquire the voluntary licenses but the negotiations failed and
+Apotex had to apply for a compulsory license in September 2007. On 19 September 2007, under its amended law,
+Canada issued an export only compulsory license to allow Apotex Inc., to manufacture and export the needed
+combination drug Apo-TriAvir to Rwanda for a period of 2 years. On 4 October 2007, Canada notified the TRIPS
+Council of the first authorization under the Waiver Decision (WTO News). In October 2007, a public tender was
+opened by Rwanda for the supply of Apo-TriAvir. The tender process took eight months and in May 2008, Apotex Inc.,
+announced that it had won the Rwanda public tender to supply the drug (Knowledge Ecology International, 2010;
+Nightingale, 2016).
+
+The first shipment of 6,785,000 tablets was delivered to Rwanda in September 2008 followed by the second
+shipment of 7,628,000 in September 2009 (Knowledge Ecology International, 2010). Rwanda's order was finally
+completed after meeting the procedural requirements of a lengthy process including: adopting the system into
+national legislation, negotiating with patent holders for voluntary license, granting of necessary compulsory licenses
+for manufacture and export of the needed drug, making necessary notifications to the WTO, and manufacturing of the
+product as per distinguishing requirements. The delay in the delivery of the medicine showed that the mechanism was
+unnecessarily too complex, time-consuming and burdensome to provide an expeditious solution to the problem of
+access in emergency conditions (Rimmer, 2008). The following statement of Dr. Felipe Garcia de le Vaga, MSF's AIDS
+Doctor, very precisely describes the challenges in implementing the Waiver flexibility:
+
+When we order medicines normally, all we need to do is type up a form, send it to the supplier and pay the bill—
+then we receive the shipment. With this system we have to persuade a government to notify the WTO, find a
+company willing to produce, push to get a drug on the list of eligible medicines, wait for voluntary license
+negotiations to be completed, wait for the compulsory license application to be made, and then granted ... For a
+disease that kills 8,000 people a day, not only is this not a solution, it's unacceptable (MSF Canada, 2006).
+
+This case shows that the procedure to use the flexibility is overly intricate and cumbersome. Given the fact that
+economies of scale are needed to attract interest from producers, the Waiver is arguably unrealistic. The regime is
+arguably not economically viable for generic drug companies because the generic manufacturer has a very limited
+economic incentive to go through with a risky and uncertain procedure because the product is manufactured for just
+one importing country for a very limited time period, making it difficult for the generic manufacturer to recoup the
+investment for producing the generic version of the drug. All prior efforts and investment expire after completion of
+the order under the regime (Mathur, 2008).43
+
+42 |
+
+ABBAS AND RIAZ
+
+Since completion of its order in September 2009, Apotex has not participated in the Waiver scheme again nor has
+any other generic manufacturer done so. Apotex has, in fact, expressly announced that it will not use the Waiver
+scheme again because of complexities and delays involved in using the scheme (Apotex, 2009). In a letter written to
+Health Canada and Industry Canada, John Hems, the then Director, Regulatory Affairs of Apotex, expressed policy
+concerns of Apotex related to the Waiver scheme (Hems, 2007). Hems criticized the onerous administrative burdens
+of the scheme, like the requirement to maintain a website, which could deter smaller manufacturers from participation
+in the scheme (Hems, 2007). Jack Kay, the then President of Apotex, also criticized the Waiver regime as costly and
+complicated. He is reported to have said that Canada must “fix or change the legislation if we want to meet the original
+intent of getting life-saving drugs to developing countries” (Hoen, 2016). Dean Foster, Deputy Director for Global
+Affairs, Government of Canada, recently articulated that “there were a certain amount of growing pains and lessons to
+be learnt through being the first and only test case under the paragraph 6 system,” given the complexity of regulatory
+regime of Paragraph 6 system (Nightingale, 2016).
+
+Senior researchers like Dr. Matthew Rimmer, a Professor of Intellectual Property and Innovation Law at the
+Faculty of Law, at the Queensland University of Technology (QUT), have criticized the Waiver regime because of its
+failure to realize its promise. Dr. Rimmer noted that:
+
+The Hong Kong amendment to the TRIPS agreement is a very controversial amendment. The WTO General
+Council decision is highly problematic. It is highly problematic because only a few countries have actually
+implemented the decision. . . the talk that we heard earlier was a little bit naïve in suggesting that merely
+adopting this protocol will of itself lead to the greater export of pharmaceutical drugs. This experience thus
+far has been that those mechanisms have not been working (Rimmer, 2007).
+
+If a large generic manufacturer like Apotex is not willing to use the regime because of lack of economic incentive
+then no smaller generic manufacturer can be expected to use the Waiver scheme because of costs involved in using
+the scheme. During a hearing of the European Parliament, involving consideration of the Waiver scheme, it was
+concluded that it was unlikely for any drug company in Europe to use the scheme (Hestermeyer, 2007). The Waiver
+scheme has therefore not been acceptable to generic drug companies because it is not economically rational.
+
+1.5 | The case of India
+
+The robust, flexible, and fast-track compulsory licensing regime introduced by India in the Patents (Amendment) Act
+2005, under s 92A, aimed at incorporating the spirit of the Waiver Decision 2003. Section 92A stipulates that:
+
+Compulsory license shall be available for manufacture and export of patented pharmaceutical
+products to any country having insufficient or no manufacturing capacity in the pharmaceutical sector
+for the concerned product to address public health problems, provided compulsory license has been
+granted by such country or such country has, by notification or otherwise, allowed importation of the
+patented pharmaceutical products from India. The Controller shall, on receipt of an application in a
+prescribed manner, grant a compulsory license solely for manufacture and export of the concerned
+pharmaceutical product to such country under such terms and conditions as may be specified and
+published by him.44
+
+It can be noted that a less restrictive language has been used and procedural requirements have been kept simple in
+order to incorporate the spirit of the Waiver Decision 2003. The provision merely puts the condition of a notification and
+does not require the issuance of two back-to-back compulsory licenses in importing and exporting countries. Moreover,
+this provision ignores another procedural requirement of the Waiver scheme by not specifying a number of drugs to be
+manufactured under the scheme. Furthermore, this provision does not provide for anti-diversion measures like separate
+
+ABBAS AND RIAZ
+
+| 43
+
+packaging, shape, or coloring. The provision is also silent about the payment of royalty to the patent owner and does not
+refer to any formula for calculation of royalty (Rehman, 2011).
+
+Indian compulsory licensing regime is subjected to serious criticism by multinational drug companies. In its 2008
+submission to United States Trade Representative (USTR), the Pharmaceutical Research and Manufacturers of America
+(PhRMA) criticized the Indian compulsory licensing provisions as the most damaging provisions (Pharmaceutical Research
+and Manufacturers of America, 2008). It is argued that India has provided an ambiguous compulsory licensing regime which
+is considered as the broadest in its scope as compared to other jurisdictions (Mueller, 2007). It is important to note that
+despite its gaps and flexibilities, the Indian regime is not considered as an economically lucrative option by the majority of
+Indian pharmaceutical companies. A study conducted by the World Health Organization (WHO) showed that only 25 firms
+out of 103 firms considered the Indian regime economically lucrative. Only 6 out of these 25 firms are capable enough to
+meet demands of the export market (Sampath, 2005). The regime cannot be successful unless the commercial expectations
+of the firms are met and they are inclined to engage in the Waiver scheme. This has not been possible so far. Denis Broun,
+Head of Government Affairs, Cipla Ltd. recently articulated that Paragraph 6 system is a cumbersome and ineffective
+process and that Cipla, a leading generic manufacturer in India, will not use the regime in its current form (Nightingale, 2016).
+The regime is, therefore, unlikely to achieve the objectives of the Doha Declaration 2001.
+
+1.6 | The case of Australia
+
+The enactment of domestic enabling legislation in Australia, to give effect to the Waiver Decision, provides the most
+recent example of snail-speed adoption of regulations on the subject even in advanced countries like Australia. In
+August 2002, the Doha Declaration was endorsed by Mark Vaile, then Trade Minister, who was reported to have said:
+
+. . . this is a historic agreement. It is a further demonstration that the WTO is able to respond to the public-
+health problems faced by developing countries and to make its contribution to broader domestic and global
+action to address this crucial social issue. . . all WTO member countries had a moral obligation to resolve this
+issue. The problems more pooer countries face in dealing with ravaging diseases such as HIV/AIDS, malaria
+and tuberculosis are immense. After many months of work, all WTO members have agreed on an outcome
+that will allow these countries better access to affordable medicines. This decision is one endorsed by all
+WTO members. Now we must move past old battle lines and all work to ensure the solution makes its
+contribution to dealing with the public health problems poorer countries face (Vaile, 2002).
+
+Unfortunately, this concern for poorer countries could not last for long. Soon after the Doha Declaration,
+Australia arguably supported the US in its effort to produce an unworkable, cumbersome, costly and complex solution
+during the course of the Paragraph 6 negotiations (Drahos, 2007). Dr. Rimmer notes that “the Australian Government
+has been unaccountably slow to respond to the urgent and pressing public policy issues in respect of patent law and
+access to essential medicines” (Rimmer, 2015).
+
+Australia showed little enthusiasm in establishing a patent regime to facilitate the export of essential medicines to
+poorer countries under the Waiver Decision. On September 12, 2007, Australia accepted the terms of the TRIPS
+Protocol; supporting legislation was needed to give effect to the Waiver Decision; the Parliamentary Joint Standing
+Committee on Treaties alleged its support to implement appropriate legislation in this regard (Vines, Crow, & Faunce,
+2012). The Committee recognized that “Providing better access to medicines to the world's poorest people is a worthy
+subject for an international treaty” (Rimmer, 2015). The Committee further observed that it “supports acceptance of the
+Protocol, followed by any necessary amendments to the Patents Act 1990 (Cth) to allow for compulsory licensing to
+enable export of cheaper versions of patented medicines needed to address public health problems” (Rimmer, 2015).
+The legislation process was to be coordinated by IP Australia.45 IP Australia released its consultation paper,
+Implementing the TRIPS Protocol, in April 2010, nearly 3 years after the Joint Standing Committee on Treaties report.
+Dr. Craig Emerson, then Minister for Trade, and Senator Kim Carr, then Minister for Innovation, Industry, Science, and
+
+44 |
+
+ABBAS AND RIAZ
+
+Research, announced jointly in March 2011 that by the end of 2011 the Labor Government intended to make changes
+in the law in order to give effect to the Waiver Decision (Carr, 2011). No substantial progress could be made with
+regards to the proposed legislation during the remainder of 2011. The preparation of the draft Bill has delayed
+arguably because of domestic patented drug industry's lobbying as the announcement to give effect to the Waiver
+Decision had surprised the originator pharmaceutical companies (Summerfield, 2011).
+
+The Intellectual Property Laws Amendment Bill 2013 was drafted, in a decade after the adoption of the Waiver Decision
+2003, and introduced in the House of Representative on 30 May 2013. The Bill was passed by the House of Representative
+without amendment and it was introduced in the Senate without delay but the Prime Minister of Australia called a general
+election on 4 August 2013, and the Bill lapsed (IP Australia, 2015). The new elected government expressed concerns about the
+provisions implementing the TRIPS Protocol. Before reintroducing the legislation in the parliament, IP Australia was advised to
+initiate a consultation process. In January 2014, IP Australia invited comments on an exposure draft of a revised proposed bill
+(IP Australia, 2015). On 19 March 2014, the Intellectual Property Laws Amendment Bill 2014 was introduced in the House of
+Representatives. The Bill was passed by the House of Representatives, without amendment, on 24 November 2014, and then
+by the Senate on 9 February 2015. The Intellectual Property Laws Amendment Act 2015 received Royal Assent in
+February 2015 and came into effect on 25 August 2015 (IP Australia, 2015).
+
+Under s 136B of the Act, the Federal Court46 has been authorized to grant a compulsory license to “exploit a
+patented pharmaceutical invention for manufacture and export to an eligible importing country” (IPLA Act, 2015)47
+provided that “the proposed use of the pharmaceutical product is to address a public health issue in the eligible
+importing country (a) in a national emergency (or other extremely urgent circumstances); or (b) by the public non-
+commercial use of the product” (IPLA Act, 2015). Moreover, “The patentee must be paid an agreed amount of
+remuneration, or an amount of remuneration determined by the court” (IPLA Act, 2015).
+
+Section 136D(3) requires that the Court must be furnished with:
+
+a copy of statement made by or on behalf of, and with the authorization of, the eligible importing country to
+the effect that it will take reasonable measures within its means, proportionate to its administrative
+capacities and to the risk of trade diversion, to prevent re-exportation from its territory of a pharmaceutical
+product imported into its territory in accordance with a PPI compulsory license (IPLA Act, 2015).
+
+Commentators have criticized this provision as arbitrary and abstract because the Federal Court arguably lacks
+expertise, enthusiasm, and evidence to determine an importing country's administrative and financial capabilities. If a
+statement is made by way of affidavit, how will the Court attest the facts given in the statement in the absence of a
+procedure to interrogate or cross-examine the statement-maker (Vines et al., 2012).
+
+Section 136D(4) of the Act further requires that the Court must be furnished with a statement made by the
+importer “to the effect that it will take reasonable measures within its means to prevent the pharmaceutical product
+from being used other than in accordance with a PPI compulsory license (IPLA Act, 2015). Furthermore, s 136E of the
+Act requires that the Federal Court needs to be satisfied that the application for compulsory licensing has been “made
+in good faith”; the pharmaceutical product is to be imported by the eligible importing country or on behalf of, and with
+authorization of, the eligible importing country; and the purpose of import is to address a public health problem in the
+eligible importing country (IPLA Act, 2015).
+
+These provisions undermine the intent of the Waiver scheme because if the Court, in the absence of evidence, needs to
+satisfy itself, for instance, by calling representatives of foreign governments or expert witnesses, it would not only delay the
+application process but also add to complexity and cost of the application. Section 136E(1)(e) further requires that the
+applicant must attempt to negotiate a voluntary license with the patentee on reasonable terms and conditions (IPLA Act,
+2015). Furthermore, s 136E stipulates several stringent minimum conditions which include the following:
+
+1. no more than the quantity of the pharmaceutical product that is determined by the Federal Court to be necessary
+
+to meet the needs of the eligible importing country is manufactured;
+
+ABBAS AND RIAZ
+
+| 45
+
+2. the entirety of the pharmaceutical product manufactured for that purpose is exported to that country;
+3. the pharmaceutical product is labeled and marked in accordance with the regulations;
+4. before shipment of the pharmaceutical product begins, the shipment information prescribed by the regulations is
+made available on a website by, or on behalf of, the licensee for a minimum period prescribed by the regulations;
+5. the duration of the license is only for the period of time determined by the Federal Court to be necessary to address
+
+the public health problem concerned;
+
+6. the license does not give the licensee, or a person authorized by the licensee, the exclusive right to work the
+
+patented pharmaceutical invention;
+
+7. the license is to be assignable only in connection with an enterprise or goodwill in connection with which the
+
+license is used;
+
+8. the licensee must give the Commissioner the information prescribed by the regulations in relation to the license in
+
+accordance with the regulations (IPLA Act, 2015).
+
+Section 136F of the Act, therefore, requires the Federal Court to delve even deeper into complex technicalities of
+the field of public health in order to forecast the quantity of the needed drugs and to determine the duration of the
+compulsory license (Vines et al., 2012). It can be noticed that the Australian regime, which was finally adopted after
+inordinate delays, involves issues of regulatory ritualism and leaves ample room for pharmaceutical patent owners to
+exploit complicated procedural requirements to delay and frustrate the issuance of compulsory licensing.
+
+2 | CONCLUSION
+
+Regulatory Ritualism means acceptance of regulatory goals while losing focus in achieving them. In other words, it
+means an excessive focus on formalities, rules and regulations to the point of undermining an organization's goals. If
+notion of Regulatory or Procedural Ritualism is applied to WTO General Council's Waiver Decision 2003, which came to
+give effect to Paragraph 6 of the Doha Declaration 2001, it can be noted that the intent or rationale of the Waiver
+flexibility got eclipsed by the regulations, procedural details and formalities involved in using the flexibility. The
+ritualist regulations have posed serious problems for effectiveness and implementation of the flexibility. The Waiver
+flexibility was hailed as a rare negotiation win for third world countries and it envisioned a worth pursuing regime
+keeping in view the human rights implications of the access to drugs issue. But, unfortunately, the Waiver Decision
+could not make the desired or substantial practical impact because of ritualistic regulations.
+
+The rationale behind providing the Paragraph 6 flexibility was to provide an expeditious solution to the problem of
+affordable availability of medicines especially in emergency situations but the procedure to use this flexibility is tedious
+and unnecessarily burdensome. Use of this flexibility involves so many formalities which place an unnecessary
+administrative burden on both the importing and the exporting country. Moreover, use of this flexibility requires specific
+changes to national patent laws. In fact, the attainment of objectives of this flexibility depends on willingness of member
+states to enact enabling domestic legislation. Most of the developing and least developed countries have failed to
+incorporate this complex waiver flexibility in their national patent laws. The fact that this mechanism has remained
+almost unused shows that it did not provide a workable solution to the problem. To make the waiver solution workable or
+economically viable as a practical procurement tool, it should be reviewed, deregulated and reformed substantially to
+make it fast, simple, and efficient mechanism after cutting down unnecessary bureaucratic hurdles and absurd conditions
+of ritualist compliance that go against the rationale and objectives of this mechanism and cause unnecessary delay.
+
+3 | ABOUT THE AUTHORS
+
+Muhammad Zaheer Abbas is a Lecturer in Law at the Department of Law, Faculty of Shariah and Law, International
+Islamic University, Islamabad, Pakistan. Currently, he is a PhD candidate and Research Assistant at Queensland
+
+46 |
+
+ABBAS AND RIAZ
+
+University of Technology (QUT), Brisbane, Australia. His main experience is in intellectual property law and has
+published eight papers in peer-reviewed national and international
+journals. His research is mainly related to
+intellectual property law issues, especially pharmaceutical patents and access to drugs. His recent research includes:
+
+1. “Pros and Cons of Compulsory Licensing: An Analysis of Arguments,” International Journal of Social Science and
+
+Humanity, 2013.
+
+2. “TRIPS Flexibilities: Implementation Gaps between Theory and Practice,” Nordic Journal of Commercial Law, 2013.
+3. “Evolution of the Concept of Compulsory Licensing: An Analysis of Key Developments before and after TRIPS,”
+
+Academic Research International, 2013.
+
+4. “Rationale of Compulsory Licensing of Pharmaceutical Patents in the Light of Human Rights Perspective,” Pakistan
+
+Perspectives, 2014.
+
+5. “Sports Anti-Siphoning Laws and the Controversy of Sports Broadcasting: A Case Study of Pakistan,” Journal of
+
+Intellectual Property Law and Practice, 2015.
+
+Mr. Muhammad is currently working on “Pharmaceutical Patent Opposition as an Access to Drugs Strategy.” He is
+
+also a focal person from his university for Intellectual Property Organization (IPO) Pakistan.
+
+Shamreeza Riaz is a Lecturer in Law at the Department of Law, Faculty of Shariah& Law, International Islamic
+University, Islamabad, Pakistan. Currently, she is also a PhD candidate and Research Assistant at Queensland
+University of Technology (QUT), Brisbane, Australia. Her main interest is in human rights law and she has explored
+many human rights aspects of Intellectual property, especially pharmaceutical patents, and access to drugs. She has
+written 15 research articles for national and international journals and is co-authored for above mentioned articles
+with Muhammad.
+
+ACKNOWLEDGMENTS
+
+Authors acknowledge Dr. Matthew Rimmer, Professor of Intellectual Property and Innovation Law at the Faculty of
+Law, at the Queensland University of Technology (QUT) for his valuable comments and suggestions on earlier draft.
+The authors also acknowledge the editor and reviewers of this journal for their valuable comments.
+
+ENDNOTES
+
+1 The list of LDC members of the World Trade Organization is available online at https://www.wto.org/english/thewto_e/
+
+minist_e/mc9_e/brief_ldc_e.htm (Last accessed 20 July 2016).
+
+2 The resolution was presented by Turkey, Thailand, Brazil, South Africa, Sri Lanka, Senegal, Peru, Paraguay, Indonesia, India,
+Haiti, Egypt, and China. This block of 13 developing countries is referred to as the “Core Group” which is chaired by Brazil.
+The Core Group has requested the Human Rights Council to convene a panel on access to medicines at its 34th session in
+March 2017 taking into account the recommendations of the United Nations High-Level Panel on Access to Medicines.
+3 It is estimated that every year 150 million people are pushed into impoverishment because of increase in health-care cost.
+4 The event was organized by the South Centre in collaboration with Brazil, India, South Africa, China, and MSF to discuss
+
+solutions toward Paragraph 6 of the Doha Declaration.
+
+5 Though the term “compulsory licensing” has not been used in the TRIPS Agreement, a set of conditions has been stipulated
+
+under Article 31 for grant of a non-voluntary license or “other use without authorization of the right holder.”
+
+6 Parallel imports are cross-border trades in a non-counterfeit patented product without the permission of the intellectual
+property owner. Parallel imports can be used as an effective mean of procuring cheaper drugs when there are significant
+price differences for the same patented drug in different markets. According to a study on international reference pricing
+conducted in 1998, the price of Smithkline Beechman's version of Armoxil varied significantly in different markets. It was
+$50 in Germany, $40 in Indonesia, $36 in Malaysia, $29 in the Philippines, $22 in New Zealand, $16 in Italy, $14 in Canada,
+and $8 in Pakistan. The permissibility of parallel imports is governed under the legal doctrine of “exhaustion of rights” or “first
+
+ABBAS AND RIAZ
+
+| 47
+
+sale doctrine.” Under this doctrine, the patent holder exhausts their right to control subsequent sale after first sale by the
+patent owner or their licensee. See (Kraus, 2004)
+
+7 The Medicines and Related Substances Control Amendment Act (1997) No. 90. It amended the Medicines and Related
+
+Substances Control Act, No. 101 of 1965.
+
+8 The MSF is an independent medical humanitarian international organization that provides aid to those affected by exclusion
+from healthcare, natural disasters, epidemics and armed conflict. See https://www.msf.org/ (last accessed 20 July 2016).
+9 The Health GAP is an organization of human rights and public health activists who campaign against policies of neglect and
+work for eliminating barriers to global access to affordable medicines. See https://www.healthgap.org/ (last accessed 20
+July 2016).
+
+10 The Consumer Project Technology (CPTech) is currently known as Knowledge Ecology International, 2016 (KEI). KEI is a
+non-governmental organization which deals mainly with issues related to effects of IP rights on public health and
+competition policy. See https://www.keionline.org/ (last accessed 20 July 2016).
+
+11 The Health Action International (HAI) is a non-governmental organization dedicated to strengthening medicines policy to
+
+improve public health. See https://haiweb.org/ (last accessed 20 July 2016).
+
+12 More than 120 delegates from 30 countries met at the Palais des Nations in Geneva to discuss non-voluntary licensing of
+pharmaceutical patents as a potential strategy to deal with the issue of affordable access to essential drugs in the low
+income countries. Summary of the meeting is available online at https://www.msfaccess.org/content/aids-and-essential-
+medicines-and-compulsory-licensing (last accessed 20 July 2016).
+
+13 “Amsterdam Statement on Access to Medicines” was developed at the Amsterdam Conference and can be accessed at
+
+https://apps.who.int/medicinedocs/en/d/Jh1461e/1.4.html (last accessed 20 July 2016).
+
+14 The Ministerial Conference is the highest decision-making body of the WTO and it can make decisions on all matters under
+
+any of the WTO agreements, including the TRIPS Agreement.
+
+15 Summaries of the meetings held during the Seattle Ministerial Conference are available online at https://www.wto.org/
+
+english/thewto_e/minist_e/min99_e/min99_e.htm (last accessed 20 July 2016).
+
+16 Brazilian Industrial Property Law, 1996, Article 68(1).
+17 Though only HIV/AIDS, tuberculosis, and malaria have been mentioned in Paragraph 1 of the Doha Declaration, it is argued
+that this provision needs to be interpreted broadly and generously so that other important diseases may be covered under
+scope of this provision.
+
+18 Roger Kampf, Counsellor, Intellectual Property Division, WTO, commented during an event organized by the South Center
+on November 8 that “Doha Declaration was the first-time trade, not health ministers, recognized the gravity of public
+health issues and placed TRIPS into the wider national and international contexts.”
+
+19 The condition of “domestic market” does not apply when the non-voluntary license is granted to remedy an anticompetitive
+
+practice. See TRIPS Agreement, Article 31(k).
+
+20 The manufacturing capacity here means the capacity to manufacture a specific product, and not the general capacity to
+
+manufacture pharmaceutical products.
+
+21 The Decision was made on the basis of a draft decision in document IP/C/W/405 that the TRIPS Council had agreed to
+
+forward to the General Council.
+
+22 The amendment is known as the TRIPS Protocol. It is also known as the Hong Kong Amendment.
+23 See “Members accepting amendment of the TRIPS Agreement” available online at https://www.wto.org/english/tratop_e/
+
+trips_e/amendment_e.htm (last accessed 30 September 2016).
+
+24 “Why Article 30 will work. Why Article 31 will not” available online at http://www.msfaccess.org/content/why-article-30-
+
+will-work-why-article-31-will-not (last accessed 21 July 2016).
+
+25 The Pérez Motta Text was criticized by the public health groups and NGOs because it created cumbersome procedures to
+determine member states’ eligibility to avail the flexibility. Moreover, the Text introduced cumbersome measures to
+prevent diversion of generic drugs, manufactured under the system, to markets in rich countries. The NGOs called upon the
+delegates to reject the Motta Text. See https://www.msfaccess.org/content/letter-cptech-oxfam-msf-and-hai-wto-
+delegates-regarding-december-16-2002-chairmans-text.
+
+26 The USA, the EU, Japan, and some other industrialized countries have a stance that diseases such as asthma, heart disease,
+and cancer do not constitute public health problems in the developing and least developed countries. See Letter from
+CPTech, Oxfam, MSF, and HAI to WTO delegates regarding 16 December 2002 Chairman's Text for “solution“ to
+Paragraph 6 of the Doha Declaration on TRIPS and Public Health https://www.msfaccess.org/content/letter-cptech-
+oxfam-msf-and-hai-wto-delegates-regarding-december-16-2002-chairmans-text (last accessed 21 July 2016).
+
+48 |
+
+ABBAS AND RIAZ
+
+27 Full text of Article 31bis is available online at http://www.wto.org/english/tratop_e/trips_e/wtl641_e.htm, (last accessed
+
+21 July 2016).
+
+28 Dr Supachai Panitchpakdi was fully aware of the public health implications of the TRIPS Agreement as he had previously
+served on the WHO Commission on Macroeconomics and Health and he had opened the first meeting of the WHO
+Network for Monitoring the Impact of Globalization and TRIPS on Access to Medicines. See https://www.who.int/
+mediacentre/trips/en/ (Last accessed 2 July 2016).
+
+29 List of least developed countries is available online at doi: https://www.wto.org/english/thewto_e/whatis_e/tif_e/org7_e.
+
+htm, (Last accessed date 3 March 2016).
+
+30 In the case of national emergency or other urgent circumstances or in case of public non-commercial use, the requirement
+
+of prior negotiation may be waived.
+
+31 Notifications under paragraph 2(a)(ii) of the Decision, https://www.wto.org/english/news_e/news03_e/trips_stat_
+
+28aug03_e.htm (Last accessed 2 July 2016).
+
+32 Least developed countries (LDCs) are eligible to use the Waiver mechanism automatically. Under Paragraph 2(a)(ii) of WTO
+General Council Decision of 6 December 2005 Amendment of the TRIPS Agreement, developing countries may be eligible
+to use the Waive procedure by making a determination of insufficient or no manufacturing capacity. The determination of
+lack of manufacturing capacity excludes the production facilities owned or controlled by the patent owners. This provision
+stipulates that: “Where the Member has some manufacturing capacity in this sector, it has examined this capacity and
+found that, excluding any capacity owned or controlled by the patent owner, it is currently insufficient for the purposes of
+meeting its needs. When it is established that such capacity has become sufficient to meet the Member's needs, the system
+shall no longer apply.” See the Protocol Amending the TRIPS Agreement (WT/L/641), 8 December 2005.
+
+33 Least developed countries (LDCs) are entitled to use the Waiver mechanism without issuing domestic compulsory licenses.
+Similarly, member states where the drug is not patented are also entitled to use the Waiver scheme without granting
+compulsory license. There is a mandatory requirement of granting domestic compulsory license in all other cases. See
+Paragraph 2(a)(iii) of WTO General Council Decision of 6 December 2005 Amendment of the TRIPS Agreement.
+
+34 Under the proposed Article 3,1bis, the member states are obliged to enable patent owners to protect themselves against
+unauthorized re-exportation of drugs produced under the Waiver scheme. It is important to note here that, under the
+proposed Article 31bis, a relaxation has been designed with regard to re-exportation to a member country of a regional
+trade agreement of which at least half of the members are least developed countries. The re-exportaion is allowed if the
+product is manufactured and exported to one member country under the compulsory license. The importing countries are,
+however, not exempted from the requirement of issuing separate compulsory licenses. See Paragraphs 3 and 4 of WTO
+General Council Decision of 6 December 2005 Amendment of the TRIPS Agreement.
+
+35 The supplier may use its own website or the page on the WTO website dedicated to the Decision. This document was
+
+produced by the Drug Action Programme of the Department of Essential Drugs and Medicines Policy.
+
+36 The Decision, however, does not clarify who should be able to distinguish the drugs manufactured under the Decision; be it
+
+medical doctors, retailers and distributors, customs authorities, or general public.
+
+37 “The General Council Chairperson's Statement on the August 30 Decision,” See WT/GC/M/82 (dated 13 November 2003)
+
+at https://www.wto.org/english/tratop_e/trips_e/gc_stat_30aug03_e.htm (last accessed 22 July 2016).
+
+38 For instance, by indicating in the label “Product made for country X under the WTO General Council Decision of 30
+
+August 2003 (WT/L/540).”
+
+39 A 2006 report of Médecins Sans Frontières (MSF) notes that “Anti-diversion measures that generic companies must comply
+
+with are onerous and are further disincentive to their participation in the process.” See MSF Canada, 2006.
+
+40 Apotex is the largest manufacturer of generic drugs in Canada and every year it exports generic drugs worth more than
+Canadian $2 billion to over 115 countries. See https://www.apotex.com/global/about/default.asp (last accessed 20
+September 2016).
+
+41 The government of Rwanda stated that: “based on Rwanda's present evaluation of its public health needs, we expect to
+import during the next two years 260,000 packs of TriAvir, a fixed-dose combination product of Zidovudine, Lamivudine,
+and Nevirapine manufactured in Canada by Apotex, Inc. However, because it is not possible to predict with certainty the
+extent of the country's public health needs, we reserve the right to modify the foregoing estimate as necessary or
+appropriate.” See IP/N/9/RWA/1 at https://docs.wto.org/dol2fe/Pages/FE_Search/FE_S_S006.aspx?&Language =
+ENGLISH&SourcePage = FE_B_009&Context = Script&DataSource = Cat&query = @Symbol = IP/N/8/* + or + IP/N/9/
+* + or + IP/N10/*&DisplayContext = popup&languageUIChanged = true (last accessed 21 July 2016).
+
+ABBAS AND RIAZ
+
+| 49
+
+42 The JCPA, named after a Canadian politician and statesman Jean Chrétien who served as the Twienth Prime Minister of
+Canada from 4 November 1993 to 12 December 2003, is commonly referred to as the Canadian Access to Medicines
+Regime (CAMR).
+
+43 The condition of predetermined limited production for a limited time period also has a bearing on price of the generic drug
+manufactured using the Waiver scheme because setting up of dedicated manufacturing facility involves substantial costs.
+
+44 The Patents Act (1970), s 92A(1) and (2).
+45 IP Australia is the government agency responsible for the administration of Australia's patent legislation. See Madden
+
+(2007).
+
+46 In Canada, rather than a court or judicial officer, the Commissioner of Patents is authorized to grant the compulsory license
+
+required to export the needed drugs under the Waiver regime.
+
+47 Intellectual Property Laws Amendment Act 2015, s 136B.
+
+ORCID
+
+Shamreeza Riaz
+
+http://orcid.org/0000-0002-6418-0448
+
+REFERENCES
+
+Abbas, M. Z., & Riaz, S. (2013). Trips flexibilities: Implementation gaps between theory and practice. Nordic Journal of
+
+Commercial Law. Available online at: https://ssrn.com/abstract=2367901
+
+Abbott, F. M., & Reichman, J. H. (2007). The Doha Round's public health legacy: Strategies for the production and diffusion of
+
+patented medicines under the amended TRIPS provisions. Journal of International Economic Law, 10(4), 921–987.
+
+Abbott, F. M., & Van Puymbroeck, R. V. (2005). Compulsory licensing for public health: A guide and model documents for
+
+implementation of the doha declaration paragraph 6 decision. Washington, DC: World Bank.
+
+Amendment of the TRIPS Agreement (TRIPS Amendment). (2005). World Trade Organization, WT/L/641 8 DECEMBER
+
+2005, https://www.wto.org/english/tratop_e/trips_e/wtl641_e.htm
+
+Apotex. (2009). CAMR Federal Law needs to be fixed if life-saving drugs for children are to be developed. Press release.
+Barton, J. H. (2004). TRIPS and the global pharmaceutical market. Health Affairs, 23(3), 146–154.
+Braithwaite, J. (2008). Regulatory capitalism: How it works, ideas for making it work better. Northampton, MA: Edward Elgar
+
+Publishing.
+
+Carr, S. K. (2011). Better access to medicines for countries in need. Media Release, https://www.highbeam.com/doc/1G1-
+
+252103396.html (last accessed 5 November 2016).
+
+Carroll, J., & Winslow, R. (2001). Bayer agrees to slash price for cipro drug. Wall Street Journal, A3. Case No. 4183/98.
+Correa, C. M. (2002). Implications of the Doha Declaration on the TRIPS Agreement and public health (pp. 3–37). Geneva: World
+
+Health Organization, Essential Drugs and Medicine Policy.
+
+Correa, C. M. (2004a). Implementation of the WTO general council decision on paragraph 6 of the doha declaration on the
+
+TRIPS agreement and public health. World Health Organization.
+
+Correa, C. M. (2004b). Supplying pharmaceuticals to countries without manufacturing capacity: Examining the solution agreed
+upon by the WTO on 30th august, 2003. Journal of Generic Medicines, 1(2), 105–119. https://doi.org/0.1057/palgrave.
+jgm.4940002
+
+Descheemaeker, S. (2012). India, pharmacy of the developing world IP, trade and the access to medicine. Jura Falconis Jg,
+
+49(3), 563.
+
+Drahos, P. (2007). Universal access to treatment for HIV/AIDS: Does Australia's policy on trade and intellectual property help?
+
+HIV Matters, 2, 5–7.
+
+Drahos, P., & Henry, D. (2004). The free trade agreement between Australia and the United States: Undermines australian
+
+public health and protects US interests in pharmaceuticals. BMJ: British Medical Journal, 328(7451), 1271–1272.
+
+Durojaye, E. (2008). Compulsory licensing and access to medicines in post Doha era: What hope for Africa? Netherlands
+
+International Law Review, 55(1), 33–71. https://doi.org/10.1017/S0165070×08000338
+
+European Generic Medicine Association. (2008). WTO compulsory licenses system is unworkable and will not improve access
+
+to medicines. (Press release 25 September 2008).
+
+Feichtner, I. (2012). The law and politics of WTO waivers: Stability and flexibility in public international
+
+law. Cambridge:
+
+Cambridge University Press.
+
+Ford, J. (2016). The risk of regulatory ritualism: Proposals for a treaty on business and human rights. Oxford: University of Oxford.
+
+50 |
+
+ABBAS AND RIAZ
+
+Gerhardsen, T. I. S. (2005). WTO strikes agreement on TRIPS and public health on eve of ministerial. Intellectual Property
+Watch, https://www.ip-watch.org/2005/12/06/wto-strikes-agreement-on-trips-and-public-health-on-eve-of-ministeri
+al/ (Last accessed 21 July 2016).
+
+Hems, J. (2007) Letter from John Hems (23 January 2007). re: CAMR Consultation Paper, Available online at: https://www.
+
+camr-rcam.gc.ca/review-reviser/camr_rcam_apotex_18-eng.pdf
+
+Hestermeyer, H. P. (2007). Canadian-made drugs for Rwanda: The first application of the WTO waiver on patents and
+medicines. American Society of International Law Insights, 28(11). Available online at: https://www.asil.org/insights/
+volume/11/issue/28/canadian-made-drugs-rwanda-first-application-wto-waiver-patents-and
+
+Hoen, E. '. (2016). Private patents and public health: Changing intellectual property rules for access to medicines Health Action
+
+International.
+
+Hoen, E. (2002). TRIPS, pharmaceutical patents, and access to essential medicines: A long way from Seattle to Doha. Chicago
+
+Journal of International Law, 3(1), 27–46.
+
+Human Rights Council. (2016). Human Rights Council suspends thirty-second session after adopting 33 resolutions and one
+
+decision, Provisional Roundup, A/HRC/32/L.23/Rev.1.
+
+Hunter, R. J., Lozada, H. R., Giarratano, F., & Jenkins, D. (2009). Compulsory licensing: A major IP issue in international business
+
+today. European Journal of Social Sciences, 11(3), 370–377.
+
+Intellectual Property Laws Amendment (IPLA) Act. (2015).
+IP Australia. (2015). TRIPS and compulsory pharma licences for LDCs: Reaching the endgame. The IPKat. Available online at:
+
+http://ipkitten.blogspot.com.au/2015/03/australia-trips-and-compulsory-pharma.html
+
+Jain, T. (2008). Compulsory licences under TRIPs and its obligations for member countries. Amicus Books An Introduction,
+
+29, 33.
+
+Janodia, M. D., Sreedhar, D., Ligade, V. S., Udupa, N., Srivastava, S., & Satyanarayana, K. (2008). Solution to contentious issue
+
+of Article 31(f) of TRIPS agreement. Indian Journal of Medical Research 128(1), 84.
+
+Jean Chrétien Pledge to Africa Act (JCPA) (2005), Section 21.02.
+Kenny, P. (2016). Amended TRIPS agreement close to ratification, says WTO's azevedo. Intellectual Property Watch,
+(25 November 2016). www.ip-watch.org/2016/11/25/amended-trips-agreement-close-ratification-says-wtos-azevedo/
+Kieny, M. P. (2016). A comprehensive and fair solution to the price of medicines. (5 July 2016). World Health Organization,
+
+https://www.who.int/mediacentre/commentaries/fair-price-medicines/en/ (Last accessed 22 July 2016).
+
+Knowledge Ecology International (KEI). (2010). Canada's Intervention to TRIPS Council: Experience using the System
+
+(Apotex-Rwanda Case).
+
+Knowledge Ecology International. Human Rights Council heats up during informal talks on the primacy of human rights over
+international trade and IP regimes (18 June 2016). Knowledge Ecology International, https://keionline.org/node/2602.
+(Last accessed July 3, 2016).
+
+Kraus, L. (2004). Medication misadventures: The interaction of international reference pricing and parallel trade in the
+
+pharmaceutical industry. Vanderbilt Journal of Transnational Law, 37(2), 527.
+
+Kulkarni, R. M. (2016).UN Human Rights Council Adopts Landmark Resolution for Promoting Access to Medicine in
+Developing Countries. Spicy IP, Available online at: https://spicyip.com/2016/07/un-human-rights-council-adopts-
+landmark-resolution-for-promoting-access-to-medicine-in-developing-countries.html (Last accessed 22 July 2016).
+
+Love, J. (2003). CPTech Statement on WTO Deal on Exports of Medicines. Consumer Project on Technology, Washington DC, 30.
+Madden, J. (2007). Transcript of Evidence, 6. 22 June 2007.
+Mathur, H. (2008). Compulsory licensing under section 92A: Issues and concerns. Journal of Intellectual Property Rights,
+
+13(5), 467.
+
+Mitra-Jha, S. (2016).UN Human Rights Council adopts landmark resolution on access to medicines. Firstpost, https://www.
+firstpost.com/world/un-human-rights-council-adopts-landmark-resolution-on-access-to-medicines-2868570.html (Last
+accessed July 22, 2016).
+
+MSF Canada. (2006). Neither expeditious nor a solution: The WTO August 30th decision is unworkable-an illustration through
+Canada's Jean Chrétien pledge to Africa (Report prepared for XVI International AIDS Conference, Toronto August 2006).
+Retrieved from Médicins Sans Frontières website: https://www. doctors withoutborders. org/news/hiv-aids/
+WTO_chretien. pdf
+
+Mueller, J. M. (2007). The tiger awakens: The tumultuous transformation of india's patent system and the rise of indian
+
+pharmaceutical innovation. University of Pittsburgh Law Review, 68(3), 491.
+
+Nightingale, A. (2016). WTO ‘Paragraph 6′ system for affordable medicine: Time for change? (11 November 2016) Intellectual
+
+Property Watch.
+
+Rehman, H. A. (2011). The Pharmacy of the developing world: India, patent law and access to essential medicines, (Thesis) The
+
+Australian National University, 156–171.
+
+Reichman, J. H. (2009). Comment: Compulsory licensing of patented pharmaceutical inventions: Evaluating the options. The
+
+Journal of Law, Medicine & Ethics, 37(2), 247–263.
+
+ABBAS AND RIAZ
+
+| 51
+
+Rimmer, M. (2007). Transcript of Evidence, 10.
+Rimmer, M. (2008). Race against time: The export of essential medicines to Rwanda. Public Health Ethics, 1(2), 89–103.
+Rimmer, M. (2015). Submission to IP Australia, the productivity commission, and the department of health and ageing.
+
+Intellectual Property And Global Health, 6, 7–14.
+
+Rozek, R. P. (2000). The effects of compulsory licensing on innovation and access to health care. The Journal of World
+
+Intellectual Property, 3(6), 889–917. https://doi.org/10.1111/j. 1747-1796. 2000.tb00158.x
+
+Saez, C. (2016). Access to medicines resolution adopted by UN human rights council. ACI Information Group.
+Sampath, P. G. (2005). Economic aspects of access to medicines after 2005: Product patent protection and emerging firm
+strategies in the Indian pharmaceutical industry. United Nations University-Institute for New Technologies (UNU-INTECH).
+
+Summerfield, M. (2011). Surprise! New Pharmaceutical Compulsory Liceses Proposed.
+The Doha Ministerial Declaration on the TRIPS Agreement and Public Health. (2001).
+The Patents Act. (1970).
+The South Centre. (2016). ‘Paragraph 6 of the Doha Declaration on TRIPS and Public Health: An Effective solution?
+The Trans-Pacific Partnership Agreement. (2015).
+UN, United Nations. (2016). United Nations Secretary-General's High-Level Panel on Access to Medicines Report, Available online
+
+at: https://www.unsgaccessmeds.org/final-report/ (Last accessed 15 November 2016).
+
+Vaile, M. (31 August 2002). Vaile welcomes breakthrough on essential medicines, Department of Foreign Affairs and Trade.
+Vines, T., Crow, K., & Faunce, T. A. (2012). Balancing public health, trade and intellectual monopoly privileges: Recent
+
+Australian IP legislation and the TPPA. Journal of Law and Medicine, 20, 280–294.
+
+WTO. (2003a). The General Council Chairperson's Statement on the August 30 Decision. WT/GC/M/82.
+WTO. (2003b). World Trade Organization, Implementation of Paragraph 6 of the Doha Declaration on the TRIPS Agreement
+and Public Health, Decision of the General Council of 30 August 2003, August 30, 2003, WT/L/540, available online at
+https://www.wto.org/english/tratop_e/trips_e/implem_para6_e.htm (Last accessed 2 July 2016).
+
+WTO. (2005a) General Council Decision of 6 December 2005 Amendment of the TRIPS Agreement, WT/l/641.
+WTO News. (2003). Decision removes final patent obstacle to cheap drug imports. Available online at: https://www.wto.org/
+
+english/news_e/pres03_e/pr350_e.htm (Last accessed July 2, 2016).
+
+WTO, World Trade Organization. (1994). Agreement on trade-related aspects of intellectual property rights, Marrakesh
+
+Agreement Establishing the World Trade Organization.
+
+WTO, World Trade Organization. (2001). Dispute Settlement: Dispute DS199.
+WTO, World Trade Organization. (2001). WTO Doc WT/MIN (01)/DEC/2.
+WTO, World Trade Organization. (2003c). General Council Decision of 30 August 2003 (WT/L/540). Available online at:
+
+https://www.wto.org/english/tratop_e/trips_e/implem_para6_e.htm (Last accessed 20 July 2016).
+
+WTO, World Trade Organization. (2005b). Members OK amendment to make health flexibility permanent. (6 December
+
+2005).
+
+WTO. (2017). WTO IP rules amended to ease poor countries’ access to affordable medicines.
+
+How to cite this article: Abbas MZ, Riaz S. WTO “Paragraph 6” system for affordable access to medicines:
+Relief or regulatory ritualism? J World Intellect Prop. 2018;21:32–51. https://doi.org/10.1111/jwip.12083
+
+

@@ -1,0 +1,1730 @@
+DOI: 10.1111/jwip.12116
+
+ORIGINAL ARTICLE
+
+Public open collaborative creation (POCC): A new
+archetype of authorship?
+
+Sunimal Mendis
+
+School of Law, Sciences Po, Paris, France
+
+Correspondence
+Sunimal Mendis, 73 Epitamulla Road, Kotte,
+Sri Lanka.
+Email: sunimal.mendis@gmail.com
+
+Funding information
+European Research Council, Grant number:
+616103
+
+Public open collaborative creation (POCC) model constitutes
+an important method of creating intellectual content within
+the sphere of digital humanities. POCC is defined as creation
+that takes place through the contributions of a multiplicity of
+persons (contributors) under a model of sequential innova-
+tion, resulting in the production of a literary, artistic, or
+scientific work which remains in a continuous state of
+change and development over an undefined period of time.
+This article examines the POCC model in relation to three
+creation projects that employ(ed) it for the production of
+literary and artistic content. It argues that the use of the
+POCC model has given rise to a new form of collaborative
+authorship that is inclusive and dynamic and as such cannot
+be adequately captured within the traditional notion of
+collaborative authorship currently recognized by copyright
+law. It concludes by outlining the need to revisit the existing
+notion of collaborative authorship in copyright law in order
+to enable it to accommodate the notion of POCC authorship.
+
+1 |
+
+INTRODUCTION
+
+The collaborative creation model enjoys a position of significance within mankind's cultural creation narrative. It is
+embedded within our folkloric tradition of storytelling and is also visible in experimental and populist artistic
+movements.1 In a general sense, collaborative creation refers to a creation process within which a plurality of persons
+engage in the production of intellectual or informational content by sharing and combining their creative and
+informational resources, skills, and knowledge (Camarinha-Matos & Afsarmanesh, 2006, p. 3).
+
+© 2018 The Authors. The Journal of World Intellectual Property © 2018 John Wiley & Sons Ltd
+
+J  World  Intellect  Prop. 2019;22:59–75. 
+
+wileyonlinelibrary.com/journal/jwip
+
+59
+
+M
+
+a
+
+a
+
+b
+
+60
+2 |
+
+MENDIS
+
+Within the existing copyright law framework with its individualistic focus and tendency to conceptualize the
+author as a romantic solitary genius (Woodmansee & Jaszi, 1994, pp. 2–3),2 the collaborative creation model has been
+relegated to a position of secondary importance. Nevertheless, the advent of the Internet and advancements in digital
+technology have led to a re-assertion of collaborative creation as a dominant model in the production of cultural
+content. In recent years, there has been an upsurge of creation projects that profit from the possibilities for remote
+collaboration and networking afforded by this new technological infrastructure. Crowd-sourcing3, remixing and
+mash-ups are examples of such new forms of collaborative creation. However, the question arises whether copyright
+law, as the default legal regime that regulates legal entitlements over intellectual expression, is able to adequately
+provide for these innovative forms of collaborative creation.
+
+For a considerable period of time, the notion of authorship in copyright law has been subject to scrutiny on the
+grounds that it fails to adequately recognize and provide for new forms of authorship that have emerged within the
+digital humanities (Cooper, 2004, pp. 175–176).4 In this article, I focus on the inability of copyright law's notion of
+collaborative authorship to address a new form of collaborative creation that is gaining wide acceptance on digital
+media which I refer to as “public open collaborative creation” (POCC). At present, the best known examples of the
+POCC model are Wikipedia5 and free open-source software (FOSS) creation projects such as VLC6 and Debian7. I argue
+that the POCC model gives rise to a new form of collaborative authorship that is inclusive and dynamic and as such,
+cannot be adequately captured or expressed within the traditional notion of collaborative authorship recognized by
+copyright law.
+
+In part 2 of the article, I define the POCC model and describe it in relation to three creation projects that
+employ(ed) it for the production of literary and artistic content. In part 3, I construct a notion of POCC authorship and
+in part 4, I examine the extent to which the existing notion of collaborative authorship in copyright law is able to
+capture and accommodate the notion of POCC authorship. In part 5, I attempt to identify the main points of
+divergence between these two notions of authorship. The objective of this article is to present POCC authorship as a
+new archetype of authorship that cannot be adequately captured within the existing notion of collaborative
+authorship in copyright law. It also engages in a brief exploration as to the possibility of revising the existing exclusivity
+based conceptual framework of copyright law in order to enable it to accommodate this new archetype of authorship.
+
+2 | THE POCC MODEL
+
+I define POCC as creation taking place through the contributions of a multiplicity of persons (contributors) under a
+model of sequential innovation and resulting in the production of a literary, artistic or scientific work which remains in
+a continuous state of change and development over an undefined period of time. As per the structure of this model, a
+plurality of authors engage in the creation of a common work by modifying and building upon expression contributed
+by each other along a process of sequential innovation that takes place within an open-ended timespan.
+
+The term “work” is used in the context of copyright law to denote that the POCC process usually culminates in the
+production of intellectual content that would qualify for copyright protection.8 The openness of the model, which will
+be elaborated in more detail below, signifies that the creation process is open to participation by members of the
+public, as opposed to being limited to members of a closed group of persons.
+
+It is noted that, the POCC model closely corresponds to von Hippel's model of “open collaborative innovation”
+(OCI) that has been defined as development projects in which multiple users collaborate and contribute for free and
+openly share what they develop.9 However, the fact that this concept has been formulated with reference to
+innovation economics, and the vague terms in which it has defined, makes it unsuitable as a concept on which a legal
+analysis could be founded. On the other hand, my definition of the POCC model is designed to deal specifically with
+the production of creative content that will come within the framework of copyright law as opposed to innovations
+taking place in the spheres of patent law or the law of industrial design. Therefore, it is possible to describe POCC as a
+genus of the broader notion of OCI.
+
+S
+
+e
+n
+l
+l
+e
+d
+t
+y
+
+e
+e
+f
+l
+e
+e
+,
+y
+
+t
+d
+o
+f
+a
+e
+y
+.
+
+a
+n
+a
+d
+
+e
+l
+e
+
+”
+
+d
+o
+l
+h
+s
+a
+
+MENDIS
+
+| 361
+
+The following descriptions of three creation projects that employ(ed) the POCC model in the creation of literary
+
+and artistic content serves to better illustrate its practical workings within the sphere of digital humanities.
+
+a. Wikipedia
+
+Commonly referred to as the free-encyclopedia, Wikipedia is a free-content, free-access encyclopedia that is
+supported by the Wikimedia Foundation. The Foundation provides a publicly accessible Internet platform and an
+array of software tools that enable individuals from across the world to collaborate in the creation of encyclopedia
+articles under a POCC model. The articles which qualify for copyright protection as literary works are made
+available to the public under a Creative Commons-Attribution-ShareAlike (CC-BY-SA) 3.0 unported license.
+Participation in the creation process is open to any member of the public who agrees to abide by the terms and
+conditions of the CC-BY-SA license as well as certain normative guidelines that apply to the platform. Contributors
+to the POCC work are loosely organized into a creator community that can be categorized as an epistemic
+community, the members of which are brought together by a social consciousness to belong to a group, but
+nevertheless retain their individuality within the community (Clément-Fontaine, 2017, pp. 237–238). The
+normative guidelines that apply to the platform (which are adopted by the community through consensus), are
+administered and enforced by a group of “administrators” who are themselves contributors in good standing,
+elected by their peers. The ability of contributors to directly participate in the governance of the platform and the
+consensus-based governance framework, enables the development of a sense of community and a community
+identity as Wikipedians. However, neither the community nor the administrators have the ability to exercise
+creative control over the expression incorporated in an article and each contributor retains a substantial degree of
+creative autonomy in determining the nature, form and timing of his own contribution. While Wikipedia editors
+have the ability to remove content that is deemed inappropriate, such acts of removal must be carried out
+according to platform guidelines as opposed to the individual discretion of the editor.
+As each contribution made to the Wikipedia platform is subject to a CC-BY-SA license, any person has the ability to
+participate in the development of an encyclopedia article by adding to, modifying, adapting and even overwriting or
+deleting content created by previous contributors. Apart from this, they can also engage in editorial functions,
+which although not directly resulting in the creation of intellectual expression nevertheless, play an important role
+in shaping the form of a Wikipedia article. Discussion forums enable contributors to discuss and deliberate on
+aspects of the creation process. However, it appears that these are mainly used for discussions relating to technical
+matters, as opposed to issues that directly relate to the content or expression of an article.
+
+b. This Exquisite Forest10
+
+This Exquisite Forest is a collaborative graphic art project conceived by artists Chris Milk and Aaron Koblin and
+produced by the Tate Modern in London and the Google Data Arts team. It used the POCC model to create graphic
+animations exploring specific themes that built upon each other, along a chain of sequential innovation. Members
+of the public were able to participate in the creation process over an Internet platform as well as by using digital
+drawing tablets that were made available to visitors at the Tate Modern.
+The object of the project was to use graphic art as a medium for interactive storytelling and for the creation of fluid
+visual narratives. Several artists from the Tate created initial (“seed”) animations based on specific themes.
+Members of the public were also allowed to create their own seed animations. The initial artists provided
+instructions as to how these themes could be explored and developed. Succeeding contributors were invited to
+interpret and build upon those seed animations according to the instructions set down by the initial artist, although
+compliance with these instructions was not considered mandatory. Contributors were allowed to branch-off each
+other's contributions, similar to the way in which collaborators branch-off computer code developed by others in
+the creation of FOSS programs.
+While contributors enjoyed a high degree of creative autonomy and freedom in developing upon the existing
+content, their contributions were curated by the producers of the project for appropriateness and quality. The
+
+62
+2 |
+
+MENDIS
+
+producers reserved the right to refuse to incorporate certain contributions into the common work and to remove
+certain contributions from the platform.11 However, this does not mean that the producers exercised a
+discretionary power to control and to determine the creative evolution of the common work. They merely
+reviewed contributions in order to ensure that the creation process was not undermined through the incorporation
+of contributions that clearly failed to fulfill expected quality and appropriateness standards.
+Unlike in the case of Wikipedia, the platform hosting This Exquisite Forest project did not offer discussion forums
+that could be used by contributors to interact outside of the creation process. Furthermore, platform governance
+was administered by the project's producers and contributors were not provided with the opportunity to get
+involved in governance activities. Both these factors could have contributed to the absence of a sense of
+community on the part of contributors.
+Although the producers closed the platform to new contributions in 2014, content created during the course of the
+project is made available to the public under a Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-
+NC-SA) 3.0 unported license. This means that it is possible for members of the public to continue to use and develop
+this content and thereby to continue the POCC process outside of the platform.
+
+c. Folding Story12
+
+The Folding Story project uses the POCC model to allow members of the public to collaborate in the creation of
+fictional stories over an Internet platform. Each contributor writes a line or a paragraph of a story that is added to by
+other contributors in order to create a short story or fictional narrative. Unlike in Wikipedia, contributors are not
+able to overwrite or change a contribution made by a previous contributor. They are only permitted to add to and
+build upon previous contributions in order to continue the initial narrative. However, a substantial amount of
+creative autonomy is allowed in determining how the narrative is developed and it is possible to introduce
+significant changes to the theme, plot and characters. Use of and access to the content made available through the
+platform is made conditional upon the acceptance of and compliance with Terms of use and access, that have been
+drafted by the owners of the platform.13 Thus, consent to the Terms is implied through the fact of use and access. It
+is unclear whether these Terms could have the force of contract. It is more likely that they constitute a bare license
+to use and develop existing content in making one's own contribution.
+The sense of community among contributors is weaker in comparison with Wikipedia. This could once again be
+ascribed to the absence of a general discussion forum within which contributors are able to interact with each other
+outside of the creation process and the centralized governance framework that is administered by the platform
+owners. Thus, interaction between contributors to Folding Story is limited to the act of creation itself (i.e.,
+contributing expressive content to an existing fictional narrative or initiating a new narrative).
+
+Based on the above descriptions as to how the POCC model is being employed for the creation of intellectual
+content, I identify four main characteristics of the model that are of relevance in constructing a notion of POCC
+authorship, these characteristics are discussed below.
+
+2.1 | Openness
+
+Openness is a term that is widely used both in law as well as in the field of innovation economics and has been defined
+in various ways.14 However, openness in the context of the POCC model refers to the minimization of restrictions
+attached to participation15 in the creation process and to the use of the intellectual content that is produced through
+that creation process.16
+
+Firstly, the POCC process is “open” to any member of the public who fulfills minimal formalities (e.g., free
+registration is required on the Folding Story platform) or agrees to abide by the generally applicable terms and
+conditions of participation. Thus, the borders of the creator community are porous and there are minimal barriers to
+entry. Secondly, a POCC work constitutes an “open-resource” that can be accessed, used, adapted and modified by
+
+M
+
+a
+r
+w
+w
+t
+n
+n
+
+2
+
+T
+w
+i
+o
+
+c
+s
+w
+b
+s
+s
+
+c
+d
+d
+E
+c
+
+2
+
+T
+c
+c
+p
+m
+o
+d
+c
+c
+a
+q
+w
+
+2
+
+T
+c
+i
+
+S
+
+e
+a
+y
+n
+
+s
+e
+t
+f
+
+e
+-
+p
+
+f
+y
+t
+d
+f
+e
+e
+n
+t
+e
+
+e
+r
+m
+,
+
+l
+C
+
+d
+s
+h
+
+e
+d
+o
+y
+
+MENDIS
+
+| 363
+
+any person both within and outside the platform. In the case of Wikipedia and This Exquisite Forest, the openness of the
+resource is given legal effect through the application of a CC license. In the case of many FOSS programs this function
+would be carried out by the General Public License (GPL). In other instances, it could be carried out by requiring those
+who hold copyright over their individual contributions to grant a “bare license” to potential contributors and users
+that permits the use and re-use of those contributions within the POCC process. This openness is facilitated by the
+non-rival and non-excludable nature of a POCC work that enables it to be shared and enjoyed among an infinite
+number of persons at the same time.
+
+2.2 | Chain of sequential innovation
+
+The POCC process involves a multiplicity of persons building upon and adding to contributions made by each other
+within a sequential innovation process. This means that each contribution to the POCC process holds the potential to
+inspire and to direct the nature of succeeding contributions. It also means that the POCC work is in a constant process
+of change as a result of contributions that are being made to it over an indefinite period of time.
+
+A distinctive feature of the POCC model is the absence of a specific pre-determined creation goal or scheme of
+creation. For example, although contributors to a Wikipedia article share a common consensus that their contributions
+should lead to the creation of an encyclopedia article on a particular topic, they do not engage in the creation process
+within a pre-agreed creation design as to how the article should be structured, the sequence in which the facts should
+be presented, or the nature and content of each contribution. The fact that collaborators tend to be distanced both
+spatially as well as temporally along the sequential innovation process makes it even more difficult for them to share
+such a common design.
+
+Furthermore, unlike in traditional models of collaborative authorship, there is very little interaction between
+contributors outside of the creation process. As noted above, although contributors to Wikipedia may interact over
+discussion forums, these discussions tend to focus around technical issues. Very rarely do they relate to the creative
+decision making process or to the formulation of the actual “expression” of an article. On the other hand, in This
+Exquisite Forest and Folding Story projects there is no possibility for such discussion, therefore interaction among
+contributors takes place indirectly through the act of creation itself.17
+
+2.3 | Creative freedom and autonomy
+
+The POCC process is also characterized by an absence of organizational hierarchy that is usually present in traditional
+collaborative endeavors such as the creation of films, operas or compilations where one or more co-authors exercise
+creative control over the work either by directing the creative activity of others and or by exercising discretionary
+power in determining which contributions should be included in the final work. The POCC model is heterarchical,18
+meaning that each contributor enjoys an equal degree of power and authority in determining the direction and
+outcome of the creative endeavor (Bruns, 2006, p. 279). This gives to contributors the freedom to exercise a high
+degree of creative autonomy within the creation process. Accordingly, each contributor has the ability to develop or
+change the narrative of the work in a way that could not have been predicted by preceding authors. Furthermore,
+contributions to a POCC work tend to be random and sporadic and to proceed according to the personal preferences
+and discretion of each contributor. This results in a significant variance between contributions in terms of both
+quantity and quality. For example, one person may contribute an entire paragraph consisting of his original expression
+while another's contribution could be limited to a small editorial modification.
+
+2.4 | Ideology
+
+The POCC model of creation is influenced and supported by a particular creation ideology based on equality,
+collectiveness, and sharing. This ideology is usually shared by contributors to POCC projects and serve to
+incentivize their participation in the creation process. Unlike conventional models of collaborative authorship
+
+64
+2 |
+
+MENDIS
+
+recognized under copyright law, POCC authorship is not driven by considerations of direct or indirect pecuniary
+reward (Volker & Hanekop, 2011, p. 12). Instead, participation is incentivized inter alia by the possibility of
+gaining peer-recognition, being a part of a community and engaging in a socially valuable creation activity.
+Peer-recognition in particular can be a powerful factor that motivates contributors to continue to engage in the
+creation process or to enhance their degree of participation (Glott, Schmidt, & Gosh, 2010, p. 9).19 For example,
+within the Wikipedia project, a high level of peer-recognition could be rewarded through election to administrative
+positions as well as greater appreciation and respect for the contributor within the community. In Folding Story
+contributors who show a high level of commitment to the creation project are honored through blog posts and
+announcements made by the platform owner as well as a scoring system that ranks their activity within the
+platform. Thus, recognition of authorship and the ability to preserve one's identity within the creation project
+attains considerable significance within the POCC framework.
+
+3 | CONSTRUCTING A NOTION OF POCC AUTHORSHIP
+
+As per the characteristics of the POCC model discussed above, I proceed to construct a notion of POCC authorship in
+relation to the elements of inclusivity and dynamism, which I argue constitute the core elements of the notion of
+POCC authorship.
+
+3.1 | Inclusivity
+
+Inclusivity denotes the shared and collective nature of POCC authorship. In this sense, it can be viewed as a
+counterpoint to the exclusivity based copyright law notion of authorship with its strong individualistic bias20 and
+accompanying view of an author as a solitary genius.21 The element of inclusivity emerges in relation to several
+aspects of POCC authorship.
+
+Firstly, it is apparent in its acknowledgement of authorship as a collective exercise within which the individual
+ideas and experiences of a plurality of persons entwine and react with each other in order to give rise to creative
+expression. The element of inclusivity also emerges through its recognition that authorship is not only about the
+creation of new or original content but also includes a strong component of adapting, refining and re-interpreting
+existing content within an incremental process of creation.
+
+Secondly, the architecture of the POCC model affirms that, the value of a POCC work will increase corresponding to
+the number of contributors that are engaged in the creation process and the diversity of their knowledge, skills, and
+experience. Thus, POCC authorship is founded on the assumption that, the greater number of contributors who could be
+channeled to the creation process and the more diverse their intellectual backgrounds and experience, the greater the utility
+and value of the intellectual output (POCC work) which will ensue through the creation process. In this sense, POCC
+authorship reflects a collaborative value creation exercise within which each individual creator dedicates his contribution to
+a common creative endeavor in the expectation that the value of his individual contribution would be enhanced through its
+combination with other contributions and the modifications and improvements effected by downstream contributors.
+
+Thirdly, POCC authorship is inclusive in its refusal to discriminate among different types of contributions or the
+different roles played by various contributors within the creation process. For example, a person who contributes a
+paragraph of original copyrightable expression to a Wikipedia article obtains a similar claim to the authorship of that
+work as a person who corrects a grammatical error or refines the syntax of a sentence of that paragraph. It is likely that
+the degree of peer-recognition that would accrue to these two persons within the creator community would vary.
+However, as per the ideology of the POCC model, both would be considered as having had contributed to the
+authorship of the POCC work in equal measure. Thus, each contribution is afforded equal value within the POCC
+authorship process notwithstanding the fact that individual contributions tend to vary both quantitatively as well as
+qualitatively.
+
+M
+
+3
+
+T
+a
+T
+h
+T
+E
+c
+p
+d
+d
+
+c
+w
+h
+c
+i
+p
+
+w
+T
+d
+t
+n
+b
+
+a
+s
+f
+
+4
+
+B
+o
+c
+t
+
+j
+c
+t
+c
+c
+m
+d
+w
+o
+
+S
+
+y
+f
+y.
+e
+,
+e
+y
+d
+e
+t
+
+n
+f
+
+a
+d
+l
+
+l
+e
+e
+g
+
+o
+d
+e
+y
+C
+o
+s
+
+e
+a
+t
+t
+y.
+e
+C
+s
+
+MENDIS
+
+3.2 | Dynamism
+
+| 365
+
+The element of dynamism in POCC authorship arises primarily through the use of the sequential innovation model, the
+absence of a creation hierarchy and the creative autonomy enjoyed by contributors to the POCC process.
+This creative autonomy allows any contributor to transform the direction or perspective of a POCC work according to
+his own individual discretion and in a way that could not have been foreseen or predicted by preceding contributors.
+This is especially true in the case of projects that focus on the production of creative and artistic content such as This
+Exquisite Forest and Folding Story. Although in certain cases, project initiators or platform owners may be able to screen
+contributions for appropriateness and quality, their role is usually limited to guarding against acts of vandalism and the
+prevention of contributions that violate community norms and guidelines from being absorbed into the POCC work. It
+does not enable any person to exercise control over the creative or artistic decisions made by the contributors or to
+determine the form and nature of the POCC work.
+
+On the other hand, each contribution made to a POCC work holds the potential to direct and inspire succeeding
+contributions and to determine the trajectory of the creation process. This also serves to imbibe POCC authorship
+with an inherent dynamism. As such, it becomes impossible to discount the importance of any contribution no matter
+how small, as even something as commonplace as a suggestion or idea could serve as a source of inspiration for future
+contributors. This is accentuated by the random and sporadic nature of contributions that enable contributors to
+instantly and spontaneously react to the creative contributions made by each other as well as to developments taking
+place in the world around them.
+
+The open-endedness of the POCC model and the absence of a pre-determined creative goal or objective, allows
+wide scope for experimentation, iteration, creative exchange and cross-fertilization within the authorship process.
+Thus POCC authorship acts as a creative incubator within which different creative visions could be expressed,
+developed, or rejected. This also highlights another aspect of the dynamic quality of the notion of POCC authorship, in
+that, authorship is linked to both a product (i.e., the POCC work) as well as a creation process. Thus, as opposed to the
+notion of authorship in copyright law that is defined in relation to a static work, POCC authorship needs to be defined
+both in relation to the POCC work as well as the POCC process.
+
+Having attempted to construct a notion of POCC authorship, I proceed to consider the extent to which POCC
+authorship could be accommodated within the existing notion of collaborative authorship in copyright law. In doing
+so, I refer to the ways in which collaborative authorship has been conceptualized and applied in the copyright law
+frameworks of France, the US, and the UK.
+
+4 | COLLABORATIVE AUTHORSHIP IN COPYRIGHT LAW
+
+Buccafusco (2016, p. 1230) correctly points out that, copyright jurisprudence was not initially founded upon a theory
+of authorship, neither has it worked one out. Nevertheless, it is possible to draw a notion of collaborative authorship in
+copyright law from the way in which authorship has been conceptualized and interpreted in relation to works created
+through collaborative creation endeavors.
+
+Copyright law recognizes three models of creation that give rise to works of plural authorship, namely the
+joint, derivative, and collective models of creation. This classification applies consistently across different
+copyright law systems, albeit with nuances in the ways in which they are defined and interpreted. Authorship and
+the distribution of exclusive rights over works of plural authorship are determined according to the model of
+creation within which the particular work of plural authorship has been produced. What is interesting is that
+copyright law's conception of plural authorship appears to be limited to these three specific models. At the
+moment, copyright law does not offer a catch-all-category (or a category droit commun) that would be equipped to
+deal with a work that fails to fall within any one of these categories. As such, there is no indication as to how a
+work that is created through the efforts of a multiplicity of persons through a process that does not fit within any
+of these three models would be treated under copyright law.
+
+66
+2 |
+
+MENDIS
+
+At the outset it must be noted that, a POCC work would not fit within any one of the categories of collaborative
+creation currently recognized under copyright law. The joint creation model envisions a group of persons
+collaborating together in the creation of a specific and as yet unfinished work,22 with the creation process
+automatically coming to an end once the joint work has been realized. Thus the joint creation model fails to capture the
+open-ended nature of the POCC process which is not directed toward the production of a specific work but can
+continue indefinitely.
+
+Similarly, a POCC work cannot be categorized as a derivative work. The derivative creation model envisions the
+creation of a new work through the modification, alteration, or adaptation of a pre-existing work. Thus, the new work
+“derives from” an existing work and constitutes a work of multiple authorship in the sense that it represents a fusion of
+expression belonging to the author of the pre-existing work and the author of the derivative work. However, the
+derivative work constitutes an independent work that exists separately from the pre-existing work and vice versa.
+Thus, the derivative creation model fails to capture the dynamism that is inherent in the POCC model whereby, any
+contribution that modifies, adapts, or builds upon an existing contribution is absorbed into the common work without
+enjoying a separate existence from it.
+
+The collective creation model envisages the creation of a collective work through the compilation or arrangement
+of the creative contributions made by a multiplicity of authors, within a logical sequence. The characteristic feature of
+the collective creation model is that the different authors do not collaborate with each other within a common creative
+endeavor but instead work independently on their individual contributions. These contributions are later collated
+together to form a single collective work by a person who is usually attributed the authorship of the collective work
+(provided that the compilation and/or arrangement of the different contributions display sufficient originality in order
+to qualify him as an author). As such, the absence of collaboration among the different authors within the creation
+process and the fact that these different contributions usually remain separate and distinct from each other, clearly
+prevents the POCC process from being located within the collective creation model.
+
+However, in the absence of a general notion of collaborative authorship in copyright law, I am compelled to
+construct a notion of collaborative authorship by reference to the way in which authorship has been conceptualized in
+relation to these three creation models. Of these, the collective creation model gives rise to a work of single authorship
+as opposed to a work of collaborative authorship as the collective work is attributed to the sole authorship of the
+person responsible for arranging or compiling the creative contributions made by the other authors. Thus, the
+collective creation model is not useful to an inquiry into the notion of collaborative authorship in copyright law.
+Therefore, I proceed to consider the way in which authorship has been conceptualized and interpreted in relation to
+the joint and derivative creation models.
+
+I argue that, the notion of collaborative authorship in copyright law hinges upon three main elements. Firstly, the
+existence of a static (in the sense of unchanging) work to which authorship is attributed. Secondly, the contribution of
+original expression (the criterion of originality being determined according to the standard applicable to each
+jurisdiction). Thirdly, the degree of control exercised by the author over the creation process which refers to the
+author's ability to control the artistic or creative judgments that are reflected in the original expression incorporated in
+the work.
+
+4.1 | Static work
+
+The notion of collaborative authorship in copyright is constructed in relation to a static work, the nature and form of
+which remains constant. Any modifications or additions to this static work will result in a new derivative work
+(provided that the modification or addition satisfies the requisite threshold of originality), but the work itself will
+remain unchanged. Linking the notion of authorship to a static work emphasizes authorship as a relationship that
+exists in relation to a product and fails to take into account its relationship to a creation process.
+
+Interestingly, in a determination delivered by the Court of Appeal of Versailles, France, in the case of Thomas et
+SARL Ready Soft v. SARL Codat Informatique et Mattern23 a distinction was drawn between a new “version” of a work
+
+M
+
+a
+v
+s
+a
+p
+p
+t
+n
+d
+w
+v
+w
+
+a
+b
+a
+r
+B
+
+4
+
+“
+
+o
+o
+t
+c
+f
+r
+e
+a
+r
+
+4
+
+A
+p
+c
+d
+t
+a
+c
+a
+b
+a
+
+w
+c
+
+S
+
+e
+s
+s
+e
+n
+
+e
+k
+f
+e
+.
+y
+t
+
+t
+f
+e
+d
+k
+r
+n
+y
+
+o
+n
+p
+e
+e
+w.
+o
+
+e
+f
+h
+e
+n
+
+f
+k
+l
+t
+
+t
+k
+
+MENDIS
+
+| 367
+
+and a “new” work. The Court of Appeal held that, the technical and functional developments effected in the successive
+versions of a software program did not result in the creation of a new software program but merely represented a
+stage in the technical and functional evolution of that software program at a given time.24 The Court of Appeal
+acknowledged that software programs, such as the one under review, would necessarily constitute an evolutionary
+product by reason of the practical need to adapt to rapid technological developments and that this evolutionary
+process would continue so long as the software program was in the process of commercialization.25 This decision
+therefore, represents an acknowledgement on the part of the Court of Appeal of Versailles as to the evolutionary
+nature of software programs and a refusal to artificially compartmentalize each stage of their evolution as a new
+derivative work. The Court of Appeal concluded that, rather than constituting a series of independent derivative
+works, the different successive versions constituted a collective work within which the personal contributions of
+various authors are merged together without it being possible to attribute to them a separate right over the final
+work.26
+
+In this instance, the software program was created under a proprietary model which made it easier to categorize it
+as a collective work which had been created subject to the authority of the corporate entity under whose name it had
+been divulged. However, in the context of a POCC work, the categorization of different stages of a work's evolution as
+a collective work is not possible. This is especially true in the case of French law27 where which such categorization
+requires the existence of an authoritative entity (maître d’oeuvre) who takes the initiative for creation (Vivant &
+Bruguière, 2013, pp. 328–329), which is clearly not present in the case of a POCC work.
+
+4.2 | Original expression
+
+“Originality of expression” is the cornerstone of copyright law. Copyright law provides protection to authors in respect
+of their original expression by means of granting exclusive rights that enable them to control the ways in which such
+original expression is used and exploited. Thus, an author is defined as the person who creates the original expression
+that qualifies for copyright protection (Versteeg, 1996, pp. 1326–1327). As Woodmansee (1984) observes, “[i]n
+contemporary usage an author is an individual who is solely responsible—and therefore exclusively deserving of credit
+for the production of a unique work” (p. 426). This reflects the conceptualization of authorship as an individual
+relationship that subsists between a person and the expression created by him. The notion of originality serves to
+establish this individual relationship. This conceptualization of authorship also pervades the notion of collaborative
+authorship in copyright law. The following discussion exemplifies how the criterion of original expression is applied in
+relation to joint and derivative works.
+
+4.2.1 | Joint works
+
+Authorship requires that the creative contribution is directed toward the expression of the work. This effectively
+precludes persons who contribute information or ideas and make purely technical contributions such as refining and
+correcting existing content, from claiming authorship over the joint work. French law necessitates that a co-author
+demonstrates that his contribution qualifies as an original creative contribution. The criterion of creativity requires
+that his contribution is directed toward the expression (mise en forme) of the work. Similarly, US law enunciates that an
+author is a person who actually creates a work by translating an idea into a fixed, tangible expression that is entitled to
+copyright protection.28 Thus, persons who merely contribute non-expressive elements in the form of research
+assistance or commentary are precluded from qualifying as joint-authors.29 The law of the UK takes the same position
+by requiring a putative joint author to contribute the “right kind of skill and labor”30 in the sense of contributing to all or
+any of the constituent parts of a work by way of authorship.31
+
+The problem with limiting authorship only to those persons who have contributed toward the expression of the
+work is that,
+it effectively discriminates against those contributors who engage in vital tasks of editing and
+commentary which, although not directly contributing to the expression of a POCC work, are nevertheless crucial in
+
+68
+2 |
+
+MENDIS
+
+sustaining the creation process and could serve to influence the nature and form of the common work. Such
+discrimination militates against the ideology of equality and democracy on which the POCC model is founded and
+could serve as a disincentive for contributors from continuing to carry out these tasks.
+
+Furthermore, UK copyright law also notes that the contribution must be made toward the authorship of the work
+in the sense that it must find itself expressed in the final work (Garnett, Davies, & Harbottle, 2011, p. 248). This gives
+rise to uncertainty as regards the authorship status of a person who has contributed original expression to a POCC
+work which has subsequently been obliterated within the course of the sequential innovation process. This could take
+place by reason of a succeeding contributor intentionally deleting or overwriting the expression32 or by reason of the
+expression becoming obliterated as a result of incremental modifications made along the sequential innovation
+process.33 In either case, under the existing copyright law framework of the UK, the authorship status of such a
+contributor would be precarious.
+
+As regards the requirement of originality, US law requires that, in order to qualify as a co-author of a joint work,
+“the contribution must represent original expression that could stand on its own as the subject-matter of copyright”
+(Goldstein, 1989, p. 379). In the decision delivered in the case of Childress v. Taylor34 the Second Circuit affirmed this
+view and noted that co-authorship required the making of a contribution that could be independently copyrightable.
+The copyright laws of France and the UK do not include such an explicit rule. However, in view of the criterion of
+originality being used to establish an individual link between an author and the expression created by him,35 it is
+possible to argue that the copyright laws of these jurisdictions would not allow a contributor to make a claim of
+authorship in relation to an original expression, the originality of which cannot be attributed to him.
+
+The main difficulty in applying the criterion of originality to POCC works is that within the “tweaking” process that
+is commonly used (especially in the creation of Wikipedia articles), an amalgamation of expressions contributed by
+different persons within the sequential innovation process which on their own would fail to satisfy the standard of
+originality may, through their combination with each other, give rise to an original copyrightable contribution. In such
+an instance, it would be difficult to determine who should be vested with authorship over that contribution. It is also
+possible that none of these contributors would qualify as authors under the existing originality test, notwithstanding
+the fact that an original work has come into being.
+
+4.2.2 | Derivative work
+
+The author of a derivative work is the person who creates a new work by modifying the original expression belonging
+to an existing copyright protected work and combining it with his own original expression. Thus two requirements
+need to be fulfilled in order to qualify as an author of a derivative work.
+
+Firstly, the contributor must contribute his own original expression to the new derivative work. Desbois (1978)
+explains that under French copyright law, such originality must manifest itself through the new expression that is
+contributed to the derivative work by its author, or through its composition; meaning in the way in which the author
+structures or arranges the pre-existing work (p. 33). It is clear that mere acts of tweaking will not be able to fulfill the
+requisite standard of originality nor would simple edits. In the UK it has been held that, in order to secure copyright
+protection it is necessary that the labor, skill and capital expended by the author of the derivative work, “should be
+sufficient to impart to the product some quality or character which the raw material did not possess and which
+differentiates the product from that raw material.”36 Therefore, it appears to be necessary that the author imbibes the
+original expression belonging to the pre-existing work with some material alteration or embellishment which suffices
+to make the totality of the new work, an original work.37 Similarly, in the US, it is necessary that the derivative work
+demonstrates a sufficient level of originality in the sense that it incorporates a distinguishable and non-trivial variation
+from the pre-existing work (Ginsburg & Gorman, 2012, pp. 42–43).
+
+Secondly, it is necessary that the new derivative work incorporates original copyrightable elements belonging to
+the underlying work. French law holds that such incorporation could either take the form of a “material incorporation”
+(i.e., that the protectable element is incorporated as it is and without modification in the composite work) or an
+
+M
+
+“
+
+a
+a
+w
+2
+i
+t
+
+w
+a
+p
+f
+u
+
+4
+
+T
+p
+o
+d
+j
+
+c
+e
+d
+p
+a
+d
+
+i
+w
+S
+D
+v
+f
+e
+o
+u
+“
+
+p
+c
+o
+B
+t
+w
+
+c
+
+S
+
+h
+d
+
+k
+s
+C
+e
+e
+n
+a
+
+k,
+”
+
+s
+.
+f
+s
+f
+
+t
+y
+f
+h
+o
+g
+
+g
+s
+
+)
+s
+r
+e
+t
+e
+h
+e
+s
+k
+n
+
+o
+”
+
+n
+
+MENDIS
+
+| 369
+
+“intellectual incorporation” (i.e., that the protectable element is incorporated with modification as in the case of
+adaptations or translations where it is the spirit of the intellectual element that is incorporated in the derivative work
+and not the element per se) (Pollaud-Dulian, 2014, pp. 402–403). Similarly, in the UK, it is required that the derivative
+work appropriates a substantial part of the original expressive content belonging to a pre-existing work (Garnett et al.,
+2011, pp. 7–30). US law has a somewhat higher threshold by requiring not only that the derivative work should
+incorporate original expression that belongs to a pre-existing work, but that this expression should also be
+transformed, recast or adapted (Patry, 2006, pp. §3–141).
+
+As noted above in the discussion relating to joint works, not all contributions that build upon existing content
+would be able to demonstrate an original independent contribution on their part so as to qualify as authors of
+a derivative work. Furthermore, not all new contributions would incorporate copyrightable content belonging to a
+pre-existing contribution as required under the copyright laws of France and the UK. It would be even more difficult to
+find contributions that transform or adapt expressive content belonging to pre-existing contributions as required
+under US copyright law.
+
+4.3 | Control
+
+The element of control refers to the notion that in collaborative creation endeavors, authorship will accrue to those
+persons who exercise control over the creative decision making process in determining the nature and form of the
+original expression that is incorporated in the final work. Although not as clear-cut as the other two elements
+discussed above, the element of control can be discerned in the notion of collaborative authorship in all three
+jurisdictions.
+
+In the context of a derivative work, control is not only exercised by the author of the derivative work who makes
+creative decisions with regard to the new expression that is contributed by him as well as the way in which protectable
+elements of the pre-existing work is incorporated within his new derivative work; it is also exercised to a certain
+degree by the author of the pre-existing work who is able to impose limitations and restrictions as to the way in which
+portions of his work can be used and modified within the derivative work. Thus, the author of the pre-existing work is
+able to exercise some “negative” degree of control over the creation process by preventing the author of the
+derivative work from using his work in certain specific ways.
+
+As regards the joint creation model, under French law, in order to categorize a collaborative work as a joint work it
+is necessary that all collaborators work together under a “common inspiration” (also defined as a “spiritual intimacy”)
+which enables them to work toward a common goal by means of a “creative concerted effort” (Lucas, Lucas, & Lucas-
+Schloetter, 2012, p. 119). Although an exact universally accepted definition of this term is yet to be discovered,
+Desbois (1978) explains this to mean that the distinct efforts have been applied toward a common goal and that the
+various contributions have been realized in contemplation of others, in the sense that each contribution is made
+following a mutual exchange of ideas among the different co-authors (p. 165). The requirement of common inspiration
+evokes a mutual rapport among authors as to the nature and form of the final work that would be achieved as a result
+of their creative collaboration. Thus, each contributor to the joint work would engage in the creative activity with an
+understanding and consensus as to the common work that will arise through their joint efforts. The existence of a
+“common inspiration” means that the task of creative decision making is shared among all the authors which in turn
+presumes that, they all enjoy a degree of control over the final nature and form of the work. Thus, in the Le Prince Igor
+case38 the Court of Appeal of Paris, refused to treat two students of the composer Borodine as his co-authors in an
+opera that had been left unfinished at the time of Borodine's death on the basis that, it was not possible to attribute to
+Borodine a spiritual intimacy with his students in finishing the work. Such a “common inspiration” is clearly absent in
+the case of an POCC work, where any downstream contributor is able to modify or change the narrative of the POCC
+work in a way that does not accord with the creative vision of upstream authors.39
+
+Similarly, the law of the UK requires that in creating a joint work, the co-authors collaborate to produce a
+copyright work of a single kind in prosecution of a common design (Cornish, 1999, p. 386). This seems to indicate the
+
+70
+2 |
+
+MENDIS
+
+existence of a pre-agreed scheme of creation on the part of all contributors that allows them to collaborate in the
+achievement of a shared goal or objective (Bently & Sherman, 2014, p. 131). In the case of Robin Ray v Classic FM40 it
+was determined that, in order to establish authorship it was essential for the contributor to have direct responsibility
+for what appeared on the page and that a joint author must participate in the writing and share responsibility for the
+form of expression in the literary work. Furthermore, in the case of Hadley v Kemp41 a musical composition was
+considered to be a work of sole authorship as opposed to being a work of joint authorship because, although a plurality
+of persons contributed to the creation of the musical work, the strict control exercised by one member of the band
+over the creation process and in determining the nature and form of the final musical work, made it a work of sole
+authorship. On the other hand, in the case of Stuart v Barrett42 a musical composition that was produced through a
+“jamming” session by members of a band, with each member playing a significant and creative role in bringing the
+music of a song to its final form, was considered to be a joint work that was the product of the compositional skills of all
+members of the group. The difference in the determinations reached in these two situations can be explained both in
+terms of the original contributions made by the band members in the latter case, as well as the fact that all those
+persons shared a degree of control over the creation process.
+
+In US copyright law, the link between control and authorship has been affirmed in a series of decisions delivered
+by the Ninth Circuit that adopts a control-based test of authorship whereby, authorship is determined based on the
+creative and financial control exercised over a joint work (Dolin, 2011, p. 548).43 For example, in the Aalmuhammed v
+Lee44 case, the Ninth Circuit rejected a claim of joint authorship made by Aalmuhammed who claimed to have
+reviewed and revised a film script and to have even written entire scenes that had been enacted in the film. The Ninth
+Circuit based their decision to reject the claim of joint authorship on the grounds that, Aalmuhammed did not at any
+time have superintendence of the work and that he was not the person who actually formed the picture by putting
+people in position and arranging the place. These aspects were controlled by the director of the film and the
+production company. Furthermore, the Ninth Circuit observed that, although Aalmuhammed was able to make helpful
+recommendations to the director, the director was not bound to accept any of them. The Court reasoned that the
+work would not benefit in the slightest unless the director chose to accept those recommendations. Accordingly, the
+Ninth Circuit concluded that Aalmuhammed lacked control over the work and that, “absence of control is strong
+evidence of the absence of co-authorship.”45
+
+This element of control is lacking in the notion of POCC authorship as no person has the ability to exercise
+control over the creative process or in determining the nature and form of the original expression that is
+incorporated in the POCC work. The open-ended nature of the sequential innovation process and the creative
+autonomy exercised by each contributor makes such control impossible as well as irrelevant to the notion of POCC
+authorship.
+
+5 | REVISITING COPYRIGHT LAW TO ACCOMMODATE THE NOTION OF
+POCC AUTHORSHIP
+
+I argue that the divergence of the notion of POCC authorship from the existing notion of collaborative authorship in
+copyright law can be traced to a fundamental difference in the ideological bases on which these two notions of
+authorship are founded; POCC authorship being based on a notion of inclusivity while copyright law is based on a
+notion of exclusivity.
+
+Within the framework of the INCLUSIVE project, the “term” inclusivity has been defined as the quality of a legal
+entitlement to a resource, held by a plurality of persons, characterized by the collective and symmetrical enjoyment of
+the utilities of the resource and an absence of power on the part of any person to exclude another from benefitting
+from those utilities (Dusollier, 2016, p. 4). I build upon this definition to describe inclusivity in authorship as an
+entitlement to claim authorship over a work that is held by a plurality of persons in a collective and symmetrical way
+without any one of those persons having the power to exclude another from claiming such authorship.
+
+M
+
+m
+e
+h
+l
+
+a
+v
+c
+c
+e
+c
+e
+
+n
+i
+a
+p
+P
+t
+p
+P
+P
+
+e
+m
+e
+a
+s
+P
+b
+c
+p
+
+t
+e
+h
+c
+a
+f
+t
+p
+p
+
+r
+a
+s
+
+S
+
+e
+t
+y
+e
+s
+y
+d
+e
+a
+e
+l
+n
+e
+
+d
+e
+v
+e
+h
+y
+g
+e
+l
+e
+e
+g
+
+e
+s
+e
+C
+
+n
+f
+a
+
+l
+f
+g
+n
+y
+
+MENDIS
+
+| 371
+
+Copyright law is primarily a tool for the propertization of intellectual content in order to allow it to circulate in the
+marketplace as a commodity (Aufderheide, 2013, p. 22). As Aufderheide (2013, p. 22) notes, authorship has an
+extraordinary convenience for this purpose insofar as it affixes the origin of the work and provides an original property
+holder. Biron and Cooper (2016, p. 68) concur with this view by observing that the purpose of authorship for copyright
+law is, amongst other things, to determine the first instance ownership of property rights.
+
+Ensuring the efficient propertization of a copyright protected work necessitates that the transaction costs
+associated with the use and re-use of such a work is maintained at a minimum. This requires firstly, that the copyright is
+vested in an identifiable person or persons so as to minimize the search costs of potential users in identifying and
+communicating with rightholders in the license clearance process and secondly, that the fragmentation of the
+copyright is avoided as far as possible in order to prevent the costs of use and re-use from increasing. In this regard, the
+elements of original expression and control act as useful mechanisms in limiting the number of authors who could
+claim copyright over a collaborative work by ensuring that only those who satisfy these criteria will be granted
+exclusive ownership rights.
+
+The limitation of the individuals who could claim authorship over a collaborative work may be justified and even
+necessary, where the authorship claim leads to the ownership of exclusive rights over the work. However, I argue that,
+in light of the ideological shift from inclusivity to exclusivity that is discernible within the POCC context, the
+application of artificial criteria in order to limit authorship is redundant. This is for the reason that, within an inclusive
+process of authorship, any person who is willing to abide by the terms and conditions of use subject to which the
+POCC work is made available to the public (e.g., the terms of the CC or GPL license) are able to use and enjoy it without
+the need to obtain an individual license from the authors. On the other hand, the limitation of authorship solely to
+persons who have contributed original expression to the POCC work could be damaging to the sustainability of the
+POCC model as it militates against the basic ideological norms of equality, collectiveness and sharing which fuel the
+POCC process.
+
+Accordingly, I argue that, the exclusivity-based notion of authorship in copyright law should be revisited and
+expanded in order to accommodate the POCC notion of authorship that is based on inclusivity and dynamism. As a
+means of achieving this, I propose that the notion of “work” in copyright law should be expanded to include dynamic
+evolutionary works such as POCC works. This would allow authorship to be understood in a broader sense; not merely
+as an individual relationship that subsists between the author and the original expression contributed by him to a
+specific work, but as a relationship held by an author to the totality of an evolving work which is the outcome of a
+POCC process. Thus, any person whose contribution has been directed toward the creation of the POCC work and has
+been absorbed into the POCC work, should be recognized as an author of that work, regardless as to the nature of that
+contribution, its originality and whether it remains visible (in the sense of not being obliterated) in the POCC work at a
+particular stage of its evolution.
+
+The requirement that the contribution should be absorbed into the POCC work denotes that it is integrated into
+the POCC work in some way, in the sense that it has not been rejected at the outset by an editor or curator who has
+either been authorized by the creator community to do so or has been acknowledged by the creator community as
+holding such authority. In other words, it simply means that the contribution should have been accepted as a bona fide
+contribution made toward the creation of the POCC work, whether it be an addition or modification to a Wikipedia
+article, a contribution made toward the debugging of a FOSS program or an idea for the development of the plot of a
+fictional narrative on the Folding Story platform. On the other hand, by requiring that the contribution be directed
+toward the actual creation of the POCC work persons who carry out functions that are “neighboring” to the creation
+process, such as the provision of the digital space (platform) on which the creation process takes place and the
+provision of digital tools used in the creation of content will be precluded from making a claim of authorship.
+
+As Jaszi (1991) observes, authorship is a culturally, socially, politically or economically constructed category
+rather than a real or natural one (p. 459). As such, social shifts and transformations in the way creation is carried out
+and creativity is viewed necessarily lead to changes in the way the notion of authorship is constructed. This is not to
+say that the conventional notion of collaborative authorship in copyright law is no longer relevant. Nonetheless, it is
+
+72
+2 |
+
+MENDIS
+
+M
+
+necessary to acknowledge that recent shifts in creative and cultural practices indicate that exclusivity and
+propertization is no longer the sole accepted canon in the production of cultural content. It is increasingly being
+challenged by the new creed of inclusivity and sharing. Therefore, if it is to maintain its relevance as a legal doctrine
+that is in sync with current creative practice, copyright law needs to be able to cater to both sides of the ideological
+divide.
+
+ABOUT THE AUTHOR
+
+Researcher in intellectual property law at the Sciences Po Law School (Paris). Doctoral Candidate at the Max Planck
+Institute for Innovation and Competition (Munich).
+
+ACKNOWLEDGMENTS
+
+This article builds upon research carried out within the framework of the INCLUSIVE project (“Inclusive rights: A new
+model to organize legal relations to shared resources in tangible property and intellectual property”) funded by the
+European Research Council
+I would like to thank Prof. Séverine Dusollier
+(Chief Investigator of the INCLUSIVE project) for her guidance in formulating the notion of POCC authorship, and to
+Dr. Maxime Lambrecht for his valuable comments and feedback.
+
+(Grant agreement no: 616103).
+
+ENDNOTES
+
+1 For example, experimental art movements such as Dadaism, Neo-Dadaism, and more populist movements such as the
+appropriation art movement, pop-art movement extensively use the collaborative creation model. Freiling (2014, May 1).
+Appropriation/Collaboration. Retrieved from http://arts.umich.edu/news-features/appropriation-collaboration (accessed
+28 April 2018).
+
+2 Woodmansee and Jaszi are the proponents of the theory that, the traditional notion of authorship in copyright law is based
+on the romantic conception of the author as a solitary genius who creates intellectual content flowing from his own personal
+inspiration and devoid of external influence as further elaborated in Jaszi (1991) and Woodmansee (1984). See also Rose
+(1993) who observes that, “Copyright is founded upon the concept of the unique individual who creates something original
+and is entitled to reap the profit from those labors” (p. 2).
+
+3 For example, the collaborative graphic art project entitled “Sheep Market” launched by Aaron Koblin. See www.aaronkoblin.
+
+com/work/thesheepmarket (accessed 2 February 2018).
+
+4 See also Reuveni (2007, pp. 258–289).
+5 Wikipedia is a web-based, free-content encyclopedia that is supported by the Wikimedia Foundation. See https://en.
+
+wikipedia.org/wiki/Wikipedia (accessed 2 February 2018).
+
+6 VLC is a free and open source cross-platform multimedia player. See http://www.videolan.org/vlc/
+
+(accessed 2
+
+February 2018.
+
+7 Debian is a free and open source operating system that is based on the Linux kernel and the FreeBSD kernel. See https://
+
+www.debian.org/intro/about.en.html#what (accessed 2 February 2018).
+
+8 A “work” or a “work of authorship,” is the object of copyright protection. It may be defined in different ways in different legal
+systems. However, all systems agree that a “work” constitutes expression that satisfies the criterion of originality required
+under that particular copyright law system. As Madison (2017) observes, “[j]ust as the author is copyright's person, the work
+is copyright's thing” (p. 3).
+
+9 von Hippel, E (n.d.). Definition of open collaborative innovation. In Financial Times. Retrieved from http://lexicon.ft.com/
+Term?term=open-collaborative-innovation (accessed 2 February 2018). See also Baldwin and von Hippel (2011), p. 1403.
+10 The project was operative from July, 2012 to August, 2014. See www.exquisiteforest.com/concept (accessed 2
+
+February 2018) for further information on the concept of the project and the POCC model employed by it.
+
+11 See term and conditions of submitting contributions to the project at http://www.exquisiteforest.com/terms (accessed 2
+
+February 2018).
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+3
+
+3
+
+S
+
+d
+g
+e
+l
+
+k
+
+w
+e
+r
+o
+
+e
+).
+d
+
+d
+l
+e
+l
+
+.
+
+.
+
+2
+
+/
+
+l
+d
+k
+
+/
+.
+
+2
+
+2
+
+MENDIS
+
+| 373
+
+12 See http://foldingstory.com (accessed 2 February, 2018).
+13 As per the terms of access and use of the Folding Story platform, available at http://foldingstory.com/terms/ (accessed 2
+
+February 2018).
+
+14 See Chesborough (2003) for a description of the concept of “open innovation” and Benkler (2017) who discusses “open
+
+access” in the context of informational commons.
+
+15 As noted by Fuster Morell (2014), “[o]penness to participation is made operative through the provision of channels that
+allow intervention in content creation, as well as through the protocols that guide those channels. Protocols refer, for
+example, to low requirements for credentials to participate” (p. 291).
+
+16 The “openness” of the use of the intellectual content and the autonomy enjoyed by each user is also encapsulated in
+Benkler's (2016) definition of “openness” (in the context of peer-production) in terms of the, “freedom to operate without
+having to translate one's ideas or initiatives into someone else's decision over purse strings or authority structures” (p. 104).
+It can also be described in terms of Madison, Frischmann and Strandberg's (2010) definition of “openness” as the capacity to
+relate to a resource by accessing and using it and the absence of barriers to use. (p. 695).
+17 On indirect interaction through the act of creation see Clément-Fontaine (2014), p. 175.
+18 Crumley (1995) defines a heterarchy as “(. . .) the relation of elements to one another when they are unranked or when they
+
+possess the potential for being ranked in a number of ways” (p. 3).
+
+19 See also Forte and Bruckman (2005, p. 4) for a discussion as to how peer-recognition (credit) can manifest itself as
+
+credibility within the community.
+
+20 As observed by Craig (2011, p. 11), within the theoretical framework of copyright law authorial activity is viewed as an
+
+individual act rather than a communicative act.
+
+21 For an exploration of the genesis of the conception of the author as a solitary genius in literary theory and copyright law see
+Woodmansee (1984). See also Jaszi (1991) for a critical analysis of copyright law's construct of the author as a romantic
+solitary genius.
+
+22 In the decision delivered by the United States Court of Appeals (9th Circuit), in the case of Ashton-Tate Corp. v. Ross [1990]
+916. F. 2d. 516, 522, it was affirmed that where a contribution is made to a pre-existing work it would not result in a joint
+work but in a derivative work. Similarly, Bently and Sherman (2014, p. 131) observe that poem written by one person and
+translated by another will not constitute a joint work but a derivative work.
+
+23 CA Versailles 4 octobre 2001, Thomas et SARL Ready Soft c. SARL Codat Informatique et Mattern, 327 RJDA 3/2002, 276.
+24 ibid at p. 278.
+25 ibid.
+26 ibid at p. 279.
+27 A collective work (oeuvre collective) is defined in Article L 113–2 of the Intellectual Property Code of France as a, “work
+created at the initiative of a natural or legal person who edits it, publishes it and discloses it under his direction and name and in
+which the personal contributions of the various authors who participated in its production are merged in the overall work
+for which they were conceived, without it being possible to attribute to each author a separate right in the work as created.”
+(Emphasis added).
+
+28 See decision delivered by the United States Supreme Court in the case of Community for Creative Non-Violence v Reid [1989]
+
+490 US 730, paragraph 11.
+
+29 See p. 803 of the decision delivered by the United States Court of Appeal (7th Circuit) in the case of Seshadri v Kasraian
+[1997] 130 F.3d 798 where it was determined that the assistance provided by a research assistant, secretary or draftsman
+in the preparation of scholarly paper does not entitle the persons providing such assistance to claim the status of joint
+author.
+
+30 See paragraph 25 of the decision delivered in the case of Fylde Microsystems Ltd v Key Radio Systems Ltd. [1998] FSR 449,
+where the High Court of Justice held that in inquiring into a claim of joint authorship in a computer programme it was
+necessary to determine whether the putative joint author has contributed the right kind of skill and labour that could
+amount to authorship or joint authorship of the programme.
+
+31 See paragraph 79 of the decision delivered in the case of Cyprotex Discovery Ltd. v University of Sheffield [2004] RPC 4,
+where the Court of Appeal held that, the contribution made by the University of Sheffield in the creation of a computer
+programme did not qualify it to be recognized as a joint author of that programme since its contribution was limited to the
+provision of background information and test data, checking the first phase of the programme etc. and that a claim to joint
+authorship of a computer program could established only where the participant had written or contributed to a significant
+extent in writing the programme (or any of its constituent parts) by way of authorship.
+
+M
+
+C
+C
+
+C
+
+D
+D
+
+D
+F
+
+F
+
+F
+
+G
+
+G
+G
+
+G
+J
+L
+M
+M
+
+P
+P
+R
+R
+V
+V
+V
+
+W
+
+W
+
+74
+2 |
+
+MENDIS
+
+32 Such overwriting is allowed within certain creation projects that use the POCC models such as Wikipedia, though not all.
+33 I do not consider contributions that are rejected at the outset by the community or by the curators of the project for being
+inappropriate and/or damaging to the quality of the POCC work, since these contributions are not considered to be
+absorbed into the POCC work in the first place, which denies authorship to these contributors.
+
+34 Childress v. Taylor [1991] 945 F. 2d. 500.
+35 This is reflected in the classical criterion of originality in French copyright law which requires that the work reflects the
+stamp of the author's personality (Vivant & Bruguière, 2013, p. 266). In the UK, originality is defined as origination in the
+sense that the work originates from the author's skill, labor and judgment (Bently & Sherman, 2014, pp. 96–97).
+
+36 McMillan and Company Ltd. v K and J Cooper (1924) 40 TLR 186,188.
+37 Interlego v. Tyco Industries [1989] AC 217, 268.
+38 Le Prince Igor Paris 7e ch. 8 juin 1971: D 1972 383.
+39 See also Clément-Fontaine (2014, p. 282) who is also of the opinion that such a spiritual intimacy cannot be attributed to
+
+collaborators of an open work due to an absence of direct interaction among them.
+
+40 Robin Ray v Classic FM [1998] FSR 622
+41 Hadley v Kemp [1999] EMLR 589
+42 Stuart v Barrett and Others [1994] EMLR 448
+43 Dolin distinguishes between the approach of the Ninth Circuit and the approach of the Seventh Circuit that uses an intent-
+
+based test that require contributors to prove intention to merge their contributions into a single work.
+
+44 Aalmuhammed v Lee [2000] 202 F. 3d 1227.
+45 ibid at p. 1235.
+
+ORCID
+
+Sunimal Mendis
+
+http://orcid.org/0000-0003-4272-1706
+
+REFERENCES
+
+Aufderheide, P., (2013). Creativity, copyright and authorship. In C. Chris, & D. Gerstner, (Eds.), Media authorship (pp. 21–36).
+
+New York: Routledge.
+
+Baldwin, C., & von Hippel, E. (2011). Modeling a paradigm shift: From producer innovation to user and open collaborative
+
+innovation. Organization Science, 22, 1399–1417.
+
+Benkler, Y., (2016). Peer production and cooperation. In J. M. Bauer, & M. Latzer, (Eds.), Handbook on the Economics of the
+
+Internet (pp. 91–119). Cheltenham: Edward Elgar.
+
+Benkler, Y., (2017). Open-access and information commons. In F. Parisi, (Ed.), The oxford handbook of law and economics:
+
+Volume 2: private and commercial law (pp. 256–279). Oxford: Oxford University Press.
+
+Bently, L., & Sherman, B. (2014). Intellectual property law (4th ed.). Oxford: Oxford University Press.
+Biron, L., & Cooper, E. (2016). Authorship, aesthetics and the artworld: Reforming copyright's joint authorship doctrine. Law
+
+and Philosophy, 35, 55–85.
+
+Bruns, A., (2006). Towards produsage: Futures for user-led content production. In F. Sudweeks, H. Hrachovec, & C. Ess, (Eds.),
+
+Cultural attitudes towards communication and technology (pp. 275–284). Tartu: Murdoch University.
+
+Buccafusco, C. (2016). A theory of copyright authorship. Virginia Law Review, 102, 1229–1295.
+Camarinha-Matos, L. M., & Afsarmanesh, H. (2006). Collaborative Networks: Value Creation in a Knowledge Society. IFIP
+International Conference on Knowledge Enterprise. Shanghai, China. Retrieved from https://www.researchgate.net/
+publication/237142495_Collaborative_networks_Value_creation_in_a_knowledge_society_invited_keynote_paper (accessed
+2 February 2018).
+
+Chesborough, H. (2003). The era of open innovation. MIT Sloan Management Review, 44, 35–41.
+Clément-Fontaine, M. (2014). L’oeuvre Libre. Brussels: Larcier.
+Clément-Fontaine, M., (2017). Communauté Epistémique (Numerique) (Approche Juridique). In M. Cornu, F. Orsi, & J.
+
+Rochfeld, (Eds.), Dictionnaire des biens communs (pp. 237–238). Paris: Presses Universitaires de France.
+
+Cooper, E., (2004). Reassessing the challenge of the digital: An empirical perspective on authorship and copyright. In M. van
+
+Eechoud, (Ed.), The work of authorship (pp. 175–214). Amsterdam: Amsterdam University Press.
+
+MENDIS
+
+| 375
+
+Cornish, W. R. (1999). Intellectual property (4th ed.). London: Sweet and Maxwell.
+Craig, C. J. (2011). Copyright, communication and culture: Towards a relational theory of copyright law. Cheltenham: Edward
+
+Elgar.
+
+Crumley, C. L.
+
+(1995). Heterarchy and the Analysis of Complex Societies. Archeological Papers of the American
+Anthropological Association. Retrieved from http://web.sonoma.edu/users/p/purser/Anth590/crumley%20heterarchy.
+pdf (accessed 14 February 2018).
+
+Desbois, H. (1978). Le droit d'auteur en France (3rd ed.). Paris: Dalloz.
+Dolin, M. (2011). Joint authorship and collaborative artwork created through social media. American Intellectual Property Law
+
+Association Quarterly Journal, 39, 535–561.
+
+Dusollier, S. (2016). ERC INCLUSIVE: Research project context and methodology. Sciences Po Paris, [Unpublished].
+Forte, A., & Bruckman, A. (2005). Why do People Write for Wikipedia? Incentives to Contribute to Open-Content Publishing.
+from http://www.andreaforte.net/
+
+paper, ACM Conference. Retrieved
+
+GROUP 05 workshop
+ForteBruckmanWhyPeopleWrite.pdf (accessed 2 February 2018).
+
+position
+
+Freiling, R. (2014, May 1). Appropriation/Collaboration. Retrieved from http://arts.umich.edu/news-features/appropriation-
+
+collaboration (accessed 28 April 2018).
+
+Fuster Morell, M., (2014). Governance of online creation communities for the building of digital commons: Viewed through
+the framework of the institutional analysis and development. In M. L. Madison, B. M. Frischmann, & K. J. Strandberg, (Eds.),
+Governing knowledge commons (pp. 281–312). Oxford: Oxford University Press.
+
+Garnett, K., Davies, G., & Harbottle, G. (Eds.). (2011). Copinger and Skone James on Copyright Volume I (16th ed.). London: Sweet
+
+and Maxwell.
+
+Ginsburg, J. C., & Gorman, R. (2012). Copyright law. New York: Foundation Press.
+Glott, R., Schmidt, P., & Gosh, R. (2010). Wikipedia Survey-Overview of Results. Retrieved from http://www.ris.org/uploadi/
+
+editor/1305050082Wikipedia_Overview_15March2010-FINAL.pdf (accessed 2 February 2018).
+
+Goldstein, P. (1989). Copyright: Principles, law and practice. Boston: Little Brown.
+Jaszi, P. (1991). Toward a theory of copyright: The metamorphoses of authorship. Duke Law Journal, 40, 455–502.
+Lucas, A., Lucas, H.-J., & Lucas-Schloetter, A. (2012). Traité de la propriété littéraire et artistique (4th ed.). Paris: Lexis Nexis.
+Madison, M. J. (2017). IP things as boundary objects: The case of the copyright work. MDPI Laws, 6, 1–44.
+Madison, M. J., Frischmann, B. M., & Stranderberg, K. J. (2010). Constructing commons in the cultural environment. Cornell
+
+Law Review, 95, 657–709.
+
+Patry, W. F. (2006). Patry on copyright. USA: Thomson West Publishing.
+Pollaud-Dulian, F. (2014). Le Droit d’Auteur (2nd ed.). Paris: Economica.
+Reuveni, E. (2007). Authorship in the age of the conducer. Journal—Copyright Society U.S.A., 54, 285–343.
+Rose, M. (1993). Authors and owners: The invention of copyright. Cambridge: Harvard University Press.
+Versteeg, R. (1996). Defining’ author’ for purposes of copyright. The American University Law Review, 45, 1323–1366.
+Vivant, M., & Bruguière, J.-M. (2013). Le Droit d’auteur et Droits Voisins (2nd ed.). Paris: Dalloz.
+Volker, W., & Hanekop, H. (2011). New Forms of Collaborative Innovation and Production on the Internet. Göttingen: Göttingen
+
+University Press.
+
+Woodmansee, M. (1984). The genius and the copyright: Economic and legal conditions of the emergence of the ‘Author’.
+
+Eighteenth Century Studies, 17, 425–448.
+
+Woodmansee, M., & Jaszi, P., (1994). Introduction. In M. Woodmansee, & P. Jaszi, (Eds.), The construction of authorship: Textual
+
+appropriation in law and literature (pp. 1–14). Durham and London: Duke University Press.
+
+How to cite this article: Mendis S. Public open collaborative creation (POCC): A new archetype of
+authorship?. J World Intellect Prop. 2018;1–17. https://doi.org/10.1111/jwip.12116
+
+ 2019;22:59–75. https://doi.org/10.1111/jwip.12116
+
+S
+
+.
+
+g
+e
+
+e
+e
+
+o
+
+-
+
+).
+
+e
+
+e
+
+s:
+
+w
+
+),
+
+P
+/
+d
+
+.
+
+n
+
+

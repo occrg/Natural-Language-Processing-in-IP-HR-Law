@@ -1,0 +1,1495 @@
+International Journal of Cultural Property (2007) 14:241–266. Printed in the USA.
+Copyright © 2007 International Cultural Property Society
+DOI: 10.1017/S0940739107070075
+
+A Line in the Sand? Explorations of the
+Cultural Heritage Value of Hominid,
+Pongid, and Robotid Artifacts
+Dirk H. R. Spennemann*
+
+Abstract: Although cultural heritage management is an inherently retrospective
+discipline, there is a need for strategic forward thinking. Too many valuable
+heritage places have been lost because they are not recognized and assessed in
+time. As cultural heritage management begins to examine modern structures
+and sites, this paper takes strategic thinking in cultural heritage management
+one step further and addresses the management of artifactual material created
+by our closest relatives, the great apes. Given the increasing understanding that
+chimpanzees have cultures and traditions in tool use, there is a need to
+recognize their heritage value in reference to human evolution.
+
+Expanding the concept of nonhuman heritage into the future, it is now also
+time to explore how to deal with the artifacts that the first artificial intelligence
+(AI)-imbued, self-reflecting robots will create. By extension, which artifacts will
+be kept along the way? The contemplation of the role of nonhuman heritage
+will ultimately foster a reappraisal of human heritage. The article outlines some
+of the conceptual issues that must be addressed if our heritage is to have an
+ethical future.
+
+INTRODUCTION
+
+Heritage is a human construct. In a broad conceptual framing, cultural heritage is
+the result of humankind’s interactions with their environment and one another.
+The outcome of these processes is reflected in a number of forms and is generally
+divided within two typologies of tangible (built environment, sites, landscapes,
+objects, and artifacts) and intangible cultural heritage (language, folklore, skills
+and customs, folklore, skills, and customs).1 This paper is only be concerned with
+
+*Institute of Land, Water and Society. Email: e-mail dspennemann@csu.edu.au
+
+241
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+242
+
+DIRK H. R. SPENNEMANN
+
+the tangible aspects. Heritage managers assess the values projected onto cultural
+heritage places (and artifacts) by the public against predetermined criteria to de-
+termine their significance. Preservation theory holds that this process enables im-
+portant aspects of the past to be identified, protected, and managed for the benefit
+of present and future generations.2
+
+Subjective valuation, revaluation, and ultimately prioritization occur consciously
+and subconsciously on a continual basis. As with all values, cultural heritage val-
+ues are variable between communities as well as between socioeconomic layers
+within a community. Moreover, values are mutable qualities that change both in
+intensity of conviction and in general over time, and thereby create a semifluid
+state in heritage valuations.3
+
+HERITAGE AND STRATEGIC FORESIGHT
+
+The field of futures studies researches the medium- to long-term future of soci-
+eties and their setting, the physical world, encompassing the mechanisms as well
+as the driving forces of change. Because the future is neither predictable nor pre-
+determined, but will be influenced by the choices we make in the present, a subset
+of future studies is concerned with foresight. The research direction of strategic
+foresight, defined as “the ability to create and maintain high-quality forward views
+and to use the insights arising in organizationally useful ways”4 is particularly
+apposite when considering the management of cultural heritage. The aim is to
+expand the present-day conceptual horizon by forward-projecting present obser-
+vations and trends and interpreting their potential future significance.
+
+Given that by its nature, cultural heritage management is an intensely retro-
+spective discipline, it is not very surprising that future studies have been rare in
+the discipline. Even front-end technologies such as space exploration received (and
+in many cases still receive) mainly retrospective assessments only once it was (al-
+most) too late.5 True future studies are limited to discussion of the management
+of space technology such as orbiting satellites6 as well as the future heritage man-
+agement of sites currently in existence on other celestial bodies and out of reach
+of human interference.7 All these issues, however, are still confined to the human
+sphere of heritage.
+
+By starting a discussion on the future of robotic heritage and by looking at the
+question of how we might manage heritage sites created by future AI-imbued ro-
+bots, the anthropocentric paradigm of heritage management that has recently been
+challenged.8 This article is an extension of the previous assessment and concerns
+itself with the current and future management of heritages other than human: in
+particular the moveable cultural heritage of the great apes and that of robots.
+
+This article first summarizes the nature of hominid artifacts and then expands
+the discussion to explore the status of pongid-generated artifacts. Conceptually,
+this is just a logical extension of the anthropocentric concept of heritage, as we
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+A LINE IN THE SAND
+
+243
+
+are, after all, assessing the heritage potential of artifacts and sites created by our
+closest physical ancestors. The second part of the paper will consider the future
+heritage management of artifacts created by AI-imbued robots—whom we could,
+and should, consider to be our intellectual children.
+
+Hominid archaeology is seen by most practitioners as a means of understand-
+ing who we are and how we came to be the humans we are at present. Despite
+often-conflicting interpretation and robust debate, archaeological excavations are
+considered a means to research aspects ranging from an investigation of tool pro-
+duction and manipulative skills9 as well as human diet10 to understanding cog-
+nitive evolution11 and the development of social behavior.12 Thus, a study of the
+technological development of our direct ancestral lineage is of great importance.
+Yet, no archaeologist would argue that the study of Neanderthal tool use should
+be abandoned; even though it is very persuasive from a monophyletic point of
+view that Neanderthals were not in our direct ancestral lineage,13 but actually an-
+other species of Homo (neanderthalensis), moreover a species that our own spe-
+cies, Homo sapiens, extinguished some 30,000 years ago. The study of pongid sites
+and artifacts is merely an extension of the concept, looking at a genus (Pan spe-
+cies) that split off at the tribal level (see Figure 1). Just as the study of the cultural
+heritage of our direct ancestral lineage provides insight into who we are, and just
+as the study of Neanderthal sites provides a means to compare ourselves with con-
+temporaries at that time, so the study of the (cultural) heritage of chimpanzees
+and other great apes will provide reference points to our own self.
+
+Furthermore, with technological innovation running at an ever-faster rate, ad-
+vances in robotic development, on the technological (consider RoboCup14 or Hon-
+da’s ASIMO), the conceptual,15 and the commercial front (NEC’s PaReRo200316)
+are poised to revolutionize our lives. Migrating from pure mechano-logical pro-
+graming to fuzzy logic, AI is trying to replicate the actions of animal brains. The
+Darwin robot series is a case in point.17 Unbeknownst to most users, AI has al-
+ready become quite pervasive in modern society; and robotic appliances are en-
+tering the consumer market in a series of guises.18
+
+Thus, AI-aided applications are already all-pervasive in modern life. As these
+AI-imbued robots become ever more powerful (in terms of intellectual computing
+
+FIGURE 1. Monophyletic relationship between humans and the great apes.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+244
+
+DIRK H. R. SPENNEMANN
+
+power), in the near to medium-term future they could very well generate a set of
+artifacts that are derived from human-independent reasoning. Applying the pre-
+cautionary principle,19 as well as meeting the obligations of responsible steward-
+ship20 heritage, practitioners must curate such items in an ethical fashion so future
+generations can retrospectively evaluate and make a final decision what to retain
+and what to discard.
+
+DEFINITIONS
+
+It is understood that a recent reclassification of the human and pongid family tree
+based on genetics has seen a reclassification of the interrelationship (see Figure 1),
+with the family Hominidae now including all great apes. Orangutans belong to
+the subfamily Ponginae, and all others belong to Homininae. At the tribe level,
+gorillas split out into Gorillini, whereas chimpanzees and humans are combined
+into Hominini,21 which in turn split at the genus level.
+
+For the purposes of this article, the traditional anthropological, and effectively
+anthropocentric, definition model is used that places all great apes into one group,
+irrespective of actual monophyletic genetic closeness to humans (as shown in
+Figure 1).
+
+For the purposes of this article, three terms need to be defined and clarified:
+
+Pongid includes all species deemed to belong to the (former) pongid lineages as
+traditionally understood by anthropologists. This includes the modern spe-
+cies of gorilla (Gorilla gorilla; Gorilla beringei ), orangutan (Pongo abelii; Pongo
+pygmaeus), and chimpanzee (Pan troglodytes; Pan paniscus).
+
+Hominid includes all species deemed to belong to the hominid lineages as
+traditionally understood by anthropologists. This includes Homo sapiens—
+us—as all other species of the genus Homo (i.e., Homo erectus, H. neander-
+thalensis, etc.).
+
+Robotid is a term specifically coined for this paper, to sit alongside the previ-
+ously mentioned terms. It extends to all variants of robots where the ma-
+chines have some degree of ability for independent decision-making based
+on AI algorithms.
+
+Although the evolutionary processes for all lineages are of course continuing,
+all available evidence for the processes for the pongid and hominid lineages rest in
+the past. Conversely, most evolutionary processes for robotid lineages will take
+place in the immediate and medium-term future.
+
+HUMAN-CREATED ARTIFACTS
+
+One early scientific definition for the dichotomy between animals and humans
+was the axiom that humans used tools, whereas animals did not. Benjamin Franklin
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+A LINE IN THE SAND
+
+245
+
+most prominently expressed it when he commented, “man is a tool-making ani-
+mal.”22 Franklin’s view held much import for the interpretation of human devel-
+opment and influenced, inter alia Karl Marx; and through Marx’s monumental
+work Das Kapital,23 generations of socialists.
+
+That definition, which soon became more generalized to encompass mere tool
+use, could be sustained for almost 200 years24 until studies of primate behavior by
+Jane Goodall25 showed that primates, too, were able to use tools. Indeed, it was
+soon found that tool use was not confined to primates but can be demonstrated
+for birds26 and sea otters.27
+
+If the use of tools did not suffice as a discriminant feature, it was necessary to
+return to the initial dichotomy of the manufacture of tools. However, as is dis-
+cussed in the following section in more detail, studies of primate behavior showed
+that primates, too, were able to make tools. This occurred not only in laboratory
+settings but also in their natural environments. Thus, the level of separation had
+to be raised a further notch. The manufacture of tools that defined humankind
+was the manufacture of tool not for simple task, but to create a tool to make a tool
+to carry out a task. It was this major cognitive step that defined the new boundary.
+The ancestry of human tool use and manufacture has long been debated. Early
+hominid use of unmodified flake tools (flakes struck by percussion flaking of a peb-
+ble core), labeled the Oldowan Industrial Complex, goes back 2.5 million years ago
+(Ma).28 Based on the unmodified and accidentally modified tool use observed among
+chimpanzees (see the following text), it has been speculated that evidence of even
+earlier use may have not been recognized in the archaeological record.29 Much of the
+speculation depends on the correlation of the morphological characteristics of the
+chimpanzees and early hominid ancestors based on brain capacity and hand anatomy.
+To meet the raised cognitive test previously outlined, however, we have to wait
+1.5 million years with the advent of large core tool technologies of the Acheulean
+Industrial Complex, where humans reduced a pebble to shape it into a tool.30
+
+ANIMAL-CREATED ARTIFACTS
+
+There is little need to comment in any detail on the curating of human-created
+artifacts. There is a plethora of publications and manuals written for museums
+and archives dealing with the curating of archaeological materials, artworks, tex-
+tiles, photographs, paper-based items, and so forth.
+
+Although tool use among animals has long been observed, such as the
+Woodpecker Finch using twigs to extract larvae from decaying wood31 or, more
+recently, the use of sponges by bottle-nosed dolphins,32 most such use is limited
+to objects of preexisting shape. The New Caledonian crow appears to be the only
+nonprimate able to select appropriate tools and if need be shape them to size.33
+However, primates have demonstrated the capability to shape a range objects to
+suit the task at hand: in short, to make tools.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+246
+
+DIRK H. R. SPENNEMANN
+
+Primate-Created Tools in Natural Environments
+
+Tool use among great apes has been documented in captivity for gorillas,34 com-
+mon chimpanzees,35 Bonobos,36 and orangutans,37 as well as other species of plat-
+yrrhine and catarrhine monkeys.38 However, only the great apes show the ability
+to comprehend causal relations and thus modify tools (in experimental situa-
+tions).39 In the natural environments, these observations are confined to chim-
+panzees40 and orangutans.41 Most primate tool use has been related to gathering
+food. In addition, we have recent observations where a female gorilla was ob-
+served using a stick to test the depth of a pond before proceeding, while another
+female gorilla used a tree trunk as a makeshift bridge.42 This shows a level of re-
+flective thought, neither of which is associated with food procurement.
+
+In addition, research has attributed some level of culture at least to chimpan-
+zees inasmuch as they exhibit traditions of grooming, calling, and tool use that
+suggest intergenerational learning and differentiation by one group from another.43
+Chimpanzees in the Taï Forest in the Ivory Coast collect stones and use them as
+nutcracking implements. A scatter of stone flakes is gradually formed around spec-
+ified sites where unmovable anvils exist. The hammer stones were of varied raw
+materials, some of which were transported to the nutcracking site from source
+locations of up to 2 km away. Some assemblages have been excavated by archae-
+ologists and studied for their similarities with early hominid sites.44 The authors
+claim that the artifacts from the Taï Forest site “resemble some Early Stone Age
+industries from East Africa.”45 That has been criticized by others who claim that
+any modification of the stone hammers and anvils is accidental.46 At the present
+state of study and observation of chimpanzee populations living in their natural
+environments, stone use is limited to unmodified stones. Stone flaking, a skill that
+could be taught to chimpanzees in captivity (see the following text), does not seem
+to occur in the natural world.47
+
+Primate-Created Tools in Human-Controlled Environments
+
+The debate on human consciousness and learning has also created a debate that
+has looked at the ability of great apes to learn and perform cognitive tasks under
+controlled laboratory conditions. A number of pongids in captivity have been taught
+how to use and flake stone tools.
+
+The pioneering study was carried out in 1971 by Richard Wright who demon-
+strated to a 5 1
+_-year-old captive male orangutan, Abang, how to use a stone tool to
+2
+cut a string that kept shut a box with food. The orangutan could copy the action
+after 9 demonstrations and 12 trial event exposures. Subsequent trial events all
+resulted in success. In the continuation of the experiment, Wright demonstrated
+to the orangutan how to strike a stone flake off a core. After six demonstrations
+and seven trial events the orangutan succeeded in striking a chip off the core,
+which he repeated in the following attempt. After another demonstration, the orang-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+A LINE IN THE SAND
+
+247
+
+utan managed to copy that skill and strike off flakes in the following three trial
+events. After the last attempt Abang proceeded to use the flake to open the box.
+Filming of the orangutan 10 days after the last event showed that he was able to
+strike flakes and cut the string of his own accord.48 The study carried was pio-
+neering in its scope, but in the final summation it only demonstrated that a
+orangutan had the imitative capacity to learn to make tools and put them to a
+(predefined) use. The study, as Wright himself counselled, was not designed to
+test intuitive problem solving.
+
+The experimental setup was repeated by Nick Toth and Kathy Schick starting
+in 1991; they carried out a series of experiments with a 9-year-old Bonobo (Pan
+paniscus), Kanzi. Striking flakes off a core and using them to cut string and keep
+shut a food reward box was briefly demonstrated. Kanzi soon acquired the skill
+to carry out the task, continually improving his abilities to flake. In view of the
+long-term experiment, Toth and Schick demonstrated that the Bonobo carried
+out an innovation. Kanzi found that throwing the hammer stone at the core
+provided better results, possibly because of the larger force exerted in that way.
+The longitudinal study, to which another Bonobo has been added, has yielded a
+large number of tools that could be analyzed in a fashion akin to human stone
+tools.49
+
+The important observation made by the researchers was that Kanzi was able,
+over 3 years of observation, to improve his skill at producing flakes,50 indicating
+that Bonobos are capable of improving of skills through practice.
+
+Curating Animal-Created Artifacts
+
+Commencing with the curiosity cabinets of the sixteenth century, there is a long
+tradition in collecting human artifacts with a range of institutions worldwide.
+Common to all major museums and archives is that they have a collections pol-
+icy grounded in the ethical management and curating items long term to ensure
+that they do not deteriorate.51 These museums tend to divide along traditional
+lines of scientific enquiry into the human and the natural animate and inani-
+mate world. The artifacts of human endeavor are collected in museums of ar-
+chaeology, ethnography, art, and folklore, as well as in archives and libraries. The
+animal world is collected in live form in zoos as well as in natural history mu-
+seums. Do the items derived from the studies of great ape tool use belong into
+the realm of natural history museums, or should they be part of an archaeological/
+anthropological collection? And what about the material culture created by ani-
+mals in captivity? Who collects that? And what kind of collections policy should
+be applied?
+
+The excavation at the Tai Forest sites by Mercader and coworkers52 has created
+congruence between primatological behavioral research on one hand and pale-
+oanthropological and archaeological research on the other. The traditionally an-
+thropocentric discipline of archaeology has been widened to consider pongid sites.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+248
+
+DIRK H. R. SPENNEMANN
+
+The findings of the research are significant and the excavated material culture of
+the chimpanzee population must be curated in an ethically acceptable way so fu-
+ture generations have the opportunity to compare. This is even more imperative
+considering that the chimpanzee group is capable of learning and that, at some
+point in time, technological change may in fact occur.
+
+At present the research into chimpanzee generated sites is limited; the full vari-
+ation within the tool manufacturing process is unknown, neither is there a full
+understanding of how common such sites are. Both are of requirements for the
+assessment of these within the concept of cultural heritage management. This then
+raises the question of how the material, both from the excavations and experi-
+ments previously mentioned, is being curated. The artifacts derived from these
+excavations at the Tai Forest sites are curated at the researcher’s academic institu-
+tion. The artifacts created by the orangutan Abang in Wright’s pioneering study of
+1971 are still in the researcher’s possession53 and thus subject to the vagaries of
+domestic house fires and the like. There are no formal plans for where these ar-
+tifacts will be curated in the long term, but a future holding in public hand can be
+anticipated. The artifacts created by the Bonobo Kanzi as part the Toth and Schick
+study are held at the Centre for Research into the Anthropological Foundations of
+Technology, at Indiana University.
+
+The underlying questions about how these artifacts should be valued, and how
+
+these values should be assessed, are addressed later in the article.
+
+ARTIFICIAL INTELLIGENCE-CREATED ARTIFACTS
+
+New developments in AI have seen the gradual development of computing algo-
+rithms that can out-think grandmasters at the game of chess,54 analyze and create
+music,55 art,56 develop and self-learn construction rules,57 develop new car body
+shapes, influence transportation systems,58 or design aircraft parts.59 It can be used
+to equip machines with independent decision-making capabilities based on pre-
+defined grammatical (rather than fixed rule) sets, obviating the need for the pres-
+ence of humans. Not surprisingly, military applications have been at the forefront:
+Uncrewed combat vehicles60 and surveillance planes have been developed and de-
+ployed61 and are continually being given increased capabilities.62
+
+At the same time, new research is looking at the concept of genetic algorithms63
+and how they can be successfully employed to improve the performance of ro-
+bots.64 Parallel research considers the ability of (at present simple) robots to ob-
+serve the behavior of other robots and imitate it based on a stored set of possible
+outcomes.65 As these developments continue with ever-increasing pace, there can
+be little doubt that before long a robot will create the first artifact. That artifact
+will have been derived purely from the evolutionary thought processes of the robot
+rather than from human-designed preconditions to which the robot/genetic algo-
+rithm developed a solution.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+A LINE IN THE SAND
+
+249
+
+If we ignore the emergence of robot-generated sites from the consideration of
+this paper,66 at present the only artifacts generated by robots are confined to dig-
+ital constructs in the realm of genetic algorithms and artificial (digital) life forms.
+
+Issues Of Curating
+
+At present, no robots are included in national lists of cultural heritage items pro-
+tected from export or destruction. Some museums (Smithsonian, Massachusetts
+Institute of Technology [MIT]) are collecting items of the information age, but
+none of this has been particularly systematic.
+
+Most research relating to robotics and AI is carried out by academics in a wide
+range of universities as well as by scientists in commercial settings (such as Sony,
+NEC, or Honda). The commercial realities of the modern world, with the devel-
+opment of intellectual property in inventions, mean that many of the intermedi-
+ate stages will be held in-house without formal collection and curating processes,
+apart from standard academic or laboratory diligence. Even where universities have
+set up museums of technology (such as MIT), there is no guarantee that the sig-
+nificant items created by university staff will eventually be handed to the museum
+for curating.67
+
+Some scholarly research on the matter has commenced, at least in the realm of
+computers, as is evidenced by the journals IEEE Annals of the History of Comput-
+ing as well as Iterations: A journal of Software History and the work carried out by
+the Charles Babbage Institute at the University of Minnesota.68 Science and tech-
+nology museums have been collecting examples of such equipment as part of their
+mission.69 There are also some web archives that focus on historic software.70
+
+CULTURE: A WORKABLE DICHOTOMY?
+
+Having considered aspects of material culture of hominid, pongid, and robotid
+design and some issues related to curating, it is now time to tie the discussion
+back to the question of cultural heritage management. Before considering the ques-
+tion of how the cultural heritage values of these three sets of artifacts are assessed
+(see the following text) it is necessary to establish whether there is a fundamental
+difference between these three typologies of artifacts, and if so, where the dichot-
+omous line can be placed. Since heritage management and evaluation, as well as
+the whole concept of ethics per se is a human construct, it is inevitable that the
+considerations presented later in the article will be rooted in human constructs
+themselves. One of the major concepts that influences the discussion is that of
+culture.
+
+As tool use, and later tool manufacture became untenable as a dichotomy be-
+tween humans and the great apes (and other animals), anthropologists have tended
+to position the key dichotomy at the concept of ‘culture.’ Culture has been re-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+250
+
+DIRK H. R. SPENNEMANN
+
+garded as an eminently human trait based on the “cognitive and learning mech-
+anisms by means of which such information is transmitted.”71 Definitions of human
+culture vary, subjectively based on the ideological standpoint of the interpreter.
+UNESCO 72 holds that “culture should be regarded as the set of distinctive spiritual,
+material, intellectual and emotional features of society or a social group, and that
+it encompasses, in addition to art and literature, lifestyles, ways of living together,
+value systems, traditions and beliefs,” which according to Bates and Plog73 “are
+transmitted from generation to generation through learning.”
+
+The definition of culture among ecologists is based on the assumption that any
+animal behavior that is not uniform across all members of the species but varies
+in circumscribed geographic areas and that cannot be explained either environ-
+mentally or genetically, must be learned behavior transmitted within a subpopu-
+lation.74 “Culture is information or behavior acquired from conspecifics through
+some form of social learning.”75 In that view, humans are merely other animals,
+where the intergenerational learning is more complex. Thus, the matrilineal trans-
+mission of the use of sponges to protect the vulnerable nose of bottlenose dol-
+phins has been described as cultural transmission76 and Rendell and Whitehead77
+in their review of cultural transmission among cetaceans analyzed a wide range of
+definitions of culture as used in the ecological literature.
+
+Culture Among the Great Apes
+
+Setting aside the literature on culture and dialect among song birds, as well as the
+growing number of studies on cetaceans, the main body of work on animal ‘cul-
+ture’ looked at the great apes—mainly because of their evolutionary proximity to
+humans. The key difference between the great apes and other animals also rests in
+the fact that primates are the only animals other than humans where multiple be-
+havioral elements have been observed.
+
+Several studies have been carried out to investigate the nature of culture among
+chimpanzees78 and orangutan.79 Studies of behavior and tool use among chim-
+panzees have shown that tool-use behavior is organized in traditions or cul-
+tures.80 A good example is nutcracking that is practiced among some groups but
+not among others, even though the latter are only 30 km away.81
+
+The study of the captive Bonobo Kanzi showed that an individual Bonobo could
+learn experientially, innovate on techniques, and improve his skills to create useful
+flakes.82 The key question is whether such skills would be passed on, intra- and
+intergenerationally and if so, how.
+
+Observations among chimpanzee populations have shown that intergenera-
+tional transmission of skills and cultural practices occurs but also that some tool
+use is invented yet dies out again without being adopted by most of the group. For
+this, group dynamics and the social standing of the inventor were held responsi-
+ble. The key difference rests in the fact that among human innovators the role of
+(formalized) teachers able to vocalize instructions must be considered. This is ab-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+A LINE IN THE SAND
+
+251
+
+sent in the chimpanzee world where imitators may exist but where the imitation
+may take on its own expressions.83
+
+Human culture provides ample evidence of the ratchet effect, whereby the plane
+of knowledge and thus learning complexity is raised from generation to genera-
+tion and where the next generation can critically interpret the cumulative results
+of the previous generations. This is largely absent among the chimpanzee popu-
+lations. But as Boesch and Tomasello84 rightfully point out, the line of evidence
+for the culture of chimpanzees is only very short because behavioral studies among
+the chimpanzee populations are only comparatively recent. Moreover, as Whiten85
+pointed out, the evidence from the early hominid sites demonstrates that the ratchet
+effect occurred in small increments that can only be identified in a time scale of
+hundreds of thousands of years.
+
+If we accept that culture is, essentially, a process where “information or behav-
+ior is acquired from conspecifics through some form of social learning,” and where
+this learning is reinforced through intergenerational emulation (among the great
+apes) and emulation and organized instruction (among humans), culture is no
+longer a valid measure and the dichotomy between animal and human must be
+placed at a different level.86
+
+Culture Among Robots
+
+The current discussion of culture among robots falls into three spheres: literary
+imagination; technological innovation; and technologically-informed conceptual-
+ization. All are relevant as they inform and influence each other.
+
+Created in 1920 by the Czech playwright Karel Cˇ apek for his play R.U.R. (Ro-
+sumovi Umeˇlí Roboti [Rossum’s Universal Robots]), the term robot87 soon re-
+placed automaton in most languages of the world. The concept was explored in a
+range of plays, novels, and films. Both academic and popular (science fiction) works
+quickly took to the term robotics, coined by Isaac Asimov in 1941 in the short
+story “Liar!”88 To create some order in his imaginary world, Asimov created a se-
+ries of behavioral rules.89
+
+Asimov’s laws of robotics assume the supremacy of humans, even though in
+earlier films (such as Metropolis) and plays (such R.U.R.) that is not given and the
+view is much darker. As Bartneck90 has shown, much of the contemporary pop-
+ular perception of robots as perpetuated by the media and entertainment indus-
+try is that people assume there are two types of robots: those would want to be
+like humans (e.g. Bicentennial Man) and those who are evil and wish to destroy
+the world (e.g., the Cylons in Battlestar Galactica). There is little conceptual work
+in the media that future robots may in fact have their own, different priorities
+and, eventually, their own value sets. That robot life forms will use humans as
+reference points for their value constructs may well be a fallible assumption: Ro-
+bots might merely regard humans as at the same level of abstraction they might
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+252
+
+DIRK H. R. SPENNEMANN
+
+regard other mammals, or in fact as they might regard any other carbon-based life
+form.
+
+Substantial work has been carried out on the design requirements and concepts
+of socially interactive robots91 with attitudinal research on how people would
+respond to social robots.92 Yet, many commercial applications still mimic human
+behavior as the following text from the NEC product information illustrates:
+
+[NEC created a] Behavior model [that] designs the robot character
+through the design of consistent behavior patterns based on the given
+character. For example, a robot can be designed by specifying his “likes”
+and “dislikes” such as “he loves dancing but astrology” [sic] “selfish and
+independent,” or “passive and obedient.” Based on the specified inter-
+ests, tastes, and characters of the robot, he evaluates each human-robot
+interaction, such as ‘fun’ or ‘boring.’ The collected evaluation results are
+used to define the next action, spontaneous behavior, and reaction to a
+questions by the user.93
+
+Although there is much talk about a robot culture, exercise care to avoid con-
+fusing the concepts. The Japanese electronics companies are proponents of a robot
+culture conceptualized in the same way as we would talk about a good food and
+dining culture (i.e., still focused on the human element).94 The construct of robot
+culture as posited in this article relates to the cultural construct originated by
+robots.
+
+Although the current commercial work imitates selected subsets of human be-
+havior, based on human concepts and values, little consideration has been given
+to the values robots themselves may hold and, ultimately, the concept of robot
+culture.
+
+The prerequisites for robots to develop culture in human terms would be for
+them to develop independent, critical, and self-reflective thought—in essence that
+a robot would gain consciousness and, ideally, self-awareness. The traditional key
+test for AI to have come of age, has always been the Turing Test.95 To answer the
+question whether machines can think, he proposed a variation of the imitation
+game96 where a machine takes the place of one of the humans in the closed-room
+scenario. A machine is deemed capable of thought if the human interrogator is
+unable to correctly identify the target individual (in this case as a machine) as
+often as the human fails to do in the entirely human setting.97 Often criticized as
+impossible and unrealistic, it is argued that the Turing Test would not measure the
+consciousness of a machine.98 At present there is no acceptable test to assess whether
+an AI design has consciousness. Many of the chatbots, starting with ELIZA,99 ap-
+pear to mimic real conversations; but in fact they have been carefully programed
+to respond to human-provided cue words in such a way that humans ignore the
+occasional non sequitur and generally interpret the responses as they wish; and
+thus they continue the conversation unaware that the machine answers but does
+not understand. The chatbots are, by their design, incapable of cognitive learning
+and development.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+A LINE IN THE SAND
+
+253
+
+From the perspective of cultural heritage management, it is crucial to define
+what the term culture should encompass. If the human concept of consciousness,
+is used, the development of a robot culture is a very long way off.100 Conversely, as
+in the case for the great apes, to propose an acceptance that culture is essentially a
+process where “information or behavior is acquired from conspecifics through some
+form of social learning,” and where this learning is reinforced through intergen-
+erational emulation, deems the matter somewhat different.
+
+There are already examples where robots learn from each other and optimize
+strategies of collaboration based on their situation.101 The definition of culture
+among the great apes also assumes that these traits and skills are spatially con-
+fined to one or more groups, while at the same time some neighboring groups do
+not share these traits. As a corollary among the robots, a set of identically de-
+signed machines is interpreted; they carry out a series of experimental simula-
+tions as populations, where each population executes the same experiment, but
+where the outcomes and thus the optimization strategies differ. It is worth exper-
+imenting to see whether these strategies, without human intervention and guid-
+ance (through programing), would become habitual; and in the next level, to add
+new but identical machines to the mix to see whether the learning process is
+intergenerational. Such models have already been run successfully in the fields of
+genetic algorithms.102
+
+At present there is no tangible manifestation of robot culture in the form of
+artifacts along those produced by the great apes either in captivity or in their
+natural setting. The closest such developments are the improved technological
+designs in the car and aircraft industry (see above).
+
+JUDGED BY WHOSE VALUES?
+
+Because cultural heritage and values in general are both human constructs, the
+values that underpin and circumscribe what people define as heritage are subjec-
+tive, individual, or communal but purely human projections onto an essentially
+value-free animate or inanimate world. The central figure in the valuations is the
+individual, and the central generation is the present one.103 So then, how should
+these items be valued?
+
+As de Waal104 pointed out, animal culture cannot be compared with human
+culture if the standards of human art, cuisine, science, and politics are applied.
+But what, he posited, if we “change perspective, and don’t measure them by our
+standards?”
+
+If we take the ecological definition of culture as the basis of our considerations,
+and thus regard human culture with its psychological complexities merely as an
+extremely well-developed set of cultural traits, the artifacts generated by the great
+apes are regarded as material culture. As such then they must be researched and
+evaluated to address regional and subregional variation, all of which can give
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+254
+
+DIRK H. R. SPENNEMANN
+
+evidence on the development of tool traditions among the early hominids105 and
+can illuminate human evolution.
+
+When considering the values projected onto pongid, hominid and robotid
+artifacts we have to consider the capabilities of the creators to exert value judge-
+ments, as well as our own contemporary human values that we are projecting on
+the moveable cultural heritage resources.
+
+Hominid Values
+
+Most modern humans value the past in one form or another. We are, of course, un-
+informed about how the early hominids valued their artifacts once they were no lon-
+ger used. Thus, the concept of hominid values must be constructed based on how
+we value(d) the artifacts of our more distant past. Bandi106 explored the percep-
+tions of the past held by European and Mediterranean cultures. He demonstrated
+that until the beginning of positivist thinking in the Age of Enlightenment, the past
+was regarded as better than the (then) present. The fall, the expulsion from para-
+dise as expressed in Judeo-Christian religion, as well as Golden Age of Greek and
+Roman thought are examples. Only with Rousseau, Schiller, and Kant did the present,
+and by implication the future, become more positive than the past.
+
+Although the discovery of Herculaneum and Pompeii was of significance for
+Renaissance art, it was only with the positivist frame of mind that humans began
+to seriously value the objects of their ancient past—and to collect them.107 thus
+there results an established a range of institutions, administrative processes, and
+rules of behavior to manage these expressions of the past.108
+
+Pongid Values
+
+The excavation at the Tai Forest sites has broadened the perception of archaeology
+from an anthropocentric discipline. It now also encompasses the behavior and
+tool use of chimpanzees. Although Mercader and colleagues109 and their com-
+mentators110 comment on the expansion of archaeology, they consider archaeol-
+ogy at present as a mere method to study the site and its contents. Yet, the excavation
+of chimpanzee sites forms an expansion of the concept that might entail a para-
+digm shift in opinion.
+
+What needs to be considered, however, is the extent of the conundrum of hav-
+ing to manage pongid heritage. Certainly, pongid heritage is in museum collec-
+tions. Although some humans may value this heritage, it is self-evident that the
+pongid creators of this heritage do not value the items once they are removed
+from their sites to museums. Moreover, as far as can be ascertained, no studies
+have been carried out that consider the extent of pongid reuse of an artifact in the
+natural setting, or on the reuse, or habitual use, of successful flakes created by Kanzi
+and the second Bonobo Panbanisha.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+A LINE IN THE SAND
+
+Robotid Values
+
+255
+
+As humanity’s values change in response to the new intellectual challenges posed
+by the increased capabilities of AI-derived robots, it is necessary to adjust the
+perceptions of heritage. Ultimately, consider that the present definition of cultural
+heritage must be flexible enough to include the actions of human-designed, but
+AI thinking robots in the not-so-distant future. Until such time that self-aware
+robots make their own decisions on the products of their own making, custodial
+decisions must be made for them. Heritage managers must consider whether to
+stand accused by future generations that the opportunity to collect robotid arti-
+facts and intermediate milestone artifacts slipped by.
+
+OUTLOOK
+
+As the article has shown, the issue of managing nonhuman cultural heritage of
+our close relatives among the great apes, and well as among our intellectual and
+technological children among the robots is quite real. By focusing on the biolog-
+ical concept, regarding culture as a behavior acquired from conspecifics through some
+from of social learning, the concept of cultural heritage management can expand
+from the hominid sphere to include aspects of pongid and robotid culture. Al-
+though pongids do not seem to value the cultural artifacts they have created, hom-
+inids should value them as they provide an insight into possible manifestations of
+their past. Although the tangible manifestation of robotid culture does not exist at
+present, the development of genetic algorithms with group learning ability, as well
+as the development of robotid technologies, suggest that this is not too far off.
+
+The difference between pongid and robotid cultural heritage rests in the fact
+that robots, once self-awareness has been reached, can to develop their own value
+sets and thus make their own decisions regarding the management of cultural her-
+itage. Until such time, however, hominids, as intellectual parents, must act as cus-
+todians and protect the manifestations of emergent robotic heritage.
+
+The article has raised some serious issues relating to our construction of heritage
+and how that may apply to artifacts created by robots capable of (semi)indepen-
+dent thought through improved AI algorithms. Although some issues appear quite
+futuristic in concept, always remember that the technological developments are pro-
+gressing at an ever-accelerating pace. The fact remains that it is only a matter of time
+before the question arises: What is the nature and future of the earth’s robotic her-
+itage? The implications of the matter must be seriously considered, lest by future gen-
+erations accuse preceding generations of not protecting the emerging heritage when
+there was an opportunity. The precautionary principle should apply in this case.
+
+Cultural heritage managers have traditionally drawn a line in the sand and con-
+fined their activities, as well as their conceptual thinking to the human-derived
+world. With the winds of change blowing, both in terms of behavioral research
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+256
+
+DIRK H. R. SPENNEMANN
+
+into our closest relatives among the great apes, and in terms of the increasing de-
+velopments in AI and its robotic applications, that line in the sand is becoming
+increasingly blurred. The day will dawn when it is obliterated altogether. Will we
+be ready for it?
+
+ENDNOTES
+
+1. See Pearson and Sullivan, 1995; Tunbridge and Ashworth, Dissonant Heritage; Spennemann
+
+“‘Preserving the Past for the Future.’”
+
+2. Pearson and Sullivan, 1995; Murtagh, Keeping Time.
+3. Lockwood and Spennemann, 2001.
+4. Slaughter, Futures for the Third Millennium, p. 281.
+5. Butowsky, Man in Space; Campbell, Assessing and Managing Human Space Heritage; Spen-
+nemann, “The Naval Heritage of Project Apollo”; Spennemann and Kosmer, “Heritage Sites of the
+US Space Program.”
+
+6. Barclay and Brooks, “In Situ Preservation”; Gorman “The Cultural Landscape”; and Gorman,
+
+“The Archaeology of Orbital Space.”
+
+7. Fewer, “Towards an LSMR and MSMR”; Rogers, “Safeguarding Tranquility Base”; Spenne-
+mann, “The Ethics of Treading on Neil Armstrong’s Footsteps”; Spennemann, “Out of This World”;
+Spennemann and Murphy, “Technological Heritage on Mars.”
+
+8. Spennemann, “On the Cultural Heritage of Robots”; Spennemann, “Of Great Apes and Robots.”
+9. For example, Young, “Evolution of the Human Hand.”
+10. For example, Haynes, “Archeological Methods.”
+11. For example, Wyn, “Archaeology and Cognitive Evolution.”
+12. See Lebel et al., “Comparative Morphology and Paleobiology” and critique by deGusta, “Com-
+
+parative Skeletal Pathology.”
+
+13. Ovchinnikov et al., “Molecular Analysis of Neanderthal DNA.”
+14. For example, Kitano et al., RoboCup.
+15. Fox, Sitompul, and van Schaik, “Intelligent Tool Use in Wild.”
+16. NEC, Child Care Robot; NEC, PaReRo 2005; and NEC, PaReRo 2003.
+17. Krichmar et al., “Characterizing Functional Hippocampal Pathways.”
+18. See the 2004 World Robotics survey by the United Nations Economic Commission for Eu-
+rope (UNECE) (http://www.unece.org/press/pr2004/04robots_index.htm).
+
+19. See Sandin et al., “Five Charges Against the Precautionary Principle” for concept.
+20. But see Spennemann, “Preserving the Past for the Future” for a critique of the underlying
+
+notion of stewardship in cultural heritage management.
+
+21. Goodman et al., “Primate Evolution at the DNA Level.”
+22. Boswell, Life of Samuel Johnson, entry, April 7, 1778.
+23. Marx, Das Kapital, p. 194.
+24. For example, Oakley, Man the Toolmaker; Reed, “New Light on the Origins of Man.”
+25. Goodall, “Chimpanzees of the Gombe Stream Reserve.”
+26. Riedman et al., The transmission of individually distinctive foraging strategies.
+27. See salient work by Jenkins “Cultural Transmission of Song Patterns.”
+28. Ambrose, “Paleolithic Technology and Human Evolution”; Panger et al., “Older than the
+
+Oldowan.”
+
+29. Panger et al., 2002.
+30. Ambrose, “Paleolithic Technology and Human Evolution.”
+31. For example, Tebbich and Bshary, “Cognitive Abilities Related to Tool Use.”
+32. Krützen et al., “Cultural Transmission of Tool Use in Bottlenose Dolphins.”
+33. For example, Chappell and Kacelnik, “Tool Selectivity in a Non-Primate.”
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+A LINE IN THE SAND
+
+257
+
+34. Fontain, Moisson, and Wickings, “Observations of Spontaneous Tool Making”; Boysen et al.,
+
+“Tool Use in Captive Gorillas.”
+
+35. Celli, Hirata, and Tomonaga, “Socioecological Influences on Tool Use in Captive Chimpan-
+
+zees”; Herzfeld and Lestel, “Knot Tying in Great Apes.”
+
+36. Gold, “Ladder Use and Clubbing by a Bonobo”; Herzfeld and Lestel, “Knot Tying in Great
+
+Apes.”
+
+37. O’Malley and McGrew, “Oral Tool Use by Captive Orangutans (Pongo pygmaeus)”; Herzfeld
+
+and Lestel, “Knot Tying in Great Apes.”
+
+38. Beck, Animal Tool Behavior; van Schaik, Deaner, and Merrill, “The Conditions for Tool Use
+
+in Primates.”
+
+39. Visalberghi, Fragaszy, and Savage-Rumbaugh, “Performance in a Tool-Using Task.”
+40. Whiten et al., “Cultures in Chimpanzees”; Miller, “Tool Study Supports Chimp Culture.”
+41. Fox et al., “Intelligent Tool Use in Wild Sumatran Orangutans”; van Schaik, Fox and Fechtman,
+“Individual Variation”; van Schaik et al., “Orangutan Cultures and the Evolution of Material Culture.”
+42. Breuer, Ndoundou-Hockemba, and Fishloc, “First Observation of Tool Use in Wild Gorillas.”
+43. Whiten et al., “Cultures in Chimpanzees”; Vogel, “Chimps in the Wild.”
+44. Mercader, Panger, and Boesch, “Excavation of a Chimpanzee Stone Tool Site.”
+45. Mercader, Panger, and Boesch, Chimpanzee-Produced Stone Assemblages.
+46. Vogel, “Can Chimps Ape Ancient Hominid Toolmakers?”
+47. Schick et al., “Continuing Investigations into Stone Tool-Making.”
+48. Wright, “Imitative Learning of a Flaked Stone Technology.”
+49. Toth, Schick, and Sema. “A Technological Comparison”; Schick and Toth, Making Silent Stones
+
+Speak; Schick et al., “Continuing Investigations into Stone Tool-Making.”
+50. Schick et al., “Continuing Investigations into Stone Tool-Making.”
+51. Although environmental decay is less a problem for stone tools, they too can be affected by
+natural disasters affecting the storage facility. The case of the artifact storage of the Australian Na-
+tional University, destroyed in January 2003 as part of the Canberra bush fires is a case in point.
+
+52. Mercader, Panger, and Boesch, “Excavation of a Chimpanzee Stone Tool Site.”
+53. Wright, E-mail to the author.
+54. Called “Deep Blue”; Pollack et al., “Three Generations.”
+55. Jacob, Composing With Genetic Algorithms; Widmer, “Machine Discoveries.”
+56. Cohen, “The Further Exploits of AARON, Painter.”
+57. Called Legobots. Pollack et al., “Three Generations.”
+58. For example, Chou, “The Growing Role of IT in Transportation.”
+59. For example, Keane and Nair, “Problem Solving Environments in Aerospace Design.”
+60. Gage, “UGV HISTORY 101.”
+61. Cf. Thornberg and Cycon, “Sikorsky Aircraft’s Unmanned Aerial Vehicle.”
+62. Cf. Granlund et al., The WITAS Unmanned Aerial Vehicle Project.
+63. Genetic algorithms are a class of evolutionary algorithms that use techniques inspired by evo-
+
+lutionary biology (e.g., inheritance, mutation, natural selection, and recombination).
+
+64. See Watson, Ficici, and Pollack, “Embodied Evolution” for an example of evolutionary robotics.
+65. Elshaw, Lewis, and Wermter, Incorporating Reactive Learning Behaviour.
+66. See Spennemann, “‘Preserving the Past for the Future.’”
+67. See Spennemann, “‘Preserving the Past for the Future.’”
+68. Charles Babbage Institute, University of Minnesota, available at http://www.cbi.umn.edu.
+69. Cf. Spicer, “The IBM 1620 Restoration Project.”
+70. Cf. Burba and Frana, “Researching the History of Software”; Schlombs, “Digital Archives for
+
+the History of Software.”
+
+71. Cf. Boesch and Tomasello, “Chimpanzee and Human Cultures.”
+72. UNESCO, UNESCO Universal Declaration on Cultural Diversity.
+73. Bates and Plog, Cultural Anthropology, p. 7.
+74. Boesch and Tomasello, “Chimpanzee and Human Cultures.”
+75. Boyd and Richerson, “Why Culture Is Common but Cultural Evolution Is Rare.”
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+258
+
+DIRK H. R. SPENNEMANN
+
+76. See Krützen et al., “Cultural Transmission of Tool Use in Bottlenose Dolphins.”
+77. Rendell and Whitehead, “Culture in Whales and Dolphins.”
+78. Boesch and Tomasello, “Chimpanzee and Human Cultures”; Whiten et al., “Cultures in
+
+Chimpanzees.”
+
+79. van Schaik, Fox, and Fechtman, “Individual Variation”; van Schaik et al., “Orangutan Cultures
+and the Evolution of Material Culture”; van Schaik and Pradhan, “A Model for Tool-Use Traditions
+in Primates.”
+
+80. Boesch and Boesch, “Optimisation of Nut-Cracking”; Boesch and Boesch, “Mental Map in
+Wild Chimpanzees”; Boesch and Boesch, “Tool Use and Tool Making in Wild Chimpanzees”; Boesch
+and Tomasello, “Chimpanzee and Human Cultures”; Sugiyama and Koman, “Tool-Using and Tool-
+Making Behaviour.”
+
+81. Boesch and Tomasello, “Chimpanzee and Human Cultures.”
+82. van Schick, Deaner, and Merrill, “The Conditions for Tool Use in Primates.”
+83. Boesch and Tomasello, “Chimpanzee and Human Cultures.”
+84. Boesch and Tomasello, “Chimpanzee and Human Cultures.”
+85. Whiten, “Commentary to Christophe Boesch and Michael Tomasello’s ‘Chimpanzee and Human
+
+Cultures.’”
+
+86. The ability of humans to transcend their own physical needs and to express themselves in a
+self-reflective and self-aware way appears a logical dichotomy. Placing the dichotomy of human, and
+by implication, of prehuman, at a level of psychological development, determines the psychological
+thresholds that must be recognizable in the archaeological and paleontological record. Three main
+incisions that separate us from the great apes come to mind:
+
+1) Overcoming the fear of fire, demonstrable certainly because approximately 800 ka (Goren-
+Inbar, “Evidence of Hominin Control”), but possibly as much as 1.6 Ma (Bellomo, “Methods of
+Determining Early Hominid Behavioral Activities; Wrangham, “The Raw and the Stolen”).
+
+2) Overcoming the fear of open water, demonstrable because approximately ⬎800 ka by the col-
+onisation of a Homo erectus to Flores, which was always cut off from the Sunda Shelf (cf. Bednarik,
+“Seafaring in the Pleistocene.”).
+
+3) An understanding of the concept of mortality and of afterlife, because approximately 90 ka as
+evidenced by Neanderthal burials (cf Pettitt, “The Neanderthal Dead” for review). There are some
+indications that caching of the dead may have occurred from 200–300 ka onwards (see Pettitt, “The
+Neanderthal Dead” for discussion).
+
+87. Robot is a contraction from the Czech robota meaning drudgery or servitude; and robotnik
+meaning peasant or serf. Karel Cˇ apek credited his brother, the painter Josef Cˇ apek, with the actual
+creation of the word.
+88. Asimov, “Liar!”
+89. In his 1942 short story Runaround Asimov first explicitly introduced his three laws of robot-
+ics (Asimov, “Runaround”), to which in 1985 he added a fourth which underpins the previous three
+(and hence is referred to as the zeroeth law of robotics) (Asimov, Robots and Empire).
+
+0) A robot may not injure humanity or, through inaction, allow humanity to come to harm.
+1) A robot may not injure a human being or, through inaction, allow a human being to come to
+
+harm.
+
+2) A robot must obey orders given it by human beings except where such orders would conflict
+
+with the First Law.
+
+3) A robot must protect its own existence as long as such protection does not conflict with the
+
+First or Second Law.
+
+90. Bartneck, “From Fiction to Science.”
+91. See Fong, Nourbakhsh, and Dautenhahn, “A Survey of Socially Interactive Robots.”
+92. Cf Dautenhahn et al., What is a Robot Companion.
+93. NEC, PaReRo 2003.
+94. Cf. Japan Times, “New Osaka Shop to Promote ‘Robot Culture.’”
+95. Turing, “Computing Machinery and Intelligence.”
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+A LINE IN THE SAND
+
+259
+
+96. The imitation game sees a male and a female in one room and an interrogator (whose sex is
+irrelevant) trying to ascertain the gender of either person A or B. This is effected through a series of
+questions to which the respondents provide typed answers (to avoid identification via voice or hand
+writing). The object for the target person is to answer correctly but confuse the interrogator, while
+the second person in the room will try to provide helpful answers to the interrogator.
+
+97. Turing, “Computing Machinery and Intelligence.”
+98. See Saygin “Turing Test: 50 Years Later” for a discussion of the literature on the Turing Test.
+99. See Saygin “Turing Test: 50 Years Later.”
+100. For example, Manuel, “Creating a Robot Culture.”
+101. For example Alonso, “Learning in Multi-Agent Systems.”
+102. Cervone et al., Combining Machine Learning With Evolutionary Computation.
+103. Spennemann, “Your Solution, Their Problem.”
+104. de Waal, “Cultural Primatology Comes of Age.”
+105. Boesch and Tomasello, “Chimpanzee and Human Cultures.”
+106. Bandi, “Der Topfknick.”
+107. Cf. Taylor, The Taste of Angels, for survey of collecting.
+108. Pearson and Sullivan, “Looking After Heritage Places”; Murtagh, Keeping Time, Spenne-
+
+mann, “Your Solution, Their Problem”; World Heritage Center, The World Heritage List.
+
+109. Mercader, Panger, and Boesch, “Excavation of a Chimpanzee Stone Tool Site”; Mercader,
+
+Panger, and Boesch, Chimpanzee-Produced Stone Assemblages.
+
+110. Cf. Bower, “Wild Chimps Rocked On.”
+
+BIBLIOGRAPHY
+
+Alonso, E., M. d’Inverno, D. Kudenko, et al. “Learning in Multi-Agent Systems.” Knowledge Engineer-
+ing Review 16 no. 3 (2001): 277–84.
+
+Ambrose, Stanley H. “Paleolithic Technology and Human Evolution.” Science 291, no. 5509 (2001):
+1748–54.
+
+Asimov, Isaac. “Liar!” In Astounding Science Fiction, May 1941, 43–55.
+
+———. “Runaround.” In Astounding Science Fiction, March 1942, 94–103.
+
+———. Robots and Empire. New York: Doubleday, 1985.
+
+Bandi, H.-G. “Der Topfknick oder die unterschiedliche Wertung der Domestikation des Menschen.”
+In Festschrift für Günter Smolla. Materialien zur Vor-und Frühgeschichte von Hessen Band 8, vol. 1,
+17–24. Wiesbaden: Landesamt für Denkmalpflege Hessen Abteilung archäologische und paläontol-
+ogische Denkmalpflege, 1999.
+
+Barclay, R.L., and R. Brooks. “In situ preservation of historic spacecraft.” JBIS-Journal of the British
+Interplanetary Society 55, no. 5–6 (2002): 173–81.
+
+Bartneck, C. “From Fiction to Science: A Cultural Reflection of Social Robots.” In CHI2004 Work-
+shop on Shaping Human-Robot Interaction: Understanding the Social Aspects of Intelligent Robotic Prod-
+ucts, edited by J. Forlizzi and C. Bartneck. Vienna, 2004. http://www.bartneck.de/workshop/chi2004
+(accessed April 25, 2004).
+
+Bates, D.G., and F.Y. Plog. Cultural Anthropology. New York: McGraw-Hill, 1990.
+
+Beck B.B. Animal Tool Behavior: The Use and Manufacture of Tools By Animals. New York: Garland
+Press, 1980.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+260
+
+DIRK H. R. SPENNEMANN
+
+Bednarik, R.G. “Seafaring in the Pleistocene.” Cambridge Archaeological Journal 13 (2003): 41–66.
+
+Bellomo, R.V. “Methods of Determining Early Hominid Behavioral Activities Associated with the
+Controlled Use of Fire at FxJj 20 Main, Koobi Fora, Kenya.” Journal of Human Evolution 27, no. 1–3
+(1994): 173–95.
+
+Boesch, C., and M. Tomasello. “Chimpanzee and Human Cultures.” Current Anthropology 39 no. 5
+(1998): 591–614.
+
+Boesch, C., and H. Boesch. “Optimisation of Nut-Cracking with Natural Hammers by Wild Chim-
+panzees.” Behaviour 83 (1983): 265–86.
+
+———. “Mental Map in Wild Chimpanzees: An Analysis of Hammer Transports for Nut Cracking.”
+Primates 25 (1984): 160–70.
+
+———. “Tool Use and Tool Making in Wild Chimpanzees.” Folia Primatologica 54 (1990): 86–99.
+
+Boswell, J. Life of Samuel Johnson. London: JM Dent, 1901.
+
+Bower, Bruce. “Wild Chimps Rocked On: Apes Left Unique Record of Stone Tool.” Science News 161,
+no. 13 (2002): 195.
+
+Boyd, R., and P.J. Richerson. “Why Culture Is Common but Cultural Evolution Is Rare.” In Evolution
+of Social Behaviour Patterns in Primates and Man Proceedings of the British Academy, edited by W.G.
+Runciman, John Maynard Smith, and R.I.M. Dunbar, 77–93, London: British Academy, 1996.
+
+Boysen S.T., V.A. Kuhlmeier, P.O. Halliday, et al. “Tool Use in Captive Gorillas.” In The Mentalities of
+Gorillas and Orangutans: Comparative Perspectives, edited by S.T. Parker, R.W. Mitchell, and H.L.
+Miles, 79–187, Cambridge: Cambridge University Press, 1999.
+
+Breuer, T., M. Ndoundou-Hockemba, and V. Fishloc. “First Observation of Tool Use in Wild Goril-
+las.” PLoS Biology 3, no. 11, e380 (2005): 2042–44.
+
+Burba, J., and P.L. Frana. “Researching the History of Software: Mining Internet Resources in the
+‘Old World,’ ‘New World,’ and the ‘Wild West’.” Iterations: A Journal of Software History, 2002. http://
+www.cbi.umn.edu/iterations/burbafrana.pdf (accessed April 23, 2007).
+
+Butowsky, H.A. Man in Space: A National Historic Landmark Theme Study. N.P.S., U.S. Department
+of the Interior, 1984.
+
+Campbell, John B. Assessing and Managing Human Space Heritage In the Solar System: The Current
+State of Play and Some Proposals. World Archaeological Congress 5. Themes The Heavens Above:
+Archaeoastronomy, Space Heritage And SETI, 2003. http://godot.unisa.edu.au/wac/paper.php?paper⫽
+1049 (accessed April 23, 2007).
+
+Cˇ apek, K. R.U.R.—Rosumovi Umeˇlí Roboti [Rossum’s Universal Robots], 1920. Digital version of
+Czech original available at http://www.gutenberg.org/etext/13083 (accessed April 23, 2007).
+
+Celli, M.L., S. Hirata, and M. Tomonaga. “Socioecological Influences on Tool Use in Captive Chim-
+panzees.” International Journal of Primatology 25, no. 6 (2004): 1267–81.
+
+Cervone, Guido, Ryszard S. Michalski, Kenneth K, et al. Combining Machine Learning With Evolu-
+tionary Computation: Recent Results on LEM. Proceedings of the Fifth International Workshop on
+Multistrategy Learning (MSL-2000), Guimarães, Portugal, June 11–14, 2000. Pp. 41–58.
+
+Chappell, J., and A. Kacelnik. “Tool Selectivity in a Non-Primate, the New Caledonian Crow (Corvus
+moneduloides).” Animal Cognition 5 (2002): 71–78.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+A LINE IN THE SAND
+
+261
+
+Chou, W. “The Growing Role of IT in Transportation.” IT Professional 5, no. 6 (2003): 5–6.
+
+Cohen, H. “The Further Exploits of AARON, Painter.” Stanford Humanities Review SEHR 4 no. 2
+(1995): 141–158.
+
+Dautenhahn, K., S. Woods, C. Kaouri, et al. What is a Robot Companion: Friend, Assistant or Butler?
+Proceedings of the IROS 2005, IEEE IRS/RSJ International Conference on Intelligent Robots and
+Systems, August 2–6, 2005, Edmonton, Alberta, Canada, 1488–1493.
+
+de Waal, F.B.M. “Cultural Primatology Comes of Age.” Nature 399, no. 6737 (1999): 635–36.
+
+deGusta, D. “Comparative Skeletal Pathology and the Case for Conspecific Care in Middle Pleisto-
+cene Hominids.” Journal of Archaeological Science 29 (2002): 1435–38.
+
+Dick, Steven J. “Cultural Evolution, the Postbiological Universe and SETI. International Journal of
+Astrobiology 2, no. 1 (2003): 65–74.
+
+Elshaw, M., D. Lewis, and S. Wermter. Incorporating Reactive Learning Behaviour into a Mini-robot
+Platform. Proceedings of AI-2003, the 23rd SGAI International Conference on Innovative Tech-
+niques and Applications of Artificial Intelligence. Edited by Frans Coenen, Alun Preece, and Ann
+Macintosh. London; New York: Springer, 2003: 255–266.
+
+Fewer, Greg. “Towards an LSMR and MSMR (Lunar and Martian Sites and Monuments Records):
+Recording Planetary Spacecraft Landing Sites as Archaeological Monuments of The Future.” In Dig-
+ging Holes in Popular Culture, edited by Miles Russell, 112–20. Oxford: Oxbow, 2002.
+
+Fong, T., I. Nourbakhsh, and K. Dautenhahn. “A Survey of Socially Interactive Robots.” Robotics and
+Autonomous Systems 42 (2003): 143–66.
+
+Fontain, B., P.Y. Moisson, E. J Wickings. “Observations of Spontaneous Tool Making and Tool Use in
+a Captive Group of Western Lowland Gorillas (Gorilla Gorilla Gorilla).” Folia Primatologica 65 (1995)
+219–23.
+
+Fox E.A., A.F. Sitompul, C.P. van Schaik. “Intelligent Tool Use in Wild Sumatran Orangutans.” In The
+Mentalities of Gorillas and Orangutans: Comparative Perspectives, edited by S.T. Parker, R.W. Mitch-
+ell, H.L, 99–116. Cambridge: Cambridge University Press, 1999.
+
+Fox, D. “Brainbox.” New Scientist 188, no. 2524 (2005): 28–32.
+
+Gage, Douglas W. “UGV HISTORY 101: A Brief History of Unmanned Ground Vehicle (UGV) De-
+velopment Efforts.” Unmanned Systems Magazine 13, no. 3 (1995): 9–16, 32.
+
+Gold, K.C. “Ladder Use and Clubbing by a Bonobo (Pan paniscus) in Apenheul Primate Park.” Zoo
+Biology 21, no. 6 (2002): 607–11.
+
+Goodall, J. “Chimpanzees of the Gombe Stream Reserve.” In Primate Behaviour, edited by I. DeVore.
+New York: Holt, Rinehart & Winston, 1965.
+
+Goodman, M., D.A. Tagle, D.H, Fitch, et al. “Primate Evolution at the DNA Level and a Classifica-
+tion of Hominoids.” Journal of Molecular Evolution 30 (1990): 260–66.
+
+Goren-Inbar, Naama, Nira Alperson, Mordechai E. Kislev, et al. “Evidence of Hominin Control of
+Fire at Gesher Benot Ya’aqov, Israel.” Science 304, no. 5671 (2004): 725–27.
+
+Gorman, Alice C. “The Cultural Landscape of Interplanetary Space.” Journal of Social Archaeology 5,
+no. 1 (2005): 85–107.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+262
+
+DIRK H. R. SPENNEMANN
+
+———. The Archaeology of Orbital Space. Presented at the Australian Space Science Conference,
+14 to 16 September, 2005, Melbourne, Australia: RMIT University. 338–57.
+
+Granlund, G. K. Kuchcinski, E. Sandewall, et al. The WITAS Unmanned Aerial Vehicle Project. In
+W. Horn (ed.): ECAI 2000. Proceedings of the 14th European Conference on Artificial Intelligence,
+Berlin, August 20–25, 2000. IOS Press, Amsterdam.
+
+Haynes, G. “Archeological Methods for Reconstructing Human Predation on Terrestrial Vertebrates.”
+In The Fossil Record of Predation, edited by M. Kowaleswski and P. Kelly. The Paleontological Society
+Papers 8 (2002): 51–67.
+
+Herzfeld, C., and D. Lestel. “Knot Tying in Great Apes: Etho-Ethnology of an Unusual Tool Behav-
+ior.” Social Science Information 44, no. 4 (2005): 621–53
+
+Jacob, B.L. Composing With Genetic Algorithms. Proceedings of the International Computer Music
+Conference, Banff, Alberta, Canada, September 1995.
+Japan Times. “New Osaka Shop to Promote ‘Robot Culture.’” Japan Times, December 18, 2004. http://
+search.japantimes.co.jp/print/business/nb12–2004/nb20041218a5.htm (accessed April 23, 2007).
+
+Jenkins, P.F. “Cultural Transmission of Song Patterns and Dialect Development in a Free-Living Bird
+Population.” Animal Behaviour 26 (1978): 50–78.
+
+Keane A.J., and P.B. Nair. “Problem Solving Environments in Aerospace Design.” Advances in Engi-
+neering Software 32, no. 6 (2001): 477–87.
+
+Kitano, H., M. Asada, Y. Kuniyoshi, et al. RoboCup: The Robot World Cup Initiative. International
+Conference on Autonomous Agents. Proceedings of the First International Conference on Autono-
+mous agents. Marina del Rey, California. February 5–8, 1997, 340–47, 1997.
+
+Krichmar, J. L., D.A. Nitz, J.A. Gally, et al. “Characterizing Functional Hippocampal Pathways in a
+Brain-Based Device as It Solves a Spatial Memory Task.” Proceedings of the National Academy of Sci-
+ences 102 (2005): 2111–16.
+
+Krützen, M., J. Mann, M.R. Heithaus, et al. “Cultural Transmission of Tool Use in Bottlenose Dol-
+phins.” Proceedings of the National Academy of Sciences 102, no. 25 (2005): 8939–43.
+
+Kuman K. “The Oldowan Industry from Sterkfontein: Raw Materials and Core Forms.” In Aspects of
+African Archaeology: Papers from the 10th Congress of the PanAfrican Association for Prehistory and
+Related Studies, edited by G. Pwiti and R. Soper R., 139–46. Harare: University of Zimbabwe Publi-
+cations, 1996.
+
+Lebel, S., E. Trinkaus, M. Faure, et al. “Comparative Morphology and Paleobiology of Middle Pleis-
+tocene Human Remains from the Bau de l’Aubesier, Vaucluse, France.” Proceedings of the National
+Academy of Sciences USA 98 (2001): 11097–102.
+
+Manuel, Tyrus L. “Creating a Robot Culture: An Interview with Luc Steels.” IEEE Intelligent Systems
+18, no. 3 (2003): 59–61.
+
+Marx, K. Das Kapital. Kritik der politischen Oekonomie. Erster Band. Buch I: Der Produktionsprocess
+des Kapitals. Vierte Auflage. Marx-Engels-Werke Bd 23. Berlin: Dietz Verlag, 1867 (1952).
+
+Mercader, J., M. Panger, and C. Boesch. “Excavation of a Chimpanzee Stone Tool Site in the African
+Rainforest.” Science 296 (2002): 1452–55.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+A LINE IN THE SAND
+
+263
+
+———. Chimpanzee-Produced Stone Assemblages from the Tropical Forests of Taï, Côte d’Ivoire.
+Paleoanthropology Society Meetings. Denver, CO, March 19, 2002. Abstract http://www.paleoanthro.
+org/abst2002.htm#mercader (accessed April 23, 2007).
+
+Miller, G. “Tool Study Supports Chimp Culture.” Science 309, no. 5739 (2005): 1311.
+
+Mundinger, P.C. “Animal Cultures and a General Theory of Cultural Evolution.” Ethology and So-
+ciobiology 1 (1980): 183–223.
+
+Murtagh, W.J. Keeping Time: The History and Theory of Preservation in America. New York: John
+Wiley and Sons, 1997.
+
+NEC. Child Care Robot. PaReRo 2003. Product Information Page. NEC Personal Robot Research
+Center, 2005. http://www.incx.nec.co.jp/robot/english/childcare/how.html (accessed April 23, 2007).
+———. PaReRo 2005. Product Information Page. NEC Personal Robot Research Center, 2005. http://
+www.incx.nec.co.jp/robot/english/papero2005/index.html (accessed April 23, 2007).
+
+———. PaReRo 2003. “He has a character like a human being.” Product Information Page. NEC
+Personal Robot Research Center, 2005. http://www.incx.nec.co.jp/robot/english/2003papero/english/
+gijyutu3.html (accessed April 23, 2007).
+
+——— PaReRo 2003. “Creating a Robot Culture.” Product Information Page. NEC Personal Robot
+Research Center, 2005. http://www.incx.nec.co.jp/robot/english/2003papero/english/index.html (ac-
+cessed April 23, 2007).
+
+O’Malley, R.C., and W.C. McGrew. “Oral Tool Use by Captive Orangutans (Pongo pygmaeus).” Folia
+Primatologica 71 (2000): 334–41.
+
+Oakley, K.P. Man the Toolmaker, 3rd ed. London: British Museum, 1956.
+
+Ovchinnikov, I.V., A. Gotherstrom, G.P. Romanova, et al. “Molecular Analysis of Neanderthal DNA
+from the Northern Caucasus.” Nature 404, no. 6777 (2000): 453–54
+
+Panger, M.A., A.S. Brooks, B.G. Richmond, et al. “Older than the Oldowan? Rethinking the Emer-
+gence of Hominin Tool Use.” Evolutionary Anthropology 11, no. 6, 235–45.
+
+Pettitt, P.B. “The Neanderthal Dead: Exploring Mortuary Variability in Middle Palaeolithic Eurasia.”
+Before Farming: The Anthropology of Hunters-Gatherers 1, no. 4 (2002): 1–19
+
+Pollack, J.B., H. Lipson, G. Hornby, et al. “Three Generations of Automatically Designed Robots.”
+Artificial Life 7, no. 3 (2001): 215–23.
+
+Reed, E. “New Light on the Origins of Man.” International Socialist Review 24, no. 3 (1963): 81–83.
+
+Rendell, L., and H. Whitehead. “Culture in Whales and Dolphins.” Behavioral and Brain Sciences 24,
+no. 2 (2001): 309–82
+
+Riedman, M.L., M.M. Staedier, J.A. Estes, et al. The transmission of individually distinctive foraging
+strategies from mother to offspring in sea otters (Enhydra lutris). From the Eighth Biennial Confer-
+ence on the Biology of Marine Mammals. Pacific Grove, CA, 7–11 December, 1989.
+
+Robson Brown, Kate. “The Meaning of Hominid Species: Culture as Process and Product?” Behav-
+ioral and Brain Sciences 23, no. 1 (2002); 157.
+
+Rogers, T.F. “Safeguarding Tranquility Base: Why the Earth’s Moon Base Should Become a World
+Heritage Site.” Space Policy 20, no. 1 (2004): 5–6.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+264
+
+DIRK H. R. SPENNEMANN
+
+Sandin, Per, Martin Hansson Peterson, Christina Sven Ove Rudén, et al. “Five Charges Against the
+Precautionary Principle.” Journal of Risk Research 5, no. 4 (2002): 287–99.
+
+Saygin, A.P., I. Cicekli, and V. Akman. “Turing Test: 50 Years Later.” Minds and Machines 10, no. 4
+(2000): 463–518.
+
+Schick, K., and N. Toth. Making Silent Stones Speak: Human Evolution and the Dawn of Technology.
+New York: Simon and Schuster, 1993.
+
+Schick, K., N. Toth, G. Garufi, et al. “Continuing Investigations into Stone Tool-Making and Tool-
+Using Capabilities of a Bonobo (Pan paniscus).” Journal of Archeological Science 26, (1999): 821–32.
+
+Schlombs, C. “Digital Archives for the History of Software: The Allen Newell Collection and the
+Herbert A. Simon Collection.” Iterations: A Journal of Software History 1 (2002). http://www.cbi.umn.
+edu/iterations/schlombs.pdf (accessed April 23, 2007).
+
+Slaughter, R. Futures for the Third Millennium. Sydney: Prospect Media, 1997.
+
+Smolla, G. Epochen menschlicher Frühzeit. Freiburg & München: Karl Aber, 1967.
+
+Spennemann, D.H.R. “The Ethics of Treading on Neil Armstrong’s Footsteps.” Space Policy 20, no. 4
+(2004): 279–90.
+
+———. “The Naval Heritage of Project Apollo: A Case of Losses.” Journal of Maritime Research,
+October 2005, http://www.jmr.nmm.ac.uk/spennemann (accessed April 23, 2007).
+
+———. “Out of this world: Issues of Managing Tourism and Humanity’s Heritage on the Moon.”
+International Journal of Heritage Studies 12, no. 4 (2006): 356–71.
+
+———. “Gauging Community Values in Historic Preservation.” CRM: The Journal of Heritage Stew-
+ardship 3, no. 2 (2006): 6–20.
+
+———. “Your Solution, Their Problem. Their Solution, Your Problem: The Gordian Knot of Cul-
+tural Heritage Planning and Management at the Local Government Level.” disP 42, no. 164 (2006):
+30–40.
+
+———. “On the Cultural Heritage of Robots.” International Journal of Heritage Studies 13, no. 1
+(2007): 4–21
+
+———. “Of Great Apes and Robots: Considering the Future(s) of Cultural Heritage.” Futures–The
+Journal of Policy, Planning and Futures Studies 39, no. 7 (2007): 861–77.
+
+———. “‘Preserving the Past for the Future.’ Altruism, Egotism and the Future of Historic Preser-
+vation.” CRM: The Journal of Heritage Stewardship 5, no. 2, (2008), forthcoming.
+
+Spennemann, D.H.R., and L. Kosmer. “Heritage Sites of the US Space Program in Australia: Are We
+Managing Them Adequately?” QUEST—The History of Spaceflight Quarterly 12, no. 2 (2005): 52–64.
+
+Spennemann, Dirk H.R., and Guy Murphy. “Technological Heritage on Mars: Towards a Future of
+Terrestrial Artifacts on the Martian Surface.” Journal of the British Interplanetary Society 60, no. 2
+(2007): 42–53.
+
+Spicer, D. “The IBM 1620 Restoration Project.” IEEE Annals of the History of Computing 27 (2005):
+33–43.
+
+Sugiyama, Y., and J. Koman. “Tool-Using and Tool-Making Behaviour in Wild Chimpanzees at Bossou,
+Guinea.” Primates 20 (1979): 513–24.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+A LINE IN THE SAND
+
+265
+
+Taylor, F.H. The Taste of Angels. A History of Collecting from Ramases to Napoleon. Boston and Lon-
+don: Little Brown & Co., 1948.
+
+Tebbich, S., and R. Bshary. “Cognitive Abilities Related to Tool Use in the Woodpecker Finch Cactospiza
+pallida.” Animal Behaviour 67, no. 4 (2004): 689–97.
+
+Thornberg, Christopher A., and James P. Cycon. “Sikorsky Aircraft’s Unmanned Aerial Vehicle, Cypher:
+System Description and Program Accomplishments.” 51st AHS Annual Forum 9–11 May 1995, Fort
+Worth, TX. 804–11, 1995.
+
+Toth, N., K. Schick, and S. Sema. A Technological Comparison of the Stone Tool-Making Capabili-
+ties of Australopithecus/Early Homo, Pan paniscus, and Homo sapiens, and Possible Evolutionary
+Implications. Paleoanthropology Society Meetings. Denver, CO, March 19, 2002. Abstract http://
+www.paleoanthro.org/abst2002.htm#toth (accessed April 23, 2007).
+
+Toth, N., K. Schick, E.S. Savage-Rumbaugh, et al. “Pan the Tool-Maker: Investigations into the Stone
+Toolmaking and Tool-Using Capabilities of Bonobo [Pigmy Chimp] (Pan paniscus).” Journal of Ar-
+chaeological Science 20 (1993): 81–91.
+
+Tunbridge, J. E., and G.J. Ashworth. Dissonant Heritage: The Management of the Past as a Resource in
+Conflict. Chichester, England: John Wiley & Sons, 1996.
+
+Turing, A.M. “Computing Machinery and Intelligence.” Mind 49 (1950): 433–60.
+
+UNESCO. UNESCO Universal Declaration on Cultural Diversity 2 November 2001. In United Na-
+tions Educational, Scientific and Cultural Organization. Records of the General Conference, 31st
+Session Paris, Volume 1 Resolutions. Paris, France, October 15–November 3, 2001, 62–64.
+
+van Schaik C.P., R.O. Deaner, and M.Y. Merrill. “The Conditions for Tool Use in Primates: Implica-
+tions for the Evolution of Material Culture.” Journal of Human Evolution 36, no. 6 (1999): 719–41.
+
+van Schaik, C.P., and Gauri R. Pradhana. “A Model for Tool-Use Traditions in Primates: Implications
+for the Coevolution of Culture and Cognition. Journal of Human Evolution 44 (2003): 645–64.
+
+van Schaik, C.P., M. Ancrenaz, G. Borgen, et al. “Orangutan Cultures and the Evolution of Material
+Culture.” Science 299, no. 5603 (2003): 102–05.
+
+van Schaik, C.P., E.A. Fox, and L.T. Fechtman. “Individual Variation in the Rate of Use of Tree-Hole
+Tools Among Wild Orang-Utans: Implications for Hominin Evolution.” Journal of Human Evolution
+44, no. 1 (2003): 11–23.
+
+Visalberghi, E., D.M. Fragaszy, and S. Savage-Rumbaugh. “Performance in a Tool-Using Task by Com-
+mon Chimpanzees (Pan troglodytes), Bonobos (Pan paniscus), an Orangutan (Pongo pygmaeus), and
+Capuchin Monkeys (Cebus apella).” Journal of Comparative Psychology. 109, no. 1 (1995): 52–60.
+
+Vogel, G. “Chimps in the Wild Show Stirrings of Culture.” Science 284, no. 5423 (1999): 2070–74.
+
+Vogel, G. “Can Chimps Ape Ancient Hominid Toolmakers?” Science 296, no. 5572 (2002): 1380.
+
+Watson, R.A., S.G. Ficici, and J.B. Pollack. “Embodied Evolution: Distributing an Evolutionary Al-
+gorithm in a Population of Robots.” Robotics and Autonomous Systems 39 no. 1 (2002): 1–18.
+World Heritage Center. The World Heritage List. Alphabetically by State Party, 2004. http://whc.
+unesco.org/heritage.htm (accessed April 19, 2007).
+
+Whiten, A. “Commentary to Christophe Boesch and Michael Tomasello’s ‘Chimpanzee and Human
+Cultures.’” Current Anthropology 39, no. 5 (1998): 609–10.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+266
+
+DIRK H. R. SPENNEMANN
+
+Whiten, A., J. Goodall, W.C. McGrew, et al. “Cultures in Chimpanzees.” Nature 399 (1999): 682–685.
+
+Widmer, G. “Machine Discoveries: A Few Simple, Robust Local Expression Principles.” Journal of
+New Music Research 31, no. 1 (2002): 37–50.
+
+Wrangham, R.W., J.H. Jones, G. Laden, et al. (1999) “The Raw and the Stolen: Cooking and the
+Ecology of Human Origins.” Current Anthropology 40, no. 5 (1999): 567–94.
+
+Wright, R.V.S. “Imitative Learning of a Flaked Stone Technology: The Case of an Orangutan.” Man-
+kind 8 (1972): 296–306.
+
+Wright, R.V.S. E-mail to the author, November 13, 2005.
+
+Wyn, T. “Archaeology and Cognitive Evolution.” Behavioral and Brain Sciences 25, no. 3 (2002):
+389–402.
+
+Young, Richard W. “Evolution of the Human Hand: The Role of Throwing and Clubbing.” Journal of
+Anatomy 202, no. 1 (2003): 165–74.
+
+Want to Comment on this Article?
+Go to www.culturalproperty.org/forum/
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:49:21, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739107070075
+
+

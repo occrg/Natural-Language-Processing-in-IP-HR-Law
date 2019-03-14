@@ -1,0 +1,1990 @@
+64
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, Vol. 1, No. 1
+
+Summary judgment in intellectual property
+litigation—the three of Harts
+Jeremy Phillips*
+
+1. Summarizing the summary
+Litigation may be likened to a stream that flows
+from the upper reaches of legal dispute, along the
+course of the river of pre-trial management and pre-
+paration, through the broad estuary of
+litigation,
+and out to the open sea of fair resolution. A good sys-
+tem for conducting litigation will enable a dispute to
+reach the courts and flow through them with little
+blockage or hindrance, whereas a poor system will
+produce floods, turbulence, and the risk of great
+destruction.
+
+Intellectual property is just one such stream; there
+are many others, such as real estate, negligence,
+defamation, company law. Each stream has its own
+defining characteristics that mark it out clearly from
+the others; indeed, specialist channels for litigation
+exist in the form of, for example, the Patents Court
+in intellectual property law and the Construction
+and Technology Court for a variety of commercial
+disputes. However,
+in most respects these streams
+behave in more or less the same way. In such cases
+the law makes general provision for rules of litigation
+that apply equally to each one of them. One such pro-
+vision is the law relating to summary judgment.
+
+The idea behind summary judgment is simple and
+brilliant. The courts must be available to hear all claims
+and all defences, regardless of their legal strength. Yet
+some claims and defences are so manifestly incapable
+of being sustained that it would be wrong to commit
+the courts’ resources to resolving them. These include
+claims that, even if fully proven, disclose no cause of
+action, as well as defences that are not relevant to the
+action because they do not rebut the basis of the clai-
+mant’s case and defences that cannot be realistically
+substantiated. If a summary procedure can be initiated
+with a view to testing the immediate ability of a party
+
+*
+
+Intellectual property consultant, Slaughter and May; Professorial Fellow,
+Queen Mary Intellectual Property Research Institute; Editor, Journal of
+Intellectual Property Law and Practice; Co-Proprietor,
+IPKat weblog
+(www.ipkat.com). E-mail: jjip@btinternet.com.
+
+Ó The Author (2005). Published by Oxford University Press. All rights reserved.
+
+ In intellectual property litigation,
+
+summary
+judgment and the striking out of untenable
+claims and defences enable the courts to process
+disputed cases more efficiently.
+
+ In most intellectual property litigation, disputes
+are heard by a specialist judge: this is, however,
+often not the case with applications for summary
+judgment and striking out.
+
+ The consideration of three applications heard
+by the same non-specialist judge raises issues as
+to whether specialist and non-specialist judges
+might reach different decisions on the same facts.
+ There is a need for further empirical research
+comparing the performance of specialist intel-
+lectual property
+judges
+and non-specialist
+judges in summary cases.
+
+to bring or defend a claim, an action may be resolved
+a long way upstream, as it were, before a case
+reaches
+the
+legal submissions, the production of evidence, the
+examination, and the fine analysis of the law/fact inter-
+face that accompany it.
+
+the stage of a full
+
+trial with all
+
+Upstream resolution of disputes brings numerous
+
+advantages. For example,
+
+
+
+
+
+
+
+the more cases that are disposed of upstream of the
+courts, the less pressure there is on those courts to
+deal with the other cases on their lists;
+
+false hopes and unrealistic expectations of parties
+are swept aside at an early stage instead of being
+allowed to persist;
+
+the less time, effort, and money will be expended by
+the litigant who is in the right (legally speaking) in
+enforcing his claim or defending his position and
+by the court service in hosting unnecessary pro-
+ceedings;
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+6
+4
+2
+1
+9
+3
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Jeremy Phillips · Summary judgment in intellectual property litigation—The three of Harts
+
+ARTICLE
+
+65
+
+
+
+
+
+the sooner is removed the degree of uncertainty
+attached to such important items as (i) the viability
+of a business plan, (ii) the validity of an intellectual
+property right, (iii) the safeguarding of know-how,
+and (iv) the safeguarding of the ability to commun-
+icate unprotected information;
+
+the fewer cases that go to a full trial, the lower is the
+demand for the recruitment of members of the
+legal profession to enter the judiciary or for the
+conscription of deputy judges to absorb the excess
+volume of disputes that cannot be settled before
+trial.
+
+So long as the law is properly applied, upstream
+resolution of disputes has no serious disadvantages,
+at least so far as the courts and litigants are con-
+cerned. Net
+losers include lawyers who lose the
+opportunity to bill clients for time unnecessarily
+expended in court and those who object
+that
+upstream dispute resolution diminishes the stock of
+judgments that are potentially reportable and thus
+useful as precedents. Where summary judgment is
+available but is not sought, and where it is sought
+but not granted, the parties will be little or no worse
+off than if that relief were not available in the first
+place. Only where summary judgment is ordered
+when it should not be or refused when it should be
+granted will the system inflict any detriment, to the
+extent that (i) the cost of seeking summary judgment
+will have been expended in vain or (ii) further
+litigation-prolonging applications and appeal proce-
+dures may be invoked in order to rectify errors in
+the operation of a summary judgment-based system.
+
+2. Rules and expectations
+Part 24 of the Civil Procedure Rules (CPR) lays down
+the rules that enable the courts to give summary judg-
+ment. These rules are striking in their simplicity and
+economy of expression. They establish a small num-
+ber of conditions that must be observed if a court is
+to give judgment where the claimant ‘has no real pro-
+spect of succeeding on the claim or issue’ or where
+the defendant ‘has no real prospect of defending the
+claim or issue’, so long as there is ‘no other com-
+pelling reason why the case or issue should be dis-
+posed of at trial’.1 The application of the CPR is
+itself governed by what is termed ‘the overriding
+
+objective’, that is, the objective of ‘enabling the court
+to deal with cases justly’.2 We can thus postulate the
+following propositions:
+
+(i) Where there is a prospect of a party succeeding
+on a claim or issue, there is no power to order
+summary judgment.
+
+(ii) Where there is no prospect of a party succeeding,
+the power to order summary judgment exists,
+subject to there being no other compelling reason
+why the case should be disposed of at trial.
+
+(iii)Again, where there is no prospect of a party suc-
+ceeding, the power to order summary judgment
+will not be exercised if to do so would be contrary
+to the overriding objective.
+
+From this it appears that a party who seeks to resist
+an application for summary judgment has three
+routes from which to choose: (i) he can establish
+that he has a chance of success; (ii) he can establish
+a compelling reason why,
+irrespective of success,
+summary judgment should not be given; or (iii) he
+can establish that summary judgment would be con-
+trary to the overriding objective.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+The defendant might understandably
+complain ‘Why me?’ when forced to defend
+an action that has no chance of succeeding
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+At least three factors militate against the litigation
+of vacuous and unsustainable issues in intellectual
+property disputes. They are the deterrent effect of
+the expense and effort
+involved in bringing (or
+defending) an action in the first place, the equally
+deterrent effect of the risk of having to bear a large
+order for costs, and the increasing use of case man-
+agement as a means of enabling the parties to focus
+on the most decisive issues in the most effective man-
+ner. These factors are not unique to intellectual prop-
+erty law but may be accentuated in certain areas
+within that field. They include
+
+
+the ability of specialist intellectual property lawyers
+to command high fees;
+
+1 CPR r 24.2.
+
+2 CPR r 1(1). The meaning of the word ‘justly’ lies regrettably beyond the
+
+scope of both this and indeed any other review of the topic.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+6
+4
+2
+1
+9
+3
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+66
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2005, Vol. 1, No. 1
+
+
+
+
+
+the frequency with which, in infringement litiga-
+tion, complex issues unrelated to the proof of
+allegedly infringing acts may legitimately be raised
+(eg the validity of the claimant’s registered right,
+the scope of applicability of defences that are
+couched in imprecise terms, and the potential
+liability of the claimant or any other party for
+making
+for
+infringement);
+
+an unwarranted threat
+
+to sue
+
+the technological basis of proceedings, which may
+lie well outside the experience of even specialist
+professional representatives and which will require
+the court
+to receive instruction in technically
+advanced areas of science.
+
+Bearing in mind these three factors, resistance to
+well-founded applications for summary judgment
+should usually be hopeless. Applications are, how-
+ever, made with very much more frequency than
+they are granted. This may be for tactical reasons
+(where either party may seek to reduce the number
+of issues being raised in complex proceedings or to
+seek to force the pace in determining which issues
+should be regarded as they key ones) or for psycho-
+logical ones (where one party seeks to depress an
+adversary who may be in some doubt as to the
+strength of his or her own case or who may be waver-
+ing as to whether it is worth committing resources to
+a full hearing on the merits).
+
+3. In pursuit of the Hart
+Over a period of four weeks in early 2005, three
+applications for summary judgment in intellectual
+property disputes came before Mr Justice Hart. This
+article proposes to examine them as a microcosm of
+summary judgment litigation as a whole and then to
+consider their significance to the small but intimate
+world of intellectual property law.
+
+fact
+
+that
+
+Before considering the three cases,
+
+it is worth
+considering the
+they were heard by
+Mr Justice Hart. The overwhelmingly preponderant
+majority of disputes concerning intellectual property
+in the United Kingdom are adjudicated in specialist
+tribunals:
+these are the Patents Court and the
+Patents County Court, the Comptroller of Patents,
+the Trade Mark Registry, the Design Registry, the
+Lord Chancellor’s Appointed Person,
+and the
+Copyright Tribunal.3 Additionally, clients are gener-
+ally represented—particularly in legally complex or
+commercially valuable cases—by specialized profes-
+sions (patent agents, trade mark attorneys), by spe-
+cialized members of the legal profession at large
+(solicitors, barristers), or by both.4 The concentration
+of dispute resolution within these bodies and the
+experiences gained by those involved might reason-
+ably be expected to inculcate in the minds of all con-
+cerned a shared expectation as to which sorts of
+claims or issues are inherently viable, which may
+with effort be given sustenance, which are raised
+by way of ritual and without any sense of sincere
+to their being argued,5 and which,
+commitment
+however one views them, have no plausible chance
+of success.
+
+Mr Justice Hart, as the arbiter of the three recent
+applications discussed here, is something of an out-
+sider in this close and intimate world of shared
+vocabulary, conceptual toolkit, and expectation of
+probabilities, although he is certainly not a complete
+stranger to it. Empirical evidence suggests that some-
+thing like 5 per cent of his case load over the past
+seven years has at least some degree of intellectual
+property content.6 Although he is not one of the
+five judges currently designated as members of the
+Patents Court, he is a relatively senior Chancery Divi-
+sion judge and has sat on occasion as a member of
+the Court of Appeal.
+
+3 While there is no specialist tribunal for litigation of trade mark infringe-
+ment claims, the Patents Court judges within the High court’s Chancery
+Division are generally seized of such cases. Community trade mark cases
+are heard in the United Kingdom by the Chancery Division (where they
+normally come before the same specialist judges that comprise the Patents
+Court) and by the Patents County Court.
+
+4 Hearings before the Design Registry are exceptional, in that about 70% of
+
+applicants are unrepresented.
+
+5 A perfect example of ritual claims may be found in trade mark opposition
+proceedings before the Trade Mark Registry, where until the turn of the
+century a plea based on the trade mark applicant’s bad faith was routinely
+raised but rarely substantiated by the opponent or considered by the hear-
+ing officer.
+
+6 Of 141 cases noted on the Lawtel subscription-based legal information ser-
+vice as having been before Hart J as a High Court or make-weight Court of
+Appeal judge between May 1998 and 20 April 2005, just 7 involved intellec-
+tual property issues. In contrast, the senior Patents Court judge Laddie J
+heard 110 cases designated as involving ‘intellectual property’, out of a
+total of 201 cases (55 per cent). These figures may be artificially low, since
+cases involving intellectual property may also be concealed under rubrics
+such as ‘information technology’, ‘competition law’, and ‘civil procedure’.
+Other Patents Court judges may hear a lower proportion of intellectual
+property cases, though. Between May 2003 and April 2005 Pumfrey J heard
+86 cases, of which 42 were in the field of intellectual property (just under
+49 per cent). From his appointment in May 2003 to April 2005 Lewison J
+heard just 15 intellectual property cases out of 60 (25 per cent).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+6
+4
+2
+1
+9
+3
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Jeremy Phillips · Summary judgment in intellectual property litigation—The three of Harts
+
+ARTICLE
+
+67
+
+4. The three of Harts
+The three cases that form the basis of this analysis are
+as follows.
+
+(i) L’Oreal SA and others v Ballure NV and others.7
+This trade mark infringement and passing-off
+action was commenced by the owner of a number
+of perfume trade marks, who sought to prevent the
+distribution and sale of ‘smell-alike’ products that
+bore some superficial similarity to its own prod-
+ucts. The defendants applied to have it struck
+out on the basis that there was no apparent simi-
+larity between the parties’ respective trade marks.
+Hart J refused to strike out the claims despite his
+admission that he could see no similarity at all
+between various of the trade marks and signs in
+dispute.
+
+(ii) Experience Hendrix LLC v Purple Haze Records Ltd
+and another.8 The defendant raised a complex edi-
+fice of legal arguments and attempted to maintain
+both on the law and on the facts that its commercial
+exploitation of a sound recording of an old Jimi
+Hendrix performance
+that had been made
+abroad did not infringe copyright in that sound
+recording. The claimant sought and was granted
+summary judgment. The arguments that, Hart J
+concluded, could not be sustained included sub-
+missions based on business efficacy and on the
+construction of a contract upon which the defen-
+dants sought to rely, as well as upon intellectual
+property law.
+
+(iii)IPC Media Ltd v News Group Newspapers Ltd.9
+This application arose from the reproduction, in
+the pages of The Sun newspaper, of the entire
+front page of IPC’s TV listings magazine. This
+reproduction, as well as that of another title,
+was within part of an advertisement for a compet-
+ing title published by The Sun’s owners. In an
+action for copyright infringement, Hart J gave
+summary judgment, notwithstanding The Sun’s
+argument that the reproduction of the cover’s art-
+work and logo was a fair dealing for the purpose
+of criticism or review.
+
+Each of these decisions will now be critically exam-
+ined in the context of the terms of the CPR, the over-
+riding objective, and the commercial realities that
+underlay the disputes. The object of the exercise is
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Further empirical research must establish
+whether the laws relating to summary orders
+and striking out work in favour of IP owners
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+not to attack the judge, nor is it to criticize the legal
+provisions that he was invited to apply. Rather, it
+is to pose two questions and offer answers to them:
+(i) how effective are the rules relating to summary
+judgment
+in intellectual property disputes and
+(ii) could we have expected the application of those
+rules to be different if the role of applying them had
+fallen to a trial judge who was a member of the intel-
+lectual property tribe rather than a relative outsider?
+
+L’Oreal SA and others v Ballure NV and
+others
+
+justly,
+
+If the overriding objective is that of dealing with
+cases
+this decision is hard to justify in
+terms of its inter partes content. It may, however, be
+viewed, from a utilitarian perspective, as sacrificing
+the need to deal justly in this instance in order to
+create a platform upon which a higher quality of just-
+ice may be achieved between other disputants in the
+future.
+
+The problem in this case was that the claimant
+commenced proceedings for trade mark infringement
+and passing off in respect of acts of the defendant
+that were more properly categorized as acts of unfair
+competition. Actions may be brought in the United
+Kingdom for trade mark infringement and for pass-
+ing off, but unfair competition is not recognized as
+a cause of action10. In a recent obiter comment, a
+Court of Appeal judge suggested that the time has
+come for English passing-off law to be more appro-
+priately categorized as a tort of unfair competition,11
+
+7 L’Oreal SA and others v Ballure NV and others, Chancery Division (Hart J),
+
+26 January 2005.
+
+10 Cadbury-Schweppes Pty Ltd v Pub Squash Co Pty Ltd [1981] RPC 429 (a deci-
+
+8 Experience Hendrix LLC v Purple Haze Records Ltd and another
+
+sion of the Privy Council, on appeal from the High Court of Australia).
+
+[2005] EWHC 249 (Ch), Chancery Division (Hart J), 24 February 2005.
+
+9
+
+IPC Media Ltd v News Group Newspapers Ltd, Chancery Division (Hart J),
+24 February 2005.
+
+11 Aldous LJ in Arsenal Football Club v Reed [2003] ETMR 73 (CA) [70]
+alluded to ‘the cause of action traditionally called passing off, perhaps
+best referred to as unfair competition’.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+6
+4
+2
+1
+9
+3
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+68
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2005, Vol. 1, No. 1
+
+and there seems no doubt but that it was the inten-
+tion of the claimant to found its action upon that
+suggestion and to take it to an appellate court for
+that purpose.
+
+themselves developed by case law,
+
+By refusing to strike out an apparently untenable
+action in order that
+the claimant be given the
+opportunity to create new law, Hart J has struck a
+bold blow on behalf of those who support the prin-
+ciple of judicial creativity and who wish to see the
+judiciary given the opportunity to modify flexible
+principles,
+in
+accordance with current commercial needs and con-
+temporary standards of fairness. Yet the defendant
+might understandably complain ‘Why me?’ when
+forced to defend an action that, on the law as it
+stands, has no chance of succeeding in order that it
+be given the opportunity to be the unsuccessful
+party in appellate proceedings if the claimant per-
+suades the courts to make new law. The overriding
+principle does not appear to support the sacrifice
+of even the most morally unworthy of defendants
+for this purpose.
+
+Experience Hendrix LLC v Purple Haze
+Records Ltd and another
+
+In this instance the claimant was the assignee of the
+estate of the late musician Jimi Hendrix. Its action
+for infringement of performers’ rights was met by
+defences based both on legal submissions and on con-
+siderations of
+fact. The claimant’s application for
+summary judgment succeeded.
+In dismissing the
+defendant’s legal submissions that (i) the claimant
+company’s performances did not qualify for legal
+protection and that (ii) an individual who partici-
+pated in a group’s performance did not enjoy an indi-
+vidual right in his performance, Hart J acted in a bold
+and decisive manner since those submissions, which
+were of no genuine substance, were couched in terms
+that might have led him to conclude that they were at
+least arguable.
+
+In contrast, the court’s treatment of the defences
+based on factual submissions might seem surprising.
+Hart J concluded that on its true construction an
+agreement between Hendrix and a third party, upon
+which the defendant sought to rely, contained no
+assignment or agreement to assign the relevant rights
+that it allegedly infringed. Nor, the judge held, was
+it necessary to imply into that contract a term to
+
+that effect in order to give the agreement business
+efficacy.
+
+By the time a judge, on an application for sum-
+mary judgment, is contemplating issues such as the
+need to imply a term into a side contract for the
+sake of business efficacy, it would appear that he is
+delving into issues of relative detail almost to the
+point at which the application for summary judgment
+has become a replacement for the trial itself. Strictly
+speaking, there is no reason why this should not be
+done if the result of this operation is to determine
+that the defence has no ‘real prospect of succeeding
+at
+in intellectual
+property infringements have recently appeared to
+take the line that summary judgment will not be
+ordered where the defence, though weak and unlikely
+to succeed at trial,12 is at least arguable even when it
+is based on a contractual hypothesis.13 It may be
+thought that the defence in this case would belong
+in that same category.
+
+trial’. However, other
+
+judges
+
+IPC Media Ltd v News Group
+Newspapers Ltd
+
+claimant’s
+
+case was
+
+action in this
+
+The
+for
+infringement of copyright in the front cover of a
+magazine that was featured in full in an advertise-
+ment published by the defendant for its own compet-
+ing publication. The defendant argued that
+its
+reproduction of the claimant’s front cover was a per-
+mitted act of fair dealing14 in that it was part of a
+comparative
+the purpose of
+criticism or review of the claimant’s product. The
+claimant sought summary judgment, arguing that
+there was no fair dealing since the reproduction
+was for the purpose of causing a reduction of its pro-
+duct’s sales.
+
+advertisement
+
+for
+
+Hart J entered summary judgment for the claim-
+ant. He held that if the defendant wanted to make
+any criticism of the claimant’s title, all it needed to
+do was to identify that product—which it could
+have achieved without infringing copyright. He added
+that in copying the work to advance its own compet-
+ing purposes at the claimant’s expense, the defendant
+
+12 Beiersdorf AG v Ramlort Ltd [2005] ETMR 15.
+
+13 Glaxo Group plc v Dowelhurst Ltd and another [2004] ETMR 39.
+
+14 Copyright, Designs and Patents Act 1988 ss 30(1), 30(2).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+6
+4
+2
+1
+9
+3
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Jeremy Phillips · Summary judgment in intellectual property litigation—The three of Harts
+
+ARTICLE
+
+69
+
+was advancing its own work, which did not amount
+to an act of fair dealing.
+
+the defendant’s case was ‘at
+
+The judge recognized that the question as to whether
+there was a fair dealing was a difficult one15 but added
+that the fact that it was difficult to strike a balance
+between enhancing competitiveness and protecting
+copyright was no reason for refusing to answer it in
+the context of a summary judgment application.16 He
+conceded that
+least
+arguable’17 but nonetheless considered that there was
+no prospect of it succeeding. Counsel for the defendant
+further argued that facts might emerge at trial that
+would ‘assist the right balance that might be struck’
+and that this might be a reason for deferring a decision
+on the fair dealing issue, but the judge was unper-
+suaded that this might be the case since the defendant
+had hitherto failed to produce any comparable exam-
+ple of the usage that, it claimed, was fair and since the
+defendant’s use of the claimant’s magazine cover was
+not so much a use for the purposes of criticism or
+review as a taking advantage of the fact that the claim-
+ant had created a visual identity for its product.18
+
+5. What do these decisions tell us
+about the effectiveness of
+summary orders?
+In this admittedly far-from-representative sample of
+cases, two involved the grant of summary judgment
+in favour of a claimant intellectual property owner
+and in the third an application to strike out claims
+made by an intellectual property owner was dis-
+missed. This looks like good news for the intellectual
+property owners, but
+is for further empirical
+research to establish whether the operation of the
+laws relating to summary orders and striking out gen-
+erally works in favour of intellectual property owners.
+There is certainly no explicit requirement that those
+rules should do so.
+
+it
+
+it
+
+As a side note, the European Court of Justice has
+mentioned that
+is preferable for trade mark-
+granting authorities to take a strict view of the applica-
+tion of absolute grounds for the refusal of a trade mark
+application rather than allow the grant of weak or
+
+currently generous
+
+doubtful trade marks and leave it to third parties to
+rely upon the
+selection of
+defences if they should be faced with an action for
+infringement.19 The reason for this is that powerful
+commercial entities with weak trade marks should
+not be able to bully smaller commercial entities by
+commencing unmeritorious litigation against them.
+Where a court is swift to enter summary judgment
+on behalf of a claimant but reluctant to strike out a
+probably unmeritorious claim, the wisdom of the
+European Court of
+Justice’s position must be
+recognized.
+
+6. What do these decisions tell
+us about the effectiveness of
+non-specialist judges?
+It is apparent from the transcripts of the three deci-
+sions that Hart J is an attentive, intelligent, rational,
+and conscientious judge. In these particular cases he
+has also received the benefit of clearly articulated sub-
+missions by counsel, which have left no doubt as to
+the issues to be resolved. On the evidence the only
+virtue that he can be said to lack is the sort of famil-
+iarity with intellectual property law that is acquired
+only by regular exposure to it. Without wishing to
+draw the conclusion that his conclusions in the three
+cases under review are incorrect, it is submitted that
+each is a conclusion that lies contrary to what a regu-
+lar specialist intellectual property judge would have
+been expected to reach.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Employment of a wider pool of judges to try
+IP cases will subject decisions of specialist
+judges to a wider degree of peer review
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+It would be easy to suggest that there exists some
+sort of proportionality between a judge’s exposure
+to an area of law and the likelihood of his reaching
+the correct conclusion in any given dispute. This
+
+15 At paras 18–19 of his judgment.
+
+16 ibid para 19.
+
+17 ibid para 13.
+
+18 ibid para 21.
+
+19 For a cogent account of this position see the Opinion of the Advocate
+General in Case C-191/01P Office for Harmonisation in the Internal Market
+v Wm Wrigley Jr Company [2003] ETMR 88 [93]–[97] and the references
+cited there.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+6
+4
+2
+1
+9
+3
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+70
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2005, Vol. 1, No. 1
+
+for summary judgment should be heard by specialist
+judges. For example,
+
+ From a psychological point of view it may be imag-
+ined that both litigants and professional representa-
+tives will feel more at home before a judge who
+has practised or who has had extensive judicial
+experience of the area from which the dispute has
+arisen.
+
+ Specialist judges may be expected to require a lower
+degree of instruction by counsel, thus reducing the
+time spent hearing and determining applications.
+
+There may be a greater disincentive to appeal against
+a decision of a specialist judge than against that of a
+relative stranger to the field of law.
+
+7. Conclusions
+At a time when there is a strong demand for the
+administration of justice to be both effective and
+swift, the twin facility of entering summary judgment
+and striking out is likely to remain attractive and
+popular with intellectual property litigants. However,
+it is a facility that should not be abused.
+
+The employment of non-specialist judges for the
+purpose of determining whether that facility should
+be utilized may produce results that, if justifiable,
+may run counter to the intuition of those who spe-
+cialize in the field. Accordingly, judicial practice in
+regard should be carefully monitored and
+this
+reviewed
+of
+decision-making are to prevail.
+
+predictability
+
+consistency
+
+and
+
+if
+
+doi:10.1093/jiplp/jpi001
+Advance Access Publication 19 October 2005
+
+suggestion is itself misconceived for several reasons.
+For example:
+ The dispute may be one that turns on evidential
+or other issues that are unaffected by a judge’s
+lack of familiarity with the area of law in question.
+ There may not be a single identifiable ‘correct’
+solution, since the judge may be asked to choose
+between two or more solutions that are technically
+acceptable on the facts and submissions of law
+before him.
+
+
+
+Judicial reasoning may also be influenced by vari-
+ables such as the quality of the submissions made
+on behalf of the parties, the urgency of the need
+to make a ruling, and the current status of other
+disputes between the same parties.
+
+ The recent experience of the Patents Court, which
+the past decade has recruited numerous
+over
+intellectual property lawyers20 to
+non-specialist
+join its ranks, does not suggest that the quality
+of decision-making of those judges is seriously
+deficient.
+
+There may even be good reason to dilute the
+impact of a concentration of specialist judges within
+a single area of
+legal expertise. For example, the
+employment of a wider pool of judges to try intellec-
+tual property cases will subject decisions of specialist
+judges
+thus
+possibly providing a ‘reality check’ against which
+intellectual property precedents and practices may
+be measured.
+
+to a wider degree of peer
+
+review,
+
+Nonetheless, there would seem to be good ground
+for advocating that applications for striking out or
+
+20 Robert Walker J (now Lord Walker of Gestingthorpe), Neuberger J (now
+
+Neuberger LJ), Patten, Mann, and Lewison JJ.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+6
+4
+2
+1
+9
+3
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+

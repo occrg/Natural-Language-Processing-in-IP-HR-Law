@@ -1,0 +1,1103 @@
+DOI: 10.1111/jwip.12094
+
+ORIGINAL ARTICLE
+
+Beyond access and benefit-sharing: Lessons
+from the law and governance of agricultural
+biodiversity
+
+Elsa Tsioumani
+
+BeneLex Project, Strathclyde Centre for Environmental Law and Governance, Glasgow, UK
+
+Correspondence
+Elsa Tsioumani, ERC Research Fellow,
+BeneLex project, Strathclyde Centre for
+Environmental Law and Governance, Glasgow,
+UK.
+Email: elsa.tsioumani@strath.ac.uk;
+elsa@iisd.org
+
+Funding information
+European Research Council, Grant number:
+335592
+
+The concept of fair and equitable benefit-sharing emerged
+in the early 90s as a corollary to the principle of national
+sovereignty over natural and genetic resources. In the
+context of agricultural biodiversity use, it can be concep-
+tualized in three ways: as a defensive tool to balance the
+injustices enshrined in the intellectual property rights
+system; as a development tool to reap part of the benefits
+of the emerging biodiversity market; and as an incentive, to
+reward and enable farmers' continued contribution to
+conservation. This article seeks to assess the potential of
+the concept in operationalizing fairness and equity in
+agricultural biodiversity governance,
+in an increasingly
+complex legal and policy landscape of conflicting rights and
+policies. It briefly explains its emergence in the context of
+the evolving principles of governance of agricultural
+biodiversity; and analyses the structure and application
+of the Multilateral System of Access and Benefit-sharing
+established by the International Treaty on Plant Genetic
+Resources for Food and Agriculture in the framework of
+intellectual property- and human rights-related processes.
+Identifying linkages, challenges and key lessons, which are
+useful for a wide range of processes within and beyond the
+international environmental law realm, it concludes that
+the concept falls short of its promises. It thus calls for
+imagining new dialogues and concepts to redefine the
+
+© 2018 The Authors. The Journal of World Intellectual Property © 2018 John Wiley & Sons Ltd
+
+106 | wileyonlinelibrary.com/journal/jwip
+
+J World Intellect Prop. 2018;21:106–122.
+
+TSIOUMANI
+
+| 107
+
+boundaries between what must remain in the public
+domain, what may be managed as a commons and what
+may be privatized.
+
+K E Y W O R D S
+access, agricultural biodiversity, fair and equitable benefit-
+sharing, human rights, intellectual property, International Treaty
+on Plant Genetic Resources for Food and Agriculture
+
+1 |
+
+INTRODUCTION
+
+Agriculture in the twenty first century faces multiple challenges. It needs to produce more food to feed a growing
+population and more feedstocks for a potentially huge bioenergy market, with a smaller rural labor force. It needs to
+contribute to overall development in many agriculture-dependent developing countries. It needs to adopt more
+efficient and sustainable production methods in the face of reduced resources and increased environmental
+pressures. It also needs to adapt to climate change (FAO, 2009). In other words, the world needs to produce more
+food, using fewer resources, in a more challenging environment and in a context of globalization, rapid urbanization,
+growing inequities and insecure land tenure (IAASTD, 2008, pp. 2–3). Never before has it been more important for
+humanity to generate, use fairly and share equitably the benefits of, agricultural production, technology and
+knowledge.
+
+Agricultural biodiversity is the foundation of all agricultural production. The term is not defined in the Convention
+on Biological Diversity (CBD).1 Subsequent decisions of the CBD Conference of the Parties may be used to interpret
+the term (Brunnée & Toope, 2000). Agricultural biodiversity is therefore understood as:
+
+a broad term that includes all components of biological diversity of relevance to food and agriculture, and all
+components of biological diversity that constitute the agricultural ecosystems, also named agro-ecosystems:
+the variety and variability of animals, plants and micro-organisms, at the genetic, species and ecosystem
+levels, which are necessary to sustain key functions of the agro-ecosystem, its structure and processes (CBD,
+2000, Appendix).
+
+Agricultural biodiversity is the outcome of interactions among genetic resources, the environment, and the
+knowledge, management systems and practices used by farmers. It represents an excellent example of the potential
+for positive interaction between humans and nature (Pimbert, 1999). It is inextricably linked both to the local
+environment and climate, and to human ingenuity and cultural preferences.
+
+In the form of seeds or other plant propagating material, plant genetic resources for food and agriculture (PGRFA)
+are the necessary building blocks for crop improvement, and thus the world's agriculture and food production. PGRFA
+are used either by farmers on farm aiming at maintaining the quality and yield of their crops or by professional
+breeders in ex situ facilities. As such, they play a crucial role in farmers' livelihoods, agricultural development and world
+food security (FAO, 2010).
+
+Crucially, unlike other natural resources, plant genetic resources are renewable, and usually a very small quantity
+is required for breeding, research and development. The economic benefit is largely linked to the information
+contained in the resource, rather than the resource itself (Guneratne, 2012, p. 69). In addition, the final product can be
+used as propagating material and vice versa. Another characteristic of PGRFA is that conservation and use are linked:
+conservation is performed through use, and unless an agricultural variety is used, it cannot be conserved for more than
+a few decades before it eventually dies (FAO, 2012, pp. 29–35). Traditional crop varieties serve as reservoirs of
+
+108 |
+
+TSIOUMANI
+
+agricultural biodiversity, providing a much required safety valve in the face of pests, diseases and environmental
+stresses. In addition, as modern varieties often rely on the traits of traditional ones, traditional varieties and the
+knowledge they embody are considered vital resources also for scientific agricultural research (Tsioumani, Muzurakis,
+Ieropoulos, & Tsioumanis, 2016, p. 14). PGRFA are thus important both as an immediate resource, as they each have
+particular characteristics which are used in plant breeding, and as an insurance against future needs and challenges.
+The privatization of plant varieties through intellectual property rights (IPRs) resulted in rising justice-related
+concerns, which provided the context for the emergence of the principle of national sovereignty over natural and
+genetic resources. The principle of national sovereignty aimed to defend the rights of countries providing such
+resources. On this basis, a series of multilateral environmental agreements established legal systems of regulated
+access to genetic resources and fair and equitable sharing of the benefits arising from their use.
+
+In an increasingly complex legal and policy landscape of conflicting rights and policies, this article assesses
+application of the concept of fair and equitable benefit-sharing (Morgera, 2016; Tsioumani, 2014a) in agricultural
+research and development, with focus on PGRFA. Consideration of animal and aquatic genetic resources or micro-
+organisms of relevance for food and agriculture is therefore excluded. First, the article briefly explains the emergence
+of the concept in the context of the evolving principles of governance of agricultural biodiversity. Second, it addresses
+the Multilateral System for access to and fair and equitable benefit-sharing (ABS) from the use of plant genetic
+resources of the International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGRFA),2 which is
+arguably the most sophisticated ABS system in international law (Biber-Klemm and Cottier, 2006; Cabrera Medaglia,
+Tvedt, Perron-Welch, Jørem, & Phillips, 2013; Chiarolla, 2012; Chiarolla, Louafi, & Schloen, 2013; Correa, 1999;
+Guneratne, 2012; Halewood, Andrieux, et al., 2013; Helfer, 2004; Kamau & Winter, 2013; Morgera, Tsioumani, &
+Buck, 2014; Oberthür et al., 2011; Oguamanam, 2006; Raustiala & Victor, 2004). Third, it explores (lack of) benefit-
+sharing applications in IPR instruments, and related human rights concerns. Identifying challenges and key lessons
+which can be useful for a wide range of processes within and beyond the international environmental law realm, it
+concludes that, despite promise and good intentions, the concept of fair and equitable benefit-sharing has failed to
+inject fairness and justice in agricultural research and development, or promote agrobiodiversity conservation,
+including through ensuring the continued contribution of smallholder farmers.
+
+2 | THE EVOLUTION OF THE GLOBAL GOVERNANCE OF PLANT GENETIC
+RESOURCES
+
+2.1 | Informal seed systems and public agricultural research
+
+Since the earliest crop domestications, agricultural development has been based on farmers' traditional varieties,
+developed through collective systems of innovation and conservation through seed saving, sharing and use
+(Halewood, López Noriega, & Louafi, 2013). Exchanges were regulated on a customary basis, largely at the community
+level, and included both informal ones and more organized systems, such as seed fairs and community seed banks.
+A series of historic events led to the transformation of agriculture and the global redistribution of PGRFA.
+Colonization resulted in a vast flow of agricultural species from the Americas to Europe and from South to North.
+Botanic gardens and other ex situ facilities were established, mainly in the North, which stored samples of agricultural
+varieties coming mainly from developing countries, the centers of domestication of major agricultural crops. During
+the Twentieth century, the green revolution dramatically transformed agriculture through scientific and technological
+advances, including modern plant breeding. The professionalization of breeding and the emergence of the commercial
+seed sector had both environmental and social consequences. The uniformization promoted by the spread of
+commercial varieties led to erosion of agricultural biodiversity (i.e. the loss of genetic diversity) and thus the
+vulnerability of agricultural production in the face of threats such as pests, diseases and extreme environmental and
+climatic conditions (FAO, 1993; Moore & Tymowski, 2005, pp. 3–4). At the same time, customary farmer practices and
+varieties and traditional seed systems were marginalized in favor of scientific, public or corporate-led research, and in
+
+TSIOUMANI
+
+| 109
+
+cases criminalized, following the emergence of varieties protected by IPRs (Chiarolla, 2012; De Schutter, 2009;
+Mooney, 1998; Tsioumani et al., 2016). The generally high price of modern agricultural inputs, including seed,
+increased social inequalities regarding income and access to technology, and had impacts regarding land ownership
+and tenure (Dahlberg, 1979; Glaeser, 1987; Griffin, 1974). Access to markets was also limited due to stringent seed
+certification regulations, and marketing and food safety standards (Le Courtois, Gálvez-Nogales, Santacoloma, &
+Tartanac, 2011; Lee, Gereffi, & Beauvais, 2012; Tsioumani, 2016). These trends put at risk the livelihoods of
+smallholder farmers, in developing but also in developed countries.
+
+The need for continued exchanges of material in the context of the green revolution and the realization of the
+risks of genetic erosion provided the basis for the international regulation of PGRFA and the establishment of the
+Consultative Group on International Agricultural Research (CGIAR) in 1971 (Özgediz, 2012; Tsioumani, 2016). The
+international agricultural research centers under the auspices of the CGIAR stored a large percentage of the world's
+agricultural germplasm (Fowler, 1994; Fowler, Smale, & Gaiji, 2000; Pistorius, 1997, p. 33). At the time, international
+law was silent with respect to the conditions for access to and use of PGRFA, both in situ and in the CGIAR system.
+Similarly, most national legislations did not regulate access to PGRFA, either in situ or in genebanks. PGRFA were thus
+considered to be in the public domain, available to anyone for any purpose, without benefit-sharing or conservation
+obligations (Halewood, López Noriega, et al., 2013: p. 12). Still, most agricultural research at the time was conducted
+by public institutions, and the results of the work were shared (Rose, 2004).
+
+2.2 | The privatization trend
+
+The growing application of IPRs and the gradual privatization of agricultural research and development resulted in
+tensions that challenged the CGIAR practices. At the core of the tensions were perceived inequities concerning who
+bore the cost of conservation and who benefitted more from its use, arguably private companies in developed
+countries. Besides, concerns about the risk of the commodification of PGRFA intensified as a result of the case of
+Diamond versus Chakrabarty in the US, which opened the way to the patenting of living organisms (Carolan, 2010;
+Jasanoff, 2001; Kevles, 1994).
+
+IPRs are supposed to foster and reward creativity and innovation, including to address global challenges such as
+food security. The IPRs mainly in use in the field of agricultural development are plant breeders’ rights (PBRs) and
+patents, and they have been widely criticized as designed to suit the needs of developed countries. They have been
+associated with reducing the developmental choices of developing countries, intensifying control by agrochemical
+companies, raising the cost of agricultural inputs and risking the food security of vulnerable groups, including
+smallholder farmers (Commission on Intellectual Property Rights, 2002; Correa, 1995; Drahos, 1996; Drahos &
+Braithwaite, 2002; Dutfield, 2000). Farmers' varieties do not satisfy the criteria for protection and cannot be covered
+by either PBRs or patents, they were thus further marginalized.
+
+Plant breeders' rights were established by the 1961 International Convention for the Protection of New Varieties
+of Plants (UPOV Convention), which promoted a system of private ownership “with the aim of encouraging the
+development of new varieties of plants for the benefit of society” (UPOV Mission Statement). Standards adopted
+under the UPOV Convention, which was amended in 1972, 1978 and 1991, provide protection to novel (in terms of
+prior commercialization) and distinct, uniform and stable plant varieties. Farmers' varieties are deemed to lack novelty,
+following the assumption that farmers do not conduct on-farm seed improvement (although many do)3 and are rarely
+uniform, thus they cannot satisfy the UPOV criteria for protection.
+
+UPOV membership was boosted with the adoption of the Agreement on Trade-Related Aspects of Intellectual
+Property Rights (TRIPS Agreement) by the World Trade Organization (WTO) in 1994, as WTO Member States are
+required to provide for the protection of plant varieties either by patents or by an effective sui generis system.4
+Although countries are free to identify a system to suit their particular agricultural and socioeconomic conditions,
+UPOV, as a ready-made framework, is obviously an easy choice (Correa, Shashikant, & Meienberg, 2015). Ratification
+seems to be promoted also by technical advice provided to developing countries (De Schutter, 2009). Furthermore,
+
+110 |
+
+TSIOUMANI
+
+ratification of UPOV 1991 or adoption of complying legislation is promoted by developed countries through free trade
+agreements, while bilateral pressure is also exerted to introduce patent protection for plants, animals and
+biotechnological innovations, exceeding even the TRIPS standards (Brennan & Kilic, 2015; Correa, 2009; GRAIN,
+2014; Heath & Kamperman Sanders, 2007). Developing country membership is thus constantly increasing.
+
+Exceptions to PBRs, including the permitted use of protected varieties as the source material of further breeding
+(breeders' exception) and the re-use of saved seeds by farmers (farmers' privilege), have been gradually restricted in
+the subsequent revisions of the Convention. Similar exceptions aiming to protect farmers' and breeders' activities are
+more limited under patent law, as patents allow its holder to exercise the greatest control over the use of patented
+material.
+
+Protecting plant-derived innovations under patent regimes requires an applicant to demonstrate novelty, an
+inventive step, and the potential for industrial application. At the moment, to the author's knowledge, patents on
+conventional plant varieties are allowed in the United States, Japan, South Korea and Australia. With the
+breakthrough of modern biotechnology in the 1990s however, the patent subject matter expanded dramatically, with
+an ever-increasing number of patents to cover not only transgenic plants but also particular plant traits and parts,
+components such as genes, plant breeding methodologies and vectors and processes involved in the production of
+transgenic plants (Tsioumani et al., 2016). Geographical application also expanded, as transgenic plants became
+patentable in Europe (Crucible II Group, 2000; Dutfield, 2010).5
+
+A vast literature examines ethical considerations and fairness- and equity-related concerns posed by IPRs granted
+for living organisms (Nuffield Council on Bioethics, 2002). These concerns are exacerbated by the (mis)application of
+the IPR system, dubbed as “biopiracy”6 (Aoki, 1998; Mooney, 1998). In addition, “IPRs appear to slow the free flow of
+germplasm exchange, slow the diffusion of new knowledge, upset the balance between basic and applied research,
+and erode scientific integrity” (Hess, 1993, p. 128), posing obstacles to public research.
+
+However, it was mainly the misappropriation and privatization of genetic resources and traditional knowledge
+that resulted in rising equity and justice-related concerns: farmers and governments in developing countries realized
+that the introduction of IPRs resulted in a major asymmetry, noting that “their raw materials were to be exchanged
+freely while patents were to be placed upon the finished varieties” (Mooney, 1983, p. 24), restricting their availability.
+This was considered as unfair and inequitable or at least morally unjust from the perspective of provider countries and
+farmers. It was also a major attack to the previous treatment of PGRFA and related knowledge as public goods.
+Following the acknowledgment of the need for some form of legal arrangement regarding access to stored germplasm,
+the International Undertaking on PGRFA was adopted in 1983.
+
+2.3 | The attempt for a common heritage approach
+
+The non-binding International Undertaking attempted to apply the principle of common heritage to PGRFA, declaring
+that “plant genetic resources are a heritage of mankind and consequently should be available without restriction.”7
+Significantly, the principle of common heritage would cover all plant genetic resources, including “newly developed
+varieties.”8 The initial strategic and legal response was thus not to restrict access or share the benefits of PGRFA but
+make them freely accessible to farmers and breeders around the world (Aoki, 2009; Kloppenburg, 2014). This—
+retrospectively radical—approach can be explained in the light of the asymmetry introduced by IPRs: the main problem
+was not that seed companies were using PGRFA for free, but that they were restricting access to materials that, as a
+matter of reciprocity, ought to have been shared.
+
+The framework established by the Undertaking sought to benefit humanity as a whole, and “to support major
+increases in agricultural production, especially in developing countries.”9 However, distribution of the benefits was
+left to national governments' responsibility,10 and no mechanism was established to address the needs of specific
+fractions of humanity (i.e. most vulnerable or less equipped for agricultural research and development). An
+internationally coordinated network of centers, including the pre-existing CGIAR centers, would operate under the
+FAO auspices and assume the responsibility to hold PGRFA collections “for the benefit of the international community
+
+TSIOUMANI
+
+| 111
+
+and on the principle of unrestricted exchange.”11 The absence of formal benefit-sharing arrangements lies in the
+strong belief that benefits would flow to developing countries in the form of distribution of PGRFA and related
+information, in light of the envisioned unrestricted exchanges of material and the CGIAR centers’ open-access policy.
+Noble in its intentions, the architecture seemed to ignore the global inequities regarding distribution of the
+infrastructures, knowledge and skills, which are necessary to make use of an open system such as the one created by
+the Undertaking (Louafi & Welch, 2014). It further revealed the central weakness of the common heritage approach in
+international law: that it is largely motivated by States' desire for access to resources rather than by genuine
+community interest in their protection (Brunnée, 2008).
+
+The International Undertaking did not resolve the impasse between developed and developing countries largely
+associated with IPRs and equity-related concerns. Eight developed countries signed it with reservations,12 reluctant
+to allow the principle of common heritage to apply to modern varieties and giving priority to IPRs. Developing
+countries, in turn, considered impractical the attempt to apply the principle of common heritage against IPRs.
+Identifying themselves as providers and thus owners of genetic resources, they pushed for application of the principle
+of national sovereignty over natural and genetic resources, eventually embedded in the CBD.
+
+2.4 | The nationalization trend
+
+If IPRs created a major enclosure to the previous systems of exchange, the principle of national sovereignty over
+natural and genetic resources aimed to defend the rights of countries providing such resources by creating a
+second, defensive enclosure. In the words of Halewood, Andrieux, et al. (2013) “if developed countries were able to
+exercise restrictive control over advanced biologically based technologies using IPRs, developing countries could
+exercise their sovereign rights to regulate and restrict access to the biological and genetic resources within their
+borders” (p. 6).
+
+The CBD, a legally binding treaty, recognizes that the authority to determine access to genetic resources
+rests with national governments and is subject to national legislation. The Convention introduced the concepts
+of the prior informed consent of the country providing such resources and of the fair and equitable sharing of
+the benefits arising from their commercial or other utilization upon mutually agreed terms between the provider
+and the user.13 Establishing a bilateral model of exchanges of genetic resources, it also refers prominently to
+fair and equitable benefit-sharing as its third objective.14 Benefit-sharing is thus linked to the principle of
+national sovereignty, and appears to have a balancing function against the privatization of genetic resources via
+IPRs.
+
+The shift in principles can be further justified due to the growing expectations of the commercial value of
+biodiversity (Batta Bjørnstad, 2004; Petit, Fowler, Collins, Correa, & Thornström, 2001) and its potential use for
+development purposes (Raustiala & Victor, 2004). The emergence of the biotechnology industry in the 1990s and of a
+market for biodiversity-based products was at the center of these expectations. Benefit-sharing in this sense would be
+linked not only to the commercialization of biodiversity-based products but also to the emergence of market-based
+approaches to biodiversity management, such as payments for ecosystem services (Morgera, 2016).
+
+In conclusion, the concept of fair and equitable benefit-sharing in the context of agricultural biodiversity use can
+be conceptualized as following: linked to the principle of national sovereignty, as a defensive tool to balance the
+injustices enshrined in the IPR system; and linked to development purposes, as a tool to benefit from the emerging
+biodiversity market. A third conceptualization can be found under the ITPGRFA concept of farmers' rights,15 which
+understands benefit-sharing as a tool to reward farmers and enable their continued contribution, thus linking it to
+conservation concerns and rural livelihoods.
+
+Were developing countries accurate in their expectations? Adoption of the CBD was considered a victory for the
+developing world, but did adoption of the TRIPS Agreement mean that many of these gains were weakened (Aoki,
+2009)? The next section will assess multilateral application of the benefit-sharing concept at the inter-State level, on
+the basis of a technical analysis of the MLS.
+
+112 |
+
+TSIOUMANI
+
+3 | GOVERNANCE OF AGRICULTURAL BIODIVERSITY AND FAIR AND
+EQUITABLE BENEFIT-SHARING
+
+The current picture of global governance of agricultural biodiversity, from conservation to use in research and
+development, is largely defined by the CBD, the ITPGRFA and IPR-related instruments. While fair and equitable
+benefit-sharing is an objective of environmental treaties, the concept is not enshrined in the IPR instruments.
+
+3.1 | The ITPGRFA multilateral system of access and benefit-sharing
+
+The shift in principles triggered by the CBD negotiations had an immediate influence on the FAO realm. With the
+adoption of the CBD, the Nairobi Final Act16 recommended adjusting the International Undertaking in line with the
+CBD, providing the basis for the negotiations of the ITPGRFA.
+
+The objectives of the ITPGRFA are the conservation and sustainable use of PGRFA and the fair and
+equitable sharing of the benefits arising out of their use, in harmony with the CBD, for sustainable agriculture
+and food security.17 The core of the Treaty is the MLS, which facilitates access to, and exchange of, a specified
+list of crops in Annex I considered vital for food security and agricultural research. It also institutionalizes the
+sharing of the benefits arising from the utilization of these resources: the Treaty regulates both monetary and
+non-monetary benefit-sharing (i.e. exchange of information, access to and transfer of technology and capacity
+building). In addition, facilitated access to PGRFA in Annex I is recognized as a benefit in itself (Tsioumani,
+2004).18
+
+The MLS aimed to respond to the specificities of agricultural biodiversity and the “public good” nature of PGRFA
+and basic scientific research in general (Cooper, Engels, & Frison, 1994; Halewood, Andrieux, et al., 2013), for which
+the CBD bilateral system of exchanges was considered unsuitable (Chiarolla et al., 2013). PGRFA exchange is
+indispensable for the continuation of agricultural research, as well as for the adaptation of key crops to the new
+conditions brought about by climate change, and plant pests and diseases. Moreover, when it comes to crop genetic
+resources, all countries are interdependent and identification of the country of origin is often difficult, given the
+millennia of agricultural history.19
+
+Collections of Annex I crops that are under the management and control of Parties and in the public domain, as
+well as those held by the CGIAR centers and other international institutions that have signed agreements with the
+Treaty's Governing Body, are to be automatically included in the MLS and exchanged using the Standard Material
+Transfer Agreement (SMTA).20 The SMTA is a standardized private law contract between a provider and recipient
+(user) of material.21 Other holders, including the private sector, are encouraged to include such material in the system
+to achieve larger coverage. Their contributions are thus voluntary. While providers are usually public or international
+genebanks, users can be organizations, private entities or individuals. In practice, mostly public-sector breeders use
+the MLS (ITPGRFA, 2015; López Noriega, Wambugu, & Mejías, 2013).
+
+Monetary benefit-sharing is currently operated through the Benefit-sharing Fund (FAO, 2006). The original
+idea was that this fund would be replenished through user-based payments on the basis of the SMTA
+provisions, following commercialization of products developed from material accessed through the MLS. The
+SMTA provides for mandatory payments to the Benefit-sharing Fund according to two monetary benefit-
+sharing options:
+
+1. a default scheme, according to which a recipient that commercializes a plant product incorporating material from
+the MLS that is not available to others for further research and breeding (i.e. it is patented) will pay 1.1% of gross sales
+to the Treaty's Benefit-sharing Fund, less 30% (to cover expenses), that is, 0.77%22 (Moore & Goldberg, 2010); and
+2. an alternative scheme, whereby recipients pay 0.5% of gross sales on all products of the species they accessed from
+the MLS, regardless of whether the products incorporate the material accessed and regardless of whether or not
+the new products are available without restriction.23
+
+TSIOUMANI
+
+| 113
+
+Voluntary payments are encouraged when a recipient commercializes a plant product that incorporates material
+
+from the MLS if that product is available without restriction to others for further research and breeding.24
+
+Under the direction of the Governing Body and through a project-based approach (FAO, 2007), the Benefit-
+sharing Fund would then allocate the acquired funds to particular activities designed to support farmers and breeders
+in adapting crops to changing needs and demands, farmers in developing countries in particular. A lack of conceptual
+clarity is observed: Monetary benefit-sharing refers both to the accumulation of monetary benefits through the SMTA
+(user-based benefit-sharing) and to the distribution of monetary benefits through the Benefit-sharing Fund.
+
+The projects funded through the Benefit-sharing Fund produce both improved varieties—which are to enrich the
+MLS—but also non-monetary benefits, such as information or training. Such non-monetary benefits are being
+generated and shared despite the fact that Parties' obligations to share non-monetary benefits are linked to other
+mechanisms and not to the Benefit-sharing Fund directly (Galluzzi, López Noriega, & Halewood, 2014), blurring the
+lines between monetary and non-monetary benefit-sharing and highlighting the close interlinkages between relevant
+mechanisms. The Global Information System for instance is the mechanism specifically built for information exchange
+(Ker, Louafi, & Sanou, 2013).25
+
+It can be argued that non-monetary benefit-sharing can be used to build the capacities required for facilitated
+access to, and use of, PGRFA, which could potentially result in commercialization and monetary benefit-sharing
+(Louafi, 2013). Non-monetary benefit-sharing, in the form of information exchange, technology transfer and capacity
+building, is thus instrumental in addressing the unequal capacities of countries and communities to benefit from the
+ITPGRFA, and bridging the capacity, fairness and equity gap in agrobiodiversity conservation and agricultural research
+and development.
+
+A set of challenges have arisen with regard to the ability of the MLS to generate and share monetary benefits
+(Frison, López, & Esquinas-Alcázar, 2011). As a result, no user-based payments have been realized since the Treaty's
+entry into force. The Benefit-sharing Fund has been operating solely on the basis of donor country voluntary
+contributions (ITPGRFA, 2013; Tsioumani, Finnegan, & Tsioumanis, 2017). The sub-sections below address legal and
+policy challenges related to the accumulation and the distribution of monetary benefits.
+
+3.1.1 | Accumulation of benefits
+
+The lengthy time-period required for research, development and commercialization partly explains the failure to
+generate and share commercial benefits from the SMTA (ITPGRFA, 2013). There is more than that though. The first
+challenge concerns the relationship between benefit-sharing and IPRs. Monetary benefit-sharing takes the form of
+compensation when material is taken out of the MLS, that is, when there is a restriction in use associated with the
+patenting of PGRFA. Such restrictions are arguably incompatible with the open exchange systems needed for food
+security and agricultural biodiversity conservation (Louafi & Welch, 2014). This illustrates a fundamental contradiction
+inherent in the Treaty system: monetary benefit-sharing was designed as a central tool for revenue generation to fund
+the ITPGRFA goals; at the same time, monetary benefit-sharing is tied to restrictions in use, which threaten the very
+essence of the system and its goal of food security, by impoverishing its material base (Frison, 2016; Helfer, 2003). It
+may also be seen as an indication that Treaty drafters designed monetary benefit-sharing as a disincentive to
+patenting,26 prioritizing continued unrestricted exchanges of PGRFA for research and breeding.
+
+A series of additional factors greatly impact effectiveness of the system (Frison, 2016). First, coverage of the MLS
+is not comprehensive. It does not cover certain major crops, such as soybean, sugarcane, tomato and coffee. Notably,
+some of these crops attracted significant research effort resulting in patented material, and their inclusion could result
+in mandatory benefit-sharing payments according to the SMTA obligations. It is however precisely because of the high
+commercial interest that some developing countries excluded these crops from the MLS, aiming for higher gains
+through bilateral transactions under the CBD terms. Second, as noted above, the MLS only covers public and CGIAR
+collections of Annex I PGRFA. This means that most material in the MLS is available elsewhere, and can be accessed
+without adherence to the benefit-sharing terms of the SMTA. Third, many Parties to date failed to notify the
+
+114 |
+
+TSIOUMANI
+
+Secretariat of their PGRFA that are included in the MLS, thus making this material inaccessible to users due to lack of
+awareness. That said, ratification by the US in March 2017 is expected to close one of the major loopholes and allow
+for more comprehensive coverage, once the country's vast crop collections are notified to be included in the MLS.
+On the user side, in practice most of the organizations that choose to take material from the MLS and incorporate
+it in new products do not restrict access to the improved material for further research and breeding purposes and are
+thus not obliged to share monetary benefits. Commercial users who would be more likely to trigger monetary benefit-
+sharing requirements have consistently chosen to access material from other sources, not the MLS (CGIAR, 2015).
+A series of studies undertaken in the ITPGRFA framework has explored obstacles to the realization of monetary
+benefits and confirmed that projections of benefit flows will be “moderate at best,” and will take even longer than
+expected (Moeller & Stannard, 2013). As a result, in 2013 the Governing Body established an intersessional process
+aiming to “enhance the functioning of the Multilateral System.” Consequently, a Working Group was specifically
+mandated to develop measures aiming to increase user-based payments and contributions to the Treaty's Benefit-
+sharing Fund, as a priority, as well as “additional measures” to enhance the functioning of the MLS. These “additional
+measures” are understood as referring to a possible expansion of the Annex I list of crops. This item remains highly
+controversial. Developing countries consider the generation and sharing of tangible financial benefits on the basis of
+the current list a necessary prerequisite for any discussion on expanding coverage. For better or for worse, the
+underlying sentiment of biodiversity-rich countries is that expansion of the Annex I list of crops limits their possibilities
+to gain from their resources by striking bilateral agreements with users (Tsioumani, 2014b).
+
+Research has suggested that upfront payments with no or low restrictions in use may be better suited to generate
+benefits, ensure continued exchanges and increase legal certainty (Seyoum & Welch, 2013). Indeed, the Working
+Group has agreed that the best way forward is to elaborate a subscription system for access to PGRFA in the MLS,
+meaning that subscribed users would need to pay before access (Tsioumani, 2015). The ITPGRFA Governing Body
+then requested it to develop such a subscription system and incorporate it into a revised SMTA (FAO, 2016).
+
+3.1.2 | Distribution of benefits
+
+Distribution of monetary benefits is operated through the Benefit-sharing Fund via a project-based approach. The
+Benefit-sharing Fund is mandated to prioritize projects that support not only the conservation and sustainable use of
+agricultural biodiversity, but also the livelihoods of farmers and rural communities. According to the Treaty text,27
+benefits should flow primarily, directly and indirectly, to farmers, particularly farmers in developing countries who still
+conserve and sustainably utilize PGRFA in their fields.
+
+Twenty-two projects were funded under the third cycle. Most of them are run by international and national
+agricultural research centers, two are run by NGOs and one by an association of indigenous organizations.28
+Channeling benefits to farmers is easier said than done, given the limited capacities of most farmer communities and
+organizations to reach international funding through the complex Benefit-sharing Fund application and project
+execution procedures. While this project-based approach arguably combines elements of inter-state benefit-sharing
+regulation with implementation at the local level, its results illustrate the challenges that an international organization
+faces to reach directly communities on the ground, and vice versa.
+
+An additional challenge lies in the diversity of the ITPGRFA system users. The Treaty serves a wide and diverse set
+of users in the entire spectrum of agricultural production, with different or contradictory needs: public research
+institutes, smallholder farmers, companies big and small, in developing and developed countries, actors engaged in
+commercial or non-commercial research, in formal and informal seed systems. The current realities of agricultural
+research and development, a sector characterized by high market concentration (Tsioumani et al., 2016), put at risk
+not only farmers' innovation but also public agricultural research. As a result, agricultural research centers in
+developing countries also compete for funding under the Treaty. The Treaty struggles to find and maintain a balance
+between modern scientific methods of identifying and developing new varieties on the basis of material in ex situ
+collections and farmers' traditional agro-ecological approaches. It remains a matter for consideration though whether
+
+TSIOUMANI
+
+| 115
+
+the current approach serves well the objectives of sustainable agriculture and global food security (Frison, 2016; Swiss
+Government, 2015). It has been questioned for instance whether a competitive project-based approach is appropriate
+to meet challenges related to distributional equity, the public value of PGRFA and the required cooperation among
+different States and actors to address food security concerns (Louafi, 2013).
+
+3.2 | IPR-related instruments and benefit-sharing: UPOV and the TRIPS “CBD
+Amendment”
+
+Unlike the environmental treaties, there is no explicit requirement related to fair and equitable benefit-sharing in IPR
+instruments, the argument being that IP protection benefits society as a whole by promoting innovation. In the
+response of UPOV to the CBD Secretariat, requesting for contributions to the negotiations on access and benefit-
+sharing (Cabrera Medaglia, 2010; Dutfield, 2011; UPOV, 2003), UPOV highlights the importance of access to genetic
+resources to ensure progress in plant breeding and “thereby to maximize the use of genetic resources for the benefit
+of society.” The breeder's exemption, whereby acts done for the purpose of breeding are not subject to any restriction,
+is considered to be an “inherent benefit-sharing principle” (UPOV, 2003). Same goes for the compulsory exception to
+the breeder's right regarding acts done privately and for non-commercial purposes (which could apply to the activities
+of subsistence farmers) and the optional farmer's privilege to replant farm-saved seeds from a protected variety. The
+UPOV Council has expressed its concern over other benefit-sharing measures that could introduce barriers to
+progress in breeding.
+
+Exceptions to patent holders' rights are even more limited. They can be introduced under the TRIPS Agreement,29
+but practice varies among WTO Member States and the WTO dispute settlement bodies interpret the provision
+narrowly (Yamane, 2011). In addition, the TRIPS Agreement does not require disclosure of prior informed consent of
+the country of origin and of benefit-sharing in patent applications involving use of PGRFA. Therefore, foreign
+companies may obtain private rights derived from national genetic resources without having to adhere to the CBD
+principles (Commission on Intellectual Property Rights, 2002). Although it can be argued that such access to resources
+may not be legitimate, enforceability of CBD principles is weak unless mandated and monitored by national legislation.
+In addition, the validity of the patent would be assessed on the basis of the legislation of the country that granted it,
+not the country that provided the genetic resource used.
+
+Many analysts have argued that unless the TRIPS Agreement is amended to ensure respect for the CBD
+principles in the IP field, the implementation and enforceability of such principles would remain elusive
+(Chouchena-Rojas, Muller, Vivas, & Winkler, 2005). Importantly, such an amendment would allow access to the
+WTO dispute settlement system for breaches of the CBD requirements, as, unlike the CBD, TRIPS rules are
+enforced through mandatory adjudication and retaliatory sanctions.30 Several developing countries have thus
+called for an amendment to TRIPS by introducing requirements to disclose the origin of genetic material and
+evidence of prior informed consent and benefit-sharing in patent applications. The original proposal was
+supported by 110 WTO Member States by 2008, when a strategic alliance was made with the EU and Switzerland
+calling for a procedural decision to negotiate in parallel the biodiversity amendment and geographical indications.
+No progress has been achieved since.
+
+Similar calls take place under the Intergovernmental Committee on Intellectual Property and Genetic Resources,
+Traditional Knowledge and Folklore (IGC) of the World Intellectual Property Organization (WIPO). Since 2010, the
+IGC undertakes negotiations on new patent disclosure requirements, where the MLS could be disclosed as the source
+of PGRFA.31 While the pace of negotiations is extremely slow, reaching agreement in the WIPO context would change
+the course in the IPR realm.
+
+Ample literature highlights that implementation of UPOV and TRIPS may result in contraventions to human rights
+(Correa & Yusuf, 2016; UNDP, 2000). The Sub-Commission on the Promotion and Protection of Human Rights of the
+former UN Commission on Human Rights has declared that there are apparent conflicts between the IPR regime and
+international human rights law, in relation to the transfer of technology to developing countries, the consequences of
+
+116 |
+
+TSIOUMANI
+
+PBRs and the patenting of genetically modified organisms for the enjoyment of the right to food, biopiracy and the
+reduction of communities' control over their genetic and natural resources and cultural values, etc32 (Weissbrodt &
+Schoff, 2003).
+
+Former UN Special Rapporteur on the Right to Food Olivier De Schutter has criticized UPOV for restricting
+farmers' privilege, highlighting concerns arising from the strengthening of breeders' rights regarding the right to food.
+He further pointed to obstacles in public research caused by the intensification of IPRs, and to the need for a broad
+interpretation of the limitations that can be imposed to the patent rights-holder (De Schutter, 2009). Former UN
+Special Rapporteur on cultural rights Farida Shaheed also stressed tensions between IPRs and the right to benefit from
+scientific progress (Shaheed, 2012).
+
+Finally, the presumption that innovation benefits society as a whole fails to acknowledge the well-documented
+fact that technologies “such as high-yielding crop varieties, agrochemicals and mechanization have primarily benefited
+the better-resourced groups in society and transnational corporations, rather than the most vulnerable ones”
+(IAASTD, 2008, p. 23). It further ignores the question of distributing the benefits of innovation to the most vulnerable
+groups of society, including smallholder farmers. De Schutter (2009) for instance has argued that the human rights
+framework requires investigating primarily who benefits from any technological advance, with the needs of the most
+vulnerable groups at the center of attention.
+
+4 | CONCLUDING REMARKS
+
+Fifteen years ago already, the Sub-Commission on Human Rights drew attention to the primacy of human rights
+obligations over economic policies and agreements, and requested the TRIPS Council to take fully into account
+existing State obligations under international human rights instruments. In the meantime, the international community
+seems to be taking the opposite direction. The WTO dispute settlement system is being used at full speed to enforce
+implementation of multilateral trade agreements, often against developing countries' efforts to provide food security
+for local populations; the activities of multinational companies remain largely outside the scope of international law
+(De Jonge, 2011); while a complex web of bilateral and regional trade and investment treaties build a WTO-plus global
+legal order enforced through arbitration tribunals, which limit national governments' regulatory choices outside
+whichever guarantees of equity and legitimacy multilateralism provides (Cotula, 2014). Trade and investment-
+oriented policies, including IPRs, are gaining a de facto supremacy over human rights and environmental treaties,
+because of their enforcement potential and the underlying power of actors and interests involved. At the same time,
+the dramatic extent of patent expansion and market concentration means that enforcement of IPRs is not even
+needed, as “the dominant oligopolists are in a position to dictate to farmers the very conditions of access to seed”
+(Kloppenburg, 2014, p. 1229), making at the same time public research on novel technologies virtually impossible
+(Tsioumani et al., 2016).
+
+The concept of fair and equitable benefit-sharing was born in international biodiversity law in the early 90s with
+noble intent. In the meantime, however, the policy and legal
+landscape changed dramatically, first with the
+establishment of the WTO and adoption of the TRIPS Agreement and second through the intensification of neoliberal
+policies via bilateral and regional trade and investment agreements. Does the concept remain promising now, as it was
+at the times of its inception? Has it injected any fairness and justice in research and development sphere? Has it come
+up with a workable defence against IPRs?
+
+Entered into force almost a decade after the CBD, the ITPGRFA has developed a highly sophisticated system to
+operationalize benefit-sharing at the inter-state level. However, while it has introduced a complex web of technical
+requirements to the exchange of PGRFA, it has not succeeded in legally enforcing user-based benefit-sharing
+(Kloppenburg, 2014).
+
+To be fair, the MLS is a success in many ways. It has facilitated hundreds of thousands of exchanges of PGRFA,
+mainly to enable public agricultural research; it has further provided valuable support to build the capacities required
+
+TSIOUMANI
+
+| 117
+
+for PGRFA utilization. It is thus instrumental in building endogenously-defined needs and capacities of countries and
+communities, and in reintroducing a sharing ethos in agricultural research and development by creating a global
+community. These successes however have been overshadowed by expectations for monetary benefits, in the
+context of growing inequities due to trade policies described above.
+
+Should genetic resources, as renewable and non-rivalrous goods, be treated more like knowledge than like
+non-renewable and rivalrous natural resources? Governance of knowledge faces similar characteristics and similar
+challenges: governance is a global public good, the exchange of which would support solutions to global
+challenges, which however faces various IPR- and access-related restrictions. Opening a dialogue between the two
+sectors seems timely, particularly given the increasing “dematerialization” of genetic resources, which risks
+undermining current benefit-sharing obligations and making the ITPGRFA and the CBD Nagoya Protocol on ABS33
+obsolete: synthetic biology techniques currently make possible the reconstruction of a genetic resource on the
+basis of its genetic information, which can easily be transferred electronically without physical access to the
+resource itself.
+
+At this stage, sharing is in direct conflict with a political and economic system that is increasingly transforming
+genetic resources and knowledge into commodities. Two fundamental assumptions seem to collide. Does IP
+protection contribute to technological innovation and technology transfer as the TRIPS Agreement proclaims? Or
+does it hamper innovation as ample research suggests? Is there a way to bypass the IPR issue to promote biodiversity
+conservation and sustainable use, and transfer technology to that end? And does the currently highly proprietary
+environment allow us to even imagine the creation and protection of a global commons of plant genetic resources
+(Halewood, 2013)?
+
+Ostrom distinguishes common property regimes from open-access systems: whereas in open-access systems no
+one has the legal right to exclude anyone from using a resource, in common property regimes the members of a clearly
+demarcated group have a legal right to exclude non-members from using a resource (Hess & Ostrom, 2007). Can ideas
+arising from the commons literature, particularly the knowledge commons, be applied in the field of agricultural
+research (Frison, 2016)? While the picture of international law appears rather gloom at the moment, examples from
+the grassroots offer rays of hope. The seed inspires: moving away from the farmer archetype, new communities are
+being created, on the basis of values, not profit, and engage with exchanges of seeds and preservation of agricultural
+biodiversity. Inspired by the successful experience in the software realm, others partner to experiment with the open
+source development model. While such grassroots initiatives remain in an informal and largely unregulated sphere,
+their impact can be seen in the policy realm, with the CGIAR now changing its discourse to talk about research for
+development, and increasingly engaging in participatory plant breeding initiatives (Vernooy, Shrestha, & Sthapit,
+2015). Discussing and redefining the boundaries between what must remain in the public domain, what may be
+managed as a commons, and what can be privatized is now more than ever a critical issue for regulators and academics
+alike.
+
+ABOUT THE AUTHOR
+
+Elsa Tsioumani
+is currently an ERC Research Fellow at the Strathclyde Centre for Environmental Law and
+Governance, exploring applications of fair and equitable sharing of benefits in the areas of land, food and agriculture.
+She has been a team leader, writer and editor for IISD Reporting Services since December 1999, following
+international developments on biodiversity in a number of fora, including the Convention on Biological Diversity and
+the International Treaty on Plant Genetic Resources for Food and Agriculture. Elsa has been practicing law in the Bar
+of Thessaloniki, Greece, since 1998, and has been consulting for international organizations and NGOs on
+environmental and human rights issues. A member of the IUCN Specialist Group on access and benefit-sharing, she
+has authored extensively on international and European environmental law and policy, particularly with regard to
+biodiversity, genetic resource governance and indigenous peoples' rights.
+
+118 |
+
+ACKNOWLEDGMENTS
+
+TSIOUMANI
+
+This article is part of a research project titled “BeneLex: Benefit-Sharing for an Equitable Transition to the Green Economy:
+The Role of Law,” funded by the European Research Council (November 2013–October 2018). Further information on
+BeneLex is available at http://www.strath.ac.uk/research/strathclydecentreenvironmentallawgovernance/benelex/
+[accessed on 15 April 2017]. The author is grateful to two anonymous reviewers, as well as Fabien Girard, Christine
+Frison, Elisa Morgera, Annalisa Savaresi and Saskia Vermeylen, for their insightful comments.
+
+ENDNOTES
+
+1 UN Convention on Biological Diversity (CBD) 1992, 1760 UNTS 79.
+2 International Treaty on Plant Genetic Resources for Food and Agriculture 2001, S. Treaty Doc. No. 110-19.
+3 I am grateful to the anonymous reviewer who drew my attention to this point.
+4 TRIPS Agreement Article 27(3)(b).
+5 Directive 98/44/EC of the European Parliament and of the Council of 6 July 1998 on the legal protection of biotechnological
+
+inventions,OJ L 213,30.7.1998, pp. 13–21.
+
+6 Biopiracy, a term originally coined by civil society organization ETC Group, refers to the appropriation of the knowledge and
+genetic resources of farming and indigenous communities by individuals or institutions that seek exclusive monopoly control
+(patents or IP) over these resources and knowledge.
+
+7 International Undertaking Art. 1.
+8 Art. 2(1).
+9 International Undertaking, Article 7(h)(ii).
+10 International Undertaking, Preamble.
+11 International Undertaking, Art. 7(a).
+12 Canada, France, Germany, Japan, New Zealand, Switzerland, the United Kingdom and the United States.
+13 CBD Article 15.
+14 CBD Article 1.
+15 ITPGRFA Article 9.
+16 1992 Nairobi Final Act of the Conference for the Adoption of the Agreed Text of the Convention on Biological Diversity,
+
+Resolution 3.
+
+17 ITPGRFA Article 1.
+18 ITPGRFA Articles 10-13.
+19 ITPGRFA Preamble.
+20 ITPGRFA Articles 11(2) and (5). In addition, the Governing Body has consistently endorsed use of the SMTA by the CGIAR
+
+centers for transfer of non-Annex I material collected before the Treaty's entry into force.
+
+21 ITPGRFA Governing Body Resolution 2/2006 (2006).
+22 SMTA Article 6(7) and Annex 2.
+23 SMTA Article 6(11).
+24 SMTA Article 6(8).
+25 ITPGRFA Articles 13(2)(a) and 17.
+26 I am grateful to former ITPGRFA Secretary Shakeel Bhatti for drawing my attention to this point.
+27 ITPGRFA Articles 13(3) and 18(5).
+28 The list of approved projects is available at http://www.planttreaty.org/sites/default/files/files/Third%20Call%20for%
+
+20Proposals-%20Projects%20approved%20for%20funding-for%20web.pdf (last visited 1 June 2016).
+
+29 Article 30 on Exceptions to Rights Conferred.
+30 WTO Agreement Annex 2, Understanding on rules and procedures governing the settlement of disputes.
+31 I am grateful to Claudio Chiarolla for drawing my attention to this point.
+
+TSIOUMANI
+
+| 119
+
+32 Sub-Commission on the Promotion and Protection of Human Rights Resolution 2000/7, UN Doc. E/CN.4/Sub.2/2000/7.
+33 Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their
+
+Utilization to the Convention on Biological Diversity 2010.
+
+ORCID
+
+Elsa Tsioumani
+
+http://orcid.org/0000-0003-1667-0239
+
+REFERENCES
+
+Aoki, K. (1998). Neocolonialism, anticommons property, and biopiracy in the (Not-so-Brave) new world order of international
+
+intellectual property protection. Indiana Journal of Global Legal Studies, 6(1), 11–58.
+
+Aoki, K. (2009). “Free seeds, not free beer”: Participatory plant breeding, open source seeds, and acknowledging user
+
+innovation in agriculture. Fordham Law Review, 77(5), 2275–2310.
+
+Batta Bjørnstad, S.-I. (2004). A Breakthrough for "the South"?: An Analysis of the Recognition of Farmers' Rights in the International
+
+Treaty on Plant Genetic Resources for Food and Agriculture. FNI Report 13/2004, Lysaker: Fridtjof Nansen Institute.
+
+Biber-Klemm, S., & Cottier, I. (eds). (2006). Rights to plant genetic resources and traditional knowledge: Basic issues and
+
+perspectives. Wallingford: CABI.
+
+Brennan, H., & Kilic, B. (2015). Freeing trade at the expense of local crop markets? A look at the trans-pacific partnership's new
+plant-related intellectual property rights from a human rights perspective. Harvard Human Rights Journal Online blog post.
+Available online at: http://harvardhrj.com/2015/04/freeing-trade-at-the-expense-of-local-crop-markets-a-look-at-the-
+trans-pacific-partnerships-new-plant-related-intellectual-property-rights-from-a-human-rights-perspective/. [Accessed
+on 7 December 2017].
+
+Brunnée, J., (2008). Common areas, common heritage, and common concern. In D. Bodansky, J. Brunnée, & E. Hey, (Eds.), The
+
+oxford handbook of international environmental law. Oxford: Oxford University Press.
+
+Brunnée, J., & Toope, S. J. (2000). International law and constructivism: Elements of an international theory of international
+
+law. Columbia Journal of Transnational Law, 39(1), 19–74.
+
+Cabrera Medaglia, J. (2010). The relationship between the access and benefit sharing international regime and other
+international instruments: The world trade organization and the international union for the protection of new varieties of
+plants. Sustainable Development Law and Policy, 10(3), 24–53.
+
+Cabrera Medaglia, J., Tvedt, M. W., Perron-Welch, F., Jørem A. & Phillips, F.-K. (2013). The Interface between the Nagoya
+
+Protocol on ABS and the ITPGRFA at the International Level. FNI Report 1/2013, Lysaker: Fridtjof Nansen Institute.
+
+Carolan, M. S. (2010). The mutability of biotechnology patents. Theory, Culture and Society, 1(27), 110–129.
+CBD Decision V/5. (2000). Agricultural biological diversity: review of phase I of the programme of work and adoption of a
+
+multi-year work programme, Appendix.
+
+CGIAR. (2015). Comments from the CGIAR Consortium and its 11 CGIAR Centers Hosting International ‘In trust’ Crop and Forage
+Collections (CGIAR) on Options Considered by the Ad Hoc Open-ended Working Group to Enhance the Functioning of the
+Multilateral System of Access and Benefit-sharing. Available online at: https://library.cgiar.org/bitstream/handle/10947/
+3861/CGIAR%20paper%20on%20options%20considered%20by%20WG-EFMLS%20%28final%29.pdf?sequence=1.
+[Accessed on 15 September 2017].
+
+Chiarolla, C. (2012). Intellectual property, agriculture and global food security: The privatization of crop diversity. Cheltenham: Edward Elgar.
+Chiarolla, C., Louafi, S., & Schloen, M., (2013). An analysis of the relationship between the nagoya protocol and instruments
+related to genetic resources for food and agriculture and farmers’ rights. In E. Morgera, M. Buck, & E. Tsioumani, (Eds.), The
+2010 nagoya protocol on access and benefit-sharing in perspective: Implications for international law and implementation
+challenges. Leiden; Boston: M. Nijhoff.
+
+Chouchena-Rojas, M., Muller, M. R., Vivas, D., & Winkler, S. (2005). Disclosure requirements: ensuring mutual supportiveness
+
+between the WTO TRIPS agreement and the CBD. Gland; Cambridge: Geneva: IUCN.
+
+Commission on Intellectual Property Rights. (2002). Integrating Intellectual Property Rights and Development Policy. Report of
+
+the Commission on Intellectual Property Rights. London: Commission on Intellectual Property Rights.
+
+Cooper, D., Engels, J., & Frison, E. (1994). A multilateral system for plant genetic resources: imperatives, achievements and
+
+challenges. Issues in Genetic Resources No. 2. Rome: International Plant Genetic Resources Institute.
+
+Correa, C. (1995). Sovereign and property rights over plant genetic resources. Agriculture and Human Values, 12(4), 58–79.
+Correa, C. (1999). Access to plant genetic resources and intellectual Pproperty rights. Background Study Paper no 8. Rome: FAO.
+Correa, C. (2009). Negotiation of a free trade agreement European Union-India: Will India accept TRIPS-Plus protection? Berlin:
+
+Oxfam Deutschland.
+
+120 |
+
+TSIOUMANI
+
+Correa, C., & Yusuf, A. (eds). (2016). Intellectual property and international trade: The TRIPS agreement (3rd ed.). Alphen aan den
+
+Rijn: Wolters Kluwer.
+
+Correa, C., Shashikant, S., & Meienberg, F. (2015). Plant variety protection in developing countries: A tool for designing a sui
+
+generis plant variety protection system: An alternative to UPOV 1991. Alfter: APBREBES.
+
+Cotula, L. (2014). Do investment treaties unduly constrain regulatory space? Questions of International Law, Zoom-in, 9, 19–31.
+Crucible II Group. (2000). Seeding Solutions: Policy Options for Genetic Resources: People, Plants and Patents Revisited. International
+
+Development Research Centre, International Plant Genetic Resources Institute and Dag Hammarskjold Foundation.
+
+Dahlberg, K. A. (1979). Beyond the green revolution. The ecology and politics of global agricultural development. New York;
+
+London: Plenum Press.
+
+De Jonge, A. (2011). Transnational corporations and international law: Bringing TNCs out of the accountability vacuum.
+
+Critical Perspectives on International Business, 7(1), 66–89.
+
+De Schutter, O., UN Special Rapporteur on the Right to Food. (2009). Seed Policies and the Right to Food: Enhancing
+
+Agrobiodiversity and Encouraging Innovation. UN Doc A/64/170.
+
+Drahos, P. (1996). A philosophy of intellectual property. Aldershot: Dartmouth.
+Drahos, P., & Braithwaite, J. (2002). Information feudalism: Who owns the knowledge economy. London: Earthscan.
+Dutfield, G. (2000). Intellectual property rights, trade and biodiversity: Seeds and plant varieties. London: Earthscan for IUCN.
+Dutfield, G. (2010). Who invents life: Intelligent designers, blind watchmakers, or genetic engineers? Journal of Intellectual
+
+Property Law and Practice 5(7), 531–540.
+
+Dutfield, G. (2011). Food, Biological Diversity and Intellectual Property: The Role of the International Union for the Protection of New
+Varieties of Plants (UPOV). Intellectual Property Issue Paper Number 9. Geneva; New York: Quaker United Nations Office.
+
+FAO. (1993). Harvesting nature's diversity. Rome: FAO.
+FAO. (2006). Report of the First Session of the Governing Body of the International Treaty on Plant Genetic Resources for Food and
+
+Agriculture. FAO Doc IT/GB01/06/Report.
+
+FAO. (2007). Report of the Second Session of the Governing Body of the International Treaty on Plant Genetic Resources for Food
+
+and Agriculture. FAO Doc IT/GB-2/07/Report.
+
+FAO. (2009). Global agriculture towards 2050. Rome: FAO.
+FAO. (2010). The second report on the state of the world's plant genetic resources for food and agriculture. Rome: FAO.
+FAO. (2012). Conservation and sustainable use under the international treaty. Available online at: http://www.fao.org/
+
+docrep/016/i2579e/i2579e.pdf. [Accessed on 10 September 2017].
+
+FAO. (2016). Report of the Sixth Session of the Governing Body of the International Treaty on Plant Genetic Resources for Food and
+
+Agriculture. FAO Doc IT/GB-6/16/Report.
+
+Fowler, C. (1994). Unnatural selection: Technology, politics and plant evolution. Yverdon: Gordon and Breach.
+Fowler, C., Smale, M., & Gaiji, S. (2000). Germplasm Flows between Developing Countries and the CGIAR: An Initial Assessment,
+
+Dresden: Global Forum on Agricultural Research Technical Report.
+
+Frison C. (2016). Towards redesigning the plant commons: A critical assessment of the multilateral system of access and benefit-sharing of
+
+the international treaty on plant genetic resources for food and agriculture. PhD Thesis. Leuven: UCLouvain / KU Leuven.
+
+Frison C., López F., & Esquinas-Alcázar J. T. (eds) (2011). Plant genetic resources and food security: stakeholder perspectives on
+the international treaty on plant genetic resources for food and agriculture. Issues in agricultural biodiversity. Washington,
+DC: Routledge/Earthscan, FAO and Bioversity International.
+
+Galluzzi, G., López Noriega, I., & Halewood, M. (2014). Non-monetary benefit sharing mechanisms within the projects funded by
+
+the Benefit Sharing Fund. Research Study 6. Rome: FAO.
+
+Glaeser, B. (ed.) (1987). The green revolution revisited: Critique and alternatives. London: Allen and Unwin.
+GRAIN. (2014). Trade agreements privatising biodiversity. Update of November 2014. Available online at: https://www.grain.
+
+org/attachments/3247/download. [Accessed on 10 September 2017].
+
+Griffin, K. (1974). The political economy of agrarian change: An essay on the green revolution. London: Palgrave; United Nations
+
+Research Institute for Social Development.
+
+Guneratne, C. (2012). Genetic resources, equity and international law. Cheltenham: Edward Elgar.
+Halewood, M. (2013). What kind of goods are plant genetic resources for food and agriculture? Towards the identification and
+
+development of a new global commons. International Journal of the Commons, 7(2), 278–312.
+
+Halewood, M., Andrieux, E., Crisson, L., Gapusi, J. R., Mulumba, J. W., Kouablan Koffi, E., . . . Balma, D. (2013). Implementing
+“mutually supportive” access and benefit sharing mechanisms under the plant treaty, convention on biological diversity,
+and nagoya protocol. Law Environment and Development Journal, 9(1), 68–96.
+
+Halewood, M., López Noriega, I., & Louafi, S. (eds). (2013). Crop genetic resources as a global commons. Oxon: Routledge.
+Heath, C., & Kamperman Sanders, A. (eds). (2007). Intellectual property and free trade agreements. Oxford: Hart.
+Helfer, L. R. (2003). Intellectual property rights and the international treaty on plant genetic resources for food and agriculture.
+
+Proceedings of the Annual Meeting of the American Society of International Law, 97, 33–35.
+
+TSIOUMANI
+
+| 121
+
+Helfer, L.R. (2004). Intellectual property rights in plant varieties: International legal regimes and policy options for national
+
+governments. FAO Legislative Study 85. Rome: FAO.
+
+Hess, C., (1993). Intellectual property rights: Protection of plant materials public research agendas. In P. S. Baenziger, R. A. Kleese,
+
+& R. F. Barnes, (Eds.), Intellectual property rights: Protection of plant materials. Madison, WI: CSSA Special Publication.
+
+Hess, C., & Ostrom, E., (2007). Introduction: An overview of the knowledge commons. In C. Hess, & E. Ostrom, (Eds.),
+
+Understanding knowledge as a commons: From theory to practice. Cambridge, Mass.; London: MIT Press.
+
+International Assessment of Agricultural Knowledge, Science and Technology for Development (IAASTD). (2008). Agriculture
+at a Crossroads. Global Summary for Decision Makers. Available online at: http://www.weltagrarbericht.de/fileadmin/
+files/weltagrarbericht/IAASTDBerichte/GlobalSDM.pdf. [Accessed on 10 September 2017].
+
+ITPGRFA. (2013). Report on the Implementation of the Multilateral System of Access and Benefit Sharing. FAO Doc IT/GB-5/13/5.
+ITPGRFA. (2015). Typology of users of the multilateral system and their regional distribution, including PGRFA under
+
+development. FAO Doc IT/OWG-EFMLS-3/15/Inf.9.
+
+Jasanoff, S. (2001). Ordering life: Law and the normalization of biotechnology. Notizie Di Politeia, 17(62), 34–50.
+Kamau, E. C., & Winter, G. (2013). Common pools of genetic resources: Equity and innovation in international biodiversity law.
+
+Abingdon: Oxon: Routledge.
+
+Ker, C., Louafi, S., & Sanou, M., (2013). Building a global information system in support of the international treaty on plant
+genetic resources for food and agriculture. In M. Halewood, I. C. Lopez Noriega, & S. Louafi, (Eds.), Crop genetic resources as
+a global commons: Challenges in international governance and law. Oxon: Routledge.
+
+Kevles, D. J. (1994). Ananda chakrabarty wins a patent: Biotechnology, law, and society. Historical Studies in the Physical and
+
+Biological Sciences, 25(1), 111–135.
+
+Kloppenburg, J. (2014). Re-purposing the Master's Tools: The open source seed initiative and the struggle for seed
+
+sovereignty. The Journal of Peasant Studies, 41(6), 1225–1246.
+
+Le Courtois, E., with Gálvez-Nogales, E., Santacoloma, P., & Tartanac, F . (2011). Enhancing Farmers’ Access to Markets for
+Certified Products: A comparative analysis using a business model approach. FAO Agricultural management, marketing and
+finance working document 28. Rome: FAO.
+
+Lee, J., Gereffi, G., & Beauvais, J. (2012). Global value chains and agrifood standards: Challenges and possibilities for
+
+smallholders in developing countries. Proceedings of the National Academy of Sciences, 109(31), 12326.
+
+López Noriega, I., Wambugu, P., & Mejías, A. (2013). Assessment of progress to make the multilateral system functional. In M.
+Halewood, I. Lopez Noriega, & S. Louafi, (Eds.), Crop genetic resources as a global commons: Challenges in international
+governance and law. Oxon: Routledge.
+
+Louafi, S. (2013). Reflections on the resource allocation strategy of the benefit sharing fund. Policy Brief. Bern: Swiss Federal
+
+Office for Agriculture.
+
+Louafi, S., & Welch, E., (2014). Open systems versus strong intellectual property rights: Disentangling the debate on open
+access for meeting global challenges in life science. In J. Y. Grosclaude, L. Tubiana, & R. K. Pachauri, (Eds.), A planet for life
+2014: innovation for sustainable development. Delhi: TERI.
+
+Moeller, N. I., & Stannard, C. (eds). (2013). Identifying benefit flows: Studies on the potential monetary and non-monetary benefits
+
+arising from the international treaty on plant genetic resources for food and agriculture. Rome: FAO.
+
+Mooney, P. (1983). The law of the seed: Another development and plant genetic resources. Development Dialogue, 21(1-2),
+
+1–172.
+
+Mooney, P. (1998). The parts of life. Agricultural biodiversity, indigenous knowledge and the role of the third system. Uppsala: Dag
+
+Hammarskjöld Foundation.
+
+Moore, G., & Goldberg, E. (eds) (2010). The international treaty on plant genetic resources for food and agriculture: Implementing
+the multilateral system. Learning Module. Available online at: http://treatylearningmodule.bioversityinternational.org/.
+[Accessed on 10 September 2017].
+
+Moore, G., & Tymowski, W. (2005). Explanatory Guide to the international treaty on plant genetic resources for food and
+
+agriculture. IUCN Environmental Policy and Law Paper No. 57. Gland; Cambridge: IUCN.
+
+Morgera, E. (2016). The need for an international legal concept of fair and equitable benefit sharing. European Journal of
+
+International Law, 27(2), 353–383.
+
+Morgera, E., Tsioumani, E., & Buck, M. (2014). Unraveling the nagoya protocol: A commentary on the nagoya protocol on access
+
+and benefit-sharing to the convention on biological diversity. Leiden: Brill.
+
+Nuffield Council on Bioethics. (2002). The Ethics of Patenting DNA. A discussion paper. London: Nuffield Council on Bioethics.
+Oberthür, S., Gerstetter, C., Lucha, C., McGlade, K., Pozarowska, J., Rabitz, F., & Tedsen, E. (2011). Intellectual Property Rights on
+Genetic Resources and the Fight against Poverty. European Parliament. Available online at: http://www.europarl.europa.eu/
+RegData/etudes/etudes/join/2011/457063/EXPO-DEVE_ET(2011)457063_EN.pdf. [Accessed on 10 September 2017].
+Oguamanam, C. (2006). Regime tension in the intellectual property rights arena: Farmers’ rights and post-TRIPS counter
+
+regime trends. Dalhousie Law Journal, 29(2), 413–454.
+
+122 |
+
+TSIOUMANI
+
+Özgediz, S. (2012). The CGIAR at 40: Institutional evolution of the world's premier agricultural research network. Washington:
+
+CGIAR Fund Office.
+
+Petit, M., Fowler, C., Collins, W., Correa, C., & Thornström, C.-G. (2001). Why governments can’t make policy: The case of plant
+
+genetic resources in the international arena. Lima: CIP.
+
+Pimbert, M. (1999). Sustaining the multiple functions of agricultural biodiversity. FAO Background Paper 1. Rome: FAO.
+Pistorius, R. (1997). Scientists, plants and politics: A history of the plant genetic resources movement. Rome: International Plant
+
+Genetic Resources Institute.
+
+Raustiala, K., & Victor, D. G. (2004). The regime complex for plant genetic resources. International Organization, 58(2), 277–309.
+Rose, G. L., (2004). The international undertaking on plant genetic resources for food and agriculture: Will the paper be worth
+the trees? In N. P. Stoianoff, (Ed.), Accessing biological resources: Complying with the convention on biological diversity. The
+Hague; London: Kluwer Law International.
+
+Seyoum, A. & Welch, E. (2013). Trading off use restrictions and benefit-sharing for genetic materials for food and agriculture
+with an emphasis on upfront payments. Paper presentation at the 53rd Annual Conference of the German Society of Economic
+and Social Sciences in Agriculture. Berlin: GEWISOLA.
+
+Shaheed, F., UN Special Rapporteur in the Field of Cultural Rights. (2012). Report on the Right to Enjoy the Benefits of Scientific
+
+Progress and its Applications. UN Doc A/HRC/20/26.
+
+Swiss Government. (2015). Report of Multi-stakeholder Workshop Organized by Switzerland– The International Treaty on Plant Genetic
+
+Resources for Food and Agriculture: What Investment Strategy for the Benefit-Sharing Fund? FAO Doc. IT/GB-6/15/Inf.13.
+
+Tsioumani, E. (2004). International treaty on plant genetic resources for food and agriculture: Legal and policy questions from
+
+adoption to implementation. Yearbook of International Environmental Law, 15(1), 119–144.
+
+Tsioumani, E. (2014a). Exploring Benefit-Sharing from the Lab to the Land (Part I: Agricultural Research and Development in
+the Context of Conservation and Sustainable Use of Agricultural Biodiversity. Edinburgh School of Law Research Paper No.
+2014/44. Available online at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id = 2524337.
+[Accessed on 10
+September 2017].
+
+Tsioumani, E. (2014b). Plant Treaty Governing Body Identifies Need to Enhance Multilateral System of Access and Benefit-
+sharing. BeneLex Blog. Available online at: http://www.benelexblog.law.ed.ac.uk/2014/02/19/plant-treaty-governing-
+body-identifies-need-to-enhance-multilateral-system-of-access-and-benefit-sharing/. [Accessed on 4 August 2017].
+
+Tsioumani, E. (2015). The Plant Treaty at a Crossroads: Reflections on the Sixth Session of the ITPGR Governing Body.
+BeneLex Blog. Available online at: http://www.benelexblog.law.ed.ac.uk/2015/12/18/sixth-session-of-the-itpgr-
+governing-body/. [Accessed on 3 August 2017].
+
+Tsioumani, E. (2016). Beyond Access and Benefit-Sharing: Lessons from the Law and Governance of Agricultural Biodiversity’,
+Edinburgh School of Law Research Paper No. 2016/18. Available online at: https://papers.ssrn.com/sol3/papers.cfm?
+abstract_id = 2796658. [Accessed on 10 September 2017].
+
+Tsioumani, E., Finnegan, L., & Tsioumanis, A (2017). Summary and Analysis of the Sixth Meeting of the Working Group to
+Enhance the Functioning of the Multilateral System of the International Treaty on Plant Genetic Resources for Food and
+Agriculture,’ Earth Negotiations Bulletin (ENB) 09(685), 20 March 2017. Available online at: http://enb.iisd.org/biodiv/
+itpgrfa/owg-efmls-6/. [Accessed on 10 September 2017].
+
+Tsioumani, E., Muzurakis, M., Ieropoulos, Y., & Tsioumanis, A. (2016). Following the open source trail outside the digital world: Open
+source applications in agricultural research and development. TripleC: Communication, Capitalism & Critique, 14(1), 145–162.
+UN Development Programme (UNDP). (2000). Human Development Report 2000: Human development and human rights.
+New York: Oxford University Press. Available online at: http://hdr.undp.org/sites/default/files/reports/261/
+hdr_2000_en.pdf. [Accessed on 10 September 2017].
+
+UPOV. (2003). Access to Genetic Resources and Benefit-sharing. Available online at: http://www.upov.int/export/sites/
+
+upov/news/en/2003/pdf/cbd_response_oct232003.pdf [Accessed on 10 September 2017].
+
+Vernooy, R., Shrestha, P., & Sthapit, B. (eds). (2015). Community seed banks: Origins, evolution and prospects. Oxon: Routledge.
+Weissbrodt, D., & Schoff, K. (2003). Human rights approach to intellectual property protection: The genesis and application of
+
+sub-commission resolution 2000/7. Minnesota Intellectual Property Review, 5, 1–46.
+
+Yamane, H. (2011). Interpreting TRIPS: Globalisation of intellectual property rights and access to medicines. Oxford: Hart.
+
+How to cite this article: Tsioumani E. Beyond access and benefit-sharing: Lessons from the law and
+governance of agricultural biodiversity. J World Intellect Prop. 2018;21:106–122.
+https://doi.org/10.1111/jwip.12094
+
+

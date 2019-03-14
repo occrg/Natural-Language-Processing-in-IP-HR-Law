@@ -1,0 +1,2552 @@
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 11
+
+ARTICLE
+
+897
+
+Due cause
+Ilanah Fhima*
+
+1. Introduction
+Article 5(2) of the Trade Marks Directive1 reads:
+
+Any Member State may also provide that the proprietor
+shall be entitled to prevent all third parties not having his
+consent from using in the course of trade any sign which is
+identical with, or similar to, the trade mark in relation to
+goods or services which are not similar to those for which
+the trade mark is registered, where the latter has a reputa-
+tion in the Member State and where use of that sign
+without due cause takes unfair advantage of, or is detrimen-
+tal to, the distinctive character or the repute of the trade
+mark. [Emphasis added]
+
+Due cause has had something of a renaissance over the
+past few years. Until very recently it was assumed that
+due cause under the Trade Marks Directive should be
+interpreted in the same way as it had been in the pre-
+harmonization Benelux law, where it was limited to
+situations where the junior user was compelled to use
+the mark in question or had an earlier right to do so.
+This approach deprived the dilution/unfair advantage
+provision of the Directive of an important counterbal-
+ance at a time when unfair advantage was interpreted
+in the recent Interﬂora2 and
+expansively. However,
+Leidseplein3 cases, the Court of Justice of the European
+Union (CJEU) has made it clear that due cause is an
+autonomous concept, and not restricted to the scope of
+the old Benelux provision. Instead, the CJEU has spoken
+of due cause as allowing junior use that might otherwise
+infringe, but amounts to fair competition and has held
+that it provides an entry point for a consideration of the
+subjective intentions of the junior user. The CJEU has
+also explained that rather than being an ‘add on’, due
+cause plays a central role in counterbalancing the width
+of the dilution/unfair advantage action. At the same time,
+though, it has suggested that due cause may not apply
+when certain of the very harms mentioned in Art. 5(2)
+occur. This brings into question the utility of the provi-
+sion in many dilution cases, particularly when taken in
+
+*
+
+1
+
+Email: i.fhima@ucl.ac.uk. The author is grateful to Lynne Chave for her
+research assistance and suggestions regarding the Art. 6 defences and to
+Professor Sir Robin Jacob for his comments.
+Directive 2008/95/EC of the European Parliament and of the Council of
+22 October 2008 to approximate the laws of the Member States relating
+to trade marks, OJ L 299, 8 November 2008, p. 25. This has now been
+replaced by Directive (EU) 2015/2436 of the European Parliament and of
+the Council of 16 December 2015 to approximate the laws of the
+
+VC The Author(s) 2017. Published by Oxford University Press. All rights reserved.
+
+The author
+ Ilanah Fhima is a Reader in Intellectual Property
+Law and co-director of the Institute of Brand and
+Innovation Law at University College London.
+
+This article
+ Due cause is the inbuilt exception to the Trade
+Mark Directive’s dilution and unfair advantage
+provision. Until recently, it was believed that it
+should be interpreted restrictively, following the
+pre-harmonization Benelux approach. However,
+this has been cast into doubt by two recent Court
+of Justice of the European Union (CJEU) cases.
+
+ This article examines the extent of ‘due cause’ in
+the light of Interﬂora, Leidseplein and how those
+cases have been received and interpreted by the
+UK courts. It is argued that, while ‘due cause’ is
+certainly understood as a wider concept than it has
+in the past, courts in the UK remain relatively cau-
+tious about its breadth. It is further argued that, in
+the light of the CJEU’s jurisprudence, ‘due cause’
+has particular application in unfair advantage
+cases, but may be less relevant, or even unavailable,
+where there is blurring or tarnishment.
+
+ Nevertheless, there is still the potential for ‘due
+cause’ to further develop into a more ﬂexible tool,
+particularly in relation to alleviating the strictness
+of the CJEU’s approach to unfair advantage.
+
+conjunction with the way in which the ‘honest practices’
+proviso to the general defences has been interpreted.
+
+This article begins by examining the old Benelux
+approach, and explains why it was unsuitable in the
+European context. It then conducts a detailed analysis of
+the CJEU’s two due cause cases in order to understand
+
+Member States relating to trade marks (Recast), OJ C 327, 12 November
+2013, p. 42, the relevant parallel provision of which is Art.10(2)(c).
+Interﬂora Inc. and Interﬂora British Unit v Marks & Spencer plc and
+Flowers Direct Online Ltd, C-323/09, EU:C:2011:604.
+Leidseplein Beheer BV and de Vries v Red Bull GmbH and Red Bull
+Nederland BV, C-65/12, EU:C:2014:49.
+
+2
+
+3
+
+doi:10.1093/jiplp/jpx123
+Advance Access Publication 2 August 2017
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+i
+
+ 
+
+/
+
+/
+
+/
+
+1
+2
+1
+1
+8
+9
+7
+4
+0
+6
+0
+6
+3
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+ 
+
+i
+
+898
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 11
+
+their proper scope. These cases provide clear pointers as
+to the CJEU’s direction of travel, but also leave consider-
+able uncertainty (and potential) as to the scope of due
+cause. Consequently, the article concludes with a consid-
+eration of how the CJEU’s recent due cause case law has
+been received by courts in the UK and contemplates
+what this may mean for the future of due cause. The rela-
+tionship between ‘due cause’ and the ‘honest practices
+proviso’ is also considered.
+
+2. What was ‘due cause’?
+The Benelux Court4 was asked to elucidate the meaning
+of ‘justiﬁable grounds’ under Section 13A(1) of the
+Benelux Uniform Trade Mark Act. That section read:
+
+Without prejudice to the rights arising from civil liability
+under ordinary law, the trade mark owner may, on the
+ground of his exclusive rights, oppose:
+
+1. any use which is made of the trade mark or a resem-
+bling sign in respect of the classes of goods for which
+the trade mark has been registered, or in respect of
+similar goods;
+
+2. any other use which is made commercially of the
+trade mark or of a resembling sign without justiﬁable
+grounds and in such circumstances that damages
+may be inﬂicted on the trade mark owner.
+
+The defendant, Colgate-Palmolive, had argued that it did
+have ‘justiﬁable grounds’ for the use of a mark similar to
+the CLAREYN gin mark, that is, that the KLAREIN mark
+was particularly suitable for use on detergents since ‘klar’
+meant quick, ready or ﬁnished while ‘rein’ meant clean
+or fresh. Moreover, Colgate-Palmolive had been using
+the KLAREIN mark outside the Netherlands well before
+Lucas Bols had begun using the CLAREYN mark.
+However, these grounds were rejected by the Benelux
+Court. The court adopted a narrow approach to when
+there will be ‘justiﬁable grounds’ limited to where there
+exists ‘such a necessity for the user to employ that device
+that it cannot reasonably be required of him to refrain
+from that use’, even though the use will cause damage to
+the senior trade mark owner. Alternatively, use might be
+justiﬁed where the junior user was entitled to use the
+mark in his own right, although this does not appear to
+have automatically amounted to a justiﬁcation.5 Indeed,
+in this case, the Benelux Court called on the referring
+court to consider the degree of damage likely to be
+
+suffered by the senior user before accepting a prior trade
+mark registration as providing ‘justiﬁable grounds’.6
+
+The rationale behind this strict approach was based on
+the fact that a trade mark was an ‘exclusive right’ and a
+strong right, as evidence by the scope of protection of-
+fered by Section 13.7 Perhaps there is a hint in this justiﬁ-
+cation of the divergence that was to happen more than
+30 years later: CJEU case law has emphasized that, under
+the harmonized regime, trade marks do not confer abso-
+lute rights, but rather grant a trade mark owner the power
+to enforce his mark necessary to the extent necessary to
+protect the way that his mark functions. Indeed,
+in
+Leidseplein the CJEU emphasized the role of ‘due cause’
+in establishing a balance between the parties’ needs.
+Moreover, to the extent that the scope of Art. 13 was used
+to justify a narrow exception, it is notable that under Art.
+13(1) the protection granted where marks and goods were
+similar was automatic, whereas in the harmonized regime,
+confusion is mentioned explicitly as a requirement.
+
+Despite these differences, it is not surprising that,
+given the similarity in wording between Art. 13A and
+Art. 5(2) of the Trade Marks Directive, and given the
+dearth of CJEU-level guidance at the time, it was as-
+sumed in the UK that the ‘due cause’ requirement un-
+der the Directive should be interpreted in the same way
+as the ‘justiﬁable grounds’ clause of Art. 13A.
+In
+Premier Brands v Typhoon,8 the junior user had chosen
+the mark TYPHOON because it was easily pronounced
+and memorable, had ‘oriental connotations’ and was
+understandable in the East and the West (the goods
+were sourced in the Far East and sold in the UK).9 Had
+there been prima facie Art. 5(2) infringement, the ju-
+nior user’s reasons for choosing the mark would not
+amount to ‘due cause’. While it was accepted that he
+had chosen the mark in good faith, rather than to take
+advantage of or harm the senior mark, good faith alone
+as due cause was unacceptable.10 It would make the
+outcome of cases where a mark could be seriously
+harmed depend on the subjective intentions of a third
+party, and could incentivize junior users to do minimal
+due diligence. Moreover, it had to be shown that the ju-
+nior user had due cause to harm another’s mark, not
+just due cause to choose his sign. Instead Neuberger J
+(as he then was) cited the Benelux Court’s options of
+compulsion or prior right as ‘the approach which
+should be adopted’ to the interpretation of ‘due cause’
+given the similarities between the two provisions.11
+
+4
+
+5
+6
+7
+
+Colgate-Palmolive BV v NV Koninklijke Distilleerderijen Erven Lucas Bols,
+Case A 74/1 [1979] ECC 419.
+Ibid, para 24.
+Ibid, paras 28–31.
+Ibid, para 23.
+
+8
+
+9
+10
+11
+
+Premier Brands UK Ltd. v Typhoon Europe Ltd & Anor. [2000] ETMR
+1071.
+Ibid, p.1078.
+Ibid, pp. 1096–7.
+Ibid, p. 1098.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+i
+
+ 
+
+/
+
+/
+
+/
+
+1
+2
+1
+1
+8
+9
+7
+4
+0
+6
+0
+6
+3
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+ 
+
+i
+
+Ilanah Fhima  Due cause
+
+ARTICLE
+
+899
+
+3. What is ‘due cause’?
+
+In the absence of any statement to the contrary from
+the CJEU, the approach adopted in Premier Brands was
+assumed to be the correct one. The CJEU made no
+comment on the ambit of the scope of ‘due case’ for
+is hard to know whether this was
+many years. It
+through satisfaction with the state of
+the law, or
+whether it was just because the opportunity to deﬁne
+its scope did not occur. The CJEU cannot deﬁne mat-
+ters of its own instigation and so the opportunity to
+provide an interpretation of ‘due cause’ most likely did
+not arise. Initially, very few references were made re-
+garding Art. 5(2), and when they did start to come
+through, prima facie infringement was deﬁned restric-
+tively, meaning that there was no need for the court to
+deﬁne due cause because infringement was unlikely to
+be made out.12 This changed though once the CJEU de-
+ﬁned unfair advantage broadly to include any trade
+mark-derived advantage that was unremunerated.13
+Now courts were faced with situations where Art. 5(2)
+infringement was highly likely to be found, and in cir-
+cumstances that some argued would have a deleterious
+effect on free and fair competition.14
+
+Such a situation arose in Interﬂora.15 The junior
+user, Marks & Spencer, had purchased the senior mark
+INTERFLORA as an advertising keyword, even though
+it was not part of the senior user’s ﬂoral distribution
+network. This was prima facie Art. 5(2) infringement:
+there was an advantage conferred on Marks & Spencer
+because consumers using INTERFLORA as a search
+term, and potentially intending to purchase ﬂowers
+from Interﬂora, would be confronted with the junior
+user’s advertisements. As a result, they might come to
+make purchases from the junior user’s website in-
+stead.16 Since the junior user had not paid the senior
+user any compensation for such use, this advantage was
+counted, following L’Oreal v Bellure,17 as unfair.18 As
+the Advocate General noted, such a result would spell
+the end of keyword advertising.19 The CJEU seemed
+unhappy with this result, and so it effectively went on
+to undo it by holding that, despite any unfair advantage,
+there was due cause where the junior user ‘puts for-
+ward . . . an alternative to the goods or services of the
+
+13
+14
+
+12 Especially since Intel Corporation Inc. v CPM United Kingdom Ltd., C-
+252/07, EU:C:2008:655, where a change in the economic behaviour of
+consumers was required to show detriment to distinctive character.
+L’Ore´al SA et al. v Bellure NV et al., C-487/07, EU:C:2009:378.
+For example, D. Gangjee and R. Burrell, ‘Because You’re Worth It:
+L’Ore´al and the Prohibition on Free Riding’, 73 MLR 282 (2010).
+Interﬂora Inc. and Interﬂora British Unit v Marks & Spencer plc and
+Flowers Direct Online Ltd, C-323/09, EU:C:2011:604.
+Ibid, paras 86–7.
+L’Ore´al SA et al. v Bellure NV et al., C-487/07, EU:C:2009:378.
+
+16
+17
+
+15
+
+the trade mark was a reputation’.20
+proprietor of
+However, offering an alternative would only be acceptable
+where the offer did not cause dilution or tarnishment,
+did not affect the functions of the senior mark (presum-
+ably causing confusion would be the prime example of
+use that would affect those functions) and did not offer a
+‘mere imitation’ of the senior goods or services.21
+
+While the CJEU made no mention of the Benelux
+deﬁnition, such an approach clearly falls outside the sit-
+uations mentioned there, in that Marks & Spencer had
+no earlier right to the INTERFLORA mark and was in
+no way compelled to use it. This suggests a far more ex-
+pansive role for ‘due cause’. This is underscored by the
+court’s explanation for allowing such use, namely ‘such
+use falls, as a rule, within the ambit of fair competition
+in the sector for the goods or services concerned’.22
+There is the tantalizing suggestion here that use which
+is accordance with ‘fair competition’ may be considered
+to have ‘due cause’. This is an open term which creates
+a myriad of possibilities (and uncertainties) as to its
+scope.
+
+However, the court has potentially limited the use of
+this deﬁnition of due cause to unfair advantage cases,
+by requiring that the junior user not have caused tarn-
+ishment or blurring,23 which essentially parallel the det-
+riment to repute and distinctive character forms of
+infringement. This would be an odd result given that it
+has always been assumed that due cause qualiﬁes all
+the forms of
+infringement mentioned in Art. 5(2).
+Technically though, it is possible, although undesirable,
+to read ‘due cause’ as limited to unfair advantage since
+it appears prior to unfair advantage and is separated
+from the two forms of detriment by a coma and an ‘or’.
+The provision reads:
+
+where use of that sign without due cause takes unfair advan-
+tage of, or is detrimental to, the distinctive character or the
+repute of the trade mark.
+
+This expansive deﬁnition of ‘due cause’ could have
+been limited to the internet context. However,
+in
+Leidseplein,24 the CJEU made it clear that it was of gen-
+eral application and played an integral role in the way
+in which Art. 5(2) is structured.
+
+18
+19
+
+20
+21
+22
+23
+24
+
+Ibid, para 88.
+Interﬂora Inc. and Interﬂora British Unit v Marks & Spencer plc and
+Flowers Direct Online Ltd, C-323/09, EU:C:2011:604, para 99.
+Ibid, para 91.
+Ibid.
+Ibid.
+Ibid.
+Leidseplein Beheer BV and de Vries v Red Bull GmbH and Red Bull
+Nederland BV, C-65/12, EU:C:2014:49.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+i
+
+ 
+
+/
+
+/
+
+/
+
+1
+2
+1
+1
+8
+9
+7
+4
+0
+6
+0
+6
+3
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+ 
+
+i
+
+900
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 11
+
+The junior user, a Mr de Vries, had owned various
+marks containing the term BULLDOG for beverage-
+related goods in Class 32, the earliest registration of
+which was 14 July 1983. He used his marks for energy
+drinks. He had however used THE BULLDOG as a trade
+name for hotels, restaurants and cafe´s prior to 1983. The
+senior user had ﬁled RED BULL for non-alcoholic drinks
+in Class 32 on 11 July 1983 (and so, three days before the
+junior user’s ﬁrst application).
+
+It seems to have been admitted that the junior use
+for the energy drinks amounted to unfair advantage.25
+However, the question arose whether the junior user’s
+earlier use could amount to due cause, given that it was
+in good faith. The senior user attempted to argue that
+‘due cause’ should be limited to the old Benelux deﬁni-
+tion of objectively overriding reasons. However, this
+was rejected by the CJEU, which explained that the
+concept of due cause must be interpreted ‘in the light
+of the overall scheme and objectives of the system of
+which it forms a part’.26 While Art. 5 does grant an
+exclusive right to trade mark owners, this only goes as
+far as allowing the trade mark owner to protect his
+speciﬁc interests in his trade mark of ensuring that
+the mark can fulﬁl its functions. Thus, the scope of
+protection is limited to whether there is an effect on the
+function of the mark. While the protection under Art.
+5(2) must be at least as extensive as that provided for
+similar and identical goods pursuant to Art. 5(1), this
+does not mean that due cause must be interpreted
+restrictively. Instead, this is ensured by the fact that the
+signs need not be identical, as per Art. 5(1)(a) and there
+is no need for confusion, as per Art. 5(1)(b). Moreover,
+there is no need to prove any sort of harm to the senior
+mark,
+there is unfair advantage. To maintain a
+balance between a trade mark owner’s interests and
+those of third parties, particularly given the existence of
+the unfair advantage action, due cause is included and
+must cover both subjective and objectively overriding
+reasons for the use of the mark in question.27
+
+if
+
+In a situation of prior use by the junior user, it was
+necessary to look at two factors to establish ‘due cause’
+which justiﬁed the taking of unfair advantage. These
+were: ﬁrst the reputation of the junior sign amongst the
+general public and secondly, the proximity of the senior
+goods to those for which the junior mark had a reputa-
+tion - the closer the prior goods to the contested goods,
+the more needed there will be for the junior user to use
+the mark for those contested goods.28
+
+This decision is important for a number of reasons.
+Perhaps most importantly, in explicitly stating that the
+
+narrow Benelux approach to ‘due cause’ is not the cor-
+rect way to interpret the EU Directive, it shows that
+Interﬂora was not an aberration, or limited to the inter-
+net context. Instead, the court explained how due cause
+is an inbuilt ‘check’ to the scope of the protection of-
+fered by Art. 5(2), and so plays a fundamental role in the
+structure of the provision, rather than being a dispens-
+able ‘add on’. Secondly, in allowing a consideration of
+subjective overriding reasons, it provides an additional
+example, other than fair competition, of when junior use
+will be ‘with due cause’. Finally, the court twice made an
+explicit link between due cause an unfair advantage spe-
+ciﬁcally. At paragraph 44, the Court noted:
+
+Where the proprietor of the mark with a reputation has
+demonstrated the existence of one of the forms of injury
+referred to in Article 5(2) of Directive 89/104 and, in par-
+ticular, has shown that unfair advantage has been taken of
+the distinctive character or the repute of that mark, the onus
+is on the third party using a sign similar to the mark with a
+reputation to establish that he has due cause for using such
+a sign . . .. [Emphasis added]
+
+Likewise, at paragraph 53, the court spoke of the due
+cause justifying the unfair advantage taken of the senior
+mark, without mentioning it as justifying the other
+forms of harm:
+
+In order to determine whether the use by a third party,
+before a trade mark with a reputation was ﬁled, of a sign
+similar to that mark may constitute ‘due cause’, within the
+meaning of Article 5(2) of Directive 89/104, and justify the
+fact that that third party takes advantage of the repute of
+that mark, the referring court must carry out an assess-
+ment,
+two factors.
+[Emphasis added]
+
+taking into account,
+
+in particular,
+
+This focus on unfair advantage could be attributed to
+the nature of the activity undertaken by Mr de Vries,
+though ordinarily one would expect the CJEU to speak
+in the abstract in an Article 234 TFEU (Treaty on the
+Functioning of the European Union) reference. Instead,
+it is submitted that this may be tacit recognition by the
+court that ‘due cause’ is particularly valuable in undo-
+ing the width of the ‘unfairness’ element of unfair ad-
+vantage, which catches so many activities, without
+considering their social beneﬁt, or their necessity to the
+junior user. The argument for ‘due cause’ in relation to
+detriment is not quite as compelling, given that harm
+has been caused to the senior user or its mark.
+
+The combined effect of Interﬂora and Leidseplein is
+to create a state of signiﬁcant uncertainty. There is a
+suggestion that the fact that the junior user is in good
+
+25
+26
+
+Ibid, para 22.
+Ibid, para 28.
+
+27
+28
+
+Ibid, paras 30–49.
+Ibid, paras 54–5.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+i
+
+ 
+
+/
+
+/
+
+/
+
+1
+2
+1
+1
+8
+9
+7
+4
+0
+6
+0
+6
+3
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+ 
+
+i
+
+Ilanah Fhima  Due cause
+
+ARTICLE
+
+901
+
+faith, or is in accordance with fair competition may
+amount to due cause, but what do these very wide
+terms mean in practice? Also, what is the importance of
+the CJEU’s repeated emphasis of the special relationship
+between due cause an unfair advantage? In particular,
+what does this mean for the relevance of due cause in
+relation to detriment to distinctive character or repute?
+
+4. Reception by UK courts
+
+Thus far there are only a handful of cases regarding how
+due cause should be interpreted in the light of CJEU re-
+cent jurisprudence. This is perhaps unsurprising given
+that the meaning of due cause only arises in the context
+of a senior mark with a reputation, and only once it has
+been demonstrated that there was a link that would lead
+to unfair advantage or one of the forms of detriment.29
+
+General approach
+
+It was clear from the outset that CJEU recent jurispru-
+dence denoted a seachange in the approach to ‘due
+cause’. Thus, even before Leidseplein, in Specsavers30 the
+Court of Appeal of England and Wales noted, that there
+had been ‘a development by the Court of Justice of its
+jurisprudence on the scope of Article 9(1)(c)’ in that
+there could be situations in which, despite the junior
+user adopting a mark with the intention of deriving an
+advantage from it and without paying compensation
+for that advantage, it would still be necessary to con-
+sider whether the use was with due cause because it
+amounted to fair competition.31 However, there have
+been differing approaches as to just how far the CJEU’s
+new attitude goes. The two cases described below dem-
+onstrate that there the courts in the UK have taken dif-
+fering views to just how much ﬂexibility is inherent in
+the CJEU’s new approach to due cause.
+
+One example of due cause in action can be seen in
+Comic Enterprises.32 The senior user registered a ﬁgura-
+tive mark containing the words THE GLEE CLUB for
+various forms of entertainment services, including com-
+edy clubs and live shows in 2001. In 2009, the junior
+user
+launched a highly successful musical comedy
+
+29
+
+30
+
+So, for example, in Tartan Army Ltd v Sett GmbH & Ors [2017] CSOH
+22, para 166 the Court of Sessions did not consider whether due cause
+arose from the fact that the term TARTAN ARMY has been in prior use
+amongst the general media before it was registered as a trade mark since
+the senior mark lacked an enhanced reputation and association with the
+junior use was unlikely. Even in Argos Ltd v Argos Systems Inc [2017]
+EWHC 231 (Ch), the due cause discussion was obiter dictum since any
+advantage obtained by the junior user from the increased trafﬁc to its
+website was not unfair, and thus there was no Section 10(3)
+infringement.
+Specsavers International Healthcare Ltd v Asda Stores Ltd [2012] EWCA
+Civ 24.
+
+television series about a US high school singing club. The
+programme was named Glee. In relation to Section
+10(2), the Court of Appeal of England and Wales found
+that there was ‘wrong way round confusion’: instead of
+consumers believing that the junior user’s services origi-
+nated with the senior user, they believed that the senior
+user’s comedy clubs were somehow connected with the
+junior television show.33 For the purposes of Section
+10(3), this confusion was evidence of association between
+the two marks and amounted to detriment to distinctive
+character. Consumers of a supposedly edgy comedy club
+were put off attending by the mistaken belief that it was
+linked to the more mainstream Glee
+television
+programme.34
+
+With prima facie dilution established, the court went
+on to consider due cause. First, the junior user, Fox,
+argued that its use had been in good faith given that the
+subject matter of its television series was a glee club.
+Although the Court of Appeal accepted that good
+faith was relevant to establishing due cause, this was
+outweighed by the fact that the junior use was causing
+confusion.35 This approach suggests that use in good
+faith does not, of itself, amount to due cause. There is a
+degree of circularity in the Court of Appeal’s ﬁnding that
+there cannot be due cause because of the confusion. After
+all, this is the very detriment which due cause is intended
+to counterbalance. This unsatisfactory state of affairs very
+much echoes the approach taken in Interﬂora.
+
+The junior user also attempted to support due cause
+based upon a freedom of speech argument: given the
+subject matter of the television series, there was an artis-
+tic connection between the content of the show and glee
+clubs, and to restrain the use of the term interfered with
+the junior user’s fundamental rights. This failed because
+an alternative could have been chosen.36 The argument
+is noteworthy, as it harks back (presumably unintention-
+ally) to the unsuccessful argument in Lucas Bols that the
+descriptive elements of the KLAREIN mark made it
+particularly suitable for use on the cleaning products in
+question. Finally, an argument that there were no mate-
+rial similarities between the parties’ services was rejected
+as being factually incorrect.37
+
+Ibid, para 141.
+
+31
+32 Comic Enterprises Ltd v Twentieth Century Fox Film Corp [2016] EWCA
+
+Civ 41.
+Ibid, paras 100–6.
+Ibid, para 138.
+Ibid, para 147.
+Ibid, paras 146–7.
+Ibid, para 147.
+
+33
+34
+35
+36
+37
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+i
+
+ 
+
+/
+
+/
+
+/
+
+1
+2
+1
+1
+8
+9
+7
+4
+0
+6
+0
+6
+3
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+ 
+
+i
+
+902
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 11
+
+It is true that Comic Enterprises adopts the technical
+detail inherent in Interﬂora and Leidseplein in recogniz-
+ing good faith as helpful to a due cause case. Arguably,
+however, it does not adopt the spirit given that there is
+no real consideration of how due cause may act to
+counterbalance the width of Section 10(3). Instead, the
+opposite is true, with the ﬁnding of confusion and
+hence detriment to distinctive character being used to
+rule out due cause. One way in which the judgment is
+expansive is that it applies due cause outside the con-
+text of unfair advantage, although it is questionable
+how useful this is, given the approach taken to due
+cause where detriment is present.
+
+A more ﬂexible approach is evident in Argos v Argos.38
+The senior user was the owner of the well-known cata-
+logue store, which owned the word mark ARGOS for,
+inter alia, advertising services. The junior user was a US
+computer aided design company which also traded under
+the ARGOS name (Argos being a character in Greek
+mythology). The junior user found that it had a signiﬁ-
+cant amount of mistaken trafﬁc to its website, www.argos.
+com, from UK consumers. The UK consumers were
+searching for the website of the UK retailer, to be found
+at www.argos.co.uk. The junior user realized that it was
+possible to generate revenue from this misdirected trafﬁc,
+and added Google’s Adsense advertising programme to
+its non-US website. The senior user objected, arguing
+inter alia that this conferred an unfair advantage on the
+junior user, as it was proﬁting from the advertising placed
+by Google on its site.
+
+The UK trade mark owner’s argument was rejected
+by the High Court of England and Wales. First, the evi-
+dence showed that consumers were not making a link
+between the junior website and the senior user, since
+visits from the UK were ﬂeeting, and the contents of
+the site could not be mistaken for the catalogue store.39
+There was also no unfair advantage. The junior user
+had done nothing to seek out the advantage: instead it
+had chosen the internationally available domain name
+and the appearance of any advertisements for the senior
+user would have resulted from the senior user’s Adsense
+decisions. Ultimately, the junior user gained no real
+advantage from ‘the alleged riding on the coat-tails’ of
+the senior user’s reputation in the ARGOS mark.
+Instead, it took part in a normal commercial advertising
+
+38 Argos Ltd v Argos Systems Inc [2017] EWHC 231 (Ch).
+39
+40
+41
+42
+43
+44
+
+Ibid, para 270.
+Ibid, para 283.
+Ibid, para 284.
+Ibid, para 303.
+Ibid, para 304.
+Ibid, para 307.
+
+programme and utilized web trafﬁc that the junior user
+had not sought out. Indeed, it actually caused the ju-
+nior user some problems (and cost) in terms of the
+bandwidth required to sustain the website in the light
+of the mistaken visitors from the UK.40 Given the very
+different appearance of the websites, the junior use was
+also unlikely to be detrimental to the distinctive charac-
+ter or repute of the senior mark.41
+
+Since there was no Section 10(3) injury, the due cause
+issue did not technically arise, and the judge, Richard
+Spearman QC, expressed some unwillingness to make
+ﬁndings on this issue.42 However, he did make several
+general comments suggestive of a more ﬂexible approach
+to due cause. At the abstract level, he suggested a prefer-
+ence of the junior user’s argument that due cause should
+not be limited to the Leidseplein situation of prior junior
+use.43 This opens the way for a more generalized ap-
+proach based on fair competition, as in Interﬂora. On
+the speciﬁc facts, he saw no problem in the junior user
+making money from mistakes that were out of its con-
+trol, nor any issue with the decision to join the Adsense
+scheme, once the possibility of ﬁnancial beneﬁt was real-
+ized.44 Interestingly, the judge referred to this decision as
+being ‘in accordance with honest practices’.45 While this
+element of the decision is obiter, the use of such termi-
+nology suggests a far more ﬂexible, competition-based
+approach to due cause. Such an approach may enable
+‘due cause’ to be adopted to differing circumstances, and
+may not be restricted by considerations of detail, as in,
+some of the cases described below.
+
+Examples
+
+Perhaps the best way to understand the impact of the
+new approach so far is to consider how it has been ap-
+plied to concrete examples. A note of caution is required,
+though. Any analysis of the case law may not identify the
+entire scope of due cause because it is dependent on
+which factual scenarios arise before the courts. Connected
+with this is that fact that any one factual scenario is made
+up of the objective situation and the way in which the
+particular junior user has conducted itself. This latter
+consideration may place a particularly important role
+here because the CJEU has instructed us to consider the
+subjective approach taken by the junior user in determin-
+ing whether there is due cause.
+
+45
+
+Ibid, para 305. A seemingly analogous position was adopted in The
+London Taxi Corporation Limited trading as the London Taxi Company v
+Frazer-Nash Research Limited and Ecotive Limited [2016] EWHC 52
+(Ch). At para 268, Arnold J concluded that, had there been detriment or
+unfair advantage, it would not have been necessary to consider due cause
+separately because all the relevant factors would be considered under the
+descriptive use defence.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+i
+
+ 
+
+/
+
+/
+
+/
+
+1
+2
+1
+1
+8
+9
+7
+4
+0
+6
+0
+6
+3
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+ 
+
+i
+
+Ilanah Fhima  Due cause
+
+ARTICLE
+
+903
+
+Good faith and non-UK prior use
+As mentioned above, in Comic Enterprises46 the Court
+of Appeal accepted that good faith in the use and/or
+adoption of the junior sign can be relevant to due
+cause. The consideration of good faith has frequently
+been linked with prior use of the sign by the junior
+user. In a number of the cases that have arisen in the
+UK, the use of the junior sign has developed over a
+number of years, without knowledge of the senior sign
+and in a different jurisdiction (usually the USA). This
+was the case in Comic Enterprises,47 Pink,48 Argos49 and
+Merck.50 The consideration of good faith for these
+purposes has focused not upon whether the mark was
+initially adopted in good faith, but rather on how the
+junior user comported itself on entry into the territory
+which brought it into conﬂict with the senior mark
+(entry into the UK market in the ﬁrst two cases and
+establishment of an online presence in the latter two
+cases).
+
+In Thomas Pink the junior user had run a chain of
+clothing shops in the USA, named PINK, for many
+years. However, in the UK, the senior user had a num-
+ber of shops selling primarily shirts named THOMAS
+PINK and the use of the junior PINK was found to lead
+to confusion under Art. 9(1)(c).51 An argument of due
+cause was rejected because, while the junior user had a
+long history of use in the USA, when entering the UK
+market it gave no thought to the senior user’s rights.
+Despite the territorial nature of trade mark rights, it
+had failed to conduct a trade mark search. It had also
+misunderstood the extent of the senior user’s use of its
+mark, which covered clothing other than shirts.52 In the
+words of the judge, the PINK mark was ‘adopted in
+good faith but it was wrong’.53
+
+Similarly, in Comic Enterprises54 there was no ques-
+tion that when the junior user chose Glee as the name
+of its television programme in the USA,
+it did not
+know about the senior user’s comedy clubs and there
+was no reason why it should have. The problem arose
+when, on entering the UK market, confusion arose.
+
+46 Comic Enterprises Ltd v Twentieth Century Fox Film Corp [2016] EWCA
+
+Civ 41.
+Ibid.
+
+47
+48 Thomas Pink Ltd v Victoria’s Secret UK Ltd [2014] EWHC 2631 (Ch).
+49 Argos Ltd v Argos Systems Inc [2017] EWHC 231 (Ch).
+50 Merck KGaA v Merck Sharp and Dohme Corp [2016] EWHC 49 (Pat).
+Here, the jurisdictions where the use of the signs originally developed
+were Germany and the USA, but the principle is the same.
+
+51 Thomas Pink Ltd v Victoria’s Secret UK Ltd [2014] EWHC 2631 (Ch),
+
+paras 204–8.
+Ibid, para 202.
+Ibid.
+
+52
+53
+54 Comic Enterprises Ltd v Twentieth Century Fox Film Corp [2016] EWCA
+
+Civ 41.
+
+In Merck55 the development of the separate chemical
+and pharmaceutical businesses which shared the name
+MERCK was not impugned, and indeed, the two had co-
+existed under various agreements for a number of years.
+The Section 10(3) infringement arose not because of the
+parallel existence of the two companies, but instead be-
+cause of the operation of the junior user’s websites (use
+on the internet and its ability to penetrate the senior
+user’s market not having been foreseen by the 1970 co-
+existence agreement). Use by the junior user of the sign
+‘MERCK Be Well’ on a ‘global website’56 was labelled ‘a
+deliberate and transparent attempt to push the bound-
+aries of a long established co-existence arrangement’.57
+
+However, the opposite can be seen in the Argos
+case.58 The US Argos business developed entirely inde-
+pendently of the UK catalogue store and it did not target
+its website at UK consumers. Any beneﬁt was the result
+of misdirected trafﬁc over which it had no direct control.
+The additional website visits were also a mixed blessing,
+given the need to purchase additional bandwidth to
+cope with the additional demand.59
+
+Bad faith
+Deliberate attempts to take advantage of another’s
+goodwill have prevented ﬁndings of due
+cause.
+This is apparent from the Merck case described above.60
+It can also be seen in Specsavers v Asda, where the
+junior user’s activities were described as ‘intended to
+beneﬁt from the power of attraction attaching to the
+Specsavers brand and to exploit, without paying any
+compensation, Specsavers’ marketing efforts by convey-
+ing to consumers that Asda offered real value in
+the form of spectacle savings.’61 This was against a
+background where the junior user was considered to
+have been ‘living dangerously’
+in selecting a logo
+intended to be reminiscent of that of the senior user.62
+
+Prior or parallel use within the UK
+Supreme Petfoods63 involved an example of use which
+was identiﬁed by the judge (Arnold J) as being within
+
+Ibid, para 160.
+Ibid, para.180.
+
+55 Merck KGaA v Merck Sharp and Dohme Corp [2016] EWHC 49 (Pat).
+56
+57
+58 Argos Ltd v Argos Systems Inc [2017] EWHC 231 (Ch).
+59
+60 Merck KGaA v Merck Sharp and Dohme Corp [2016] EWHC 49 (Pat),
+
+Ibid, para 307.
+
+61
+
+62
+63
+
+para 59.
+Specsavers International Healthcare Ltd v Asda Stores Ltd [2012] EWCA
+Civ 24, para 154.
+Ibid, para 155.
+Supreme Petfoods Ltd v Henry Bell & Co (Grantham) Ltd [2015] EWHC
+256 (Ch).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+i
+
+ 
+
+/
+
+/
+
+/
+
+1
+2
+1
+1
+8
+9
+7
+4
+0
+6
+0
+6
+3
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+ 
+
+i
+
+904
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 11
+
+the realm of due cause.64 The senior user owned various
+trade marks containing the word SUPREME for animal
+foodstuffs and objected to the junior use of the word
+SUPREME for a product marketed as ‘Mr Johnson’s
+Supreme Rabbit Mix’. ‘Supreme’ was used to denote
+the fact that the food in question was superior to the
+junior user’s ‘standard’ rabbit food. Arnold J drew
+attention to the fact that the sign had been used for
+over 20 years as favourable to the junior user.65
+
+On the other hand, in Azumi66 the fact that the
+junior user’s impugned sign was the name of her dog
+was found not to amount to due cause. Although it is
+not made explicit, perhaps we can extrapolate from this
+that any claim to due cause based on prior or parallel
+use of a term must be use as a sign in relation to goods
+or services (ie trade mark use), rather than something
+more indirect.
+
+Descriptive use
+Descriptive use has been said to be a factor that contrib-
+utes to a ﬁnding of due cause. Thus, in Supreme the de-
+scriptive nature of the word ‘supreme’ was mentioned
+favourably.67 However,
+it clearly is not a dispositive
+factor. For example, the fact that the junior mark, THE
+UNITED KINGDOM UKULELE ORCHESTRA was de-
+scriptive did not mean that the junior user had due cause
+to use it.68 His Honour Judge Hacon suggested that such
+descriptive considerations did not ‘constitute the sort of
+fair
+in
+Specsavers’. Instead, the junior mark infringed the senior
+mark: THE UKULELE ORCHESTRA OF GREAT
+BRITAIN. Likewise, the descriptive nature of the term
+GLEE in relation to the glee club featured in the junior
+user’s television series did not prevent a ﬁnding of lack of
+due cause.69
+
+competition contemplated by Kitchin LJ
+
+It is submitted that failure to consider the descriptive
+nature of junior marks is unfortunate, though under-
+standable. If descriptiveness amounted to due cause in
+and of itself, this would allow junior users to pleading de-
+scriptiveness in situations where they have sought to take
+
+if,
+
+advantage or marks which are inherently descriptive but
+have acquired distinctiveness. It is argued that it would be
+clearer
+following the objective reasons/subjective
+considerations structure employed in Leidseplein,70 de-
+scriptiveness was accepted as providing an objectively
+overriding reason for using the junior mark, but concerns
+about deliberate advantage or about harm were consid-
+ered when examining the subjective position of the junior
+user.
+
+Mere comparison
+In Specsavers71 it is suggested that creating a link with
+the senior user’s particular product offering (in this
+case value spectacles) gives the junior user a marketing
+advantage that goes beyond offering alternatives as en-
+visaged in Interﬂora.72 Presumably the difference is that
+in Interﬂora the Adword service merely used the word
+mark without explicitly capturing any of its branding
+connotations, whereas in Specsavers, the junior user, by
+referring to the senior user in its strapline ‘Spec savings
+at Asda’ sought to capture the senior brand offering,
+and not just the mark qua indication of origin.
+
+Confusion
+In both Pink73 and Comic Enterprises,74 the fact that the
+junior use caused confusion with the senior use is
+treated as fatal to there being due cause. This is argu-
+ably inherent in Interﬂora,75 but presents signiﬁcant dif-
+ﬁculties in the sort of situations that arose in those
+cases, where a junior user with an established market
+abroad seeks to enter into the UK market.
+
+Proximity of goods
+In Leidseplein, the proximity of the goods favoured due
+cause, because it demonstrated that the junior user had
+a legitimate interest in expanding his pre-existing offer-
+ing into the senior user’s market76. However, in Pink77
+and Comic Enterprises,78 proximity between the goods
+mitigated against due cause. Indeed, in Pink, the court
+used the fact that the junior mark was being used for
+
+64 Although technically the issue did not arise as there was no prima facie
+
+72
+
+65
+
+Section 10(3) infringement.
+Supreme Petfoods Ltd v Henry Bell & Co (Grantham) Ltd [2015] EWHC
+256 (Ch), para 192.
+
+Interﬂora Inc. and Interﬂora British Unit v Marks & Spencer plc and
+Flowers Direct Online Ltd, C-323/09, EU:C:2011:604.
+
+73 Thomas Pink Ltd v Victoria’s Secret UK Ltd [2014] EWHC 2631 (Ch),
+
+para 202.
+
+66 Azumi Ltd v Zuma’s Choice Pet Products Ltd [2017] EWHC 45 (IPEC),
+
+74 Comic Enterprises Ltd v Twentieth Century Fox Film Corp [2016] EWCA
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+i
+
+ 
+
+/
+
+/
+
+/
+
+1
+2
+1
+1
+8
+9
+7
+4
+0
+6
+0
+6
+3
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+ 
+
+i
+
+67
+
+para 86.
+Supreme Petfoods Ltd v Henry Bell & Co (Grantham) Ltd [2015] EWHC
+256 (Ch), para 192.
+
+68 Ukulele Orchestra of Great Britain v Clausen [2015] EWHC 1772 (IPEC),
+
+76
+
+para 71.
+Ibid, paras 146–7.
+
+69
+70 Leidseplein Beheer BV and de Vries v Red Bull GmbH and Red Bull
+
+71
+
+Nederland BV, C-65/12, EU:C:2014:49.
+Specsavers International Healthcare Ltd v Asda Stores Ltd [2012] EWCA
+Civ 24.
+
+Civ 41, para 147.
+
+75 Because use that harms the functions of a mark cannot be with due
+
+cause.
+Leidseplein Beheer BV and de Vries v Red Bull GmbH and Red Bull
+Nederland BV, C-65/12, ECLI:EU:C:2014:49, paras 58–9.
+
+77 Thomas Pink Ltd v Victoria’s Secret UK Ltd [2014] EWHC 2631 (Ch),
+
+para 201.
+
+78 Comic Enterprises Ltd v Twentieth Century Fox Film Corp [2016] EWCA
+
+Civ 4, para 147.
+
+Ilanah Fhima  Due cause
+
+ARTICLE
+
+905
+
+facts
+
+to distinguish the
+
+from
+different products
+Leidseplein. Once confusion is seen as ruling out due
+cause, it is understandable why courts might look to
+the relationship between the senior and junior goods.
+However,
+this would seem to be a misreading of
+Leidseplein, where the focus is not so much on the rela-
+tionship between the senior and junior goods, as on the
+relationship between the junior prior goods and the
+junior impugned goods—if they are linked, then this
+suggests a good reason for the junior user’s choice to
+expand into the senior market. Indeed, it is implicit in
+Interﬂora, where both parties were selling ﬂowers, that
+even identity of goods can be compatible with a ﬁnding
+of due cause.
+
+5. The relationship between due cause
+and honest practices
+
+One remaining area of uncertainty is the relationship
+between due cause and the proviso to the Article 6 de-
+fences, which are stated to need to be ‘in accordance
+with honest practices in industrial and commercial
+matters’. The CJEU has not addressed this issue, al-
+though it has been suggested post-Leidseplein that there
+is an overlap between the two concepts.79 It is, however,
+submitted that this cannot be automatically assumed.
+According to the deﬁnition of
+‘honest practices’
+adopted in Gillette,80 use which takes unfair advantage
+will not be in accordance with honest practices since
+use which ‘affects the value of the trade mark by taking
+unfair advantage of its distinctive character or repute’ is
+speciﬁcally mentioned as an example of an activity that
+cannot be honest. According to L’Oreal v Bellure,81 un-
+fair advantage should be read the same way according
+to the CJEU across all its meanings, which would mean
+that where there is unfair advantage for the purposes
+of Art. 5(2), the junior use will, inevitably, not be in
+accordance with honest practices. By contrast, due
+cause is speciﬁcally picked out in Leidseplein as the
+‘antidote’ to unfair advantage and its width. Instead,
+there is a question mark, deriving from Interﬂora, over
+whether due cause is available where there is blurring
+or tarnishment. On the other hand, blurring is not
+mentioned as a form of activity which is not in accor-
+dance with honest practices in Gillette.82 It is thus pos-
+sible to read CJEU jurisprudence so that the Art. 6
+
+defences can be used in a case which involved prima
+facie blurring but not unfair advantage. Instead, use
+which prima facie takes unfair advantage will not in-
+fringe at all if it is with due cause. This reading could
+exclude prima facie tarnishment from beneﬁting from
+any form of defence, since ‘denigration’ of a trade mark
+is mentioned as an example of an activity which is not
+in accordance with honest practices83 while Interﬂora
+suggested that use that tarnishes would not have due
+cause. This could have worrying implications if in fu-
+ture the courts read tarnishment to include situations
+where a junior user (unjustiﬁably?) criticizes a trade
+marked product, identifying it by its trade mark.
+
+6. Conclusion
+
+Due cause remains something of an enigma. There ap-
+pears to be a clear message from the CJEU case law that
+there is a desire to expand its scope, but it is unclear if
+this is a desire to create a ﬂexible standard to cover all
+forms of fair competition (as in Interﬂora), or rather to
+create something that focuses more speciﬁcally on the
+justiﬁcations for the junior use (as in Leidseplein). There
+is also the vexed question of how, if at all, due cause
+should apply if the junior use injures the senior mark
+through confusion or dilution. This plays into the ques-
+tion of whether due cause applies primarily as a coun-
+terbalance to the width of the unfair advantage action.
+
+Courts in the UK have taken a relatively restrictive
+approach to interpreting due cause. While they have
+recognized the CJEU’s desire to expand its scope, for
+the most part, they have added layers of detail which,
+while not limited to the old Benelux approach, can
+create obstacles to establishing due cause. It remains to
+be seen whether this is in accordance with the CJEU’s
+understanding of the revised scope of the provision,
+but there is still some hope that due cause will remain
+ﬂexible and adaptive to new factual situations that
+come before the courts. In particular, there remains the
+potential for due cause to be developed as a tool to
+undo some of the presumably unintended consequences
+of L’Oreal v Bellure,84 and the CJEU’s ﬁnding that any
+unremunerated advantage is unfair. Most urgently,
+comparative advertising would seem to be a clear candi-
+date for being considered ‘fair competition’ under
+Interﬂora.
+
+79 The London Taxi Corporation Limited trading as the London Taxi
+
+Company v Frazer-Nash Research Limited and Ecotive Limited [2016]
+EWHC 52 (Ch), para 268.
+
+80 The Gillette Company; Gillette Group Finland Oy v LA-Laboratories Ltd
+
+Oy, C-228/03, EU:C:2005:177, para 49. See further, I. Simon,
+‘Nominative use and honest practices in industrial and commercial mat-
+ters – a very European history’ [2007] IPQ 117, 127.
+
+L’Ore´al SA et al. v Bellure NV et al., C-487/07, EU:C:2009:37, para 77.
+
+81
+82 Deﬁnition in The Gillette Company; Gillette Group Finland Oy v LA-
+
+Laboratories Ltd Oy, C-228/03, EU:C:2005:177, para 49.
+
+83 The Gillette Company; Gillette Group Finland Oy v LA-Laboratories Ltd
+
+Oy, C-228/03, EU:C:2005:177, para 49.
+L’Ore´al SA et al. v Bellure NV et al., C-487/07, EU:C:2009:378.
+
+84
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+i
+
+ 
+
+/
+
+/
+
+/
+
+1
+2
+1
+1
+8
+9
+7
+4
+0
+6
+0
+6
+3
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+ 
+
+i
+
+

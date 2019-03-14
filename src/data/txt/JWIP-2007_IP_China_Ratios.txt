@@ -1,0 +1,7295 @@
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1, pp. 22–52
+
+Intellectual Property System in China: A
+Study of the Grant Lags and Ratios
+
+Deli Yang
+Bradford University School of Management
+
+This article examines the intellectual property (IP) system in China with a particular focus on
+grant lags and grant ratios in patents, utility models, industrial designs and trademarks of
+residents and non-residents. The ﬁndings are derived from the empirical study of IP statistics
+(1985–2002). They demonstrate that trademark applicants endure the longest and patents
+enjoy the shortest grant lags in China according to the best models, and residents are overall
+more favoured than non-residents. The research concludes that national treatment of
+residents and non-residents should apply in both economic policy and practice, which also
+provides a new research domain.
+
+Keywords China; intellectual property system; grant lag; grant ratio
+
+The intellectual property system (IPS) remains nation-based despite conforming to
+the broad standardization of an international IPS. IP here refers to the rights given
+to owners for their intellectual creations of the mind, typiﬁed by copyrights for
+literary and artistic work, patents for inventions, utility models for small inventions,
+industrial designs for artistic designs with industrial applications and marks for
+products and services (Cornish, 2001). An IPS refers to the system of a nation to
+regulate, administer and protect these rights (Thompson, 1993; Yang, 2003). In the
+last two decades, immeasurable effort has been made internationally to integrate
+nations into an international IPS. This research deﬁnes an international IPS as the
+international standardization of the legal mechanism, administration and dispute
+settlements for IP towards congruence across nations in the forms of treaties,
+conventions and agreements (TCAs). Within the broad framework of international
+standardization, IPS is nation-based in nature. As Massel (1973, p. 647) argued:
+‘‘Probably no two systems are exactly alike . . . . They operate within the conﬁnes of
+a single nation’’. In other words, each nation regulates, administers and enforces IP
+in its own manner. The divergence in practising the IPS across the world makes
+study in this area vital to provide information for policy making and policy
+research.
+
+Nonetheless, previous research shows that this important research ﬁeld has
+only been sporadically studied. Despite the on-going debates on whether an IPS is
+economically beneﬁcial (Aoki and Prusa, 1996; Bessen, 2005; Gilbert and Shapiro,
+1990; Lanjouw et al., 1998; Levin, 1986; Mazzoleni and Nelson, 1998; Ordover,
+1991; Penin, 2005; Scherer et al., 1959; Taylor and Silberston, 1973), an IPS has
+been established by almost all the countries across the world. A new debate has
+
+22
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+
+Intellectual Property System in China
+
+Deli Yang
+
+consequentially become heated as to whether such a system will function effectively;
+for example whether developing countries will beneﬁt from adopting a western IPS
+and whether developed countries will have their IP protected, given the concern of
+inadequate IPS in developing countries (Barton, 2004; Benko, 1988; Dutﬁeld, 2004;
+Gervais, 1998; Ismail and Fakir, 2004; Lai and Qiu, 2003; Lall, 2003; Lamy, 2004;
+Maskus and Lahouel, 2000; Massel, 1973; O’Brien, 1974; Patel, 1974; Penrose,
+1973; Reichman, 2000; Sood, 1998; Subramanian, 1990; Subramanian and Watal,
+2000; Yang and Sonmez, 2003). Moreover, comparative studies are also attracting
+interest with a particular focus on comparisons between developed countries, such
+as Japan, the United States, Germany and the United Kingdom (Aoki and Prusa,
+1996; Helfgott, 1990; Kotabe, 1992; Thompson, 1993). Additionally, IPSs in
+individual countries have also been examined, including the United States (Barton,
+2000; Gallini, 2002; Jaffe, 2000; Khan and Sokoloff, 2001; Sherwood, 1984), China
+(Bosworth and Yang, 2002; Sun, 2003; Yang, 2003) and Singapore (Ching, 2002).
+However, a more speciﬁc issue related to the IPS—grant lags and ratios in China—
+appears to have never been investigated.
+
+This study aims to examine the IPS in China, with a particular focus on the
+grant lags and grant ratios between residents and non-residents in patents, utility
+models, industrial designs and trademarks. Here, grant lag refers to the length of
+time between an IP application and its grant; it is also termed as pendency (Kotabe,
+1992) and pending period (Bosworth and Yang, 2002). Grant ratios refer to the
+number of IP grants out of total applications. Despite comparing and contrasting
+the patent (for patents, utility models and industrial designs) and trademark systems
+in China, this research will address the similarities and differences of the grant lags
+and grant ratios for residents’ and non-residents’ applications across the four IP
+categories. Such an investigation will allow the research to conclude which IP right
+is treated favourably and whether residents are favoured against non-residents in
+terms of grant lags and grant ratios, or vice versa. The study will be conducted with
+IP statistical data from the World IP Organization (WIPO) and State IP Ofﬁce
+(SIPO) in China using a lagged regression model (Kotabe, 1992) and validation test
+(Bryant, 1966; Cohen and Cohen, 2002).
+
+This research contributes theoretical and empirical knowledge to the IPS
+studies. Early discussions about previous research suggest that the areas of grant
+lags and grant ratios have been under-researched. Despite some sporadic studies
+about patents, other IP has had little attention. This issue, however, is particularly
+important because it is ‘‘the most direct indicators of industrial innovative activity’’
+(Kotabe and Cox, 1993). In other words, the balance between residents and non-
+residents in IP activities indicates whether a nation is competitive innovatively in
+comparison with foreign countries. This research thereby contributes theoretical
+knowledge by examining all the IP rights, instead of patents only, as in previous
+research. The empirical scarcity of this research ﬁeld also prompted this study:
+although China’s IPS has attracted great attention among researchers, the study of
+grant lags and grant ratios appears to be a blank spot. This research contributes
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+23
+
+Deli Yang
+
+Intellectual Property System in China
+
+empirical knowledge of China to the previous studies of developed countries,
+thereby attracting research interests in developing countries.
+
+This article is structured as follows. The second section discusses the IPS in
+China,
+including IP laws, administration and enforcement. The third surveys
+previous research relevant to grant lags and ratios and formulates hypotheses.
+The fourth discusses the sources of information, the analytical model and equality
+testing formulae. The ﬁfth section analyses the descriptive data, including growth
+index and grant lags and ratios. The ﬁnal section discusses the results in comparison
+with previous research. Moreover, research implications will be drawn from the
+results for policy makers. Finally, research limitations are discussed to provide
+directions for future policy research.
+
+IPS in China
+
+IPS and Objectives
+IPS can be understood in both a narrow and a broad sense. In a narrow sense, it
+refers to the examinations and grants of IP applications, promotion of IP protection
+at home and abroad, and dissemination of IP knowledge by publications (Thomp-
+son, 1993). In other words, the narrow scope of IPS is closely related to the
+administration of IP rights in a country. In a broad sense, this research believes that
+IPS also includes the legislative guidance and judicial enforcement in addition to IP
+administration. Here, legislative guidance includes the understanding of the legal
+system, legislature and legal mechanism in guiding IP activities and protecting IP
+rights (Yang and Clarke, 2004). Administrative control refers to the narrow sense of
+an IPS, including relevant administrative organs and their functions in handling IP
+applications. Judicial enforcement refers to the court hierarchy and their ways of
+handling IP disputes and execution. This research argues that the broad sense is
+more reﬂective of the IPS, as administrative control is based on legal instructions
+and is necessary for judicial support. Their inseparable relations reﬂect that the
+adequacy of legislation, administration and enforcement establishes the founda-
+tions of a strong IPS. In line with this discussion, this section will pay particular
+attention to the IPS functions.
+
+China is explicit about the objectives of establishing an IPS. The patent system
+in China aims to ‘‘protect patent rights for inventions-creations, to encourage
+invention-creation, to foster the spreading and application of inventions-creations
+and to promote the development and innovation of science and technology, for
+meeting the needs of the construction of socialist modernization’’ (Patent Law of
+the People’s Republic of China [Patent Law of the PRC], article 1). The trademark
+system is aimed at ‘‘improving the administration of trademarks, protecting the
+exclusive right to use trademarks, and encouraging producers and operators to
+guarantee the quality of their goods and services and maintaining the reputation of
+their trademarks, with a view to protecting the interests of consumers, producers
+and operators and to promoting the development of the socialist market economy’’.
+
+24
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+Intellectual Property System in China
+
+Deli Yang
+
+The patent and trademark systems are comparable and contrastable. Both
+objectives share the same principle, i.e. to serve socialist economic development.
+They both emphasize the importance of the government duty to encourage IP
+activities. However, the different nature of these two systems shows that distinct
+objectives are sought to serve the country’s purposes of economic development. The
+patent system places great emphasis on diffusion (Sun, 2003). The wide diffusion of
+technology is implemented through protection, encouragement, applications and
+promotion of technological creations. This reﬂects the Chinese government’s
+intention to advance its technological level. As for the trademark system, given
+the non-technological nature in comparison with the patent system, the objective
+emphasis has switched to clarify the duties of different parties,
+including the
+government and trademark owners. The government duty is administration,
+protection, encouragement and promotion of trademark activities; trademark
+owners have the responsibility for trademark quality, reputation and interests for
+themselves and consumers.
+
+Legal Guidance of the IPS
+The legal guidance of the IPS is three fold: legal system, legislature and legal
+mechanism. China adopts a legal system of civil law. In other words, judges rely on
+the meaning of legal code to pursue the truthfulness of a dispute and actively
+participate in debates with the defending lawyers and juries. This differs from the
+common law regime where judges reply on precedent, social norms and rational
+public policy to interpret the meaning of the law, act as a neutral referee in court
+and make a verdict on the basis of the legal defence and jury decisions (Cooter and
+Ulen, 1997). The reliance on meaning in a civil law regime like China may create
+more hindrance than assistance in the IPS. This is because the development of IP
+tends to fall behind technological progress, making the IP law unspeciﬁc to guide IP
+activities (Maskus, 2000; Wagman and Scoﬁeld, 1999) and leaves too much
+unexplained in the law (Teece, 1986). In addition, given the fact that China only
+formed its IPS in the last two decades, it implies that the IP laws are bound to lack
+clarity. Moreover, the court system has only a 20-year establishment in China; this
+implies that lawyers and judges need time to build their experience. As a result,
+uniformity of judicial decisions may be undermined in the process of dispute
+settlement.
+
+China adopts a two-tier legislature. The central government—the National
+People’s Congress (NPC) and its Standing Committee—as the top tier of legislature,
+is the state legislative body to enact IP laws, supervise legal enforcement and
+nominate or remove Supreme Court presidents (Constitution of the PRC 1993,
+articles 58 and 62–3). Relevant to the ﬁrst-tier legislature is the state council. The
+highest administrative body of China is responsible for drafting legislative bills for
+the NPC and its Standing Committee. Additionally, it also has legislative power to
+issue regulations. For example, the Patent Law of the PRC 2001 was enacted by the
+NPC, but the Implementation Regulations of the Patent Law of the PRC 2001 was
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+25
+
+Deli Yang
+
+Intellectual Property System in China
+
+issued by the state council. The second-tier legislature includes the Provincial NPC
+and their Standing Committees at the levels of provinces, autonomous regions,
+municipal cities and ministerial governments under the state council (Constitution
+of the PRC 1993, article 100). Their legislative power tends to reﬂect the local needs
+and interests in the form of rules and departmental rules and regulations, respec-
+tively, in line with the ﬁrst-tier legislation (Constitution of the PRC 1993, articles 90
+and 116).
+
+The two-tier legislature in China has created both ﬂexibility and barriers for the
+operations of the IPS. The ﬂexibility is reﬂected in the government allowing
+ministerial and provincial governments to stipulate their rules and regulations on
+the basis of their needs and interests. This therefore allows the relevant IP
+organizations to stipulate more speciﬁc policy in IP. As a result, for IP, China
+has at least four sets of legal code—law, regulations, rules and departmental rules
+and regulations relevant to a particular product. However, IP ﬁrms unfamiliar with
+the legislature may have a dubious impression as to which legal code to follow if
+clear instructions are not provided (Yang, 2003).
+
+The legal mechanism of the IPS has two important characteristics. It refers here
+to the body of IP laws and regulations that regulate the operations of the IPS. First,
+the IP mechanism is established in the form of a quadruple-set legal code for all the
+IP rights. In other words, they are available for people to consult in the form of law
+(e.g. patent law), regulations (e.g. implementation regulations of the patent law),
+departmental rules and regulations (e.g. trade-related IP from the Ministry of
+Commerce), and rules (provincial stipulations). Second, the entire IP mechanism
+was established in the 1980s, going through two revisions soon afterwards. This
+indicates that the legal mechanism of the IPS is relatively new, implying the need for
+interpretation. For example, the Trademark Law of the PRC was enacted in 1982
+and was revised in 1993 and 2001.
+
+Administrative Control
+
+Administrative Organs
+The administrative control
+is related to the administrative organs and their
+responsibilities to handle IP. Different from most developed countries, the Chinese
+IPS administers patents and trademarks separately, including the SIPO for patents
+and the Trademark Ofﬁce for marks. However, they share the common duties of
+examining IP applications, interpreting IP laws, supervising IP activities, dissemi-
+nating IP and administratively settling disputes (Yang and Clarke, 2004). Both
+organs were established in the 1980s, with the SIPO being renamed from the Patent
+Ofﬁce in 1998. The other difference of the administrative organs from Western
+countries is its additional duties:
+interpretation of the law and administrative
+settlement of dispute. This is relevant to the non-speciﬁc nature of the relatively
+new law and the Chinese tradition of heavily relying on government for dispute
+resolution, instead of doing so through the courts (Yang, 2005). In addition, the
+Chinese government also encourages dispute resolution through consultation,
+
+26
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+Intellectual Property System in China
+
+Deli Yang
+
+mediation and arbitration before seeking court resolution (Patent Law 2001,
+article 57).
+
+IP Administration
+The IP administration can be discussed under four main topics: subject, procedure,
+grants and administrative remedies as shown in Table 1. Despite invention patent
+protection, the patent law in China also encompasses the protection of utility
+models and industrial designs. However, the substantive requirements for these two
+rights are simpler than the invention patent. Like most countries adopting an IPS,
+China has also adopted a ﬁrst-to-ﬁle system, i.e. whoever ﬁles an application of
+patent or trademark ﬁrst will be considered as the potential owner of such a right.
+Trademark administration encompasses trademark, service mark, collective mark
+(association-owned mark for use by members) and certiﬁcation mark (association-
+owned mark for use by members and outsiders on condition of quality guarantee).
+The substantive requirements for a trademark are that it is distinctive and non-
+identical or similar to the already registered marks.
+
+With regard to procedural matters, different treatments have been provided to
+different IP rights. Invention and utility model patents have the priority right of 12
+months, but 6 months for industrial designs (Patent Law 2001, article 29) and for
+trademark marks (Trademark Law of the PRC 2001, article 24). Invention and
+utility model inventions enjoy 12-month priority rights, while industrial designs and
+trademarks have 6 months. Automatic publication applies for all patents, but
+trademark publications appear upon approval. In addition, only invention patent
+applications require substance examination for which request should be made
+within 3 years of ﬁling. When an application is rejected, trademark and patent
+applicants have different restrictions for requesting re-examination (15 days for
+marks and 3 months for patents), but their days available for legal proceedings are
+the same. As far as foreign applications are concerned, trademark and patent
+applications are treated the same, requiring an agency designated by the Chinese
+government.
+
+The post-grant matters are also treated differently. Apart from invention
+patents with a 20-year duration, all other rights are granted for a 10-year period.
+Moreover, trademark owners are able to have their marks renewed indeﬁnitely
+every 10 years subject to continuous use. All these IP applications require fees. In
+comparison, the application fee of an invention patent is RMB Yuan 900, utility
+model Yuan 500 and trademark RMB Yuan 1000 (State Administration for
+Industry and Commerce [SAIC], 2005; SIPO, 2005). Different from trademarks,
+compulsory licensing is allowed in patent activities where non-exclusive grants may
+be authorized by SIPO (Implementation Regulation 2001, rule 14). China places
+great emphasis on compulsory licensing for the purpose of wider diffusion of
+technologies. Government approval is needed for licensing a patent abroad, but this
+appears unnecessary for trademarks. This indicates government protection in
+controlling the outﬂow of indigenous technologies.
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+27
+
+Deli Yang
+
+Intellectual Property System in China
+
+,
+
+k
+r
+a
+m
+e
+c
+i
+v
+r
+e
+s
+
+,
+
+k
+r
+a
+m
+e
+d
+a
+r
+T
+
+l
+a
+i
+r
+t
+s
+u
+d
+n
+I
+
+l
+e
+d
+o
+m
+y
+t
+i
+l
+i
+t
+
+U
+
+n
+o
+i
+t
+n
+e
+v
+n
+I
+
+t
+c
+e
+j
+b
+u
+s
+
+t
+n
+e
+t
+a
+P
+
+)
+1
+(
+
+k
+r
+a
+m
+e
+d
+a
+r
+T
+
+a
+n
+i
+h
+C
+n
+i
+
+n
+o
+i
+t
+a
+r
+t
+s
+i
+n
+i
+m
+d
+A
+P
+I
+
+e
+h
+t
+
+f
+o
+
+n
+o
+s
+i
+r
+a
+p
+m
+o
+C
+
+:
+1
+
+e
+l
+b
+a
+T
+
+t
+n
+e
+t
+a
+P
+
+s
+r
+o
+t
+a
+r
+a
+p
+m
+o
+C
+
+t
+c
+e
+j
+b
+u
+S
+
+d
+n
+a
+
+k
+r
+a
+m
+e
+v
+i
+t
+c
+e
+l
+l
+
+o
+c
+
+k
+r
+a
+m
+n
+o
+i
+t
+a
+c
+ﬁ
+i
+t
+r
+e
+c
+
+n
+g
+i
+s
+e
+d
+
+,
+l
+
+o
+b
+m
+y
+s
+
+,
+r
+u
+o
+o
+c
+
+l
+
+,
+
+d
+r
+o
+W
+
+)
+1
+(
+
+y
+t
+l
+e
+v
+o
+N
+
+n
+o
+i
+t
+n
+e
+v
+n
+
+i
+
+s
+
+A
+
+d
+n
+a
+
+s
+s
+e
+n
+e
+v
+i
+t
+n
+e
+v
+n
+
+i
+
+,
+y
+t
+l
+e
+v
+o
+N
+
+y
+t
+i
+l
+i
+
+b
+a
+t
+n
+e
+t
+a
+P
+
+)
+2
+(
+
+l
+a
+v
+o
+r
+p
+p
+a
+
+y
+r
+a
+n
+m
+
+i
+
+i
+l
+e
+r
+p
+
+n
+o
+p
+U
+
+n
+o
+i
+t
+a
+n
+m
+a
+x
+e
+
+i
+
+y
+r
+a
+n
+m
+
+i
+
+i
+l
+e
+r
+P
+
+n
+o
+i
+t
+a
+r
+t
+s
+i
+g
+e
+r
+
+d
+n
+a
+
+o
+N
+
+o
+N
+
+s
+k
+r
+a
+m
+d
+e
+r
+e
+t
+s
+i
+g
+e
+r
+
+y
+d
+a
+e
+r
+l
+a
+
+o
+t
+
+r
+a
+l
+i
+
+m
+
+i
+s
+
+r
+o
+
+l
+a
+c
+i
+t
+n
+e
+d
+
+i
+
+t
+o
+N
+
+)
+3
+(
+
+r
+i
+e
+h
+t
+
+d
+n
+a
+
+s
+n
+o
+i
+s
+n
+e
+m
+d
+
+i
+
+;
+s
+n
+o
+i
+t
+a
+n
+b
+m
+o
+c
+
+i
+
+e
+b
+
+o
+t
+
+s
+a
+
+e
+v
+i
+t
+c
+n
+i
+t
+s
+i
+
+D
+
+)
+2
+(
+
+;
+e
+l
+b
+a
+h
+s
+i
+u
+g
+n
+i
+t
+s
+i
+d
+
+s
+h
+t
+n
+o
+m
+x
+i
+S
+
+s
+h
+t
+n
+o
+m
+6
+
+s
+h
+t
+n
+o
+m
+2
+1
+
+y
+r
+a
+n
+m
+
+i
+
+i
+l
+e
+r
+P
+
+n
+o
+i
+t
+a
+n
+m
+a
+x
+e
+
+i
+
+o
+N
+
+e
+c
+n
+a
+t
+s
+b
+u
+s
+
+d
+n
+a
+
+y
+r
+a
+n
+m
+
+i
+
+i
+l
+e
+r
+P
+
+n
+o
+i
+t
+a
+n
+m
+a
+x
+E
+
+i
+
+)
+4
+(
+
+s
+n
+o
+i
+t
+a
+n
+m
+a
+x
+e
+
+i
+
+g
+n
+
+i
+l
+
+ﬁ
+
+n
+o
+p
+u
+
+s
+r
+a
+e
+y
+
+3
+
+i
+
+n
+h
+t
+i
+
+W
+
+t
+s
+e
+u
+q
+e
+r
+
+n
+o
+i
+t
+a
+n
+m
+a
+x
+E
+
+i
+
+)
+5
+(
+
+y
+t
+i
+l
+a
+c
+i
+t
+c
+a
+r
+p
+
+k
+r
+a
+m
+
+t
+s
+o
+p
+
+y
+b
+
+r
+o
+
+t
+p
+i
+e
+c
+e
+r
+
+f
+o
+
+e
+t
+a
+D
+
+g
+n
+
+i
+l
+
+ﬁ
+
+n
+o
+p
+u
+
+s
+h
+t
+n
+o
+m
+8
+1
+
+s
+h
+t
+n
+o
+m
+2
+1
+
+t
+h
+g
+i
+r
+
+y
+t
+i
+r
+o
+i
+r
+P
+
+)
+2
+(
+
+n
+o
+i
+t
+a
+c
+i
+l
+
+b
+u
+P
+
+)
+3
+(
+
+e
+t
+a
+d
+
+g
+n
+
+i
+l
+i
+
+F
+
+)
+1
+(
+
+e
+r
+u
+d
+e
+c
+o
+r
+P
+
+e
+l
+ﬁ
+
+o
+t
+
+t
+s
+r
+i
+F
+
+e
+l
+p
+i
+c
+n
+i
+r
+p
+
+g
+n
+
+i
+l
+i
+
+F
+
+)
+3
+(
+
+28
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+Intellectual Property System in China
+
+Deli Yang
+
+n
+a
+c
+
+t
+s
+e
+u
+q
+e
+r
+
+,
+s
+y
+a
+d
+
+5
+1
+
+i
+
+n
+h
+t
+i
+
+W
+
+)
+1
+(
+
+i
+
+n
+o
+i
+t
+a
+n
+m
+a
+x
+e
+-
+e
+R
+
+t
+n
+e
+t
+a
+P
+
+e
+h
+t
+
+o
+t
+
+d
+e
+l
+ﬁ
+
+e
+b
+
+n
+a
+c
+
+t
+s
+e
+u
+q
+e
+r
+
+,
+s
+h
+t
+n
+o
+m
+3
+
+i
+
+n
+h
+t
+i
+
+W
+
+)
+1
+(
+
+t
+s
+e
+u
+q
+e
+r
+
+i
+
+n
+o
+i
+t
+a
+n
+m
+a
+x
+e
+-
+e
+R
+
+)
+6
+(
+
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+:
+1
+
+e
+l
+b
+a
+T
+
+k
+r
+a
+m
+e
+d
+a
+r
+T
+e
+h
+t
+
+o
+t
+
+d
+e
+l
+ﬁ
+
+e
+b
+
+j
+
+n
+o
+i
+t
+a
+c
+i
+d
+u
+d
+A
+d
+n
+a
+w
+e
+i
+v
+e
+R
+
+;
+
+d
+r
+a
+o
+B
+
+f
+o
+
+n
+o
+i
+t
+c
+e
+j
+e
+r
+
+r
+e
+t
+f
+a
+
+s
+y
+a
+d
+
+0
+3
+
+i
+
+n
+h
+t
+i
+
+i
+
+w
+s
+g
+n
+d
+e
+e
+c
+o
+r
+p
+
+l
+a
+g
+e
+L
+
+)
+2
+(
+
+i
+
+n
+o
+i
+t
+a
+n
+m
+a
+x
+e
+-
+e
+r
+
+y
+l
+e
+t
+i
+n
+ﬁ
+e
+d
+n
+
+i
+
+e
+l
+b
+a
+w
+e
+n
+e
+r
+
+,
+s
+r
+a
+e
+y
+
+0
+1
+
+s
+r
+a
+e
+y
+
+0
+1
+
+s
+h
+t
+n
+o
+m
+3
+
+i
+
+n
+h
+t
+i
+
+i
+
+w
+s
+g
+n
+d
+e
+e
+c
+o
+r
+p
+
+l
+a
+g
+e
+L
+
+)
+2
+(
+
+d
+r
+a
+o
+B
+
+n
+o
+i
+t
+c
+e
+j
+e
+r
+
+n
+o
+
+n
+o
+i
+t
+a
+c
+i
+l
+
+p
+p
+a
+
+n
+a
+
+r
+o
+f
+
+y
+c
+n
+e
+g
+a
+
+n
+a
+
+d
+e
+e
+N
+
+s
+t
+n
+a
+c
+i
+l
+
+p
+p
+a
+
+n
+g
+i
+e
+r
+o
+F
+
+)
+7
+(
+
+s
+r
+a
+e
+y
+
+0
+2
+
+s
+e
+Y
+
+n
+o
+i
+t
+a
+r
+u
+D
+
+)
+1
+(
+
+e
+e
+F
+
+)
+2
+(
+
+s
+t
+n
+a
+r
+G
+
+f
+o
+
+s
+e
+m
+
+i
+t
+
+e
+e
+r
+h
+t
+
+o
+t
+
+p
+u
+
+e
+n
+F
+
+i
+
+)
+4
+(
+
+l
+a
+g
+e
+l
+l
+i
+
+f
+o
+
+s
+e
+m
+
+i
+t
+
+e
+e
+r
+h
+t
+
+o
+t
+
+p
+u
+
+e
+n
+F
+
+i
+
+)
+4
+(
+
+s
+e
+i
+g
+o
+o
+p
+a
+
+l
+
+c
+i
+l
+
+b
+u
+P
+
+)
+1
+(
+
+n
+o
+i
+t
+a
+c
+s
+ﬁ
+n
+o
+C
+
+)
+3
+(
+
+n
+o
+i
+t
+c
+n
+u
+n
+I
+
+j
+
+)
+2
+(
+
+e
+l
+b
+a
+c
+i
+l
+
+p
+p
+a
+
+t
+o
+N
+
+n
+o
+i
+t
+a
+c
+s
+ﬁ
+n
+o
+C
+
+)
+3
+(
+
+n
+o
+i
+t
+c
+n
+u
+n
+I
+
+j
+
+)
+2
+(
+
+O
+P
+I
+S
+
+y
+b
+
+l
+a
+v
+o
+r
+p
+p
+a
+
+d
+e
+e
+N
+
+d
+a
+o
+r
+b
+a
+
+g
+n
+i
+s
+n
+e
+c
+i
+L
+
+)
+4
+(
+
+s
+e
+i
+g
+o
+o
+p
+a
+
+l
+
+c
+i
+l
+
+b
+u
+P
+
+)
+1
+(
+
+s
+e
+i
+d
+e
+m
+e
+r
+
+e
+v
+i
+t
+a
+r
+t
+s
+i
+n
+m
+d
+A
+
+i
+
+s
+e
+i
+d
+e
+m
+e
+R
+
+.
+e
+l
+b
+a
+c
+i
+l
+
+p
+p
+a
+
+t
+o
+N
+
+s
+e
+i
+t
+r
+a
+p
+
+e
+h
+t
+
+n
+e
+e
+w
+t
+e
+b
+
+d
+e
+d
+i
+c
+e
+d
+
+s
+e
+i
+t
+l
+a
+y
+o
+r
+
+h
+t
+i
+
+w
+O
+P
+I
+S
+
+y
+b
+
+s
+t
+n
+a
+r
+g
+
+e
+v
+i
+s
+u
+l
+c
+x
+e
+-
+n
+o
+N
+
+g
+n
+i
+s
+n
+e
+c
+i
+l
+
+y
+r
+o
+s
+l
+u
+p
+m
+o
+C
+
+)
+3
+(
+
+n
+a
+u
+Y
+0
+0
+0
+,
+0
+0
+1
+o
+e
+n
+F
+
+i
+
+r
+o
+
+i
+
+s
+g
+n
+n
+r
+a
+e
+
+l
+a
+g
+e
+l
+l
+i
+
+)
+5
+(
+
+n
+a
+u
+Y
+B
+M
+R
+0
+0
+0
+,
+0
+5
+o
+e
+n
+F
+
+i
+
+r
+o
+
+i
+
+g
+n
+n
+r
+a
+e
+
+)
+5
+(
+
+d
+e
+s
+a
+b
+-
+s
+e
+s
+s
+o
+
+l
+
+d
+n
+a
+
+-
+s
+t
+ﬁ
+o
+r
+P
+
+)
+6
+(
+
+.
+
+n
+o
+i
+t
+a
+l
+u
+c
+l
+a
+c
+
+e
+e
+f
+
+g
+n
+i
+s
+n
+e
+c
+i
+l
+
+n
+o
+
+d
+e
+s
+a
+b
+
+d
+e
+t
+a
+l
+u
+c
+l
+a
+C
+
+)
+6
+(
+
+s
+e
+s
+s
+o
+
+l
+
+d
+n
+a
+
+s
+t
+ﬁ
+o
+r
+p
+
+r
+o
+
+e
+h
+t
+d
+n
+a
+1
+0
+0
+2
+w
+a
+L
+k
+r
+a
+m
+e
+d
+a
+r
+T
+e
+h
+t
+
+,
+1
+0
+0
+2
+w
+a
+L
+t
+n
+e
+t
+a
+P
+e
+h
+t
+
+f
+o
+s
+n
+o
+i
+t
+a
+l
+u
+g
+e
+R
+n
+o
+i
+t
+a
+t
+n
+e
+m
+e
+l
+p
+m
+
+I
+
+,
+1
+0
+0
+2
+w
+a
+L
+t
+n
+e
+t
+a
+P
+e
+h
+t
+
+f
+o
+s
+e
+s
+e
+h
+t
+n
+y
+s
+
+e
+h
+t
+n
+o
+d
+e
+s
+a
+b
+d
+e
+t
+a
+e
+r
+C
+
+:
+e
+c
+r
+u
+o
+S
+
+.
+1
+0
+0
+2
+
+a
+n
+i
+h
+C
+
+f
+o
+
+c
+i
+l
+b
+u
+p
+e
+R
+s
+’
+e
+l
+p
+o
+e
+P
+e
+h
+t
+
+f
+o
+w
+a
+L
+k
+r
+a
+m
+e
+d
+a
+r
+T
+e
+h
+t
+
+f
+o
+
+s
+n
+o
+i
+t
+a
+l
+u
+g
+e
+R
+n
+o
+i
+t
+a
+t
+n
+e
+m
+e
+l
+p
+m
+I
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+29
+
+Deli Yang
+
+Intellectual Property System in China
+
+Finally, all these conventional IP rights are protected with administrative
+remedies. For trademarks, damage can be compensated based on up to three times
+the illegal earnings or up to RMB Yuan 100,000 if the former cannot be ascertained.
+In contrast, a similar remedy with regard to the illegal earnings applies for patents,
+but the ﬁne is lower: at up to 50,000 Yuan. Overall, administrative remedies in
+China are encouraged because court resolution is regarded as the last resort for both
+trademark and patent activities. A case in point is the administrative remedies of
+dispute cases. SIPO (2003) reports that, in 2002, it received 1,517 dispute cases, with
+82% being successfully resolved. According to Wen (1996), less than 7% of cases
+were brought further for legal resolutions.
+
+Judicial Enforcement
+China adopts a four-tier court system (Yang and Clarke, 2004). The single top
+tier—Supreme People’s Court—is directly answerable to the NPC and its Standing
+Committee. Higher People’s Courts are set up at provincial and municipal levels;
+below is the Intermediate People’s Courts at the provincial city level. Basic-Level
+People’s Court is the bottom tier responsible for matters at the town and county
+level. Relevant to IP matters, dispute litigation can be instituted,
+in the ﬁrst
+instance, at an Immediate People’s Court or Higher People’s Court depending on
+the location where the litigant resides. China adopts a court-hearing system of the
+second proceeding as ﬁnal. In other words, a case can be pursued to a higher court if
+a litigant is dissatisﬁed with the verdict from the ﬁrst instance, but the second
+proceeding is ﬁnal and no further proceedings are allowed. One landmark in the IP
+judicial history of China is the establishment of Special People’s Courts above
+Immediate People’s Courts in 1992 and within the Supreme People’s Court in 1996
+(SIPO, 2003). Such a set-up allows for IP-related disputes to be handled with
+efﬁciency, knowledge accumulation and standardization (Bosworth and Yang,
+2002; Jaffe, 2000).
+
+China’s judicial development of IP is considered to be at its infancy for three
+reasons. First, historically, China was always a country with a centralized system of
+government control. In other words, the country is policy driven instead of a legal
+binding regime where people rely on government policy and instructions to bench-
+mark their social behaviours. Second, the judicial system has only been established
+for two decades. The court system was resumed in 1979 under the Open Door policy
+(Liu, 1996). Third, judicial knowledge and experience also needs time to accumulate.
+Examination for lawyers was only resumed in 1989. The human power of the lawyers
+and judges needs time to strengthen in both quality and quantity, although these
+professions have become increasingly popular (O’Connor and Lowe, 1996). Given
+the above, China needs time to evolve a system, which is currently in transition from
+a policy-driven to a legal-binding nation, for the court system to be accomplished, for
+knowledge and experience accumulation of judicial human power.
+
+In summary, the IPS in China serves the objectives of accelerating IP diffusion to
+strike a balance between national and public interests and IP creators. In this diffusing
+
+30
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+Intellectual Property System in China
+
+Deli Yang
+
+process, an IP framework has been set up conforming to the broad standards of the
+international IP organizations (WIPO and the World Trade Organization). However,
+given the hasty establishment of this system, it would be impossible to have every
+detail taken into account. Further development is therefore needed to clarify and
+specify the legal mechanism, accumulate knowledge and experience in IP, strengthen
+enforcement power and increase public awareness of IP.
+
+Grant Lags and Grant Ratios
+
+This section reviews previous literature on two speciﬁc issues related to the IPS:
+grant lags and grant ratios. Grant lags and ratios demonstrate whether a govern-
+ment is efﬁcient and effective in the operations of the IPS. Grant lags and ratios as a
+subject have attracted little previous attention, although some sporadic studies were
+conducted with an empirical focus on the triad power. Little attention has been
+focused on China on this subject matter. This section therefore reviews the previous
+research on this subject and formulates hypotheses to serve as an empirical study
+about China in the subsequent sections.
+
+Grant Lags
+The study of grant lags is sporadic, patent-focused and triad-power concentrated. It
+is sporadic because only a few authors have conducted this research (Gilbert and
+Shapiro, 1990; Kotabe, 1992; Kotabe and Cox, 1993; Popp et al., 2003). As far as
+the subject is concerned, previous studies pay particular attention to patent, the
+most advanced form of IP, with other IP given little attention (Bosworth and Yang,
+2002). Moreover, the empirical study of this subject is geographically concentrated
+on developed countries, particularly technologically advanced triad power—the
+European Union (EU), the United States and Japan.
+
+Kotabe (1992) conducted a comparative study of the United States, Japan,
+Germany and the United Kingdom using statistical data from WIPO (1963–88).
+The ﬁndings show that Japan is biased towards residents, with shorter grant lag
+than non-residents. Speciﬁcally, the grant lags for residents fall between zero and 3
+years, with signiﬁcant levels above 80%. For non-resident applications, however,
+only a 3-year grant lag shows signiﬁcance at the certainty level of slightly over 12%.
+This indicates that Japanese inventors are highly likely to get a grant at any of the
+3-year periods upon ﬁling patent applications. However, foreign applicants are
+unlikely to be granted a patent until the third year of ﬁling. Kotabe’s study about
+the United States, Germany and the United Kingdom generated a different result
+from that of Japan. All three countries provide equal treatment in terms of the time
+lag of the applications. The United States has up to 3-year grant lags for both
+domestic and foreign applicants. The United Kingdom is more efﬁcient than the
+United States with a grant lag of 2 years. Finally, German inventors only need
+1 year to learn the outcome of their applications. Popp et al. (2003) concluded that
+foreign applications take no longer than domestic applications because interna-
+tional applications tend to be valuable inventions with ‘‘clear inventive steps’’ and
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+31
+
+Deli Yang
+
+Intellectual Property System in China
+
+‘‘easier to examine’’ details. However, translation, communications, due-attorney
+(for both home and the United States) and adjustment from multiple claims under
+the European Cooperation Treaty to the single claim in the United States may add
+to the length of time. Based on the above discussion, most countries studied by
+previous research provide equal treatment to domestic and foreign applications in
+terms of grant lags. Therefore, we hypothesize that:
+
+H1: There is an equal grant lag for IP between domestic and foreign applications in
+China, i.e.
+H1a: There is an equal grant lag for patents between domestic and foreign
+applications;
+H1b: There is an equal grant lag for utility models between domestic and foreign
+applications;
+H1c: There is an equal grant lag for industrial designs between domestic and
+foreign applications; and
+H1d: There is an equal grant lag for trademarks between domestic and foreign
+applications.
+
+Popp et al. (2003) studied the determinants of grant lag in the United States
+with statistical data of applications and grants and interviews with the US Patent
+and Trademark Ofﬁce examiners. They concluded four important factors that delay
+grants: technology type and complexities; application claim width; applicant
+characteristics; and references citations. Technology complexities increase the
+length of grant lag and form the most important reason to delay grants. For
+example, biotechnology, computer applications, drugs and software patents tend to
+take a longer time than technologies in other industries: Sun (2003) conducted a
+study of grant determinants of foreign applications and concluded a similar result
+about China. Based on the above discussions, we hypothesize:
+
+H2: It takes a different length of time to have IP grants, i.e.
+H2a: It takes a longer time to have invention patent grants than other IP rights;
+H2b: It takes a longer time to have utility model patent grants than industrial
+design and trademark grants; and
+H2c: It takes a longer time to have industrial design grants than trademark grants.
+
+Grant Ratios
+Kotabe (1992) concluded that the United States, Germany and the United Kingdom
+have a discriminative patent system in the way that domestic applications are
+favoured with more grant ratios than foreign applications. This is in contrast with
+the Japanese patent system where foreign applicants are discriminated with a longer
+grant lag. Kotabe’s study concludes that countries discriminate against foreign
+applications, but in different ways and to a different extent. The United States in
+the 1980s had far more domestic grants than applications due to the handling of
+backlog applications and an increase of examiners (Griliches, 1990; Popp et al.,
+
+32
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+Intellectual Property System in China
+
+Deli Yang
+
+2003). Such an accelerated procedure only applied to domestic applications. As a
+result, domestic applicants are favoured in terms of patent grants. Although
+Germany and the United Kingdom did not have a backlog issue to handle, they
+also showed obvious preferential treatment to domestic applicants in grant ratios.
+According to Kotabe’s (1992, p.162) ﬁndings, Germany awarded 10% more domestic
+applications than foreign applications; the gap was larger for the United Kingdom
+with 65 grants for domestic applications versus 21 foreign applications. As for Japan,
+the government provided an equal treatment in patent grant ratios with no
+discrimination. With regard to China, Bosworth and Yang (2002) concluded that
+there were more foreign patent grants in China from 1985 to 1995. Foreign
+applications concentrated on invention patents from advanced developed countries
+(Bosworth and Yang, 2000; Sun, 2003). Statistically, foreign applications accounted
+for 50% of the total invention applications and 61% of the total grants until 1995,
+with the United States and Japan accounting for nearly 60% of the applications
+(Bosworth and Yang, 2002). This demonstrates the high level of technologies from
+these countries and also the emphasis of these countries on core technologies. In the
+meantime, it also shows China’s desire to welcome advanced foreign technologies for
+its economic development. On the basis of the above discussion, we hypothesize that:
+
+H3: Foreign patent applications are more favoured with grants than domestic
+patent applications.
+
+According to the study by Bosworth and Yang (2000), non-invention patent
+and trademark applications are dominated by domestic applicants. Such a striking
+difference between invention patents and other IP is due to the dynamic activities in
+lower-level technology categories conducted by domestic inventors and designers.
+As for trademark, the establishment of the trademark system in the early 1980s
+allowed Chinese companies to register their trademarks in use (Bosworth and Yang,
+2000). Based on the above discussion, we can hypothesize that:
+
+H4: Domestic applications for utility model, design and trademarks are more
+favoured with grants than foreign applications, i.e.
+H4a: Domestic applications for utility models are more favoured with grants than
+foreign applications;
+H4b: Domestic applications for industrial designs are more favoured with grants
+than foreign applications; and
+H4c: Domestic applications for trademarks are more favoured with grants than
+foreign applications.
+
+Methodology
+
+The original data of this research are the WIPO statistics (1985–2003). WIPO
+compiles IP statistics by year broken down by countries with the categories of
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+33
+
+Deli Yang
+
+Intellectual Property System in China
+
+residents and non-residents applications and grants. According to Griliches (1990)
+and Kotabe (1992), the WIPO IP statistics reﬂect technological activities across the
+countries in the world with the most extensive applications by researchers. Never-
+theless, the non-identiﬁcation of technological area and no reﬂection of technolo-
+gical impact prevent researchers from conducting industrial analysis.
+
+This study applies for the lagged regression model below adopted by Kotabe
+(1992) to test the hypotheses. This model shows the response variable (patent
+grants in a particular year associated with the applications in a lagged year (0–5
+years)):
+
+Yt ¼ at L þ bt L  Xt L þ et;
+
+where Yt is the number of IP grants in year t, t the year of ﬁling an IP application,
+at L the intercept for year t L, L the number of years lagged behind the applica-
+tion for IP grant, b the IP grant in year t as a percentage of IP applications in year
+t L, Xt L the number of IP applications and e the uncertainty of the pending
+applications.
+
+The association of the model with the hypotheses is established by R2 (H1 and
+H2), slope coefﬁcient bt L (H3 and H4) and both t L and bt L (H2 and H4). For
+Hypotheses 1 and 2 to be true, the e uncertainty should be low. In other words, the
+highest R2 gives the best model for a particular year, thereby the common year with
+IP lagged in grants. High R2 provides high certainty for an IP grant for that
+particular year. For Hypotheses 3 and 4 to be true, bt L shows a higher value for the
+hypothetically favoured applicants. If equal treatment is given, however, the bt L
+should show a roughly equal value. By comparing t L and bt L, this research is
+able to compare and contrast the results across different IP grants. The differences
+in the lagged years will demonstrate the different extent of preferential treatment
+towards different IP grants. Likewise, the comparison of bt L will show the gaps of
+preferential treatment in grant ratios across different IP categories.
+
+The analysis will follow the sequence as follows. First, some background data
+will be discussed. These include descriptive information about the activities of
+inventions, utility models, industrial designs and trademarks in China since the
+1980s until 2002. These activities will also be graphically displayed using index data
+to reﬂect the changes of IP activities across the four categories over the last two
+decades or so. The main discussion will be on the IP activities in terms of grant lags
+and ratios to respond to the hypotheses. Different IP will be analysed and discussed
+ﬁrst before comparative analyses leading to answering the hypothetical questions
+are conducted. In the process of analysing grant lags and ratios, the equality of the
+correlation and slope coefﬁcients are tested with the following formulas due to the
+independence of the samples. Equation (1) tests the equality of correlation (Bryant,
+1966, pp. 140–2). The equality of slope coefﬁcients from two independent samples is
+tested based on equation (2) (Cohen and Cohen, 2002, p. 111). When the p-value of
+the result is signiﬁcant, it substantiates that the two samples generate signiﬁcantly
+
+34
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+Intellectual Property System in China
+
+Deli Yang
+
+different results; otherwise, no signiﬁcant differences are detected between the two
+samples.
+
+0:5 loge
+
+t ¼
+
+q
+
+t ¼
+
+1 þ r2
+1   r2
+
+1 þ r1
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+r
+  0:5 loge
+1   r1
+þ 1
+1
+
+n1   3
+
+n2   3
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+b t Lð
+SE2
+Þ2
+b t Lð
+
+Þ1   b t Lð
+Þ2
+Þ1 þ SE2
+
+b t Lð
+
+;
+
+ð1Þ
+
+ð2Þ
+
+where t is the normal curve, r the correlation coefﬁcient, n the sample size, b(t L)1
+and b(t L)2 two slope coefﬁcients, domestic and foreign applications or the
+applications between two different IP depending on the comparison.
+
+SE is the standard error consistent with the slope coefﬁcients under compar-
+
+ison. 1 and 2 in the equations represent two sets of samples.
+
+Findings
+
+Characteristics of IP Activities in China
+The descriptive summary shown in Table 2 demonstrates similarities and differences
+between domestic and foreign activities and across the four IP categories. A
+dynamic stance was apparent for both domestic and foreign activities. This can
+be observed by examining the mean values and the sum of IP in both applications
+and grants. However, a close examination reveals the different extent of activities
+across the IP categories. In particular, resident applications are much more dynamic
+than non-resident applications for all the IP categories, except invention patents,
+where the ratio is 1:3 in applications and 1:1.7 in grants. This demonstrates the
+emphasis of foreign applicants on their core technologies. Other IP (utility model,
+industrial design and marks) demonstrate a much higher level of domestic activities.
+This is especially so for utility model activities, where the ratio for both applications
+and grants between residents and non-residents is 146:1. This indicates that under
+the IP policy in China, local inventors and creators are motivated to protect their
+creativity of the minds and become competitive in the low technological ﬁeld.
+Nevertheless, given the need for technological foundations, domestic invention
+activities are not as sophisticated as foreign ones.
+
+As for grant activities, there is also a difference between invention patent and
+other IP activities. For invention patent, grants account for 16% of the total
+applications for domestic inventors in comparison with 9% for foreign applications.
+Therefore, according to the mean, domestic applicants are more favoured than
+foreign applicants in invention patent activities. This also shows that, in recent
+years, there has been great progress in domestic invention activities in China.
+Nonetheless, a different picture is seen for the other three IP activities. Despite the
+equal grant ratios for utility models between domestic and foreign applicants at
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+35
+
+Deli Yang
+
+Intellectual Property System in China
+
+5
+3
+9
+,
+5
+
+0
+6
+9
+,
+9
+
+9
+8
+6
+,
+2
+4
+
+3
+0
+8
+,
+2
+6
+
+8
+2
+6
+,
+7
+1
+
+8
+9
+7
+,
+3
+9
+
+3
+5
+3
+,
+2
+1
+
+0
+2
+4
+,
+9
+9
+
+5
+6
+9
+,
+1
+
+6
+5
+7
+,
+1
+
+2
+5
+4
+,
+0
+1
+
+7
+7
+5
+,
+0
+2
+
+0
+7
+5
+,
+2
+
+7
+2
+0
+,
+2
+
+4
+1
+4
+,
+8
+1
+
+5
+.
+8
+9
+1
+
+8
+5
+4
+,
+6
+2
+
+8
+3
+1
+
+0
+9
+6
+,
+8
+2
+
+4
+7
+9
+,
+9
+1
+
+7
+3
+2
+
+7
+0
+3
+
+0
+2
+2
+,
+6
+4
+
+1
+4
+1
+,
+6
+2
+
+2
+1
+1
+,
+2
+
+9
+4
+0
+,
+4
+
+9
+5
+4
+,
+1
+
+8
+3
+9
+,
+1
+
+7
+1
+5
+,
+5
+1
+
+4
+5
+6
+,
+0
+1
+
+4
+8
+0
+,
+4
+4
+
+3
+0
+0
+,
+0
+1
+
+G
+R
+N
+
+G
+R
+
+A
+R
+N
+
+A
+R
+
+G
+R
+N
+
+G
+R
+
+A
+R
+N
+
+A
+R
+
+G
+R
+N
+
+G
+R
+
+A
+R
+N
+
+A
+R
+
+G
+R
+N
+
+G
+R
+
+A
+R
+N
+
+A
+R
+
+3
+2
+1
+,
+2
+
+0
+9
+3
+,
+3
+1
+
+4
+3
+6
+,
+2
+
+7
+9
+1
+,
+1
+2
+
+9
+3
+4
+
+4
+4
+1
+,
+5
+
+7
+0
+5
+
+4
+1
+6
+,
+6
+
+0
+6
+3
+,
+2
+1
+
+1
+7
+6
+,
+0
+7
+
+2
+5
+9
+,
+6
+1
+
+6
+1
+9
+,
+2
+1
+1
+
+7
+5
+1
+,
+2
+
+5
+9
+5
+,
+9
+1
+
+7
+7
+5
+,
+2
+
+0
+6
+2
+,
+7
+2
+
+3
+3
+
+0
+2
+2
+
+8
+3
+0
+,
+2
+3
+
+0
+3
+3
+
+9
+2
+0
+,
+8
+4
+
+8
+2
+4
+,
+3
+
+8
+6
+0
+,
+2
+
+9
+3
+1
+,
+8
+3
+
+8
+9
+6
+,
+2
+1
+
+n
+a
+e
+M
+
+8
+0
+7
+,
+4
+
+2
+7
+
+2
+6
+1
+,
+6
+
+4
+5
+9
+
+7
+5
+4
+
+1
+9
+3
+,
+0
+1
+
+8
+5
+3
+,
+2
+
+d
+r
+a
+d
+n
+a
+t
+S
+
+s
+k
+r
+a
+M
+
+n
+g
+i
+s
+e
+d
+
+l
+a
+i
+r
+t
+s
+u
+d
+n
+I
+
+l
+e
+d
+o
+m
+y
+t
+i
+l
+i
+t
+
+U
+
+t
+n
+e
+t
+a
+p
+
+n
+o
+i
+t
+n
+e
+v
+n
+I
+
+a
+n
+i
+h
+C
+n
+i
+
+s
+e
+i
+t
+i
+v
+i
+t
+c
+A
+P
+I
+
+e
+h
+t
+
+f
+o
+
+s
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+C
+e
+v
+i
+t
+p
+i
+r
+c
+s
+e
+D
+
+:
+2
+
+e
+l
+b
+a
+T
+
+e
+v
+i
+t
+p
+i
+r
+c
+s
+e
+D
+
+s
+r
+o
+t
+a
+c
+i
+d
+n
+i
+
+0
+5
+4
+,
+0
+3
+
+1
+1
+4
+,
+1
+0
+2
+
+6
+5
+6
+,
+5
+3
+
+0
+2
+6
+,
+8
+8
+3
+
+4
+0
+1
+,
+6
+
+1
+3
+3
+,
+9
+6
+
+0
+8
+0
+,
+7
+
+5
+1
+0
+,
+5
+8
+
+1
+2
+5
+,
+1
+
+9
+5
+6
+,
+4
+
+5
+6
+5
+,
+1
+
+0
+0
+0
+,
+7
+1
+
+9
+6
+1
+
+2
+6
+5
+
+7
+4
+3
+
+2
+1
+6
+,
+1
+
+1
+7
+9
+,
+1
+3
+
+0
+7
+0
+,
+6
+0
+2
+
+1
+2
+2
+,
+7
+3
+
+0
+2
+6
+,
+5
+0
+4
+
+3
+7
+2
+,
+6
+
+3
+9
+8
+,
+9
+6
+
+7
+2
+4
+,
+7
+
+7
+2
+6
+,
+6
+8
+
+3
+6
+5
+
+2
+5
+
+5
+1
+6
+
+8
+7
+4
+,
+2
+
+3
+9
+
+0
+8
+5
+,
+9
+
+2
+
+2
+4
+
+1
+5
+0
+,
+4
+
+4
+9
+4
+,
+3
+
+3
+1
+8
+,
+5
+6
+
+0
+8
+1
+,
+1
+
+2
+6
+2
+,
+8
+9
+
+3
+0
+6
+,
+5
+1
+
+3
+3
+4
+,
+6
+
+9
+5
+8
+,
+6
+3
+1
+
+2
+5
+8
+,
+6
+3
+
+1
+9
+2
+,
+8
+6
+
+3
+7
+2
+,
+1
+
+2
+4
+8
+,
+7
+0
+1
+
+5
+0
+6
+,
+5
+1
+
+5
+7
+4
+,
+6
+
+0
+1
+9
+,
+0
+4
+1
+
+6
+4
+3
+,
+0
+4
+
+m
+u
+m
+i
+x
+a
+M
+
+8
+1
+9
+,
+1
+7
+2
+
+8
+6
+7
+,
+4
+5
+5
+,
+1
+
+2
+4
+9
+,
+2
+7
+3
+
+4
+4
+1
+,
+4
+8
+4
+,
+2
+
+4
+0
+5
+,
+4
+3
+
+9
+1
+5
+,
+3
+1
+3
+
+7
+3
+2
+,
+1
+4
+
+8
+5
+1
+,
+6
+3
+4
+
+0
+6
+9
+,
+3
+
+9
+7
+6
+,
+6
+7
+5
+
+1
+4
+9
+,
+5
+
+0
+3
+5
+,
+4
+6
+8
+
+1
+0
+7
+,
+1
+6
+
+1
+1
+2
+,
+7
+3
+
+5
+0
+5
+,
+6
+8
+6
+
+0
+6
+5
+,
+8
+2
+2
+
+m
+u
+S
+
+.
+s
+t
+n
+a
+r
+g
+
+t
+n
+e
+d
+i
+s
+e
+r
+-
+n
+o
+n
+
+,
+
+G
+R
+N
+
+;
+s
+t
+n
+a
+r
+g
+
+t
+n
+e
+d
+i
+s
+e
+r
+
+,
+
+G
+R
+
+;
+s
+n
+o
+i
+t
+a
+c
+i
+l
+p
+p
+a
+
+t
+n
+e
+d
+i
+s
+e
+r
+-
+n
+o
+n
+
+,
+
+A
+R
+N
+
+;
+s
+n
+o
+i
+t
+a
+c
+i
+l
+p
+p
+a
+
+t
+n
+e
+d
+i
+s
+e
+r
+
+,
+
+A
+R
+
+:
+s
+e
+t
+o
+N
+
+d
+r
+a
+d
+n
+a
+t
+S
+
+n
+o
+i
+t
+a
+i
+v
+e
+d
+
+n
+a
+i
+d
+e
+M
+
+e
+g
+n
+a
+R
+
+r
+o
+r
+r
+e
+
+m
+u
+m
+n
+M
+
+i
+
+i
+
+36
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+Intellectual Property System in China
+
+Deli Yang
+
+67%, the Chinese government grants more foreign applications for industrial
+designs (84%) and trademarks (73%) in comparison with 72% and 63%, respec-
+tively, for domestic applications. These results show that although domestic
+applications are more dynamic in China, foreign applications are more favoured
+by the Chinese government due probably to the high quality of the applications
+(Bosworth and Yang, 2000) and the demand of the market (Sun, 2003). The
+observation of minimum–maximum results shows that there is a large gap across
+all the IP categories. This is particularly the case for invention patent grants. At the
+early stage of the statistical records, there was only a small number of grants, but
+there has been a surge in the activities over the years. This is a good indicator of the
+dramatic changes of IP activities in China over the last two decades.
+
+The evidence for such dramatic changes can be more clearly displayed in Figures
+1–4. These ﬁgures compare and contrast the changes of IP activities over the years
+since the 1980s. For inventions, non-resident grants have shown a sudden surge since
+1998 showing the high inventive step of foreign technologies in China. Resident and
+non-resident applications and resident grants show little difference over the years.
+Utility model and industrial design activities show similar changes; both IP activities
+show dramatic changes in the resident grants, although the utility model resident
+grants show more ﬂuctuations. Both activities also show constant changes over the
+years in applications and non-resident grants, with the changes increasing more in
+recent years. In addition, non-resident applications in utility model activities show a
+
+RA Index
+
+NRA Index
+
+RG Index
+
+NRG Index
+
+x
+e
+d
+n
+
+I
+
+800000
+
+600000
+
+400000
+
+200000
+
+0
+
+−200000
+
+−400000
+
+1985
+
+1986
+
+1987
+
+1988
+
+1989
+
+1990
+
+1991
+
+1992
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+1994
+1993
+Year
+
+Figure 1: Invention patent changes of applications and grants
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+37
+
+Deli Yang
+
+Intellectual Property System in China
+
+RA Index
+
+NRA Index
+
+RG Index
+
+NRG Index
+
+3000
+
+2500
+
+2000
+
+1500
+
+1000
+
+500
+
+x
+e
+d
+n
+
+I
+
+0
+
+1986
+
+1987
+
+1988
+
+1989
+
+1990
+
+1991
+
+1992
+
+1993
+
+1996
+
+1995
+1994
+Year
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+Figure 2: Utility model changes of applications and grants
+
+RA Index
+
+NRA Index
+
+RG Index
+
+NRG Index
+
+x
+e
+d
+n
+
+I
+
+14000
+
+12000
+
+10000
+
+8000
+
+6000
+
+4000
+
+2000
+
+0
+
+1988
+
+1989
+
+1990
+
+1991
+
+1992
+
+1993
+
+1994
+
+1995
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+1996
+Year
+
+Figure 3: Industrial design changes of applications and grants
+
+38
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+Intellectual Property System in China
+
+Deli Yang
+
+RA Index
+
+NRA Index
+
+RG Index
+
+NRG Index
+
+3000
+
+2500
+
+2000
+
+x
+e
+d
+n
+
+I
+
+1500
+
+1000
+
+500
+
+0
+
+1981
+
+1983
+
+1985
+
+1987
+
+1989
+
+1991
+
+1993
+Year
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Figure 4: Trademark changes of applications and grants
+
+dramatic increase since 2001, demonstrating the dynamic atmosphere of the low level
+of technological activities and government encouragement of such activities. Trade-
+mark activities show the most ﬂuctuating changes over the years across both
+applications and grants, but there has been an overall increasing trend since the
+1990s. Both applications are increasing more dramatically than grants.
+
+To summarize Figures 1–4, all the IP activities show an increasing trend,
+particularly in recent years, but the different extent of development is also apparent
+across the four IP rights. Comparatively, patent activities show a constant progress
+over the years, except that NRG shows a dramatic surge in recent years. This
+further demonstrates the emphasis of the Chinese-government to absorb advanced
+foreign technologies. Both utility model and industrial design activities show a
+similar structure of development over the years with a steadily increasing trend for
+applications and grants, with the changes of resident grants being more dramatic in
+recent years. Trademark activities show a different picture comparatively, as instead
+of a greater increase in grants, as shown in all the patent activities, it shows a greater
+increase in both local and foreign applications. Although it also shows overall
+increasing trends like the patent activities, the changes are more ﬂuctuating since the
+early 1990s, particularly for grants.
+
+Grant Lags and Ratios
+This section focuses on the data analysis of grant lags and ratios based on the model
+shown in ‘‘Methodology’’ with the result summary shown in Table 3. It will analyse
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+39
+
+Deli Yang
+
+Intellectual Property System in China
+
+0
+0
+0
+0
+
+.
+
+0
+
+ 
+
+8
+6
+
+.
+
+0
+
+ 
+
+1
+3
+2
+3
+
+.
+
+X
+5
+1
+7
+
+.
+
+ 
+
+0
+=
+Y
+
+ 
+
+X
+4
+5
+7
+
+.
+
+ 
+
+0
+=
+Y
+
+ 
+
+ 
+
+X
+4
+2
+5
+
+.
+
+ 
+
+0
+=
+Y
+
+ 
+
+ 
+
+1
+7
+0
+
+.
+
+0
+0
+0
+0
+0
+
+.
+
+1
+5
+
+.
+
+6
+3
+
+X
+8
+2
+7
+
+.
+
+ 
+
+0
+=
+Y
+
+ 
+
+0
+0
+0
+0
+
+.
+
+0
+
+ 
+
+6
+7
+
+.
+
+0
+
+ 
+
+5
+2
+8
+4
+
+.
+
+0
+0
+0
+0
+0
+
+.
+
+ 
+
+7
+7
+
+.
+
+0
+
+4
+2
+
+.
+
+0
+5
+
+X
+7
+2
+8
+
+.
+
+ 
+
+0
+=
+Y
+
+ 
+
+X
+1
+5
+0
+
+.
+
+ 
+
+1
+=
+Y
+
+ 
+
+0
+0
+0
+0
+
+.
+
+0
+
+ 
+
+3
+8
+
+.
+
+0
+
+ 
+
+6
+6
+1
+7
+
+.
+
+0
+0
+0
+0
+
+.
+
+0
+
+ 
+
+8
+8
+
+.
+
+0
+
+.
+
+2
+2
+9
+0
+1
+
+X
+2
+0
+7
+
+.
+
+ 
+
+0
+=
+Y
+
+ 
+
+ 
+
+X
+3
+7
+1
+
+.
+
+ 
+
+1
+=
+Y
+
+ 
+
+3
+0
+0
+0
+
+.
+
+0
+
+9
+5
+
+.
+
+0
+
+0
+0
+2
+2
+
+.
+
+0
+0
+0
+0
+
+.
+
+0
+
+9
+7
+
+.
+
+0
+
+6
+6
+
+.
+
+6
+5
+
+.
+
+X
+6
+8
+6
+0
++
+3
+1
+4
+
+,
+
+5
+=
+Y
+
+ 
+
+X
+2
+3
+2
+
+.
+
+ 
+
+1
+=
+Y
+
+ 
+
+7
+0
+0
+0
+
+.
+
+0
+
+4
+5
+
+.
+
+0
+
+5
+9
+7
+1
+
+.
+
+0
+0
+0
+0
+0
+
+.
+
+3
+7
+0
+
+.
+
+2
+5
+
+.
+
+1
+4
+
+X
+8
+7
+5
+
+.
+
+0
++
+9
+1
+7
+7
+=
+Y
+
+ 
+
+ 
+
+ 
+
+X
+8
+9
+1
+
+.
+
+ 
+
+1
+=
+Y
+
+ 
+
+4
+7
+0
+0
+
+.
+
+0
+
+9
+3
+
+.
+
+0
+
+8
+5
+
+.
+
+9
+
+1
+0
+0
+0
+0
+
+.
+
+7
+6
+
+.
+
+0
+
+4
+5
+0
+3
+
+.
+
+ 
+
+X
+1
+5
+8
+.
+0
+ 
+=
+Y
+
+ 
+
+0
+0
+0
+0
+.
+0
+
+ 
+5
+6
+9
+.
+0
+
+5
+9
+.
+6
+8
+3
+
+X
+4
+4
+0
+.
+1
+ 
+=
+Y
+
+ 
+
+ 
+4
+7
+9
+.
+0
+
+0
+0
+0
+0
+.
+0
+
+ 
+
+X
+8
+1
+.
+1
+ 
+=
+Y
+
+ 
+
+9
+2
+.
+8
+1
+5
+
+ 
+3
+9
+.
+0
+
+6
+3
+.
+3
+9
+1
+
+0
+0
+0
+0
+.
+0
+
+X
+3
+3
+2
+.
+1
+ 
+=
+Y
+
+ 
+
+9
+8
+.
+0
+
+6
+8
+.
+1
+1
+1
+
+0
+0
+0
+0
+.
+0
+
+X
+6
+5
+2
+.
+1
+ 
+=
+Y
+
+ 
+
+0
+0
+0
+0
+.
+0
+
+2
+8
+.
+0
+
+3
+8
+.
+4
+6
+
+ 
+
++
+ 
+3
+2
+.
+7
+9
+6
+ 
+=
+Y
+
+X
+9
+3
+3
+.
+1
+ 
+
+0
+0
+0
+0
+.
+0
+
+7
+8
+.
+0
+
+6
+2
+.
+6
+9
+
+X
+9
+6
+7
+.
+0
+ 
+=
+Y
+
+ 
+8
+9
+.
+0
+
+6
+5
+.
+6
+2
+6
+
+ 
+0
+0
+0
+0
+.
+0
+
+X
+2
+3
+9
+.
+0
+ 
+=
+Y
+
+ 
+1
+9
+9
+.
+0
+
+ 
+0
+0
+0
+0
+.
+0
+
+X
+4
+5
+1
+.
+1
+ 
+=
+Y
+
+ 
+
+ 
+3
+3
+.
+1
+1
+5
+1
+
+ 
+8
+8
+9
+.
+0
+
+ 
+0
+0
+0
+0
+.
+0
+
+X
+2
+8
+3
+.
+1
+ 
+=
+Y
+
+ 
+
+ 
+9
+2
+.
+3
+1
+1
+1
+
+8
+9
+.
+0
+
+5
+6
+.
+2
+5
+8
+
+0
+0
+0
+0
+.
+0
+
+X
+2
+5
+6
+.
+1
+ 
+=
+Y
+
+ 
+
+0
+0
+0
+0
+.
+0
+
+7
+9
+.
+0
+
+5
+2
+.
+3
+0
+4
+
+ 
+
++
+5
+.
+7
+1
+9
+2
+ 
+=
+Y
+
+ 
+
+X
+9
+0
+4
+.
+0
+ 
++
+ 
+2
+9
+.
+4
+8
+ 
+=
+Y
+
+ 
+
+0
+0
+0
+0
+.
+0
+
+ 
+3
+8
+.
+0
+
+2
+5
+.
+5
+7
+
+X
+1
+6
+.
+0
+ 
++
+ 
+8
+4
+.
+1
+6
+ 
+=
+Y
+
+ 
+
+0
+0
+0
+0
+.
+0
+
+ 
+4
+8
+.
+0
+
+6
+2
+.
+3
+8
+
+ 
+
+X
+3
+9
+8
+.
+0
+ 
+=
+Y
+
+ 
+
+8
+5
+.
+0
+
+5
+6
+.
+1
+2
+
+3
+0
+0
+0
+.
+0
+
+ 
+
+X
+1
+3
+8
+.
+0
+ 
+=
+Y
+
+ 
+
+4
+4
+.
+0
+
+7
+5
+.
+2
+1
+
+7
+2
+0
+0
+.
+0
+
+X
+6
+7
+.
+0
+ 
+=
+Y
+
+ 
+
+5
+8
+0
+0
+.
+0
+
+6
+3
+.
+0
+
+0
+0
+.
+9
+
+X
+8
+8
+7
+.
+0
+ 
++
+ 
+3
+4
+.
+5
+0
+1
+ 
+=
+Y
+
+ 
+
+ 
+3
+7
+8
+.
+0
+
+X
+4
+1
+7
+.
+0
+ 
+=
+Y
+
+ 
+
+0
+0
+0
+0
+.
+0
+
+X
+2
+8
+7
+.
+0
+ 
+=
+Y
+
+ 
+
+3
+1
+.
+0
+1
+1
+
+ 
+5
+7
+8
+.
+0
+
+0
+0
+0
+0
+.
+0
+
+2
+7
+.
+1
+1
+1
+
+ 
+
+9
+7
+0
+
+.
+
+0
+0
+0
+0
+0
+
+.
+
+1
+3
+
+.
+
+9
+5
+
+X
+5
+0
+
+.
+
+ 
+
+0
+=
+Y
+
+ 
+
+0
+0
+0
+0
+0
+
+.
+
+ 
+
+7
+8
+0
+
+.
+
+.
+
+1
+2
+8
+0
+1
+
+.
+
+X
+6
+1
+0
+=
+Y
+
+ 
+
+ 
+
+0
+0
+0
+0
+0
+
+.
+
+ 
+
+3
+7
+
+.
+
+0
+
+8
+9
+2
+4
+
+.
+
+0
+0
+0
+0
+0
+
+.
+
+ 
+
+6
+8
+0
+
+.
+
+ 
+
+1
+7
+5
+9
+
+.
+
+3
+8
+.
+0
+
+3
+1
+.
+8
+7
+
+0
+0
+0
+0
+.
+0
+
+X
+1
+3
+8
+.
+0
+ 
+=
+Y
+
+ 
+
+8
+7
+.
+0
+
+6
+2
+.
+8
+5
+
+0
+0
+0
+0
+.
+0
+
+ 
+
+X
+7
+2
+8
+.
+0
+ 
+=
+Y
+
+ 
+
+0
+0
+0
+0
+.
+0
+
+3
+7
+.
+0
+
+8
+3
+.
+2
+4
+
+X
+4
+5
+8
+.
+0
++
+5
+3
+2
+,
+0
+1
+=
+Y
+
+ 
+
+ 
+
+1
+0
+0
+0
+0
+
+.
+
+ 
+
+5
+6
+
+.
+
+0
+
+2
+1
+9
+2
+
+.
+
+0
+0
+0
+0
+0
+
+.
+
+ 
+
+0
+8
+0
+
+.
+
+ 
+
+4
+0
+4
+6
+
+.
+
+.
+
+X
+2
+0
+0
+=
+Y
+
+ 
+
+ 
+
+.
+
+X
+7
+0
+0
+=
+Y
+
+ 
+
+ 
+
+5
+0
+0
+0
+0
+
+.
+
+4
+5
+0
+
+.
+
+3
+6
+
+.
+
+8
+1
+
+0
+0
+0
+0
+0
+
+.
+
+2
+6
+0
+
+.
+
+7
+5
+6
+2
+
+.
+
+.
+
+X
+2
+0
+0
+=
+Y
+
+ 
+
+ 
+
+.
+
+X
+5
+0
+0
+=
+Y
+
+ 
+
+ 
+
+5
+2
+0
+0
+0
+
+.
+
+5
+4
+0
+
+.
+
+4
+8
+
+.
+
+2
+1
+
+0
+5
+0
+0
+0
+
+.
+
+4
+0
+
+.
+
+9
+8
+0
+1
+
+.
+
+.
+
+X
+2
+0
+0
+=
+Y
+
+ 
+
+ 
+
+.
+
+X
+5
+0
+0
+=
+Y
+
+ 
+
+ 
+
+X
+5
+1
+8
+.
+0
+ 
+=
+Y
+
+ 
+
+X
+3
+0
+
+.
+
+ 
+
+0
+=
+Y
+
+ 
+
+.
+
+X
+4
+1
+0
+=
+Y
+
+ 
+
+ 
+
+0
+0
+0
+0
+.
+0
+
+6
+9
+.
+0
+
+7
+0
+.
+0
+8
+3
+
+X
+5
+6
+9
+.
+1
+ 
+ 
+ 
+ 
+
+7
+4
+0
+0
+.
+0
+
+0
+4
+.
+0
+
+5
+7
+.
+0
+1
+
+0
+0
+0
+0
+.
+0
+
+6
+7
+.
+0
+
+3
+7
+.
+9
+4
+
+6
+2
+0
+0
+0
+
+.
+
+4
+4
+0
+
+.
+
+2
+7
+2
+1
+
+.
+
+0
+4
+0
+0
+0
+
+.
+
+1
+4
+0
+
+.
+
+5
+0
+1
+1
+
+.
+
+ 
+
+g
+a
+l
+ 
+r
+a
+e
+y
+-
+e
+n
+O
+
+e
+u
+l
+a
+v
+-
+p
+
+2
+R
+
+ 
+
+F
+
+ 
+
+g
+a
+l
+ 
+r
+a
+e
+y
+-
+o
+w
+T
+
+e
+u
+l
+a
+v
+-
+p
+
+2
+R
+
+ 
+
+F
+
+e
+u
+l
+a
+v
+-
+p
+
+ 
+
+g
+a
+l
+ 
+r
+a
+e
+y
+-
+e
+e
+r
+h
+T
+
+2
+R
+
+ 
+
+g
+a
+l
+ 
+r
+a
+e
+y
+-
+r
+u
+o
+F
+
+2
+R
+
+ 
+
+F
+
+e
+u
+l
+a
+v
+-
+p
+
+ 
+
+g
+a
+l
+ 
+r
+a
+e
+y
+-
+e
+v
+i
+
+F
+
+ 
+
+F
+
+e
+u
+l
+a
+v
+-
+p
+
+2
+R
+
+ 
+
+F
+
+2
+R
+
+e
+u
+l
+a
+v
+-
+p
+
+.
+
+X
+8
+0
+0
+=
+Y
+
+ 
+
+ 
+
+X
+8
+1
+0
+=
+
+ 
+
+.
+
+ 
+
+Y
+
+ 
+
+g
+a
+l
+ 
+r
+a
+e
+y
+-
+o
+r
+e
+Z
+
+ 
+.
+s
+l
+e
+d
+o
+m
+
+ 
+t
+i
+f
+ 
+:
+y
+e
+r
+g
+ 
+t
+h
+g
+i
+L
+ 
+;
+l
+e
+d
+o
+m
+
+ 
+t
+s
+e
+b
+ 
+e
+h
+t
+ 
+:
+y
+e
+r
+g
+ 
+k
+r
+a
+D
+
+ 
+:
+s
+e
+t
+o
+N
+
+a
+n
+
+i
+
+h
+C
+n
+
+ 
+
+i
+ 
+
+P
+I
+ 
+f
+o
+ 
+s
+o
+i
+t
+a
+R
+d
+n
+a
+ 
+s
+g
+a
+L
+
+ 
+
+ 
+t
+n
+a
+r
+G
+
+ 
+:
+3
+ 
+e
+l
+
+b
+a
+T
+
+n
+g
+i
+e
+r
+o
+F
+
+c
+i
+t
+s
+e
+m
+o
+D
+
+n
+g
+i
+e
+r
+o
+F
+
+c
+i
+t
+s
+e
+m
+o
+D
+
+n
+g
+i
+e
+r
+o
+F
+
+c
+i
+t
+s
+e
+m
+o
+D
+
+n
+g
+i
+e
+r
+o
+F
+
+c
+i
+t
+s
+e
+m
+o
+D
+
+t
+n
+a
+c
+i
+l
+
+p
+p
+A
+
+k
+r
+a
+m
+e
+d
+a
+r
+T
+
+n
+g
+i
+s
+e
+d
+
+ 
+l
+a
+i
+r
+t
+s
+u
+d
+n
+I
+
+l
+e
+d
+o
+m
+ 
+y
+t
+i
+l
+i
+t
+
+U
+
+s
+n
+o
+i
+t
+n
+e
+v
+n
+I
+
+ 
+
+P
+I
+
+40
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+Intellectual Property System in China
+
+Deli Yang
+
+the grant lags and ratios in each category of IP, ﬁrst with a comparison between
+residents and non-residents. Cross-IP discussion will follow to identify similarities
+and differences in IP grant lags and ratios.
+
+Grant Lags and Ratios Between Residents and Non-Residents
+
+Invention Patents
+The regression modelling of invention patents shows similar grant lags for domestic
+and foreign applications. The ﬁt models for both applications are up to a 2-year lag
+with a zero-year lag as the best model. In other words, invention patent applicants
+in China are very likely to expect the application outcome within 2 years upon ﬁling
+their applications. The certainty level for such grants is relatively high for both
+domestic and foreign applications. For domestic applications, the R2 of the ﬁt
+models explained at least 80% of the variations in grants, making the mean of
+certainty at 84%. The best model of the zero-year grant lag model demonstrates
+87% of the certainty for grants within the same year of ﬁling an invention patent.
+For foreign applications, the R2s of the ﬁt models explained at least 65% of the
+variations in grant lags, making the mean of certainty at 72%. The best model of
+zero-year grant lag shows 79% of the certainty for grant within the same year of
+ﬁling an invention patent.
+
+The results suggest that domestic and foreign applications have the same grant
+lags, but applicants bear different uncertainties, with domestic applicants being
+advantaged with gaps of 8%, 13% and 15%, respectively, with foreign applicants.
+The equality test of the correlation coefﬁcients for the two independent samples
+shows that there is a signiﬁcant difference across the 0–2-year lags between domestic
+and foreign grant lags (po0.001). This suggests that domestic applicants are more
+likely to have the application outcomes than foreign applicants with the same
+pending duration. As a result, as far as invention patent is concerned, Hypothesis
+1a: ‘‘There is an equal grant lag for invention patents between domestic and foreign
+applications in China’’ is supported, but some explanations need to be provided
+with regard to uncertainty differences. Therefore, the justiﬁcation of the hypothesis
+is: there is an equal grant lag of invention patent applications between domestic and
+foreign applicants, but, comparatively, domestic applicants enjoy more certainty of
+grants within the same pending period than foreign applicants.
+
+As for grant ratios, the slope coefﬁcients for domestic and foreign applications
+show wide gaps for the ﬁt models. The gaps between the two groups of applications
+are 10%, 11% and 11%, respectively, for the 0–2-year lags. The equality test of the
+slope coefﬁcients asserted such observations that the grants for domestic and
+foreign applications are signiﬁcantly different across the ﬁt model grant lags
+(po0.001). This ﬁnding suggests that domestic applicants are favoured more than
+foreign applicants in terms of patent grants. The result therefore reverses Hypoth-
+esis 3: foreign invention patent applications are more favoured with grants than
+domestic patent applications.
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+41
+
+Deli Yang
+
+Intellectual Property System in China
+
+Utility Model Patents
+The lagged regressions of utility model patents show similar grant lags between
+domestic and foreign applications. The ﬁt models for domestic applications are
+0–2-year lags with 1-year lag as the best model. In other words, domestic applicants
+for utility models can expect an application outcome within 2 years upon ﬁling. The
+certainty level for both applications is high at above 80%. The certainty level for
+grants within the lagged years explained at least 83% of the variations in grants,
+making the mean of the ﬁt models at 86%. The best model demonstrates 88% of the
+certainty for grant to be expected within 1 year upon ﬁling. For foreign applica-
+tions, the grant lags can be zero or 1 year, explaining at least 83% of the variations,
+making the mean of certainty at 83.5%. The best model shows 84% of the certainty
+for grant within 1 year upon ﬁling a utility model patent. As a result, both domestic
+and foreign applications have the best model of 1-year grant lag. However, foreign
+applications have up to a 1-year lag in comparison with up to a 2-year lag in
+domestic applications. The equality test of the correlation coefﬁcients for the two
+independent samples shows that there is a signiﬁcant difference across the 0–2 year
+lags between domestic and foreign applications (po0.001). This suggests that
+foreign applicants have a better chance to have their applications processed within
+1 year upon ﬁling, and domestic applications have the same certainty, but the
+outcome of applications is also very likely to be approved at the second year of
+applications. To conclude, Hypothesis 1b: ‘‘There is an equal grant lag between
+domestic and foreign application for utility model in China’’ is supported. However,
+some further explanations need to be given with regard to the spread of grant lags.
+Therefore, the justiﬁcation of the hypothesis is: there is almost an equal grant lag of
+utility model applications for domestic and foreign applicants, but, comparatively,
+foreign applicants are more likely to have grants within 1 year upon ﬁling for which
+domestic applications may have 2 years.
+
+As for grant ratios, the slope coefﬁcients for both applications show wide gaps
+for the 0–1-year lags at 30% and 17%, respectively, between domestic and foreign
+applications. The slope test demonstrates that domestic and foreign applications are
+signiﬁcantly different for the same period (po0.09 at least), but the test for 2- and
+3-year lags demonstrates no difference (p value at 0.72 at least). The ﬁnding suggests
+that domestic applicants are highly favoured for grants during the lag years. The
+result therefore supports Hypothesis 4a: Domestic applications for utility models
+are more favoured with grants than foreign applications.
+
+Industrial Design Patents
+The lagged regressions of industrial designs show that both domestic and foreign
+applications have the best model of 1-year lag. Both applications enjoy a high
+certainty at 99% (domestic applications) and 97% (foreign applications), respec-
+tively, for the best model. The ﬁt models, however, show up to 5-year lags for
+domestic applications in comparison with a 2-year lag for foreign applications. The
+
+42
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+Intellectual Property System in China
+
+Deli Yang
+
+R2 of the ﬁt models for domestic applications explained at least 96% of the
+variations in grants, yielding a high mean of 98%. However, the spread is across
+all the 5-year period indicating that the grant can be within any one of the ﬁve
+lagged years, including zero-year lag. Like the utility model, such a wide spread is
+probably due to the much larger number of domestic applications.
+
+For foreign applications, the grant lags can be from zero- to 2-year lags with the
+certainty level slightly lower than domestic applications. The best model explained
+over 97% of the variations in grant, yielding a high mean across the 3 years at 96%.
+The equality test of the correlation coefﬁcients for the two independent samples
+shows that there is a signiﬁcant difference across the 0–3 year lags between the two
+groups of applications (po0.0000). The results show that foreign applicants have
+better opportunities to have their grants within 2 years upon ﬁling than domestic
+applications, which may expect a grant within from 1 to 5 years. As a result, as far
+as industrial design is concerned, Hypothesis 1c: ‘‘There is an equal grant lag
+between domestic and foreign application for industrial designs in China’’ is only
+partly supported. The justiﬁcation is that there is an almost equal grant lag for both
+applications, but, comparatively, foreign applicants are more likely to have grants
+within 2 years upon ﬁling for which domestic applications may have to wait up to
+5 years depending on the applications.
+
+As for grant ratios of industrial designs, the slope coefﬁcients for domestic and
+foreign applications show small gaps, with foreign applications slightly favoured. This
+is particularly the case for the ﬁrst 3 years where foreign applications display the ﬁt
+models. On average, the slope coefﬁcient for domestic grants is 0.9517 in comparison
+with 1.025 for foreign grants with a gap of 0.074. The equality test of the slope
+coefﬁcients demonstrates that domestic and foreign applications are signiﬁcantly
+different for the 1-year lag, with foreign applications favoured (po0.038) between
+domestic and foreign grant lags. As a result of the ﬁndings, foreign applicants are
+more favoured than domestic applicants. Nonetheless, although there is a wide spread
+of grant lags for domestic applications, the grant ratios increase with the growing
+number of years in grant lags. The ﬁndings deny Hypothesis 4b: ‘‘Domestic applica-
+tions for industrial design are more favoured with grants than foreign applications’’.
+The adjustment is therefore: foreign applications are overall more favoured with
+grants than domestic applications in the ﬁrst 3 years of applications.
+
+Trademarks
+The lagged regression of trademarks shows that both foreign and domestic
+applications have the best model of a 2-year lag, with domestic lag showing a
+slightly higher level of certainty. The ﬁt models for domestic applications show
+that an application is very likely to have a pending period between zero and 4
+years. The best model shows 88% of certainty, explaining the variations in grant
+lags. For foreign applications, the grant lags could be up to 2 years where the 2-
+year lag displays the best model with a certainty level at 83%. The equality test of
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+43
+
+Deli Yang
+
+Intellectual Property System in China
+
+the correlation coefﬁcients for the two independent samples shows that their
+difference only becomes different from the second year of grant lag (po0.001 at
+least). The results show that despite the best model of a 2-year lag for both
+application groups, foreign applicants would have better opportunities to be
+granted a trademark due to the shorter spread of grant lags than domestic
+applications. As a result, Hypothesis 1d: ‘‘There is an equal grant lag for trade-
+marks between domestic and foreign applications in China’’
+is only partly
+supported. This is because both groups show the 2-year lag model as the best.
+Nevertheless, the spread of grant lags for domestic applications is wider than
+foreign applications. In the meantime, although domestic applicants have higher
+certainties for grants across the 4 years, the applications may have grants in the
+third or fourth year where the certainty level of grants exceeds over 73%.
+Therefore, the justiﬁcation of the hypothesis is that there is almost an equal grant
+lag between domestic and foreign applications for trademarks in China with
+similar certainties on average (80% versus 81%), but, comparatively, foreign
+applicants have a narrower spread of grant lags of up to 2 years against up to 4
+years for domestic applications after ﬁling their applications.
+
+As
+
+ratios,
+
+for grant
+
+the slope coefﬁcients
+
+for domestic and foreign
+applications show large gaps. For the best models, domestic grants have a gap
+with foreign grants at 0.224. Within the ﬁt models, foreign applications are
+favoured in the zero and ﬁrst year, but with the increase of grant lag years,
+domestic applications are more favoured and the gap of grant ratios between the
+two groups also increases. In addition, on average, the grant ratios for domestic
+applications are much higher than foreign applications (0.98:0.79). The slope test
+demonstrates that domestic and foreign applications are not signiﬁcantly different
+until the third year between domestic and foreign grant lags (p412 at least).
+Therefore, the ﬁndings deny Hypothesis 4c: ‘‘Domestic applications for trade-
+marks are more favoured with grants than foreign applications’’. The adjustment
+is therefore: domestic applications and foreign applications for trademarks are
+treated almost equally.
+
+Cross-IP Comparison
+
+Grant Lags
+The lagged regression models in Table 3 also display similarities and differences
+across different IP categories in terms of grant lags. One similarity across the
+four IP rights is the surprisingly equal grant lags between domestic and foreign
+applications when the best models are compared, although different lag years
+were shown. However, within such a similarity, differences exist. Invention
+patent shows the most balanced grant lags where a grant can be expected within
+2 years upon ﬁling for both groups of applicants. Utility models and industrial
+designs show the same grant lags of the best models, but the spread of grant lagged
+years tends to be longer for domestic applicants. Trademarks are mostly approved
+
+44
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+Intellectual Property System in China
+
+Deli Yang
+
+and registered within 2 years of the applications, showing the longest lag among
+the IP rights based on the best models. Like utility model and industrial design,
+domestic applications have a wider spread of grant lags. The second similarity
+across the four IP rights is that domestic applications all show higher certainty
+levels than foreign applications, although both groups of applications have
+high certainties. Industrial designs (best model) show little gap of certainty
+between domestic and foreign applications (2%). Meanwhile, utility models and
+trademarks show a gap of up to 5%. The largest gap is reﬂected in the patent grant
+lags at 8%.
+
+The above discussions allow us to respond to Hypotheses 1 and 2. Hypothesis 1
+is supported,
+i.e. there is an equal grant lag between domestic and foreign
+applications for IP rights in China. In addition, both groups of applicants enjoy
+a high certainty of IP grants. Nevertheless, across the different IP categories,
+domestic applicants appear to enjoy a higher certainty of grant lags than foreign
+applicants, with the largest gap occurring in invention patent applications. For non-
+invention IP, foreign applications enjoy a shorter lag spread than domestic
+applicants. The research result denies Hypothesis 2 and concludes that it does
+not necessarily take a longer time to have invention patent grants than other IP
+grants according to the ﬁt models, but it appears that invention patents take even
+shorter time for grants according to the best models. Comparatively, industrial
+design shows the most consistent certainty between domestic and foreign applica-
+tions, and the highest certainty across the four IP rights with utility models and
+trademarks falling behind. Invention patent applications show the lowest certainty
+and the highest gap between domestic and foreign applications, with foreign
+invention patents having the lowest certainty at 79%. This indicates that although
+equal treatment is given, foreign applicants endure a high uncertainty of grant lags
+than domestic applicants.
+
+As for grant ratios, domestic and foreign applications across the four IP rights
+have more differences than similarities. The similarity that this research has observed
+is that the invention and utility model demonstrate high slope coefﬁcients for domestic
+applications, with a gap of invention applications at 10% and utility models at 17%.
+The industrial design model shows that foreign applications are favoured, with an
+11% gap between the two categories of applications. Trademark grants are treated
+almost equally for domestic and foreign applications in the ﬁrst three grant lagged
+years. On the basis of the above discussions, we can conclude that China provides
+preferential treatment to domestic applications for inventions and utility models, but
+not for industrial designs. In the meantime, trademarks are treated almost equally
+with grants. Therefore, Hypothesis 3: ‘‘Foreign invention patent applications are
+more favoured with grants than domestic applications’’ should be reversed. Hypoth-
+esis 4: ‘‘Domestic applications for utility models, industrial designs and trademarks
+are more favoured with grants than foreign applications’’ is only partly supported to
+exclude the case for industrial designs for which foreign applications are favoured and
+for trademarks for which equal treatments were provided.
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+45
+
+Deli Yang
+
+Intellectual Property System in China
+
+Discussions and Conclusions
+
+Results and Discussions
+This article has examined the IPS in China applying lagged regression analysis with
+IP data from 1985 to 2002. A particular focus of this study was on the grant lags
+and ratios of four major IP activities—invention patents, utility models, industrial
+designs and trademarks between residents and non-residents. The ﬁndings respond
+to four main hypotheses associated with grant lags and ratios. Hypothesis 1 was
+supported in that domestic and foreign applications tend to have equal grant lags
+across all the IP rights in China. Within the equality, invention patents enjoy the
+most balanced lags, as most applications are able to expect grants within 2 years
+and very likely in the same year of ﬁling. Trademarks have the longest grant lag of
+2 years, based on the best model for both groups of applications, while utility
+models and industrial designs take 1 year, mostly for grants. However, the spread of
+lagged years tends to be much wider for non-invention IP rights, particularly for
+industrial designs and trademarks due to the much larger amounts of domestic
+applications than foreign applications. As a consequence, the ﬁndings deny
+Hypothesis 2 and conclude that it does not necessarily take a longer time to have
+invention patent grants than other IP rights. The results reverse Hypothesis 3 and
+conclude that domestic invention patent applications are more favoured than
+foreign invention patents with grants. The ﬁndings also only partly support
+Hypothesis 4 and conclude that domestic utility models are more favoured for
+grants. By contrast, industrial designs are highly favoured towards foreign appli-
+cants, and trademarks are almost treated equally.
+
+The research ﬁndings bear resemblance to previous research and also show
+differences in grant lags and ratios. Hypothesis 1 conﬁrmed previous research that
+foreign applications take no longer than domestic applications for grants (Popp
+et al., 2003) and allowed comparison between developed and developing countries
+in terms of grant lags. In comparison with the United States, Japan, Germany and
+United Kingdom studied by Kotabe (1992), the ﬁndings in this research demon-
+strate that China has a much more balanced treatment towards domestic and
+foreign patent applications as far as the grant lags are concerned. Like the United
+States, United Kingdom, and Germany, invention patents are usually granted with
+similar grant lags and can be expected as an outcome even in the same year upon
+ﬁling. What differs from the countries previously studied is that China shows a
+much higher certainty than Japan, the United States (domestic applications only),
+Germany and the United Kingdom. This demonstrates that the Chinese system, as
+far as the grant lags are concerned, has reached a development level in parallel to
+the major developed countries.
+
+The response about Hypothesis 2 indicates that the extent of grant lags is country
+bound. Previous studies about the United States (Popp et al., 2003) and China (Sun,
+2003) concluded that complexity increases grant lags, but there is no conﬁrmation
+from these research ﬁndings. This is because the best models show that trademarks,
+
+46
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+Intellectual Property System in China
+
+Deli Yang
+
+utility models and industrial designs, while less complex in terms of technology and
+examination procedures, may take a longer time for approval than invention patents,
+particularly as far as the domestic applications are concerned.
+
+The new ﬁndings also allow comparison with previous research about grant
+ratios among the countries studied. Chinese grants to domestic applications have
+grant ratios similar to Japanese grants, but much lower grant ratios than the other
+developed countries studied. Different from Japan with equal grant ratios, China
+joined the United Kingdom, United States and Germany, and became a biased
+country towards domestic applicants in terms of grant ratios. Such ﬁndings deny the
+conclusion of Bosworth and Yang (2000) that there were more foreign grants. The
+reason why different conclusions were drawn was the time framework, with
+previous studies using data from 1985 to 1995. Since 1995, circumstances have
+changed with the patent grants. According to the data analysis of patents (WIPO,
+1981–2002), pre-1995 grant ratios for domestic and foreign applications are 15%
+and 17%, respectively, in comparison with 16% and 7.5% post-1996. This indicates
+that,
+in recent years, the Chinese government has placed more emphasis on
+domestic applications. This also indicates the progress of domestic technologies
+with the inﬂuence of global technologies. In parallel, it is also a sign of biases
+towards domestic applications over foreign applications. The response to Hypoth-
+esis 4 in this research partly conﬁrmed previous research by Bosworth and Yang
+(2000) that lower levels of technologies tend to be dominated by domestic applicants
+in both applications and grants. This is because utility models show much higher
+grants for domestic applicants in parallel to invention patents, although foreign
+applicants show almost equal grants for trademarks, but a more dynamic stance in
+industrial design activities.
+
+To summarize the above discussions, the ﬁndings from this research have added
+to our knowledge on this subject. Previous research concentrated on patent studies
+in terms of grant lags and grant ratios, but little attention has been given to other IP
+activities. Empirical studies focused on developed countries, but little attention was
+paid to developing countries. This study, using the lagged regression analysis, has
+added other major IP—utility models,
+industrial designs and trademarks—to
+knowledge in this specialized ﬁeld in the context of the Chinese setting. The ﬁndings
+demonstrate that China has made tremendous progress in developing itself into an
+IPS in parallel to the major developed countries and in conformity to international
+standards. As far as grant lags are concerned, China has probably bypassed some
+developed countries and succeeded in striking a balance between domestic and
+foreign applications. However, no perfect systems exist, and there is certainly no
+exception to this for the young Chinese system, which will be discussed in the
+subsequent sections.
+
+Implications for Policy Makers and Innovators
+The following policy implications are drawn from this research. First, China needs
+to improve its IPS towards a fairer treatment in grant ratios between domestic and
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+47
+
+Deli Yang
+
+Intellectual Property System in China
+
+foreign applications. This is reﬂected in the fact that domestic applicants are biased
+against foreign applications in grant ratios of inventions and utility models, while
+foreign applicants are preferentially treated over domestic applicants in grant ratios
+of industrial designs. It is important to narrow the gaps of grant ratios because
+China needs to encourage inventors and creators from both home and abroad to
+contribute to its economic development with their continual innovative activities.
+Any imbalance from one group to another would undermine incentives for
+creativity in China. Second, China also needs to be cautious about maintaining a
+good certainty of grant lags. Although the government has maintained a high level
+of certainty in granting an IP in certain periods of time, further improvement of
+such certainties would increase the interests for IP activities in China domestically
+and internationally because high certainties boost the conﬁdence of inventors and
+creators in the government protecting creativity. Third, for domestic applications of
+non-invention IP, shortening the lagged years would bring beneﬁts for the appli-
+cants. One way to do so may be to enlarge the examination team for domestic
+applications.
+
+The research ﬁndings also provide implications for inventors and other IP
+creators. First, applicants should ﬁnd out the main barriers for grant lags,
+particularly the uncertainty factors that cause grant lags and explore the probability
+of resolving this matter. Second, applicants must ensure that their IP will be in an
+advantageous position for ﬁling and grants. They need to conduct such an analysis
+because each country is biased in its way towards either domestic or foreign
+applications, with domestic applications being more likely favoured. For foreign
+applicants in China, it is important to conduct such an assurance study to guarantee
+that the technology or design has not been ﬁled or patented and it will be highly
+receptive to the Chinese circumstances. This is because China has become an
+increasingly competitive environment for IP activities and favouritism also exists, as
+in other countries, mainly towards domestic applicants.
+
+Directions for Policy Research
+This research shows its limitations, which necessitate the need for further research.
+First, it is necessary to enrich knowledge in this research ﬁeld. This is a piece of
+quantitative research examining the status of grant lags and grant ratios. Therefore,
+the ‘‘what’’ factor has been explored, but it is dubious whether government
+administration is the only factor resulting in the different extent of grant lags
+across the four IP rights and wide gaps of grant ratios between domestic and foreign
+applications. The dubious results cannot be clariﬁed on the basis of existing
+statistical data. Second, as mentioned earlier, the empirical contribution in this
+research ﬁeld is scarce, and further additions, particularly developing countries, to
+such research would increase empirical contribution and the level of comparative
+studies. Third, qualitative study-based research, such as case studies and interview
+data analysis, would methodologically contribute knowledge to this research and
+
+48
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+Intellectual Property System in China
+
+Deli Yang
+
+previous studies. This is because such input will triangulate the existing studies to
+greater theoretical and empirical depths.
+
+About the Author
+
+Dr Deli Yang is Reader in International Business at Bradford University School of
+Management, Emm Lane, Bradford BD9 4JL, West Yorkshire, UK. Her research
+focuses on the impact of culture on intellectual property, political economy of
+intellectual property, and strategic and managerial intellectual property; e-mail:
+d.yang@bradford.ac.uk
+
+References
+
+Aoki, R. and Prusa, T. J. (1996) ‘Product Development and the Timing of Information
+
+Disclosure under U.S. and Japanese Patent Systems’, Journal of the Japanese and
+International Economies, 10(3), 233–49.
+
+Barton, J. H. (2000) ‘Reforming the Patent System’, Science, 287(5460), 1933–4.
+Barton, J. H. (2004) ‘Issues Posed by a World Patent System’, Journal of International
+
+Economic Law, 7(2), 341–57.
+
+Benko, R. P. (1988) ‘Intellectual Property Rights and the Uruguay Round’, The World
+
+Economy, 11(2), 217–32.
+
+Bessen, J. (2005) ‘Patents and the Diffusion of Technical Information’, Economics Letters,
+
+86(1), 121–8.
+
+Bosworth, D. and Yang, D. (2000) ‘Intellectual Property Law, Technology Flow and
+
+Licensing Opportunities in China’, International Business Review, 9(4), 453–77.
+
+Bosworth, D. and Yang, D. (2002) ‘World Trade Organisation and Patents in China’, in C.
+Milner and R. Read (eds), World Trade Organisation and the Millennium Round: Trade
+and Competition. Edward Elgar, Aldershot, pp. 282–309.
+
+Bryant, E. (1966) Statistical Analysis, 2nd edition. McGraw-Hill, New York.
+Ching, I. (2002) ‘The Patent System in Singapore’, World Patent Information, 24, 297–302.
+Cohen, J. and Cohen, P. (2002) Applied Multiple Regression/Correlation Analysis for the
+
+Behavioral Sciences, 3rd edition. Lawrence Erlbaum, Hillsdale.
+
+Cooter, R. and Ulen, T. (1997) Law and Economics, 2nd edition. Addison-Wesley,
+
+New York.
+
+Cornish, W. R. (2001) Intellectual Property: Patents, Copyrights, Trademarks and Allied
+
+Rights, 5th edition. Sweet and Maxwell, London.
+
+Dutﬁeld, G. (2004) ‘Does One Size Fit All?’, Harvard International Review, 26(2), 50–4.
+Gallini, N. T. (2002) ‘The Economics of Patents: Lessons from Recent US Patent Reform’,
+
+Journal of Economic Perspectives, 16(2), 131–54.
+
+Gervais, D. (1998) The TRIPS Agreement: Drafting History and Analysis. Sweet & Maxwell,
+
+London.
+
+Gilbert, R. and Shapiro, C. (1990) ‘Optimal Patent Length and Breadth’, The Rand Journal of
+
+Economics, 21(1), 106–12.
+
+Griliches, Z. (1990) ‘Patent Statistics as Economic Indicators: A Survey’, Journal of Economic
+
+Literature, 28(4), 1661–707.
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+49
+
+Deli Yang
+
+Intellectual Property System in China
+
+Helfgott, S. (1990) ‘Cultural Differences between the US and Japanese Patent System’,
+
+Journal of Patent and Trademark Ofﬁce Society, 72, 231–2.
+
+Ismail, Z. and Fakir, T. (2004) ‘Trademarks or Trade Barriers?: Indigenous Knowledge and
+the Flaws in the Global IPR System’, International Journal of Social Economics, 31(1),
+173–94.
+
+Jaffe, A. B. (2000) ‘The U.S. Patent System in Transition: Policy Innovation and the
+
+Innovation Process’, Research Policy, 29, 531–57.
+
+Khan, B. Z. and Sokoloff, K. L. (2001) ‘The Early Development of Intellectual Property
+
+Institutions in the United States’, Journal of Economic Perspectives, 15(3), 233–46.
+
+Kotabe, M. (1992) ‘A Comparative Study of U.S. and Japanese Patent Systems’, Journal of
+
+International Business Studies, 23(1), 147–68.
+
+Kotabe, M. and Cox III, E. P. (1993) ‘Assessment of Shifting Global Competitiveness: Patent
+Applications and Grants in Four Major Trading Countries’, Business Horizons, 36(1),
+57–64.
+
+Lai, E. L.-C. and Qiu, L. D. (2003) ‘The North’s Intellectual Property Rights Standard for
+
+the South?’, Journal of International Economics, 59(1), 183–209.
+
+Lall, S. (2003) ‘Indicators of the Relative Importance of IPRs in Developing Countries’,
+
+Research Policy, 32(9), 1657–80.
+
+Lamy, P. (2004) ‘Trade-Related Aspects of Intellectual Property Rights—Ten Years Later’,
+
+Journal of World Trade, 38(6), 923–34.
+
+Lanjouw, J. O., Pakes, A. and Putnam, J. (1998) ‘How to Count Patents and Value
+
+Intellectual Property: The Uses of Patent Renewal and Application Data’, The Journal
+of Industrial Economics, 46(4), 405–32.
+
+Levin, R. C. (1986) ‘A New Look at the Patent System’, American Economic Review, 76(2),
+
+199–202.
+
+Liu, M. (1996) Economic Analysis of Intellectual Property Rights Law. Law Publishing,
+
+Beijing.
+
+Maskus, K. E. (2000) ‘Lessons from Studying the International Economics of Intellectual
+
+Property Rights’, Vanderbilt Law Review, 53(6), 2219–3.
+
+Maskus, K. E. and Lahouel, M. (2000) Competition Policy and Intellectual Property Rights in
+
+Developing Countries. Blackwell Publishing Ltd, Oxford, pp. 595–611.
+
+Massel, M. (1973) ‘The International Patent System’, Journal of Economic Issues, 7, 645–64.
+Mazzoleni, R. and Nelson, R. R. (1998) ‘The Beneﬁts and Costs of Strong Patent Protection:
+
+A Contribution to the Current Debate’, Research Policy, 27(3), 273–84.
+
+O’Brien, P. (1974) ‘Developing Countries and the Patent System: An Economic Appraisal’,
+
+World Development, 2(9), 27–36.
+
+O’Connor, B. E. and Lowe, D. A. (1996) ‘Comparative Analysis of Intellectual Property
+Dispute Resolution Processes in Mainland China, Taiwan and the United States’, in
+P. C. B. Liu and A. Y. Sun (eds), Intellectual Property Protection in the Asia-Paciﬁc
+Region: A Comparative Study, Vol. 4(135), Contemporary Asian Studies. University
+of Maryland, Maryland, pp. 57–132.
+
+Ordover, J. A. (1991) ‘A Patent System for both Diffusion and Exclusion’, Journal of
+
+Economic Perspectives, 5(1), 43–60.
+
+Patel, S. J. (1974) ‘The Patent system and the Third World’, World Development, 2(9), 3–14.
+Penin, J. (2005) ‘Patents Versus Ex Post Rewards: A New Look’, Research Policy, 34(5),
+
+641–56.
+
+50
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+Intellectual Property System in China
+
+Deli Yang
+
+Penrose, E. (1973) ‘International Patenting and the Less Developed Countries’, The
+
+Economic Journal, 16(1), 768–86.
+
+Popp, D., Juhl, T. and Johnson, D. K. N. (2003) ‘Time in Purgatory: Examining the
+Grant Lag for US Patent Applications’, Topics in Economic Analysis and Policy,
+4(1), article 29.
+
+Reichman, J. (2000) ‘The TRIPS Agreement Comes of Age: Conﬂict or Cooperation with
+
+the Developing Countries?’, Case Western Reserve Journal of International Law, 32,
+441–70.
+
+Scherer, F. M., Herzstein, S. E., Dreyfoos, A. W., Whitney, W. G., Bachmann, O. J., Pesek,
+
+C. P., Scott, C. J., Kelly, T. G. and Galvin, J. J. (1959) Patents and the Corporation:
+A Report on Industrial Technology Under Changing Public Policy. Harvard University,
+Harvard.
+
+Sherwood, M. (1984) The Origins and Development of the American Patent System.
+
+Pennsylvania State University, Pennsylvania.
+
+State Administration for Industry and Commerce (1985–2003) Trademark Statistics. SAIC,
+
+Beijing.
+
+State Administration for Industry and Commerce (2005) Fees for Trademark Applications
+
+[online]. Available at hhttp://www.saic.gov.cni [Accessed on July 2005].
+
+State Intellectual Property Ofﬁce (2003) IP Annual Report. SIPO, Beijing.
+State Intellectual Property Ofﬁce (2005) Fees for Patent Applications [online]. Available at
+
+hhttp://www.sipo.gov.cni [Accessed on June 2005].
+
+Sood, J. (1998) ‘An International Patent Protection System’, Thunderbird International
+
+Business Review, 40(2), 165–79.
+
+Subramanian, A. (1990) ‘TRIPs and the Paradigm of the GATT: A Tropical, Temperate
+
+View’, The World Economy, 13(4), 509–22.
+
+Subramanian, A. and Watal, J. (2000) ‘Can TRIPS Serve as an Enforcement Device for
+
+Developing Countries in the WTO?’, Journal of International Economic Law, 3(3),
+403–16.
+
+Sun, Y. (2003) ‘Determinants of Foreign Patents in China’, World Patent Information, 25(1),
+
+27–37.
+
+Taylor, C. T. and Silberston, Z. A. (1973) The Economic Impact of the Patent System: A
+
+Study of the British Experience. Cambridge University Press, Cambridge.
+Teece, D. J. (1986) ‘Proﬁting from Technological Innovation: Implications for
+
+Integration, Collaboration, Licensing and Public Policy’, Research Policy, 15(6),
+285–305.
+
+Thompson, J. L. (1993) ‘The North American Patent Ofﬁce—A Comparative Look at the
+NAFTA, the European Community and the Community Patent Convention’, George
+Washington Journal of International Law and Economics, 27(2, 3), 501–29.
+
+Wagman, R. G. and Scoﬁeld, S. B. (1999) ‘The Competitive Advantage of Intellectual
+
+Property’, S.A.M. Advanced Management Journal, 64(3), 4–8.
+
+Wen, X. (1996) ‘Patent Protection in China: Present State and Future Prospect’, in C. Zheng
+(ed.), Intellectual Property Studies, Vol. 2. China Fang Zheng Publishing House, Beijing,
+pp. 45–64.
+
+World Intellectual Property Organisation (1981–2002) WIPO IP Statistics. WIPO, Geneva.
+Yang, D. (2003) Intellectual Property and Doing Business in China. Pergamon/Elsevier,
+
+Oxford.
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+51
+
+Deli Yang
+
+Intellectual Property System in China
+
+Yang, D. (2005) ‘Culture Matters to Intellectual Property Related Businesses’, Journal of
+
+World Business, 40(3), 281–301.
+
+Yang, D. and Clarke, P. (2004) ‘Review of the Current Intellectual Property System in
+
+China’, International Journal of Technology Transfer and Commercialisation, 3(1), 12–37.
+
+Yang, D. and Sonmez, M. (2003) ‘The WTO and Trademark Development in China’,
+
+Journal of World Intellectual Property, 6(4), 633–5.
+
+52
+
+r 2007 The Author. Journal Compilation r 2007 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 1
+
+

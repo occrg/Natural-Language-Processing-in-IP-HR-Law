@@ -1,0 +1,4008 @@
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 7
+
+ARTICLE
+
+497
+
+Bayh-Dole: statute, regulation and implications
+for government contractors
+Bart A. Gerstenblith and Scott J. Popma*
+
+For those fortunate enough to have come of age after
+passage of the Bayh-Dole Act in 1980, it is hard to
+imagine the difﬁculties of developing and commercial-
+izing inventions arising from federally funded research,
+or the inefﬁciencies created by the multiple systems in
+use before the Act. By some counts, there were 26 dif-
+ferent agency policies on IP: most favoured government
+ownership and only a small number allowed contrac-
+tors to own the inventions. With no clear road to
+owning IP, there was little incentive to invest the time
+and resources necessary to commercialize an invention
+arising from federally funded research.
+
+The Act, which was passed to facilitate the transfer
+of inventions arising from federally funded research to
+the private sector, contains seven speciﬁc policy state-
+ments and objectives. It seeks to promote ‘the utiliza-
+tion of
+inventions arising from federally supported
+research or development’ and ‘the commercialization
+and public availability of
+inventions made in the
+United States by United States industry and labor’.1 It
+also seeks to ensure ‘that the Government obtains sufﬁ-
+cient rights in federally supported inventions to meet
+the needs of the Government and protect the public
+against nonuse or unreasonable use of inventions’.2
+
+To accomplish these objectives, the Act ﬁrst provides
+a uniﬁed policy for all federally funded research and
+permits government contractors, such as universities
+or small businesses, to retain title to their inventions.
+Secondly, the Act gives agencies the authority to grant
+exclusive patent licences, with a preference for small
+businesses. Thirdly,
+to balance the newly created
+private interests, the government retains both (i) a
+non-exclusive
+a patented invention
+throughout the world, and (ii) ‘march-in’ rights, allow-
+ing a federal agency to grant a licence to a new appli-
+cant in certain limited circumstances.
+
+to use
+
+right
+
+The authors
+† Bart Gerstenblith works at Morrison Foerster.
+Scott Popma is a partner at Finnegan, Hender-
+son, Farabow, Garrett & Dunner, LLP, a law ﬁrm
+specializing in IP law.
+
+This article
+† This article explores the provisions of the Bayh-
+Dole Act (‘the Act’), which was passed in 1980
+to facilitate the transfer of
+inventions arising
+from federally funded research to the private
+sector.
+
+† The Act permits government contractors, such as
+universities or small businesses, to retain title to
+their inventions and grants the government (1) a
+non-exclusive right to use a patented invention
+throughout the world, and (2) ‘march-in’ rights,
+allowing a federal agency to grant a licence to a
+new applicant in certain limited circumstances.
+The Act also gives agencies the authority to
+grant exclusive patent licences.
+
+† The statutory scheme of the Act is fraught with
+potential pitfalls for the unwary. Contractors
+must be aware of the scope of the Act and under-
+stand when the government may have rights to
+an invention. Contractors also must be aware of
+their duties under the Act, including the strict
+time requirements and deadlines. Finally, when
+performing due-diligence related to potential li-
+censing or portfolio purchasing agreements, or
+other transactions involving IP rights, businesses
+must comply with the Act or risk forfeiture of
+patent rights in a subject invention.
+
+The ﬁrst section of this article explains how the Act
+affects the relative obligations and rights of the federal
+agencies, contractors, and inventors. It then discusses
+
+case law interpreting statutory and regulatory language
+and the impact of non-compliance with the Act’s
+
+*
+
+Email: bgerstenblith@mofo.com; scott.popma@ﬁnnegan.com. The
+authors thank Angela Dai for her assistance researching the case law
+relevant to this article.
+
+1
+2
+
+35 USC §200 (2006).
+ibid.
+
+# The Authors (2012). Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jps041
+
+Advance Access publication on 22 March 2012
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+7
+4
+9
+7
+9
+6
+0
+2
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+498
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 7
+
+requirements. The second section focuses on how the
+Act affects businesses
+that might ﬁnd themselves
+subject to its requirements and the practical import-
+ance of understanding the intricacies of the Act.
+
+The Bayh-Dole provisions
+The Act is codiﬁed in sections 200– 212 of Chapter 18,
+Title 35, of the US Code and implemented by 37 CFR
+sections 401.1– 401.16 and 404.1– 404.14. It contains a
+statement of the congressional policy and objectives
+behind its enactment, followed by provisions establish-
+ing the rights and obligations of the federal agencies
+and contractors that enter agreements on federally
+funded research and development.3
+
+Deﬁnitions and scope
+Deﬁnitions of important terms used throughout the
+Act and the federal regulations are provided in 35
+USC section 201 and 37 CFR sections 401.2 and
+404.3. Section 201(a) deﬁnes ‘Federal agency’ as ‘any
+executive agency as deﬁned in section 105 of title 5,
+and the military departments as deﬁned by section
+102 of title 5’.4 Importantly,
+is
+broadly deﬁned by sections 201(b) and 401.2(a) as
+‘any contract, grant, or cooperative agreement entered
+into between any Federal agency, other
+than the
+Tennessee Valley Authority, and any contractor for the
+performance of experimental, developmental, or re-
+search work funded in whole or in part by the Federal
+Government’.5 Thus even partial funding by the gov-
+ernment brings the work under the strictures of the
+Act and regulations.
+
+‘funding agreement’
+
+under a funding agreement, and at least one court has
+held that inventions developed with funds indirectly
+provided under funding agreements are governed by
+the Act. In Trinity Industries, Inc. v Road Systems, Inc.,6
+the Federal Highway Administration provided money
+to the Texas State Department of Highways and Public
+Transportation, which in turn used the money to fund
+research projects at the Texas Transportation Institute.7
+Since the fund transfers were undertaken in accordance
+with ‘funding agreements’, the court held that the Act
+applied to inventions which were developed with those
+funds.8
+
+The Act further deﬁnes ‘contractor’ as ‘any person,
+small business ﬁrm,9 or nonproﬁt organization10 that is
+a party to a funding agreement’.11 Given the funda-
+mental focus of the Act on patent rights, the term
+‘subject
+is
+broadly deﬁned as ‘any invention12 of the contractor
+conceived or ﬁrst actually reduced to practice in the
+performance of work under a funding agreement’.13
+
+is of primary importance:
+
+invention’
+
+it
+
+An understanding of the term ‘practical application’
+is important in light of the Act’s focus on the develop-
+ment and commercialization of
+inventions ﬁnanced
+with government funds. ‘Practical application’ as used
+in the Act
+
+means to manufacture in the case of a composition or
+product, to practice in the case of a process or method, or
+to operate in the case of a machine or system; and, in each
+case, under such conditions as to establish that the inven-
+tion is being utilized and that its beneﬁts are to the extent
+permitted by law or Government regulations available to
+the public on reasonable terms.14
+
+It
+
+is not always a simple matter to determine
+whether funding provided for a project has been given
+
+Consistent with the deﬁnition of ‘subject invention’, the
+term ‘made’, when used in relation to any invention,
+
+3
+
+4
+
+5
+
+6
+7
+
+37 CFR §§401.1-16 implement 35 USC §§202-204 while 37 CFR
+§§404.1-14 implement 35 USC §§207-209. See 45 CFR §§650.1-19
+(governing allocation of rights to inventions made in performance of
+National Science Foundation-assisted research). Section 401.1 provides
+that the regulations govern ‘all Federal agencies’ and broadly deﬁnes its
+applicability to ‘all funding agreements with small business ﬁrms and
+nonproﬁt organizations executed after the effective date of this part,
+except for a funding agreement made primarily for educational
+purposes’. See 35 USC §212 (2006), carving out funding agreements
+made primarily for educational purposes.
+See also 37 CFR §404.3(b) (2011), similarly deﬁning ‘Federal agency’.
+‘Executive agency’ is deﬁned as an Executive department, a Government
+corporation, and an independent establishment: 5 USC §105 (2006).
+‘Military departments’ include ‘The Department of the Army’, ‘The
+Department of the Navy’, and ‘The Department of the Air Force’: 5 USC
+§102 (2006).
+It also includes any ‘assignment, substitution of parties, or subcontract
+of any type entered into for the performance of experimental,
+developmental, or research work under a funding agreement’: 35 USC
+§201(b) (2006); 37 CFR §401.2(a) (2011).
+235 F. Supp. 2d 536, 539 – 40 (E.D. Tex. 2002).
+ibid.
+
+8
+9
+
+10
+
+11
+12
+
+13
+
+14
+
+ibid at 540.
+‘Small business ﬁrm’ is deﬁned as ‘a small business concern as deﬁned at
+section 2 of Public Law 85-536 (15 USC §632) and implementing
+regulations of the Administrator of the Small Business Administration’:
+35 USC §201(h) (2006); see 37 CFR §§401.02(g), 404.3(c) (2011).
+‘Nonproﬁt organization’ is deﬁned as ‘universities or other institutions
+of higher education or an organization of the type described in section
+501(c)(3) of the Internal Revenue Code of 1986 (26 USC §501(c)) and
+exempt from taxation under section 501(a) of the Internal Revenue
+Code (26 USC §501(a)) or any nonproﬁt scientiﬁc or educational
+organization qualiﬁed under a State nonproﬁt organization statute’: 35
+USC §201(i) (2006); see 37 CFR §401.02(h) (2011).
+35 USC §201 (2006); see 37 CFR §401.2(b) (2011).
+‘Invention’ is deﬁned as ‘any invention or discovery which is or may be
+patentable or otherwise protectable under this title or . . . under the
+Plant Variety Protection Act . . . ’: 35 USC §201(d) (2006); see 37 CFR
+§401.2(c) (2011).
+35 USC §201(e) (2006); see 37 CFR §401.2(d) (2011). Section 201(d)
+provides an additional condition for varieties of plants.
+35 USC §201(f) (2006); see 37 CFR §§401.02(e), 404.3(d) (2011).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+7
+4
+9
+7
+9
+6
+0
+2
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Bart A. Gerstenblith and Scott J. Popma . Bayh-Dole: Statute, regulation and implications
+
+ARTICLE
+
+499
+
+‘means the conception or ﬁrst actual reduction to prac-
+tice of such invention’.15
+
+Although ‘subject invention’ is broadly deﬁned, the
+regulations do not necessarily cover later advancements
+in related research. As 37 CFR section 401.1(a)(1)
+explains,
+
+[t]o the extent that a non-government sponsor established
+a project which, although closely related, falls outside the
+planned and committed activities of a government-funded
+project . . . inventions made in performance of the non-
+government sponsored project would not be subject to the
+conditions of these regulations.16
+
+In Collins v Western Digital Technologies, Inc., the court,
+relying on 37 CFR section 401.1, examined the claims of
+the patent and the alleged inventions and concluded that
+‘using knowledge gained from governmental research to
+create a related advance does not transform that subse-
+quent advance into a subject invention’.17 Because the
+plaintiffs provided ‘abundant evidence’ that the patented
+invention was developed as part of a ‘separate, privately
+funded research project’ from the project funded by the
+Navy and that the technology developed under each
+project had substantially different characteristics,
+the
+claimed technology was not a ‘subject invention’.18
+
+Disposition of rights
+Section 202 of the Act permits ‘each nonproﬁt organ-
+ization or small business ﬁrm’ to ‘elect to retain title to
+any subject
+four
+speciﬁc circumstances in which a funding agreement is
+not required to permit a contractor to elect to retain
+title in a subject invention.20 First, of signiﬁcance to
+
+invention’.19 There are, however,
+
+15
+16
+
+35 USC §201(g) (2006); see 37 CFR §401.02(f) (2011).
+37 CFR §401.1(a) (2011). See Ciba Geigy Corp. v Alza Corp.,
+804 F. Supp. 614 (DNJ 1992), denying the defendants’ motion to dismiss
+for lack of standing based on alleged violations of the Act because the
+defendants failed to establish that the Act applied to the patent-in-suit
+because (1) the inventive work was performed under a funding
+agreement that did not contain the provisions required by §202; and (2)
+the claimed invention was not a ‘subject invention’ even though the
+work was related to that which was performed under a funding
+agreement.
+
+18
+
+17 Collins v W. Digital Techs., Inc., No 2:09-cv-219, 2011 US Dist LEXIS
+96408, at *26 (ED Tex, 29 August 2011), quoting Ciba-Geigy Corp. v
+Alza Corp., 804 F. Supp. 614, 627– 8 (DNJ 1992), citing 35 USC §201.
+ibid at *26 –27. The court reached this decision even though the patent
+resulted from a continuation-in-part application that claimed priority to
+a patent application that the parties acknowledged was subject to the
+requirements of the Act, having focused on the claims of the two
+patents rather than the similarities of the patent speciﬁcations.
+35 USC §202(a) (2006).
+
+19
+20 The implementing regulations provide that funding agreements ‘shall’
+
+include the standard patent rights clauses set forth in 37 CFR
+§401.14(a), except in limited circumstances: 37 CFR §401.3(a) (2011).
+37 CFR §404.5 sets forth certain restrictions and conditions on all
+licences granted under the section and speciﬁes particular terms that
+apply to each licence: 37 CFR §404.5(b)(1) –(11) (2011).
+
+international ﬁrms, ‘when the contractor is not located
+in the United States or does not have a place of busi-
+ness located in the United States or is subject to the
+control of a foreign government’, a funding agreement
+need not provide for the retention of rights.21 Secondly,
+‘in exceptional circumstances’, when the agency deter-
+mines that ‘restriction or elimination of the right to
+retain title to any subject invention will better promote
+the policy and objectives of ’ the Act, retention of rights
+may not be provided for.22 Thirdly, a funding agree-
+ment may not provide for the retention of rights by a
+contractor when ‘the restriction or elimination of the
+right . . . is necessary to protect the security’ of ‘foreign
+intelligence or counter-intelligence activities’ as ‘deter-
+mined by a Government authority which is authorized
+by statute or Executive order’ to conduct such activ-
+ities.23 Finally, election of rights is not guaranteed
+when the funding agreement pertains to certain activ-
+ities related to the Department of Energy.24
+
+If a federal agency wishes to limit a contractor’s re-
+tention of rights, it must follow speciﬁc steps under
+section 202(a).25 Before using any of the limitations,
+the agency must prepare a written determination, in-
+cluding ‘a statement of facts supporting the determin-
+ation’, that the conditions identiﬁed in the exception
+exist.26 If the agency determines that restricting or
+eliminating a right to retain title will better promote
+the policy and objectives of the Act under section
+include an analysis
+202(a)(ii),
+justifying the determination’.27 The analysis
+should
+address ‘with speciﬁcity’ how limiting the right of re-
+tention better achieves the objectives of the Act.28 The
+
+‘the statement shall
+
+21
+22
+23
+
+24
+
+25
+26
+27
+
+28
+
+35 USC §202(a)(i) (2006).
+35 USC §202(a)(ii) (2006).
+35 USC §202(a)(iii) (2006). The regulations dictate that an agency
+relying on the exceptions provided in §202(a)(ii) or (iii) must to carve
+out the option for retention of rights only ‘as are necessary to address
+the exceptional circumstances or concerns which led to the use of the
+exception’: 37 CFR §401.3(b) (2011). Further, an agency may apply
+§202(a)(ii) or (iii) to individual task orders included in a funding
+agreement, rather than to the entire agreement: 37 CFR §401.3(d)
+(2011).
+See 35 USC §202(a)(iv) (2006), limiting election of rights ‘when the
+funding agreement includes the operation of a Government-owned,
+contractor-operated facility of the Department of Energy primarily
+dedicated to that Department’s naval nuclear propulsion or weapons
+related programs’.
+35 USC §202(b) (2006); 37 CFR §§401.3(e)– (f) (2011).
+37 CFR §401.3(e) (2011); see 35 USC §202(b)(1) (2006).
+35 USC §202(b)(1) (2006). Separate statements of facts must be
+prepared for each exceptional circumstance determination except when a
+determination is applicable to both a funding agreement and any
+subcontracts issued under it: 37 CFR §401.3(e) (2011).
+37 CFR §401.3(e) (2011).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+7
+4
+9
+7
+9
+6
+0
+2
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+500
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 7
+
+agency must ‘promptly provide’ a copy of ‘each deter-
+mination, statement of facts, and, if applicable, ana-
+lysis’, to the contractor along with a notiﬁcation of the
+contractor or prospective contractor’s right to appeal
+the determination under 35 USC section 202(b)(4) and
+37 CFR section 401.4.29 Contractors who believe that a
+determination conﬂicts with the policies and objectives
+of the Act or constitutes an abuse of discretion by the
+agency can appeal
+the agency determination under
+section 203(b) and 37 CFR section 401.4.30
+
+Any contractor electing to retain rights must follow
+the provisions in the Funding Agreement as mandated
+by section 202(c). First, the contractor must disclose
+each subject invention to the federal agency within a
+reasonable time after it becomes known to contractor
+personnel responsible for the administration of patent
+matters. If the contractor does not adequately disclose,
+the federal government may receive title to any subject
+invention.31 Secondly,
+the contractor must make a
+written election within 2 years after disclosure to the
+federal agency (or longer if approved by the agency) in-
+dicating whether the contractor will retain title to a
+subject invention.32 If the contractor does not elect to
+retain rights or fails to elect such rights within the
+
+designated time period, the federal government may
+receive title to any subject invention.33 Thirdly, a con-
+tractor electing rights must agree to ﬁle a patent appli-
+cation before any statutory bar date under 35 USC
+section 102(b), and ﬁle corresponding patent applica-
+tions in other countries in which the contractor wants
+to retain title within a reasonable time.34 Although the
+implementing regulations provide
+standard patent
+rights clauses that proscribe additional time periods for
+compliance, they also permit requests for extensions
+that an agency may grant at its discretion.35 Fourthly,
+an agency may require that the contractor report on
+‘the utilization or efforts at obtaining utilization’ that
+the contractor or his licensee or assignee undertakes.36
+Information provided by contractors, however, ‘shall be
+treated by the Federal agency as commercial and ﬁnan-
+cial information obtained from a person and privileged
+and conﬁdential and not subject to disclosure under
+section 552 of title 5’ (the Freedom of Information
+Act).37 Fifthly, the contractor must include within the
+speciﬁcation of a patent application a statement speci-
+fying that the invention was made with government
+support and that the government has certain rights in
+the invention.38
+
+29
+
+30
+
+31
+
+32
+
+37 CFR §401.3(e) (2011). The Secretary of Commerce, believing that
+any determinations are contrary to the policies and objectives of the Act,
+may advise the head of the agency involved and the Administrator of
+the Ofﬁce of Federal Procurement Policy, recommending corrective
+actions: 35 USC §202(b)(1) (2006); 37 CFR §401.3(f) (2011). The
+Administrator can then take further action if one or more Federal
+agencies are utilizing the authority of §202(a)(i) or (ii) in ‘a manner
+that is contrary to the policies and objectives’ of the Act; 35 USC
+§202(b)(2) (2006).
+37 CFR §401.4 sets forth a comprehensive scheme for administrative
+review of an agency’s determination applying one of the exceptions
+under §202(a)(i)– (iv) to limit a contractor’s right to elect retention of
+title: 37 CFR §401.4 (2011), culminating in an appeal to the US Court
+of Federal Claims; 35 USC §203(b) (2006).
+35 USC §202(c)(1) (2006). The regulations contain speciﬁc standard
+patent rights clauses for inclusion in funding agreements. These
+regulations serve many purposes, and are intended to implement,
+through the terms contained in funding agreements, the provisions of
+the Act. In particular, they require that the contractor disclose each
+subject invention within 2 months ‘after the inventor discloses it in
+writing to contractor personnel responsible for patent matters’: 37 CFR
+§401.14(a) (2011): ‘Patent Rights’ clause (c)(1), ‘Invention Disclosure,
+Election of Title and ﬁling of Patent Application by Contractor’. The
+regulations add that the disclosure ‘shall be in the form of a written
+report and shall identify the contract under which the invention was
+made and the inventor(s)’. The disclosure must ‘identify any
+publication, on sale or public use of the invention and whether a
+manuscript describing the invention has been submitted for publication,
+and if so, whether it has been accepted for publication at the time of
+disclosure’ and the contractor must notify the agency even after
+disclosure, if a manuscript is accepted for publication or the subject
+invention is planned for sale or public use. The standard patent clauses
+include actions required by the contractor to protect the government’s
+interest: 37 CFR §401.14(a) (2011), ‘Patent Rights’ clause (f),
+‘Contractor Action to Protect the Government’s Interest’.
+35 USC §202(c)(2) (2006). If, however, publication, on sale, or public
+use initiated the 1 year statutory period under 35 USC §102(b), the
+
+33
+34
+
+35
+36
+37
+
+38
+
+agency can shorten the period for election of rights to a date not more
+than 60 days before the end of the statutory period: 37 CFR §401.14(a)
+(2011), ‘Patent Rights’ clause (c)(2). Section 3(g)(7) of the America
+Invents Act ( ‘AIA’) harmonizes 35 USC §202(c)(2) – (3) with the AIA’s
+amendments to 35 USC §102(b) by generally changing reference to the
+‘one year statutory period’ to ‘the 1-year period referred to in section
+102(b)’: AIA, Pub L No 112– 29, §3(g)(7)(A)(i)– (ii), §3(g)(7)(B), 125
+Stat 288, 293 (2011). These amendments to §202(c)(2) –(3) take effect
+on 16 March 2013: ibid, §3(n). Judicial interpretations of revised
+§102(b) will thus directly impact the period by which a contractor must
+provide timely notice to a Federal agency to satisfy the contractor’s
+obligations under a funding agreement and the Bayh-Dole Act.
+35 USC §202(c)(2) (2006).
+35 USC §202(c)(3) (2006); see 37 CFR §401.14(a) (2011), ‘Patent
+Rights’ clause (c)(3).
+37 CFR §401.14(a) (2011), ‘Patent Rights’ clause (c)(4).
+35 USC §202(c)(5) (2006); see 37 CFR §401.8(a) (2011).
+35 USC §202(c)(5) (2006); see 37 CFR §401.8(b) (2011), requesting that
+contractors conﬁdentially label the information they provide.
+Information obtained on utilization as a result of a march-in
+proceeding, discussed above and described in §203, is similarly
+protected: 35 USC §202(c)(5) (2006).
+35 USC §202(c)(6) (2006). The standard patent rights clause requires
+that, the following speciﬁc statement be included in any US patent
+application and any patent issuing thereon: ‘This invention was made
+with government support under (identify the contract) awarded by
+(identify the Federal agency). The government has certain rights in the
+invention’: 37 CFR §401.14(a) (2011). ‘Patent Rights’ clause (f)(4).
+Failure to include this mandatory statement in a patent speciﬁcation
+was rejected as a basis for inequitable conduct in Trinity Industries, Inc.
+v Road Systems, Inc., 235 F. Supp. 2d 536 (ED Tex 2002), where a court
+found that the patentee’s failure to disclose the source of the funding
+was not material to patentability because the funding source did not
+have a ‘logical relationship to the decision on whether or not to issue
+the . . . patent’.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+7
+4
+9
+7
+9
+6
+0
+2
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Bart A. Gerstenblith and Scott J. Popma . Bayh-Dole: Statute, regulation and implications
+
+ARTICLE
+
+501
+
+The consequences of non-compliance with section
+202(c) can be dire. In Campbell Plastics Engineering &
+Manufacturing, Inc. v Brownlee, the US Court of Appeals
+for the Federal Circuit afﬁrmed the Armed Services
+Board of Contract Appeals’ decision upholding the
+demand of an Administrative Contracting Ofﬁcer
+(‘ACO’) for title to an invention that a contractor failed
+to report in accordance with section 202(c)(1).39 On
+more than one occasion, Campbell Plastics reported that
+no invention was developed under its government con-
+tract but then ﬁled a patent application directed to the
+subject invention.40 Even though the patent speciﬁcation
+reserved to the government a paid-up right to a licence
+and the Army had knowledge of the application, the
+ACO determined that Campbell Plastics forfeited title to
+the invention by failing to comply with its contract
+implementing the requirements of section 202(c).41 The
+Federal Circuit rejected Campbell Plastics’s argument
+that its reports, including an enabling disclosure to the
+Army, satisﬁed its duties under section 202 to report
+subject inventions because the ‘piecemeal submissions
+[did] not adequately disclose the invention’.42 Accord-
+ingly, the government had the right to take title to the
+invention and did not abuse its discretion in doing so.43
+Private parties may not force an agency to seek for-
+feiture, and forfeiture is not automatic even if the Act
+is violated. In Central Admixture Pharmacy Services,
+Inc. v Advanced Cardiac Solutions, P.C., the Federal
+Circuit rejected the defendant’s argument that plaintiffs
+lacked standing to assert an action for patent infringe-
+ment.44 The research that led to the patent was funded
+by a grant
+from the National Institutes of Health
+(NIH) to the inventor’s employer, the University of
+California (UC). During prosecution,
+the inventor
+assigned his rights to UC, but UC later indicated to
+NIH that it intended to abandon prosecution. The in-
+ventor then requested that NIH waive its rights in the
+patent application so that he could pursue the applica-
+tion in his personal capacity. NIH agreed to provide a
+waiver subject to the inventor’s executing a licence to
+the government. The inventor, however, never executed
+the licence, even though the patent speciﬁcation com-
+plied with section 202(c)(6). Thereafter, UC assigned
+
+its rights to the inventor, and the inventor exclusively
+licensed the patent to Advanced Cardiac Solutions.
+
+The Federal Circuit acknowledged that, since the
+inventor’s licence to the government was never exe-
+cuted, there was an open question whether that failure
+enabled NIH to exercise its discretion to void the inven-
+tor’s title in the patent.
+
+The key difference between Central Admixture and
+Campbell Plastics, however, is that, unlike the ACO in
+Campbell Plastics, NIH showed no interest in voiding
+the inventor’s title. The Central Admixture court held
+that the agency had discretion whether to void title, and
+that title was not automatically void even in light of an
+admitted defect in the chain of title. Importantly, the
+court held that a private party in the defendant’s pos-
+ition has no basis to challenge the government’s decision
+to invoke forfeiture. The Federal Circuit therefore deter-
+mined that, in light of the NIH’s apparent complacency,
+plaintiffs had standing to assert the patent.
+
+The key difference between Central Admixture
+and Campbell Plastics, however, is that, unlike
+the ACO in Campbell Plastics, NIH showed no
+
+interest in voiding the inventor’s title
+
+invention throughout
+
+Funding agreements must contain certain non-negoti-
+able terms. When a contractor elects to retain rights, the
+agreement must provide a ‘nonexclusive, nontransfer-
+able, irrevocable, paid-up licence to practice or have
+practiced for or on behalf of the United States any
+the world’.45 Funding
+subject
+agreements also must contain elements of sections 203
+and 204 of the Act, specifying march-in rights and a
+preference for US industry, as discussed further below.46
+for
+funding agreements with non-proﬁt organizations, in-
+cluding (1) a prohibition on the assignment of rights
+to a subject invention in the USA without approval of
+the agency;47 (2) a requirement that the contractor
+share royalties with the inventor;48 (3) a requirement
+that the balance of any royalties or income earned by
+
+requirements
+
+additional
+
+The Act
+
+imposes
+
+39
+
+40
+
+41
+42
+43
+
+389 F.3d 1243 (Fed. Cir. 2004). Campbell Plastics acknowledged that it
+did not report the subject invention on the form speciﬁed by its
+contract for such disclosure.
+ibid, at 1245 –6. Neither party contested that the patented method was a
+subject invention as understood in the context of the Act.
+ibid at 1246.
+ibid at 1249.
+ibid at 1250, applying the test for abuse of discretion set forth in
+McDonnell Douglas Corp. v United States, 182 F.3d 1319, 1326 (Fed. Cir.
+1999), and ﬁnding no abuse of discretion.
+
+44
+45
+46
+47
+
+48
+
+482 F.3d 1347 (Fed. Cir. 2007).
+35 USC §202(c)(4) (2006).
+35 USC §202(c)(8) (2006).
+35 USC §202(c)(7)(A) (2006). Such approval is required except ‘where
+such assignment is made to an organization which has as one of its
+primary functions the management of inventions’ and the assignee is
+subject to the same provisions as the contractor.
+35 USC §202(c)(7)(B) (2006). While the Act requires that royalties be
+shared, it does not require that a contractor share a speciﬁc royalty
+percentage with an inventor. In Platzer v Sloan-Kettering Institute for
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+7
+4
+9
+7
+9
+6
+0
+2
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+502
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 7
+
+that
+
+subject
+
+the licensing of
+
+the contractor from the subject inventions be used to
+support ‘scientiﬁc research or education;’49 (4) a re-
+quirement
+inventions
+be given to small business ﬁrms, except where ‘infeas-
+ible after a reasonable inquiry;’50 and (5) other require-
+ments related to funding agreements for the operation
+of a government-owned, contractor-operated facility.51
+Important to inventors, if a contractor does not elect
+to retain title to a subject invention, the federal agency
+may consider and grant requests for ‘retention of rights
+by the inventor’ subject to the provisions of the Act and
+implementing regulations.52 An inventor’s ability to
+retain rights to a subject invention, however, is only trig-
+gered after a contractor elects not to retain title ﬁrst.
+Thus, in Fenn v Yale University, the US Court of Appeals
+for the Second Circuit rejected John Fenn’s argument
+that he properly retained rights to an invention he devel-
+oped with NIH funding while employed at Yale Univer-
+sity.53 To support his argument, Fenn pointed to a letter
+he had sent to the NIH. The letter contained a clause in-
+dicating that the obligations of Yale and Fenn to the
+federal government were satisﬁed. An ofﬁcial at NIH had
+signed the letter. This letter, Fenn urged, provided a rea-
+sonable inference that NIH determined that Fenn was the
+patent’s rightful owner. The Second Circuit disagreed:
+
+49
+
+50
+
+51
+
+52
+
+Cancer Research, a court concluded that the language of the statute, the
+legislative history, and the regulations implementing §202 do not suggest
+that Congress intended that contractors follow a federally imposed sharing
+ratio or minimum share: 787 F. Supp. 360, 368 (SDNY 1992). That court
+dismissed the inventors’ claims to recover an equal share of the royalties
+stemming from a discovery they made while employed by Sloan-Kettering.
+35 USC §202(c)(7)(C) (2006). This requirement does not apply to
+funding agreements for the operation of a ‘Government-owned-
+contractor-operated facility’ and the balance of any royalties earned is
+determined ‘after payment of expenses (including payments to
+inventors) incidental to the administration of subject inventions’.
+35 USC §202(c)(7)(D) (2006). The regulations acknowledge that ‘[w]hat
+constitutes reasonable efforts . . . will vary with the circumstances and
+the nature, duration, and expense of efforts needed to bring the
+invention to market’: 37 CFR §401.7(a) (2011). Section 20(i)(2)(B) of
+the AIA amends the language of 35 USC §202(c)(7)(D) by requiring
+that a preference be given to small business ﬁrms in the licensing of
+subject inventions ‘except where it is determined to be infeasible
+following a reasonable inquiry’: see AIA, §20(i)(2)(B), 125 Stat. 334, 335
+(2011). This change takes effect on 16 September 2012.
+35 USC §202(c)(7)(E)(i) –(ii) (2006). Section 13(b) of the AIA amends
+35 USC §202(c)(7)(E)(i), inter alia, by increasing the percentage of
+subject-invention royalties a nonproﬁt operator of a government-
+owned-contractor-operated facility can retain from 25 to 85% after costs
+and other expenses are taken into account. This provision took effect on
+16 September 2011, and applies to any patent issued before, on, or after
+that date.
+35 USC §202(d) (2006); see 37 CFR §401.9 (2011). Further, where a
+Federal employee is a co-inventor of a subject invention, the agency may
+licence or assign whatever rights it would acquire in the subject
+invention to the nonproﬁt organization, small business ﬁrm, or non-
+Federal inventor, or acquire the non-Federal entity’s rights if it would
+expedite the development of the invention: 35 USC §202(e)(1) –(2)
+(2006); see 37 CFR §401.10 (2011). Any acquisition of rights from the
+non-Federal entity must be agreed to voluntarily by the non-Federal
+
+a federal agency such as the NIH may only grant an
+inventor’s request to retain rights to an invention subject
+to the [Bayh-Dole] Act when the contractor (in this case
+Yale) has elected not to retain rights to the invention.
+
+Yale, the Second Circuit pointed out, had informed
+NIH of
+its intention to retain its rights. Thus the
+Second Circuit found Fenn’s interpretation of the sig-
+niﬁcance of the NIH ofﬁcial’s signature implausible,
+and afﬁrmed the district court’s order requiring that
+Fenn assign the patent to Yale.54
+
+In Board of Trustees of the Leland Stanford Junior
+University v Roche Molecular Systems, Inc., the Supreme
+Court held that the Act does not automatically vest
+title to federally funded inventions in federal contrac-
+tors.55 The court rejected Stanford’s argument that the
+deﬁnition of ‘subject invention’ compelled the conclu-
+sion that contractors held title to all inventions created
+under their government contracts. To the contrary, the
+term is deﬁned as ‘any invention of the contractor . . . ’:
+Stanford’s interpretation (1) assumes that Congress set
+aside ‘two centuries of patent law [i.e. that title vests in
+the inventor of a patent] in a statutory deﬁnition’ and
+(2) renders the phrase ‘of the contractor’ superﬂuous.56
+Rather, construing the phrase to refer to ‘a particular
+
+entity: 35 USC §202(e)(2) (2006). In Southern Research Institute v
+Grifﬁn Corp., 928 F.2d 1249, 1253 – 55 (11th Cir. 1991), the court held
+that a decision by an agency under a prior version of §202(e) was
+committed to agency discretion by law and thus not reviewable under
+§802(a) of the Administrative Procedure Act. Before 1 November 2000,
+§202(e) ‘authorized’ the government to transfer or assign the rights it
+might acquire from its employees, but as amended by Pub L 106– 404,
+§6(1), 1 November 2000, 114 Stat 1745, §202(e) provided that the
+government ‘may’ do so, thus reﬂecting the agency’s discretion. Notably,
+37 CFR §§501.1 – 11 establish a ‘Uniform Patent Policy for Rights in
+Inventions Made by Government Employees’ and apply to ‘any
+invention made by a Government employee and to any action taken
+with respect thereto’: see 37 CFR §501.2 (2011).
+184 Fed. Appx. 21 (2nd Cir. 2006). The Second Circuit noted that the
+district court found that Fenn breached Yale’s long-standing patent
+policy with faculty members by failing to disclose the signiﬁcance of his
+invention to Yale and patenting the invention in his own name. Thus
+defrauding Yale constituted civil theft and the district court ordered
+Fenn to assign the patent to Yale.
+
+53
+
+54 Citing 35 USC §202(d). The district court also found that, since Fenn
+
+never formally requested that the NIH make a determination under
+§202(d) allowing him to retain rights to the patent, neither of the ‘two
+prerequisites’ under the Act—contractor non-election and an inventor
+request for retention—were satisﬁed.
+131 S. Ct. 2188 (2011); cf Alzheimer’s Inst. of Am., Inc. v Avid
+Radiopharmaceuticals, No 10-6908, 2011 US Dist LEXIS 98302, at *29
+(ED Pa, 31 August 2011), which held that under Florida law, unlike the
+Bayh-Dole Act, ‘inventions developed or discovered by an employee in
+the course of employment’ with the University of South Florida are the
+property of the University.
+ibid. The court noted that if ‘of the contractor’ were deleted from the
+deﬁnition of ‘subject invention’, the deﬁnition would cover ‘any
+invention . . . conceived or ﬁrst actually reduced to practice in the
+performance of work under a funding agreement’.
+
+55
+
+56
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+7
+4
+9
+7
+9
+6
+0
+2
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Bart A. Gerstenblith and Scott J. Popma . Bayh-Dole: Statute, regulation and implications
+
+ARTICLE
+
+503
+
+category of inventions . . . that is, those owned by or
+belonging to the contractor—makes the phrase mean-
+ingful
+in the statutory deﬁnition’. Thus the court
+concluded:
+
+[T]he Bayh-Dole Act . . . does not displace an inventor’s
+antecedent title in his invention. Only when an invention
+belongs to the contractor does the Bayh-Dole Act come
+into play. The Act’s disposition of rights—like much of the
+rest of the Bayh-Dole Act—serves to clarify the order of
+priority of rights between the Federal Government and a
+federal contractor in a federally funded invention that
+already belongs to the contractor. Nothing more.57
+
+Although the Act generally is restricted to subject inven-
+tions, it also provides a limited exception whereby an
+agency can require third-party licensing of non-subject
+inventions owned by the contractor. A funding agree-
+ment may require such licensing if it ‘has been approved
+by the agency and a written justiﬁcation has been signed
+by the head of the agency’.58 In such circumstances, the
+provision must ‘clearly state whether the licensing may
+be required in connection with the practice of a subject
+invention, a speciﬁcally identiﬁed work object, or both’:
+the agency head may not delegate this authority. And,
+even when such a provision is included in a funding
+agreement, an agency may not require such licensing
+unless the head of the agency ‘determines that the use of
+the invention by others is necessary for the practice of a
+subject invention or for the use of a work object of the
+funding agreement and that such action is necessary to
+achieve the practical application of the subject invention
+or work object’.59 In addition, any agency determination
+must be ‘on the record after an opportunity for an
+agency hearing’, and the contractor has the right to seek
+judicial review of any such determination within 60
+days of notiﬁcation.60
+
+March-in rights
+Funding agreements must also contain the provisions
+of section 203 allowing for march-in rights by the
+federal agency—the right ‘to require the contractor, an
+assignee or exclusive licensee of a subject invention to
+
+grant a nonexclusive, partially exclusive, or exclusive
+licence in any ﬁeld of use to a responsible applicant or
+applicants, upon terms that are reasonable under the
+circumstances’. If the contractor refuses, the agency
+must have the right to ‘grant such a licence itself ’.61 An
+agency, however, is not permitted to exercise this right
+on a whim. Before marching in, an agency must deter-
+mine that
+
+1. the action is necessary because the contractor or as-
+signee has not taken, or is not expected to take
+within a reasonable time, effective steps to achieve
+practical application of the subject invention in such
+ﬁeld of use;
+
+2. the action is necessary to alleviate health or safety
+needs which are not reasonably satisﬁed by the con-
+tractor, assignee, or their licensees;
+
+3. the action is necessary to meet requirements for
+public use speciﬁed by Federal regulations and such
+requirements are not reasonably satisﬁed by the con-
+tractor, assignee, or licensees; or
+
+4. the action is necessary because the agreement required
+by section 204 has not been obtained or waived or
+because a licensee of the exclusive right to use or sell
+any subject invention in the USA is in breach of its
+agreement obtained pursuant to section 204.62
+
+The regulations implementing the march-in provisions
+establish a series of steps an agency must take before
+marching in.63 In particular, the agency must notify the
+contractor in writing if
+it receives information that
+might warrant the exercise of march-in rights.64 There-
+after, the agency may, by written notice, inform a con-
+tractor and its assignee or exclusive licensee that it is
+considering the exercise of march-in rights.65 The de-
+termination to exercise march-in rights is limited to
+the head of the agency or a chosen designee.66 A con-
+tractor may submit in person or in writing information
+or argument in opposition to the proposed march in.67
+If the information presented raises a ‘genuine dispute
+over the material
+facts’, the head of the agency or
+the
+designee must undertake fact-ﬁnding or
+
+refer
+
+57
+
+ibid at 2197. The court also found that the Act’s provision allowing for
+‘retention’ of an inventor’s rights was consistent with Stanford’s
+argument because ‘[b]y using the word “retention,” §202(d) assumes
+that the inventor had rights in the subject invention at some point,
+undermining the notion that the Act automatically vests title to federally
+funded inventions in federal contractors’, noting that its construction of
+the Act was reﬂected in the common practice among parties operating
+under the Act because contractors often have policies by which they
+obtain assignments of inventions developed by their employees.
+Although outside the focus of this article, the Federal Circuit’s
+interpretation of the contested assignments here, although not addressed
+by the Supreme Court’s decision, provide useful guidance for
+government contractors operating under the Act.
+
+58
+59
+60
+61
+62
+
+63
+64
+65
+66
+67
+
+35 USC §202(f)(1) (2006); see 37 CFR §401.12(a) (2011).
+35 USC §202(f)(2) (2006); see 37 CFR §401.12(b) (2011).
+ibid.
+35 USC §203(a) (2006).
+35 USC §203(a)(1) –(4) (2006). Section 204, discussed, above, pertains
+to preferences for US industry.
+37 CFR §401.6 (2011).
+37 CFR §401.6(b) (2011).
+37 CFR §401.6(c) (2011).
+ibid.
+37 CFR §401.6(d) (2011).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+7
+4
+9
+7
+9
+6
+0
+2
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+504
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 7
+
+matter to another ofﬁcial for such purpose.68 Ninety
+days after fact-ﬁnding or oral argument, whichever is
+indicating whether march-in
+later, written notice
+rights will be
+to the
+contractor.69 If no notice is mailed within 90 days, ‘the
+proceedings will be deemed to have been terminated
+and therefore no march-in based on the facts and
+reasons upon which the proceeding was initiated may
+be exercised’.70
+
+exercised must be
+
+sent
+
+A contractor has the right to challenge an agency’s
+decision to march in. Section 203(b) dictates that an
+administrative appeal procedure be established by regu-
+lations promulgated in accordance with section 206 by
+which ‘any contractor, inventor, assignee, or exclusive71
+licensee’ may, within 60 days after an adverse determin-
+ation under section 203(b), ﬁle a petition in the US
+Court of Federal Claims for review.72 If the agency’s de-
+termination is based on section 203(a)(1) or (3),
+it
+‘shall be held in abeyance pending the exhaustion of
+appeals or petitions ﬁled’.73
+
+Although the Act and regulations created detailed
+procedures pertaining to march-in rights, to date no
+agency has exercised those rights.74 A report by the US
+Government Accountability Ofﬁce indicates that agen-
+cies do not maintain ongoing efforts to identify poten-
+tial candidates for march-in proceedings, although they
+do monitor contractors’ compliance with reporting
+requirements.75 The agencies surveyed reported that
+they primarily rely on public and private sources, in-
+cluding ‘news reports,
+interest groups, and potential
+competitors’, to provide information relevant to a po-
+tential march-in proceeding.
+
+NIH is the only agency that has received march-in
+petitions, and in each instance declined to march-in.76
+In 1997, in response to a petition by CellPro, Inc. per-
+taining to stem cells, NIH determined that 35 USC
+section 203(a)(1) and (2) did not apply because there
+was no unmet health need not reasonably satisﬁed by
+
+68
+
+69
+70
+71
+
+72
+73
+
+74
+
+75
+
+ibid. Further procedures with respect to fact ﬁnding and submission of
+information by the contractor are described in §401.6(e).
+37 CFR §401.6(g) (2011).
+ibid.
+37 CFR §401.6, which implements march-in rights and sets forth
+procedures to govern the exercise of march-in rights by an agency,
+speciﬁes that the term ‘exclusive licensee’ includes ‘a partially exclusive
+licensee’: 37 CFR §401.6(k) (2011).
+35 USC §203(b) (2006).
+ibid, 37 CFR §401.6(i) speciﬁes that an unfavourable agency decision
+shall be held in abeyance pending the exhaustion of appeals or petitions
+ﬁled under 35 USC §203, but is not limited to agency decisions taken
+under §203(a)(1) and (3).
+See, eg, US Government Accountability Ofﬁce, Report to Congressional
+Committees, Information on the Government’s Right to Assert
+Ownership Control over Federally Funded Inventions (July 2009) at 9.
+ibid at 9.
+
+the subject
+
+the licensee, and the licensee had taken steps to achieve
+invention.77 In
+practical application of
+2004, NIH rejected two march-in petitions, requesting
+that NIH march in to lower the price of two drug pro-
+ducts,78 having determined that the march-in provi-
+sions were not an appropriate means for controlling
+drug prices, a matter it felt was better addressed by
+Congress, and that any alleged anticompetitive behav-
+iour was more appropriately addressed by the US
+Federal Trade Commission.
+
+The most recent petition, in 2010, requested that the
+NIH march in under section 203(a)(2) because the li-
+censee was not producing an adequate supply of Fabra-
+zymew, a drug used to treat Fabry Disease:79 although
+NIH acknowledged that the licensee experienced past
+manufacturing issues, no available march-in remedy
+would address the supply shortage because it would
+take years for another manufacturer to receive market-
+ing approval from the US Food and Drug Administra-
+tion and the current licensee was working to restore a
+full supply of the drug in the near future.
+
+Although no Federal agency has exercised its march-
+in rights, the ability to do so remains an important
+tool
+in ensuring contractor compliance with the
+requirements under the Act.
+
+Preference for US industry
+In keeping with the explicit purpose of the Act, section
+204 contains a speciﬁc preference for manufacturing in
+the USA. Under this provision, small business ﬁrms
+and non-proﬁt organizations,80 which receive title to a
+subject invention, may not grant to any person the ex-
+clusive right to use or sell any subject invention in the
+USA, unless ‘such person agrees that any products em-
+bodying the subject invention or produced through the
+use of the subject invention will be manufactured sub-
+stantially in the United States’.81 There are two limited
+exceptions to this restriction, based on a showing that
+
+76
+77
+
+78
+
+79
+
+ibid at 10.
+See National Institutes of Health, Ofﬁce of the Director, Determination
+in the Case of Petition of CellPro, Inc., http://www.nih.gov/news/pr/
+aug97/nihb-01.htm.
+See National Institutes of Health, Ofﬁce of the Director, In the Case of
+Norvirw http://www.ott.nih.gov/policy/March-In-Norvir.pdf; National
+Institutes of Health, Ofﬁce of the Director, In the Case of Xalatanw,
+http://www.ott.nih.gov/policy/March-in-xalatan.pdf.
+See National Institutes of Health, Ofﬁce of the Director, Determination
+in the Case of Fabrazymew, http://www.ott.nih.gov/policy/March-in-
+Fabrazyme.pdf.
+
+80 This limitation also applies to any assignee of any small business or
+
+81
+
+nonproﬁt organization: 35 USC §204 (2006).
+35 USC §204 (2006). In Ciba-Geigy, 804 F. Supp. at 628– 9, the court
+dismissed a motion for lack of standing in which the defendants argued,
+inter alia, that since a breach of an exclusive licence agreement, which
+required Ciba-Geigy to substantially manufacture its products in the
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+7
+4
+9
+7
+9
+6
+0
+2
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Bart A. Gerstenblith and Scott J. Popma . Bayh-Dole: Statute, regulation and implications
+
+ARTICLE
+
+505
+
+(1) ‘reasonable but unsuccessful efforts have been made
+to grant licences on similar terms to potential licensees
+that would be likely to manufacture substantially in the
+United States’; or (2) ‘under the circumstances domes-
+tic manufacture is not commercially feasible’.82
+
+Conﬁdentiality
+Recognizing the importance of protecting the disclosure
+of an invention to the public, the Act authorizes agen-
+cies to withhold from the public ‘information disclosing
+any invention in which the Federal Government owns
+or may own a right, title, or interest . . . for a reasonable
+time in order for a patent application to be ﬁled’.83 The
+Act also provides that agencies are not required to
+release copies of ‘any document which is part of an ap-
+plication for patent’, whether ﬁled in the US Patent and
+Trademark Ofﬁce or any foreign patent ofﬁce.84
+
+The implementing regulations preclude agency dis-
+closure of a subject invention before a patent applica-
+tion is ﬁled, even in response to requests under the
+Freedom of Information Act.85 In addition, agencies
+may not disclose copies of documents included in a
+patent application for a period of 18 months following
+the application’s ﬁling date.86 The limitation of dissem-
+ination, however, applies only to information submit-
+ted as part of the patent rights provisions and is not
+intended to preclude disclosure of information submit-
+ted to an agency as part of a technical report or other
+submission.87
+
+Domestic and foreign protection of federally
+owned inventions
+The Act speciﬁcally authorizes each federal agency and
+the Secretary of Commerce to take a variety of actions
+
+USA, transformed Ciba-Geigy’s exclusive licence into a non-exclusive
+licence, the plaintiff lacked standing to assert patent infringement
+claims. The US District Court for the District of New Jersey held,
+however, that ‘[a] party . . . who does not substantially manufacture its
+product in the United States in accordance with §204 does not
+automatically lose its exclusive licence’. Rather, the agency has discretion
+to decide whether to exercise its march-in rights in accordance with
+§203, and ‘no [private] party can force the agency to grant additional
+licences’.
+35 USC §204 (2006). Agencies have discretion to grant waivers based on
+either exception in individual cases.
+35 USC §205 (2006).
+ibid.
+37 CFR §401.13(c)(1) (2011).
+37 CFR §401.13(c)(2) (2011). The 18-month time period mirrors the
+time by which the USPTO typically publishes patent applications: 35
+USC §122 (2006).
+37 CFR §401.13(c)(4) (2011).
+35 USC §207 (2006). 37 CFR §§404.1 –14 implement 35 USC §§207 –
+209.
+
+82
+
+83
+84
+85
+86
+
+87
+88
+
+to protect federally owned inventions.88 Each federal
+agency is authorized to:
+
+1. apply for, obtain, and maintain patents or other
+forms of protection in the USA and in foreign coun-
+tries on inventions in which the Federal Government
+owns a right, title, or interest;
+
+2. grant non-exclusive, exclusive, or partially exclusive
+licences under federally owned inventions, royalty-
+free or for royalties or other consideration, and on
+such terms and conditions, including the grant to
+the licensee of the right of enforcement pursuant to
+the provisions of chapter 29 of this title89 as deter-
+mined appropriate in the public interest;
+
+3. undertake all other suitable and necessary steps to
+protect and administer rights to federally owned
+inventions on behalf of
+the Federal Government
+either directly or through contract . . . ;
+
+4. transfer custody and administration, in whole or in
+part, to another Federal agency, of the right, title, or
+interest in any federally owned invention.90
+
+The ability to grant the right of enforcement to a licen-
+see substantially decreases the burden and cost to an
+agency by allowing the licensee to maintain a patent in-
+fringement suit without joining the federal agency as a
+party. The Federal Circuit found that the statute pro-
+vided an exception to the general rule91 that a patent
+owner must be joined, either voluntarily or involuntar-
+ily, in any patent infringement suit brought by an ex-
+clusive licensee of a government-owned patent having
+fewer than all substantial patent rights.92 In Nutrition
+21, the Federal Circuit determined that, although the
+statute and legislative history are silent on whether a
+private party licensee can bring suit without joining the
+USA or the agency owning the patent as a co-party, the
+
+89 The AIA also amended 35 USC §207 to strike ‘of this title’ following
+
+90
+91
+
+‘chapter 20’. See AIA, §20(j)(1), 125 Stat 335 (2011). This change takes
+effect on 16 September 2012.
+35 USC §207(a)(1) –(4) (2006).
+Intellectual Prop. Dev, Inc. v TCI Cablevision of California, Inc., 248 F.3d
+1333, 1347 (Fed. Cir. 2001), citations omitted, recognizing the general
+rule.
+
+92 Nutrition 21 v Thorne Research, Inc., 930 F.2d 862 (Fed. Cir. 1991). The
+
+court’s decision was not limited to exclusive licensees because §207(a)(2)
+authorized the grant of enforcement rights to nonexclusive, exclusive, or
+partially exclusive licensees, although the governing regulation, 37 CFR
+§404.7(a)(2)(iv), at the time appeared to limit the authority to exclusive
+and partially exclusive licensees. The regulations, amended in 2006, are
+no longer so limited. Thus 37 CFR §404.5(b)(2) (2011): ‘Any patent
+licence may grant the licensee the right of enforcement of the licensed
+patent without joining the Federal agency as a party as determined
+appropriate in the public interest’; Licensing of Government Owned
+Inventions, 71 Fed. Reg. 11,512, 11,513 (8 March 2006), to be codiﬁed
+at 37 CFR §404.7, removing 37 CFR §404.7(a)(2)(iv). 37 CFR
+§404.5(b)(2) provides that ‘[a]ny patent licence may grant the licensee
+the right of enforcement of the licensed patent without joining the
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+7
+4
+9
+7
+9
+6
+0
+2
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+506
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 7
+
+and
+
+partially
+
+exclusive,
+
+requirements
+
+forth speciﬁc
+
+court should give considerable weight to the agency’s
+construction of the ‘statutory scheme it is entrusted to
+administer’.93 Because the licence agreement speciﬁcally
+empowered the licensee to maintain an infringement
+the USA,94 the
+the participation of
+action without
+agency did not need to join the suit.95
+Licensing of federally owned inventions
+Although federal agencies are authorized to issue
+non-exclusive,
+exclusive
+licences for federally owned inventions under section
+207(a)(2), that authority is not unlimited.96 Section
+209 sets
+for various
+licences. First, an agency may grant an exclusive or
+partially exclusive licence only if
+it determines that
+ﬁve criteria are met: (1) the licence is a ‘reasonable
+and necessary incentive to’ (A) raise the investment
+capital and expenditures needed to bring the inven-
+tion to practical application or
+(B) promote the
+invention’s utilization by the public;97 (2) the agency
+ﬁnds that the public will be served by the granting of
+the licence and the ‘proposed scope of exclusivity is
+not greater than reasonably necessary to provide the
+incentive for bringing the invention to practical appli-
+cation . . . or otherwise to promote the invention’s
+utilization by the public’;98 (3) the applicant makes ‘a
+commitment to achieve practical application of the
+invention within a reasonable time’;99 (4) granting
+the licence will not ‘tend to substantially lessen com-
+petition or create or maintain a violation of
+the
+Federal antitrust laws’,100 and (5) in the case of an
+
+Federal agency as a party as determined appropriate in the public
+interest’.
+
+93 Nutrition 21, 930 F.2d at 866, citing Chevron U.S.A. Inc. v Natural Res.
+
+Def. Council, 467 US 837, 844 (1984).
+
+94 Para 7.2 of the licence agreement provided that ‘During the exclusive
+
+term of this Agreement . . . LICENSEE is empowered . . . (a) to bring suit
+in its own name, at its own expense, and on its own behalf for
+infringement of presumably valid claims in a Licensed Patent; . . . and to
+collect for its use . . . provided, however, that [the Department of
+Commerce] and appropriate U.S. Government authorities shall have a
+continuing right to intervene in such suit.’
+See also Cent. Inst. for Experimental Animals v Jackson Lab., No 08-
+05568, 2010 US Dist. LEXIS 29197 (ND Cal, 26 March 2010),
+permitting the maintenance of a suit by a non-exclusive licensee without
+joining the Federal agency where (a) the licence was for a government-
+owned patent; (b) the government granted the licensee the right of
+enforcement; and (c) the alleged infringing conduct was within the ﬁeld
+of use for which the licensee was granted patent rights; Z Trim Holdings,
+Inc. v Fiberstar, Inc., No. 07-C-0161-C, 2007 US Dist. LEXIS 57068 (WD
+Wis. Aug. 2, 2007), rejecting the defendant’s argument that the Federal
+agency must be joined where the licence agreement required the
+plaintiff-licensee to obtain permission from the agency, which the
+plaintiff did, before ﬁling an infringement action.
+See 35 USC §209 (2006); 37 CFR §404.5 (2011). The regulations
+implementing 35 USC §§207 to 209 provide for the right to appeal ‘any
+decision or determination concerning the grant, denial, modiﬁcation, or
+termination of a licence’: 37 CFR §404.11(a) (2011). The right to
+appeal, however, is limited to (1) a person whose application for a
+
+95
+
+96
+
+invention covered by a foreign patent or patent appli-
+cation,
+‘the interests of the Federal Government or
+United States industry in foreign commerce will be
+enhanced’.101
+
+Secondly, the Act repeats its preference for manufac-
+turing in the USA. Under the Act, an agency ‘shall nor-
+mally’ grant an exclusive, non-exclusive, or partially
+exclusive licence under section 207(a)(2) to use or sell
+any federally owned invention in the USA ‘only to a li-
+censee who agrees that any products embodying the in-
+vention or produced through the use of the invention
+will be manufactured substantially in the United
+States’.102
+Thirdly,
+
+for
+exclusive or partially exclusive licences under section
+207(a)(2) to ‘small business ﬁrms having equal or
+greater likelihood as other applicants to bring the in-
+vention to practical application within a reasonable
+time’.103
+
+‘[f]irst preference’
+
+the Act
+
+gives
+
+Fourthly, the Act provides that any licence granted
+under section 207(a)(2) must at least contain provi-
+sions
+
+1. ‘retaining a nontransferable,
+
+irrevocable, paid-up
+licence for any Federal agency to practice the inven-
+tion or have the invention practised throughout the
+world by or on behalf of the Government of the
+United States’;104
+
+2. requiring periodic reporting on ‘utilization of the in-
+vention, and utilization efforts, by the licensee’;105
+and
+
+licence was denied; (2) a licensee whose licence was modiﬁed or
+termination, in whole or in part, or (3) a person who timely ﬁled a
+written objection in response to the agency’s public notice and who can
+demonstrate that he or she may be damaged by the agency action. 37
+CFR §404.11(a)(1)– (3) (2011). In lieu of an appeal, however, the parties
+may agree to alternative dispute resolution: 37 CFR §404.11(b) (2011).
+35 USC §209(a)(1)(A) –(B) (2006).
+35 USC §209(a)(2) (2006).
+35 USC §209(a)(3) (2006) (also noting that an agency may extend the
+time upon an applicant’s request and demonstration that the refusal of
+such an extension would be unreasonable).
+
+97
+98
+99
+
+100 35 USC §209(a)(4) (2006). This requirement of §209(a) is consistent
+with the Act’s stated relationship with the antitrust laws. See 35 USC
+§211: ‘Nothing in this chapter shall be deemed to convey to any person
+immunity from civil or criminal liability, or to create any defenses to
+actions, under any antitrust laws.’
+
+101 35 USC §209(a)(5) (2006).
+102 35 USC §209(b) (2006); see 37 CFR §404.5(a)(2) (2011). Complying
+
+with the substantial manufacture in the US requirement is further
+discussed in Section III, above.
+
+103 35 USC §209(c) (2006).
+104 35 USC §209(d)(1) (2006).
+105 35 USC §209(d)(2) (2006). Section 209(d)(2) also limits an agency’s
+
+ability to require overly burdensome reporting by permitting such
+reporting ‘only to the extent necessary to enable the Federal agency to
+determine whether the terms of the licence are being complied with’. An
+agency must treat a licensee’s report as ‘commercial and ﬁnancial
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+7
+4
+9
+7
+9
+6
+0
+2
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Bart A. Gerstenblith and Scott J. Popma . Bayh-Dole: Statute, regulation and implications
+
+ARTICLE
+
+507
+
+3. authorizing the agency to terminate the licence in
+whole or in part if the agency determines that any
+one of four circumstances have occurred:106
+
+(A) the licensee is not ‘executing its commitment107
+to achieve practical application of the invention’
+and cannot otherwise demonstrate that ‘it has
+taken, or can be expected to take within a rea-
+sonable time, effective steps to achieve practical
+application of the invention’;108
+
+(B) the licensee is in breach of an agreement to
+manufacture any products embodying the in-
+vention or produced through the use of the in-
+vention substantially in the USA;109
+
+(C) termination is ‘necessary to meet requirements
+for public use speciﬁed by Federal regulations
+issued after the date of the licence, and such
+requirements are not reasonably satisﬁed by the
+licensee’;110 or
+
+(D) a court of competent jurisdiction has found
+that that the licensee violated the Federal anti-
+trust
+in connection with performance
+under the licence agreement.111
+
+laws
+
+A ﬁfth and important requirement in the licensing of
+federally owned inventions is public notice. Section
+209(e) speciﬁes that public notice of an intention to
+grant an exclusive or partially exclusive licence under
+section 207(a)(2) on a federally owned invention must
+be provided ‘in an appropriate manner’ at least 15 days
+before such a licence is granted.112 Such notice offers
+an opportunity for the public to provide comments to
+the noticing agency regarding the proposed licence ar-
+rangement. The agency must ﬁrst consider all com-
+
+information obtained from a person and privileged and conﬁdential and
+not subject to disclosure under’ the Freedom of Information Act.
+
+106 35 USC §209(d)(3) (2006); see 37 CFR §404.5(b)(8)(i)– (v) (2011).
+107 These commitments include those ‘contained in any plan submitted in
+
+support of [a licensee’s] request for a licence’. 35 USC §209(d)(3)(A)
+(2006).
+
+108 35 USC §209(d)(3)(A) (2006).
+109 35 USC §209(d)(3)(B) (2006).
+110 35 USC §209(d)(3)(C) (2006).
+111 35 USC §209(d)(3)(D) (2006).
+112 35 USC §209(e) (2006). 37 CFR §404.7(a)(1)(i) provides that notice of
+
+a prospective exclusive, co-exclusive, or partially exclusive domestic
+licence must identify (1) the invention and (2) the prospective licensee,
+and must be published in the Federal Register with an opportunity for
+ﬁling written objections within at least a 15-day period: 37 CFR
+§404.7(a)(1)(i) (2011).
+
+113 ibid, §209(e), however, does not apply to the licensing of inventions
+
+under a ‘cooperative research and development agreement entered into
+under section 12 of the Stevenson-Wydler Technology Innovation Act
+1980 (15 USC §3710a)’. That Act, inter alia, created the mechanisms by
+which federal agencies and their laboratories can transfer technology: see
+generally 35 USC §3710a (2006).
+
+ments received before the end of the comment period
+in response to the public notice.113 Although an agency
+is required to give notice, its failure to do so is not ne-
+cessarily fatal where the party challenging the licence
+has actual notice of the agency’s intent.114 Further, an
+agency’s decision to extend the term of an exclusive
+licence does not trigger section 209(e)’s notice require-
+ment.115
+
+Finally, the party requesting a licence must submit a
+plan ‘for development or marketing of the invention’
+before receiving any licence under a patent or patent
+application on a federally owned invention.116 As with
+a licensee’s reports under section 209(d)(2), a plan sub-
+mitted under section 209(f) must also be treated ‘as
+commercial and ﬁnancial information obtained from a
+person and privileged and conﬁdential and not subject
+to disclosure under’
+Information
+Act.117
+
+the Freedom of
+
+An issue that frequently arises is whether a private
+party can challenge an agency’s decision to licence a
+subject invention under the Act. An accused infringer
+may allege, as a defence to a patent-infringement suit,
+that the agency’s decision to licence a subject invention
+and the resulting licence violates one or more of the
+procedural or substantive requirements of the Act. In
+such circumstances, courts consistently have found that
+the Act does not authorize a private cause of action
+to enforce its provisions and thus the party lacks
+standing.
+
+In Service Engineering Corp. v United States Depart-
+ment of Agriculture, the court determined that plaintiffs
+lacked standing to contest the US Department of Agri-
+culture’s
+(USDA) decision to grant an exclusive
+licence.118 The plaintiffs had argued that the agency’s
+
+114 In Southern Research Institute, the Eleventh Circuit concluded that the
+
+National Technical Information Service’s (NTIS) failure to notice its
+intent publicly to award an exclusive licence was not subject to judicial
+review because the complaining party had actual notice of the agency’s
+intent and yet did not object: 938 F.2d at 1253. The complaining party
+thus ‘failed to exhaust a non-futile administrative remedy and thus may
+not obtain judicial review of the NTIS licence . . . under 35 USC §§207
+and 209 and the applicable regulations’.
+
+115 In Service Engineering Corp. v United States Department of Agriculture,
+the US District Court for the District of Maryland determined that an
+agency decision to extend an exclusive licence without publishing notice
+of its intent to do so was a reasonable interpretation of the regulations
+because (1) patent licences may be modiﬁed upon mutual agreement of
+the Federal agency and the licensee in accordance with 37 CFR
+§404.5(b)(10); and (2) 37 CFR §404.7(a)(1)(i) does not require public
+notice of the term of a potential licence; rather, it requires identifying
+the invention and the prospective licensee. No 97-833, 1999 US Dist.
+LEXIS 21952, at *29 –35 (D Md, 30 March 1999).
+
+116 35 USC §209(f) (2006). The regulations further specify the contents of
+
+an application for a licence. 37 CFR §404.8 (2011).
+
+117 35 USC §209(f) (2006).
+118 No 97-833, 1999 US Dist LEXIS 21952 (D Md, 1999).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+7
+4
+9
+7
+9
+6
+0
+2
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+508
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 7
+
+exclusive licence should be transformed into a non-ex-
+clusive licence because the agency failed to notify prop-
+erly the prospective licensee in the public notice
+required by the Act.119 The court did not address the
+plaintiffs’ challenge, ﬁnding instead that they lacked
+standing because their interests were not among those
+that Congress arguably sought to protect in the Act.
+Further, the plaintiffs failed to bid on the licence or
+object to the agency’s notice of intent to licence the in-
+vention during the comment period.120 Thus the court
+granted the USDA’s motion for summary judgment.121
+In Gen-Probe Inc. v Center for Neurologic Study, the
+court followed the decisions in several earlier cases,
+ﬁnding that defendants lacked standing to assert a
+counterclaim for a constructive trust based on section
+202 because the statute did not create a private right of
+action to enforce its provisions.122 The court noted
+that ‘no court has concluded that a private right of
+action exists under Section 202. In fact, every court
+that has considered the issue has reached the opposite
+conclusion’.123 Accordingly, the court dismissed defend-
+ants’ counterclaim.
+
+Precedence of chapter
+The Act also sets forth a hierarchal sequence for decid-
+ing any conﬂicts with existing or future Acts. Speciﬁc-
+ally, the Act ‘takes precedence over any other Act which
+would require a disposition of rights in subject inven-
+tions of small business ﬁrms or nonproﬁt organizations
+contractors in a manner that is inconsistent with this
+chapter’.124 The Act takes precedence over any future
+Act ‘unless that Act speciﬁcally cites this Act and pro-
+vides that it shall take precedence over this Act’.125
+
+Implications for business concerns
+The statutory scheme of the Act is fraught with poten-
+tial pitfalls for the unwary. Contractors must be aware
+of the scope of the Act and understand when the gov-
+
+ernment may have rights to an invention. An invention
+conceived with private funds, but reduced to practice
+with the use of government funds, may result in gov-
+ernment rights to the invention. As discussed above, it
+is not always clear when a particular invention is a
+‘subject invention’, thus triggering government rights.
+Contractors should focus on the scope of work pro-
+vided in the funding agreement and determine whether
+the invention directly resulted from the work per-
+formed under that agreement or simply related to, or
+built upon, the knowledge gained under a government-
+funded project. It is prudent for federal contractors
+and their employees to delineate clearly the scope of
+work performed under funding agreements with gov-
+ernment agencies to maintain clear lines between such
+work and work performed under private funding
+arrangements.
+
+Secondly, employers should structure employment
+agreements to require present assignments of any in-
+vention made by an employee during the course of
+their employment. Without an assignment, the invent-
+or may retain full rights to the invention and thereby
+preclude both the employer and potentially the govern-
+ment agency from having rights in an invention. This
+often depends on the terms of the funding agreement
+and whether the inventor/employee is a party to the
+agreement or whether the agreement is solely between
+the employer and the federal agency. Contractors
+should carefully review their contractual arrangements
+with subcontractors and any agreements their employ-
+ees may be asked to sign regarding assignment of IP
+rights when working at other institutions or in tempor-
+ary positions with other contractors to ensure that the
+contractor’s rights are fully protected.
+
+Thirdly, contractors must understand the various
+time requirements of the Act. Employees should bring
+potential inventions promptly to the attention of the
+employer/contractor. The contractor then must ad-
+equately disclose those inventions to the funding agency
+
+119 ibid, at *12– 13.
+120 ibid, at *18– 20.
+121 ibid, at *35.
+122 The text of the statute and the legislative history failed to demonstrate
+an intent to create a private right of action: 853 F. Supp. 1215 (SD Cal,
+1993) at 1217.
+
+123 ibid at 1218 (citing Southern Research Institute v Grifﬁn Corp., 938 F.2d
+
+1249, 1254 (11th Cir 1991); Ciba-Geigy Corp. v Alza Corp., 804
+F. Supp. 614, 629 (DNJ 1992); Platzer v Sloan-Kettering Institute, 787
+F. Supp. 360, 365 (SDNY 1992); see also Madey v Duke University, 413
+F. Supp. 2d 601, 612 –3 (MDNC 2006), rejecting a private party’s
+attempt to assert a government licence defence based on a licence under
+the Act. Similarly, in Network Signatures, Inc. v Citibank, N.A., the
+United States District Court for the Central District of California
+rejected the defendant’s attempt to challenge various licensing decisions
+of a Federal agency under §209 of the Act because the Act does not
+
+provide for a private cause of action to enforce its provisions. No 08-
+0718, 2008 US Dist LEXIS 101494, at *7 –10 (CD Cal, 4 December
+2008).
+
+124 35 USC §210(a) (2006). Section 210(a) identiﬁes 21 legislative
+
+provisions over which it takes precedence, although it clearly indicates
+that the universe of precedence is not limited to the 21 listed. 35 USC
+§210(a)(1) –(21) (2006). Further, the Act has no effect on legislation
+that governs ‘the disposition of rights in inventions made in the
+performance of funding agreements with persons other than nonproﬁt
+organizations or small business ﬁrms’: 35 USC §210(b) (2006).
+
+125 35 USC §210(a) (2006). The additional subsections of §210 provide
+further limitations on the precedence of the Act, including that the
+provisions of the Stevenson-Wydler Technology Innovation Act 1980
+take precedence over ‘the provisions of this chapter to the extent that
+they permit or require a disposition of rights in subject inventions
+which is inconsistent with this chapter’: 35 USC §210(e) (2006).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+7
+4
+9
+7
+9
+6
+0
+2
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Bart A. Gerstenblith and Scott J. Popma . Bayh-Dole: Statute, regulation and implications
+
+ARTICLE
+
+509
+
+or agencies. Failure to do so may result in forfeiture
+of patent rights in a subject invention. If a contractor
+discovers after the fact
+that an invention was not
+timely disclosed to a federal agency, in most instances
+the contractor
+should promptly notify the agency
+upon such discovery. The agency is likely to respond
+either by permitting the contractor to elect to retain
+rights or rejecting such retention. If the agency rejects
+the contractor’s retention of rights, at a minimum, the
+contractor could limit the investment and expense of
+developing and marketing the invention, rather than
+investing resources in the development of the inven-
+tion only to discover years later that the contractor’s
+title is voidable.
+
+Fourthly, contractors
+
+should understand what
+
+it
+means to be ‘manufactured substantially’ in the USA. Al-
+though the term is deﬁned in neither the statute nor the
+governing regulations, analogous legislation can provide
+a clue to a likely agency interpretation. The National
+Aeronautics and Space Administration deﬁnes ‘Manufac-
+tured substantially in the United States’ to mean ‘the
+product must have over 50 percent of its components
+manufactured in the United States’.126 The regulations
+also provide details on how the cost of each component
+and transportation factor into the calculation.
+
+a waiver
+
+One attractive option for foreign contractors
+
+is
+to seek a waiver of
+the ‘substantial manufacture’
+requirement. At least two agencies, the NIH and the
+Department of Energy, have standard forms online for
+seeking a waiver. If funding is provided by multiple
+government agencies, waivers should be obtained from
+each.
+If
+
+contractor
+breaches
+the ‘substantial manufacture’ requirement,
+the contractor then opens the door to the possibility
+that
+its
+march-in rights. Additionally, competitors may bring
+the contractual breach to the agency’s attention and
+try to encourage the agency to exercise its march in
+rights. Although an agency may be unlikely to march
+in, contractors run a signiﬁcant risk by failing to
+satisfy this requirement.
+
+agency might
+
+government
+
+exercise
+
+is not
+
+and a
+
+sought
+
+the
+
+involving IP rights. The diligence
+
+Finally, businesses must understand the Act when
+performing due-diligence related to potential licensing
+or portfolio purchasing agreements, or other transac-
+tions
+required
+includes at least a review of all employee contracts,
+funding agreements, subcontracts, and employee or
+other assignments. Businesses should also determine
+† whether an invention in question was disclosed ad-
+equately to the federal agency and title elected
+within the proper time constraints,
+† whether the licensor complied with the reporting
+† whether patent applications were timely ﬁled, and if
+so, whether the patent speciﬁcations contain the ap-
+propriate clause indicating government rights to the
+invention,
+† whether a non-proﬁt organization was involved, and
+† whether the appropriate party is manufacturing sub-
+stantially in the USA, and, if not, whether a waiver
+was obtained from each agency that provided
+funding.
+
+obligations and any agency requests,
+
+These are just some of the various issues that busi-
+nesses should consider, and ignoring even one could
+undermine the entire purpose and beneﬁt of a business
+transaction.
+
+the licensing of
+
+Objectives fulﬁlled
+The Bayh-Dole Act, by most measures, has fulﬁlled the
+objectives for which it was enacted. Over 30 years, the
+legislation has withstood the test of time and continues
+to substantially impact
+inventions
+developed with government
+funding and efforts to
+commercialize those inventions. Moving forward, for
+the Act to continue to have as great an impact on tech-
+nology transfer and commercialization efforts, it is im-
+portant
+follow the
+developments in the law and establish safeguards to
+ensure full compliance with the requirements of the
+Act to best protect their rights, particularly their patent
+rights, in subject inventions.
+
+government
+
+contractors
+
+that
+
+126 14 CFR §1274.911(9) (2011).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+7
+4
+9
+7
+9
+6
+0
+2
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+

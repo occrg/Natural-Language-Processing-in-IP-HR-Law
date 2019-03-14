@@ -1,0 +1,1895 @@
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2, pp. 53–82
+
+doi: 10.1111/jwip.12054
+
+Enforcing IPRs Through Investor-State Dispute
+Settlement: A Paradigm Shift in Global IP Practice
+
+Pratyush Nath Upreti
+Upreti and Associates, Kathmandu, Nepal
+
+Globally, we are moving towards stronger Intellectual Property Rights. Intellectual Property Rights (IPRs) have
+become an integral part of the regulatory system and they are included in investment, regulations and trade policies. It
+is now important to understand the linkage between them. Recent practices of International Investment Agreements
+(IIAs) include intellectual property as a deﬁnition of investment, giving the investor an alternate forum to enforce their
+IP under International arbitration tribunal. International investment laws focus mostly on the rights of the investor and
+diverse opinions of generally accepted international principles such as fair and equitable treatment that encourage
+investors to litigate intellectual property through Investor State Dispute Settlement (ISDS). This article will focus on
+the relationship between intellectual property and investment agreement in three aspects. The ﬁrst part of the article
+will focus on how intellectual property is treated as an investment. The second part emphasizes how an investor uses an
+investment agreement as a tool to enforce intellectual property. The last part of the article highlights the possible
+impacts of litigating intellectual property under ISDS, particularly focusing on TRIPS ﬂexibility.
+
+Keywords investment; ISDS; TRIPS; intellectual property
+
+In recent years, the relationship between intellectual property and investment related issues have been
+widely discussed. In an open market economy, developed countries have opted for investment agreements
+such as Free Trade Agreements (FTA), Bilateral Investment Treaties (BITs) to attract investors by
+strengthening the intellectual property regime. Recent cases have revealed the complexity and potential
+overlap between intellectual property and international investment law.
+
+The overlap received greater attention through Tobacco plain packaging policy and the subsequent
+dispute, which were brought before the arbitration tribunal. The plain packaging was result of the World
+Health Assembly’s adoption of the World Health Organization Framework Convention on Tobacco
+Control (WHO FCTC). Article 13(4)(a) of the FCTC states that each member shall: “prohibit all forms of
+tobacco advertising, promotion and sponsorship that promote a tobacco product by any means that are
+false, misleading or deceptive or likely to create an erroneous impression about its characteristics, health
+effects, hazards or emissions.”
+
+The WHO member countries have adopted such provisions, which prima facie seem to undermine two
+important functions of trademark: (i) the origin’s indicator and (ii) the communicative function as a
+conveyor of expectation, feeling and any other psychological message. Additionally, The tobacco
+companies generate substantial goodwill from the use of tobacco product and packaging, which also
+require immense investment. Moreover, companies use investment agreement to claim that the plain
+packaging legislation results in the expropriation of investment due to substantial deprivation of the
+intellectual property and goodwill, which consequently undermines the economic rationale of its
+investments and substantial destruction of the value of the tobacco company.1 Therefore, tobacco
+companies have a strong reservation on the above clause as it will have an adverse impact on their business.
+The national court in some jurisdictions have rejected such claims of trademark owners on the ground that
+the imposition of control on the packaging and presentation of tobacco products does not involve the
+accrual of a beneﬁt of a proprietary character, which would constitute an acquisition of property.2
+
+© 2016 John Wiley & Sons Ltd
+
+53
+
+Pratyush Nath Upreti
+
+Enforcing IPRs Through ISDS
+
+Furthermore, scholars have justiﬁed plain packaging under public heath consideration (Voon et al., 2012).
+After the exhaustion of remedy at the national level, an investor has relied on alternative forums, such as
+international arbitration tribunal under International Investment Agreements (IIAs). The larger question
+associated is whether an investor could use investor-state dispute settlement to enforce IP rights? If so,
+under such circumstances, the investor may use the alternative forum, but to what extent are such
+intellectual property claims justiﬁed?
+
+At the international level, the World Trade Organization (WTO) dispute settlement body decides on
+matters related to intellectual property. On the other hand, investor state dispute settlement (ISDS) has
+jurisdiction over any dispute arising from an investment. In most of the recent IIAs cover intellectual
+property as the form of investment, advancing an alternative way for an investor to protect their intellectual
+property rights. Under such circumstances, investors have challenged traditional intellectual property
+through claims of Most Favor Nation (MFN), fair and legitimate expectation, expropriation, full protection
+and security. Such practices have a severe impact on international intellectual property standards and also
+bring concerns of TRIPS ﬂexibility, which is discussed, in this paper. In addition, ISDS has been the
+concern for countries in negotiating investment agreements like Transatlantic Trade and Investment
+Partnership (TTIP) between the European Union and the United States and Trans-Paciﬁc Partnership
+(TPP), where twelve countries throughout the Asia paciﬁc region are members. There has been a serious
+concern raised in the European community on ISDS for they believe it creates a risk of “regulatory chill.”
+The issue is not yet settled. There are four ongoing cases: one at WTO Dispute settlement body,3 and
+the remaining three at international arbitration tribunal.4 This article aims to focus on the relationship
+between investment laws, intellectual property in light of recent cases and analyzes possible impacts of
+litigating IPRs through investor state dispute settlement.
+
+Intellectual Property as an ‘‘Investment’’
+The term “investment” is generally used in two senses. The ﬁrst sense is the process or transaction by
+which a person or legal entity makes an investment (Salacuse, 2013). The second meaning refers to the
+asset acquired as a result of investing (Salacuse, 2013). In both deﬁnitions of investment, does intellectual
+property ﬁt? The legal deﬁnition of investment, as it appears in the investment agreement is not necessarily
+in line with the economic deﬁnition. Most of the investment agreements deﬁne “investment” to include
+“every kind of asset” and accompany this deﬁnition with an illustrative list of assets that fall within the
+deﬁnition (Muchinski et al., 2008).
+
+In order to bring a claim under investment agreements, the burden lies on the investor to prove that he/
+she has made an investment within the scope of the agreement. Recent IIAs explicitly include intellectual
+property as one of the items under the deﬁnition of investment. For example, under the Australian-India
+Bilateral Investment Treaty (BIT), investment is deﬁned as “every kind of asset, including intellectual
+property rights invested by an investor . . .”5 In addition, few IIAs expressly mentioned the kinds of
+intellectual property protected under the agreement. For example, under article 6(d) of the Energy Charter
+Treaty, it deﬁnes investment as every kind of asset, owned or controlled directly or indirectly by an
+investor and includes “intellectual property.” Furthermore, intellectual property is explained as copyrights
+and related rights, trademarks, geographical indication, industrial designs, patents, layout-designs of
+integrated circuits and the protection of undisclosed information.6 A similar deﬁnition is incorporated with
+additional kinds of intellectual property in the Australia–Hungary BIT, which includes copyright,
+trademarks, patents, trade name, industrial design, trade secrets, know-how and goodwill.7 In addition, the
+Canadian Model BITs even includes “plant breeders” rights under the deﬁnition.8
+
+Some scholars have argued that even if intellectual property is not explicitly mentioned under the
+investment agreement, there can be claims of intellectual property under other aspects of the deﬁnition of
+
+54
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+Enforcing IPRs Through ISDS
+
+Pratyush Nath Upreti
+
+Investment (Voon et al., 2012). Some characteristics of investment include real estate or tangible or
+intangible property9 or any kind of assets and any contribution in cash, in kind or in services, invested or
+reinvested in any sector of economic activity.10 This characteristic of investment would be considered as a
+broad domain of property rights, which include intellectual property. The speciﬁc incorporation of
+intellectual property under the deﬁnition of an investment means it could potentially subject IP to the
+general guarantee afforded to the investor under the BITs. Therefore, a broad form of intellectual property
+gives an advantage to the Investor. Although, some BITs include “good will” under the deﬁnition of
+investment, but there has been debate whether, folklore, traditional knowledge and genetic resources are to
+be covered under the deﬁnition of investment.11
+
+Definition of Investment in the ICSID Convention
+To bring a claim under the International Center for Settlement of Investment Disputes (ICSID)
+Convention, it is not enough to demonstrate investment under BITs or FTAs (Mitchell and Wurzberger,
+2011). Since ICSID has jurisdiction over legal disputes arising directly out of an investment, the
+investor must prove that the activity of the investor must come within the “investment” deﬁnition under
+article 25(1) of ICSID Convention;
+
+“The jurisdiction of the Centre shall extend to any legal dispute arising directly out of an
+investment, between a contracting state and a national of another contracting state, which the
+parties to the dispute consent in writing to submit to the Centre. . .” (emphasis added)
+
+The term “investment” is not deﬁned under ICSID Convention. The drafters having thought that the
+state should have broad discretion to deﬁne the terms of purposes of their consent to the ICSID jurisdiction
+(Vandevelde, 2010). In general, the tribunal, while determining the dispute arising out of investment
+within the meaning, examines whether there exists the risk in the expectation of periodic return and assets
+that contribute to economic development. In addition, the tribunal follows some other criteria commonly
+known as Salini criteria. The tribunal in Salini v Morocco12 laid down four characteristics of investment;
+(i) commitment (ii) duration (iii) risk and (iv) contribution to economic development in determining
+investment within the Convention. Although, these criteria were previously identiﬁed in Fedax v.
+Venezuela,13 it received wider acceptance through the Salini case. In subsequent cases, the reliability of
+the Salini criteria was raised. The important question was whether any factors of Salini criteria must be
+fulﬁlled to identify investment under the convention or if all the factors are to be considered together. The
+same issue was raised in the Malaysian Historical Salvors v. Malaysia14 case arising under the United
+Kingdom–Malaysia BIT where the arbitrator found that the other tribunal had been split over the question
+and suggested that the tribunal might be more inclined to treat the criteria as necessary when the evidence
+in favor of their existence or nonexistence was strong, but to treat them as a factor where the evidence was
+less conclusive.15 The arbitrator’s emphasis was on the fourth point of the Salini criteria and found that
+contribution to development must be “signiﬁcant” because to ﬁnd otherwise, as a practical matter, would
+eliminate the requirement.16 Furthermore, the tribunal reviewed the history of the convention and found
+that the drafting committee deliberately omitted the deﬁnition of investment in order to permit the parties,
+through their consent, to determine the kinds of disputes that would be considered disputes arising directly
+out of an investment.17 The fourth criteria of Salini test are securitized in several cases. Recently the
+tribunal in Saba Fakes v. Republic of Turkey18 was not convinced on fourth criteria of Salini test and found
+that:
+
+“the economic development of a host State is one of the proclaimed objectives of the ICSID
+Convention, this objective is not in and of itself an independent criterion for the deﬁnition of an
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+55
+
+Pratyush Nath Upreti
+
+Enforcing IPRs Through ISDS
+
+investment. The promotion and protection of investments in host States is expected to
+contribute to their economic development. Such development is an expected consequence, not
+a separate requirement, of the investment projects carried out by a number of investors in the
+aggregate.”19
+
+A similar approach20 was taken in Biwater v. Tanzania21 a case arising under the United Kingdom-
+Tanzania BIT. The tribunal observed that “ there is no basis for a rote, or overly strict, application of saline
+criteria in every case. These criteria are not ﬁxed and mandatory as a matter of law. They do not appear in
+the ICSID convention.” Further, the tribunal refers to the history of the convention where several attempts
+to incorporate a deﬁnition of “investment” were made but ultimately did not succeed. In the end, the term
+was left intentionally undeﬁned, with the expectation that a deﬁnition could be subject to agreement
+between contracting parties.22 Other tribunals found the Salini criteria were difﬁcult to judge and the
+criteria are not inherent as to whether property rights constitute investment.23 Interestingly, both the
+Biwater and Malaysian historical cases were not willing to accept the Salini criteria as mandatory, but
+these cases hint that the Salini criteria were merely guidelines and the scope of investment is very much
+subjective to the agreement.
+
+There is so much of divergence on acceptance of the so-called Salini criteria. However, sometimes the
+tribunal directly applies Salini criteria in determining “investment” without reﬂecting into BITs. The
+tribunal in Philip Morris v. Uruguay found the investment under article 25(1) must be analyzed on
+interplay with the deﬁnition of “investment” under the BIT without going beyond the outer limits set by
+ICSID Convention.24 The outer limit refers as “the ordinary meaning to be given to the terms of the treaty
+in their context and in the light of its object and purpose. The notion covers a wide range of economic
+operations conﬁrming the broad scope of its application, subject to the possibility for States to restrict
+the jurisdiction rational material by limiting their consent either in their investment legislation or in the
+applicable treaty.” Further, the tribunal disagrees to accept that the ICSID Convention and BITs preamble
+makes a signiﬁcant contribution to the meaning and scope of the term investment.
+
+On the other hand, the tribunal in Ambiente Ufﬁcio v. Argentina25 have found Salini test as useful
+guidelines, which may help to identify and exclude extreme phenomena that must be outside of the term
+“investment” in article 25 of ICSID Convention.26 Therefore, the current trend of decision highlights
+Salini criteria as guidelines but not the rule (Gaillard, 2009). In Apotex Holding vs. United States of
+America,27 Apotex claimed marketing rights, goodwill and intellectual property rights involved in the
+product which was imported, to be qualiﬁed as an investment. Although the tribunal rejected the argument
+of Apotex and held that it lacked jurisdiction over the claims of the Canadian company in respect of its
+efforts to bring new generic drugs to the market in the United States (Tan and Bouchenaki, 2014). The
+interesting aspects of Apotex argument were that his investment of millions of dollars in developing drugs
+and preparing for the United States regulatory ﬁling in order to attain an economic beneﬁt in the United
+States should be seen as an “investment.”28 Additionally, Apotex substantiated his argument on the
+premises that the Food and Drugs Administration (FDA) application is considered as property, tangible or
+intangible.29 The tribunal dismissed Apotex arguments based on the ground that Apotex did not have a
+place of business in the US and all the investment in drug development was done outside the United States.
+Also, FDA approval was a regulatory requirement to do business in the US and thus did not amount to an
+investment.30 It is evident that Apotex’s argument was very far-fetched. However, it elevates an interesting
+question: whether a product that possesses intellectual property, although not commercialized in the host
+country but only exported, comes within the preview of investment? It seems to be that the decision in the
+Apotex case has limited such scenarios.
+
+In Philip Morris vs. Uruguay,31 under “Switzerland-Uruguay BIT” Phillip Morris argued that the
+ordinance of Uruguay related to mandatory packaging requirement restricted his rights to use its trademark
+
+56
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+Enforcing IPRs Through ISDS
+
+Pratyush Nath Upreti
+
+(mandatory 80% health warning), and that the ordinance has forced to discontinue a number of its products
+varieties. Overall, it caused a deprivation of its intellectual property and a substantial reduction in the
+values of a company. As a result, they have already sustained and will continue to sustain a substantial
+loss.32
+
+On the other hand, Uruguay argued that the “investment” must contribute positively and signiﬁcantly
+to development33 where Philip failed to make such contribution. The argument of respondent was based on
+the preamble of the ICSID Convention, which refers to the need of international co-operation for economic
+development34 as a result of the investment, which will have a positive impact on the development of
+the host state. In addition, Uruguay argued that the negative impact of consumption of tobacco product
+results to the economic harm of Uruguay.35 The tribunal analyzed the concept of investment under
+article 25(1), where it observed that investment must be interpreted by reference ﬁrst of all to “the ordinary
+meaning to be given to the terms of the treaty in their context and in the light of its object and purpose”
+(Dekastros, 2013). Tribunal refuses to accept arguments of respondent as to preamble of BIT, which
+highlights the important role of foreign investment in economic development processes and considered to
+be too general. Tribunal in determining investment observes, “ the four constitutive elements of the Salini
+test does not constitute jurisdictional requirements to the effect that the absence of one or the other of these
+elements would imply a lack of jurisdiction. They are a typical feature of investments under the ICSID
+Convention, not a set of mandatory legal requirements.” The Salini test will assist in identifying presence
+of an investment but cannot defeat the broad and ﬂexible concept of investment under the ICSID
+Convention to the extent it is not limited by the relevant treaty, as in the present case.36
+
+To conclude, the recent trends of the deﬁnition of investment under IIAs are so broad, that it is easily
+equated with a broad approach of investment under the ICSID Convention. The reason behind the open-
+ended deﬁnition of investment was a strong attraction for promoting investment ﬂow (Sauvant and Ortino,
+2013). The broad deﬁnition gives clarity on the scope of protection with a predictable subject matter.
+However, a disadvantage of the open-ended deﬁnition is it gives no opportunity for states to avoid ICSID
+jurisdiction. As a result, it will encourage more investors to use the Investor-state dispute settlement. At the
+end, to argue intellectual property comes under these criteria is determined on a case-by-case basis.
+
+Possible Investment Claims Invoking Intellectual Property Obligation in Investment
+Disputes
+The IPR challenge against a state is not a new approach for an investor. One of the ﬁrst cases of IPR
+challenge against the state was in 1994 that US tobacco companies brought against Canada under NAFTA
+(Liberti, 2010). The issue in dispute was the generic plain packaging of cigarettes but did not get much
+attention because the Canadian Supreme Court later, in 1995, struck down the regulation as the violation of
+the tobacco industry’s freedom of expression and the Canadian Charter of Rights and Freedoms (Liberti,
+2010). Similarly, in Nicaragua S.A v. The Republic of Nicaragua37 under Netherlands–Nicaragua BIT, the
+seizure of Intellectual property was argued as unlawful expropriation and an unfair and inequitable act.
+Later the case was amicably settled outside tribunal. These two were the early cases where IP claims
+brought under investment tribunal but did not receive greater attention like Australian tobacco plain
+packaging and the Eli Lilly case. It is evident from practice that “intellectual property” is an important
+component of the deﬁnition of investment under IIAs. In general, investors have mostly invoked IP claims
+only after exhausting their domestic remedy. The nature of diverse tribunal opinion allows intellectual
+property investors to formulate border claims and expects the favorable result. This is because the tribunal
+has adopted the investor-centered interpretative approach (Huiping, 2011). In this section, I will analyze
+possible investor arguments before tribunal through claims such as MFN, Fair and Equitable treatment
+standards, Expropriation and Full protection and security, respectively.
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+57
+
+Pratyush Nath Upreti
+
+Enforcing IPRs Through ISDS
+
+Intellectual Property and Most Favored Nation (MFN) Principle
+The Most Favored Nation (MFN) principle is the cornerstone of International investment law. MFN
+protects foreign investors any beneﬁt or advantage granted by the host country to investors from any third
+country (Huiping, 2011). It enables an investor to take advantage of the higher standards of investor
+protection that may be contained in investment treaties to which a host country is a party (Huiping, 2011).
+In relation to invoking MFN principle in investment disputes claiming intellectual property protected as an
+investment, there exist important questions: can an investor rely on IIAs MFN provision to demand a more
+favorable treatment that may be available under international IP treaty to protect intellectual property
+rights as an “investment” under IIAs. The relevant International IP treaty includes TRIPS or TRIPS-plus
+Agreement (Trade agreement with a high level of IP protection). This question is important not from a
+point of view of the scope of MFN rules in a IIAs, rather consequences of invoking IP obligation through
+ISDS. Although, WTO TRIPS agreement does not allow a private person to depend on MFN provision,
+so does IIAs under ISDS offer a substitute?
+
+How Far do MFN Principles Offer Protection to Intellectual Property Rights?
+The question becomes more relevant as MFN principle is not only incorporated under IIAs, it is also well
+referred under TRIPS Agreement. The only relevant difference between two systems of protection is,
+TRIPS allows the state to rely on MFN clause in dispute under WTO Dispute Settlement body. The scholar
+H. Ruse Khan in his work (Khan, 2014) raises a question: can an investor rely on the IIAs MFN rule in
+order to challenge compliance of the host state with IP protection or enforcement obligations under TRIPS
+or even TRIPS-plus FTA by arguing that such protection must be made available to him as more favorable
+treatment of his IP rights as investments? The question raised by H. Ruse. Khan is very challenging. But in
+the recent cases of plain packaging, the claimant may use MFN of IIAs to have more favorable treatment.
+Illustrative in the case of plain packaging, Philip Morris may use MFN principle under IIAs to enforce host
+state to comply with TRIPS obligation in respect of article 20 of TRIPS. However, MFN clause is yet to be
+argued to enforce “intellectual property” under IIAs. But there has been a case where MFN provision is
+used to claim the beneﬁt of more favorable procedural and substantive protection.38 Therefore, the
+language used in IIAs such, as “in like circumstances” may be used to function MFN clause to oblige treaty
+obligation to protection intellectual property.
+
+Scholars and commentators like Tania Voon (Voon et al., 2012) and Bertram Boie (Boie, 2010) have
+suggested that the answer to above question could be found by applying “ejusdem generis,” to which MFN
+provisions apply to “those rights, which fall within the limits of the subject matter of the clause” (Ziegier,
+2008). In Maffezini v. Spain39 tribunal have stated that:
+
+“If a third party treaty contains provisions for the settlement of disputes that are more
+favorable to the protection of the investor’s rights and interests than those in the basic treaty,
+such provisions may be extended to the beneﬁciary of the most favored nation clause as they
+are fully compatible with the ejusdem generis principle.40 Of course, the third-party treaty has
+to relate to the same subject matter as the basic treaty, be it the protection of foreign
+investment or the promotion of trade, since the dispute settlement provisions will operate in
+the context of these matters, otherwise there would be a contravention of ‘ejusdem generis.”
+
+The ratio of the above case is that the “ejusdem generis” principle is to be applied in determining
+whether the provision of the third party treaty relates to the treatment accorded under MFN clause of the
+main basic treaty. Further, tribunal also made a reference to Ambatielos case41 where relevance of
+“ejusdem generis” principle conﬁrmed and veriﬁed that s clause can only attract matters belonging to the
+same category42 of subject matter as that to which the clause itself relates.43 This raises important
+
+58
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+Enforcing IPRs Through ISDS
+
+Pratyush Nath Upreti
+
+questions such as to how would tribunal determine that the subject matter of IIAs relates to the subject
+matter of another Treaty. It is not clear how the tribunal would determine the subject matter but it may be
+assessed through the intention of parties to the agreement.
+
+From the above case law, it is clear that intellectual property per se, may not necessarily be the core
+subject matter of IIAs. But again it depends upon the wording of IIAs. In Plama v. Bulgaria,44 under the
+Bulgaria-Cyprus BIT, tribunal emphasis the scope of MFN is to determine by the intention of parties in
+IIAs that must also be clear and unambiguous.45 In addition, Tribunal observes that;
+
+“Dispute resolution provisions in a speciﬁc treaty have been negotiated with a view to
+resolving disputes under that treaty. Contracting states cannot be presumed to have agreed
+that those provisions can be enlarged by incorporating dispute resolution provisions from
+other treaties negotiated in an entirely different context.”46
+
+This observation may not be a very rationale to the support the argument. But to some extent, it does
+makes clear that MFN provision incorporated under investment agreement should not be presumed to be
+used in the context of other international IP treaties. This is because both IIAs and TRIPS use MFN
+provision in different contexts and cannot be treated by MFN as a same ﬂoor in both forums. Thus, it
+appears from case law that MFN provision should not used as a “treaty shopping” tool (Alvik, 2011).
+
+MFN Under TRIPS
+The very fundamental question, which may be raised in WTO dispute settlement unit, is the extension of
+TRIPS MFN provision to ISDS with respect to intellectual property. Under such circumstances, it may be
+important to analyze the rationale47 of MFN provision under TRIPS. Although, scholars (Voon et al.,
+2012) are not skeptical regarding the interpretation of WTO Appellate Body in extension of TRIPS MFN
+to ISDS under Ukraine WTO claim against plain packaging.
+
+The issues seem to be more complex, if it is accepted that MFN under IIAs gives an obligation to the
+host country to extend protection or enforce an obligation under TRIPS then two complex problems arise.
+First, there would be the situation where before a country (who is also a member of TRIPS agreement)
+would implement TRIPS provision in domestic law, it gets implemented on the ground that relevant IP
+treaty directly provides more favorable treatment to the right holder from contracting state (Alvik, 2011).
+Second, whether the member of TRIPS agreement also party to the BITs is obliged to extend these
+standards to all world Trade organization (WTO) members under MFN principle enumerated under TRIPS
+agreement?
+
+To answer this question, we need to analyze article 4 of the TRIPS agreement, which states:
+
+“With regard to the protection of intellectual property, any advantage, favour, privilege or
+immunity granted by a Member to the nationals of any other country shall be accorded
+immediately and unconditionally to the nationals of all other Members.” (emphasis added)
+
+The key difference between MFN in WTO agreements and TRIPS is that later does not contain the
+explicit exception for MFN principles (McRae, 2012). The historical development of TRIPS highlights
+that the initial draft of TRIPS includes exception on MFN but later it was excluded (Correa, 2010). The
+rationale of excluding MFN exemption would be to give way in which intellectual property chapters in
+FTAs are encouraged, which can be used to increase intellectual property standards in the multilateral
+framework (Correa, 2010). Even the application of MFN principle under GAAT and TRIPS is different.
+For example under GAAT if a tariff is lowered down, then it must be applied to all WTO members unless it
+is subject to MFN exception (Correa, 2010). Whereas, under TRIPS agreement, changes in IP provision as
+a result of FTAs applies to the local right holder and with national treatment provision, it is applied to the
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+59
+
+Pratyush Nath Upreti
+
+Enforcing IPRs Through ISDS
+
+foreign nation within the jurisdiction (Correa, 2010). Therefore with more FTAs, a new provision is added;
+as a result with the passage of time it is likely to be a norm.
+
+This means that omitting exception to MFN principle is a way to promote FTAs. Does this mean that
+the intention of the maker of TRIPS was that the MFN principle under FTA is read as MFN under TRIPS?
+Neither the history of TRIPS or any scholars have argued on this. But if we analyze the footnote of article 4
+of TRIPS, MFN does give the answer to this context. Article 4 of TRIPS states;
+
+“For the purpose of articles 3 and 4, “protection” shall include matters affecting the
+availability, acquisition, scope, maintenance and enforcement of intellectual property rights
+as well as those matter affecting the use of intellectual property rights speciﬁcally addressed
+in this agreement.”
+
+The above “footnote” of article 4 of TRIPS clearly highlights the scope of article, is only limited to
+intellectual property within the agreement. It means MFN principle under TRIPS does not extend to the
+investment agreement. Hence, claiming MFN provision to litigate IP claims seems notorious and far-
+fetched. Although MFN principle is enumerated in both TRIPS and IIAs, the intention of adding them to
+both agreements has a different purpose. The MFN principle under TRIPS was introduced with an
+intention that WTO members would integrate IP ﬁrmly into the multilateral trading system or to have
+common “ﬂoor of IP right internationally (Boie, 2010).” On the other hand, the rationale of MFN clause in
+BITs was to spread equal rights internationally (Boie, 2010).48 Even, MFN principle under article 4 is
+ambiguous, what constitutes, advantage, favor, privilege’ in IP protection is not much clearer and what
+type of advantage would be considered against MFN principle is difﬁcult to determine (Yamane, 2011).
+For example: In a hypothetical scenario, the requirement of patent ﬁling should be made not only in the
+language of the country but also in English, which would offer an advantage to English speaking nationals
+(Yamane, 2011). Can such a scenario be considered as the violation of MFN? Certainly not. Therefore,
+framers of TRIPS do not intend in extending MFN principle under TRIPS to free trade agreement and such
+practices will lead into a more complex scenario.
+
+Fair and Equitable Treatment
+Fair and equitable treatment (FET) is one of the golden rules embedded in all international investment
+agreements. Its application in most cases is difﬁcult for various reasons. First, investment treaties do not
+deﬁne the term “fair and equitable treatment.” Second, the vagueness of the concept has lead to several
+interpretations in judicial and arbitral practice, and added to an elaborate content (Weil, 2000). The
+tribunal generally rely in some criteria (Salacuse, 2010) to determine whether the host state has acted in fair
+and equitable treatment standard; (i) failed to protect the investor’s legitimate expectation (ii) the host state
+failed to act transparently (iii) acted arbitrarily or subjected the investor to discriminatory (iv) denied the
+investor access to justice or procedural due process (v) acted in bad faith.
+
+The recent trend of IP investment claims shows that investor often relies on fair and equitable
+treatment to make their argument. The question is to what extent investor can rely on FET clause to protect
+their intellectual property.
+
+How Much Intellectual Property Must the Investor Expect?
+The very idea of an investment agreement is to create an expectation of proﬁt in the mind of investor that
+will lead into capital and technology ﬂows to the country in question.49 The investor’s legitimate
+expectations are fundamental to the investment process. There have been several attempts to deﬁne
+“legitimate investor expectation.” In the NAFTA case of International Thunderbird Gaming Corp v
+United Mexican States,50 legitimate expectation was deﬁned as “a situation where a contracting party’s
+
+60
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+Enforcing IPRs Through ISDS
+
+Pratyush Nath Upreti
+
+conduct create reasonable and justiﬁable expectations on the part of an investor (or investment) to act in
+reliance on said conduct and failure by party to honor those expectations could cause the investor (or
+investment) to suffer damages.”
+
+In Philip Morris v Uruguay under Switzerland-Uruguay BIT, Philip argument was based on premises
+that it violates the reasonable expectation of Philip as an investor. Philip argued that even though the host
+state has a sovereign right to change its regulatory framework, such changes must be fair and equitable in
+light of the investor’s legitimate expectations. By issuing an ordinance, which contains both the single
+presentation requirement and the requirement concerning the demanding pictograms and excessive health-
+warning requirement in tobacco package failed to maintain a stable and predictable regulatory framework
+consistent with Philip Morris legitimate expectations. In particular, the measures frustrate one of the most
+fundamental expectations that any investor may have, which is that a host state will comply with its own
+law and respect private property.51
+
+Similarly, Philip Morris Asia v The Commonwealth of Australia, under Australia–Hong Kong BIT,
+PMA argues that plain packaging legislation frustrate Philip Morris Asia’s legitimate interests and
+expectations given the fundamental and adverse impact on the value and proﬁtability of its investment in
+circumstances where plain packaging will actually undermine rather than support the purported public
+health rationale of the legislation and where the measure violates international law.52 Additionally, PMA
+argues that Australian plain packaging policy severely affects their goodwill, effectively reducing it to a
+manufacturer of an undifferentiated commodity and undermining the economics of its business model. On
+the other hand, Australia justiﬁes legislation on the ground of right to regulate public health measures. But
+PMA argues that the plain packaging regulation has no demonstrable utility to improve public health,
+violates international law and effective alternative measures are available. In such scenario, the state
+cannot justify the imposition of the regulation on the investor. These cases show that investor’s expectation
+directly comes in conﬂict with state sovereign right to regulate on public interest matters such as health.
+
+Fair and Equitable Treatment and State Right to Regulation: Investor Mind the Gap
+On the similar line, in Eli Lilly vs. Canada53 under the North American Free Trade Agreement (NAFTA),
+Eli Lilly a pharmaceutical company invoked investment claims under UNCITRAL, on the ground that the
+patent invalidation by Canadian Court violated the principle of fair and equitable treatment, including
+Lilly’s legitimate expectation about the treatment of its investment and Canada’s obligation to refrain from
+conduct that is arbitrary, unfair, unjust and discriminatory.54 The claimant concern was Canada’s failure to
+rectify the promise doctrine under their patent system, which has lead to unsettled precedent on
+patentability in the pharmaceutical sector. Further, it was argued that “Eli Lilly was entitled to reasonably
+rely on the stability, predictability, and consistency of Canada’s legal and business framework existing at
+each stage of the establishment, expansion, and development of Lilly’s investment.”55 In addition, a very
+interesting argument was advanced, as Eli Lilly through public disclosure of patent had a contract with the
+State to have an exclusive right to exploit its invention for a speciﬁed period of time. So, Eli Lilly could not
+have anticipated that requirement for utility at the time of its investment would be so drastically altered by
+the creation of the promise doctrine, which has been applied discriminatorily and arbitrarily to invalidate
+pharmaceutical patents.56
+
+The above cases raised a fundamental question on the scope of application of “fair and equitable
+treatment or reasonable expectation of investment” under intellectual property investment claims. The
+investor expectation should not be subjective and not all expectation of investor is legitimate (Tellez,
+2012). Moreover, the arguments put forwarded by Eli Lilly directly come in conﬂict with state’s sovereign
+right to regulate the domestic intellectual property. The investor completely ignores the difference
+between pre-existing rights and post-existing rights. Both pre and post rights have limitations. The right
+does not arise if a prerequisite is not fulﬁlled. Similarly, once rights are acquired, it cannot be absolute; it is
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+61
+
+Pratyush Nath Upreti
+
+Enforcing IPRs Through ISDS
+
+subject to changes on several grounds. For example, combined reading of TRIPS and DOHA allow a
+member state to impose a compulsory license on existing Patent. Additional, the scope of a compulsory
+license is broadening through Doha Declaration where a member state is free to determine national
+emergency and there may also be a need of access to medicine. In such circumstances, a patent may be
+revoked through compulsory license. The broad approach of FET may give a platform for an investor to
+argue that at the time of investment he had granted the patent and had a reasonable expectation of
+exploitation of investment (patent) over a period of time, without any barrier (compulsory license) from
+the state. Further, this argument is coupled with contracting state promise to give some degree of protection
+and security. It means the host state has the obligation to take measures to protect the investor (investment)
+from negative action, which may affect them (Dolze and Schreuer, 2008). But the concept itself is very
+ambiguous, some BITs has recognized “full protection and security” as an obligation to provide the level
+of police protection.57 In some cases, the tribunal has taken into consideration the deﬁnition of investment
+which includes both tangible and intangible assets, and found such concepts as obligation to provide full
+protection and security is wider than “physical” protection and security.58 So, it is not only physical
+protection, rather the stability afforded by a secure investment environment, which is important from an
+investor point of view.59
+
+In practice, fair and equitable treatment, full protection and security are not absolute; there are
+limitations. Parkerings-Compagniet AS v. Lithuania60 analyzes that the state’s sovereign power to
+regulate lies on higher foot then claims of fair and equitable treatment. Tribunal states;
+
+“It is each state’s undeniable right and privilege to exercise its sovereign legislative power. A
+state has the tight to enact, modify or cancel a law at its own discretion. Save for the existence
+of an agreement, in the form of a stabilization clause or otherwise, there is nothing
+objectionable about the amendment brought to the regulatory framework existing at the time
+an investor made its investment. As a matter of fact, any businessman or investor knows that
+law will evolve over time. What is prohibited however is for a State to act unfairly,
+unreasonably or inequitably in the exercise of its legislative power.”
+
+It is an established principle, that “fair and equitable” treatment must be seen in light of an agreement
+and must not be unjust or in an arbitrary manner to a level unaccepted in international practice,61 but
+when its comes to conﬂict with regulatory right of state, the tribunal generally weigh claimants legitimate
+and reasonable expectation on the one hand and the respondent’s legitimate regulatory interest on the
+other.62 Similarly, tribunal decisions highlights that the host state may take public policy argument even if
+it affects investment, but the host country must have implemented policies bona ﬁde. And such conduct
+does not noticeably violate the requirements of consistency, transparency, even-handedness and non-
+discrimination. The tribunal in Waste Management II interpreted NAFTA and establishes a test;
+
+“the minimum standard of treatment to the claimant if the conduct is arbitrary, grossly unfair,
+unjust, idiosyncratic, is discriminatory and exposes the claimant to sectional or racial
+prejudice, or involves a lack of due process leading to an outcome which offends judicial
+propriety-as might be the case with a manifest failure of natural justice in judicial proceedings
+or a complete lack of transparency and candor in an administrative process.”
+
+Particularly in Europe, the critics of ISDS have raised that such limitation of the state’s right to
+regulate may bring the regulatory snare. Therefore, Europe is trying to narrow down the scope of the
+provision under an agreement to avoid vague interpretation by a tribunal. The previous agreement such as
+CETA63 and EU- Singapore64 FTA was drafted in a way to have a higher benchmark on the right to
+
+62
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+Enforcing IPRs Through ISDS
+
+Pratyush Nath Upreti
+
+regulate. For example under CETA, article X.9 clears list down the contents of fair and equitable treatment
+such as (i) denial of justice in criminal, civil or administrative proceedings (ii) fundamental breach of due
+process (ii) arbitrary conduct and among others. The closed list avoids unwarranted interpretation by the
+tribunal, which may affect state right to regulate. Similarly, article X.11 excludes expropriation claims on
+compulsory license and exclusively explains that
+indirect expropriation occurs when measures
+substantially deprive the investor property right such as (i) right to use (ii) enjoy and dispose of its
+investment (iii) transfer of title or seizure. In spite of such approach, public outcry on ISDS provision
+seems to be a major hurdle for the European Union. Therefore, to negate such scenario and create a positive
+public opinion on TTIP, the commission has proposed “Investment Court”65 to address investor claims.
+The proposed “investment court system” is in the initial phase, but it gives us an impression that countries
+have realized the need to limit the expectation of investor through strict language in the agreement or
+alternative option also needed to be thought.
+
+To conclude, the diverse decision has created several criteria of determining fair and equitable
+treatment. Generally fair and equitable treatment is seen by an investor as a hurdle to proﬁt making or
+depriving fruits of the investment. Therefore, in most of the investment claims, FET is ought to be argued
+upon. Thus, it is very important to undermine the expectation of Investor.
+
+Fair and Equitable Treatment (FET) and International Treaty Obligation
+Mostly, investors have enjoyed FET arguments with a great amount of success as nearly 75% with
+investment disputes have been found to be a violation of FET.66 As, discussed earlier, an investor may use
+international treaty obligation such as TRIPS agreement to enforce their IP rights under IIAs. It is also
+important to note that the concept of fair and equitable treatment is also embedded in the TRIPS Agreement
+under part III; Enforcement of Intellectual Property Rights. Unlike, MFN and National treatment, “fair and
+equitable treatment” is not standardized under the agreement. But it does have reference to enforcement of
+IPR, which states:
+
+“Proceeding concerning the enforcement of intellectual property rights shall be fair and
+equitable. They shall not be unnecessarily complicated or costly, or entail unreasonable time-
+limits or unwarranted delays.”67
+
+Prima facie, it looks like the reference of “fair and equitable treatment” under TRIPS does not mean it
+must be treated with the same meaning as under investment law. However, reference under TRIPS may
+make an investor greedy to argue to claim broader protection. The ground for FET has become more
+controversial in respect of IP claims under investment agreement through Eli Lilly case. There have been
+serious concerns raised by scholars regarding the broad scope of FET68 and some are advocating on
+narrowing the scope of FET in IP claims (Khan, 2014). Even though, concerns are raised in academia, a
+leading international law ﬁrm Jones Day has a different opinion. The ﬁrms makes reference to Supreme
+Court of India’s decision in Natco v. Bayer and argues that such a decision on compulsory license without
+time limit violates a foreign pharmaceutical company’s legitimate expectations:69
+
+“The basic patentability standards of the TRIPS Agreement have been guaranteed to Novartis
+Investment in India ever since India agreed to become TRIPs-complaint in 2005; denying a
+patent in violation of those standards, therefore, may constitute a violation of those standards
+therefore may constitute a violation of the fair and equitable treatment standard. In Bayer’s
+case, the sheer length of time for which the compulsory license was granted to the India
+the patent’-and the fact that no national health
+company- i.e.,
+‘emergency’ exists to justify such a license over a ‘non-life saving drug’, are just two reasons
+to suggest that India has run afoul of article 31 of TRIPS”
+
+the ‘balance term of
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+63
+
+Pratyush Nath Upreti
+
+Enforcing IPRs Through ISDS
+
+This leads to an important question; can an International treaty obligation be a source of legitimate
+expectation under IIAs? Both PMA and Eli Lilly have argued on the basis of host country international IP
+obligation under TRIPS and Patent Cooperation Treaty (PCT). Eli Lilly makes reference to the disclosure
+obligation in the PCT obligation, which was reﬂected in Canada’s statutory law, and such changes in
+disclosure agreements, was not anticipated. Such additional disclosure obligation by the Canadian court
+resulted in invalidation of Eli Lilly patent, violating the legitimate expectation of Eli Lilly as investor.70
+Similarly, PMA argued that the tobacco packaging is incompatible with Uruguay’s treaty obligations
+under TRIPS and Paris Convention.71 In general, the tribunal does not take other sources of law in
+determining the matter in dispute. However, considering a wide range of interpretation by the tribunal, you
+cannot negate the possibilities. In Grand River Enterprises Six Nations, Ltd., et al v. the United States of
+America under NAFTA, the important question in consideration was whether the claimant reference to the
+treaty and other laws to assert reasonable expectation was within the customary international law.72
+Tribunal concludes;
+
+“the customary standard of protection of alien investors investment does not incorporate
+other legal protections that may be provided investor or classes of investors under other
+sources of Law. To hold otherwise would make article 1105 a vehicle for generally litigating
+claims based on alleged infractions of domestic and international law.”
+
+It is clear that the international treaty obligation, as a source of legitimate expectation argued by Philip
+Morris and other, does not have greater signiﬁcance because legitimate expectation is not absolute and the
+host state is not obliged to block its legal system for investor beneﬁts. Moreover, making reference to the
+TRIPS Agreement to treat “fair and equitable treatment” as same as investment law is a very weak
+argument. Therefore, there is no overlap of principle within IIAs and TRIPS but investors under IIAs have
+used FET to bring IP claims based on several decisions of the tribunals. We have yet to see how tribunals
+will rationale such arguments.
+
+Expropriation of Property
+The concept of “expropriation” under international investment law is controversial. Under international
+law, “expropriation” is not illegal per se’ (Schreuer, 2005). It illustrates both the infringement of private
+property and State sovereignty (Nikiema, 2012). A common example of expropriation clause incorporated
+in IIAs is found in NAFTA;
+
+No party may directly or indirectly nationalize or expropriate an investment of an investor of another
+party in its territory or take a measure tantamount to nationalization or expropriation of such an investment
+(“expropriation”), except;
+
+(1) for a public purpose
+(2) on a non-discriminatory basis
+(3) in accordance with due process of law and article 1105(1) and
+(4) on payment of compensation in accordance with (certain speciﬁed requirement)
+
+The above provision emphasis on protection from expropriation applies both to tangible assets and
+any other form of investment, which have economic signiﬁcance to an investor (Sampliner, 2003). Even
+the UNCTAD study recognizes expropriation of intellectual property under IIAs:
+
+“In the past, the concern was only with the physical property of a foreign investor. In modern
+times, the concern is not so much with the physical property but with the antecedent rights that
+
+64
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+Enforcing IPRs Through ISDS
+
+Pratyush Nath Upreti
+
+are necessary for the enjoyment of these property rights as well as with incorporeal
+property. . .. most recent BITs include intellectual property within the deﬁnition of foreign
+investment in treaties.”
+
+The tribunal in Phillips Petroleum Co. Iran v Iran recognized the scope of expropriation rights
+extends to intangible property. Similarly, the tribunal in Chorzow Factory73 case—the Polish measure to
+direct Germany Company who had a contractual relationship with Chorzow was considered as
+expropriated by factory owner. According to Permanent court of International Justice;
+
+“it is clear that the rights of the Bayerische to the exploitation of the factory and to the
+remuneration ﬁxed by the contract for the management of the exploitation and for the use of its
+patents, licenses, experiments, etc., have been directly prejudiced by the taking over of the
+factory by Poland.”74
+
+Generally, there are two kinds of expropriation: (i) direct expropriation (ii) indirect expropriation.
+Mostly, intellectual property claims are brought through indirect expropriation of rights. Although there is
+no standard deﬁnition of indirect expropriation, it depends upon a case-to-case basis. In determining
+deprivation, three questions75 need to be analyzed (i) has the measure reduced the economic value of the
+investment? (ii) Does measure deprive investor control over investment? (iii) What is the nature of the
+measure, temporal or permanent? On these criteria, I will examine Philip Morris v. Uruguay and
+Australian plain packaging case.
+
+In Philip Morris v Uruguay, PM raised expropriation claim on premises that the health measure taken
+by Uruguay was not as per due process of law as Uruguay used public health regulations without any
+compensation, to effect the expropriation.76 Similarly, in Australian plain packaging, PMA argued
+expropriated PMA investment by two ways: (i) limitation on the ability to use intellectual property through
+plain packaging reduces the value of share in PMA and severely impacted investment.77 (ii) Plain
+packaging affected the “good will” derived from use of intellectual property and loss of commercial use of
+IP and deprived PMA to be distinguished from other competitors product, destroying the commercial
+values of the intellectual property and goodwill.78
+
+The argument of Philip Morris does not have strong ground because, limitation on the use of the
+trademark is not absolute, and they can still use their trademark/brand name. Similarly, the plain packaging
+does make all packaging similar, but the regular smoker who has a habit of using a particular brand could
+surely identify a Philip Morris product and goodwill can be maintained. In spite of this argument, the major
+issue lies on public health and policy, and state right to regulate. In addition, the intellectual property part is
+smaller in the context of investment; therefore, tribunal may not accept such argument. On the other hand,
+there is a situation, where the tribunal has found that expropriation could occur when an investor is
+deprived of only part of its investment (Isakoff, 2013). In plain packaging context, scholars (Davison and
+Emerton, 2014) argue that the right of the trademark owner is negative, not positive.79 So, the trademark
+owner can exclude others from using it to mark and with respect to plain packaging, trademark registration
+does not give liberty to use trademark freely.80 Therefore, a trademark’s mere negative right does not
+deprive of its use through plain packaging. Thus, there is no deprivation of property.
+
+Similarly, Eli Lilly vs. Canada, Eli Lilly raised that Canadian court approach through promise doctrine
+was to revoke the patent ab initio, resulting into a deprivation of Eli Lilly exclusive right to prevent third
+parties from making, constructing, using or selling its patented product and to enforce it. In addition, Eli
+Lilly argued;
+
+“The expropriations are contrary to the public purpose that is inherent in the grant of a patent,
+which creates a bargain between the patentee and the government (representing the public
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+65
+
+Pratyush Nath Upreti
+
+Enforcing IPRs Through ISDS
+
+interest) pursuant to which the patentee receives an exclusive right to use the invention for a
+speciﬁed period of time in exchange for disclosure to the public of the invention. Canada’s
+failure to fulﬁll its side of this bargain is unfair and contrary to recognized principles for the
+protection of intellectual property.”81
+
+The Eli Lilly argument brings a very fundamental question: can invalidation of patents be considered
+as expropriation of property in breach of investment obligation? Moreover, the important question is
+whether the decision of the highest court of a country is challenged under ISDS? In the Eli Lilly case, the
+action is not taken by the regulator or through legislation, but it was state action through Judiciary. The
+concerns have raised over such practices, as it threatens the fundamental principle of national judicial
+system.82 However, the tribunal in Saipem vs Bangladesh83 highlights that the state judiciary action may
+be considered as expropriation only if does not abide by generally accepted standards of the administration
+of justice, arbitrary, unjust or violation of international law.84 The similar situation does not arise in Eli
+Lilly case. In general, governments defend such action on two grounds. First, through the government’s
+power of “Eminent Domain,” which entitle the government to take property for public beneﬁt. In this case,
+invalidation of the patent of Eli Lilly gives an opportunity to the generic company to manufacture drugs at
+lower price and citizens of Canada would beneﬁt. This argument does not hold great signiﬁcance because
+the “Eminent Domain” rule is subject to meaningful compensation.
+
+The issue is whether the invalidation of Eli Lilly patent amounts to indirect expropriation? The
+situation favors for indirect expropriation, because even though invalidation of patent Eli Lilly still posses’
+ownership of patent (investment) it cannot reduce the beneﬁt of the patent. The standard practice in
+determining indirect infringement is based on the establishment of the essential question: whether the
+enjoyment of the property has been effectively neutralized?85 In order words, the state interference was to
+the extent that the property rights are rendered so useless.86 It seems like indirect infringement is the
+strongest argument for Eli Lilly because; the invalidation of patent completely makes patent (investment)
+useless, although the patent holder may still have ownership. Even though, it may be Eli’s strongest
+argument, the tribunal may overlook it because of the host state legitimate interest.
+
+The scope of legitimate interest is not clear – it is considered as state police power.87 Even though
+what constitutes legitimate interest or state police power is not clear in International law, recent IIAs gives
+us an impression on what is generally accepted as the content of police power. For example, United States
+recently reviewed their older BIT model and introduced new 2012 US Model BIT aiming to address the
+broader public concern. Under new model an investor can claim indirect expropriation “except in rare
+circumstances, non-discriminatory regulatory actions by a party that are designed and applied to protect
+legitimate public welfare objectives, such as public health, safety, and the environment. . .”88 Even, though
+state has some legitimate interest, tribunal applies proportionality principle, aiming to weight the charge
+imposed to the investor and aim sought to be realized by an expropriating measure.89 Further in
+determining expropriation, tribunal sill considers “whether measures are proportional to the public
+interest presumably protected thereby, and to the protection legally granted to the investments, taking into
+account that the signiﬁcance of such impact has a key role upon deciding the proportionality.”90
+Therefore, state action under public interest would be justiﬁed only when the measure is the only option
+left to protect the public at large. Similarly, Comprehensive Trade and Investment Agreement (CETA)
+have limited the scope of expropriation with speciﬁc exclusion under article X.11 (6) CETA which states:
+“for greater certainly, the revocation, limitation or creation of intellectual property rights to the extent that
+these measures are consistent with TRIPS and Intellectual Property chapter of this Agreement, do no
+constitute expropriation.” Similarly, it also restricts the use of expropriation argument for the action
+inconsistent with the TRIPS Agreement. Thus, safeguard clauses used on the Agreement will certainly
+restrict the broad claim of expropriation.
+
+66
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+Enforcing IPRs Through ISDS
+
+Pratyush Nath Upreti
+
+TRIPS Flexibility and Investor Claim: How Far it Would Go?
+The Trade-related Aspects of Intellectual Property (TRIPS) was a result of comprise between developed
+and developing countries, which signiﬁes in TRIPS preamble that purportedly recognizes development
+and technological growth are the necessary basis of national IP laws, and that developing countries have
+“special needs” requiring ﬂexibility in the implementation of their IP Laws. The TRIPS Agreement
+provides a long list of ﬂexibility given to member states to adopt the law as per their country’s status. To
+analyze the impacts of ISDS, this section will deal with some of the ﬂexibility of TRIPS.
+
+Can Investor Challenge Patentability Standards?
+The patentability standards are the most vulnerable and can be challenged by the investor. Article 27 of
+TRIPS allows invention whether product or process in all ﬁelds of technology: if it is new, involve an
+inventive step and are capable of industrial application. Further, it lists subject- matter excluded from
+patentability. Article 27 does not deﬁne the terms “new,” “Inventive step” and “industrial application.” It
+allows a member state to deﬁne the terms in its own way. Similarly, article 28 confers the right of the patent
+holder to prohibit third parties from the act of making, using, selling, or importing. The combine reading of
+article 27 and article 28 makes clear that a pharmaceutical product or process comes within the TRIPS
+Agreement. However, a member state has the liberty to deﬁne terms in a way that would be a barrier to the
+pharmaceutical industry.
+
+India, one of the global players in drug manufacture,91 introduced the Patent Act in 2005 after
+completion of 10 years of transition. The 2005 version of Indian Patent Act introduced very debated and
+controversial provisions under chapter II on no patentable invention. According to article 3(d) of Indian
+Patent Act;
+
+“the mere discovery of a new form of a known substance which does not result in the
+enhancement of the known efﬁcacy of that substances or the mere discovery of any new
+property or new use for a known substances or of the mere use of a known process, machine or
+apparatus unless such known process results in a new product or employs at least one new
+reactant.”
+
+Further explanation illustrates as: for the purposes of this clause, salts, ethers, polymorphs,
+metabolites, pure form, particle size, isomers, mixtures of isomers, complexes, combinations and other
+derivative of known substances shall be considered to be the same substance, unless they differ
+signiﬁcantly in properties with regard to efﬁcacy.
+
+The Pharmaceutical giant Novartis challenged the constitutional validity of the above section and its
+compatibility with TRIPS in 2007. The Madras High Court declared it as constitutionally valid and
+declared enhanced efﬁcacy in section 3(d) as enhanced therapeutic effect. Further, on the question on
+TRIPS compatibility, High Court sidelined the issues on jurisdiction ground. Later, in 2014, Supreme
+Court of India upheld the decision of High Court and interpreted the meaning of “efﬁcacy” in section 3(d)
+as—the new form of drug must demonstrate an improvement in its therapeutic effect or curative property
+as compared to the old form in order to secure a patent and further held enhanced efﬁcacy standard is
+accordance to TRIPS ﬂexibility.92
+
+The issue is whether section 3(d) of Indian Patent Act is TRIPS compatible? The scholars (Basheer
+and Reddy, 2008) seem to be divided on this issue. It has almost been 15 years of Indian adoption of article
+3(d), yet there has been no complaint against TRIPS compatibility in the WTO Forum. The recent Eli Lilly
+case has brought a series of arguments, which will be used by an investor in mostly Pharmaceutical claims
+under IIAs. Before Section 3(d) of the Indian Patent Act, which was introduced in 2005, India is party to
+several Investment Agreements,93 which has embedded the principle of fair and equitable treatment, and
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+67
+
+Pratyush Nath Upreti
+
+Enforcing IPRs Through ISDS
+
+security to the investor. Let’s assume a hypothetical situation: if a pharmaceutical company of a country
+under BIT with India applies for patent for second medical use and the patent application gets rejected,
+then could section 3(d) be claimed as direct or indirect expropriation of property or violation of legitimate
+expectation of investor, or can investor claim section 3(d) as being inconsistent with TRIPS and violating
+India’s obligation to international treaties?
+
+As emphasized earlier, section 3(d) being consistent with TRIPS Agreement is very controversial. The
+Indian Supreme Court makes it clear that “efﬁcacy” is viewed as industrial applicability and there is an
+inventive step requirement. Further, considering article 27 TRIPS does not deﬁne these terms, so India is
+right in adopting its own deﬁnition in a manner that suits their national interest. India is not the only one to
+have introduced new criteria to further ﬂexibility provided under article 27. For example, the United States
+Patent and Trademark Ofﬁce (USPTO) have adopted guidelines for subject matter eligibility, analysis of
+claims reciting or involving laws of nature, natural phenomena and natural products.94 Therefore, such
+TRIPS consistency questions may be raised through IIAs.
+
+The possible expropriation of property argument against section 3(d) seems to be a weak argument
+because; section 3(d) is pre-requisite for a valid patent. Therefore, once an investor does not qualify as
+patent then it cannot be considered as an investment under IIAs. So, there can be no direct expropriation
+by the act of patent denial. While indirect expropriation is concerned, substantive deprivation on the
+property must be shown. In this case, the investor does not have a patent to claim as an investment.
+Furthermore, even if a patent denial is considered as indirect expropriation, the host state may raise an
+issue of public interest. As section 3(d) is introduced to deal with the problem of “ever-greening”
+(Basheer, 2005) and patent denial may also force pharmaceutical innovators to lower their drug prices
+to compete with a generic competitor (Banerjee, 2013). Therefore, the expropriation argument does not
+hold substance.
+
+Similarly, section 3(d) may not violate the fair and equitable treatment standard under IIAs because
+the patentability criteria are very clear and further to claim FET, the investor expects state not to revoke
+pre-existing decisions which the investor have relied or deprive of their investor without compensation
+(Banerjee, 2013). As in this case, section 3(d) is highly debated and is presumed that every foreign
+pharmaceutical investor willing to invest is aware of such provisions in India. Therefore, under this
+circumstance, the argument of FET also does not hold any basis.
+
+Can Issuance of a Compulsory License be Considered as a Deprivation of Investment?
+One of the key features of TRIPS is ﬂexibility in a compulsory license, as emphasized in the Doha
+Declaration on TRIPS and Public Health.95 A compulsory license is deﬁned as the granting of a license by
+a government with adequate compensation to use a patent without the patent holder’s permission (Ford,
+2000). In other words, it is a phrase used in domestic legislation in implementing article 31. The TRIPS laid
+down minimum standards in implementing compulsory license. The ground for a compulsory license is
+not limited to TRIPS: a member state can freely adopt the necessary measure to issue a compulsory license
+based on national interest. Further, Doha Declaration afﬁrms the freedom of the member state to determine
+grounds upon which compulsory licenses can be granted. In addition, it also gives liberty to a member state
+to determine what constitutes a national emergency or extreme urgency.96 Thus, article 31 is the
+cornerstone for public heath measure/access to medicines for developing countries.
+
+Some scholars have suggested the compulsory license may result to an indirect expropriation of
+property if a foreign investor is not satisﬁed on the ground of issuing licensing (Rutledge, 2012).
+Technically compulsory license is TRIPS compliant, but it cannot be denied if it deprives investor rights.
+There would be two possible circumstances where an investor may claim indirect expropriation. First,
+working requirement, which refers to a requirement of patentee who must manufacture patented product or
+process within the patent granted country (Halewood, 1997). This will force the patentee to transfer the
+
+68
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+Enforcing IPRs Through ISDS
+
+Pratyush Nath Upreti
+
+patented technology or the technology needed to produce the patented product into the country (Halewood,
+1997). However, “working requirement” under TRIPs itself is very controversial. The article, 27(1) of
+TRIPS emphasises that “the patent shall be available and patent rights enjoyable without discrimination as
+to the place of invention, the ﬁeld of technology and whether products are imported or locally produced.”
+The plain reading of the article clearly prohibits working requirements. However, working requirement
+under TRIPS is understood from a collective reading of article 7, 8, 30 and 31. The objective of TRIPS is
+technological innovation, transfer and dissemination and use of knowledge of technology, which is
+accomplished with public interest principles.97 Further, rights under article 27(1) are subject to an
+exception under article 30 and article 31 TRIPS. It is essential to consider article 8 of TRIPS, which allows
+a member state to take measures needed to prevent abuse of intellectual property rights. Due to such
+provisions, a country like India has included the working requirement under its patent system. No working
+of a patent in India on a commercial scale is the ground of compulsory license.98 In addition, if the
+commercial working of the patented invention is hindered or prevented by the import of the patented article
+by patentee or patent licensee or with patentee consent, it is also considered as a ground for a compulsory
+license.99 There is no clear interpretation of TRIPS on working requirement. Countries like India and
+Brazil have interpreted it in light of the various provision of TRIPS and incorporated it into national law.
+Under these circumstances, there may be a possible claim of deprivation of property of investor under
+working requirement and also the investor may raise such requirement as against article 27.1 of TRIPS.
+Although, it is very hypothetical, chances of such challenge cannot be ignored. Moreover, when such
+claims are raised, the tribunal must refer TRIPS provision or interpret TRIPS, which again raise the issue of
+overlap in jurisdiction.
+
+Second, under article 31(h) of TRIPS, a member state is obliged to pay adequate remuneration in the
+circumstances while imposing compulsory license. TRIPS do not deﬁne the term “adequate.” There may
+be a situation where an investor may not be pleased by adequate remedy, and may claim it against indirect
+expropriation. Let us take an example of recent compulsory license in Natco Pharma Limited v. Bayer
+Corporation where Controller of patent issued the compulsory license to Natco pharma on the Nexavar
+drug with 6% as royalty. Later in 2013, Intellectual Property Appellate Board of India upheld the controller
+decision with increased royalty rate from 6% to 7%.100 Bayer declined to present evidence regarding the
+investment done on R&D for development of the drug.101 But publicly available information emphasizes
+that Bayer with Onyx has invested more than $275 million only in FDA approval. Considering that the
+investment done by Bayer is a seven percent royalty adequate enough? Jones Day, an international law
+ﬁrm, considers 6% royalty devalues the assets of investor resulting in expropriation under international
+law;
+
+“Nearly all modern BITs forbid the expropriation of a foreign investment which includes
+intellectual property without due compensation. Because exclusivity is a central feature to an
+intellectual property asset like a patent, the grant of a compulsory license signiﬁcantly
+devalues that asset, and thus arguably “ha[s] an effect equivalent to. . .. [an] expropriation”
+under international law. In that situation, “compensation. . .shall be equivalent to the value of
+the expropriated. . .. investment immediately before the date on which such expropriation. . ..
+became publicly known. A nominal 6 percent royalty-which Bayer received as compensation
+for the Nexavar compulsory license-may arguably fall below this threshold and give rise to an
+actionable claim for indirect expropriation.”
+
+Since, there is no deﬁnition of “adequate” there is a possible chance of the company challenging the
+royalty fee as indirect expropriation of property. Even though, there are no guidelines on royalty payment,
+in general, royalty is also based on the capacity of government (Love, 2005) and it should not present a
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+69
+
+Pratyush Nath Upreti
+
+Enforcing IPRs Through ISDS
+
+barrier for access to medicine (Love, 2005). Therefore, a developing country like India has incorporated
+ground for compulsory license to drugs, which may not be available at affordable prices.102 Tribunals
+may look upon this from the public interest viewpoint when the issue of expropriation is raised. In
+addition, regarding indirect expropriation, companies may claim violation of the reasonable expectation
+of investor or fair and equitable treatment on grounds that the company at the time of investment
+was in expectation that their patent may not be devalued by compulsory license (Ho, 2015). Upon such
+an argument, tribunal may see the legitimate expectation of investor on premises that previously in
+host state there has been any compulsory license issued (Ho, 2015). If so, tribunal may not be
+considered as a violation of legitimate expectation. Applying this argument to the ﬁrst compulsory
+license issued in India, assuming that would come under IIAs with India, under certain circumstances
+legitimate expectation of Natco may be considered as a violation? It is very difﬁcult to expect tribunal
+decision, there may be a risk of tribunal ﬁnding as expropriation or violation of a legitimate expectation of
+the investor.
+
+In recent years, a compulsory license is increasing in developing countries. In Thailand, there were
+seven compulsory licenses issued from 2006 through 2008 (Thomas, 2014). Similarly, recently the
+Indonesian government issued the compulsory license on pharmaceutical patents for seven HIV and
+Hepatitis B Medicines.103 In most cases, the pharmaceutical patent is a victim of compulsory license. In
+such a situation, pharmaceutical investors may claim discrimination as to the ﬁeld of technology under
+article 27.1 (Baker, 2013).
+
+Today’s compulsory license is viewed as a middle path between extreme patent protectionism and
+patent abolitionism,104 and most likely, the number of compulsory licenses will increase globally. There
+has been an attempt to exclude compulsory license under Investment Agreement to avoid such claims. For
+example, article 110 (7) of the North American Free Trade Agreement (NAFTA) eliminates application of
+expropriation to the issuance of compulsory licenses granted in relation to intellectual property. Similarly
+EU-Canada: Comprehensive Economic and Trade Agreement (CETA) excludes compulsory license from
+the scope of expropriation claim. Article X.11 (4) on expropriation states;
+
+“This Article does not apply to the issuance of compulsory licenses granted in relation to
+intellectual property rights, to the extent that such issuance is consistent with the Agreement
+on Trade-Related Aspects of Intellectual Property Rights in Annex 1C to the WTO Agreements
+(TRIPS Agreement)”
+
+To have a greater certainty, CETA excludes the revocation, limitation or creation of intellectual
+property rights, which are consistent with TRIPS from expropriation.105 On the other hand, scholars
+have been expecting such argument (Gibson, 2010) to rise under IIAs. There has been no claim as
+such until now, but with the recent case of Eli Lilly, such challenges are highly venerable in near
+future.
+
+Inadequate Data Exclusivity Measure is Expropriation of Property?
+Data exclusivity is deﬁned as a form of intellectual property protection that protects the data submitted by
+the pharmaceutical company to regulatory authorities for marketing approval (Palmedo, 2013). This
+concept of data exclusivity is incorporated in article 39.3 of TRIPS Agreement, which state;
+
+“Members, when requiring, as a condition of approving the marketing of pharmaceutical or of
+agricultural chemical products which utilize new chemical entities, the submission of
+undisclosed test or other data, the origination of which involves a considerable effort, shall
+protect such data against unfair commercial use. In addition, Members shall protect such data
+
+70
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+Enforcing IPRs Through ISDS
+
+Pratyush Nath Upreti
+
+against disclosure, except where necessary to protect the public, or unless steps are taken to
+ensure that the data are protected against unfair commercial use.”
+
+There is a diversion of opinion on article 39.1 from both developed106 and developing countries (Bivol
+and Soltan, 2012). The lack of clarity of article 39.1 resulted in two approaches. A country like the United
+States recognized article 39.1 as a requirement of data exclusivity and data protection. Whereas,
+the European Union has interpreted it as additional data protection and exclusivity measures under
+TRIPS- plus measures (Bivol and Soltan, 2012). On the other hand, a developing country like India does
+not recognize data exclusivity under their respective IP regime.107 Under such circumstances, the
+pharmaceutical company may challenge the host country, where there is no protection of data exclusivity
+for the initial drug manufacturer. As a result, all generic companies can easily access clinical data
+information. This leads to an important question: whether the clinical data information is considered as an
+investment under IIAs? There is no decision on this. But research shows that the cost for developing a drug
+has increased rapidly. The estimated cost of drug development was $800 million in 2003, which has
+doubled in 2013 with expenses of $1.3 billion to $1.8 billion in 2013.108 Among costs, the clinical trial has
+a signiﬁcant contribution to the total cost of drug development.109
+
+The issue of drug development as an investment was touched in Apotex Holding vs. United States of
+America, where Apotex argued that application of Food and Drugs Administration (FDA) applicant is
+being considered as property, tangible or intangible.110 Further, it was argued that he had invested millions
+of dollars in developing drugs and preparing for U.S, regulatory ﬁlling in order to attain an economic
+beneﬁt to the United States.111 Although tribunal rejected such arguments because Apotex did not have a
+place of business in U.S. and all his investment on the drug were done outside the United States.112 This
+case gives us an impression that, if the development of the drug were done in the United States then tribunal
+may consider it as an investment.
+
+In a country where there is no data exclusivity, a generic company is allowed to use information of
+clinical trial done by another pharmaceutical company. Once approved, the generic company may market
+at low price. The important question is, whether access of clinical trials data by the generic company leads
+to substantial inference in investment resulting in expropriation. Further, an absence of data exclusivity
+law is considered as a limitation to intellectual property, under IIAs? If so then does it lead to indirect
+expropriation? It is likely that a pharmaceutical investor may raise such argument. However, claims of
+TRIPS ambiguity on data exclusivity raise very fundamental question: whether data exclusivity is a type of
+intellectual property right?
+
+There is a difference of opinion among commentators. Some argue it as a form of intellectual property
+protection for pharmaceutical safety, efﬁcacy and quality data.113 Whereas, few advocate for the need of
+conclusive empirical data to assess the positive and negative implication of data exclusivity (Pugatch,
+2014) to identify the form of IP it constitutes. This unsettled interpretation of article 31 may give an
+advantage to a pharmaceutical company to challenge the expropriation claim, because if data exclusivity
+were considered as a separate intellectual property in compliance with TRIPS, then it would be considered
+as an exception to expropriation. On the other hand, the possible claim of fair and equitable treatment
+maybe raised if an existing country with data exclusivity believes that such measure should be abandoned.
+Then the pharmaceutical investor may claim the legitimate expectation of stability, predictability and
+consistency of the host country’s IP Law, which may violate the expectation of investor. Even though, such
+an argument is highly possible, the tribunal will also take into consideration the state’s legitimate right to
+regulate in the interest of public welfare. Under the foreign relation law, the “state is not responsible for a
+loss of property or for other economic disadvantages resulting from bona ﬁde general taxation, regulation,
+forfeiture for crime, or other action that is commonly accepted as within the police power of states, if it is
+not discriminatory.”114
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+71
+
+Pratyush Nath Upreti
+
+Enforcing IPRs Through ISDS
+
+Is Mandatory Requirement to Disclose Clinical Data of Approved Drugs (Trade Secret) Considered as
+Expropriation?
+An important issue attached under article 39 of TRIPS is the protection of undisclosed information. TRIPS
+agreement does not use phrase “trade secret,” but obliges WTO member states to protect undisclosed
+information having commercial value and reasonable steps taken to keep it secret, from unauthorized
+disclosure or manner contrary to honest commercial practice.115 Few countries have enacted speciﬁc
+legislation on trade secret and mostly protect trade in patchwork of different forms of protection (Yeh,
+2014). The trade secret law was not developed before TRIPS; countries mostly used investment agreement
+to protect the trade secret. The pharmaceutical industry often argues clinical data as being commercially
+conﬁdential or sensitive.116
+
+Recently, Europe has advocated for transparency in clinical data. In Nordic Cochrane Center vs.
+EMA, it was held that the clinical trial data does not consist of information that could be classiﬁed as a trade
+secret.117 Later Europe introduced regulation that does not consider clinical data as commercially
+conﬁdential. The Regulation No 536/2014 states:
+
+“for the purposes of this Regulation, in general, the data included in a clinical study report
+should not be considered commercially conﬁdential once a marketing authorization has been
+granted, the procedure for granting the marketing authorization has been completed, the
+application for marketing authorization has been completed, the application for marketing
+authorization has been withdrawn. In addition, the main characteristics of a clinical trial, the
+conclusion on Part I of the assessment report for the authorization of a clinical trial, the
+decision on the authorization of a clinical trial, the substantial modiﬁcation of a clinical trial,
+and the clinical trial results including reasons for temporary halt and early termination, in
+general, should not be considered conﬁdential”118
+
+This provision implies that the clinical trial data shall be publicly accessible after marketing approval.
+Further Regulation also has an exception to the above clause, where clinical trial data may not be published
+if its conﬁdentiality justiﬁed on few grounds.119 Although Regulation was adopted in May 2013, will be
+applied only from May 2016.120 The pharmaceutical industries are not happy about the regulation and also
+mobilize patient groups to express concern on the possible misinterpretation of such information, which
+impose a risk to public health by non-scientiﬁc re-use of data.121 Further, it has been argued that pubic
+interest.122 Recently, UK-based pharmaceutical company
+disclosure jeopardizes their commercial
+challenged UK clinical trial Transparency Rules.123 Under such a scenario, the pharmaceutical investor
+may claim that such transparency is considered as substantial interference to the investment and might
+raise indirect expropriation. In general, such an argument may face a barrier because most of the
+contemporary BITs exclude public health, safety from indirect expropriation. For example BIT between
+Colombia and the United Kingdom (2010) states;
+
+“Non-discriminatory measures that the Contracting Parties take for reasons of public
+purpose or social interest (which shall have a meaning compatible with that of ‘public
+purpose’) including for reasons of public health, safety and environmental protection, which
+are taken in good faith, which are not arbitrary and which are not disproportionate in light of
+their purpose, shall not constitute indirect expropriation.”
+
+However, the government may not escape from the investor claim of fair and equitable treatment
+because the policy of clinical trial data transparency will be considered as the change in business
+environment. But Europe has shown concern about public health issues and has introduced numerous
+
+72
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+Enforcing IPRs Through ISDS
+
+Pratyush Nath Upreti
+
+public heath measures.124 This would give an impression to an investor that there would be possible
+changes on the health sector. Even Regulation (536/2014) emphasis on EU database aims to protect
+public heath and fostering innovation capacity of European medical research.125 Further, legitimate
+expectations cannot be assessed in isolation from the character of the governmental action or its economic
+impact.126
+
+As discussed above, all possible claims are linked with the state’s legitimate right to regulate and the
+public interest consideration under TRIPS and Doha Declaration. On the other hand, the tribunal also has a
+diverse opinion. It is important to balance the relationship between foreign investor right and state
+legitimate right to regulate. The concern was raised in the fourth World Trade Organization (WTO),
+Ministerial Conference Doha 2001 where the agenda of the next round was identiﬁed to clarify on scope
+and deﬁnition: transparency: non-discrimination in context of relation between trade and investment. . .
+(emphasis added).127 Further, it emphasized that “any framework should reﬂect in a balanced manner, the
+interests of home and host countries, and take due account of the development policies and objectives of
+host governments as well as their right to regulate in the public interest.”128 But past tribunal decision on
+expropriation and legitimate expectation of investor have been treated too broadly and under such broad
+interpretation, the pharmaceutical investor may not lose this opportunity to claims under investor dispute
+settlement body.
+
+Can Lack of Intellectual Property Enforcement in Host State be Against Legitimates Expectation of
+Investor?
+Intellectual Property has global mobility129 and there has been harmonization of intellectual property
+across the globe through international intellectual property such as TRIPS and the Paris Convention. The
+level of protection, which TRIPS provided, may not be of greater advantage for a developed country.
+Therefore, most of the developed countries in investment agreements include a stringent IP enforcement
+standard clause to keep pace with changes in technology. In fact, developed countries adopt measures to
+ﬁght against IPR infringement within Europe and internationally. The recent decision of the European
+Commission to ban developing countries from EU programes, or cut their funding in breach of Intellectual
+property, is an example of how developing countries are giving emphasis on rewarding creativity and
+innovative efforts of inventors and creators.130 The evident question is whether the failure to enforce
+intellectual property of investor by the host state, is considered as a violation of the legitimate expectation
+of investor or home state obligation to provide full protection and security to the investor. To illustrate this
+by the example of “piracy” or counterfeit goods, where the government unable to cope with such
+infringement act may result in deprivation of investment. Moreover, investors have the strong claim under
+the host state obligation of full protection and security standard. As I discussed above, tribunal has
+considered obligation to provide full protection and security are wider than “physical” protection and
+“security” as physical security. In Siemens A.G. v. The Argentine Republic, Siemens argued that the
+meaning of security has wider connotation than mere physical security. Tribunal determines on the basis of
+agreement and refers to a security not as physical but legal within the context of the agreement. Tribunal
+states:
+
+“In its ordinary meaning ‘legal security’ has been deﬁned as ‘the quality of the legal system
+which implies certainty in its norms and, consequently, their foreseeable application.”
+
+It gives us the impression that state obligation to the protection and security does not mean only
+physical but also legal security as deﬁned by the tribunal. Additionally, most of IIAs deﬁne investment as
+both tangible and intangible property, so security must not be understood only as physical security—it
+should cover legal security as well. Similarly, the tribunal in Biwater v. Tanzania131 observed that the full
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+73
+
+Pratyush Nath Upreti
+
+Enforcing IPRs Through ISDS
+
+protection and security implies “a State’s guarantee of stability in a secure environment, physical,
+commercial and legal.”132 In tribunal view, it will be “unduly artiﬁcial to conﬁne the notion of
+“full security” only to one aspect of security, particularly in light of the use of this term in a BIT, directed at
+the protection of commercial and ﬁnancial investments.”133 Further, tribunal went a step ahead and said
+“tribunal also does not consider that the “full security” standard is limited to a State’s failure to
+prevent actions by third parties, but also extends to actions by organs and representatives of the State
+itself.”134
+
+A company with a strong intellectual property portfolio may invoke full protection and security clause
+for lack of enforcement of intellectual property. For example, in the case of good in transit, if host state fails
+to identify the counterfeit goods and enters the national market, then the investor may suffer a loss. Under
+such circumstances, the investor may not hesitate to invoke the full security protection clause. In addition,
+recent cases highlight the scope of full protection and security, which has been widely broadened by the
+tribunal. Even the failure of the host state to comply with court decision is considered as a breach of
+the duty of protection and security.135 This implies adequate legal protection to investor comes within the
+scope of protection and security. Therefore, even if the host country lacks strong IP enforcement measures
+then, such inadequate framework may be considered as a breach of a duty of protection and security.
+However, when analyzing such claims duly, tribunal keeps in mind the state right to regulate for the public
+good. Tribunal in cases has acknowledged that the state duty is to provide a reasonable measure of
+prevention, which a well-administered government could be expected to exercise under similar
+circumstances (Malik, 2011).
+
+Conclusion
+In today’s industrialized world, the landscape of intellectual property is changing. There is a forum shift
+from IP being seen as incentive-commodity to assets. Similarly, expectation of an IP investor is increasing.
+From above discussion, it is clear that investor’s like to ﬂirt with international intellectual property
+instruments to enforce their rights. Although, ISDS provides investors an alternate forum to enforce their
+right, such practices have a severe impact on international intellectual practice. The very fundamental and
+important aspect of TRIPS is to provide ﬂexibility on IP standards to balance the position between north
+and south countries. The claims brought by an investor have not only risked TRIPS ﬂexibilities but have
+had a severe impact on ongoing International Investment Agreements like Transatlantic Trade and
+Investment Partnership (TTIP) between the European Union and the United States. With respect to
+ongoing negotiations, there has been a serious concern raised in the European community on ISDS
+creating the risk of a “regulatory chill.”136 The whole idea of ISDS to protect rights of the investor, now
+with globalization and the importance of foreign investment, is realized by every country. Further,
+diplomatic political relations between countries have narrowed down host country discrimination on the
+foreign investor. Therefore, ISDS is needed to examine, as there is no evidence to show that IIAs with or
+without ISDS have any impact on investment ﬂows.137 Thus, it is very important that an investor,
+irrespective whether they are foreign or domestic, must be treated fairly and equally but not to the extent
+that it undermines the state right to regulate in public interest. The argument raised in both plain packaging
+and the Eli Lilly case will encourage frivolous practices and certainly open gates for more IP related cases
+in ISDS. The relationship between both the ﬁelds does not have a clear boundary, and very less
+jurisprudence exist in academia. But there has been an attempt to narrow down such claims through
+restricting an investor to raise matters regarding intellectual property under IIAs. This approach seems to
+be appropriate at the moment but we cannot negate the possible overlap of both the ﬁelds. Moreover, the
+impending decision on plain packaging and Eli Lilly will certainly bring new jurisprudence in the subject
+matter.
+
+74
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+Enforcing IPRs Through ISDS
+
+Pratyush Nath Upreti
+
+About the Author
+Pratyush Nath Upreti is a lawyer at Upreti & Associates, a law ﬁrm based in Kathmandu. He has recently
+completed Advanced Master (LL.M.) Intellectual Property Law and Knowledge Management (IPKM)
+Degree from Maastricht University, Netherlands. His current interests include Intellectual Property Law,
+International Investment law, WTO-related issues, among other areas. He is also leading “New IP Lawyers
+Network,” a wing of school of law and its research center SCule (Science, Culture and the Law) under
+University of Exeter, United Kingdom, as an Executive Committee Member. He also teaches Intellectual
+Property Law at Chakrabarti Habi Education Academy, College of Law. He has published several articles
+in Journals and Newspapers; e-mail: upretipratyush@gmail.com
+
+Notes
+This article is the outcome of Master Thesis for the fulﬁllment of Advanced Master (LL.M.) Intellectual
+Property Law and Knowledge Management (IPKM) Degree, 2014–2015 from Maastricht University,
+Netherlands. The author would like to thank Professor Anselm Kamperman Sanders for his lecture on
+“Global policy and Economics of IP law,” which generated interest and inspired the author to do further
+research. Also, the author expresses gratitude to Dr. Anke Moerland and Dr. Dalindyebo B. Shabalala for
+their guidance. Views, errors, and omissions are solely the author’s responsibility.
+
+1. JT International SA v Commonwealth of Australia (2012) HCA 43.
+2. Ibid.
+3. See WT/DS434/11: The Ukraine, Honduras initiated WTO dispute settlement proceedings against Australia and
+Panel is formed in 2014, available at https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds434_e.htm
+(last visited 10 April, 2015).
+
+4. See ICSID Case No. ARB/10/7, UNCITRAL Case No. UNCT/14/2, UNCITRAL Case No. 2012-12.
+5. See Article 1(c) of Australia-India, BIT, 1999, Available at: http://investmentpolicyhub.unctad.org/Download/
+
+TreatyFile/154 (last visited 2 April 2015).
+
+6. Energy Charter Treaty, signed 17 December 1994. Available at: http://www.encharter.org/ﬁleadmin/
+
+user_upload/document/EN.pdf (last visited 8 April 2015).
+
+7. Article 1(a)(iv) of Agreement between Australia and the Republic of Hungary on the Reciprocal Promotion and
+Protection of Investments, signed 15th August 1991. Available at: http://investmentpolicyhub.unctad.org/
+Download/TreatyFile/153 (5 April 2015).
+
+8. Canadian Model BIT Available at: http://www.italaw.com/documents/Canadian2004-FIPA-model-en.pdf
+
+(11 April 2015).
+
+9. Agreement between Japan and the United Mexican States for the Strengthening of the Economic Partnership,
+
+Art. 96(i) (GG), Sep. 17, 2004.
+
+10. Agreement Between the Belgium-Luxembourg Economic Union and the Government of the Republic of India
+
+for Promotion and the Protection of Investment, art. 1(b), Oct. 31, 1997.
+
+11. Ibid at p. 6.
+12. Salini Costruttori S.p.A and Italstrade S.p.A. v kingdom of Morocco, ICSID Case No ARB/00/4, Decision on
+
+Jurisdiction, 23 July, 2001.
+
+13. Fedax N.V. v. The Republic of Venezuela, ICSID Case No ARB/96/3, Decision on Jurisdiction, 11 July, 1997.
+14. Malaysian Historical Salvors SDN BHD v. The Government of Malaysia, ICSID Case No ARB/05/10, Decision
+
+on Annulment, 16th April, 2009.
+
+15. Ibid at 135.
+16. Ibid.
+17. Ibid at 136.
+18. Saba Fakes v. Republic of Turkey, ICSID Case No. ARB/07/20 (Award) July 14, 2010.
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+75
+
+Pratyush Nath Upreti
+
+Enforcing IPRs Through ISDS
+
+19. Ibid at para 111.
+20. Also see Philip Morris v. Uruguay (ICSID Case No. ARB/10/7) and KT Asia v. Kazakhstan (ICSID Case No.
+
+ARB/09/8).
+
+21. Biwater Gauff (Tanzania) Ltd. V. United Republic of Tanzania, ICSID Case No. ARB/05/22, Decision on
+
+Award, 24 July, 2008.
+
+22. Ibid at para 312.
+23. Romak SA v. Uzbekistan, ICSID Case No AA280, Decision on Award, 26th November 2009.
+24. Philip Morris v. Uruguay at para 199.
+25. Ambiente Ufﬁcio S.PA. and others v. The Argentine Republic, ICSID Case No. ARB/08/9 (Jurisdiction)
+
+February 8, 2013.
+26. Ibid at para 481.
+27. ICSID Case No. ARB (AF)/12/1.
+28. Investment narrowly construed under NAFTA in Apotex v. United States, by Jones Day. Available at: http://
+www.jonesday.com/investment-narrowly-construed-under-nafta-in-apotex-v-united-states-08-26-2013/ (last
+visited 19 April 2015).
+
+29. Ibid.
+30. Ibid.
+31. Philip Morris Brands Sarl, Philip Morris Products S.A and Abal Hermanos S.A v. Oriental Republic of Uruguay,
+
+ICSID Case No: ARB/10/7, Decision on Jurisdiction, 2013.
+
+32. Ibid at p. 1.
+33. Patrik Michell v. Democratic Republic of the Congo.
+34. Uruguay’s Memorial on Jurisdiction, p. 82–89 (2011), Available at: http://www.italaw.com/sites/default/ﬁles/
+
+case-documents/ita0346.pdf (last visited 15 April 2015).
+
+35. Ibid at p. 87.
+36. Ibid at 206.
+37. Nicaragua v. Republic of Nicaragua, ICSID Case no. ARB/06/14.
+38. Emilio Agustin Maffezini v. The Kingdom of Spain, ICSID Case No. ARB/97/7, Decision of Jurisdiction,
+
+January 25, 2000.
+
+39. Emilio Agustin Maffezini v. Kingdom of Spain (Decision of the Tribunal on Objections to Jurisdiction), ICSID
+
+Case No, ARB 97/7, 25 January 2000. (2002) 5 ICSID Rep p. 396.
+
+40. Ibid at para 56.
+41. Greece v United Kingdom, (1952) ICJ 1.
+42. United Nations, Reports of International Arbitral Awards, 1963, p. 107.
+43. Ibid at para 49.
+44. Plama Consortium Ltd v. Republic of Bulgaria, ICSID Case ARB/03/24, Decision on Jurisdiction,
+
+8th February 2005.
+
+45. Ibid at para 200.
+46. Ibid at para 207.
+47. Ibid.
+48. Ibid.
+49. The Role of International Investment Agreements in Attracting Foreign Direct Investment to Developing
+
+Countries, UNCTAD Series on International Investment Polices for Development (2009).
+
+50. International Thunderbird Gaming Corp v. United States, Decision on award, 26th January, 2006.
+51. FTR Holdings S.A. (Switzerland), Philip Morris Products S.A (Switzerland) and Abal Hermanons S.A
+
+(Uruguay) v. Oriental Republic of Uruguay, Request for Arbitration, 19th February, 201, para 84.
+
+52. Philip Morris Asia Limited v The commonwealth of Australia, Notice of Arbitration, 21st November, 2011,
+
+para 7.7.
+
+76
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+Enforcing IPRs Through ISDS
+
+Pratyush Nath Upreti
+
+53. Eli Lilly and Company v. Government of Canada, Notice of Arbitration, 12th September, 2013.
+54. Ibid at para 81.
+55. Ibid at para 82.
+56. Ibid.
+57. See US-Uruguay BIT, Art 5(2) (B).
+58. Siemens A.G.v. The Argentine Republic, ICSID Case No. ARB/02/8, Decision on Award, 17th January, 2007.
+59. Supra note 75, at 210–217.
+60. Parkerings-Compagniet AS v. Republic of Lithuania, ICSID Case No. ARB/05/08, Decision on award.
+61. S.D. Myers, Inc. Decision on partial award, p. 268. Available at: http://www.italaw.com/documents/SDMeyers-
+
+1stPartialAward.pdf (last visited 25 April 2015).
+
+62. Saluka Investments BV (The Netherlands) v. The Czech Republic, decision on partial award, 17 March, 2006,
+
+UNCITRAL, para 306.
+
+63. Comprehensive Economic and Trade Agreement (CETA), Available at: http://ec.europa.eu/trade/policy/in-
+
+64. EU-Singapore Free Trade Agreement (May, 2015). Available at: http://trade.ec.europa.eu/doclib/press/index.
+
+focus/ceta/ (last visited 12 October 2015).
+cfm?id¼961 (last visited 19 October 2015).
+
+65. Draft text of Investment chapter of Transatlantic Trade and Investment Partnership (TTIP) between the US
+and the EU (2015). Available at: http://trade.ec.europa.eu/doclib/docs/2015/september/tradoc_153807.pdf
+(last visited 16 November 2015).
+
+66. Public Citizen, Memorandum on Fair and Equitable Treatment and investor reasonable expectation: Ruling
+in U.S. FTA & BITs Demonstrate FET Deﬁnition must be narrowed. Available at: http://www.citizen.org/
+documents/MST-Memo.pdf?iframe=true&width=100%&height=100% (last visited 20 May 2015).
+
+67. Article 41(2) TRIPS Agreement.
+68. Fair and Equitable Treatment, UNCTAD Series on Issues in International Investment Agreements II (2012)
+
+p. 11.
+
+69. Jones Day Commentary, Treaty Protection for Global Patents: A Response to a Growing Problem for
+Multinational Pharmaceutical Companies, Available at: http://www.jonesday.com/ﬁles/Publication/96b88f45-
+3c81-4e6e-b640-9ca243920ad5/Presentation/PublicationAttachment/523d7608-c58a-4bab-bd96-9e1d121287ea/
+Treaty%20Protection.pdf (last visited 22 May 2015).
+
+70. Eli Lilly and Company v. Government of Canada, Notice of Arbitration, 12th September, 2013, para 84.
+71. Philip Morris v Uruguay, para 85.
+72. Grand River Enterprises Six Nations, Ltd, et al v. the United States of America, Decision on Award,
+
+12 January 2011, para 218.
+
+73. Case Concerning Certain German Interests in Polish Upper Silesia (Germany v. Poland), Judgement, 15 May,
+
+1926, PCIJ, Series A, No 9 (1927).
+
+74. Ibid at p. 44.
+75. Expropriation, UNCTAD Series on Issues in International Investment Agreements II (2012).
+76. Philip Morris v Uruguay, para 83.
+77. Ibid at para 7.3 (a).
+78. Ibid at para 7.3 (b).
+79. Also see Justice Heydon dissenting opinion on JT International SA v. Commonwealth of Australia; British
+
+American Tobacco Australasia Limited v. Commonwealth of Australia (2012) HCA 43 (5 October 2012).
+
+80. Ibid.
+81. Supra note 53, at 78.
+82. Investor-State Dispute in Trade Pacts Threaten Fundamental Principles of National Judical Systems. Available
+at: https://tpplegal.ﬁles.wordpress.com/2012/05/isds-domestic-legal-process-background-brief.pdf (last visited
+14 June 2015).
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+77
+
+Pratyush Nath Upreti
+
+Enforcing IPRs Through ISDS
+
+83. Saipem S.p.A v. The People’s Republic of Bangladesh, ICSID Case No; ARB/05/7, Decision on Arbitration,
+
+30 June, 2009.
+
+84. Also see Azinian v. United Mexican States, ICSID Case no ARB (AF)/97/2, Decision on Award, November 1,
+
+1999.
+
+85. CMS Gas Transmission Company v. Argentine Republic, Award, 12 May 2005, at para. 262.
+86. Ali Ghassemi, Expropriation of Foreign Property in International Law, A Doctrinal thesis (1999). Available at:
+
+http://core.ac.uk/download/pdf/2731706.pdf
+
+87. Expropriation, UNCTAD Series on Issues in International Investment Agreements II (2012).
+88. 2012 U.S. Model Bilateral Investment Treaty, Annex B- Expropriation, 4(b). Available at: http://www.state.gov/
+
+documents/organization/188371.pdf (last visited 2 June 2015).
+
+89. Tecnicas MedioambientalesTecmed S.A. v. The United Mexcian States, Case no. ARB (AF)/00/2, Award,
+
+May 29, 2013, para 122.
+
+90. Ibid.
+91. World Drug Report, 2014, United Nations Ofﬁce on Drugs and Crime.
+92. Inside Views: The Judgement in Novartis v. India: What the Supreme Court of India Said (2013) Available at:
+http://www.ip-watch.org/2013/04/04/the-judgment-in-novartis-v-india-what-the-supreme-court-of-india-said/
+(last visited 2 June 2015).
+
+93. Bilateral
+
+Investment Treaties (BITs)
+
+(2015). Available at: http://investmentpolicyhub.unctad.org/IIA/
+
+CountryBits/96 (last visited on 19 August 2015).
+
+94. Guidance for determining subject matter eligibility, Analysis of Claims Reciting or Involving Laws of Nature,
+Natural Phenomena, & Natural products (2014). Available at: http://www.uspto.gov/patents/law/exam/myriad-
+mayo_guidance.pdf (last visited 3 June 2015).
+
+95. Article 31 of TRIPS read with Doha Declaration. Available at: https://www.wto.org/english/thewto_e/minist_e/
+
+min01_e/mindecl_trips_e.htm (last visited 3 June 2015).
+
+96. Article 5(b) (c) of Doha Declaration, 2001.
+97. Article 7 & 8 of TRIPS Agreement.
+98. Section 84(1)(d) of The Patents Act, 1970.
+99. Section 84(1)(e) of The Patents Act, 1970.
+100. Supreme Court says No to Bayer, upholds compulsory License on Nexavar (2014). Available at: http://www.
+lawyerscollective.org/updates/supreme-court-says-no-to-bayer-upholds-compulsory-license-on-nexavar.html
+(last visited 29 May 2015).
+
+101. Afﬁdavit ﬁled by James Packard, director of Knowledge Ecology International (KEI), in Natco Pharma Limited
+v. Bayer Corporation (2012). Available at: http://keionline.org/sites/default/ﬁles/aff-jameslove_13Feb2012_
+as_Filed.pdf (last visited 30 May 2015)
+
+102. Section 84 The Patents Act, 1970.
+103. Indonesia Licenses Patents for Seven HIV & Hepatitis B Medicines. Available at: http://www.citizen.org/PC-
+
+statement-on-compulsory-licensing-in-Indonesia (last visited 30 May 2015).
+
+104. India’s First Compulsory License upheld, But Legal Fights likely to continue (2013). Available at: http://www.
+ip-watch.org/2013/03/04/indias-ﬁrst-compulsory-licence-upheld-but-legal-ﬁghts-likely-to-continue/ (last vis-
+ited 2 June 2015).
+
+105. Article X.11 (6) CETA.
+106. In United States (market exclusivity) & Europe (data exclusivity) for period of three and ten years,
+generic company cannot obtain regulatory approval on respective data of originator pharmaceutical
+company.
+
+107. Scholars in India have often argued that provision of data exclusivity would jeopardize availability of generic
+medicine. See Manthan D Janodia, Data Exclusivity Provisions in India: Impact on Public Health, Journal of
+Intellectual Property Rights, Vol 13, September 2008, pp. 442–446.
+
+78
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+Enforcing IPRs Through ISDS
+
+Pratyush Nath Upreti
+
+108. Clinical Data And Disclosure Policies: The European Union, Member States, and International Best Practices,
+Global Intellectual Property Center, U.S. Chamber of Commerce (2015) p. 8, Available at: http://www.pugatch-
+consilium.com/reports/EMA_Study.pdf (last visited 22 May 2015).
+
+109. Ibid.
+110. Investment narrowly construed under NAFTA in Apotex v. United States, by Jones Day. Available at: http://
+www.jonesday.com/investment-narrowly-construed-under-nafta-in-apotex-v-united-states-08-26-2013/ (last
+visited 21 May 2015).
+
+111. Ibid.
+112. Ibid.
+113. A Prescription for Failure: Health and Intellectual Property in the Dominican Republic, Georgetown Human
+Rights Action/Human Rights Institute Fact-ﬁnding Mission (2010) Available at: http://www.law.georgetown.
+edu/academics/centers-institutes/human-rights-institute/fact-ﬁnding/upload/ﬁnaldrreport.pdf (last visited
+1 June 2015).
+
+114. AES v. Republic of Hungary, Tribunal cited American Law Institute, Restatement of the Law (third edition) of
+
+Foreign Relations Law of the United States, section 712, Vol 2, 1987.
+
+115. Foot note of Article 39 TRIPS deﬁne ‘honest commercial practices as practices such as breach of contract, breach
+of conﬁdence and inducement to breach, and includes the acquisition of undisclosed by third parties who knew,
+or were grossly negligent in failing to know, that such practices were involved in acquisition.
+
+116. European Directive on trade secrets: A threat to access to public heath data (2015), p. 1. Available at:
+http://english.prescrire.org/Docu/DOCSEUROPE/20150210_TradeSecretsJointBrieﬁngPaper.pdf (last visited
+30 May 2015).
+
+117. Nordic Cochrane Center vs. European Medicines Agency, Case No: 2560/2007/BEH.
+118. Recital 68 Regulation (EU) No 536/2014.
+119. Article 81(4) Regulation (EU) No 536/2014.
+120. New European Clinical Trials Regulation: A major advance in transparency, to be conﬁrmed (2014). Available
+at: http://www.beuc.eu/publications/beuc-x-2014-068_ipa_new_eu_clinical_trials_regulation-joint_letter.pdf
+(last visited 2 June 2015).
+
+121. Pharma Industry tries to mobilize patient groups in clinical trials battle (2013). Available at: http://www.
+
+euractiv.com/health/pharma-industry-tries-mobilise-p-news-529498
+
+122. Protecting citizens’ heath: Transparency of clinical trial data on medicines in the EU, policy paper of
+Heath Action International (2013). Available at: http://haieurope.org/wp-content/uploads/2013/10/HAI_
+Protecting-citizenshealth-transparency-of-clinical-trial-data-on-medicines-in-the-EU.pdf (last visited 31 May
+2015).
+
+123. Company Challenges UK Clinical Trial Transparency Rules (2015). Available at: http://www.raps.org/
+Regulatory-Focus/News/2015/05/18/22217/Company-Challenges-UK-Clinical-Trial-Transparency-Rules/ (last
+visited 1 June 2015).
+
+124. Concern for Europe’s Tomorrow: Health and the Environment in the WHO European Region. Available at:
+
+http://www.euro.who.int/__data/assets/pdf_ﬁle/0004/98266/WA3095CO.pdf (last visited 1 June 2015).
+
+125. Recital 67, Regulation (EU) No. 536/2014.
+126. Expropriation, UNCTAD Series on issues in International Investment Agreements II (2012) p. 76.
+127. DOHA WTO Ministerial Declaration (2001), para 22, Available at: https://www.wto.org/english/thewto_e/
+
+minist_e/min01_e/mindecl_e.htm (last visited 26 May 2015).
+
+128. Ibid.
+129. Harvard College v. Canada (Commissioner of Patents) 2002 SCC 76 (Canada).
+130. Developing countries face EU funding ban if they break intellectual property rules (2014). Available at: http://
+www.euractiv.com/sections/innovation-enterprise/developing-countries-face-eu-funding-ban-if-they-break-
+intellectual (last visited 1 June 2015).
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+79
+
+Pratyush Nath Upreti
+
+Enforcing IPRs Through ISDS
+
+131. Biwater Gauff (Tanzania) Ltd v. United Republic of Tanzania, ICSID Case No. ARB/05/22 (Award), July 24,
+
+2008.
+
+132. Ibid at para 729.
+133. Ibid.
+134. Ibid at para 730.
+135. Waguih Elie George Siag v. The Arab Republic of Egypt, ICSID Case No. ARB/05/15(Award). June 1, 2009.
+136. See S & D Position Paper on Investor- State Dispute settlement mechanism in ongoing trade negotiations, Group
+
+of the Progressive Alliance of Socialists & Democrats in the European Parliament (2015).
+
+137. Ibid.
+
+References
+
+Alvik, I. (2011) ‘Most Favoured Nation Treatment Application in International Investment Arbitration: A Study on
+Conﬂicting Precedence in International Dispute Settlement Procedure’ [online]. Available at <https://www.duo.
+uio.no/bitstream/handle/10852/22714/Master_thesis.pdf?sequence¼1> [Accessed 28 May 2015].
+
+Baker, K.B. (2013) ‘Corporate Power Unbound: Investor-State Arbitration of IP Monopolies on Medicines-Eli Lilly
+and the TPP’, Program on Information Justice and Intellectual Property (PIJIP) Research Paper Series,
+American University Washington College of Law [online]. Available at http://digitalcommons.wcl.american.
+edu/research/36/ [Accessed 26 February 2015].
+
+Banerjee, R. (2013) ‘The Success of, and Response to, India’s Law Against Patent Layering’, Harvard International
+
+Law Journal, 54, 224.
+
+Basheer, S. (2005) ‘Limiting the Scope of Pharmaceutical Patents and Microorganism: A TRIPS Compatibility
+
+Review’, Intellectual Property Institute, London.
+
+Basheer, S. and Reddy, P. (2008) ‘Ducking’ TRIPS in India: A Saga Involving Novartis and the Legality of
+
+Section 3(d)’, National Law School of India Review, 20(2), 131–155.
+
+Bivol, S. and Soltan, V. (2012) ‘Negative Impact of Data Exclusivity on Access to Medicines’, Center for Heath
+Policies and studies [online]. Available at: <http://aids.md/aids/ﬁles/1273/express_analysis_1_2012_en.pdf>
+[Accessed 5 March 2015].
+
+Boie, B. (2010) ‘The Protection of Intellectual Property Rights Through Bilateral Investment Treaties: Is There a
+TRIPS-Plus Dimension?’ Working Paper no. 2010/19, Swiss National Centre of Competence in research
+[online]. Available at <http://www.wti.org/ﬁleadmin/user_upload/nccr-trade.ch/wp3/3.4/The%20Protection%
+20of%20IPRs%20through%20BITs.pdf> [Accessed 13 May 2015].
+
+Correa, M.C. (ed.) (2010) Research Handbook on the Interpretation and Enforcement of Intellectual Property Under
+WTO Rules: Intellectual Property in the WTO, vol. 2. Edward Elgar Publishing Limited, United Kingdom, p. 17.
+Davison, M. and Emerton, P. (2014) ‘Rights, Privileges, Legitimate Interests, and Justiﬁability: Article 20 of TRIPS
+
+and Plain Packaging of Tobacco’, American University International Law Review, 3(29), 505–580.
+
+Dekastros, M. (2013) ‘Portfolio Investment: Reconceptualising the Notion of Investment Under the ICSID
+
+Convention’, The Journal of World Investment & Trade, 14, 286–319.
+
+Dolze, R. and Schreuer, C. (2008) Principle of International Investment Law. Oxford University Press, Oxford,
+
+p. 149.
+
+Ford, S.M. (2000) ‘Compulsory Licensing Provisions Under the TRIPs Agreement: Balancing Pills and Patents’,
+
+American University International Law Review, 15(4), 945.
+
+Gaillard, E. (2009) ‘Identify or Deﬁne? Reﬂections on the Evolution of the Concept of Investment in ICSID Practice’,
+in C. Binder, et al. (ed.), International Investment Law for the 21st Century, Essays in Honour of Christoph
+Schreuer, Oxford University Press, Oxford, UK, pp. 412–413.
+
+Gibson, C. (2010) ‘A Look at the Compulsory License in Investment Arbitration: The Case of Indirect Expropriation’,
+
+American University International Law Review, 25(3), 357–422.
+
+80
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+Enforcing IPRs Through ISDS
+
+Pratyush Nath Upreti
+
+Halewood, M. (1997) ‘Regulating Patent Holders: Local Working Requirements and Compulsory Licences at
+
+International Law’, Osgoode Hall Law Journal, 35.2, 249.
+
+Ho, M.C. (2015) ‘Sovereignty Under Siege: Corporate Challenges to Domestic Intellectual Property Decisions’,
+
+Berkeley Technology Law Journal, 30(1), 67.
+
+Huiping, C. (2011) ‘The Expansion of Jurisdiction by ICSID Tribunal: Approaches, Reasons and Damages’,
+
+The Journal of World Investment & Trade, 12(5), 133.
+
+Isakoff, P.D. (2013) ‘Deﬁning the Scope of Indirect Expropriation for International Investments’, The Global Business
+
+Law Review, 3, 189.
+
+Khan, R.G.H. (2014) ‘Litigating Intellectual Property Rights in Investor-State Arbitration: From Plain Packaging to
+Patent Revocation’, Fourth Biennial Global Conference of the Society of International Economic Law (SIEL)
+Working Paper No. 2014–21 [online]. Available at <http://papers.ssrn.com/sol3/papers.cfm?abstract_id¼
+2463711> [Accessed 2 May 2015].
+
+Liberti, L. (2010) ‘Intellectual Property Rights in International Investment Agreements: An Overview’, OECD
+Working Papers on International Investment, 2010/01 OECD Publishing [online]. Available at <http://dx.doi.
+org/10/1787kmfq1njzl35-2n> [Accessed 10 April 2015].
+
+Love, J. (2005) ‘Remuneration Guidelines for Non-Voluntary Use of a Patent on Medical Technologies’, World
+Health Organization (WHO), p. 6. Available at <http://keionline.org/sites/default/ﬁles/who_undp_2005_
+royalty_guidelines.pdf> [Accessed 31 May 2015].
+
+Malik, M. (2011) ‘The Full Protection and Security Standard Comes of Age: Yet Another Challenge for States in
+Investment Treaty Arbitration?’ The International Institute for Sustainable Development, p .9. Available at
+<http://www.iisd.org/pdf/2011/full_protection.pdf> [Accessed 31 May 2015].
+
+McRae, D. (2012) ‘MFN in the GATT and the WTO’, Asian Journal of WTO & International Health Law and Policy,
+
+7(1), 1–24.
+
+Mitchell, D.A. and Wurzberger, S. (2011) ‘Boxed in? Australia’s Plain Tobacco Packaging Initiative and International
+
+Investment Law’, The Arbitration International, 27, 6.
+
+Muchinski, P., Ortino, F. and Schreuer, C. (2008) The Oxford Handbook of International Investment Law. Oxford
+
+University Press, Oxford.
+
+Nikiema, S.H. (2012) Best Practices Indirect Expropriation. The International Institute for Sustainable Development
+(iisd), Geneva [online]. Available at <http://www.iisd.org/pdf/2012/best_practice_indirect_expropriation.pdf>
+[Accessed 25 May 2015].
+
+Palmedo, M. (2013) ‘Do Pharmaceutical Firms Invest More Heavily in Countries with Data Exclusivity?’ Currents
+International Trade Law Journal, Summer [online]. Available at <http://papers.ssrn.com/sol3/papers.cfm?
+abstract_id¼2259797> [Accessed 25 May 2015].
+
+Pugatch, P.M. (2014) ‘Intellectual Property and Pharmaceutical Data Exclusivity in the Context of Innovation and
+Market Access’, ICTSD-UNCTAD Dialogue on Ensuring Policy Options for Affordable Access to Essential
+Medicines Bellagio [online]. Available at <http://www.iprsonline.org/unctadictsd/bellagio/docs/Pugatch_
+Bellagio3.pdf> [Accessed 4 June 2015].
+
+Position Paper on Investment-State Dispute Settlement mechanisms in ongoing trade negotiations, Group of the
+Progressive Alliance of Socialists & Democrats in the European Parliament, March 2015 [online]. Available at
+<http://www.socialistsanddemocrats.eu/sites/default/ﬁles/
+position_paper_investor_state_dispute_settlement_ISDS_en_150304.pdf> [Accessed 25 June 2015].
+
+Rutledge, B.P. (2012) ‘TRIPS and BITs: An Essay on Compulsory Licenses, Expropriation, and International
+
+Arbitration’, North Carolina Journal of Law & Technology, 13, 149.
+
+Salacuse, W.J. (2013) The Three Laws of International Investment; National, Contractual and International
+
+Frameworks for Foreign Capital. Oxford University Press, Oxford.
+
+Sampliner, G.H. (2003) ‘Arbitration of Expropriation Cases Under U.S. Investment Treaties-A Threat to Democracy
+
+or the Dog that didn’t Bark?’ ICSID Review-Foreign Investment Law Journal, 1, 14.
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+81
+
+Pratyush Nath Upreti
+
+Enforcing IPRs Through ISDS
+
+Sauvant, K. and Ortino, F. (2013) ‘Improving the International Investment Law and Policy Regime: Options for the
+Future’ (Helsinki: Ministry of Foreign Affairs of Finland) [online]. Available at <http://works.bepress.com/
+karl_sauvant/112/> [Accessed 16 April 2015].
+
+Schreuer, C. (2005) ‘The Concept of Expropriation under the ETC and other Investment Protection Treaties’ [online].
+
+Available at <http://www.univie.ac.at/intlaw/pdf/csunpublpaper_3.pdf> [Accessed 7 May 2015].
+
+Tan, L. and Bouchenaki, A. (2014) ‘Limiting Investor Access to Investment Arbitration: A Solution without a
+Problem? Reshaping the Investor State Dispute Settlement System: Journeys for the 21st Century’, edited by Jean
+E. Kalicki and Anna Joublin-Bret.
+
+Tellez, M.F. (2012) ‘Conditions and Criteria For The Protection of Legitimate Expectation Under International
+
+Investment Law’, ICSID Review, 27(2), 432–442.
+
+Thomas, R.J. (2014) ‘Compulsory Licensing of Patented Inventions’, Congressional Research Service Report
+[online]. Available at <http://ipmall.info/hosted_resources/crs/R43266_140114.pdf> [Accessed 29 May 2015].
+Vandevelde, J.K. (2010) Bilateral Investment Treaties: History, Policy, and Interpretation. Oxford University Press,
+
+Oxford.
+
+Voon, T., Mitchell, A. and Munro, J. (2012), ‘Intellectual Property Rights in International Investment Agreements:
+Striving for Coherence in National & international law’ [online]. Available at <http://papers.ssrn.com/sol3/
+papers.cfm?abstract_id¼2318955> [Accessed 10 June 2015].
+
+Weil, P. (2000) ‘The State, the Foreign Investor, and International Law: The No Longer Stormy Relationship of
+
+Menage a Trois’, ICSID Rev-FILJ, 15, 401–415.
+
+Yamane, H. (2011) Interpreting TRIPS: Globalization of Intellectual Property Rights and Access to Medicine. Hart
+
+Publication Ltd., United Kingdom.
+
+Yeh, T.B. (2014) ‘Protection of Trade Secrets: Overview of Current Law and Legislation’, Congressional Research
+
+Service [online]. Available at <http://fas.org/sgp/crs/secrecy/R43714.pdf> [Accessed 3 June 2015].
+
+Ziegier, R.A. (2008) Most-Favoured-Nation (MFN) Treatment. Oxford University Press, Oxford.
+
+82
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+

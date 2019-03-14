@@ -1,0 +1,3176 @@
+454
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 6
+
+Is there free-riding? A comparative analysis of
+the problem of protecting publishing
+materials online in Europe1
+Silvia Scalzini*
+
+The old and the new
+The battle between old and new intermediaries in the
+digital environment is well known.2 New intermediaries
+are arising in the information value chain. These new
+actors have at times challenged the role of traditional
+press publishers and news organizations, which have had
+to ﬁnd strategies to retain revenue and return on their
+investment in the internet. Indeed, information produc-
+tion and distribution online have greatly changed when
+compared with the traditional models in the analogue
+world. According to a study by the Organisation for Eco-
+nomic Co-operation and Development,3 the drivers of
+change in online news include new technologies, chan-
+ging media use and social factors (such as changing in-
+formation consumption) and the business models of
+internet intermediaries.
+
+Given the ubiquity of the internet, the same problem
+has emerged worldwide:4 the legitimacy of the activity of
+search engines and news aggregators in indexing and
+displaying news and articles.
+
+This issue has been debated on various occasions,
+legislation and even competition. The
+in litigation,
+discussion has mainly focused on the application of
+copyright law to such conduct, with special attention
+given to the nature of linking and publishing extracts
+of text.
+
+The excessive emphasis on copyright law as the main
+solution to the problem, however, has been read by some
+commentators as an exploitation of those rules in order
+to protect certain business interests to the detriment of
+
+Email: silvia.scalzini@gmail.com.
+
+*
+1 An earlier version of this article was presented at a Queen Mary School of
+
+Law Postgraduate Legal Research Conference 2014 ‘From Imitation to
+Innovation: Enriching Legal Scholarship’, London. I am grateful to
+Professor Giovanni Comande´ (Sant’Anna School of Advanced Studies,
+Pisa), Professor Caterina Sganga (Central Europe University, Budapest)
+and Dr. Sylvie Ne´risson (Max Planck Institute for Innovation and
+Competition, Munich) for their generous comments on that ﬁrst draft,
+which have much improved it. Any errors that remain are my own.
+See, as a short report, ‘Taxing Times. Newspapers versus Google’ The
+Economist (London, 10 November 2012) http://www.economist.com/
+news/international/21565928-newspapers-woes-grow-some-are-
+lobbying-politicians-make-google-pay-news-it (accessed 1 December
+2014).
+
+2
+
+The author
+† Silvia Scalzini is a PhD student at Sant0 Anna
+School of Advanced Studies (Pisa). She is current-
+ly a scholarship holder at Max Planck Institute for
+Innovation and Competition (Munich).
+
+This article
+† The article focuses on the questioned legitimacy
+of the activity of search engines and news aggrega-
+tors in indexing and displaying news and articles.
+This matter has been debated on various occasions
+in Europe, in litigation, legislation and even com-
+petition. The discussion has mostly focused on the
+application of copyright law to such conduct, with
+special attention given to the nature of linking and
+publishing extracts of text.
+
+† The fundamental question that
+
+legal policy-
+makers should ask is whether the activity of new
+intermediaries is purely ‘parasitic’ or whether it
+helps to foster development and innovation. To
+what extent should it be blocked or enhanced?
+
+† After an overview of the functioning of new inter-
+mediaries, the problem is considered from an eco-
+nomic and political perspective. The article then
+examines the effects of existing case law, conclud-
+ing with an analysis of the different models of
+regulation put in place by some European coun-
+tries and their effectiveness.
+
+3 OECD ‘The Evolution of News and the Internet’ (2010) www.oecd.org
+
+(accessed 1 December 2014). See also FTC, ‘Potential Policy
+Recommendations to Support the Reinvention of Journalism’ (15 June
+2010), http://www.ftc.gov/ftc/workshops.shtm.
+
+4 The development of the debate in the United States will not be discussed here.
+To investigate this aspect, see in particular R. Denicola, ‘News on the Internet’
+(1 May 2013). Fordham Intellectual Property, Media & Entertainment Law
+Journal, Vol. 23, No. 1, 2013, SSRN: http://ssrn.com/abstract=2448360; The
+Becker-Posner Blog 2009 (The Future of Newspapers-Posner, The Social Cost
+of the Decline of Newspapers?-Becker); M. I, Jasiewicz, ‘Copyright Protection
+in an Opt-Out World: Implied License Doctrine and News Aggregators’
+(2012), Yale Law Journal 122:837; A.B. Weaver, ‘Aggravated with Aggregators:
+Can International Copyright Law Help Save the News Room?’, 16 May 2012.
+Emory International Law Review, Vol. 26, No. 2, 2013; Emory Legal Studies
+Research Paper, http://ssrn.com/abstract=2061015.
+
+# The Author(s) (2015). Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jpv052
+
+Advance Access publication on 17 April 2015
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+6
+4
+5
+4
+9
+1
+9
+6
+1
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Silvia Scalzini . Is there free-riding?
+
+ARTICLE
+
+455
+
+others, without an appropriate balance, thus distorting
+copyright law purposes and aims.5
+
+different models of regulation put in place by some
+European countries and their effectiveness.
+
+The problem is made more complex by the fact that
+some of these new players have achieved high market
+share in digital copyright-related markets.6 The most
+obvious example is Google, the big US ﬁrm that is
+‘disruptive by design’,7 whose role is also currently under
+the scrutiny of the European Commission.8
+
+Here,
+analysed.
+
+the different European solutions will be
+
+The fundamental question that
+
+the legal policy-
+makers should ask themselves is whether the activity of
+new intermediaries is purely ‘parasitic’ or whether it is
+useful in fostering development and innovation. To what
+extent should it be blocked or enhanced?
+
+Such a choice touches the very heart of the function-
+ing of the internet and its players. In essence, it is a ques-
+tion of deciding (if and) how to regulate this ﬁeld, so as
+to adequately balance incentives for creativity and in-
+vestment, innovation and access to information. Given
+the ubiquity of the internet, such a choice should be con-
+ceived at a supranational level and carefully considered
+before drastic solutions are proposed.9
+
+After an overview of the functioning of new inter-
+mediaries, the problem is considered from an economic
+and political perspective. Then, after examining the
+effects of the existing case law, this article analyses the
+
+5 R. Xalabarder, ‘The Remunerated Statutory Limitation for News
+
+Aggregation and Search Engines Proposed by the Spanish Government; Its
+compliance with international and EU law’ (2014), IN3, Working Paper
+Series WP14-004, p. 19. For this author the new Spanish proposal is ‘a
+subsidy of an industry at the expenses of another’. See also R. Pardolesi,
+‘“Gooooglaw”. Del ricorso alla disciplina antitrust per colpire il tiranno
+benevolente’ (2013) Foro It, part V, col. 18; N. W. Netanel, ‘New Media in
+Old Bottles? Barron’s Contextual First Amendment and Copyright in the
+Digital Age’ (28 July 2008). George Washington Law Review, Vol. 76, No. 4,
+2008; UCLA School of Law Research Paper No. 08 –26, SSRN: http://
+ssrn.com/abstract=1183167, 129; L. Scanlon, ‘Government must change
+copyright law to protect website browsing’ (2013) E.I.P.R., 35(2), 63-64.
+6 The deﬁnition of the relevant markets is sometimes difﬁcult to provide,
+
+7
+
+8
+
+especially in media markets. For an analysis of the practice of competition
+law jurisdictions on copyright-related markets around the world see
+J. Drexl, ‘Copyright, Competition and Development, Report to the World
+Intellectual Property Organization’ (2013), http://www.wipo.int/export/sites/
+www/ip-competition/en/studies/copyright_competition_development.
+pdf (accessed 1 December 2014).
+L. Barber, M. Palmer, ‘Google chief prizes creativity’, Financial Times
+(London, 3 June 2010), http://www.ft.com/cms/s/2/bdec0ee8-6f4f-11df-
+9f43-00144feabdc0.html#axzz3LVWVTRzt (accessed 2 December 2014).
+See also A. Strowel, Quand Google de´ﬁe le droit. Plaidoyer pour un Internet
+transparent et de qualite´ (de boeck & larcier, Bruxelles 2012); A. Lopez-
+Tarruella (ed.), Google and the Law, Information technology and Law Series
+(TMC Asser Press, The Hague 2012).
+See, in particular, European Commission’s competition Investigation o
+allegations that Google Inc has abused a dominant position in online search,
+Case COMP/C-3/39.740. The investigation focuses on four types of business
+practices by Google. The ﬁrst two concerns relate to specialized ‘vertical’
+search services. In particular, Google is accused of displaying its own
+specialized search services in a more prominent manner than services of
+competitors and using content from competing specialized search services
+
+Overview of the functioning of new
+intermediaries
+New intermediaries are essentially concerned with infor-
+mation collection, aggregation and display. In particular,
+news aggregators are ‘websites that take information
+from multiple sources and display it in a single place’.10
+They can take many forms. They can be general or spe-
+ciﬁc, free or fee-based, web or email-based, and with or
+without original content.
+
+Their innovative business model is to attract trafﬁc
+and occasionally revenue ‘by hosting collections of links
+to the content of others’.11 These services usually display
+a hyperlinked headline to a news story with a short
+extract of text (snippet) and the source. Well-known
+aggregators include Google News, Yahoo News and the
+Hufﬁngton Post.
+
+Most news aggregators, such as Google News,12 also
+operate on an opt-out basis, indexing web pages automat-
+ically through a web crawler programme. The indexing
+works without seeking the ex ante permission of website
+owners and it ‘algorithmically aggregates headlines and
+groups similar articles together.13 Usually website owners
+can only opt out of the services and so avoid the indexing
+
+9
+
+without their consent. The two other concerns relate to online advertising
+and in particular to Google’s behaviour of imposing exclusivity agreements
+on publishers who wanted to use its advertising programmes, as well as
+imposing restrictions on advertisers who were using those programmes.
+Statement by Gu¨nther Oettinger to the daily Handelsblatt on a possible
+EU-wide intellectual property reform to force ‘Google to pay’ for
+intellectual property that it takes from Europe (28 October 2014), http://
+www.handelsblatt.com/politik/international/schutz-geistigen-eigentums-
+bis-2016-eu-plant-urheberrechtsabgabe-im-Internet/10900130.html
+(accessed 1 December 2014). See also the Press release ‘MEPs zero in on
+Internet search companies and clouds’ (27 November 2014), http://
+www.europarl.europa.eu/news/en/news-room/content/20141125IPR80501/
+html/MEPs-zero-in-on-Internet-search-companies-and-clouds (accessed
+2 December 2014), reporting the content of the European Parliament
+Resolution, that, among other things, stressed the need of Enforcing EU
+rules for online search companies, such as unbundling search engines from
+other commercial services.
+
+10 K. Isbell and Digital Media Law Project ‘The Rise of the News Aggregator:
+
+Legal Implications and Best Practices’ (2010), http://cyber.law.harvard.edu/
+publications, 1.
+
+11 M. Calin, C. Dellarocas, E. Palme and J. Sutanto, ‘Attention Allocation
+
+in Information-Rich Environments: The Case of News Aggregators
+‘(16 February 2013), Boston U. School of Management Research Paper
+No. 2013-14, SSRN: http://ssrn.com/abstract=2225359 or http://dx.doi.org/
+10.2139/ssrn.2225359.
+
+12 This system does not work in the German version of Google News,
+
+http://google-produkte.blogspot.de/2013/06/google-news-bleibt-offene-
+plattform-fuer-verlage.html (accessed 1 December 2014); T. Worstall,
+‘Google News Goes Opt-In in Germany’ Forbes (New York City, 22 June
+2013), http://www.forbes.com/sites/timworstall/2013/06/22/google-news-
+goes-opt-in-in-germany/ (accessed 25 November 2014).
+
+13 Ibid, 2.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+6
+4
+5
+4
+9
+1
+9
+6
+1
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+456
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 6
+
+in whole or in part through technical standards, such as
+Robot Exclusion Protocols and ACAP.14 Some of these
+services have a cache function, which allows them to
+create copies of web pages and store them in a cache
+memory.
+
+These players have successfully entered the informa-
+tion distribution value chain because of the efﬁciency
+they create for their users by decreasing the cost of
+searching for relevant information. They can also beneﬁt
+content owners by enhancing the visibility of their web-
+sites and increasing their appeal as advertising loca-
+tions.15 Finally, in general terms, they increase the free
+ﬂow of information, access to knowledge and freedom of
+speech. Since their activity relies on the use of the origin-
+al content of others, its legitimacy has been questioned.
+Traditional press publishers have accused them of free-
+riding, complaining about the systematic use of their
+content by these services without obtaining prior
+consent and without sharing the additional value gener-
+ated from their original stories.16
+
+In response, news aggregators often sustain that pub-
+lishers’ claims are essentially ﬁnancial and protectionist
+in nature, to the extent that they try to ‘put the brakes’
+on a new market service.17
+
+The debate focuses in particular on whether and how
+copyright law is able to effectively manage these conﬂict-
+ing issues, even if the problem has also affected unfair
+competition and antitrust law.18
+
+Free-riding? To what extent should these
+activities be blocked?
+If one considers matters from an economic and political
+perspective, it is easy to see that, while there is a need to
+
+protect creative content (and investments in professional
+creative content by news organizations) from free-riding
+on the internet, these innovative services create efﬁciency
+for users, increase the free ﬂow of information, access to
+knowledge and free speech and ﬁnally undertake invest-
+ments in innovative aggregation and search services.
+Moreover, regarding their functioning, hyperlinks and
+snippets of text have become part of normal use of the
+internet.
+
+Are there also efﬁciencies for traditional press pub-
+lishers? The answer may be positive. Search engines and
+news aggregators drive, or could drive, additional trafﬁc
+to their websites.19 However, they appropriate some ad-
+vertising revenue that could otherwise go to the content
+sites (in addition to reader loyalty20) and some behav-
+ioural studies have underlined a possible substitutive
+effect.21 In economic terms one can say that
+
+aggregators are beneﬁcial to content sites only to the extent
+that their presence attracts sufﬁcient additional visitors to
+the content ecosystem to offset the advertising revenue they
+[take away] from content creators.22 (citation omitted)
+
+Moreover, aggregators and search engines also affect
+content quality due to the competition they generate
+among content websites.23 It is thus questioned whether
+market developments could be an efﬁcient mechanism
+for sharing the additional resources produced.
+
+The challenge is to ﬁgure out which is the best form
+of regulation (if there is one) to encourage efﬁcient
+forms of collaboration, at the same time as safeguarding
+diversity and a pluralistic and fair digital environment.
+The problem is highly complex. Here, we consider the
+latest European developments and their effects in order
+to understand where the balance is tipped to date.
+
+14 OECD (n 3), 83.
+15 L. Scanlon, ‘Government Must Change Copyright Law To Protect Website
+
+32.2 Del Proyecto De Ley Que Modiﬁca El Texto Refundido De La Ley De
+Propiedad Intelectual (16 May 2014), par. III.1
+
+Browsing’ (n 5) 63 – 64.
+
+16 See, in particular, Hamburg Declaration regarding intellectual Property
+
+Rights (2009), http://www.encourage-creativity.org/en/?PHPSESSID=
+‘97b9aksu7fsv3u1n1b55s6lf3sgt84h1 (accessed 15 November 2014).
+17 Copiepresse SCRL et al v Google Inc Tribunal de Premie`re Instance de
+
+Bruxelles, 13 February 2007; conﬁrmed by Cour d’Appel de Bruxelles (ch.9),
+5 May 2011 [61], http://www.copiepresse.be/pdf/Copiepresse5mai2011.pdf.,
+infra.
+
+18 See, in particular, the Italian antitrust authority, Autorita` Garante della
+Concorrenza e del Mercato (AGCM), decision n. 21959 of 22 December
+2010, Case 420, Federazione Italiana Editori Giornali/Google, Bollettino
+n. 51/2010, http://www.agcm.it/concorrenza/concorrenza-delibere/open/
+41256297003874BD/82463028EDFECAE0C125781C004E895E.html. The
+case was concluded by commitments, according to which Google allowed
+Italian newspaper publishers to choose what kinds of content should not be
+shown on Google and, moreover, separated the operation of its search
+engines from that of Google News.
+
+19 See also Comisio´ n Nacional de los Mercados y la Competencia (CNMC),
+Pro/Cnmc/0002/14 Propuesta Referente A La Modiﬁcacio´ n Del Artı´culo
+
+20 N. W. Netanel, ‘New Media in Old Bottles? Barron’s Contextual First
+
+Amendment and Copyright in the Digital Age’ (n 5) 128.
+
+21 M. Calin, C. Dellarocas, P. Elia, J. Sutanto, Attention Allocation in
+
+Information-Rich Environments: The Case of News Aggregators (n 11).
+For these scholars there is a substitution relationship between the amount
+of information that the aggregators offers about articles and the probability
+that users will opt to read the full article at the content producer website.
+Cf. CNMC (n. 18) par. III.1, according to which it the existence of a direct
+competition between news organisations and news aggregators is
+questionable.
+
+22 C. Dellarocas, Z. Katona, R. M. William M., Media, Aggregators and the
+
+Link Economy: Strategic Hyperlink Formation in Content Networks
+(30 September 2010). NET Institute Working Paper No. 10 – 13; Boston
+U. School of Management Research Paper No. 2010-30; Robert H. Smith
+School Research Paper No. RHS 06-131, SSRN: http://ssrn.com/
+abstract=1694370 or http://dx.doi.org/10.2139/ssrn.1694370, 5.
+
+23 N. W. Netanel, ‘New Media in Old Bottles? Barron’s Contextual First
+
+Amendment and Copyright in the Digital Age’ (n 5) 129.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+6
+4
+5
+4
+9
+1
+9
+6
+1
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Silvia Scalzini . Is there free-riding?
+
+ARTICLE
+
+457
+
+What about copyright law?
+Patterns in national courts: between copyright
+infringement and lawful use of content
+The case law of European national courts underlines the
+uncertainties of dealing with this issue.
+
+The litigation focuses especially on the scope of copy-
+right law. The main problems raised in terms of copy-
+right have concerned news, headlines and snippets of
+articles as copyright subject matters, the qualiﬁcation of
+the activity of new intermediaries as acts of exploitation
+of materials protected by copyright24 or not, as well as
+the deﬁnition of the scope of applicable exceptions and
+limitations or fair dealing.25 Within these proceedings,
+claims have arisen also regarding unfair competition,
+abuse of right and the existence of implied licenses.
+
+Decisions in Europe have addressed these issues in
+different ways, because of the interests involved. A ﬁrst
+group of decisions afﬁrmed copyright infringement and
+narrowly interpreted copyright exceptions.26 Here we
+mention the Belgian decision in Copiepresse SCRL et al v
+Google Inc and the English decision in Newspaper Licens-
+ing Agency Ltd and others v Meltwater Holding BV and
+others.27
+
+Copiepresse SCRL et al v Google Inc28 involved the
+well-known news aggregator Google News (Belgique)
+and the collective management organizations for Belgian
+newspaper publishers in French and German languages,
+Copiepresse, and for journalists and scholarly authors,
+SAJ and Assucopie. In the ﬁrst and second instances the
+Courts condemned Google for copyright infringement,
+although the latter decision was appealed to the Belgian
+Cour de Cassation and the lawsuit was settled before the
+ﬁnal decision.29 The Cour d0Appel de Bruxelles found
+Google liable for infringing the rights of reproduction
+and communication to the public both with its cache
+function and with its news service. Considering the ﬁrst
+
+24 According to Articles 2-4 of Directive 2001/29 on the harmonisation
+aspects of copyright and related rights in the information society (the
+‘Infosoc Directive’), these acts include reproduction, communication to the
+public of works and making available to the public other subject matter
+and distribution.
+
+25 See Article 5 of the Infosoc Directive (n 24).
+26 For this analysis see also M. Stanganelli, ‘Spreading the News Online:
+
+A Fine Balance Of Copyright And Freedom Of Expression In News
+Aggregation’ (2012) EIPR, 34(11), 745 –753.
+
+27 See below. For other less recent cases, like Danish Newspaper Publishers’
+
+Association v Newsbooster.com ApS, 7 May 2002, Denmark Bailiff ’s Court,
+see G. J. H. Smith, Internet Law and Regulation (London, Sweet & Maxwell,
+2007), 72 ff.
+
+28 Copiepresse SCRL et al v Google Inc (n 17).
+29 Press release ‘Belgian French-Language News Publishers, Authors Societies
+
+And Google Reach Partnership Agreement’, https://www.copiepresse.be/
+images/ﬁle/Google/2012_12_12_Copiepresse_press_release_EN.pdf
+(accessed 24 November 2014).
+
+aspect, the Court excluded application of the exemption
+either as a temporary copying in Article 5(1) of the
+Infosoc Directive or under the cache copying safe
+harbour in Article 13 of the E-commerce Directive.30
+With regard to the news service,
+it conﬁrmed that
+Google had reproduced and communicated to the
+public materials protected by copyright (headlines and
+extracts of text) and deemed the statutory limitations in-
+applicable.31 Moreover, it conﬁrmed the infringement of
+the moral rights of the authors32 and rejected ‘Google’s
+alternative arguments’.33 In particular, the Court denied
+the existence of an implied licence deriving from the fact
+that the publishers had not implemented the technical
+measure to opt out of Google’s service34 and rejected
+Google’s demand for the right ‘to freely disseminate in-
+formation’ in reference to Article 10 of the European
+Convention for Human Rights.35 Finally, the Court did
+not qualify the publishers’ conduct as an abuse of law,36
+as Google claimed, nor did it consider the lawsuit
+against Google anti-competitive behaviour by Copie-
+presse. The Court considered this last argument un-
+founded, there being no evidence that Copiepresse had
+engaged in concerted practices to prevent, restrict or
+falsify the game of competition, nor had it abused its
+dominant position in order to eliminate Google News-
+competition.37
+
+In Great Britain, an interesting and much-discussed
+case involved the media monitoring agency Meltwater, a
+service that provides its clients with every reference
+within a deﬁned period to speciﬁc keywords, by moni-
+toring and indexing online media websites. The clients
+can access the Meltwater news service either by opening
+the email alert sent by the agency or by visiting the
+website. Meltwater results include a hyperlink to every
+article containing the search term, the headline and
+the opening words as well as an extract of the article
+showing the search term. The England and Wales Court
+
+30 Copiepresse SCRL et al v Google Inc (n 17) [21]- [26] and [44] and [54].
+31 Ibid [31] –[35] and [36] and [44].
+32 Ibid [38].
+33 P. Laurent, ‘Copiepresse SCRL & Alii v Google Inc In Its Decision Of 5 May
+2011, The Brussels Court Of Appeal Conﬁrms The Prohibitory Injunction
+Order Banning Google News And Google’s “In Cache” Function’ (2011)
+Computer Law & Security Review Vol. 27, 542, 545.
+
+34 Ibid [46]-[51].
+35 Ibid [56]- [58].
+36 Ibid [59]-[60].
+37 Ibid [61]-[63]; as Professor Xalabarder noted: ‘in “Copiepresse”, the
+
+Belgian court expressly declined to assess any competition law issues, but
+was ready to ﬁnd (without direct evidence to support it) that Google’s
+services were replacing access to the newspapers’ sites (thus, failing to clear
+the three-step-test)’: ‘Google News and Copyright’, in A. Lopez-Tarruella
+(ed.), Google and the Law (TMC Asser Press, The Hague 2012), 160.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+6
+4
+5
+4
+9
+1
+9
+6
+1
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+458
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 6
+
+of Appeal38 conﬁrmed the decision of the High Court,39
+afﬁrming the copyright infringement and the conse-
+quent need for a licence (from the collecting society
+Newspaper Licensing Agency) not only for Meltwater’s
+site but also for the users of that site, though distinguish-
+ing the situation of fee-based services from those of
+free services.40 Both courts considered that, in most
+instances, the headlines and the scrapings constituted
+work protected by copyright or a substantial part of a
+work protected by copyright.41 The copy made by the
+end-user’s computer by opening the email from Melt-
+water or accessing the Meltwater website and clicking on
+the links to the articles thus, ‘prima facie, an infringe-
+ment of the Publishers’ copyright0.42 As far as the excep-
+tions and limitations were concerned,
+the Courts
+excluded the application of s.28A Copyright, Designs
+and Patents Act 1988 (CDPA) dealing with temporary
+copies, s.30 CDPA as fair dealing for criticism, review
+and news reporting, and the Database Regulation. There
+was no fair dealing because the activities in question did
+not fall within the purposes of criticism and review,43 or
+the reporting of current events.44 In short, according to
+the judges, Meltwater’s dealing was for commercial pur-
+poses and was encouraging end-users to infringe pub-
+lishers’ copyright.45 The Court of Appeal decision was
+appealed to the UK Supreme Court,46 which in turn
+made a preliminary reference to the Court of Justice of
+the European Union (CJEU)47 regarding the interpret-
+ation of the temporary copy limitation in the case of
+users browsing protected content online. The UK
+Supreme Court asked whether an end-user, who merely
+browses the Meltwater web page without downloading,
+printing or otherwise setting out to make a copy of it,
+
+38 [2011] EWCA Civ 890.
+39 [2010] EWHC 3099 (Ch).
+40 Ibid [20]-[22].
+41 [2011] EWCA Civ 890 (n 37) [48].
+42 Ibid [5].
+43 [2010] EWHC 3099 (Ch) (n 38)[124]-[127].
+44 Ibid [128]-[129].
+45 [2011] EWCA Civ 890 (n 37) [41].
+46 Public Relations Consultants Association Limited v The Newspaper Licensing
+
+Agency Limited and others [2013] UKSC 18.
+
+47 Public Relations Consultants Association Ltd v The Newspaper Licensing
+
+Agency Ltd and others (‘Meltwater’), C-360/ 13, EU:C:2014:1195.
+
+48 See P. Joseph and A. Cusworth ‘Meltwater: Liability For internet Browsing’
+
+(2014) JIPLP 9 (11): 885– 887. According to these authors, ‘the CJEU’s
+justiﬁcation as to why the creation of the temporary copies was a ‘special
+case’ under Article 5(5) . . . works where the content is lawful and has been
+properly put into circulation by the rights holder’.
+
+49 Outside Europe, an important decision that has shared this approach is
+
+Fairfax Media Pubs Pty Ltd v Reed International Books Australia Pty, [2010]
+FCA 984 (Federal Court Australia), http://www.austlii.edu.au/cgibin/
+sinodisp/au/cases/cth/FCA/2010/984.html?stem=0&synonyms=0
+&query=title%28fairfax%20media%20and%20Reed%20%29. The FCA,
+after denying the copyright protection for newspapers’ headlines, deemed
+
+the conditions of Article 5(1) of
+
+requires a licence from the copyright holders of the
+content reproduced by the service or whether the screen
+copy and automatically created cached copy of the
+website fulﬁl
+the
+InfoSoc Directive. Fortunately for internet end-users,
+the CJEU stated that the copies satisﬁed not only the
+fourth and the ﬁfth conditions of Article 5 (1), as already
+stated by the referring Court, but also the ﬁrst three con-
+ditions: to be temporary, to be transient or incidental in
+nature and to constitute an integral and essential part of
+a technological process. The Court added that the cached
+copies also satisfy the conditions laid down in Article 5(5)
+of Directive 2001/29. Indeed, the carrying out of a tem-
+porary act of reproduction is exempt from the reproduc-
+tion right only in certain special cases that do not conﬂict
+with a normal exploitation of the work and do not unrea-
+sonably prejudice the legitimate interests of the rights
+holders. According to the Court, onscreen copies and
+cached copies constitute a special case, since they are
+created only for the purpose of viewing websites; they do
+not prejudice the legitimate interests of the rights holders,
+who have already authorized the works to be made avail-
+able by the publisher of the website visited, and they
+cannot operate to the detriment of the normal exploit-
+ation of the works. While this decision determined that
+such copies do not require the authorization of the copy-
+right-holder, some commentators have observed that this
+casts a shadow on the conduct of those who ‘unwittingly
+browse or link to infringing content’.48
+
+A second group of decisions, through a more ‘ﬂexible’
+interpretation of copyright exceptions, did not afﬁrm
+copyright infringement49 and considered lawful that use
+of others’ content.50
+
+the conduct of reproducing and communicating the headlines as part of
+the Abstracts as fair dealing ‘for the purpose of reporting news such that
+conduct would not constitute an infringement of copyright by reason of
+s 42(1)(b) of the [Australian Copyright Act]’. According to the Court, ‘the
+use of titles of articles and books for the purposes of identiﬁcation is well-
+known and routine, even more so today for the purposes of Internet
+searches’.
+
+50 For the analysis of less recent cases as PCM v Algemeen Dagblad B.V. v
+Eureka Internetdiensten, District Court of Rotterdam, August 22, 2000;
+[2002] E.C.D.R., see G. J. H. Smith, Internet Law and Regulation, (n 27), 70
+ff. An important decision on this matter, although it was issued before the
+implementation of the InfoSoc Directive (n 24), is the German case
+PaperBoy Bundesgerichtshof (BGH), 17 July 2003, case I WR 259/00. Here,
+the Federal Court of Justice found that neither the adoption of short
+fragments of the articles nor the setting of the deep links amounted to an
+infringement under Section 16 Urheberrechtsgesetz. Then the BGH rejected
+the argument that Paperboy service infringes the sui generis rights of
+Section 87b(1) UrhG accorded to the maker of a database, afﬁrming, in
+particular that ‘the utilization of the short fragments did not replace but
+rather stimulated the further use of the databases by allowing users to
+decide whether or not an article was of interest to them’. Finally, regarding
+the claim of unfair competition, the Court found that the respondent ‘was
+offering a distinctly separate and useful service, which of course built on
+the existence of publicly available articles on the World Wide Web’. It
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+6
+4
+5
+4
+9
+1
+9
+6
+1
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Silvia Scalzini . Is there free-riding?
+
+ARTICLE
+
+459
+
+In France, the Tribunal de Grande Instance (TGI) of
+Nancy51 rejected the claims by two French regional news-
+papers, Le journal de Saoˆne-et-Loire and Le Bien public,
+which accused online newspaper Dijonscope of copyright
+infringement and unfair competition. On its website,
+Dijonscope had a section entitled ‘revue du web’, in which
+it collected links to articles from other information
+website and displayed their headlines, the date and time of
+the original publications and a few sentences as an intro-
+duction. Concerning the copyright infringement, the TGI
+ﬁrst afﬁrmed that linking, albeit deep linking, did not con-
+stitute an act of infringement. According to the Court, it
+merely displayed some links that allowed users to view the
+original websites, on which the ‘repre´sentation’ was made.
+With regard to the reproduction of extracts of text, the
+Court considered the conduct of Dijonscope to be an act
+of ‘reproduction partielle’ under Article L122-4 of the
+Code de la Proprie´te´ Intellectuelle. Nevertheless such acts
+could be exempted by the ‘exception de courtes citations’
+(quotation exception), since Dijonscope always mentioned
+the prior publication of the works and the clear enunci-
+ation of their authors and sources.52 The ‘exception de
+revue de presse’ was not considered applicable. With
+respect to unfair competition (more correctly ‘concurrence
+de´loyale’), the plaintiffs accused Dijonscope of generating
+a risk of confusion and altering their ranking by search
+engines, resulting in a ‘de´tournement de cliente`le’(custo-
+mer poaching). The Court denied the existence of such a
+risk, given that users could not seriously misunderstand
+the source of the article consulted. Finally the Tribunal
+held that the other claims of the two newspapers (the pos-
+sibility of viewing pages amended or withdrawn from the
+original websites and the possibility of circumventing the
+paywalls) were insufﬁciently proven.
+
+Another important ruling is Megakini.com v Google
+Spain, issued by the Spanish Supreme Court in 2012.53
+This did not concern a news aggregator but a search
+engine, Google Spain. It is signiﬁcant because of its
+
+reading of the ‘three-step-test’ as a ﬂexible clause in the
+application of copyright statutes.54
+
+The case involved the qualiﬁcation as copyright in-
+fringement of
+the unauthorized reproduction and
+making available of a website’s content by Google Spain.
+In particular, the issue concerned the partial reproduc-
+tion of extracts of website text content in Google search
+results, as well as the reproduction and making available
+of cached copies of web pages through the Google cache
+service. The Supreme Court (SC) conﬁrmed the rulings
+of the lower courts, dismissing the infringement action.
+According to the Court, in principle, the making avail-
+able of cached copies requires the prior authorization of
+the copyright holder.55 The reproduction of extracts of
+text is characterized by its insigniﬁcance and its aims to
+guide the user. The SC then afﬁrmed that the interpret-
+ative value of the three-step-test is not only negative,
+but also positive,
+‘incorporating the speciﬁcities of
+the general principles of the law into the copyright
+statute’:56 the doctrine of the ius usus inocui, the prin-
+ciple of good faith (Art. 7.1 Civil Code), the prohibition
+of abuse of right (abuso del derecho o del ejercicio antisocial
+del mismo, under Art. 7.2 Civil Code), as well as the
+Spanish constitutional construction of property as a non-
+absolute right. Therefore, it is appropriate for a Court to
+analyse, in particular, whether the unauthorized repro-
+duction of a work can concretely cause damage to the ‘le-
+gitimate interests’ of the author or affect the normal
+exploitation of the work or whether it favours such inter-
+ests and such exploitation. Since the activity of Google
+beneﬁts the applicant by providing general access to its
+website and knowledge of its content, the Supreme Court
+concluded that the claim intended merely to hurt Google
+without getting any personal gain, resulting arbitrary.57
+Finally the Court clariﬁed that it did not intend to intro-
+duce a new statutory limitation or legitimize all of
+Google’s activities.58 Simply, the protection of the derecho
+de autor and the narrow interpretation of its limitations
+
+dismissed the risk of confusion and rejected the argument that the use of
+deep links violated legitimate interests in bypassing advertisements placed
+on the homepages from which a user would normally begin his or her
+search. See J. Stemplewitz, Report - Bundesgerichtshof-Zivilsachen (Federal
+Court of Justice-Private Law) 2003, R. Miller and P. Zumbansen (eds),
+Annual of German and European Law 2004, http://www.cgerli.org/
+ﬁleadmin/user_upload/interne_Dokumente/Judgments/bghizr25900.htm
+(accessed 1 December 2014).
+
+51 TGI Nancy, poˆ le civil, sect. 1, 6 December 2010, Le Bien Public v Dijonscope.
+See F. Pollaud-Dulian, ‘Site Internet. Liens Hypertexte Profonds. Revue De
+Presse. Courtes Citations’ (2011) RTD Com., 346.
+
+52 For a broad interpretation of the ‘exception de courtes citations’, see in
+
+particular Microfor v Le Monde, Cour de Cassation, Ass. ple´n., 30 October
+1987, 86 – 11918: JCP G 1988, II, 20932, http://www.legifrance.gouv.fr/
+afﬁchJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT
+000007019548&fastReqId=615613219&fastPos=1, in which the Cour de
+Cassation afﬁrmed that the reproduction of headlines and short extracts of
+
+articles in an index of French written press did not constitute a copyright
+infringement.
+
+53 Tribunal Supremo (Civil ch.), Sent. 172/2012, 3 April 2012, http://
+
+pdfs.wke.es/8/6/1/5/pd0000078615. pdf.
+
+54 See, in particular, R. Xalabarder, ‘Spanish Supreme Court Rules in Favour
+of Google Search Engine . . . and a Flexible Reading of Copyright Statutes?’,
+3 (2012) JIPITEC 162, [1].
+
+55 Tribunal Supremo (Civil ch.), Sent. 172/2012, 3 April 2012 (n 53) [5].
+56 R. Xalabarder, ‘Spanish Supreme Court Rules in Favour of Google Search
+
+Engine . . . and a Flexible Reading of Copyright Statutes?’ (n 54) [18].
+
+57 Tribunal Supremo (Civil ch.), Sent. 172/2012, 3 April 2012 (n 53) [5], in
+which the Court add that the plaintiff not only omitted any allegation of
+actual damage to their copyright but seemed geared to a kind of social
+judgment to Google.
+
+58 Ibid [5].
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+6
+4
+5
+4
+9
+1
+9
+6
+1
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+460
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 6
+
+could not allow for abusive claims, intended only to harm
+third parties.
+
+This short case overview shows the interests, the
+claims and the defences of the various players, as well as
+the different evaluations by the courts. These decisions
+have often depended on their speciﬁc facts and on the
+type of service considered, as well as on the different in-
+terpretation of each statutory copyright system.
+
+The focal point of the debate has been the edge of
+the level of imitation allowed, according to copyright
+law’s aims. Indeed, domestic courts increasingly face the
+problem of interpreting the current legal tools with
+respect to new uses in the internet. The results often
+depend on the weight given to some interests rather than
+others. For instance, some courts have given greater
+weight to the interests of the right holders, especially
+when the acts of exploitations have been put in place by
+commercial services (Meltwater), while others have
+found that such acts could be exempted by existing
+exemptions and limitations, thus dispensing with the
+need for a licence (Dijonscope). Moreover, some deci-
+sions deemed the claims of the plaintiffs abusive on the
+ground of the three-step test (Megakini), while others
+reject that argument (Copiepresse).
+
+As Professor Ginsburg has noted, ‘different outcomes
+in different jurisdictions can complicate the business
+planning of web-based enterprises whose users may be
+located across the globe’.59
+
+EU insights: the CJEU interpretation of
+Directive 2001/29 on linking and extracts
+The problem of classifying news intermediaries’ activ-
+ities has recently been considered before the CJEU,
+which has interpreted Directive 2001/29 on the activity
+of linking and providing extracts of third party content.
+The consequences of these rulings may be relevant for
+new intermediaries functioning in Europe and for their
+possibly being regarded as parasitic, as well as for the
+harmonisation of copyright norms.
+
+The most important ruling is Svensson.60 The main
+proceedings concerned a claim for compensation for the
+
+harm resulting from the unauthorized inclusion on a
+company’s website of hyperlinks redirecting users to
+press articles in which the applicants held the copyright.
+The CJEU afﬁrmed that the provision on a website of
+clickable links to works freely available on another
+website is not an ‘act of communication to the public’.61
+First, considering the criterion of act of communica-
+tion, it stated that the provision of clickable links to pro-
+tected works must be considered to be making available
+those works and, therefore, is an act of communication.62
+It then analysed the criterion of communication to the
+public and, in particular, according to the settled case law,
+communication to a new public, afﬁrming that there is
+no new public if the protected work is published and
+freely accessible. The Court concluded that, in the absence
+of a new public, such communication to the public did
+not require the authorization of the copyright holder.
+Otherwise, if the link had been used to circumvent the
+restrictions placed by the copyright holder (for example,
+to give access only to subscribers), the communication
+would have been directed to a new public and the supplier
+of the link would have required permission so as not to
+infringe copyright.
+
+While this ruling may seem reassuring in many
+
+respects, it raises more questions than it answers.
+
+So far as is relevant here, according to the reasoning
+of the Court, the act of linking is an act of communica-
+tion not directed to a new public, because the original
+content, to which the link redirects the user, is freely
+available online. The quasi-subjective criterion of a ‘new
+public’, namely ‘a public that was not taken into account
+by the copyright holders when they authorized the initial
+communication to the public’,63 raises doubts regarding
+the real meaning of the expression ‘freely available’. For
+instance, should the terms and conditions set by the
+copyright holder be considered?64 If so, what about the
+functionality of news aggregators, which is based, for in-
+stance, on an opt-out basis? Nor is the Court clear as to
+the relevant moment for determining when content is
+freely accessible.65 From the statement of the Court, it
+seems that ‘what matters is no longer just the initial act
+of communication, but rather the circumstance that the
+
+59 J. C. Ginsburg, ‘News Aggregation: Discord Among Common Law
+Jurisdictions’ (12 January 2011), www.mediainstitute.org/IPI/2011/
+011211.php (accessed 23 November 2014).
+
+60 Judgment in Svensson v Retriever Sverige AB, C-466/12, EU:C:2014:76.
+61 According to Article 3(1) of Infosoc Directive (n 24), every act of
+
+communication of a work to the public has to be authorised by the
+copyright holder. The concept of communication to the public includes
+two cumulative criteria, namely, an ‘act of communication’ of a work and
+the communication of that work to a ‘public’.
+
+62 Svensson (n 60) [20].
+63 Svensson (n 60) [24]. For a critique on the criterion of the new public see
+
+Association Litte´raire et Artistique Internationale (ALAI) ‘Opinion Proposed
+
+to the Executive Committee and Adopted at its Meeting, 17 September
+2014 on the Criterion “New Public”, developed by The Court of Justice of
+The European Union (CJEU), put in the Context of Making Available and
+Communication to the Public’, http://www.alai.org/en/assets/ﬁles/
+resolutions/2014-opinion-new-public.pdf (accessed 12 November 2014).
+
+64 For this reﬂection see also A. Moir, R. Montagnon, H. Newton,
+
+‘Communication To The Public: The CJEU Finds Linking To Material
+Already ”Freely Available” Cannot Be Restricted By Copyright Owners: Nils
+Svensson And Others V Retriever Sverige AB (C-466/12)’ (2014) EIPR, 36(6),
+399-400.
+
+65 Svensson (n 60) [31]. ‘This is the case, in particular, where the work is no
+
+longer available to the public on the site on which it was initially
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+6
+4
+5
+4
+9
+1
+9
+6
+1
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Silvia Scalzini . Is there free-riding?
+
+ARTICLE
+
+461
+
+work remains freely available on the internet all the
+time’.66 This appears to be introducing a sort of duty to
+monitor the actual ‘free availability’ of the content.
+
+The answers to these questions could inﬂuence the
+consideration of the activity of new intermediaries to a
+great extent, as well as, in general terms, the whole func-
+tioning of the web.67
+
+In the same decision, the CJEU afﬁrmed that a
+member state cannot give protection to copyright
+holders by asserting a wider concept of communication
+to the public.68
+
+This interpretation is surely intended to increase legal
+certainty within the EU, regarding, in particular, new
+changes in national copyright laws in order to protect
+press publishers.69
+
+As mentioned, national courts have also dealt with
+the problem of the consideration of news, headlines and
+extracts of articles as copyright subject matter. A few
+words should be thus devoted to another important de-
+cision of the CJEU, concerning the standard of original-
+ity of a work and, in particular, of newspaper articles: the
+‘Infopaq I’ decision.70 According to the Court, even an
+extract of a protected work comprising 11 words may be
+original if the fragment is the expression of the intellec-
+tual creation of their author. Anyway, ‘it is for the na-
+tional court to make this determination’71; therefore,
+setting originality standard in headlines and extracts is
+left to national judges. However, the decision has had an
+important impact on some national systems, because of
+the light that it has thrown on the assessment of the in-
+tellectual creation of the author. In United Kingdom, for
+example, the application of the ‘Infopaq test’ in News-
+paper Licensing Agency Ltd and others v Meltwater
+
+Holding BV and others, in the opinion of some commen-
+tators, has shown a shift toward a more ‘qualitative di-
+mension’ of the evaluation of protected-subject matter.72
+Surely the legal framework of new internet uses and
+players should be clariﬁed within the process of the
+modernization of EU copyright73 in order to strike the
+most appropriate balance between the competing inter-
+ests in the digital environment.
+
+Statutory responses and their limits
+Given these uncertainties, some countries have consid-
+ered the option of expanding intellectual property rights
+in order to prevent free-riding and to obtain revenue
+from news aggregators and search engines.
+
+In 2013, Germany adopted an amendment to the
+Urheberrechtsgesetz (German Copyright Act) and issued an
+ancillary copyright for Press Publishers (Leistungsschutz-
+recht fu¨r Presseverleger)74 whereby the commercial use of
+press products on the internet, particularly by search
+engine providers and news aggregators, is subject to an ex-
+clusive right. Under these rules, press publishers have the
+exclusive right to make their content publicly available for
+commercial purposes. This right
+is transferable and
+expires one year after the publication. The making avail-
+able of such content, in whole or in part, by third parties is
+authorized, except for commercial operators of search
+engines or commercial news aggregators. Unlike the ﬁrst
+version of the bill, no fees need be paid for displaying
+single words or small extracts of text, the deﬁnition of
+which, however, is not provided by the law.
+
+This amendment,75 which is at the centre of intense
+debate,76 is the ﬁrst concrete attempt in Europe to
+
+communicated or where it is henceforth available on that site only to a
+restricted public, while being accessible on another Internet site without
+the copyright holders’ authorization.’
+
+72 E Rosati, ‘Originality in a Work, or a Work of Originality: The Effects of the
+
+Infopaq Decision’ (2011) 58(4) JCoprSocy 795– 817, and 33(12) EIPR
+746 –755.
+
+66 E. Arezzo ‘Hyperlinks and Making Available Right in the European
+
+Union – What Future for the Internet After Svensson?’ (IIC 2014, 524),
+545.
+
+73 Public Consultation on the review of the EU copyright rules, http://
+ec.europa.eu/internal_market/consultations/2013/copyright-rules/
+index_en.htm.
+
+67 See also European Copyright Society ‘The Reference to the CJEU in Case
+C-466/12 Svensson’ (15 February 2013). University of Cambridge Faculty
+of Law Research Paper No. 6/2013, SSRN: http://ssrn.com/abstract=
+2220326 or http://dx.doi.org/10.2139/ssrn.2220326.
+
+68 Svensson (n 60) [41].
+69 Infra. See also E. Rosati, ‘The German ‘Google Tax’ Law: Groovy Or
+
+Greedy?’ JIPLP (2013) 8 (7): 497.
+
+70 Judgment in Infopaq International v Danske Dagblades Forening, C-5/08,
+
+EU:C:2009:465. The dispute in the main proceeding concerned the
+problem of the requirement to obtain the consent of the right holders for
+acts of reproduction of newspaper articles using an automated process
+consisting in the scanning and then conversion into digital ﬁles followed by
+electronic processing of that ﬁle. The questions referred to the CJEU for a
+preliminary ruling pertained to the interpretation of Article 2 of Directive
+2001/29, as well as Article 5 of Directive 2001/29.
+
+71 Infopaq International v Danske Dagblades Forening (n 70) [51].
+
+74 Sections 87f to 87h of the German Coypright Act, as amended by Law of 1
+
+October 2013, [2013] Bundesgesetzblatt (Federal Ofﬁcial Journal) Vol. I,
+p. 3728. Achtes Gesetzzur A¨ nderung des Urheberrechtsgesetzes, in
+Bundesgesetzblatt Jahrgang 2013 Teil I Nr. 23, ausgegeben zu Bonn am 14
+Mai 2013, http://gesetzgebung.beck.de/news/leistungsschutzrecht-
+fuer-presseverleger.
+
+75 For a report of background to the issue of the law, see S. Ne´risson (2012)
+‘La lex google d’outre-Rhin, un nouveau droit voisin pour les e´diteurs de
+presse’ IRPI-ﬂash.
+
+76 See, in particular, the Max Plank Institute for Innovation and Competition
+
+Law statement concerning the draft legislation for an addition to the
+Copyright Act by means of ancillary copyright for publishers, http://
+www.ip.mpg.de/ﬁles/pdf2/Stellungnahme_zum_Leistungsschutzrecht_fuer_
+Verleger.pdf; GRUR, statement of the expert committee of copyright and
+publishing law of GRUR for the Government draft of a seventh amendment
+of the Copyright Act (ancillary copyright for press publishers) (19 December
+2012), http:/www.grur.org/uploads/tx_gstatement/2012-12-
+19_GRUR_Stn_Leistungsschutzrecht_Presseverleger.pdf.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+6
+4
+5
+4
+9
+1
+9
+6
+1
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+462
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 6
+
+provide an alternative model for regulating these activ-
+ities.77 The effects of these amendments are now being
+put to the test.
+
+As some far-sighted scholars have pointed out, ‘the
+new ancillary copyright law itself does not accommodate
+the publishers’ ﬁnancial interests’.78 Indeed, they ‘are not
+(at least not primarily) interested in exercising a right to
+exclude content, rather they are much more concerned
+with signing paid-for licensing agreements’79. The latest
+developments in Germany80 have conﬁrmed this theory.
+The largest search engine, Google, refused to enter into
+negotiations in order to stipulate paid-for licensing
+agreements to display publishers’ content. To date the
+law has not worked as leverage to encourage Google to
+pay press publishers who, instead, have had to face the
+alternative to opt into the service and either consent for
+their content to be used free of charge or have it
+removed (or signiﬁcantly reduced) from the display on
+the famous news aggregator. The collective management
+society VG Media Group, which represents many of the
+main press publishers in Germany, complained that
+press publishers have been forced to give their free
+consent
+‘given the overwhelming market power of
+Google’81. It also claimed that ‘lost revenues caused by a
+fall in trafﬁc as a result of Google not using their extracts
+could trigger bankruptcies’.82 It is easy to see that the
+next step in this strategy will be to force the search
+engine to index the content for a fee.
+
+Now the matter has moved to the courts and to the
+federal competition authority. The Bundeskartellamt,
+has been asked for a clariﬁcation,83 while the VG Media
+
+Group has issued a civil action84 in order to deﬁne the
+exact scope of the press ancillary copyright.
+
+Following the German legislative path, Spain recently
+adopted an Intellectual Property Law Reform, Ley 21/
+201485 that, among other things, introduces a speciﬁc
+statutory limitation for internet service providers and
+content aggregators, subject to an inalienable equitable
+compensation. This new limitation authorizes the use of
+‘non-signiﬁcant fragments of content’ previously pub-
+lished in newspapers of periodically updated websites,
+‘which are directed at forming public opinion or have
+informational or entertainment purposes’.86
+It also
+establishes the right to obtain an equitable, unwaivable
+and collectively managed remuneration for publishers
+and other right holders. In addition, the new Article,
+32(2), excludes images and photography from the scope
+of the limitation and afﬁrms that the making available of
+pieces of information by search engines shall not be
+subject to either authorization or compensation, when
+the use is non-commercial, necessary to provide results
+to a speciﬁc user’s search and is combined with the
+display of the link to the original source.
+
+This convoluted rule clearly aims at creating a new le-
+gislative model, different from the German one because
+of its compulsory nature. While within the German
+model there is room for voluntary negotiation, the
+Spanish law lays down a compulsory fee even for the use
+of non-signiﬁcant (but protectable?) fragments of text.
+The law has already had an immediate impact, namely
+the removal of Spanish publishers from Google News
+and the closure of Google News in Spain.87 Was it the
+
+77 E. Rosati, ‘The German ‘Google Tax’ Law: Groovy Or Greedy?’ (n 69).
+78 C. Kersting and S. Dworschak, ‘Leistungsschutzrecht fu¨r Presseverlage:
+
+Row’, http://www.reuters.com/article/2014/11/05/us-google-axel-
+sprngr-idUSKBN0IP1YT20141105.
+
+Mu¨sste Google wirklich zahlen? – eine kartellrechtliche Analyse (Ancillary
+Copyright Law for News Publishers: Would Google Really Have to Pay? –
+An Antitrust Law Analysis) (25 January 2013). NZKart - Neue Zeitschrift
+fu¨r Kartellrecht (New Journal of Competition Law) 2013, 46,SSRN:
+http://ssrn.com/abstract=2206868, p. 3.
+
+79 Ibid, 3.
+80 For a detailed report and comment of these events see, in particular,
+
+C. Keese, ‘Has Ancillary Copyright Failed And Are Publishing Houses
+Throwing In The Towel? No. Quite The Contrary’ Der presseschauder
+(22 November 2014), http://www.presseschauder.de/has-ancillary-
+copyright-failed-and-are-publishing-houses-throwing-in-the-towel-no-
+quite-the-contrary/ (accessed 2 December 2014); A. Becker, ‘German
+Publishers vs Google’, DW (30 October 2014), http://www.dw.de/german-
+publishers-vs-google/a-18030444; N. Lomas, ‘German Publishers Bow To
+Google’s Market Power In Ongoing Text Snippets Fight’, TechCrunch (23
+October 2014), http://techcrunch.com/2014/10/23/kapitulation/ (accessed
+15 November 2014).
+
+83 See https://www.vg-media.de/presse/2014.html. See also the press release of
+
+the Bundeskartellamt, ‘Complaint by VG Media not sufﬁcient to institute
+formal abuse of dominance proceedings against Google’ (22 August 2014),
+http://www.bundeskartellamt.de/SharedDocs/Meldung/EN/
+Pressemitteilungen/2014/22_08_2014_VG_Media.html (accessed 3
+December 2014), where it is reported that ‘irrespective of VG Media’s
+complaint, the Bundeskartellamt is closely monitoring Google’s conduct
+and detectable reactions to assertions of the ancillary copyrights by
+individual publishers or VG Media itself from an antitrust perspective.
+Where appropriate, it will consider instituting proceedings ex ofﬁcio’.
+
+84 Currently pending before the Arbitration Board of the German Patent and
+
+Trade Mark Ofﬁce.
+
+85 Ley 21/2014, de 4 de noviembre, por la que se modiﬁca el texto refundido
+de la Ley de Propiedad Intelectual, aprobado por Real Decreto Legislativo
+1/1996, de 12 de abril, y la Ley 1/2000, de 7 de enero, de Enjuiciamiento
+Civil, published in the BOLETI´N OFICIAL DEL ESTADO on 5 November
+2014.
+
+81 Press release ‘Google lehnt “Waffenruhe” ab - Presseverlage beugen sich
+
+86 V. Torelli, ‘That new Spanish law: a tale of fragments, aggregators – and
+
+Druck Googles und lassen VG Media Gratiseinwilligung fu¨r Rechtenutzung
+erteilen’, http://www.vg-media.de/images/stories/pdfs/presse/2014/
+141022_pm_vgmedia_gratiseinwilligung-google.pdf (accessed 1 December
+2014).
+
+82 Ibid. Germany’s leading publisher, Axel Springer, also made an
+
+‘experiment’ to document the potential losses, see H. Ten Wolde and
+E. Auchard, ‘Germany’s Top Publisher Bows To Google In News Licensing
+
+money’, The 1709 Blog (13 November 2014), http://
+the1709blog.blogspot.it/2014/11/that-new-spanish-law-tale-of-
+fragments.html (accessed 28 December 2014).
+
+87 ‘An Update on Google News in Spain’, Google Europe Blog (11 December
+
+2014),http://googlepolicyeurope.blogspot.it/2014/12/an-update-on-google-
+news-in-spain.html (accessed 28 December 2014).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+6
+4
+5
+4
+9
+1
+9
+6
+1
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Silvia Scalzini . Is there free-riding?
+
+ARTICLE
+
+463
+
+desired effect? Will there be any beneﬁciaries? A detailed
+analysis of all of the implications of these statutes goes
+beyond the scope of this comparative survey.
+
+In order to answer the main question above men-
+
+tioned, at least two arguments are to be considered.
+
+First, the level of ‘imitation’ permitted is unclear. The
+two statutes leave some concepts unspeciﬁed, such as a
+‘small snippet of text’ or ‘non-signiﬁcant fragments of
+content’ as well as the ‘commercial purpose’ of the activ-
+ity of search engines and news aggregators. The matter
+of determining the scope of the statutes will move to the
+courts of the respective countries. They will have the
+burden not only of setting the standard of originality of
+a text, but also of drafting the boundaries of the statu-
+tory limitation of copyright, with the risk of adversely
+impacting the functioning of the EU market and the har-
+monisation of EU rules.88
+
+Further, while these rules are intended to limit the sys-
+tematic use of original content, they may have the effect
+of blocking the development of new business models
+and new services, thereby curbing innovation. Indeed, as
+the Spanish Comision Nacional de los Mercados y la
+Competencia89 pointed out, the new Spanish law may
+affect in a discriminatory manner the entry of new
+operators into the market of news aggregators to the
+beneﬁt of consolidated incumbents. Since these new
+operators may not have the ﬁnancial capacity to pay the
+publishers, these reforms could harm consumers,
+in
+terms of competitive tension, variety of bidders and
+technological innovation.90 Further, these reforms may
+discourage publishers from developing efﬁcient business
+models to recover their investments on the internet and
+they may limit the visibility of small producers and sup-
+pliers of original content.
+
+In essence, such intervention on intellectual property
+rights, beside not to create signiﬁcant incentives to cre-
+ativity and innovation, may have the effect of limiting
+access to information.
+
+In order to encourage innovation and market develop-
+ments, for instance, France, which initially considered a
+change to the Code de la proprie´te´ intellectuelle,91 decided
+to support a private agreement between French press pub-
+lishers and Google.92 The agreement provides for a fund of
+
+60 million euros supplied by Google in order to support
+digital transition and investments and innovations to the
+beneﬁt of the press ‘d’information politique et ge´ne´rale’.
+The French President, Franc¸ois Hollande, afﬁrmed that a
+global event has occurred with a global ﬁrm, a national
+press and a government, where the players have been able
+to freely negotiate.93
+
+Even though the decision follows a market develop-
+ment path, such an action may have anti-competitive
+effects, due to having only supported a single large new
+intermediary, Google,94 further strengthening its pos-
+ition, with the risk of transform this big private ﬁrm as
+the bottleneck of information.
+
+It is difﬁcult to assess which is the preferable approach
+to this problem. The models so far followed in Europe
+have shown their limits. The French pattern is likely to
+beneﬁt some players only, while the two legislative
+models seem to be inefﬁcient.
+
+There is a need to better deﬁne the scope of copyright
+law and the level of imitation permitted in the digital en-
+vironment, but this cannot take place through ad hoc
+rules addressed to speciﬁc players (which, moreover,
+seem to be identiﬁed with mere empirical criteria) and
+without a more general overview.
+
+It is, however, evident that the effects of the national
+choices are always measured and inﬂuenced by the
+responses implemented by Google. For better or worse,
+given its economic power and its success among users,
+Google is dictating the rules of the game. Thus more
+attention should perhaps be devoted to exploring
+whether publishers’ behaviour can really be independent
+of Google.
+
+Thorny problems, new tools
+As shown above, the problem is very complex and it
+does not have a single solution. The disparate interpreta-
+tions of judges and policymakers depend on the weight
+that legal systems give to some interests rather than
+others. The trend that has arisen from some ﬁrst Euro-
+pean regulatory attempts consists of a change to intellec-
+tual property rules in order to encourage (or even force)
+cooperation between old and new intermediaries.
+
+88 See, in particular, R. Xalabarder, ‘The Remunerated Statutory Limitation
+
+92 De´claration conjointes a` l’issue de la signature de l’accord avec Google (n 91).
+
+for News Aggregation and Search Engines Proposed by the Spanish
+Government; Its Compliance With International And EU Law’ (n 5),
+25 ff. See also Svensson (n 59) [41].
+
+89 CNMC (n 19) [III.2].
+90 Ibid.
+91 See De´claration conjointes a` l’issue de la signature de l’accord avec Google,
+www.elysee.fr (accessed 28 December 2014). See also Projet de proposition
+de loi de l’association IPG, Droits voisins pour les organismes de presse.
+Available at www.fnps.fr (accessed 27 December 2014).
+
+See also Google Ofﬁcial Blog, http://googleblog.blogspot.it/2013/02/
+google-creates-60m-digital-publishing.html#!/2013/02/google-creates-
+60m-digital-publishing.html.
+
+93 De´clarations conjointes a` l’issue de la signature de l’accord avec Google
+
+(n 91).
+
+94 See the opinion of the Italian Antitrust Authority AS1050, Tutela dei
+
+contenuti editoriali in Internet, 24 May 2013.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+6
+4
+5
+4
+9
+1
+9
+6
+1
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+464
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 6
+
+However, the solution to this thorny problem does
+not necessarily lie in copyright law, although there is,
+without doubt, a problem related to better deﬁning the
+scope of copyright law in relation to new digital uses and
+new subjects, whose solution should be shared at supra-
+national level, given the size of the markets involved and
+the nature of the internet. Copyright law pursues certain
+goals, which are to be achieved through a delicate
+balance of interests that should consider right holders,
+
+users and the public, especially in the digital environ-
+ment. Such intervention on intellectual property rights
+may have the effect of limiting access to information to a
+large extent, against the creation of reduced incentives to
+creativity and innovation.
+
+Perhaps the real problem goes beyond the new uses of
+protected materials on the internet and is intertwined
+with political issues, competition law and tax law. The
+real problem may need to be solved using other tools.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+6
+4
+5
+4
+9
+1
+9
+6
+1
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+

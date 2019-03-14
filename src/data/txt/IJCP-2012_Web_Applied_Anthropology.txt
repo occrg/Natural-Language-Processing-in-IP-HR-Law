@@ -1,0 +1,1330 @@
+International Journal of Cultural Property (2012) 19:345–369. Printed in the USA.
+Copyright © 2012 International Cultural Property Society
+doi:10.1017/S0940739112000288
+
+Cultural Heritage on the Web:
+Applied Digital Visual Anthropology
+and Local Cultural Property
+Rights Discourse
+Kate Hennessy*
+
+Abstract: The 2003 UNESCO Convention for the Safeguarding of the Intangi-
+ble Cultural Heritage specifies that communities are to be full partners in
+efforts to safeguard their intangible cultural heritage. Yet the notion of safe-
+guarding has been complicated by the politics and mechanisms of digital
+circulation. Based on fieldwork in British Columbia and Thailand, I show
+that community-based productions of multimedia aimed at documenting,
+transmitting, and revitalizing intangible heritage are productive spaces in
+which local cultural property rights discourses are initiated and articulated.
+I argue that digital heritage initiatives can support decision making about
+the circulation—or restriction—of digital cultural heritage while drawing
+attention to the complexities of safeguarding heritage in the digital
+age.
+
+*School of Interactive Arts and Technology, Simon Fraser University, Surrey
+
+ACKNOWLEDGEMENTS: I have many people to thank for their contributions to this article. First,
+my sincere thanks to members of the Doig River First Nation, and to Amber Ridington, co-curator
+of the Dane Wajich exhibit. In particular I would like to thank former Chief Garry Oker, former
+Chief Kelvin Davis, and all of the participants in the Dane Wajich project. My special thanks to
+Patrick Moore, and to Robin and Jillian Ridington. My sincere thanks also to the organizers of the
+annual Intangible Cultural Heritage and Museums Field School in Lampuhn, Thailand, and to the
+staff of the Princess Maha Chakri Sirindhorn Anthropology Centre in Bangkok. In particular, my
+thanks to Alexandra Denes, Director Suvanna Kriengkraipetch, former Director Paritta Chelerm-
+pow Koanantakool, Peter Davis, Marilena Alizivatou, Rasmi Shoocongdej, Michelle Stefano, and
+Christina Kreps. My special thanks to Wat Pratupa Assistant Abbot Phra Patiphan Puriphanyo, and
+to Joy Arunswasdi and Linina Phuttitarn for translations of my interview with the assistant abbot.
+Thank you to anonymous peer-reviewers for their very constructive comments. All shortcomings
+are of course my own. Elements of an earlier version of this article, focusing on the Doig River First
+Nation, was published as “From Intangible Expression to Digital Cultural Heritage,” in Safeguarding
+Intangible Heritage, edited by Michelle Stefano et al.
+
+345
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+346
+
+KATE HENNESSY
+
+INTRODUCTION
+
+Cultural heritage is becoming digital heritage: tangible objects in museum col-
+lections are being rapidly photographed and made available over the Inter-
+net, while documentation of intangible cultural heritage is also being launched
+into digital environments in the name of safeguarding. These media are now
+available to diverse networked publics, including to the cultural communities
+from which they were originally collected.1 UNESCO defined “digital heritage”
+in 2003 as:
+
+. . . unique resources of human knowledge and expression. It embraces
+cultural, scientific and administrative resources, as well as technical, legal,
+medical and others kinds of information created digitally, or converted
+into digital form from existing analogue resources. Where resources are
+“born digital,” there is no format but the digital object.2
+
+While the tangible and intangible, or the material and immaterial, have been
+treated largely as separate fields of study, both have been gathered, interpreted
+and exhibited, considered aspects of cultural performance, understood as cul-
+tural symbols, and claimed as cultural property.3 Tangible objects have been re-
+moved from their cultural and environmental contexts,
+just as intangible
+expressions have been selected, documented, and archived in locations both
+near and far from source communities. As ethnographer Julie Cruikshank
+points out, the boundary between words and things is ambiguous; while words
+are ephemeral, they become things when transcribed or recorded, and while di-
+verse audiences can interpret objects in museums in different ways, words are
+used to give meaning to objects. Importantly, “This blurred distinction under-
+scores the parallel ways in which verbal utterances and material objects are used
+both to symbolize the past and to stake out positions in discussions about cul-
+tural representation, copyright of oral narratives and ownership of cultural
+property.”4
+
+In the era of the born-digital ethnographic object, words and things take on
+new lives as digital surrogates, copies, and remixes. Anthropologists, curators, and
+increasingly, local stakeholders who represent their own cultures, languages,
+histories, and material culture, are some of the agents of this transformation
+from artifact and intangible expression to digital heritage. I am interested in
+the entangled but underexplored relationship between the UNESCO Charter on
+the Preservation of Digital Heritage and the 2003 UNESCO Convention for the
+Safeguarding of the Intangible Cultural Heritage,5 which provides signatory
+nations with guidelines for the identification, inventory, documentation, preser-
+vation, and transmission of endangered, yet viable, intangible forms of cultural
+expression. Digital cultural heritage is being produced and shared as a range of
+media, from digital archives, virtual museum exhibits, community web sites,
+and other online multimedia, to indigenous cultural centers and museums. Yet
+as the digital proliferates, so does tension over the vulnerability, circulation,
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+CULTURAL HERITAGE ON THE WEB
+
+347
+
+and reach of cultural heritage online. World heritage policies further complicate
+this explosion of cultural projection; the UNESCO Charter on the Preservation
+of Digital Heritage states: “access to digital heritage materials, especially in the
+public domain, should be free of unreasonable restrictions. At the same time,
+sensitive and personal information should be protected from any form of intru-
+sion.”6 Yet how, and when, is sensitive or personal digital heritage differentiated
+from that which is suitable to be circulated in the public domain? How are de-
+cisions made about what should be open and what should be closed? How are
+local cultural property rights discourses articulated and under what conditions?
+What can be learned from the work of local heritage practitioners who are ne-
+gotiating diverse approaches to documenting and sharing their cultural heritage
+in digital environments?
+
+I suggest that applied digital visual anthropology—the practice of visual an-
+thropology that engages a broad spectrum of digital tools and hypermethodolo-
+gies to create and communicate ethnographic media—is methodologically and
+theoretically positioned to contribute to discourse on digital heritage and cul-
+tural property. I argue here that the community-based production of multi-
+media aimed at documenting, transmitting, and revitalizing intangible heritage
+creates space in which these decision-making processes, or local cultural prop-
+erty rights discourses, are initiated and negotiated. I make this argument, first,
+based on fieldwork carried out with the Doig River First Nation, a Dane-zគaa
+community in northeastern British Columbia, Canada, where oral narrative and
+intangible heritage has been a focus of ethnographic collecting. Recent digitiza-
+tion and community remediation of ethnographic archives has illuminated ten-
+sions over the transformation of intangible expression into digital heritage, where
+issues related to cultural representation, copyright, and ownership of cultural prop-
+erty are amplified by digital circulation. Doig River’s media projects have facili-
+tated local heritage and cultural revitalization discourse that has included keeping
+certain culturally sensitive elements of digital heritage off-line. In the spirit of
+globalizing heritage policies, I hold the Dane-zគaa example alongside my recent
+fieldwork with the Buddhist temple community of Wat Pratupa in Lamphun,
+northern Thailand, where local documentation strategies and wide-ranging dig-
+ital circulation of cultural heritage has also facilitated the negotiation of appro-
+priate forms of sharing sensitive cultural property. In both examples, digital
+heritage and local control over its production is central in debates about cultural
+property and circulation over the Internet. Juxtaposing these geographically dis-
+tant articulations of local cultural property rights discourse emphasizes the par-
+ticularities of local interpretations of the ethics and values of circulating digital
+heritage. These ethnographic examples hint at a spectrum of possibilities for the
+articulation of local cultural property rights discourse that are being negotiated
+in relation to UNESCO’s world heritage policies.7 In the era of the born-digital
+ethnographic object, these sites have become as infinitely entangled as words and
+things.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+348
+
+KATE HENNESSY
+
+DIGITAL HERITAGE AND LOCAL CULTURAL
+
+PROPERTY RIGHTS DISCOURSE
+
+The 2003 Convention for the Safeguarding of the Intangible Cultural Heritage de-
+fines intangible cultural heritage as:
+
+. . . the practices, representations, expressions, knowledge, skills—as well
+as the instruments, objects, artifacts and cultural spaces associated
+therewith–that communities, groups and, in some cases, individuals rec-
+ognize as part of their cultural heritage. This intangible cultural heri-
+tage, transmitted from generation to generation, is constantly recreated
+by communities and groups in response to their environment, their
+interaction with nature and their history, and provides them with a
+sense of identity and continuity, thus promoting respect for cultural
+diversity and human creativity. For the purposes of this Convention,
+consideration will be given solely to such intangible cultural heritage as
+is compatible with existing international human rights instruments, as
+well as with the requirements of mutual respect among communities,
+groups and individuals, and of sustainable development.8
+
+The Convention further outlines a process by which intangible culture may be
+protected for future generations. “Safeguarding” in the Convention is repre-
+sented as:
+
+. . . measures aimed at ensuring the viability of intangible cultural heri-
+tage, including the identification, documentation, research, preserva-
+tion, protection, promotion, enhancement, transmission, particularly
+through formal and non-formal education, as well as the revitalization
+of various aspects of such heritage.9
+
+While documentation of intangible heritage is clearly only one aspect of safe-
+guarding, the proliferation of digital tools now available for documentary record-
+ing, archiving, and circulation has implicated digital documentation of the
+intangible in the production of the digital cultural heritage. Local, institutional,
+and national documentary practices have become spaces of negotiation over own-
+ership and ethical circulation of cultural property; such media collaborations and
+processes are sites through which local cultural property rights discourse can be
+formed. Negotiation over cultural property and digital heritage therefore take
+place in overlapping domains—in documentation of cultural expression, in ac-
+cess to cultural documentation, and in the design of digital archives that both
+facilitate and limit access to documentation and related information.
+
+For example, in his description of Woodland Native American digital documen-
+tary practices in cultural performance and ritual contexts, Jason Baird Jackson points
+out that as new recording technologies have become available over time, Native
+peoples in Oklahoma who are concerned with the conservation of ancestral forms
+of dance, music, and ritual have integrated digital documentation into their pro-
+duction of digital archives for education, cultural revitalization, and personal use.
+These digitally mediated practices have emerged along with tension and anxiety
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+CULTURAL HERITAGE ON THE WEB
+
+349
+
+about the commercialization of documentation and the loss of the authority of
+ceremonial leaders to control how recordings are used. He makes the case that
+Woodland Native peoples’ digital documentary practices, which include the use of
+cell phone video cameras and other everyday technologies, “ . . . have unfolded
+within a local intellectual property (IP) system rooted more broadly in tribal and
+regional cultures and social norms.”10
+Patrick Moore and I identified similar dynamics among members of the Carcross/
+Tagish First Nation who were involved in the digital documentation of the endan-
+gered Tagish language.11 Working in partnership with the First Peoples’ Cultural
+Foundation and language archiving web site FirstVoices.com,12 participants cre-
+ated an environment in which elders and youth could articulate an indigenous
+language ideology in resistance to the values and practices of residential schools
+and control by outside organizations. Local control of language revitalization ef-
+forts through First Voices.com placed emphasis on the holistic nature of language
+and culture, showed preference for traditional modes of social interaction, and
+demonstrated the centrality of elders’ knowledge. Language revitalization in this
+case was connected to more wide-ranging discourse on political authority, land,
+and cultural identity, facilitated by a digitally mediated space for Carcross/Tagish
+control over representation.
+
+In another example, legal anthropologist Guido Pigliasco shows how the col-
+laborative production of a cultural heritage DVD with the Sawau tribe of the is-
+land of Beqa, Fiji, was itself a negotiation of intellectual property issues and required
+the articulation of a local cultural property rights discourse to make decisions about
+what should be shared, and what should be safeguarded off-line.13 The Sawau Project
+is focused on the reclamation of documentation of the vilavilairevo, or Sawau fire-
+walking, which in recent decades has been widely circulated and commoditized,
+but is now claimed by the tribe as their own to control and perform.14 The DVD
+project is visually grounded in the geography of Beqa, an archive of repatriated
+documentation and newly produced video vignettes indicating the origins of the
+fire-walking traditions. The project is described as an inventory of sites, stories,
+and shared memories that, in the course of production, “brought to life the aware-
+ness of the passage of time, the weight of their grandfathers, and a new self-
+consciousness.”15 Engaging with media and local heritage in a collaborative setting
+required the negotiation of anxiety and opportunity associated with digital media,
+and decision making that leaned toward restricting circulation rather than par-
+ticipating in the continued appropriation of practices considered to belong to the
+Sawau people of Beqa.
+
+In a final example, Kimberly Christen’s work with Warumungu people in Aus-
+tralia and Native American tribes in the United States has demonstrated how the
+collaborative design of digital heritage archives creates opportunities for indig-
+enous articulation of local cultural property discourse, particularly what should
+be made public, and what should remain private, challenging the emerging status
+quo of open access. Christen describes how collaboration in the archiving of dig-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+350
+
+KATE HENNESSY
+
+ital heritage creates opportunities to identify processes for the management of dig-
+ital materials.16 The Mukurtu Archive and the Plateau Peoples’ Web Portal are both
+built on principles of “respectful repatriation” that aim to create digital reposito-
+ries that support the ethical circulation of cultural knowledge and property. The
+software developed in support of these archives allows users to customize proto-
+cols for access based on cultural parameters, and to change these parameters to
+reflect their dynamic nature in everyday life.17
+
+These examples position the production and circulation of digital heritage as
+central in debates over indigenous cultural property. However, as Fiona Cameron
+points out, discourse on digital heritage to date has been largely focused on the
+status of digital media as heritage, and of original and authentic objects, referenc-
+ing the writing of Walter Benjamin (1968) and Jean Baudrillard (1994).18 There
+has been little critical discourse of digital heritage, even though the “ascription of
+heritage metaphors to cultural materials in a digital format means that digital media
+has become embedded in a cycle of heritage value and consumption, and in the
+broader heritage complex.”19 The UNESCO Charter on the Preservation of Dig-
+ital Heritage is seen by Cameron to exemplify the uncritical induction of digital
+cultural heritage materials into wider processes of globalization and heterogeni-
+zation. Of particular issue is the Charter’s emphasis on ensuring maximum public
+access to what has been encoded through UNESCO programming as the “Mem-
+ory of the World,” or “Information for All.”
+
+At the same time that the Charter advocates open access to digital heritage, it
+asserts that “sensitive and personal information should be protected from any form
+of intrusion.”20 These statements highlight a key issue in the transformation of
+intangible heritage into digital cultural heritage; when and how are decisions made
+about the open or closed nature of cultural documentation? As Michael Brown
+points out, major policy documents like the Convention for the Safeguarding of
+the Intangible Cultural Heritage demonstrate a tension between cultural inter-
+nationalists and cultural nationalists, an ongoing concern with “the balance be-
+tween heritage as a resource for all of humanity and as something that properly
+belongs to, and remains controlled by, its communities of origin.”21 Jane Ander-
+son has further articulated the anxieties associated with the opening up and dig-
+ital circulation of colonial archives; at the same time that indigenous communities
+are demanding recognition as legitimate authors and owners of documents rep-
+resenting their cultures, they are faced with the fact that legal ownership is granted
+to the individual who made the recording. These archival materials are also anxiety-
+inducing because they often do not reflect contemporary cultural identifications
+and desired representation, or their anticipated use and circulation.22 These ten-
+sions and anxieties are exacerbated in discourse and practices related to the pro-
+duction of digital cultural heritage.
+
+As I will describe, members of the Doig River First Nation in British Columbia
+made important decisions to keep elements of their digital cultural heritage out of
+public circulation as a way to maintain the power of particular heritage objects.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+CULTURAL HERITAGE ON THE WEB
+
+351
+
+Their leading participation in local intangible heritage safeguarding projects was
+crucial in this regard. Members of an ethnic Yong community in northern Thai-
+land, choosing another approach, decided that unlimited circulation of sensitive
+digital heritage was in the best interest of local knowledge revitalization. As with
+the creation of ethnographic documents, including the documentation of intan-
+gible cultural heritage, digital heritage is shaped by systems of heritage value and
+subjective evaluation about what to preserve—in this schema, what to make
+public—and what to keep in private circulation or allow to be lost.
+
+Community participation in documentation—a central moment in decision
+making about what to circulate publicly and what to manage privately—is impor-
+tant in this regard. A particular irony of the Convention, Michael Brown points
+out, is that it “portrays intangible heritage as an objectified resource amenable to
+modern management techniques. In such a legalistic vision, heritage cannot be
+protected until it is thoroughly documented.”23 Indeed, echoing the language of
+salvage anthropology, the UNESCO Convention for the Safeguarding of the In-
+tangible Cultural Heritage mobilizes a discourse of loss:
+
+Recognizing that the processes of globalization and social transforma-
+tion, alongside the conditions they create for renewed dialogue among
+communities, also give rise, as does the phenomenon of intolerance, to
+grave threats of deterioration, disappearance and destruction of the in-
+tangible cultural heritage, in particular owing to a lack of resources for
+safeguarding such heritage.24
+
+The Convention then lays out a State and stakeholder community process of
+identification, inventory, documentation, and transmission of intangible heritage
+as a measure of safeguarding intangible cultural heritage from the homogenizing
+forces of globalization. However, as Brown further notes, the discipline of anthro-
+pology “long ago concluded that documentation has only a modest role in the
+preservation of culture. To think otherwise is to make the classic error of mistak-
+ing a map for the territory it represents.”25 Digital technologies—including digital
+video, audio, and photography, as well as computer word-processing programs for
+field notes, electronic maps and Geographic Information Systems, social media,
+and digital archives—have become normative tools and economically viable re-
+sources for the documentation, preservation, and transmission of intangible cul-
+tural heritage and its relationships to material culture, the natural environment,
+and social, political, and economic conditions. That much of the documentation
+of intangible cultural heritage around the world will be born digital means that
+meaningful participation by stakeholder communities in the documentation and
+safeguarding of their cultural heritage is more important than ever before. This is
+significant in relation to the discourse of loss of heritage that also permeates the
+digital heritage charter, in which digital media “is at risk of being lost to posterity”
+(the threat of loss),26 and “unless the prevailing threats are addressed, the loss of
+digital heritage will be rapid and inevitable” (need for action).27 Loss of digital
+documentation of intangible heritage—as archived on hard drives, tapes, disks, or
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+352
+
+KATE HENNESSY
+
+web sites, to name a few—is unfortunately a frequent occurrence. Local decision
+making around appropriate and sustainable strategies for the long-term safeguard-
+ing of digital heritage must be a part of safeguarding initiatives, and will remain
+an urgent concern.
+
+It is encouraging to note that such participation from cultural communities,
+groups, and individuals is emphasized in Article 15 of the Convention, titled “Par-
+ticipation of Communities, Groups and Individuals,” which states that:
+
+Within the framework of its safeguarding activities of the intangible
+cultural, heritage, each State Party shall endeavor to ensure the widest
+possible participation of communities, groups and, where appropriate,
+individuals that create maintain and transmit such heritage, and to in-
+volve them actively in its management.28
+
+According to Richard Kurin, this represents a shift in perspective on the role of
+
+culture bearers in determining best practices for safeguarding:
+
+Governments, or university departments or museums, cannot just as-
+sume that they have permission to define intangible cultural heri-
+tage and undertake its documentation, presentation, protection, or
+preservation. Community participation is meant to be significant and
+meaningful—involving the consent of community leaders, consulta-
+tion with lead cultural practitioners, shared decision making on strat-
+egies and tactics of safeguarding and so on. Article 15 strongly empowers
+the community in the operation of and realization of the Convention.29
+
+During my fieldwork with the Doig River First Nation between 2004 and 2008,
+I co-curated (with Amber Ridington) a collaboratively produced virtual museum
+exhibit of the oral narratives and song called Dane Wajich—Dane-zគaa Stories and
+Songs: Dreamers and the Land.30 The project used digital cultural heritage from
+the Ridington/Dane-zគaa Digital Archive. Archival media were exhibited online along-
+side contemporary documentation of narrative and song that had been created by
+members of the Doig River community in the course of the project. Dane Wajich
+used collaborative methodologies that placed elders, youth, and other community
+participants in leading roles. It modeled a strategy for community involvement in
+the documentation of intangible heritage that is in keeping with the emphasis of
+the 2003 UNESCO Charter on the Convention for the Safeguarding of the Intan-
+gible Cultural Heritage on roles and responsibilities of local communities in safe-
+guarding what they determine to be endangered and significant.31
+
+In the following section, I show how community participation in decision mak-
+ing about which elements of ethnographic documentation to make public in the
+virtual exhibit, and which to restrict from wider access, made intangible heritage
+and digital objects central to conversations about ownership and control of cul-
+tural documentation. While community leadership in intangible heritage safe-
+guarding efforts made use of available digital technologies to mobilize digital
+cultural heritage and to create new born-digital objects, it had results that dem-
+onstrate local negotiation of culturally appropriate forms of sharing that counter
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+CULTURAL HERITAGE ON THE WEB
+
+353
+
+the open-access emphasis of the 2003 UNESCO Charter on the Preservation of
+Digital Heritage. The example points to the importance of local strategies for the
+safeguarding of digital cultural heritage and the forms of intangible heritage that
+it represents, which facilitate decision making about what can be circulated, and
+what is sensitive and should be kept out the global heritage complex.
+
+THE CREATION OF THE RIDINGTON/DANE-ZAA DIGITAL ARCHIVE
+
+Unlike tangible objects, intangible cultural expression cannot be carried away by
+the ethnographer except as inscribed as ethnographic documents in field notes,
+recordings, film, or drawings.32 The act of creation of the ethnographic docu-
+ment, and the act of creation of the ethnographic archive to order and preserve
+documentation of the intangible is far from neutral; indeed, “what constitutes
+the archive, what form it takes, and what systems of classification signal at spe-
+cific times are the very substance of colonial politics.”33 The digital ethnographic
+archive, much more than a mechanical accumulation of information, is a partic-
+ular and historically specific representation of culture and ownership of cultural
+documentation.
+
+Robin Ridington began his fieldwork with Dane-zគaa communities at Prophet
+River, Halfway River, and with members of the Fort St. John band, who later
+became the Doig River and Blueberry River First Nations, in 1968. He developed
+a relationship with Charlie Yahey, an elder who came to be the last-known nááche˛
+(translated as dreamer, or prophet) in the Peace River region. Nááche˛ are known
+to have traveled to heaven and received songs (nááche˛ yiné?) and prophecies that
+provided moral and spiritual guidance to people. Dane-zគaa oral tradition asserts
+that nááche˛ dreamed ahead to locate the trails of game animals, predicted the
+coming of white settlers to the Peace River region, and the industrialization of
+the oil-rich landscape.34 Nááche˛ yiné? received in dreams were publicly per-
+formed by dreamers, and today by groups of drummers at world-renewal cer-
+emonies called the Tea Dance, in which Dane-zគaa bands gather to dance around
+a fire to ensure the passing of seasons and helping the spirits of the departed
+find their way along the trail to heaven.35 In his early fieldwork, Ridington and
+Mills recorded many hours of audiotape of Charlie Yahey’s oratory and dream-
+ers’ songs, Tea Dances, and public expression of the nááche˛’s sacred knowledge of
+heaven. He also photographed some of the drawings made by nááche˛ of their
+visions of heaven that were shown to him by elders.
+
+When Robin Ridington began documenting Tea Dances, nááche˛ yiné?, and oral
+narratives, he used a 35-millimeter camera, and an Uher reel-to-reel tape re-
+corder. There were limitations attached to these particular documentary tools; be-
+cause he had a limited supply of film, tape, and batteries, he turned the recorder
+off when he thought that “nothing was happening.”36 The constraints of available
+technologies influenced his ideas about what was important to record; the narra-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+354
+
+KATE HENNESSY
+
+tives of Dane-zគaa elders, and the oratory of the nááche˛ Charlie Yahey were clearly
+extraordinary, and inevitably took precedence over the documentation of every-
+day conversations and soundscapes.37
+
+In 1999, Robin Ridington and partner Jillian Ridington made a transition in
+documentary technique. Digital technologies, in the form of audio mini-disk, gave
+them the ability to record sound virtually endlessly. Minidiscs were inexpensive
+and long-playing. Battery life had also drastically improved, making remote re-
+cording lightweight and easy. In 2001, they also changed their approach to visual
+documentation, transitioning from still photography to digital photography and
+video, and experimenting with nonlinear digital video editing.38
+
+In 2003, responding to community demand for greater access to their collec-
+tion, Robin, Jillian, and folklorist Amber Ridington worked with the Doig River
+First Nation to procure a grant from the British Columbia Museums Association
+to digitize the Ridingtons’ photographic, audio, and video collection of Dane-zគaa
+intangible cultural heritage. The entire archive, which by 2003 consisted of ap-
+proximately 600 hours of audio recordings, 5000 photographs, and 60 hours of
+digital videotape, was to be made available in as digital copies on a hard drive, and
+be accessible in the Doig River First Nation’s band hall.39 The archive was named
+the Ridington/Dane-zគaa Digital Archive, and a selection of images from the ar-
+chive, including series documenting the dreamer Charlie Yahey, and a full catalog
+of images, text, and audio and video recordings would be accessible through a
+password-protected online database called the Dane-zគaa Archive Catalogue (Fig. 1).40
+For the Ridington family, this represented a leap in their ability to “share ethno-
+graphic authority with Dane-zគaa First Nations.”41
+
+GAAYE˛A˛’S DRUM
+
+In July of 2005, at a Dane Wajich planning meeting in Doig River First Nation’s
+band hall, I videotaped a Dane-zគaa elder named Tommy Attachie as he spoke about
+a moose-hide drum skin. The drum skin had been painted with a map of heaven
+by a Dane-zគaa nááche˛ named Gaaye˛a˛ more than 100 years before. It had been
+inherited by Garry Oker, who was the Chief of Doig River at that time, and who
+brought it to the planning meeting. As I have described in detail elsewhere,42 Tommy
+Attachie used Gaaye˛a˛’s drum at this meeting, and at subsequent planning meet-
+ings, to eloquently articulate the connections between Dane-zគaa material culture,
+oral narrative, and land. The drum, the material manifestation of the dreamer’s
+medicine power and experience of heaven, was described as integrally connected
+to successful hunting and survival on the land, as well as to foreknowledge of the
+drastic changes associated with the colonial settlement of Dane-zគaa territory. As
+with other Doig River local projects that were facilitated by the digitization of the
+Ridington/Dane-zគaa Digital Archive, such as audio CDs of drumming and singing
+performances, and video documentaries about history and culture, nááche˛ songs
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+CULTURAL HERITAGE ON THE WEB
+
+355
+
+FIGURE 1. Dane Wajich: Dane-zគaa Stories and Songs: Dreamers and the Land. 具http://
+www.museevirtuel-virtualmuseum.ca/sgc-cms/expositions-exhibitions/danewajich/english/
+index.html典
+
+and drawings have become central foci of the Doig River First Nation’s media pro-
+ductions. These media convey the continuity of knowledge and nááche˛ practices
+and present an alternative cultural history of the region that competes with colo-
+nial and industrial narratives.
+
+Gaaye˛a˛’s drum was used by Tommy Attachie to define a methodology for doc-
+umenting Dane-zគaa intangible heritage; in the following weeks in that summer of
+2007, our group traveled to seven places in Dane-zគaa territory where youth, el-
+ders, ethnographers and linguists recorded videos documenting traditional narra-
+tives, life histories, and histories of nááche˛ in Dane-zគaa Záágé?(the Beaver language)
+and English. These videos and their translations became central elements of the
+virtual exhibit, and in early drafts of the exhibit, photographs of Gaaye˛a˛’s drum as
+a part of the production process, and archival photographs of Charlie Yahey hold-
+ing a special double-sided drum also made by Gaaye˛a˛ were also featured promi-
+nently throughout the online project. However, at the end of a nearly two-year
+period of exhibit postproduction and community consultation carried out by co-
+curator Amber Ridington and me, the decision was eventually made to remove all
+images of nááche˛ drums and drawings from the exhibit. Meaningful community
+participation in digital documentation and presentation of oral narratives opened
+up local debate over the ownership and control of Dane-zគaa digital cultural her-
+itage. The debate was centered on (1) ownership of ethnographic documentation,
+and (2) control over its circulation in digital form.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+356
+
+KATE HENNESSY
+
+1. Ownership of Cultural Documentation
+
+As Dane-zគaa ephemera have become ethnographic objects, they have become phys-
+ical objects (tapes, film, photographic prints); as these ethnographic documents
+of intangible cultural heritage have been digitized, they have become digital cul-
+tural heritage (digital files and storage devices) that are owned, traded, copied,
+and remixed. As Dane-zគaa intangible cultural heritage has been collected, digi-
+tized, and made accessible to Dane-zគaa communities in the form of the Ridington/
+Dane-zគaa Digital Archive, it has also been claimed as property. The contents
+of the Ridington/Dane-zគaa Digital Archive are “copyrighted by the collectors for
+their use.”43 This can be so because, under the Canadian Copyright Act, the act
+of the creation of a document—for example, pressing “Play” on a digital audio
+recorder—is an assertion of ownership and a legal right to control the use of the
+document.44 This technicality has underscored the practice of academic anthro-
+pology, where the copyright of the ethnographic object, and by proxy, the legal
+right to publish, distribute, or even sell these creative works has long rested with
+the researcher, rather than with the subject of ethnographic study him- or her-
+self.45 While the contents of the Ridington/Dane-zគaa Digital Archive are copy-
+righted by the collectors for their use, Robin and Jillian Ridington also declared
+the intention that copyright be shared “by the Dane-zគaa peoples represented
+by the four Dane-zគaa bands” and that permission to use the material be sought
+by the copyright holders.46 In the original grant application to digitize the col-
+lection, it was stated that,
+
+Dane-zគaa heritage is collectively owned, and a great number of genera-
+tions contribute to our cultural heritage. The documentation of our peo-
+ples’ heritage in the Ridington/Dane-zគaa [Digital] Archive represents
+indigenous intellectual property and although it is collectively owned, it
+will be curated by the Doig River First Nation at their museum, and will
+be made accessible to all Dane-zគaa peoples.47
+
+While this statement is meant to protect the rights of the collectors to continue
+to use the material for academic research and publication, and the rights of Dane-
+zគaa peoples to have a say in how and by whom their cultural heritage is used and
+reproduced, copyright of ethnographic documentation was not transferred from
+the collectors to its communal owners. The statement illustrates a basic contra-
+diction at the heart of debates over cultural property—that collectively owned in-
+tangible expression becomes the property of an individual through the act of
+documentation. This contradiction was illuminated in the digitization and return
+of cultural documentation to Dane-zគaa communities, when indigenous intellec-
+tual property rights were granted, but exclusive copyright—ownership—was not.
+Given the collective nature of ownership of Dane-zគaa oral narrative, it could not
+easily have been done.
+
+These issues were further illuminated in the course of digital visual ethno-
+graphic production. Because the painted moose-hide drum made by the nááche˛
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+CULTURAL HERITAGE ON THE WEB
+
+357
+
+Gaaye˛a˛ was central in defining the methodology for cultural documentation in
+the Dane Wajich project, a photograph of the nááche˛ Charlie Yahey holding a
+painted drum made by Gaaye˛a˛ was chosen by Doig River project participants from
+the Ridington/Dane-zគaa Digital Archive to be featured on the draft home page of
+the virtual exhibit. However, shortly after this decision was made, co-curator Amber
+Ridington and I were made aware that descendants of Charlie Yahey at the neigh-
+boring Blueberry River First Nation were concerned that photographs of their rel-
+ative were being used by the Doig River First Nation without their consent. Under
+the direction of the Doig River Chief and Council, we visited with family mem-
+bers at Blueberry to discuss the use of Dane-zគaa digital heritage in the project.
+The family ultimately decided that they did not support the use of these images of
+Charlie Yahey by Doig River at that time, and the Doig River Chief and Council
+accordingly agreed that individual stakeholders in cultural documentation, or their
+descendants, should be consulted for permission to display their cultural heritage,
+and that this decision should not be made by band councils without specific fam-
+ily permission. All archival media related to Charlie Yahey was subsequently re-
+moved from the Dane Wajich exhibit. Community involvement in intangible
+heritage documentation, and subsequent engagement with digital cultural heri-
+tage in this case both identified and challenged national legal regimes of owner-
+ship and facilitated the articulation of a local intellectual property rights discourse.
+
+2. Control of Digital Cultural Heritage
+
+The use of the images of nááche˛ drawings and drums in the exhibit also raised
+questions about the extent to which the power of tangible objects are translated
+into digital representations, and, accordingly, the appropriateness of making these
+images publicly visible elements of digital cultural heritage. During the postpro-
+duction of the Dane Wajich exhibit, it was suggested that the drum skin made by
+the nááche˛ Gaaye˛a˛ that had been used by Tommy Attachie to define the project’s
+documentary methodology should be restored and installed in an exhibit in the
+Doig River First Nation’s museum. However, when Amber Ridington and I con-
+sulted with local elders about this possibility, we were surprised to find out that
+some did not think the drum should be displayed publicly at all. As I have de-
+scribed in detail elsewhere,48 local protocols for the care and handling of nááche˛
+drums and drawings were raised by some elders as a reason to keep the drum out
+of uncontrolled public circulation. Some also felt that photographs of the drum
+should be treated the same way, and kept out of view. While some people, partic-
+ularly those of younger generations felt that circulating digital images of the drum
+would have no negative effect, the decision was made to remove all images of nááche˛
+drums and drawings in accordance with more conservative perspectives. Images
+of nááche˛ drums were replaced with the unpainted drums made by Dane-zគaa who
+are not themselves nááche˛, and which are used in contemporary performance at
+Doig River.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+358
+
+KATE HENNESSY
+
+While Dane-zគaa ethnographic documentation and digital heritage has been in-
+terpreted and circulated by anthropologists, it has also been reintegrated into Dane-
+zគaa social, religious, and political life. I have often entered someone’s home to hear
+the songs of Charlie Yahey and other elders playing in the background, or see por-
+traits taken of community members displayed on the wall. Charlie Yahey’s voice
+“has become as familiar to people who never knew him as it was to those who
+attended his Dreamers’ Dances.”49 Drummers and singers at Doig River, some of
+whom learned directly from Charlie Yahey and other singers recorded by Robin
+Ridington, have enriched their repertoire by listening to recordings of their elders.
+They continue to sing and perform them at Tea Dances for the community and
+the general public.
+
+These media are also used in significant ways to negotiate unequal relations of
+power. Digital copies of recordings of nááche˛ yiné?(dreamers’ songs), used in cul-
+turally appropriate contexts, are considered by some to be powerful tools in their
+spiritual and political lives. As former Doig River First Nation Chief Kelvin Davis
+told me in the summer of 2007, when the ability of the band to resist incursions
+of government-sanctioned industrial development on their land was exhausted,
+playing the Ridingtons’ recordings of nááche˛ yine from his truck had power, over
+time, to disrupt the ravenous extraction of oil and gas. When used with proper
+respect, the power of nááche˛ as a form of resistance remains embedded in the
+magnetic tape and digital code of copies from the ethnographic archive:
+
+The recordings of the songs, of the prophet’s songs, are very powerful
+and if . . . you use it the right way, it will be effective. But if you use it the
+wrong way, then the meaning of the song and the power of the songs, I
+believe will be, my mother told me years ago, prophets used to say, “Don’t
+play with these songs.” If the song giver wants to, he can take the—the
+spirit of the songs back and all it is, is going to be, is just songs, that’s it,
+nothing more.50
+
+Chief Davis emphasizes that the power of the nááche˛ yiné? was maintained
+through proper, respectful use of the songs. Such preservation of power of the
+songs is dependent on his intangible knowledge of their care, even in digital form.
+His account of the power of dreamers’ songs on tape is consistent with findings of
+scholars working with indigenous communities and digital cultural heritage in other
+parts of the world. For example, Maori scholar Deirdre Brown, working with Maori
+material culture, has shown that the spiritual and cultural meanings in objects can
+be transferred to the digital copies in the same way that it had been thought to be
+transferred in analog photographs or film.51 The creation of new forms of elec-
+tronic waka (vessels) to meet cultural needs offers a way of “subverting technol-
+ogies of domination by cultural institutions.”52 In another example from Australia,
+Kim Christen has shown how Warumungu women balanced the need to docu-
+ment and preserve Dreaming songs with satisfying interest from the public in Waru-
+mungu traditions; she describes how decisions were made about the “open” and
+“closed” nature of certain songs, the most public of which were recorded and dis-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+CULTURAL HERITAGE ON THE WEB
+
+359
+
+tributed on CD.53 In these examples, communities with their own requirements
+for the documentation, safeguarding, and preservation of digital heritage are mo-
+bilizing the power of the heritage industry “to become self-determining agents in
+creating their own autobiographies. That is, to tell their own truths about culture,
+to embrace and challenge and also resist prevailing heritage regimes of classifica-
+tion.”54 Creating space for the articulation of local cultural property rights dis-
+course, exercising agency in the documentation of intangible cultural heritage, and
+exerting control over the use of new technologies to preserve and safeguard digital
+heritage, are central in these efforts.55
+
+DIGITAL HERITAGE, WAT PRATUPA, AND MUANGLAMPHUN.COM
+
+While my fieldwork with the Doig River First Nation pointed to the importance
+of participatory media production in creating space for negotiating the circula-
+tion of Dane-zគaa digital cultural heritage, my recent fieldwork with the Buddhist
+temple community of Wat Pratupa in northern Thailand showed another ap-
+proach to the circulation of sacred digital cultural heritage to support local safe-
+guarding of intangible cultural heritage. I raise this example both as a point of
+comparison with the Dane-zគaa local cultural property rights discourse, and to re-
+inforce community-based multimedia production as a space in which discursive
+frameworks are negotiated and articulated. The Wat Pratupa example, as I will
+explain, also speaks to the common challenges of maintaining digital initiatives
+when technical expertise and funding is in short supply. In the long project of
+attempting to assess the implications of international heritage conventions and
+charters, I argue that observing the community-driven, digitally mediated safe-
+guarding strategies—strategies of resistance to loss of local intangible cultural
+practices—in diverse contexts should inform the application and reworking of in-
+ternational heritage policies. Lila Abu-Lughod’s suggestion that we should look to
+resistance as a “diagnostic of power” is productive in considering the “complexity
+and nature of forms of domination” impacting the continued transmission and
+recreation of local cultural practice.56
+
+Since 2009 I have worked each summer as a lecturer and resource person in the
+Intangible Cultural Heritage and Museums Field School in Lamphun, northern
+Thailand, organized by the Princess Maha Chakri Sirindhorn Anthropology Cen-
+tre and UNESCO, Bangkok.57 I was invited to teach in this field school because of
+my work with the Doig River First Nation and the questions that this research had
+raised about the role of digital documentation in the safeguarding of intangible
+cultural heritage.58 The goal of the field school is to introduce heritage workers,
+community museum curators, and students from the Mekong Delta region (Thai-
+land, Vietnam, Laos, China, Cambodia, and Bhutan, primarily) to a range of prac-
+tical issues, debates, case studies, and critiques of the 2003 Convention for the
+Safeguarding of the Intangible Cultural Heritage. In this capacity I was introduced
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+360
+
+KATE HENNESSY
+
+to the community of Wat Pratupa, one of the field school research sites, and worked
+directly with students and community members at Wat Pratupa over the last two
+field school seasons.
+
+Wat Pratupa was built in 1758 by ethnic Tai Yong, who fled war in the period
+that Lanna (Northern Thailand) was under Burmese occupation. When the wars
+with Burma ended, and King Kawila was restoring the Lanna territory in the nine-
+teenth century, many ethnic Yong were forcibly resettled from Burma to Lam-
+phun. One group resettled with a highly respected monk named Kru Ba Lek, who
+became the first abbot of Wat Pratupa. The settlers planted mango seeds from
+their former village, and named the new village Pratupa-muang, which means
+Mango Forest.59 Today the Pratupa community is centered around the cultural,
+spiritual, and merit-making activities of the Pratupa Buddhist temple. In 2009,
+field school students documented community-wide preparation for the Salak Yorm
+festival, in which bundles of offerings and tree-like structures as tall as 17 meters
+are built and decorated with handicrafts, money, and food. The Salak offerings are
+then won by monks in a lottery on the festival day. The Salak offering is a signif-
+icant Buddhist merit-making activity for the families and communities who work
+together to create the offerings and to improve their karma. In the past, the Salak
+would be created over many years by a young woman, her family, visitors from
+other villages, and by potential suitors to make merit for the family and to an-
+nounce her coming of age as a woman. The Salak demonstrated her handicraft
+skills and financial resourcefulness, and would be crowned with the gold jewelry
+that made up her dowry. Today, in Lamphun Province, it is too expensive to pro-
+duce a Salak offering for each young woman; rather, communities work together
+to create offerings to be won by monks from several monasteries in the Province,
+who come together for a single large annual festival that is hosted by a different
+Lamphun monastery each year. In 2009, field school students observed and doc-
+umented as older members of the Pratupa community gathered under the super-
+vision of the Wat Pratupa abbot and Assistant Abbot Phra Patiphan Puriphanyo,
+to create the complex handicrafts used to decorate the towering Salak Yorm. We
+then attended to Salak festival at Wat Chamadevi in Lamphun and watched as the
+towering offerings were won by excited monks and claimed from the community
+members who had created them.
+
+At that time, I learned that Assistant Abbot Phra Patiphan Puriphanyo was the
+creator and webmaster of a site called www.muanglamphun.com, on which he
+posted documentation of these events and of the Salak Yorm festival and related
+activities and traditions (Fig. 2).60 The web site, and its related Facebook page,
+were used as a strategy for documenting and circulating the distinct practices of
+the Wat Pratupa ethnic Yong community. I continued to learn about local digital
+media strategies in the second field school in 2010, as I worked with students,
+the assistant abbot, and the Pratupa community to explore issues related to
+the safeguarding of one aspect of the Salak Yorm, called the Kap Kalong. The
+Kap Kalong is a poetic narrative that reiterates the history of the ethnic Yong
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+CULTURAL HERITAGE ON THE WEB
+
+361
+
+FIGURE 2. Wat Pratupa’s former web site, “Muang Lamphun.”
+
+migration from Burma, and details the contributions of individuals and families
+to the construction of the Salak offering. In the past, the Kap Kalong told the
+life story of the woman who labored with her family to create the Salak offering.
+The Kap Kalong was composed by an individual of great lyrical talent and flu-
+ency in the Lanna language, and transcribed by the composer in Lanna script.
+In a key moment of merit-making, the Kap Kalong would be performed by
+members of the contributing family or community at the Salak Yorm before pre-
+senting the Salak to the monk who had won it in the festival lottery. Documen-
+tation of the Kap Kalong script and recordings of performance were being
+circulated on www.muanglamphun.com. In the third field school in 2011, I worked
+with the assistant abbot and members of the Pratupa community to produce a
+short documentary video that could be used to promote awareness of the need
+to revitalize the Yong language. This video, and the assistant abbot’s photo doc-
+umentation of our collaborative process, was also quickly made available on
+www.muanglamphun.com.
+
+In the course of our fieldwork, we learned from the assistant abbot, community
+educators, Kalong performers, handicraft artisans, and school children that the
+Kalong is threatened on several fronts. A gradual shift from the local Yong dialect
+to the Central Thai dialect is creating greater distance between young Yong com-
+munity members and their Yong heritage. Few people who have not been or-
+dained as monks are fluent in the Lanna language, which was and continues to be
+used to represent the Yong language. Thai Yong people are now educated in the
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+362
+
+KATE HENNESSY
+
+Thai Central dialect, meaning Kalong scripts in Lanna language cannot be under-
+stood, and education of new composers of the Kalong is obstructed by Lanna il-
+literacy. Second, the Lamphun Provincial government recently chose to promote
+the Salak Yorm as a tourist event, and to provide financial incentives for Lamphun
+monasteries to participate in the festival. Non-Yong Thai communities and mon-
+asteries have been creating Salak offerings, and participating in the festival, but do
+not practice the Kap Kalong. Further, expensive and time-consuming Salak hand-
+icrafts are being replaced with cheap commercial decorations. From the perspec-
+tive of Wat Pratupa representatives, the Salak Yorm festival and associated traditions
+have been appropriated by non-Yong communities and the provincial govern-
+ment, marginalizing the role of the Kap Kalong and Lanna language expression.
+Exacerbating the problem, contemporary economic conditions drive young Yong
+to seek employment in factories far away from their home communities, prevent-
+ing them from participating in the activities of the Wat Pratupa community and
+speaking the Yong dialect with their families.
+
+Faced with these challenges, Assistant Abbot Phra Patiphan Puriphanyo has fo-
+cused on the facilitation, digital documentation, and circulation of representa-
+tions of Wat Pratupa’s Salak Yorm, Kap Kalong traditions, and language revitalization
+initiatives. He was using the www.muanglamphun.com web site as a way to com-
+municate Wat Pratupa’s ethnic Yong identity and Buddhist practices to local peo-
+ple, to community members working out of the province in factories, and to
+diasporic Yong people who are interested in the traditions of their home commu-
+nity. The conceptualization and production of www.muanglamphun.com facili-
+tated local discussion about what local heritage is appropriate for sharing over the
+Internet, and the utility of the Internet in supporting heritage revitalization ini-
+tiatives. According to Assistant Abbot Phra Patiphan Puriphanyo, “We believe in
+one saying: ‘sharing leads to sustainability.’ The more you share your knowledge,
+the more that knowledge will live on. It’s like the case of an herbal medicine ex-
+pert. If he dies, his knowledge dies with him.”61
+
+Wat Pratupa’s current approach to sharing was largely shaped in the course of
+producing www.muanglamphun.com. The web site first included extensive photo-
+graphic documentation of the Salak Yorm festival, historical photographs col-
+lected by the assistant abbot from members of the community, and representations
+of other traditions that were thought of as needing protection. However, it was
+the decision to document and share images of sacred material culture owned by
+Wat Pratupa—the contents of a Buddhist palm-leaf manuscript cabinet and a
+wooden Buddha carving—and the outside interest that they generated, which stim-
+ulated discussion about the role of digital documentation in safeguarding heri-
+tage. After images of the manuscripts and Buddha image were posted on the web
+site, villagers were surprised when nonlocal documentary filmmakers arrived want-
+ing to make a film about Wat Pratupa’s valuable collection. With new awareness of
+the digital visibility of the objects, community members became concerned about
+the safety of the original objects. Assistant Abbot Phra Patiphan Puriphanyo de-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+CULTURAL HERITAGE ON THE WEB
+
+363
+
+scribed to me how these events facilitated the articulation of local discourse around
+digital circulation:
+
+It was a challenge at first. There were worries that things could be stolen
+after display. That doubt also existed within this temple in regards to the
+Buddha image. As an alternative, it was decided that although some ob-
+jects could not be physically displayed, their photographs could be shown
+instead. People were worried that if the library were open for public view,
+the cabinet might risk thievery. So I said, think about this. If there were
+three keepers whose responsibility was to lock up this cabinet and Bud-
+dha image in a safe place forever, would there be any chance that they
+would completely forget about them? Wouldn’t it be better if we allowed
+other people to know that they existed, if we let them live through re-
+telling, remembrance, and documentation? It would be a pity if they were
+left to be forgotten. There’s an idiom saying, “If you swallow, it disap-
+pears; if you spit it out, it remains.” No matter how wise you are, if you
+don’t have a disciple, your wisdom goes to waste. But if you teach your
+disciples, your knowledge transcends your own life. It doesn’t matter if
+replicas were created, because a genuine is still a genuine. In fact, there
+are even more watchers than before because there are more people who
+are aware of these significances. A sense of ownership keeps growing,
+which may lead to two different strategies: increased security measures,
+or increased studies and revitalization. The decision depends on the con-
+servators and the community. Just keep this fact in mind, “If you swal-
+low, it disappears; if you spit it out, it remains.” Let the knowledge spread
+within the community.62
+
+While the web-based documentation activities of Wat Pratupa were central in
+defining local cultural property rights, using online resources to spread knowl-
+edge within the community were ultimately met with significant challenges. Wat
+Pratupa’s use of www.muanglamphun.com continued until early 2012, when the
+cost of hosting and maintaining the popular web site became prohibitive. The
+extensive archive of historical photographs, audio recordings, and videos are no
+longer accessible to the public online. The loss of the web site has driven home
+the difficulty of maintaining local digital community archives, which require sta-
+ble sources of funding, expertise, and stewardship. The domain name was lost to
+another user, and Wat Pratupa’s online activities were migrated to their existing
+Facebook page and to the assistant abbot’s personal Facebook page. The owner-
+ship and intellectual property-related consequences of posting community con-
+tent to Facebook, as opposed to a web site owned and maintained by Wat Pratupa
+community, remains to be explored. However, while the role of www.muanglam-
+phun.com in the preservation of the community’s digital heritage is diminished,
+Facebook-based online sharing activities have continued with dedication from
+the assistant abbot and colleagues, and still function to promote local activities
+and practices related to the transmission of intangible cultural heritage. While
+the original web site played a central role in the articulation of a local cultural
+property rights discourse, these newly amplified Facebook activities continue to
+function in an analogous way—helping to “spread knowledge within the com-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+364
+
+KATE HENNESSY
+
+munity.” At Wat Pratupa, the emphasis of digital intangible heritage safeguarding
+activities has shifted from the creation of a web-based archive to the use of so-
+cial networking opportunities provided, free of charge, by Facebook—a solution
+that seems to meet the needs of local practitioners at this time.
+
+CONCLUSION
+
+While the Wat Pratupa and Dane-zគaa examples are geographically and culturally
+distant, they highlight global challenges inherent in attempts to safeguard intan-
+gible heritage using digital documentary technologies. They demonstrate how
+diverse cultural communities are negotiating appropriate strategies for the doc-
+umentation and transmission of their heritage, from sharing widely over public
+social networks like Facebook, to restricting culturally sensitive or sacred mate-
+rial to off-line community use. Both ethnographic sites exemplify media produc-
+tion spaces in which, as Cruikshank articulates, positions in discussions about
+cultural representation, copyright, and ownership of cultural property are being
+staked out.63 Both examples further support Abu-Lughod’s assertion that studies
+of cultural resistance should be understood as diagnostics of power, rather than
+romantic evidence of failures of structures of power; she writes, “. . . we respect
+everyday resistance not just by arguing for the dignity or heroism of the resis-
+tors but by letting their practices teach us about the complex interworking of
+historically changing structures of power.”64 The Dane-zគaa and Wat Pratupa ex-
+amples affirm the centrality of digitization and mediation initiatives in both rais-
+ing awareness of the impact of new technologies on local heritage and traditions,
+and in generating discussion and negotiation about the value of these technolo-
+gies in particular cultural communities. As made visible in the Wat Pratupa ex-
+ample, and an ongoing challenge in the Dane-zគaa context, is the serious issue of
+preservation and persistence of intangible heritage documentation and digital
+heritage.
+
+While the UNESCO Convention for the Safeguarding of the Intangible Cul-
+tural Heritage mandates community involvement in safeguarding initiatives, dig-
+ital tools implicate intangible heritage documentation as digital heritage. Digital
+code, which at its most primary function is programmed to make copies, has
+displaced the natural duplication constraints of analog media,65 making the ar-
+ticulation of local cultural property rights discourse a significant element of
+community-based safeguarding efforts. In the era of the born-digital heritage ob-
+ject, the safeguarding of intangible cultural heritage and the preservation of dig-
+ital cultural heritage are not separate projects. As with the ambiguous boundary
+that distinguishes verbal utterances from object66—efforts to document and safe-
+guard what UNESCO has defined as intangible cultural heritage must be under-
+stood, and critiqued, in relation to the UNESCO discourse on the preservation
+of digital heritage. Both of these policy instruments—the Convention for the
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+CULTURAL HERITAGE ON THE WEB
+
+365
+
+Safeguarding of the Intangible Cultural Heritage and the Charter on the Preser-
+vation of Digital Heritage—should be considered and implemented with aware-
+ness of the complexities of local cultural property rights discourse and appropriate
+strategies for archiving documentation. Accordingly, heritage workers, practition-
+ers, and community members should take steps to ensure that meaningful par-
+ticipation in digital documentary initiatives includes space for the negotiation
+and articulation of diverse local approaches to ownership and circulation of her-
+itage, as well as long-term planning for the most appropriate archival forms and
+modes of access. The multiple methods and ontologies through which indig-
+enous peoples around the world are appropriating new technologies to articulate
+their own social, cultural, and political visions67 demonstrate the importance of
+sustained attention to and facilitation of meaningful community participation in
+efforts to safeguard their digital cultural heritage.
+
+ENDNOTES
+
+1. See Ito, “Introduction” and Peers and Brown, Museums and Source Communities.
+2. UNESCO, Charter on the Preservation of the Digital Heritage, art. 1.
+3. Cruikshank, “Oral Tradition and Material Culture,” 5–9.
+4. Cruikshank, “Oral Tradition and Material Culture,” 6.
+5. UNESCO, Convention for the Safeguarding of the Intangible Cultural Heritage.
+6. UNESCO, Charter on the Preservation of the Digital Heritage, art. 2.
+7. Torsen and Anderson, “Intellectual Property and the Safeguarding of Traditional Cultures”
+provides a number of significant examples of local negotiations of ownership and approaches to
+reconciling Indigenous paradigms with current intellectual property regimes.
+
+8. UNESCO, Convention for the Safeguarding of the Intangible Cultural Heritage, 2.
+9. UNESCO, Convention for the Safeguarding of the Intangible Cultural Heritage, 3.
+10. Jackson, “Boasian Ethnography,” 44.
+11. Moore and Hennessy, “New Technologies and Contested Ideologies.”
+12. FirstVoices.com is a First Nations language revitalization initiative created by the First Peoples
+Cultural Foundation in Victoria, British Columbia, in partnership with Canadian First Nations peo-
+ples. See 具www.FirstVoices.com典 for further information.
+
+13. Pigliasco, “Intangible Cultural Property, Tangible Databases, Visible Debates.”
+14. Hennessy, “A Ituvatuva Ni Vakadidike E Sawau.”
+15. Pigliasco, “Intangible Cultural Property, Tangible Databases, Visible Debates,” 266–267.
+16. Christen, “Opening Archives.”
+17. Christen, “Opening Archives.”
+18. Cameron, “The Politics of Heritage Authorship.”
+19. Cameron, “The Politics of Heritage Authorship,” 71.
+20. UNESCO, Charter on the Preservation of the Digital Heritage, 2.
+21. Brown, “Heritage Trouble,” 48.
+22. Anderson, “Anxieties of Authorship in Colonial Archives.”
+23. Brown, “Heritage Trouble,” 48.
+24. UNESCO, Convention for the Safeguarding of the Intangible Cultural Heritage, 1.
+25. Brown, “Heritage Trouble,” 48.
+26. UNESCO, Convention for the Safeguarding of the Intangible Cultural Heritage, art. 3.
+27. UNESCO, Convention for the Safeguarding of the Intangible Cultural Heritage, art. 4.
+28. UNESCO, Convention for the Safeguarding of the Intangible Cultural Heritage.
+29. Kurin, “Safeguarding Intangible Cultural Heritage,” 15.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+366
+
+KATE HENNESSY
+
+30. “Dane Wajich—Dane-zគaa Stories and Songs: Dreamers and the Land” 具http://www.
+
+virtualmuseum.ca/Exhibitions/Danewajich/典.
+
+31. Hennessy, “Repatriation, Digital Technology, and Culture in a Northern Athapaskan
+
+Community.”
+
+32. See Kirshenblatt-Gimblett, “Objects of Ethnography.”
+33. Stoler, “Colonial Archives.”
+34. See Brody, Maps and Dreams and Ridington, Trail to Heaven.
+35. Ridington, Trail to Heaven.
+36. See Ridington and Ridington, “Archiving Actualities” and “Hunting for Stories in Sound.”
+37. Ridington and Ridington, “Hunting for Stories in Sound.”
+38. Ridington and Ridington, “Hunting for Stories in Sound.”
+39. Ridington and Ridington, “Archiving Actualities.”
+40. Dane-zគaa Archive Catalog, 2004–2011 具http://fishability.biz/Doig典.
+41. Ridington and Ridington, “Archiving Actualities.”
+42. See Hennessy, “Repatriation, Digital Technology, and Culture in a Northern Athapaskan
+Community” and Ridington and Hennessy, “Building Indigenous Agency through Web-based
+Exhibition.”
+
+43. Ridington and Ridington, “Archiving Actualities,” 67.
+44. Canada Copyright Act, R.S.C., ch. C-42, s. 18 (1985) (Can.), “Copyright in Sound Record-
+ings” states that “the maker of a sound recording has a copyright in the sound recording, consisting
+of the sole right to do the following in relation to the sound recording or any substantial part thereof:
+(a) to publish it for the first time, (b) to reproduce it in any material form, and (c) to rent it out, and
+to authorize any such acts.”
+
+45. Marcus and Clifford, “The Making of Ethnographic Texts.”
+46. Ridington and Ridington, “Archiving Actualities,” 67.
+47. Ridington and Ridington, “Archiving Actualities,” 67.
+48. Hennessy, “Repatriation, Digital Technology, and Culture in a Northern Athapaskan
+
+Community.”
+
+49. Ridington and Ridington, “Hunting for Stories in Sound,” 20.
+50. Chief Kelvin Davis, interview by Kate Hennessy, Doig River First Nation Band Hall, 1 August
+
+2007.
+
+51. Brown, Digital Cultural Heritage and Indigenous Objects.
+52. Cameron, “The Politics of Heritage Authorship,” 180.
+53. Christen, “Tracking Properness,” 420.
+54. Cameron, “The Politics of Heritage Authorship,” 180.
+55. Christen, “Gone Digital.”
+56. Abu-Lughod, “The Romance of Resistance,” 42.
+57. Intangible Cultural Heritage and Museums Field School, Sirindhorn Anthropology Centre
+具http://www.sac.or.th/databases/fieldschool典: “The Intangible Cultural Heritage and Museums Field
+School focuses on the role of the museum in safeguarding, documenting and revitalizing intangible
+cultural heritage in the ASEAN region. Led by experts in the fields of museology and anthropology,
+this course offers museum and heritage professionals the conceptual and practical tools for engaging
+with local communities to safeguard their intangible cultural heritage, such as oral history and nar-
+ratives, craftsmanship, festivals, ritual, performance and other forms of traditional knowledge. The
+course combines frameworks from ‘new museology’ and ecomuseums with anthropological ap-
+proaches for understanding and working with source communities.”
+58. Hennessy, “Virtual Repatriation and Digital Cultural Heritage.”
+59. Princess Maha Chakri Sirindhorn Anthropology Centre, Field School Course Materials, 13.
+60. Phra Patiphan Puriphanyo’s web site could formerly be viewed at www.muanglamphun.com;
+however, as I describe in the article, the domain name was given up because of lack of resources.
+Activities have been moved to Facebook.
+
+61. Phra Patiphan Puriphanyo, interview by Kate Hennessy (trans. Linina Phuttitarn), 18 August
+
+2011, Lamphun, Thailand.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+CULTURAL HERITAGE ON THE WEB
+
+367
+
+62. Phra Patiphan Puriphanyo, interview by Kate Hennessy (trans. Linina Phuttitarn), 18 August
+
+2011, Lamphun, Thailand.
+
+63. Cruikshank, “Oral Tradition and Material Culture.”
+64. Abu-Lughod, “The Romance of Resistance,” 53.
+65. Lessig, “Remix.”
+66. Cruikshank, “Oral Tradition and Material Culture.”
+67. Srinivasan, “Indigenous, Ethnic, and Cultural Articulations of New Media.”
+
+BIBLIOGRAPHY
+
+Abu-Lughod, Lila. “The Romance of Resistance: Tracing Transformations of Power through Be-
+douin Women.” American Ethnologist 17, no. 1 (1990): 41–55.
+
+Anderson, Jane. “Anxieties of Authorship in the Colonial Archive.” In Media Authorship, edited by C.
+Chris and D. Gerstner. London: Routledge, forthcoming.
+
+Baudrillard, Jean. Simulacra and Simulation. Translated by Sheila Faria Glaser. Ann Arbor: Univer-
+sity of Michigan Press, 1994.
+
+Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” In Illuminations, ed-
+ited by H. Arendt and H. Zohn, 217–51. London: Jonathan Cape, 1968.
+
+Brody, Hugh. Maps and Dreams: Indians and the British Columbia Frontier. Vancouver and Toronto:
+Douglas and McIntyre, 1988.
+
+Brown, Deidre. “Digital Cultural Heritage and Indigenous Objects, People, and Environments.” In
+Theorizing Digital Cultural Heritage: A Critical Discourse, edited by Fiona Cameron and Sarah Kender-
+line, 77–91. Cambridge, MA: MIT Press, 2007.
+
+Brown, Michael F. “Heritage Trouble: Recent Work on the Protection of Cultural Property.” Inter-
+national Journal of Cultural Property 12 (2005): 40–61.
+
+Cameron, Fiona. “Beyond the Cult of the Replicant: Museums and Historical Digital Objects—
+Traditional Concerns, New Discourses.” In Theorizing Digital Cultural Heritage: A Critical Discourse,
+edited by Fiona Cameron and Sarah Kenderline, 49–75. Cambridge, MA: MIT Press, 2007.
+
+———. “The Politics of Heritage Authorship: The Case of Digital Heritage Collections.” In New
+Heritage: New Media and Cultural Heritage, edited by Yehuda E. Kalay, Thomas Kvan, and Janice
+Affleck, 170–84. London and New York: Routledge, 2008.
+Christen, Kim, Chris Cooney, and Allesandro Ceglia. Digital Dynamics across Cultures. 具http://
+vectorsjournal.org/projects/index.php?project⫽67典 (2006) accessed 13 August 2011.
+
+Christen, Kimberly. “Gone Digital: Aboriginal Remix and the Cultural Commons.” International Jour-
+nal of Cultural Property 12, no. 3 (2005): 315–45.
+
+———. “Tracking Properness: Repackaging Culture in a Remote Australian Town.” Cultural Anthro-
+pology 21, no. 3 (2006): 416–46.
+
+———. “Access and Accountability: The Ecology of Information Sharing in the Digital Age.” An-
+thropology News, April (2009): 4–5.
+
+———. “Opening Archives: Respectful Repatriation.” American Archivist 74 (2011): 185–210.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+368
+
+KATE HENNESSY
+
+Cruikshank, Julie. Life Lived Like a Story: Cultural Constructions of Life History by Tagish and Tuchone
+Women. Lincoln: University of Nebraska Press, 1987.
+
+———. “Oral Tradition and Material Culture: Multiplying Meanings of ‘Words’ and ‘Things.’” An-
+thropology Today 8, no. 3 (1992): 5–9.
+
+———. The Social Life of Stories: Narrative and Knowledge in the Yukon Territory. Vancouver: Uni-
+versity of British Columbia Press, 1998.
+
+Doig River First Nation. “Dane Wajich—Dane-Zគ aa Stories and Songs: Dreamers and the Land,” cu-
+rated by Amber Ridington and Kate Hennessy. 具http://www.museevirtuel-virtualmuseum.ca/sgc-
+cms/expositions-exhibitions/danewajich/english/index.html典 (2007) accessed 10 June 2012.
+
+Hennessy, Kate. “Virtual Repatriation and Digital Cultural Heritage: The Ethics of Managing Online
+Collections.” Anthropology News, April (2009): 5–6.
+
+———. A Ituvatuva Ni Vakadidike E Sawau: The Sawau Project DVD. Visual Anthropology Review
+25, no. 1 (2009): 90–92.
+
+———. “Repatriation, Digital Technology, and Culture in a Northern Athapaskan Community.” PhD
+thesis, Department of Anthropology, University of British Columbia, 2010.
+
+———. “From Intangible Expression to Digital Cultural Heritage.” In Safeguarding Intangible Her-
+itage, edited by Michelle Stefano, Peter Davis, and Gerard Corsane, 33–46. Heritage Matters Series.
+London: Boydell and Brewer, 2012.
+
+Ito, Mizuko. “Introduction.” In Networked Publics, edited by Kazys Varnelis, 1–14. Cambridge, MA:
+MIT Press, 2008.
+
+Jackson, Jason Baird. “Boasian Ethnography and Contemporary Intellectual Property Debates.” Pro-
+ceedings of the American Philosophical Society 154, no. 1 (2010): 40–49.
+
+Kirshenblatt-Gimblett, Barbara. “Objects of Ethnography.” In Exhibiting Cultures: The Poetics and
+Politics of Museum Display, edited by Ivan Karp and Stephen D. Levine, 386–443. Washington, DC:
+Smithsonian Institution, 1991.
+
+Kurin, Richard. “Safeguarding Intangible Cultural Heritage: Key Factors in Implementing the 2003
+Convention.” International Journal of Intangible Heritage 2 (2007): 10–20.
+
+Lessig, Lawrence. Remix: Making Art and Commerce Thrive in the Hybrid Economy. New York: Pen-
+guin, 2008.
+
+Marcus, George E., and James Clifford. “The Making of Ethnographic Texts: A Preliminary Report.”
+Current Anthropology 26, no. 2 (1985): 267–71.
+
+Moore, Patrick, and Kate Hennessy. “New Technologies and Contested Ideologies: The Tagish
+Firstvoices Project.” American Indian Quarterly 30, no. 1 & 2 (2006): 119–37.
+
+Peers, Laura, and Alison Brown, eds. Museums and Source Communities: A Routledge Reader. Lon-
+don: Routledge, 2003.
+
+Phangwana, Patiphan. Wat Pratupa. 具www.muanglamphun.com典 accessed 30 August 2011.
+
+Pigliasco, Guido Carlo. “Intangible Cultural Property, Tangible Databases, Visible Debates: The Sawau
+Project.” International Journal of Cultural Property 16 (2009): 255–72.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+CULTURAL HERITAGE ON THE WEB
+
+369
+
+Princess Maha Chakri Sirindhorn Anthropology Centre, Thailand. “Intangible Cultural Heritage and
+Museums 201 Field School Course Materials.” Bangkok: Princess Maha Chakri Sirindhorn Anthro-
+pology Centre, Thailand, 2010.
+
+Ridington, Amber, and Kate Hennessy. “Building Indigenous Agency through Web-Based Exhibi-
+tion: Dane-Wajich—Dane-Zaa Stories and Songs: Dreamers and the Land.” Museums and the Web
+2008. 具http://www.archimuse.com/mw2008/papers/ridington/ridington.html典 (2008) accessed 13 Au-
+gust 2011.
+
+Ridington, Robin. “Beaver Indians.” In Handbook of North American Indians, edited by June Helm,
+350–60. Washington, DC: Smithsonian Institution, 1981.
+
+———. Trail to Heaven: Knowledge and Narrative in a Northern Native Community. Vancouver: Doug-
+las and McIntyre, 1988.
+
+———. Little Bit Know Something: Stories in a Language of Anthropology. Vancouver and Toronto:
+Douglas & McIntyre, 1990.
+
+Ridington, Robin, and Jillian Ridington. “Archiving Actualities: Sharing Authority with Dane-Zaa
+First Nations.” Comma 1 (2003): 61–68.
+
+———. “Hunting for Stories in Sound: Sharing Ethnographic Authority.” In When You Sing It Now,
+Just Like New: First Nations Poetics, Voices, and Representations, 16–27. Lincoln: University of Ne-
+braska Press, 2006.
+Ridington, Robin, Jillian Ridington, and Doig River First Nation. “The Ridington/Dane-Zaa Digital
+Archive.” Dane-Zaa Archive Catalogue. 具http://Fishability.Biz/Doig典 (2004–2010).
+
+Srinivasan, Ramesh. “Indigenous, Ethnic, and Cultural Articulations of New Media.” International
+Journal of Cultural Studies 9, no. 4 (2006): 497–518.
+
+Stoler, Ann Laura. “Colonial Archives and the Arts of Governance.” Archival Science 2, no. 1 (2002):
+87–109.
+
+Torsen, Molly, and Jane Anderson. Intellectual Property and the Safeguarding of Traditional Cultures:
+Legal Issues and Practical Options for Museums, Libraries, and Archives. World Intellectual Property
+Association (WIPO), 2010.
+
+UNESCO. Charter on the Preservation of Digital Heritage, 2003.
+
+———. Convention for the Safeguarding of the Intangible Cultural Heritage, 2003.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000288
+
+

@@ -1,0 +1,876 @@
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2, pp. 2–14
+
+doi: 10.1111/j.1747-1796.2013.12007.x
+
+Compelling to Disclose Software Interoperable
+Information: A Risk for Innovation or a Balanced
+Solution?
+
+Bego~na Gonzalez Otero
+University of Santiago de Compostela
+
+Software interoperability has been declared matter of public interest by the European Commission in its European
+Digital Agenda because of its obvious intrinsic value and, therefore, it is in the interest of society to support it. The
+most signiﬁcant ex ante intellectual property rules on interoperability in IT markets are presently located in the area of
+copyright law. Ideally, copyright law should provide market participants with clear indications as to the ability to
+access and use interoperability information. However, none of the Actions of the European Digital Agenda address
+copyright in general nor the Software Directive in particular in the matter of interoperability. This essay will discuss
+whether the regulation established by the Software Directive can jeopardize the public interest. Subsequently, due to
+the impact of the Microsoft CFI decision, it will be analyzed whether a compulsory licensing approach is the best
+solution in order to guarantee access to interoperable information. Closing, some recommendations over both the
+interoperable information regulation of the Software Directive and the licensing approach that might help in keeping a
+fair balance between the copyright holder of the computer program and competitors in the ICT sector for the sake of
+interoperability and innovation.
+
+Keywords interoperability; compulsory licenses; Software Directive
+
+Interoperability, like openness, is something that we generally think of as a “good thing” in the context of
+information and communications technologies (ICT). Reasons put forward for interoperability are that it
+leads to innovation, as well as consumer choice, ease of use and competition (Gasser and Palfrey, 2007).
+The legal concept of interoperability was deﬁned in the Software Directive1 for the ﬁrst time, as “the
+ability to exchange information and mutually to use the information which has been exchanged.”2 Albeit,
+since Microsoft CFI ruling in 2007, some scholars have emphasized that the concept of interoperability as
+an isolated policy on compatible software is no longer applicable (Dizon, 2008). The notion of
+interoperability may be taken into account as a priori standard that crosscuts a wide spectrum of IT laws
+and policies (Hart, 2006).
+
+This vision ﬁnds its conﬁrmation in the Digital Agenda for Europe 2010–2020, whose second pillar
+refers to interoperability and standards. As the Commission has declared, interoperability information is
+embodied in the interfaces of the software system. To improve and promote the enhancement of
+interoperability, the Agenda envisages several actions, because interface information may be strategic for
+the ICT sector.3 But strikingly none of those actions address directly the Software Directive.
+
+Actions 23 and 25 of the Digital Agenda refer to interoperability and standards, mainly through the
+study of licensing, with special focus in ex ante disclosure of interoperable information. Although
+licensing is nowadays of paramount importance, the Commission may not lose sight of the relevance of
+the software copyright provisions regarding interoperability and also licensing.
+
+The high importance of claims of copyright in standards was illustrated by a “clariﬁcation” of its
+intellectual property policy that ISO published in July 2003. It would have required all software
+developers and commercial resellers of data who embedded data elements from ISO’s standard country,
+language and currency codes to pay an annual fee (or a one-time fee plus regular maintenance fees) for
+doing so (Cover, 2003; Samuelson, 2011, p. 135).
+
+Compelling to Disclose Software Interoperable Information
+
+Bego~na Gonzalez Otero
+
+Therefore this essay aims to expound, on one hand, how and why interoperability as a priori standard
+that intersects with a wide array of laws and policies relating to information technology, has its
+background in the conception and legal regime established by the Software Directive, and on the other
+hand, how this Directive might affect a possible licensing approach of interoperability information. A
+revision of the Software Directive in the course of the actions that directly relate to interoperability in the
+Digital Agenda would be for the better of the innovation in the ICT sector.
+
+The structure of this essay is, thereby, the following: In ﬁrst place, an explanation of the concept of
+interoperability in the Software Directive will be attempted. Secondly, this essay will discuss whether the
+said regulation established by the Software Directive can jeopardize the public interest. Thereupon, due to
+the impact of the Microsoft CFI decision, this essay will examine whether a compulsory licensing
+approach is the best solution in order to guarantee access to interoperable information. Closing, some
+recommendations over both the interoperable information regulation of the Software Directive and the
+licensing approach that might help in keeping a fair balance between the copyright holder of the computer
+program and competitors in the ICT sector for the sake of interoperability and innovation.
+
+The Concept of Interoperability in the Software Directive
+
+The core statutory basis for interoperability provided by the Software Directive starts in its Recitals.
+Recital 10 highlights the signiﬁcance of a computer program to interoperate, interconnect and interact
+within an IT system and with users.4 Recital 12, deﬁnes interoperability as “the ability to exchange
+information and mutually to use the information which has been exchanged.” This deﬁnition is quite broad
+if compared with the one contained in the Bangemann Report, referring to interoperability in the context of
+telecommunications, as the seamless interconnection of networks and the ability of services and
+applications to work together.5 Interoperability of communication services would mean that end-users
+would get access to different service providers, even though they subscribed to one network only.6
+
+Besides the broad conception over interoperability offered by the Recitals of the Directive, one
+provision relates straight to interoperability in the Software Directive while other one does it but
+indirectly. It shall be borne in mind that this regulation tries to establish a harmonized level of copyright
+protection for computer programs in order to create the necessary incentives for investments in software
+development. On the other hand, the Directive aimed to facilitate the creation of interoperable programs to
+the beneﬁt of competition and, ultimately, the consumer (Bath, 2002).
+
+Article 6 contains an exception for reverse engineering in the form of decompilation.7 The right of
+decompilation contained in here was ﬁercely debated (Vinje, 1993, p. 49), because reconstruction of a
+program’s source code reveals more than interoperable information. It results in exposure of the program’s
+“formula”, including any trade secrets or other data. Thus, according to Article 6(1) and 6(2)(a),
+decompilation is lawful only if indispensable for the development of an interoperable program and then
+only under certain stringent and cumulative conditions:
+
+1. Acts must be performed by the licensee or by another person having a right to use a copy of the
+
+program, or on their behalf by a person authorized to do so.
+
+2. The information should not previously have been made “readily available” (Article 6(1)(b)). This
+clause encourages voluntarily disclosure of interoperable information, but as reality has shown, this is
+not a very common practice between ICT industries.
+
+3. The act of decompilation must be conﬁned only to those portions of the object code that are necessary
+for interoperability and the information obtained, shall not be given to others (Article 6(1) and 6(2)(b)).
+Moreover, the decompiler bears the burden of proof for all these requirements (Czarnota and
+Hart, 1991, p. 77). This can be problematic because it presumes that the engineer has knowledge of the
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+3
+
+Bego~na Gonzalez Otero
+
+Compelling to Disclose Software Interoperable Information
+
+location of such parts in the object code prior to decompilation,8 and without a complete analysis of the
+program that reveals the approximate location of the relevant interoperable information, this condition
+will be difﬁcult to meet and should normally not apply (Band and Katoh, 1995, p. 252; Dreier and
+Hugenholtz, 2006, p. 231).
+
+Besides, this Article does not permit a developer to decompile a program simply because of the wish
+to create a product to compete with the program in some general way unrelated to interoperability. In
+particular, a developer may not decompile a program solely to research its underlying ideas and then
+implement those ideas in a program that competes with the decompiled program (Palmer and Vinje, 1992).
+Other reasons like maintenance of computer programs or error correction have no room in Article 6,
+because the decompilation is only permitted to achieve the creation of an independent computer program.
+This Article thereby, shows a controversy over the meaning of interoperability in two respects: While
+the exception is explicitly conﬁned to interoperability, the Software Directive does not speciﬁcally permit
+decompilation for the purpose of research. Still today, whether this was intended or simply an omission is
+not clear. What is more, prohibiting research activities in the ﬁeld of software development threatens to
+contravene Article 179(1) of the TFEU which lays down the Community objective to promote “research
+and technological development.”
+
+On the contrary, Article 5(3) of the Directive conﬁrms the right to conduct black box analysis by
+a person having a right to use the program. Although black box testing proves very important in the
+process of establishing interoperability, it does not necessarily result in a comprehensive list of the
+information required for full interoperability (van Rooijen, 2007). To determine all relevant information,
+it may be necessary to analyze the source code or formula of the program so as to establish how it
+interoperates internally (Johnson-Laird, 1994), that is, to decompile the program which could only be done
+without constituting a copyright infringement if the decompiler complies with the conditions early
+mentioned.
+
+Furthermore, Article 6 seems to ignore the deeply rooted copyright principle that originality is the
+decisive factor in determining the scope of copyright protection. Article 1(2) of the Software Directive
+provides that “ideas and principles which underlie any element of a computer program, including those
+which underlie its interfaces, are not protected by copyright under this Directive.” As recently stated the
+ECJ in Cases C-393/09 and C-406/10 interpreting Article 1(2), “the object of the protection conferred by
+that directive is the expression in any form of a computer program, such as the source code and the object
+code, which permits reproduction in different computer languages.”9 Finally the Court declared Article 1
+(2) “must be interpreted as meaning that neither the functionality of a computer program nor the
+programming language and the format of data ﬁles used in a computer program in order to exploit certain
+of its functions constitute a form of expression of that program and, as such, are not protected by copyright
+in computer programs for the purposes of that directive.”10
+
+Consequently, if in determining the scope of a copyright exception, it is incumbent on the State to
+strike a fair balance between the interests of the authors on the one hand and those of the public on the other
+hand,11 acts of decompilation beyond the purpose of creating interoperable programs should not constitute
+copyright infringement when used only to determine the underlying ideas, and not to copy protected
+expression. But unfortunately the room for interpretation in this regard is still too broad and the ECJ has
+not yet ruled any interpretation of Article 6.
+
+What this concept of the Directive shows is that technical difﬁculties as well as restrictive conditions
+for decompilation signiﬁcantly limit competitor’s abilities to access the interoperability information of a
+copyrighted computer program. Therefore, the Software Directive’s concept of interoperability and its
+regulation, which in theory should be a suitable ex ante instrument to balance openness and control of
+interface information, is instead negatively affecting this balance.
+
+4
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+Compelling to Disclose Software Interoperable Information
+
+Bego~na Gonzalez Otero
+
+The Software Directive Regulation of Interoperability: A Source of Headaches for Public
+Interest?
+
+Although copyright protection does not impede to protect software by other intellectual property systems,
+however, the way the Software Directive regulates interoperability might threaten not only innovation in
+the ICT sector but the lawful user right of using a copyrighted work.
+
+To start with, as some scholar has pointed out, the protection of software through copyright law is in
+addition to that afforded by patent law. In Europe, software-related patents have also become the subject of
+renewed, although cost-selective, interest by the most innovative producers (Ghidini et al., 2005). Pro-
+cumulation tendencies are a typical expression of the oft-criticized overprotectionism in IP law, and the
+main effect of this new “foul congregation” of legal protections is the fact that the parallel protectability
+under copyright creates an umbrella against exceptions to patentability and the granting of patents
+(Ghidini, 2010, p. 134).
+
+Also, the manner that the Software Directive protects computer programs, results in that copyright
+does not protect just “a” certain conﬁguration but also the rights of the holder in reproductions,
+translations, transformations, changes, improvements, upgrades, etc. that in themselves constitute original
+works.12 This means the copyright holder controls who may access all the program information. It follows
+that the latter must always request authorization form the author even to use the program. Because of the
+way innovation works within the ICT sector, this control over the program information by the copyright
+holder can jeopardize this public interest.13
+
+In order to innovate, a software developer will need in the ﬁrst place to be able to interoperate with
+software of others. To this extent, innovation is limited by requirements determined by competitors or by
+industry associations. In particular, interoperable information (interfaces) of competitors must be copied
+in order to enable interoperability with their products. Secondly, ﬁrms cannot compete entirely
+independently because the need for interoperability among their products creates a need for coordination
+and sharing of information. This means that, normally, if a ﬁrm cannot offer interoperability with existing
+and widely used components, its product might have no chance of success, and the ﬁrm could, therefore,
+abandon competition and new-product development altogether.14
+
+While drafting the Software Directive a great debate took place for this reason. The solution that came
+up in order to limit the scope of the exclusive rights of the holder was Article 6, establishing an exception
+on grounds of interoperability. The purpose of this article was to act as a safety valve in the event that
+information enabling a second program maker to develop a program which can interoperate with existing
+programs was not available (Czarnota and Hart, 1991, p. 76). But in some cases, as the Microsoft decision
+demonstrates, this purpose was not successfully achieved. Possible reasons for its failure might be, on the
+former, the extremely complex wording of the article (Blocher and Walter, 2010, note 5.6.24), and on the
+latter, the fact that an exception deﬁnes the scope of a right owner’s exclusive rights but does not mandate
+any direct duty on the copyright holder to disclose/divulge interoperable information (Guibault, 2002,
+p. 16). For instance, the absence of any compulsory licensing in copyright that guarantees a software
+developer access to the interoperable information could disturb the substantive effects of cumulating
+protection in the case of “patented software:” What would be the consequences of granting copyright to
+software whose inventive technical solution is protected by a patent? Or of granting a patent that improves
+the working of a program previously afforded copyright protection? The answer in both cases is an
+inderogable need to obtain the consent of the ﬁrst right holder in order to avoid counterfeiting claims once
+the second computer program enters the market (Guglielmetti, 2002).
+
+It is true that copyright limitations may also take the form of statutory or compulsory licenses, subject
+to certain conditions including the payment of equitable remuneration, according to which a work may be
+used without the authorization of the author, and such limitations are permitted by the Berne Convention,
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+5
+
+Bego~na Gonzalez Otero
+
+Compelling to Disclose Software Interoperable Information
+
+among others, for the right of reproduction,15 the exclusive right that has the most effect on the area of
+accessing interoperable information. Nevertheless, it is interesting to take into account what the Supreme
+Court of some Members States, as Germany, has declared regarding the choice between a statutory license
+and a compulsory license. In the opinion of the German Federal Supreme Court, “there should be no
+limitations on copyright which serve merely the ﬁnancial interests of individual users of works. One must
+also ensure that a limitation imposed in the public interest does not lead to the unjustiﬁed advancement of
+private commercial interests of users. In this dilemma, it seems appropriate to control merely the author’s
+power to forbid but to leave him with the right to claim an equitable reward for the use of his work.”16
+The lawmakers of the European Union did intervene in contractual relations between rights owners
+and users with the adoption of Article 9(1) of the Software Directive. This provision expressly provides
+that “any contractual provision contrary to Article 6 or to the exceptions provided for in Article 5(2) and
+(3) shall be null and void.17 As Vestrynge explained, this recognition of the mandatory character of the
+exception is based in aim of both, Commission and the Council, to limit the parties’ freedom of contract as
+it would make no sense to give the user the freedom under the Directive to perform certain acts without
+authorization if the rightholder can immediately retrieve control by contractual means (Verstrynge, 1992).
+But implementation of this obligation in the national legislations of the Member States has resulted in
+varying degrees of “imperativeness” (Guibault, 2002, p. 219). For instance, the German Copyright Act in
+section 69(g)(2) follows suit and explicitly states that contracting out of decompilation is not permitted.18
+However, the second sentence of Article 9(1) does not guarantee communication ﬂow of information
+itself, but rather disclosure, if any at all, and, if so, the amount of information to be disclosed solely
+depends on the copyright holders will. On the other hand, it is not quite clear to what extent the mandatory
+nature of the Software Directive exceptions can be avoided by a contractual agreement among the parties
+stating that the contract should be governed by a law of a non-EU state. The answer to this question might
+be different depending on whether the contract in question has a substantive connection with one or more
+of the EU Member States (Bently, 2006, note 1).
+
+Therefore, a lawful user, as a software developer, must license his software and only after acceptance
+of the contract, the right to engage in certain techniques of analyzing the program cannot be abridged by
+the copyright holder (Ullrich and Ko¨rner, 1995, p. 76). Conversely, if there is no license agreement, there
+will be no minimum guarantee on permitted acts to access the interoperable information.
+
+Only the Belgian copyright statute has taken a clear position in their national regulations on the issue
+of the potential overridability of copyright exceptions by contract beyond what is imposed by the Software
+Directive.19 From an international perspective, the probable consequence of this statutory provision is that
+software providers offering their software in Belgium will try to avoid the application of Belgian law by
+choosing another substantive rule as the governing one, unless the application of Belgian law would be
+made mandatory by application of protective choice of law rules, as in the case of consumers.
+
+Consequence of this is that computer program lawful users have fewer rights than users of any other
+category of copyrighted works (Lehmann, 1995, p.547), and Article 9(1)’s purpose is of relative
+signiﬁcance in practice for interoperability.
+
+Beyond the Software Directive: The Compulsory Licensing Approach
+
+Recital 17 of the Software Directive underlines an essential connection between interoperability and
+competition law.20 This intra-regime link was illustrated in the Microsoft CFI case where antitrust rules
+and mechanisms were used not only to ensure competition but
+to afﬁrm the signiﬁcance of
+interoperability. The Court found that “(…) interoperability between two software products means the
+capacity for them to exchange information and to use that information mutually in order to allow each of
+those software products to function in all ways envisaged.”21
+
+6
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+Compelling to Disclose Software Interoperable Information
+
+Bego~na Gonzalez Otero
+
+The CFI recognized that the concept of interoperability can be used in different contexts and lends
+itself to various uses, which means that interoperability then is a matter of degree.22 The Court states that
+“the question in the present case is not so much whether the concept of interoperability in the contested
+decision is consistent with the concept envisaged in that directive (Directive 91/250) as whether the
+Commission correctly determined the degree of interoperability that should be attainable in the light of the
+objectives of Article 82 EC.”23
+
+This statement reveals a very profound aspect of interoperability. Nonetheless, even the Court
+construes interoperability as an overarching standard that similarly underlies and traverses various IT-
+related laws and policies and naturally involves the public interest, the Software Directive is not to be kept
+out of sight. For instance, Recitals 9 and 23 of the Directive, contain the commitment to promote
+international standardization and the establishment of multi-platform and multi-vendor markets “where it
+is possible to connect all components of a computer system, including those of different manufacturers, so
+that they can work together.”24
+
+Europe-wide policies favoring interoperability go from markets and operators of the ICT market to
+internal security, combating terrorism, eLearning or
+
+public services as eGovernment, eHealth,
+eCommerce.25
+
+The close correspondence between interoperability and standardization is clearly illustrated in the
+Digital Agenda for Europe, whose second pillar is called “interoperability and standards.” As the
+Commission declared, effective interoperability between IT products and services is needed to build a
+truly digital society.26
+
+However, the relationship between interoperability and standardization can be hampered by the
+current regulation of interoperability in the Software Directive. This assertion can be easily understood
+through the analysis of compulsory licensing as a solution suggested to the computer programs
+decompilation issue since the Microsoft case.
+
+In the Microsoft Case, when examining the refusal to supply the interoperable information, the Court
+recalls that although undertakings are, as a rule, free to choose their business partners, in certain
+circumstances a refusal to supply on the part of a dominant undertaking may constitute an abuse of a
+dominant position. The CFI reiterated that before a refusal by the holder of an intellectual property right to
+license a third party to use a product can be characterized as an abuse of a dominant position, three
+conditions must be satisﬁed under the essential facilities doctrine:
+
+1. The refusal must relate to a product or service indispensable to the exercise of an activity on a
+
+neighboring market.
+
+2. The refusal must be of such a kind as to exclude any effective competition on that market.
+3. The refusal must prevent the appearance of a new product for which there is potential consumer
+
+demand.
+
+Provided that such circumstances are satisﬁed, the refusal to grant a license may constitute an abuse of
+
+a dominant position unless it is objectively justiﬁed.27
+
+Article 6 of the Software Directive was partly designed to obviate the need for intervention by
+competition law (van Rooijen, 2010, p. 86). However, since the Microsoft case, it seems that Europe has
+chosen to rely on the essential facility doctrine with compulsory licensing as its consequence. This
+measure could be an efﬁcient and non-infringing alternative to decompilation of computer programs.
+Still, if the European Communities’ courts do not accept the Commission’s reasoning in a copyright
+context, they might conclude that compulsory licensing is inappropriate in light of the ability of the
+copyright holder competitors to deduce the interoperability information they otherwise seek through
+decompilation.
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+7
+
+Bego~na Gonzalez Otero
+
+Compelling to Disclose Software Interoperable Information
+
+Furthermore, as recently has declared by the Supreme Court of France in a case regarding the
+application of the exception settled by Article 6 of the Software Directive and its relation with the free
+competition principle, the court afﬁrmed this cannot be used as a justiﬁcation to infringe the copyright of a
+computer program by the only reason of achieving interoperability through decompilation.28
+
+The Software Directive states that copyright protection of a computer program is not to be extended to
+ideas and principles,29 but requiring disclosure of the expression of the work goes beyond copyright
+purpose and can actually prove to be counterproductive. For instance, under German case law it has been
+established that software license agreements do not automatically imply an obligation of the licensor also
+to disclose the source code in addition to the object code of the computer program vis-a` -vis the licensee
+(Marly, 1995, p. 268). On the other hand, access might be the quid pro quo for the public’s granting
+exclusive rights to the author. IP licensing generally will expand the use of protected works, increasing
+competition for their use, and it will also disperse the technology thereby encouraging improvements
+(Gellhorn et al., 2004, p. 482). But there is no basis for a conceptual commitment to access as a quid pro
+quo for copyright protection neither in the International Treaties nor in the European Law. It shall rather lie
+with the original program writer himself to decide whether to publish his program’s interoperable
+information or not and whether to go after infringing acts of uncovering such information or not (Moritz
+and Tybusseck, 1992, p. 67).
+
+Generally, compulsory licensing is a very rare remedy in the ﬁeld of copyright. The European
+lawmakers have preferred the remedy of mandatory licensing, thereby access to copyrighted material, to
+be applied under competition law rather that copyright law.30 Compulsory licensing orders in copyright
+cases encounter tension within intellectual property itself, between the need to provide exclusive rights so
+as to preserve the incentive to create, and the need to insure access so as to facilitate the creation of new
+intellectual products (Cotter, 2002, p. 179).
+
+Notwithstanding the lack of any codiﬁed or express mandate to share copyrighted material with
+others, a compulsory licensing approach is at the wake of recognition and permission in case law to resolve
+the access trade-off in the copyright context (Cotter, 2002, p. 201).
+
+As proprietary software or “non-open software” implies control over interoperable information, it
+
+also inherently implies a refusal to share this information.
+
+Control is caused by a combination of factors. Use of interoperable information may directly be
+controlled by the copyright holder if this information constitutes copyrightable subject matter. Although
+ECJ’s interpretation of Article 1(2) of the Software Directive proclaiming that functional expression is not
+copyrightable subject matter, this does not mean that interoperable information could be excluded from
+protection per se. This information could meet the objectiﬁed originality threshold applied to software.31
+Accordingly, to state that some information is functional and therefore not copyrightable subject
+matter, it shall have become a standard. But standardization is a voluntary effort among industry,
+consumers and public authorities to develop consumer-based technical speciﬁcations in a certain
+domain.32 Therefore, it is a procedure that comes ex post, once the computer program has been released by
+the holder in the market, and regarding ICT standards, reality has shown that the most widely implement
+ICT standards, such as XML, have been drafted by informal standardization organizations through de
+facto standards, what have led to a fragmentation of the standardization landscape in which formal bodies
+are no longer the only relevant initiators.33
+
+A de facto standard is a speciﬁcation that became popular because everyone just happened to use it,
+possibly because it was implemented in a product that had signiﬁcant market acceptance (Sutor, 2011,
+p. 211). Therefore, the details of this speciﬁcation may not be available to the public if it belongs to a
+proprietary computer program.
+
+The other factor that causes control by the copyright holder over interoperable information is access.
+Interoperable information is not readily accessible from the distributed program as it is embedded in its
+
+8
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+Compelling to Disclose Software Interoperable Information
+
+Bego~na Gonzalez Otero
+
+unreadable object code. Due to the broad conception of reproduction right stated by the Software
+Directive, users’ abilities to reverse engineer this object code are limited to the complex exception
+established in Article 6. But, with this article, both the right holder and the competitor are confronted with
+uncertainty about access. The competitor may be permitted to decompile the program, yet it is uncertain
+when decompilation will yield results (if any).34 Conversely, the right holder cannot precisely anticipate
+his lead-time. Decompiling a computer program can be the key to the program’s “vault.” Besides,
+decompilation may easily end up in uncovering also copyrightable expression which later on can be used
+in connection with competing products.
+
+These unpleasant consequences for the copyright holder can be avoided if he decides to license only
+the portion of the code required by the potential reverse engineer. In this case, licensing may satisfy the
+interests of both involved.
+
+The pivotal condition linking competitors’ abilities to decompile with commercial negotiations is
+located in Article 6(1)(b) (Czarnota and Hart, 1991, p. 80; Staffelbach, 2003, p. 117). This provision
+restricts the right to decompile where “the information necessary to achieve interoperability has not
+previously been readily available.” But it does not specify when the information is considered to be
+“readily available” nor what amount of information should be made available. Some scholars have
+understood that this wording encourage copyright holders to apply established standard and thereby
+largely to restrict the scope of application of decompilation (Blocher and Walter, 2010, note 5.6.33).
+Nonetheless standardization in the ICT sector has mainly preferred informal bodies than formal EU
+standardization bodies, so this encouragement has not been of much effectiveness.
+
+A controversial aspect regarding this “readily information” where commentators disagree, is whether
+the right holder may charge a fee for the information for it to be “readily available.” Dreier believes a
+licensing fee to be impermissible under this provision, whereas Czarnota and Hart understand that a
+licensing fee may be generally acceptable (Czarnota and Hart, 1991, p. 80; Dreier, 1991; Staffelbach,
+2003, p. 119).
+
+In the end, the question of the meaning of “readily available information” is left open to court
+
+interpretation (Czarnota and Hart, 1991, p. 78; Gilbert-Macmillan, 1993).
+
+Notwithstanding that, as some commentators have afﬁrmed, the Software Directive tries to provide a
+mechanism whereby it would be more advantageous to both parties to avoid decompilation and negotiate
+the supply of interoperable information (Czarnota and Hart, 1991, p. 80; van Rooijen, 2010, p. 84),
+however, as the Microsoft case has revealed, this negotiations impose abundant costs on the copyright
+holder as to encourage its refusal. These costs, as van Rooijen has schematized, are mainly three: the mere
+passive nature of the reverse engineering instruments; the discrepancy between static legal conditions and
+a dynamic state of the art in reverse engineering; and, the particular conditions established in the wording
+of Article 6 (van Rooijen, 2010, p. 86).
+
+In addition to this, a compulsory licensing approach of interoperable information could increase the
+legal uncertainty scenario already established by the Software Directive. If the parties are unwilling to
+determine the terms of access to the interoperable information, how may the Commission and courts
+proceed in determining and monitoring the terms of access to that information? (Le´veˆque, 2005). Setting
+“fair and reasonable” terms will be difﬁcult in the case of new and emerging technologies, where no
+market precedent exists (Swanson and Baurnol, 2005), and even more difﬁcult when interoperable
+information of novel software has not previously been supplied.
+
+Furthermore, a compulsory licensing approach applied to cases involving software decompilation
+could run the risk to interfere with the objective of the European Union according to strengthen the
+competitiveness of Community industry and to ensure undistorted competition in the Community’s
+internal market and also could trespass the principle of proportionality contained in Article 5(4) TEU,
+according to which, “the content and form of Union action shall not exceed what is necessary to achieve
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+9
+
+Bego~na Gonzalez Otero
+
+Compelling to Disclose Software Interoperable Information
+
+the objectives of the Treaties.”35 This approach would open the door to the target program’s information
+necessary to achieve interoperability predominantly to big software companies (Marly, 1995, p. 328).
+
+Concluding Remarks
+
+Firstly, regarding how interoperability is regulated by the Software Directive, it is important to remark that
+by essentially protecting interoperable information under the same regime as the computer program in
+general, the Directive fails to explicitly recognize that, as a result of network effects and standardization,
+the optimal balance between openness and control of interoperable information may well be different from
+that of the program at large.
+
+In other words, Article 6 of the Software Directive permits decompilation in order to access the
+interoperable information that supports the functionality built into an existing program when the
+independently created program incorporates a corresponding functionality. But functional behavior of
+computer programs is not part of the literary expression for which copyright protection is available,36 so
+what is the sense of an exception that protects in favor of the copyright holder a subject that without it will
+not be protected by copyright? Should the European Commission reconsider the revision of the Software
+Directive, specially its Article 6, as this exception seems to give more power to the copyright holder than to
+safeguarding public interest? The Commission should bear in mind that providing protection of functional
+elements via copyright would lead to a thicket of IP barriers which could seriously deprive markets of the
+general advantages of competition (Samuelson et al., 2012).
+
+On the matter of the compulsory licensing approach, actions 25 of the Digital Agenda of Europe
+focuses in the problem of dominate companies of the ICT sector. The action required is that these
+companies should provide interoperability information about their devices and applications. However, as it
+has been explained, due to the copyright protection and the complicated regime established by Article 6 of
+the Software Directive, an application of the framework of the Microsoft case (the essential facilities
+doctrine) could risk ignoring the particular issues that arise when access is sought to standards and
+speciﬁcally interoperable information. Moreover, it could put in risk innovation by inadequately balancing
+incentives. Besides, it should not be forgotten that dominance itself does not contravene Article 102 TFUE,
+and a refusal to license in the ICT sector based on the grounds of abuse of dominant position has to comply
+with the conditions detailed by the CFI in the Microsoft case. Therefore, legally forcing to disclose
+interoperability information to companies that have reached a dominant position could not only jeopardize
+innovation but go against fundamental principles of the European Union Treaties.
+
+Consequently, rather than looking for a licensing tool that legally oblige the dominant ICT companies
+to disclose their software interoperability information, a re-examination of the Software Directive, and
+particularly its Article 6, could better help to encourage implicated parties to share and negotiate
+interoperability information, restoring the balance to a ﬁeld where the copyright holder of the computer
+program has been overprotected. Besides, this approach would not put at risk the sensible intra-regime
+established by the Software Directive between competition law and copyright.
+
+About the Author
+Bego~na Gonzalez Otero University of Santiago de Compostela, Industrial Law Institute (IDIUS),
+Santiago de Compostela, Spain; e-mail: bgotero@gmail.com
+
+Notes
+
+1. Council Directive 91/250/EEC of 14 May 1991 on the legal protection of computer programs, O. J. L122 of 17
+May 1991, codiﬁed in Directive 2009/24/EC of the European Parliament and of the Council of 23 April 2009 on
+the legal protection of computer programs, O. J. L111 of 5 May 2009 (Here in after, “Software Directive”).
+
+10
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+Compelling to Disclose Software Interoperable Information
+
+Bego~na Gonzalez Otero
+
+2. Recital 12 of the Software Directive.
+3. Digital Agenda Assembly, 16–17 June 2011, p. 64; available at: http://ec.europa.eu/information_society/digital-
+
+agenda/publications/index_en.htm (Accessed on August 2012).
+
+4. “(…) the function of a computer program is to communicate and work together with other components of a
+computer system and with users and, for this purpose, a logical and, where appropriate, physical interconnection
+and interaction is required to permit all elements of software and hardware to work with other software and
+hardware and with users in all the ways in which the are intended to function.”
+
+5. Ofﬁcial Report, Recommendations to the European Council, Europe and the Global Information Society
+(“Bangemann Report”), 26 May 1994, available at: http://ec.europa.eu/archives/ISPO/infosoc/backg/bangeman.
+html (Accessed on August 2012).
+
+6. Article 4(1) Council Directive 2002/19 of March 7, 2002 on access to, and interconnection of, electronic
+
+communications networks [2002], O.J. L108/7 (“Access Directive”).
+
+7. Decompilation is a process that attempts to produce readable high-level language code from executable binary
+code. The idea is to try and reverse the compilation process, to obtain the original source code ﬁle or something
+similar to it (Eilam, 2005, p. 16).
+
+8. See, for instance, Creative v Aztech, Singapore Court of Appeal 1996, section 54.
+9. (Judgment of 22 December 2010, Case C-393/09 Bezpecˇ nostnı´ softwarova´ asociace [2010] ECR I-0000, para. 35
+
+and Judgment of 2 May 2012, Case C-406/10 SAS Institute Inc. v World Programming Ltd., para. 35).
+
+10. (Judgment of 2 May 2012 in Case C-406/10 SAS Institute Inc. v World Programming Ltd., rule 1).
+11. Limitations on the author’s exclusive right may be imposed in order to facilitate the work’s contribution to the
+intellectual and cultural enrichment of the community. However, the limitations must not be such as to dampen the
+will to create and disseminate new works. See: (Fabiani, 1982, p. 154.)
+
+12. Article 4 of the Software Directive states the exclusive rights of the copyright holder as follows:
+
+1. Subject to the provisions of Articles 5 and 6, the exclusive rights of the rightholder within the meaning of
+
+Article 2 shall include the right to do or to authorise:
+
+(a) The permanent or temporary reproduction of a computer program by any means and in any form, in part or in
+whole; in so far as loading, displaying, running, transmission or storage of the computer program necessitate
+such reproduction, such acts shall be subject to authorisation by the rightholder.
+
+(b) The translation, adaptation, arrangement and any other alteration of a computer program and the reproduction
+
+of the results thereof, without prejudice to the rights of the person who alters the program.
+
+(c) Any form of distribution to the public, including the rental, of the original computer program or of copies
+
+thereof.
+
+2. The ﬁrst sale in the Community of a copy of a program by the rightholder or with his consent shall exhaust the
+distribution right within the Community of that copy, with the exception of the right to control further rental of
+the program or a copy thereof.
+
+13. The concept of pro bono publico of Roman Law: according to Cicero “The good of the people is the chief law”, De
+
+Legibus, III, iii 8.
+
+14. See: Interoperability problems frustrate authorities’ move to open source. News, Joinup, 20 July, 2012; available
+(Ac-
+
+at: https://joinup.ec.europa.eu/news/interoperability-problems-frustrate-authorities-move-open-source;
+cessed on August, 2012).
+
+15. Berne Convention, Paris Act 1971, Appendix, Article III. The Berne Convention permits developing countries to
+require the compulsory licensing of the right to reproduce and translate copyright works for purposes of teaching,
+scholarship and research, if certain conditions are met.
+
+16. 17 BGHZ 266, 278 – Tonband.
+17. See also Recital 16 of the Software Directive: “(…) any contractual provisions contrary to the provisions of this
+Directive laid down in respect of decompilation or to the exceptions provided for by this Directive with regard to
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+11
+
+Bego~na Gonzalez Otero
+
+Compelling to Disclose Software Interoperable Information
+
+the making of a back-up copy or to observation, study or testing of the functioning of a program should be null and
+void”.
+
+18. Article 69(g)(2) reads: “Vertragliche Bestimmungen, die in Widerspruch zu[r]…[Ausnahmeregelung fu¨ r
+Dekompilierung in section 69(e)] stehen, sind nichtig”. Gesetz u¨ber Urheberrecht und verwandte Schutzrechte
+[UrhG], 9 September 1965, BGBl I at 1273, available at http://www.gesetze-im-internet.de/urhg/__69g.html
+(Accessed on August 2012).
+
+19. See Article 23 bis of the Law of 31 August 1998 Transposing to Belgian Legislation the European Directive No.
+96/9/EC of March 11, 1996 on the Legal Protection of Database (entered into force on 14 November 1998) and
+amending the Belgian Copyright Act, Moniteur belge/Belgish Staatsblad 14 November 1998, p. 36.913. “The act
+of 1998 implementing the Database Directive not only introduced in Belgian law all mandatory and optional
+limitations in favour of the lawful user of a database that were permitted under the Directive, but it also
+proclaimed the mandatory character of most other limitations included in the Copyright Act” (Guibault, 2002, p.
+219).
+
+20. “The provisions of this Directive are without prejudice to the application of the competition rules under Articles
+81 and 82 of the Treaty if a dominant supplier refuses to make information available which is necessary for
+interoperability as deﬁned in this Directive.”
+
+21. Microsoft Corporation v Commission of the European Communities (Case T-201/04) (GC 2007) para. 225.
+22. Ibid., para. 156 and 158.
+23. Ibid., para. 227.
+24. Decision (EC) 1720/1999/EC of 12 July 1999 adopting a series of actions and measures in order to ensure
+interoperability of and access to trans-European networks for the electronic interchange of data between
+administrations (IDA) [1999] O. J. L203/9, Article 4(2)(b)). Pursuant to its i2010 strategic initiative, the European
+Commission declares: “Digital convergence requires devices, platforms and services to interoperate. The
+Commission intends to use all its instruments to foster technologies that communicate, through research,
+promotion of open standards, support for stakeholder dialogue and, where needed, mandatory instruments. Such a
+policy mix was the foundation of Europe’s mobile telephony success (Commission (EC), “i2010 – A European
+Information Society for growth and employment” (Communication) COM (2005) 229, 1 June 2005, p. 2.
+
+25. See Commission (EC) “i2010 e-Government Action Plan-Accelerating e-Government in Europe for the Beneﬁt
+of All” (Communication) COM(2006) 173, 25 April 2006; Resolution (Council) of 9 December 2004 on Looking
+into the future of Information Communication Technologies (ICT) [2004] OJ C62/1; Commission (EC),
+“Improved effectiveness, enhanced interoperability and synergies among European databases in the area of
+Justice and Home Affairs” (Communication) COM(2005) 597, 24 November 2005; Commission (EC),
+“Electronic Communications: the Road to the Knowledge Economy” (Communication) COM(2003) 65, 11
+February 2003, p. 3.3. All these actions are included in the document of the Commission (EC), “Digital Agenda
+for Europe” (Communication) COM(2010) 245 ﬁnal/2, 26 August 2010.
+
+26. Commission (EC), “Digital Agenda for Europe” (Communication) COM(2010) 245 ﬁnal/2, 26 August 2010,
+
+p. 14.
+
+27. Microsoft v Commission, loc. cit., para. 116.
+28. Supreme Court of France, 20 October 2011, Fiducial Informatique v DPSI and others, Case 10-14069, para. 4;
+available at: http://www.juricaf.org/arret/FRANCE-COURDECASSATION-20111020-1014069 (Accessed on
+August 2012): “(…) que le principe de libre concurrence ne saurait justiﬁer l’utilisation d’un logiciel au me´ pris
+des droits d’auteur; qu’en l’espe` ce, la cour d’appel a statue´ par un motif inope´ rant en invoquant le principe de
+libre concurrence pour justiﬁer les ope´ rations de migration, sans avoir pre´ cise´ ment recherche´ si les socie´ te´ s
+DPSI et la socie´ te´ And@lys n’avaient pas, pour effectuer les ope´ rations de migration, fait un usage contrefaisant
+des logiciels en cause; qu’elle a ainsi prive´ sa de´ cision de base le´ gale au regard des articles L. 122-6, L.122-6-1-
+IV.3˚, L. 122-6-1IV et L. 335-3 du code de la proprie´ te´ intellectuelle.”
+
+29. Vid. supra. on Article 1(2) of the Software Directive.
+
+12
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+Compelling to Disclose Software Interoperable Information
+
+Bego~na Gonzalez Otero
+
+30. Cf. Council Directive 92/100/EEC on rental right and lending right and on certain rights related to copyright in the
+
+ﬁeld of intellectual property, O. J. (L346) 61, Article 13 and recital 47.
+
+31. Article 1(3) of the Software Directive: “A computer program shall be protected if it is original in the sense that it is
+
+the author’s own intellectual creation.”
+
+32. Not agreed deﬁnition of a “standard” exists for the present. Deﬁnitions can be found in public policy documents,
+legal texts and normative documents adopted by standards setting organizations. According to the International
+Organization for Standardization deﬁnition, a standard is “a document established by consensus and approved by
+a recognised body that provides, for common and repeated use, rules, guidelines or characteristics for activities or
+their results, aimed at the achievement of the optimum degree of order in a given context”. Int’l Org. for
+Standardization, Standardization and Related Activities: General Vocabulary (1998).
+
+33. Discussion Paper Towards an Increased Contribution from Standardisation to Innovation in Europe, at 5, COM
+
+(2008) 133/ﬁnal (11 March, 2008), available at: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri¼
+
+CELEX:52008DC0133:EN:NOT (Accessed on August 2012).
+
+34. For interoperability to work, a software developer, will need everything necessary in order to understand and fully
+
+implement the processing of the information (Sutor, 2011, p. 216).
+
+35. Treaty on European Union, O.J. C 83, 30.3.2010.
+36. See Judgment of 2 May 2012 in Case C-406/10 SAS Institute Inc. v World Programming Ltd., para. 39.
+
+References
+
+Band, J. and Katoh, M. (1995) Interfaces on Trial: Intellectual Property and Interoperability in the Global Software
+
+Industry. Westview Press, Boulder.
+
+Bath, U. (2002) ‘Access to Information vs. Intellectual Property Rights’, EIPR, 24(3), 138–43.
+Bently, L. (2006) ‘Computer Programs Dir., Art. 9, Note 1’, in T. Dreier and B. Hugenholtz (eds), Concise Copyright.
+
+Kluwer Law International, Alphen aan den Rijn, pp. 211–38.
+
+Blocher, W. and Walter, M. M. (2010) ‘Computer Programs Directive’, in M. M. Walter and S. von Lewinski (eds),
+
+European Copyright Law, A Commentary. Oxford University Press, Oxford, pp. 81–248.
+
+Cotter, T. (2002) ‘Intellectual Property and the Essential Facilities Doctrine’, in R. Towse and R. Holzhauer (eds),
+The Economics of Intellectual Property, vol. 4. Edward Elgar Publishing, Cheltenham, UK, Northampton, MA,
+pp. 177–219.
+
+Cover, R. (2003) Standards Organizations Express Concern about Royalty Fees for ISO Codes, cover pages.
+
+Available at: http://ww.coverpages.org/ni2003-09-20.html (Accessed August 2012).
+
+Czarnota, B. and Hart, R. J. (1991) Legal Protection of Computer Programs in Europe: A Guide to the EC Directive.
+
+Butterworths, London.
+
+Dizon, M. A. C. (2008) ‘Decompiling the Software Directive, the Microsoft CFI Case and the i2010 Strategy: How to
+
+Reverse Engineer an International Interoperability Regime’, CTLR, 14, 213–28.
+
+Dreier, T. (1991) ‘The Council Directive of 14 May 1991 on the Legal Protection of Computer Programs’, EIPR,
+
+13(9), 319–30.
+
+Dreier, T. and Hugenholtz, B. (eds) (2006) Concise Euroepan Copyright Law. Kluwer Law International, Alphen aan
+
+den Rijn.
+
+Eilam, E. (2005) Reversing: Secrets of Reverse Engineering. Wiley Publishing, Inc., Indianapolis, Indiana.
+Fabiani, M. (1982) ‘A Proﬁle of Copyright in Today’s Society’, Copyright, 18(5), 152–6.
+Gasser, U. and Palfrey, J. (2007) When and How ICT Interoperability Drives Innovation, Berkman Publication Series,
+
+November. Available at: http://ssrn.com/abstract¼1033226 (Accessed August 2012).
+
+Gellhorn, E., Kovacic, W.E. and Calkins, S. (2004) Antitrust Law and Economics in a Nutshell. Thomson/West,
+
+St. Paul, MN.
+
+Ghidini, G. (2010) Innovation, Competition and Consumer Welfare in Intellectual Property Law. Elgar, Cheltenham.
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+13
+
+Bego~na Gonzalez Otero
+
+Compelling to Disclose Software Interoperable Information
+
+Ghidini, G. Arezzo, E. De Rais, C. and Errico, P. (2005) ‘Il software fra brevetto e diritto d’autore: Primi appunti sulla
+Proposta di Direttiva comunitaria sulle invenzioni attuate per mezzo di elaboratori electtronici’, Rivista di Diritto
+Industriale, I(1), 46–81.
+
+Gilbert-Macmillan, K. (1993) ‘Intellectual Property Law for Reverse Engineering Computer Programs in the
+
+European Community’, Santa Clara CHTLJ, 9(2), 247–64.
+
+Guglielmetti, G. (2002) ‘La Proposta di direttiva sulla brevettazione delle invenzioni in materia di software’, Rivista di
+
+Diritto Industriale, I(6), 438–60.
+
+Guibault, L. M. C. R. (2002) Copyright Limitations and Contracts: An Analysis of the Contractual Overridability of
+
+Limitations on Copyright, vol. 9 Kluwer Law International, The Hague, London, Boston.
+
+Hart, R. J. (2006) ‘Interoperability Information and the Microsoft Decision’, EIPR, 28(7), 361–5.
+Johnson-Laird, A. (1994) ‘Software Reverse Engineering in the Real World’, 19 U. Dayton L.R. 19, 843–902.
+Lehmann, M. (1995) ‘Das Urhebervertragsrecht der Softwareu¨berlassung’, in F. K. Beier, H. P. Go¨tting, M. Lehmann,
+
+and R. Moufang (eds), Urhebervertragsrecht. C.H. Bech’sche Verlagsbuchhandlung, Mu¨nchen, pp. 543–70.
+
+Le´veˆque, F. (2005) ‘Innovation, Leveraging and Essential Facilities: Interoperability Licensing in the EU Microsoft
+
+Case’, World Competition, 28(1), 71–91.
+
+Marly, J. (1995) Urheberrechtsschutz fu¨ r Computersoftware in der Europa¨ ischen Union. C. H. Beck, Mu¨nchen.
+Moritz, H. and Tybusseck, B.
+
+(1992) Computersoftware: Rechtsschutz und Vertragsgestaltung – Eine
+
+fa¨ cheru¨ bergreifende Darstellung nach deutschem und EG-Recht. C. H. Beck, Mu¨nchen.
+
+Palmer, A. K. and Vinje, T. (1992) ‘The EC Directive on the Legal Protection of Computer Software: New Law
+
+Governing Software Development’, DJCIL, 2, 65–83.
+
+Samuelson, P. (2011) ‘Questioning Copyright in Standards’, in L. DeNardis (ed.), Opening Standards. The Global
+
+Politics of Interoperability. MIT Press, Cambridge, Massachusetts.
+
+Samuelson, P., Vinje, T. and Cornish, W. (2012) ‘Does Copyright Protection Under the EU Software Directive Extend
+
+to Computer Program Behaviour, Languages and Interfaces?’, EIPR, 34(3), 158–66.
+
+Staffelbach, O. (2003) Die Dekompilierung von Computerprogrammen gema¨ ß Art. 21 URG. Sta¨mpﬂi, Bern.
+Sutor, R. (2011) ‘Software Standards, Openness, and Interoperability’, in L. De Nardis (ed.), Opening Standards: The
+
+Global Politics of Interoperability. The MIT Press, Cambridge, MA.
+
+Swanson, D. G. and Baurnol, W. J. (2005) ‘Reasonable and Nondiscriminatory (RAND) Royalties, Standards
+
+Selection, and Control of Market Power’, Antitrust Law Journal, 73(1), 1–58.
+
+Ullrich, H. and Ko¨rner, E. (1995) Der Internationale Softwarevertrag. Verl. Recht und Wirtschaft, Heidelberg.
+van Rooijen, A. (2007) ‘Essential Interfaces. Exploring the Software’s Directive Equilibrium Between Intellectual
+
+Property Rights and Competition Law’, Computer Law Review International, 5, 129–37.
+
+van Rooijen, A. (2010) The Software Interface Between Copyright and Competition Law. A Legal Analysis of
+
+Interoperability in Computer Programs. Wolters Kluwer Law & Business, Alphen aan den Rijn.
+
+Verstrynge, J.-F. (1992) ‘Protecting Intellectual Property Rights Within the New Pan-European Framework: The Case
+
+of Computer Software’, Droit de l’informatique & te´ le´ coms, 2, 6–12.
+
+Vinje, T. (1993) ‘The History of the EC Software Directive’, in M. Lehmann (ed.), A Handbook of European Software
+
+Law. Clarendon Press, Oxford, pp. 39–84.
+
+14
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+

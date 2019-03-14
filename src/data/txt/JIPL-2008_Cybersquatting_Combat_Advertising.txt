@@ -1,0 +1,4712 @@
+246
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2008, Vol. 3, No. 4
+
+Sealing the cracks: a proposal to update
+the anti-cybersquatting regime to combat
+advertising-based cybersquatting
+Christopher T. Varas*
+
+are outdated and ineffective. The
+
+Cybersquatters are at it again. After fading into the
+background during the early years of
+this decade,
+brand-exploiting domain name proﬁteers have returned
+in force, using paid advertising services to turn their
+domain name portfolios into proﬁt centres. Unfortu-
+nately for brand owners, existing anti-cybersquatting
+tools
+current
+resources for identifying domain name registrants in
+the generic Top Level Domains (gTLDs) where cyber-
+squatters are most active are unreliable and incomplete;
+the antiquated procedures of
+the Uniform Domain
+Name Dispute Resolution Process (UDRP) prevent
+brand owners from reclaiming cybersquatters’ port-
+folios; and the disunion between the UDRP and
+national IP laws hobbles efforts to dissuade cybersquat-
+ting through legal penalties.
+
+requires
+
+This paper argues that the new generation of cyber-
+squatters
+an updated anti-cybersquatting
+regime. After examining the phenomenon of cyber-
+squatting in its current form, this paper examines the
+ﬂaws in existing laws and procedures, suggests some
+improvements in the UDRP and national
+laws, then
+proposes the development of a regime that harnesses the
+efﬁciency of the UDRP with the enforcement muscle of
+national IP laws. The paper will then demonstrate how
+the updated regime could help to ﬁll the gaps that have
+allowed modern cybersquatters to ﬂourish.
+
+The evolving threat of cybersquatting
+Cybersquatting in unrestricted, unsponsored
+gTLDs
+The term ‘cybersquatting’, used rather loosely through
+the years,1 is deﬁned here as the ‘deliberate, bad faith
+
+*
+1
+
+Attorney, Los Angeles, USA (ctvaras@gmail.com)
+See, for example, World Intellectual Property Organization, ‘The
+Management of Internet Names and Addresses: Intellectual Property
+Issues’ (1999) at 170: http://www.wipo.int/export/sites/www/amc/en/
+docs/report-ﬁnal1.pdf (last visited 17 November 2007).
+
+2 WIPO 1999, note 1 at 170.
+3
+
+J Lipton, ‘Beyond Cybersquatting: Taking Domain Name Disputes Past
+Trademark Policy’ 40 Wake Forest Law Review 1361, 1365 (2005); see
+
+# The Author (2008). Published by Oxford University Press. All rights reserved
+
+Key issues
+† The early cybersquatters selected their victims
+individually, weighing up the likely value of a
+domain name that might, on account of its com-
+mercial utility or strategic signiﬁcance, be sold to
+a rightful owner at a premium. Various regimes
+were put in place to address this activity.
+
+† While the mechanisms for combating cybers-
+quatting remain in place,
+there has been a
+quantum leap in the volume of sites appro-
+priated for gain and a paradigm shift in the tech-
+niques for their mass acquisition.
+
+† This article reviews the modern phenomenon of
+cybersquatting, takes a critical view of existing
+legal devices for remedying it, and makes some
+practical suggestions for the alleviation of the
+current domain name registration crisis.
+
+abusive registration of a domain name in violation of
+rights in trade marks and service marks’.2 This implies
+the registrant’s use of the domain name to proﬁt at the
+expense of the exploited marks.
+
+For the purposes of this article, a brief review of the
+Internet Domain Name System (DNS) and the process
+of domain name registration are necessary. The DNS
+provides ‘an alpha-numeric mnemonic device that can
+be mapped on to an [internet protocol, or IP] address
+to enable users to “surf the Web” more easily than if
+they had to remember the details of each IP address
+they wanted to visit’.3 The domain names that comprise
+the DNS are hierarchical structures comprised of a
+
+also C Emerson ‘Wasting Time in Cyberspace: The UDRP’s Inefﬁcient
+Approach Toward Arbitrating Internet Domain Name Disputes’ 34
+Baltimore Law Review 161, 166 (2004); P Mockapetris and K Dunlap
+‘Development of the Domain Name System’ 18:4 Computer
+Communication Review 123 (1988): http://nms.lcs.mit.edu/6829-papers/
+dns.pdf (last visited 17 November 2007).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Christopher T. Varas . Sealing the cracks
+
+ARTICLE
+
+247
+
+‘Top Level Domain’ (TLD) such as .com, .org, or .uk
+and one or more second-level domains (SLD) ‘consist-
+ing of a mnemonic string of letters that pinpoints the
+location on the Internet’.4
+corresponding website’s
+When a user types the domain name into a web
+browser, the browser connects with a name server—an
+intermediary computer which matches the domain
+name with its corresponding IP address so that the
+browser can call up the appropriate website.5 Thus, a
+user looking for the website of Microsoft Corporation
+need only remember the domain name microsoft.com,
+rather than the IP address at which Microsoft’s website
+is located.
+
+TLDs are classiﬁed as either generic or country-
+speciﬁc. gTLDs are equally available to the entire global
+internet community and are operated by non-govern-
+mental or quasi-governmental entities like the Inter-
+national Corporation for Assigned Names
+and
+Numbers (ICANN).6 Country-speciﬁc TLDs (ccTLD)
+are governed by the nation-state to which they corre-
+spond.7 At present, there are 20 active gTLDs and
+approximately 240 ccTLDs.8 ICANN is constantly con-
+sidering proposals for new gTLDs, and has developed a
+speciﬁc strategy to guide the continuing introduction
+of new gTLDs into the DNS.9
+
+Generic TLDs can be further divided into ‘spon-
+sored’ and ‘unsponsored’ categories. ‘[A]n unsponsored
+gTLD operates under the general TLD policies estab-
+lished by the global
+internet community directly
+through the ICANN process and there are few restric-
+tions on how the name is used. A sponsored gTLD, in
+contrast, is a specialized gTLD that has an organization
+representing the narrower community that
+is most
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+V Holstein-Childress, ‘Lex Cyberus: The UDRP as a Gatekeeper to
+Judicial Resolution of Competing Rights to Domain Names’ 109 Penn
+State Law Review 565, 569 (2004).
+N Wood and M Murphy ‘Navigate the Domain Name Maze’ Managing
+Intellectual Property 163, 34 (October 2006).
+Chapman, Simon ‘New gTLD’s: Protection or Threat for IP Owners?’
+6(9) World Internet Law Report 4 (September 2005).
+A Harrison and J Carmody, ‘Registration Roundup on the Internet:
+Trademark Surﬁng in Domain Name Space’ Houston Lawyer 44, 22, 23
+(November/December 2006).
+A Chaudri ‘Internet Domain Names and the Interaction with Intellectual
+Property’ 23 Computer Law and Security Report 62, 62 –63 (2007); Telnic
+Ltd ‘Internet Regulator Unanimously Approves Innovative .Tel Domain’
+(15 May 2006): http://www.nic.tel/press/20060515-Telnic.pdf (last visited
+17 November 2007); ICANN website at http://www.icann.org/registries/
+listing.html (last visited 18 November 2007).
+See ICANN website at http://gnso.icann.org/issues/new-gtlds/ (last
+visited 29 November 2007).
+
+10 Chapman, note 6 at 4; see also World Intellectual Property Organization
+‘New Generic Top-Level Domains: Intellectual Property Considerations’
+(2005), 54: http://www.icann.org/wipo/newgtld-ip-05apr06.htm (last
+visited 17 November 2007).
+ICANN website at http://www.icann.org/registries/listing.html (last
+visited 29 November 2007).
+
+11
+
+affected by the gTLD’.10 Of the 20 existing gTLDs, 12
+are sponsored.11 Of
+the eight unsponsored gTLDs,
+four (.com, .info, .net, and .org) are completely unre-
+stricted, meaning anyone can register any SLD within
+them.12
+
+Cybersquatting occurs in all TLDs but is most preva-
+lent in the four unrestricted, unsponsored gTLDs,13
+which are the subject of this article. References below
+to gTLDs refer speciﬁcally to the four unrestricted,
+unsponsored gTLDs, although some of
+the points
+raised are applicable, mutatis mutandis, to other gTLDs
+and even many ccTLD’s.
+
+The mechanics and vulnerabilities
+of domain name registration
+The DNS, developed long before the notion of a com-
+mercial internet had found its way into the popular
+consciousness,14 was not designed to be secure from
+fraud or to protect IP rights.15 Any person wishing to
+register a domain name in an unsponsored gTLD may
+do so by contracting with a registrar accredited to
+assign domain names in the relevant TLD.16 More than
+800 registrars are eligible to assign domain names in
+the unsponsored gTLDs.17 Accredited registrars often
+subcontract with independent resellers who, while not
+themselves accredited, funnel large numbers of regis-
+trations through their sponsoring accredited registrar,18
+providing a would-be registrant with literally thousands
+of potential registrars from which to choose.
+
+Domain names that are not currently registered are
+available on a ﬁrst-come, ﬁrst-served basis to any regis-
+trant willing to pay a registration fee.19 Increasingly,
+registrars also offer bulk registration tools that allow a
+
+12
+
+ICANN website at http://www.icann.org/registries/listing.html (last
+visited 29 November 2007).
+
+13 WIPO 2005, note 10 at §6.3; World Internet Law Report ‘Domain Name
+
+Disputes: Bad Behaviour in the U.K.’ 7, 15 (June 2005).
+
+14 Mockapetris and Dunlap 1988, note 3.
+15 Emerson 2004, note 3 at 166.
+16
+
+See International Corporation for Assigned Names and Numbers
+Registrar Accreditation Agreement: http://www.icann.org/registrars/ra-
+agreement-17may01.htm (17 May 2001) (last visited 17 November
+2007).
+
+17 T Alexander, ‘Domain Name Registrars: Are They Part of the Domain
+Name Fraud Problem?’ Proceedings of the Third Annual Conference on
+Information Security Curriculum Development 114 (2006).
+See, for example, Wild West Domains website: http://www.
+wildwestdomains.com (last visited 17 November 2007).
+
+18
+
+19 A Chaudri, ‘Internet Domain Names and the Interaction with
+
+Intellectual Property Part II’ 23 Computer Law and Security Report 270
+(2007); Alexander 2006, note 17 at 113; D Nelmark, ‘Virtual Property:
+The Challenges of Regulating Intangible, Exclusionary Property Interests
+Such as Domain Names’ 3 Northwestern Journal of Technology and
+Intellectual Property 1, 23 (2004).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+248
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2008, Vol. 3, No. 4
+
+registrant to obtain hundreds of unregistered domain
+names with just a few clicks of a mouse.20 Currently
+registered domain names can sometimes be purchased
+in the domain name aftermarket. Several online ser-
+vices exist to facilitate the buying and selling of domain
+names.21
+
+Whether a person claims an unregistered domain
+name or purchases the registration from an existing
+registrant, the new registrant must provide the registrar
+with certain basic data which is entered into the public
+WHOIS database.22 The information required for
+gTLDs includes the registrant’s name, physical address,
+contact phone number, and an email address.23 The
+information in the WHOIS database can be searched
+with respect
+to a particular domain name or IP
+address, but it cannot be searched with respect to a
+particular registrant. Thus, one cannot search for all
+domain names registered to John Smith at 1234 Main
+Street, Dallas, Texas. This functionality—colloquially a
+‘Reverse WHOIS’ search—is currently available only
+from private web research services who maintain their
+own proprietary databases of WHOIS data.24
+
+While in theory, the WHOIS database could provide
+signiﬁcant information about domain name registrants,
+registrars rarely if ever verify a registrant’s WHOIS
+data, although they are supposed to.25 Registrants can
+also purchase a privacy protection service offered by
+most registrars.26 When a registrant purchases this
+service, the registrar replaces the registrant’s informa-
+tion in the WHOIS database with its own contact
+information.27 The registrar keeps the registrant’s in-
+formation on ﬁle, but generally will reveal
+it only
+under subpoena or if
+threatened with legal action
+arising from the content on the website to which the
+registrant’s domain name resolves.28 The combination
+of unveriﬁed information and widespread use of
+the WHOIS
+privacy protection limits the value of
+
+database, particularly when dealing with domain name
+registrants who do not wish to be identiﬁed.
+
+The evolution of cybersquatting
+Cybersquatting developed in response to the oppor-
+tunities presented by the insecurity of
+the domain
+name registration process. The original cybersquatters
+realized that, by registering strategic domain names,
+they could effectively monopolize a brand’s online pre-
+sence. These cybersquatters had a simple business
+model. They registered domain names, then offered to
+sell them to the mark owners at inﬂated prices.29 If the
+brand owner balked at the asking price, the cybersquat-
+ter threatened to sell the domain names to the mark
+owners’ competitors.30 Using this strategy, cybersquat-
+ting pioneers like Dennis Toeppen acquired hundreds
+of mark-based domain names and demanded exorbi-
+tant sums from companies like Panavision, Delta Air-
+lines, Neiman Marcus, Eddie Bauer, Lufthansa, British
+Airways, Crate and Barrel, Ramada, British Telecom-
+munications, Marks & Spencer, Virgin, J. Sainsbury,
+and Ladbroke.31
+
+In the late 1990s, national courts began to rule that
+cybersquatters were infringing the marks on which
+their domain names were based.32 Shortly thereafter,
+ICANN implemented the UDRP to make it possible for
+mark owners
+to reclaim squatted domain names
+without the expense and inconvenience of litigation.33
+Together,
+the UDRP and anti-cybersquatting court
+decisions removed much of the incentive for cyber-
+squatters, who became less active once they could no
+longer exploit their domain names through resale.34
+
+A new way to monetize domain names arose when
+companies like Google and Yahoo introduced large-
+scale pay-per-click advertising services. These services
+enable website owners to proﬁt from advertisements
+
+20
+
+21
+
+22
+
+See, for example, FX Domains website at https://www.securepaynet.net/
+gdshop/registrar/bulk/bulk.asp?isc=&se=+&pl_id=107236&prog_
+id=FXDomains&migrate=bulkregister (last visited 29 November 2007).
+See, for example, Sedo website: http://www.sedo.com (last visited 17
+November 2007).
+See, for example, Domain Tools website: http://www.domaintools.com
+(last visited 17 November 2007).
+
+23 Chaudri 2007, note 8 at 64.
+24
+
+25
+
+See, for example, Name.com website at https://www.name.com/brand/
+reverse-whois.html (last visited 29 November 2007).
+J Wagner, ‘ICANN Reports on WHOIS Inaccuracies’ xSP (31 March
+2004): http://www.internetnews.com/xSP/article.php/3334181 (last
+visited 17 November 2007).
+
+26 M Guntersdorfer, ‘Unmasking Private Domain Name Registrations’ Los
+
+Angeles Lawyer 19 (April 2006).
+
+27 Guntersdorfer 2006, note 26 at 19.
+28 Guntersdorfer 2006, note 26 at 20.
+
+29 P Schnitzler, ‘We Have Your Website’ Indianapolis Business Journal (7
+
+July 2007); O Guiterrez, ‘Get Off My URL! Congress Outlaws
+Cybersquatting in the Wild West of the Internet’ 17 Santa Clara
+Computer & High Technology Law Journal 139, 141 –143 (2000);
+Intermatic, Inc. v Toeppen, 947 F.Supp. 1227, 1233 (N.D. Ill. 1996).
+See, for example, British Telecommunications Plc. v One in a Million Ltd,
+[1999] 1 WLR 903, 922 –923.
+
+30
+
+31 Panavision International v Toeppen, 141 F.3d 1316, 1319 (9th Cir. 1998);
+
+32
+
+33
+
+34
+
+Intermatic, note 29 at 1230; One In A Million, note 30 at 903.
+See, for example, Panavision, note 31; Intermatic, note 29 at 1227; One
+In A Million, note 30.
+ICANN website at http://www.icann.org/dndr/udrp/policy.htm (last
+visited 29 November 2007).
+See, for example, statistics available on WIPO website at http://www.
+wipo.int/amc/en/domains/statistics/cases.jsp (last visited 29 November
+2007).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Christopher T. Varas . Sealing the cracks
+
+ARTICLE
+
+249
+
+displayed on a portion of any website. Participants reg-
+ister one or more web pages or domain names with the
+service and designate the portion of the relevant pages
+they would like populated with advertisements. The
+service ‘“will then scan the text of [the] website and
+populate or ﬁll the [designated portion] with advertise-
+ments it deems relevant to the content on that site.”
+Every time a computer user clicks on an ad (transport-
+ing the user to the advertiser’s site), the advertiser pays
+a fee to [the service], which shares the fee with the
+Web site on which the ad appeared’.35
+
+Cybersquatters quickly realized that domain names
+with signiﬁcant amounts of trafﬁc could generate sub-
+stantial advertising revenue with these programmes,
+and that a signiﬁcant number of internet users seek the
+ofﬁcial websites of companies or products by typing
+the relevant company or brand names directly into
+their web browser’s address window.36 Sensing an
+opportunity, cybersquatters began to register countless
+mark-based domain names that users were likely to
+stumble across while searching for a particular brand
+or company, and to ﬁll the corresponding websites
+with paid advertisements. The targeted domain names
+included misspellings, homophones, products
+for
+which the mark owner did not register a domain name,
+and combinations of marks with generic terms or other
+marks.37
+
+This new approach sparked a signiﬁcant change in
+
+the cybersquatting industry.38
+
+The amount of money available for cybersquatters
+with heavily trafficked domain names is substantial.
+
+The amount of money available for cybersquatters with
+heavily trafﬁcked domain names is substantial. While
+the amount of money generated by a single click on an
+advertisement is generally modest, a well-positioned
+
+35
+
+J Goldman and E German, ‘Pollution in the Blogosphere’ Los Angeles
+Lawyer 32, 24 (June 2007).
+
+36 HK Larusson and P Garland, ‘The Battle for Domain Names: Practical
+
+Considerations’ E-Commerce Law and Policy 6 (June 2006); Holstein-
+Childress 2004, note 4 at 567.
+
+37 E Pitcher, ‘Whose Domain Name is it Anyway? And What is a
+
+Homograph Attack?’ Trademark World (May 2007); Schnitzler 2007,
+note 29; P Sloan, ‘Did you know there are 150 ways to spell iPhone?’
+The Key: The Internet Land Grab, Music, and More (Blog) (27 June
+2007): http://blogs.business2.com/sloan/2007/06/did-you-know-th.html
+(last visited 17 November 2007); A Broache, ‘Microsoft Puts
+Cybersquatters on Notice’ ZDnet News (22 August 2006): http://news.
+zdnet.com/2100-9588_22-6108326.html (last visited 17 November 2007);
+Microsoft Corporation v Jason Cox, United States District Court for the
+District of Utah 2:06cv00692 TS Complaint (21 August 2006): http://
+blog.seattlepi.nwsource.com/microsoft/library/Microsoft_v_Cox_21_
+Aug_2006.pdf (last visited 17 November 2007); Microsoft Corporation v
+
+domain name can still generate up to US$1,000 per
+month for the squatter.39
+
+Further,
+
+cybersquatting
+
+advertising-based
+
+offers
+important advantages over resale-based cybersquatting.
+First, advertising-based cybersquatters can hide their
+domain name portfolios and their identities to avoid
+enforcement actions. The original cybersquatters had to
+reveal which domain names they controlled in order to
+coerce brand owners to buy those domain names back.
+They also had to reveal vital information about their
+identities in order to arrange payment, which made it
+easier for brand owners to leverage the power of the
+UDRP and national IP laws against them. Advertising-
+based cybersquatters, by contrast, earn money by
+keeping their advertising sites online. The better they
+hide themselves, the less likely they are to lose domain
+names to enforcement actions, and the more money
+they make. To this end, advertising cybersquatters regu-
+larly provide domain name registrars with false per-
+sonal
+if not
+impossible to identify them via the WHOIS database.40
+Cybersquatters also take advantage of privacy protec-
+tion services to insert the registrar between themselves
+and the brand owners whose marks they exploit.41
+
+information that makes
+
+it difﬁcult
+
+Secondly,
+
+advertising-based cybersquatting
+
+gives
+cybersquatters more control over the proﬁtability of
+their domain names. An advertising cybersquatter’s
+proﬁt is largely tied to the number of domain names
+he controls and the amount of trafﬁc to his domain
+names. Cybersquatters can use tools like spam and
+search engine manipulation techniques
+link-
+farming to increase trafﬁc to their sites and increase
+proﬁts.42
+
+like
+
+The bulk registration tools available from many
+registrars also make it easy for cybersquatters to amass
+large portfolios of domain names at a low cost. The art
+of bulk domain name registration has become increas-
+ingly sophisticated. For example, today’s squatters have
+
+John Does 1-217, United States District Court for the Western District of
+Washington C06-1192(RSM) Complaint (21 August 2006): http://blog.
+seattlepi.nwsource.com/microsoft/library/Microsoft_v_John_Does_1-
+217_21_Aug_2006.pdf (last visited 17 November 2007).
+
+38 Broache 2006, note 37.
+39 C Gringras, ‘Expensive Typos’ 157 New Law Journal 662 (11 May 2007).
+40 World Intellectual Property Organization, ‘Cybersquatting Remains on
+
+the Rise with further Risk to Trademarks from New Registration
+Practices’ (12 March 2007): http://www.wipo.int/pressroom/en/articles/
+2007/article_0014.html (last visited 17 November 2007); Wagner 2004,
+note 25.
+
+41 Guntersdorfer 2006, note 26 at 19; see also Microsoft v. John Does 1-217,
+
+note 37.
+
+42 Goldman and German 2007, note 35 at 36; see also, forum links
+
+regarding trafﬁc building techniques at http://www.dnforum.com/
+forumdisplay.php?f=73 (last visited 29 November 2007).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+250
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2008, Vol. 3, No. 4
+
+learned to minimize the risk of registering unproﬁtable
+domain names by returning domain names that do not
+generate trafﬁc. The strategy, known as ‘tasting’ or
+‘kiting’, exploits the fact
+that every domain name
+registered in a gTLD can be un-registered with a full
+refund within 5 days of the initial registration.43 Cyber-
+squatters use this policy to sample the trafﬁc on large
+numbers of domain names, keeping only those with
+proﬁtable levels of trafﬁc.44
+
+The growing popularity of speculative domain name
+registration prompted the World Intellectual Property
+Organization (WIPO) to predict that the DNS could
+soon become ‘a mostly speculative market’.45 Trade
+mark-based domain names comprise a signiﬁcant
+portion of
+this speculation: a recent WIPO report
+notes that the number of cybersquatting disputes ﬁled
+with its UDRP service increased by 25% from 2005 to
+2006 alone.46 For example, a recent search of
+the
+domain name aftermarket portal offered by the
+company Sedo revealed more than 3,000 active .com
+domain names containing the mark IPHONE.47 The
+list included domain names like attiphone.com and
+ipodiphone.com, both of which were ﬁlled with paid
+advertising at
+the time of writing. One company
+reported that a further 150 domain names exploit
+different
+such as
+iphoen.com and i0hone.com.48 Searches on the Sedo
+website for active domain names containing other
+marks,
+including ZUNE, SONY, GOOGLE, HSBC,
+IPOD, BLACKBERRY, and BBC yield similar results.
+Indeed, one recent survey concluded that the world’s
+500 biggest companies have all fallen victim to these
+new squatters.49
+
+the IPHONE mark,
+
+spellings of
+
+To complicate matters,
+
+the universe of domain
+names will increase substantially following the forth-
+coming adoption of Internationalized Domain Names
+(IDNs). Since the introduction of the DNS, domain
+names have (with some limited exceptions in countries
+like China and Russia50) been restricted to the Ameri-
+can Standard Code
+Information Interchange
+
+for
+
+43 Alexander 2006, note 17 at 116; Wood and Murphy 2006, note 5 at 34.
+44 Alexander 2006, note 17 at 116.
+45 WIPO 2007, note 40.
+46 WIPO 2007, note 40.
+47
+48
+49 Out-Law News ‘All of World’s Biggest Firms Hit by Typosquatting’ (29
+
+See Sedo website, note 21.
+Sloan 2007, note 37.
+
+August 2007): http://www.out-law.com/page-8423 (last visited 17
+November 2007).
+
+50 Chaudri 2007, note 8 at 62; X Hong, ‘Territorialism versus Universalism:
+International Intellectual Property Law in the Internationalized Domain
+Name System’ 9 The Journal of World Intellectual Property 1, 3 –4 (2006);
+Oleksandr Pastukhov, ‘Internationalised Domain Names: The Window
+
+(ASCII) characters of ‘the Roman alphabet in upper
+and lower cases, the numbers 0 to 9, the full stop and
+the hyphen’.51 Recently, pressure has mounted for a
+global technological solution to introduce global IDNs
+using non-ASCII characters, such as those used in the
+Arabic and Cyrillic alphabets, as well as the ideograms
+and symbols that comprise many other languages.52
+ICANN is currently moving ahead with testing to
+insert IDN characters into the Internet’s TLD root
+structure, an experiment that could open the DNS to
+all manner of new characters and symbols.53
+
+The addition of hundreds of new symbols to the
+DNS will signiﬁcantly increase the potential for cyber-
+squatters. Not only can every cybersquatting trick that
+works with ASCII be adapted to work with non-
+Roman alphabets, but the similarities between symbols
+in different alphabets will increase the prevalence and
+effectiveness of homographic attacks, such as when a
+cybersquatter registers the domain name microsoft.com
+using the Cyrillic symbol
+‘r’
+in place of the ASCII
+symbol that shares its shape.54
+
+Recent events also suggest that even domain name
+registrars—the gatekeepers of the DNS—are now
+involved in cybersquatting.
+
+Recent events also suggest that even domain name
+registrars—the gatekeepers of
+the DNS—are now
+involved in cybersquatting. In 2006, a United States
+Federal District Court
+lawsuit alleged that domain
+name registrar Dotster was operating a massive cybers-
+quatting operation in which it registered and proﬁted
+from domain names that infringed the rights of com-
+panies
+Ikea,
+Google, Neiman Marcus, Playboy, and Verizon.55
+Dotster allegedly used a front company to taste domain
+names including several misspellings of various trade
+marks, keeping those with signiﬁcant trafﬁc which it
+
+including Cingular Wireless, Disney,
+
+of Opportunity for Cybersquatters’ Intellectual Property Quarterly 4, 421,
+423 –425 (2006).
+
+51 Pitcher 2007, note 37; Chaudri 2007, note 8 at 62; Hong 2006, note 50
+
+at 2.
+
+52 Hong 2006, note 50 at 1 – 3.
+53
+
+ICANN website at http://www.icann.org/topics/idn/ (last visited 29
+November 2007); W Koehler, ‘ICANN Moving to Adopt
+Internationalized Domain Names’ NewsBreaks (9 July 2007): http://
+newsbreaks.infotoday.com/nbReader.asp?ArticleId=36882 (last visited 17
+November 2007).
+
+54 Pitcher 2007, note 37; Pastukhov 2006, note 50 at 427.
+55 D McCullagh, ‘Registrar Named in Massive Cybersquatting Suit’ ZDNet
+
+News (5 June 2006): http://news.zdnet.co.uk/internet/0,1000000097,
+39273075,00.htm?r=1 (last visited 17 November 2007).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Christopher T. Varas . Sealing the cracks
+
+ARTICLE
+
+251
+
+the domain names
+
+then ﬁlled with pay-per-click advertisements and
+offered to sell
+to the highest
+bidder.56 The parties ultimately settled, though Neiman
+Marcus has since ﬁled another suit with similar alle-
+gations against two more registrars, Name.com LLC
+and Spot Domains LLC.57
+
+the
+
+registrar
+
+Whether
+
+terms of
+
+involvement
+
+in cybersquatting
+becomes widespread will partially depend on how
+ICANN handles such cases. Cybersquatting activities
+probably violate
+ICANN Registrar
+Accreditation Agreement, including those regarding the
+submission of accurate registrant information and the
+duty not to engage in fraudulent activities.58 Such vio-
+lations would entitle ICANN to terminate a registrar’s
+accreditation.59 If ICANN responds to cybersquatting
+by terminating registrar accreditations, registrars may
+be sufﬁciently deterred. ICANN’s failure to take strong
+action could pave the way for a signiﬁcant amount of
+registrar cybersquatting.
+
+The threat to brand owners
+Cybersquatting is undesirable from a brand protection
+standpoint. ‘A company’s reputation can suffer if a dis-
+reputable third party owns a part of its online identity.
+And that can lead to lost sales.’60 However, modern
+cybersquatting creates two more speciﬁc problems that
+brand owners should be concerned about.
+
+First, modern cybersquatters actively divert custom
+away from the owners whose brands they target. As the
+advertising model of cybersquatting has evolved, so has
+the art of populating these domain names with advert-
+isements likely to induce clicks. Dozens of companies
+now provide ‘parking’ services to ﬁll pages with ‘contex-
+tual advertisements’ that relate to the company, industry,
+or product referenced in the domain name.61 Thus, a
+domain name exploiting the mark of a particular
+company will often resolve to a page featuring advertise-
+ments for that company’s competitors. For example, as
+of this writing, the domain name royal-bank-of-sco-
+tland.com resolves to a parked page featuring advertise-
+ments for Royal Bank of Scotland competitors like Bank
+
+of Scotland/Halifax and Nationwide.62 A user who stum-
+bles across this page looking for the Royal Bank of Scot-
+land website could easily be induced to click through to
+the Halifax or Nationwide website, either because he is
+confused and believes that the Royal Bank of Scotland
+promotes or endorses those banks, or because he cannot
+be bothered to make further efforts to ﬁnd the Royal
+Bank of Scotland’s website. In either case, the Royal Bank
+of Scotland loses potential business.
+
+Secondly, cybersquatters make it harder for new
+marks or brand names to develop distinctive online
+presences. Since existing brands are now rather picked
+over, the introduction of a new brand or mark has
+become the cybersquatting equivalent of discovering a
+new vein of gold in a mine. Cybersquatters pay close
+attention to rumours about forthcoming brands or
+products, often seeking to ‘jump’ a new mark by regis-
+tering hundreds or thousands of related domain names
+before the mark has been announced.63 Squatters who
+ﬂood the DNS with domain names targeting a new
+brand will increase confusion among consumers who
+are not yet familiar with the brand, making it more dif-
+ﬁcult for that brand to gain a high proﬁle presence in
+the online marketplace. New brands are also more sus-
+ceptible to the diversionary effects of contextual adver-
+tising because consumers may be more familiar with
+existing, competing brands whose advertisements may
+appear on the parked page.
+
+Finally, registrar involvement in cybersquatting, if it
+should occur, is particularly troubling for IP owners
+because of registrars’ unparalleled access to the DNS.
+These companies have the technology and expertise to
+scrape the internet for available domain names and reg-
+ister those domain names automatically and in bulk,
+while their gatekeeper function enables them to claim
+expired domain names which they can then hold or sell
+at auction rather than placing them back in the pool of
+domain names available for anyone to register.64 This
+can drive up the cost
+to IP owners of reclaiming
+domain names that infringe their marks.65 Registrars
+can also place pay-per-click advertisements on websites
+at domain names that have been registered by third
+
+56 The Neiman Marcus Group, Inc. v Dotster, Inc., United States District
+
+Court for the Western District of Washington C06-5292(RBL)
+Complaint (30 May 2006), 60 –85: http://blog.lextext.com/_attachments/
+2004116/Complaint-Dotster.pdf (last visited 17 November 2007).
+
+57 A Jesdanun, ‘Neiman Marcus Sues Over Domain Names’ MSNBC (23
+March 2007): http://www.msnbc.msn.com/id/17762760/ (last visited 17
+November 2007).
+ICANN Registrar Accreditation Agreement, note 16 at §§3, 5.
+ICANN Registrar Accreditation Agreement, note 16 at 5.3.
+Schnitzler 2007, note 29.
+See, eg, Sedo website at http://www.sedo.com/services/tour_features.php?
+tracked=&partnerid=&language=us (last visited 29 November 2007);
+
+58
+59
+60
+61
+
+62
+
+63
+
+GoDaddy website, http://www.godaddy.com at https://www.godaddy.
+com/gdshop/park/landing.asp?app%5Fhdr=&ci=6551 (last visited 29
+November 2007).
+See http://www.royal-bank-of-scotland.com (last visited 17 November
+2007).
+See, eg, Domain Name Forum website, http://www.dnforum.com at
+http://www.dnforum.com/showthread.php?t=166069&highlight=zune
+(last visited 29 November 2007) (regarding cybersquatters who
+registered domain names related to the mark ZUNE prior to Microsoft’s
+announcement of the mark for its personal media players).
+
+64 Alexander 2006, note 17 at 115– 116.
+65 Alexander 2006, note 17 at 115.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+252
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2008, Vol. 3, No. 4
+
+parties but are not currently in use, thereby proﬁting
+from domain names that they have not registered.66
+
+Flaws in the current anti-cybersquatting
+regime
+Anti-cybersquatting tools have failed to keep squatters
+in check since, being developed to deal with the orig-
+inal cybersquatters, they are ill-equipped to deal with
+modern cybersquatting.
+
+The two-track concept of the current
+anti-cybersquatting regime
+The current anti-cybersquatting regime is a two-track
+system. Brand owners can use the UDRP to reclaim
+infringing domain names from cybersquatters efﬁciently
+and inexpensively, but not to pursue any other reme-
+dies.67 Stronger remedies, including awards of damages
+and injunctive relief, are available through litigation in
+national courts that apply more stringent standards
+than the UDRP.68 These two tracks operate independ-
+ently, leaving brand owners to decide on a case-by-case
+basis which is the more appropriate.
+
+This bifurcation is deliberate. When cybersquatting
+ﬁrst arose in the 1990s, there was debate about how
+best to apply traditional principles of IP law to the
+DNS.69 While there was little dispute that domain
+names fell within the purview of IP laws, there was dis-
+agreement about how those laws should apply within
+the DNS.70
+
+The DNS is not naturally suited to trade mark law,
+which is rooted ﬁrmly in the concept of limited exclu-
+sivity. ‘Traditionally, a trade mark, even if well known,
+does not give its owner exclusive rights over every poss-
+ible commercial use and in every country. The sectoral
+and territorial principle backs up the idea that trade
+mark protection best achieves its purpose by limiting
+the reservation of rights in a name to the type of goods
+and location where those goods are sold.’71 This system
+
+66 Alexander 2006, note 17 at 116.
+67
+
+ICANN website at http://www.icann.org/dndr/udrp/policy.htm (last
+visited 29 November 2007).
+See, eg, Trade Marks Act 1994; 15 United States Code §§1117(d),
+1125(d).
+
+68
+
+69 WIPO 1999, note 1 at 130 –133.
+70
+
+JR Hildenbrand, ‘A Normative Critique of Private Domain Name
+Dispute Resolution’ 22 John Marshall Journal of Computer and
+Information Law 625, 631 –632 (2004); WIPO 1999, note 1 at 130 –133;
+United States Department of Commerce ‘Improvement of Technical
+Management of Internet Names and Addresses’ (1998): http://www.ftc.
+gov/os/1998/03/ntia.ﬁn.htm (last visited 17 November 2007);
+International Trademark Association ‘The Intersection of Trademarks
+and Domain Names – INTA “White Paper”‘(1997): http://www.ntia.doc.
+gov/ntiahome/domainname/email/INTA-whitepaper.htm (last visited 17
+November 2007).
+
+is non-exclusive.
+works because
+Anyone can physically set up a storefront using any
+mark anywhere in the world.
+
+the marketplace
+
+Limited exclusivity does not work with domain
+names because gTLDs are exclusive and unlimited by
+political boundaries or the category of goods offered.72
+Whoever owns mcdonalds.com owns
+the exclusive
+rights to that domain name across the entire globe,
+regardless of
+the legitimate claims of other mark
+owners operating in different jurisdictions and offering
+different goods and services to those of the domain
+name registrant.73 In the mid-to-late 1990s courts
+wrestling with this situation, and with other questions
+such as whether domain name registrars should be
+liable for their registrants’ infringing domain names,74
+produced a series of decisions that were largely sym-
+pathetic to brand owners, but not particularly clear
+with respect to the legal standards that applied in
+cybersquatting cases from jurisdiction to jurisdiction.75
+While the difﬁculties in applying trade mark law to
+the DNS were universally recognized, there was also
+broad agreement that brand owners needed an efﬁcient
+and reliable tool to stop cybersquatters whose bad faith
+registrations were far removed from the legitimate dis-
+agreements of competing mark owners.76 In 1999,
+WIPO proposed the development of a global domain
+name dispute resolution process to help brand owners
+from cybersquatters,77
+reclaim domain
+suggesting that the process be limited to cases of bad
+faith registration so as to avoid cases involving compet-
+ing claims by legitimate rights holders.78 In the interest
+of ensuring that the administrative process would not
+swallow relevant national IP laws in the DNS, WIPO
+also proposed that remedies be limited to the cancella-
+tion or transfer of domain name registrations, and that
+recourse to national courts applying national laws be
+explicitly permitted.79 The substance of WIPO’s propo-
+sal became reality when the ICANN formally enacted
+the UDRP on 24 October 1999.80
+
+names
+
+71 Hong 2006, note 50 at 13 –14.
+72 Harrison and Carmody 2006, note 7 at 25; Nelmark 2004, note 19 at
+
+40 – 41.
+
+73 Harrison and Carmody 2006, note 7 at 25; Nelmark 2004, note 19 at
+
+26 – 27.
+
+74 WIPO 1999, note 1 at 131.
+75
+76 WIPO 1999, note 1 at 315; see also U.S. Department of Commerce 1998,
+
+International Trademark Association 1997, note 70 at §IV.
+
+note 70; International Trademark Association 1997, note 70.
+
+77 WIPO 1999, note 1.
+78 WIPO 1999, note 1 at 161.
+79 WIPO 1999, note 1 at 138 –140, 183.
+80
+
+ICANN website at http://www.icann.org/udrp/udrp-schedule.htm (last
+visited 29 November 2007).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Christopher T. Varas . Sealing the cracks
+
+ARTICLE
+
+253
+
+The two-track anti-cybersquatting regime
+in action
+Today the anti-cybersquatting regime still follows the
+two-track approach. All registrars accredited to register
+domain names in gTLDs must, as a part of
+their
+accreditation, incorporate the UDRP into their regis-
+tration agreements. Thus, every gTLD domain name
+registrant is contractually bound to its terms and can
+be forced to relinquish a domain name registration if a
+UDRP panel determines the domain name was regis-
+tered in bad faith.81 Many jurisdictions have also
+updated their statutory or common law IP laws to pro-
+hibit cybersquatting. Brand owners who wish to recover
+damages or obtain injunctive relief against a cybersquat-
+ter can petition national courts for such relief in accord-
+ance with the terms of the applicable laws.
+
+A brand owner who chooses to go the UDRP route
+initiates the proceeding by ﬁling a complaint with an
+ICANN-approved dispute resolution service provider.82
+There are currently three such providers: WIPO, the
+National Arbitration Forum, and the Asian Domain
+Name Dispute Resolution Centre.83 A complaint must
+identify the domain name(s) at issue, as well as any
+information available to the complainant about the
+registrant’s identity, and specify whether it wants the
+case heard by a single-member panel or a three-
+member panel.84 The complainant must also pay a
+ﬁling fee.85
+
+Each of the three service providers sets its own fee
+schedule. WIPO charges set rates for disputes involving
+up to 10 domain names, with a minimum cost of
+US$1,500 (for one to ﬁve domain names and a single-
+member panel) and a maximum cost of US$4,000 (for
+six to 10 domain names and a three-member panel).86
+The fee for disputes involving more than 10 domain
+names must be negotiated on a case-by-case basis.87
+The National Arbitration Forum charges set rates for
+disputes involving up to 15 domain names, with a
+minimum cost of US$1,300 (for one or two domain
+
+names and a single-member panel) and a maximum of
+US$5,000 (for 11 to 15 domain names and a three-
+member panel).88 The fee for disputes involving more
+than 15 domain names must be negotiated on a case-
+by-case basis.89 The Asian Domain Name Dispute Res-
+olution Centre does not require larger cases to be nego-
+tiated individually. Each of its three ofﬁces charges a
+minimum of US$1,000 (for one or two domain names
+and a single member panel) and a maximum of
+US$7,000 (for 10 or more domain names and a three-
+member panel).90
+
+In some cases,
+
+Once a complaint is ﬁled, the domain name regis-
+trant has 20 days to respond,91 failing which the panel
+considers the case solely on the complainant’s sub-
+mission.92
+the panel may request
+additional ﬁlings.93 Once the panel has received all
+necessary submissions, it reviews the papers and issues
+its order. The panel has three options: it can conﬁrm
+the registrant’s right to the domain name; it can order
+the registration cancelled; or it can order the domain
+name transferred to the complainant.94
+
+To prevail in a UDRP proceeding, the
+complainant bears the burden of demonstrating
+that the domain name is identical or confusingly
+similar to its mark, that the registrant has no
+legitimate interest in the domain name and the
+domain name has been registered and is being
+used in bad faith.
+
+To prevail
+in a UDRP proceeding, the complainant
+bears the burden of demonstrating that the domain
+name is identical or confusingly similar to its mark,
+that the registrant has no legitimate interest in the
+domain name and the domain name has been regis-
+tered and is being used in bad faith.95 The UDRP
+
+81
+
+ICANN website at http://www.icann.org/dndr/udrp/policy.htm (last
+visited 29 November 2007).
+
+88 National Arbitration Forum website at http://domains.adrforum.com/
+
+resource.aspx?id=650 (last visited 29 November 2007).
+
+82 Uniform Domain Name Dispute Resolution Policy, 4 (26 August 1999):
+
+89 National Arbitration Forum website at http://domains.adrforum.com/
+
+http://www.icann.org/dndr/udrp/policy.htm (last visited 17 November
+2007).
+ICANN website at http://www.icann.org/dndr/udrp/approved-providers.
+htm (last visited 29 November 2007).
+
+83
+
+84 Rules for Uniform Domain Name Dispute Resolution Policy, 3 (24
+
+October 1999): http://www.icann.org/dndr/udrp/uniform-rules.htm (last
+visited 17 November, 2007).
+
+85 Rules for UDRP, note 84 at 19.
+86 WIPO website at http://www.wipo.int/amc/en/domains/fees/index.html
+
+(last visited 29 November 2007).
+
+87 WIPO website at http://www.wipo.int/amc/en/domains/fees/index.html
+
+(last visited 29 November 2007).
+
+resource.aspx?id=650 (last visited 29 November 2007).
+
+90 Asian Domain Name Dispute Resolution Centre website at http://www.
+
+adndrc.org/adndrc/kre_schedule_fees.html; http://www.adndrc.org/
+adndrc/bj_schedule_fees.html; http://www.adndrc.org/adndrc/hk_
+schedule_fees.html (last visited 29 November 2007).
+
+91 Rules for UDRP, note 84 at 5.
+92 Rules for UDRP, note 84 at 14.
+93 Rules for UDRP, note 84 at 12.
+94 UDRP, note 82 at 4(i).
+95 UDRP, note 82 at 4(a).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+254
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2008, Vol. 3, No. 4
+
+‘neither requires panelists to apply the law of any par-
+ticular nation, nor sets forth any choice of law guide-
+lines for panelists’.96 Instead,
+its implementing rules
+instruct panelists to determine whether the complai-
+nant has carried its burden by applying the UDRP’s
+language and rules, as well as ‘any rules and principles
+of law that [the panel] deems applicable’.97
+
+The UDRP offers guidance as to bad faith and afﬁr-
+mative defences. The policy notes that bad faith exists if
+the registrant (i) acquired the domain name primarily
+to sell or rent the domain name at a proﬁt to the mark
+owner or the mark owner’s competitor; (ii) acquired
+the domain name as part of a pattern of conduct in
+which the registrant acquires domain names in order to
+prevent mark owners from reﬂecting marks in their
+domain names; (iii) acquired the domain name primar-
+ily to disrupt the business of a competitor; or (iv)
+sought to attract internet users to the domain name for
+commercial gain by creating a likelihood of confusion
+between the domain name and mark owner.98 These
+scenarios are examples, and are not exhaustive.99
+
+As to afﬁrmative defenses, the policy also provides
+non-exhaustive examples of ways in which the regis-
+trant can demonstrate legitimate rights in the domain
+name. These are that the registrant (i) used or prepared
+to use the domain name in connection with a bona
+ﬁde offering of goods or services before becoming
+aware of the UDRP complaint; (ii) was commonly
+known by the domain name even if he has no trade
+mark rights in the domain name or (iii) is otherwise
+making legitimate noncommercial or fair use of the
+domain name without intending to proﬁt from mis-
+leading consumers or tarnishing the mark at issue.100
+
+Finally, the UDRP allows any party to remove the
+dispute to a court of competent jurisdiction at any point
+between ﬁling the complaint and ten business days after
+the panel renders its decision.101 If neither party removes
+the case to a national court by then, the registrar will
+carry out the instructions contained in the order.102
+
+If one party removes the action to a national court,
+the UDRP ceases to operate and the relevant national
+jurisdictions have adopted
+law controls. Different
+different approaches
+to cybersquatting court cases.
+
+96 Holstein-Childress 2004, note 4 at 580 –581.
+97 Rules for UDRP, note 84 at 15(a).
+98 UDRP, note 82 at 4(b).
+99 UDRP, note 82 at 4(b).
+100 UDRP, note 82 at 4(c).
+101 UDRP, note 82 at 4(k).
+102 UDRP, note 82 at 4(k).
+103 Michael Cover, ‘How Does the UDRP Measure Up Against What it
+
+Needs to Deliver?’ Trademark World (July 2006).
+
+Trade mark laws are consistently called into service
+despite the early concerns about trade mark principles
+and the DNS. This paper focuses on the USA and the
+UK which, according to a survey, are the ﬁrst and
+second most active cybersquatting jurisdictions.103 In
+England and Wales, the Court of Appeal conﬁrmed in
+British Telecommunications Plc v One in a Million Ltd
+[1999] WLR 903 that cybersquatters can be held civilly
+liable for common law passing off and for trade mark
+infringement under Section 10(3) of the Trade Marks
+Act 1994.104 Courts in the UK continue to cite One in
+a Million as the controlling cybersquatting decision.105
+Under One in a Million, a brand owner’s civil claim
+for passing off and trade mark infringement against a
+cybersquatter will prevail if the brand owner can estab-
+lish the elements of each of those claims. For passing
+off,
+the claimant must demonstrate that (i) it has
+amassed good will in its mark; (ii) the defendant’s use
+of the mark-based domain names is likely to confuse
+‘ordinary, sensible members of the public’ into believ-
+ing that the claimant is responsible for the domain
+names and the content on the websites to which they
+resolve; and (iii) the defendant’s activities are likely to
+cause, or have caused, actual damage to the claimant
+through loss of custom or erosion of reputation.106 A
+brand owner’s claim for
+trade mark infringement
+against a cybersquatter will prevail either if, through
+the identity or similarity of the mark and the domain
+name and of any respective services provided under
+them, a likelihood of confusion arises107 or if the brand
+owner demonstrates that (i) its mark has a reputation
+in the UK; (ii) the defendant’s domain name is identi-
+cal or similar to the claimant’s mark; and (iii) the
+defendant’s use of the domain name without due cause
+takes unfair advantage of or is detrimental
+to the
+distinctive character or repute of the mark.108
+
+The USA has gone further, enacting the
+Anti-Cybersquatting and Consumer Protection Act
+(ACPA) to bring cybersquatters within the scope of
+the Lanham Act—the American trade mark statute.
+
+104 One in a Million, note 30 at 924 –926.
+105 See Global Projects Management Ltd v Citigroup Inc., [2006] FSR 39, 12.
+106 County Sound PLC v Ocean Sound Limited [1991] FSR 367, 372– 373; W
+
+Cornish and D Llewelyn, Intellectual Property: Patents, Copyright, Trade
+Marks and Allied Rights (5th edn, 2003) 613 –615.
+
+107 Trade Marks Act 1994 at §10(2).
+108 Trade Marks Act 1994 at §10(3).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Christopher T. Varas . Sealing the cracks
+
+ARTICLE
+
+255
+
+The USA has gone further, enacting the Anti-Cyber-
+squatting and Consumer Protection Act (ACPA) to
+bring cybersquatters within the scope of the Lanham
+Act—the American trade mark statute.109 The ACPA
+imposes liability for infringement on a domain name
+registrant if the claimant demonstrates that the regis-
+trant (i) has a bad faith intent to proﬁt from the clai-
+mant’s mark and (ii) registers, trafﬁcks in or uses a
+domain name that is identical or confusingly similar to
+that mark.110 ACPA actions are limited to marks that
+were distinctive or famous at the time the domain
+name was registered.111 If the claimant’s mark was
+famous at the time the domain name was registered, he
+can also prevail
+the
+mark.112
+
+the domain name dilutes
+
+if
+
+issue
+
+notwithstanding,
+
+While the UDRP’s standards bear some conceptual
+similarity to those of the relevant national laws in both
+the UK and the USA, it applies a less precise standard
+than relevant national laws when it comes to determin-
+ing whether a domain name registrant infringes a mark
+holder’s rights. The invitation for panelists to apply
+whatever principles of law they deem relevant grants
+nearly unlimited discretion, which contrasts sharply
+with the discrete factors that govern decisions under
+relevant national laws.
+fundamental
+rules
+
+the
+That
+UDRP’s
+represent a standard that has been
+described as ‘the lowest common denominator of trade
+mark law, which, as construed expansively by panelists,
+signiﬁcantly enlarges trade mark owners’ rights to their
+marks’.113 The UDRP’s ‘all or nothing propositions’
+with respect to bad faith and afﬁrmative defences lose
+sight of the need ‘to effectively balance the right of
+registrants and complainants in novel or close cases’
+and signiﬁcantly narrow the defence of fair use for
+registrants whose critical or expressive use of a domain
+name may tarnish the mark upon which the domain
+name is based.114 On this issue, UDRP panels have
+been criticized for narrowing the fair use defence
+beyond what
+in
+numerous cases where complainants
+succeeded in
+reclaiming overtly critical domain names such as ken-
+dallhuntsucks.com and wal-martsucks.com, even when
+
+trade mark laws permit
+
+relevant
+
+109 15 USC §1125(d).
+110 15 USC §1125(d)(1)(a).
+111 15 USC §1125(d)(1)(a)(ii).
+112 15 USC §(d)(1)(a)(ii)(II).
+113 Holstein-Childress 2004, note 4 at 581 –582.
+114 Hildenbrand 2004, note 70 at 641; Holstein-Childress 2004, note 4 at
+
+581 –583.
+
+115 Holstein-Childress 2004, note 4 at 588 –589.
+116 Emerson 2004, note 3 at 175 –177, but see M O’Farrell and M Kaplan,
+
+‘Argentine Court Uses UDRP Guidelines in Domain Name Dispute’
+
+the domain name registrants were not using the
+domain names to generate proﬁt.115
+
+As WIPO anticipated when it proposed the two-
+track approach, the disharmony between the UDRP
+standard and national IP laws has prompted most
+courts to disregard panel decisions when trying cyber-
+squatting actions.116 In the UK, no court has yet cited
+a panel decision in any reported cybersquatting case. In
+the USA, courts have consistently refused to afford any
+deference to ‘the outcome of the ICANN administrative
+proceedings’ when considering infringement claims
+based on cybersquatting activities.117 It
+is now an
+established tenet of US federal law that courts ‘give the
+decision of the WIPO panelist no deference’ in decid-
+ing a subsequent lawsuit regarding infringing use of a
+domain name.118 This refusal to take note of UDRP
+decisions is premised in substantial part on the fact
+that ‘a UDRP decision is susceptible of being grounded
+on principles foreign or hostile to American law’.119
+
+Why the current regime cannot cope
+with modern cybersquatting
+The two-track approach worked well against the orig-
+inal
+cybersquatters, who monetized their domain
+names by selling them to the highest bidder. Once the
+UDRP empowered brand owners to reclaim infringing
+domain names without paying cybersquatters for them,
+squatters’ domain names lost their value and cyber-
+squatting lost much of its incentive. The disconnect
+between the UDRP and national statutes was not prob-
+lematic in those years because the efﬁciency and
+deterrence
+the UDRP ensured the
+additional muscle of trade mark statutes was rarely
+necessary. Brand owners could handle most cybersquat-
+ting cases administratively, turning to litigation only
+occasionally when a particularly egregious case arose.
+
+afforded by
+
+Today, the two-track approach no longer works. The
+UDRP is no deterrent because it is procedurally out-
+dated and does not reduce the value of domain names
+that generate proﬁt from advertising rather than resale.
+While national
+IP laws remain available to brand
+
+Trademark World (February 2006) (criticizing Argentine court’s decision
+to apply UDRP standards in a recent cybersquatting case).
+
+117 Weber-Stephen Products Co. v Armitage Hardware and Building Supply,
+
+Inc., 2000 WL 562470, *2 (ND Ill. 3 May 2000).
+
+118 Barcelona.com, Incorporated v Excelentisimo Ayuntamiento De Barcelona,
+330 F.3d 617, 626 (4th Cir. 2003); Maruti.Com v Maruti Udyog Ltd, 447
+F.Supp.2d 494, 496 n. 10 (D.Md. 2006).
+
+119 Barcelona.com, note 118 at 626.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+256
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2008, Vol. 3, No. 4
+
+owners,
+provide a large-scale solution.
+
+litigation is too expensive and inefﬁcient to
+
+The UDRP is no deterrent
+The UDRP is no longer an effective deterrent against
+cybersquatters for three reasons. First,
+its reach is
+limited to those domain names a brand owner has
+identiﬁed using public records. That was feasible when
+cybersquatters held relatively small numbers of high-
+proﬁle domain names and publicized their portfolios
+to generate sales, but is impotent against cybersquatters
+who control thousands of domain names spread across
+different registrars, hidden behind false WHOIS data
+and privacy protection. Since even a moderately soph-
+isticated cybersquatter can make it virtually impossible
+for a brand owner to discover more than a fraction of
+his portfolio using publicly available resources, cyber-
+squatters are reasonably conﬁdent that a UDRP action
+will never reach more than a fraction of their holdings.
+The threat of losing a small handful of domain names
+is no deterrent to modern cybersquatters, for whom
+such minor
+losses are merely the cost of doing
+business.
+
+Second, the UDRP lacks any punitive mechanism
+to dissuade cybersquatters from continuing to operate.
+Penalties were not needed to deter
+the original
+cybersquatters because the UDRP alone prevented
+them from monetizing their domain names. That is
+not the case with modern cybersquatters, who mone-
+tize their domain names by keeping them online. No
+matter how many domain names a cybersquatter loses
+in a UDRP action, he can still replace them with others
+that can also be ﬁlled with paid advertising. The UDRP
+can make cybersquatting less proﬁtable, but cannot
+make it unproﬁtable. So long as the potential for proﬁt
+remains, cybersquatters will have an incentive to keep
+operating.
+
+Finally, what little deterrent potential the UDRP may
+have is further undermined by the fact that the two
+service providers, WIPO and the
+most popular
+National Arbitration Forum,120
+require brand
+owners to negotiate the price of every dispute involving
+more than 10 or 15 domain names, respectively. This
+adds unnecessary delay and expense to any action that
+could take even a moderate bite out of a cybersquatter’s
+portfolio, potentially dissuading brand owners from
+pursuing UDRP enforcement actions.
+
+still
+
+Traditional litigation is no solution
+Traditional litigation using national IP laws offers the
+discovery tools and punitive teeth lacking from the
+UDRP, but litigation has never been a macro-level sol-
+ution to cybersquatting. The UDRP was introduced
+precisely because traditional litigation was not efﬁcient
+or reliable enough to keep up with the fast growth of
+the cybersquatting industry of the 1990s.121 Although
+the two-track anti-cybersquatting regime was developed
+with the expectation that traditional
+litigation would
+remain important, implicit in that expectation was the
+belief that cases requiring litigation would be the excep-
+tion rather than the rule. The evolution of modern
+cybersquatting has turned that expectation on its head:
+cases in which the UDRP provides an effective remedy
+against a cybersquatter are now the rare exception. This
+leaves brand owners in the position they occupied
+before the UDRP was enacted.
+
+Meanwhile,
+
+the evolution of
+
+the cybersquatting
+litigation an even less
+industry has made traditional
+efﬁcient tool to combat cybersquatting than before.
+Cybersquatters have become more sophisticated and
+better at hiding themselves, making it more difﬁcult for
+brand owners to discover serious offenders, and the
+volume of their operations has grown so rapidly that
+even the most well-resourced and litigious brand
+owners can barely scratch the surface.122 Smaller brand
+owners whose budgets cannot accommodate expensive
+large-scale litigation programmes have no real hope of
+using litigation to get ahead of modern cybersquatters.
+In light of these realities,
+it is even less realistic to
+litigation to combat cybersquatting
+expect traditional
+today than it was in the 1990s.
+
+Designing an updated anti-
+cybersquatting regime
+An effective response to modern cybersquatting must
+harness both the efﬁciency of an administrative process
+like the UDRP and the deterrent power of national IP
+laws. To that end, this article proposes amending both
+the UDRP and relevant national statutes to allow them
+to work together. Any effort to develop a cooperative
+anti-cybersquatting regime would need to overcome
+signiﬁcant hurdles. First, the UDRP would have to be
+procedurally updated to enable it to cope with modern
+cybersquatters.
+standard
+applied in UDRP cases would need to be brought
+
+substantive
+
+Second,
+
+the
+
+120 See statistics available on the ICANN website at http://www.icann.org/
+
+udrp/proceedings-list.htm (last visited 29 November 2007); see also
+WIPO 2005, note 10 at 37.
+
+121 WIPO 1999, note 1 at 131.
+122 Broache 2006, note 37.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Christopher T. Varas . Sealing the cracks
+
+ARTICLE
+
+257
+
+sufﬁciently in line with the relevant national IP laws to
+justify giving it weight in national courts. Third, rel-
+evant statutes would need to be updated to formalize
+the relevance of UDRP proceedings to trade mark
+infringement suits. Finally, penalties for cybersquatting
+infringement would need to be made sufﬁciently harsh
+to remove the incentive for cybersquatters to continue
+operating. These hurdles are substantial, but all are sur-
+mountable.
+
+Updating the UDRP’s procedures
+The ﬁrst step in the development of an anti-cyber-
+squatting regime that harnesses the collective power of
+the UDRP and national laws is to update the UDRP’s
+antiquated procedures
+to facilitate the recovery of
+domain names in the volumes that modern cybersquat-
+ters register them.
+
+Limited discovery
+Cybersquatters have succeeded in exploiting the vulner-
+abilities in the DNS to obscure their identities and the
+extent of their portfolios. The ﬁrst step in updating the
+UDRP process must be to make it easier for brand
+owners to defeat these tactics. The ideal solution would
+be for registrars to verify all registrant WHOIS data
+and for a Reverse WHOIS search capability to be
+deployed across the entire WHOIS database. Since
+neither of those solutions currently exists, this article
+suggests a more limited solution: registrars should be
+required to assist in UDRP proceedings by supplying
+lists of domain names with common ownership upon
+request from a brand owner who has initiated a UDRP
+proceeding.
+
+Consider the following hypothetical scenario. Acme
+Corporation owns the mark ACME. In the course of its
+routine brand monitoring, Acme discovers paid contex-
+tual advertising sites at the domain names acmeamerica.
+com, acmeproducts.com, acmeonline.com, and acmme.
+com. A query of the WHOIS database reveals that the
+registrants for the four domain names have different
+names, addresses, and telephone numbers, but the same
+administrative contact email address, and that all four
+domain names are registered through the same registrar.
+
+Under the current UDRP, Acme could use the UDRP
+to reclaim the four domain names it had discovered,
+along with any related domain names it discovered
+through investigation of publicly available data, such as
+other domain names hosted at or near the IP addresses
+of those four domain names, or other domain names
+
+using the same name servers as those four domain
+names.123 If it had the resources, Acme could also hire a
+private service to conduct a Reverse WHOIS search that
+might reveal some additional domain names registered
+using the same contact email address, depending on the
+extent and accuracy of the service’s proprietary database.
+Ultimately, however, Acme could only initiate a UDRP
+action with respect to the domain names it identiﬁed
+from the public WHOIS data, even if the registrant also
+controlled hundreds of other Acme-based domain names
+that Acme could not discover through public records.
+
+Acme should be permitted to use the UDRP to
+request that the registrars of the domain names it
+has identified reveal which other domain names
+are registered to the same person.
+
+Instead of
+
+Acme should be permitted to use the UDRP to request
+that the registrars of the domain names it has identiﬁed
+reveal which other domain names are registered to the
+same person.
+initiating an enforcement
+action limited to the domain names it has already dis-
+covered, Acme could ﬁle an initial complaint identify-
+ing the domain names it had already discovered, and
+incorporating any of
+the registrant’s other domain
+names that infringe its marks. The dispute resolution
+provider with whom the complaint
+is ﬁled would
+provide the complaint to the registrars of the domain
+names Acme identiﬁed, requesting production of a log
+containing all of the domain names registered by the
+same entity or person who registered the identiﬁed
+domain names.
+
+Implementing this limited form of discovery should
+not be difﬁcult. Accredited registrars are already
+obliged to incorporate the UDRP into their terms of
+service, and are contractually prohibited from permit-
+ting the sale or transfer of a domain name that is the
+subject of a pending UDRP action.124 These rules could
+be amended to oblige registrars to produce a list of
+domain names held by the same registrant in response
+to a UDRP complaint.
+
+Certain safeguards would be needed, to protect the
+personal information of innocent parties, including the
+accused cybersquatter, should Acme’s claim be dismissed
+for lack of merit. For example, it may be advisable for
+registrars to search for common ownership based only
+on commonalities in the two pieces of data supplied by
+
+123 See, eg, Domain Tools website: http://www.domaintools.com.
+
+124 ICANN Registrar Accreditation Agreement, note 16 at 3.8; UDRP, note
+
+82 at 8.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+258
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2008, Vol. 3, No. 4
+
+about
+
+routine
+
+administrative matters)
+
+the registrant that are most likely to be valid: adminis-
+trative email addresses (which are likely to be valid
+because registrars use them to communicate with regis-
+trants
+and
+methods of payment (such as the same credit card or
+PayPal account). While such a restriction may limit the
+scope of domain names revealed to Acme, the highly
+unreliable nature of the other, unveriﬁed, data could
+create an unacceptable risk of false positives. Restricting
+the search to email addresses and methods of payment
+would also minimize the burden this new obligation
+would place on registrars.
+
+Registrars should not be required to reveal the exact
+payment details associated with the relevant domain
+names. A mere certiﬁcation from the registrar that the
+same account was used to pay for the domain names
+should be sufﬁcient for the complainant to identify rel-
+evant domain names without revealing the personal
+ﬁnancial data of the registrant. A registrant wishing to
+dispute his registration of the domain names identiﬁed
+in the registrar’s log could present evidence to that
+effect in his response to the Complaint. Once the regis-
+trars produce their respective lists of domain names
+with identical email contact or payment information,
+Acme could amend its complaint to include all of those
+domain names it believed it was entitled to recover
+from the registrant.
+
+This solution, making it easier for brand owners to
+discover the extent of cybersquatters’ domain name port-
+folios, will also assist in combatting bulk domain name
+registrations that occur in a single transaction with a
+single source of payment and a single set of registrant
+WHOIS data. Nevertheless,
+this solution would not
+reveal domain names the alleged cybersquatter registers
+through other registrars unknown to Acme. That limit-
+ation is probably inescapable, because it would not be
+practical for every brand owner to demand that every
+registrar conduct a search of its records in every UDRP
+proceeding. Development of a Reverse WHOIS search
+capability for the entire WHOIS database could provide
+a middle-ground to help close this gap by giving the
+brand owner a chance to identify some additional
+domain names with email
+that
+matched those of other squatted domain names.
+
+contact addresses
+
+Revise service provider fee structures
+An efﬁcient tool to identify high-volume infringing
+domain names will only solve half of
+the UDRP’s
+
+inadequacies. Service providers
+current procedural
+should also update their fee structures to accommodate
+bulk UDRP actions that reﬂect the structure of modern
+cybersquatting. WIPO and the National Arbitration
+Forum should amend their tiered fee structures to
+provide set fees for actions regarding up to 500 domain
+names. The idea of tiered fees is fundamentally sound,
+and should be retained, but the break points should be
+signiﬁcantly adjusted to facilitate the kinds of bulk
+actions required by modern cybersquatting.
+
+Ideally, both providers would follow the Asian
+Domain Name Dispute Resolution Centre’s policy of
+establishing a maximum fee for all disputes involving
+more than a certain number of domain names. This
+would make the cost of enforcement proceedings easier
+to calculate for brand owners, and would improve the
+UDRP’s efﬁciency by eliminating the need to negotiate
+the fee for every sizeable cybersquatting case.
+
+Introduce a choice of law provision
+Increased efﬁciency of the UDRP will only make the
+anti-cybersquatting regime more effective if it can be
+harnessed as a deterrent. Cybersquatters who lose por-
+tions of their portfolios to UDRP actions but suffer no
+other penalty have every incentive to rebuild their port-
+folios with new domain names. Deterrence can only be
+achieved if the UDRP and national IP laws apply com-
+patible standards, which they currently do not.125 The
+UDRP’s open-ended standards allow panels to consider
+any principle of law and apply it however the panel
+deems relevant. Even those portions of the UDRP that
+deal with bad faith and afﬁrmative defences offer little
+guidance because they are explicitly non-exhaustive.
+This cannot be squared with the limited and more rig-
+orous standards set forth in national laws like the Trade
+Marks Act 1994 and the ACPA.
+
+Nor is this incompatibility purely formalistic. The
+UDRP’s permissive standards have manifested them-
+selves in haphazard decisions that vary from one panel
+to the next. ‘While some panelists apply the law of the
+country in which the parties are domiciled, others
+either merely apply the law of the panelists’ country of
+origin or, more commonly, refuse to consider any
+nation state’s law in favor of resolving the dispute
+exclusively in accordance with the UDRP rules’.126
+Observers have noted that these open-ended standards
+have
+also resulted in proceedings being skewed
+in favour of brand owners when panels give the
+
+125 P Yu, ‘Currents and Crosscurrents in the International Intellectual
+
+126 Holstein-Childress 2004, note 4 at 581 (internal citations omitted).
+
+Property Regime’ 38 Loyola of Los Angeles Law Review 38, 48 (2004):
+http://ssrn.com/abstract=578572 (last visited 17 November 2007);
+O’Farrell 2006, note 116.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Christopher T. Varas . Sealing the cracks
+
+ARTICLE
+
+259
+
+complainant’s arguments more weight than the respon-
+dent’s or shift the burden of proof from the complai-
+nant to the respondent.127
+
+While this may be the predictable result of
+
+the
+decision to compromise rigour in favour of expediency
+in the UDRP, it ensures that the UDRP will remain
+incompatible with the standards set by national IP
+laws. If the two are to work together against cyber-
+squatters, the disconnect must be eliminated. The only
+way to accomplish that is to realign the UDRP with
+national
+the UDRP should be
+amended to include a voluntary choice of law clause
+that complainants can use to ensure that a UDRP
+panel evaluates its complaint using the substantive law
+of a particular jurisdiction.
+
+laws. To that end,
+
+In the example discussed above, under the current
+regime Acme would submit its Final Complaint to
+reclaim the domain names it believed were registered
+in bad faith, and the panel would render a decision
+based on its interpretation of the UDRP rules and
+whatever legal principles the panel deemed relevant. If
+the panel upheld Acme’s claim with respect to all the
+disputed names and Acme later decided to litigate
+against the cybersquatter in a court of competent juris-
+diction, the UDRP decision would be irrelevant to the
+subsequent court case.
+
+Under this article’s proposal, Acme could ask the
+UDRP panel to apply the law of the jurisdiction where
+it would bring the subsequent litigation. Thus, if the
+cybersquatter were located in the UK, Acme could
+instruct the panel to determine whether its claim has
+merit under the UK laws of trade mark infringement
+and passing off. If the cybersquatter were located in the
+USA, Acme could instruct
+to apply the
+ACPA. This would eliminate the substantive disconnect
+between the UDRP and national IP laws, and should
+also help to create more consistency in domain name
+dispute resolutions within different jurisdictions.
+
+the panel
+
+The choice of law option has a potential disadvan-
+tage for brand owners. While the more stringent stan-
+dards imposed by national IP laws should make UDRP
+panel decisions more consistent,
+they could also
+make it more difﬁcult for a brand owner to reclaim a
+registrant’s domain names. If that additional risk were
+to dissuade brand owners from using the choice of law
+option, the updated anti-cybersquatting regime might
+be little more effective than the current
+regime.
+However, the overtly bad faith nature of cybersquatting
+should keep that risk fairly low. A brand owner with a
+
+meritorious claim against a cybersquatter with a port-
+folio of dozens or hundreds of
+infringing domain
+names
+should have little difﬁculty prevailing even
+under the more rigorous standard of a national IP law.
+Nevertheless, the choice of law option should not be
+mandatory. Some brand owners will be satisﬁed to
+reclaim domain names from cybersquatters without
+pursuing additional legal action. In those cases, there
+would be no reason to force the brand owner to choose
+a particular national
+law to govern the dispute. The
+brand owner could continue to beneﬁt from less rigor-
+ous standards in exchange for accepting the limited
+remedy of reclaiming the domain names.
+
+the
+
+substantive
+
+Updating national statutes
+Incorporating a choice of law clause into the UDRP
+could help resolve
+inconsistencies
+between panel decisions and national IP laws, but it
+will not guarantee that courts applying those laws will
+give panel decisions more weight than at present. Nor
+will
+it ensure that courts that do give deference to
+UDRP decisions will do so in a consistent manner. To
+maximize the beneﬁts of bringing the UDRP in line
+with national legal standards, relevant national statutes
+should be amended to formalize the signiﬁcance of
+UDRP panel decisions in subsequent litigation.
+
+The goal of such amendments should be to stream-
+line the litigation process such that brand owners can
+pursue legal and equitable remedies against cybersquat-
+ters with less investment of time, money, and energy
+than at present. The most appropriate
+statutory
+amendments would vary from jurisdiction to jurisdic-
+tion, but a useful strategy could be to provide that, if a
+UDRP panel applies the law of the relevant jurisdiction,
+a panel decision in the brand owner’s favour constitutes
+prima facie evidence of
+infringement that creates a
+rebuttable presumption in favour of the brand owner
+in subsequent litigation arising from the same set of
+facts as the UDRP complaint.
+
+if Acme were to prevail
+
+Returning to the hypothetical case of Acme: under
+the proposal,
+in its UDRP
+action with the panel applying the law of the UK, it
+could ﬁle an infringement suit against the cybersquatter
+in the appropriate national court,
+incorporating the
+panel’s order into its complaint as prima facie evidence
+that the defendant infringed its rights under UK law.
+The burden would then shift to the defendant to chal-
+lenge the panel’s factual ﬁndings or application of that
+law. This would spare Acme from having to build a
+
+127 Hildenbrand 2004, note 70 at 642 –643; Holstein-Childress 2004, note 4
+
+at 584; X Hong, ‘Domain Name Dispute Resolution in China: A
+
+Comprehensive Review’ 18 Temple International and Comparative Law
+Journal 1, 13 (2004).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+260
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2008, Vol. 3, No. 4
+
+new case against the domain name registrant to main-
+tain its claims in the national court.
+
+Where the defendant did challenge the factual or
+legal validity of the panel decision, each jurisdiction
+would have to decide the standard of review to be
+applied. In most cases, it should be sufﬁcient for the
+standard of review to be that applied in other cases
+involving judicial review of an administrative decision.
+If the court were to ﬁnd the panel decision factually or
+legally erroneous, the burden would return the claim-
+ant to present original evidence sufﬁcient to justify
+its claims.
+
+resources
+
+This proposal would still require Acme to invest sig-
+niﬁcant
+in domain name litigation but,
+unless the court were to ﬁnd the panel decision invalid,
+the amount of time and money required for an in-
+fringement suit would be substantially reduced. The
+more streamlined process should spur more brand
+owners to pursue litigation to obtain damages and
+injunctive relief against serious cybersquatters. The
+increased risk of
+should in turn
+provide the deterrent missing from the current anti-
+cybersquatting regime.
+
+serious penalties
+
+The proposed system is likely to become more efﬁ-
+cient as time passes. Even if courts initially reject panel
+decisions as factually or legally ﬂawed, those decisions
+will contain guidance for future panels applying the
+laws of that jurisdiction. Those panels will therefore be
+more likely to decide cases in a manner that
+the
+national courts will accept.
+
+Formalizing penalties
+Finally, it may be worth considering statutory remedies
+for cybersquatting cases. The USA has long used statu-
+tory penalties to reduce the burden on successful
+claimants in IP cases, and provides for such penalties
+in cybersquatting cases. In the USA, a claimant who
+proves infringement in a cybersquatting case is entitled
+to recover the sum total of the defendant’s proﬁts, the
+claimant’s damages and the costs of the legal action128
+or statutory damages of US$1,000 to US$100,000 per
+domain name, with the appropriate amount left to the
+judge’s discretion.129
+
+Widespread adoption of statutory damages schemes
+in cybersquatting cases could beneﬁt brand owners by
+further reducing the ﬁnancial uncertainty of litigation.
+More importantly, the availability of substantial guar-
+anteed damages to prevailing brand owners could sub-
+stantially aid the cause of deterrence. If cybersquatters
+know that they are more likely to be hauled into court
+
+as a result of their actions, and that a successful claim-
+ant has access to statutory damages that could cause
+them severe ﬁnancial pain,
+combination of
+increased threat and consequence could help to drive
+down the number of cybersquatters and limit the oper-
+ations of the remaining ones.
+
+the
+
+to the UDRP will
+
+Towards an updated regime
+The proposed updates to the UDRP and national IP
+laws will not stop cybersquatting, but
+they should
+provide brand owners with the tools they need to
+reclaim the upper hand in the battle for control of
+domain names that exploit marks for commercial gain.
+If brand owners can leverage the UDRP’s contractual
+power over registrars to unearth signiﬁcant portions of
+a cybersquatter’s domain name portfolio, it will be sig-
+niﬁcantly more difﬁcult for squatters to accumulate and
+maintain hidden collections of domain names. While
+cybersquatters will still be able to obscure their holdings
+by spreading them over multiple registrars, brand
+owners need only discover a small handful of domain
+names registered through a particular registrar in order
+to have a reasonable chance of discovering most or all of
+the squatter’s holdings with that registrar. This should
+signiﬁcantly help combat bulk bad faith domain name
+registrations. Changes
+facilitate
+actions to reclaim domain names in large numbers,
+which should encourage brand owners to be more
+aggressive in their enforcement efforts. These steps alone
+will be useful because they will allow brand owners to
+compete with cybersquatters on a scale that matches the
+scope of modern cybersquatting operations.
+the
+continued
+availability of
+from squatted
+domain names will create a continuing incentive for
+cybersquatters to operate, and to expand when techno-
+logical advances like IDNs or the introduction of new
+gTLDs permit. The updated anti-cybersquatting regime
+would counter that incentive by making it more likely
+that cybersquatters will be subjected to the penalties
+available under national IP laws. Brand owners who
+can leverage a favorable UDRP ruling in national
+courts by using it to prove a prima facie case of in-
+fringement will have an additional incentive to step up
+their enforcement efforts because the chances will
+increase that a particular action will result in an award
+of monetary damages to defray the cost of the enforce-
+ment effort. Even if national courts initially resist the
+coordinated use of the UDRP and national
+laws by
+
+That progress notwithstanding,
+revenue
+
+advertising
+
+128 15 USC §1117(a).
+
+129 15 USC §1117(d).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Christopher T. Varas . Sealing the cracks
+
+ARTICLE
+
+261
+
+ﬁnding fault with panel decisions applying their
+national
+law, the system should be self-correcting as
+those court decisions provide more speciﬁc guidance
+that future panels can use to render more sustainable
+decisions.
+
+The combination of more efﬁcient administrative
+proceedings to reclaim squatted domain names and the
+increased risk of penalties for cybersquatters should
+buttress the anti-cybersquatting regime in the areas
+that modern cybersquatters have exploited so success-
+fully to date. The results will be neither automatic nor
+
+perfect. Brand owners will need to increase their enfor-
+cement efforts for the updates to have any practical
+effect, and cybersquatters will adapt by moving their
+operations beyond the reach of effective legal enforce-
+ment or developing new tools to fragment their portfo-
+lios. Nevertheless, the updated regime would go a long
+way toward creating the enforcement and deterrent
+mechanisms lacking from the current regime.
+
+doi:10.1093/jiplp/jpn012
+Advance Access Publication 20 February 2008
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+3
+4
+2
+4
+6
+8
+5
+6
+0
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+

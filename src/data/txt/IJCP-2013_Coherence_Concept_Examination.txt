@@ -1,0 +1,1328 @@
+International Journal of Cultural Property (2013) 20:233–256. Printed in the USA.
+Copyright © 2013 International Cultural Property Society
+doi:10.1017/S0940739113000118
+
+The Coherence of the Concept of
+Cultural Property: A Critical Examination
+Betina Kuzmarov*
+
+Abstract: This article asks a simple question: Is cultural property a coherent
+concept? It answers this question through a critical examination of the
+concepts of cultural and property that builds on the work of Alan Audi. The
+article examines concepts of property and culture as they have developed
+separately in political theory. It suggests that arguments about cultural
+property are shaped by the discursive structure of the public/private divide. On
+this basis, the structure of cultural property arguments are critically examined.
+Then conclusions are drawn about the role of the public/private divide in
+structuring the tension between culture and property. It is concluded that this
+tension that defines the concept of cultural property.
+
+INTRODUCTION
+
+Newspaper articles published in the New York Times from 1933 to 1939 illustrate
+the role that cultural policy played in the Nazi program of identification of Jewish
+citizens and noncitizens, ostracism of those deemed to be of Jewish descent within
+German society, and confiscation of Jewish property; strategies that ultimately pro-
+duced the conditions for the annihilation of German and European Jewry.1 In
+May 1933, the New York Times reported that Goebbels, the Minister of Popular
+Enlightenment and Propaganda, called a meeting of managers, actors and art di-
+rectors of German theaters. At this meeting, he reportedly asserted that artists do
+
+*Department of Law and Legal Studies, Carleton University, Ottawa, Ontario, Canada. Email:
+betina_bpkuzmarov@carleton.ca.
+
+ACKNOWLEDGEMENTS: This paper developed out of an original presentation at the ILSA Con-
+ference, December 19–20, 2010 in Herzliya, Israel. The author wishes to thank the participants in
+this conference, Zoran Oklopcic, the anonymous reviewers, and Alex Bauer for their feedback and
+support.
+
+233
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+234
+
+BETINA KUZMAROV
+
+not have the luxury of being “apolitical” because artists are leaders in society.2 As
+a result, he also suggested that as the “national mentality” is fixed in the mind of
+the populace, they would gradually and voluntarily remove Jewish artists from
+German cultural life. This was because to Goebbels, art was not “international,”
+but a manifestation of the “German popular mentality.”3 Although, as the author
+of this article noted, the legislation to secure this removal was in fact already in
+place.4 Public law was a way of ensuring that even privately artists could not sup-
+port their Jewish colleagues.
+
+Thus, the legal and political ostracism of Jewish artists5 and the limitation of
+Jewish cultural participation were promoted as a key part of Nazi policy. As the
+New York Times reported that, architecture was the “pet hobby” of Hitler and he
+took a great interest in the arts.6 As a result, as early as 1935, Tolischus was able to
+report from Berlin that “[h]aving ostracized the Jews legally, socially and profes-
+sionally, the National Socialist regime is undertaking the final step in its solution
+of the Jewish question—namely the economic “liquidation” of the Jews.”7 And by
+December 1935, the result of this policy was clear, as Tolischus reported that even
+without a formal law, “cultural organizations” were requiring that Jewish cinema
+owners and art dealers “aryanize” their property.8 Aryanization rapidly became an
+excuse to take Jewish property.9
+
+Soon this period of voluntary aryanization of Jewish property (including cul-
+tural property) was followed with outright confiscation by the authorities.10 More-
+over, the policy of confiscation was extended to require registration of all Jewish
+private property.11 One example of the effect that this requirement had on cul-
+tural property was reported in Munich in 1938. The New York Times noted that,
+on the basis of a decree of April 1938 requiring Jewish citizens to declare all an-
+tiquities and art, “[e]xperts from the Reich Chamber of Culture, accompanied by
+members of the Secret Police, today made its tour of homes of formerly wealthy
+Jews and removed works of art. They were taken in trucks to the National Mu-
+seum here.”12 As a result, by July 1939, the conditions were such that it was pos-
+sible for Propaganda Minister Goebbels to address the Congress of German Art
+and outline a program for Nazi art (based on extensive funding for the arts), which
+reflected the “common experience of the people.”13 This was possible, he argued,
+because the “Jewish art salon snare” had been broken, thus reversing the “degra-
+dation” of German art by Jews.14 As he stated, “art is the function of the national
+life, and to place it in proper relation to the national life is not only a cultural but
+eminently a political task.”15 This was achieved by ensuring that all artists were
+members of the “organization of German artists.”16 Thus, the removal of Jewish
+citizens from German culture, by first ostracizing them and then depriving them
+of property, produced the conditions that enabled their annihilation.
+
+This historical example highlights the ways in which the private protection of
+property in Nazi Germany was denied to those of Jewish descent in order to pre-
+vent public participation in culture. It is this tension between the public and the
+private in cultural property law that this article will investigate. Primarily this ar-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+THE COHERENCE OF THE CONCEPT OF CULTURAL PROPERTY
+
+235
+
+ticle argues that cultural property laws are structured by the push and pull be-
+tween the private nature of property and the public nature of culture, and that it
+is the political sphere that mediates this tension. Moreover, this article argues that
+the tension between the public and the private spheres arises out of the fact that
+within leading political theories culture is the purview of the state, while property
+is the purview of everything else—nonstate actors, such as corporations, individ-
+uals, and civil society.17 This divide between public and private exists because there
+must be public protection of private property (in order to ensure property rights
+are respected) and, simultaneously, there must be public recognition of property
+as part of an individual’s ability to participate in culture.
+
+To provide theoretical support for the relationship between the public and pri-
+vate in the structure of cultural property disputes, this article will explore the
+groundbreaking work of Alan Audi. Audi argues that “. . . discussion surrounding
+the protection or restitution of cultural property has come to rely on a dizzying
+array of self-referential and self-justifying series of legal theories and counter theo-
+ries.”18 On this basis, Audi’s work reveals the semiotic19 structure of cultural prop-
+erty arguments.20 And this article builds on Audi’s work by arguing that this
+semiotic structure is in fact a manifestation of the public/private divide.21
+
+Audi suggests that arguments about cultural property are structured by “argu-
+ment bites.” Argument bites are opposed arguments that are often found together
+in pairs. These pairs emerge because raising one side of the argument bite often
+provokes someone competent in these arguments to respond with the argument’s
+counterpoint, the other half of the argument bite.22 These patterns emerge in re-
+sponse to hard cases that fall outside the easily analyzed legal problem.23 Audi
+outlines several categories of argument bites that shape arguments of cultural prop-
+erty. These are competence arguments, moral arguments, rights arguments, ad-
+ministrability arguments, and historical arguments.24 Later in this article, these
+categories of argument bites will be reexamined in order to uncover the public/
+private (culture-property) divide in each argument. Audi ends his analysis by sug-
+gesting that “there is still much work to be done.”25 This article takes up Audi’s
+challenge by examining one consequence of the semiotic structure he uncovers;
+that it is shaped by the tension produced by the public/private divide. Moreover
+this article will illustrate that this tension is not merely structural, it is a product
+of the theoretical assumptions on which dominant approaches to cultural prop-
+erty law are based.
+
+In undertaking this critical examination of the structure of arguments about
+cultural property, this article will take direction from Kennedy’s discussion about
+“how to get started” in critical theory. Kennedy argues that first you should “[i]den-
+tify a distinction that drives you crazy . . . ,”26 then you should “find in each half of
+the distinction the things, traits, aspects, qualities, characteristics or whatever that
+were supposed to be located in the other half and vice versa. This is classically
+called chiasmus . . . ,” from there you can “put the question of whether the dis-
+tinction you just destabilized corresponds to a real division in reality on hold,
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+236
+
+BETINA KUZMAROV
+
+suspend it, or put it in parentheses or brackets (Husserl calls this the epoch)—
+turn your eyes away from it and instead try to figure out why the people who use
+the distinction work so hard to maintain belief in it. . .”27 Last, “trace the conse-
+quences of this distinction . . .” through use of one of the schools of critique.28
+These steps will be revisited at points throughout this article to bolster the asser-
+tion that arguments about cultural property are shaped by the public/private di-
+vide. For example, following Kennedy’s advice, this article will begin with an
+examination of the nature of the public/private divide itself. It will then bracket
+this finding to unpack the use of this distinction in cultural property arguments
+through Audi’s (and Kennedy’s) semiotic structure of cultural property. From this
+critical examination, this article will propose that the public/private divide pro-
+vides a structure in which we can understand arguments about cultural property.
+While there are many definitions of culture and property, this article chooses
+not to try to define such disputed concepts as this is unlikely to yield any fruitful
+conclusions, only a stalemate. Instead this article will focus on the structure of
+argumentation that shapes these disputes about cultural property examining po-
+litical theory related to the separate, but linked, concepts of property and culture.
+In doing so this article addresses three issues of relevance: First, it addresses the
+key role that concepts of property play in political organization; second, it ex-
+plains how these concepts of property are directly linked to our understanding of
+culture; and third, it examines the effect that these links have on our understand-
+ing of cultural property disputes.
+
+Moreover, it is necessary to clarify both the scope of this article and the method
+it will use. Primarily this requires a statement of what this article will not do: It
+will not undertake a comprehensive examination of forms of argument in cul-
+tural property disputes—in this it will build on the interesting work of Alan Audi.
+It will also not contain a comprehensive genealogy of the concept of property or
+the concept of culture. It is not an intellectual history of these ideas. Instead, what
+this article will do is argue that debates about cultural property are generally framed
+within the public/private divide, an argument that has not yet been fully devel-
+oped in work on cultural property. As a result the scope of the analysis in this
+article is limited to those scholars who are instrumental in highlighting or uncov-
+ering the structure of cultural property arguments.
+
+THE PUBLIC/PRIVATE DIVIDE
+
+As Horwitz notes, the public/private divide (or distinction as he calls it) “. . . arose
+out of a double movement in modern political and legal thought.”29 This distinc-
+tion, a product of the dominant Northern–Western framework of law, is, as he
+observes, intimately tied to the concept of sovereignty and the modern idea of the
+nation-state as the creation of a truly “public sphere.”30 However, this leads to
+claims of unfettered state power, which ultimately provokes a reaction among nat-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+THE COHERENCE OF THE CONCEPT OF CULTURAL PROPERTY
+
+237
+
+ural rights theorists to establish a private sphere that could protect individuals
+from these claims of power by the state.31 It is from this basis that the divide be-
+tween the public and the private is instituted in law.32 Further, Barnett notes that
+this divide used in four different senses: (1) as a distinction between “substantive
+standards of regulation” (Was the harm to society or an individual?);33 (2) as a
+distinction between subjects of causes of action (Is it the government or an indi-
+vidual who brings the claim?);34 (3) as a distinction between the “subjects of legal
+regulation”35 (Is the regulation designed to limit the actions of governments or
+individuals?);36 and (4) Distinction in the “institutional framework” for enforcing
+legal regulation (i.e., should the state or private individuals guide the institutions
+that enforce the law?).37 Thus, the public/private divide has multiple, and often
+overlapping meanings. The words private and public are used in any or all of these
+ways, sometimes simultaneously.38 This divide, in all of its senses, influences the
+ideas of culture and property expanded upon on this article.
+As a result, the public/private divide will be understood here in its broadest
+sense to refer to actions tied to the nation-state or not.39 So, it makes sense to
+understand the divide as Horwitz does; as a theoretical construct that historically
+
+. . . could approximate the actual arrangement of legal and political in-
+stitutions only in a society and economy with relatively small decentral-
+ized nongovernmental units. Private power began to become increasingly
+indistinguishable from public power precisely at the moment late in the
+nineteenth century, when large-scale corporate concentration became the
+norm. The attack on the public/private distinction was the result of a
+widespread perception that so-called private institutions were acquiring
+coercive power that had been formerly reserved to governments.40
+
+As Horwitz also notes, in the United States, this divide reaches its apex in the late
+nineteenth century and early twentieth century attempts to scientifically and rig-
+idly separate law from politics by enforcing the separation between the public and
+the private.41 The reaction to the rigidity this created was harsh. By the 1930s, the
+legal realists dismiss the public/private divide as purely ideological and based on
+political premises. While this progressive approach retreats after World War II as a
+reaction to totalitarianism,42 by the 1980s, it was once again common in the lit-
+erature to argue that this divide was in “decline.”43
+But if the public/private divide is in decline, how can one explain its tenacious na-
+ture and its continued use in the literature? It is worth noting that most authors in
+the dominant tradition, however critical they are of the existence of the public/
+private divide in practice, have accepted the premise that the divide exists—
+rationalizing its existence either as a theoretical construct or as a by-product of
+political philosophy. As Lacey notes,“The difficulty lies in the fact that once one en-
+gages in a critique of the division, one gets sucked into the very categorization one
+is attempting to undermine.”44 Horwitz, too, implicitly notes the continued impor-
+tance of the divide in the history he sets out. And Kennedy explicitly acknowledges
+the salience of the public/private divide to legal theory when he writes, “[t]he his-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+238
+
+BETINA KUZMAROV
+
+tory of legal thought since the turn of the century is the history of the decline of a
+particular set of distinctions—those that taken together, constitute the liberal way
+of thinking about the social world.”45 Regarding the public/private divide, this means
+that at a minimum, scholars would agree that this distinction forms a framework in
+which law takes shape within the tradition of the Global North–West.
+Therefore, it is the position of this article that the public/private divide continues
+to have relevance as a core dichotomy in legal thought in the Western tradition. It
+will be asserted that this salience persists even if, or especially when, it is difficult to
+apply in practice. This is because it is at these junctures that invocation of the divide
+is most obviously incongruous. This inconsistency leads to uncomfortable ques-
+tions as to why the divide is being used in the first place. The point here is, as Lacey
+suggests, to see how this divide operates “ideologically.”46 And ultimately to argue
+that it is deployed strategically for political aims. To build on this point, it is nec-
+essary to undertake the second of Kennedy’s recommendations, to examine this di-
+vide in application in political theory as this will help explain the meaning of the
+divide and its connection to cultural property. Later, Kennedy’s third and fourth rec-
+ommendations will be returned to in the concluding section of this article.
+
+THE CONCEPT OF PROPERTY IN POLITICAL THEORY
+
+As was demonstrated earlier, the public/private divide is still considered a salient as-
+pect of the framework of law within the dominant legal structure in the Global
+North–West. From this perspective two things become clear: First, one must un-
+derstand how this framework manifests itself in the structure of arguments about
+cultural property. This requires in depth examination of the two components of cul-
+tural property; concepts of culture and concepts of property. Second, to under-
+stand how culture and property have been interpreted in cultural property one must
+understand the meaning of these concepts as they have developed (and been crit-
+icized) in political theory. From there one can meaningfully assess the way these con-
+cepts fall into the semiotic discourse of the public/private divide. Consequently, the
+logical starting point for this examination is to begin with an exploration of the theo-
+ries of property which have shaped the concept of property in the Global North. Fol-
+lowing on this discussion the concept of culture will then be examined.
+
+Classically, liberal theory conflates the concept of individual liberty with the
+
+ability of the individual to own property. As John Locke put it,
+
+Man being born, and has been proved, with equal title to perfect free-
+dom and an uncontrolled enjoyment of all rights and privileges of the
+law of Nature, equally with any other man, or number of men in the
+world, hath by nature a power not only to preserve his property—that is
+his life, liberty and estate, against the injuries and attempts by other men,
+but to judge and punish breaches of that law in others, as he persuaded
+the offence deserves, even with death itself in crimes where the heinous-
+ness of the fact, in his opinion requires it.47
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+THE COHERENCE OF THE CONCEPT OF CULTURAL PROPERTY
+
+239
+
+Therefore, Locke considers the right to property as coextensive with people’s nat-
+ural rights and a just social order. Moreover, this quotation is taken from a section
+“of political or civil society,” which implies that Locke is locating property at the root
+of natural law48 and on this basis, asserting that property is the root of the political
+order of society. Consequently, in one rhetorical move, Locke makes the right to pri-
+vate property the ultimate guarantor of political order. This linking of private prop-
+erty and public order is important for understanding later theories of property and
+makes Locke’s work worth examining in some further detail.
+
+According to Locke, the idea that public order rests on a foundation of private
+property is itself tied to notions of individual liberty. Underkuffler notes that for
+Locke (and the English Whigs more generally) property is given a broad defini-
+tion. To Locke, property includes more than things, it is a natural right of persons
+that is present in nature; for Locke property includes a persons’ “lives, liberties
+and estates”—property includes the human person, his or her dignity and physi-
+cal property.49 Underkuffler explains that this broad notion of property produces
+a “moral space” in which the individual can operate,50 ideally as a space for self-
+actualization. In sum: Locke defines property broadly to create a private space for
+self-actualization of the individual person. Moreover, to Locke property is an a
+priori qualification for full political participation. As a result, for Locke, private
+property is a requirement to enter the public.
+
+Consequently, Locke’s notion of property is “Janus faced.” According to Locke,
+property is simultaneously the guarantor of private liberty and the ticket to enter
+the public sphere—and it is this dual nature of property that has endured con-
+ceptually. This duality implies that there is a link between the role of the state in
+protection of the right to property and an individual’s ability to self-actualize. Prop-
+erty does this by creating a private sphere in which the individual is free from
+interference. Conversely, this space creates an opposing public space into which
+individuals enter when they need to enforce their rights or protect or procure prop-
+erty. Therefore, the relationship between the public and private sphere that Locke
+identifies creates a conceptual divide that all theories of property, and thus cul-
+tural property, must address.
+
+Historically, key theorists adopt Locke’s Janus-faced view of property. However,
+where agreement tends to break down among these theorists is over the nature of
+the relationship between private property and public participation. One impor-
+tant theorist who disagrees with Locke on this point is Immanuel Kant. Like Locke
+before him,51 Kant believes that the state is designed to ensure each person’s free-
+dom is respected. Further, like Locke, Kant derives the legitimacy of the state from
+a social contract. As a matter of fact, Ellis calls Kant’s point of view “revisionist
+contractarianism.”52 However, it is here that the similarities between Locke and
+Kant end.
+
+Kant’s ideal state is a “just community” in which individuals “deal with each
+other at arm’s length.”53 This vision of the state has been called a minimal liberal
+state54 because in a departure from Locke, Kant sees the state at as a legal entity
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+240
+
+BETINA KUZMAROV
+
+arrived at by social contract to minimally secure an individual’s rational inter-
+ests.55 Thus, Kant wants to limit individual freedom in the name of the interests
+of the community in so far an individual’s rational interests interfere with the
+rights of others.56Consequently, to Kant, the state’s right to act derives from an
+individual’s natural right to autonomy, but this autonomy can be limited in the
+name of the rational interest of the creation of a civil society.57
+
+From this natural right to autonomy, Kant derives all other rights. He does so
+in a manner that has been called formalistic.58This formalism is evident when Kant
+identifies property rights as rights in which we “presuppose a natural right” but
+that this “does not mean that we were originally or by nature entitled to proper-
+ty.”59 For Kant, property rights are not natural rights in the sense meant by Locke;
+they are a right that is a natural consequence of a civil society. It does not predate
+civil society but is a consequence of people joining together in a state.60As Kant
+explains:
+
+For although each individual’s concepts of right may imply that an ex-
+ternal object can be acquired by occupation or by contract, this acqui-
+sition is only provisional until it has been sanctioned by a public law,
+since it is not determined by any public (distributive) form of justice
+and is not guaranteed by any institution empowered to exercise this
+right.61
+
+As such, Kant’s approach to property is that prior to the creation of the state prop-
+erty rights are “provisionally” guaranteed because “people will need to appropri-
+ate objects in order to survive” and so this right to possess things must be protected
+as part of the social contract in exchange for other social goods such as political
+stability.62 Or as Kant puts “[i]f no one were willing to recognize any acquisition
+as rightful, not even provisionally so, before a civil state had been established, the
+civil state would itself be impossible.”63 But to Kant, the main difference is that in
+civil society the laws of property ensure that property is protected by principles of
+distributive justice.64Thus, for Kant, unlike for Locke, property rights exist prior
+to the state but are only fully protected once a civil society is created.65
+
+From this basis Kant concludes that property rights are not to be held in com-
+mon and that any form of property right other than private possession is contrary
+to the political order.66 A necessary precursor to this, however, is that a “sover-
+eign” actor—the legislator or “ruler of the people”67—become (at least in theory)
+the supreme owner of the land, as this allows for property to be “distributed” as
+opposed to “aggregated.”68 By this, Kant means that the sovereign must theoreti-
+cally “possess everything” because it is only if sovereigns hold this ability that they
+can then truly have the power to distribute the land to individuals.69 As a result,
+this means that no group in society (class, etc.) can hold land indefinitely because
+the sovereign can always withdraw this right with just compensation.70 However,
+as Ryan notes, “. . . . the paradox in all this, if there is one, lies in Kant’s emphasis
+on the external, public sphere and yet, to push most of what we value in like into
+essentially private concerns.”71 Thus, Kant, unlike Locke, believes that property
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+THE COHERENCE OF THE CONCEPT OF CULTURAL PROPERTY
+
+241
+
+rights do not predate but derive from the existence of the state. In sum, Kant, like
+Locke, sees property as a private right (based on the categorical imperative). How-
+ever, Kant, even more powerfully than Locke, sees the basis for private property in
+the public sphere and the power of the sovereign.
+
+This examination of Locke and Kant’s theories of property leads to several con-
+clusions of relevance at this point: Key theorists of property identify property as a
+private right. Key theorists also agree that private property is intimately related to
+participation in the public sphere. Therefore it can be concluded that that there is
+a clear relationship between the public and the private spheres within the concept
+of property. Where agreement breaks down, however, is over the best way to bal-
+ance the Janus-faced nature of private property. It is this tension between the pub-
+lic and the private within concepts of property that theorists continue to struggle
+with.
+
+THE RELATIONSHIP BETWEEN THE PUBLIC
+
+AND THE PRIVATE SPHERES
+
+A more recent example of a political thinker within the Northern–Western tradi-
+tion who has wrestled with the relationship between the public sphere and private
+property is Hannah Arendt. Arendt, like Locke and Kant, categorizes property as a
+private right. For example, Penner describes Arendt’s approach to property as “a
+realm in which the individual engages in the use of tangible things to provide the
+necessaries of life. . .”72 but, in a departure from Kant, it also contains the “mys-
+terious side of a person’s existence.”73 Consequently, for Arendt, property is nec-
+essary because it creates a space from which an individual can participate in the
+public sphere.74 Therefore, unlike the Locke or Kant, Arendt sees property from
+the perspective of its relationship to public participation, and as a result she is an
+important thinker on the public/private divide and its relationship to the political.
+Arendt argues that under the conditions of modernity the institution of prop-
+erty has been eroded and been replaced with wealth. Unlike property, wealth is
+just economic power, and while property requires wealth, wealth does not require
+property.75 Arendt’s complaint is that the modern focus on wealth has led to the
+decline of the institution of property and therefore of the private sphere.76And the
+decline of the institution of property troubles Arendt because her project is to try
+to reclaim a space for the public sphere in the wake of totalitarianism.
+
+One of the issues Arendt has with totalitarianism is that it subverts the polit-
+ical space, which she describes as the space in which the public and private spheres
+meet. In an early essay, Arendt equates the ability to access rights (civil rights
+particularly) with citizenship. Thus, she recognizes that the “rights of man” were
+intimately identified with the “rights of peoples in the European nation-state sys-
+tem.”77 This identification of rights with the state is problematic as it creates
+individuals whose rights are not necessarily recognized by their government, the
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+242
+
+BETINA KUZMAROV
+
+stateless.78 To Arendt, the problem of statelessness highlights a weakness in rights
+theory more generally—that rights depend on recognition by the state. This equa-
+tion is fatal for her because, as she puts it, “[t]he calamity of the rightless is not
+that they are deprived of life, liberty, and the pursuit of happiness or equality
+before the law and freedom of opinion—formulas that were designed to resolve
+problems within their communities—but that they no longer belong to any com-
+munity whatsoever.”79 This problem was clearly illustrated in the example of Nazi
+restrictions on Jewish cultural property that opened this article.
+
+These ideas are expanded on in Arendt’s discussion of totalitarianism. She notes
+in her discussion of the “total domination” necessary for totalitarianism that it is
+an advance on previous horrors not because “everything is permitted” under to-
+talitarianism, an idea she notes that was present in utilitarian versions of liberal
+political theory, but that under totalitarianism—and this “normal people” reject—
+“everything is possible.”80 Norris argues Arendt believes “totalitarianism’s ideo-
+logical thinking and the breakdown of the structures that allow for political action
+in concert cripple common sense.”81 Consequently, Arendt begins from the posi-
+tion that totalitarianism “destroys” the private—the sphere (as seen in the exam-
+ination of Locke and Kant) of which property is a part.82 This is an implicit criticism
+of the way that totalitarianism can use the state to ignore or subvert individual
+rights. As she notes, “The destruction of a man’s rights, the killing of the juridical
+person in him, is a prerequisite for dominating him entirely.”83 Therefore, to Arendt,
+totalitarianism obliterates the private sphere leaving no space for the individual.
+Obliterating the private sphere, she argues, destroys the individual then cannot
+participate in politics—exercise political judgment—so that they are, as a conse-
+quence, unable to enter the public sphere.84 On this basis, Arendt views the re-
+moval of individual rights and destruction of the “judicial person” as a key step in
+“dominating them entirely.”85 For Arendt it is the relationship between judicial
+recognition of the person, protection of their property and then the ability to be
+fully recognized politically that is central.86 And once the individual is fully dom-
+inated, as Arendt notes, everything is possible.
+
+Some of the unresolved issues these observations raise87 form the basis of
+Arendt’s general political theory, which is developed in her work The Human
+Condition. In this work, Arendt is concerned with the sphere of the active life
+(the vita activa)—which, in classical philosophy, was always contrasted with the
+preferred category of the life of the mind (the vita contemplativa)—a sphere that
+she felt defined an “underappreciated” series of activities that had come to the
+fore in modern society.88 To Arendt, the human condition is bounded by the
+finality of death, and in between birth and death, people live an active life. An
+active life is comprised of labor, work, and action. Each of these “activities” is
+carried out in a different “condition” or sphere of life. Labor is carried out in the
+“earth”(the “terrestrial” or physical sphere of life); work is carried out in the
+“world” (“civilization” and action).”89 Each of these spheres is defined by its re-
+lationship to two further principles, which are freedom and distinction. Labor is
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+THE COHERENCE OF THE CONCEPT OF CULTURAL PROPERTY
+
+243
+
+least related to freedom and distinction because it is biologically tied to the basic
+physical need to “produce and consume” in order to live; work is closer to free-
+dom and distinction because it is tied to the need to produce and consume, but
+for utility, not survival. Work produces things, creating unnatural “spaces,” such
+as art or politics, which bring us together. Thus, work builds a space in which
+individuals can be distinct and create things to last beyond themselves.90 Work,
+she defines as free. Last, she holds that action is the “quintessential political ac-
+tivity” because it “allows humans to initiate a new course of events.”91 Action is
+the epitome of freedom because it uses “diverse human agents” who act, and act
+in ways that have meaning (e.g., through speech, an innate human activity).92 It
+is through this freedom that humans “reveal their political genius.”93 And for
+Arendt, politics is a positive activity in which people coordinate on common
+concerns. Thus, it is quintessentially a “public activity.”94
+
+It is in contrast to the space required for public activities that the private emerges.
+As Arendt notes, “[i]t is with respect to this multiple significance of the public
+realm that the term ‘private’ in its original sense, has meaning. To lead an entirely
+private life means above all to be deprived of things essential to a truly human life:
+to be seen and heard by others, to be deprived of an ‘objective’ relationship with
+them that comes from being related to and separating from them through the
+intermediary of a common world of things, to be deprived of the possibility of
+achieving something more permanent than life itself. The privation of privacy lies
+in the absence of others; as far as they are concerned, private people do not appear
+and therefore it is as though they did not exist. Whatever they do remains without
+significance or consequence to others.”95 Therefore, the destruction of the public
+(which Arendt worries about earlier in the work) would also lead to the destruc-
+tion of the private.96 This leads her to conclude that there is a “profound connec-
+tion” between the public and the private, which reveals itself most fully in the idea
+of property and wealth as outlined earlier. She says that in premodern society,
+“[p]rivacy was like the other, the dark and hidden side of the public real, and
+while to be political meant to attain the highest possibility of human existence, to
+have no private place of one’s own (like a slave) meant to be no longer human.”97
+Thus, in a manner similar to Locke,98 she recognizes property as a historical pre-
+condition to political participation, as it gives an individual the means (and free-
+dom) to enter the political.99
+
+However, Arendt argues that in the modern world these two ideas are divorced,
+and that this divorce began with the rise of society. “[T]he rise of housekeeping,
+its activities, problems and organizational divides—from the shadowy interior of
+the household into the light of the public sphere . . .”—has, Arendt believes, chal-
+lenged both the private and the political.100 For Arendt the rise of social, the emer-
+gence of activities formerly private, has had the effect of making property public;
+a point she makes through discussion of the rise of the term “commonwealth.”101
+And she argues, because property has become public, it has been narrowed con-
+ceptually to include the person itself, a proposition she traces to Locke (and his
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+244
+
+BETINA KUZMAROV
+
+labor theory of property). Moreover, she believes this narrowing is dangerous. As
+she writes: “[t]he greatest threat here is not the ability of private ownership of
+wealth but the abolition of property in terms of a tangible worldly place of one’s
+own.”102 The removal of a physical space of property leads, in Arendt’s view to the
+revelation of things that “should be hidden.”103 Thus, she argues that “[t]he most
+elementary meaning of the two realms [the public and the private] indicates that
+there are things that need to be hidden and others that need to be displayed pub-
+licly if they are to exist at all.”104 To Arendt, this distinction is illustrated in the
+private (not negative) nature of goodness, once public, it is no longer the “good.”105
+Therefore, to summarize to this point: Arendt divides the human condition into
+three activities, labor, work, and action. Politics takes place in the sphere of action—
+where people take action in a plurality of individuals—and so the political must
+be public. In order for there to be a functioning political sphere, there must be a
+corresponding private sphere. Thus like the other theorists examined earlier, Arendt
+holds that a clear separation between the public and private is essential to the
+political.106
+
+This need to separate the public and private leads Norris to note that for Arendt,
+“[p]olitical action consists of public speech and deed in a condition of plurality.
+Because it is essentially concerned with public appearance, politics is the realm of
+doxa, of opinion.”107 And if there is to be a plurality of people who act in public
+(separate from their private selves), who express their opinion to others there must
+be a way of deciding between those actions, of judging them as a political ac-
+tion.108 Consequently, Arendt bases her discussion of the ability to participate in
+politics (and thereby entering the public) on the ability of individuals to judge, a
+concept she borrows, from Kant in his Critique of Judgment. In this work Kant
+argues that our judgments of beauty are shared publicly,109 as opposed to mere
+questions of taste, which are personal. Beauty is a universal standard because it
+stems from our ability to “think in place of others,” a process that allows us to go
+beyond our mere subjective opinions and create a universal standard.110 Thus, in
+a neat rhetorical move, Arendt incorporates Kant’s aesthetic theory of judgment,
+which is often linked with culture, into her notion of the political. This is crucial
+for her because she moves her notion of culture into the public sphere. Her ques-
+tion, as Norris notes is “how to create a model of political judgment that will
+allow some judgments to be recognized as superior to others without collapsing
+this plurality into identity.”111 Borrowing from Kant she argues that it is this abil-
+ity to noncoercively “woo” others to our opinion that allows us to exercise polit-
+ical judgment.112 Arendt then uses the idea of political judgment to explain how
+private individuals can participate in the political sphere and by extension in the
+public sphere.
+
+Conceptually, Arendt’s notion of “political judgment” leads to a need to protect
+private property as part of the private sphere within which this wooing can occur.
+Thus, Arendt, in this regard, is not so different from Locke and Kant in her iden-
+tification of property as private and separate from the public sphere. However,
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+THE COHERENCE OF THE CONCEPT OF CULTURAL PROPERTY
+
+245
+
+Arendt tackles head on the problem of how to connect the public and private
+spheres, seeing them as mutually constitutive. Moreover, she does so without re-
+sorting to Kant’s weak notion of contractarianism, which is open to exploitation
+by the state. Instead she turns Kant’s theory on its head—she uses his theory of
+aesthetic judgment as an alternate conceptualization of the political. In making
+this link between aesthetics and politics (a link which Norris notes hasn’t been
+uncritically received),113 Arendt implicitly joins judgments of cultural worth—
+beauty and so forth—with political judgments; two issues that would otherwise
+seem opposed when looking at the idea of cultural property, since property is com-
+monly seen as part of the private sphere, and culture is often thought of as a pub-
+lic good. However, Arendt provides a potential link between these two concepts
+through the idea of political judgment.
+
+Thus, Arendt, together with Kant and Locke illustrate a pattern in leading po-
+litical theories of property in which property is structured by the relationship be-
+tween the public and the private. As is evident from this review, the public and
+private share a dichotomous relationship in which the preservation of each sphere
+is necessary for the existence and functioning of the other. Moreover, Arendt’s use
+of Kant’s theories aesthetic judgments adds a third element to this divide—the
+political as the link between the private and participation in the public sphere.
+And crucially, Arendt provides us with a clear link between ideas of culture and
+ideas of property, which makes Arendt’s theories of property particularly impor-
+tant in the discussion of culture. These theories will now be examined in more
+detail.
+
+THE CONCEPT OF CULTURE IN POLITICAL THEORY
+
+The examination of the concept of culture in political theory picks up where the
+discussion of the concept of property left off—with a discussion of the work of
+Arendt. This is because, as noted earlier, Arendt’s work on political theory raises a
+link between the concept of property and the concept of culture. In fact, unlike
+Locke or Kant, Arendt connects the public and the private (and thus property and
+culture) through her discussion of the concept of judgment and its role in polit-
+ical participation. In this discussion she focuses specifically on the role of culture
+in judgment, and thus implicitly links culture, the private and the public. Thus,
+Arendt’s theory is a key link between culture and property within Northern–
+Western political, and consequently legal thought.
+
+In her essay “The Crisis in Culture: Its Social and Political Significance,”114 Arendt
+writes that “culture and politics belong together because it is not knowledge or
+truth which is at stake, but rather judgment and decision, the judicious exchange
+of opinion about the sphere of public life and the common world and the deci-
+sion of what manner of action is to be taken in it. . .”115 The link between the two
+concepts is found in “the capacity to judge,” which is “a specifically political abil-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+246
+
+BETINA KUZMAROV
+
+ity. . .the ability things not only from one’s point of view but in the perspective of
+all those who happen to be present.”116 Arendt’s political judgment is a specific
+type of judgment, which is valid for all those whose points of view the one mak-
+ing the judgment considers.117 Additionally, since the judgment is theoretically
+based on objective information, this act of judging is public.118 Moreover, because
+it is based on putting oneself in the place of others, and then (as noted earlier)
+wooing them to a point view, it is a political act, since it allows a judgment (gen-
+erally thought of as private) to become public.
+
+Interestingly, Arendt’s act of political judgment is also about producing culture.
+For Arendt, culture is a specifically political act—a judgment made as to what is
+valid culture by considering the views of all those who the person making the
+judgment considers valid.119 Consequently, Arendt stands for the idea that judg-
+ments about culture are political. In sum: According to Arendt, cultural judg-
+ments are a type of political judgment and therefore cultural judgment acts as a
+link between private opinions and public appreciation of culture. Thus, culture is
+inherently public because judgments about culture take place in the same way as
+political judgments. Moreover, according to Arendt, culture is removed from the
+private sphere by its need to be politically judged. Therefore Arendt’s notion of
+culture builds on the public/private divide identified in the discussion of property
+in the previous section. Previously, it was concluded that for each of the key theo-
+rists in the dominant Northern–Western tradition, public participation rested on
+a strong private sphere, identified with a concept of property. This section exam-
+ined how Arendt extended this discussion of the divide between the public and
+the private to include the idea of political judgment and how political judgment
+mediates between private ideas of taste and public ideas of culture. Consequently,
+one can derive from Locke and Kant the clear idea that property is situated within
+the private sphere and from Arendt that culture is located in the public sphere
+through the process of political judgment.
+
+CRITICAL ANALYSIS
+
+The preceding section asserted that arguments about cultural property are shaped
+by the public/private divide. Moreover, the discussion of the concepts of culture
+and property establishes that within the dominant framework, culture is consid-
+ered a public concept and property is considered a private concept. This distinc-
+tion produces tension because there is a need for public protection of private
+property (in order to ensure property rights are respected) and a need for the
+public recognition of property as part of one’s ability to participate in culture. As
+such, legal arguments about cultural property are defined by the opposition of
+culture as public and property as private.
+
+From this point of view, the “argument bites” that Alan Audi identifies are a
+natural result of the tension between the private nature of property and the public
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+THE COHERENCE OF THE CONCEPT OF CULTURAL PROPERTY
+
+247
+
+nature of culture. The basis of Audi’s semiotic examination is the observation that
+the self-serving, “imperfect,” nature of legal arguments has not been recognized
+outside of legal academics, when in fact many of the actors in cultural property
+argument (anthropologists, curators, government actors) are engaged in a sub-
+stantive argument over “ownership” of cultural property.120 Audi here is hinting at
+a bigger problem within cultural property arguments that this article will now
+expand upon.
+
+As noted at the outset of this article, Audi outlines several categories of argu-
+ment bites that shape arguments of cultural property. To be clear, these are com-
+petence arguments, moral arguments, rights arguments, administrability arguments,
+and historical arguments.121 However, within each of these categories, he identi-
+fies several argument bites that can now be examined in order to uncover the ex-
+istence of a tension between the public and the private (culture and property) in
+each argument. Before beginning, it is important to note that this analysis is in-
+tended to deepen or add to Audi’s prescient analysis, not negate it. Moreover, it
+will not be possible to examine each argument in detail (although it is argued that
+this could be done), so samples of each category of arguments will serve to make
+the point.
+
+For example, in competence arguments, Audi identifies the following argu-
+ment: “Source nation patrimony laws should not be enforced in domestic (market
+country courts) because they are against public policy versus source nation patri-
+mony laws establish ownership and we must honor ownership as defined by the
+state in question out of deference, public policy or comity.”122 The first “compe-
+tence” argument, that source nation patrimony laws are against public policy, is
+the public argument. Culture is inherently public, and private laws of other na-
+tions should not interfere with the policy of a state that has determined that this
+piece of property is part of its culture. The second argument is essentially the op-
+posite. Private property rights are valuable in and of themselves, and rights to prop-
+erty of other states should be protected, regardless if the property has public
+(cultural) value.
+
+In moral arguments, Audi identifies the argument that “property should be
+considered the inalienable (nontransferable) property of states versus cultural prop-
+erty is property like any other (feely alienable).”123 This argument is a straight-
+forward instance of the public/private divide. The first argument, that property
+is the alienable property of the state treats cultural property as inherently public
+(as long as one identifies the public solely with the state, which we often do in
+practice). The second argument, cultural property is freely alienable, is clearly an
+instance of privileging cultural property as private property. Similarly, his argu-
+ment that “buyers should not have to check the provenance of objects” is a state-
+ment that there is no public interest in the history of objects of cultural property.
+A requirement of due diligence would imply that a spurious provenance might
+in some way override the private property rights. So naturally, this opposite ar-
+gument appears in the second half of the argument bite that “buyers should be
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+248
+
+BETINA KUZMAROV
+
+obligated to exercise due diligence to check provenance of objects.”124 Unsurpris-
+ingly, this second argument about due diligence implies a public interest in ob-
+jects of cultural property.
+
+Along similar lines, in his “rights arguments,” Audi identifies the following ar-
+gument bite: “States have the right to limit export or trade of cultural property
+versus people have the right to dispose of cultural property however they wish.”125
+Again, at its root, this is an argument that falls into the public/private divide, with
+the first argument stressing the public interest in cultural objects, the second ob-
+ject stressing its private property nature. On this point, it is not surprising that in
+his administrability arguments, he uses the following argument: “Forcing buyers
+to verify provenance is unduly burdensome versus We do not want to give buyers
+an incentive to turn a blind eye to wrongdoing.”126 In this case, the argument bite
+begins by taking the private part of the argument—we do not want to inhibit
+private property transactions. Conversely, the implication that private property
+transactions should not be supported when they cover up wrongdoing implies a
+public interest in objects of cultural property. Finally, Audi examines historical
+arguments of cultural property. One example of he gives of these arguments is as
+follows: “The state or group claiming title to this property has no historical claim
+to the property because so much time has elapsed versus the state or group claim-
+ing the title has a historical claim for a fact specific reason.”127 While this argu-
+ment initially seems to be an argument of international versus national approaches
+to cultural property, it can also be read as an argument for private property rights
+to be enforced versus public claims of groups or states to property based on ar-
+guments of culture.
+While Audi does not raise this specifically, it is clear that sitting in the background
+of arguments about cultural property is the public/private (a.k.a. culture/property)
+divide. Further, Audi asserts that these argument bites are used “mechanically,”128
+but this article will also suggest that this semiotic structure is used instrumentally—as
+a rhetorical move by states or actors to advance whichever claim (public or private)
+that best matches their interest in a given property. This potential for instrumen-
+tality becomes particularly evident when one examines the arguments that Audi ar-
+gues “cluster” together. These arguments cluster together through rhetorical moves
+that Kennedy calls operations—traditional patterns or ways of making these argu-
+ments.129 By raising one argument in the cluster, one automatically calls attention
+to the other arguments in the cluster with which one could support or counter the
+argument.130 Last, clustering ultimately leads to “nesting “or reproduction of these
+stock arguments, which ultimately ends up structuring cultural property arguments
+in patterns.131 However, the discussion of leading approaches to culture and
+property earlier illustrates that these patterns are not merely structural, they are a
+product of the theoretical assumptions on which dominant approaches to cultural
+property law are based. In sum, this analysis adds to Audi’s analysis by asserting that
+the argument bites he uncovers are an instrumental product of the public/private
+divide.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+THE COHERENCE OF THE CONCEPT OF CULTURAL PROPERTY
+
+249
+
+The discussion of property as private and culture as public was specifically de-
+veloped in the work of Locke and Kant. This section added to this analysis by
+demonstrating that Audi’s argument bites operate through the tension of the public/
+private divide. This tension can be diagramed as follows:
+
+Private
+
+Public
+
+Property ___________________________________________________ Culture
+
+But this diagram is not yet complete. As was noted earlier, Arendt argues that the
+relationship between the private and the public is mediated through the political
+through the act of judgment as it is through judgment that culture moves from
+the private sphere into the public sphere. Thus, much as the legal realists asserted
+earlier in the last century, it would seem that the political acts as a basis for de-
+terminations of cases of cultural property. This is evident in the fact that when
+examined in practice, as in the example of Nazi policy on Jewish cultural prop-
+erty, that opened this article, the divide is used both ways. As the discussion of
+Arendt earlier indicated, the political is the space in which the public and private
+meet. Therefore, the political is what acts as the bridge between the concepts of
+culture and the concepts of property.
+
+As such, a revised schema for understanding arguments of cultural property is
+
+as follows:
+
+Property
+
+Culture
+
+Politics
+
+Therefore, the relationship between culture and property in the cultural property
+argument is theoretically dichotomous, but how the divide is negotiated or which
+argument is chosen in a given case is inherently political. It is used instrumentally.
+Culture is public, but it depends on the protection of private property and prop-
+erty is private but it depends on the public protection of property. Therefore it is
+clearly the political that mediates or allows for this relationship between the pub-
+lic and the private to develop. Culture and property are opposed concepts, medi-
+ated instrumentally through the filter of the political.
+
+CONCLUSION
+
+To return to the opening premise, this article asks a deceptively simple question.
+Are arguments about cultural property structured by the public/private divide? In
+short, the answer to this question is yes. This divide, which is well entrenched in
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+250
+
+BETINA KUZMAROV
+
+political theories and by extension in legal theory, is found to apply to the concept
+of property and the concept of culture. Moreover, this article asserts that these
+concepts operate as opposite poles of argumentation, but between these two poles
+any argument advanced is based on what is politically expedient, so this divide is
+mediated by the political. Finally, this structure then gave further depth to the
+understanding of the argument bites that often shape arguments of cultural prop-
+erty. In sum, arguments about cultural property are in fact shaped by relationship
+between the public sphere and the private sphere, as mediated strategically by
+political judgment.
+This last point goes some way to answering the question bracketed earlier con-
+cerning continued relevance of the public/private divide. The divide is not iron-
+clad, in fact, it serves a different purpose—it allows those who are making claims
+about cultural property to argue from side of the divide that serves its interest
+best. These interests will be mediated instrumentally, that is, politically. This goes
+some way to further explaining the apparent difficulty of advancing many cul-
+tural property claims through law. Thus, this article begins to fill a gap in the
+literature between the debates over the role of the state in protecting cultural prop-
+erty. Future research will expand on this final point and will examine the practical
+application of this model. Critical legal scholars argue that there are “uncon-
+scious” aspects to law,132 so this future work will argue that debates about cultural
+property are intimately tied to this legacy of Northern–Western political theory
+and the privileged position it grants to ownership (individual or state). This leads
+to two final points. The model of cultural property outlined in this article has
+more general application within the area of cultural property. Consequently, fu-
+ture research will explore how the public/private divide in fact shapes debates about
+the national or international nature of culture, by its privileging of the nation-
+state as the primary protector of property rights to goods of cultural worth. Other
+promising avenues for application of this are to explore the replication of this
+divide in transnational cultural property disputes, such as restitution cases. Fi-
+nally, feminist critiques of the public/private divide can also be applied under-
+standing the complex nature of the divide itself and its continued salience. Future
+work will take up all these challenges.
+
+ENDNOTES
+
+1. The process of annihilation of European Jewry in Nazi Germany followed a specific pattern
+and development. Hilberg, The Destruction of the European Jews; See also, Rich, “Genocide as a So-
+ciopolitical Process,” 402. Most prominently, Hilberg proposes the following schema for the destruc-
+tive process: definition, dismissal of employees and confiscation of business firms, concentration,
+exploitation of labor and starvation of members, annihilation and confiscation of personal effects.
+Hilberg, The Destruction of the European Jews, 267. For purposes of this article, Miller’s simplifica-
+tion of Hilberg’s schema will be used. Miller identifies his schema as beginning with identification of
+the Jewish population, then ostracism of the Jewish population, then property confiscation, and last
+annihilation. Miller, Nazi Justiz, 3. Rickman, Conquest and Redemption, 10.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+THE COHERENCE OF THE CONCEPT OF CULTURAL PROPERTY
+
+251
+
+2. F. T. Birchall, “Propagandist Art is Nazis’ Demand,” The New York Times, 10 May 1933, 10.
+3. Birchall, “Propagandist Art is Nazis’ Demand.”
+4. Birchall, “Propagandist Art is Nazis’ Demand.”
+5. Further, as part of this separation of Jews from German society, the Nazi propaganda ma-
+chine became increasingly interested in defining who was Jewish. See Hilberg, The Destruction of the
+European Jews, 31.
+
+6. Associated Press, “Hitler Upholds Art, Scores Jews,” The New York Times, 12 September 1935, 9.
+7. O. D. Tolischus, “Nazis in New Drive on Jews in Trade,” The New York Times, 8 October 1935,
+13. The decree as quoted in Miller, Nazi Justiz, 98; See also, Dean, “Seizure of Jewish Property in
+Europe,” 22; Miller, Nazi Justiz, 98; For further discussion see, e.g., Miller, Nazi Justiz, 98–99; See also
+Alders, “Organized Looting,” 173.
+
+8. O. D. Tolischus, “Germany Delays New Law on Jews,” The New York Times, 19 December 1935,
+
+22.
+
+9. See, for example Rickman, who notes that “Soon the practice of Aryanization increased evolv-
+ing into an institution where outright confiscation became the practice.” Rickman, Conquest and
+Redemption 17.
+
+10. By December 1938, there was a comprehensive degree requiring “liquidation or forced sale”
+of any business deemed a Jewish “commercial establishment.” Bajohr, “Aryanization and Restitution
+in Germany,” 37.
+
+11. In Germany, registration was required by decree of 26 April 1938. Bajohr, “Aryanization and
+
+Restitution in Germany,” 37; Rickman, Conquest and Redemption, 14.
+
+12. “Munich Jews Art Taken,” The New York Times, 18 November 1938, 3; See also Miller, Nazi
+
+Justiz, 98 where this example was first brought to my attention.
+
+13. “Goebbels Sees Art Restored to Folk,” The New York Times, 16 July 1939, 20.
+14. “Goebbels Sees Art Restored to Folk.”
+15. “Goebbels Sees Art Restored to Folk.”
+16. “Goebbels Sees Art Restored to Folk.”
+17. As Olsen notes “The distinction between the public and private can of course mean several
+different things. The two public/private dichotomies that are most important to feminist analysis of
+U.S. law are the State/Civil Society dichotomy and the Family/Market dichotomy.” This first dichot-
+omy “distinguishes ‘the State’ from the rest of society.” It is this notion of the public and private that
+is referred to throughout this article when the term public/private divide is used. See Olsen, “Inter-
+national Law,” 157. See also Lacey, “Theory into Practice.” This divide, it has been argued, is also
+central to the legal relations between states (and therefore cultural property claims) in so far as
+international law (a) excludes the private (internationally or domestically) from its purview, or (b) uses
+the public/private divide strategically to the detriment of the private (and thus, feminists argue,
+women). See Engle, “After the Collapse of the Public/Private Distinction,” 143 ff. These critiques
+have provoked a response in the literature (see, e.g., Lacey, “Theory into Practice,” 100 ff), but it is
+outside the scope of this article to address them all here. These critiques are important in establish-
+ing the point that the public/private divide is central to our world view in the modern West and so
+are key to understanding the structure of arguments about cultural property as well as its exclusions
+and weaknesses.
+
+18. Audi, “Semiotics of Cultural Property Argument,” 131–132. I undertake this analysis in full
+
+awareness of the trenchant comments on Audi’s work in the same journal and Audi’s rejoinder.
+19. Semiotics is defined as the “[t]he study of signs or symbols and their use or interpretation.”
+Oxford Dictionaries. http://oxforddictionaries.com/view/entry/m_en_gb0754040#m_en_gb0754040
+.007 (accessed 9 May 2011).
+
+20. Audi, “Semiotics of Cultural Property Argument, “132.
+21. Although many argue that ideas such as the “public” or “private” originate in Roman law, I
+will begin from the supposition that there is something fundamentally different about these con-
+ceptual oppositions as they have been applied in modern political writings in the Global North or
+West as they refer to the “state” and “everything else.” See, for example and contra, Barnett, “Four
+Senses of the Public Law,” 270, n. 5. Further, by the terms “Global North or Northern,” I refer to
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+252
+
+BETINA KUZMAROV
+
+the fact that global difference is hard to conceptualize and that the theorists discussed here are
+not representative of all traditions. This is coupled with the term Western in order to refer to the
+fact that these theorists come from a specifically European tradition. See Del Casino, Social Geog-
+raphy, 26.
+
+22. See Audi,” Semiotics of Cultural Property Argument,” 133; See generally, Kennedy, “A Semi-
+
+otics of Legal Argument,” 325, 329.
+
+23. Audi,” Semiotics of Cultural Property Argument,” 134.
+24. Audi, “Semiotics of Cultural Property Argument,” 134–136.
+25. Audi, “Semiotics of Cultural Property Argument,” 150.
+26. Kennedy, “The Semiotics of Critique” 1189.
+27. Kennedy, “The Semiotics of Critique” 1189.
+28. Kennedy, “The Semiotics of Critique” 1189.
+29. Horwitz, “History of the Public/Private,” 1423
+30. Horwitz, “History of the Public/Private,” 1423.
+31. Horwitz, “History of the Public/Private,” 1423.
+32. Kennedy would argue that this is part of the “liberal way of thinking about the social world.”
+As a result he would also argue that that these distinctions are on the decline. See Kennedy, “Decline
+of the Public/Private,” 1349. This article is interested in the existence of the distinction and its effects
+and so fits nicely into Kennedy’s discussion of the decline of this distinction.
+
+33. Barnett, “Four Senses of the Public Law,” 268 ff.
+34. Barnett, “Four Senses of the Public Law,” 269, ff.
+35. Barnett, “Four Senses of the Public Law,” 270 ff.
+36. See generally, Barnett, “Four Senses of the Public Law,” 270ff.
+37. Barnett, “Four Senses of the Public Law,” 271, ff.
+38. Barnett notes that these relationships are “strategic” in so far as once one aspect of the cat-
+egory is invoked it often leads to one of the other forms being used as well. This bolsters the argu-
+ment for instrumentality made in this article. See for example, Barnett, “Four Senses of the Public
+Law,” 272–273.
+
+39. See, for example, Olsen, “International Law,” 157, as discussed above.
+40. Horwitz, “History of the Public/Private,” 1428.
+41. Horwitz, “History of the Public/Private,” 1425.
+42. Horwitz, “History of the Public/Private,” 1427.
+43. See Horwitz on Stone. Horwitz, “History of the Public/Private,” 1427; See generally, Kennedy,
+
+“Decline of the Public/Private.”
+
+44. Lacey, “Theory into Practice,” 101.
+45. Kennedy, “Decline of the Public/Private,” 1349.
+46. Lacey, “Theory into Practice,” 102.
+47. Locke, Second Treatise, 38 (s. 87).
+48. Locke, Second Treatise, 35 ff.
+49. Underkuffler, “On Property,” 138; Ideally Underkuffler wished to recover such a broad defi-
+
+nition of property for U.S. Constitutional jurisprudence.
+
+50. Underkuffler, “On Property,” 138.
+51. Ryan, Property and Political Theory, 73–74.
+52. Ellis, “Citizenship & Property Rights” 545.
+53. Ryan, Property and Political Theory, 76.
+54. Ryan, Property and Political Theory, 76.
+55. Ryan, Property and Political Theory, 79.
+56. Reiss, “Introduction,” 22.
+57. Reiss, “Introduction,” 22.
+58. Ellis, “Citizenship & Property Rights,” 549.
+59. Williams, “Kant’s Concept,” 34.
+60. Williams, “Kant’s Concept,” 38.
+61. Kant, The Metaphysics of Morals, 138.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+THE COHERENCE OF THE CONCEPT OF CULTURAL PROPERTY
+
+253
+
+62. Ryan, Property and Political Theory, 83.
+63. Kant, The Metaphysics of Morals, 138.
+64. Kant, The Metaphysics of Morals, 138.
+65. Kant, The Metaphysics of Morals, 137–138. Kant argues that only the distributive justice of
+
+coercive law can fully ensure these rights, which may or may not be fully protected otherwise.
+
+66. Ryan, Property and Political Theory, 81.
+67. Kant, The Metaphysics of Morals, 141, 144.
+68. Kant, The Metaphysics of Morals, 148.
+69. Kant, The Metaphysics of Morals, 148.
+70. Kant, The Metaphysics of Morals, 148.
+71. Ryan, Property and Political Theory, 75.
+72. Penner, Idea of Property in Law, 215.
+73. Penner, Idea of Property in Law, 215.
+74. Penner, Idea of Property in Law, 216.
+75. Penner, Idea of Property in Law, 216.
+76. Penner, Idea of Property in Law, 216.
+77. Baehr, Portable Hannah Arendt, “Rights of Man,” 32.
+78. Baehr, Portable Hannah Arendt, “Rights of Man,” 34.
+79. Baehr, Portable Hannah Arendt, “Rights of Man,” 36.
+80. Baehr, Portable Hannah Arendt, Origins of Totalitarianism,” 122.
+81. Norris, “Arendt, Kant,” 174.
+82. Norris, “Arendt, Kant,” 174.
+83. Baehr, Portable Hannah Arendt, Origins of Totalitarianism,” 132.
+84. Norris, “Arendt, Kant,” 174.
+85. Baehr, Portable Hannah Arendt, Origins of Totalitarianism,” 132.
+86. The consequences of this denial are eloquently discussed in Baehr, Portable Hannah Arendt,
+
+“Origins of Totalitarianism,” 132ff.
+
+87. As Baehr notes, “In the early fifties Arendt had planned to write a coda [to the Origins of
+Totalitarianism] on the totalitarian elements of Marxism. . . ,” which eventually became a series of
+works that includes Between Past and Future, infra and the Human Condition. He cites to Bernard
+Crick who calls these “footnotes” to her earlier work. Baehr, Portable Hannah Arendt, “Editor’s In-
+troduction,” xxvii.
+
+88. Baehr, Portable Hannah Arendt, “Editor’s Introduction,” xxviii.
+89. Baehr, Portable Hannah Arendt, “Editor’s Introduction,” xxviii.
+90. Baehr, Portable Hannah Arendt, “Editor’s Introduction,” xxviii–xxix.
+91. Baehr, Portable Hannah Arendt, “Editor’s Introduction,” xxix.
+92. Baehr, Portable Hannah Arendt, “Editor’s Introduction,” xxix.
+93. Baehr, Portable Hannah Arendt, “Editor’s Introduction,” xxx.
+94. Baehr, Portable Hannah Arendt, “Editor’s Introduction,” xxx.
+95. Baehr, Portable Hannah Arendt, “The Human Condition,” 205.
+96. Baehr, Portable Hannah Arendt, “The Human Condition,” 207.
+97. Baehr, Portable Hannah Arendt, “The Human Condition,” 208.
+98. Thanks to Zoran Oklopcic for making this connection more explicit.
+99. Baehr, Portable Hannah Arendt, “The Human Condition,” 208–209.
+100. Baehr, Portable Hannah Arendt, “The Human Condition,” 191.
+101. Baehr, Portable Hannah Arendt, “The Human Condition,” 210.
+102. Baehr, Portable Hannah Arendt, “The Human Condition,” 212.
+103. Baehr, Portable Hannah Arendt, “The Human Condition,” 213.
+104. Baehr, Portable Hannah Arendt, “The Human Condition,” 214.
+105. Baehr, Portable Hannah Arendt, “The Human Condition,” 214–215.
+106. This position has been contentious and has led her to stances that many, including this au-
+thor, would criticize. Baehr notes her relationship to feminism, her position on affirmative action,
+and her position on desegregation. See, for example, Baehr’s introduction in Portable Hannah Arendt,
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+254
+
+BETINA KUZMAROV
+
+xxxiv ff, and “Reflections on Little Rock”, 231. This commitment to the public and private led Arendt
+into some morally frought territory as it is precisely the relationship between the public, private and
+political that allows for the very ambiguity Arendt herself sought to avoid. It is impossible to her-
+metically seal these categories as she would have preferred. Further, some have argued that Arendt’s
+distinction was always historically untenable. As Norris notes, “The questionable accuracy of Arendt’s
+account of the Greek experience has led some critics to reject her fundamental distinction between
+the public and the private.” Norris, “Arendt, Kant,” 169; although Norris himself is not convinced of
+this argument from historical inaccuracy, it is an important point to note. Norris, “Arendt, Kant,”
+169–170. Finally, her commitment to these spheres shows how important they are within the
+Northern–Western political tradition.
+
+107. Norris, “Arendt, Kant,” 170.
+108. Norris, “Arendt, Kant,” 170–174.
+109. Norris, “Arendt, Kant,” 166, 175.
+110. See generally, Norris, “Arendt, Kant,” 166–167.
+111. Norris, “Arendt, Kant,” 166.
+112. Norris, “Arendt, Kant,” 167.
+113. Norris, “Arendt, Kant,” 174.
+114. Arendt, Between Past and Future, 197–226, “The Crisis in Culture.”
+115. Arendt, Between Past and Future, 223, “The Crisis of Culture.”
+116. Arendt, Between Past and Future, 221, “The Crisis of Culture.”
+117. Arendt, Between Past and Future, 221, “The Crisis of Culture.”
+118. Arendt, Between Past and Future, 220, “The Crisis of Culture.”
+119. See generally discussion of Arendt, above.
+120. Audi, “Semiotics of Cultural Property Argument,” 131–132.
+121. Audi, “Semiotics of Cultural Property Argument,” 134–136.
+122. Audi, Semiotics of Cultural Property Argument,” 134.
+123. Audi, “Semiotics of Cultural Property Argument,” 134.
+124. Audi, “Semiotics of Cultural Property Argument,” 135.
+125. Audi,” Semiotics of Cultural Property Argument,” 135.
+126. Audi, “Semiotics of Cultural Property Argument” 135.
+127. Audi, “Semiotics of Cultural Property Argument,” 136.
+128. Audi, “Semiotics of Cultural Property Argument,” 136.
+129. Audi, Semiotics of Cultural Property Argument,” 136, See generally Kennedy’s discussion of
+
+operations at Kennedy, “Semiotics of Legal Argument” 329 ff.
+
+130. Audi relying on Kennedy, Audi, “Semiotics of Cultural Property Argument,” 137.
+131. Audi, relying on Kennedy. Audi, “Semiotics of Cultural Property Argument,” 137–138.
+132. As Goodrich notes in his study of the link between legal rhetoric and psychoanalysis: “The
+analysis of unconscious aspects of legal decision-making is not a new theme either within European
+or Anglo-American legal thought.” Goodrich, “Jani Anglorum,” 108.
+
+BIBLIOGRAPHY
+
+Alders, A. “Organized Looting: The Seizure of Jewish Property in the Netherlands, 1940–1945.” In
+Networks of Nazi Persecution: Bureaucracy, Business and the Organization of the Holocaust, edited by
+G. Feldman and W Seibel. New York: Berghahn Books/USHMM. 具http://books.google.ca/books
+?id⫽MD76MR8nDeoC&printsec⫽frontcover&dq⫽Networks⫹of⫹Nazi⫹Persecution:Bureaucracy,⫹
+Business⫹and⫹the⫹Organization⫹of⫹the⫹Holocaust&hl⫽en&ei⫽qKRyTYqfOIadgQfv3em4BQ&sa
+⫽X&oi⫽book_result&ct⫽result&resnum⫽1&ved⫽0CCgQ6AEwAA#v⫽onepage&q&f⫽false典 (2005;
+accessed 5 March 2011).
+
+Arendt, H. Between Past and Future: Eight Exercises in Political Thought. New York: Viking, 1968.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+THE COHERENCE OF THE CONCEPT OF CULTURAL PROPERTY
+
+255
+
+Audi, A. “The Semiotics of Cultural Property Argument” International Journal of Cultural Property
+14 (2007): 131.
+
+Baehr, P., ed. The Portable Hannah Arendt. New York: Penguin, 2000.
+
+Bajohr, F.“Aryanization and Restitution in Germany.”In Robbery and Restitution: The Conflict over Jew-
+ishPropertyinEurope,editedbyM.Deanetal.NewYork:BerghahnBooks/USHMM.具http://books.google
+.ca/books?id⫽sEVJzfNbuUwC&pg⫽PA204&dq⫽Robbery⫹and⫹Restitution:⫹The⫹conflict⫹over⫹
+Jewish⫹Property⫹in⫹Europe⫹(2007,⫹Berghan⫹Books/USHMM),&hl⫽en&ei⫽GKVyTfi6DMX2
+gAfb2OXoAQ&sa⫽X&oi⫽book_result&ct⫽result&resnum⫽1&ved⫽0CCgQ6AEwAA#v⫽onepage
+&q&f⫽false典 (2007; accessed 5 March 2011).
+
+Barnett, R. E. “Four Senses of the Public Law—Private Law Distinction.” Harvard Journal of Law and
+Public Policy 9 (1989): 267.
+
+Dean, M. “Seizure of Jewish Property and Interagency Rivalry in the Reich and Occupied Soviet
+Territories.” In Networks of Nazi Persecution: Bureaucracy, Business and the Organization of the Ho-
+locaust edited by G. Feldman and W. Seibel. New York: Berghahn Books/USHMM. 具http://books.google
+.ca/books?id⫽MD76MR8nDeoC&printsec⫽frontcover&dq⫽Networks⫹of⫹Nazi⫹Persecution:
+Bureaucracy,⫹Business⫹and⫹the⫹Organization⫹of⫹the⫹Holocaust&hl⫽en&ei⫽qKRyTYqfOIadg
+Qfv3em4BQ&sa⫽X&oi⫽book_result&ct⫽result&resnum⫽1&ved⫽0CCgQ6AEwAA#v⫽onepage&q
+&f⫽false典 (2005; accessed 5 March 2011).
+
+———. “The Seizure of Jewish Property in Europe: Comparative Aspects of Nazi Methods and Local
+Responses.” In Robbery and Restitution: The Conflict over Jewish Property in Europe, edited by M. Dean
+et al. New York: Berghahn Books/USHMM. 具http://books.google.ca/books?id⫽sEVJzfNbuUwC&pg
+⫽PA204&dq⫽Robbery⫹and⫹Restitution:⫹The⫹conflict⫹over⫹Jewish⫹Property⫹in⫹Europe⫹
+(2007,⫹Berghan⫹Books/USHMM),&hl⫽en&ei⫽GKVyTfi6DMX2gAfb2OXoAQ&sa⫽X&oi⫽book
+_result&ct⫽result&resnum⫽1&ved⫽0CCgQ6AEwAA#v⫽onepage&q&f⫽false典 (2007; accessed 5
+March 2011).
+
+Ellis, E. “Citizenship & Property Rights: A New Look at Social Contract Theory.” Journal of Politics
+68 (2006): 544.
+Engle, K. “After the Collapse of the Public/Private Distinction: Strategizing Women’s Rights” Studies
+in Transnational Legal Policy 25 (1993): 143.
+
+Del Casino, V. J. Jr., Social Geography. West Sussex, UK: Blackwell, 2009.
+
+Goodrich, P. “Jani Anglorum: Signs, Symptoms, Slips and Interpretation in the Law.” In Politics, Post-
+modernity and Critical Legal Studies: The Legality of the Contingent edited by C. Douzinas, P. Goorich,
+and Yifat Hachamovitch. New York: Taylor & Francis, 1994.
+
+Hilberg, R. The Destruction of the European Jews, student edition. New York: Holmes and Meir, 1985.
+Horwitz, M. J. “The History of the Public/Private Distinction.” University of Pennsylvania Law Re-
+view 130 (1982): 1423.
+
+Kant, I. The Fundamental Principles of the Metaphysics of Morals, translated by T. K. Abbott. Min-
+neola: Dover, 2005.
+
+———. “The Metaphysics of Morals.” In Kant: Political Writings, edited by H. Reiss. Translated by
+N. B. Nisbet. Cambridge: Cambridge University Press, 1991.
+
+Kennedy, D. “A Semiotics of Legal Argument” in Collected Courses of the Academy of European Law,
+Volume III, Book 2, edited by the Academy of European Law. The Netherlands: Wolters Kluwer,
+1994.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+256
+
+BETINA KUZMAROV
+
+———. “The Semiotics of Critique.” Cardozo Law Review 22 (2001): 1147.
+———. “The Stages of the Decline of the Public/Private Distinction.” University of Pennsylvania
+Law Review 130 (1982): 1349.
+Lacey, N. “Theory into Practice? Pornography and the Public/Private Dichotomy.” Journal of Law
+and Society 20 (1993): 93.
+
+Locke, J. The Second Treatise of Government and a Letter Concerning Toleration. New York: Dover,
+2002.
+Miller, R. L. Nazis Justiz. Westport/London: Praeger, 1995.
+
+Norris, A. “Arendt, Kant and the Politics of Common Sense.” Polity 29 (1996): 165.
+Olsen, F. E. “International Law: Feminist Critiques of the Public/Private Distinction.” Stud Studies in
+Transnational Legal Policy 25 (1993): 157.
+
+Penner, J. E. The Idea of Property in Law. Oxford: Clarendon, 1997.
+
+Reiss, H. “Introduction.” In Kant: Political Writings, edited by H. Reiss. Translated by N. B. Nisbet.
+Cambridge: Cambridge University Press, 1991.
+
+Rich, H. “Genocide as a Sociopolitical Process.” Canadian Journal of Sociology 12 (1987): 393.
+
+Rickman, G. J. Conquest and Redemption: A History of Jewish Assets from the Holocaust. New
+Brunswick: Transaction. http://books.google.ca/books?id⫽r6l1nrzaefEC&printsec⫽frontcover&dq
+⫽Conquest⫹and⫹Redemption:⫹A⫹History⫹of⫹Jewish⫹Assets⫹from⫹the⫹Holocaust&source
+⫽bl&ots⫽siM4_57Rsf&sig⫽kAeIRPOz6ZFRTkae4K8iMVcSW4U&hl⫽en&ei⫽hqVyTaaXFIjAgQfu2
+e3TCg&sa⫽X&oi⫽book_result&ct⫽result&resnum⫽1&ved⫽0CBgQ6AEwAA#v⫽onepage&q&f
+⫽false (2007; accessed 5 March 2011).
+
+Ryan, A. Property and Political Theory. Oxford: Basil Blackwell, 1984.
+
+Sax, J. L. “Heritage Preservation as a Public Duty: The Abbe Grégoire and the Origin of an Idea.”
+Michigan Law Review 88 (1990): 1142.
+
+Williams, H. “Kant’s Concept of Property.” The Philosophical Quarterly 27 no. 106 (1977): 32.
+
+Underkuffler, L. S. “On Property: An Essay.” Yale Law Journal 100 (1990): 127.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:23:10, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739113000118
+
+

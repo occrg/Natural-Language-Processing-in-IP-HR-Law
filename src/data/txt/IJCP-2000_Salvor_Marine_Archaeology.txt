@@ -1,0 +1,2436 @@
+Salvor in Possession: Friend or Foe 
+
+to Marine Archaeology?
+
+ -*
+
+ . ’**
+ ***
+
+While the threat to the underwater cultural heritage from the treasure salvage industry is widely
+recognised, the approach to “protection” ranges from absolute prohibition to the sale of state li-
+cences to the highest bidder. Even the former raises difﬁcult problems of enforceability and the
+choice of mechanisms to determine whether in situ preservation is the preferred option for any
+particular wreck site. The common law jurisdictions have tended to prefer a regulated salvage
+regime, in which the courts themselves have a role in considering whether appropriate archaeo-
+logical methodology is applied to the recovery of historic artefacts. This article examines the legal
+and economic basis of such an approach and evaluates whether the underwater cultural heritage
+has derived any discernible beneﬁt from this judicial creativity. Inter alia, it concludes that the
+legal framework is itself ﬂawed by uncertainty and that the deliberations of the court are ham-
+pered by procedural deﬁciencies.
+
+1 
+
+The struggle to provide effective legal protection for the underwater cultural her-
+itage has continued unabated for nearly four decades1 on both the national and in-
+ternational fronts. Notwithstanding the failure to achieve a European Convention
+in 1986, many of the countries participating in those negotiations have developed
+domestic legal regimes2 that have curtailed unregulated salvage operations.3 Indeed,
+the widespread acceptance among European nations of the need for intervention
+has been a major factor in developing the necessary impetus for the 1999 Draft
+UNESCO Convention on the Protection of the Underwater Cultural Heritage4
+(“the Convention”), which is likely to be submitted to the UNESCO General
+
+*Senior Lecturer in Law, University of Wolverhampton.
+**Consultant on art and cultural property law; Member, Editorial Board, International Journal of Cultural
+Property 
+***Senior Lecturer in Law, University of Wolverhampton.
+International Journal of Cultural Property, Vol 9, No. 2, 2000, pp. 263– 314
+© 2000 International Cultural Property Society
+
+263
+
+264  -  .
+
+Conference in 2001. However, until such a treaty is in force, the protection of the
+underwater cultural heritage will remain dependent on national legal regimes. It
+is largely the common law jurisdictions, with their general commitment to a legal
+regime for historic wreck based on the law of salvage, that give the greatest cause for
+concern.5 It is essential for the effective defence of the underwater cultural heritage
+to gain an understanding of the origin and traditions of salvage, together with an
+appreciation of recent attempts to modify established principles to take account of
+the particular problems arising from the recovery of antiquities from the seabed. 
+It is in this context that the unique developments of salvage law in the U.S.
+federal admiralty courts acquire their signiﬁcance, as it is primarily the American
+salvage industry that has the new technology in search and recovery operations tar-
+geting deep ocean historic wreck sites.6 However, the majority of sites are in shal-
+low (territorial) waters and new technology such as mixed gas equipment and
+re-breathers7 is available to sports divers as well as smaller commercial salvage
+companies throughout the developed world. Thus, there can never be a complete,
+practical separation between private salvage interests and international negotia-
+tions. Indeed, any evaluation of both the problems to be faced by negotiators and
+the nature of legal protection for the underwater cultural heritage must necessar-
+ily take into account the operation of the salvage law regimes in many different ju-
+risdictions and the commercial interests that they support. This connection be-
+tween national jurisdiction and international agreement could not have been more
+graphically illustrated than in the latest round of litigation involving the wreck of
+the Titanic.8 The court expressed considerable annoyance that the U.S. government
+was not represented to explain why it was contemplating an international agree-
+ment with Canada, France, and the United Kingdom that would restrict interfer-
+ence with the wreck and, by the same token, interfere with the rights granted by the
+court to RMS Titanic Inc. to conduct salvage operations at the site. Until this
+matter is resolved, the government of the world’s principal maritime power is ap-
+parently constrained in its conduct of international negotiations by an internal
+issue of the individual property rights of a salvor in possession under the U.S. ad-
+miralty law of salvage.9
+
+Accordingly, this article has three objectives. Firstly, it analyses the legal and
+economic context of the United States’ and other common law jurisdictions’at-
+tempts to regulate the salvage of historic wreck; secondly, it examines the attempts
+of federal courts to take account of archaeological considerations, both in grant-
+ing protection to salvors and in calculating salvage awards, and, ﬁnally, it consid-
+ers whether the underwater cultural heritage has derived any discernible beneﬁts
+from this judicial creativity.
+
+     
+    
+
+  265
+
+It is incorrect to regard salvage law simply as a sterile collection of legal rules. It
+has its roots in antiquity, its own sense of pride in its contribution to legal and
+economic development, and an awareness that national variations in detail do not
+detract from the truly international character of its substantive core. Even when
+the law of salvage developed in England during the nineteenth century,10 it did so
+with reverence for the past,11 and those same central principles still underpin sal-
+vage law in common law jurisdictions and internationally.12 The emergence of a
+body of law which was and remains largely sui generis underlines this historical con-
+tinuity and offers a greater insight into the ferocious independence of federal ad-
+miralty courts that has emerged as a key strand in the line of recent cases dealing
+with treasure salvage in the United States.
+
+The central principle of salvage law is that encouragement of salvage is para-
+mount. The continuity of this policy merits further explanation, since it lies at the
+core of the conﬂict between salvors and archaeologists. In words which would not
+be  out  of place  in  a  modern  political  manifesto  or  economics  text,  Sir  John
+Nicholl stated in 1835 in the Industry,13 “there is still another principle—to en-
+courage enterprise, reward exertion and to be liberal in all that is due to the general
+interests of commerce. . . .”14 The 1910 Brussels Convention for the Uniﬁcation of
+Certain Rules Relating to Assistance and Salvage15 at Sea (hereafter “the 1910 Con-
+vention”) similarly asserts in Article 2 “[t]hat every act of assistance or salvage
+which has a useful result gives a right to equitable remuneration.” Finally, the pri-
+mary reason for the process leading to the 1989 London Salvage Convention (“the
+1989 Convention”) was the concern of maritime nations and the salvage industry
+itself to bolster declining revenues and reverse the parallel reduction in capacity.16
+Unsurprisingly, the 1910 Convention made no attempt to address the issues either
+of sunken wreck in general or of historic wreck in particular. The 1989 Conven-
+tion, while permitting reservations in respect of historic wreck under Article 30,
+also failed to elaborate a clear policy.17 Thus, the commitment of admiralty courts
+in the United States and elsewhere to commercial reward merely reﬂects at least
+two centuries of an unbroken international legal tradition, underpinned by the pri-
+macy of federal jurisdiction in admiralty matters that itself enjoys protection
+under Article III of the U.S. Constitution.18 It is against such a background that
+the emergence of judicial protection for the underwater cultural heritage must be
+judged.
+
+266  -  .
+
+Notwithstanding a degree of evolutionary change, the overall consequence of
+this historical continuity is rigidity, a straitjacket of existing admiralty law under-
+pinned by public policy justiﬁcations and a doctrine of precedent constraining ju-
+dicial creativity. It is unnecessary for the present purposes to review generally all
+these legal principles but it is clear that four concepts are central. Firstly, the entire
+salvage regime itself does not apply unless the wreck, artefacts, or wreck site can be
+shown to be “in marine peril,” or, as it is more simply stated in most of the mod-
+ern cases, “in danger.” Secondly, the initial reason for salvors seeking legal protec-
+tion is to defend the status of “salvor in possession” and its attendant possessory
+rights. Thirdly, entitlement to a salvage award is dependent on “success,” the as-
+sessment of which is made by reference to an established list of criteria. Fourthly,
+entitlement to an award can be affected by the law relating to “abandonment,” the
+juridical deﬁnition of which has caused particular difﬁculties in the United States. 
+
+.1 “  ”
+Traditionally, the danger to the property to be salved is assessed under two broad
+headings, the risk of physical damage or destruction and the risk of ﬁnancial or
+proprietary harm (including deprivation of enjoyment) to the owner. The applica-
+tion  of the  same  principles  was  extended  to  sunken  wreck  as  the  technology
+emerged to make recovery possible,19 although the majority of the case law naturally
+reﬂects a preoccupation with the most common maritime casualty, vessels aﬂoat but
+in need of assistance. Even in the latter context, the practical difﬁculties have been
+considerable, particularly on the questions of the degree and immediacy of dan-
+ger.20 Throughout the common law jurisdictions, these matters are still assessed on
+the facts of individual cases by the exercise of judicial discretion rather than the me-
+chanical application of precedent,21 and while this conﬁrms judicial ﬂexibility, it
+does so in an operational maritime context having little relevance to historic wreck.
+A judicial willingness to innovate is also demonstrated by the later extension
+of salvage principles to reward success in protecting owners from the consequen-
+tial ﬁnancial loss of the casualty (for example, the costs of wreck removal from a
+harbour entrance). This represented a slightly broader approach, although such ef-
+forts are merely taken into account and do not justify a salvage award per se.22 By
+contrast, English admiralty courts were unable to respond satisfactorily to the
+problem of environmental danger, notably oil pollution, beyond accepting that re-
+muneration might be enhanced if third-party claims were avoided by the efforts of
+a salvor.23 It is also noteworthy that the American cases disclose an even more cau-
+tious approach24 to extension of liability for salvage claims. The 1910 Convention
+did not extend the concept of danger to third-party claims,25 and even the 1989
+Convention proceeds by way of carefully worded provisions in Articles 13 and 14 to
+reward salvors who avert environmental “threats.”26
+
+  267
+
+Thus, it is apparent that the concept of danger is not only hidebound by
+precedent but also inherently pragmatic in nature. The central public policy ob-
+jective is to encourage intervention by salvors to avert maritime perils with a view
+to returning maritime property to the stream of commerce. This is a recurring
+theme in salvage cases, including those where the subject matter is historic wreck.
+This essentially commercial ideology was at the heart of the debate over so-called
+liability salvage in the years leading up to the 1989 Convention. The issue was not
+whether it was desirable to reward salvors for averting environmental disaster but
+on whose insurers the liability should fall, shipowners’ or cargo owners’. The even-
+tual compromise has left the basic concepts of salvage law untouched, and the as-
+sessment of danger to historic wreck is conducted against this background of im-
+penetrable commercialism, judicial tradition, and precedent.
+
+.    
+In Morris,27 the ﬁrst of only two relevant English cases involving historic wreck, the
+matter was not dealt with expressly and the court merely assumed that recovery of
+artefacts amounted to salvage.28 However, the location of the wreck site near a reef
+to the west of the Isles of Scilly, an area exposed to Atlantic storms and ﬁerce
+tides, renders the physical danger self-evident in conventional maritime terms. The
+peril is not so much that the items themselves might be destroyed or sustain fur-
+ther damage, since 260 years at the bottom of the sea had long since done their
+worst,29 but that a fresh storm or high spring tide might sweep them away or cover
+them again.30 Since admiralty law seeks to return goods to the stream of com-
+merce, this was seen as sufﬁcient danger to justify the application of salvage prin-
+ciples. Similarly, in the case of the Hanover,31 which involved an application for an
+injunction on behalf of a salvor, restraining the U.K. government from designat-
+ing the wreck as an historic vessel, it was implicitly recognised by the court that the
+wreck was “in danger” and therefore legitimately the subject of salvage, even though
+it was buried at that time in many feet of sand. 
+
+A similar approach can be detected in the American cases. In Columbus-America
+Discovery Group v. Atlantic Mutual Insurance Company,32 where there was no serious dis-
+cussion of the issue of danger (other than an insistence that loss on the ocean ﬂoor
+was sufﬁcient33) in relation to this sidewheel steamer which sank in a hurricane 160
+miles off the coast of South Carolina in 1 1/2 miles of water. The hull is stated to
+have come to rest in an upright position, largely free of sediment, although the
+wooden structure had collapsed. The assumption of danger by the court would
+seem rather less justiﬁed than in Morris, as instability of the site was clearly not a
+concern. The potential value of the cargo, however, was spectacular.34 But a marked
+feature of the above cases is that the courts did not expressly consider the question
+of the presence of danger, but merely treated it as axiomatic while the property re-
+
+268  -  .
+
+mained on the seabed. In marked contrast are the remarks of Judge Ramsey in Sub-
+aqueous Exploration and Archaeology Ltd. et al. v. The Unidentiﬁed, Wrecked and Abandoned Ves-
+sel etc.,35 which merit repeating in full:
+
+However, the defendant vessels in these proceedings have been resting on the
+ocean ﬂoor “under an undetermined amount of sand” for hundreds of years.
+This forum declines to follow the recently developed rule in the Fifth Circuit
+that an ancient, abandoned shipwreck constitutes a marine peril for purposes
+of stating a valid salvage claim. See, e.g. Cobb Coin II, 549 F. Supp. at 557
+and cases cited therein. Rather, the Court ﬁnds that the defendant vessels are
+not reasonably in peril of being lost through the elements since they are “im-
+pervious to weather conditions above the sea,” with the “sand prevent[ing]
+deterioration under water.” Platoro Limited v. Unidentiﬁed Remains of a
+Vessel, 508 F.2d 1113, 1114– 1115 n.1 (5th Cir. 1975).
+
+The Court, therefore, ﬁnds under the circumstances that the traditional
+
+public policy concerns underpinning the federal law of salvage are
+insufﬁciently implicated, if at all, when the objects to be rescued are marine
+antiquities which have been undisturbed for centuries.
+
+However, it is also interesting to note that, even at ﬁrst instance in Platoro36 itself,
+Judge Garza was dismissive of this very argument by the State of Texas, stating em-
+phatically that it made no difference whether a vessel was ﬂoating, lying on the sea-
+bed, embedded in the ocean ﬂoor, or buried under sand. In Cobb Coin II,37 one of
+the richest treasure hauls of them all, from the wreck of the so-called 1715 Plate
+Fleet,38 Judge King decided the matter by relying on the so-called “established” rule
+cited above by Judge Ramsey.
+
+The lack of discussion on this issue in English law has already been noted,39
+but the Canadian approach in H.M. The Queen in Right of Ontario v. Mar-Dive Corpora-
+tion et al.40 is noteworthy for rejecting a salvage claim on the grounds that the wreck
+of the Atlantic, which had sunk in Lake Erie in 1852, was in no danger other than
+from recovery operations themselves, in that they had already disturbed the equi-
+librium of the site. This vessel had sunk bow ﬁrst and became “mired” in the bed
+of the lake, that is to say, stuck fast but not submerged in sediment. Notwith-
+standing these few cases where the lack of danger has avoided the application of
+salvage law, the predominant approach is that expressed above by the Fifth Circuit,41
+namely, that property is in peril simply because it remains on the seabed. Again, the
+example of The Central America is instructive, where the lack of analysis of the dan-
+ger requirement amounts to a simple reassertion of the basic premise of admiralty
+law that property lost at sea has been involuntarily removed from the possession of
+the owner and should be restored, subject only to payment of the salvor. The three
+possibilities of destruction, damage, or loss are not differentiated for this purpose,
+again underlining that returning property to the stream of commerce is sufﬁcient.
+
+  269
+
+The approach is taken up again in Cobb Coin Company Inc. v. The Unidentiﬁed, Wrecked
+and Abandoned Sailing Vessel etc.,42 where almost identical phraseology is used, where
+the danger of losing the artefacts in subsequent tropical storms and hurricanes is
+emphasised, and where the whole matter is encapsulated by the words, “Every day
+lost in the salving effort means fewer artifacts recovered for the beneﬁt of soci-
+ety.”43 In terms of traditional salvage law principles, this approach must be correct.
+The extended meaning of danger, encompassing as it does loss of beneﬁcial use
+and the continued absence of sunken property from society’s stream of com-
+merce,44 means that the courts cannot determine the issue solely by reference to the
+presence or absence of physical danger in the marine environment. This incorpo-
+ration by salvage law of economic and proprietary considerations is in fundamen-
+tal opposition to the stance of the archaeological community, which regards phys-
+ically  stable  sites  as  the  most  appropriate  means  of preserving  the  heritage.
+Preservation in situ can preserve even organic remains for centuries, is immeasurably
+more cost effective than the elaborate and expensive conservation measures re-
+quired upon recovery, and resolves the pressing problem faced by all heritage bod-
+ies of securing adequate accommodation for recovered material in publicly acces-
+sible collections.45 Consequently, the extended interpretation given to danger by
+the admiralty courts constitutes a virtually irreconcilable disparity with accepted
+principles of conserving the underwater cultural heritage.
+
+This requirement of danger is only relevant if salvage law applies. In the
+United States, where title to property has been abandoned, the law of ﬁnds applies
+to grant title (and thus the full value) to the ﬁnder.46 If abandonment of title is es-
+tablished,47 the ﬁnder has only to prove that the artefacts have been reduced into
+possession to establish a claim to title. The existence of danger is immaterial. In
+this way, the law of ﬁnds encourages covert, early recovery, since locating the prop-
+erty is insufﬁcient without the exercise of possession. In The Central America this
+“harsh, primitive and inﬂexible” law is criticised in favour of the law of salvage,
+precisely because the latter encourages overt, less competitive recovery operations.48
+Indeed, the assertion is made that admiralty law prefers and favours salvage law.49
+This view is dismissed as “erroneous” in the powerfully argued dissenting judge-
+ment of Judge Widener,50 who cites ten precedents in addition to other learned
+sources51 to demonstrate (with respect, beyond all reasonable doubt) that other cir-
+cuits have consistently applied the law of ﬁnds to historic wreck and not the law
+of salvage. Of course, this suggests that the issue of danger is largely of historical
+interest in the United States, and that may well have proved to be the case before
+the 1987 Abandoned Shipwreck Act.52 As title to such wrecks is now effectively
+vested in the State, it suddenly became vital for salvors to demonstrate that wrecks
+had not in fact been abandoned by their owners and so fall outside the provisions
+of the Abandoned Shipwreck Act. Salvage law then applies53 and danger again be-
+comes an issue.54
+
+270  -  .
+
+. “  ”
+The role of federal admiralty courts in the early stages of a salvage operation is
+primarily to offer protection to one salvor from either competing salvors55 or, in
+the United States, from a state.56 In American historic wreck cases, it is the prac-
+tice of salvors to apply for both a declaration that they have acquired the status of
+salvor in possession and for an injunction restraining others even from entering the
+wreck site, let alone excavating and removing artefacts.57 It is important to em-
+phasise that these possessory rights are proprietary in nature and also enjoy the
+draconian protection of a maritime lien.58 This arises automatically on the com-
+pletion of successful salvage and endures until the salvage award has either been
+discharged or adequate security has been provided.59
+
+The concept of “salvor in possession” is related to the parallel concept of
+“derelict” and both have their origins in the case law of previous centuries. The lat-
+ter is a vessel abandoned at sea by the master and crew, without hope of recovery.60
+It is abandoned, not in the sense that legal title (ownership) to it is lost, but in the
+sense that it is no longer in the physical possession nor under the control of the
+owner or crew.61 The concept originated as long ago as the thirteenth century, when
+wooden vessels were sometimes abandoned but remained aﬂoat in a waterlogged
+condition. Any person discovering one could board it as a salvor and, if it was suc-
+cessfully brought to port, a salvage reward was payable.62 The concept of salvor in
+possession was related to that of derelict, as the ﬁrst persons boarding and taking
+possession as salvors acquire the status of salvor in possession and, as such, “have
+a legal interest, which cannot be divested . . . and it is not for . . . any other person
+. . . to dispossess them without cause.”63 In short, a salvor in possession has a legal
+right to entire and exclusive possession and control of a derelict which is good
+against the world.  
+
+It is instructive to consider further how the status of a salvor in possession is
+both acquired and retained. The requirements are simply stated. To establish pos-
+session of a derelict, a salvor must demonstrate both an intention to do so64 and
+sufﬁcient physical acts of use and occupation to be in control of the whole of the
+wreck or the wreck site.65 Clearly, in respect of a sunken vessel in tidal waters, such
+use and occupation by divers must, by the constraints of weather, tide, and depth,
+be discontinuous and limited. In assessing whether possession has been taken, U.K.
+courts will take account of the weather and tidal conditions, the depth, the fre-
+quency of diving operations achieved, the maintenance of a buoy upon the site, the
+degree and nature of any preparatory work and recoveries made, and the existence
+of future plans.66 The Morris case is particularly instructive in two respects. Firstly,
+because it involved an archaeological excavation67 rather than a traditional com-
+mercial salvage operation, it established that maritime archaeologists could become
+salvors in possession and thereby protect their sites from intrusion.68 Secondly, the
+court accepted for the ﬁrst time in the United Kingdom that possession could be
+
+  271
+
+taken of a site where the remains of a wreck were scattered69 rather than of the
+substantial remains of a vessel70 itself. Thus an archaeologist or a salvor (in the tra-
+ditional sense), by manifesting control over a site, may acquire a possessory right
+which is enforceable against the world and which may be said to be analogous to
+a proprietary right in the site.71 Similar criteria have been formulated in the United
+States, where possession must also be established and maintained. The court must
+be convinced that due diligence has been exercised in actual recovery operations by
+an applicant with the capacity to achieve success.72 In Hener v. United States of Amer-
+ica et al.,73 a dispute between three groups of salvors was resolved by the application
+of these principles, following a detailed evaluation of the efforts made by each,
+with particular emphasis on the degree of investment of capital, equipment, and
+time. A more recent judicial application of these requirements occurred in Marex
+International Inc. v. The Unidentiﬁed, Wrecked and Abandoned Vessel etc., where the court ex-
+amined the activities of the plaintiff in minute detail before granting an injunction
+protecting its status against intrusions by competing salvors and arresting the re-
+covered artefacts.74
+
+2.3.1 Acquisition and Retention of Status
+The more modern problem of possession of deep ocean wrecks has been imagina-
+tively resolved by the concepts of “telepresence” and “telepossession,” acknowledg-
+ing that, inter alia, underwater robotic vehicles, remote video ﬁlming, and laser imag-
+ing are the only realistic means available in depths beyond the reach of conventional
+diving equipment.75 Yet the conclusion from the salvor’s viewpoint is disturbingly
+simple: continue successful salvage operations or risk vacation of injunctive protec-
+tion and displacement by a competing salvor. Indeed, the case law emphasises this
+conclusion, in that legal challenges to the status of a salvor in possession frequently
+include allegations of lack of due diligence in pursuing recovery operations,76 again
+underlining the commercial rationale of the entire salvage regime.
+
+2.3.2 Due Diligence and the Titanic
+It should come as no surprise, therefore, that the two critical components of the
+legal concept of salvor in possession, the right to exclude others so that salvage can
+continue unimpeded and the correlative duty to pursue recovery with due diligence,
+have been given even greater prominence by the latest developments in the saga of
+the Titanic referred to brieﬂy in the introduction.77 The salvors intended to mount
+a major recovery operation during the summer of 2000 and the company sought ap-
+proval and guidance from the court on the possible impact of the pending multi-
+lateral agreement between the United States, the United Kingdom, Canada, and
+France to regulate access to the wreck. The company and the court accept that a sal-
+vage operation approximately every two years is necessary to show the due diligence
+required to maintain the status of salvor in possession. The declared intention is to
+
+272  -  .
+
+collect further artefacts, although the company has reiterated its commitment to
+maintain the collection and not to dispose of individual items. However, there are
+further aspects of these proceedings that give cause for grave concern.
+
+An RMS witness at the March proceedings78 revealed a plan to make a “surgi-
+cal incision” to allow entry through the side of the hull for removal of wreck con-
+tents. It is alleged that the wreck may “collapse upon itself,” rendering such entry
+impossible, although this assessment is noteworthy for its lack of a time scale.
+Apart  from  discounting  the  use  of explosives,  the  method  of entry  was  not
+speciﬁed, other than to say that consideration was being given to the matter in dis-
+cussions between the company and ROV (remotely operated vehicle) operators. 
+The cross-examination then turned to the question of sale, revealing two ad-
+ditional matters. Firstly, the company may consider sale of artefacts in the future,
+but only of the collection as a whole to an “entity who would agree to make the ob-
+jects available through exhibition to the public.”79 Secondly, it was revealed that the
+terms of the charter agreements with IFREMER permitted the sale of coal, coins,
+currency, gold, and diamonds.80 Although this may have been public knowledge
+from the outset, these “exempt” items take on a greater signiﬁcance in the context
+of a plan to enter the hull since, up to this time, most of the recovered objects have
+come from the seabed, in the so-called debris ﬁeld. The suspicion must be that there
+will now be a dedicated search for such items, which will then be sold to generate
+a proﬁt for the salvage company, RMS Titanic Inc. Such suspicions have not been
+alleviated by statements reputed to have been made by some shareholders to the
+general effect that “if there are $1 billion worth of artefacts down there, we want
+them up.”81 Indeed, counsel for the United States in the March proceedings ex-
+pressly made the point that any policy over the long-term future of the collection
+was “contingent upon the express approval of the shareholders.”82 The point was
+not conceded by the company, but it is a matter of basic company law that share-
+holders can change the management team and thus company policy on any issue.83
+Apart from the request for guidance regarding the multilateral agreement,84 the
+March proceedings were also instructive regarding the court’s attitude to the prior-
+ity to be accorded to archaeological considerations. Counsel for the United States
+suggested that any decision to blow a hole in the hull would breach the spirit, if not
+the letter, of the court’s original order. Judge Calvert Clarke dismissed that notion
+and reiterated that the salvor had exclusive rights that no one could fetter.85 If the
+point required greater emphasis, this was forthcoming by the later statements that
+the salvor had “carte blanche” to conduct operations86 and, then again, “blanket au-
+thority from this court to exercise salvage on that ship.”87 The substantive nature of
+the rights of a salvor in possession could enjoy no more emphatic illustration than
+these extraordinary proceedings. Private property rights are being asserted by a na-
+tional court in international waters over a wreck of a foreign vessel in derogation
+of its own state’s authority to conduct foreign policy and, albeit potentially, in di-
+rect contravention of a treaty recognised in international law. Moreover, the failure
+
+  273
+
+to establish the relative importance of archaeological considerations among the
+other criteria used by admiralty courts is shown to be a major deﬁciency in the ju-
+dicial protection afforded to the underwater cultural heritage.
+
+. “”
+The right to a salvage award is dependent on the preservation of maritime prop-
+erty from marine peril, and failure to achieve success prevents such an award, how-
+ever great the effort or however high the expenditure.88 This is the traditional prin-
+ciple of “no cure, no pay,” which can be found in English law,89 American law,90
+and international law.91 The requirement is in no way relaxed for historic wreck and
+the due diligence obligations of a salvor in possession have already been noted. In-
+deed, it is questionable whether an altruistic salvor could slow, or even halt tem-
+porarily, the rate of recoveries on scientiﬁc or archaeological grounds alone with-
+out endangering its legal protection. Certainly, a prolonged cessation, other than
+on grounds of site difﬁculties, technical problems, or operating conditions, would
+result in success for any third-party application to vacate an injunction.
+
+The criterion of success is also relevant to the assessment of salvage awards
+and how these relate to the other duties of salvors. Traditionally, admiralty texts
+treat the two aspects separately,92 but logic dictates that a duty to exercise due care
+in the salvage operation must surely relate directly to the amount of the salved
+value, to the assessment of the skill used by the salvor, and to the overall measure-
+ment of success. In the speciﬁc context of historic wreck, it will be seen that U.S.
+admiralty courts have added a duty to preserve the “archaeological provenance”93
+since the decision in The Central America.94 This decision purported to base itself on
+MDM Salvage Inc. v. The Unidentiﬁed, Wrecked and Abandoned Sailing Vessel etc.95 In fact,
+MDM was only concerned with commenting on the lack of real effort in preserv-
+ing the archaeological integrity of the site, as part of a series of ﬁndings of fact
+that resulted in a refusal to grant exclusive salvage rights. In other words, it was not
+concerned in that case with assessment of an award. This particular example of ju-
+dicial creativity reﬂects the central theme of this article, namely whether the un-
+derwater cultural heritage (UCH) has derived any signiﬁcant degree of protection
+from this foray into “land management.”96
+
+     
+
+.1     11  1
+At this juncture, it is useful to note Article 8 of the 1910 Convention, which lists
+the considerations in making an award as follows:
+
+(a) ﬁrstly, the measure of success obtained, the efforts and deserts of the
+salvors, the danger run by the salved vessel, by her passengers, crew and
+cargo, by the salvors and the salving vessel; the time expended, the expenses
+
+274  -  .
+
+incurred and losses suffered, and the risks of liability and other risks run by
+the salvors, and also the value of the property exposed to such risks, due
+regard being had to the special appropriation (if any) of the salvors’ vessel
+for salvage purposes; (b) secondly, the value of the property salved.
+
+Although differently structured and worded, Article 13.1 of the 1989 Convention
+contains broadly the same criteria but adds “the skill and efforts of the salvors in
+preventing or minimising damage to the environment,97 the promptness of the ser-
+vices rendered,98 the availability and use of vessels or other equipment intended for
+salvage operations99 and the readiness and efﬁciency of the salvor’s equipment and
+the value thereof.”100 With the exception of environmental damage avoidance,101 it
+can be argued that these additions simply make explicit factors already implicit in
+Article 8. 
+
+However, the important question for present purposes is whether this list of
+criteria is deﬁnitive. In dealing with just that matter in the United States, District
+Judge Lynch in Westar Marine Services v. Heerema Marine Contractors,102 after examining
+Article 8, the Comité Maritime International (CMI) Draft Convention that led to
+Article 13,103 relevant English authorities, and Article 31 of the Vienna Convention
+on the Law of Treaties,104 stated decisively:
+
+It is not for this Court to arrogate itself to the position of an international
+lawmaking body and read additional factors for consideration into the
+Treaty. Thus, this Court declines to consider the prevention of liability to
+third parties, public interest, or “beneﬁts to the ship owner” as distinct
+factors in arriving at a salvage award under the Treaty.
+
+Such an approach is at odds with the additional factor (archaeological provenance)
+accepted in The Central America and subsequent case law. Brice,105 while conceding
+that there is no similar English decision on Article 8, accepts the principle and
+submits that Article 13 should also be construed as deﬁnitive in the interests of in-
+ternational uniformity. Nonetheless, he supports the American approach to take
+account of scientiﬁc endeavour in assessing an award in historic wreck recoveries.106
+Although his position is encouraging, it also appears to be contradictory, unless
+it is possible to argue that such a factor is part of Article 13.1(e), “the skill and ef-
+forts of the salvors in salving the vessel, other property and life,” a point which
+Brice himself does not seek to establish. This discussion also serves to emphasise
+that the American judiciary has been genuinely creative in introducing archaeo-
+logical criteria into salvage law and that the Westar Marine Services approach can no
+longer be regarded as good law.
+
+.  BLACKWALL 
+At this point, it is useful to explain more fully the speciﬁc criteria used by U.S.
+courts in assessing salvage awards. There are six traditional factors set out by the
+
+  275
+
+Supreme Court in The Blackwall 107 and they are listed in descending order of im-
+portance in Benedict,108 namely:
+
+1. the degree of danger from which the property was rescued;
+2. the value of the property saved;
+3. the risk incurred by the salvors in securing the property from the impend-
+ing peril;
+4. the promptitude, skill and energy displayed in rendering the service and
+saving the property;
+5. the value of the property employed by the salvors in rendering the service,
+and the danger to which such property was exposed; and
+6. the labour expended by the salvors in rendering the salvage service.109
+
+The more recent, seventh factor of preserving the archaeological provenance was
+certainly referred to as the “seventh,” although there is little in the case law to in-
+dicate its actual priority in the assessment process, and Benedict does not yet assist
+in this regard. Given the cogent fact that the original list of six has the sanction of
+the Supreme Court, any pronouncement from a lower level of the judiciary would
+have to be regarded as provisional. Of course, it is possible to argue that the sev-
+enth criterion is only relevant to historic wreck and, in that context, should be pre-
+eminent. Nonetheless, the recurring themes of this article, the fundamental tradi-
+tions and functions of salvage, together with the constraint of precedent placed on
+judicial creativity, must throw serious doubt on the chances of success for that ar-
+gument. While national salvage regimes continue to dominate the management of
+the underwater cultural heritage, then this issue, which seems to be merely techni-
+cal, will remain one of fundamental importance for marine archaeology.
+
+Benedict’s order of priority merits further comment, as it provides the prac-
+tical link between the two central salvage issues of “danger” and “success.” It has
+already been explained that the former is a pre-requisite for the salvage regime to
+apply in the ﬁrst place but, for that purpose alone, the actual degree of danger has
+no great signiﬁcance as long as it can be established that “there is a state of dif-
+ﬁculty and reasonable apprehension”110 or that  “the vessel has encountered any
+damage or misfortune which might possibly expose her to destruction if the ser-
+vices were not rendered.”111 However, when assessing the award, the Benedict pri-
+ority renders the immediacy and seriousness of the danger the paramount factor.
+In conventional maritime disasters, this approach is sensible, is easy to assess, and
+serves the public policy objective of encouraging salvors. In the case of historic
+wreck, any objective assessment of the degree of physical danger is necessarily an
+archaeological assessment, which would provide a mechanism, in appropriate cases, to
+formulate disincentives to salvors, since a stable site would produce a very low as-
+sessment of the level of physical danger. However, since danger includes ﬁnancial
+danger which, in turn, includes removal of artefacts from the stream of commerce,
+
+276  -  .
+
+the opposite result is inevitable. It is simple to argue that the mere presence of
+valuable goods on the seabed is the ultimate danger, making it almost superﬂuous
+to mention the purely physical threats of storms, typhoons, and shifting sediment.
+Thus the paramount factor achieves the highest rating in the assessment of salvage
+awards.
+
+Similarly, the second most important factor, the value of the salved property,
+operates automatically in favour of the salvor. Once again, it is self-evidently sen-
+sible in the context of a conventional maritime casualty to reﬂect high salved val-
+ues in the award 112 but, in the case of historic wreck, the salvor will have selected its
+“casualty” precisely because it is likely to yield high monetary values and will almost
+certainly abandon the salvage operations if they do not materialise. Yet again an-
+cient principles do not serve well where the commercial rationale is not accepted.
+Turning from the criteria for the award to the duty of a salvor to take reason-
+able care (or “due care,” as it is expressed in Article 8 of the 1989 Convention113), the
+courts in all jurisdictions have been faced by the dilemma that the salvor is a vol-
+unteer (that is to say, not under a prior legal duty to intervene) intervening to res-
+cue maritime property from danger. The predictable and sensible consequence has
+been a judicial policy of leniency towards salvors by the application of a standard
+of care expressed by Judge Atkinson as “the skill and care which can reasonably be
+expected from persons in their position.”114Thus, a chance intervention by a passing
+vessel will require less skill than the intervention of a professional salvor.115 Al-
+though the modern American approach has seen a divergence from its English ori-
+gins,116 it remains the case that gross negligence or wilful misconduct on the part of
+a salvor will reduce or negate an award,117 and that is a general approach that corre-
+sponds to the 1989 Convention regime. There is no case applying this to recovery of
+historic wreck,118 although ﬁrst principles suggest there should be no difﬁculty in
+doing so on appropriate evidence. Perhaps the major evidential obstacle to such an
+application would be the standard of archaeological and scientiﬁc methodology
+required by admiralty courts in the ﬁrst instance, since the negligence must be
+“gross.” 119 In other words, although there may be a duty incumbent on American
+salvors to preserve the archaeological provenance, and although there may be the
+means under traditional salvage law to penalise those who fail to do so, the practi-
+cal consequences are likely to depend largely on the standards required by the courts
+when they determine the outcome of the original application for injunctive pro-
+tection. This theme will be elaborated later in this article.
+
+ “  ”
+
+It has already been pointed out that salvage law does not apply where title has been
+abandoned. Although the issue of abandonment has already been discussed in
+connection with the concept of “derelict,” this must be distinguished carefully
+
+  277
+
+from abandonment of title. Abandonment of a vessel by master and crew with-
+out intention to return is simply a pre-requisite for derelict status to be applied to
+the vessel; it has no impact on the title of the owner. For many jurisdictions, aban-
+donment of title has proved to be a complex problem that has spanned many cen-
+turies.120 The primary difﬁculty is that “abandonment” has no ﬁxed meaning but is
+a generic term describing conduct or circumstances that affect title to property.121
+It covers a range of behaviour and, even in the most obvious case of an express dec-
+laration  of abandonment  by  a  proven  owner,  the  question  still  remains  as  to
+whether the effect is to immediately divest the owner of title and render the property
+available to the ﬁrst ﬁnder or whether the declarer’s title remains intact until as-
+sumed by another. Roman law adopted the former solution, but the position remains
+doubtful under the English common law.122 For example, police in Portsmouth,
+England, in returning to ﬁnders certain gold coins that had been scattered at ran-
+dom by their elderly owner in the front gardens of local residents, required indem-
+nities in the event that the original owner re-asserted title.123 Similarly, the effect
+of a formal abandonment by a shipowner in favour of underwriters who then
+refuse to accept the notice has not been resolved.124 In real property matters, the
+common law has shown even greater reluctance to accept anything other than for-
+mal abandonment.125
+
+Abandonment of title to shipwreck in English law, other than in the context
+of notice of abandonment by owner to insurer in cases of total loss or construc-
+tive total loss, has generated little case law126 or academic comment.127 The reason
+for this is certainly not the clarity of existing principles but is probably the result
+simply of insufﬁcient ﬁnancial incentives to litigate. There have been no salvage
+operations of historic wreck in U.K. waters with high salvage values and disputed
+ownership.128 This contrasts markedly with the United States, where a series of
+spectacularly lucrative operations such as the Central America produced recoveries
+measured in hundreds of millions of dollars.129 In consequence, thirty-nine differ-
+ent insurers litigated to establish their shares by subrogation130 in the cargo.
+
+.1   
+The two basic requirements for abandonment of title are identical throughout the
+common law jurisdictions: ﬁrstly, physical relinquishment of possession and con-
+trol, and secondly, the intention to relinquish proprietary rights in the property.131
+The ﬁrst requirement is unlikely to create difﬁculties in the context of historic
+wreck,132 but the second is the source of recurring disputes. In contrast to the con-
+fusing position under English law,133 express abandonment creates few difﬁculties
+in the United States,134 as the law of ﬁnds is well established and provides that the
+ﬁrst ﬁnder of abandoned property (including maritime property) to establish pos-
+session and control also acquires title.135 Generally, however, the issue of express
+abandonment seemed to have had only theoretical relevance, as there appeared to
+be no recorded example in historic wreck cases until Sea Hunt Inc. v. The Unidentiﬁed,
+
+278  -  .
+
+Shipwrecked Vessel or Vessels etc.,136 involving the wrecks of the Juno and La Galga, two
+Spanish warships sunk in 1802 and 1750 respectively. The plaintiff argued three
+grounds for express abandonment by Spain, namely two treaties of 1763 and 1819
+respectively and the declaration of war by Spain against the United States in 1898.
+It was held that, on a true construction of the 1763 Treaty, Spain did indeed ex-
+pressly abandon title to La Galga. Conversely, such argument was rejected in relation
+to the effect of the 1819 Treaty on the title to Juno. It was further held that no aban-
+donment occurred as a consequence of either the declaration of war, since auto-
+matic forfeiture of warships does not occur under U.S. law, or the proclamation of
+President McKinley conﬁscating Spanish vessels in territorial waters.
+
+Following this decision, express abandonment of title may yet have a major im-
+pact on historic wreck in the United States. The 1763 Treaty was concluded between
+the three major colonial powers of the time, Great Britain, France, and Spain, at the
+end of the Seven Years’ War. The agreement re-wrote the map of North America
+and, under Article XX, Spain ceded Florida, “all that Spain possesses on the con-
+tinent of North America, to the East or to the South East of the river Mississippi,”
+and “everything that depends” on the land to Great Britain. Many ancient wrecks
+are to be found in these areas. On appeal, Spain was successful in proving non-
+abandonment of both vessels. This decision probably negates the practical effect of
+the ASA in the case of all state, historic vessels, since most are either Spanish or
+British and both countries now pursue an identical policy. The case also conﬁrms
+that the U.S. courts respect the rule of customary international law on which the
+decision is based. Further judicial scrutiny of other ancient treaties should be an-
+ticipated in future years, although the balanced view must be re-emphasised, namely
+that it remains to be seen whether express abandonment in the context of historic
+wreck is likely to be of more than marginal importance.
+
+.     
+Inferred abandonment, on the other hand, is both highly relevant to historic wreck
+and unavoidably problematic, since it requires an assessment of the weight of ev-
+idence in each case, or “clear and convincing evidence,” as the American test is ex-
+pressed.137 Although it is not merely the passage of time and inactivity by owners
+that are relevant factors,138 they are certainly the most important. With wrecks of
+great antiquity such as Roman or Viking vessels, tracing ownership is quite im-
+possible and any system of law is compelled to consider whether res nullius is the
+solution to such problems. Bracton accepted the possibility as long ago as the thir-
+teenth century. However, even in such “obvious” instances, there are alternatives.
+Wrecks of any age in the inter-tidal zone between high- and low-water marks in the
+United Kingdom are usually vested in the lord of the manor,139 while in the Re-
+public of Ireland they are vested in the state. In the case of vessels not covered by
+national laws, there is no universal approach to the effects of lapse of time on
+ownership rights and selected examples are necessary to illustrate the problem.
+
+  279
+
+In Simon v. Taylor,140 Mr. Justice Chua of the Singapore High Court held that
+a German U-boat sunk by the allies during World War II remained vested in the
+Federal Republic of Germany as successor in title, notwithstanding inaction for
+twenty-eight years.141 However, a more persuasive authority may be Robinson v. West-
+ern Australian Museum,142 which involved the wreck of the Dutch East Indiaman the
+Vergulde Draeck, which sank in 1665 off the coast of western Australia. Following the
+discovery of the wreck by the plaintiff, the question before the court concerned
+the validity of state legislation dealing with title to and possession of historic
+wrecks in Australian waters. Judge Stephen, in holding that the Dutch government
+was the successor in title to the Dutch East India Company,143 stated:
+
+There is of course, no evidence here of express abandonment nor of the cir-
+cumstances of the wreck, other than it occurred in uncharted waters of an
+undiscovered continent; there was no doubt, nothing voluntary in the
+owner’s failure either to resume possession or even to discover the ship’s
+whereabouts and in these present proceedings the mere passage of so many
+years should not be treated as involving abandonment of title, even if in
+other circumstances the mere passing of time without any attempt to assert
+possession can perhaps be so regarded.”144
+
+Thus, this view is that, although it is possible in some circumstances to infer aban-
+donment of title from the passage of time, the fact that the owners could not have
+made any attempt to assert ownership over that period made such an inference in-
+appropriate. Finally, the willingness of an English court to infer abandonment of
+title after sixty-seven years has already been noted in Pierce v. Bemis “The Lusitania.” 145
+
+.   
+The modern position with regard to abandonment of title in the United States
+can be derived from a myriad of recent precedents from all levels of the court
+structure, including the Supreme Court. However, a simple illustration of the basic
+law can be found in a case not involving historic wreck. In Sea Services of the Keys Inc.,
+a Florida Corporation, d/b/a Sea Tow Islamorada v. The Abandoned 29' Midnight Express
+Vessel and Two 200HP Mercury Offshore Outboard Motors etc.,146 a modern, fast motor-
+boat was abandoned by its owner following an unspeciﬁed debacle involving con-
+traband, the vessel being left moored to a ﬁshing buoy in a rough sea. In these cir-
+cumstances, neither party contested the fact of abandonment by the owner or the
+application of the common law doctrine of ﬁnds. This illustrates the clarity of the
+American approach to abandonment of title. Clear evidence renders the property
+res nullius and the law of ﬁnds awards ownership to the ﬁrst person reducing it into
+their possession.
+
+However, Sea Services of the Keys is useful in explaining two further issues. Firstly,
+the physical condition of the vessel, the sea state, and the degree of danger involved
+in towing it to safety were ﬁercely disputed by the Florida Department of Envi-
+
+280  -  .
+
+ronmental Protection, whose attorney made much of the lack of “marine peril.”
+However, since the law of ﬁnds and not the law of salvage applied, the issue of
+danger is irrelevant. Secondly, the State argued that the vessel was not abandoned
+at the time of the tow as it had already established “constructive possession” by
+ﬁnding the Midnight Express with one of its own boats and deciding not to under-
+take recovery in view of the suspicion that a criminal act had been perpetrated that
+required further investigation. The court rejected this argument, stating that “the
+ﬁnder of abandoned property must continuously possess or be in the process of
+reducing to possession the property which he has found.”147 Location of aban-
+doned property is insufﬁcient. The court expressly distinguished an earlier case in-
+volving historic wreck, Klein v. Unidentiﬁed, Wrecked and Abandoned Vessel etc.,148 factually
+on the ground that this earlier case involved a wreck embedded for hundreds of
+years in soil now owned by the United States and legally on the ground that the
+United States had demonstrated constructive possession, “the intention to exercise
+dominion and control,” primarily by means of an archaeological assessment car-
+ried out some ten years previously. However, the “inactivity” of the owner in that
+case, that is to say, in situ preservation, had itself formed the basis of the dispute,
+since it had given the salvor the opportunity to argue that there was insufﬁcient ev-
+idence of constructive possession. The consequences of the law of ﬁnds for his-
+toric wreck are grave. The existence of marine peril is irrelevant and the strict re-
+quirements for possession necessitate immediate and continuous recovery operations.
+Whatever any court may demand in preserving the archaeological provenance, it
+cannot escape the incompatibility of these principles or ameliorate their deleteri-
+ous effects on the underwater cultural heritage. 
+
+However, in the majority of cases in which inferred abandonment of title is
+argued, the facts are less clear and subject to dispute. Thus, the useful, modern il-
+lustration provided by Sea Services of the Keys must not disguise the extent of the
+difﬁculties. In The Central America, the court observed that the traditional applica-
+tion of the law of ﬁnds was only to cases where maritime property “had never
+been owned by anybody”149 but that a recent trend had developed to apply it to
+“long lost and abandoned shipwrecks.”150 There are two circumstances in which the
+law of ﬁnds is to be preferred over the law of salvage, namely in cases of express
+abandonment and where no owner appears in court. Further, if an owner (includ-
+ing, of course, successors in title of all descriptions, namely states, heirs, assignees,
+and insurers) does appear and there is no evidence of express abandonment, then
+the law of salvage must be applied. The effect of applying these guidelines would
+be to remove the need to establish inferred abandonment except where no owner
+was present in court. Indeed, the court expressly distinguished the much quoted
+view expressed in Treasure Salvors v. The Unidentiﬁed, Wrecked and Abandoned Sailing Ves-
+sel etc.151 that the “disposition of a wrecked vessel whose very location has been lost
+for centuries as though its owner were still in existence stretches a ﬁction to absurd
+
+  281
+
+lengths.” This suggested that the passage of time per se was sufﬁcient to apply the
+law of ﬁnds, as Spain, the owner at the time of the sinking, had not appeared in
+court to assert a claim to ownership in that case.152 Underwriters appearing to as-
+sert title in The Central America were successful in resisting the claim by salvors that
+abandonment should be inferred, notwithstanding the passage of 134 years, the
+proven destruction of some documentation relating to the payment of claims, and
+the apparent loss of other records. Further convincing authority for this approach
+can be found in Zych v. The Unidentiﬁed, Wrecked and Abandoned Vessel Believed to be the Lady
+Elgin153 where insurers were again successful in resisting argument for inferred aban-
+donment in spite of making no attempt to locate or salvage the wreck since its
+sinking in 1860. Thus, in the three cases where an owner has appeared to assert title,
+the so-called express abandonment rule has been applied, that is to say, “clear and
+convincing evidence” must be presented to establish inferred abandonment, and
+the lapse of centuries alone is insufﬁcient to discharge this burden of proof.154
+
+.   
+It had been hoped that the U.S. Supreme Court would use the opportunity to clar-
+ify and further elaborate the law on this (and other) issues in Deep Sea Research Inc.
+v. Brother Jonathan.155 Regrettably, the court restricted itself to the narrow view that
+the proper test of abandonment under the Abandoned Shipwreck Act (ASA) was
+the same test as for other admiralty cases (that is to say, there is no separate test for
+Abandoned Shipwreck Act purposes) and remanded the matter for further con-
+sideration by the district court. In the event, the abandonment issue was settled be-
+tween the parties and no further litigation ensued. Thus this critical issue which
+will determine both the practical scope and effectiveness of the Abandoned Ship-
+wreck Act 1987 must still await appellate resolution. Indeed, the Supreme Court
+also avoided a determination of the even more fundamental question as to whether
+the ASA is constitutional.156 For the moment, the express abandonment rule re-
+mains intact and there is little reason to believe that a future Supreme Court de-
+cision will reject it. On an entirely legal practical level, it is a sensible and work-
+able rule. However, in the context of the Abandoned Shipwreck Act, it is also
+deeply worrying. The act has certainly caused a marked change in tactics by salvors
+who have everything to gain by establishing non-abandonment and thus non-
+applicability of the legislation. It is not difﬁcult to discover an insurer of at least part
+of the cargo or vessel to enter an appearance. If they are unwilling to do so, then
+they will usually be willing to assign rights of subrogation for an appropriate sum,
+in the absence of any practical hope of salvage themselves. Indeed, that is precisely
+what occurred in The Brother Jonathan.157 If an owner, any owner, makes an appear-
+ance to assert title, the operation of the  “clear and convincing evidence rule”
+makes it unlikely in practice that abandonment will be inferred. Even in the case of
+wrecks too ancient to involve insurers,158 many were state vessels of British, French,
+
+282  -  .
+
+Dutch,159 or Spanish origin. The ﬁrst three have always routinely claimed owner-
+ship and, since the Sea Hunt case, it is to be presumed that Spain will now follow
+the same policy, although it has been observed that there may be arguments in sup-
+port of express abandonment consequent to the treaty of 1763. Notwithstanding
+the optimistic and stout defence of the operational effectiveness of the Aban-
+doned Shipwreck Act by its drafter,160 in the eyes of many, the abandonment issue
+threatens to undermine the entire purpose of this progressive legislation. The risk
+is further enhanced by the unresolved constitutional objections.
+
+   
+
+Just as it has been argued that it is inadequate to characterise the approach of the
+legal salvage regime to historic wreck as a sterile body of rules designed from
+the outset to serve a self-seeking salvage industry, it is also insufﬁcient to dismiss
+the market in historic artefacts as simply the product of the same sectional inter-
+est. There is a powerful body of economic and political opinion that links the
+functioning of any market with two fundamental precepts, the primacy of mar-
+ket economic principles and the general undesirability of state intervention in any
+particular market.
+
+Market economics emphasises the goal of optimising the efﬁciency of mar-
+kets and, in any general debate over the desirability of intervention by government
+or other public authority, two central issues are critical. Firstly, there is the posi-
+tivist question of the relative success of intervention, vis-à-vis market forces, in
+achieving social objectives. Secondly, there is the normative problem of the relative
+desirability of conﬂicting social objectives. In the context of historic wreck, the
+positivist question is whether state regulation achieves a better or worse result than
+market forces. The normative problem is to resolve the conﬂicting, arguably mu-
+tually exclusive objectives of in situ preservation of the underwater cultural heritage
+as part of the common heritage of mankind and the return of maritime property
+to the stream of commerce. For the conservationist, it is little short of absurd to
+separate the two aspects, but that is precisely the argument of some economists.
+The dominant economic theory in North America161 is Pareto162 or welfare eco-
+nomics,163 the stated objective of which is to apply scientiﬁc methodology and to
+maintain an “ethically neutral” standpoint. Thus, the original Pareto criterion states
+that “in order for a maximum welfare position to be reached then the ‘ophelimity’164
+of some should not increase to the detriment of others.”165 This is intended to pro-
+vide an objective standard against which to judge the effects of economic changes.
+In this way, a “Pareto improvement” makes at least one person better off without
+making anyone else worse off, producing an improvement in so-called social efﬁ-
+ciency. However, the lack of normative content in such an approach separates social
+
+  283
+
+efﬁciency from social desirability. The former is said to be the consequence of ra-
+tional economic behaviour that involves an assessment of whether a particular ac-
+tivity will beneﬁt a person’s private interests166 or, to express it in welfare econom-
+ics  terms,  achieve  “private  efﬁciency.” Similarly,  social  efﬁciency  is  assessed  by
+balancing social beneﬁt against social cost. Welfare economists argue that private
+efﬁciency will also achieve social efﬁciency if two criteria are met. Firstly, there must
+be  “perfect competition” throughout the entire economy,167 and secondly, there
+must be no “externalities.”168These can conveniently be referred to as “side effects,”
+and they are central to the arguments of welfare economists, since their removal or
+minimisation is viewed as a process of improving market conditions. However, gov-
+ernmental intervention to correct these imperfections is known as the “problem of
+the second best,” the “ﬁrst best solution” being the (unattainable) ideal, the self-
+correcting free market. The terminology might be regarded as arcane, yet is vital be-
+cause it expresses a value system.169 These values conﬂict with interventionism in
+general and thus also with the proponents of in situ preservation of historic wreck.
+Since the free market is regarded as paramount, intervention must be justiﬁed as the
+best available compromise, the “second best compromise.” Intervention is always
+seen as a distortion of the market and thus the precise form of intervention will
+inﬂuence the welfare economic assessment of its relative desirability. If one method
+distorts the market less than another, then it should be selected.
+
+For example, taxes and subsidies170 can be used to correct externalities but, as
+the stated objective of taxation is to compel producers to take on the full social
+costs of their actions (pollution, for example), it is difﬁcult to see how that could
+assist in the case of historic wreck. In this case, the primary social cost is the loss
+of archaeological provenance. This represents a cultural deﬁcit for which ﬁnancial
+compensation is inappropriate.171 For the same reason, the imposition of taxes by
+way of penalty (rather than to correct market imperfections) seems largely irrele-
+vant to the problem also, since it would simply be reﬂected in the market price.
+
+.1    
+Conversely, it is argued that one common cause of market failure lies in the lim-
+ited nature of property rights themselves, and thus welfare economists argue that
+one solution to the problem of externalities is simply to extend property rights.
+For example, the problem of neighbour nuisance would be dealt with by extend-
+ing to householders the absolute right to prevent nuisances. An individual then has
+the choice of reporting the matter with a view to abatement action by the appro-
+priate public authority, or negotiating private compensation for non-abatement. In
+other words, a market should be created in private property rights.172 Of course,
+problems with this solution have been identiﬁed, not least inequality of expertise,
+the costs of litigation, and the sheer number of separate negotiations between dif-
+ferent protagonists.173 However, it is argued that this approach has particular merit
+
+284  -  .
+
+where few people are involved, and such an argument is easily applied to historic
+wreck. The proposed solution is straightforward. If legislation granted a general
+unrestricted right to salvage historic wreck,174 then the discoverer would have the
+right to become a salvor unless compensated for waiving rights of salvage. In other
+words, the right to salvage should be treated in the same way as the right of the
+householder not to suffer the consequences of nuisance in the previous example.
+It is simply a property right to be traded like any other commodity.175 Even present
+regulation of salvor behaviour by admiralty courts would be viewed as an unnec-
+essary and undesirable transaction cost, since it makes the property right “contin-
+gent” on an assessment by the court of the so-called social welfare function, in this
+case the diligence of the salvor in preserving the archaeological provenance.
+
+It is interesting to compare this theoretical solution to three existing yet con-
+trasting legal regimes: the Republic of Ireland, the United Kingdom and the United
+States. In the ﬁrst, rights to historic wreck176 were vested in the state in 1987177 and
+recovery (the salvage regime does not apply) is only permitted under the supervi-
+sion of a professional marine archaeologist and only if good cause is shown why in
+situ preservation is inappropriate. Thus, the Irish solution is simply to abolish the
+market entirely. In the United Kingdom, by contrast, the market remains intact.
+There are no restrictions on who may become a salvor,178 but any wreck can be des-
+ignated historic under the 1973 Protection of Wrecks Act if it is deemed to be of
+sufﬁcient signiﬁcance.179 Salvage is then only permitted under the authority of an
+ofﬁcial licence and is subject to the direct supervision of a designated archaeolo-
+gist.180 However, in practice, such licences are usually issued to the salvor in posses-
+sion181 and generous salvage awards have become the norm.182Thus, the U.K. market
+in historic wreck is regulated and, to the extent that this causes delay or increases
+costs, it represents an additional transaction cost for the salvor.
+
+In the United States, the Abandoned Shipwreck Act represents an attempt to
+follow a similar route to the Irish183 in that rights to abandoned shipwrecks are
+vested in the federal government but then transferred to individual states. How-
+ever, it has already been noted that salvors have since redirected their energies to-
+wards establishing that particular wrecks have not been abandoned, so that they
+fall outside the scope of the Abandoned Shipwreck Act and remain within the tra-
+ditional salvage regime. Thus, to salvors of historic wreck in the United States, the
+costs of Abandoned Shipwreck Act litigation represent an externality, a cost im-
+posed by the state inhibiting entry into the market.184 The U.S. Congress was very
+concerned during the passage of the Abandoned Shipwreck Act that it not ad-
+versely affect existing property rights,185 but the legislators failed to understand, or
+at least under-estimated, the reaction of the existing market. Salvors already had
+a right to enter the market in historic wreck and, since the Abandoned Shipwreck
+Act did not deal with the critical deﬁnition of the meaning of “abandoned,” they
+were given the opportunity to deploy a technical argument to defend the existence
+of the market. Their success in this regard has been at the expense of the effec-
+
+  285
+
+tiveness of the Act itself. This has stimulated pressures for its wholesale repeal,186
+meaning, in effect, that the struggle between the welfare economists and the preser-
+vationists remains unresolved.
+
+Therefore, it is an over-simpliﬁcation to view the debate over the future of his-
+toric wreck as a narrow polemic between conservationists (led by archaeologists)
+on the one hand and salvors on the other. It has a more profound signiﬁcance,
+since economic and political opponents of interventionism per se do not draw ax-
+iomatic distinctions between desirable and undesirable examples. Analyses of par-
+ticular instances have a common departure point. Intervention must be justiﬁed on
+the ground that it improves market functioning, and even then, the choice of method
+should seek to minimise involvement. To the welfare economist, intervention that
+destroys markets or enhances externalities is undesirable ex hypothesi. Thus, there is
+a convergence between the predominant economic view in the United States and
+the narrow sectional interests of the salvage industry. Conﬂict with the latter over
+archaeological provenance and in situ preservation inevitably engenders a wider ide-
+ological debate with the former over social efﬁciency and market mechanisms. This
+is also a perspective from which the judicial views expressed in the latest Titanic de-
+velopments should be judged.
+
+      
+:  
+
+Before proceeding with an evaluation of admiralty courts’ alleged defence of the
+archaeological provenance, it might be helpful to explain in greater detail the con-
+tent and chronology of this intervention. Although the U.S. Court of Appeals for
+the Fourth Circuit in the Central America decision is generally cited as the origin for
+the addition of the seventh criterion (the salvor’s preservation of the historical and
+archaeological value of the wreck and cargo) to the Blackwall test187 for assessing sal-
+vage awards, this is somewhat misleading. It will be demonstrated that the judicial
+process was one of cumulative accommodation of archaeological concerns, pro-
+ceeding in a series of small, cautious steps to a position less well deﬁned than is
+generally imagined. 
+
+Federal courts had already wrestled with the problem of whether the salvage
+regime had any application at all to historic wreck188 and, in doing so, had en-
+countered both the difﬁculties of assessing values of ancient artefacts and the ex-
+pensive, peculiar difﬁculties of conservation.189 In a later case also involving the
+Platoro corporation,190 although the court expressly refused to apply the same stan-
+dard of archaeological methodology as would have been required of marine ar-
+chaeologists, it was taking cognisance of the problem at that stage.
+
+The explicit breakthrough in The Central America began cautiously in Cobb Coin I.
+After citing the standard six criteria of the Blackwall test, the court proceeded to
+
+286  -  .
+
+elaborate the equitable requirement for “clean hands” in the context of the re-
+quirement on all salvors to act in good faith by not only meritoriously rescuing
+property from marine peril, but also restoring it to the owners. District Judge King
+then linked this general requirement of evaluating the merits of a salvor’s service
+with the archaeological provenance by stating, “Thus, there can be no suggestion
+that federal admiralty procedures sanction salvage methods that fail to safeguard
+items and the invaluable archaeological information associated with the artefacts
+salved.”191 The court went on to acknowledge the public concern and interest in
+these matters but declared itself satisﬁed by the production of records and the ev-
+idence of the plaintiff ’s own salvage consultants. Although a Florida state repre-
+sentative had been on board a salvage vessel, it is merely noted at this stage that the
+judgement made no mention of that person’s assessment. The learned judge did
+venture to say, however, that artefacts should be removed “with scrupulous care”
+and that historical information could enhance commercial values.192
+
+The theme was repeated in Cobb Coin II the following year, arguably more em-
+phatically, by the judge’s stating, “in order to state a claim for salvage award on an
+ancient vessel of historical and archaeological signiﬁcance, it is an essential element
+that the salvors document to the Admiralty Court’s satisfaction that it has pre-
+served the archaeological provenance of a shipwreck. To leave this element merely
+for consideration of a salvage award would not provide, perforce, sufﬁcient incen-
+tive to salvors to ensure that the information is obtained.”193 This was an important
+development, as it made correct archaeological practice the sine qua non of an
+award and not merely a factor affecting the level of award, and at least such an ap-
+proach would have given admiralty courts the ability to punish unacceptable prac-
+tice by denying any award, whatsoever. It has to be observed that there seems no
+direct authority for this view and that it was probably simply an attempt to “modern-
+ise” the traditional clean hands requirement in the context of historic wreck. The
+main deﬁciency of the judgement was the failure of the court to deﬁne the so-
+called threshold requirement for archaeology. It demanded that such a standard be
+met, but did not deﬁne the content. All that can be certain is that it was still not
+a professional marine archaeologist’s standard.
+
+.1  
+Klein 194 was an interesting development, being one of only three cases where salvors
+have been penalised for failure to comply with threshold standards.195 An award
+was refused expressly on the ground that no procedures at all were adopted to
+record the archaeological provenance and that therefore the recovery operation it-
+self created a marine danger. The decision is clear enough, although there was an
+additional ground (in the appeal court) that the United States, as owner in so-
+called constructive possession of the artefacts, was entitled to prohibit salvage
+in any event. More signiﬁcant may be the dissenting judgement of Judge Krav-
+itch196 in which, having held the salvor in (criminal) breach of the 1906 Antiqui-
+
+  287
+
+ties Act, he went on to hold that the site was in marine peril (from the elements)
+and that Klein had indeed rendered useful service and should have been granted a
+salvage award, albeit a reduced one to take account of failure to use proper ar-
+chaeological techniques. The signiﬁcance of this view is that it treated archaeology
+as a de facto seventh criterion rather than as a sine qua non factor in applying the clean
+hands principle. An even more cavalier approach to archaeology can be discerned
+the following year (1986) in MDM.197 After expressly accepting that no efforts had
+been made to preserve the archaeological provenance and that this was “a signi-
+ﬁcant element” in granting salvage rights, the court inexplicably concluded that the
+salvage operation had been conducted in good faith. Although injunctive relief was
+denied, it was on the ground that insufﬁcient salvage work had been conducted to
+justify it. Indeed, the court described the salvage effort thus far as “commendable”
+and made it clear that exclusive salvage rights would be granted if sufﬁcient in-
+vestment and effort were expended on an intensiﬁed salvage operation. No admo-
+nition was given concerning the conservation aspects, notwithstanding the per-
+ceived failures in that regard. 
+
+Jupiter Wreck Inc. v. Unidentiﬁed, Wrecked and Abandoned Sailing Vessel,198 although
+dealing primarily with jurisdictional problems of the relationship between state
+and federal legislation, acknowledged the importance of historic wreck. The court
+declared itself satisﬁed in this regard, having inspected an “archaeological research
+design” prepared with the former chief archaeologist for Florida and Texas. Typi-
+cally for the majority of such case reports, there was no further detail. In particu-
+lar, there was no indication of professional input into actual salvage operations or,
+indeed, whether there was any monitoring of the implementation of the “design.”
+Whatever may have been the true extent of the evidence before the court, this lack
+of detail in the report continues to leave in doubt the true requirements of the
+threshold to be met by salvors.
+
+.      CENTRAL AMERICA
+Chronologically, the ﬁrst instance hearing of The Central America in 1989 is the next
+noteworthy development. The court observed with approval that salvage efforts had
+extended to a substantial commitment of resources to analysing and disseminating
+scientiﬁc, historical, “and, where appropriate, archaeological” information, and that there
+was an express commitment to continue that policy. It would have been reasonable
+to suppose that this apparent relegation of archaeological matters to an occasional
+status was inadvertent, since it appeared quite illogical to have done so in the con-
+text of this wreck. However, in its ﬁndings of law, the court stated emphatically that
+there is a duty “to preserve the scientiﬁc, historical and, in the limited situations where ap-
+plicable,199 archaeological provenance of the wreck and artifacts.” Presumably, the
+court made a distinction between historical and archaeological provenance and had
+concluded that only the former had much signiﬁcance in this case. Such oddities,
+together with the complete lack of information in the report as to what exactly had
+
+288  -  .
+
+been done to deserve such commendation, merely serves to subvert conﬁdence in
+the court’s willingness and/or ability to investigate these matters rigorously.200
+
+The Central America appeal in 1995 came at this stage of the development of ju-
+dicial protection of the archaeological provenance of historic wreck. It merits rep-
+etition that the decision must therefore be seen as evolutionary and that it was made
+at a point in time providing ample scope for doubting the practical content of this
+protection. It has been observed that the clean hands doctrine had been used to im-
+pose nominally appropriate standards on salvors of ancient shipwrecks, and that the
+advantage of this approach was to provide the court with the means to punish non-
+compliance with refusal of any award. This sanction had been used in three cases al-
+ready and the court in Cobb Coin II had observed that merely adding such a factor to
+the Blackwall test in calculating the award would provide an insufﬁcient incentive to
+guarantee compliance. Indeed, this warning was illustrated most graphically in Judge
+Kravitch’s dissenting judgement in Klein, where he expressly disapproved of denial
+of a salvage award for this type of misconduct and advocated dealing with the mat-
+ter simply as a factor mitigating the size of the award. The Central America appeal
+also applied the clean hands requirement but only did so in connection with more
+conventional matters, namely allegations of misrepresentation to the court during
+earlier proceedings and the misuse of certain data. It was open to the court to fol-
+low what had become an established pattern, to deal with archaeological method-
+ology under this head also. Indeed, that would have caused no difﬁculty in this case,
+as it was an express ﬁnding of fact (by the District Court) “that Columbus-America
+had taken extraordinary care in preserving the Central America, beneﬁting a range
+of sciences and disciplines.”201 Instead, the appeals court proceeded to consider
+whether the District Court’s unusually high salvage award of 90 percent was exces-
+sive. Conventionally, it systematically considered the six factors although, rather cu-
+riously, it chose to do so in an apparently random order not corresponding either
+to that set out in The Blackwall itself or to the established priority from Benedict.202
+The seventh criterion, “the salvor’s preservation of the historical and archaeologi-
+cal value of the wreck and cargo,” then followed, entirely without legal explanation
+for what must be regarded as a surprising addition to such an established and cen-
+tral test as the Blackwall criteria.203The other departure from established practice was
+to provide greater detail in the judgement itself of the efforts made to preserve the
+archaeological provenance,204 although the information provided falls far short of
+a full report.205 It is mildly worrying that the expert witnesses relied upon were ap-
+parently those of the plaintiffs, although this was supplemented by supporting
+briefs of the National Maritime Historical Society, the National Association of
+Academies of Science, and the Explorers Club.
+
+However, the conclusions to be drawn from the Central America appeal in this
+article do not correspond with those of other commentators. Salvors declared that
+the preservation of the archaeological provenance had achieved the priority it de-
+served by being added to the established Blackwall criteria, while the conservation-
+
+  289
+
+ists approved of the progress but complained that the standards were still inade-
+quate. What seems to have been missed entirely is that shifting the issue from the
+clean hands test to one of seven criteria has arguably deprived the court of the op-
+portunity to impose the ultimate sanction for non-compliance with the threshold
+standard: deprivation of any salvage award whatsoever. The difﬁculty is given a
+sharper focus by the failure of the court to indicate a weighting for the new crite-
+rion. Given the fact that the Benedict priority already has judicial approval, the nat-
+ural conclusion is that this new addition must be accorded the lowest priority.206
+Thus, the opinion of the court in Cobb Coin II (and, indeed, the dissenting view
+of Judge Kravitch in Klein) can be seen as prophetic. Finally, ex hypothesi, none of
+these criteria is overriding and it is extremely doubtful in law if a low rating under
+any single criterion (other than the value of the salved property) could eliminate
+an award entirely.207 In short, it seems that the legal reality of the Central America ap-
+peal has been regressive from a conservationist standpoint, although this may have
+been lost in the fanfare of judicial praise for the conservation efforts of the salvors
+and the high proﬁle accorded to archaeology in the judgement.
+
+.     
+The RMS saga208 is not simply a case (or rather, a seemingly interminable sequence
+of litigation) concerning the most widely known shipwreck in history, but the jewel
+in the crown of U.S. admiralty courts in their attempt to demonstrate concern for,
+and the ability to protect, the archaeological provenance of historic wrecks. In many
+ways, the circumstances appeared to be tailor made. RMS is a public corporation
+and, notwithstanding mounting debts from a technically demanding salvage oper-
+ation, steadfastly maintained its commitment not to sell artefacts but to conserve
+and retain them in a single collection for permanent public display.209 Indeed, no
+salvor has done more to demonstrate its commitment to archaeological propriety.
+This is not intended as a value statement. It is a fact that no other private (as op-
+posed to public agency) salvor has done more. It is a separate question to evaluate
+the quality of the effort. In 1994, an International Advisory Committee of approx-
+imately twelve representatives from European and American maritime museums,
+historical societies, and RMS itself was formed. An agreement with the French gov-
+ernment and the policy statement issued jointly with the National Maritime Mu-
+seum in Greenwich, England, both contained a ﬁrm commitment not to dispose of
+any artefacts.210 This was one of the factors considered by the court when it granted
+salvor in possession status to RMS in 1994.211 Additionally, RMS proved the ex-
+pense and effectiveness of its conservation efforts, not only by its own evidence, but
+also by that of independent conservators and marine archaeologists. By any past
+standards, this was an impressive performance that boded well for the future.
+
+However, there were warning signs. Tensions were developing within RMS.
+One, the owner, Joslyn and another individual litigated questions of ownership
+and control over a corporate shareholder in RMS. Joslyn later launched a series of
+
+290  -  .
+
+legal challenges, inter alia, to RMS’s status as salvor in possession on the ground of
+lack of due diligence in pursuing salvage operations.212 Considering that this wreck
+is situated in international waters two and a half miles under the North Atlantic,
+rather more puzzling decisions in favour of RMS followed. The company was
+granted exclusive photographic rights213 and an order excluding the rights of oth-
+ers to even view the site, whether or not they are U.S. nationals.214 The latest Titanic
+litigation precedes a major salvage operation, apparently with the intention of gen-
+erating substantial income from the sale of thousands of artefacts. It appears that
+the commitment to non-disposal has yielded to commercial imperatives, and it is
+necessary to examine how this was possible in the light of the highest proﬁle given
+by the court to preservation of the archaeological provenance.
+
+There are three principal reasons for these latest developments, all of them
+widely enough understood to lend an air of predictability to present events. Firstly,
+the considerable conservation efforts of RMS were simply a factor in granting the
+company salvor in possession status. They were not imposed by the court or made
+an express condition of continuing injunctive relief. The comparatively detailed
+listing in the report of efforts made should not disguise the limitations of the con-
+clusion that “[i]n sum, not only do courts consider the time, effort and money
+that parties have invested in the salvage operation as well as their chances of suc-
+cess, but, where the vessel is of historic importance, they also weigh the salvor’s preser-
+vation efforts.” 215 This weakly worded assessment is nonetheless an accurate state-
+ment of the law 216 and is connected directly to the second factor, the lack of
+deﬁned content to the so-called threshold standard noted earlier in this paper.
+Thirdly, maintenance of the status of salvor in possession and the continuation of
+the injunctive relief associated with it require the exercise of due diligence in pur-
+suing recovery operations, which should be ongoing with some prospect of suc-
+cess.217 Given the huge expense of mounting deep ocean recovery operations, an
+admiralty court is hardly in a position, as a matter of law, to obstruct the very
+means needed by the salvor to achieve “success” in salvage terms. In other words,
+it is questionable whether the protection of the archaeological provenance can be
+accorded paramount status when to do so would have the de facto consequence of
+depriving the salvor of the status of salvor in possession and therewith any enti-
+tlement to legal remedies.
+
+.   
+The fundamental problem explained in the context of The Titanic arose again in
+Marex,218 where the court again recorded an impressive list of conservation efforts219
+before proceeding to assert preservation of the archaeological provenance as part
+of the duty of care imposed on all salvors of historic wreck. In this particular case,
+the court held the vessel to have been abandoned and thus subject to the law of
+ﬁnds, although it emphasised that the archaeological duty remains the same as if
+salvage law applied. There is no doubt that the grant or continuation of injunc-
+
+  291
+
+tive relief is a discretionary matter which can be denied if a court is not satisﬁed
+on this (or any other) issue, a point equally applicable under the law of salvage and
+the law of ﬁnds. Neither is there doubt that a court can reduce a salvage award if
+dissatisﬁed with conservation efforts (it has been noted that there is doubt whether
+this alone would justify refusal of any award). However, again as a matter of law,
+it must be doubtful whether a court has any power to impose archaeological con-
+ditions after it has determined that the law of ﬁnds applies. After such an order,
+the ﬁnder is the owner and, although the court may refuse further discretionary re-
+lief, there seems no basis for it to control in any way the recovery of that property.
+In granting Marex an injunction for the duration of the 1997 season, the court did
+not make this issue apparent. Had the company later decided to abandon any at-
+tempts at conservation, it would simply have proceeded to recover what was its
+own property without recourse to the court.
+
+Finally, in the 1999 case of International Aircraft,220 the court required the preser-
+vation of the historical and archaeological provenance in the case of a deep ocean
+wreck of an historic World War II aircraft. It relied on the statement from Cobb
+Coin II that it would be insufﬁcient to rely on the issue, being simply a factor in as-
+sessing the salvage award. There was no reference in the judgement to the modiﬁed
+Blackwall test referred to in the Central America appeal. Factually, this is not surpris-
+ing, since the case decided who should conduct salvage, not the quantiﬁcation of
+the award. However, it leaves the law confused as to whether the archaeological du-
+ties of salvors apply at an early stage to determine injunctive relief, are simply a fac-
+tor in assessing a salvage award, or are relevant throughout the process from dis-
+covery to payment. These uncertainties, together with those relating to the true
+content of the threshold test, lead to an evaluation of the effectiveness of admi-
+ralty courts in providing protection for historic wrecks.
+
+      
+: 
+
+As established above, there has been a gradual recognition by the courts in the United
+States that certain wrecks have a special value and somehow archaeology has a role to
+play. However, it is not clear that these courts clearly understand the task they face in
+giving substance to that role. Archaeology is not about returning objects to the stream
+of commerce. It is more than conserving a few artefacts and making videos, more
+than entertaining the public through exhibitions. It requires expertise in ancient cul-
+tures; in preparing research designs; in knowing what to excavate and, more impor-
+tantly, why; and it is based on the fundamental principle of serving the public inter-
+est. The heart of archaeology lies in the preservation of knowledge that can be
+extracted only from objects and the context in which they are found. Such knowledge
+may be found in things of absolutely no commercial value but which are costly to ex-
+
+292  -  .
+
+cavate and conserve, such as ship’s timbers. In some cases, the pursuit of knowledge
+may be advanced by not disturbing a wreck. It should be left until the questions that
+it can answer may be better formulated. Moreover, the courts have failed to consider
+the possibility that the concept of salvor in possession with its attendant duty to work
+the site can run directly counter to that of archaeological resource management, i.e.,
+the systematic identiﬁcation, evaluation, and protection of cultural sites.
+
+Where the courts have attempted to apply archaeological principles in salvage
+operations, there is evidence that their views of what these comprise differ from
+those of archaeologists. One problem for the court is to establish what the relevant
+principles are. For example, Judge King accepted that Cobb Coin I “adequately doc-
+uments archaeological provenience.” This was partly based on evidence given by
+“Cobb Coin’s salvage consultants, Fay Field and R. Duncan Mathewson.”221 The
+latter wrote a master’s thesis in anthropology in which he states regarding work on
+the site of the Neustra Señora de Atocha:
+
+There were, of course, countless disappointments and many difﬁculties 
+to overcome in the data-gathering process. Many times it was impossible 
+to get essential information because of the shortage of time, equipment
+breakdown or other operational difﬁculties. Often data were unreliable and
+had to be discarded. Other times it was impossible to get the divers to
+record data consistently enough to recognize incipient patterning.222
+
+This is obviously a frank statement of the problems Mathewson encountered in
+trying to develop appreciation of the importance of archaeological standards
+among the treasure seekers and the imperatives of commercial operations. But,
+if this was the standard applying in practice, how does the court establish a
+benchmark?
+
+.1     CENTRAL AMERICA
+The District Court in Virginia, in the 1993 unreported decision in Columbus-America
+Discovery Group v. Unidentiﬁed, Wrecked and Abandoned Sailing Vessel, studied the attention
+the company had paid to archaeological matters and the people it had gathered to
+ensure that these issues were taken into account in operations. The court was
+clearly impressed, as was the Fourth Circuit Court of Appeals in reviewing its de-
+cision in 1995.
+
+The [District] court found that “the efforts to preserve the site and the arti-
+facts have not been equalled in any other case,” and no evidence to the
+contrary is before us.223
+
+But a 1997 comment in a leading reference work is less accepting:
+
+No overall site photographs, a site map, or any other archaeological
+information has been released. Some artifacts, including well preserved
+
+  293
+
+clothing and newspapers from an intact leather trunk, were conserved and
+placed on display in Ohio.
+
+Archaeological study and documentation of Central America would be
+
+particularly signiﬁcant because no detailed record of a Panama Route
+steamship of the period exists. More importantly, the apparent high
+degree of preservation of passenger baggage, which is very similar to that
+observed at the Titanic wreck site, would offer a detailed opportunity to
+assess the material culture of the period, and its use and transportation on
+a vessel travelling from the “frontier” of Gold Rush California, and could
+be compared with collections of the same period from the wrecks of
+Bertrand and Arabia.224
+
+It is notable that a laudatory book dealing with the ﬁnding of the gold on the
+Central America nowhere mentions any archaeological considerations apart from
+the taking of photographs.225 The emphasis was on secrecy rather than scientiﬁc
+openness.226
+
+In The Brother Jonathan,227 a District Court in California, in assessing an appli-
+cation for an injunction protecting salvage rights in the vessel, stated that the com-
+pany had “attempted to preserve the archaeological value of the wreck by pho-
+tographing the site.”228
+
+Archaeological considerations were also mentioned by the Virginia District
+Court in RMS 229 in considering whether RMS Titanic Inc. should continue as
+salvor in possession in light of its past activities on the wreck site. In considering
+whether due diligence had been exercised, the court had this to say:
+
+Moreover, RMST has been dedicated to the preservation of the archaeolog-
+ical integrity of the wreck site as well as the preservation of the retrieved
+artifacts. RMST has worked with a number of organizations to establish an
+International Advisory Committee whose purpose is to develop a strategy
+for safeguarding the TITANIC and the artifacts recovered from it. RMST
+has also hired a highly-qualiﬁed conservation company to preserve the
+artifacts.230
+
+Once again, the archaeological community sees the need for more than these types
+of activity. Archaeologists stress the absence of any professional archaeologist on
+site, the failure to assemble an archive of dive data, and the failure to prepare an ar-
+chaeological report.231
+
+.     
+The courts referred to in this article have clearly been concerned with the neces-
+sity for preservation of objects and, to a certain degree, the information to be
+learned from historic wreck sites. However, archaeologists and museologists have
+been critical of the conduct of salvors found acceptable by the courts. Some do
+
+294  -  .
+
+not seem to see a problem with this,232 but the question must be asked where the
+courts get their authority to substitute their view of acceptable conduct for that of
+the relevant professional community. If the preservation of knowledge is impor-
+tant then everyone must be concerned that the maximum possible is obtained from
+what is indeed a non-renewable resource.
+
+To be fair to the courts, it appears that in most cases the only evidence given
+was that of the salvors. There was nothing against which the court could measure
+the appropriateness of their conduct, except presumably its own knowledge of
+what archaeology is all about, although members of the public, and this includes
+judges, are not always conversant with what archaeologists do and how they go
+about it.233 Archaeology is a profession involving a high degree of expertise and
+specialized knowledge and includes a signiﬁcant intellectual component. In trying
+to assess the appropriateness of conduct without reference to the professionals, the
+courts have undertaken a difﬁcult task with inadequate resources. Part of the prob-
+lem may be alleviated by emerging internationally accepted standards to which
+courts could have recourse. It must be emphasised that these only provide general
+guidance and are no substitute for expert opinion.
+
+One of the standards is the International Charter on the Protection and Management of
+Underwater Cultural Heritage, ratiﬁed by the General Assembly of the International
+Council on Monuments and Sites (ICOMOS) in 1996. Another is the Rules Con-
+cerning Activities Directed at Underwater Cultural Heritage, which appears as an Annex to
+the Draft Convention on the Protection of the Underwater Cultural Heritage. Al-
+though at present this is still under negotiation by states, it does give an indica-
+tion of the conduct the international community expects in relation to wreck sites,
+particularly those in international waters. The Annex was based on the ICOMOS
+Charter but has been adapted for use in an international instrument.
+
+A study of the cases above shows that the courts have been heavily inﬂuenced
+by preservation of artefacts raised from the ocean ﬂoor and presentation of the
+work being done to the public by such means as television, exhibitions, and school
+project kits. The two documents referred to above show that much more is neces-
+sary. In particular, there must be continuous supervision of the work by qualiﬁed
+personnel. The Annex states:
+
+Activities directed at underwater cultural heritage shall only be undertaken
+under the direction of and in the presence [in control] of a qualiﬁed under-
+water archaeologist with scientiﬁc competence appropriate to the project.
+
+This envisages that the archaeologist or archaeologists will be active members of
+the excavating team. In its unreported judgement referred to earlier, the court
+noted that a “number of these experts were aboard the vessel from time to time”;
+another “accompanied the ship during some of its collections.” It certainly was
+not the case that the operation was under the direction of and in the continuous
+presence of a qualiﬁed underwater archaeologist.
+
+  295
+
+The comments above on the Central America and RMS operations refer to the
+
+lack of reports. The Annex states:
+
+Documentation shall include, at a minimum, a comprehensive record of the
+site including the provenance of underwater cultural heritage moved or
+removed in the course of the activities directed at underwater cultural
+heritage, ﬁeld notes, plans, drawings, sections, photographs and recording in
+other media.
+
+Furthermore, the courts will ﬁnd the greatest difﬁculties in applying the Char-
+ter or Annex when there is an archaeological imperative that the site remains undis-
+turbed. The Annex, for example, states:
+
+The protection of underwater cultural heritage is best achieved through 
+in situ preservation, which should be considered as the ﬁrst option.
+Accordingly, activities directed at underwater cultural heritage shall be
+authorized by the competent authority of the concerned State only when
+they make a signiﬁcant contribution to knowledge, protection and [/or]
+enhancement of underwater cultural heritage.
+
+Leaving aside the question of authorisation, satisfaction of this requirement could
+be quite difﬁcult for some operations. The Virginia District Court in RMS saw this
+as satisﬁed by the salvor’s providing public access to artefacts:
+
+Finally, RMS has done more than merely preserve the site and the artefacts; it
+has made the artifacts available to the public through exhibitions, thereby
+beneﬁting the public more than the requisite at-site archaeological
+preservation could do.234
+
+This seems to be an assumption on the part of the court without any considera-
+tion of principle. It may well be right but there should have been a proper analy-
+sis of the issues.
+
+An excavation for commercial purposes would pose a further problem for the
+
+courts as this is the basic purpose of salvage. The Annex states:
+
+The commercial exploitation of underwater cultural heritage for trade or
+speculation [, other than in the provision of services,] or its irretrievable 
+dispersal is fundamentally incompatible with the protection and proper
+management of the underwater cultural heritage. Underwater cultural
+heritage shall [should] not be traded, sold, bought and bartered as items of
+commercial value.
+
+The scope and effect of this provision will depend on what is meant by “com-
+mercial exploitation.” For example, no study has yet been made of whether the
+non-physical exploitation of a site through such means as tourist visits, photog-
+raphy, and ﬁlms would fall within its scope.
+
+296  -  .
+
+.     
+ - 
+The nature of the relationship between actual excavation and commercial exploitation
+has already arisen in relation to the raising of material from the Titanic. On 10 Sep-
+tember 1993 the International Congress of Maritime Museums (ICMM) “adopted
+standards for the exploration of underwater cultural sites and the acquisition, preser-
+vation and exhibition of artifacts recovered from shipwrecks and other sites.”235 The
+standards enjoined member museums to “not knowingly acquire or exhibit artifacts
+which have been . . . removed from commercially exploited archaeological or historic
+sites.” Further, it was stated that “a commercially exploited heritage site is one in
+which the primary motive for investigation is private ﬁnancial gain.” The ICMM stan-
+dard was immediately tested by the Titanic exhibition at the National Maritime Mu-
+seum, Greenwich, England—a member of ICMM—in 1994– 95. RMS Titanic Inc.
+had insisted publicly and later gave the court its assurance that the artefacts raised
+would not be sold. But the company president was reported as saying that its goal was
+“to earn more than $100 million by exhibiting the ship’s artifacts” during a global
+tour. The ethical aspects of the exhibition were raised with the National Maritime
+Museum but at its 1996 meeting the ICMM chose to attempt to improve the nature
+of the exhibition arrangements rather than to attempt to determine whether the Ti-
+tanic had been commercially exploited. The Museum went ahead with the exhibition,
+which was hugely successful and had to be extended by six months. Whether the site
+of RMS Titanic is a “commercially exploited heritage site” has not been satisfactorily
+clariﬁed and may be impossible to clarify on current deﬁnitions. Much more work is
+needed in this issue. For example, at the “Presentation of Periodic Report of Salvors”
+before the District Court of Virginia on 22 March 2000, RMS Titanic Inc. indicated
+that it had to raise more objects to stage additional exhibitions. To do this they were
+considering a “surgical incision” in the vessel for cargo removal. Do these additional
+elements strengthen the view that this is a commercially exploited site or can the stag-
+ing of exhibitions for proﬁt be accepted? 
+
+One  attempt  to  establish  the  distinction  between  commercial  and  non-
+commercial exploitation has been made by G. Stemm, president of ProSEA.236
+This distinguishes a category of what it calls  “trade goods,” comprising those
+goods which can be identiﬁed as cargo and which can be distinguished by any one
+of three criteria: number of duplicates on site; ease of recording or replicating ar-
+tifacts; and archaeological value versus value of return to the stream of commerce.
+Stemm describes what is meant by these categories:
+
+1. Number of duplicates on site: This is simply an evaluation of the number of arti-
+facts of that particular type available from the site. Based on discussions with
+museums and archaeologists, I recommend maintaining a minimum ﬁve to ten
+percent sample of the multiple artifacts in the permanent cultural collection.
+. . . the ﬁnal evaluation should be left to the project archaeologist. . . .
+
+  297
+
+2. Ease of recording or replicating artifacts : In the ProSEA Code of Ethics, it states
+that those artifacts that cannot be “documented, photographed, moulded or
+replicated in a manner that allows reasonable future study and analysis” must
+be kept together. An obvious example of an artifact that is easily documented
+is a coin, which can be easily photographed in high resolution, weighed and
+the dimensions given, thus providing virtually all the data necessary for further
+study of the coin. The one exception would be an analysis of the metal in the
+coin, but that can be accomplished for the most part from the sample
+collection of similar coins from the same site in the permanent collection. . . .
+
+3. Archaeological value versus value of return to stream of commerce: . . . One concern of
+archaeologists today is that the potential cultural value should be considered
+in determination of economic value. But then to decide which value is
+greater? And to what degree? The answer is not simple, and is a subjective
+judgment. It can probably best be illustrated by the following example.
+
+Consider the case of 1,000 similar gold coins recovered from a shipwreck
+from the late 18th Century. In this instance, the market value of those coins
+could easily reach millions of dollars. In terms of the archaeological value,
+there are many of the same coins already widely circulated throughout the
+coin collectors marketplace, so there is very little that can be learned
+incrementally about 18th Century culture that can’t be learned from records
+and data which are already in existence. This is especially true when coupled
+with a representative sample, plus photos and documentation of the coins
+that are dispersed. In this case, a reasonable conclusion could be drawn that
+the tiny incremental value of the archaeological knowledge that could be
+gained from keeping the collection together does not warrant preventing a re-
+turn of millions of dollars to the stream of commerce.
+
+On the other hand, a large collection of amphorae from a Mediterranean
+bronze-age site would probably not have a very large intrinsic value. However,
+so little is known of trade from this era, that minor variations in markings on
+the amphorae, as well as data that can be gleaned from the remains of their
+contents, may be data that can be gathered in no other method. In this case, a
+reasonable conclusion could be drawn that the low commercial value would
+not warrant breaking up this collection.237
+
+This classiﬁcation draws on some of the language of commerce while incorporat-
+ing some of the principles of archaeology. Whether and to what extent it would
+be acceptable to the parties involved remains to be seen. Consider, for example,
+museums. A museum with a major coin collection might ﬁnd a 5 to 10 percent rep-
+resentative sample acceptable, but ones with smaller collections may ﬁnd the de-
+mands such that this percentage would be insufﬁcient. Particularly would this be
+the case where the needs of regional museums have to be satisﬁed. Museums are
+
+298  -  .
+
+increasing their role in determining what is unique about a region and a commu-
+nity, and this makes them important both socially and, through tourism, econom-
+ically. Exhibitions are no longer produced on the basis of one representative of
+each type. They are theme based and particular themes may demand many dupli-
+cates. For example, the Maritime Museum in Fremantle, Australia, has a section
+through the hull of an East Indiaman, showing the many identical ballast bricks in
+the lower parts and the many timber planks.238
+
+ 
+
+In many jurisdictions, the response to the growing tension between the treasure
+salvage and archaeological communities has been statutory prohibition of com-
+mercial recovery of wreck beyond a certain age, typically one hundred years. While
+there appears to have been no comprehensive research to assess the effectiveness
+of this approach, the experience of some countries suggests that prohibitions are
+more honoured in the breach than the observance in the absence of adequate re-
+sources devoted to enforcement. The inescapable basis of the difﬁculty is that the
+overwhelming majority of wrecks are in relatively shallow waters accessible to a
+large and expanding sports diving community that is even more problematic to
+regulate than the treasure salvage industry. Moreover, for some countries, eco-
+nomic development has a higher priority than preservation of the underwater cul-
+tural heritage and the temptation to exploit a cultural resource by permitting diver
+access to beneﬁt tourism has proved irresistible. The alternative approach of a
+heavily regulated salvage regime is a possible compromise, but only if it can be
+demonstrated that this can provide adequate protection.
+
+Admiralty courts in the common law countries are compelled to apply the law of
+salvage when confronted with a ﬁnd or recovery that, as a matter of law, falls within
+the regime. Some, particularly those in the United States of America, have attempted
+to take account of the fact that certain subjects of salvage law incorporate more than
+commercial value. This arises from the fact that historic wreck contains information
+on past ways of life, information that can provide people with knowledge of their ori-
+gins. The information is unlocked using the principles of archaeology and related dis-
+ciplines. The courts, in giving salvors certain rights over the wrecks, attempt to hold
+them to standards of behaviour based on these principles yet, in doing this, the courts
+have applied their own notions of what these principles mean, notions which reﬂect
+only partially the requirements of the archaeological profession. Some assistance may
+be obtained from the international standards that have been adopted recently or are
+in the process of being prepared. However, it is not unusual for the courts to be called
+upon to evaluate the expert evidence provided by salvors and it would seem to be a
+simple matter of common sense that this should be done with the beneﬁt of expert
+advice. Indeed, admiralty courts in the United Kingdom are assisted by lay advisers in,
+
+  299
+
+for example, determining liability in maritime collision cases.239 The use of profes-
+sional marine archaeologists to advise in historic wreck cases seems a natural pro-
+gression that would materially enhance the ability of the court to assess the archaeo-
+logical merit, or otherwise, of an application. It would then be easier for a court to
+impose far more speciﬁc archaeological criteria that could be adequately monitored
+and enforced by the deployment of professional marine archaeologists to direct re-
+covery operations, in a manner similar to the administrative controls imposed by the
+United Kingdom under the 1973 Protection of Wrecks Act. Yet, whatever attempts
+might be made to accommodate archaeology within the traditional salvage regime, the
+archaeological imperative for some sites will always be in situ preservation, and this cre-
+ates an impasse with the freedom to initiate salvage. Moreover, the courts would have
+to supervise the conduct of salvors effectively. It is insufﬁcient to assess this at the
+time of making a salvage award as, by that time, the damage has been done. It is
+doubtful if many courts would have the facilities for such supervision. If the full
+range of archaeological principles is taken into account, there seems little scope for
+salvage to operate. In addition, the court’s scope to administer salvage law is limited
+by its jurisdiction. While it may make an order, that may well be ignored by those be-
+yond its power. International rules on jurisdiction have to be studied as well as the fact
+that states have varying rules on the relationship between salvage and historic wreck.
+But that is the stuff of another article. 
+
+
+
+1. Although the origin of the debate is of greater antiquity, this article regards the UNESCO
+Regional Seminar on the Protection of Movable Property held in Brisbane, Australia, in 1966
+as a practical starting point, since the following statement led belatedly to the decision in 1993
+to conduct a feasibility study into the possibility of an international convention to protect the
+underwater cultural heritage (UCH): “if positive steps are not taken immediately it is antici-
+pated that the recent advances that have been made by treasure hunters internationally . . . will
+result in a tragic loss of essential and important heritage.”
+2. A selection of these regimes is described and analysed in a scholarly and timely text, Legal Pro-
+tection of the Underwater Cultural Heritage: National and International Perspectives (S. Dromgoole ed.,
+Kluwer Law International, London 1999).
+3. No comment is made or implied on the effectiveness of these regimes, which is self-evidently
+variable and entirely dependent on resources that, in turn, reﬂect political commitment and pri-
+orities. However, if increases in reporting of ﬁnds to public authorities is regarded as one mea-
+sure of success, then the U.K. regime under the 1973 Protection of Wrecks Act has shown yearly
+improvements in this regard as a consequence of an active policy of co-operation and educa-
+tion of the sports diving community. On the darker side, it is rumoured that a U.S. salvage
+company has succeeded in negotiating a licence with the Government of Vietnam to locate and
+salvage historic wreck along the entire length of its coastline.
+4. The evolution of this latest draft from the original International Law Association draft has
+generated much comment and analysis. On the original ILA draft, see particularly J. Blake, The
+
+300  -  .
+
+Protection of the Underwater Cultural Heritage, 45 International and Comparative Law Quarterly
+819 (1996), and P. J. O’Keefe, Protection of the Underwater Cultural Heritage Developments
+at UNESCO, 25 International Journal of Nautical Archaeology 169 (1996); on the UNESCO 1998 draft
+Convention, see a range of problems in S. Dromgoole and N. Gaskell, Draft UNESCO Con-
+vention on the Protection of the Underwater Cultural Heritage 1998, 14:2 International Journal
+of Marine and Coastal Law 179 (1999); P. Fletcher-Tomenius and C. Forrest, Historic Wreck in In-
+ternational Waters: Conﬂict or Consensus?, 24 Marine Policy 1 (2000); and P. Fletcher-Tomenius
+and M. Williams, The Draft UNESCO/Doalos Convention on the Protection of Underwater
+Cultural Heritage and Conﬂict with the European Convention on Human Rights, 28 Interna-
+tional Journal of Nautical Archaeology 145 (1999).
+5. Even if a convention is agreed on, the current U.S. position regarding salvage law is unlikely
+to change in the absence of acceptance of its proposal at the 1999 meeting either to make Ar-
+ticle 12(2) (the provision requiring non-application of salvage law to historic wreck) optional
+rather than mandatory as at present or, alternatively, to permit reservations in respect of that
+obligation (CLT-99/CONF. 202/5 Rev.).
+6. For an informative summary of the available technology and the companies that possess it,
+see R. Mather, Technology and the Search for Shipwrecks, 30:2 Journal of Maritime Law and Com-
+merce 175 (1999). It is noted that the French Institute of Research and Exploitation of the Sea
+(IFREMER) also has a sophisticated deep ocean technological capability. 
+7. This equipment allows amateur divers to reach depths of 120 metres and remain submerged
+for much longer periods of time. Such depths make a large part of the continental shelf ac-
+cessible to sports divers. For example, the maximum depth in the English Channel, an area
+strewn with literally thousands of wrecks of all ages, is about 110 metres.
+8. Transcript of the Presentation of Periodic Report of Salvors in R.M.S. Titanic Inc. v.
+Wrecked and Abandoned Vessel etc., Civil Action No. 2: 93cv902 in the U.S. District Court for
+the Eastern District of Virginia before Clarke and Smith JJ. 22 March 2000 (“the March pro-
+ceedings”) and the Transcript of Proceedings in the same matter of 3 April 2000 (“the April
+proceedings”).
+9. The signiﬁcance of this development is further examined infra in the section “Salvor in
+Possession.”
+10. A process usefully summarised in G. Brice, Maritime Law of Salvage 3– 5 (3d ed., Sweet and
+Maxwell, London 1999).
+11. For example, in The Calypso (1828) 166 E.R. 221 at 224, Sir Christopher Robinson examined
+the Roman law and equitable origins of salvage law.
+12. For an elaborate review of the relevance of and the relationship between English and U.S. ad-
+miralty law after independence, see Thompson v. The Catharina 23 Fed. Cas. 1028 (1795), more gen-
+erally, Brice, supra note 10, at 9– 14, and W. R. Casto, The Origins of Federal Admiralty Juris-
+diction in an Age of Privateers, Smugglers and Pirates, 37 American Journal of Legal History 1 (1993).
+13. (1835) 3 Hag. Adm. 203, 204.
+14. The continuing close relationship of English and American admiralty law after indepen-
+dence is explained by Brice, supra note 10, at 12.
+15. This Convention remains in force with the United States as one of the state parties.
+16. See Current Law Statutes, Merchant Shipping Act 1995 (annotations by N. Gaskell, 21:239– 240,
+Sweet and Maxwell, London 1995).
+
+  301
+
+17. Indeed, it proved impossible to achieve consensus even on the question of whether sunken wreck
+was capable of salvage, reﬂecting wide divergence between national legal regimes (see note 2 supra).
+
+18. 28 U.S.C. §1333 deﬁnes the jurisdiction of district courts and procedural matters are further
+elaborated in the Supplemental Rules for Certain Admiralty and Maritime Claims.
+
+19. The progression can be traced in English law from HMS Thetis (1835) 3 Hagg. 228 to Morris
+v. Lyonesse Salvage Co. Ltd. (The Association) [1970] 2 Lloyd’s Rep. 59. 
+
+20. The matter is examined exhaustively in Brice, supra note 10, particularly at 46– 57. He also
+includes a comparison of the U.S. law, which is broadly similar other than on its treatment of
+future or contingent dangers.
+
+21. For example, in the United Kingdom, see The North Goodwin no. 16 [1980] 1 Lloyd’s Rep. 71;
+in the United States, Nunley v. M.V. Dauntless (1988) A.M.C. 1445; and in South Africa, Petjalis
+Engineering Works (Pty) Ltd. v. South African Transport Services (1988) (1) S.A. 103.
+
+22. See The Whippingham (1934) 48 Ll. List L. Rep. 49 and the discussion thereon in Brice, supra
+note 10, at 387– 89.
+
+23. See The Merannio (1927) 28 Ll. List L. Rep. 352 and The Gregerso [1973] 1 Q.B. 274.
+
+24. For example, B. V. Bureau Wijsmuller v. U.S., 702 F.2d 333 (1983) and Allseas Maritime S.A. v. M.V.
+Mimosa, 812 F.2d 243 (1983).
+
+25. A point exhaustively considered in American law in Westar Marine Services v. Heerema Marine
+Contractors S.A., 621 F. Supp. (1985).
+
+26. Article 14 uses the different phraseology advisedly, implicitly acknowledging the restricted
+meaning of “danger”; see further Brice, supra note 10, at 414– 17.
+
+27. Supra note 19.
+
+28. This may be unfair in the sense that the case dealt only with an application to consider
+whether an interlocutory injunction restraining a competing salvor from interfering with op-
+erations should be continued. However, this involved a consideration of the rights of salvors
+in possession (see infra), which necessarily involved an acknowledgement that the operations
+themselves amounted to salvage.
+
+29. Though the case report states laconically (at p. 60) that “the hull of the Association is partly
+embedded in sediment,” suggesting that at least part of the wooden structure was intact.
+
+30. It is important to stress that this is a real possibility in such areas. For example, the Post
+Ofﬁce packet Hanover, discovered in 1996 in an exposed north Cornish cove bearing the same
+name, was covered again by ﬁfteen feet of sand after an ordinary gale. The hull only was un-
+covered, as it had lodged in a gully in a corner of the cove. Had the wreck site been located in
+an open area of ocean ﬂoor, it may well have been lost.
+
+31. The salvor commenced salvage operations in July 1997 but an emergency designation order
+was made under the 1973 Protection of Wrecks Act. Further unlicensed salvage operations were
+prohibited but the salvor obtained an injunction restraining implementation of the order on
+the grounds, inter alia, of lack of consultation. The matter was eventually resolved by agree-
+ment, salvage operations continuing under the supervision of two archaeologists paid for by
+the government. The outcome was widely seen as a defeat for the government’s heritage con-
+trols. See further Guardian, 19 July 1997, and Times, 24 July 1997.
+
+32. (1989) A.M.C. 1955 and the appeal (1995) A.M.C. 1985 (“the Central America”).
+
+302  -  .
+
+33. Id. at 2007.
+34. The vessel sank in 1857 with a recorded $1 million of California gold aboard plus unknown
+quantities of personal wealth of passengers, many of whom were returning home after suc-
+cesses in the Gold Rush of those days. These were fabulous sums for those times.
+35. 577 F. Supp. 597, 611 (1983) (“Subaqueous” ).
+36. Platoro v. Unidentiﬁed Remains of a Vessel, 371 F. Supp. 351 (1970) (“Platoro” ).
+37. Cobb Coin Company Inc. v. Unidentiﬁed, Wrecked and Abandoned Sailing Vessel etc., 549 F. Supp. 540
+(1982) (“Cobb Coin II”).
+38. A ﬂeet of twelve Spanish galleons departed Havana Harbour on 24 July 1715 with cargoes
+of gold, emeralds, and pearls from Peru that had been loaded at the port of New Grenada. The
+king of Spain annually sent two ﬂeets of ships to bring back the wealth of the New World, one
+for treasure and the other for pottery, silver, and dyes from the Orient. The two ﬂeets then
+combined in Havana for greater mutual protection from pirates before sailing for Europe.
+Normally the ﬂeet would have sailed in advance of the hurricane season, but it was delayed for
+trade reasons. The hurricane of 31 July caused the loss of 1,000 lives, eleven galleons, and four-
+teen million pesos of treasure.
+39. Although it is arguably less serious for the protection of historic wreck in U.K. waters, as
+the 1973 Protection of Wrecks Act provides a statutory means of exercising control over salvage
+operations and, in appropriate cases, of imposing in situ preservation. The system has been rea-
+sonably successful, notwithstanding certain deﬁciencies in the legal regime.
+40. (1997) A.M.C. 1000 (Ontario Court, General Division) (“Mar-Dive”). It is noted that a re-
+lated point arose in the U.S. case of Klein v. Unidentiﬁed and Abandoned Sailing Vessel etc., 568 F. Supp.
+1562 (1983), and, on appeal, 758 F.2d 1511 (1985), where the court held that the danger was cre-
+ated by the salvor’s failure to use appropriate archaeological practices.
+41. A view which is also expressed in decisions of the 4th Circuit (The Central America), 6th Circuit
+(Fairport International Exploration Inc. v. Shipwrecked Vessel Known as the Captain Lawrence, 105 F.3d 1078
+(1997)), and 7th Circuit (Zych v. Unidentiﬁed, Wrecked and Abandoned Vessel etc., 811 F. Supp. 1300 (1993)).
+42. 525 F. Supp. 186, 215, 217 (1981) (“Cobb Coin I”). Similarly, in Treasure Salvors Inc. v. Unidentiﬁed,
+Wrecked and Abandoned Sailing Vessel, 569 F.2d 330, 337 (1978) (“Treasure Salvors I” ), the court deﬁned
+danger in terms of both tropical storms and pirates.
+43. 525 F. Supp. at 217.
+44. Arguably, such a consideration applies even where the recovered artefacts are not subse-
+quently sold but are deposited with a publicly accessible collection, in that public access fur-
+thers the institutional objectives and existence.
+45. In the United Kingdom, it is the policy to favour in situ preservation unless conservation fa-
+cilities and accommodation in a publicly accessible depository can be secured prior to recovery.
+See further Department of Culture Media and Sport, Archaeological Diving Unit, Protected His-
+toric Wrecks: Guidance Notes for Divers and Archaeologists (St. Andrews University 2000). Nonetheless,
+in situ preservation is not always possible (a point well understood by terrestrial rescue archae-
+ologists), and two U.K. examples are instructive in this regard. In Scottish waters, the wreck of
+The Swan, one of a ﬂotilla of warships dispatched by Cromwell during the English civil war to
+engage a royalist stronghold, lies in approximately twelve metres but was uncovered in recent
+years in an excellent state of preservation, probably from a combination of a minor earth
+tremor and prop-wash from passing ferries. It has been necessary to sandbag parts of the wreck
+
+  303
+
+to avoid further damage, while recovery proceeds at the slow pace necessary to meticulously
+record the archaeological provenance. At the harbour entrance of St. Peter Port, the capital of
+Guernsey in the Channel Isles, the remains of a Roman boat (which has become known as the
+“Asterix Wreck”) were uncovered a few years ago by prop-wash from new, more powerful fer-
+ries, and recovery was the only option available to archaeologists. Destabilisation from the same
+source has continued, revealing a further, unidentiﬁed medieval wreck currently being excavated
+by archaeologists from Southampton University.
+
+46. The position is quite different under English law, as the law of ﬁnds is not applied to aban-
+doned property, which falls to the Crown by prerogative right (S. 241 Merchant Shipping Act
+1995). Technically, the same rule explains the title question in Mar-Dive.
+
+47. See infra.
+
+48. 974 F.2d 450, 460.
+
+49. Id.
+
+50. Id. at 470 et seq.
+
+51. Id. at 476– 477.
+
+52. 43 U.S.C. §§2101– 2106. This is a short legislative provision of only six sections declaring that
+States are the owners of all abandoned shipwrecks that are (1) embedded in state submerged
+lands, (2) embedded in coralline formations on state submerged lands, or (3) on state submerged
+lands and either included, or eligible for inclusion, in the National Register of Historic Places.
+
+53. The argument is more complex as the constitutionality of the ASA itself is still an issue.
+See infra.
+
+54. This change of tactics by the treasure salvage industry has attracted considerable comment
+—for example, O. Varmer, The Case against the “Salvage” of the Cultural Heritage, 30: 2 Jour-
+nal of Maritime Law and Commerce 279 (1999), and A. G. Giesecke, The Abandoned Shipwreck Act
+through the Eyes of Its Drafter, id. at 167.
+
+55. This applies both to maritime salvage in general and to historic wreck in particular. Although
+there are circumstances where more than one salvor is recognised (for example, the Unique Mariner
+[1979] 1 Lloyd’s Rep. 37), the defence of possessory rights remains the central issue.
+
+56. See infra for an explanation of this as a general phenomenon, but for a particular case study,
+see P. N. Keller, Salvor-Sovereign Relations: How the State of Illinois Destroyed the Lady Elgin,
+30: 2 Journal of Maritime Law and Commerce 245 (1999).
+
+57. This also occurs in English law (for example, in the Tubantia [1924], p. 78) but it has already
+been observed that there have been few cases involving historic wreck.
+
+58. A maritime lien entitles a salvor to proceed in rem against the salved property, i.e. to arrest
+(detain) it until payment. Such liens are commonplace and part of customary international law,
+being recognised implicitly in Article 2 of the 1910 Convention and explicitly in Article 20 of
+the 1989 Convention. Protection probably extends also to a possessory lien in English law (see
+Brice, supra at 143– 44) and certainly does so in American law (see Benedict on Admiralty 10-7–
+10-9 (7th ed., rev., M. Bender, New York 1974–) (hereinafter Benedict)).
+
+59. The issue of security is not important in the context of historic wreck as its practical rele-
+vance is restricted to the successful salvage of a ﬂoating casualty, the owner of which will de-
+sire to continue operating for commercial gain pending the assessment of the salvage award,
+usually payable by insurers following arbitration.
+
+304  -  .
+
+60. The Aquila 1 C. ROB. 37 (1798) per Sir W. Scott at 40.
+
+61. H.M.S. Thetis, supra note 19, per Sir John Nicholl at 235, cited with approval in The Tubantia, supra
+note 57, per Sir Henry Duke (president) at 87.
+
+62. The Black Book of the Admiralty, compiled between the early thirteenth and late ﬁfteenth cen-
+turies speaks of entitlement to salvage for “vessels fﬂoateing or waving found . . ., without any
+man therein”; see further 1 The Black Book of the Admiralty xx–xxi (Sir Travers Twiss ed. and trans.,
+London, Longman 1871).
+
+63. The Blenden Hall 1 DODS. 414 (1814), per Sir W. Scott at 416. English courts gradually ex-
+tended the concept of derelict from vessels abandoned and ﬂoating to those which had sunk to
+the seabed. See H.M.S. Thetis, supra note 19 (sunken vessel’s cargo is derelict), and Pierce v. Bemis
+(“The Lusitania”) [1986] Lloyd’s Rep. 132 (a derelict which sinks remains a derelict at law).
+
+64. Referred to by the courts as animus possidendi.
+
+65. See The Tubantia, supra note 57, at 89– 91, and Morris v. Lyonesse Salvage Company Ltd., supra note 19,
+at 61– 62.
+
+66. See further The Tubantia, supra note 57, at 88– 89, and Morris v. Lyonesse Salvage Company Ltd., supra
+note 19, at 62. 
+
+67. While many in the present archaeological community would dispute that the work was ar-
+chaeological in nature, the court expressly accepted it as such. 
+
+68. Given that designation under the 1973 Protection of Wrecks Act requires that the location
+of a site be published, this possessory right has been used very successfully by at least one ar-
+chaeological group (South West Archaeological Dive Group) to avoid disclosure and thus pro-
+tect a site for three years prior to designation. 
+
+69. The vessels were wooden men-of-war and, given the very exposed location, must have bro-
+ken up within days, if not hours, of the wrecking. Certainly no substantial structures remained
+and the artefacts were very scattered.
+
+70. The Tubantia, although broken, remained in three substantial sections.
+
+71. That this has profound implications for maritime archaeology cannot be denied. The pos-
+sessory rights of a salvor in possession are regarded as falling within the protection of the Eu-
+ropean Convention on Human Rights, with the result that the salvor cannot be dispossessed
+by the state without payment of compensation, even where such dispossession is in the public
+interest. See further P. Fletcher-Tomenius and M. Williams, The Protection of Wrecks Act 1973:
+A Breach of Human Rights? 13: 4 International Journal of Marine and Coastal Law 623 (1998). 
+
+72. In Martha’s Vineyard Scuba Headquarters Inc. v. The Unidentiﬁed, Wrecked and Abandoned Steam Vessel,
+833 F.2d 1059, 1061, it was stated that a salvor must show that its efforts are (1) undertaken with
+due diligence, (2) ongoing, and (3) clothed with some prospect of success.
+
+73. 525 F. Supp. 350 (1981) (“Hener”). The case usefully explains the broad test of possession and
+cites the leading precedents relevant to the problem of competing salvors, notably Eads v. Brazel-
+ton, 22 Ark. 499 (1861).
+
+74. 952 F. Supp. 825 (1997) (“Marex”).
+
+75. The Central America and RMS Titanic v. The Wrecked and Abandoned Vessel, 924 F. Supp. 714 (1996)
+(“RMS”), are the best-known examples. See further Note, Telepossession Is Nine Tenths of the
+Law: The Emerging Industry of Deep Ocean Discovery, 3 Pace Yearbook of International Law 309
+
+  305
+
+(1991), and Comment, Property Owners’ Constructive Possession of Treasure Trove: Rethink-
+ing the Finders Keepers Rule, 38 UCLA Law Review 1659 (1991).
+76. Hener and RMS are two of the better known examples.
+77. Supra note 8.
+78. Id. at 36– 37.
+79. Id. at 38. The question arises as to the enforceability of such an agreement in the longer
+term, since there are formidable legal obstacles to imposing effective conditions on the own-
+ership of chattels (movables). Additionally, archaeologists would be concerned over rights to
+access for scientiﬁc reasons and the enforceability of long term conservation measures.
+80. Id. at 38. 
+81. The generality of this view is expressed here, as the authenticity and origin of the statement
+cannot be veriﬁed.
+82. Supra note 8, at 13.
+83. It is technically possible to constrain such rights but there is no evidence that this has been
+done in the case of RMS Titanic Inc. It is further noted that the company has recently settled
+a change of management team, following a well-publicised and acrimonious dispute among
+shareholders.
+84. It is not relevant for the purposes of this article to examine the implications of this aspect
+of the proceedings, but the court was asked for guidance on how to proceed in the light of the
+negotiations for the impending multilateral agreement between the United States, Canada,
+France, and the United Kingdom that would render the proposed operation unlawful. In fact,
+the present negotiations, which appear to be nearing success, concern guidelines for the con-
+duct of operations affecting the wreck, but any implementation legislation is likely to be some
+years away. The court made it clear that it would order those four governments not to restrict
+the salvors and questioned the jurisdictional basis of the RMS Titanic Memorial Act that
+granted the U.S. government authority to enter into such agreement in the ﬁrst place (for ex-
+ample, at p. 16 of the March proceedings and p. 34 of the April proceedings, supra note 8). Ad-
+ditionally, it ordered representatives of the government to meet the salvors and provide details
+of the proposed agreement (which “almost told him how to brush his teeth in the morning”—
+at p. 12 of the April proceedings) within ten days, on pain of imprisonment for non-attendance
+(at p. 50 of the March proceedings).
+85. March proceedings, supra note 8, at 13– 14.
+86. Id. at 44.
+87. Id. at 48.
+88. The only signiﬁcant exceptions to this are for environmental protection endeavours, the so-
+called safety net and special compensation provisions contained in Articles 13 and 14 of the
+1989 Convention, on which see generally Brice, supra note 10, at ch. 6.
+89. See 43 Halsbury’s Laws of England 713 (Butterworths, London 1973).
+90. See 3A Benedict, supra note 58, at 1 – 4.
+91. See EnricoVincenzini, International Salvage Law 55– 60 (Lloyd’s of London Press, London 1992).
+92. Brice, supra note 10, for example, deals with the criteria for awards in ch. 2 and breach of
+duty in ch. 7.
+
+306  -  .
+
+93. Also referred to as the “archaeological provenience”; both terms are approved in the Con-
+cise Oxford Dictionary and may be used interchangeably. It is noted that the use of this term is
+regarded by many archaeologists as unsatisfactory, as it relates to location or place of origin
+data. It would be more satisfactory if the courts concerned themselves with the more compre-
+hensive issue of the archaeological context. However, the terminology of the courts is used
+throughout this article.
+
+94. Supra note 32, at para. 43.
+
+95. 631 F. Supp. 308 (1986) (“MDM”).
+
+96. As Giesecke, supra note 54, at 170– 71 somewhat scathingly refers to it.
+
+97. Article 13.1 (b).
+
+98. Article 13.1 (h).
+
+99. Article 13.1 (i).
+
+100. Article 13.1 (j).
+
+101. It should be emphasised that there appears to be no scope for arguing that preservation of
+the UCH per se falls under this head. It would only be relevant if “physical” pollution from oil
+or chemicals threatened a UCH site and was averted or minimised by a salvor.
+
+102. Supra note 25.
+
+103. The decision occurred before the International Salvage Convention was agreed. However,
+Article 13 is substantively similar to the CMI draft.
+
+104. Which provides: “A Treaty shall be interpreted in good faith and in accordance with the
+ordinary meaning to be given to the terms of the Treaty in their context and in the light of its
+object and purpose.”
+
+105. Supra note 10, at 166.
+
+106. Id. at 277.
+
+107. 77 U.S. 10 Wall. 1 at 13– 14 (1870).
+
+108. Supra note 58, at para. 237. This order received judicial approval in B.V. Bureau Wijsmuller v.
+U.S. (1980) A.M.C. 2993.
+
+109. The order in The Blackwall itself, using the numbers in Benedict, was 6, 5, 4, 2, 3, and 1.
+
+110. Per Dr. Lushington in The Phantom (1866) L.R. 1 A. & E. 58 at p. 60.
+
+111. The Saragossa, 21 F. Cas. 425 (1867).
+
+112. Although it should be noted that the English approach states only that the value must be
+“considered” and that it should not justify a sum out of proportion to the actual service ren-
+dered. See Brice, supra note 10, at 166– 67.
+
+113. The 1910 Convention was silent on the matter.
+
+114. Anglo-Saxon Petroleum Co. Ltd. v. Admiralty (The Delphinula) (1946) 79 Ll. L. Rep. 611, 634.
+
+115. It should be noted that intervention may be contractual and the standard of care may well
+be deﬁned. For example, Lloyd’s Open Form salvage requires a salvor to use “best endeavours,”
+and that is clearly a subjective standard to be based on the skill, experience, and equipment of
+the particular salvor.
+
+  307
+
+116. See Brice, supra note 10, at 510 et seq., and Benedict, supra note 58, at paras. 120– 23. 
+117. See The Mohawk (1953) A.M.C. 1541.
+118. This point refers only to whether unacceptable archaeological practice breaches the gen-
+eral duty to exercise due care. There are American cases that hint at penalties for poor perfor-
+mance under the seventh criterion, and these will be analysed later in this article.
+119. In other words, ordinary negligence often does not affect a salvage award; the behaviour of
+the salvor must be akin to recklessness.
+120. For a learned and modern exposition of the difﬁculties, see A. Hudson, Abandonment,
+in Interests in Goods 595 et seq. (2d ed., N. Palmer and E. McKendrick eds., Lloyds Library Press,
+London 1998).
+121. Hudson, supra note 120, at 595, states the issue even more broadly by saying that it “may af-
+fect the rights of owners and possessors of property,” although even he, in the particular con-
+text of this publication, does not include the effects on real property (immovables).
+122. See Hudson, supra note 120, at 598– 601 and 606– 14.
+123. Daily Telegraph, 11 Oct. 1991. The issue was not that the owner was mentally disordered or
+acting under undue inﬂuence; the police caution simply reﬂected doubts regarding the legal po-
+sition under English law.
+124. See Hudson, supra note 120, at 610– 12. Under the Marine Insurance Act 1906, S. 63(1), an
+assured can elect to abandon title to underwriters in the event of a total loss or constructive
+total loss by a formal notice to that effect. The underwriters can then elect to accept or reject
+the notice (in practice, they will often reject it, as they do not wish to incur the risk of further
+third-party  claims  arising  from  the  wreck). The  unresolved  issue  is  whether  the  notice  is
+sufﬁcient to divest title even if it is rejected.
+125. Implied release of rights is possible, however. For example, see Moore v. Rawson (1824) 3
+B. & C. 332 and Tehidy Minerals Ltd. v. Norman [1971] 1 Q.B. 528. Formal abandonment presents no
+practical difﬁculties in real property matters and is almost always accomplished by deed; for ex-
+ample, surrender of a lease or extinguishment of a right of way are commonplace transactions
+following agreement of terms between the respective parties. It should be noted that, while
+English law accepts the termination of title to freehold land (for example, where a company
+is liquidated and land vested in it is not sold as it has no market value, or where an individual
+dies intestate without heirs), it vests by operation of law as bona vacantia in the Crown. In this
+sense, there is no true abeyance of title, although this rule does not affect so-called squatters’
+rights, as these depend on the acquisition of superior rights of possession and do not depend
+on abandonment of title.
+126. While The Crystal [1894] A.C. 508 H.L. deals with abandonment and res nullius, it does so
+in a narrow statutory context. The Egypt, (1932) 44 Ll. List L. Rep. 21, held that underwriters
+had not abandoned sunken gold inaccessible to them at the time of the loss and claim, as there
+was only ten years between the two events. Only Pierce v. Bemis (“The Lusitania”), supra note 63,
+is signiﬁcant in holding sixty-seven years on the seabed without any assertion of title sufﬁ-
+cient to amount to abandonment of title. Even in this case, however, the decision is ﬁrst in-
+stance, and a modern case at appellate level examining the general principles is awaited with
+interest.
+127. Brice, supra note 10, is oddly silent on the general issue other than a bald statement of prin-
+ciple. He deals extensively with abandonment in the context of derelicts and notices of aban-
+
+308  -  .
+
+donment, but exclusively with Canadian and U.S. law in relation to abandonment of title. It ap-
+pears that signiﬁcant analysis is restricted to S. Dromgoole and N. Gaskell, Interests in Wreck,
+in Interests in Goods, supra note 120, at 141.
+
+128. It should also be re-emphasised that salvage awards for historic wreck in the United King-
+dom are traditionally very high, and this would tend to act as a disincentive to litigation since,
+in the absence of very high total values, there would be insufﬁcient residual values.
+
+129. At one time the value of the Central America was estimated at US $1 billion; although this
+has since been revised downwards and a ﬁnal ﬁgure is still not known, it is believed that the
+total will exceed $600 million.
+
+130. This was based on the principle of insurance law under which, on payment of a claim, in-
+surers automatically gain the right to claim the lost or damaged property.
+
+131. Dromgoole and Gaskell, supra note 127, at 163.
+
+132. It could only become an issue if the owner (successor) in title had re-established posses-
+sion and control, presumably with a view to conducting salvage operations. Although there is
+no case law on the point, ﬁrst principles suggest this in itself would be powerful evidence of
+non-abandonment, since it is established law that inability to salve per se (inaccessibility, in
+other words) does not adversely affect title (see, e.g., The Egypt, supra note 126).
+
+133. This is graphically illustrated by the different judicial and academic interpretations of
+L. J. Greer’s judgement in Oceanic Steam Navigation Co. v. Evans: The Celtic (1934) 50 Ll. List L. Rep.
+1, a case concerning an express notice of abandonment by the owners that was followed by a
+later attempt by that same owner to salvage the vessel. Dromgoole and Gaskell (supra note 127,
+at 170) and G. Gauci, Constructive Total Loss in the Law of Marine Insurance, in The Modern Law
+of Marine Insurance 201, 206 (D. R. Thomas ed., Lloyd’s Library Press, London 1996), both con-
+clude that a notice of abandonment not accepted by the insurer does not divest title from the
+ship owner. Hudson (supra note 120, at 436), however, concludes that the judgement supports
+the view that express abandonment can indeed divest title.
+
+134. The exception is where it is a device to avoid third-party liability, an irrelevant issue in this
+context. However, it is noted in passing that the United States dealt with the major problem of
+divesting title by abandonment to avoid wreck removal liabilities in the 1899 Rivers and Har-
+bors Appropriation Act. A substantial and helpful summary of the general position in the
+United States can be found in D. P. Larsen, Ownership of Historic Shipwreck in U.S. Law, 9:1
+International Journal of Marine and Coastal Law 31 (1994), although it should be noted that there has
+been further, signiﬁcant case law since the publication of this article (see infra).
+
+135. While the law of ﬁnds does exist in English law, it has no application to maritime property.
+The uncertainty of whether express notice of abandonment divests title, rendering the prop-
+erty res nullius, has already been noted. 
+
+136. 47 F. Supp. 2d 678 (1999) AMC 1752; rev’d in part, 221 F.3d 634 (4th Cir. 2000), cert. petition ﬁled
+(Oct. 19, 2000).
+
+137. The Central America, 974 F.2d 450, 468.
+
+138. For example, the destruction of insurance records was taken into account in The Central
+America.
+
+139. Manorial rights, including the franchise of wreck, still survive in the United Kingdom and are
+usually both traceable and enforced in practice (see Fletcher-Tomenius and Williams, supra note 4).
+
+  309
+
+140. [1975] 2 Lloyd’s Rep. 338.
+141. Admittedly, a rather short period from which to infer abandonment without other, sub-
+stantive evidence. The decision also included a ﬁnding that the vessel had not been abandoned
+for the purpose of making it derelict, as the abandonment was not “voluntary.” This contro-
+versial conclusion is not relevant to this article, however.
+142. (1977) 51 A.L.J.R. 806.
+143. The Dutch government has always vigorously asserted title to such wrecks in all jurisdic-
+tions, for example, the wreck of the Amsterdam off the beach of Hastings, England.
+144. At pp. 820– 21.
+145. Supra note 122. The case generated signiﬁcant academic reaction, on which see S. D. Lilling-
+ton, Wreck or Wreccum Maris? The Lusitania, Lloyd’s Maritime and Commercial Law Quarterly 267
+(August 1977), and M. Nash, The Lusitania and Its Consequences, 1 International Journal of
+Estuarine and Coastal Law 323 (1986).
+146. 16 F. Supp. 2d. 1369 (1999) A.M.C. 1198.
+147. Quoting from MDM, supra note 95, at 311.
+148. 758 F.2d 1511 (1985).
+149. Supra note 32, at 960.
+150. Id.
+151. 569 F.2d 330, 337 (1978).
+152. The Spanish government, unlike the French and British, showed no interest in the discov-
+ery of its ancient wrecks in foreign waters until the Sea Hunt case, supra note 136.
+153. Supra note 41.
+154. For a discussion and criticism of this development of the law, see J. P. Jones, The United
+States Supreme Court and Treasure Salvage: Issues Remaining after Brother Jonathan, 30: 2 Jour-
+nal of Maritime Law and Commerce 205 (1999). See particularly the extensive list of cases in which
+abandonment of title was claimed in note 35.
+155. 118 S. Ct. 1464 (1998) A.M.C. 1521 (“The Brother Jonathan”).
+156. This problem is outside the scope of this article, but the substance of the argument against the
+ASA is that it impinges on federal admiralty jurisdiction, which is itself protected under Article III
+of the U.S. Constitution. The matter is moot, but the eventual outcome is genuinely uncertain.
+See further Jones, supra note 144, at 223. The argument is usefully and succinctly summarised in Zych
+v.Unidentiﬁed, Wrecked and Abandoned Vessel, Believed to Be the “Seabird,” 19 F.3d 1136, 1139– 42 (1994).
+157. The court also declined to hold even the uninsured portion of the cargo and personal ef-
+fects as abandoned, stating that it was premature to determine the issue, as heirs of persons
+who drowned might lodge claims. Indeed, this same point remains an issue with personal pos-
+sessions on the wreck of the Central America. The matter is considered in greater detail by Jones,
+supra note 154, at 221– 22.
+158. Although of much more ancient origin, the routine practice of marine insurance among
+the Western European maritime powers began in the seventeenth century but was not by any
+means universal until the last quarter of the nineteenth century. Additionally, it was not the
+practice to routinely insure state vessels, particularly men-of-war, at any stage.
+
+310  -  .
+
+159. Including ships of the Dutch East India Company, to which the Dutch government is the
+established successor in title.
+160. Giesecke, supra note 54, at 167– 68 and 170– 73.
+161. Although it has an inﬂuential power base in Europe, notably the so-called Austrian School.
+162. Vilfredo Pareto (1848– 1923) was an Italian social scientist and one of the ﬁrst advocates of
+positive economics (in the sense of being based upon factual statements, the validity of which
+can be tested and contrasting with normative or value-based judgements) and is also seen by
+many economists as the founder of welfare economics (this is not used in the social welfare
+sense but in the social efﬁciency sense).
+163. For a general explanation of which see J. Sloman, Economics 362– 415 (Cambridge University
+Press, Cambridge 1991).
+164. Pareto uses this term as an alternative to “utility,” which is a term used by economists to
+denote consumers’ perception of the social beneﬁt (to themselves) of purchasing one product
+rather than another.
+165. Later modiﬁcations to this original formulation have been made by later economists such
+as Hicks-Kaldor (see Sloman, supra note 163, at 404), but the substance of the theory remains
+intact for present purposes.
+166. In economic terms, this is expressed as a balancing of marginal beneﬁts against marginal
+costs, where “cost” means “opportunity cost,” i.e., the sacriﬁce of alternatives where one ac-
+tivity is deemed to produce a greater (individual) beneﬁt than an alternative activity.
+167. There never is perfect competition, as this represents a theoretical model in which the mar-
+ket price for any good is the same for all producers and consumers. Paradoxically, this “perfec-
+tion” is achievable in the market for historic artefacts by virtue of the restricted supply, as the re-
+sponse to scarcity will simply be an increase in price and the ability of salvors to increase output
+will always be limited by the nature of the product, almost regardless of investment levels.
+168. “Externalities” are additional costs or beneﬁts not suffered by the individual consumer or
+producer. Pollution is a prime example, as the cost falls on society, not the producer, in the ab-
+sence of state intervention. Bad archaeology places greater costs on the general public for res-
+cue and conservation, eventually causing the market to disappear altogether, as it is dependent
+on a ﬁnite resource.
+169. This is denied by welfare economists themselves, who insist that their viewpoint is “ethi-
+cally neutral.”
+170. Welfare economists place the two in the same category of intervention; there is no sugges-
+tion here that subsidy for the salvage industry is a realistic policy option. However, the paradox
+is that state subsidy for in situ preservation or controlled recovery and conservation outside the
+salvage regime is regarded by many archaeologists as a desirable, if unrealistic, policy objective.
+This serves to emphasise the ideological divide between them and welfare economists.
+171. The view of welfare economists on this particular issue is unknown but ﬁrst principles sug-
+gest they would disagree. This will become apparent in the discussion infra on property rights.
+172. A scholarly and thought-provoking examination of this and other examples may be found in
+D. Campbell, Of Coase and Corn: A (Sort of) Defence of Private Nuisance, 63: 2 Modern Law Review 197 (2000).
+173. For example, is it realistic to expect individual householders in a street to negotiate terms
+with hauliers for the creation of noise and fume pollution?
+
+  311
+
+174. Subject to the general requirements of admiralty law, this would already be the case in
+common law jurisdictions but for the ASA in the United States, the Protection of Wrecks Act
+in the United Kingdom, and similar legislation elsewhere. It is not the case in, for example,
+Spain, where archaeological recoveries are classiﬁed as “extractions,” not salvage, or France,
+where the award to the recoverer is ﬁxed by statute.
+
+175. Presumably, such rights would be traded between salvors, and the (publicly funded) com-
+pensation for non-enforcement would become a major component in setting the price.
+
+176. Vessels over 100 years old.
+
+177. National Monuments (Amendment) Act 1987.
+
+178. Other than those arising from the requirements of admiralty law, e.g. that a salvor must
+not be under a pre-existing contractual obligation.
+
+179. When permitted, recoveries in the United Kingdom fall within the salvage regime.
+
+180. There are other requirements speciﬁed in the licence, such as a duty to report annually.
+
+181. Partly as a consequence of a policy of co-operation with the sports diving community and
+partly as a consequence of the litigation which might follow dispossession of a salvor in pos-
+session (see note 3 supra). 
+
+182. Typically, 80 percent or greater, less the Receiver of Wreck’s expenses if the artefacts are
+purchased by a publicly accessible institution, less also fees if they are not so purchased. A re-
+cent award was made amounting to 82 percent of the market value, £99,000.
+
+183. Except that rights were transferred from the federal government to states, and except that
+the latter more routinely licence recoveries by other than professional marine archaeologists.
+
+184. E. W. Horan, Organizing, Manning and Financing a Treasure Salvage Expedition, 30: 2
+Journal of Maritime Law and Commerce 235, 237 (1999), suggests that all such projects should envis-
+age legal challenge by other salvors, the true owner or the government, possibly also involving
+appellate litigation. In other words, the professionals involved do indeed calculate the costs of
+these externalities, illustrating yet again the attachment of common law jurisdictions to the
+sanctity of private property rights.
+
+185. An instructive source on the passage of the ASA can be found in A. Giesecke, Historic Ship-
+wreck Resources and State Law: a Developmental Perspective (1991) (unpublished Ph.D. dissertation,
+Catholic University of America (Washington, D.C.) (on ﬁle with University Microﬁlms In-
+ternational, Ann Arbor, Mich., Ref. no. 9217086).
+
+186. P. N. Keller, supra note 56, at 251, takes this view, describing the problem in terms of “how
+easy it is for sovereigns to oppress any salvor.”
+
+187. Supra note 107.
+
+188. For example, in Platoro, supra note 36. 
+
+189. Id.
+
+190. Platoro Ltd. v. Unidentiﬁed Remains of a Vessel, 518 F. Supp. 816 at 822 (W.D. Tex. 1981).
+
+191. Id. at 208.
+
+192. Id. at 218.
+
+193. 549 F. Supp. at 559.
+
+312  -  .
+
+194. Supra note 40.
+195. The others being MDM, supra note 95 (see also infra), and Chance v. Certain Artifacts Found and Sal-
+vaged from the Nashville, 606 F. Supp. 801, aff’d, 775 F.2d 302 (1985), where salvors obtained no reward
+as a consequence of their failure to use sufﬁcient care in making recoveries from an historic wreck.
+196. 758 F.2d 1511, 1515– 16.
+197. Supra note 95.
+198. 691 F. Supp. 1377 (1988).
+199. Authors’ emphasis.
+200. In passing, in Moyer v. Wrecked and Abandoned Vessel known as the Andrea Doria, 836 F. Supp. 1099
+(1993), it is noted that the court did not discuss any such criteria in relation to salvage of arte-
+facts from this luxury cruise ship that sank following a collision in 1956, but merely observed
+that the entire operation had been documented and videotaped.
+201. 56 F.3d 556, 573.
+202. Supra note 58.
+203. In fact the court went on to list an eighth factor, “other considerations,” in which it in-
+cluded the general policy to provide an incentive to salvors, the underwriters’ claim to certain
+silver, and the striking out of the excess of the plaintiffs’ overlong brief. However, a generic cat-
+egory such as this is normal and quite uncontroversial, not only in American law but also under
+the 1989 Convention.
+204. 56 F.3d at 573.
+205. The court generalised about the generous praise of the plaintiff ’s own expert witnesses,
+discussed the videotapes of conservation measures, and mentioned the production of sample
+artefacts and books as well as the educational effort of the salvors. Little detail was added
+about the precise content of these matters.
+206. It is conceded that the Supreme Court could alter this priority.
+207. Of course, if a salvor displays a sufﬁcient lack of skill to amount to negligence, then there
+can be a relationship between misconduct (“unclean hands”) and one of the criteria in assess-
+ing an award.
+208. Supra note 75.
+209. The detail of the ﬁnancial aspects of the operation is summarised, 924 F. Supp. 714, 716– 18.
+210. Although lumps of coal from recovered bunkers of the Titanic were sold, these were not re-
+garded as “artefacts” since they were “natural” objects, a view endorsed by the National Mar-
+itime Museum.
+211. The order was unreported, but was quoted in R.M.S. Titanic v. Wrecked and Abandoned Vessel,
+924 F. Supp. 714, 716 n. 2 (1996).
+212. The history of the litigation is summarised by J. A. R. Nafziger, The Titanic Revisited,
+30: 2 Journal of Maritime Law and Commerce 311, 314– 17 (1999).
+213. R.M.S. Titanic v. Wrecked and Abandoned Vessel etc. (1996) A.M.C. 2497, 2500. Although this
+ﬁnding was reversed on appeal (R.M.S. Titanic Inc. v. Haver, 171 F.3d 943 (1999) ), the decision re-
+mains signiﬁcant as an example of the extent to which the District Court has been prepared
+to defend its initial injunctive relief.
+
+  313
+
+214. R.M.S. Titanic v. Wrecked and Abandoned Vessel etc., 9 F. Supp. 2d 624 (1998). This pattern of
+extension of both the nature of the rights of salvors and the extent of admiralty court juris-
+diction is particularly worrying in the light of the court’s view that exercising in rem jurisdiction
+in this way was consistent with international law, notwithstanding the contrary view of the ap-
+peal court (R.M.S. Titanic Inc. v. Haver, supra note 213). 
+215. 924 F. Supp. at 721. Authors’ emphasis.
+216. Notwithstanding the later, terse declaration at p. 722 that the conservation of wreck and
+artefacts was “of extreme importance to this court,” the court had quoted earlier (at p. 721)
+from T. J. Schoenbaum’s second edition in 1994 of Admiralty and Maritime Laws to the effect that
+preservation of the provenance “should be” part of the requirements of the law of salvage. The
+wording simply conﬁrms the view of the authors that a doubtful priority is accorded to such
+issues as a matter of law.
+217. The court referred to the fuller formulation of these requirements contained in Martha’s
+Vineyard, supra note 72.
+218. Supra note 74.
+219. Findings of Fact numbered 1, 3, 10, 11, 13, and 14.
+220. International Aircraft Recovery LLC v. Unidentiﬁed, Wrecked and Abandoned Aircraft etc., 54 F. Supp.
+2d 1172 (1999).
+221. Supra note 42.
+222. R. D. Mathewson, Archaeological Treasure: The Search for “Neustra Señora de Atocha” 112 (Seafar-
+ers Heritage Library, Woodstock, Vt. 1983).
+223. 1995 A.M.C. 1985, 2008.
+224. Encyclopaedia of Underwater and Maritime Archaeology 93– 94 (J. P. Delgado ed., British Museum,
+London 1997).
+225. G. Kinder, Ship of Gold in the Deep Blue Sea (Little, Brown, London 1998).
+226. D. C. Frederick, Book review, 30 Journal of Maritime Law and Commerce 355 (1999).
+227. Supra note 155.
+228. 883 F. Supp. 1343, 1362.
+229. Supra note 75.
+230. 924 F. Supp. at  723.
+231. K. J. Fewster and J. R. Valliant, Titanic: Delving Beneath the Surface, Museum News 29 (May–
+June 1997). 
+232. D. J. Bederman, The UNESCO Draft Convention on Underwater Cultural Heritage: A
+Critique and Counter-Proposal, 30 Journal of Maritime Law and Commerce 331, 345 (1999).
+233. For example, D. Pokotylo and N. Guppy, Public Opinion and Archaeological Heritage:
+Views from Outside the Profession, 64 American Antiquity 400 (1999).
+234. 924 F. Supp. at 723.
+235. Reproduced in 3 International Journal of Cultural Property 308 (1994).
+236. Professional Shipwreck Explorers Association, Inc. ProSEA is described as a non-proﬁt
+organisation which represents members throughout the world active in legitimate and ethical
+
+314  -  .
+
+shipwreck exploration. It was formed to provide self-regulation to those companies and indi-
+viduals who seek to preserve and protect the world’s shipwreck resources. Among its members
+are some of the largest deep ocean exploration companies, including Oceaneering, Comex,
+Odyssey Marine Exploration, and Nauticus.
+237. G. Stemm, Differentiation of Shipwreck Artifacts as a Cultural Resource Management
+Tool, paper delivered at the Ocean Intervention 2000 Conference, Houston, Texas (25– 27
+Jan. 2000). 
+238. Personal communication, Graeme Henderson, 3 April 2000.
+239. Appointments are made by Trinity House, a government agency, and such advisers are re-
+ferred to as “the Elder Brethren.”
+
+

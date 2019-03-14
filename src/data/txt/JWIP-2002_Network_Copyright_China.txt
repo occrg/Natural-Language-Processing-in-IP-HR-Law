@@ -1,0 +1,1986 @@
+Network Copyright Rules in the People’s 
+
+Republic of China 
+
+Chiang Ling LI* 
+
+Since the People’s Republic of China (PRc) was formally linked to the Internet in 
+1994, the Internet market in the PRC has  developed at a tremendous speed. The July 
+2001  Survey Report  of  the  PRC’S Internet  information centre-the  China  Internet 
+Network Information Center (C”1C)showed 
+that there were more than 10 d i o n  
+computers in the PRC which were networked and that there were more than 26 d o n  
+Netizens who spent one hour or more each week on the Internet.’  According to the 
+China State Information Office’s survey, announced on 7 September 2001, as at 30 April 
+2001 there were  more  than 0.2  million Websites and  159 million Web  pages  in the 
+PRC.~ The survey also showed that 67 percent of the Websites had been established since 
+2000 and that 42 percent of such Websites were set up in 2000. In their market research 
+report entitled The Znternet in China, BDA (China) Ltd. and The Strategis Group forecast 
+that the PRC wdl become one of the world’s largest Internet markets as early as in 2003. 
+However,  copyright  and  other  infiingements  on  the  Net  are  also  rapidly 
+developing, and these will have a significant impact on the PRC copyright regulatory 
+regime.3 
+
+The primary laws and regulations governing copyright protection in the PRC are 
+the  Copyright  Law  of  the  People’s  Republic  of  China  (hereider  “the  current 
+Copyright Law” or “the 2001 Copyright Law”)4 and the Detailed Implementing Rules 
+of the Copyright Law of the People’s Republic of China (Implementing Rules).5 
+
+rep200107-1 .shtmln. 
+
+Report ofFirst Internet Report, Xin Journal, 8 September 2001, at 7. 
+
+*  B.Sc.  (Pharmacy), University of Toronto; LL.B., Queens University; LL.M., London Univenity; barrister and 
+solicitor, Ontario, Canada; solicitor, Hong Kong, England and Wales. Associate with Baker & McKenzie, Hong Kong. 
+The author may be contacted at: ccchiang.ling.li@bakemet.com)). 
+1  CNNIC, China Internet Development Statistics Report (2001/7), available at: cchttp://www.cnnic.net.cn/develst/ 
+2  O&al 
+3  Wu Wenxiang, 7he Issue OfNetwork Copyright Emegesfim  the  Water, Nanfmg Daily, 5 June 2000. at 1; Ma 
+Limin, Prominenf Authors Sued  Websitefor  Copyright  Intngement,  Legal System Daily, 19 June  1999, at 5; Xinhua, 
+Copyrizht pirates  Target o f N w  Group, China Daily, 24 March 2000, at 1. 
+4  The Copyright Law of the People’s Republic of China, adopted at the Fifteenth Meeting of the Standing 
+Committee of the Seventh National People’s Congress of the F’RC  on 7 September 1990, amended by the Decision 
+of the Standing Cornminee of the National People’s Congress Regarding the Revision of the Copyright Law of 
+the People’s Republic of China, adopted at the Twenty-Fourth Session of the Standing Committee of the Ninth 
+National People’s  Congress on 27 October 2001, and effective on 27 October 2001. 
+5  The Detailed Implementing Rules of the Copyright Law of the People’s Republic of China, Document 
+National  Copyright Administration No.  1,  issued  on 30 May  1991 by  the National  Copyright Adrmnistration 
+(NcA)), and effective 1 June 1991. 
+
+182 
+
+THE JOURNAL OF WORLD  INTELLECTUAL PROPERTY 
+
+The  Regulations  for  the  Implementation  of  International  Copyright  Treaties 
+(International  Treaty  Regulations)6  were  formulated  to  implement  international 
+copyright treaties of which the PRC is a Member.’ The PRC is a Member of the Berne 
+Convention for the Protection of Literary and Artistic Works, the Universal Copyright 
+Convention,  and  the  Convention  for  the  Protection  of  Producers  of  Phonograms 
+Against Unauthorized Duplication of their Phonograms. 
+
+The PKC courts have recently adjudicated on a number of network infringement 
+cases  and the  Supreme People’s Court of the PRC has  issued  a judicial interpretation 
+entitled  the  Interpretation  Regarding  Various  Issues  on  the  Applicable  Law  for 
+Adjudicating Disputes relating to Computer Network Copyrights (Network Copyright 
+1nterpretation)g addressing network copyright infringement and related issues. 
+
+The Copyright Law was recently revised, and among the important revisions are 
+
+those relating to the Internet. 
+
+It must be noted at the outset that the concept of stare  decisis does not exist in the 
+PRC, and  previous  court  decisions  are  not  binding  on  subsequent  actions.  It  is 
+nevertheless useful to look into the various network cases to understand the new body 
+of rules governing network copyright and related issues. This article looks at these new 
+rules and at cases. 
+
+INFRINGEMENT 
+I.  COPYRIGHT 
+A.  THE PREVIOUS COPYRIGHT LAW 
+
+The previous Copyright Law of the People’s Republic of China (hereinafter “the 
+1990 Copyright Law”)9 did not  specifically deal with  activities on the Net  although, 
+arguably, it applied to such activities. 
+
+“Copyright”  was  defined  in  the  1990  Copyright  Law  to  include  the  right  of 
+publication, the right of attribution, the right of revision, the right of integrity and the 
+right to exploit one’s work and to receive remuneration therefor.’” The right to exploit 
+one’s work  and to receive remuneration therefor was  defined in the  1990 Copyright 
+Law  as the right to use one’s work through  reproduction, performance, broadcasting, 
+exhibition,  distribution,  production  through  cinematization,  televising  or  video 
+recordmg,  adaptation, translation,  annotation,  editing,  etc.,  and  the  right  to  license 
+
+The Regulations  for the Implementation  of International  Copyright Treaties, promulgated  by  the State 
+
+Council of the PRC on 25 September 1992, and effective from 30 September 1992. 
+
+Ibid., Article 1. 
+
+7 
+
+*  The Interpretation  Regarding Various Issues on the Applicable Law for Adjudicating Disputes relating to 
+Computer Network  Copyrights, passed on 22 November 2000 in the One Thousand One Hundred and Forty- 
+Fourth Meeting of the Adjudication Comminee of the Supreme Court. 
+
+The Copyright Law of the People’s Republic of China, adopted at the Fifteenth Meeting of the Standing 
+Committee of the Seventh National People’s Congress of the PRC on 7 September 1990, and effective &om 1 June 
+1991. 
+
+‘0  Ibid., Article 10. 
+
+PRC  NETWOIU(  COPYRIGHT RULES 
+
+183 
+
+others to use one’s work in the above-mentioned ways and to receive remuneration for 
+granting such licences.11 The terms in the above definitions are italicized for the sole 
+purpose  of  drawing attention  to  them  here.  Such  terms  seem  to  inchcate that  the 
+definition was not an exhaustive one, but an inclusive one. The other types of rights, 
+such as ones relating to the dissemination of works on the Internet were, arguably, also 
+protected as copyright. 
+
+It  may  as  well be  argued that  Article 45(5) and  (8) of the  1990 Copyright Law 
+seemed also to contemplate infringing acts other than the ones specifically set out in that 
+Article because of the terms italicized below: 
+
+“Article 4 5  Anyone who commits any of the following infringing acts shall undertake civil 
+liability by  ceasing the  infringement,  eliminating the  effects, making  a public  apology, 
+paying damages, etc., depending on the circumstances: 
+... 
+(5)  unless  this  Law  provides  otherwise,  use  of  a  work  in  ways  such  as  performing, 
+broadcasting,  exhibiting,  distributing,  making  a  fdm,  television  programme  or  video 
+recording,  adapting, translating, annotating  or  editing,  etc.,  without  permission from  the 
+copyright owner; 
+
+(8) other infringements of copyright and neighboring rights.” 
+Article 46(1) and (2) of the 1990 Copyright Law stipulated as follows: 
+“Article 46: Anyone who commits any of the following torts shall undertake civil liability by 
+ceasing  the  i&ngement,  eliminating  the  effects,  making  a  public  apology  or  paying 
+damages, etc.,  depending  on  the  circumstances, and  may  in  addition be  subjected by  a 
+copyright administration department to such penalties as confiscation of unlawful income 
+or the imposition of fines: 
+1.  plagiarizing of another’s work; 
+2. 
+
+reproduction and distribution of a work in pursuit of profit, without permission from 
+the owner of the copyright;” 
+
+It may be argued that “plagarizing” (in Article 46(1)) of a work may be applicable 
+
+in the Net environment. 
+
+“Reproduction”  (in Article 46(2)) is  defined  in  Article  5  of the  Implementing 
+Rules  as  the  production  of  one  or  more  copies  of  a  work  by  means  of printing, 
+photocopying, copying, malung a rubbing, makmg a sound recordmg, malung a video 
+recordmg, duplicating a  recording, re-photographing,  re-filming,  etc.  Because of the 
+word  “etc.” in the definition, the definition is a non-exhaustive  one.  It may  again be 
+argued that the copying of a work in the Net environment, including copying a work 
+fiom one Website onto another, posting a work  onto  a  Website and downloading a 
+work fiom a Website, falls within the definition of reproduction. 
+
+184 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPERTY 
+
+“Distribution” (in Article 46(2)) is defined in the same Article 5 as  the supply to 
+the public of a certain quantity of reproductions of a work by means of sale, rental, etc., 
+in order to satisfy the reasonable requirements of the public. Again, because of the word 
+“etc.” in the definition, the definition is a non-exhaustive one. It may again be argued 
+that the dssemination of a work on the Net is one mode of distribution of the work. 
+The counterargument to the above arguments that the  1990 Copyright Law was 
+applicable in the  Net  environment because of the inclusive terms used  was  that  the 
+network rights are so different from the rights specifically listed, and the use on the Net 
+environment is so different from the other modes of use listed in the various provisions, 
+that the network rights and uses should not fall within the scope of application of the 
+1990 Copyright Law. The inclusive terms, arguably, were supposed to comprise items 
+simdar to the ones specifically set forth in the various provisions. 
+
+The  applicability  of  the  1990  Copyright  Law  to  activities  on  the  Net  was, 
+
+therefore, debatable and uncertain. 
+
+B. 
+
+INTERNATIONAL TREATIES 
+
+The PRC took an active interest in the World Intellectual Property Organization 
+Copyright  Treaty  (WCT)  and  the  World  Intellectual  Property  Organization 
+Performances and Phonograms Treaty (WPPT), both adopted by the WIPO Diplomatic 
+Conference on Certain Copyright and Neighboring Rights Questions held in Geneva 
+on 20 December 1996, and the Agreed Statements concerning these two Treaties. As 
+will be seen below, the Regulations for Copyrights in Digital Products (Digital Product 
+Regulation) ,I2  the Network Copyright Interpretation and the current Copyright Law 
+have incorporated principles from these two Treaties and the Agreed Statements, and it 
+seems that the PRC courts have also taken notice of them in their adjudication of various 
+network cases. 
+
+The PRC became a Member of the World Trade Organization in December 2001 
+and thus committed itself to implementing the Agreement on Trade-Related Aspects of 
+Intellectual Property Rights (TRIPS). The PRC had already signed TRIPS, but was not 
+obliged to  implement its provisions before actually entering the WTO. The PRC has 
+taken TRIPS compliance issues into account in its revision of the 1990 Copyright Law. 
+
+C.  THE DIGITAL  PRODUCT  REGULATION 
+
+On 9 December 1999, the National Copyright Administration (NcA), the national 
+authority responsible for copyright administration in the PRC, issued the Digital Product 
+Regulation. The Regulation applies to works protected by the Copyright Law which 
+
+‘2  The Regulations  for Copyrights  in Digital  Products, Document  No.  Guoquan  [1999] 45,  effective  on 
+
+1 March 2000. 
+
+PRC NETWORK COPYRIGHT RULES 
+
+185 
+
+have been  digitized and fured in tangible material form, includmg CDs, LDs, VCDS, 
+DVDS, FDs,  CD-ROMS, CD-Is,  Photo-CDs,  DVD-ROMS and  ICCards.13  The 
+Regulation  states  that  the  dlgitization  of  works  into  digital  products  constitutes 
+reproduction  of  the  works,  and  authorization from  the  copyright  owner  must  be 
+obtained for the digitization, otherwise it is inhngement.14 
+
+The position of the Digital Product Regulation seems consistent with the position 
+of  the  Agreed  Statements  concerning  Article  l(4)  of  the  WCT and  the  Agreed 
+Statements concerning Articles 7, 11 and 16 of the WPPT, which state that the right of 
+reproduction hlly applies in the digital environment and that the storage of a protected 
+work in digital form in an electronic medium constitutes a reproduction. 
+
+The China Copyright Protection Center-a 
+
+body set up by the PRC government 
+for  handling  copyright  management  and  services-issued 
+the  Provisional  Standard 
+Copyright User  Fees  for  the  Production of Digital Products, effective  1 July  2000, 
+which is stated to be primarily applicable to CD-ROM products. The Standard sets out, 
+for reference purposes, the different ways  of calculating licence fees with respect to a 
+reproduction or publication of digital works. 
+
+D.  COURT CASES 
+
+Various  network  cases  came  before  the  PRC courts  immedately  before  the 
+Copyright Law was revised. A number of defendants raised the argument that the 1990 
+Copyright Law was silent on the prohibition of copyright inhngement on the Net. The 
+courts struggled with the issue of whether the  1990 Law was applicable to such cases. 
+The following is a discussion of some of those cases. 
+
+1.  Chen v. Chendu Computer Commercial Information  Newspaper PublisherlS 
+
+The plaintiff, Chen Weihua, wrote an article entitledjoking about MAYA on 10 May 
+1998. Chen posted the article, under the pseudonym Wufang, onto his Website called 
+“3D  Sesame  Street”  with  the  address  cchttp://www.nease.net/-xmchang/3ds)) 
+(cchttp://www3d.yeah.net))). The defendant, on 16 October 1998, published the article 
+in  its  fortieth issue  of the  Computer  Commercial Information Journal  without  the 
+authorization of the plaintiff. 
+
+The plaintiff commenced a lawsuit against the defendant at the Beijing Municipal 
+Haidian District People’s Court asking the Court to find copyright infiingement, and 
+to order the defendant to issue a public apology and pay a contribution fee in the sum 
+
+‘3  Ibid., Article 1. 
+I4  Ibid., Articles 2, 3, 7 and 8. 
+‘ 5   Chen  v.  Chendu  Computer  Cornmenial  Information  Newspaper  Publisher,  Decision  Document  No. (1999) 
+Fourth Medium isgoing  fo be 
+
+Haizhichuzi No. 18; Xin Shangmin, Authon have  Copyright to  Their Online Works-% 
+Regulated, Beijing Daily, 15 May 1999, at 9. 
+
+186 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPEKTY 
+
+of F W B  231 (approximately US$ 28) and punitive damages in the sum of RMB 50,000 
+(approximately US$ 6,098). 
+
+An excerpt from the Court’s decision states as follows: 
+“The article has  the  originality required  of  works protected  by  copyright. The article in 
+digital form was capable of being fixed onto the hard drive of a computer, capable of being 
+transmitted onto the Internet  through the mvww)) server, capable of maintaining a stable 
+status, and capable ofbeing accessed and reproduced by the public with the assistance of the 
+mainframe of the Net. The article is therefore protected by the [1990] Copyright Law. 
+Under  Article  11  of  the  [I9901  Copyright  Law,  absent  evidence  to  the  contrary,  the 
+individual or entity that puts his  or her name on a work is  to be  considered the author of 
+the work.  The registrant of the Website, i.e.  the  plaintiff, and the  article both  used  the 
+pseudonyni “Wufang”. Furthermore, the plaintiff was able to demonstrate to the Court that 
+he was able to change the password to the Website, post documents onto the Website, and 
+modify documents on the site. The defendant also conceded authorship of the article to the 
+plaintiff. The plaintiff should therefore be held to be the author of the article. 
+The posting of the article on the  Internet by the plaintiff is  dissemination of his work in 
+cyberspace. The publishing of the same article in the defendant’s Journal is further making 
+the article available to the public. Such publication by the defendant without the plaintiffs 
+authorization is infringement of the plaintiffs copyright.” 
+The Court issued an injunction against the defendant and ordered the defendant to 
+issue  a public  apology and pay  compensation  to the plaintiff.  The Court refused  the 
+plaintiffs  claim  for  the b m  50,000 punitive  damages  as  the  Court  found that  the 
+plaintiff  did not substantiate the claim with evidence. The Court awarded the plaintiff 
+a total of M 924 (approximately US$ 113) compensation, plus a case acceptance feel6 
+of RMB 2,017 (approximately US$ 246). 
+
+This  case,  besides  being  instructive  on  a  number of substantive issues, provides 
+guidance o n  how a party may show that he or she is the author of a work in cases where 
+the work is an anonymous or a pseudonymous one. 
+
+2.  Wang v. Beijing  Cenpok Intercom Technology  C0.17 
+
+This  is  one  of  six  almost  identical  cases  where  six  prominent  PRC novelists, 
+
+16  There are generally six different types of court costs which may be payable by litigants in the PRC. The most 
+
+important of the court costs is the case acceptance fee. 
+
+’7  Wang v. Beijing  Cenpok Intercom  Technology  Co., Decision Document No.  (1999) Haizhichuzi No. 57; Liu 
+Jixiang,  Wang v. Beijing  Cenpok Intercom  Technology  Co.--The  Copyright Infnngement  Case Involving Disseminating  a 
+Work on the Net without Authorization, in Renmin Fayuan Anlixuan, 247, 247-256;  Zhang Xiao-Fei, Digital Literary 
+Projects have  Beijing  Writers Boiling  Over, South China Morning Post, 20 July 1999, at Technology 3; Copyright  on 
+Net Protected, Dagong Journal, 20 September 1999, at A4; Sun Min, New Rules  Target Online Copytight Infrrngement, 
+China Daily, 20 June  2000, at 1; Prominent  Writers Sued  Net Firm, South China Morning Post, 12 July 1999, at 8; 
+Shao Zongwei, 6 Novelists  Win Compensationfor Internet  Violation, China Daily, 20 September 1999, at 3; Huige, 
+“-The Handsome  Black  Horse”  and  “The River in  the  North”  Disseminated  Online-Zhang  Chengzhi  Goes  to  Court to 
+Protect Copyright, Shenzhen Legal System Journal,  17 January 2001, at  14; Yang Boyong, Six Authors  Sued  Beijing 
+Cenpok Intercom Technology  Co. for Copyright Infnngement, 2 Electronics Intellectual Property, 26, 26-28 (2000). 
+
+PRC NETWORK  COPYRIGHT RULES 
+
+187 
+
+Wang  Meng,  Zhang Jie,  Bi  Shumin,  Zhang  Kangkang,  Zhang  Chengzhi  and  Liu 
+Zhenyu, commenced actions against the same defendant for copyright inhngement. 
+
+The defendant copied the plaintiffs novel from a third-party Website onto its own 
+Website  cthttp://www.bol.com.cnn,  well  known  in  the  PRC, without  the  plaintiffs 
+authorization.  The plaintiff  commenced  litigation  on  15 June  1999 at  the  Beijing 
+Municipal  Haidan  District  People’s  Court,  aslung  the  Court  to  find  copyright 
+inhngement and order the defendant to stop the infringement, issue a public apology 
+and pay compensation. 
+
+The defendant pointed out that the 1990 Copyright Law did not stipulate how to 
+use  a  third-party’s  work  on  the  Internet,  whether  authorization was  required  and 
+whether  compensation must  be  paid  in  such instances, and  that  it  therefore did  not 
+know that it must obtain authorization prior to using the novels. 
+
+The following is an excerpt from the Court’s decision: 
+“Digitization of a work only changes the material form in which the work is fured and the 
+mode of use  of the work, and does not involve any original creation or the creation of a 
+new work. The copyright owner of the work still owns the copyright of the work in digital 
+form.  The  digital  form  of  the  plaintiffs  novel  downloaded  by  the  defendant from  the 
+Internet is not a new work, but its copyright remains vested in the plaintiff 
+The list  of rights set out in Article  lO(5) of the  [I9901 Copyright Law  [set out  above at 
+footnote 101 is not exhaustive. With the development of technology and the emergence of 
+new  media  in which  works may  be  fured, the  scope of use  of works is  expanded. The 
+dissemination of works on the Internet  is  one mode of use  of the works. The copyright 
+owner has the right to decide whether to disseminate his or her work on the Internet. Third 
+parties must obtain authorization from the  copyright owner for disseminating his  or her 
+work through whatever means. Although there are differences between the dissemination 
+of works on the Internet and the dissemination through traditional channels, the different 
+modes  of  dissemination in  substance are  to  achieve the  same  goal  of making the  work 
+available to the public. The different modes of dissemination do not affect the right of the 
+copyright owner to control the dissemination of his or her work. The dissemination of the 
+plaintiffs work  on the Internet without  authorization is an infringement of the plaintiffs 
+copyright.” 
+
+The decision in the case was issued  on  18 September 1999. The Court issued an 
+injunction, and ordered the defendant to issue  a public apology and pay compensation 
+of RMI3  1,680 (approximately US$  205), litigation fees  of RMI3  166 (approximately 
+US$20) and a case acceptance fee of RMB 330 (approximately US$ 40). As the plaintiff 
+did not provide evidence on his loss or on how many times his work was visited or 
+downloaded from the defendant’s Website, the Court &d not award the compensation 
+sought by  the plaintiff but based  the  amount  of the  compensation on various factors 
+includmg the duration and the seriousness of the infiingement. The Court refused the 
+plaintiffs claim for RMB 5,000 (approximately US$610) for psychological damage, as it 
+found that the action of the defendant did not infringe the moral rights of the plaintiff 
+and did not lower the public esteem for the plaintifE 
+
+188 
+
+THE JOURNAL OF WORLD  INTELLECTUAL  PROPERTY 
+
+The  defendant appealed the  decision to  Beijing Municipal No.  1 Intermediate 
+People’s  Court  arguing that  the  1990 Copyright Law  did  not  address  the  issue  of 
+disseminating works on the Internet. The defendant argued that legal issues relating to 
+the dissemination of information on the Internet should be addressed through legislative 
+reform  or  through  the  Supreme Court’s judicial interpretation rather  than  through 
+judicial  activism by  the  lower  courts.  The  defendant  argued  that  without  explicit 
+stipulation in  law, the  Court  of First  Instance had  extended copyright protection to 
+dissemination on the Net. 
+
+The Appeal Court issued a  decision on  17 December 1999 confirming that the 
+plaintiff still enjoyed copyright of the digital version of his work copied by the defendant 
+from the Internet. Although the  1990 Copyright Law  did not specifically address the 
+issue of use  of works on the Net, such use  was still governed by the Law. The use  of 
+works on the Net is  one type of use  of works and the user must obtain authorization 
+from the copyright owner. The defendant had a responsibility for the copyright of the 
+contents of its Website. Although the work was  obtained by  the defendant from the 
+Internet, the defendant was technically able to control the further dlssemination of such 
+information. The Appeal Court therefore  upheld  the  decision of the  Court  of First 
+Instance. 
+
+The  position  that  the  digital  version  of  a  work  was  not  a  new  work  and  its 
+copyright still  belonged  to  the  copyright  owner  of  the  original work  and  that  the 
+dlssemination of a work on the Internet is one mode of use  of the work was perhaps 
+expected in view of the Digital Product Regulation. 
+
+3.  Beijing  Chuanglian Communication  Network  Co., Ltd. v. Beijing  Huimeng 
+
+Znternational Business  Consulting  Co., Ltd. (Beijing Chuanglian Case)l* 
+
+The  plaintiff  claimed  that  the  defendant  copied  the  designs  of  certain  of  the 
+plaintiffs Web pages for use on the defendant’s Website. The plaintiff also claimed that 
+the defendant’s Website copied the designs and the contents of the advertisements on 
+the plaintiffs Website. The plaintiff furthermore claimed that the defendant’s Website 
+copied the online domain-name registration feedback form featured on the plaintiffs 
+Website. The defendant also  engaged in false, below-cost  advertising with respect to 
+domain-name registration fees on its Website and in other advertisements. 
+
+The  plaintiff  commenced  litigation  at  the  Beijing  Municipal  Haidlan  District 
+People’s  Court,  asking the  Court  to  issue  an  injunction and  order the  defendant to 
+500,000 (approximately US$60,976) 
+apologize and pay compensation in the sum of- 
+plus enforcement expenses. The defendant counterclaimed against the plaintiff for unfair 
+competition in dsseminating information on the litigation to the media. 
+
+**  Bajing Chuanglian Communication Network Co., Ltd. v. Beijing Huimeng Infernational Business Consulting Co., 
+
+Ltd., Decision Document No. (1999) Haizhichuzi No. 112. 
+
+PRC NETWORK COPYRIGHT RULES 
+
+189 
+
+The Court issued a decision on 20 February 2000, rejecting the plaintiffs claim that 
+the defendant infringed its copyright in the designs of its Web pages and in the designs 
+and contents of the advertisements on its Website. The Court found that the plaintiff 
+was not  able to prove that the plaintiff was  the original designer of the designs  of the 
+advertisements. The Court found that the similarity in the designs of the Web pages and 
+contents of the advertisements was due to both the plaintiff and defendant being in the 
+same industry and, therefore, using the same technical terms and advertising the same 
+types of services. 
+
+However,  the  Court found  that  the  defendant copied the  domain-name online 
+registration feedback form in violation of the plaintiffs copyright. The Court also found 
+that the defendant’s false, below-cost  advertising constituted unfair competition under 
+Article  ll(1)  of  the  Law  of  the  People’s  Republic  of  China  against  Unfair 
+Competition19 (Unfair  Competition  Law)  which  prohibits  business  operators  from 
+selling merchandise below cost for the purpose of forcing out competitors. 
+
+The Court ordered the defendant to take down the copied work, cease the false 
+advertising, issue a public apology with respect to the copyright infnngement, and pay 
+compensation in the sum of RMB 30,000 (approximately US$  3,659) with  respect to 
+copynght  infnngement  and RMB 10,000 (approximately US$  1,220) with  respect  to 
+unfair competition. The defendant was also ordered to bear the plaintiffs enforcement 
+expenses. 
+
+The defendant’s counterclaim was rejected by the Court. 
+
+4. 
+
+Shanghai Rongshuxia Computer Co., Ltd. v. China Social Publishing Housezo 
+
+The plaintiff dscovered, in Apnl2000, that the defendant had incorporated works 
+by  various  authors carried  in  the  plaintiffs  Website,  ahttp://www.rongshu.comn, a 
+well-known Website in the PRC, into its publication without the authorization of the 
+authors or the plaintiff. The publication rights of the works were licensed to the plaintiff 
+by the authors. The contract between the plaintiff and the authors also provided that the 
+plaintiff had the right to enforce against inhingement of the works. 
+
+The plaintiff commenced litigation at the Beijing Municipal No.  1 Intermehate 
+People’s Court,  asking for an injunction  against  the  defendant, an apology &om the 
+
+~ 
+
+~~~ 
+
+l9 The Law of the People’s Republic of China against Unfair Competition, adopted at the Third Session of the 
+Standing Committee of the Eighth National People’s Congress of the People’s Republic of China, promulgated by 
+the President on 2 September 1993, and effective from 1 December 1993. 
+
+20  Lin Yangzi, Rongshuxia  Won the  C u e ,  Shenzhen  Legal System Journal, 19 June  2001, at  4;  Website Sued 
+Publisher, People’s Daily (Overseas Issue), 7 August 2000, at 11; Rongshu.com  Wins Copyright Suit against China Social 
+Publishing  House,  available  at:  c~http://www.chinaonline.com/topstories/OO1012/1/C00101107.asp~~; Zhou Jin, 
+Rongshuxia  Website  Claim Copyright, Beijing Daily,j31 January 2001, at 3; Online  Works Protected by Law in  China, 
+Wenhui Journal,  17 October  2000,  at  7; Authorization  Still  Required for  Use  of  Online  Works,  12 Electronics 
+Intellectual Property, 17 (2000). 
+
+190 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPERTY 
+
+defendant and compensation in the sum of RMB 10,001 (approximately US$1,220) plus 
+litigation expenses. 
+
+The defendant argued, inter alia, that digital products were not explicitly protected 
+
+by the 1990 Copyright Law. 
+
+The Court issued a decision on 1 December 2000, and took the position that the 
+use of works from the Net was governed by the 1990 Law. The Court found copyright 
+infringement, issued  an injunction against  the publication, distribution and sale of the 
+infringing publication, ordered the plaintiff to issue a public apology and awarded to the 
+plaintiff the requested compensation of R M B  10,001 plus the case acceptance fee. 
+
+The defendant appealed the ruling to the Beijing Municipal High People’s Court. 
+The parties settled under the auspices of the Court in June 2001. The defendant agreed 
+to immediately cease the publication and distribution of the intiinging publication, issue 
+a written apology to the plaintiff and pay the RMB 10,001 compensation requested plus 
+the case acceptance fees for the Court of First Instance and the Appeal Court. 
+
+E.  SOFTWARE 
+
+Computer programs are a protected subject-matter under the Copyright Law. The 
+primary laws  and regulations governing software protection  in the PRC are the 2001 
+Copyright  Law,  the  Implementing Rules,  the  International  Treaty  Regulation,  the 
+Regulations for  the  Protection  of  Computer  Software,21 and  the  Measures  for  the 
+Registration of Copyright in Computer Software.22 The following case also dealt with 
+software copyright infiingement on the Net. 
+
+Beijing  Sitonglqang  Information  Technology  Co., Ltd. and Beijing Xinlang Internet 
+Information Service Co., Ltd. v. Beijing  Baiwang Information  Co., Ltd.23 
+
+The first plaintiff and the second plaintiff were the owner and the operator of the 
+Website ((http://sina.corn.cn)), a  well-known  Website in the  PRC. The first plaintiff 
+
+21  The Regulations for the Protection of Computer Software, adopted at the Eighty-Third  Regular Meeting 
+of the State Council  on 24 May  1991, promulgated  by  the  State Council on 4 June  1991, and  effective  from 
+1 October 1991. 
+
+22  The Measures for the Registration  of Copyright in Computer Software, issued on 6 April  1992 by  the 
+Ministry ofMachinery-Building  and Electronic Industry (which was split up in 1993 into the Ministry ofMachine- 
+Building  Industry  (which was  subsumed  under  the  State  Economic and  Trade Commission  in  1998)  and  the 
+Ministry of Electronics Industry (which was subsumed under the Ministry of Information  Industry in 1998)) and 
+amended by the National Copyright Administration Announcement No. 7, issued by the NCA on 26 May 2000, 
+and effective  1 June 2000. 
+
+23  Beijing SitongliJzng Information Technology Co.,  Ltd. and Beiiing Xinlang  Internet Information Service  Co., Ltd. v. 
+Beijing  Baiwang  Infoormation  Co.,  Ltd., Decision  Document  No.  (2000) Enhongzhichuzi  59.  This  litigation was 
+commenced after  the  plaintif5  were  sued  by  the  defendant  in  Beijing  Baiwang  Information  Co.,  Ltd.  v.  Beijing 
+Sitonglfang Information Technology Co., Ltd. and  Beijing Xinlang  Internet Information Service  Co., l i d .  (Yiwangdakartg 
+Infoormarion  Technology  (Beijing)  Co.,  Ltd.  ac  Third  Paey),  discussed  below  in  Section  VII,  referenced  in& 
+in 
+footnote 68. 
+
+PRC  NETWORK COPYRIGHT RULES 
+
+191 
+
+granted the second plaintiff a copyright licence with respect to the user interface designs, 
+and specific Web page contents, etc. of the site. 
+
+The plaintiffs claimed that the defendant copied three articles on advertising posted 
+on  their  Website  onto  its  own  Website,  (<http://tonight.com.cnii. The  plaintiffs 
+hrthermore claimed that the defendant revised one of its Web pages entitled “Set Up 
+as  a Home Page”, and then used  the revised page  on its own Website. The plaintiffs 
+claimed that the content (which was a user manual) and the hypertext markup language 
+(html) source code for that Web page were copied by the defendant’s Website. 
+
+The plaintiffs commenced litigation against the  defendant at Beijing Municipal 
+No.  2  People’s Court,  asking the  Court  to  find  copyright inhngement  and  unfiir 
+competition, issue an injunction, order the defendant to issue a public apology, and pay 
+compensation and litigation expenses. 
+
+In relation  to  the  three  articles on advertising, the plaintiffs submitted evidence 
+showing that the three articles were being displayed on their Website and that simdar 
+articles  were  being  displayed on  the  defendant’s Website.  The defendant  submitted 
+evidence showing that  similar articles had  previously been  displayed on Websites of 
+third parties. The Court acknowledged that electronic documentation might easily be 
+tampered  with.  The  Court,  however,  was  of  the  view  that  the  available  evidence 
+showed that on the day that the plaintiffs published the articles on their Website, third 
+parties also published similar articles on their Websites. The Court therefore found that 
+the plaintiffs did not prove that they were the copyright owners of the three articles. 
+
+O n  the issue of the copying of the Web page, a relevant excerpt &om the Court’s 
+
+decision states: 
+
+that  of  ((http://sina.com.cn)>.  However, 
+
+“Although the subject-matter of the contents of the Web page is commonly used by Websites, 
+original works based on the same subject-matter  are protected  under the Copyright Law. 
+The expressions by other Websites with respect to the same subject-matter may be different. 
+The expressions by Yahoo’s and Sohu’s Websites with respect to the same subject-matter are 
+the  expression  used  by 
+different  from 
+((http://tonight.com.cn)) and that used by ((http://sina.com.cm  are basically identical. 
+The ‘Set Up as a Home Page’ Web page written in Hypertext Markup Language source code 
+is protected by copyright under the Regulation for the Protection of Computer Software. 
+The ‘Set Up as a Home Page’ Web page in the defendant’s Website is similar to the ‘Set Up 
+as a Home Page’ Web page of the plaintif%  Website. The defendant has therefore infringed 
+the copyright of the plaintiffs.” 
+The Court took the position that as the issues relating to the “Set Up as a Home 
+Page” Web page were dealt with by way of copyright protection, they should not be 
+the subject of protection under the Unfair Competition Law.24 
+
+24  Supra, footnote 19. 
+
+192 
+
+THE JOURNAL OF WORLD  INTELLECTUAL  PROPERTY 
+
+The defendant seemed to have tampered with  certain e-mail  evidence submitted 
+to the Court. The Court admonished the defendant but, however, considered that as 
+the evidence was not critical to the case, it would not take further measures against the 
+defendant in that regard. 
+
+The  Court  stated  that  it  was  difficult  to  measure  the  consequences and  losses 
+suffered as  a result  of copyright infringement on the  Net.  The plaintiffs also  did not 
+adduce evidence in support of their loss. The Court granted remedies based on various 
+factors, including the seriousness of the infringement and reasonable expenses incurred 
+by the plaintiffs. 
+
+As the defendant, at the time ofthe decision, had already amended the contents and 
+source code with  respect to the Web page  to a version agreeable to the plaintiffs, the 
+Court decided not to issue an injunction against the defendant in this regard. 
+
+Basing its decision on Article 46(1) of the 1990 Copyright Law and Articles 3 and 
+30(6) of the Regulation for the Protection of Computer Software, the Court ordered 
+the defendant to issue a written apology and pay compensation in the sum of RMB 8,000 
+(approximately US$ 976) and a certain portion of the enforcement expenses. 
+
+Article 46(1) of the Copyright Law is set out above in Section LA.  Article 3 of the 
+Regulations for  the  Protection  of Computer  Software defines various terms used  in 
+those  Regulations, 
+and 
+“reproduction”. Article 30(6) stipulates as follows: 
+
+including  “computer  program”, 
+
+“documentation” 
+
+“Article 3 0  . . . anyone who commits any of the following infringing acts shall undertake civil 
+liability by  ceasing  the  infringement,  eliminating the  effects, making  a  public  apology, 
+paying damages, etc., depending on the circumstances; in addition, the national software 
+copyright  administration  department  may  impose  such  administrative  penalties  as 
+confiscation of the unlawful income, imposition of a fine, etc.: 
+... 
+(6) reproduction or partial reproduction of a work of software without permission from the 
+software copyright owner or his lawful assignee;” 
+Revision of the Regulations for the Protection of Computer Software is currently 
+
+being considered. 
+
+F.  THE NETWORK  COPYRIGHT INTERPRETATION 
+
+Faced with the various network cases, the Supreme Court, on 22 November 2000, 
+issued  the  Network  Copyright  Interpretation. Judicial interpretations issued  by  the 
+Supreme Court are, in general, binding on the lower courts. According to the Several 
+Regulations  of  the  Supreme  People’s  Court  Concerning  Judicial  Interpretation, 
+Supreme Court judicial interpretations carry legal force. 
+
+The Interpretation  sets  out important  rules  with  respect  to  network  copyright 
+
+PRC NETWORK COPYRIGHT RULES 
+
+193 
+
+infringement cases. Article 1 stipulates that the court at the “place of infiingement” or 
+at the place of residence of the inhnger is to have jurisdiction in a network copyright 
+dispute case.  The  “place  of infhngement”  includes  the  place  where  the  server, the 
+computer terminal or other equipment which has been used in the committing of the 
+offence is located.25 If it is difficult to identify the place of infhngement or the place of 
+residence of the infringer, the place where the computer terminal or other equipment 
+from which the plaintiff discovered the infirngement is located is to be deemed the place 
+of infringement.26 
+
+Article 9 of the Interpretation specifies the applicable provisions of the Copyright 
+Law for the different network copyright infringement cases. Article 46(1), (2), (3) and 
+(4) of the 2001 Copyright Law-which 
+sets out the  civil liability with  respect to the 
+publication of a work without authorization from the owner, the affixing of one’s name 
+to another’s work in pursuit of fame and profit and the distortion and mutilation of a 
+to be applied to an infringement of moral rights on the Net. Article 4616) of 
+work-is 
+the 2001 Copyright Law, which sets out the civil liability with respect to the use of a 
+work without authorization, is to be applied to an unauthorized dissemination on the 
+Net. Article 46(7), which sets out the civil liability with respect to the use of another’s 
+work without paying compensation, is to be applied to the infringement of the right to 
+compensation in the Net environment. Article 46(11), which sets out the civil liability 
+with  respect  to  “other  infringements”,  is  to  be  applied  to  the  infiingement  of 
+neighboring rights or infirngement as a result of the deliberate removal or alteration of 
+rights  management  information  applied  for  the  protection  of  works  in  the  Net 
+environment.  The  civil  liability  and  administrative  penalties  with  respect  to  the 
+plagiarizing  of  another’s  work  are  to  be  applied  to  such  plagiarizing  in  the  Net 
+environment. 
+
+Article 2 of the Interpretation states that works in digtal form are protected by the 
+Copyright Law.  The same Article further states that courts should also give protection 
+to other intellectual creations, which although unable to fit within the scope of works 
+listed in the Copyright Law in the Net environment, do possess originality in the realms 
+of literature, art or science and are capable of being reproduced in some tangible fom.27 
+
+25  The Network Copyright Interpretation, supra, footnote 8, Article  1 
+26  Id. 
+27  The works listed in Article 3 of the 1990 Copyright Law (supra, footnote 9) are: written works; oral works; 
+musical  works,  operatic  and  dramatic works; works  of quyi  and  choreographic works;  works  of fine  art  and 
+photographic works; cinematographic, television and video-graphic works; drawings of engineering designs and 
+drawings of product  designs, and their explanations; works in the form of drawings such as maps and schematic 
+drawings; computer software; and other works as stipulated in laws and administrative regulations. “Works of Quyi” 
+is  defined in  Article  4(5) of the  Implementing  Rules  (supra, footnote 5) as  works  mainly  performed  through 
+storytelling and ballad singing, such as comic dlalogues, quick-patter, versified stones sung to the accompaniment 
+of a small drum and other instruments, storytelling, etc. The works listed in Article 3 of the 2001 Copyright Law 
+are: written works; oral works; musical works, operatic and dramatic works; works of quyi, choreographic works 
+and acrobatic work, works of fine art and architectural works; photographic works; cinematographic works and 
+works produced  similarly; drawings of engineering  designs and  drawings  of product  designs, maps,  schematic 
+drawings and other works in the form of drawings and models; computer sohare; and other works as stipulated 
+in laws and administrative regulations. 
+
+194 
+
+THE JOURNAL OF WORLD  INTELLECTUAL PROPERTY 
+
+The Article further states that the provisions in Article 10 of the  1990 Copyright Law 
+(discussed above) on the various rights covered by copyright are applicable to copyright 
+in digital works. The dissemination of a work to the public through the Net is a mode 
+of use of the work protected under the Copyright Law?* The copyright owner enjoys 
+the right to use, or license another to use, the work in such a mode and the right to be 
+compensated therefor.29 
+
+The positions  adopted by  Courts  in  the  cases  referred  to  above  seem  to  be  in 
+accordance with  the position set out in Article 2.  This is, perhaps, no surprise, as  the 
+Courts have probably consulted the Supreme Court on such cases. 
+
+Furthermore, Article 2 basically incorporated the principle under Article 8 of the 
+WCT and Articles 10 and  14 of the WPPT. Article 8 of the WCT states that authors of 
+literary and artistic works are to: 
+
+“. . . enjoy the exclusive right of authorizing any communication to the public of their works, 
+by wire or wireless means, including the making available to the public of their works in 
+such a way that members of the public may access these works from a place and at a time 
+individually chosen by them.” 
+Article 10 of the WPPT states that: 
+“Performers shall enjoy the exclusive right of authorizing the making available to the public 
+of their performances fixed in phonograms, by wire or wireless means, in such a way that 
+members of the public may access them from a place and at a time individually chosen by 
+them.” 
+Article 14 of the WPPT states that: 
+“Producers of phonograms shall enjoy the exclusive right of authorizing the making available 
+to the public of their phonograms, by wire or wireless means, in such a way that members 
+of the public may access them &om a place and at a time individually chosen by them.” 
+Article 3 of the Network Copyright Interpretation states that it is not an inftlngement 
+for a Website to re-disseminate or excerpt a work  that has  already been published in a 
+newspaper  or  periodical  or  disseminated  on  the  Net  if  the  source  is  cited  and 
+compensation  is  paid  unless  there  is  a  declaration  prohibiting  re-dsseminating  and 
+excerpting. It is an inhngement  if  the re-disseminated or excerpted work  exceeds  the 
+scope of the work previously published or disseminated20 It is not specified whether the 
+previous publishing or dssemination must be authorized, although that should be the case. 
+Under Article 32 of the 1990 Copyright Law, a work which has been printed by a 
+newspaper or  periodical may  be  reprinted,  or printed  as  an  abstract  or as  reference 
+material, by  another newspaper or periodical, unless the copyright owner has declared 
+that reprinting or excerpting is not permitted; however, the copyright owner must be 
+
+2*  The Network Copyright Interpretation, supra, footnote 8, Article 2. 
+29  Id. 
+30  Ibid., Article 3. 
+
+PRC NETWORK COPYRIGHT RULES 
+
+195 
+
+remunerated  in  accordance  with  the  relevant  regulations.31  In  the  Wang  v.  Beijing 
+Cenpok  Intercom  Technology Co.  case  (referred to above at footnote  17), the defendant 
+argued that its further dissemination of the plaintiffs work on the Internet should not 
+require  authorization  fi-om  the  plaintiff  but  should  only  involve  the  payment  of 
+contribution  fees  to  the  plaintiff. As  shown  above,  the  Beijing  Municipal Haidian 
+District People’s Court and the Beijing Municipal No. 1 People’s Court disagreed and 
+found that the defendant must obtain authorization fiom the plaintiff prior to hrther 
+dsseminating the work through the Internet. It appears from the facts of the case that 
+the initial dissemination on the Net was not authorized by the plaintiff copyright owner. 
+It is  not  specified in the facts whether  there was  a  declaration prohibiting reprinting 
+accompanying the author’s original, legitimate publication. 
+
+G.  THE CURRENT COPYRIGHT LAW 
+
+The 2001 Copyright Law has introduced the “right to communicate information 
+through the Net” as one of the rights within the definition of “copyright”.32 This right 
+is defined as the communication to the public of works, by wire or wireless means, in 
+such a way that members of the public may access the works fiom a place and at a time 
+individually chosen by them.33 Again, this is taking Article 8 of the WCT into account. 
+Article 37(6) of the current  Law specifically provides that a performer has the right 
+to license a third party to disseminate his or her performance to the public through the 
+Net and obtain licence fees therefi-om. Article 41 stipulates that a producer of audio or 
+visual products has the right to license a third party to disseminate his or her products 
+to the public through the Net and obtain licence fees therefi-om. 
+
+It  is  an  infringement  to  exercise  these  rights without  the  authorization of the 
+
+copyright owner.34 
+
+These new provisions have been drafted taking the WPPT and TRIPS into account. 
+
+H.  COLLECTION OF EVIDENCE ON THE NET 
+
+The difficulty of collecting evidence in network copyright infringement cases has 
+been cited as being an important reason that a very small portion of the infringers have 
+been brought to justice.35 
+
+Under Article 63 of the Civil Procedure Law of the People’s Republic of China,36 
+the types of permissible evidence that litigants may  present to court are documentary 
+
+31  This stipulation is  not changed in the 2001 Copyright Law. 
+32  The 2001 Copyright Law, supra, footnote 4, Article lO(12). 
+33  Id. 
+34  Ibid., Article 47(1),  (3) and (4). 
+35  Wu Wenxiang, supra, footnote 3. 
+36  The Civil Procedure Law of the People’s Republic of China, adopted at the Fourth Meeting of the Seventh 
+
+National People’s Congress, promulgated by the Premier on, and effective &om, 9 April 1991. 
+
+196 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPERTY 
+
+evidence,  physical  evidence,  audio-visual  material,  live  testimony  of  witnesses, 
+statements by interested parties, expert conclusions and notes of inquest. 
+
+Article 67 of the  Civil Procedure Law stipulates that a  court is  to take legal acts, 
+legal  facts  and  documents  notarized  pursuant  to  legal  procedures  as  a  basis  for 
+ascertaining facts, except where contrary evidence is sufficient to invalidate the notarial 
+certification. 
+
+To note is that under the Provisional Regulations on Notarization of the People’s 
+Republic of China, issued and effective on 13 Apnl  1982, notarization is  defined as a 
+verification of both the authenticity and the legality ofjuridical acts and documents and 
+facts with legal effects by  the State notarial organs in order to protect public property 
+and legitimate interests, status and proprietary rights of citizens. Notarization by a PRC 
+notary public  is  therefore not  only  a  verification  of the  authenticity but  also  of the 
+legality of the subject-matter being notarized. 
+
+On 29 A p d  1994, the PRC Ministry of Justice and the NCA issued a joint notice 
+on making full use of notarization in investigating and handling copyright infnngement 
+cases37  which  requires  that  evidence  submitted  to  administrative  enforcement 
+authorities  in  copyright  infhngement  cases  should  be  notarized.  This  requirement, 
+however, has not been strictly enforced in recent years. 
+
+There  is,  nevertheless, s t d  a  strong preference  in  the  PRC for  evidence  to  be 
+notarized by  PRC notary publics.  It  seems  that  both  plaintiffs and  defendants in  the 
+various network cases have also relied strongly on notarized evidence. An dustration of 
+how a plaintiff relied on notarized evidence in a network  copyright infhngement case 
+may be seen in the following case. 
+
+Zhang v. Jiancha Journal  Publishing  House38 
+
+The plaintiff, Zhang Xiaohui, on 24 December  1998, posted two articles entitled 
+Has  Anything  Happened  in  the  Year the  Government  Got  Connected  to  the  Net?  and  The 
+Current  Chinese Legal System onto the Website ~(http://www.lawfirm5OO.com.cn)~. The 
+first article was a pseudonymous work, using the pseudonym “He Ming R i  Xin”, and 
+the second article was an anonymous work. The defendant edited the two articles and 
+published them  in  the  13 January  1999 issue  of its journal  and in the January  1999 
+edition of the online version of its newspaper at ((http://www.jerb.corn.cn)), identi6ing 
+
+3’  The Joint Notice of the Ministry ofJustice and the National Copyright Adrmnistrative on Making F d  Use 
+of Notarization  in  Investigating and  Handling  Copyright  Infringement  Cases, Document  No.  Sifatong [1994] 
+No. 070. 
+38  Zhang Datian and Ma  Beibei, Is there  Copyright in  Online Articles?  China Youth Journal, 30 April  1999, at 
+A2;  Li  Yanrong, A  Few  Problems on  the Judicial  Protection Df  Copyright Df  Works  Placed  on  the  Web, China  Law, 
+25 October 1999, at  77; idem,  On the  Network  Copyright Protection  by  Copyright Law, 5  Intellectual Property, 35, 
+35-39  (1999); idem,  Works Published  Online should  be  Protected  by  Copyright, China  Intellectual Property Journal, 
+4 August 1999, at 2. 
+
+PRC NETWORK  COPYRIGHT RULES 
+
+197 
+
+the  authors  as  “He  Ming  Ri  Xin”  and  “Badai”  (which  was  the  name  of  the 
+administrator of the Website c~http://www.lawfirm500.com.cn~~). 
+
+The plaintiff, on 28 April 1999, commenced a suit at the Beijing Municipal No. 1 
+Intermediate People’s Court for copyright infiingernent, requesting the Court to issue 
+an injunction, and order the defendant to issue a public apology and pay a contribution 
+fee of RMB 60 (approximately US$ 7). 
+
+In support of the plaintiffs case, the plaintiff arranged for the process of accessing the 
+two articles at the defendant’s Website notarized by a PRC notary public before litigation. 
+The defendant argued that as the plaintiff did not provide his name and contact details 
+with the articles, it was therefore unable to contact the plaintiff for authorization, etc. As 
+the plaintiffdid not notarize the articles on the Website ~~http://www.lawfii500.com.cn~~, 
+it  made  it &fficult  to  dispute such argument advanced by  the  defendant. In fact,  if the 
+plaintiff had arranged such a notarization, the plaintiff would have notarized evidence of the 
+time when the plaintiff first published the articles on the Internet, and if in fact there were 
+accompanying prohibition statements stating that the articles may not be reproduced by any 
+means. As  such a notarization was not conducted, it was difficult to ascertain such facts. 
+
+The defendant also pointed out in this case that the 1990 Copyright Law &d not 
+explicitly stipulate whether  its  actions were  copyright infringement. The defendant, 
+however, had publicly apologized to  the plaintiff prior to the  commencement of the 
+litigation. 
+
+The  parties  eventually  settled  the  case,  and  the  defendant  agreed  to  pay 
+compensation  and  litigation  expenses  in  the  sum  of  RMB 1,025  (approximately 
+US$ 125) and to issue a public apology. 
+
+It is  to be noted that there is no procedure under PRC law s i d a r  to discovery in 
+common-law jurisdctions. The general rule on presentation of evidence is that the party 
+asserting an allegation bears the burden of proof. The plaintiff in a copyright infiingernent 
+case needs to collect sufficient evidence for discharging the burden of proof. 
+
+However,  the  Civil Procedure  Law  provides that  if a  party  is  unable  to  obtain 
+evidence  due  to  objective reasons  or  if  a  court  considers certain  evidence to be  of 
+relevance to a case, the court may itself collect the evidence.39 A court has the right to 
+obtain evidence from relevant entities and individuals and such entities and indwiduals 
+must  provide  evidence.40  In cases where  evidence cannot be obtained by the parties, 
+they may request the court to use its power to collect the necessary evidence. 
+
+A  copyright holder  may  also  request  the  court  to  issue  orders for preservation of 
+evidence. Under h c l e  74 of the C i d  Procedure Law, a party may request the court to 
+
+39  The Civil Procedure Law, supra, footnote 36, Article 64 
+40  Ibid., Article 65. 
+
+198 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPERTY 
+
+preserve evidence where such evidence is likely to be destroyed or be Micult to obtain in 
+the future. Whde this order is stated to be avadable afier the commencement of proceedmgs, 
+in practice local PRC courts in some locahties did issue such orders prior to commencement. 
+The 2001 Copynght Law made it clear in Article 50 that in the circumstances where 
+evidence may be lost or &fficult to obtain, copyright or neighboring right owners may 
+apply to the court for an order for preservation of evidence prior to commencing suit. 
+
+11.  BROWSING 
+
+Browsing refers to  viewing material on the  Internet.  Reproduction  of materials 
+browsed occurs because of a process called  “caching”, which is  a  common technical 
+feature of modern Internet browsers.41 Caching wdl be dxussed in the next Section of 
+this article. The CNNIC’S July 2001 survey shows that 73.9 percent of Netizenr in the 
+PRC are occasional or fiequent  Net browsers, and that  42.9 percent  of the  Netizens’ 
+primary purpose for getting on the Net is to obtain information.42 
+
+There are currently no specific laws and regulations, or litigations, on the issue of 
+browsing, although it is expected that the PRC legislature, regulators and courts are not 
+going to legislate or rule against browsing, at least in the near future. 
+
+111.  CACHING 
+
+Caching is  the process used  by  Internet browsers of temporarily storing browsed 
+material in the random access memory  (RAM) of the browser’s computer and on that 
+computer’s hard  drive.43 When a user  browses the Net, he  or she sends requests for 
+information to a Web server. The Web server sends the requested document back to the 
+indwidual. In normal situations the server does not have the information requested so 
+it wdl make the same request to the appropriate server or host of the requested site. If a 
+particular site proves to be popular, the first server d make a cache copy of it so that 
+in the future it does not have to acquire the data fiom the second server. Caching saves 
+the capacity of the network and enables more simultaneous transactions.44 
+
+Caching is  done by the browser program independently of the user.  The lifespan 
+of a cache fde in RAM or on the hard drive is contingent on the behaviour of the user. 
+As new sites are browsed by the user, the space (the size ofwhich is allocated by the user) 
+in the cache wdl be erased and re-written, over and over. The user  can manually clear 
+both the hard dnve and RAM caches. In the case of materials cached in RAM, as RAM 
+
+com/logic/docs/jj-browse.htmln. 
+
+41  Jennifer Jannuska, Rethinking  Browsing CIS  Copyright Infnngement (1997). available at: c<http://www.catalaw. 
+42  CNNIC, supra, footnote  1. 
+43  Jannuska, supra, footnote 41. 
+44  Miika  Oksanen,  Copyright  in  Internet,  available  at:  <thttp://www.jsnellman.net/interactive-research/ 
+
+internet/main-chO.htmln. 
+
+PRC NETWORK COPYRIGHT RULES 
+
+199 
+
+only operates while the computer is on, the materials are erased when the computer is 
+turned 0% in the case of materials cached in the hard dnve, the materials are not erased 
+when the computer is turned OK Whereas the user can manipulate the materials cached 
+in a hard drive, it is not possible  to access materials cached in FUM other than through 
+the instantaneous use of the particular program on the computer. The user can avoid the 
+file cached in the hard drive being deleted and written  over in the process of future 
+caching by saving the particular file to another part of the hard drive.45 
+
+There are currently no specific laws and regulations, or litigations, on the issue  of 
+cachmg in the PRC. There have  been arguments raised against prohibiting cachmg, the 
+strongest argument being that a licence to cache materials on the Net is implied due to the 
+nature and the distributive essence of the Intemet.46 The concept of implied licence does 
+not exist in the h c ’ s  copyright protection regime and may not be an adequate defence 
+against  a  claim  of  copyright infiingement through  caching.  Other  arguments  against 
+prohibiting cachmg relate to its crucial role for the efficient operation of the Intemet.47 
+The fair-deahng concept in other fields may also be of analogous value. Under Article 22 
+of the 2001 Copyright Law, the use of a previously published work, where such use is for 
+the purpose of individual study, research or enjoyment, is considered & dealing. Under 
+Article 21 of the Regulations for the Protection of Computer Software,48 the mahng of 
+a back-up copy by a legitimate sofhare holder is also considered fair dealing. The concept 
+of fair dealing may be extended to include caching. Also, due to the techcal nature of 
+cachng-including 
+it being a common technical feature of modern Internet browsers, the 
+user  not being the agent that makes the cache copy, and the transient nature of cached 
+is  expected that  the PRC legislature, regulators and  courts are not  going to 
+copies-it 
+legislate or rule against caching, particularly caching in RAM, at least not in the near future. 
+To note is that the question of the legal status of temporary copies was extensively 
+
+debated without agreement at the 1996 WIPO Diplomatic Conference. 
+
+IV.  HYPERLINK 
+
+The term “hyperlink” is defined as a link fiom one part of a page on the Internet 
+to  another page,  either  on the same site or a  distant site. For example, a  restaurant’s 
+home page may have a hyperlink to its menu. A retailer of laptops might have a link to 
+the  site of the laptops’ manufacturers. A  hyperlink is  a way to  connect two  Internet 
+resources via a simple word or phrase on whch a user can click to start the connection. 
+A  user  can  access  a Website and exercise the option  to hyperlink to another, related 
+Website by clichng on that option.49 
+
+45  Jannuska, supra, footnote 41. 
+46  Id. 
+47  Id. 
+48  Supra, foomote 21. 
+49  Harry Newton, Newton’s  Telecom Dicrionary 337 (2001) 
+
+200 
+
+THE JOURNAL OF WORLD  INTELLECTUAL PROPERTY 
+
+The  hyperlinks discussed  here  are  those  linking  one  Website  to  another.  The 
+
+Website address of the linked site is &splayed when the site is linked. 
+
+A.  COURT CASES 
+
+The PRC courts have  acknowledged hyperlinks as an important function of the 
+Internet and have been prepared to find that hyperlinks are not copyright infringement. 
+However, after being notified that the Website being hyperlinked engages in copyright 
+infringement, the hyperlink should be closed down. 
+
+1.  Liu v. Sohu Aitexin Info-Tech (Beijind  Co., Ltd.50 
+
+In 1995, Lijiang Publishing House published the Chnese translation of El Ingenioso 
+Hidalgo Don Quijote D e  La Manchu (1995 edition) translated by the plaintiff Liu Jingsheng. 
+Three  Websites,  t(http://www.cj888.comn, ((http://www.chenqingmyrice.corn)) and 
+(<http://www.yifan.net)), displayed  the  translation.  The  defendant  did  not  post  the 
+translation onto  its Website  ((http://sohu.com),, another well-known  Website  in  the 
+PRC, but the defendant’s Website is hyperlinked to the three Websites. 
+
+The  plaintiff  commenced  litigation  against 
+
+the  defendant  for  copyright 
+inhngement  at  the  Beijing  Municipal  No.  2  Intermediate  People’s  Court  on 
+24 October 2000, asking the Court to issue an injunction, and order the defendant to 
+issue a public apology and pay compensation in the sum of- 
+100,000 (US$ 12,195). 
+The defendant, on 30 November 2000, agreed to take down the hyperlinks with 
+
+the three Websites. 
+
+An excerpt from the Court’s decision is as follows: 
+“Hyperlinking is an important function of the Internet.  Hyperlinking allows the sharing of 
+information on the Net. When a visitor is  hyperlinked to  another site, the screen of the 
+visitor’s terminal displays the address of the other site. 
+The defendant merely provided search functions to its visitors. The information f?om  the 
+linked site is not stored in the server of the defendant, but in the  computer of the visitor. 
+The  defendant  &d  not  reproduce  or  disseminate  the  work  on  the  Net.  The  content 
+provider or disseminator [i.e. the three Websites] should bear the primary responsibility in 
+such  cases  and  the  service  provider  [i.e.  the  defendant]  should  generally  not  bear 
+responsibility for compensation in such cases. It is  unrealistic to require the defendant to 
+conduct due diligence of the contents linked. 
+
+~~ 
+
+5”  Liu v. Sohu Aitexin Info-Tech (Beijing) Co., Ltd., Decision Document No. (2000) Erzhongzhichuzi No. 128; 
+Wang  Fanwu,  ISP’S Legal  Liability for  Hyperlinking,  2  China  Patents  & Trademarks,  82,  82-85  (2001); Provider 
+of Linkage  Not  Liablefor Online  Content  Infringement,  3 Electronics  Intellectual Property,  10 (2001); The Hearing 
+ofthe First Case ofcopyright Dispute Due to Linking Started  in Beijing, 12 Electronics Intellectual Property,  17 (2000); 
+Sued  Sohu, Legal System Daily, 7 February 2001, at 6; 
+Wang Fanwu,  Website Linking  Caused Litigation-Translator 
+Xiao Zhang, Sohu Sued  Because oflinking, China Information Journal, 29 November 2000, at 7; Chinaonline, S o h  
+Fined  US$  363  f.r  Copyright  Infnngement,  available  at:  ~chttp://www.chinaonline.com/topstories/001221/1/ 
+C00122002.asp)~. 
+
+PRC NETWORK COPYRIGHT RULES 
+
+201 
+
+However, after a service provider finds out the infringement, it should adopt measures to 
+prevent further infringement. The defendant, which was able to technically take down the 
+hyperlink, did not promptly do so and is liable thereby.” 
+The Court, on 19 December 2000, issued a decision based on Article 106(2) of the 
+General Principles of the Civil Law of the People’s Republic of China51 (Civil Law) and 
+Article 45(8) of the  1990 Copyright Law  (set out above in Section I.A).  Article 106(2) 
+states simply that  citizens and juristic persons who  through their own fault injure the 
+property of the State or a collective or the property or person of another person, shall 
+be  civilly  liable.  The  Court  ordered  the  defendant  to  issue  an  apology  and  pay 
+compensation in the sum of RMB 3,000 (approximately US$ 366). 
+
+2.  Ye  Yanbing v. Sohu Aitexin Info-Tech (Beijing) Co., Ltd.52 
+
+Duolaimi  Investment  Consulting  (Shanghai)  Co.,  Ltd.  posted  the  plaintiff 
+Ye  Yanbing’s  book  entitled  Feelings  on  the  Road  onto  its  Website  without  the 
+authorization of the plaintiff. Visitors to the defendant’s Website were able to access the 
+plaintiffs book through the hyperlink between the defendant’s Website and the Website 
+of Duolaimi  Investment  Consulting  (Shanghai) Co., Ltd.  The  plaintiff notified  the 
+defendant  of the inhngement and subsequently commenced litigation at the Beijing 
+Municipal No. 2 Intermediate People’s Court. 
+
+On the issue of hyperlinking, the Court was of the opinion that this did not result 
+in the reproduction  of the information from the linked site in the defendant’s server, 
+although there was temporary reproduction at the visitor’s terminal. The Court rejected 
+the  claim  of the  plaintiff that  the  defendant  should  be jointly  liable with  Duolaimi 
+Investment Consulting (Shanghai) Co., Ltd. which posted the work on the Internet. 
+
+3.  Bookoo, Inc. v. Beijing Xunnen Network  Co., Ltd. and  Torn.com Limited  (the Torn.com 
+
+Care)53 
+
+The plaintiff had, on 1 December  1999, signed a copyright licence contract with 
+the  author  Zhou Jieru,  under  which  the  plaintiff obtained  a  worldwide,  exclusive 
+
+5’  The General Principles of the Civil Law of the People’s Republic of China, adopted at the Fourth Session 
+
+the  Exclusive  Publishing  Rights  of  which 
+
+of the Sixth National People’s Congress on 12 April 1986. 
+52  Ye  Yanbing  v.  Sohu Jor  Copyright  Infn’ngement  Case  at  First  Instance  Concluded,  8 Electronics  Intellectual 
+Property, 9 (2001); Li Mingxia, Online Searching Not Use of Works, Legal System Daily, 22 June 2001, at  1. 
+53  Bookoo,  Inc.  v.  Beijing  Xunnen  Network  Co., Ltd.  and  Torn.com  Limited,  Decision  Document  No.  (2001) 
+Erzhongzhichuzi  13; Cui Li, Is Inlining Infringement?  China Youth Journal, 6 April 2001, at 7; Qing Tao, Inlining 
+Brought Litigation, China Youth Journal, 9 April 2001, at 9; Jiang Zhiran, Book00 Sued Torn.com in Respect ofcarrying 
+({http://www.cs.hn. 
+Work 
+cninfo.net/news/2000/12/08/32.htm~~; Sina,com.cn,  The  Hearing  of  the  Case  where  Bookoo  Sued  Totn.com for 
+Infnngement  Commenced  on  the  5th.  available  at:  cchttp://tech.sina.com.cn/i/c/61629.shtd~~; China  Computer 
+World Publishing Service Co., The Hearing for  the Copyright Case between Bookoo and Torn.com Commenced on the 5th, 
+available at: cchttp://www.ccw.com.cn/htm/newsl /crop/01_4_6_15.asp~); Torn.com Sued by Bookoofor In$mgement, 
+Apple  Daily,  8  December  2000,  at  B6;  Bookoo  Website  Sued  Totn.com-Is 
+Inlining  Infitngement?  5  Electronics 
+Intellectual Property,  10 (2001); Bookoo  Website Sued Tom .corn for  Copyright Infitngement,  3 Electronics Intellectual 
+Property, 10 (2001). 
+
+are  with  Bookoo,  available  at: 
+
+202 
+
+THE JOURNAL OF WORLD  INTELLECTUAL PROPERTY 
+
+licence to the electronic publishing  rights  to  the author’s  various novels for six years. 
+The author, on 6 February 2000, issued a document confirming the above copyright 
+licence and that the author did not license the rights to any third party. 
+
+Beijing  Jinri  Shidian  Cultural  Affairs  Development  Center  (Jinri)  posted  the 
+author’s  two works  covered  under  the  author’s  copyright licence  contract with the 
+plaintiff onto its Website.  The first defendant and Jinri  entered into a contract which 
+d o w e d  the second defendant’s Website,  tchttp://www.tom.com)), to hyperlink  to the 
+two works at Jinri’s  Website.  The Website  ((http://www.tom.com),  indicated  on its 
+Web  pages  that  the  works  were  provided  by  Jinri’s  Website.  When  a  visitor  to 
+((http://www.tom.corn)) is  linked  to Jinri’s Website,  the linked Web pages  show the 
+uniform resource locator (URL, i.e. the Website address) ofJinri’s  Web pages. 
+
+The  plaintiff  discovered  the  linking in June  2000  and  commenced  action  for 
+copynght infringement at  the Beijing Municipal No. 2 Intermediate People’s  Court, 
+asking the Court to issue an injunction, order the defendants to issue a public apology 
+and award  compensation in the sum of 
+42,620  (approximately US$ 5,198) plus 
+litigation expenses. 
+
+The plaintiff did  not  notify  the  defendants  of its  objection  to the links  prior  to 
+commencing litigation.  The second defendant closed  down the hyperlink with Jinri’s 
+Website following the commencement of the litigation. 
+
+The Court issued a decision on 27 April 2001. The following is an excerpt fiom 
+
+the Court’s decision: 
+
+“Hyperlinking is a function for providing convenience to visitors for obtaining information 
+on  the  Net  and  has  been  used  extensively  by  Internet  operators.  From  a  technical 
+perspective, the function of hyperlinking resides in leading the visitor’s search engme to visit 
+the linked Website. 
+The linked content is not reproduced by the linking Website. The entity putting up the link 
+is not the one engaging in the dissemination. The linked Website is the one. The action of 
+the entity putting up the link is closer to one assisting in the dissemination. 
+Considering the wide variety and large volume of contents being disseminated on the Net 
+and the extensive mutual linking between Websites, it will no doubt burden Internet service 
+providers with too much responsibility if they are obliged to filter the contents to be linked 
+prior to allowing linking. At the same time, because links increase the number of times a 
+Website is visited, which in turn is closely related to the economic benefit of the Website, 
+it is important for the protection oflegal rights and interests and for regulating dissemination 
+on  the  Net  to  require  Internet service  providers  to  pay  reasonable  attention and  bear 
+reasonable business risks in this regard. 
+Although the current law did not specifically stipulate with respect to linking in the Net 
+environment, in accordance with the spirit of the El9901 Copyright Law, and balancing the 
+rights and obligations of copyright holders and network service providers (excepting for the 
+cases where network service providers clearly knew that the linked contents were infringing 
+but  still facilitated  dissemination  through linking, or  after  obtaining warnings  from the 
+
+PRC NETWORK  COPYRIGHT RULES 
+
+203 
+
+copyright holders, still refused to diligently take rectification measures), it is not suitable to 
+require network service providers who put up the links to bear liability. 
+The evidence in this case did not show that the defendants when putting up the link clearly 
+knew that  the linked works were flawed. The link was promptly taken down afier notice 
+of the commencement of the suit was given [which coincided with the time when notice 
+of intkingement was given to the defendants].” 
+The  Court  therefore  rejected  the  claims  by  the  plainti&  The  plaintiff  was 
+
+responsible for the case acceptance fee. 
+
+The following are cases involving deep linking (to be mscussed below), but they 
+involved similar issues as the above hyperlink cases. They are, therefore, looked at here: 
+
+4. 
+
+5. 
+
+6. 
+
+Warner Music Hong Kong Ltd. v. Manweibao  Network  System  (Beijing)  Co., Ltd. 
+
+Universal Music Limited v. Manweibao  Network  System  (Beijing) Co., Ltd. 
+
+Sony Music Entertainment  (Hong Kong) Ltd. v. Manweibao Network  System  (Beijing) 
+Co., Ltd. 
+
+7.  China Record  Guangzhou CoForation v. Manweibao Network  System  (Beijing) Co., 
+
+Ltd -54 
+
+The defendant’s Website, cthttp://www.mywebinc.com>, made known that it had 
+collected about 20,000 MP3 music files and encouraged visitors to access such files. The 
+defendant  did  not  upload such MP3  files  onto  its Website. The defendant  collected 
+information on third-party Websites where various unauthorized MP3 music files could 
+be  downloaded. The information, includmg the names of the songs and singers, was 
+then  organized and posted  on the  defendant’s Website. The defendant’s Website also 
+provided  deep links to  such  MP3  music  files  on the  third-parties’ Websites  so  that 
+visitors could,  through  the  deep links, access  and  download such fdes.  The plaintiff 
+music producers, members of the International Federation of Phonographic Industries, 
+were the neighboring right holders with respect to about 12,000 songs, the subject of 
+such MP3 music files. Visitors did access or download such MP3 music files, using the 
+deep links put up by the defendant. 
+
+54  Ma Xiaogang and Xiao Qun, Protection ofthe Rights oJhducers  ofPhonogram under Network Environment-A 
+
+Review ofa  Lawsuit o m  Network Infingement,  3 China Patents & Trademarks, 44,4650 (2000); Music Business Battles 
+Illegal  Sounds on  the  Web, IP Asia, February 2000, at 3; Ji Chuanpai, Network  Copyright Disputes Non-Stop, Beijing 
+Daily, 3 June 2000, at 7; Xu Chao. Cn’tique: A Network Copyright Dispute, 7 Electronics Intellectual Property 42,42 
+(2000); Sherman Fridman, MyWeb Itzc.com Settles Copy@ht Lawsait, available at: ((http://www.computeruser.com/ 
+newstoday/00/03/27/news19.htmln, 27 March 2000;  International Federation of Phonographic Industries, Internet 
+Settlement  in  China  Leads  to Joint  ZFm/My  Web  Copytight  Campaign,  available at:  t(http://www.ifpi.org/press/ 
+20000323.htmln; MyWeb, Inc., MyWeb, IFPI Settle Case, to Fight Piracy, available at: (thttp://www.mywebinc.com/ 
+news/yahoo1/2000/y~OO~mac25.h~n; Sheel  KohIi, MyWeb  in  Dark  Over  Piracy  Writ fiom  Music Firms,  South 
+China Morning Post,  20  December 1999; The  International Federation of Phonographic  Industries, Recording 
+Industry Launches Landmark Legal Action against Infringing Websites in China, available at: cthttp://www.ifpi.oqp, 15 
+December 1999. 
+
+204 
+
+THE JOURNAL OF W O U D  INTELLECTUAL  PROPERTY 
+
+In November 1999, the plaintiffs commenced legal actions at the Beijing Municipal 
+No.  2  Intermedate  People’s  Court.  The  lawsuits  were  part  of  the  International 
+Federation of Phonographic  Industries’ global  anti-piracy  strategy  “Action for  Legal 
+Music on the Internet”. The plaintiffs asked for R M B  10,000 (approximately US$1,220) 
+compensation with respect to each song used by the defendant without authorization. 
+The Court held a consolidated hearing of all four cases for the determination of the 
+facts on 21 February 2000. The parties subsequently settled under the auspices  of the 
+Court in March 2000. The defendant agreed to take down the deep links, apologme to 
+the  plaintiffs,  and  pay  compensation  in  the  sum  of  RMB 87,500  (approximately 
+US$  10,671) to each plaintiff. The defendant also agreed to refrain from repeating the 
+infiingement, otherwise it  would  pay  RMB 100,000 (approximately US$  12,195) as 
+liquidated damages for infringement with respect to each song of the plaintiffs. 
+
+Following the settlement, the International Federation of Phonographic Industries 
+and the defendant joined hands to launch a campaign against  Internet music piracy in 
+the PRC through the promotion  of awareness of the illegality of such piracy, especially 
+the unauthorized distribution of MP3 files. 
+
+The International Federation of Phonographic Industries estimated that there were 
+up to two hundred active inhnging Websites in the PRC.55 The Ministry ofCulture Notice 
+Regarding Issues Relevant  to Online Business Activities Involving Audio Visual Products56 was 
+issued by the Ministry of Culture on 17 March 2000. The Notice specifically prohibits 
+the dealing in MP3 music files downloaded from the Net.57 
+
+B.  AGREED STATEMENTS CONCERNING  THE WCT 
+
+The Agreed Statements concerning Article 8 of the WCT stipulate that the mere 
+provision of physical facilities for enabling or malung a communication does not in itself 
+amount  to  communication.  The PRC Court’s position in  the  above hyperlink  cases 
+seems consistent with the position in the Agreed Statements. 
+
+c.  THE NETWORK  COPYRIGHT INTERPRETATION 
+
+The Network Copyright Interpretation also sets out rules for regulating the actions 
+
+of Internet service providers. 
+
+Article 4 of the Interpretation stipulates that if a computer network service provider 
+participates,  through  the  Net,  in  another  person’s  act  of  copyright  infringement  or, 
+
+55  The Intcmational Federation of Phonographic Industries,  15 December 1999, id. 
+56  The Ministry  .f Culture  Notice  Regarding  Issues  Relevant  to  Online  Business Activitier  Involving Audio  Visual 
+
+Products, Document Wenshifa (2000) No. 12, issued by the Ministry of Culture of the PRC on 17 March 2000. 
+
+5’  Ibid., Article 4. 
+
+PRC NETWORK COPYRIGHT RULES 
+
+205 
+
+through  the  Net,  aids  and  abets another person’s  act  of  copyright infiingement, the 
+service provider is to be jointly liable with that other person for copyright infUngement.58 
+This stipulation, arguably, may be applicable in cases similar to the four cases against 
+the Manweibao Network System (Beijing) Co., Ltd. discussed above. It may be argued 
+that the defendant aided and abetted third-party Websites providing unauthorized MP3 
+files which inhnged the plaintiffs’ rights through the provision of information on the 
+unauthorized MP3 files and the provision of deep links to such files. 
+
+In the Torn.com case, discussed above, the Court was of the opinion that the action of 
+the entity putting up the link is closer to one assisting in the dissemination. Article 4 of the 
+Network Copyright Interpretation may be relevant, although the facts of the case indicate 
+that the defendants did not have knowledge that the contents linked were &ging. 
+
+Similarly, Article 4 might, arguably, be relevant to the other hyperlink cases if the 
+
+entities putting up the links had knowledge that the linked contents were infhnging. 
+
+V. 
+
+INLINING 
+
+Inlining is the process of &splaying in one Website a graphic file which orignates fiom 
+another Website. For example, dining occurs if a user at site A can, without leaving site A, 
+view a “cartoon of the day” featured on site B.59  The user wdl be unaware of the source 
+of the graphic file, i.e. the “cartoon of the day”, unless he or she deconstructs the html of 
+the inlined Web page or the inlining page’s creator chooses to inform the user, neither of 
+which typically occurs.@ There is, therefore, the possibility of confusion with respect to the 
+source of the graphic file, and the creation of &c 
+jams to the inlined Website. Copyright 
+infiingement and u&r  competition arguments may be advanced awnst inlining. 
+
+There  were  allegations in  the  Torn.com  case  that  the  link  between  the  second 
+defendant’s Website and Jinri’s Website was inlining rather than hyperlink. The Court 
+decided  that  the  evidence  did  not  substantiate  the  allegation  and  accepted  the 
+defendants’ evidence that the link was hyperlinking.61 
+
+VI.  DEEP LINKING 
+
+A deep link is  a hyperlink that bypasses a Website’s home page  and takes  the user 
+du-ectly to  an internal page.  For  example, instead  of linking  to  the  home  page  of  a 
+newspaper, a deep link might take the user directly to a newspaper article within the site. 
+Deep linlung therefore allows visitors to bypass information and advertisements at the home 
+
+Article  130. 
+
+58  The  Network  Copyright Interpretation,  supra, footnote  8, Article  4; The Civil Law, supa, footnote  51, 
+59 E c h  Stim (2001), Linking, Framing and Inlining, available at: c(http://www.nolo.com/encyclopedia/amcles/ 
+a Brian D. Wassom, Copytight Implktions of“Unconventional Linking”on the Wodd Wide Web: Framing, Deep Linking 
+
+and Infining, 49 Case Wes. Res. L. Rev. 181 (1998), available at: cchnp://wassom.com/writings/note padl.htmv. 
+
+ilaw/linkmg.htmln. 
+
+61  See the works cited supra, footnote 53. 
+
+206 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPERTY 
+
+page  and go directly to an internal page.  The linked sites can lose income because their 
+revenues are ofkn tied to the number ofviewers who pass through their home page. Some 
+sites also d i a e  deep li&ng  because bypassing the home page may mistakenly create the 
+impression in a user’s mind that the two linked sites are associated or endorse each other.62 
+In the following case, the Court was prepared to find deep l i h g  unfair competition. 
+
+Beqing  Finance City Net Co., Ltd. v. Chendu Caizhi Software  C o . ,  Ltd.‘j3 
+
+The  plaintiff collected information on  the  foreign exchange transactions of the 
+Beijing  Branch  of  the  China  Construction  Bank  and  organized  it  into  a  diagram 
+showing the trends of foreign exchange transactions. The plaintiff posted the diagram 
+onto  a  sub-page  in  its  Website  c(http://www.295.net.cn~. The  defendant  had  the 
+Website cchttp://www.imoney.com.cnu. Both Websites provided financial information, 
+including foreign exchange information, to visitors. In  the middle  of June  2000, the 
+defendant linked its Website to the sub-page of the plaintiffs Website where the diagram 
+was posted, bypassing the home page of the plaintiff. The defendant took down the deep 
+link after being notified of the plaintiffs objection in the middle of August 2000. 
+
+The plaintiff commenced action on 8 October 2000 at the Beijing Municipal No. 2 
+
+Intermediate People’s Court for copyright infringement and unfair competition. 
+
+The Court issued a decision on 13 December 2000. An excerpt from the Court’s 
+
+decision states as follows: 
+
+“As the diagram was prepared by using foreign exchange quotations supplied by the bank, it 
+did not constitute a work protected by the Copyright Law. 
+There  is  no  specific  law  governing the  issue  of  deep  linking, but  deep  linking without 
+authorization  is  generally  objectionable  in  the  information  technology  industry.  The 
+economic benefits of Websites  are  related to  the  frequency with  which  the  Websites are 
+visited. Websites expend efforts to attract visitors. Deep linking would cause visitors to confuse 
+the identity of the developer of the content seen in the linked Website and would cause more 
+visitors to visit the Website and less visitors to visit the linked Website, thereby harming the 
+interests of the linked Website. If such activities  are not regulated, the development of the 
+Internet industry will be harmed. Internet Website operators must operate in accordance with 
+the principle of honesty and trustworthiness, and must compete fairly. 
+Visitors assessing the plaintiffs diagram through deep linking &om the defendant’s Website 
+would  assume  that  the  diagram was  disseminated by  the  defendant  or  at  least  that  the 
+defendant’s Website had  some co-operative  relationship with  the  Beijing Branch  of the 
+China Construction Bank, causing confusion for the visitors.” 
+
+62  Stim, supra, footnote 59. 
+6’  Beijing Finance  City Net  C o . ,  Ltd.  v.  Chendu Caizhi  Software  C o . ,  Ltd., Decision  Document No.  (2000) 
+Erzhongzhichuzi  No.  122; Xiao  Ai, Analysis:  How  Serious  is  the  Problem  with  Linkage  in  the  PRC? available  at: 
+c(http://tech.sina.com.cn/r/m/48073.shtml~); Li  Xu  and  Zhang  Sulian,  Litigation  Caused  by  Linking-Two 
+Companies  Penalized,  available at:  c~http://tech.sina.com.cn/i/c/47370.shanl~~; 
+Jinqi  Panwei,  Unfair  Competition 
+Case Involving Foreign  Exchange Transaction Trend  Diagram, 7  Electronics Intellectual Property,  33, 33-35  (2001); 
+Decisionfiom the Court ofFirst Instance in Beijing Finance Cify Net C o . ,  Ltd. u.  Chendu Caizhi Software Co., Ltd. Unfair 
+Competition Case, 3 Electronics Intellectual Property, 14 (2001). 
+
+PRC NETWORK COPYRIGHT RULES 
+
+207 
+
+The Court found that the defendant had engaged in unfair competition, issued an 
+injunction,  ordered  the  defendant  to  issue  an  apology  and  awarded  RMB 5,000 
+(approximately USfb610) compensation plus a certain portion of the case acceptance fee. 
+
+VII. FRAMING 
+
+Framing is the process of allowing a user to view the contents of one Website while 
+they are fi-amed by information from another site. For example, a user of a search engine 
+may view the contents of an online store that are framed by the search engine's text and 
+l0g0s.64 The link does not transfer the user to the linked page but rather brings a part of 
+a page, image or text to the user fiom another page. For example, a picture from another 
+page is incorporated as a part of the local screen. The local screen stays connected all the 
+time, and the URL of the local site is displayed when the framed contents fiom the other 
+Website are viewed.65 There is, therefore, confusion for the visitor to the framing site 
+with  respect to the source of the framed page. A fiamed site, arguably, also alters the 
+appearance of the fiamed content and creates the impression that its owner endorses or 
+voluntarily chooses to associate with the fi-aming site.66 
+
+Under PRC law, copyright infringement and unfair competition arguments may be 
+
+advanced in fiaming cases. The following case relates to deep linlung and fiaming. 
+
+Beijing  Baiwang Infomation Co., Ltd. v. Beijing  Sitongl$ang  Information Technology Co., 
+Ltd. and  Beijing Xinlang Internet  Information Service  Co., Ltd. (Yiwangdakang  Information 
+Technology (Beijing) Co., Ltd. as  Third Party67)68 
+
+The plaintiff collected information  on restaurants and  entertainment  in Beijing 
+Municipality  and  posted  it  onto  its  Website,  ((http://tonight.corn.cn)). The  first 
+
+~ 
+
+~~~ 
+
+64  Stim, supra, footnote 59. 
+65  Miika Oksanen, strpt~, footnote 44. 
+66  Stim, supra, footnote 59. 
+67  The concept of a third party in litigation in the PRC has some resemblance to that of amicus curiae. Under 
+Article 56 of the Civil Procedure  Law, supra, footnote 36, if a third party has no independent  right of claim with 
+respect to the subject-matter  of an action between two parties, but the outcome of the case will afFect its legal 
+interests, it may apply to participate in the proceedings or the court may not* 
+it to participate. The court may 
+issue a decision binding on the third party. In such a case, the third party has the rights and obligations of litigants. 
+In this case, the third party joined in the action upon the request of the defendant. 
+
+66  Beijing Baiwang Infomation Co., Ltd. v. Beijing Sitonglqang Information Technology Co., Ltd. and Beijing Xinlang 
+Internet Information Service C o . ,  Ltd. (Yiwangdakang Infomation Technology (Beijing) Co., Ltd. as Third Party), Decision 
+Document No. (2000) Erzhongzhichuzi 54; Netease.com, Inc., tonight,com.cn v. sina,com.cn Copyright Case Hearing 
+Notes,  available  at:  c~http://www1.163.com/news/item/0,1567,96653,00.hrm1,,, 19 September  2000;  TvB.com 
+Limited,  Beijing  Court  First  Time  Obtain  Evidence  from 
+the  Net  During  a  Hearing,  available  at: 
+cchttp://news.tvb.com/instant/n20000918~23496.htm~~, 
+18 September 2000; Li Xu and Niu Aimin, Beijing Court 
+First  Time  Obtain Evidencefrom  the  Net  During  a  Hearing, Jiefangjun Journal,  19 September  2000, available  at: 
+c~http://www.pla~y.com.cn/pladaily/20000919/gb/20000919001147~it.htmln; 
+Ji  Chunpai, Another  Dispute  in 
+the  IT  Industry:  Is  It  Infiingement or  Seeking Publicity!  Sina,com.cn and  tonighr.corn.cn Each has  its Respective  Position, 
+Beijing Daily, 19 September 2000, at 5;  Whether There is Infiingement by the  Website-Obtaining  Evidencejom the Net 
+During  the Hearing, Jiefang Daily, 19 September 2000, at 5; fonight,com.cn Seeking Publicity or sina.corn.cn Engaged in 
+Infringement, China Information Journal, 27 September 2000, at 7;  Liang Lijun, tonight.corn.cn v. sina.corn.cn Online 
+Copyright Infnngement Case, 6 Electronics Intellectual Property,  14 (2000). 
+
+208 
+
+THE JOURNAL OF WORLD INTELLECTUAL  PROPERTY 
+
+defendant was  the  owner and the second defendant was  the operator of the Website 
+((http://sina.com.cm). The third party was responsible for the operation of a section on 
+((http://sina.com.cm), under a contract with the second defendant. The third party set 
+up a deep link from that section to a sub-page  of the plaintiffs Website, bypassing its 
+home page. The linked sub-page  was  also framed by the third party. The section on 
+((http://sina.com.cn),,  although  not  very  prominently,  indicated  that  the  linked 
+contents  were  re-transmitted  and  that  ((http://tonight.corn.cn)) was  the  copyright 
+owner. 
+
+The plaintiff commenced litigation at the Beijing Municipal No. 2 People’s Court 
+on 29 April 2000, asking the Court to issue an injunction, order the defendant to issue 
+a  public apology and pay  compensation in  the  sum of RMI3  250,000  (approximately 
+US$ 30,488) plus legal fees. 
+
+The Court issued  a decision on 27 April 2001. The following is an excerpt &om 
+
+the Court’s decision on the issue of deep linking: 
+
+“Although cthttp://sina.com.cn>) indicated that the copyright of the linked contents belonged 
+to ((http://tonight.corn.cn)), in the current Internet’s ‘attention economy’, the deep linking, 
+which resulted in bypassing the advertisements and promotions displayed on the plaintiffs 
+home page, directly caused harm to the plaintiffs Website, affected the number of visits to 
+the plaintiffs Website, and lowered its market value, and caused a corresponding increase 
+in the number of visits to the linking site. The deep linking constitutes unfair competition. 
+The defendants should be correspondingly liable with the third party. The third party, being 
+the infkinging section’s operator and the one putting up the link, should take down the link 
+forthwith.” 
+The decision unfortunately did not separately address the issue of framing. 
+The Court, in accordance with Article 2 of the Unfair Competition Law,69 ordered 
+the defendants to issue an apology to the plaintiff and pay compensation in the sum of 
+RMI3 6,000 (approximately US$ 732) and part of the case acceptance fees. 
+
+VIII.  HOSTING 
+
+According to CNNIC’S July 2001 Survey results, 24.4 percent of Netizens in the PRC 
+had their own personal home pages.70 Many of these home pages are hosted by Internet 
+content  or  service providers  for  ftee.  The  case  below  looks  at  the  liabdity  of  the 
+providers in cases where  the personal home page hosted by  the providers engages in 
+infiingement activities. 
+
+69 Article  2  of  the  Unfair  Competition  Law,  supra,  footnote  19, stipulates  that  business  operatoa should 
+observe the principles of voluntariness, equality, equitability, honesty and trustworthiness, and abide by generally 
+accepted business ethics in business transactions. 
+
+70 CNNIC, supra, footnote 1. 
+
+PRC NETWORK  COPYRIGHT RULES 
+
+209 
+
+A.  CASE: University Studentjournal  Publishing  House v. Beijingjingxun  Public 
+
+Information  Technology  Co., Ltd. and Li71 
+
+The plaintiff published a special edition called Biblefor Graduate Entrance Exums in 
+September 1998. In August 1999, the second defendant, Li Xiang, posted articles &om 
+the publication onto his home page c(kaoyan.topcool.net)) hosted by the first defendant 
+at  ((http://www.263.net)>. When  the  plaintiff notified  the  idingement to  the  first 
+defendant on 8 December 1999, the first defendant closed the section in the second 
+defendant’s Website which disseminated the in6inging contents, informed the plaintiff 
+that  it  would  try to  locate the  second defendant, and  did  try  to  locate the  second 
+defendant. The second defendant subsequently deleted the  infringing contents from 
+c(kaoyan.topcool.net)). 
+
+The plaintiff commenced action against the first defendant at Beijing Municipal 
+Haidan  District  People’s  Court.  Due  to  jurisdictional  challenges,  the  case  was 
+transferred to the Beijing No. 2 Intermedate People’s Court. The second defendant was 
+joined as a defendant. The plaintiff asked the Court to issue an injunction against the 
+defendants, and order the defendants to issue a public apology and pay compensation in 
+the sum of RMEI 100,000 (approximately US$ 12,195) plus notarization and litigation 
+expenses. 
+
+The Court issued a decision on 28 November 2000. An excerpt &om the Court’s 
+decision with respect to the copyright infringement claim against the second defendant 
+states: 
+
+“The posting of a work  onto the Net constitutes reproduction of the work and such a use 
+still falls within  the  regulatory regime for  copyright protection. The  second defendant’s 
+posting of a substantial portion of the plaintiffs publication onto the c(kaoyan.topcool.net)) 
+home page without the authorization of the plaintiff constitutes copyright infringement.” 
+The Court, basing its decision on Articles 14(1) and 45(5) of the 1990 Copyright 
+Law,  issued  an  injunction  against  the  second  defendant  and  ordered  the  second 
+defendant to pay RMEI 5,000 (approximately US$610) to the plaintiff and issue a public 
+apology. Article  45(5)  is  set  out  above  in  Section  LA.  Article  14(1) stipulates that 
+copyright in a work of compilation shall vest in the editor, provided that the editor’s 
+exercise of such right shall not prejudce copyright in the pre-existing works. 
+
+The Court found that the evidence did not support the plaintiffs claim for RMEI 
+100,000  (approximately US$  12,195) compensation.  The  plaintiff  and  the  second 
+defendant shared in the payment of the case acceptance fee. 
+
+71  University  Student journal  Publishing  House  v.  Beijing Jingxun  Public In/onnation Technology  Co., Ltd. and  Li, 
+Decision Document No. (2000) Erzhongzhichuzi 18 (under appeal); Copyright Znfn’ngement  by  Personal Home Page 
+on  263-Case  Concluded, 12 Electronics Intellectual  Property,  17 (2000); Dow Jones Newswires, China Fines for 
+Web Sife Copyright Brearh, AWS, 30 November 2000, at 4; Chinaonline, Chinese Legal Case to  Tackle Online Copyright 
+LAW,  available at: cchttp://www.chinaonline.com/topstories/000217/1  /b200021515-ss.asp~~. 
+
+210 
+
+THE JOURNAL O F  WORLD  INTELLECTUAL PROPERTY 
+
+The Court found the first defendant not liable to the plaintiff. An excerpt &om the 
+
+Court’s decision on the issue of hosting states: 
+
+“An  Internet  service  provider  which  merely  provides  physical  facilities for  enabling  a 
+communication is not liable for the content of the Website hosted by it unless the content 
+is  specijically prohibited  by  laws  or  regulations.  The provider  has  no other legal  obligation to 
+filter, select and control the content. In view of the large volume and the great variety of 
+information and the complicated sources of rights to the information  existing and being 
+disseminated on the Net, it is difficult and unrealistic to require a network service provider, 
+which  merely  provides  physical  facilities for  enabling  a  communication,  to  promptly 
+conduct  due diligence of the  rights to  all of the  contents being  disseminated. However, 
+when the right holder notifies the provider of infringement, it is unfair to the right holder 
+if the provider does not take technical measures to stop the dissemination and delete the 
+content  since  the  provider  has  the  most  control  with  respect  to  the  dissemination  of 
+information on the Net. Therefore, when a right holder has made a reasonable request, the 
+provider has an obligation to take technical measures against the infringing content in order 
+to prevent further infringement. 
+In this case, the first defendant took technical measures to close the section displaying the 
+infringing contents and tried to locate the second defendant after having received notice 
+from the plaintiff of the infiingement and confirmed the facts of infringement. It was the 
+actions of the first defendant that pressured the second defendant into deleting the infringing 
+contents. The first defendant fulfiied its obligation and should not be liable with the second 
+defendant.” (emphasis added). 
+
+The plaintiffs claim against the first defendant was therefore rejected by the Court. 
+
+It seems that on the issue of liability for an Internet service provider which merely 
+hosted an infringing site, the Court was of the opinion that the provider was not liable 
+for the infringing content unless the  content was  “specifically prohibited by  laws  or 
+regulations”.  PRC  regulations  specifically  prohibit  the  dissemination  o n h e   of 
+information which 
+
+-  instigates resistance to or sabotage of the enforcement of the Constitution or 
+
+of laws and admmistrative regulations of the PRC; 
+
+- 
+
+- 
+- 
+
+- 
+
+- 
+
+instigates the  subversion of PRC State power  or the  overthrow of the PRC 
+socialist system; 
+
+instigates separatism or sabotages the unity of the PRC State; 
+
+instigates ethnic hatred or discrimination between ethnic groups or sabotages 
+ethnic unity in the PRC; 
+
+fabricates stories, distorts facts, spreads rumors or disturbs public order; 
+
+propagates feudal superstition, obscenity, pornography, gambling, violence, 
+murder, terrorism or the instigation of crimes; 
+
+- 
+
+publicly humiliates others or fabricates stories to slander others; 
+
+PRC NETWORK COPYRIGHT RULES 
+
+21 1 
+
+-  damages the reputation of the PRC State institutions; 
+-  otherwise violates the Constitution, laws or adrmnistrative regulations of the 
+
+PRC.72 
+
+B.  THE NETWORK COPYRIGHT INTERPRETATION 
+
+The provisions of the Network Copyright Interpretation regulating the actions of 
+
+Internet content and service providers are relevant in hosting cases. 
+
+Under Article 5 of the  Interpretation, where an Internet service provider which 
+provides content  has  knowledge that  a  Net  user  infringes copyright on the  Net,  or 
+where it has been notified of the infringement but stdl fails to take action with respect 
+to the inhngement, it is to be jointly liable with the user.73 
+
+There is liabihty for the provider under Article 5 only if the content provider has 
+knowledge of the inhngement.  Ths is  reminiscent of the liability for publishers with 
+respect to inhnging works published by them. Under the Reply Regarding the Liability of 
+Publishers which Published Infringing  Works,74 a publisher is jointly liable with the infi-inger 
+only if the publisher is negligent or at fault, or if the publisher continues to publish and 
+distribute the infringing publication after obtaining notice of the infringement. 
+
+An  Internet  service  provider  which  provides  content  is  to  be  held  liable  for 
+infringement where a copyright holder requests the provider to furnish information on 
+the  infi-inger’s regstration  with  the  provider  for  investigating the  infringer  but  the 
+provider refuses without reasonable grounds.75 
+
+The provider does not have the obligation to entertain the request of a copyright 
+holder if he or she is unable to produce adequate proof of his or her identity, his or her 
+copyright ownership and the infiingement.76 If the copyright holder produces the above 
+
+72  The Measures for Ahnstration of Protection of the Security of International Networking of Computer 
+Information Networks, approved by  the State Council on  11 December 1997, promulgated by the Ministry of 
+Public Security on 16 December 1997 with Order No. 33, and effective from 30 December 1997, Arucle 5; The 
+Implementing Measures for the Provisional Regulations of the People’s Republic of China for the Administration 
+of International Networking of Computer  Information  Networks, promulgated by  the State Council Leading 
+Group on Information on, and effective from, 13 February 1998, Article 20; The Measures for the Administration 
+of Internet Information  Services, adopted  at  the  31st  Ordinary Meeting of the  State  Council of the  PRC on 
+20 September 2000, promulgated by the Premier of the PRC with Order 292 on, and effective from, 25 September 
+2000, Article 15; The Regulations for the Administration of Internet Electronic Messaging Services, adopted at the 
+Fourth Ministry Affairs Meeting of the Ministry of Information Industry on 8 October 2000, and issued on, and 
+effective from,  6 November 2000, Article 9; The Measures for the Administration of Internet Access Centers, 
+issued by  the Ministry of Information Industry, the Ministry of Public Security, the Ministry of Culture and the 
+State Administration for Industry and Commerce on, and effective from, 3 April 2001, Article 12. 
+
+[1996] No. 73, issued by the NCA on 28 August 1996. 
+
+’3  The Network Copyright Interpretation, st4pra, footnote 8, Article 5; The Civil Law, supra, footnote 51, 
+74  The  Reply  Regarding  the  Liability  .f Publishers  which  Published  Infinging  Works, Document No.  Quanban 
+75  The Civil Law, supra, footnote 51, Article 106; The Network Copyright Interpretation, supra, footnote 8, 
+76  The Network Copyright Interpretation, ibid., Article 7. 
+
+Article 130. 
+
+Article 6. 
+
+212 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPERTY 
+
+proof  but  the  provider  still  fails  to  take  action,  the  copyright  holder  may  seek  a 
+preliminary  injunction  against  the  provider  at  the  time  of  commencement of  the 
+litigation with respect to the inhngement.77 
+
+If a provider adopts measures such as removing allegedly inhngmg contents after 
+the copyright holder has made such a request (duly supported by evidence), the court is 
+not to  allow an  action by  the alleged.infiinger  against the  provider for adopting the 
+measures.78 
+
+If  a  copyright  holder’s in6ingement  claim  fails,  the  copyright  holder  is  to  be 
+responsible for compensating the loss suffered by the alleged inhnger as a result of the 
+measures taken by the provider.79 
+
+It  appears  that  the  above  provisions  are  not  applicable to  an  Internet  service 
+provider  which  merely  provides  physical  facilities  for  enabling  or  making  a 
+communication. 
+
+C.  THE REGULATIONS FOR THE ADMINISTRATION OF INTERNET ELECTRONIC 
+
+MESSAGING SERVICES 
+
+The Regulations for the Administration of Internet Electronic Messaging Services 
+(EMS Regulations)80 govern the provision of electronic messaging services and the use 
+of  electronic  messaging  to  publish  information.  Electronic  messaging  services  are 
+defined  in  the  EMS Regulations  as  acts  enabling  online  subscribers  to  publish 
+information on the Internet in an interactive form, such as bulletin boards, whiteboards, 
+discussion forums, chat rooms, message boards, etc.81 Article 13 ofthe Regulations states 
+that if an EMS provider discovers any of the nine types of information (set out in Section 
+A above) in its EMS system, it should immediately obliterate the information, maintain 
+the relevant record and report to the State. 
+
+IX.  METATAGS 
+
+Meta tags  are keywords embedded into the html of a Web page and are read by 
+search engines in order to  identify for searchers those pages  on the  Internet that are 
+relevant to  their search. Upon  the  request by  a searcher for a  specific keyword, the 
+search engine will spew out a list of sites prioritized by, among other things, whether or 
+not the keyword typed by the searcher appears in a site’s meta tags.82 
+
+77  Id. 
+78  Ibid., Article 8. 
+79  Id. 
+Ro  The Regulations for the Administration of Internet Electronic Messaging Services, supra, footnote 72. 
+**  Pliam Law  Firm,  Special  Trademark  Concerns for  Internet  Users,  available at: cchttp://www.marklaw.com/ 
+
+Ibid.. Article 2. 
+
+trademark-faq/intemet.htmn. 
+
+PRC NETWORK  COPYRIGHT RULES 
+
+213 
+
+Typically, a Website designer will use meta tags that describe and market their site 
+to potential consumers. There are meta tags other than those devoted to keywords, and 
+not every page has meta tags for keywords.83 
+
+When one of the keywords in a site’s meta tags is a trademark or trade name owned 
+by  a  third  party,  trademark  or  trade-name  infringement  and  unfair  competition 
+arguments are relevant. 
+
+In the Beijing Chuanglian case (discussed above in Section I.D.3), the Court found 
+that the plaintiffs e-mail address <csales@hichina.com,) was embedded in the html of 
+the  defendant’s Web  page  which  copied  the  design  and  content  of the  plaintiffs 
+domain-name  online registration feedback form displayed on the plaintiffs Website. 
+The Court took the e-mail  address as a piece of evidence supporting the claim that 
+the defendant copied the design of the feedback form from the plaintiffs Website. 
+
+The e-mad  address appeared to be  a  meta tag on the plaintiffs Web  page.  The 
+Court in this case did not go into the issues of trademark infiingement and passing off 
+of trademark under Article 5(1) of the Unfair Competition Law, although such issues 
+may be relevant-for 
+
+instance if “hichina” is a PRc-registered trademark. 
+
+In the usual meta tag case, depending on the situation, the inhnged party may also 
+rely on other unfair competition  grounds, such as  under  Article 5(2) and  (3) of the 
+Unfair  Competition  Law.  Article  5(2) prohibits the  unauthorized  use  of the  name, 
+packaging  or  trade  dress  peculiar  to  well-known  merchandise  or  use  of  a  name, 
+packaging or trade dress similar to that of well-known  merchandise, and Article 5(3) 
+prohibits the  unauthorized  use  of the  enterprise name or personal name  of another 
+party. 
+
+X.  DATABASES 
+
+According  to  the  China  State  Information  Office’s  survey,  there  are  45,598 
+databases on the Net in the PRC and approximately 11 percent of the Websites collect 
+fees  for  the  use  of  such  online  databases.84  Under  the  1990  Copyright  Law,  a 
+compilation was protected by copyright only if the materials compiled were protected 
+works  already, or parts  of such protected  works.85  However,  foreign  works that  are 
+compilations  of  unprotected  materials but  are  original  in  terms  of  the  selection  or 
+arrangement of  the  materials  are  protected  as  compilation works.86  How  the  1990 
+Copyright Law was applied may be seen in the following case. 
+
+83  Id. 
+O@aZ  Report ofFirst Internet Report, supra, footnote 2, at 7. 
+85  The Implementing Rules, supra, footnote 5, Article S(l1). 
+86  The International Treaty Regulations, supra, footnote 6, Article 8. 
+
+214 
+
+THE JOURNAL OF WOIUD INTELLECTUAL PROPERTY 
+
+Beijing Huaxinjie Investment  Consulting  Co., Ltd. v. Machinery  Industrial Information 
+Academ y87 
+
+The plaintiff, in September 1998, developed a database of information on projects 
+with an investment value of over RMB 10,000,000 (approximately US$  1,219,512) in 
+the  PRC. The  database,  which  was  periodically  updated,  was  licensed  out.  The 
+defendant obtained a licence to use the database over the Net on 15 March 1999. The 
+plaintiff claimed  that  the  defendant  edited the  information in  the  database  and  then 
+incorporated the  edited database  into  the  1999 issues  of the  defendant’s publication 
+entitled China Project Special Edition. 
+
+~ 
+
+In November  1999, the plaintiff commenced litigation at the Beijing Municipal 
+No.  1  Intermediate  People’s  Court  against  the  defendant  for  infnngement  of  its 
+copyright  of  the  database,  aslung  the  Court  to  issue  an  injunction  and  order  the 
+500,000  (approximately 
+defendant  to  pay  compensation  in  the  sum  of 
+US$ 60,976), pay  enforcement expenses in  the  sum  of Rhm  23,000  (approximately 
+US$  3,000) and  issue  a  public  apology. Included in  the  defendant’s defence was  the 
+argument that the plaintiffs database was not protected by copyright. 
+
+The Court issued a decision in December 2000, rejecting the plaintiffs claims. The 
+Court was of the opinion that the content of the database was not created by the plaintiff 
+and  &d  not  possess  the  originahty  required  for  copyright protection;  therefore, the 
+database was not protected by copyright. The Court also found that the actions of the 
+defendant  did  not  cause  any  harm  to  the  plaintiff  and  did  not  constitute  unfair 
+competition. 
+
+The plaintiff appealed the decision to the Beijing Municipal High People’s Court. 
+The Appeal Court issued a decision in 2001 upholding the decision of the Court of First 
+Instance. 
+
+The 2001 Copyright Law provides protection to an original compilation even if it 
+
+consists of materials not already protected as works.88 
+
+XI.  FURTHER LEGISLATIVE AND  REGULATORY R E F O R M  
+
+The various network cases, together with the Network Copyright Interpretation, 
+the Digital Product Regulation and the 2001 Copyright Law, have provided valuable 
+guidelines for the Internet game, and have an important impact for everyone, not just 
+for Internet service providers and Internet content providers. The new guidelines are 
+probably not  surprising as  they are merely logical extensions of the  rules used  in the 
+traditional sphere of the Net environment. 
+
+8’  Zhou Xiang,  Beijing Hcraxinjie Investment  Consulting  Co., Lfd. u. Machinery  Industrial Information A c a d e m r  
+Coppght Infringement and  Unfair Competition  Case,  8  Electronics  Intellectual Property,  27,  27-30  (2001); Mao 
+Xiaomei, Is  Compiled Infrmation Rofected by Copyright? Economic Daily, 5 April 2000, at 10. 
+**  The 2001 Copyright Law, supra, footnote 4, Article 14. 
+
+PRC NETWORK COPYRIGHT RULES 
+
+215 
+
+As  PRC court cases do not have precedent value, issues although litigated but not 
+addressed in the 2001 Copyright Law, the Digital Product Regulation or the Network 
+Copyright Interpretation, should be addressed through legislative or regulatory reform 
+or Supreme Court interpretation. Issues which have not even been litigated should be 
+similarly addressed. Issues relating to idning and meta tags are issues which require legal 
+guidance. 
+
+XII.  COPYRIGHT ENFORCEMENT 
+
+The impact of the  new  body  of network  rules  is  still to be  seen. The PRC has 
+
+stepped up protection against copyright infringement with the 2001 Copyright Law. 
+
+Articles  49  and  50  of  the  current  Law  have  introduced  pre-suit  provisional 
+measures.  As  mentioned  above,  Article  49  states  that  in  the  circumstances where 
+evidence may be lost or difficult to obtain, copyright or neighbouring right owners may 
+apply to the court for an order for preservation of evidence prior to commencing suit. 
+Article 50 provides that  if  the  copyright owner  or the  neighboring right  owner  has 
+evidence showing that  someone is  or will  infringe its rights, and if it  is  not  stopped 
+promptly  irreparable harm will be  caused  to  legal rights and  interest, the  copyright 
+owner or the neighboring right owner may apply to the court for an injunction and an 
+order  for  the  preservation  of  property  prior  to  commencing  suit.  Article  50  is 
+introduced also for TRIPS compliance purposes. 
+
+The 2001 Law has also introduced legal remedies against the removal or alteration 
+of electronic rights management information applied for the protection of works.89 The 
+Network Copyright Interpretation has also made similar stipulation in Article 9(4). 
+
+As  it is often dfficult to assess damages in copyright infnngement  cases, statutory 
+damages have also been introduced in the 2001 Copyright Law; its Article 48 states that 
+infiingers are to compensate the actual loss suffered by a right holder. In cases where the 
+actual loss is dfficult to assess, the compensation may be calculated in accordance with 
+the illegal income of the inhngers.90 Enforcement expenses of the right holders should 
+also be compensated.91 In cases where the right holder’s actual loss or the illegal income 
+of the inhngers may not be confirmed, the court may, depending on the circumstances, 
+500,000 (approximately US$ 60,976).92 Similar 
+award compensation of less than 
+rules  for  the  calculation of compensation are  set out in  Article  10 of the  Network 
+Copyright Interpretation, although the Interpretation further specifies that the plaintiff 
+has the right to choose whether to use its loss or the inhnger’s gain as the basis for the 
+calculation of compensation. 
+
+89  Ibid., Article 47(7) 
+90  Ibid., Article 48. 
+91  Id. 
+92  Id. 
+
+216 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPERTY 
+
+Article 51 of the 2001 Copyright Law further states that the court may make forfeit 
+the  illegal  income  and  infiinging goods  and  materials which  have been  used  in  the 
+committing of the offence. Its Article 52 provides that there is legal liability with respect 
+to the publishing of reproductions of works or the reproduction of works which cannot 
+be  proved  to  have  been  legally authorized,  and  with  respect  to  the  dm-ibution  of 
+reproductions of works and the rental of cinematographic works, computer software or 
+audio visual products where the sources of such items for distribution or rent cannot be 
+proved to be legitimate. 
+
+Serious  copyright  inhngement  is  punishable  under  the  Criminal  Law  of  the 
+People’s Republic of China.93 Articles 217 and 218 of the  Criminal Law  stipulate as 
+follows: 
+
+2. 
+
+3. 
+
+“Article 21 7: Whoever, for the purpose of making profits, commits any of the following acts 
+of copyright infringement shall, if the amount of illegal gains is relatively large, or if there 
+are other serious circumstances, be  fined with or without  being sentenced to fured-tern 
+imprisonment of not more than three years or criminal detention; if the amount of illegal 
+gains is large or if there are other especially serious circumstances, he or shall be sentenced 
+to fmed-term imprisonment of not less than three years but not more than seven years and 
+shall also be fined: 
+1. 
+
+reproducing and distributing a written work, musical work, motion picture, television 
+programme  or  other  visual  works,  computer  software  or  other  works,  without 
+authorization &om the copyright owner; 
+publishing a book of which the exclusive right of publication is  enjoyed by  another 
+person; 
+reproducing and distributing an audio or video recording produced by another person 
+without authorization fkom the producer; or 
+producing or selling a work of fine art with forged signature. 
+
+4. 
+Article 218: Whoever, for the purpose of making profits, knowingly sells infiinging works 
+as mentioned in Article 217 of this Law shall be fined, with or without being sentenced to 
+fmed-term imprisonment of not more than three years or criminal detention, if the amount 
+of illegal gains is large.” 
+To  note  is  that  Article  217  is  applicable  only  in  the  case  where  the  infiinger 
+infiinged copyright “for the purpose of making profits”. Article 218 is applicable only 
+in the case where the i n h g e r  inhnged copyright “for the purpose of making profits” 
+and where the infinnger “had knowledge of the infiingement”. 
+
+The 2001  Copyright  Law  has  specifically incorporated  a  reference  to  criminal 
+sanctions.94  On 9 July  2001,  the  PRC State Council  issued  the  Regulations on the 
+Transferring of Cases Suspected of Criminal Involvement, calling for the transfer to the 
+
+93  Criminal Law  of the  People’s Republic  of  China, adopted  at  the  Second Session of the  Fifth  National 
+People’s Congress on 1 July 1979, and revised at the  Fifth Session  of the  Eighth  National People’s Congress on 
+14 March  1997. 
+
+94  The 2001 Copyright Law, supra, footnote 4, Article 47. 
+
+PRC NETWORK COPYRIGHT RULES 
+
+217 
+
+Public Security Bureaux for criminal investigation of administrative cases which might 
+reach the criminal prosecution standard. 
+
+Criminal sanctions have been used against copyright inhgers in the past.95 It is 
+likely that  the  Criminal Law  will also  be  used  in  serious  cases  of network  copyright 
+infiingement. 
+
+95  Xiao Wenhui, First Beijing Computer Crime Case Solved, Beijing Daily, 19 January 1999, at 1; Ni Shoumin, 
+Criminal  Punishment oflarge Fuctoryfr  Copyright  Infingement, People’s Court Journal, 29 December 1998, at  1; 
+Shao Zongwei, Copyright Pirate Sentenced to Seven Years in Prison, China Daily, 16 March 1999, at 3; Yu Nengxiang, 
+Dai Guanghao Sentenced to Seven Yean Imprisonmentfor Infingement,  Legal System Daily, 17 March 1999, at 2. 
+
+

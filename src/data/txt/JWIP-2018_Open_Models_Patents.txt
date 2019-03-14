@@ -1,0 +1,824 @@
+DOI: 10.1111/jwip.12089
+
+ORIGINAL ARTICLE
+
+Open models for patents: Giving patents a new
+lease on life?
+
+Natacha Estèves
+
+Sciences Po Law School, Paris, France
+
+Correspondence
+Natacha Estèves, PhD Candidate,
+Sciences Po Law School, Paris, France.
+Email: natachaesteves@gmail.com;
+natacha.esteves@sciencespo.fr
+
+This essay investigates the development of peculiar models
+in patents: “Open patent” licenses, patent pledges, defensive
+patent strategies and the like. Although using patents in an
+unconventional way, these models do not dispute the very
+existence of patents, but rather the way patents are being
+used. These models are not entirely new—some have been
+around for over a decade—but seem to find an echo with the
+growing criticisms of the “broken patent system”. These
+models might be able to go beyond the pro-patent/against
+patent debate, by reconciling exclusive/inclusive mecha-
+nisms and eventually reveal the strong plasticity of patents,
+offering patents a new lease on life.
+
+K E Y W O R D S
+open patents, patent licenses, patent pledges
+
+1 |
+
+INTRODUCTION
+
+“A country without a patent office and good patent laws [is] just a crab and [can’t] travel any way but sideways and
+backways” (Twain, 1889, p. 107). This is a modern 19th century view, expressed vividly by author Mark Twain, of the
+relationship between intellectual property (IP) and innovation. Contemplating the current trends in patent law, most
+countries have evidently made the choice not to be odd-walking crustaceans only moving sideways and backways, by
+adopting strong patent regimes. In line with the traditional incentive theory of IP, this on-going tendency suggests that
+patents are understood as the most viable option to foster innovation: a patent is an exclusive right granted to
+innovators incentivizing them to innovate. With the transformation of our economies into information-based ones
+driven by innovation, the task of expanding, strengthening and harmonizing patent law both at a procedural and
+substantial level is deemed crucial. The rationale is invariably the same: patents promote innovation.
+
+Yet, the classical understanding of patents as providing the necessity of having strong exclusive rights to
+encourage innovation is slightly tempered and disrupted by the recent development of peculiar models. “Open
+
+© 2017 The Authors. The Journal of World Intellectual Property © 2017 John Wiley & Sons Ltd
+
+2 | wileyonlinelibrary.com/journal/jwip
+
+J World Intellect Prop. 2018;21:2–14.
+
+ESTÈVES
+
+| 3
+
+patent” licenses, patent pledges, defensive patent strategies and the like are challenging the traditional way patents
+are used, hence chipping away at the exclusive—rights based approach. These models are manifold and grew out of
+different contexts. Some have already been implemented, some are still a work in progress. Nevertheless, they
+collectively have in common to show that patents can be used in unconventional ways and that the patent system can
+allow for a certain flexibility. These models do not question patents per se (i.e. a right to prohibit anyone from making
+and using the patented invention), but rather the way patents are being used as exclusionary tools. These models
+demonstrate that there are other ways and other approaches to what patents are for and how they should or could be
+used to spur innovation.
+
+1.1 | Walking forward
+
+This how the story goes. We understand knowledge and informational assets such as research and development,
+patents and trademarks, etc, as tantamount for driving innovation in an information-based economy (OECD, 2006).
+However, knowledge presents particular characteristics: it is non rival and non-excludable, and it is therefore difficult
+for the innovator to prevent free-riders from using its knowledge (Arrow, 1962; Posner, 2005). We then must make it
+possible for the innovator to exclude others from using this knowledge and prevent them from appropriating it.
+Consequently, the innovator is thus willing to innovate. Because knowledge is intangible it is difficult to protect it
+using physical barriers, therefore we erect a legal barrier: patents.
+
+A patent gives its holder an exclusive right that allows him or her to exclude others from making, using, offering for
+sale or selling his or her patented invention. A patent is a legal instrument that helps protect the exclusive right of the
+patentee, allowing infringement actions against free-riders. Hence, the patentee can control the use of his or her
+invention and draw revenue, etc. This exclusive right would be the only way to ensure the promotion of innovation.
+Patents are commonly thought to be strong tools for encouraging innovation. Hence, expanding and strengthening
+the patents appears to be a reasonable thing to do in response to the rise of the digital knowledge-based economy.
+Over the past two decades, patent regimes have therefore gone through changes aimed at reinforcing the exclusive
+rights granted to the patentees. Patents have gone “global” via the international harmonization; their coverage has
+been extended and their enforcement has been eased (Gieger, 2013; Martinez & Guellec, 2004, p. 128; Rémiche,
+2002, p. 95). This process of extension started during the nineteenth century and has shown few signs of slowing.1
+Progressively, crab-countries that did not have patent laws were required to adopt patent regimes and those who had
+inadequate regimes were compelled to align with newly emerging global standards (Vivant, 2003).2
+
+There is unlikely to be any escape for the remaining crabs (Rémiche, 2002, p. 92),3 the background music is
+unfailingly the same: patents foster innovation.4 The process of strengthening and harmonizing patent regimes is not
+only witnessed at a substantial level (standards required by international agreements) but also at a procedural level.
+The patent package set up by the EU is a good example in which the EU seeks to create uniform patent protection,
+cost-saving procedures and measures to enhance patent exploitation.5 Patents have not
+just expanded
+geographically, they have also been extended to new fields (computer programs, biotechnology and business
+methods in some countries) (Vivant, 2006, p. 24).6 Some fields that were not previously covered by patents now are
+(Cornish, 2004, p. 1).7
+
+Behind this trend of strengthening and expanding patents is the idea that exclusive rights are the sole way to
+protect and encourage innovation. The stronger the better! Yet, one can now hear a different tune arising from the
+development of new models that, alongside the traditional patents, challenge the strong exclusive right based
+approach.
+
+1.2 | Walking sideways
+
+“All our patents are belong to you”.8 Tesla Motors, surprised many by announcing that it “will not initiate patent
+lawsuits against anyone who ... wants to use ... [its] technology”. This pledge is only but one of many recent attempts to
+
+4 |
+
+ESTÈVES
+
+subvert existing legal models of intellectual property rights (IPRs) to challenge and resist the dominating discourse on
+innovation. The purpose of the pledge is to clear the path to the creation of compelling electric vehicles.9 In this case
+patents are considered as “land mines” inhibiting others. Patent might have been a good thing in the past but they now
+impede innovation, only profiting big corporations and lawyers and amount to “lottery tickets to a lawsuit”.10 Tesla is
+not the only company who has made such a promise, now termed “patent pledges” (Contreras, 2015a).11 Patent
+pledges are promises made by patent holders not to assert their rights or limit the enforcement of their rights. As
+Contreras (2015b) explains, it creates “a little-understood middle ground between the public domain and exclusive
+property rights” (p. 543) Habitually, these types of promises or pledges were made in the context of FRAND (Fair,
+Reasonable and Non-Discriminatory) commitments and Standard Setting Organizations (SDOs). Indeed, patent holder
+members of SDO are sometimes required to commit to license their patents under a FRAND license to manufacturers
+of standardized products.12 The purpose of the FRAND commitments is to avoid patent “hold up” phenomena and
+enable manufacturers to implement the essential patent covered by a FRAND license. These types of commitments or
+pledges have multiplied outside of this traditional framework (Contreras, Market Reliance, 2015).
+
+The Tesla pledge caused a big stir and raised many questions with respect to its very informal character and lack of
+legal certainty. Some have been concerned with the enforceability of such a promise (i.e. what happens if the pledgor
+goes back on his word).13 Initially, the condition of “use in good faith”14 imposed by Tesla did not participate in
+clarifying how this promise would be articulated, which generated various interpretations. What if Tesla suddenly
+decided to sue another company because the use was not “in good faith” as understood by Tesla? Can companies
+legally rely on the pledge?15
+
+Although Tesla's pledge is the most known, other companies, in the same vein, have made similar commitments
+justifying their choice with reference to the promotion of the Open Source Movement. Indeed, in its patent pledge,
+Google16 explains that it is committed to promoting innovation and the advancement of information technology.
+Google considers that Free and Open Source Software are crucial tools for fostering innovation. Google decided that
+it would allow the free use of certain of its patents in connection with Free or Open Source Software. It encompasses
+patents related to encryption technology, middleware and distributive storage management, etc.17 The promise is
+addressed to each person or entity developing, distributing or using Free or Open Source Software (pledge recipients):
+Google commits not to bring any lawsuit or legal proceedings against them.18
+
+As opposed to Tesla's pledge, Google has specified the legal nature of its commitment: the pledge is legally
+binding, irrevocable and enforceable against Google and entities controlled by Google, as well as their successors and
+assignees. Google requires any person or entity to whom it sells or transfers any of the Pledged Patents to agree, in
+writing, to abide by the Pledge and to place a similar requirement on any subsequent transferees to do the same.19
+IBM made a comparable commitment targeted at the Open Source Community.20 The justifications are analogous
+to Google's: promoting innovation and advancement of information technology. Indeed, IBM considers the Open
+Source community as the “forefront of innovation”. IBM pledges the free use of 500 of its US patents as well as all
+counterparts of these patents issued in other countries. Like Google, the pledge recipients are developers, users and
+distributors of Open Source software.21
+
+Alongside these pledges, other models have emerged. The Defensive Patent License (DPL) (Schultz & Urban,
+2012)22 for instance, is a sort “patent-non-aggression-pact”23 protecting innovators against patent bullying.24 The
+DPL is meant to create a set of viral,25 bilateral obligations preventing offensive patent litigation and promoting
+freedom to operate and innovate.
+
+The DPL provides every DPL user a perpetual, worldwide, royalty-free license to every other DPL user's entire
+current and future patent portfolio.26 In the event of a DPL user wanting to stop offering his or her patent, he or she
+has to provide a 6 month notice to other DPL users and future parties. The DPL user27 who wishes to leave must
+continue to grant and cannot revoke any licenses before the end of the notice period. Once this period has passed,
+other DPL users are free to revoke their licenses, but the DPL granted before remains in effect.
+
+According to its creators (Schultz & Urban, 2012), the DPL would make patent available neutrally and openly to
+anyone who agrees to use the DPL. Anyone part of the DPL network can make, use or sell any technology licensed
+
+ESTÈVES
+
+| 5
+
+under DPL. Every user can rely on the “defensiveness” (Rice, 2015, p. 748)28 of the patents covered by the DPL (since
+the licenses are irrevocable). As the network will grow, this benefit of defensiveness will be distributed across the
+network.29 Members of the DPL retain the possibility to assert their patents against non DPL members (non DPL
+members are not covered by the defensive mechanism) (Schultz & Urban, 2012). The main objective of the DPL is to
+limit patent threat and litigation, and this aspect can also be found in other models. For instance, the Open Innovation
+Network (OIN)30 is also conceived around the idea of using patents for defensive purposes. The OIN defines itself as a
+defensive patent pool, aiming at protecting Open Source developers.31
+
+The OIN is a shared defensive patent pool that acquires patents and licenses them royalty-free to entities that in
+exchange agree not to assert their own patents against Linux32 and Linux-related systems and applications. The
+beneficiaries (licensees) are any company or organization that agrees to refrain from using its patent portfolio against
+the Linux System. OIN provides participants with licenses to all patents owned by other OIN licensees related to the
+Linux system. The whole purpose is to protect the GNU/Linux ecosystem, creating a safe environment and limiting
+negative effects on patent challenges brought by companies who are not involved in open source.33 The larger the
+safe environment is, the better the protection. A strong and large patent portfolio would prevent attacks; thus, in
+order to protect the safe area, the OIN also acquires patents.34 The purpose of acquiring valuable patents (Linux-
+related or not) is to incentivize companies to join OIN (since they will receive the patents under a royalty-free
+license)35 and also to deter companies from threatening either OIN members and licensees or the Linux Community at
+large. If someone wants to bring a patent infringement claim against the OIN-enumerated Linux-related applications,
+OIN will act as a shield threatening to assert its patent portfolio.
+
+In a similar vein, the License-On-Transfer Agreement (LOT Agreement)36 proposes a protection mechanism
+against Patent Assertion Entities (PAEs). The LOT Agreement is defined as a standardized, networked, royalty-free
+LOT patent license agreement (Hayes & Schulman, 2014). Under the LOT Agreement, participants agree that when a
+patent is transferred (to a non-participant) it is automatically licensed to the other participants in the LOT network.
+The transfer of the patent to another entity than a LOT user is called “triggering event” which causes the license to be
+effective (i.e. the licensee can use, make, etc, the patented invention covered by the license). Hence, participants in the
+LOT network are protected from potential future attacks if the patent is later transferred to a PAE or Troll. According
+to the authors of this proposal (Hayes & Schulman, 2014) the LOT is aimed at reducing the availability of patents to
+PAE, so they cannot extract patent rent from LOT users, since users benefit from a license. The LOT mechanism would
+increase the freedom to operate since its members obtain a royalty-free license to the transferred patents and are
+protected against PAE. The DPL, LOT Agreement and OIN mainly aim at creating a safe environment for innovators
+relying on defensive mechanisms. Other models rely less on defensive aspects to create a safe environment for
+innovators.
+
+CAMBIA, for instance, aims at creating “new technologies, tools and paradigms to promote change and enable
+innovation”.37 The BiOS licenses38 of CAMBIA aim at “ensuring common access to the tools of innovation, to promote
+the development and improvement of these tools, and to make such developments and improvements freely
+accessible to both academic and commercial parties under substantially similar conditions”.39 The BiOS patent
+portfolio is available for any entity that will agree to maintain the technology in open access. Contrary to traditional
+patent licenses, BiOS licenses do not require the payment of royalties from the licensees. In order to access what
+CAMBIA calls the “protected commons”, where patent owners and licensees share their technologies,40 BiOS
+licensees have to agree to the BiOS-compliant agreement (i.e. sharing the improvements made on the initial
+technologies licensed by CAMBIA).41 The licensees agree not to prevent other licensees from using the technologies
+licensed by CAMBIA and the improvements made in developing different products, they may not assert IP rights over
+the technologies or improvements against any other entity that agreed to the terms of a BiOS-compliant agreement.
+All licensees agree to share improvements, making them available for use, although they may be patented, to all other
+licensees.42
+
+The models described above are diverse and do not display the same characteristics or goals (i.e. building a
+commons, defending against trolls and protecting a particular category, etc.). Yet, they each build upon the idea of
+
+6 |
+
+ESTÈVES
+
+inclusivity to provide a safe environment for innovators by giving them the freedom to operate within that
+environment. Another term other than patent pledges has been used to describe some of these models: “Open
+Patenting” (Maggiolino & Montagnani, 2011, 2013). Open patenting requires two elements: a patented invention and
+the will of the patentee to license it outside of a traditional license schemes (Maggiolino & Montagnani, 2011, p. 71).
+Licenses are essential in this process, since IP rights are exclusive and inclusive, a licensing mechanism allows for
+opening up use of the patented inventions. Open patenting is not be confused with the Open Innovation Systems
+which focus on aggregating and sharing scientific knowledge, but do not rely on contractual systems and do not
+license patented inventions (Maggiolino & Montagnani, 2013).43
+
+These models usually have in common an online structure where patentee and licensees interact with one
+another. However, they display differences in how they achieve the construction of safe environments. Some of these
+models aim at “spreading patent knowledge”, others aim at “pooling patent knowledge” (Maggiolino & Montagnani,
+2013, p. 794). The Yahoo! DomainKeys Patent License Agreement is an example of the first. The Yahoo!-patented
+software and hardware are available to anyone, the license is royalty-free, perpetual, worldwide, sub-licensable and
+non-exclusive and allows the licensee to make, use, sell, offer for sale Yahoo! designated patents. In exchange, the user
+agrees not to assert any patent infringement claim against Yahoo! and other DomainKey developers.44 As for the
+pooling feature one has to refer to the CAMBIA licenses. The pooling character requires the licensees of CAMBIA to
+“grant back”45 improvements made on the licensed patent (Maggiolino & Montagnani, 2013, p. 799).
+
+Some of these models aim at protecting the innovators (such as the DPL and its modified version) (Hayes &
+Schulman, 2013),46 others at spreading and sometimes both (these features are not necessarily exclusive from one
+another). In practice, models such as the DPL function on the basis of reciprocity. For instance, in the case of the DPL,
+patentees agree to cross license their patents under the same conditions as long as these conditions are complied
+with. On the other hand, models such as CAMBIA or the Yahoo! DomainKeys Patent License Agreement, function on a
+viral basis, establishing a safe environment that is expected to grow as its viral character operates (under such systems
+the user is obliged to maintain the same licensing conditions) (Maggiolino & Montagnani, 2013, p. 809).47 Thus, some
+models create a “fenced environment” (reciprocity mechanisms—inside vs. outside world) whereas others create an
+“unfenced environment” (viral clause mechanism spreading as it goes with subsequent users).48
+
+One could observe that these mechanisms are strongly inspired by the Open Source and Free Software
+Movement. Tesla, for instance is rather explicit about it: “[patents] have been removed, in the spirit of the open source
+movement”.49 Scholars have then asked the question “Could open source be applied to patented inventions”?
+(Boettinger & Burk, 2004; Boettinger & Wright, 2006).50 Transposing “open source” mechanisms to patented
+invention is not exactly a walk in a park. This question raises many issues starting with the terminology, since one could
+ask what “open” means in the context of patents. “Open” when used in the context of software, refers to the source
+code not being secret, however, a patent, by principle, is no secret since the deal is “you get an exclusive right but the
+patent is published so the public can benefit from it”. “Open” must therefore have a different meaning and different
+implications when applied to patented technologies. Applying open source-like licenses to technologies other than
+software requires adaptations to the complexities of certain technologies such as biotechnological inventions, while
+following the underlying logic of open source, namely favouring the rights of the users rather those of the IP holders
+(Weber, 2004, p. 1).
+
+The core principles and objectives of open source must therefore be identified. Hope (2009) lists three objectives
+of open source licensing: credible commitment, competition and optionally, copyleft. Credible commitment requires
+the technology to be protected by IPRs, so when distributed the license is legally enforceable. The technology must be
+“owned” by the licensor and not be placed in the public domain, or else there is nothing to license. Competition
+encompasses the freedom to use and commercialise the technology itself as well as any downstream innovations.
+Hence, a license that is given only for research purposes and excludes commercial uses would not be an open source
+license. In the case where the licensor imposes requirements on the licensee, then the license is not open source.
+Finally, Hope (2009) explains that in life science, copyleft is akin to grant-back and reach-through mechanisms51 also
+known as “passing it forward” (p. 183). In order for a license to be qualified as reciprocal or copyleft, the licensor must
+
+ESTÈVES
+
+| 7
+
+not retain rights to improvements to the original technology. Thus, it creates a club “atmosphere” in which licensors
+and licensees can share improvements enabling the initial licensed technology to provide commercial advantages to
+both licensor and licensees (Hope, 2008, p. 183).
+
+Similarly to Open Source and Free Software, these models leverage exclusive rights to include others
+(although with various degrees) instead of excluding them (Dussolier, 2006; Xifaras, 2010). Compared to the
+“no-crabs-strong-exclusive-rights” approach these models do walk sideways. But do they actually walk backways?
+
+1.3 | Walking sideways, walking forward?
+
+Traditionally, one would seek to expand one's exclusive rights, following the idea that more rights are better. These
+models however propose more inclusive mechanisms: patents can be used to include instead of exclude (Dussolier,
+2013; Van Overwalle, 2015).52 These models emerge at a time when patents are being subject to greater amount of
+public criticism and scrutiny. Indeed, whether we are talking about the phenomena of anti-commons (Eisenberg &
+Heller, 1998),53 the phenomenon of patents trolls, or more generally about the “broken” patent system, observers
+suggest that we are far from what patents were initially designed for, namely the progress of Science and in the
+interest of the public (Boldrine & Levine, 2013; Lemley & Burk, 2009).54
+
+The models described above aim at creating safe environments for innovators by enhancing the freedom to
+operate for the latter. They insist on the rights of the users and leave aside the strong exclusive character traditionally
+attached to patents, by not making use of the exclusive aspects of patents, at least not in the traditional sense. Patents
+become structuring tools for constructing collaboration between actors of innovation. Patents are disarmed of their
+“weapon-like” aspects and disarmed of their function of exclusion. They neutralize and harness the exclusive function
+to establish inclusivity. By creating safe environments for innovators and giving them freedom to operate, these
+models whatever form or methodology they might take may solve certain issues innovation has been facing. Indeed,
+patent trolls and the anti-common phenomenon have been considered as impediments to the innovation process.
+These models now cohabit (or will be cohabiting) with traditional exclusionary patents, as an alternative, not as a
+replacement, and their impact is yet to be measured: what about the incentives? what about economic viability? what
+about anti-competitive aspects? (Van Overwalle, 2015).55
+
+While these models may (or may not) be one of the many solutions to an overworked patent system, they
+most certainly change the way we understand and use patents. The economic logic and conventional views are
+tempered by the development of these models contrasting with what has been called by Lemley (2015) the “faith
+based IP system” advocating for strong exclusive rights. According to Lemley the “faith-based IP system” is the
+idea that, instead of relying on evidence and questioning strong IP rights, one considers IP as a moral end in itself.
+The available evidence on IP is less conclusive and less clear-cut than “IP promotes innovation” or “IP impedes
+innovation” (Ouellette, 2015).56 Yet,
+instead of relying on evidence and if necessary challenging the strong
+exclusive right based system, one “believes” in IP law. The models described in this essay permit one to go beyond
+the common “anti-patent or pro-patent” discourse (Morin, Daley, & Gold, 2011), as alternatives, as what Contreras
+(2015a, 2015b) has described as a “little-understood middle ground between the public domain and exclusive
+property rights” (p. 543). By reminding us that a patent is not a monolith, these models are in some way
+deconstructing the unequivocal perception we have about patents, patents are neither evil nor good, but are tools
+that can either be used to exclude (traditional exclusive right—based approach) or include. The various
+methodologies employed by the new models confirm the flexibility of the usage of patents as they can be used for
+defense, for spreading knowledge or both, etc.
+
+Patents have been presented as instruments fostering innovation, yet we might have forgotten what “instrument”
+might actually mean and we might have not explored all the potential of patents. One has to remember that patents,
+even in the traditional system (strong exclusive rights), are strategic tools structuring collaboration and promoting
+diffusion among the actors of innovation (Pénin, 2011). These models confirm the use of patents as instruments for
+collaboration but take this aspect to another level by chipping away at exclusive rights.57 Exclusionary aspects of
+
+8 |
+
+ESTÈVES
+
+patents might have been promoted at the expenses of their inclusive aspects, thus these models encourage us to
+reconsider the instrumental aspect of patents by acknowledging their aptitude to also act as inclusive tools.
+
+Although some of these models remain to be thoroughly analysed to appreciate their effects on innovation, some
+propositions have been made to encourage the use of patents as inclusive tools. For instance, Chien (2015) elaborates
+on creating a “open” or “defensive-only” option, in some ways similar to a “license of rights” allowing patentees to
+obtain a discount on maintenance fees in exchange for pledging to enforce their patents for defensive purposes only.
+Parchomovsky and Mattioli (2011) have proposed the creation of a “quasi-patent” that would increase the use of
+invention by preventing inventors from enforcing their rights against non direct business competitors. As opposed to a
+traditional patent which grant the patent holder an exclusive right against everyone, a quasi-patent” would only be
+enforceable against direct competitors, other entities will be free to use the quasi-patent”.58 As their authors point
+out, a “quasi-patent” might encourage the participation in networks such as the OIN59 by allowing OIN participants
+(licensees and licensors) to protect themselves, within the very OIN network, against competitors.60
+
+The debate seems to have polarized in part around two opposing sides: those defending strong property rights
+and those defending access to knowledge (Ouellette, 2014, p. 28). This essay is not about the evidence issue in patent
+law and does not claim to provide any answer to such a complex, yet fascinating issue, nor is it about deciding between
+“faithful” and “unfaithful”—non-consequential justifications versus consequential justifications of IP (Burk, 2016;
+Lemley, 2015)—but it does use the on-going opposition as an illustration. This essay proposed to be optimistic about
+reducing the polarizing effects of pro-patents/against-patents and about what patents can still achieve when used in a
+different manner and tried to show that new models can help overcoming oppositions to move past it. The described
+models acknowledge both sides of the debate—use of an exclusive right to foster access to patented technologies—
+breaking the binary distinction and reconciling exclusion/inclusion just as the open source and free software
+movement did in the copyright realm. These models might also solve the issue of uniformity and enable fine tuning to
+address issues in different technology sectors.61 Hence, rethinking patents as inclusive instruments might
+reinvigorate the latter, which seem to be at the end of their rope. Whether successful or not, these “open” models may
+have the merit of offering a different perception of patents by revealing their strong plasticity and by demonstrating
+that possibilities, on how patents can be used, may not have been exhausted yet. The traditional “no-crabs-strong-
+exclusive-rights” is not the only option. By proposing an alternative way of using patents these models overcome the
+confrontation between those in favor of a strong patent system relying on exclusivity and those in favor of loosening
+it, and consequently may just give patents a new lease on life.
+
+Like crabs, these models are odd-walking compared to more traditional uses of patents where exclusivity is
+
+thought to be the cornerstone. Yet, they may be the ones walking forward in the future.
+
+ACKNOWLEDGMENTS
+
+I would like to thank Kris Erickson, Florence Thépot, Nofar Sheffi, Selva Kaynak Koc and Moritz Mosenhauer for their
+very helpful comments and feedbacks on the earlier versions of the manuscript. Any errors are all mine.
+
+ABOUT THE AUTHOR
+
+Natacha Estèves, PhD Candidate at Sciences Po Law School, Paris; email: natachaesteves@gmail.com;
+natacha.esteves@sciencespo.fr
+
+ENDNOTES
+
+1 For a brief history of universalization of IP see Drahos (1999).
+2 Vivant (2003) talks about a phenomenon of “Planetarization”.
+
+ESTÈVES
+
+| 9
+
+3 See also the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS) Article 1 (Nature and Scope),
+
+Article 27 (Standards) and Article 41 (Enforcement).
+
+4 TRIPS Article 7: “The protection and enforcement of intellectual property rights should contribute to the promotion of
+technological innovation and to the transfer and dissemination of technology, to the mutual advantage of producers and
+users of technological knowledge and in a manner conducive to social and economic welfare, and to a balance of rights and
+obligations”. See also Recitals 1&2 of Directive 2004/48/EC of 29 April 2004 on the enforcement of IPRs “The protection of
+intellectual property is important not only for promoting innovation and creativity, but also for developing employment and
+improving competitiveness . . . The protection of intellectual property should allow the inventor or creator to derive a
+legitimate profit from his or her invention or creation”.
+
+5 See EU Commission “In 2012, EU countries and the European Parliament agreed on the patent package, a legislative
+initiative consisting of two regulations and an international agreement that lay the ground for the creation of unitary patent
+protection in the EU. [. . .] Unitary patent protection will make the existing European system simpler and less expensive for
+inventors.
+It will end complex validation requirements and drastically limit expensive translation requirements in
+participating countries. Consequently, it is expected to stimulate research, development and investment in innovation,
+helping to boost growth in the EU”, 2016, http://ec.europa.eu/growth/industry/intellectual-property/patents/unitary-
+patent/index_en.htm (accessed 26 June 2017).
+
+6 Vivant (2006) talks about a “A patent that applies to all objects”.
+7 Cornish (2004) explains that: “IPRs appear to be spreading like a rash, particularly across new technologies and threatening
+
+to leave few patches of unblemished skin”.
+
+8 The Tesla Pledge (2014) on Tesla's Blog, at https://www.teslamotors.com/blog/all-our-patent-are-belong-you
+9 idem. Elon Musk (Tesla CEO) explains that electric cars represent only 1% total car sales. Tesla found itself unable to answer
+the demand of electric vehicles due to the carbon crisis. Renouncing asserting patent right will enable a rapidly evolving
+technology platform and the production of electric vehicles.
+
+10 See the Tesla pledge.
+11 Contreras (2015a, 2015b) classifies pledges into unilateral and coordinated pledges: Generally speaking, coordinated
+pledges are made by members of a defined group, according to some predetermined form or formula, with respect to a
+defined technology or set of patents. Unilateral pledges, on the other hand, are one-off commitments made independently
+and voluntarily by patent holders”. For a list of pledges see http://www.pijip.org/non-sdo-patent-commitments/ (accessed
+26 June 2017).
+
+12 For instance see the IPR policy of ETSI (European Telecommunications Standards Institute) ETSI Rules of Procedure, Annex 6,
+Article 6. Available at http://www.etsi.org/about/how-we-work/intellectual-property-rights-iprs (accessed 26 June 2017).
+13 Parties using the pledged patents could rely for instance on the estoppel doctrine or implied licenses. See for instance, Rice
+
+(2015).
+
+14 The good faith condition has since then been specified: “A party is ‘acting in good faith’ for so long as such party and its
+related or affiliated companies have not: asserted, helped others assert or had a financial stake in any assertion of (i) any
+patent or other IPR against Tesla or (ii) any patent right against a third party for its use of technologies relating to electric
+vehicles or related equipment; challenged, helped others challenge, or had a financial stake in any challenge to any Tesla
+patent, or marketed or sold any knock-off product (e.g., a product created by imitating or copying the design or appearance
+of a Tesla product or which suggests an association with or endorsement by Tesla) or provided any material assistance to
+another party doing so”. See https://www.teslamotors.com/en_GB/about/legal#patent-pledge, (accessed 26 June 2017).
+15 In an interview published in 2015 Musk's insisted on the informal aspect of the pledge. Musk: “We actually don’t require any
+formal discussions. So they can just go ahead and use them”. Reporter: “Is there a licensing process?” Musk: “No. You just
+use them. Which I think is better because then we don’t need to get into any kind of discussions or whatever. So we don’t
+know. I think you’ll see it in the cars that come out, should they choose to use them”. See the interview at https://www.
+techdirt.com/articles/20150217/06182930052/elon-musk-clarifies-that-teslas-patents-really-are-free-investor-
+absolutely-freaks-out.shtml, (accessed 26 June 2017).
+
+16 The Google patent pledge is available at http://www.google.com/patents/opnpledge/pledge/ (accessed 26 June 2017).
+17 For a list of pledged patents see http://www.google.com/patents/opnpledge/patents/ (accessed 26 June 2017).
+18 The Google patent pledge is available at http://www.google.com/patents/opnpledge/pledge/ (accessed 26 June 2017),
+“Google promises to each person or entity that develops, distributes or uses Free or Open Source Software that Google will
+not bring a lawsuit or other legal proceeding against a Pledge Recipient for patent infringement under any Pledged Patents
+based on the Pledge Recipients (i) development, manufacture, use, sale, offer for sale,
+license, exportation,
+importation or distribution of any Free or Open Source Software, or (ii) internal-only use of Free or Open Source Software,
+
+lease,
+
+10 |
+
+ESTÈVES
+
+either as obtained by Pledge Recipient or as modified by Pledge Recipient, in standalone form or combined with hardware
+or with any other software (‘Internal-Only Use’)”.
+
+19 idem. “However, the pledge is made under a condition: the pledge recipients and its affiliates must not assert or profit from
+the assertion of patents against Google, its affiliates or its products or services. Google reserves itself the right to terminate
+the pledge if it deems necessary to protect itself (Defensive Termination). This will concern any Pledge Recipient (or
+affiliate) who files a lawsuit or other legal proceeding for patent infringement or who has a direct financial interest in such
+lawsuit or other legal proceeding against Google”.
+
+20 “IBM hereby commits not to assert any of the 500 US patents listed above, as well as all counterparts of these patents
+issued in other countries against the development, use or distribution of Open Source Software”, 2005. The IBM Pledge is
+available at http://www.ibm.com/ibm/licensing/patents/pledgedpatents.pdf. (Accessed 26 June 2017).
+
+21 IBM defines OSS as “any computer software program whose source code is published and available for inspection and use
+by anyone, and is made available under a license agreement that permits recipients to copy, modify and distribute the
+program’ s source code without payment of fees or royalties. All licenses certified by opensource.org and listed on their
+website as of 01/11/2005 are Open Source Software licenses for the purpose of this pledge”.
+
+22 The DPL is available at http://www.defensivepatentlicense.com. (Accessed 26 June 2017).
+23 The DPL is presented as “a new legal mechanism to protect innovators by networking patents into powerful, mutually-
+beneficial legal shields that are 100% committed to defending innovation, no bullies, trolls. The DPL is “a standardized open
+patent license designed to encourage the creation of a broad, decentralized network of open innovation communities that
+both patent their innovation with a commitment to defensive purposes and license them on a royalty free basis to any
+others who will do the same”. See Schultz and Urban (2012), p. 38.
+
+24 For a case study and a definition of patent bullying see Sichelman (2014). Patent bullying differs from the so-called patent
+trolls which sell no product or services and do not engage in any R&D process. Patent bullies are well-established operating
+companies.
+
+25 Traditionally the term “viral” is used for Free Software and Open Source licenses. A viral clause guarantees that any
+derivative work will be licensed under the same conditions. The user has to grant the same freedom he initially received to
+any subsequent users.
+
+26 Article 2 DPL 1.0 Grant: “Licensor hereby grants and agrees to grant to such DPL User a worldwide, royalty-free, no-charge,
+non-exclusive, irrevocable [..] license, perpetual for the term of the relevant Licensed Patents, to make, have made, use, sell,
+offer for sale, import, and distribute Licensed Products and Services that would otherwise infringe any claim of Licensed
+Patents. A Licensees sale of Licensed Products and Services pursuant to this agreement exhausts the Licensors ability to
+assert infringement by a downstream purchaser or user of the Licensed Products or Services”, Article 1.16 DPL 1.0 [..] “the
+Licensors commitment to offer a license to its Patents under the DPL, or, if such Licensor has no Patents, the commitment
+to offer a license to any Patents it may obtain in the future under the DPL. DPL users, licensees and licensors refrain from
+any offensive patent infringement action against one another. In case of an offensive claim by a DPL user against its licensor
+or any other DPL user, the licensor can revoke its license and other DPL users may suspend their license as well to the DPL
+user asserting its patents offensively”, Article 3 DPL 1.0 [..] “Licensor reserves the right to revoke and/or terminate this
+License with respect to a particular Licensee if: Licensee makes any Infringement Claim, not including Defensive Patent
+Claims, against a DPL User; or Licensee grants an exclusive license, with the right to sue, or assigns or transfers a Patent to
+an entity or individual other than a DPL User without conditioning the transfer on the transferee continuing to abide by the
+terms of this License”.
+
+27 The DPL user is to be understood as the individual or entity that announced on the DPL website his or her wish to grant a
+
+DPL license. See https://defensivepatentlicense.org/license/. (Accessed on 26 June 2017).
+
+28 In a defensive strategy, patents are used by a company with the intention of defending itself against patent infringement
+
+lawsuit, allowing the company to countersue. See Rice (2015).
+
+29 As of now there are only three users of the DPL. See https://defensivepatentlicense.org/users-and-patents/ (accessed 26
+
+June 2017).
+
+30 See http://www.openinventionnetwork.com (accessed 26 June 2017).
+31 Launched in 2005, the OIN has strong industry support with backing from Google, IBM, NEC, Philips, Red Hat, Sony and
+SUSE (a business unit of Novell). “Any company, project or developer that is working on Linux, GNU, Android or any other
+Linux-related software is welcome to join OIN, free of charge or royalties.Open Invention Network was created to ensure a
+level playing field for Linux, safeguarding developers, distributors and users from organizations that would leverage
+intellectual property to hinder its growth and innovation. We do this by acquiring and sharing intellectual property to
+promote a collaborative Linux ecosystem. We do this by providing a royalty-free license to OINs strategic intellectual
+property portfolio and cross licensing Linux System patents between OIN community members”.
+
+ESTÈVES
+
+| 11
+
+32 Linux is an operating system released under the General Public License (GPL), a free software license. See https://www.
+
+gnu.org/licenses/license-list.html (accessed 26 June 2017).
+
+33 See http://www.openinventionnetwork.com/about-us/
+34 These acquired patents are not necessarily Linux related. OIN has acquired various US Patents. For a list of the OIN patents,
+
+see at https://www.openinventionnetwork.com/about-us/us-patents-owned-by-oin/ (accessed 26 June 2017).
+
+35 OIN license article 1.1: “OIN, grants to You and Your Subsidiaries a royalty-free, worldwide, nonexclusive,
+non- transferable license under OIN Patents to make, have made, use, import, and Distribute any products or
+services. In addition to the foregoing and without limitation thereof, with respect only to the Linux System, the
+license granted herein includes the right to engage in activities that in the absence of this Agreement would
+constitute inducement to infringe or contributory infringement (or infringement under any other analogs legal
+doctrine in the applicable jurisdiction)”.
+
+36 See http://lotnet.com (accessed 26 June 2017).
+37 CAMBIA is a non-profit research Institute based in Canberra, Australia, established in 1991 by Richard Jefferson. See at
+http://www.cambia.org/daisy/cambia/home.html (accessed 26 June 2017). It is to be noted that the initiative of CAMBIA
+has not been completely successful. See S. Finegold, “The Hard Path to Open Source Bio-innovation”, available at https://
+scienceprogress.org/2012/08/the-hard-path-to-open-source-bioinnovation/
+(accessed 26 June 2017). However,
+CAMBIA offers a good exemple of using patents in a different way as we will see further in this essay.
+
+38 BiOS means Biological Innovation for Open Society. See http://www.bios.net/daisy/bios/home.html
+39 See recitals of the The CAMBIA “Biological Open Source” (BiOS) License for Plant Enabling TechnologiesVersion 1.5
+
+available at http://www.bios.net/daisy/bios/mta/agreement-patented.html (accessed 26 June 2017).
+
+40 “The protected commons includes both patent owners and licensee users of the technology in the rights to share
+improvements and the capability to use them, whether these improvements are patented or not”. See at http://www.bios.
+net/daisy/bios/404.html (accessed 26 June 2017).
+
+41 CAMBIA offers BiOS licenses for Plant Molecular Enabling Technology. See http://www.bios.net/daisy/bios/mta/
+
+agreement-patented.html
+
+42 See The CAMBIA “Biological Open Source” (BiOS) License for Plant Enabling Technologies Version 1.5, Article 2 “License
+
+Grant”, available at: http://www.bios.net/daisy/bios/mta/agreement-patented.html
+
+43 Maggiolino and Montagnani (2013) exclude from open patenting initiatives such as Public Patent Foundation, Tropical
+
+Disease Initiative, Patent commons, Eco Patents and the HapMap project.
+
+44 Yahoo! DomainKeys Patent License Agreement v.1.2, available at http://domainkeys.sourceforge.net/license/
+
+patentlicense1-2.html (accessed 26 June 2017).
+
+45 A grant-back mechanism included in a license requires the licensee to grant the licensor the right to use the improvements
+
+made when using the licensed technology.
+
+46 Hayes and Schulman (2013) have proposed a Modified DPL (MDPL) where they address issues with regard to certain
+provisions of the original DPL such as the withdrawal/revocation provisions. They refer to the revocation scheme in the
+original DPL as a “one-way tunnel” that prevents the removal of patents that have been licensed under the DPL. To solve
+this issue, which might concern companies which consider using the DPL but want to keep a “way out”, they propose that
+when a member withdraws from the DPL, that member's license is automatically revoked inbound and outbound. The
+previously issued license does not remain in effect (non-sticky mechanism). Thus, a company with a big patent portfolio
+would have an incentive to join without fearing leaving their patents “behind”.
+
+47 Maggiolino and Montagnani (2013), p. 809: “This diversity of purposes is evidence that while theoretical models apply to
+current or prospective patent portfolio holders that, on the basis of reciprocity, explicitly agree to enter into the safe
+environment, empirical experiences tend to involve any innovator who is interested in the project and shares its purpose.
+An innovator who, by the mere use of the patent conferred into the safe environment, becomes an implicit licensee. This
+innovator is then obliged, on a viral basis, to maintain the same licensing conditions for the products developed by using that
+license”.
+
+48 idem. pp. 811–814. In their article Maggiolino and Montagnani (2013) propose to eliminate the distinction between
+“fenced” and “unfenced” scheme established by the theoretical and empirical models. They propose a license that combines
+a high degree of standardization, targeted at any inventor without any regard to his/her capacities to contribute patents,
+and the possibility of tailoring some licenses conditions. Thus, such a license would feature mandatory (core) provisions
+guaranteeing the spread of knowledge and optional provisions taking into account the specificities of certain sectors,
+individuals needs and commercial use.
+
+49 See the Tesla pledge at https://www.tesla.com/blog/all-our-patent-are-belong-you
+
+12 |
+
+ESTÈVES
+
+50 Particularly in the field of biotechnologies. See Boettinger and Burk (2004), pp. 221–231. And also Boettinger and Wright
+
+(2006), pp. 43–55.
+
+51 A reach through royalty provision allows the licensor to receive payments on the use or the sale of follow-on innovations.
+For instance, in the case of research tools, it allows the research tool developer to gain royalties on the sale of products
+developed using their research tool (even if the patented invention is not incorporated in the final product).
+
+52 Following the models described in this essay and building on previous initiatives, Van Overwalle (2015) proposes an
+“inclusive patent” regime that will co-exist with the traditional exclusive right—based patents. The “inclusive patent” will
+offer a right to include, instead of a right to exclude, enabling the owner to include others. The latter will be able to control
+licensing conditions and ensure the compliance with open source requirements. This regime would be developed as a semi-
+codified regime (in this case the patent entitlement is provided by law) and as the open source copyleft type license (built by
+private parties).
+
+53 Eisenberg and Heller (1998), pp. 698–701. The anti-commons phenomenon is the mirror image of the “Tragedy of the
+Commons” according to which people will overuse shared resources. In an anti-common situation, people underuse scare
+resources because there are too many owners blocking each other. This phenomenon would be particularly significant in
+biomedical research where upstream research as well as downstream products development are affected by the existence
+of concurrent fragments of IP rights. However, this phenomenon has been nuanced as to the negative impact it could have,
+and although the conditions are met to have an anti-common situation it might not be such a significant impediment in
+biomedical innovation. See Walsh, Arora, and Cohen (2003).
+
+54 See the numerous publications on the “broken” patent system notably Lemley and Burk (2009). Boldrin and Levine (2013).
+See also Electronic Frontier Foundation, “EFF Outlines Plan to Fix the Broken Patent System”, 2015, available at https://
+www.eff.org/press/releases/eff-outlines-plan-fix-broken-patent-system (accessed 26 June 2017); The Economist, “Time
+to fix patents”, at http://www.economist.com/news/leaders/21660522-ideas-fuel-economy-todays-patent-systems-
+are-rotten-way-rewarding-them-time-fix (accessed 26 June 2017).
+
+55 For the normative aspects and the impacts of such models see Van Overwalle (2015), pp. 41–46.
+56 L. L. Ouellette, “Patent Experimentalism”, Virginia Law Review, Vol. 101, p. 65, 2015, pp. 77–87. Ouellette addresses the
+issues of empirical methodology in patent law and advocates for randomized policy experiment to avoid bias and better
+inform policy makers.
+
+57 In an Open Innovation “ à ła Chesbrough”, this exclusive aspect of patents is kept and the use of patents is quite
+
+traditional,“open” being understood as organizational. See Pénin (2013), pp. 133–148.
+
+58 G. Parchomovsky, M. Mattioli, “Partial Patents”, 2011, p. 226. The authors also propose the creation of a “semi- patent” that
+would require disclosure of all research results in order to obtain a patent. This would require a stricter requirements for
+disclosure of information to enable the sharing of information to encourage information. p. 209.
+
+59 Parchomovsky and Mattioli (2011), pp. 239–240.
+60 Indeed, one has to remember that the OIN only covers Linux related patents which means that members of the network can
+still be competitors on other types of patents. It acts as a second layer of protection on top of the protection originally
+provided by the OIN and its licenses.
+
+61 Each sector might require a different approach in how patents are used, for instance a sector particularly exposed to patent
+bullying would benefit from a defensive mechanism, whereas some other sectors could benefit more from a “spreading”
+mechanism in a fast paced technological environment for instance.
+
+ORCID
+
+Natacha Estèves
+
+http://orcid.org/0000-0001-6298-340X
+
+REFERENCES
+
+Arrow K.J. (1962). Economic Welfare and the Allocation of Resources for Invention, in National Bureau of Economic Research.
+Boettinger, S., & Burk, D. L. (2004). Open patenting. Journal of International Biotechnology Law, 1, 221–231.
+Boettinger, S., & Wright, B.D. (2006). Open Source in Biotechnology: Open Questions Innovations Case Discussion: CAMBIA-
+
+BiOS, Innovations: Technology, Governance, Globalization 1, no. 4, pp. 43–55.
+
+Boldrine, M., & Levine, D. K. (2013). The case against patents. Journal of Economic Perspective, 27(1), 3–22.
+
+ESTÈVES
+
+| 13
+
+Burk, D. L. (2016). On the Sociology of Patenting, Minn. Law Rev., forthcoming; UC Irvine School of Law Research Paper No.
+
+2016–15.
+
+Chien, C. (2015). Exclusionary and Diffusionary Levers in Patent Law, Santa Clara Law Digital Commons. Available at: http://
+
+digitalcommons.law.scu.edu/facpubs/882. (Accessed on June 2017).
+
+Contreras J. L. (2015a). Patent Pledges, 47(3) Arizona State Law Journal 543; University of Utah College of Law Research Paper
+
+No. 93. Available at SSRN: https://ssrn.com/abstract=2525947. (Accessed on June 2017).
+
+Contreras J. L. (2015). ‘A Market Reliance Theory for FRAND Commitments and Other Patent Pledges’, Utah L. Rev. 2,
+American University, WCL Research Paper No. 2014–26. Available at SSRN: https://ssrn.com/abstract=2309023.
+(Accessed on June 2017)
+
+Cornish, W. (2004). Intellectual property. Omnipresent, distracting, irrelevant? Clarendon law lectures. Oxford: Oxford University
+
+Press.
+
+Drahos P. (1999). The Universality of Intellectual Property Rights: Origins and Development in Intellectual Property and
+
+Human Rights, World Intellectual Property Organization, Geneva, 13–41.
+
+Dussolier, S. (2006). Sharing access to intellectual property through private ordering. Chicago-Kent Law Review, 82, 1391.
+Dussolier, S. (2013). The commons as a reverse intellectual property: From exclusivity to inclusivity. Concepts of property in
+intellectual property law, cambridge intellectual property and information law (No. 21). Cambridge: Cambridge University
+Press, (pp. 258–281).
+
+Eisenberg, R. S., & Heller, M. A. (1998). Can patents deter innovation? The anticommons in biomedical research. Science New
+
+Series, 280(5364), 698–701.
+
+Gieger, C. (2013). The Social Function of Intellectual Property Rights, or How Ethics can Influence the Shape and Use of IP Law
+in Graeme B. Dinwoodie, G. B., Intellectual Property Law: Methods and Perspectives, Cheltenham, UK/Northampton, MA,
+Edward Elgar.
+
+Hayes, D. L., & Schulman, E.C. (2013). ‘A Response to a Proposal for a Defensive Patent License (DPL)’, Available at SSRN:
+
+https://ssrn.com/abstract=2054314. (Accessed June 2017)
+
+Hayes, D. L., & Schulman, E.C. (2014). An Updated Proposal for a License on Transfer (LOT) Agreement. Available at SSRN:
+
+https://ssrn.com/abstract=2463660. (Accessed on June 2017).
+
+Hope, J. (2008). Biobazaar. Cambridge, MA: Harvard University Press.
+Hope, J. (2009). Open source genetics, conceptual framework. In G. Van Overwalle, (Ed.), Gene patents and collaborative
+licensing models, patent pools, clearinghouses, open source models, and liability regimes. Cambridge: Cambridge University
+Press.
+
+Lemley, M. A., & Burk, D. L. (2009). The patent crisis and how the courts can solve it. Chicago, IL: University Chicago Press.
+Lemley, M. A. (2015). Faith-Based intellectual property. 62 UCLA Law Review, 1328, Stanford Public Law Working Paper no
+
+2587297.
+
+Maggiolino, M., & Montagnani, M. L. (2011). From Open Source Software to Open Patenting − What's New in the Real of
+
+Openness? 42 IIC International Review of Intellectual Property and Competition Law 804–832.
+
+Maggiolino, M., & Montagnani, M. L. (2013). Standardized terms and conditions for open patenting. Minnesota Journal of Law,
+
+Science & Technology, 14, 785–816.
+
+Martinez, C., & Guellec, D. (2004). ‘Overview of Recent Changes and Comparisons of Patent Regimes in the United States,
+Japan and Europe’, in Patent, Innovation and Economic Performance, OECD Conference Proceeding, Chapter 7, p. 128.
+Morin, F., Daley, K., & Gold, E.R. (2011). Having Faith in IP: Empirical Evidence of IP Conversions. Available at SSRN: http://
+
+ssrn.com/abstract=1950541. (Accessed on June 2017).
+
+OECD Report. (2006).
+
+‘Actifs Immatériels et Création de Valeur’, Réunion du Conseil OCDE au Niveau Ministériel, 2006,
+retrieved from OCDE website: Available at http://www.oecd.org/fr/sti/inno/actifsintellectuelsetcreationdevaleur.htm.
+(Accessed on May 2017).
+
+Ouellette, L. L. (2014). Cultural cognition of patents. IP Theory, 4, 28–36.
+Ouellette, L. L. (2015). Patent experimentalism. Virginia Law Review, 101, 65–128.
+Parchomovsky, G., & Mattioli, M. (2011). Partial Patents, Faculty Scholarship. 541. pp 239–240. Available at: http://
+
+scholarship.law.upenn.edu/faculty_scholarship/541
+
+Pénin, J. (2011). Le brevet comme Instrument de Coordination de l’Innovation Ouverte’ in Corbel, P., & Le Bas, C., Les Nouvelles
+
+Fonctions du Brevet, Paris, Economica.
+
+Pénin, J. (2013). Are You Open, An Investigation of the Concept of Openness for Knowledge and Innovation, Revue
+
+Economique, 2013/1 Vol. 64.
+
+Posner, R. A. (2005). Intellectual property: The law and economics approach. Journal of Economic Perspectives, 19(2), 57–73.
+Rémiche, B. (2002). Révolution Technologique, Mondialisation et Droit des Brevets, Revue internationale de droit économique
+
+(t. XVI, 1).
+
+Rice, J. M. (2015). The defensive patent playbook. Berkeley Technology Law Journal, 30(4), 726–776.
+
+14 |
+
+ESTÈVES
+
+Schultz, J., & Urban, J. (2012). Protecting open innovation: The defensive patent license as a new approach to patent threats,
+
+transaction costs, and tactical disarmament. Harvard Journal of Law and Technology, 26(1), 2–67.
+
+Sichelman, T. (2014). The vonage trilogy: A case study in patent bullying. Notre Dame Law Review, 90(2), 543–778.
+Twain, M. (1889). A connecticut Yankee in King Arthur's court. N.Y: Charles L. Webster & Company.
+Van Overwalle, G. (2015). Inventing inclusive patent: From old to new open innovation. In P. Drahos, G. Ghidini, & H. Ullrich,
+
+(Eds.), Kritika: Essays on intellectual property. Cheltenham, UK; Northampton, MA, USA: Edward Elgar, Vol. 1.
+
+Vivant, M. (2003). Savoir et Avoir, Arch. Phil. droit 47, pp. 333–353.
+Vivant, M. (2006). Le Systeme des Brevets en Question, in Remiche, B., (dir) Brevet, Innovation et Intérêt Général. Le Brevet:
+
+pourquoi et pour faire quoi? Bruxelles, Larcier, pp. 20–24.
+
+Walsh, J. P., Arora, A., & Cohen, M. (2003). Research tool patenting and licensing and biomedical innovation. In W. M. Cohen, &
+
+S. A. Merrill, (Eds.), Patents in the knowledge-based economy. National Academies Press.
+
+Weber, S. (2004). The Success of open source. Cambridge, MA: Harvard University Press.
+Xifaras, M. (2010). Copyleft and the theory of property, Multitudes 2 No 41. Available at: http://www.multitudes.net/
+
+le-copyleft-et-la-theorie-de-la/. (Accessed on June 2017).
+
+How to cite this article: Estèves N. Open models for patents: Giving patents a new lease on life? J World
+Intellect Prop. 2018;21:2–14. https://doi.org/10.1111/jwip.12089
+
+

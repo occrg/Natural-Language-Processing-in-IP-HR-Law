@@ -1,0 +1,1667 @@
+830
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 11
+
+Antitrust and IP overlap: patent pooling
+in the United States and the Russian Federation
+Elza Dauletshina*
+
+Antitrust and Intellectual Property law are the fastest-devel-
+oping legal areas not only in the United States but all over
+the world, including in the Russian Federation; and the way
+these two areas overlap is much discussed in the legal com-
+munity.1 One of the most difﬁcult challenges that the
+courts, antitrust agencies and legal scholars face is ﬁnding an
+optimal balance between antitrust restrictions on monopol-
+istic activities and the substantial protection of IP rights.
+
+Although both antitrust law and IP law are intended to
+pursue the same goals – to promote the progress of science
+and the useful arts,2 (as well as national welfare, efﬁcient
+resource allocation and to support scientiﬁc and techno-
+logical development), these goals are reached through dif-
+ferent methodologies. While antitrust laws are meant to
+prevent the monopolization of the market, IP laws grant
+exclusive rights to IP owners, thus de facto granting them a
+monopoly. Such a legitimate monopoly can in some cases
+be used by companies to perpetrate antitrust violations, in-
+cluding the elimination or prevention of competition.
+
+Abuse of IP rights may cause anticompetitive effects on
+the market, shifting IP matters into an antitrust dimension.
+The main question is how to protect an intellectual rights
+owner sufﬁciently without elimination of competition in
+that market. This article seeks to answer this question by
+analysing antitrust and IP law and regulations on patent
+pooling in the United States and the Russian Federation.
+
+General overview of patent pools
+The modern economy is characterized by an increase in
+the number of companies specializing in the commercial-
+ization of IP. This tendency leads to the emergence of new
+legal mechanisms that help to achieve this goal. One of
+such means is patent pooling. The term ‘patent pool’ is
+similar to the concept of cross-licensing, deﬁned as an
+
+[e]xchange of licenses by two or more patent holders in order
+that each may use or beneﬁt from the patents of the other.3
+
+The author
+† Elza Dauletshina is a 2014 graduate of the Private
+International Law department at the Law Faculty
+of National Research University Higher School of
+Economics, Moscow, Russia.
+
+This article
+† This article
+
+explains
+
+and analyses different
+approaches to regulating patent pooling in the
+United States and the Russian Federation. The dif-
+ference in the countries’ approaches lies not only
+in legislative tradition but also in the time period
+devoted by its legal community to exploring the
+issue.
+
+† In the case of the United States, doctrine and case
+law on patent pooling that has been developing
+for more than a hundred years may be used as
+guidance in achieving, in a relatively short time
+and without mishap on the way, the balance
+which has long been sought between antitrust and
+IP law.
+
+† Russian antitrust legislation does not currently
+cover issues related to patent pooling and is about
+to expand its regulations to cover a very large
+number of relationships involving IP rights. This
+expansion will be accompanied by an analysis of
+approaches currently used elsewhere in the world,
+and its success will depend on choosing the best
+practices.
+
+‘Patent pool’ refers to the assembling of various IP
+rights subject to cross-licensing arrangements into one
+package available for licence, usually in exchange for
+
+*
+1
+
+Email: elza.dauletshina@gmail.com.
+See, for example, Pitofsky, Robert, Challenges of the New Economy: Issues at
+the Intersection of Antitrust and Intellectual Property, Georgetown Law
+Faculty Publications and Other Works, Paper 314 (2001); Debra Bernstein
+and Rod Ganske, ‘Lessons Learned When the Antitrust and Intellectual
+Property Laws Collide’, Intellectual Property & Technology Law Journal, Vol.
+21, No. 1 (2009); Amedeo Arena, Bettina Bergmann and Jay Himes, ‘Two
+Bodies of Law Separated by a Common Mission: Unilateral Conduct by
+
+Dominant Firms at the IP/Antitrust Intersection in the EU and the US’,
+European Competition Law Journal (2013).
+
+2 US Const. Art. I, § 8, cl. 8; Edward C. Walterscheid, To Promote the Progress
+of Useful Arts: American Patent Law and Administration, 1798 –1836, at 56 –
+7 (1998); Letter from James Madison to Thomas Jefferson (17 Oct. 1788),
+reprinted in The Republic of Letters 566 (James Morton Smith ed., 1995).
+
+3 Black’s Law Dictionary 376 (6th ed. 1990).
+
+# The Author(s) (2015). Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jpv148
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+1
+1
+8
+3
+0
+2
+3
+8
+4
+7
+8
+9
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Elza Dauletshina . Antitrust and IP overlap
+
+ARTICLE
+
+831
+
+royalties.4 With the help of patent pools,
+individual
+owners of IP rights can give up their exclusive rights in
+their patents, contribute them to a ‘pool’, and make
+those rights available under a single package or joint
+licence to each other and to the third parties (prospective
+licensees).5 Such pools signiﬁcantly reduce the transac-
+tion costs of exchanging rights when compared to a
+series of one-shot licensing deals. When they are not
+being used as a cover for a cartel,6 they add signiﬁcantly
+to the efﬁcient operation of the patent system,7 as many
+industries have discovered.8
+
+Historical development of patent pools
+The emergence of patent pools allowed right holders to
+reach a new level of economic gain due to the synergy of
+their patents’ combination. However, patent pooling
+practice is still considered to be a novelty in some coun-
+tries, such as Russian Federation, whereas in the US the
+ﬁrst court cases and theoretical studies can be traced
+back to the end of the 19th century.
+
+One of the earliest patent pools was created in 1917 and
+consisted of a number of patents necessary for the manu-
+facture of aeroplanes and was called the Aircraft Manufac-
+turers’ Pool.9 A cross-licensing agreement was proposed by
+the National Advisory Committee for Aeronautics to the
+two companies that owned blocking patents, establishing a
+ﬂat per-aircraft royalty for access to the patents in the
+pool. The pool included almost all aeroplane manufac-
+turers and resolved all pending patent infringement claims.
+After the patent pool formation, the Secretary of War
+sent the Attorney General s request to provide an anti-
+trust advisory opinion. The Attorney General noted that
+the pro-competitive beneﬁts of the arrangement out-
+weighed any anticompetitive effects,10 it being observed
+that the per-aircraft royalty fee was ‘materially lower’
+than the royalty fee demanded by one of the companies
+alone.11 The Attorney General thus came to a conclusion
+that the aircraft manufacturers could not have con-
+structed ‘any modern approved form of airplane without
+
+infringing one or more alleged patents of each of these
+companies’12 and that the agreement had an overall pro-
+competitive effect on the aircraft industry.
+
+The law regarding patent pools in the United States has
+been ‘changing dramatically over the last century and a
+half’,13 testing the line between the protection of IP rights
+and its anti-competitive effects. The Russian Federation’s
+legislative history on correlation of antitrust and IP laws is
+less than ﬁfteen years old. The Law of the RSFSR of 22
+March 1991, ‘On competition and restriction of monop-
+olistic activity on commodity markets’, gave a general
+indication of the IP rights’ limits; it stated that the anti-
+trust law did not apply to the relationships governed by
+the rules protecting the rights of inventions, industrial
+designs, trade marks and copyrights except when
+
+the agreement relating to their use aimed at restricting com-
+petition or acquisition, use, and violation of the exclusive
+rights to IP may lead to unfair competition.14
+
+The Federal Law of 26 July 2006, ‘On Protection of Com-
+petition’, narrowed the scope of the earlier law’s application
+by excluding the provision related to IP rights’ use aimed
+at restricting competition. According to Articles 10(4) and
+Art. 11(9) of the current antitrust law the prohibitions
+regarding an abuse of the dominant position in the market
+and the prohibition of anti-competitive agreements of eco-
+nomic ﬁgures does not apply to transactions involving IP
+rights. However, the antitrust law still applies where the use
+of IP rights is associated with unfair competition.15
+
+Types of patent pools and their purpose
+Currently, both in the United States and the Russian
+Federation, two types of patent pooling organizational
+structures may be used to establish a patent pool:
+
+a speciﬁc organization to which the patents are licensed or
+assigned such as a joint venture or an SPV [Special Purpose
+Vehicle] could be created;16
+
+the conclusion of patent pool agreements between all of the
+patent owners.17
+
+4 Barbara Sicalides and Kathleen A. Mullen, ‘The Plane Lands on Patent Pooling’
+
+9 George Bittlingmayer, ‘Property Rights, Progress, and the Aircraft Patent
+
+(2001), note 1 // URL: http://www.pepperlaw.com/publications/the-plane-
+lands-on-patent-pooling-2001-04-10/, last accessed August 25, 2015.
+Ibid.
+
+5
+6 George Priest, ‘Cartels and Patent License Arrangements’, 20 J. L. & Econ.
+
+309 (1977); Carl Kaysen and Donald Turner, ‘Antitrust Policy: An
+Economic and Legal Analysis’ 164 (1959) (role of patent pools in Gypsum,
+Masonite, and Hartford-Empire glass cartels).
+
+7 Alfred Kahn, ‘Fundamental Deﬁciencies of the American Patent Law’, 30
+Am. Econ. Rev. 975 (1940) (‘All things considered, it must be concluded
+that the pool is a distinct improvement over the patent law as originally
+contemplated in effecting technological advance under modern
+conditions’.)
+
+8 Pooling of Patents: Hearings on H.R. 4523 Before the House Comm. on
+
+Patents, 74th Cong. 1140, 1144 –45 (1935).
+
+Agreement’, 31 J.L. & Econ. 227, 232 (1988).
+
+10 31 Op. Atty. Gen. at 170 –1.
+11 Ibid at 167.
+12 Ibid.
+13 Steven C. Carlson, Note, ‘Patent Pools and the Antitrust Dilemma’, 16 Yale
+
+J. on Reg. 359, 373 (1999).
+
+14 Article 2(1)(2) of the Law of RSFSR of 22 March 1991 N 948-1 ‘On
+competition and restriction of monopolistic activity on commodity
+markets’ (‘Vedomosti SND and VS RSFSR’, 18 April 1991, N 16, p. 499).
+
+15 Ibid at Art. 14.
+16 For regulation in the Russian Federation see ‘Civil Code of the Russian
+
+Federation (Part Four)’ of 18.12.2006 N 230-FZ (‘The Parliament
+Newspaper’, N 214 –215, 21.12.2006 Art. 1365).
+
+17 Ibid, Art. 1367.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+1
+1
+8
+3
+0
+2
+3
+8
+4
+7
+8
+9
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+832
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 11
+
+These organizational structures, commonly used in the
+United States, may carry certain risks for their potential
+participants due to the absence of speciﬁc legal regula-
+tion in the Russian Federation. The implementation of
+projects based on legal structures for which the legisla-
+tion makes no speciﬁc provision may be considered as
+contrary to Russian legislation by courts.
+
+Both patent pooling organizational structures can be
+used to achieve the initial goals of a patent pool partici-
+pants. However, the creation of a separate corporation
+(or holding) is usually driven by the need of forming a
+‘mega pool’ that has a complex administrative structure,
+including special regulations for the appointment and
+approval of ofﬁcers, corporate audit and regulation and
+the distribution of votes among the parties that partici-
+pate in the corporation. The number of votes that a
+patent pool member can receive is usually based on the
+value of the patent that was contributed to the pool by
+the party and its value is determined by an independent
+commission rather than as a result of mutual negoti-
+ation. This type of patent pooling organizational struc-
+ture can be found throughout history in such different
+industries as automobile and aircraft, sewing machines,
+bathtubs, door parts, seeded raisins, coaster brakes, and
+a variety of other technologies.18
+
+Patents that are added to the pool after its formation
+are usually divided into two groups: normal patents and
+exceptional patents. Normal patents are licensed into the
+pool for all to use, with no special royalty payout going
+to the inventor or the ﬁrm.19 Exceptional patents would
+normally earn some ongoing royalties, in an amount
+which would be determined by a formal arbitration pro-
+cedure. To achieve that, a patentee must ﬁle a statement
+to the Board of Arbitrators which, in turn, must determine
+whether a patent is exceptional. If the patent is found to
+be exceptional, the Board will then set the amount of
+compensation that the patentee would receive.
+
+Usually mega pools are not intended to receive royal-
+ties. They are found to fulﬁl the need of contributing
+patent licences when certain sectors of the economy, in
+which many patents that block each other exist, do not
+receive all the beneﬁts of the patent rights that could be
+obtained through patent pooling. As mentioned above,
+the creation of the Manufacture Airborne Association
+was invited by the Advisory Committee of the United
+States Government, since the astronomical royalties that
+
+were demanded in the licensing agreements caused
+obstacles to this industry, which as a result could not
+produce a sufﬁcient number of aircraft for public use.
+
+The creation of a special project company for the for-
+mation of a patent pool entails a number of legal risks
+from the antitrust regulation point of view. Evaluation of
+the anti-competitive effects of a patent pool will directly
+affect the assessment of the legality of the joint venture as
+a whole. If the Special Purpose Vehicle (SPV) is created
+solely or primarily for the purpose of accumulating and
+distributing licences from the patent pool, its survivability
+will greatly depend on the pool’s compliance with the
+antitrust law. If, in contrast, a patent pool is considered to
+be only one of the elements of the complex business struc-
+ture, its non-compliance with the antitrust law will not
+result in the termination of a joint venture’s existence.
+
+Smaller, more modest pools are usually aimed at spe-
+ciﬁc industry sectors or technologies. However, regardless
+of the particular industry or the scale of the institution
+for which the patent pool is established, it still embraces
+two principles on which mega pools operate. First, con-
+solidate property rights in a centralized entity (ie, the con-
+tract); secondly, establish an evaluation mechanism to
+divide up the royalties, which in most cases can be
+achieved by implementing a simple formula. Most small-
+scale pools are often ‘nothing more than multilateral con-
+tracts incorporating these two basic elements’.20
+
+Pro-competitive and anti-competitive
+effects
+As noted by legal scholars,21 properly structured patent
+pools promote IP integration, allowing technology to be
+more efﬁciently available, thus beneﬁting consumers by
+introducing new products and bringing down the costs.22
+To determine whether the pro-competitive beneﬁts of
+such arrangements outweigh any anticompetitive effects
+the courts apply the rule of reason test.23 In Standard
+Oil Co. v United States the United States Supreme Court
+concluded that
+
+[i]f the available advantages are open upon reasonable terms
+to all manufacturers desiring to participate, such inter-
+change may promote rather than restrain competition.24
+
+Thus, the Supreme Court conﬁrmed that the potential ef-
+ﬁciencies of the patent pooling agreements are recognized
+by the United States courts.
+
+18 Floyd L. Vaughan, The United States Patent System 40 –50 (1956).
+19 Pooling of Patents: Hearings on H.R. 4523 Before the House Comm. on
+
+Patents, 74th Cong. 1140, 1144 –5 (1935).
+
+20 Robert P. Merges, Institutions for Intellectual Property Transactions: The
+
+Case of Patent Pools at 23 (August 1999).
+
+21 Sicalides and Mullen, op. cit.
+
+22 U.S. Dep’t of Justice & Federal Trade Comm’n, Antitrust Guidelines for the
+
+Licensing of Intellectual Property § 2.3 (1995), reprinted in 4 Trade Reg.
+Rep. (CCH) } 13,132.
+
+23 283 U.S. 163, 171 (1931).
+24 Ibid.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+1
+1
+8
+3
+0
+2
+3
+8
+4
+7
+8
+9
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Elza Dauletshina . Antitrust and IP overlap
+
+ARTICLE
+
+833
+
+At the same time, pooling arrangements that are based
+upon or accompanied by inappropriate purposes, restric-
+tions, or activities can be found in violation of the
+Sherman Act.25 In 1948 in United States v Line Materials
+Co.,26 the Supreme Court found cross-licensing arrange-
+ment invalid, as designed to ﬁx prices and violating
+Section 1 of the Sherman Act. These crosslicensing
+agreements entered by the companies included price
+maintenance provisions restricting the prices at which
+their licensees could sell products manufactured under
+the patents. Later, in United States v Singer Manufactur-
+ing Co.,27 the Supreme Court held that a patent pooling
+agreement concluded by US, Italian and Swiss sewing
+machine manufacturers violated the Sherman Act since
+the sole purpose of this arrangement was to drive a rival
+Japanese manufacturer out of the US market.28 Six years
+later, in 1969, the United States Supreme Court in Zenith
+Radio Corp. v Hazeltine Research, Inc.29 afﬁrmed the in-
+validity of a television and radio patent pool which was
+established with the purpose if excluding ﬁrms from
+Canadian markets that did not agree to manufacture
+their products in Canada.30
+
+Collective standards and governmental
+authorities
+The establishment of patent pools also allowed their
+members to set collective technical standards for the
+certain types of product. Such standards can establish
+uniﬁed requirements for conﬁguration and compatibil-
+ity of technical devices, data formats, or a set of charac-
+teristics, that the product samples must have.
+
+The emergence of such standards can however affect
+the IP rights of different companies, ‘making compliance
+with such standards prohibitively costly from a manu-
+facturer’s perspective.’31 As an example, provided by
+Sicalides and Mullen, if the set standards require manu-
+facturer’s access to a number of different patents, that
+party may be forced into negotiating separately with
+each patent-holder to obtain a licence for the use of such
+
+25 Sicalides and Mullen, op. cit.; see also United States v Line Materials Co.,
+333 U.S. 287, 311 (1948); United States v New Wrinkle, Inc., 342 U.S. 371,
+380 (1952).
+
+26 333 U.S. 287 (1948).
+27 374 U.S. 174 (1963).
+28 Ibid at 196 –97.
+29 395 U.S. 100 (1969).
+30 Ibid at 118.
+31 Sicalides and Mullen, op. cit.
+32 Ibid.
+33 Roger B. Andewelt, ‘Analysis of Patent Pools Under the Antitrust Laws’, 53
+
+Antitrust L.J. 611, 616 (1984).
+
+34 Ibid at 617.
+
+patents.32 A patent pool is designed to eliminate these
+types of problems and allow to the owners of the various
+patents necessary for conformance to the standards to
+reduce the costs involved in negotiating with several po-
+tential licensees.33 Patent pooling can also encourage in-
+novation among its members in order to garner the full
+value of the patents involved.34 Further, patent pool
+members are usually protected against costly infringe-
+ment suits.35 The advantages with respect to immunity
+are apparent in the situations dealing with the blocking
+patents, such as the one involving the Aircraft Manufac-
+turers’ Pool.36
+
+Patent pools also allow access to valuable IP rights,
+thus, increasing the number of manufacturers who can
+obtain necessary patents to conform to the standards
+and satisfy the consumers’ demands.
+
+In many cases, establishing certain standards has a posi-
+tive impact on the market as well as solving the problem
+of compatibility of products and technologies. On the
+other hand, the establishment of standards may cause a
+decrease in innovation and encourage monopolization
+attempts. That is why patent pooling agreements are care-
+fully examined by the antitrust authorities, including the
+Federal Trade Commission37 and the Antitrust Division of
+the Department of Justice38 in the United States. Even
+though the Federal Antimonopoly Service in the Russian
+Federation is the governmental body responsible for de-
+velopment and enforcement of antitrust law, it has not yet
+faced the challenge of providing an antitrust analysis of a
+patent pooling agreement.
+
+Because the Department of Justice letters are considered
+by some authors to provide an effective ‘template for patent
+pooling arrangements that should not run afoul of the anti-
+trust laws’,39 the same level of signiﬁcance could be attribu-
+ted to the Federal Antimonopoly Service commentaries
+and analysis40 once they are demanded by the market.
+
+MPEG-2 and DVD patent pools
+The two most famous and successful patent pooling
+agreements examined by the Department of Justice dealt
+
+35 Ibid at 615.
+36 IP Guidelines § 2.3.
+37 See the Federal Trade Commission’s authorities on providing advisory
+
+opinions 16 C.F.R. §§ 1.1– 1.4 (‘Advisory Opinions’).
+
+38 See the Department of Justice’s authorities on business review procedure 28
+
+C.F.R. § 50.6 (‘Antitrust Division Business Review Procedure’).
+
+39 Richard J. Gilbert, ‘Antitrust for Patent Pools: A Century of Policy
+
+Evolution’, Stan. Tech. L. Rev. 3, para 3 (2004).
+
+40 See the Federal Antimonopoly Service’s authorities to provide clariﬁcations
+
+on antitrust law the Russian Federation Government Resolution dated
+30.06.2004 N 331 ‘On approval of the Federal Antimonopoly Service
+Resolution’ // ‘Russian newspaper’, N 162, 31.07.2004, Art. 6.3.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+1
+1
+8
+3
+0
+2
+3
+8
+4
+7
+8
+9
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+834
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 11
+
+with MPEG-2 and DVD standards. The ﬁrst arrange-
+ment was in a form of a joint venture, according to
+which MPEG LA would offer a package licence that
+consisted of patents owned by various licensors that are
+‘essential’ for compliance with the compression technol-
+ogy standard developed by MPEG-2.41 The second
+arrangement was quite similar and proposed that
+Toshiba Corporation would assemble and offer a single
+license for a package of patents that are ‘essential’ for
+compliance with the DVD formats.42 The Department of
+Justice closely scrutinized these patent pooling agree-
+ment proposals and, by approving them, set an example
+of the patent pooling arrangements that can withstand
+antitrust scrutiny.
+
+The Department’s analysis of such IP pools addressed
+the question of whether the proposed licensing arrange-
+ments are likely to integrate any complementary patent
+rights and, if so, whether the resulting competitive bene-
+ﬁts of patent pooling agreements are likely to outweigh
+any harm caused to the competition by this arrange-
+ments.43 However,
+if a patent pooling arrangement
+only aggregates competing patents, it could give licen-
+sors an economic incentive to use the patent pool to
+reduce competition among each other.44 For this reason,
+the patents included in the pool should complement
+rather than compete with each other, so that the pool is
+considered to be an effective way of distributing those
+complementary patent rights to licensees.45
+
+After a detailed analysis of the DVD and MPEG propo-
+sals, the Department of Justice concluded, with respect to
+both, that it would not be presently inclined to initiate
+antitrust enforcement against either arrangement.46 Both
+MPEG-2 and DVD patent pools were found to consist of
+‘essential’ patents, that do not have an economically feas-
+ible alternatives, and, thus, in compliance with antitrust
+law. It should be noted, that while properly drafted patent
+pooling agreements have numerous pro-competitive ben-
+eﬁts on the market in some circumstances they also have
+the ability to limit or restrict competition. That is why the
+
+letters of the Department of Justice establishing a certain
+set of rules with which the patents in the pool have to
+comply is of such a great importance. These letters
+provide guidance both to antitrust authorities and to the
+IP right owners.
+
+Patent pools in the Russian Federation
+Even though the rules that apply to patent pooling agree-
+ments are well developed in the United States, the Russian
+Federation laws do not provide any speciﬁc regulation of
+this matter. As some authors note,
+‘[c]ontemporary
+Russian law lags behind the US law on the issue of patent
+pools for more than a hundred years’.47 Thus we may only
+rely on the principle of freedom of contract48 and the dis-
+cretionary origins of private law,49 when suggesting that
+patent pools can be legitimately created under Russian
+legislation.
+
+Further, there is no elaborate position in Russian legal
+doctrine regarding the relation of antitrust and IP law.
+This issue is currently being heavily discussed by Russian
+authors. The discussions mostly cover general ideas and
+consideration.50 However, based on the growing interest
+in the subject shown by legal authors and legislators, it
+may be expected that speciﬁc areas of antitrust and IP law
+interactions, such as patent pooling, will be addressed in
+the near future.
+
+This does not mean that the intersection of antitrust
+and IP law will remain the same in the future. According
+to the ‘Strategy of Competition and Antitrust Regula-
+tions Development in the Russian Federation for 2013–
+2024’ the Federal Antimonopoly Service plans to ‘extend
+the application of competition law on agreements on the
+use of exclusive rights, leading to restriction, prevention
+and elimination of competition in the sale of goods’.51
+This extension of antitrust law will result in regulation of
+patent pooling and will also cover a signiﬁcant part of IP
+rights relationships which were previously out of the
+scope of antitrust regulations. This process of ﬁnding a
+
+41 Letter from Joel I. Klein, Acting Assistant Attorney General, to Gerrard
+
+48 ‘Civil Code of the Russian Federation (Part One)’ 30.11.1994 N 51-FZ
+
+R. Beeney, Esq. (26 June 1997).
+
+42 Letter from Joel I. Klein, Assistant Attorney General, to Carey R. Ramos,
+
+Esq. (June 10, 1999)
+
+43 Ibid. at 5.
+44 Wynne S. Carvill and Douglas D. Leeds, ‘Antitrust Issues in Management of
+
+Intellectual Property’, 438 PLI/Pat. 59, 74 (1997).
+
+45 Joel I. Klein, Address before the Practicing Law Institute Third Annual
+Institute for Intellectual Property Law (Sept. 1997), in 490 PLI/Pat 437,
+447.
+
+46 Letter from Joel I. Klein, Acting Assistant Attorney General, to Gerrard
+R. Beeney, Esq. (26 June 1997) at 16; Letter from Joel I. Klein, Assistant
+Attorney General, to Carey R. Ramos, Esq. (10 June 1999) § IV.
+
+47 Vadim Borodkin, Elena Cherkasova, ‘Patent pools: the legal nature and
+
+trends of application in Russia’, Legal Insight, No. 8 (14), 2012.
+
+(‘Collection of Laws of the Russian Federation’, 05.12.1994, N 32, art. 421).
+
+49 Ibid Art. 1 (2).
+50 A.E. Shastitko, A.A. Kurdin, Protection of Intellectual Property Rights and
+
+Competition Policy: Seeking for a Better Balance, Journal of the New
+Economic Association, No. 1 (21), 2014, p. 111– 135; Arzumanyan A.E.
+‘Competition in the Markets of Intellectual Products From a Position
+Antitrust: Structural Analysis’, Modern economy: Problems and Solutions,
+No. 1 (37), 2013, p. 8 – 15.
+
+51 Art. 2.1.3 of the ‘Strategy of Competition and Antitrust Regulations
+
+Development in the Russian Federation for 2013 –2024’ //URL: http://www.
+fas.gov.ru/netcat_ﬁles/File/Str_razv_konk_i_antimonop_reg_13-14.pdf,
+last accessed August 25, 2015.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+1
+1
+8
+3
+0
+2
+3
+8
+4
+7
+8
+9
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Elza Dauletshina . Antitrust and IP overlap
+
+ARTICLE
+
+835
+
+new balance between antitrust and IP law will require a
+great deal legislative work, which may extend over many
+years.
+
+This extension of antitrust regulation on intellectual
+property may take place even sooner, if the Federal Anti-
+monopoly Service will chose to bypass the legislative pro-
+cedure and implement this extension on case by case
+basis. Such concern is voiced in light of a recent decision
+of the Arbitrazh Court of the Moscow Circuit of March
+18, 2015 in case No. A40-42997/14. The court noted that,
+while a patent owner has the right to decide for a patented
+products to enter the market, while doing so, he must
+comply with limitations established by Russian antitrust
+law. At the same time, the court’s decision was based on a
+
+the situation,
+
+taking into
+comprehensive analysis of
+account all the anticompetative actions taken by the
+company, and the court indicated the fact, that being an
+owner of intellectual property rights does not give a per-
+mission to violate the antitrust law. Further development
+of antitrust and IP laws in the Russian Federation is likely
+to result in an even greater overlap of these two areas of
+law. This being so it is inevitable that issues of patent
+pooling will emerge before the legislators and will require
+regulation. What we can do now is open up discussions
+on this issue, carefully study the development of patent
+pooling regulations in other countries and implement the
+most successful models for protecting IP rights and pro-
+moting fair competition.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+1
+1
+8
+3
+0
+2
+3
+8
+4
+7
+8
+9
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+

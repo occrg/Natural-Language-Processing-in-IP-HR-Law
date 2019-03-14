@@ -1,0 +1,1214 @@
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4, pp. 297–316
+
+doi: 10.1111/j.1747-1796.2009.00362.x
+
+Patenting Pharmaceutical Inventions on
+Second Medical Uses in Brazil
+
+Viviane Yumy Mitsuuchi Kunisawa
+Max Planck Institute for Intellectual Property, Competition and Tax Law and Munich Intellectual Property
+Law Center
+
+The current Brazilian industrial property law (Law 9279 of 14 May 1996) allows patents for
+pharmaceuticals, along with the Agreement on Trade Related Aspects of Intellectual
+Property Rights provisions. Since 1999, after an amendment in the legislation, two govern-
+mental authorities—the Instituto Nacional da Propriedade Industrial (INPI) and the Ageˆ ncia
+Nacional de Vigilaˆ ncia Sanita´ ria (ANVISA)—have been concomitantly acting in the patent-
+granting procedures for pharmaceuticals. The INPI is the ofﬁce usually responsible for the
+examination and granting of patents, and the ANVISA is the agency primarily responsible
+for the granting of marketing approval of drugs. In a peculiar situation, the two institutions
+have been responsible for the granting or denial of applications and have very often been
+divergent in their positions. The patentability of pharmaceutical inventions claiming second
+medical use is an example. The purpose of this work is to analyze the current situation of the
+Brazilian patent-granting system in the pharmaceutical ﬁeld, with a special focus on the
+patentability of inventions claiming second medical use. It debates the two governmental
+positions and questions whether the existing conﬂicts are harmful to the system.
+
+Keywords pharmaceuticals; patentability; second medical use; Brazil
+
+Developing new uses of pharmaceuticals has led to advances in technology. Aspirin
+and Viagra are often cited as examples showing that the development of further
+applications of an already existing substance is technically and commercially
+valuable (Aspirin Foundation, 2008; Fox et al., 2003, p. 2207).1 The numbers of
+the US Food and Drug Administration (FDA)—according to which only 33.5%
+out of 1,284 drugs approved from 1990 to 2004 contained a new molecular entity—
+also illustrate the signiﬁcance of research in this area (US FDA, 2005).
+
+Patents are seen as a tool to foster investments in research and development
+(R&D) of a new drug (with a new active ingredient or not), as well as to ﬁnance the
+clinical trials needed for its marketing. In the case of a further application of a
+pharmaceutical product, use claims are devised to describe the invention for which
+protection is sought (Paterson, 1996, p. 179). What entitles inventors to the patent
+privilege is teaching the use of a substance for a speciﬁc and new therapeutic
+purpose (Straus, 2004, p. 101).
+
+The term ﬁrst medical use refers to a new medicinal use of a known substance
+that has not yet been used for such medicinal purposes. It is used to contrast it with
+second medical use, which describes second medical indications of known substances
+already used for medicinal purposes (Straus, 2004, p. 101). In this article, second
+
+r 2009 Blackwell Publishing Ltd
+
+297
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+Second Medical Use Patents in Brazil
+
+medical use refers not only to second but also to third and further medicinal uses of
+a known substance.
+
+The current Brazilian industrial property law (law 9279 of 14 May 1996—
+hereinafter simply referred as law 9276/96) was enacted to equate the national
+legislation to the Agreement on Trade-Related Aspects of Intellectual Property
+Rights (TRIPS). The law does not prohibit patents in the pharmaceutical ﬁeld.
+However, patents in this ﬁeld are regarded suspiciously and often argued to be
+detrimental to the access to medicines by the population (Basso, 2006, p. 54).
+Speciﬁcally, pharmaceutical patents on second medical uses are accused of lacking
+novelty and of unduly extending the term of already existing patents (frequently
+covering a brand innovative drug), under the so-called ‘‘evergreening’’ practice
+(Correa, 2006, p. 4).
+
+In this context, attention should be paid to the conﬂicting opinions between the
+Instituto Nacional da Propriedade Industrial (National Institute of Industrial
+Property—INPI), as the governmental institution primarily responsible for the
+examination and granting of patents, and the Ageˆ ncia Nacional de Vigilaˆ ncia
+Sanita´ ria (National Agency of Sanitary Surveillance—ANVISA), as the authority
+responsible for the marketing approval of drugs. According to an amendment of the
+industrial property law of 1999, the ANVISA was granted authority to intervene in
+the patent-granting procedure of applications in the pharmaceutical ﬁeld, which
+require this authority’s ‘‘prior approval’’.2 The INPI has been allowing patent
+applications claiming second medical use, while the ANVISA has adopted a policy
+to deny all the patent applications on this subject matter (ANVISA, 2004b).3
+
+The present article ﬁrst describes the current situation of the Brazilian patent-
+granting system in the pharmaceutical ﬁeld in general. It discusses the competence
+of the ANVISA in the patent-granting procedure for applications for pharma-
+ceutical products and processes, after the amendment introduced in the industrial
+property law. Following these discussions, this work analyzes how claims on second
+medical use inventions are handled by the INPI and the ANVISA. It focuses on the
+divergent understandings from each of the two authorities. It ﬁnally debates
+whether the conﬂicting governmental positions can confer uncertainty to the system
+in general and whether the choice not to allow patents on second medical use could
+be harmful for the country’s economic and technological development.
+
+Understanding the Brazilian System for Pharmaceutical Patents
+
+In Brazil, protection of inventions is a constitutional guarantee. Article 5, XXIX of
+the Federal Constitution 1988 establishes that the law shall ensure temporary
+privileges for the use of industrial inventions by their authors, as well as the
+protection of industrial creations, keeping in mind the social interest and the
+technological and economic development of the country. There are authors who
+interpret the constitutional clause as ﬁnalistic, meaning that the clause has a speciﬁc
+goal. In this case, the granting of each patent would be subject to the condition that
+
+298
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+Second Medical Use Patents in Brazil
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+the granted patents should conform to ‘‘the social interest and the technological and
+economic development of the country’’ (Barbosa, 2006b, p. 13). In contrast, this
+clause has also been seen as justifying the existence of the patent system, reﬂecting
+the compromise between the inventor and society. The conditions for the granting
+of patents would be regulated in the infra-constitutional legislation,4 which would
+then guide the activities of the public administration (Oswald and Leonardos, 2007,
+p. 8).
+
+Law 9279/96 entered into force on 15 May 1996 to regulate industrial property
+rights. The new law implements the inventor’s constitutional rights and aims at
+observing the obligations assumed by the Brazilian government when signing
+TRIPS.
+
+The inventions are patentable, provided they meet the novelty, inventive step,
+industrial application and disclosure requirements, set forth in articles 8, 24 and 25
+of law 9279/96.5 Furthermore, the generic classiﬁcation is adopted and the eligible
+categories of inventions are not enumerated. Subject matters entitled to patent
+protection are deﬁned by exclusion in the law, meaning that they should not belong
+to the statutory bars of articles 10 (subject matter not eligible for lack of a
+patentability requirement) and 18 (subject matter expressly excluded, despite
+fulﬁlling the patentability requirements).6 The current industrial property law,
+unlike the previous statute (law 5772 of 21 December 1971), does not prohibit
+product patents in the chemical and pharmaceutical ﬁelds. However, article 10, VIII
+of law 9279/96 does not recognize operating or surgical techniques and therapeutic
+or diagnostic methods for use on the human or animal body as inventions.
+
+The INPI is the Brazilian institution competent for examining and granting
+patents. It was created in 1970 to implement the legislation concerning industrial
+property.7 Since 1999, the system has been facing a peculiar situation. Besides the
+INPI, another governmental
+institution called ANVISA (the regulatory ofﬁce
+competent for approving the marketing of drugs)8 must intervene in the process
+of granting a patent. A provisional measure was enacted by the President on 15
+December 1999,9 determining that patent applications in the pharmaceutical area
+must be submitted to ‘‘prior approval’’ by the ANVISA before their issuance.10 The
+‘‘prior approval’’ requisite was ultimately inserted as article 229-C of law 9279/96 by
+the amending law 10196/2001 of 14 February 2001.
+
+Accordingly, the ANVISA published Ordinance 593 of 25 August 2000, which
+changed its internal regulations. Within the competences of the agency, and, in
+addition to regulating the marketing of drugs, it enumerates the consent (‘‘prior
+approval’’) on the granting of patents for pharmaceutical products and processes.
+The agency, however, introduced in its structure an Intellectual Property Division,
+responsible for the ‘‘prior approval’’ only on 21 May 2001, when Ordinance 239 of
+17 May 2001 (which once again changed ANVISA’s internal regulations) entered
+into force.
+
+Because article 229-C was introduced into the legislation by a Provisional
+Measure enacted by the President, there are no records of hearings at the Congress
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+299
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+Second Medical Use Patents in Brazil
+
+discussing the purposes of the creation of the ANVISA’s ‘‘prior approval’’ requisite.
+It has its origins in a recommendation to the President made by the Ministries
+of Health, External Relations, Industry and Management (EM Interministerial
+92 of 14 December 1999). As a justiﬁcation, they simply pointed out the need to
+assure better technical standards in deciding the grant of pharmaceutical patents,
+similar to procedures existing in the patent and sanitary surveillance systems of
+developed countries.11 Without any legal criteria for the ‘‘prior approval’’, or any
+regulation implementing article 229-C, the role of the ANVISA was not clearly
+deﬁned.
+
+The INPI understood at ﬁrst that the ANVISA would be responsible for
+determining the industrial application requirement. This was expressed in a legal
+opinion rendered by the Solicitor’s Ofﬁce, which also stated that only regular
+applications would be submitted to the ANVISA (INPI, PROC 003/00). ‘‘Pipeline’’
+patent applications would not be subject to the ‘‘prior approval’’ requisite, because
+they are exempted from examination of the patentability requirements set forth in
+article 8 of the statute (novelty, inventive step and industrial application).
+
+‘‘Pipeline’’ patents or patents of revalidation consist of a validation in Brazil of
+a patent issued abroad, ratifying the examination conducted by the foreign patent
+ofﬁce, provided that the product covered by the patent application was not made
+commercially available (novelty, inventive step and industrial application are not
+examined by the INPI). They are foreseen by the statute in articles 230 and 231, as a
+transitory mechanism to allow pharmaceutical patent applications to be ﬁled
+between 1996 and 1997, irrespective of the novelty requirement being accomplished
+and bearing in mind that the previous legislation did not allow patents on
+pharmaceutical products (Licks and Leonardos, 2002).
+
+Without deﬁning ‘‘prior approval’’, the INPI ﬁnally decided that the applica-
+tions would be sent to the ANVISA following the end of the examination by the
+patent ofﬁce, which concluded the granting of the patent (INPI, Comunicado INPI/
+DIRPA 02/2001). This procedure has been applied to all patent applications,
+regular or ‘‘pipeline’’.12
+
+At its own judgment, the ANVISA then opted to re-examine completely the
+patent applications. All the requirements such as novelty,
+inventive step and
+industrial applications—which have already been analyzed by the INPI—are once
+more checked by the ANVISA (ANVISA, 2004a). Moreover, the grant of ‘‘prior
+approval’’ would also be subject to a policy evaluation, an analysis of public health
+aspects, that is the access to medicines and the technical evaluation of compounds.
+According to their policies for drug regulation, the granting of patents demands a
+rigorous analysis, because it is a privilege with a direct impact on the ﬁnal cost of the
+drug.
+
+On 24 June 2008, the ANVISA adopted Resolution-RDC 45 of 23 June 2008,
+which regulated the procedure of the patent applications submitted to the agency for
+‘‘prior approval’’. It establishes that the ANVISA will examine the patentability
+requirements established in the legislation and may request the applicant through
+
+300
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+Second Medical Use Patents in Brazil
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+an ofﬁce action to submit documents, clariﬁcations and amendments.13 With almost
+10 years of delay since the introduction of the ‘‘prior approval’’ requirement, the
+agency decided to regulate it, evidencing its lack of capability to deal with the
+matter, despite the crucial decisions already taken, that is to grant patents on
+pharmaceuticals based on policy evaluations.14 It is important to notice that the
+Resolution states clearly that the ANVISA’s activities should stick to the law, with
+no margin for other considerations. Therefore, when implementing its policies, the
+agency should raise arguments on lack of novelty, inventive step, disclosure or
+enablement, which reﬂect criteria in examining applications different from the ones
+adopted by INPI. This is the case of the inventions on second medical uses, which
+will be discussed further in this article.
+
+For the Associac¸ a˜ o Brasileira da Propriedade Intelectual (Brazilian Intellectual
+Property Association—ABPI), the ‘‘prior approval’’ should only be applicable to
+the ‘‘pipeline’’ applications, because both are inserted among the transitory provi-
+sions of the statute (ABPI, 2004).15 Furthermore, the ANVISA is the competent
+authority for approving the marketing of the drugs, and the non-commercialization
+is one of the requirements for granting ‘‘pipeline’’ patents (ABPI, 2004).
+
+The intervention by the ANVISA in the patent-granting procedure can be
+regarded as a measure of the Brazilian Executive Government to implement a policy
+of ‘‘blockage’’ of patents covering pharmaceutical-related inventions (Souza, 2008,
+p. 53). In implementing the minimum standards required by TRIPS, the Brazilian
+industrial property law created legal grounds for the development of a sound patent
+system. Despite facing some difﬁculties, such as the constant need for more
+examiners, the INPI has been heading towards a patent-friendly approach when
+applying the statute. Therefore, the Brazilian government saw it as necessary to
+control politically the granting of pharmaceutical patents in the country: this would
+be performed by the ANVISA.
+
+This control would be justiﬁed based on the government’s discretionary power
+to act in defense of human rights (the access to medicines), which would be
+represented in the right to health in article 196 of the Federal Constitution (Basso,
+2006, p. 60). The public administration would then be entitled by article 197 of the
+Constitution to act in order to guarantee it (Basso, 2006, p. 60). The supremacy of
+welfare over individual rights would be established in the Constitution, articles 5,
+XXIII and 170, III, which require that the property observes its social function
+(Basso, 2006, p. 60). Accordingly, the ‘‘prior approval’’ would be a means to assure
+social justice (Basso, 2006, p. 60), and the right of access to medicine would serve as
+a limitation to intellectual property rights, speciﬁcally patent rights (Rodrigues and
+Murphy, 2006, p. 437).
+
+Under the argument that public interests should prevail over private interests, it
+is often forgotten that article 5, XXIX of the Federal Constitution also relates to the
+public interest. The inventor obtains the property rights, but society beneﬁts from
+the contents of the patent directly (when having access to the new product) or
+indirectly (when enjoying the new economic activities related to the new product in
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+301
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+Second Medical Use Patents in Brazil
+
+the market), and the state would proﬁt from the activities fostering its technological
+development, through the transfer of technology (Oswald and Leonardos, 2007, p.
+11). Without the investments in R&D propitiated by the patent system, the
+development of new drugs would be at stake.
+
+Furthermore, the ANVISA’s policy control would be unconstitutional because
+patents are a fundamental guarantee and must be granted upon fulﬁllment of the
+patentability requirements set forth in the statute (Barbosa, 2006a, p. 733). The
+activities of the public administration are subject to the principle of legality and
+there should be no space for the discretionary power of the ANVISA or any other
+entity of the public administration.16 The constitutional clause would represent a
+justiﬁcation given by the legislators to enact the patent statute. This is the legal
+instrument to which the public administrator (in this case represented by the
+ANVISA and the INPI) is attached. Therefore, once veriﬁed that the invention is
+new, inventive, industrially applicable, supported by the description and not a
+prohibited subject matter (articles 10 and 18), the patent must be granted upon
+payment of the applicable fees. Otherwise, the public administration would act
+contra legem, as per the opinion of the public attorneys from the INPI (INPI, 2008a,
+p. 14).
+
+Another interesting argument of the public attorneys from the INPI relates to
+the social function of the patent. They argue that a patent should be granted,
+provided the legal requisites are observed, but as property rights they should respect
+the principle of social function of property of article 5, XXII and 170, II of the
+Federal Constitution (INPI, 2008a, p. 16). The limitations to the use of the patent
+rights should be determined in favor of society in order not to restrict unduly the
+competition, and act as a guarantee of article 170, IV of the Constitution (INPI,
+2008a, p. 16). Accordingly, the policy evaluations involved should be used to avoid
+an abusive exercise of patent rights.
+
+The Federal Constitution provides, therefore, that patents are a guarantee and
+the law enacted by Congress should implement this guarantee, because it is
+beneﬁcial to society and the country’s development. But because this guarantee is
+not unlimited, a balance exercise should be carried out in light of other constitu-
+tional principles, such as the social function of property mentioned above. When
+this balance exercise occurs at the stage of enforcement of patent rights, the
+constitutional rights of the inventor are not harmed and due respect to prevailing
+circumstances in favor of society is paid. Thus, policy considerations should not be
+part of the patent-granting procedure, which is strictly linked to the law. Matters of
+a government’s policy should be considered at the stage of enforcement of patent
+rights, as the example of the granting of compulsory licenses, which are within the
+so-called TRIPS ﬂexibilities. In fact, the Brazilian government has already granted a
+compulsory license to the drug Efavirenz (for the treatment of AIDS) of Merck,
+because it considered it of public interest (Decree 6108 of 4 May 2007).
+
+On 3 November 2004, the trial judge of the 37th Federal District Court of Rio
+de Janeiro rendered a judgment overruling ANVISA’s decision denying ‘‘prior
+
+302
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+Second Medical Use Patents in Brazil
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+approval’’ to patent application PI 9503468-4 (covering the drug Valcyte for the
+treatment of AIDS) of F. Hoffmann-La Roche AG.17 Differing from the INPI’s
+examination, which concluded for the patentability, the ANVISA considered that
+the invention was already part of the state of the art and argued that the granting of
+‘‘bad patents’’ is harmful to the public health.18 The trial court decided on the
+unconstitutionality of ANVISA’s interpretation of article 229-C, meaning that the
+ANVISA lacks statutory authority to examine the requirements of an inventive
+step, novelty and industrial application of pharmaceutical patent applications, and
+any act of the ANVISA should be free from any policy ground. It then invalidated
+the ANVISA’s decision, rejecting the ‘‘prior approval’’ of the PI 9503468 patent
+application. This district court decision was nulliﬁed by the decision of the Court of
+Appeals rendered on 11 December 2007, for non-accomplishment of procedural
+requirements in the lawsuit.19 It was found that the trial court erred in denying
+ANVISA’s request for a technical expert to assist the courts to assess whether the
+invention was part of the state of the art. The issues concerning the ANVISA’s
+competence for intervening in the patent-granting procedure and the scope of the
+‘‘prior approval’’ were, however, not handled.
+
+In another case, the Court of Appeals dealt with the competence of the
+ANVISA when examining patent applications submitted to ‘‘prior approval’’.
+The trial judge of the 38th Federal District Court of Rio de Janeiro sustained
+the ANVISA’s denial of ‘‘prior approval’’ to patent application PI 9508789-3
+(covering the drug Taxotere for the treatment of cancer) of Aventis Pharma S.A.20
+ANVISA understood that the amendments in the claims exceeded the matter
+disclosed in the original application, in violation article 32 of law 9279/96.21 On
+31 July 2008, the appellate court afﬁrmed the decision rendered by the trial
+court, which considered that after the introduction of article 229-C into the
+legislation, the patent-granting procedure in the pharmaceutical ﬁeld should be
+deemed a complex act, requiring the activities of two administrative bodies: the
+INPI and the ANVISA. The appellate court judgment stated that article 229-C of
+law 9279/96 gives a different treatment to pharmaceutical patent applications, and
+both the INPI and the ANVISA should coordinately examine the patentability
+requirements of article 8 of law 9279/96. It further asserts that patent applications in
+this ﬁeld should be subjected to a more stringent examination in order to avoid
+undue patent protection to medicines that are of high importance to the public
+health.
+
+One can observe that the above-mentioned case law tends to conﬁrm the
+ANVISA’s practice in re-examining the patentability requirements of applications
+submitted to ‘‘prior approval’’. Under the argument that patents in the pharma-
+ceutical ﬁeld can harm public health,
+the ANVISA has been convincing
+courts to support its policies. However, it is still to be made clear whether such
+policies can or cannot consist of discretionarily granting or denying the ‘‘prior
+approval’’, like the absolute rejection of pharmaceutical inventions claiming second
+medical uses.
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+303
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+Second Medical Use Patents in Brazil
+
+A further development in the role of the ANVISA within the patent-granting
+procedure has also been established at the political level. On 9 July 2008, the Bill of
+Law 3709/2008 was presented at the House of Representatives to modify article
+229-C. According to the proposal, the ANVISA’s ‘‘prior approval’’ would be
+restricted to ‘‘pipeline’’ patent applications. The justiﬁcation of the Bill states that
+‘‘pipeline’’ patents consist of the revalidation of patents granted abroad, which
+should thus be subject to a more stringent analysis of whether the object of the
+patent was made available in the international market. Because ‘‘pipeline’’ applica-
+tions would be allowed only for 1 year after the enactment of the patent statute,
+article 229-C would then be a transitory provision attached to the transitory nature
+of the existence of ‘‘pipeline’’ patents in the Brazilian system. The restrictions in the
+ANVISA’s activities proposed in the Bill have already prompted protests from the
+agency, which is resistant to losing its powers to intervene in the patent-granting
+proceedings. The agency argues that the INPI is too lenient in the examination and
+favors the industry too much (Formenti, 2008). The INPI, on the other hand,
+argues that the concomitant work of the two governmental institutions extends the
+patent examination term and opens doors to conﬂicting understandings—such as
+the case of the patentability of second medical uses—and, thus, to legal uncertainty
+(Formenti, 2008).
+
+Meanwhile, without further clariﬁcations or changes in the law about the
+participation of the ANVISA in the patent-granting procedure, it is important to
+emphasize that the examination by both the INPI and the ANVISA should always
+respect the principle of legality.
+
+The Second Medical Use Inventions
+
+Patents on second use inventions in the pharmaceutical or other ﬁelds are allowed
+by the INPI, once novelty and inventive step are ascertained in such second use. The
+INPI’s Examination Guidelines in the Biotechnology and Pharmaceutical Field
+currently in force deﬁne second medical use inventions as a new use as a medication
+of a product known outside the medical ﬁeld (referring to ﬁrst medical use) or a new
+medical use of a product already applied in the medical ﬁeld (referring to second
+medical use) (INPI, 2002).22
+
+According to the Examination Guidelines, claims drafted as ‘‘use of product X
+characterized in that it is for the preparation of a medication to treat illness Y’’ or
+‘‘use of product X characterized in that it is for the preparation of a medication to
+treat illness Y, which treatment consists of such and such’’ may be allowed (INPI,
+2002).23 These claims are described in the so-called Swiss-type form, which are
+required to avoid the prohibition against patenting methods of medical treatment in
+article 10, VIII of law 9279/96 (INPI, 2002).24 In contrast, claims such as ‘‘product
+X characterized in that it is for the treatment of disease Y’’ would lack novelty and
+claims such as ‘‘use of product X characterized in that it is for the treatment of
+
+304
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+Second Medical Use Patents in Brazil
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+disease Y’’ or ‘‘process to treat disease Y, characterized by the administration of
+product X’’ are considered therapeutic methods (INPI, 2002).25
+
+Despite the considerations on claim drafting, as per the current Examination
+Guidelines, the ofﬁcial understanding of the INPI is that second medical use
+inventions are patentable. Nevertheless, the ANVISA has an opposite opinion in
+this regard.
+
+On 25 August 2004, the ANVISA’s website made available some information
+about the agency’s procedures concerning patent applications on pharmaceutical-
+related inventions (ANVISA, 2004b). As the main issue, it publishes the decision of
+the ANVISA’s Collegiate Board of 23 November 2003, according to which the
+agency will not grant ‘‘prior approval’’ to patent applications on second medical
+uses. It states that these patents are harmful to public health, to the country’s
+scientiﬁc and technological development, and that they may hinder access to
+medication by the population (ANVISA, 2004b).
+
+The ANVISA’s denial of ‘‘prior approval’’ to applications claiming second
+medical uses may violate TRIPS, representing a discrimination of a ﬁeld of
+technology, prohibited by article 27.1 of TRIPS (ABPI, 2004; Souza, 2008,
+pp. 62–3). Applicants in the pharmaceutical ﬁeld are subjected to a second
+examination round, while inventors in other ﬁelds are not. In addition, article
+27.2 could not be used to justify the denial of such patents, because the goal of this
+provision is to prevent proprietary rights only to inventions contrary to the society’s
+interest (Rodrigues and Murphy, 2006, p. 451). Only if the commercial exploitation
+of these inventions is not allowed, could they be excluded from patent protection.
+In the other line of argument, the legitimacy of the ANVISA’s denial to grant
+patents on second medical uses would be supported by articles 7 and 8 of TRIPS, as
+well as by the Doha Declaration (Basso, 2006, p. 63). These provisions would entitle
+World Trade Organization (WTO) member states to adopt any measure considered
+necessary to promote social welfare and protect public health. Speciﬁcally, article 8.1
+of TRIPS would expressly allow the countries to exclude from patentable subject
+matter the inventions, like second medical uses, needed to protect the public health
+(Arruda and Cerdeira, 2007, p. 124). Such patents would not contribute to techno-
+logical innovation (being the result of empirical observation rather than of investments
+in R&D), or to the dissemination of technology for artiﬁcially extending the exclusive
+rights of the patent holder (Basso, 2006, p. 63). Moreover, article 27 of TRIPS is silent
+about second medical use inventions when dealing with patentable subject matter and,
+therefore, member states would be free to allow or not patents on them (Correa, 2007,
+p. 1; Rodrigues and Murphy, 2006, p. 430). The ANVISA’s intervention would be an
+important tool to ensure the implementation of public health policies by adopting
+more stringent criteria of patentability (Correa, 2006, p. 17).
+
+The conﬂicts between the two governmental authorities (INPI and ANVISA)
+prompted the recent debates reviewing the INPI’s Examination Guidelines. The INPI
+has organized meetings opened to representatives of the two governmental institu-
+tions, associations from the industry (innovative and generic) and practitioners
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+305
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+Second Medical Use Patents in Brazil
+
+(INPI, 2007d). In those discussions, the divergent opinions from the ANVISA and
+the INPI are notorious.
+
+The Head of the Chemical Patent Division of the INPI believes that a second
+medical application for a known substance consists of an invention and the scope of
+the new guidelines is to deﬁne the criteria for the granting of a patent (INPI, 2007a).
+In contrast, the ANVISA’s representatives contended that the inventions consist
+mostly of methods of treatment by therapy (INPI, 2007a). Additionally, a Swiss-
+type claim is not enabled in the speciﬁcation. Because it is not possible to
+manufacture a medicine for the treatment of a certain disease from what is disclosed
+in the application, the written description requirements are, therefore, not fulﬁlled
+(INPI, 2007a). These arguments are the same as those used decades ago against the
+patentability of second medical use inventions, as if there were no advance in the
+discussions. They just evidence the policy positioning behind the ‘‘technical’’
+reasons to deny patents on such matters.
+
+The debates at the INPI concluded towards the permissibility of patents on
+second medical use inventions, reiterating the institute’s position under the current
+Examination Guidelines. The ﬁrst draft for the new Examination Guidelines
+recognizes that an invention of second medical use is based on the report of a
+new therapeutic activity of a known chemical compound for the production of a
+medicine with a different purpose from the one already part of the state of the art
+(INPI, 2007c). The invention would be deemed new when the already known
+pharmaceutical product is used to treat a different disease (INPI, 2007c). The
+inventive step would be veriﬁed when the new medical use is not obvious to a person
+skilled in the art, taking into account the mechanisms of action of the chemical
+compound, the relationship between therapeutic activity and chemical structure and
+the etiology of the targeted diseases (INPI, 2007c). The draft, however, does not yet
+suggest any parameter for the disclosure requirement and the admissible claim
+wording. Since the last meeting held on 9 October 2007, the INPI has been working
+on a ﬁnal proposal for the new Examination Guidelines. Meanwhile, the ones
+discussed previously are still in force.
+
+Within the Brazilian pharmaceutical industry context, one should take into
+account the remarks of the representative of the Associac¸ a˜ o dos Laborat ´orios
+Farmaceˆ uticos Nacionais (Association of the National Pharmaceutical Labora-
+tories—ALANAC) during the meetings for the revision of the Examination Guide-
+lines (INPI, 2007b). The little research conducted nationally consists mostly of
+already known substances and any developments therefrom are new medical uses.
+The innovation performed by Brazilian companies is an incremental innovation
+(INPI, 2007b). The national industry does not have the means to ﬁnance and
+perform the R&D activities and the clinical trials needed for new drugs containing
+new chemical compounds. In contrast, the expenses needed for development of a
+drug based on new uses of known chemical compounds are comparatively much
+lower, since the initial tests for proving the safety of the substance have already been
+performed. Brazilian inventors and industry would be harmed by the ANVISA’s
+
+306
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+Second Medical Use Patents in Brazil
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+policy in blocking second medical use patents. Examples of Brazilian inventors who
+could be affected by such policy have also been identiﬁed (Souza, 2008, p. 67).26
+
+The conﬂict between the ANVISA and the INPI was also remarkable in
+Congress, during the analysis of the Bill of Law 2511/2007 (proposed on 29
+November 2007), aiming at amending law 9279/96 in order to include a prohibition
+in article 18 against the patentability of second medical indications of pharmaceu-
+ticals. The Bill of Law 2511/2007 justiﬁes such prohibition, stating that the lack of
+deﬁnition of a therapeutic method in the law led to the granting of patents on new
+medical
+indications, which consist of mere discoveries and do not fulﬁll the
+patentability requirements. It concludes by stating that the unjustiﬁed extension
+of protection hinders the access by the population to generic drugs. One should note
+that the justiﬁcations are unclear about the relationship between second medical
+uses being mere discoveries and the lack of deﬁnition of therapeutic methods.
+
+In the discussions at the House of Representatives, each institution adopted
+opposite opinions towards the patentability of such inventions. ANVISA reiterated
+that patenting second medical use inventions is contrary to the public health
+policies, because it hinders the production of generics and increases the costs of
+purchase of medicines (Ageˆ ncia Caˆ mara, 2008). In the opposite direction, the INPI
+afﬁrms their patentability upon fulﬁllment of the requirements, based on the
+absence of such prohibition in the current statute (Ageˆ ncia Caˆ mara, 2008).
+
+Attached to the Bill of Law 2511/2007, the new Bill of Law 3995/2008 proposed
+on 3 September 2008 has led to further discussions at the House of Representatives.
+The Bill of Law 3995/2008 intends to modify article 10 of law 9279/96 and exclude
+from patentability new crystalline forms of substances already in the state of the art,
+as well as new uses of products or therapeutic substances already subject to patent
+protection. As reasons, it is stated that these kinds of patents would interest foreign
+pharmaceutical companies, because they are an extension of the term of protection
+of already existing patents, serving as barriers to other companies to enter in the
+market. Second medical use consists in the discovery of side effects, and the research
+is only related to adapting the already existing drug to the new pathology to be
+treated, which, on the other hand, would be a therapeutic method—excluded from
+patentability by article 10, VIII of law 9279/96.
+
+During the debates with the politicians, the INPI’s Commissioner afﬁrmed once
+again the institute’s position in favor of the patentability of second medical use
+inventions, because they may foster national research in the pharmaceutical ﬁeld,
+and quotes a manifestation of Brazilian scientists in this regard (INPI, 2008c). He
+states that the INPI criteria in examining such patent applications would avoid
+undue extension of already existing patents, by delimiting clearly the scope of
+protection (INPI, 2008c). He recognizes that such patents may serve as a tool to the
+country’s technological development, in line with the concerns of the representative
+of the Ministry of Industry—which the INPI is part of in the governmental
+structure (INPI, 2008c). On the other hand, the representative of the Ministry of
+Health—to which the ANVISA is afﬁliated—advocated for the absolute ban of
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+307
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+Second Medical Use Patents in Brazil
+
+patents on second medical uses (INPI, 2008c). These discussions made clear that the
+conﬂicts between the ANVISA and the INPI reﬂect divergent positions between two
+different sectors of the executive government: the Ministry of Industry and the
+Ministry of Health.
+
+The INPI’s position was legally grounded in an opinion of its public attorneys
+that considered that, absent a restriction in the statute against the patentability of
+second medical uses, patents on such subject matter must be granted, provided that
+the requirements of novelty, inventive step and industrial application are met (INPI,
+2008a, p. 14). Not doing so, the INPI would be acting against the law, because
+policy evaluations should be reserved to the enforcement stage (INPI, 2008a, p. 16).
+For the technical aspects to justify the criteria used by the institute, an opinion
+prepared by its examiners was presented (INPI, 2008b), conﬁrming the under-
+standings already revealed in the ﬁrst draft for the new Examination Guidelines.
+The new use of a known pharmaceutical product may be protected under the Swiss-
+type claim (‘‘Use of compound X characterized in that it is for the preparation of a
+medication to treat illness Y’’), because the protection would not be directed to the
+already known product, but to the use of the known product to manufacture a
+medicine for a new therapeutic use (INPI, 2008b, p. 22). This way, there would be
+no barriers to third parties using either the product or the process to produce it, in
+case they are already in the public domain and are not used for the new indication
+(INPI, 2008b, p. 22). In addition, therapeutic methods comprise the steps necessary
+for the cure or prevention of a disease, or for alleviating pain and suffering, aiming
+at the re-establishment of normal conditions of health. Swiss-type claims would not
+cover such steps (INPI, 2008b, p. 22). Novelty would be veriﬁed when the second
+use is different from the one already part of the state of the art, meaning the
+treatment or prevention of a different disease (INPI, 2008b, p. 22). When analyzing
+the prior art, side effects duly documented may be novelty destroying (INPI, 2008b,
+p. 23). The inventive step requirement would be fulﬁlled when a person skilled in
+the art would not understand the new application as obvious, taking into
+consideration that the invention has a mechanism of action different from the
+one described for the ﬁrst use, the etiology of new disease to be treated is also not
+the same and the new therapeutic effect is not evidently derived from a molecular
+structure analogous to compounds presenting similar activities (INPI, 2008b,
+pp. 23–4). With regard to disclosure and enablement, in vivo tests are required,
+and the disease to be treated should be speciﬁcally mentioned in the description, a
+reference to the conditions to be treated not being enough (the mechanism of
+action) (INPI, 2008b, pp. 24–5).
+
+It is important to remember that, notwithstanding the INPI’s tendency to favor
+the patentability of second medical use inventions, the review of ANVISA’s policy
+of peremptorily denying ‘‘prior approval’’
+is also needed. Otherwise, patent
+applications in such ﬁelds would lack a granting requirement.
+
+Recently, the issue of second medical use inventions was dealt with for the ﬁrst
+time by a Brazilian court. On 3 December 2007, the trial judge of the Federal
+
+308
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+Second Medical Use Patents in Brazil
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+District Court of Rio de Janeiro rendered a decision in a leading case, related to
+patent application PI 9606903-1, covering the drug Strattera (whose active principle
+is tomoxetine) of Eli Lilly and Company.27 Strattera is indicated for the treatment
+of attention deﬁcit and hyperactivity disorder, and tomoxetine, although known for
+decades, had not been medically used for this purpose. The trial court judge
+afﬁrmed that the new application of a product is patentable when the already
+known object is inventively used towards obtaining a new result and the novelty
+consists in the relationship between the means and the result. He stated that there is
+no speciﬁc provision in the Brazilian patent statute prohibiting the patentability of
+second uses in pharmaceutical arts (second medical uses are not prohibited by
+articles 10 and 18 of law 9279/96) and they should be patentable, provided that the
+new use is not part of the state of the art, and inventive step and industrial
+application are shown. Furthermore, he clariﬁes that new uses of pharmaceutical
+products are not therapeutic methods, not being prohibited by article 10, VIII of
+law 9279/96. Finally, he considers that Swiss-type claims used to describe second
+medical use inventions should not be seen as process claims. He understands that
+the nature of a Swiss-type claim relates to a product and its purpose. An appeal
+against this decision is now pending.28
+
+From this decision, one can ascertain some development of national courts
+towards the comprehension of patent law issues, regardless of the early stage of
+maturity of the Brazilian system, where very few lawsuits can be found. Never-
+theless, it is important to note that this case has not dealt with the ANVISA’s
+peremptory prohibition on patents of second medical use. The INPI considered that
+the patent application lacked novelty, whereas in the court proceedings it was
+deemed to be new. There is still a long way to go before the Brazilian courts until the
+ANVISA’s ‘‘prior approval’’ plays a role in this case.
+
+Conclusion
+
+Patents, especially in the pharmaceutical ﬁeld, are of great signiﬁcance for the
+industry to retrieve investments in the R&D of a drug and in the clinical trials. In
+addition, very few new drugs approved by the regulatory authorities contain a new
+active ingredient (US FDA, 2005). In this respect, patents covering second medical
+use inventions are a key issue.
+
+Nevertheless, the patentability of these inventions is heartily debated in
+developing countries. Pharmaceutical patents in general are seen as a barrier to
+consumers’ access to medicines, by increasing prices. Speciﬁcally, patent protection
+to second medical uses would mean extending the term of exclusivity on existing
+product patents. This would be undeserved privileges, because those patents would
+not protect an invention, but rather simple discoveries (Correa, 2006, p. 16).
+Another argument criticizing such patents is that they would cover therapeutic
+methods, which are excluded patent subject matter in some systems, such as Europe
+and Brazil.
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+309
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+Second Medical Use Patents in Brazil
+
+As discussed in this article, the Brazilian patent system has been facing an
+unusual situation, where two governmental authorities, the INPI and the ANVISA,
+are examining applications for pharmaceutical products and processes. These two
+institutions adopt different criteria in their analysis, which has been leading to
+conﬂicting decisions on the patentability of some inventions. Speciﬁcally, for
+inventions claiming second medical uses, the ANVISA has adopted a policy of
+absolute denial for patents covering such subject matter. The ANVISA’s position
+may be legally questionable, keeping in mind the constitutional principle of legality,
+which forbids the public administrator to act discretionarily.
+
+Whether the ANVISA’s ‘‘prior approval’’ system is illegal under WTO law is an
+issue to be evaluated under a procedure before the organization’s Dispute Settle-
+ment Body. The installment of such procedure would involve many other con-
+siderations by the member state pleading against Brazil and, therefore, it is likely
+that it will never occur (Rodrigues and Murphy, 2006, p. 454). Despite this, one
+should consider that the right to protect public health is not totally unlimited.
+Patent rights are recognized in TRIPS and in the Doha Declaration to be important
+to encourage the development of new life-saving medicines (Rodrigues and Mur-
+phy, 2006, p. 448). Excluding second medical use inventions from patentability,
+even if not contrary to article 27.1, may lead to severe consequences in the advance
+of technologies related to new medicines. Public health policies, even if supported
+by articles 7 and 8 of TRIPS and the Doha Declaration, should also consider this.
+There should always be a balance exercise between the two social interests, public
+health and technological development, in addition to the assessment of the private
+and public interests involved.
+
+For the Brazilian pharmaceutical industry, which struggles to establish itself in
+the national market, the prohibition against patents on second medical uses may be
+damaging. Most of the costs involved in the development of a drug are in the pre-
+clinical trial stages, when the molecules are still being studied before tests on human
+beings. The second medical uses, on the other hand, relate to already known
+molecules, where the costs are relatively lower. It is in this area that the national
+industry may have the chance to generate new technology.
+
+The risks related to undue extension of already existing patents would
+be minimized by the criteria adopted in the examination of the applications.
+Only when they do present novelty, inventiveness, industrial applicability and
+are supported by the description (within the parameters presented by the
+INPI), would the exclusivity rights be granted. Furthermore, any errors are subject
+to a reassessment within the INPI structure under the opposition or appeal
+proceedings, in addition to any judicial review. The ANVISA’s re-examination of
+patent applications for the grant of ‘‘prior approval’’ may represent a further delay
+to the already extensive backlog of patent applications pending examination in
+Brazil.
+
+It is crucial for the Brazilian government to re-evaluate its policies when dealing
+with patents in the pharmaceutical ﬁeld at the risk of jeopardizing the national
+
+310
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+Second Medical Use Patents in Brazil
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+industry and the country’s economical progress. The argument that the country’s
+public health and technological development are hindered by patents on second
+medical uses may be too simplistic.
+
+About the Author
+
+Viviane Yumy Mitsuuchi Kunisawa is research fellow at the Max Planck Institute for
+Intellectual Property, Competition and Tax Law, Munich, Ph.D. candidate at the
+Ludwig-Maximilllians-Universit ¨at, Munich, LL.M. in Intellectual Property Law at
+the Munich Intellectual Property Law Center—MIPLC, and attorney-at-law in
+Brazil; e-mail: viviyumy@gmail.com
+
+Notes
+
+This article includes some results of the research assigned by the Japanese Patent Ofﬁce and
+conducted at the Institute of Intellectual Property, Tokyo, from October to December 2007.
+The author would like to thank Prof. Dr Dres.h.c. Joseph Straus for his constant support and
+guidance, Dr Luciana Jansen de Oliveira Figueiredo, Ms Maria Cec ´ılia de Arau´ jo Oswald
+and Ms Renata Curzel for their valuable assistance.
+
+1 Aspirin was originally prescribed as a pain killer and has been used for other indications,
+such as for the treatment of cardiovascular diseases and diabetes (Aspirin Foundation,
+2008). The active principle of Viagra, sildenaﬁl citrate, nowadays highly prescribed for
+the treatment of erectile dysfunction, was originally used against cardiovascular diseases
+(Fox et al., 2003, p. 2207).
+
+2 ‘‘Article 229-C. The granting of patents in connection with pharmaceutical products or
+processes shall be dependent on ‘‘prior approval’’ from the ANVISA’’ (The documents
+in Portuguese language were translated into English by the author for the ease of the
+reader.)
+
+3 IV—Regarding the applications which bear as claim the ‘‘new use’’ of substances—The
+
+Collegiate Board, at a meeting held on 23 November 2003 stated as thus:
+
+The Collegiate Board considers that the institute is harmful to public health,
+to the country’s scientiﬁc and technological development, and that it may
+hinder access to medication by the population. In this respect,
+it has
+decided for not granting ‘‘prior approval’’ to cases of second use patent
+applications.
+
+4 In Brazilian law, the Federal Constitution enjoys supremacy in the hierarchy of laws.
+Laws and statutes enacted by the Congress would follow the hierarchical scale, together
+with the Provisional Measures enacted by the President (according to article 62
+of the Federal Constitution). Presidential Decrees regulating the law enacted by the
+Congress would come after. Ordinances and Resolutions from the governmental
+institutions would be the last. All the legislation, which in the hierarchical scale is
+subordinated to the Federal Constitution, is referred to as infra-constitutional
+legislation.
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+311
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+Second Medical Use Patents in Brazil
+
+5 Article 8. To be patentable an invention must meet the requirements of novelty,
+
+inventive activity and industrial application.
+
+Article 24. The speciﬁcation must describe the subject matter clearly and
+sufﬁciently so as to enable a person skilled in the art to carry it out and to
+indicate, when applicable, the best mode of execution. Sole Paragraph—In
+the case of biological material essential for the practical execution of the
+subject matter of the application, which cannot be described in the form of
+this Article and which has not been accessible to the public,
+the
+speciﬁcation will be supplemented by a deposit of the material in an
+institution authorized by INPI or indicated in an international agreement.
+
+Article 25. The claims must be based on the speciﬁcation, characterizing
+the particularities of the application and deﬁning clearly and precisely the
+subject matter to be protected.
+
+6 Article 10. The following are not considered to be inventions or utility models: I—
+discoveries, scientiﬁc theories and mathematical methods; II—purely abstract concepts;
+III—schemes, plans, principles or methods of a commercial, accounting, ﬁnancial,
+educational, publishing, lottery or ﬁscal nature; IV—literary, architectural, artistic and
+scientiﬁc works or any aesthetic creation; V—computer programs per se; VI—the
+presentation of information; VII—rules of games; VIII—operating or surgical
+techniques and therapeutic or diagnostic methods, for use on the human or animal
+body; and IX—natural living beings, in whole or in part, and biological material,
+including the genome or germ-plasm of any natural living being, when found in nature
+or isolated therefrom, and natural biological processes.
+
+Article 18. The following are not patentable: I—that which is contrary to
+morals, good customs and public security, order and health; II—
+substances, matter, mixtures, elements or products of any kind, as well as
+the modiﬁcation of their physical-chemical properties and the respective
+processes of obtaining or modifying them, when they result from the
+transformation of the atomic nucleus; and III—living beings, in whole or
+in part, except transgenic micro-organisms meeting the three patentability
+requirements—novelty,
+inventive activity and industrial application—
+provided for in Article 8 and which are not mere discoveries. Sole
+Paragraph—For the purposes of this law, transgenic micro-organisms are
+organisms, except the whole or part of plants or animals, which exhibit, due
+to direct human intervention in their genetic composition, a characteristic
+that cannot normally be attained by the species under natural conditions.
+
+7 Article 2 of law 5648 of 11 December 1970.
+8 Article 6 of law 9782 of 26 January 1999.
+9 Article 62 of the Brazilian Federal Constitution empowers the President to legislate in
+
+case of relevance and urgency.
+
+10 Provisional Measure 2006 of 14 December 1999, succeeded by Provisional Measure 2014
+of 30 December 1999 (and its several re-editions) and Provisional Measure 2105-14 of 27
+December 2000.
+
+312
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+Second Medical Use Patents in Brazil
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+11 It must be observed that the author is not aware of another country with a similar
+
+requisite as the ‘‘prior approval’’, conditioning the granting of a patent in the
+pharmaceutical ﬁeld, by an authority equivalent to the ANVISA.
+
+12 The corresponding decision is published in the Ofﬁcial Gazette under the codes 9.1, for
+
+regular applications, and 23.17, for ‘‘pipeline’’ applications, meaning that the
+examination was concluded and the application meets the patentability requirements,
+applicable to each kind, regular or ‘‘pipeline’’.
+
+13 Until
+
+the enactment of Resolution-RDC 45/2008, the communications with the
+
+applicant were carried out through the INPI.
+
+14 Article 1, Paragraph 1 of Resolution-RDC 45/2008 establishes that the provisions of the
+
+resolution are applicable retroactively to all patent applications for pharmaceutical
+products and processes that were pending on 15 December 1999 or ﬁled afterwards,
+regardless of whether already granted in the meantime. This provision creates acquired
+rights problems that have not yet been dealt with by the Brazilian courts.
+
+15 The ABPI is the Brazilian group of the Association Internationale pour la Protection de
+
+la Propri ´et ´e Intellectuelle.
+
+16 The principle of legality established in the Federal Constitution in article 37 orders the
+public administrator to act strictly in accordance with the law, that is the statutory act
+originating from Congress. The public administration is only allowed to act when the
+law so establishes. Any ordinance or resolution enacted by the public administrator must
+be in accordance with the law originated from Congress. In this case, both the INPI’s
+and ANVISA’s activities, when granting or denying applications or regulating this, must
+not contravene the patent statute.
+
+17 F. Hoffmann-La Roche AG v ANVISA and INPI. J.F.R.J., 37th District Court of Rio de
+
+Janeiro, Process No. 2004.51.01.506840-0, judge Monique Calmon Biolchini, 22
+November 2004, D.O.E. 89.
+
+18 A patente imerecida reduz o campo de desenvolvimento da indu´ stria farmaceˆ utica
+
+nacional, incluindo a pesquisa cient ´ıﬁca e a fabricac¸ a˜ o. A patente irregular estanca o
+desenvolvimento cient ´ıﬁco nacional, impedindo uma maior eﬁca´ cia social da pol ´ıtica
+pu´ blica de medicamentos gen ´ericos e restringindo o acesso da populac¸ a˜ o a rem ´edios
+mais baratos (F. Hoffmann-La Roche AG v ANVISA and INPI).
+
+(The undue patent reduces the development of the national pharmaceutical
+industry, including the scientiﬁc research and manufacturing. The irregular
+patent stays the national scientiﬁc development, hindering a larger social
+efﬁcacy of the public policy of generic medicines, restricting the access by
+the population to cheaper medicines.)
+
+19 F. Hoffmann-La Roche AG v ANVISA and
+
+INPI. TRF-2, Appeal No.
+
+2004.51.01.506840-0, judge Guilherme Calmon Nogueira da Gama, 30 January 2008,
+D.J.U.
+
+20 Aventis Pharma SA v ANVISA and INPI. TRF-2, Appeal No. 2004.51.01.513854-1,
+
+judge Marcia Helena Nunes, 31 July 2008, D.J.U.
+
+21 Article 32. In order to better clarify or deﬁne a patent application, the applicant may
+effect alterations up to the request for examination, provided that they are limited to the
+subject matter initially disclosed in the application.
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+313
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+Second Medical Use Patents in Brazil
+
+22 2.39 Second use invention 2.39.1 Inventions of this nature can be of two types: (i) a new
+use, as medication, of a known product with use outside the medical ﬁeld (ﬁrst medical
+use); (ii) a new medical use of a product already known as medication (second medical
+use).
+
+23 2.39.2 Typical claims of this type of invention would be: 2.39.2.1 Claim type: a. Product
+X characterized by the fact that it is used as a medication. b. Product X characterized by
+the fact that it is used for the treatment of illness Y shall not be granted on account of the
+fact that its purpose does not present newness, as, per deﬁnition (i) above, it comprises a
+known product which, obviously, is not new in the sense of Article 11. . . . 2.39.2.2
+Claims of the type: a. Pharmaceutical preparation characterized for containing product
+X (occasionally with other components). b. Preparation for the treatment of illness Y
+characterized for containing product X (occasionally with other components). c.
+Preparation in the form of (tablet, gel, injected solution, etc.), characterized for
+containing product X (occasionally with other components) for use in the treatment of
+illness Y, may be granted as long as the preparations encompassed be new and display
+inventive activity. . . . 2.39.2.4. Claims of type: a. Use of product X characterized in that
+it is for the preparation of a medication to treat illness Y. b. Use of product X
+characterized in that it is for the preparation of a medication to treat illness Y, which
+treatment consisting of such and such, known as ‘‘Swiss formulas’’, being almost always
+used in second medical use inventions. They are entitled to privilege, in view of the
+considerations contained in item 2.23 above . . . .
+
+24 A Swiss-type claim consists of applying a wording formula for claiming inventions on
+
+second medical uses. The form of a usual Swiss-type claim is ‘‘use of a substance or
+composition X for the manufacture of a medicine for therapeutic application Z’’. This
+wording aims at avoiding that a use claim for a pharmaceutical product is considered a
+therapeutic method, falling under the statutory prohibition against patenting such subject
+matter, foreseen in several national legislations, such as Brazil. It was ﬁrst adopted by the
+Swiss Patent Ofﬁce, followed by the practices of the European Patent Ofﬁce.
+
+25 2.39.2.3 Claim of type: a. Use of product X characterized in that it is for the treatment of
+illness Y. b. Process for treating illness Y characterized by administering of product X
+(or preparation containing product X), are not granted on account of the fact that they
+comprise a therapeutic method . . .
+
+26 See patent applications PI9908664-6, ﬁled by Henrique Chvaler; PI9806330-5-8, ﬁled by
+
+Edson Claro do Nascimento; PI9805654-9, ﬁled by Edson Claro do Nascimento;
+PI9902178-1, ﬁled by Edson Claro do Nascimento (BR/SP); PI9806331-6, ﬁled by Edson
+Claro do Nascimento; PI0202647-3, ﬁled by Jos ´e Carlos Barbosa Vosgerau; PI0202539-
+6, ﬁled by Marcus Keche Weber; PI0102184-2, ﬁled by Laborat ´orio Catarinense S/A;
+PI0102186-9, ﬁled by Laborat ´orio Catarinense S/A; PI0102185-0, ﬁled by Laborat ´orio
+Catarinense S/A; PI0004106-8, ﬁled by Laborat ´orio Sintofarma S/A; PI0004105-0, ﬁled
+by Laborat ´orio Sintofarma S/A; PI9702841-0, ﬁled by Laborat ´orio Sintofarma S/A; and
+PI9802893-6, ﬁled by Eurofarma Laborat ´orios Ltda (Souza, 2008, p. 67).
+
+27 Eli Lilly and Company v INPI. J.F.R.J., 35th District Court of Rio de Janeiro, Process
+
+No. 2005.51.01.507811-1, judge Guilherme Bollorini Pereira, 29 November 2007,
+D.O.E.
+
+28 Ibid. TRF-2, Appeal No. 2005.51.01.507811-1, for the current status see the website
+
+available online at hhttp://www.trf2.gov.br/cgi-bin/pingresi [Accessed August 2008].
+
+314
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+Second Medical Use Patents in Brazil
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+References
+
+Ageˆ ncia Caˆ mara (2008) Governo Diverge sobre Concessa˜o de Patente de Segundo Uso [online].
+
+Caˆ mara dos Deputados. Available at hhttp://www2.camara.gov.br/internet/
+homeagencia/materias.html?pk=124505i [Accessed August 2008].
+
+Ageˆ ncia Nacional de Vigil aˆ ncia Sanit a´ ria (2004a) Pol ´ıtica Vigente para a Regulac¸ a˜o de
+Medicamentos no Brasil [online]. ANVISA. Available at hhttp://www.anvisa.gov.br/
+institucional/conselho/temas/politica_medicamentos.htmi [Accessed April 2008].
+
+Ageˆ ncia Nacional de Vigilaˆ ncia Sanita´ ria (2004b) Esclarecimentos sobre Pedidos de Patentes
+
+dos Produtos e Processos Farmaceˆuticos [online]. Available at hhttp://
+www.anvisa.gov.br/divulga/alertas/2004/250804.htmi [Accessed September 2004]. This
+report is no longer available at ANVISA’s website [on ﬁle with author].
+
+Arruda, G. F. and Cerdeira, P. C. (2007) ‘Patentes de Medicamento e Sau´ de Pu´ blica’, in E. B.
+Rodrigues Jr. and F. Polido (eds), Propriedade Intelectual. Elsevier, Rio de Janeiro, pp.
+117–32.
+
+Aspirin Foundation (2008) Uses of Aspirin [online]. Aspirin Foundation. Available at hhttp://
+
+www.aspirin-foundation.com/uses/index.htmli [Accessed January 2008].
+
+Associac¸ a˜ o Brasileira da Propriedade Intelectual (2004) Alerta T ´ecnico da ANVISA:
+
+Resoluc¸ a˜o da ABPI No. 63, of October 21, 2004 [online]. ABPI. Available at hhttp://
+www.abpi.org.br/bibliotecas.asp?idiomas=Portugu%C3%AAs&secao=Resolu%
+C3%A7%C3%B5es%20da%20ABPI&codigo=3&resolucao=6i [Accessed October
+2008].
+
+Barbosa, D. B. (2006a) ‘A Proibic¸ a˜ o, pela ANVISA, de Reivindicac¸ o˜ es de Uso Farmaceˆ utico
+(2004)’, in D. B. Barbosa (ed.), Usucapia˜o de Patentes e Outros Estudos de Propriedade
+Intelectual. Lumen Juris, Rio de Janeiro, pp. 715–47.
+
+Barbosa, D. B. (2006b) ‘Inconstitucionalidade das Patentes Pipeline’, Revista da ABPI, 83,
+
+3–39.
+
+Basso, M. (2006) ‘Intervention of Health Authorities in Patent Examination: The Brazilian
+
+Practice of the Prior Consent’, International Journal of Intellectual Property
+Management, 1(1/2), 54–74.
+
+Correa, C. M. (2006) ‘Pharmaceutical Inventions: When is the Granting of a Patent
+Justiﬁed?’, International Journal Intellectual Property Management, 1(1/2), 4–21.
+
+Correa, C. (2007) Guidelines for the Examination of Pharmaceutical Patents: Developing a
+
+Public Health Perspective, a Working Paper [online]. ICTSD. Available at hhttp://
+www.iprsonline.org/resources/docs/Correa_Patentability%20Guidelines.pdfi [Accessed
+November 2008].
+
+Formenti, L. (2008) ‘Anvisa Resiste a` Perda de Poder de Ana´ lise de Patente’, O Estado de SP,
+[online] 5 November 2008. Available at hhttp://www.jornaldaciencia.org.br/Detalhe.jsp?
+id=59736i [Accessed November 2008].
+
+Fox, K. M., Thadani, U., Ma, P. T. S., Nash, S. D., Keating, Z., Czomiak, M. A., Gillies, H.
+and Keltai, M. (2003) ‘Sildenaﬁl Citrate Does Not Reduce Exercise Tolerance in Men
+with Erectile Dysfunction and Chronic Stable Angina’, European Heart Journal, 24(24),
+2206–12.
+
+Instituto Nacional da Propriedade Industrial (2002) Diretrizes para o Exame de Pedidos de
+Patente nas A´reas de Biotecnologia e Farmaceˆutica depositados ap ´os 31/12/1994 [online].
+INPI. Available at hhttp://www.inpi.gov.br/menu-esquerdo/patente/pasta_manuali
+[Accessed March 2008].
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+315
+
+Viviane Yumy Mitsuuchi Kunisawa
+
+Second Medical Use Patents in Brazil
+
+Instituto Nacional da Propriedade Industrial (2007a) Ata completa da 1a Reunia˜o do Grupo de
+Estudos sobre Segundo Uso M ´edico [online]. INPI. Available at hhttp://www.inpi.gov.br/
+menu-esquerdo/patente/discussoes-tecnicas/ata-completa-da-1a-reuniao-do-grupo-de-
+estudos-sobre-segundo-uso-medicoi [Accessed January 2008].
+
+Instituto Nacional da Propriedade Industrial (2007b) Ata da 2a Reunia˜o do Grupo de Estudos
+sobre Segundo Uso M ´edico [online]. INPI. Available at hhttp://www.inpi.gov.br/menu-
+esquerdo/patente/discussoes-tecnicas/resumo-2a-reuniao-do-grupo-de-estudos-sobre-
+segundo-uso-medicoi [Accessed April 2008].
+
+Instituto Nacional da Propriedade Industrial (2007c) Diretrizes para o Exame de Pedidos de
+Patentes na A´rea de Segundo Uso M ´edico (draft) [online]. INPI. Available at hhttp://
+www.inpi.gov.br/menu-esquerdo/patente/discussoes-tecnicas/diretrizes-para-o-exame-
+de-pedidos-de-patentes-na-area-de-segundo-uso-medico/i [Accessed April 2008].
+
+Instituto Nacional da Propriedade Industrial (2007d) Segundo Uso M ´edico [online]. INPI.
+
+Available at hhttp://www.inpi.gov.br/menu-esquerdo/patente/discussoes-tecnicas/
+segundo-uso-medicoi [Accessed January 2008].
+
+Instituto Nacional da Propriedade Industrial (2008a) Parecer Jur´ıdico do INPI [online]. INPI.
+Available at hhttp://www.inpi.gov.br/noticias/Parecer%20patenteabilidade%20inovacao%
+20incremental%20farmaceutica.doc/viewi [Accessed November 2008].
+
+Instituto Nacional da Propriedade Industrial (2008b) Parecer T ´ecnico do INPI:
+
+Patenteabilidade de Novas Formas Cristalinas de Substaˆncias Polim ´orﬁcas e de Novos
+Usos M ´edicos [online]. INPI. Available at hhttp://www.inpi.gov.br/noticias/Patentes%
+20farmaceuticas-%20AUDIENCIA%20PUBLICA.doc/viewi [Accessed November
+2008].
+
+Instituto Nacional da Propriedade Industrial (2008c) Patenteabilidade da Inovac¸ a˜o
+
+Farmaceˆutica Incremental [online]. INPI. Available at hhttp://www.inpi.gov.br/noticias/
+patenteabilidade-da-inovacao-farmaceutica-incrementali [Accessed November 2008].
+
+Licks, O. and Leonardos, L. (2002) ‘A Exegese do Art. 229-C da Lei de Propriedade
+Industrial ap ´os a Edic¸ a˜ o das Medidas Provis ´orias 2.006, de 15/12/99 e 2.014, de
+21/12/2000, e a Promulgac¸ a˜ o da Lei n1 10.196, de 14/2/2001’, Revista da ABPI, 61,
+57–69.
+
+Oswald, M. C. and Leonardos, L. (2007) ‘Direito de Patentes: Uma Proposta de Filtragem
+
+Constitucional’, Revista da ABPI, 86, 3–17.
+
+Paterson, G. (1996) ‘The Novelty of Use Claims’, International Review of Industrial Property
+
+and Copyright Law, 2, 179–90.
+
+Rodrigues Jr., E. B. and Murphy, B. (2006) ‘Brazil’s Prior Consent Law: A Dialogue Between
+
+Brazil and the United States Over Where the TRIPS Agreement Currently Sets the
+Balance Between the Protection of Pharmaceutical Patents and Access to Medicines’,
+Albany Law Journal of Science and Technology, 16, 423–56.
+
+Souza, M. T. (2008) ‘Should Brazil Allow Patents on Second Medical Uses?’, Revista da
+
+ABPI, 93, 53–67.
+
+Straus, J. (2004) ‘Patent Protection of Further Medical Uses’, in ‘Questo˜ es Atuais em Direito
+
+Patenta´ rio’, proceedings of the XXIV Semina´ rio Nacional da Propriedade Intelectual
+held in Bras ´ılia, 16–18 August, pp. 100–3.
+
+US Food and Drug Administration (2005) NDAs Approved in Calendar Years 1990–2004 by
+
+Therapeutic Potential and Chemical Type [online]. Available at hhttp://www.fda.gov/
+cder/rdmt/pstable.htmi [Accessed April 2008].
+
+316
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2009) Vol. 12, no. 4
+
+

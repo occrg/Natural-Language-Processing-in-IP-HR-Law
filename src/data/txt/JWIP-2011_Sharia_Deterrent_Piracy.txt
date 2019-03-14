@@ -1,0 +1,2040 @@
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6, pp. 441–466
+doi: 10.1111/j.1747-1796.2011.00428.x
+
+Can Shari’a be a Deterrent for Intellectual Property
+Piracy in Islamic Countries?
+
+Nora El-Bialy
+University of Hamburg
+
+Moamen Gouda
+University of Marburg
+
+This study examines the stance of Islamic legal traditions (Shari’a) towards intellectual property (IP) piracy.
+Although Muslims may differ on what Shari’a dictates, most of them view Shari’a as God’s law and as a main
+ingredient of Islamic belief system. Since piracy rates in Islamic countries are considerably high in light of
+existing formal IPR laws, it becomes essential to test if Shari’a has any relation with such phenomenon. Our
+hypothesis is that, although Muslim countries have formal institutions or laws that protect intellectual property
+rights (IPR), little attention is given to informal institutions, or human morals, regarding IPR piracy, which
+negatively affects the enforcement level of IPR laws in these countries. Muslims may not be convinced that IPR
+violations, although illegal, are unethical or forbidden by Islamic Shari’a. In order to test the level of adherence
+of Muslims to Shari’a to support our hypothesis, we develop a “religious loyalty” index (RLI). Comparing
+adherence of followers of different religions with those of Islam, Muslim countries have the highest religiosity
+level, positively affecting obedience level to Shari’a. Consequently, an investigation of how Shari’a views IPR
+piracy is conducted. As Islam generally prohibits IPR piracy, the study concludes by offering a set of policy
+recommendations that can effectively help in minimizing IPR piracy in Muslim countries.
+
+Keywords intellectual property rights (IPR); informal institutions; religion; enforcement
+
+The literal meaning of Shari’a in Arabic is “the path to the source of water”, the connotation of which
+is that it is the source of life for Muslims. Shari’a has come to mean the “divinely mandated path”,
+the clear and truthful path that a Muslim must follow in life so as to be submitting to the will of God
+(Esposito, 1991). As such, the Shari’a must be central to any Islamic society. Khadduri (1984) views
+Shari’a as what Thomas Aquinas would term “Eternal Law”, since it derives mainly from revelation,
+and is in fact the quintessence of God’s will and justice. It is respected by Muslims worldwide due
+to its two textual sources: the Qur’an, the holy book of Islam that contains God’s word revealed to
+the prophet Muhammad over a period of 23 years, and the Sunna—the practices and sayings of the
+prophet Muhammad—which became the source of Islamic ethics and norm for Muslim behaviour.
+Islamic jurisprudence (Fiqh) extends the appliance of Shari’a to questions not directly addressed by
+the primary sources through including secondary sources. These secondary sources usually include
+the consensus of the religious scholars embodied (Ijma), and analogy from the Qur’an and Sunna
+(Qiyas). As Shari’a is revered by Muslims and is viewed as God’s law, it becomes crucial to study how
+it affects Muslims’ attitude towards recently imposed legal codes that are issued by Muslim countries
+as being part of the international community, for example the intellectual property rights (IPR) law.
+Accordingly, this study mainly examines the stance of Islamic legal traditions1 (Shari’a, hereafter)
+with regards to IPR piracy.
+
+In 2008, pirated PC software represented 41% of total PC software existing worldwide. In the
+same year, global losses due to IPR piracy reached US$ 53 billion, compared to a value of US$ 48
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+
+441
+
+Nora El-Bialy and Moamen Gouda
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+billion in the previous year. In other words, for every US$ 100 of legitimate software sold, another
+US$ 69 was pirated. Average piracy rate in the ﬁeld of software within the Middle East, Asia Paciﬁc,
+Latin America and Central and Eastern Europe reached 63% in 2008. Accordingly, more than
+half of the software users in these regions use pirated software (BSA, 2009).2 Although most of
+the member nations of World Trade Organization (WTO) have already come up with legislations
+to tackle and prevent infringement of IPR, the cases of such infringements continue to grow, due
+to a considerable lack of effective tools for the enforcement of these laws and regulations. Several
+formal mechanisms for observing more effective enforcement of IPR laws are being sought for by
+international organizations and local governments. Nevertheless, no real concern is given to the
+informal moral and ethical institutions existing in these countries.
+
+While IPR piracy is considered illegal under formal legislations, it can be considered as ethically
+acceptable in infringing countries depending on the informal institutions, represented by values
+and morals endorsed by the prevailing ideology in their respective societies. Consequently, this
+will negatively affect the enforceability of IPR laws as the law enforcers in societies that ethically
+accept IPR piracy may themselves not be motivated enough to enforce IPR laws and prevent piracy.
+Moreover, a pirate’s feelings of guilt and fear of shame and embarrassment will be held at a minimum
+as he or she conforms to the society’s ideology that does not condemn such an act. However, this
+can only be observed, when societies enjoy a relatively high level of adherence of members of this
+society to such ideology. If members of society tend to adhere to a certain ideology that conforms
+to IPR laws then the level of enforcement will be higher since the law enforcers as well as pirates
+will be keener to apply what they believe regarding IPR. Nonetheless, if the same pro-IPR ideology
+or informal institution exists in another society that does not have a high-adherence level to it,
+the impact on enforcement level will be minimal. From the perspective of the new institutional
+economics (NIE), religion is considered an informal institution as it shapes the morals and behaviour
+of its followers, depending on the level of religiosity or adherence that they have towards its rules and
+commandments. Therefore, a religion that views IPR piracy as a malevolent act is able to support
+the formal enforcement process of IPR laws in a certain society, in the presence of high adherence
+by the majority of this society. Accordingly, a deeper analysis of the perception of religion regarding
+IPR piracy is worth only in societies with relatively high common religious adherence.
+
+This paper explores the failure of existing formal IPR laws, as a possible outcome of diverging
+formal and informal institutions in a country, describes how religious loyalty can be used to narrow
+this gap and ﬁnally offers a comprehensive analysis regarding the standing of IPR piracy in Islamic
+Shari’a to be able to draw policy recommendations. It comprises six sections, where section one
+reviews the economic literature on IPR, mainly exploring the link between informal institutions and
+IPR piracy. Section two illustrates the role of informal institutions in effectively changing human
+behaviour, in light of the existing formal laws. We present a model analysing the interplay between
+formal rule, religion and human behaviour and describe how this relation can be affected by diverg-
+ing formal and informal institutions to explain the failure of the IPR transplantation process. In
+section three, we calculate a “religious loyalty” index and use descriptive statistics to be able to draw
+conclusions about religious loyalty among different religious sects. The main ﬁnding is that Muslim
+societies are still the keenest to follow the restrictions of their religion. The results interpreted from
+this measurement are then used to analyse the role of religion as a possible informal institution in
+shaping human behaviour towards understanding the ethics of IPR protection. Section four sheds
+light on the mechanism of formulating Islamic legal judgements. This will be of importance to see
+exactly where IPR ﬁt under such Islamic legal framework. However, this can only be realized if the
+IPR products themselves do not violate the Islamic pricing mechanism. In other words, they should
+be sold in a fair manner. Therefore, section ﬁve mainly deals with informal enforcement of IPR
+
+442
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Nora El-Bialy and Moamen Gouda
+
+laws in Islamic countries by investigating the interaction between prices of IPR products and the
+aforementioned kind of enforcement which is based on the society’s participation in condemning and
+stopping acts of piracy. Section six concludes by highlighting the main ﬁndings of the study.
+
+IPR in Economic Literature
+Most of the available literature dealing with IPR usually focuses on two research points. The ﬁrst
+mainly investigates the effect of IPR on innovation, while the second analyzes the relation between
+IPR enforcement and economic growth. Different levels of analysis were used in these researches,
+whether it is national, regional or global. Regarding the former, several studies show that IPR broadly
+fosters innovation, which positively affects future growth and prosperity (e.g. Alfranca and Huffman,
+2003; Chin and Grossman, 1988; Diwan and Rodrik, 1991; Helpman, 1993; Hu and Mathews, 2005;
+Kanwar and Evenson, 2003; Lai and Qiu, 2003; L´eger, 2007; McCalman, 2000; Schneider, 2005;
+Yang and Maskus, 2001). Similarly for the latter, another body of economic literature supports the
+hypothesis that IPR positively affects the economic development (e.g. Falvey et al., 2006; Gould and
+Gruben, 1996; Ginarte and Park, 1997; Markusen, 1998; Primo Braga and Fink, 1998; Schneider,
+2005; Thompson and Rushing, 1999). Nevertheless, a considerable number of studies support the
+opposite idea on both accounts and argue that IPR laws inhibit innovation and hinders the economic
+growth, especially in developing countries (e.g. Boldrin and Levine, 2008; Kinsella, 2001; Mason,
+2009; Penrose, 1951; Plant, 1974; Stiglitz, 2006; Verzola, 2004).
+
+Although the literature on the effect of IPR on economic development is still controversial, most
+countries already signed the Agreement on Trade-Related Aspects of Intellectual Property Rights
+(TRIPS) and have already issued their IPR law according to the international standards. Moreover,
+some countries have even established a special police unit to combat IPR piracy, as in the case of
+Bulgaria, Colombia, Egypt, France and Turkey among others (WIPO, 2010). Accordingly, the focus
+point of recent literature on IPR became identifying the determinants of IPR piracy within a country,
+to be able to explain why IPR laws are not efﬁciently implemented although they exist in infringing
+countries, especially developing ones, which continue to have a high recorded levels of piracy rate.
+A common conclusion of most IPR studies—whether for or against IPR in the ﬁrst place—is that
+IPR piracy is mainly related to levels of per capita income or economic development of each country.
+In other words, rich nations (western countries) are more likely to convey with formal IPR laws,
+rather than poor ones. This ﬁnding is supported by Maskus and Penubarti (1995), Ginarte and Park
+(1997), Maskus (2000), Marron and Steel (2000) and Husted (2000). Recently, other studies started
+analyzing the effects of a range of domestic economic, political and social variables, such as the size of
+the economy, research and development expenditures, education levels, economic openness, political
+pressure, political freedom, market freedom, sanctions and culture on IPR piracy (see Bezman and
+Depken, 2004; Depken and Simmons, 2004; Fischer and Andr´es, 2005; Grossman and Lai, 2004;
+Shadlen et al., 2004; van Kranenburg and Hogenbirk, 2005). Almost all of these studies support
+the claim that economic, political and formal legal factors signiﬁcantly affect piracy rates. However,
+none of them clearly identiﬁes the informal institutional or cultural factors and their possible impact
+on the implementation of the IPR law.
+
+As can be deduced from the above-mentioned literature, there exists a negative relation between
+the level of economic development and IPR piracy. However, another important relation is also in-
+voked through literature between economic development and religiosity. Such relation is investigated
+through two main hypothesis; secularization hypothesis and religion-market model hypothesis. The
+secularization hypothesis examine the effect of religiosity related to different religions on economic
+development (Barro and McCleary, 2003; Blum and Dudley, 2001; Cavalcanti et al., 2007; Chaves,
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+443
+
+Nora El-Bialy and Moamen Gouda
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Figure 1: Demonstrating the international pattern of religiosity (Gallup, 2009)
+
+Source: Crabtree and Pelham, What Alabamians and Iranians Have in Common, Gallup website, 9 February 2009.
+
+1994; Grier, 1997; Noland, 2005; North and Gwin, 2004) on the one hand. On the other hand,
+literature adopting religion-market model hypothesis looks on the impact of economic development
+on religiosity as a dependent variable (Gill, 1999; Iannaccone, 1991; Iannaccone and Stark, 1994;
+Lopez and Santos, 2008; McCleary and Barro, 2006; Smith et al., 1998; Smith and Sawkins, 2003). A
+debate is still raging among scholars with regards to the direction of causality between religion and
+economic development. Nevertheless, a pattern seems to emerge among the aforementioned studies,
+most importantly in McCleary and Barro (2006), as well as through the world values survey (WVS)
+and Gallup international surveys that investigate religion along with global demographics. This pat-
+tern relates a country’s progress in its level of economic development with a negative relation of the
+spirituality and religiosity of its population. In other words, as countries develop economically, there
+is less emphasis on dominant religious traditions and values and more emphasis placed on secular
+institutions. Figure 1 is developed by Gallup to demonstrate this relation. From Figure 1, it can be
+deduced that developing countries have a high level of religiosity.
+
+Although religion plays an important role in formulating culture (Lewis-Fernandez and Diaz,
+2002), studies that tackled the link between IPR and cultural factors have not taken religion into
+account so far. Kovacic (2007) afﬁrms that Hofstede’s cultural model (Hofstede, 1981, 2004) is the
+most frequently used cultural model in software piracy research (see e.g. Depken and Simmons, 2004;
+Husted, 2000; Ki et al., 2006; Kyper et al., 2004; Moores, 2003; Ronkainen and Guerrero-Cusumano,
+2001; Shin et al., 2004). Moreover, as noted by Shore et al. (2001), cross-cultural research that explored
+the relation between IPR piracy and ethical or moral behaviour remains limited. Swinyard et al. (1990)
+analyze the attitudes towards software copyright laws and the behavioural intentions towards these
+laws in the United States and Singapore and found that both attitudes and behavioural intentions
+
+444
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Nora El-Bialy and Moamen Gouda
+
+of Americans are more harmonious with copyright laws than those of Singaporeans. Moreover, the
+authors ﬁnd that “not only does the Asian culture provide less support for copyright legislation;
+it provides more support for the human beneﬁts which might come from the piracy”. Al-Jabri and
+Abdul-Gader (1997) derive a model to explore the effects of individual and peer beliefs on software
+copyright infringements in Saudi Arabia through conducting a survey. The results of this study show
+that beliefs, whether for individuals or for peers, have signiﬁcant effects on ethical intention to respect
+or infringe protected software. El Sheikh et al. (2006) offer a similar study for Jordan and discover
+that the majority of the survey respondents (63%) believe that the act of piracy is unethical and
+wrong. The authors argue then that raising the awareness of the negative ethical consequences of
+piracy could be useful. Most recently, Haigh (2008) examines the interaction of technology, software
+users, and regulatory regimes related to piracy in Ukraine. The author concludes that “because each
+nation has its own history, the traditional understandings and social norms on which Internet users
+draw will be quite different in each country”.
+
+The Interplay between Rules and Human Behaviour
+Primo Braga and Fink (1998) argue that it would be inefﬁcient for developing countries to simply copy
+IPR institutions and regulations that were developed by industrial countries over several decades, as
+these two groups of countries enjoy a different structure of demand for IPR protection, in addition
+to different government resources. Hence, the probability of successfully enforcing copied western
+institutions through a politically set strategy by the national government is very weak. So, what
+should be done in order to ensure the effectiveness of national laws that resulted as a consequence
+of international agreements, like IPR laws? The key to answer this question is being able to identify
+the complementary role of formal and informal IPR institutions in the interplay between rule and
+behaviour. A possible positive step towards reforming IPR regimes in developing countries is through
+establishing national consensus within each country. This step can be considered the ground for
+formulating new tailored IPR institutions that are easier to enforce within a speciﬁc society. As a
+consequence, incentives for respecting IPR are created; in addition adversely affected groups of the
+economy can be identiﬁed and appropriate compensation mechanisms can then be designed to ensure
+that they are compensated for their damages (Primo Braga and Fink, 1998, p. 552). People usually
+respond to incentives and act according to certain rules imposed by the society or the government.
+As long as incentives to follow a certain rule are missing, people will not convey to the rule.
+
+Talking about effectiveness of rules, some would argue that a deterrent sanction is sufﬁcient
+for determining the effectiveness of any formal institution. However, we should keep in mind that
+punishment should ﬁt the crime and consequently each country has to determine IPR piracy sanctions
+based on personal value judgments. Moreover, the existence of a deterrent sanction as stated by the
+law does not necessary imply practicing the sanction in reality. According to Ghada Khalifa, formal
+anti-piracy manager at Microsoft Egypt, comparing the software piracy rates provided by the global
+software piracy study of the Business Software Alliance (BSA) with the actual number of cases that
+were factually sanctioned due to IPR violations within the same country, large discrepancies can be
+noticed (Personal Communication, 6 April 2005).
+
+Lax enforcement implies that infringement cases might be brought to court by prosecutors but
+not be sanctioned by judges or they might not be caught by the police in the ﬁrst place. Thus,
+the IPR law becomes not deterrent and might lose its power after some time. This fact becomes
+even more evident when informal institutions and social or cultural norms do not support these
+formal laws. The NIE presents a clear explanation about the possible failures of laws as a type
+of formal institutions when not supported by society’s norms, culture, beliefs and religion, the
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+445
+
+Nora El-Bialy and Moamen Gouda
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Figure 2: The interplay between rules and human behaviour
+
+so-called informal institutions. Formal and informal institutions in general could have a neutral,
+complementary, substitutive or conﬂicting relation (Kiwit and Voigt, 1995). Being complementary
+can lead to optimal results; however being conﬂicting, will never lead to satisfying results. Hence,
+one could think of religion as being an effective tool to guide people towards separating what is right
+from what is wrong. Moreover, it can be considered a main source of identifying morals and ethics
+in a certain society. This tool might achieve signiﬁcant results, especially in countries with strong
+adherence to religion.
+
+Figure 2 is a model representing the interplay between the imposition of a new formal rule and
+human behaviour. In other words, it explains how the society responds to imposed formal institutions
+(e.g. IPR law). Mansﬁeld (1994) determines three areas of concern in assessing the strength of property
+rights enforcement in a country. These are the laws, the legal infrastructure and the willingness of
+governments to actively enforce property rights.3 Thus, on one hand, the government should not only
+approve a law but must also believe in its importance and be willing to practically enforce it in order
+to achieve strong efﬁcient IPR enforcement. On the other hand, public support must be present. The
+society should be motivated or carefully guided to the moral reasons behind respecting a certain law.
+Such moral reasons can be affected, whether directly or indirectly, through adherence to a speciﬁc
+religion. The divergence between citizens’ actual and expected behaviour after the issuance of the law
+can be attributed to their moral and ethical stipulation. In other words, ceteris paribus, it is expected
+that a newly issued law can be enforced more effectively in a society that adhere to a certain moral
+
+446
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Nora El-Bialy and Moamen Gouda
+
+and ethical code that is in line with or supports this particular law than in a society where its moral
+stance opposes it.
+
+The above ﬁgure is designed by the authors especially to illustrate such an observation as it shows
+that a pirate has to choose between either to conform with or to disobey IPR laws and regulations in
+her country. The law is said to be implemented efﬁciently in case the pirate conform to it. However,
+if the pirate chooses not to do so, then the beneﬁt of her piracy must be greater than the cost, which
+includes her feelings of guilt and as well as the probability of getting caught multiplied by the ﬁne and
+consequential social embarrassment she will suffer from if he or she got caught. Here, the moral and
+ethical background of the society is an important factor that controls the pirate’s expected action.
+This is because ﬁrst, the pirate’s guilt feelings are directly affected by the pirate’s morality in the ﬁrst
+place. Second, the social embarrassment is related to the society’s moral code as well, and ﬁnally, the
+motivation of law enforcers to apply this law is also affected by their own moral and ethical standards.
+In a highly religious society, the law enforcers, as well as the society as a whole, could view any formal
+law as a null if it contradicts with the teachings of the dominant religion. Accordingly, this model
+will continue to iterate as long as the beneﬁts of breaking the formal institutions outweigh their
+costs. The existence of discrepancies between de jure and de facto legal enforcement, as a result of the
+absence of public support (informal or internal institutions working against or are neutral to formal
+or external institutions) can be considered an important determinant of the ineffectiveness of formal
+laws. Figure 2 can be used as a basis to provide a political-economic explanation for the interplay
+between the designed schemes of any formal institution in general and the pattern of individual
+behaviour. This might offer a better insight into the possible causes of IPR institutions in developing
+countries. Comparing a shoplifter with a pirate, it can be said that the latter is relatively more aware
+of the penal consequences of her action. If a shoplifter is caught, the police will sanction him or her,
+and this action is totally supported by a general acceptance in the society to punish a thief.
+
+The case of IPR piracy in general and copyright products piracy in speciﬁc in developing
+countries is, however, different: It is unlikely that they will get caught, and if the pirate is caught, it
+rarely happens that he or she is even given a proper sanction. Moreover, the society will not disgrace
+him or her for their actions, and it is not expected that any other member of the society would
+report piracy actions to the police to catch him in the ﬁrst place. Therefore, it is difﬁcult to ﬁnd an
+efﬁcient solution entirely within the legal system. However, religion can play an important role in
+this case. In highly religious societies, most individuals usually give little attention to any formal law
+if it contradicts the teachings of the dominant religion. Data obtained by the Gallup Polls including
+143 countries show that among countries where average annual incomes are US$ 2,000 or less, 92%
+of residents surveyed state that religion is an important part of their daily lives. Conversely, among
+the richest countries surveyed—those where average annual incomes are US$ 25,000 or more—the
+ﬁgure drops to 44% only (Crabtree and Pelham, 2009a). This shows that poor countries are more
+religious. Moreover, as mentioned before and according to the BSA report on piracy (2009), piracy is
+mostly high in developing countries (see Figure 1). This indicates that as IPR piracy problem is more
+severe in the case of developing countries and as these countries tend to be more religious, one can
+think of religion as being a more effective tool to signal the unethical behaviour of IPR infringement
+to these societies. To sum up, it can be said that the effectiveness of formal institutions in general
+and IPR laws in speciﬁc will mainly depend on achieving legitimacy through national actors, which
+imply that the enforcement of the new rule should be approved by the society itself. They must realize
+the importance of the rule, expect to reap certain beneﬁts from conveying to it and understand the
+ethical values behind respecting it. In other words, the law or the formal institution must be localized.
+Issuing new rules or institutions should be accompanied by local awareness about the essentiality
+of the institution and moreover certain linkages to informal or cultural factors of the country in
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+447
+
+Nora El-Bialy and Moamen Gouda
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+question. Religious motives can create such an informal protection mechanism, which increases the
+cost of piracy actions, given that people are religious, or in other words, given that these people are
+keen to follow their religion.
+
+Relating Global Religious Loyalty to IPR Piracy
+As illustrated in the previous section, informal institutions may entail a certain informal protection
+mechanism that can deter IPR piracy. However, due to the informality of this protection mechanism, it
+is therefore, totally dependent on the loyalty and adherence of individuals towards a speciﬁc informal
+institution in the ﬁrst place. As the informal institution focused upon in this study is religion, it
+is essential to examine how much do different societies adhere to religious teachings and to check
+whether these religious teachings can help in reducing the level of IPR piracy through its respective
+societies. Hence, we analyse the degree of religiosity within different countries to measure the loyalty
+to the institutions stemming from religion.
+
+Various measurements of religiosity are already developed. Gallup’s religiosity index (Crabtree
+and Pelham, 2009b) is one of the fundamental measurements of religiosity across countries. Gallup
+asks respondents in 143 countries and territories whether religion is an important part of their daily
+lives. However, since the index is only based on this speciﬁc question, it is limited as it does not tackle
+how much respondents apply their religion in their daily life actions. Barro and McCleary (2006)
+use Herﬁndahl index4 to test for the degree of religion pluralism in a certain country. Nevertheless,
+their proposed “Pluralism Index” remains inadequate for our purpose since it only uses one wave
+of WVS (year 2000). Therefore, a limited number of countries were analysed, mostly western ones.
+Accordingly, this study develops a new measure; the so-called “religious loyalty” index (RLI) to
+better capture the adherence of countries to religion. The main premise of RLI is based on ﬁgures
+provided by the WVS. From the period lasting from 1981 to 2008, The WVS, in collaboration with
+European Values Study (EVS) carried out ﬁve waves of representative national surveys in 97 societies
+containing almost 90% of the world’s population. WVS mainly deals with what people in different
+societies want out of life and what they believe in (WVS, 2009a). We have chosen a set of questions
+that indicate the degree of religiosity across different societies, these questions are:
+
+r “Indicate how important it is in your life. Would you say it is: Religion?” (Question V9). The
+respondents are asked to provide their answer on a scale of the following four degrees: “Very
+important”,“Rather important“,“Not very important” and “not at all important”.
+
+r “Could you tell me how much conﬁdence you have in these speciﬁc organizations: the Churches5?”
+(Question V131). The respondents are asked to provide their answer on a scale of four degrees: “A
+great deal”, “Rather important”, “Not very important” and “not at all important”.
+
+r “Apart from weddings, funerals and christenings, about how often do you attend religious services
+these days?” (Question V186). The respondents are asked to provide their answer on a scale of
+seven degrees: “More than once a week”, “Once a week”, “Once a month”, “Only on special holy
+days/Christmas/Easter days”, “Once a year”, “Less often” and “Never practically never”.
+
+r “Independently of whether you go to church or not, would you say you are a religious person?”
+(Question V187). The respondents are asked to provide their answer on a scale of four degrees: “A
+religious person”, “Not a religious person”, “A convinced atheist” and “Other answer”.
+
+r “Generally speaking, do you think that the churches in your country are giving adequate answers
+to the moral problems and needs of the individual?” (Question V188). The respondents are asked
+to provide their answer with only “Yes” or “No”.
+
+448
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Nora El-Bialy and Moamen Gouda
+
+Our country sample includes mainly all the 85 countries that their citizens were surveyed about
+their religious preferences and denomination through the fourth and ﬁfth WVS survey waves, which
+was conducted between 1999 and 2008. We divide the sample countries according to their domi-
+nant religious denomination. For this cause, we use the data supplied by adherents.com (2005), a
+specialized website that has a collection of over 43,870 statistics related to religion adherence and
+religious geography citations. Adherents.com describes itself as the “2nd most frequently visited
+general religion site on the Internet, with an average of 13,500 unique visitors per day”. Although
+this source provides the needed data on religion of most of the countries in our sample, the speciﬁc
+religious sect followed by the majority in some countries are not given. Consequently, another source
+(CIA World Factbook, 2010) is used to double check the ﬁndings from the previous source as well
+as to determine the missing religious denomination for the remaining countries (for a full list, see
+Table A1 in Appendix I).
+
+Our next step involves assembling the survey results of the questions chosen for each country.
+The intention here is to assimilate the percentage of religious persons in each country sample through
+collecting the number of respondents that believe and act according to a certain religion. For our
+ﬁrst question (Religion Importance in Life: Question V9), the percentage of the respondents who
+chose the ﬁrst two answer choices (“Very Important” and “Rather important”) was summed. This is
+also done regarding the second question (Conﬁdence in Churches: Question V131) as we have also
+summed the respondents percentages that choose one of the ﬁrst two answers (“A great deal” and
+“Rather important”). As for the third question (Attending Religious Services: Question V186), we
+have summed the respondents percentage that gave one of those two answers (“More than once a
+week” and “Once a week”). As for the fourth question (Religious Person: V187), we have indicated
+the respondents percentage that answered “Yes”. The same was done regarding the ﬁfth and last
+question (Churches Give Answers to Moral Problems: Question V188). It is perceived that these
+percentages collected so far represent the percentage of society that is inclined towards religion in
+each country sampled.
+
+In order to construct a unique scale of religious loyalty by the type of religion, a principal
+component analysis is necessary to enable inferring different weights representing the importance
+of each of the ﬁve questions to calculate a new index (for more details, see Tables A2 to A4 in
+Appendix II). Accordingly, the RLI is a weighted average of the ﬁve WVS questions.7 Since Hinduism
+and Shinto are represented through our sample by only one country each, they are discarded from
+our analysis. The resulting values are normalized so that the index range is [0, 1], where 0 indicates
+non- or low level of religiosity and 1 indicates a high level of religiosity. An average RLI of each
+religious denomination is then calculated for comparison. (For the complete list of RLI by country
+and religion type, see Table A6 in Appendix 2.) The results, as shown in Table 1, indicate that Islamic
+countries are highly adherent to Islam, since the group RLI average reached 0.73, indicating a high
+level of religious loyalty. This becomes more apparent when it is compared by the group averages of
+
+Count
+
+Mean
+
+Table 1: RLI by Religion
+Standard Deviation
+
+Median
+
+Buddhism
+Catholic
+Islam
+Orthodox
+Protestant
+
+3
+35
+18
+13
+14
+
+0.34
+0.47
+0.73
+0.49
+0.36
+
+0.23
+0.49
+0.77
+0.44
+0.26
+
+0.20
+0.23
+0.15
+0.16
+0.27
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+Range
+
+Minimum
+
+Maximum
+
+0.36
+0.87
+0.50
+0.52
+0.76
+
+0.21
+0.02
+0.42
+0.26
+0.11
+
+0.57
+0.89
+0.92
+0.78
+0.87
+
+449
+
+Nora El-Bialy and Moamen Gouda
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Source: Business Software Alliance (BSA), Annual BSA and IDC Global Software Piracy Study, Various Issues.
+
+Figure 3: Piracy rate by religion (2003–9)
+
+other religions, where their group RLI averages range between 0.34 (Buddhism) and 0.49 (Orthodox
+Christianity).
+
+As for the IPR, we investigated the average piracy rate for our sample countries using software
+piracy data provided by the annual reports of BSA. The data supplied is between the years 2003 and
+2009 and had some limitations in its coverage. Therefore, few countries were missing through our
+dataset. Figure 3 provides a graphical presentation of the average piracy rates of countries under
+investigation between the years 2003 and 2009.
+
+Table 2 provides statistics on IPR piracy by religious group. It can be seen that Orthodox
+Christianity and Islam have the highest rate of piracy through their respective countries (Table 2). It
+is noteworthy to mention that although Buddhist countries are recording high piracy rates as well,
+our sample consists of three countries only. Therefore, an accurate deduction about piracy rates in
+Buddhist societies is hard to validate.
+
+Linking these two results together, Figure 4 illustrates the relation between our two variables. It
+can be deduced that Islamic countries have a high level of both IPR piracy and religiosity. Somewhat
+this result is not surprising since all the Islamic countries in our sample are considered to be developing
+ones, therefore have this aforementioned trend of low level of economic development and high levels
+of piracy and religiosity. This can even explain the position of protestant countries that are mostly
+composed of countries with a high level of economic development. Moreover, these countries have low
+
+Buddhism
+Catholicism
+Islam
+Orthodox
+Protestant
+
+Count
+
+3
+31
+13
+12
+13
+
+Table 2: Average Piracy Rate by Religion, 2003–9
+Range
+
+Standard Deviation
+
+Median
+
+Mean
+
+Minimum
+
+Maximum
+
+70.3
+49.7
+74.4
+76.6
+38.3
+
+78.3
+45.9
+76.7
+77.5
+28.9
+
+22.8
+16.7
+12.2
+13.0
+19.5
+
+43.6
+61.3
+39.8
+43.6
+69.7
+
+44.6
+21.0
+52.0
+51.4
+20.7
+
+88.1
+82.3
+91.8
+95.0
+90.4
+
+Source: Business Software Alliance (BSA), Annual BSA and IDC Global Software Piracy Study, Various Issues.
+
+450
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Nora El-Bialy and Moamen Gouda
+
+Figure 4: Linking IPR piracy to religiosity
+
+piracy, as well as religiosity levels. Islamic countries proved to be relatively more religious compared
+to their nearest religious group (Orthodox countries) that, also, is mostly composed of developing
+ones.
+
+Source: It is clear from this result that Islamic societies are more adherent to religion than other
+religions. As Islam provides the value system for its adherents, basically reﬂected in their societies at
+a macro-level, it can be used as an informal institution to inﬂuence the behaviour of these societies
+towards respecting newly introduced formal rules. The majority of Muslim societies are still keen to
+follow the rules of their religion and search for answers using sentences of the Qur’an. Accordingly, it
+becomes necessary to ask whether Islam as a religion followed favourably by its adherents can be used
+as an informal enforcement mechanism to support the IPR enforcement process in Islamic countries.
+In other words, is this type of religious jurisprudence able to formulate a belief among Muslims that
+IPR piracy is unethical and prohibited by Islam, thus, creating a sort of informal sanction mechanism
+that can increase the marginal cost of IPR pirates and positively affect combating piracy in these
+countries? For this reason, an investigation of how Islam views IPR piracy is necessary.
+
+How Does Shari’a View IPR Piracy?
+Islam and IPR Protection8
+As mentioned above, Islam demands its followers to adhere to a large system of rules, regulations,
+values and normative framework covering all aspects of life for Muslims. Gibb (1950) states that
+Muslim scholars do not observe law as an independent discipline. They rather consider law as the
+practical aspect of the religious and social doctrine preached by the prophet Mohammed, since little
+or no distinction between ‘legal’ and ‘religious’ existed in the minds of the early Muslims. Even in
+the Qur’an the two aspects are found side by side, or rather interwoven one with the other, and so
+likewise in the Hadith (Prophet Mohammed’s sayings). The study and interpretation of the Qur’an
+involved sometimes the one (legal) and sometimes the other (religious) (Gibb, 1950).
+
+The primary sources of Shari’a are Qur’an, Sunna (words, actions and practices of the prophet
+Mohammad) as well as the human articulation and comprehension of the aforementioned primary
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+451
+
+Nora El-Bialy and Moamen Gouda
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+sources (Ali, 2009, p. 117). The human deduction is stressed upon in our analysis since, as Kamali
+(1991) points out, “The Qur’an and Sunna themselves contain very little by way of methodology, but
+rather provide the indications from which the rules of Shari’a can be deduced”. As Jamar (1992) notes
+that in order to establish a certain legal proposition to be followed by Muslims, one should be able to
+point to a certain verse of the Qur’an, or the Sunna of the prophet Mohammad that directly tackles
+this legal proposition, giving clear rules and regulations regarding it. If this proved to be unfruitful,
+then if a certain point in history can be found when all Muslim legal scholars agreed upon a particular
+interpretation of a certain Islamic text, then in this case, their consensus may be relied upon as a
+valid source of Islamic legal traditions. This is referred to as Ijma.9 Use of analogical reasoning,
+or Qiyas, is very limited in Islamic legal traditions (Jamar, 1992, p. 2). Qiyas is the extension of a
+certain legal tradition in Islam from an original case to a new one, because the latter has the same
+effective underpinning as the former. The original case is regulated by a given text, and Qiyas tries to
+expand the same textual ruling to the new case (Kamali, 1991, p. 180). Qiyas, however, seems to be
+most suitable in legislative situations, which due to the advances of culture and knowledge were not
+envisaged in the time of prophet Mohammed, 1,500 years ago, Berger (2006) elaborates.
+
+Jamar (1992) divides Shari’a to three areas; ﬁrst, areas that have clear and precise rules and
+regulations, such as spiritual duties and inheritance. Second, areas that were given some general
+principles, but with some indeﬁniteness, as in contract law, and ﬁnally, areas that were out of Islamic
+legal boundaries as in the ﬁeld of IP. Consequently, Muslim judges are obliged to formulate Islamic
+verdict that relate to IPR, taking into consideration that these rules do not “run afoul of Shari’a
+prohibitions and are consistent with Shari’a principles” (Jamar, 1992, p. 3). The main methodology
+for derivation of Islamic legislation towards IPR is Qiyas (analogical reasoning). Islamic deﬁnition
+of property rights generically concedes with that of North (1990) and Sened (1997) where the former
+deﬁnes it as being the rights individuals appropriate or practice over their own labour and the goods
+and services they possess. According to North (1990), IP could take the form of industrial property
+(protected by patents or trade secrets or utility models) on the one hand, or the form of an artistic
+work or software program (protected by copyrights), on the other hand. Sened (1997) relates the
+concept of IPR to law and describes IPR as being the ﬁeld of law that deals with property rights in
+intangible property, and it refers to the creation of human mind and intellect. Thus, when dealing
+with IP, we are faced with the problem of providing public goods. Therefore, it can be argued that
+Islam recognizes the two forms of IP, whether as a public or private good. A considerable amount of
+Qur’anic and Sunna literature strongly tackled stealing and cheating of public and private property.
+Consequently, Muslim judges use Qiyas in dealing with IPR piracy, where the same Qur’anic and
+Sunna literature are expanded through interpretation to include IPR as well (see Alghamdy, 2005, p.
+39; Jamar, 1992, pp. 3–4) . Moreover, many fatwas exhaustively tackled IPR piracy. An Islamic website
+(islamweb.net website, 2009) lists 194 fatwas that covers IPR from every aspect.10 Furthermore, The
+International Islamic Fiqh Academy, which consists of the highest Islamic religious authorities in
+all Islamic countries, tackled the topic of IPR in its ﬁfth round held in Kuwait in 1988 and issued
+a fatwa.11 The basic consensus in all these fatwas as well as a considerable body of research that
+investigate how Islam views IPR piracy concludes that such type of piracy is prohibited by Islam (see
+Abou elkhir, 2002; Alghamdy, 2005; Alnaggar, 2002; Amanullah, 2006; Khalil, 2003 among others).
+A list of Qur’anic verses has been used as evidence for the prohibition of IPR piracy in Islam, among
+them:
+
+r “And do not eat up your property among yourselves for vanities, nor use it as bait for the judges,
+with intent that ye may eat up wrongfully and knowingly a little of (other) people’s property”
+(Qur’an, chapter 2: Verse 188).
+
+452
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Nora El-Bialy and Moamen Gouda
+
+r “O ye who believe! Eat not up your property among yourselves in vanities: But let there be amongst
+you Trafﬁc and trade by mutual good-will: Nor kill (or destroy) yourselves: for verily Allah hath
+been to you Most Merciful!” (Qur’an, chapter 4: Verse 29).
+
+r “Allah doth command you to render back your Trusts to those to whom they are due; And when
+
+ye judge between man and man, that ye judge with justice” (Qur’an, chapter 4: Verse 58).
+
+r “Help ye one another in righteousness and piety, but help ye not one another in sin and rancour:
+
+fear Allah, for Allah is strict in punishment” (Qur’an, chapter 5: Verse 2).
+
+r “Give just measure and weight, nor withhold from the people the things that are their due; and do
+no mischief on the earth after it has been set in order: that will be best for you, if ye have Faith”
+(Qur’an, chapter 7: Verse 85).
+
+r “O ye that believe! Betray not the trust of Allah and the Messenger, nor misappropriate knowingly
+
+things entrusted to you” (Qur’an, chapter 8: Verse 27).
+
+Hadith are also used in presenting the case against IPR piracy in Islam, among Hadith used are:
+
+r “Muslims must abide by their agreements, except an agreement that make Haram (unlawful) what
+
+is Halal (lawful) or make Halal what was Haram”. (Al-Tirmidhi, Hadith no. 1272).
+
+r “Whoever precedes others in gaining a Halal (lawful) thing, will be more entitled to own it (than
+
+others)”. (AlQaari, 1985, no. 492)
+
+r “He who cheats is not of us (Muslims). Deceitfulness and fraud are things that lead one to Hell”.
+
+(Ibn Hanbal, no. 4968)
+
+r “Honesty and clarity are blessed for both parties to a sale, while concealment and deceit destroy
+
+the blessings of their sale”. (Al-Bukhari, no. 1937)
+
+r “Don’t betray he who have betrayed you and (Keep and) pay back the trusts of those who entrust
+
+you”. (Al-Sanaani, no. 1483)
+
+Islamic legal traditions divide the acts of a Muslim into ﬁve main categories: Wajib (obliga-
+tory), Mustahabb/Sunna (recommended), Mubah (permitted, neither obligatory nor recommended),
+Makruh (recommended against, abominable) and Haram (prohibited, banned). Throughout the
+Islamic literature and fatwas, IPR piracy is judged to be Haram—the highest degree of prohibi-
+tion. This clearly shows that Islam basically backs up laws and regulations—whether nationally or
+internationally—that prohibits any kind of IPR piracy.
+
+Although the Islamic legal tradition towards IPR piracy generically prohibits this act, there are
+still many signiﬁcant factors that Muslim legal scholars take into consideration when they issue any
+fatwa relating to IPR issue. Fatwa generally change through time and place, therefore it is of key
+importance for Muslim legal scholars to build a real and exact image of the situation in hand so
+that fatwas can be as close to reality as possible. Ibn Qayyim (d. 1349) mentions that “fatwa can
+experience change due to differences in period, place, situation, customs and intention”. Fatwas
+depend on several factors that play a crucial role in determining the degree of prohibition of IPR
+piracy as seen by Muslim legal scholars, and they include the type of infringed IP in question (whether
+it is for an educational or entertainment purpose;12 Islamweb, 2009), the availability of the item under
+IP protection for purchasing13 (Islamweb, 2009), whether the act of piracy is done for personal use
+or for public broadcasting14 (Islamweb, 2009), and, most importantly, if the price of item under IP
+protection is too high for the needy consumer to purchase15 (Abou elkhir, 2002; Islamweb, 2009;
+Khalil, 2003).
+
+Pricing Strategies under Islamic Rules
+According to Bashar (1997), Islamic Shari’a has categorized prices as valid or invalid. A valid price
+refers to the price given in a market with accordance to Shari’a. This means that such price must
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+453
+
+Nora El-Bialy and Moamen Gouda
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+be free from any deliberate attempt to cheat, deceive, conceal, lie or withhold relevant information
+of a certain good or service. Valid price is a one that satisﬁes all possible Shari’a legal requirements
+in the process of formation. Muslim legal scholars allow these valid prices to reign in the market
+and disallow them when they conﬂict with fairness and justice and/or societal interests. An invalid
+price, on the contrary, is that price which does not follow the Islamic legal requirements. It is
+likely that such a price will be higher than normal price. Invalidity of price may occur if a ﬁrm
+manipulated supply by creating artiﬁcial scarcity. Therefore, prices that will emerge in the market if
+monopolists or producers form cartels exert inﬂuence on output or prohibit others from competing
+in the market are considered invalid and not lawful under Islamic jurisprudence (Bashar, 1997,
+pp. 41–2).
+
+As for the case of IPR, Fellmeth (1998) points out in his study on copyright misuse and the
+limits of IP monopoly that copyright owners are given an exclusive right to make, use, copy, sell or
+import the respective subject of the patent or copyright for a limited time, allowing them to act as
+“temporary, limited monopolists” therefore, controlling the nature of their protected goods through
+using methods that might otherwise breach the anti-trust laws. Stiglitz (2008) supports ﬁndings of
+Fellmeth and notes that “Intellectual Property Rights generate monopoly power that can be used
+to leverage further monopoly power. The most obvious example is Microsoft, which has leveraged
+its monopoly power in operating systems to obtain a dominant position in applications like word
+processing (Microsoft Ofﬁce) and Internet browsers (Internet Explorer)”.
+
+Khalil (2003) deduces that Islam prohibits monopolistic acts by copyright holders based on
+the Hadith: “He who monopolizes is a wrong-doer” (Muslim, no. 3012). In this case, Muslim legal
+scholars give permission to Muslim public to illegally copy software but only for personal purposes
+and not for the intention of selling it afterwards (Islamweb, 2009).13 Muslim Legal scholars view
+such case as a “necessity” and allow it only in a limited account. Qur’anic verses give legitimacy to
+this necessity:
+
+r “But if one is forced by necessity, without wilful disobedience, nor transgressing due limits, – then
+
+is he guiltless. For Allah is Oft-forgiving Most Merciful”. (Qur’an, chapter 2: Verse 173)
+
+r “ . . . Except under compulsion of necessity”. (Qur’an, chapter 6: Verse 119)
+
+To sum up, it can be said that Islamic prohibition of IPR is not as direct as it was assumed
+from other studies dealing with this issue (i.e. Alghamdy, 2005; Amanullah, 2006; Jamar, 1992).
+We have demonstrated that Muslim legal scholars base their opinion in IPR-related fatwa on the
+inquirer’s social and economic status as well as the kind of intellectually protected item under
+investigation. Most Muslim societies suffer from low levels of economic development, which is
+also reﬂected on the low income of a large proportion in Muslims in their respective societies.
+Moreover, prices of intellectually protected items coming from developed countries remain relatively
+expensive for the Muslim layman. Consequently, Muslim legal scholars might issue adverse fatwas
+that permit Muslims to pirate IPR products due to their high prices. In other words, IPR-related
+fatwa generally prohibits piracy actions, but given the extreme high prices of the original products that
+are imposed by international monopolistic ﬁrms, without any consideration of the necessity of the
+product to the poor, fatwas might become more lenient leading to a controversial effect to the extent
+of supporting piracy. This fact can explain why there are numerous fatwas prohibiting IPR piracy
+and at the same time, Islamic countries have such a high level of piracy. In the next section, we will
+propose a mechanism of how informal enforcement of IPR laws plays a more effective role in Islamic
+countries.
+
+454
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Nora El-Bialy and Moamen Gouda
+
+Conclusion and Policy Recommendation
+This study makes four contributions to the broader literature of institutional economics. Opper
+(2008) states that NIE certainly focuses on important issues relevant to developing countries, though
+it provides broad suggestions and fails to provide clear cut policy advice to escape from institutional
+deﬁciencies in such countries. Accordingly, this paper ﬁrst applies a new theoretical approach to the
+concept of embeddedness of institutions, an area that has been neglected so far by most institutional
+economic literature. This type of research is usually left to other social sciences, in particular to
+sociologists. We argue that politically monitored formal institutions might achieve minor satisfactory
+results, if any, without the support of prevailing informal institutions in a country. Research and
+theorizing on the mechanics of informal norms were left to other social sciences, in particular to
+sociologists”. Second, linking IPR piracy to NIE is considered genuine in both hypothesis and
+analysis. Consequently, this affected the tools used by such studies in analysing the subtle reasons
+behind increasing piracy rates in different societies, especially in developing countries. Third, an
+analysis of religious loyalty is carried out through this study as an attempt to assess religion as
+an informal institutional structure governing different societies. A generic misconception in social
+sciences literature is to postulate that a certain society have chosen a certain public action due to
+its religion inclination, however, it is logically understandable that different societies vary in their
+adherence to religion due to a vast amount of factors that are out of the scope of this study.
+By relying on this measurement, the link between rules and behaviour of societies are clearer since
+religion dimension, with all its consequences on informal institutions, is added to the analysis. Finally,
+an analysis of the link between IPR piracy and Islam as an informal institution is conducted.
+
+We believe that by analysing and understanding the informal structure governing IPR piracy in
+Islamic countries, we can develop a more effective method to combat this illegal behaviour, without
+having to bear the additional cost of enforcement. Using descriptive statistics, we try to give more
+support to our hypothesis that IPR piracy in Islamic countries can be tackled in a more effective
+way if religious dimensions are integrated in the campaign against this illegal act. This can be done
+through increasing awareness of Muslim legal scholars on the severity of IPR piracy problem and
+its economic consequence. It was already mentioned that the International Islamic Fiqh Academy
+issued a fatwa in 1988 prohibiting IPR infringement. This academy is composed of the highest
+religious authorities in Muslim countries (grand muftis in Sunni countries and ayatollah in Shiite
+ones), which are highly inﬂuential in Muslim societies as they issue the ofﬁcial legal opinions and
+fatwas on interpretations of Shari’a, inducing Islamic texts towards practical application by followers
+on a national level. Our survey results shows that Islamic countries’ population is highly conﬁdent
+in these religious leaders, since an average of 83% of the sample collected from these countries had
+either “a great deal of conﬁdence” or “quite a lot of conﬁdence” towards those religious authorities.
+Ofﬁcial fatwas issued by those leaders are also highly inﬂuential in formulating the legal opinion
+given by sheikhs in mosques, since these sheikhs are employed by the government. An important
+dimension that should be however considered by right holders is their pricing strategy in developing
+countries, especially Islamic ones. Although Islam initially prohibits acts of IPR piracy, high prices
+of important and essential IPR inversely affect the degree of prohibition set by Islam. Hence, a price-
+discriminatory strategy is required not only for a developing country but also within the different
+consumer groups of the same country, for example students, government ofﬁces and private sector.
+Finally, a more focused campaign run by Muslim scholars against acts of IPR piracy in Muslim
+countries shall be conducted. Integrating religion in the campaign against IPR piracy needs to be
+covered by more research on this issue. Therefore, this can be a call for more studies to be conducted
+on the link between adherence to other religions and IPR piracy.
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+455
+
+Nora El-Bialy and Moamen Gouda
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Appendix I
+
+Buddhism
+
+1. South Korea
+2. Thailand
+3. Vietnam
+
+Catholic Christianity
+
+1. Andorra
+2. Argentina
+3. Austria
+4. Belgium
+5. Brazil
+6. Canada
+7. Chile
+8. Colombia
+9. Croatia
+10. Czech Republic
+11. France
+12. Guatemala
+13. Hungary
+14. Ireland
+15. Italy
+16. Lithuania
+17. Luxembourg
+18. Malta
+19. Mexico
+20. The Netherlands
+21. Northern Ireland
+22. Peru
+23. Philippines
+24. Poland
+25. Portugal
+26. Puerto Rico
+
+Table A1: List of Countries by Predominant Religion
+
+27. Rwanda
+28. Slovakia
+29. Slovenia
+30. Spain
+31. Switzerland
+32. Trinidad and Tobago
+33. Uganda
+34. Uruguay
+35. Zambia
+
+Hinduism
+
+1. India
+
+Islam
+
+1. Albania
+2. Algeria
+3. Bangladesh
+4. Bosnia and Herzegovina
+5. Burkina Faso
+6. Egypt
+7. Indonesia
+8. Iran
+9. Iraq
+10. Jordan
+11. Kyrgyzstan
+12. Mali
+13. Morocco
+14. Nigeria
+15. Pakistan
+16. Saudi Arabia
+17. Tanzania
+18. Turkey
+
+Orthodox Christianity
+
+1. Belarus
+2. Bulgaria
+3. Cyprus
+4. Ethiopia
+5. Georgia
+6. Greece
+7. Macedonia
+8. Moldova
+9. Montenegro
+10. Romania
+11. Russian Federation
+12. Serbia
+13. Ukraine
+
+Protestant Christianity
+
+1. Australia
+2. Denmark
+3. Estonia
+4. Finland
+5. Germany
+6. Ghana
+7. Iceland
+8. Latvia
+9. Norway
+10. South Africa
+11. Sweden
+12. United Kingdom
+13. United States
+14. Zimbabwe
+
+Shinto
+
+1. Japan
+
+Source: Aherents.com website, Predominant Religion (2005) [Accessed November 2010] and CIA World Factbook, Field Listing
+Religion (2010) [Accessed November 2010].
+
+Appendix II
+Calculating RLI
+The following tables offer a comprehensive summary of the methodology used for developing a
+measurement for religiosity. The main aim of observing this index is to be able to develop simple
+correlations between different religious groups and their degree of religiosity and then linking our
+ﬁndings to the prevailing levels of piracy. We calculated a so-called “religious loyalty” index (RLI)
+using principal component analysis of the ﬁve variables chosen from World Values Survey (WVS) data
+to represent a proxy for the state of religiosity across different societies. These variables are observed
+
+456
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Nora El-Bialy and Moamen Gouda
+
+Table A2: Principal Component Analysis
+
+Original Eigen Values
+
+Component
+
+Eigenvalue
+
+Proportion
+
+Cumulative
+
+Factor 1
+Factor 2
+Factor 3
+Factor 4
+Factor 5
+Factor analysis/correlation; Method : principal-component factors; Rotation: (unrotated); Number of observations = 85;
+Retained factors = 1; Number of parameters = 5
+LR test: independent vs. saturated: chi2(10) = 329.84 Prob > chi2 = 0.0000
+
+3.75873
+0.52916
+0.40556
+0.18055
+0.12600
+
+75.17
+85.76
+93.87
+97.48
+100.00
+
+75.17
+10.58
+8.11
+3.61
+2.52
+
+Table A3: Factor loadings (pattern matrix) and unique variances
+
+Variable
+
+rel_imp
+conf_chrch
+att_chrch
+rel_prsn
+morl_prblm
+
+F 1
+
+0.9479
+0.9155
+0.8297
+0.8041
+0.8289
+
+Uniqueness
+
+0.1015
+0.1618
+0.3116
+0.3535
+0.3129
+
+Table A4: Correlation Matrix
+
+rel_imp
+
+conf_chrch
+
+att_chrch
+
+rel_prsn
+
+morl_prblm
+
+F1
+
+rel_imp
+conf_chrch
+att_chrch
+rel_prsn
+morl_prblm
+F1
+
+1.0000
+0.8434
+0.7755
+0.7526
+0.7435
+0.9479
+
+1.0000
+0.6616
+0.6760
+0.7896
+0.9155
+
+1.0000
+0.5861
+0.5365
+0.8297
+
+1.0000
+0.5280
+0.8041
+
+1.0000
+0.8289
+
+1.0000
+
+through calculating the number of respondents that respond positively to different questions in
+an attempt to measure their adherence to their respective religion/ideology. In general, it can be
+said that factor analytic techniques are considered variable reduction procedures, which are used
+to solve measurement problems that might occur when including redundant variables. Redundancy
+usually occurs when some of the variables are correlated with one another, possibly because they are
+measuring the same construct (in our case religiosity). Accordingly and in order to avoid this problem,
+we use the principal component analysis to reduce the observed ﬁve variables into one or maybe two
+unobserved principal components (maybe one factor for beliefs and another for behaviour). The new
+unobserved variable or variables generated by factor analysis will account for most of the variance in
+the observed variables. Table A2 contains the eigenvalues and Table A3 the factor loadings. Table A4
+presents the correlations between the ﬁve variables, in addition to their respective correlation with
+the chosen factor and Table A5 reports the assigned weights based on the observed factor loading
+of each variable to be able to calculate our RLI. The observed weights indicate that all ﬁve variables
+contribute with an almost equal share to our index, indicating that a simple average method would
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+457
+
+Nora El-Bialy and Moamen Gouda
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Table A5: Scoring coefﬁcients (weights developed on the basis of factor loadings using STATA)
+
+Variable
+
+rel_imp
+conf_chrch
+att_chrch
+rel_prsn
+morl_prblm
+
+F1
+
+0.25219
+0.24357
+0.22074
+0.21392
+0.22053
+
+also be proper to use, as similar values for RLI can be obtained. Finally Table A6 presents the
+normalized values of the ﬁnal values of our religiosity index.
+
+The second column (eigenvalue) represents the variance of the new factors extracted from dif-
+ferent combinations of our original ﬁve variables. The ﬁrst factor accounts for the most variance, the
+
+Table A6: Religious Loyalty Index (RLI) by Country and Religious Group
+
+Average by Religious Group
+
+0.3381
+
+0.4714
+
+Religion
+Buddhism
+
+Catholic Christianity
+
+Country (Year of WVS Survey)
+
+South Korea (2005)
+Thailand (2007)
+Vietnam (2006)
+Andorra (2005)
+Argentina (2006)
+Austria (1999)
+Belgium (1999)
+Brazil (2006)
+Canada (2006)
+Chile (2006)
+Colombia (2005)
+Croatia (1999)
+Czech Republic (1999)
+France (2006)
+Guatemala (2004)
+Hungary (1999)
+Ireland (1999)
+Italy (2005)
+Lithuania (1999)
+Luxembourg (1999)
+Malta (1999)
+Mexico (2005)
+The Netherlands (2006)
+Northern Ireland (1999)
+Peru (2006)
+Philippines (2001)
+Poland (2005)
+Portugal (1999)
+
+RLI
+
+0.2330
+0.5692
+0.2123
+0.0223
+0.4067
+0.3174
+0.2395
+0.6783
+0.3891
+0.4680
+0.6761
+0.5591
+0.0293
+0.1776
+0.7816
+0.2555
+0.4494
+0.6044
+0.5663
+0.2598
+0.7370
+0.5860
+0.1397
+0.4446
+0.5207
+0.7398
+0.7067
+0.6065
+
+458
+
+Continued
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Nora El-Bialy and Moamen Gouda
+
+Average by Religious Group
+
+0.7263
+
+0.4912
+
+Religion
+
+Islam
+
+Orthodox Christianity
+
+Table A6: Continued
+
+Country (Year of WVS Survey)
+
+Puerto Rico (2001)
+Rwanda (2007)
+Slovakia (1999)
+Slovenia (2005)
+Spain (2007)
+Switzerland (2007)
+Trinidad and Tobago (2006)
+Uganda (2001)
+Uruguay (2006)
+Zambia (2007)
+Albania (2002)
+Algeria (2002)
+Bangladesh (2002)
+Bosnia and Herzegovina (2001)
+Burkina Faso (2007)
+Egypt (2008)
+Indonesia (2006)
+Iran (2005)
+Iraq (2006)
+Jordan (2007)
+Kyrgyzstan (2003)
+Mali (2007)
+Morocco (2007)
+Nigeria (2000)
+Pakistan (2001)
+Saudi Arabia (2003)
+Tanzania (2001)
+Turkey (2007)
+Belarus (2000)
+Bulgaria (2006)
+Cyprus (2006)
+Ethiopia (2007)
+Georgia (2008)
+Greece (1999)
+Macedonia (2001)
+Moldova (2006)
+Montenegro (2001)
+Romania (2005)
+Russian Federation (2006)
+Serbia (2006)
+Ukraine (2006)
+
+RLI
+
+0.7178
+0.7247
+0.5522
+0.2644
+0.1416
+0.2885
+0.4943
+0.8891
+0.2832
+0.7841
+0.4571
+0.7338
+0.8047
+0.4203
+0.7616
+0.7711
+0.8267
+0.6481
+0.6271
+0.8793
+0.4944
+0.8721
+0.8257
+0.9191
+0.7841
+0.7227
+0.8849
+0.6419
+0.2609
+0.2963
+0.4265
+0.7284
+0.7785
+0.4005
+0.4402
+0.5565
+0.3636
+0.7314
+0.4340
+0.4805
+0.4891
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+Continued
+
+459
+
+Nora El-Bialy and Moamen Gouda
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Average by Religious Group
+
+0.3609
+
+Religion
+Protestant Christianity
+
+Table A6: Continued
+
+Country (Year of WVS Survey)
+
+Australia (2005)
+Denmark (1999)
+Estonia (1999)
+Finland (2005)
+Germany (2006)
+Ghana (2007)
+Iceland (1999)
+Latvia (1999)
+Norway (2007)
+South Africa (2007)
+Sweden (2006)
+United Kingdom (2006)
+United States (2006)
+Zimbabwe (2001)
+
+RLI
+
+0.1771
+0.2082
+0.1270
+0.3122
+0.1423
+0.8662
+0.3496
+0.3721
+0.1245
+0.7321
+0.1110
+0.1904
+0.5079
+0.8328
+
+second will account for the next highest amount of variance, and so on. The third column (propor-
+tion) expresses the eigenvalues (variance of each factor) as a percent age of the total variance. The
+fourth column (cumulative) contains the cumulative proportion of variance accounted for by this
+factor plus all of the previous ones. On the basis of Table A2, it can be deduced that factor 1 (F1)
+accounts for 75.17% of the variance, factor 2 for 10.58% and so on and hence within factors, we can
+count solely on F1 to represent all of our ﬁve variables. The relationship between our ﬁve variables
+and F1 is represented by so-called factor loadings. It represents both how the variables are weighted
+for a certain factor or factors and also the correlation between the variables and the factor.
+
+Looking at the factor loadings of all ﬁve variables, it can be said that they all well captured in F1,
+with rel-imp being the variable with the highest factor loading (correlation with F1) and rel_persn
+being the lowest correlated variable. The third column of Table A3 presents the proportion of the
+common variance of the variable not associated with F1. To get an overview of how the individual
+variables are related to each other, one must look at the correlation matrix of all ﬁve variables.
+
+It becomes obvious that all ﬁve variables are either correlated or highly correlated with each
+other, supporting our argument of presenting them all by one single factor. Accordingly and based
+on the factor loadings observed, it is possible using STATA to derive different weighted averages for
+each variable and summing all weighted variables up, we would end up with our religiosity index for
+each country. Tables A4 and A5 present the scoring coefﬁcients of each variable used to calculate the
+religiosity index and the values of the normalized index for each country respectively.
+
+About the Authors
+Nora El-Bialy is an economist specializing in the area of law and economics with special emphasis on
+IPR enforcement and judicial efﬁciency in least developed countries. She is currently a Yousef Jameel
+scholar and a research associate at the Institute of Law and Economics, University of Hamburg,
+Germany; e-mail: nora.elbialy@ile-hamburg.de
+
+460
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Nora El-Bialy and Moamen Gouda
+
+Moamen Gouda is an economist specializing in the areas of informal institutions, economics of
+religion, and Islamic economics. He obtained his MBA from Edinburgh Business School, Heriot-
+Watt University, Edinburgh, Scotland, United Kingdom. He is presently a Yousef Jameel scholar
+and a research fellow at Philipps-Universit¨at Marburg, Germany; e-mail: moamen27@yahoo.com
+
+Notes
+The authors would like to thank the anonymous referees of JWIP, Prof. Bernd Hayo, Prof. Helmut Leipold, Sang
+Min Park, Shimaa Hanafy for their helpful comments on the earlier draft of this paper. Our greatest gratitude
+goes to Prof. Stefan Voigt for his continuous motivation and support.
+
+1 We use Ali (2009) deﬁnition of Shari’a as “Islamic legal tradition” rather than “Islamic law” for the same
+reason he derived; “to avoid creating a restrictive fence around an evolving tradition” (Ali, 2009:117–18).
+2 Piracy rate is deﬁned as the total number of units of pirated software put into use in a year divided by
+the total units of software sold (BSA, 2008). It should be taken into consideration that BSA is a direct
+representative of the interests of US software ﬁrms. Hence, the absolute piracy rates reported by this
+organization to reﬂect the absolute enforcement level in a country should be treated carefully and with
+slight critique, as the BSA might have interest to manipulate the data to exert further pressure on pirating
+countries in case of reduced enforcement progress (The Economist, 2005; ZDNet UK, 2005). However,
+their reported piracy measures can be considered a proxy for showing enforcement trends within each
+country and region.
+
+3 According to Oxford online dictionary (2010), fatwa is a ruling on a point of Islamic law given by a
+
+recognized authority. For a thorough look on the range on deﬁnitions of fatwa, see Ali (2009, p. 121).
+
+4 For more details, see Lanjouw and Lerner (1997, p. 22).
+5 Although Herﬁndahl index was originally developed to measure trade concentration in a certain country
+(Hirschman, 1964), Barro and McCleary (2006) used the same concept on religious denominations in the
+sampled countries.
+
+6 WVS 2005 codebook indicates that the word “Churches” in the WVS questions is substituted by the phrase
+
+“religious leaders” in surveys done in non-Christian countries (WVS, 2009b).
+
+7 Using a simple average method instead of calculating weights based on corresponding factor loadings to
+measure RLI yield similar results, indicating that all ﬁve variables are almost equally important to reﬂect
+religiosity.
+
+8 This section uses unpublished primary sources in Arabic language collected by the authors themselves.
+9 Kamali (1991) deﬁnes Ijma as “as the unanimous agreement of the mujtahidun, of the Muslim community
+10 See these fatwas on IPR at (cid:3)http://www.islamweb.net/ver2/Fatwa/FatwaCategory.php?lang=A&CatId=
+11 For the fatwa issued by the International Islamic Fiqh Academy on IPR, see (cid:3)http://www.
+12 Fatwa on IPR no. 123712 (in Arabic). (cid:3)http://www.islamweb.net/ver2/Fatwa/ShowFatwa.php?lang=
+13 Fatwa on IPR no. 13170 (in Arabic). (cid:3)http://www.islamweb.net/ver2/Fatwa/ShowFatwa.php?Option=
+14 Fatwas on IPR nos. 125038, 28439 and 117615 (in Arabic). (cid:3)http://www.islamweb.net/ver2/Fatwa/
+(cid:3)http://www.islamweb.net/ver2/Fatwa/
+(cid:3)http://www.islamweb.net/ver2/
+and
+
+of any period following the demise of the Prophet Mohammad on any matter” (Kamali, 1991, p. 156).
+2180 (in Arabic)(cid:4) [Accessed November 2009].
+ﬁqhacademy.org.sa/(cid:4) [Accessed June 2011].
+A&Id=123712&Option=FatwaId(cid:4) [Accessed November 2009].
+FatwaId&lang=A&Id=13170(cid:4) [Accessed November 2009].
+ShowFatwa.php?lang=A&Id=125038&Option=FatwaId(cid:4),
+ShowFatwa.php?Option=FatwaId&lang=A&Id=28439(cid:4)
+Fatwa/ShowFatwa.php?lang=A&Id=117615&Option=FatwaId(cid:4) [Accessed November 2009].
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+461
+
+Nora El-Bialy and Moamen Gouda
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+15 Fatwa on IPR no. 121287 (in Arabic). (cid:3)http://www.islamweb.net/ver2/Fatwa/ShowFatwa.php?lang
+
+=A&Id=121287&Option=FatwaId(cid:4)[Accessed November 2009].
+
+References
+Abou Elkhir, A. (2002) ‘Perspectives on the Position of Islamic Jurisprudence of the Financial Right of the
+Author’, Paper presented at the symposium on the legal protection of intellectual property, S.A. Kamel
+Centre for Islamic Economics, Al-Azhar University, Cairo.
+Aherents.com website (2005). Predominant Religion [online]. Adherents.com. Available at (cid:3)http://www.
+adherents.com/adh_predom.html(cid:4) [Accessed November 2010].
+(cid:3)http://www.islamweb.net/hadith/index.php(cid:4) [Accessed November 2009].
+
+Al-bukhari, M. (d. 870) (2011) Sahih al-bukhari [online]. Islamweb Hadith Encyclopaedia. Available at
+
+Alfranca, O. and Huffman, W. (2003) ‘Aggregate Private R&D Investments in Agriculture: The Role of Incen-
+
+tives, Public Policies, and Institutions’, Economic Development and Cultural Change, 52(1), 1–22.
+
+Alghamdy, N. (2005) ‘Protection of Intellectual Property in Islamic Jurisprudence and Its Economic Con-
+sequences’. Paper presented at the third international conference for Islamic Economics, Umm al-Qura
+university, Mecca.
+Ali, S. (2009) ‘Resurrecting Siyar through Fatwas? (Re)Constructing ‘Islamic International Law’ In a Post–(Iraq)
+Invasion World’, Warwick School of Law Research Paper. Available at (cid:3)http://ssrn.com/abstract=1496337(cid:4)
+[Accessed October 2010].
+
+Al-jabri, I. and Abdul-Gader, A. (1997) ‘Software Copyright Infringements: An Exploratory Study of the Effects
+
+of Individual and Peer Beliefs’, International Journal of Management Science, 25(3), 335–44.
+
+Alqaari, A. (1985) Ala’srar almrfoua’ah ﬁ ala’khbar almoudhoua’ah [online]. Islamweb Hadith Encyclopaedia.
+
+Alnaggar, A. (2002) ‘Introduction for Protection of Intellectual Property’. Paper presented at the symposium on
+the legal protection of intellectual property, S.A. Kamel Centre for Islamic Economics, Al-Azhar University,
+Cairo.
+Available at (cid:3)http://www.islamweb.net/hadith/index.php(cid:4) [Accessed November 2009].
+able at (cid:3)http://www.islamweb.net/hadith/index.php(cid:4) [Accessed November 2009].
+(cid:3)http://www.islamweb.net/hadith/index.php(cid:4) [Accessed November 2009].
+
+Al-sanaani, A. (1989) Tafser alQur’an (Qur’an interpretation) [online]. Islamweb Hadith Encyclopaedia. Avail-
+
+Islamweb Hadith Encyclopaedia. Available
+
+Al-tirmidhi, M.
+
+892) Al-jami’
+
+[online].
+
+(d.
+
+at
+
+Amanullah, M. (2006) ‘Author’s Copyright: An Islamic Perspective’, The Journal of World Intellectual Property,
+
+9(3), 301–15.
+
+Barro, R. J. and McCleary, R. (2003) ‘Religion and Economic Growth across Countries’, American Sociological
+
+Review, 68(5), 760–81.
+
+Barro, R. J. and McCleary, R. M. (2006) ‘Religion and Political Economy in an International Panel’, Journal
+
+for the Scientiﬁc Study of Religion, 45(2), 149–75.
+
+Bashar, M. (1997) ‘Price Control in an Islamic Economy’, JKAU: Islamic economics, 9, 29–52.
+Bezman, T. L., and Depken, C. A. (2004) ‘Inﬂuences on Software Piracy: Evidence from the Various United
+States’, The University of Texas at Arlington, Department of Economics, Working Paper 04–010 [online].
+Available at (cid:3)http://www.uta.edu/depken/P/statepiracy.pdf(cid:4) [Accessed January 2005].
+
+Blum, U. and Dudley, L. (2001) ‘Religion and Economic Growth: Was Weber Right?’, Journal of Evolutionary
+
+Economics, 11(2), 207–30.
+
+Boldrin, M. and Levine, D. (2008) Against Intellectual Monopoly, Cambridge University Press, Cambridge.
+Business Software Alliance (BSA) (2008). Fifth Annual BSA and IDC Global Software Piracy Studies [online]. The
+Business Software Alliance. Available at (cid:3)http://global.bsa.org/globalpiracy2007/index.html(cid:4) [Accessed
+May 2010].
+
+462
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Nora El-Bialy and Moamen Gouda
+
+Business Software Alliance (BSA) (2009). Sixth Annual BSA and IDC Global Software Piracy Studies [on-
+line]. The Business Software Alliance. Available at (cid:3)http://global.bsa.org/globalpiracy2008/index.html(cid:4)
+[Accessed May 2010].
+
+Cavalcanti, T. V., Parente, S. L. and Zhao, R. (2007) ‘Religion in Macroeconomics: A Quantitative Analysis of
+
+Weber’s Thesis’, Economic Theory, 32(1), 105–23.
+
+CIA World
+
+Chaves, M. (1994) ‘Secularization as Declining Religious Authority’, Social Forces 72(3), 749–74.
+Chin, J. and Grossman, G. (1988) ‘Intellectual Property Rights and North–South Trade’, NBER Working Paper
+(cid:3)https://www.
+
+Series, 2769, National Bureau of Economic Research, Cambridge, November.
+cia.gov/library/publications/the-world- factbook/ﬁelds/2122.html(cid:4) [Accessed November 2010].
+Crabtree, S. and Pelham, B. (2009a) Religion Provides Emotional Boost to World’s Poor [online]. Gallup. Available
+at (cid:3)http://www.gallup.com/poll/116449/religion-provides-emotional-boost-world-poor.aspx(cid:4) [Accessed
+November 2009].
+
+Religions.
+
+Factbook
+
+Available
+
+Listing:
+
+(2010)
+
+Field
+
+at
+
+Crabtree, S. and Pelham, B.
+
+Perspective on Americans’ Religiosity Offers a Few Surprises
+(cid:3)http://www.gallup.com/poll/114211/Alabamians-Iranians-Common.aspx(cid:4) [Accessed July 2010].
+
+(2009b) What Alabamians and Iranians Have in Common: A Global
+[online]. Gallup. Available at
+
+Depken, C. and Simmons, L. (2004) ‘Social Construct and the Propensity for Software Piracy’, Applied Eco-
+
+nomics Letters, 11(2), 97–100.
+
+Diwan, I. and Rodrik, D. (1991) ‘Patents, Appropriate Technology, and North-South Trade’, Journal of Inter-
+
+Economist, the (2005-05-19) ‘BSA or just BS? Software Theft is Bad; So is Misstating the Evidence’. Available
+
+national Economics, 30(1–2), 27–48.
+at (cid:3)http://www.economist.com/node/3993427?story_id=3993427(cid:4) [Accessed July 2011].
+
+El Sheikh, A., Rashed, A., Qudah, B. A. and Peace, A. G. (2006) ‘An Exploratory Study of Software Piracy in
+
+Jordan’, The Electronic Journal on Information Systems in Developing Countries [online], 23(4), 1–8.
+
+Esposito, J. L. (1991) Islam: The Straight Path, New York: Oxford University Press.
+Falvey, R., Foster, N. and Greenaway, D. (2006) ‘Intellectual Property Rights and Economic Growth’, Review
+Fatwa. (2010). Oxford Online Dictionaries. Available at (cid:3)http://oxforddictionaries.com/deﬁnition/fatwa(cid:4) [Ac-
+
+of Development Economics, 10(4), 700–19.
+
+cessed March 2011].
+
+Fellmeth, A. (1998) ‘Copyright Misuse and the Limits of the Intellectual Property Monopoly’, Journal of
+
+Intellectual Property Law, 6(1), 1–40.
+
+Fischer, J. and Andr´es, A. (2005) ‘Is Software Piracy A Middle Class Crime? Investigating The Inequality-
+Piracy Channel’, University of St. Gallen, Department Of Economics, Working Paper Series 2005, 2005–18,
+Department of Economics, University of St. Gallen.
+Gallup Website (2009) What Alabamians and Iranians Have in Common [online]. Gallup. Available at
+(cid:3)http://www.gallup.com/poll/114211/alabamians-iranians-common.aspx(cid:4) [Accessed September 2010].
+Gibb, H. A. R. (1950) Mohammedanism, an Historical Survey, Oxford University Press, London, pp. 72–84.
+Gill, A. (1999) ‘Government Regulation, Social Anomie and Protestant Growth in Latin America: A Cross-
+
+National Analysis’, Rationality and Society 11(3), 287–316.
+
+Ginarte, J., and Park, W. (1997) ‘Determinants of Patent Rights: A Cross-National Study’, Research Policy,
+
+26(3), 283–301.
+
+Gould, D. M. and Gruben, W. (1996) ‘The Role of Intellectual Property Rights in Economic Growth2’, Journal
+
+of Development Economics, 48(2), 323–50.
+
+Grier, R. (1997) ‘The Effect of Religion on Economic Development: A Cross National Study of 63 Former
+
+Colonies’, Kyklos, 50(1), 47–62.
+
+Grossman, G. and Lai, E. (2004) ‘International Protection of Intellectual Property’, American Economic Review,
+
+94(5), 1635–53.
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+463
+
+Nora El-Bialy and Moamen Gouda
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Haigh, M. (2008) ‘The “Goodbye Petrovka” Plan: Moral Economy of File Sharing in Post Soviet Ukraine’,
+
+Quelle, Working paper series of the research network 1989, Berlin.
+
+Helpman, E.
+1247–80.
+
+(1993)
+
+‘Innovation,
+
+Imitation, and Intellectual Property Rights’, Econometrica 61(6),
+
+Hirschman, A. (1964) ‘The Paternity of an Index’, American Economic Review, 54(5), 76.
+Hofstede, G. (1981) ‘Culture and Organizations’, International Studies of Management and Organization, 10(4),
+Hofstede, G. (2004) Geert Hofstede Cultural Dimensions [online]. Available at (cid:3)http://www.geert-hofstede.
+
+15–41.
+com/hofstede_dimensions.php(cid:4) [Accessed November 2009].
+
+Hu, M. C., and Mathews, J. (2005) ‘National Innovative Capacity in East Asia’, Research Policy, 34(9),
+
+1322–49.
+
+Husted, B. (2000) ‘The Impact of National Culture on Software Piracy’, Journal of Business Ethics, 26(3),
+
+197–211.
+
+Iannaccone, L. R. (1991) ‘The Consequences of Religious Market Structures: Adam Smith and the Economics
+
+of Religion’, Rationality and Society, 3(2), 156–77.
+
+Iannaccone, L. R. and Stark, R. (1994) ‘A Supply-Side Reinterpretation of the “Secularization” of Europe’,
+
+(d. 855)
+
+Ibn Hanbal, A.
+
+Journal for the Scientiﬁc Study of Religion 33(3), 76–88.
+(2011) Al-musnad [online].
+(cid:3)http://www.islamweb.net/hadith/index.php(cid:4) [Accessed November 2009].
+‘aalameen [online], vol. 3, 1. Is-
+lamweb. Fatwas on Intellectual Property (in Arabic). Available at (cid:3)http://www.islamweb.net/ver2/
+fatwa/fatwacategory.php?lang=a&catid=2180(cid:4) [Accessed November 2009].
+
+Islamweb hadith encyclopaedia. Available at
+
+Ibn Qayyim, M. (d. 1349) (2011) I’laam ul muwaqqi’een ‘an rabb il
+
+Islamweb.net website (2009). Fatwas on IPR [Accessed November 2009].
+Jamar, S. D. (1992) ‘The Protection of Intellectual Property under Islamic Law’, Capital University Law Review
+
+[online], 21, 1–26. Available at (cid:3)http://ssrn.com/abstract=1148735(cid:4) [Accessed May 2010].
+
+Kanwar, S. and Evenson, R. (2003) ‘Does Intellectual Property Protection Spurt Technological Change?’, Oxford
+
+Economic Papers, 55(2), 235–64.
+
+Kamali, M. (1991) Principles of Islamic Jurisprudence, Islamic Texts Society, Cambridge.
+Khadduri, M. (1984) The Islamic Conception of Justice, Johns Hopkins University Press, Baltimore, Lanham,
+
+Khalil, O. (2003) Intellectual Property in the Islamic Jurisprudence [online]. Almeshkat Islamic website. Available
+
+MD.
+at (cid:3)http://www.almeshkat.net/books/open.php?cat=32&book=1621(cid:4) [Accessed March 2010].
+
+Ki, E.-J., Chang, E.-H. and Khang, H. (2006) ‘Exploring Inﬂuential Factors on Music Piracy across Countries’,
+
+Journal of Communication, 56(2), 406–26.
+
+Kinsella, S. (2001) ‘Against Intellectual Property’, Journal of Libertarian Studies, 15(2), 1–53. Auburn, AL:
+
+Ludwig von Mises Institute.
+
+Kiwit, D. and Voigt, S. (1995) ‘ ¨Uberlegungen zum institutionellen Wandel unter Ber¨ucksichtigung des
+Verh¨altnisses interner und externer Institutionen (Considerations on Institutional Change Taking into
+Account the Relationship between External and Internal Institutions)’, ORDO, 46, 117–48.
+ing Science + Information Technology Education Joint Conference, Ljubljana, Slovenia.
+
+Kovacic, Z. (2007) ‘Determinants of Worldwide Software Piracy’. Paper presented in proceedings of the Inform-
+
+Kyper, E., Lievano, R. J., Mangiameli, P. and Shin, S. K. (2004) ‘Software Piracy: A Time-Series Analysis’.
+Proceedings of the 10th Americas Conference on Information Systems, New York [online]. Available
+at (cid:3)http://aisel.isworld.org/pdf.asp?Vpath=AMCIS/2004&PDFpath=RINTNL01–1363.pdf(cid:4) [Accessed
+February 2005].
+
+Lai, E. and Qui, L. D. (2003) ‘The North’s Intellectual Property Rights Standard for the South?’, Journal of
+
+International Economics, Elsevier, 59(1), 183–209.
+
+464
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Nora El-Bialy and Moamen Gouda
+
+Lanjouw, J. and Lerner, J. (1997) ‘The Enforcement of Intellectual Property Rights: A Survey of the Empir-
+ical Literature’, NBER working paper [online], W6296. Available at (cid:3)http://ssrn.com/abstract=226053(cid:4)
+[Accessed March 2010].
+
+L´eger, A.
+
+(2007)
+
+‘Intellectual Property Rights and Innovation around the World: Evidence from
+Panel Data’, German Institute for Economic Research (DIW Berlin), Discussion Paper no. 696
+(June).
+
+Lewis-Fernandez, R. and Diaz, N. (2002) ‘The Cultural Formulation: A Method for Assessing Cultural Factors
+
+Affecting the Clinical Encounter’, Psychiatric Quarterly, 73(4), 271–295.
+
+Lopez, J. A. P. and Santos, J. M. S. (2008) ‘Effects of Competition on Religious Markets: Some Empirical
+
+Evidence’, Applied Economics Letters, 15, 371–74.
+
+Mansﬁeld, E. (1994) ‘Intellectual Property Protection, Foreign Direct Investment, and Technology Transfer’,
+
+International Finance Corporation, Discussion Paper 19, the World Bank, Washington, DC.
+
+Markusen, J. R. (1998) ‘Contracts, Intellectual Property Rights, and Multinational Investment in Developing
+
+Countries’, NBER Working Paper, W6448 (March).
+
+Marron, D. and Steel, D. (2000) ‘Which Countries Protect Intellectual Property? The Case of Software Piracy’.
+
+Economic inquiry, 38(2), 159–74.
+
+Maskus, K. (2000) ‘Intellectual Property Rights in the Global Economy’, Institute for International Economics,
+
+Washington, DC.
+
+Maskus, K. E., and Penubarti, M. (1995) ‘How Trade Related Are Intellectual Property Rights?’ Journal of
+
+International Economics, 39(3–4), 227–48.
+
+Mason, M. (2009) The Pirate’s Dilemma: How Youth Culture Is Reinventing Capitalism, Free Press,
+
+New York.
+
+McCleary R. M. and Barro R. J. (2006) ‘Religion and Political Economy in an International Panel’, Journal for
+
+the Scientiﬁc Study of Religion, 45(2), 149–75.
+
+McCalman, P. (2000) ‘Reaping What You Saw: An Empirical Analysis of International Patent Harmonization’,
+
+Mimeo, University of California-Santa Cruz, September.
+
+Moores, T. (2003) ‘The Effect of National Culture and Economic Wealth on Global Software Piracy Rates’,
+
+Communication of the ACM, 46(9), 207–15.
+Muslim, A. (d. 875) (2011) Sahih Muslim [online]. Ministry of Islamic Affairs, Endowments, Da‘Wah
+and Guidance. Available at (cid:3)http://hadith.al-islam.com/display/display.asp?doc=1&rec=3840(cid:4) [Accessed
+May 2010].
+
+Noland, M. (2005) ‘Religion and Economic Performance’, World Development, 33(8), 1215–32.
+North, D. (1990) Institutions, Institutional Change and Economic Performance, Cambridge University Press,
+
+Cambridge.
+
+North, C. and Gwin, C. (2004) ‘Religious Freedom and the Unintended Consequences of State Religion’,
+
+Southern Economic Journal, 71(1), 103–17.
+
+Opper, S. (2008) ‘New Institutional Economics and Its Application on Transition and Developing Economies’,
+in E. Brousseau and J. Glachant (eds), New Institutional Economics—A Guidebook, Cambridge University
+Press, Cambridge.
+
+Penrose, E. (1951) The Economics of the International Patent System, Johns Hopkins University Press, Lanham,
+
+MD, Baltimore, pp. 116–17.
+
+Plant, A. (1974) ‘The Economic Theory Concerning Patents for Inventions’, in Selected Economic Essays and
+Addresses, Routledge & Kegan Paul, London, 35–56 (originally published in Economica, New Series, 1(1),
+February 1934, 30–51).
+
+Primo Braga, C. A. and Fink, C. (1998) ‘Reforming Intellectual Property Rights Regimes: Challenges
+for Developing Countries’, Journal of International Economic Law [online], 1(4), 537–54. Available at
+(cid:3)http://jiel.oxfordjournals.org/content/1/4/537.full.pdf(cid:4) [Accessed July 2011].
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+465
+
+Nora El-Bialy and Moamen Gouda
+
+Can Shari’a be a Deterrent for IPR Piracy?
+
+Qur’an, the holy (all verbatim quotations are from the translation of the Qur’an by Abdullah Yusufali,
+“the meanings of the holy Qur’an”, published in 2006.) Available at (cid:3)http://www.thegodisone.com/
+koran.pdf(cid:4) [Accessed March 2011].
+
+Ronkainen, I. and Guerrero-Cusumano, J. (2001) ‘Correlates of Intellectual Property Violation’, Multinational
+
+Business Review, 9(1), 59–65.
+
+Schneider, P. H. (2005) ‘International Trade, Economic Growth and Intellectual Property Rights: A Panel
+Data Study of Developed and Developing Countries’, Journal of Development Economics, 78(2),
+529–47.
+
+Sened, I. (1997) The Political Institution of Private Property, Cambridge University Press, Cambridge.
+Shadlen, K., Schrank, A. and Kurtz, M. (2004) ‘The Political Economy of Intellectual Property Protection: The
+
+Case of Software’, International Studies Quarterly, 49(1), 45–71.
+
+Shin, S., Gopal, R., Sanders, G. and Whinston, A. (2004) ‘Global Software Piracy Revisited: Beyond Eco-
+
+nomics2’, Communications Of The ACM, 47(1), 103–07.
+
+Shore, B., Venkatachalam, A. R., Solorzano, E., Burn, J. M., Hassan, S. Z. and Janczewski, L. J. (2001)
+
+‘Softlifting and Piracy: Behaviour across Cultures’, Technology in Society, 23(4), 563–81.
+
+Smith, I. and Sawkins, J. W. (2003) ‘The Economics of Regional Variation in Religious Attendance’, Applied
+
+Economics, 35(14), 1577–88.
+
+Smith, I., Sawkins, J. W. and Seaman, P. T. (1998) ‘The Economics of Religious Participation: A Cross-Country
+
+Stiglitz, J.
+
+Study’, Kyklos, 51(1), 25–43.
+(cid:3)http://www.bcs.rochester.edu/people/eorhan/2006_New_Scientist.pdf(cid:4).
+
+(2006)
+
+‘Give Prizes Not Patents’, 16 September, The New Scientist, 21. Available at
+
+Stiglitz, J. (2008) ‘Economic Foundations of Intellectual Property Rights’, Duke Law Journal, 57(6), 101–132.
+Swinyard, W. R., Rinne, H. and Keng Kau, A. (1990) ‘The Morality of Software Piracy: A Cross-Cultural
+
+Analysis’, Journal of Business Ethics, 9, 655–64.
+
+Thompson, M. A. and Rushing, F. W. (1999) ‘An Empirical Analysis of the Impact of Patent Protection on
+
+Economic Growth: An Extension’, Journal of Economic Development, 24(1), 67–76.
+
+Van Kranenburg, H. and Hogenirk, A. (2005) ‘Multimedia, Entertainment, and Business Software Copyright
+
+Piracy: A Cross-National Study’, Journal of Media Economics, 18(2), 109—29.
+
+Verzola, R. (2004) ‘Towards a Political Economy of Information’, Foundation for Nationalist Studies (FNS),
+
+Quezon City, Philippines.
+
+World Intellectual Property Organization (WIPO) (2010) Collection of Laws for Electronic Access (CLEA)
+
+World values survey (2009a) Values change the world [online]. The Word Value Survey. Available at
+
+database. [Accessed July 2010].
+(cid:3)http://www.worldvaluessurvey.com/(cid:4) [Accessed May 2010].
+Available at (cid:3)http://www.worldvaluessurvey.com/(cid:4) [Accessed May 2010].
+
+World values survey (2009b) WVS 2005 Codebook (version 20090415) [online]. The World Value Survey.
+
+Yang, G. and Maskus, K. E. (2001) ‘Intellectual Property Rights, Licensing, and Innovation in an Endogenous
+
+ZDNet, UK (2005–06-24) Lies,
+
+Product-Cycle Model’, Journal of International Economics, 53(1), 169–87.
+(cid:3)http://www.zdnet.co.uk/news/it-at-work/2005/06/24/lies-damn-lies-and-statistics-39205464/(cid:4)
+cessed June 2011].
+
+(online). ZDNet. Available
+
+statistics
+
+damn
+
+and
+
+lies
+
+at
+[Ac-
+
+466
+
+C(cid:2) 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 6
+
+

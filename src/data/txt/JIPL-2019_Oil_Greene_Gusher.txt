@@ -1,0 +1,2957 @@
+Journal of Intellectual Property Law & Practice, 2019, Vol. 14, No. 1
+
+ARTICLE
+
+33
+
+Oil States v Greene’s Energy: US Supreme Court
+‘taps a gusher’ for patent challengers
+Robert M. Kunstadt*
+
+Did Oil States interpret ‘public rights’
+correctly?
+
+A review of the case law concerning the public right/
+private right distinction in respect of the requirement
+of jury trial suggests that the Oil States decision repre-
+sents a departure from the manner in which ‘public
+rights’ were previously construed by the US Supreme
+Court.
+
+As early as 1937, the Supreme Court considered this
+topic in the context of labor-relations law. During the
+Great Depression, Congress empowered the National
+Labor Relations Board to impose administrative penal-
+ties,
+for unfair labor
+practices. Chief Justice Hughes upheld the power of the
+National Labor Relations Board (NLRB) to administer
+Federal labor law without beneﬁt of jury trial.
+
+including monetary penalties,
+
+common law.
+
+The instant case is not a suit at common law or in
+the nature of such a suit. The proceeding is one un-
+known to the
+is a statutory
+proceeding. Reinstatement of the employee and payment
+for time lost are requirements imposed for violation of
+its
+the
+enforcement. The
+Seventh
+Amendment is without merit.2
+
+remedies appropriate
+
+contention under
+
+statute, and are
+
+the
+
+to
+
+It
+
+Hence, new administrative remedies unknown to the
+English common law did not need adjudication by jury.
+The NLRB decision was clariﬁed in Granﬁnanciera, SA
+v Nordberg which explained:
+
+[O]ur statement should not be taken to mean that Congress
+may assign at least the initial factﬁnding in all cases involv-
+ing controversies entirely between private parties to adminis-
+trative agencies or other tribunals not involving juries, so
+long as they are established as adjuncts to Article III courts.
+If
+the Seventh
+Amendment a nullity. Rather, that statement . . . means only
+that in some cases involving “private rights” . . . namely, as
+encompassing all disputes to which the Federal Government
+
+could render
+
+so, Congress
+
+that were
+
+The author
+ Robert M. Kunstadt is an IP Attorney with R
+
+Kunstadt, PC, New York.
+
+This article
+ In Oil States Energy Services, LLC v Greene’s Energy
+Group, LLC (Oil States), the US Supreme Court’s
+opinion by Justice Thomas upheld the power of
+Congress to assign validity issues concerning an
+oil-well patent contested between the parties, to
+determination by administrative judges of
+the
+Patent Trial and Appeal Board (PTAB) sitting
+without a jury.1 Justice Thomas considered patents
+to be a form of ‘public right’ of the type histori-
+cally subject, at least in certain instances, to royal
+prerogative, with determination by administrative
+agents of the English monarchy; hence, not of the
+type calling for mandatory trial by jury under the
+US Constitution.
+
+ The Oil States decision facilitates a developing
+practice for patent cases pending in the US district
+courts to be stayed pending determinations of va-
+lidity by the PTAB (increasingly a favoured forum
+for patent challengers).
+
+ A few loose ends sketched by Justice Thomas, in-
+cluding a possible concern about retroactive applica-
+tion to previously issued patents, suggest that Oil
+States may not be the last word on the PTAB’s au-
+thority. The Patent and Trademark Ofﬁce (PTO) has
+now itself suggested that reforms to make PTAB
+decisions more closely conform to those rendered in
+the district courts might be considered.
+
+is not a party in its sovereign capacity – may Congress dis-
+pense with juries as factﬁnders through its choice of an adju-
+dicative forum. Those cases in which Congress may decline
+
+*
+1
+
+Email: mail@RKunstadtPC.com.
+Oil States Energy Services, LLC v Greene’s Energy Group, LLC, Slip
+Opinion issued April 24, 2018. The author published in this journal con-
+cerning previous developments in connection with patent jury trials: R
+Kunstadt, ‘MCM v. HP: are Patent Jury-trials now Buggy-whips?’, (2017)
+12(4) JIPLP 331 (analysing CAFC’s rejection of Seventh Amendment
+jury-trial-right objection to invalidation of US patents by PTAB); and R
+
+Kunstadt, ‘IP Jury Trials—Trouble Ahead?’ (2014) 9(8) JIPLP 639 (fore-
+shadowing implications of ‘public right’ doctrine for curtailing IP jury
+trials of all kinds (patent, trade mark and copyright)). Readers are re-
+ferred to those articles for basic information on the topic, which will not
+be repeated here.
+NLRB v Jones & Laughlin Steel Corp, 301 US 1, 48–49 (1937) (emphasis
+added).
+
+2
+
+VC The Author(s) 2018. Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jpy107
+Advance Access Publication 31 July 2018
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+4
+1
+3
+3
+5
+0
+6
+2
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+34
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2019, Vol. 14, No. 1
+
+to provide jury trials are ones involving statutory rights that
+are integral parts of a public regulatory scheme and whose ad-
+judication Congress has assigned to an administrative agency
+or specialized court of equity . . . [W]e now refer to those
+rights as “public,” rather than “private.”3
+
+The Granﬁnanciera court explained that ‘[i]f a statutory
+right is not closely intertwined with a federal regulatory
+program Congress has power to enact, and if that right
+neither belongs
+the Federal
+Government, then it must be adjudicated by an Article
+III court.’.4
+
+to nor exists against
+
+Thus, by allowing certain ‘public rights’ cases to escape
+jurisdiction of the Article III courts—and with it the jury-
+trial requirement—Granﬁnanceria expanded the scope of
+public rights from party disputes with the Federal govern-
+ment (such as under the NLRB in 1937) to include rights
+‘intertwined with a federal regulatory program’.
+
+Consequently, if patent rights are now understood as
+rights intertwined with a Federal regulatory program,
+then jury trial before an Article III court is not required
+by the Constitution. The Oil States majority opinion by
+Justice Thomas applied ‘public rights’ doctrine in this
+manner to dismiss the constitutional challenge to the
+PTAB’s adjudication of patent validity by an Article I
+tribunal without beneﬁt of jury.
+
+However, is it appropriate to categorize patent rights
+in the same manner as labor-law regulations? The origi-
+nal rationale for non-jury adjudication of labor cases by
+administrative tribunal was that labor-law regulations
+represented a type of case ‘unknown to the common
+law’.5 Adjudication of patent validity could hardly be
+considered a type of case unknown to the common law.
+Indeed, the parties and amici, as well as the Oil States
+majority and dissenting opinions, devote many pages to
+treating the common-law approach to determination of
+patent validity. Hence, patent law cannot by any stretch
+be viewed as a novel statutory scheme for administra-
+tive regulations ﬁrst promulgated in the 20th century.
+
+Similarly, the PTAB’s inter-partes trial procedure does
+not represent a contest between the US Government and
+a private party of the type traditionally considered a vindi-
+cation of a ‘public right’ by the Government in its capac-
+ity as sovereign. Rather, PTAB validity challenges are
+instituted by private parties, with Government-employed
+judges participating as the neutral arbiter.
+
+In this respect, PTAB inter-partes trials may be dis-
+tinguished from the re-issue and re-examination proce-
+dures previously upheld as constitutional.6 In a re-issue
+case, the patentee voluntarily surrenders the issued pat-
+ent to the PTO, and solicits new claims from the PTO
+examiner.7 In a re-examination case, either the patentee
+or a third party solicits the PTO to take a second look
+at the issued patent, in view of new-discovered evidence
+of prior art. If a re-examination is instituted, proceed-
+ings to determine the validity of the patent claims are
+between the patentee and the PTO, not between the
+patentee and a private party.8
+
+Hence, the previously upheld procedures are more
+closely akin to a controversy between the Government
+and a private party (the patentee) than is a PTAB trial
+between two private parties taking opposite sides of the
+validity issue. All the more so, when one of those pri-
+vate parties, the challenger, may already have been en-
+gaged as
+in a patent-
+infringement case pending before an Article III court
+(with a jury-trial having already been demanded in the
+patentee’s complaint).
+
+accused defendant
+
+the
+
+Oil States, if validly decided, therefore represents a
+signiﬁcant expansion of the public-rights doctrine be-
+yond its previous application. The question arises
+whether in consequence and furtherance of Oil States,
+‘Congress could render the Seventh Amendment a
+nullity’ in patent cases.9
+
+Further Congressional efforts in that direction might
+ﬁnd support in B&B Hardware, Inc v Hargis Industries,
+Inc, a trade mark case in which the Supreme Court held
+that decisions rendered by the Article I Trademark Trial
+and Appeal Board (TTAB) sitting without a jury, must
+be respected as binding precedent
+in trade mark-
+infringement litigation in the Article III district courts.10
+The theory applied in that case was not ‘public
+rights’, but rather ‘issue preclusion’. Since the issue of
+likelihood of confusion had already been tried before
+the TTAB, the Supreme Court found no objection to
+the application of that result in subsequent proceed-
+ings—including in the district courts.
+
+It must be noted, however, that trial before the
+TTAB is essentially voluntary, since TTAB trials are
+routinely suspended when district court litigation is
+pending.11 Hence, enforcing a TTAB verdict is like
+
+3
+
+4
+5
+6
+7
+
+Granﬁnanciera, SA v Nordberg, 492 US 33, 55 fn 10 (1989) (emphasis
+added).
+ibid 492 US 54–55.
+See n 2.
+See eg Patlex Corp v Mossinghoff, 758 F 2d 594 (CAFC 1985).
+35 USC s 251.
+
+8
+9
+10
+
+ibid s 302.
+See n 3.
+B&B Hardware, Inc v Hargis Industries, Inc, 575 US ___; 135 S.Ct. 1293
+(2015).
+
+11 Eg New Orleans Louisiana Saints LLC and NFL Properties LLC v Who
+
+Dat? Inc, 99 USPQ2d 1550 (TTAB 2011).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+4
+1
+3
+3
+5
+0
+6
+2
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Robert M. Kunstadt  Oil States v Greene’s Energy
+
+ARTICLE
+
+35
+
+enforcing a district court verdict in a case in which the
+parties have waived trial by jury.
+
+Patent rights as ‘property’ rights
+
+Justice Thomas was presented with a further impedi-
+ment to his interpretation in favour of the executive
+branch’s administrative power, in the form of prior
+Supreme Court precedents that by their terms appeared
+indefeasible
+to classify already-granted patents as
+‘property’
+the
+McCormick decision of 1898:
+
+rights. One such leading case was
+
+[W]hen a patent has received the signature of the Secretary
+of the Interior, countersigned by the Commissioner of
+Patents, and has had afﬁxed to it the seal of the Patent
+Ofﬁce, it has passed beyond the control and jurisdiction of
+that ofﬁce, and is not subject to be revoked or cancelled by
+the President, or any other ofﬁcer of the Government. It
+has become the property of the patentee, and as such is en-
+titled to the same legal protection as other property. The
+only authority competent to set a patent aside, or to annul
+it, or to correct it for any reason whatever, is vested in the
+courts of the United States, and not in the department
+which issued the patent. And in this respect a patent for an
+invention stands in the same position and is subject to the
+same limitations as a patent for a grant of lands. The power
+to issue either one of these patents comes from Congress,
+and is vested in the same department. In the case of a pat-
+ent for lands, it has been held that when one has obtained
+a patent from the government, he cannot be called upon to
+answer in regard to that patent before the ofﬁcers of the
+Land Department, and that the only way his title can be
+impeached is by suit.12
+
+Faced with such sweeping Supreme Court precedent
+appearing to validate the equivalence of property in land
+with property in patents, Justice Thomas drew a distinc-
+tion between patent rights secured by statute and other
+rights that might be secured by the Constitution. Justice
+Thomas proceeded to distinguish McCormick by main-
+taining that the 1898 McCormick court must have de-
+cided only on the basis of the patent statute as it existed
+at that time. Since the patent statute was amended in
+2011 to provide for the PTAB’s administrative revoca-
+tion of granted patents, Justice Thomas determined that
+such new statutory authority provided sufﬁcient basis to
+support the challenged PTAB procedures.13
+
+An objection to Justice Thomas’ reasoning is that the
+McCormick court did not explain its rationale for
+
+upholding that patent-in-suit on grounds that no spe-
+ciﬁc statutory authority permitted its nulliﬁcation. It
+would have been simple enough for that court to point
+to the patent statute as it existed in 1870, if that is what
+the court had in mind as its rationale for decision.
+
+Instead, the court preferred to reason by analogy,
+comparing invention patents to indefeasible grants of
+property rights in land (property constitutionally pro-
+tected from takings). Reference was expressly made to
+the concept of ‘jurisdiction’ of the PTO. If the basis for
+lack of jurisdiction was only a deﬁciency in the then-
+existing patent statute, the McCormick court could have
+simply cited the section of the 1870 statute enumerating
+the powers of the PTO, and noted lack of any authority
+for revocation.
+
+The Patent Act of 1870, Ch 230, 16 Stat. 198–217 (8
+July 1870), in force at the time of the McCormick deci-
+sion, provided that the authority of the Commissioner
+of Patents was to ‘superintend or perform all the duties
+respecting the granting and issuing of patents’ (section
+7) (emphasis added).14 Section 55 of the Act provided:
+
+[A]ll actions, suits, controversies, and cases arising under
+the patent laws of the United States shall be originally cog-
+nizable, as well in equity as at law, by the circuit courts of
+the United States, or any district court having the powers
+and jurisdiction of a circuit court, or by the supreme court
+of the District of Columbia, or of any Territory . . .
+
+Therefore, if the McCormick court had been inclined to
+base its ruling upon a ‘strict-constructionist’ interpreta-
+tion of the patent statute, it readily enough might have
+reasoned that since revocation of a granted patent was
+not encompassed within the power of the Commissioner
+to grant and issue patents—being the exact opposite of
+those speciﬁed tasks—the Commissioner acted ultra vires
+in purporting to revoke a patent. And, further, that orig-
+inal jurisdiction was statutorily ﬁxed in the courts for all
+‘actions, suits, controversies, and cases’. A ruling on
+those narrow statutory grounds would not have needed
+to reach constitutional issues.
+
+However, this did not happen. Instead, it’s apparent
+that the McCormick court must have intended to ad-
+dress the broader question of the property status of pat-
+ent rights, such as to entitle them vel non to exclusive
+jurisdiction of the courts for revocation actions. The
+logical reason why the McCormick court resorted to
+consideration of the corresponding powers of ofﬁcers
+of the Land Department, which on ﬁrst blush would
+
+12 McCormick Harvesting Mach Co v Aultman, 169 US 606, 608–09 (1898)
+
+14
+
+(citations omitted).
+
+13 Op, 11 (‘Those precedents, then, are best read as a description of the stat-
+
+utory scheme that existed at that time.’).
+
+Interferences—including those involving granted patents—were to be de-
+cided by testimonial proceedings within the Patent Ofﬁce (s 42ff). Re-
+issue was provided by s 53. Full text of 1870 Act: <http://www.ipmall.
+info/sites/default/ﬁles/hosted_resources/lipa/patents/Patent_Act_of_
+1870.pdf> accessed 26 June 2018.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+4
+1
+3
+3
+5
+0
+6
+2
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+36
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2019, Vol. 14, No. 1
+
+seem not to shed the least light upon the express statu-
+tory authority of the Commissioner of Patents, must
+have been that it wished to establish general principles
+of jurisdiction beyond the limited application of any
+particular statute.
+
+if
+
+Indeed,
+
+the point of mentioning the Land
+Department was merely to invoke its governing statute
+as a model for a close reading of the patent statute,
+then the McCormick court would have been expected to
+quote and compare those governing statutes conferring
+authority upon those two kinds of administrative ofﬁ-
+cials; showing that both were constrained to compara-
+ble limits of executive power. Instead, we ﬁnd the
+McCormick court eschewing any reference to statutes or
+statutory construction—quite to the contrary, invoking
+broad concepts of ‘property’ rights resonating in princi-
+ples of constitutional law:
+
+[T]o attempt to cancel a patent upon an application for re-
+issue when the ﬁrst patent is considered invalid by the ex-
+aminer would be to deprive the applicant of his property
+without due process of law, and would be in fact an invasion
+of the judicial branch of the government by the executive.15
+
+Justice Thomas, in dismissing the McCormick ruling as
+having been based upon statutory grounds when that
+manifestly could not have been the actual intent of that
+court, downplayed the very issue that called for resolu-
+tion in Oil States. Justice Thomas might fairly have crit-
+icized the McCormick decision as dictum, needlessly
+overreaching to consider constitutional grounds while
+ignoring the plain text of the Patent Act of 1870. But
+that would have taken Justice Thomas only partway
+home: even if McCormick were reinterpreted as mere
+dictum, it still would have been a persuasive authority
+on the constitutional issues. The mere fact that the
+McCormick court did not have to rule on constitutional
+grounds does not erase the fact that it evidently did do
+so—consequently, the Oil States Court was not writing
+upon a completely clean slate.
+
+The ‘Privy Council’ in English historical
+practice
+
+Even defenders of the PTAB, such as Amicus Dell, ad-
+mitted that Article III courts should decide ‘any matter
+which, from its nature, is the subject of a suit at the
+
+15 McCormick (n 12) 612 (emphasis added).
+16 Dell Amicus Brief in Oil States, p 5 (30 October 2017) (citing Murray’s
+
+17
+
+Lessee v Hoboken Land & Improvement Co, 59 US (18 How) 272, 284
+(1856)).
+ibid 9 (emphasis added). Dell did alternatively mention the ‘public rights’
+doctrine as an alternative theory for supporting the PTAB, while not
+brieﬁng it. Dell Amicus Brief in Oil States, 6 fn 2.
+
+common law, or in equity, or admiralty’.16 However,
+Dell urged that, because the English ‘Privy Council’ had
+inherent authority to revoke English patents,
+the
+common-law and chancery courts were not the exclu-
+sive English forum in which patents could be revoked
+when the US Constitution was adopted:
+
+The relevant constitutional question for purposes of Article
+III and the Seventh Amendment is therefore whether, at
+the time of the Founding, patents could be revoked—
+whether typically, occasionally, or even rarely—by a non-
+judicial decision-maker. The answer to that question is em-
+phatically “yes” because persons seeking to challenge the
+validity of a patent could seek relief from the Privy Council
+for more than a century after the Founding.17
+
+Hence, the brieﬁng in Oil States framed the issue of
+how to treat certain exceptional and rare cases.
+Defenders of the PTAB argued like Dell that any excep-
+tions to English jury practice support the PTAB’s pro-
+priety; while opponents of the PTAB argued to the
+contrary that the infrequency of such exceptions dem-
+onstrates the need for jury trials before US Article III
+courts due to the general practice of jury submission in
+England.
+
+It therefore becomes instructive to consider a prior
+Supreme Court decision by Justice Thomas himself,
+which upheld the right to a jury trial in a copyright case.
+Did Justice Thomas adhere to the ‘any exception’
+school in order to deny a jury? Or did he follow the
+‘general practice’
+line of reasoning to require one?
+Justice Thomas’ prior decision will be considered in de-
+tail below, upon completion of an historical review of
+English practice.
+
+While the US Constitution marked a clean break
+from monarchical authority in the former colonies,
+commentators record only a gradual diminution of the
+monarch’s control of patent matters in England itself,
+in favour of proceedings conducted in the common-law
+courts. Prof. Bracha characterizes this as ‘a gradual de-
+cline that lasted into the 19th century accompanied by
+a long period of ambiguity’.18 Signiﬁcantly, during this
+period the Privy Council came to refer parties to the
+common-law courts to try their claims.19
+
+Unfortunately for those seeking clarity in divining
+the contours of US patent law that may be consistent
+with the
+‘long period of
+ambiguity’ is precisely where the attention of the parties
+
+constitution, England’s
+
+18 O Bracha, ‘Owning Ideas: A History of Anglo-American Intellectual
+
+Property’, ch 1, 63 (June 2005) (PhD Thesis, Harvard Law School)
+<https://law.utexas.edu/faculty/obracha/dissertation/> accessed 26 June
+2018).
+ibid 62–63.
+
+19
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+4
+1
+3
+3
+5
+0
+6
+2
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Robert M. Kunstadt  Oil States v Greene’s Energy
+
+ARTICLE
+
+37
+
+and amici strongly focused in Oil States. Jurists like
+Justice Thomas, whose preferred touchstone of consti-
+tutional interpretation is limited by doctrine to the de-
+termination of ‘original intent’, may even decline to
+look elsewhere.
+
+Since those justices who otherwise might be inclined
+to espouse an interpretation of the constitution in light
+of the full arc of history sided with Justice Thomas’ Oil
+States opinion, no justice on the court made an attempt
+to redirect attention to any possible differences between
+the business environment of 18th century England and
+21st century USA in order to see what might be a rea-
+sonable interpretation in view of developments over
+more than 200 years. It was left to Justice Gorsuch to
+present a defense of the common-law courts, in a dis-
+sent joined by Chief Justice Roberts.
+
+The Oil States dissent
+
+The Oil States dissent took sharp issue with the major-
+ity’s conclusion that certain rare or exceptional instan-
+ces of non-jury adjudication of patent validity by the
+English Privy Council could sufﬁce to validate the
+PTAB’s constitutionality. Dissenting Justice Gorsuch
+pointed out:
+
+As I read the historical record presented to us, only courts
+could hear patent challenges in England at the time of the
+founding. If facts were in dispute, the matter ﬁrst had to pro-
+ceed in the law courts. If successful there, a challenger then
+had to obtain a writ of scire facias in the law side of the Court
+of Chancery. The last time an executive body (the King’s
+Privy Council) invalidated an invention patent on an ordinary
+application was in 1746, in Darby v. Betton; and the last time
+the Privy Council even considered doing so was in 1753, in
+Baker v. James. After Baker v. James, the Privy Council
+“divest[ed] itself of its functions” in ordinary patent disputes,
+which “thereafter [were] adjudicated solely by the law courts,
+as opposed to the [crown’s] prerogative courts” . . .20
+
+Addressing the few cases in which the Privy Council
+was
+Justice
+Gorsuch noted:
+
+involved in patent-revocation disputes,
+
+At most, they suggest that the Privy Council might have
+possessed some residual power to revoke patents to address
+wartime necessities. Equally, they might serve only as more
+unfortunate evidence of the maxim that in time of war, the
+laws fall silent.21
+
+Indeed, those cases seem to have involved the Board of
+Ordinance.22 An Amicus brief
+submitted by Prof.
+
+Gomez-Arostegui reviewed the history of patent cases
+before the Privy Council in England:
+
+The last revocation of an invention patent occurred in
+1779, and that was on a matter affecting national security
+and only after the patentee refused to go to law. The peti-
+tioner, the Board of Ordnance, was responsible for supply-
+ing munitions to the army and navy during the American
+Revolutionary War and it sought to annul a patent for cast-
+ing and boring iron cannons. The patentee had used the
+patent to impede the Board’s contractors. The last English
+petition, ﬁled with the Council in 1782, and which sought
+to vacate a patent for pistols, was also referred to the
+Attorney General, but nothing came of it.23
+
+A close modern analogy to the Privy Council’s power
+to revoke patents on munitions needed in wartime may
+be the US Government’s immunity from injunctive re-
+lief in patent cases, necessitating a claim for damages as
+the sole form of relief, to be pursued in a non-jury trial
+before the Court of Federal Claims. 28 USC section
+1498(a) provides:
+
+Whenever an invention described in and covered by a pat-
+ent of the United States is used or manufactured by or for
+the United States without license of the owner thereof or
+lawful right to use or manufacture the same, the owner’s
+remedy shall be by action against the United States in the
+United States Court of Federal Claims for the recovery of
+his reasonable and entire compensation for such use and
+manufacture.
+
+Hence it’s not possible for a patentee to impede pro-
+duction of the patented product by obtaining injunctive
+relief against the sovereign US government.24 An inven-
+tion indispensable for war production—of the type that
+in 18th-century England might have been adminis-
+tratively revoked by the Privy Council—would now in
+the USA become the subject of royalty proceedings be-
+fore the Court of Federal Claims.
+
+The Court of Federal Claims is an Article I adminis-
+trative court that tries its cases by a single judge sitting
+without a jury.25 Hence, it may be the body most com-
+parable to the pre-1789 monarchical English Privy
+Council, in that the Court of Federal Claims provides
+special privileges and immunities to the US sovereign
+that are not enjoyed by ordinary citizens accused of pat-
+ent
+the US sovereign has
+waived its immunity from infringement suits to the
+limited extent it permits itself to be sued before that
+court in accordance with its non-jury procedures; with
+the remedy being limited to monetary relief.
+
+infringement. Effectively,
+
+20 Oil States, Gorsuch Op, 4–5 (citations omitted).
+21
+22
+
+ibid p 6 (emphasis added; footnote omitted).
+ibid.
+
+23
+
+‘Brief For H Toma´s Go´ mez-Arostegui and Sean Bottomley as Amici
+Curiae In Support Of Neither Party’, 35 (17 August 2017).
+
+24 Richmond Screw Anchor Co v United States, 275 US 331, 344 (1928).
+25
+
+28 USC s 174.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+4
+1
+3
+3
+5
+0
+6
+2
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+38
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2019, Vol. 14, No. 1
+
+Justice Thomas may have overlooked an apt alterna-
+tive analogy to the Privy Council, by focusing ﬁxedly
+on blunt facts of ancient history while failing to con-
+sider the historically limited purposes underlying the
+Privy Council’s power to revoke patents. By analogizing
+the Privy Council to the PTAB, rather than to the
+Court of Federal Claims, a rarely exercised historical
+tool for the English monarch to revoke patents as a
+royal prerogative for the public defense has now been
+put in the hands of any member of the modern general
+public to invoke at the PTAB—be it for a good pur-
+pose, for no purpose, or as an intermeddling pest. This
+does unquestionably democratize the formerly royal
+prerogative.
+
+Justice Gorsuch, however, points out that a principal
+motivation for the USA to break from England, was to
+be free of such prerogatives:
+
+[A]n American patent in the late eighteenth century was
+radically different from the royal monopoly privilege dis-
+pensed by Queen Elizabeth or King James in the early sev-
+enteenth century. Patents no longer created, and sheltered
+from competition, manufacturing monopolies—they se-
+cured the exclusive control of an inventor over his novel
+and useful scientiﬁc or mechanical invention.26
+
+As explained in Chief Justice Rehnquist’s dissent in an
+earlier case:
+
+It is perhaps easy to forget, now more than 200 years re-
+moved from the events, that the right of trial by jury was
+held in such esteem by the colonists that its deprivation at
+the hands of the English was one of the important grievan-
+ces leading to the break with England. The extensive use of
+vice-admiralty courts by colonial administrators to elimi-
+nate the colonists’ right of jury trial was listed among
+the speciﬁc offensive English acts denounced in the
+Declaration of Independence.27
+
+Justice Gorsuch’s view also ﬁnds support in the 19th-
+century American Bell Supreme Court precedent:
+
+But whatever may have been the course of procedure usual
+or requisite in the English jurisprudence to enable the King
+to repeal, revoke, or nullify his own patents, issued under
+his prerogative right, it can have but little force in limiting
+or restricting the measures by which the government of the
+United States shall have a remedy for an imposition upon
+it or its ofﬁcers in the procurement or issue of a patent. We
+have no King in this country; we have here no prerogative
+right of the Crown, and letters patent, whether for inven-
+tions or for grants of land, issue not from the President,
+
+but from the United States. The President has no preroga-
+tive in the matter.28
+
+Justice Thomas criticized petitioner Oil States’ reliance
+on such 19 century precedent, holding that it must
+have been decided on statutory grounds based upon the
+patent
+laws then in force, which have since been
+amended to permit PTAB review.29 But the precedent
+quoted above relies upon the key circumstance that
+‘[w]e have no King in this country’—and that has not
+been changed by the ‘America Invents Act’ setting up
+the PTAB. Hence, the American Bell court was self-
+evidently invoking the underlying framework of the
+American constitutional republic as a limit on executive
+authority, not just the patent statute as it was then in
+force.
+
+Viewed in this light, denial of jury trials on patent
+validity can be seen as a throwback to the pre-
+Revolutionary theory that
+the monarchy and its
+appointed administrative ofﬁcers are the ones best
+equipped to manage the intellectual-property incentive
+system. Perhaps that’s the inevitable result of a ‘strict’
+application of
+the principle that pre-revolutionary
+English practice must be the ironclad touchstone ines-
+capably controlling modern procedures.
+
+Copyright jury trials—Feltner contrasted
+with Oil States
+
+Oil States is not the ﬁrst time that Justice Thomas has
+addressed the right to jury trial in an IP case. Twenty
+years ago, Justice Thomas wrote the opinion securing
+the right to jury trial in a copyright case, Feltner v
+Columbia Pictures Television, Inc, 523 US 340 (1998).30
+In that case, Justice Thomas reasoned as follows:
+
+Since Justice Story’s time, the Court has understood ‘Suits
+at common law’ to refer ‘not merely [to] suits, which the
+common law recognized among its old and settled proceed-
+ings, but [to] suits in which legal rights were to be ascer-
+tained and determined, in contradistinction to those where
+equitable rights alone were recognized, and equitable rem-
+edies were administered.’ The Seventh Amendment thus
+applies not only to common-law causes of action, but also
+to ‘actions brought to enforce statutory rights that are
+analogous to common-law causes of action ordinarily
+decided in English law courts in the late 18th century, as
+opposed to those customarily heard by courts of equity or
+admiralty.’ To determine whether a statutory action is
+
+26 Oil States, Gorsuch Op, fn 3 (quoting A Mossoff, ‘Who Cares What
+Thomas Jefferson Thought About Patents? Reevaluating the Patent
+“Privilege” in Historical Context’ (2007) 92 Cornell L Rev 953, 967–68).
+
+27 Parklane Hoisery Co, Inc v Shore, 439 US 322, 340 (1979).
+28 United States v American Bell Telephone Co, 128 US 315, 362–63 (1888)
+
+(emphasis added).
+
+29 Oil States, Op, 11.
+30
+
+Interestingly, Chief Justice Roberts, who joined Justice Gorsuch’s Oil
+States dissent, was the winning counsel for petitioner in the previous
+Feltner case. Hence, Chief Justice Roberts must have been familiar with
+Justice Thomas’ reasoning for upholding a jury-trial right in that copy-
+right case.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+4
+1
+3
+3
+5
+0
+6
+2
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Robert M. Kunstadt  Oil States v Greene’s Energy
+
+ARTICLE
+
+39
+
+more analogous to cases tried in courts of law than to suits
+tried in courts of equity or admiralty, we examine both the
+nature of the statutory action and the remedy sought.31
+
+In that instance, Justice Thomas did not apply a bright-
+line test to select cases for constitutionally mandated
+jury trials. To the contrary, the Feltner test for copyright
+cases reasoned on the basis of ‘analogy’ to what was
+‘ordinary’ and ‘customary’. If ‘equitable rights alone’
+were in issue, then a jury was not needed. But if a mod-
+ern action can be analogized to what was ordinarily and
+customarily a common-law cause of action, then jury
+trial
+the
+Constitution. The apparent preference in Feltner was in
+favour of upholding the right to jury trial; showing a
+willingness to stretch the right to encompass modern
+cases that are only ‘analogous’ to the old common-law
+forms of action ‘ordinarily’ and ‘customarily’ handled
+in the law courts with their juries.
+
+appropriate
+
+necessary
+
+under
+
+and
+
+is
+
+Hence, when viewed from the perspective of Justice
+Thomas’ approach of 20 years ago, his reasoning in Oil
+States becomes all the more exceptional. In Oil States,
+Justice Thomas’ bias works in the opposite direction,
+straining to deny a Constitutional right to trial by jury.
+Essentially, the test now becomes: if there is any basis at
+all to think that the issue of patent validity might have
+been capable of decision without beneﬁt of jury in pre-
+Revolutionary times, no matter how tenuous, rare, in-
+frequent or limited in scope, then jury trial is not re-
+quired by the US Constitution. Since the Privy Council
+had at least a concurrent authority to hold patents inva-
+lid for wartime necessity, then under Justice Thomas’
+reasoning in Oil States that sufﬁces for denying a right
+to jury trial now.32 It is not necessary to consider what
+may have been ordinary or customary.
+
+Traditional preference for jury trial
+
+Dairy Queen, Inc v Wood, 369 US 469 (1962), provides
+that in any case containing mixed equitable and legal
+claims, the Seventh Amendment right to trial by jury
+may not be defeated by deciding the equitable claims—
+traditionally decided by English courts without juries—
+before the legal claim (decided by English law courts
+with beneﬁt of juries).
+
+Dairy Queen was a trade mark case alleging breach of
+a license agreement and trade mark infringement in
+consequence of breach. The remedy sought by the trade
+mark owner was an equitable accounting, on the basis
+
+of which it urged that an equity court sitting without a
+jury could assess the award. The Supreme Court dis-
+agreed. A concurring opinion by Justices Harlan and
+Douglas pointed out:
+
+The fact that an “accounting” is sought is not, of itself, dis-
+positive of the jury trial issue. To render this aspect of the
+complaint truly “equitable,” it must appear that the sub-
+stantive claim is one cognizable only in equity, or that the
+“accounts between the parties” are of such a “complicated
+nature” that they can be satisfactorily unraveled only by a
+court of equity. . . . It is manifest from the face of the com-
+plaint that the “accounting” sought in this instance is not
+of either variety. A jury, under proper instructions from
+the court, could readily calculate the damages ﬂowing from
+this alleged trademark infringement, just as courts of law
+often do in copyright and patent cases.33
+
+If a claim must be ‘only’ cognizable in equity in order
+to defeat the Seventh Amendment right, then the fact
+that a small number of English patent-validity chal-
+lenges were decided by the Privy Council prior to 1789
+could hardly defeat the right: all observers seem to agree
+that most such cases were either decided in the law
+courts in the ﬁrst instance, or by a referral there from
+the equity courts. Hence Justice Thomas’ approach in
+Oil States not only is hard to square with his prior deci-
+sion in Feltner, but it departs from the Supreme Court’s
+long-standing preference for upholding the jury-trial
+right (as exempliﬁed in Dairy Queen, a leading case
+routinely included in law-school textbooks).
+
+The revocation clause
+
+Patents issued in England, long prior to the time of the
+US Constitution,
+included a proviso known as the
+‘revocation clause’. It expressly announced the granted
+patent to be revocable by the Privy Council (an admin-
+istrative arm of the monarch) upon proof of ‘inconven-
+iency’, which included lack of novelty or priority of
+invention, as well as non-working and prejudice to
+public policy.34 One commentator explains:
+
+[R]evocation proceedings in the Privy Council served as a
+forum in which interested parties tried to convince the
+king’s agents that it would be a sound policy decision to re-
+voke the patent or not to grant it to begin with. These par-
+ties used, among other things, arguments about the speciﬁc
+beneﬁts offered by the patentee, his ability to supply such
+beneﬁts in practice and the potential and actual effects of
+the patents on relevant interests. These proceedings and
+the revocation clauses on which they were premised were
+
+31
+
+Feltner v Columbia Pictures Television, Inc, 523 US 340, 347–48 (1998)
+(emphasis added).
+
+32 Oil States, Op, 12–13 (citations omitted).
+
+33 Dairy Queen, Inc v Wood, 369 US 469, 480–81 (1962) (citations omitted;
+
+emphasis added).
+
+34 Bracha (n 18).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+4
+1
+3
+3
+5
+0
+6
+2
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+40
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2019, Vol. 14, No. 1
+
+deeply rooted in the concept of the patent as a speciﬁc pol-
+icy decision based on royal prerogative.35
+
+English patents, therefore, may be considered to have
+been issued ‘upon a string’, which the monarch could
+pull back to effect
+recapture when deemed
+convenient.
+
+their
+
+US patents, in contrast, do not contain an express
+proviso for revocation upon any such basis, by a king’s
+agent or otherwise. US patents may only be nulliﬁed
+in accordance with statutory and constitutional au-
+thority. This might be considered to reﬂect a funda-
+mental difference in governing philosophy between
+the two countries. One of the reasons for the founding
+of the USA was a profound dissatisfaction with subor-
+dination to arbitrary orders emanating only upon
+claim of monarchial authority. As discussed above,
+Justice Gorsuch’s dissent in Oil States reﬂects that
+tradition.
+
+Retroactivity
+
+Even though Oil States’ patent had no revocation
+clause, the Oil States decision upheld the power of the
+PTAB to revoke it. Justice Thomas certainly understood
+that Oil States’ patent had issued well before the effec-
+tive date of the act establishing the PTAB, so it could
+not be assumed that Oil States had implicitly consented
+to secure a patent knowing that the PTAB might later
+revoke it:
+
+In 2001, Oil States obtained a patent relating to an appara-
+tus and method for protecting well-head equipment used
+in hydraulic fracturing.
+
+* * *
+
+Oil States does not challenge the retroactive application of
+inter partes review, even though that procedure was not in
+place when its patent issued.36
+
+While mentioning a possible challenge based on retro-
+activity, Justice Thomas did not address that issue or
+even remanded the case so that it could be considered
+in the lower courts.37
+
+This result seems harsh,
+
+if Justice Thomas really
+thought much of a retroactivity defense. But it is in
+character with his judicial thinking, which gives weight
+to such ﬁne technicalities in other instances. For exam-
+ple, in the recent McCoy capital-murder case Justice
+Thomas agreed with the dissent written by Justice Alito:
+
+We have stated time and again that we are “a court of re-
+view, not of ﬁrst view” and, for that reason, have refused to
+decide issues not addressed below.38
+
+In McCoy, Justice Ginsberg wrote the majority opinion
+criticized by Justices Alito and Thomas: the majority
+granted a new trial to the defendant on its own initia-
+tive in order to redress a constitutional violation. Yet,
+in the Oil States patent case, Justice Ginsberg signed on
+to Justice Thomas’ majority opinion, without any indi-
+cation of having a second thought about its failure
+to address retroactivity as a possible constitutional
+violation.
+
+It is a neat question whether Oil States had duly
+raised the retroactivity issue for Supreme Court review,
+or not. The ﬁrst question that Oil States presented for
+review was:
+
+1. Whether inter partes review—an adversarial process used
+by the Patent and Trademark Ofﬁce (PTO) to analyze the
+validity of existing patents—violates the Constitution
+by extinguishing private property rights through a non-
+Article III forum without a jury. Petition for Certiorari, p. i
+(emphasis added).
+
+for
+
+III,
+
+the
+
+the
+
+issues
+
+decision would
+
+to include Article
+
+seem
+Hence,
+Seventh
+necessarily
+Amendment, and derogation of property rights by
+other unconstitutional means. It appears disingenuous
+of the court to read a complaint about ‘extinguishing
+private property rights’ in violation of the Constitution,
+which was implemented ‘through a non-Article III fo-
+rum without a jury’, as if that could be the only
+‘extinguishing’
+thing wrong with it. A charge of
+constitutional
+imply
+issues
+of both retroactive application and lack of due process.
+
+seems
+
+rights
+
+to
+
+Oil States’ brief did in fact speciﬁcally complain
+about violation of due process in connection with the
+PTAB’s restrictive amendment practice (Br, 10). But
+Justice Thomas broadly maintained that Oil States
+never raised a due process challenge (Op, 17).
+
+Thus, the initial impression may be that Oil States did
+not get fair consideration: the Supreme Court decided
+the hypothetical case of a post-AIA patent, issuing an ad-
+visory opinion upon facts not before it (and indeed con-
+trary to the acknowledged fact-of-record concerning the
+issue date of the patent-in-suit).
+
+Given that Justice Thomas relied upon a contract-like
+theory of patent applicants’ presumed fore-knowledge
+
+ibid p 23 (emphasis added).
+
+35
+36 Oil States, Op, 4, 17.
+37 The Leahy-Smith America Invents Act (AIA), 35 USC s 100ff, established
+
+the process of ‘inter partes review’ before the PTAB only in 2011—10
+years after Oil States’ patent issued. The fact of a retroactive application
+
+of the AIA therefore was undeniable on the record before the Supreme
+Court.
+
+38 McCoy v Louisiana, 584 US __ (2018), Slip Opinion, 11 (citations
+
+omitted).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+4
+1
+3
+3
+5
+0
+6
+2
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Robert M. Kunstadt  Oil States v Greene’s Energy
+
+ARTICLE
+
+41
+
+of recent statutory law providing for post-grant review
+(Op, 9), it made little sense to apply such a theory—even
+if correct—to a case in which judicial notice was
+expressly taken that the patent-in-suit was a pre-AIA
+patent (Op, 17). A conscientious justice could have
+ﬂeshed-out the implications of a contemplated rationale
+for decision, by considering how it might—or might
+not—apply to the case before the court (before issuing an
+opinion on it). That’s what the majority seems to have
+done in the McCoy capital-murder case, even though it
+meant taking heat from the dissent for reaching issues not
+briefed. Alternatively, the court might have remanded the
+case to the lower courts for consideration of the retroactiv-
+ity issue.
+
+If Justice Thomas really did not reach the full scope
+of constitutional issues, then the Oil States Court’s ma-
+jority opinion is not completely reliable as ﬁnal guid-
+ance to the public and the profession: we still have not
+fully unpacked the constitutionality vel non of PTAB
+post-grant
+Justice
+reservations on
+Thomas
+grounds of retroactive application and/or due process.
+It’s hard to tell, since Justice Thomas cannot be faulted
+for inconsistency on this point: it does appear to be his
+usual practice to deﬁne the scope of review narrowly
+(as explained in the McCoy dissent that he joined).
+
+review.39 That’s especially so if
+
+secretly harbors
+
+serious
+
+Class action
+
+Taking the cue from Justice Thomas’ mention of retro-
+activity and due process as potential issues unaddressed
+in the Oil States decision, a class-action case has already
+been ﬁled in the Court of Federal Claims to recover
+money from the US Government for alleged unconsti-
+tutional taking of patentees’ property in their patents.40
+The class-action plaintiffs pick up on the PTO’s ar-
+gument in favour of the PTAB’s constitutionality—that
+all it is doing is the public function of correcting errors
+in the patent process—to urge that since the PTO ad-
+mittedly is making errors,
+it has thereby effectively
+defrauded patent owners of issue fees and maintenance
+fees that would never have been paid, but for the PTO’s
+shoddy service in issuing defective patents.41 Based on
+the mistaken impression that they had been issued valid
+patents, the class-action plaintiffs allegedly were harmed
+
+39
+
+Justice Thomas’ opinion thus to an extent resembles the 19th century
+McCormick opinion that it dismissed as dictum, insofar as it decides
+upon a ground that might not have been necessary to reach.
+
+40 Christy v US, Case 1:18-cv-00657-MMS (Court of Federal Claims, 5
+
+September 2018).
+
+41 Complaint, para 11.
+42 Complaint, para 12.
+43 Complaint, para 175.
+
+by investing in them and expending attorneys’ fees to
+defend them.42 Damages claimed in the prayer for relief
+are in an amount ‘greater than $100 million’.43
+
+Stay of district court proceedings
+
+The developing practice of staying patent trials in district
+court pending a determination on validity issues by the
+PTAB44 seems contrary to the Supreme Court’s previous
+insistence on the primacy of the jury-trial right once a
+‘case-or-controversy’ is under way in an Article III court.
+As discussed above, the issue was considered by the
+Supreme Court in Dairy Queen, a trade mark case rais-
+ing both equitable issues (triable to a judge alone) and
+legal issues (triable to a jury).45 If the equitable issues
+had been decided ﬁrst and hence had become the law of
+the case, any overlap could have been resolved to the
+detriment of
+right. Therefore, Dairy
+Queen required that precedence be given to securing
+the jury’s determination in the ﬁrst instance, as to any
+common issues of fact.
+
+the jury-trial
+
+Allowing a case in which issue has been joined in
+district court to be stayed while a non-jury determina-
+tion on validity is obtained upon petition of an already-
+accused infringer seeking relief from the PTAB, hardly
+comports with the rationale of Dairy Queen that jury
+trials take precedence over bench trials.
+
+If Dairy Queen were to be observed, it would be the
+other way around: PTAB proceedings would have to be
+stayed pending the outcome of a jury trial on validity
+and the jury’s verdict would be binding as precedent
+upon the PTAB (at least as to the litigating parties—
+and perhaps as persuasive authority not to be disre-
+garded lightly in case any third party would wish to
+present the same arguments at the PTAB, looking for a
+different outcome).
+
+But, quite to the contrary, the PTAB has considered
+
+itself unbound by district-court rulings as precedent.46
+
+Possible PTAB reform
+
+Even before the Oil States decision issued in late April
+2018, the PTO had begun an initiative to review and
+possibly reform PTAB procedures. In a speech to the
+
+44
+
+eg AC-QIS, LLC v EMC Corp, 109 F Supp 3d 352 (D Mass 2015) (district
+court stayed case pending PTAB proceedings).
+
+45 Dairy Queen v Wood, 369 US 469 (1962).
+46
+
+Indeed, the PTAB appears to consider itself not required to treat any
+prior court decisions as binding precedent, including even those of its
+own reviewing court. Knowles Electronics LLC v Cirrus Logic, Inc [2018]
+WL 1095253 (CAFC 1 March 2018) (Newman J, dissenting).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+4
+1
+3
+3
+5
+0
+6
+2
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+42
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2019, Vol. 14, No. 1
+
+US Chamber of Commerce on 11 April 2018, PTO
+Director Iancu announced:
+
+[A]mong various other things, we are now examining: how
+and when we institute proceedings, the standards we employ
+during the proceedings, and how we conduct the overall pro-
+ceedings. The goal, with whatever action we take, is to in-
+crease predictability of appropriately-scoped claims.47
+
+If PTO procedures were to be reformed to match the
+PTAB’s claim construction standard to the one used in
+district court, such harmonization could help to meet
+the goal of increasing predictability when assessing US
+patents: validity of a claim would no longer be so
+clearly dependent upon the forum.
+
+of
+
+the
+
+namely
+
+substitution
+
+administrative-law judges
+
+However, unless the PTO were to institute jury trials
+at the PTAB—an unlikely result since it runs counter to
+one of the purposes of assigning validity issues to that
+technically
+forum,
+knowledgeable
+lay
+jurors—Seventh Amendment
+issues would not be
+mooted by planned PTO reforms. Nor would such
+reforms be expected to mitigate the Article III issue,
+since the PTO could hardly be expected voluntarily to
+PTAB
+replace
+corps
+administrative-law judges, with Article
+judges
+appointed for life and conﬁrmed by vote of the Senate.
+
+in-house
+
+current
+
+of
+III
+
+for
+
+its
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+4
+1
+3
+3
+5
+0
+6
+2
+6
+6
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+47
+
+‘Remarks by Director Andrei Iancu at U.S. Chamber of Commerce
+Patent Policy Conference’, 11 April 2018 <https://www.uspto.gov/about-
+us/news-updates/remarks-director-andrei-iancu-us-chamber-commerce-
+
+patent-policy-conference> accessed 26 June 2018; S Graham, ‘PTO
+Director Fleshes Out Reform Proposals’, Corporate Counsel, June 2018,
+25.
+
+

@@ -1,0 +1,1386 @@
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2, pp. 133–154
+doi: 10.1111/j.1747-1796.2011.00434.x
+
+Biodiversity Fetishism and Biotechnology Promises
+in Brazil: From Policy Contradictions to Legal
+Adjustments
+
+Geoffroy Filoche
+Institut de Recherche pour le D ´eveloppement
+
+This article retraces the development of the Brazilian legal framework with regard to access and beneﬁt sharing
+and the protection by patent of biotechnological innovations. It demonstrates that 20 years on from the adoption
+of the Convention on Biological Diversity, Brazil no longer has the same attitude or the same expectations with
+regard to its genetic resources. The control of the State over access procedures and restrictive regimes in terms
+of patents are increasingly out of step with the concerns of national researchers and companies alike, and
+are the target of both criticisms and reforms. The scientiﬁc community is seeking to acquire prerogatives for
+managing genetic heritage, while the State is seeking to strengthen the national biotechnology sector. How is
+the legal environment adjusting to new and sometimes contradictory issues? What is the new interplay between
+public and private rights when it comes to genetic resources and natural-based products? To what extent are
+“commons” systems emerging—both in terms of accessing biodiversity and in terms of protecting innovations?
+Keywords biodiversity; access and beneﬁt sharing; patents; commons
+
+The Convention on Biological Diversity (CBD) is now 20 years old. On the occasion of this an-
+niversary, it may be noted that Brazil’s attitude and expectations with regard to its biodiversity are
+radically different from those asserted in 1992 at the Earth Summit negotiations in Rio de Janeiro.
+
+At that time, new uses for biological resources, particularly those emerging from advances
+in genetic engineering and biochemistry, as well as free access to these resources by stakeholders
+from northern nations with scientiﬁc and technical capabilities that, it was assumed, would add
+considerable value to these resources, led to demands by southern nations for an international system
+of access and beneﬁt sharing (ABS) (Beurier, 1996; Hermitte, 1992; Stone, 1995). Article 15 of
+the CBD was designed to remedy this state of affairs (Glowka, 1997), subjecting access to genetic
+resources to Prior Informed Consent on the part of the supplier State and a sharing of beneﬁts derived
+from their exploitation (Young, 2006), while also imposing the obligation of facilitating access, even
+if this second aspect is often neglected in practice (Grajal, 1999; Straus, 2008).
+
+As a country that is home to immense terrestrial biodiversity in the Amazon region, the Cerrado
+and the Mata Atlˆantica, Brazil positioned itself as a southern nation during CBD negotiations.
+Biopiracy has been roundly condemned (Aguiar, 2002), even if the uncertain meaning of this term,
+its approximate use and the widely differing situations it is used to denounce mean that it is not
+always easy to clarify matters or ﬁnd solutions that are satisfactory for all parties (Aubertin and
+Moretti, 2007; Chen, 2006). At the same time, during negotiations on intellectual property—whether
+in the forum of the World Intellectual Property Organization (WIPO) or that of the World Trade
+Organization (WTO)—Brazil asserted its refusal to grant intellectual property rights (IPRs) such
+as patents to naturally occurring substances, even though rights on cultivars such as those deﬁned
+by International Union for the Protection of New Varieties of Plants (UPOV) have been recognized
+nationally since 1997.1 This refusal to grant patents stemmed from a number of factors: ethical
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+
+133
+
+Geoffroy Filoche
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+grounds (nature is not a commodity), technological grounds (genes and their properties were not
+invented by mankind) and socioeconomic grounds (preventing the enrichment of some with nothing
+given in return).
+
+Brazilian legal policy, with regard to both ABS and IPR, has been dictated by fear and political
+initiative. The fear is that of losing control of genetic resources and natural substances during the
+course of innovation processes: these are frequently long, involve many different stakeholders and
+make it difﬁcult to identify the original natural items in the ﬁnal outcome. The political initiative
+has involved reafﬁrming both Brazil’s sovereignty over biodiversity with regard to third countries
+and the pro-eminence of state authorities with respect to its own citizens. The result may be termed
+biodiversity fetishism: biodiversity has become an object of economic fantasizing, a mirror of the
+national identity and a political taboo, embodied in an ABS regime that has resulted in prevention
+of access and failure to use the resources.
+
+However, over the two intervening decades, Brazil has undergone a number of major changes. It is
+no longer solely one of the Like-Minded Megadiverse Countries (LMMCs): a “mega-diverse” country
+both biologically and geopolitically, acting with other Andean and African states in opposition to
+developed nations. Even if it retains something of this stance, as seen in its adoption of the Nagoya
+Protocol in October 2010 (Buck and Hamilton, 2011), Brazil is also one of the Brazil, Russia, India,
+China and South Africa (BRICS); an emerging nation in scientiﬁc and economic terms, seeking to
+add value to its biodiversity through biotechnologies, the development of which is encouraged by
+proactive policies enacted by the State.
+
+At the same time, domestically, scientists are becoming unavoidable political players, with in-
+creasingly signiﬁcant media inﬂuence, angling to reform national ABS and patent regimes. On the
+one hand, researchers feel their legal position is too dependent on others; stuck between the State’s
+prerogatives on the one hand (in terms of access permissions), which they feel are illegitimate or
+wrongly used, and what are seen as disproportionally broad rights of public and private owners of
+land on which genetic resources are found, given that they do nothing to add value to these resources.
+On the other hand, a growing number of researchers and biotechnology ﬁrms (sometimes working
+closely together) would prefer to see a reform of the outright ban on the patentability of natural
+substances, in order to establish incentives for investing in biodiversity. With an eye to the promises
+of biotechnology, researchers and companies are debating the consequences of the lack of patentabil-
+ity on the nation’s competitiveness, as well as the merits of protecting the interests of the scientiﬁc
+community and the general population against overexclusive appropriation of genetic resources and
+innovations by any given party, be they local or foreign. Draft legislation reﬂecting these issues is
+being examined.
+
+Consequently, two contradictions in biodiversity-related policies may be noted. The ﬁrst contra-
+diction may be summarized thus: as much control as possible of resources by the State versus scientists’
+mandate to successfully complete their research programmes. Tensions are emerging between the risk
+of seeing a resource being utilized with nothing given in return and the risk of obstructing any work
+on biodiversity at all. The second contradiction may be stated thus: prohibition of patents on naturally
+occurring life forms versus development policies aimed at the biotechnology sector and incentives to pro-
+tect innovations. This is a conﬂict between the diffusion and the privatization of resources, scientiﬁc
+knowledge and new technologies.
+
+How does the legal framework reﬂect these diverging interests? To what extent is it changing in
+the light of these new issues? What is the interplay between various types of rights when it comes
+to genetic resources and natural substances? In terms of access to genetic resources, researchers no
+longer want biodiversity to be a “no-man’s heritage,” poorly administrated by the State and not
+used. In terms of protection of innovations, they want biodiversity-based products to cease to be
+
+134
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Geoffroy Filoche
+
+“anybody’s heritage,” that is, freely accessible (even by non-Brazilians), thereby failing to reward
+inventors’ work because of the lack of patentability. Their aim is to achieve a shift from an unused
+national heritage to a more dynamic heritage whose characteristics would be more along the lines
+of a system of common property, with them being the privileged beneﬁciaries. This would involve
+facilitating access, allowing exchanges of resources and knowledge between researchers and with
+companies, inducing a “network effect” and thus increasing the chances of interesting ﬁndings and
+commercial applications. According to this logic, administration of the access to genetic heritage
+by the scientiﬁc community and not by the State is held to be more likely to result in scientiﬁc and
+economic beneﬁts to be shared. Combining patentability of innovations and sharing them within a
+set group (whether at the microlevel of the partners in a speciﬁc project or the macrolevel of, for
+instance, all the country’s ﬁrms manufacturing medicines) is held to confer more economic and social
+value to this genetic heritage, to the beneﬁt of the country as a whole.
+
+While international treaties entail interlinked property regimes, including commons regimes
+(Roa-Rodriguez and van Dooren, 2008), domestic policies and laws structure the relations between
+public rights (the State, with its prerogatives in terms of permitting access and regulation of IPRs),
+rights common to certain social groups (indigenous communities and research communities) and
+private rights (landowners and industries). A commons is a type of property regime, a set of rights
+derived from rules or norms held by persons in relation to a good, whether tangible (the natural
+substance) or intangible (the innovation). Members of a group regulate access and use of a resource
+and have the right to exclude nonmembers (Ostrom and Schlager, 1996). It focuses attention, ﬁrst,
+on encouraging the group interactions that foster creativity, and second, on policing the boundary
+of behaviors that are disruptive to groups (Rose, 2003).2 Belonging to a group may involve different
+categories of access and use rights (Cook-Deegan and Dedeurwaerdere, 2006). Access can refer to
+the right to access a resource without being allowed to transform it or do any further research on
+it (when a resource is used for educational purposes for instance). Second, accessing a resource can
+include the right to transform it and develop new lines of research. Third, permission can be given
+to develop and commercialize follow-on applications.
+
+The purpose of this article is to analyze the current interrelations between these bundles of
+rights3—public rights, common rights and private rights—with regard to substances as these are
+used. It will also seek to reveal trends in how bundles of rights are being restructured in the light
+of the new issues emerging for Brazil, and thereby shed light on the changing dialectic between
+enclosure and dissemination of genetic resources and biobricks. This will be analyzed in two stages.
+The ﬁrst question to be addressed will be whether researchers’ rights to access genetic heritage are
+becoming less dependent on public and private-sector stakeholders’ prerogatives and the extent to
+which they are acquiring preferential rights in terms of the administration of genetic heritage. This
+will be followed by an analysis of the tensions between the private appropriation of innovations
+developed from natural substances and the establishment of a national biotechnology industry in the
+face of foreign researchers and companies (as well as attempts to reconcile these trends).
+
+Accessing Genetic Resources: Unused Public Heritage or Functioning Commons?
+Since its creation in 2000, the Brazilian ABS regime has been the subject of sharp criticism, particularly
+by researchers. The State’s prerogatives in terms of access permission have often been seen as being
+too exclusive. Serious reservations have been expressed about public authorities’ ability to assess
+the potential of scientiﬁc activity in terms of economic outcomes and the way in which the State
+decides on beneﬁt-sharing between landowners, public bodies and those who add value to biodiversity
+(researchers and companies).
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+135
+
+Geoffroy Filoche
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Over time, the demands of the scientiﬁc community have been taken into account. Genetic
+resources and natural substances have a hybrid status: in spite of the fact that the State retains
+signiﬁcant rights and that private rights still exist, the outlines of a system of common property
+are gradually emerging. Two conditions are required in order for an ABS scheme to fall into this
+category (Schlager and Ostrom, 1992). The ﬁrst is the existence of rights deﬁning that to which a
+restricted group has access, under what conditions, and for what purposes. The second condition is
+the existence of an institution representing a restricted group that has the power to assign rights and
+regulate the system.
+
+To what extent has legislative reform shifted in this direction? First, the framework was reﬁned so
+that it corresponded more closely to their concerns and working practices. Increasingly, researchers’
+access to genetic resources has been facilitated and sometimes even reserved; movement of resources
+has been reestablished and a more operational approach has been taken. Second, to a certain extent
+public authorities have delegated their prerogative of permitting access, and sometimes even regula-
+tion of the regime, establishing the foundations for self-regulation by scientists through the CNPq
+(the National Scientiﬁc and Technological Development Council).4
+
+The ABS Regime: A Consequence and a Source of Controversy
+The adoption of the Brazilian ABS regime was precipitated by a controversy with a colossal media
+impact. The CBD was ratiﬁed by the National Congress in 1994, and promulgated by the executive
+in 1998. As early as 1996, a bill relating to access to genetic resources was drafted and approved by
+the Senate, but rejected by the House of Representatives. The same fate befell a number of other bills.
+In 1999, Bioamazˆonia (a private-law, nonproﬁt body “social organization”) was set up to implement
+PROBEM (the Brazilian Molecular Ecology Programme) as part of the Avanc¸a Brasil Programme.
+On 29 May 2000, Bioamazˆonia and Novartis Pharmaceuticals signed an agreement, under the terms
+of which Novartis undertook to pay $4 million over a period of 3 years for the right to collect, export
+to Switzerland and study 30,000 biological samples from the Amazon rainforest. The terms of the
+agreement stated that if Novartis created new products using the samples, the Swiss ﬁrm would hold
+all IPRs to these products and the exclusive right to use the extracts for a period of 10 years from
+the invention of the products in question. In return, Bioamazˆonia was to receive R$1.6 million for
+each clinically tested product, R$750,000 for each patent lodged, R$500,000 on the day on which
+any product was put on the market, and 1% of all royalties for a period of 10 years (Scott, 2003).
+
+The agreement instantly drew criticism from NGOs and members of Bioamazˆonia. They de-
+nounced the privatization of Brazilian biodiversity by a foreign company, authorized by an organi-
+zation that had neither the competency nor the legitimacy to do so (Rocha, 2003). Moreover, the
+agreement was not of a nature likely to stimulate Brazilian research, despite this being a founding
+principle of the CBD: even if the training of researchers accredited by Bioamazˆonia was involved,
+all work on the samples, including extraction of the active chemical principles, was to be carried out
+in Switzerland, with Brazil being reduced to the role of supplier of the materials. The agreement was
+reviewed in August 2000 and cancelled shortly thereafter.
+
+During this time Provisional Measure no. 2052 was adopted in June 2000, and subsequently
+renewed a number of times. Today, it has the status of law, with no need for renewal, and is known
+as Provisional Measure no. 2186-16 of 23 August 2001 (MP).5 This MP included creation of the
+Conselho de Gest˜ao do Patrimˆonio Gen´etico (CGEN), which became operational in April 2002. The
+CGEN is an interministry structure covering the environment, science and technology, agriculture
+and so on. The Brazilian environment ministry is responsible for its secretariat, and other institutions
+of government and civil society also participate. Its chief remit is to authorize access to the country’s
+
+136
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Geoffroy Filoche
+
+genetic resources for commercial purposes (bioprospecting and technological development) (Azevedo
+et al., 2005). Although supposedly provisional, this regime has endured through to the present day.
+The MP was born out of controversy and went on to give rise to a number of major disputes
+itself. Following on from the concerns raised in global scientiﬁc reviews (Jinnah and Jungcurt,
+2009), Brazilian researchers criticized the resulting inability to use—or even study—the breadth of
+biodiversity on their doorsteps (Marques, 2011). The Sociedade Brasileira para o Progresso da Ciˆencia
+(SBPC) reiterated these discussions (Morales, 2010), highlighting the paradox of having research that
+was funded but not authorized. Solidarity developed between different researchers, including foreign
+nationals (Check and Haydn, 2007), to combat bureaucracy and what were seen as inappropriate
+actions on the part of institutions and those responsible for regulations being followed. The rights
+of local communities and landowners were not always seen as being legitimate: genetic heritage
+was preempted by certain private interests to the detriment of collective interests, represented by
+researchers, who could make the potential beneﬁts of this heritage more tangible.
+
+Since Deliberation no. 40 (2002) of the CGEN, the Brazilian Institute for the Environment
+and Renewable Natural Resources (IBAMA) has been the competent body for access to genetic
+resources for noncommercial purposes; it has issued a relatively large number of authorizations. Re-
+cently, “special authorizations” have even been granted to institutions, including Instituto Butantan,
+EMBRAPA and others, to carry out some 40 simultaneous research projects.6 On the other hand,
+access permissions for commercial purposes have been delivered far more sporadically by the CGEN.
+Between 2002 and 2010, only 73 permissions were granted, 35 for access to genetic heritage and/or
+related traditional knowledge, for the purposes of bioprospecting and/or technological development.
+Since 2008, some 40 requests for similar purposes have been lodged per year. Over 100 requests for
+the same type of purpose are awaiting examination by the CGEN.7 The number of access permissions
+granted by the latter in 2010—seven in all—is so low that it appears certain that this procedure is
+being bypassed. The random way in which requests appear to be dealt with has drawn criticism: some
+permissions take a matter of months, while others have become stuck in the system for years at a
+time, with the result that the interested parties have given up making requests.
+
+Toward Clearer, More Adjusted and More Autonomous Rights for Scientists
+Under considerable pressure from the scientiﬁc community, the CGEN itself has undertaken a
+substantial reform of the regime, thereby exercising its prerogatives under the terms of article 11
+of the MP. Could recent changes to the normative framework result in a commons for researchers,
+granting them rights that are less dependent on those of landowners and the state? As already noted,
+two conditions are required in order for an ABS scheme to fall into this category. The ﬁrst is the
+existence of rights deﬁning that to which a restricted group has access, under what conditions, and
+for what purposes.
+
+Initially, the scope of the ABS regime was the subject of major misunderstandings (Aubertin
+
+et al., 2007; Santilli, 2005). Article 7 of the MP deﬁnes genetic heritage as follows:
+
+information of genetic origin to be found in samples of all or part of a plant, fungus,
+microbe or animal species, in the form of molecules or substances from the metabolism
+of these living species or extracts obtained from in situ or ex situ conditions.
+
+This broad deﬁnition, combining materials and information and the molecular and genetic
+levels, fuelled scientists’ errors: the latter did not know into which legal category the subject of their
+research or activity fell into; it also fuelled approximations by certain NGOs keen to identify a
+newsworthy case of biopiracy. Initially, any activity relating to a biological resource was assumed
+to be concerned by the access to genetic heritage regime. This regime became a center of gravity, to
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+137
+
+Geoffroy Filoche
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+which any technical or production-based relationship with the environment was gradually drawn.
+In this scheme of things, access to a biological resource entailed the theoretical possibility of having
+access to its genetic heritage. Moreover, using a biological resource for any purpose could be seen as
+being equivalent to using its genetic characteristics (Tvedt, 2006).
+
+The scope was subsequently clariﬁed, on three separate occasions, progressively relaxing the
+State’s hold vis-`a-vis all stakeholders. The ﬁrst, fundamental clariﬁcation involved drawing a distinc-
+tion between collecting a biological resource and having access to genetic heritage (CGEN Technical
+Orientation no. 1 of 24 September 2003).8 Collecting was deﬁned as the activity of obtaining sam-
+ples (or part of an animal or plant) on the basis of in situ conditions. Permission to collect (by
+landowners or public institutions, depending on the legal status of the land) was required due to the
+need to control the potential impact of collection on the environment. Access to genetic heritage,
+on the other hand, was deﬁned as activity carried out on samples collected in situ or obtained ex
+situ (germplasm banks, extract libraries, etc.) with “the purpose of isolating, identifying or using
+information of genetic origin, molecules, metabolic substances or extracts obtained on the basis
+of these samples.” Access permission was required due to the need to control this activity with a
+view to sharing its potential beneﬁts. The distinction between collecting and access involved differ-
+ent scenarios. For instance, genetic resources could be accessed without collecting if the samples
+came from collections or herbaria. Moreover, following IBAMA Normative Instruction no. 154
+(20079), while the collection of fauna must be the subject of permission from this institution in
+all cases, the same does not apply to ﬂora if they are not native plants of ornamental interest
+and do not feature on the list of endangered species. Similarly, there is no need for permission to
+collect microorganisms. Contrary to what many critics opposing the Brazilian regime say, there is
+no need for secondary school students to obtain permission to pick a blade of grass and study it
+under the microscope. Public authorities do not exercise total control over resources, even if exces-
+sive zeal on the part of employees responsible for upholding environmental laws—and with little
+training in the subtleties of biodiversity law, research practices and botanical science—is sometimes
+highlighted.
+
+The second clariﬁcation drew a distinction between access to genetic heritage and certain standard
+uses of resources, which doesn’t involve high scientiﬁc input, in order to not disturb basic technical
+processes CGEN Resolution no. 29 (of 6 December 200710) excluded development of “ﬁxed oils,
+essential oils and extracts” from the scope of access legislation for developments based on isolation,
+extraction or puriﬁcation, and if the characteristics of the ﬁnal product were “substantially equivalent
+to the original raw material.” For instance, if a party wishes to make an essential oil (such as andiroba)
+or use a natural extract (such as stevia) from a biological resource to make beverages, there is no need
+to request access permission from any public authority. However, they must request permission from
+the private owner of the land from which these resources are taken. The framework is determined on
+the basis of processing: the closer the ﬁnal product is to the initial resource, the more it falls under the
+standard regime for the use of natural resources. The ABS regime does not seek to prevent artisanal
+or standard uses of resources (or even industrial use, in the case of beverages), relating rather to their
+more technological—and more mythical—use (pharmaceutical products, genetics).
+
+The regime initially established by the MP was characterized by simplistic conceptions of re-
+search practices and objectives. In a third stage of clariﬁcation of the scope, changes to the frame-
+work have cast research activity as being less “threatening.” Many scientiﬁc activities no longer
+require access permissions. CGEN Resolution no. 21 (of 31 August 200611) removes certain types
+of activity such as taxonomic, systematic and phylogenetic research from the scope of the MP:
+previously, these counted as access to genetic heritage on the basis that molecular methodology
+tools were indeed used, although the objective was not access to genetic heritage in and of itself.
+
+138
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Geoffroy Filoche
+
+In such cases, scientists now enjoy preferential access to genetic resources, particularly if these are
+to be found in ex situ collections. The impacts of the Nagoya Protocol on this scope are not yet
+clear. Where is the limit between the use of resources in the context of ABS12 and the creation
+of added value on the basis of commodities which are traded daily in large quantities? Similarly,
+will Resolution 21 be held compatible with article 6a of the Protocol13 (Aubertin and Filoche,
+2011)?
+
+In addition to progressively qualifying the scope of the ABS regime, the rules relating to beneﬁt
+sharing in the event of access for commercial purposes have also been relaxed, at least to some
+extent. According to articles 25–29 of the MP, while the landowner or native community must give
+prior consent (anuˆencia pr´evia) and sign the Contract for the Use of Genetic Heritage and Beneﬁt
+Sharing (Contrato de Utilizac¸ ˜ao do Patrimˆonio Gen´etico e de Repartic¸ ˜ao de Benef´ıcios—CURB) if
+access relates to a resource present on their land or their traditional knowledge, ultimately the CURB
+has to be validated by the CGEN to ensure it is in the national interest. As originally designed, the
+MP required a CURB of this nature to be signed even before research commenced. However, the
+reality is that researchers and companies do not know exactly what they are going to ﬁnd, or where,
+which prevents them from formulating an appropriate request. In addition, work on the use of genetic
+resources extends over both time and space, which entails gradual contractualization (Boisvert and
+Vivien, 2005): access to the physical resource, initial tests on chemical activity, increased supplies of
+fresh or dry matter and so on. Decree no. 6159 (of 17 July 200714) now makes it possible, in the
+event of requests for access for the purposes of bioprospecting, to postpone signature of the CURB
+until such time as commercial potential is clearer. Similarly, CGEN Technical Guideline no. 6 (of 28
+August 200815) clariﬁed the notion of potential for commercial use. Henceforth, projects involving
+access to genetic heritage are only qualiﬁed as bioprospecting (and thus subject to more stringent
+rules) if activities seeking to assess the viability of industrial or commercial production of a product
+or process are commenced. This makes it easier to transition from one regime to another, and settle
+the issue of beneﬁt sharing only once beneﬁts have become more likely. Rights of both researchers
+and companies are thus less subject to the rights of landowners and the government, at least initially:
+the latter’s rights only come into play after a period, during which there is greater freedom for those
+working on the resource. Lastly, Resolution no. 35 (of 27 April 201116) allows for regularization
+of illegal access activities. In certain circumstances, this breaks the deadlock for such applications,
+allowing the country to enjoy any beneﬁts arising out of any fruitful research. The Nagoya Protocol
+is not explicit with regard to all these aspects, designed to relax the rules and free up access. It does
+not fully take into account the fact that at the end of the day, the probability of success can best be
+improved by multiplying the number of projects. It also appears that the Protocol may not have much
+impact on the choices of individuals and institutions with the power to issue access permissions for
+genetic heritage.
+
+As a result of these gradual reforms, while public and private rights still exist, the ﬁrst condition
+for a system of common property does seem to be present to a certain extent: there are now rights
+deﬁning that to which a restricted group has access, under what conditions, and for what purposes.
+Henceforth, the less any given research is assumed to have a commercial application, the more
+researchers’ access rights to genetic resources are independent of any other consideration. Moreover,
+the presumption of a commercial application is becoming more restricted: even research conducted
+in direct relationship with companies beneﬁt from this commons approach, at least in the initial
+R&D stages. Lastly, as will be seen, the most recent reforms of the regimes have tended to grant
+prerogatives in terms of administration of genetic heritage to the research community via its own
+institution (the CNPq), even for research with commercial aims.
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+139
+
+Geoffroy Filoche
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Decentralization of Permission Decisions and Increased Autonomy for the Scientiﬁc Community?
+The second condition for an ABS regime to conﬁgure a commons to the beneﬁt of researchers is
+the existence of an institution representing a restricted group that has the power to assign rights and
+regulate the system.
+
+Initially, the MP had a twofold concern: assigning the prerogative to grant access to a supreme
+public body, and taking into account the rights of landowners and/or indigenous and traditional
+communities. Initially, rights to resources based on land ownership, rather than on the rights to work
+on these resources, are privileged. In the event of access for noncommercial purposes, if the research
+can be considered as contributing to “progress with regard to biodiversity,” prior permission from
+landowners (anuˆencia pr´evia) is not required (Resolution no. 8, 2003). Nevertheless, those wishing
+to access genetic resources must obtain permission to enter the territory in question, although this
+procedure is less formal and can even be simply oral. In the case of scientiﬁc activity that is exempt
+from permission (Resolution no. 21), the question of whether landowners retain any rights, and if
+so which, is not speciﬁed. It may be concluded that the permission to enter the property is what is
+applicable. In the case of access to genetic resources for commercial purposes, the prior agreement
+(anuˆencia pr´evia) must be obtained from a number of stakeholders (the landowner, community or
+public body) in addition to the permission issued by the CGEN. Article 2 of the MP states that
+access to genetic heritage may be permitted only with permission of the Union, and that any “use,
+commercialization or proﬁt” with regard to the resources is subject to control, restrictions and
+beneﬁt sharing. The rights of landowners and local communities are thus framed and validated by
+a government institution representing the collective interests of the Brazilian people, which may
+refuse to grant access even if the landowners and communities are in favor of it. In this instance,
+even if the landowner or community grant their permission for collection and access, the CGEN
+has the right to refuse access to the genetic resource or traditional knowledge. Conversely, if the
+landowner or community do not grant permission, public institutions have no way of overriding this
+position.
+
+Article 16 of the MP has been considerably altered, with the CGEN gradually eliminating its own
+prerogatives. Since 2002, access to genetic resources for scientiﬁc research was authorized by IBAMA.
+Then, in Deliberation no. 246 (of 27 August 200917), the CNPq acquired jurisdiction with regard to
+access for scientiﬁc research, the idea being that it was closer to researchers’ concerns and was more
+competent when it came to assessing requests. Contrary to rumor in the scientiﬁc community in 2010,
+the CNPq still has to deliver permission, with the same requirements as for the CGEN: the system
+does not guarantee that a straightforward declaration by researchers will automatically be accepted.
+Recently, Deliberation no. 26818 has gone even further: the CNPq now has the remit to permit access
+for commercial purposes. Traditional knowledge remains within the purview of the CGEN, in the light
+of its strong symbolism and controversies regarding the activities of certain companies and researchers
+(Filoche and Foyer, 2011). Despite this major development, the rights of landowners and indigenous
+communities with regard to resources have not changed, and the State is still very much present. On
+the one hand, according to article 2 of the Deliberation, the CNPq must abide by the Resolutions and
+Technical Guidelines drawn up by the CGEN, even if the vast majority of these texts aim to make the
+system more ﬂexible. A number of questions remain unanswered: what criteria for assessing requests
+will be developed by the CNPq? Will it manage to overcome the risks of bureaucracy? Will it draw a
+distinction between the way that public research institutions and private companies are dealt with?
+On the other hand, article 2 of Deliberation no. 268 also states that the CURB remains subject to
+approval by the CGEN, which continues to have the role of safeguarding the public interest, even if in
+actual fact, the degree of control it exercises varies between two extremes. If the resource comes from
+
+140
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Geoffroy Filoche
+
+indigenous or private land, the CGEN simply approves the contract, without seeking to inﬂuence its
+contents, unless it identiﬁes a procedural defect or ﬂagrant abuse of power. If the resources are located
+on public land, the CGEN examines the clauses of the contract much more closely and may impose its
+position.
+
+What changes would have been the result of the Bill of 15 September 2009, sponsored jointly
+by the Environment Ministry and the Ministry of Science and Technology? Two key points may
+be noted. First, researchers were required to register with the Cadastro Nacional de Biodiversidade
+(CNB), set up and administrated by the CNPq. The purpose was to facilitate requests (made on-
+line) and to enable information about stakeholders and projects to be monitored and centralized,
+making this more visible both within and outside the community. Second, and more importantly,
+only activity involving access to genetic resources for the development of products and processes
+for commercial and industrial purposes required a license from the CGEN (article 19). Conversely,
+(article 26), scientiﬁc research did not require a license; registration with the Cadastro became suf-
+ﬁcient. However, project bearers were required to make a declaration after the fact in the event
+of research producing commercial applications. Permission implied the existence of discretionary
+powers, as opposed to the license, which could be delivered as soon as all the relevant documents
+had been ﬁled, without public authorities being able to oppose this. This bill was an undeniable
+step forward in institutional terms, since nobody expected the environment ministry and the science
+ministry to be able to agree. While the bill was not radically different in terms of reasoning com-
+pared to the MP, it nevertheless represented progress in terms of making noncommercial research
+a more routine matter: permission became automatic, provided that the relevant documents were
+supplied. However, in terms of decentralizing remits, the present system goes further than this bill:
+in the bill, permissions for commercial purposes were to be delivered by the CGEN and not the
+CNPq.
+
+It is unlikely that this bill will ever be adopted, given the extreme politicization of the debate,
+both between ministers and between state authorities and NGOs. However, the silent and gradual
+reforms within the CGEN have not given rise to any particular controversy with the latter. At the
+same time, certain stakeholders, not content with the adjustments to the MP (such as the SBPC),
+are demanding a complete overhaul of the system. Either way, and whatever the reasons (political
+maneuvering, a lack of information or a regime that is too complex) the reforms and reﬁnements are
+poorly understood by those toward whom they are directed; the latter simultaneously believe that
+these reforms go further than they actually do—and fail to comment on the more positive reforms.
+CGEN Deliberation no. 268, which marks a completely new departure, is too recent for it to be
+possible to establish whether the research community has been satisﬁed or whether the CNPq will
+take on a role in which it truly represents researchers rather than being a body closer to the public
+authorities.
+
+The access system has thus become a hybrid of public heritage, private property and common
+property. First, by virtue of their status of researcher, scientists increasingly enjoy preferential rights
+and may have easier access to a given resource, especially in the case of noncommercial research,
+even if important private rights and public hold remain. Second, the institution that will now be
+responsible for administration of heritage (deciding what to do with it, on what terms and the extent
+to which other public and private interests should be taken into account) is indeed one that represents
+(at least theoretically) the research community—even if the CGEN retains certain prerogatives. Once
+a researcher or research team has access to a genetic resource and carries out the planned work, it
+may develop innovations based on this and protect these innovations. This then leads to the issue of
+how rights to these innovations, and natural substances by the same token, are allocated.
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+141
+
+Geoffroy Filoche
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Protecting Innovations: Public Control or Privatization of Biotechnologies?
+After the question of access to genetic heritage (the right to grant permission versus the rights of others
+to obtain it) comes the question of innovation on the basis of this heritage (the right to appropriate this
+resource versus the rights of others to reuse it). Brazil’s changing status, as it shifts from a supplier of
+raw resources to a creator of added value through biotechnologies, is perceptible in emerging policy,
+and implies a reorganization of the bundle of rights with regard to natural substances. First, the State
+is seeking to ensure legal control of innovations not only with regard to foreign countries, but also
+with regard to private domestic interests. Second, the State is limiting the degree to which resources
+of the basis of innovations can be appropriated, even if these limitations are hotly contested. Lastly,
+the State is encouraging the development of the national biotechnology sector: rights sharing takes
+place when innovations are transferred from university research to industrial laboratories.
+
+Linking ABS and IPRs to Nationalize Innovation
+The emergence of biotechnologies in Brazil concerns a wide number of ﬁelds and does not always
+relate to substances found in nature (Rezaie et al., 2008). Nevertheless, there are a great range of
+potential uses of the latter: biochemical active principles (which may or may not synthesized) in
+a pharmaceutical compound, anti-inﬂammatory, antiparasitical or cosmetic properties of plants,
+production of proteins by microorganisms, genome sequencing, identiﬁcation of genes that can with-
+stand certain parasites or climatic conditions and so on. At present, generally speaking, exploitation
+of these resources has not lived up to the huge hopes raised by the CBD (Ten Kate and Laird, 2002).
+Either pharmaceutical ﬁrms have techniques other than bioprospecting for discovering new active
+principles (biomimetics, bioinformatics, etc.) or the strategy is to devise inventions on the basis of
+known, tested molecules (Firn, 2003; Moretti and Aubertin, 2007). Nevertheless, natural substances
+still appear to be indispensable resources for the future (Li and Vederas, 2009).
+
+Since the Rio Summit, the trend has been a gradual extension of the ﬁeld of the patentability of
+life forms (Dutﬁeld, 2003; Safrin, 2004). International patentability standards have been crystallized
+in the 1994 Trade-Related Aspects of IPRs (TRIPS agreement), which has been adopted by the
+WTO. Article 27.3 b) of TRIPS allows States to exclude certain types of invention from patentability
+if they so wish: plants, animals and essentially biological processes. However, microorganisms and
+nonbiological and microbiological processes must be patentable. TRIPS does not speciﬁcally rule
+on patentability of nucleotide sequences, molecules or proteins, for instance, all of which are natural
+“objects” that form the basis of innovations that can be protected by patents in the Western world
+(Grubb and Thomsen, 2010). In joining the WTO, Brazil has aligned itself with international practice,
+but only to a certain extent. While it now authorizes patents on medicines and chemical substances,
+natural elements that form the basis of an innovation may not be patented per se, and their use is
+free from any IPR.
+
+The 1996 law on industrial property19 (LPI) was adopted amid considerable mobilization shortly
+after the Rio Summit, when biopiracy was uppermost in people’s minds (Beas Rodrigues, 2010).
+Brazil had recourse to two lines of argument for prohibiting the patentability of naturally occurring
+life forms during negotiations to reform TRIPS and adopt a Substantive Patent Law Treaty (within
+the framework of the WIPO). One argument was drawn from the “anti-globalization” arsenal. This
+argument holds that these life forms are not patentable, not only for ethical reasons (nature is not a
+commodity) but also for social and political reasons (the setting up of commons). The other was a
+nationalistic argument that sought to defend Brazilian interests by preventing foreign stakeholders
+from patenting the properties of certain resources (Nogueira et al., 2010). These arguments have
+some similarities—rejecting a foreign hold on biodiversity—but also differ; one does not challenge
+the principle of patents at all, but simply seeks to adjust it in favor of the national interest. At the
+
+142
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Geoffroy Filoche
+
+same time, patents requests have been lodged by Brazilian researchers and entrepreneurs in United
+States and European patent ofﬁces for inventions based on national biodiversity that could not be
+patented in Brazil (Balbani et al., 2009; Ryan, 2010).
+
+This is what is at stake in the certiﬁcate of legal origin (also referred to as “mandatory disclosure
+of the origin of genetic resources” in the literature), designed to ensure that Brazil, as a public power,
+would retain rights over innovations. At the international level, within both the WTO and the WIPO,
+Brazil no longer takes the stance of explicitly refusing patentability of naturally occurring life forms.
+Rather, it takes the line that if something is to be patentable, the origin of the resource and proof
+that it has been acquired legitimately must be speciﬁed. A proposal along these lines was submitted
+in April 201120 as part of the reform of TRIPS. The suggested article 29 b 2) read as follows:
+
+where the subject matter of a patent application involves utilization of genetic resources
+and/or associated traditional knowledge, Members shall require applicants to disclose:
+(i) the country providing such resources, that is, the country of origin of such resources
+or a country that has acquired the genetic resources and/or associated traditional knowl-
+edge in accordance with the CBD; and, (ii) the source in the country providing the genetic
+resources and/or associated traditional knowledge. Members shall also require that appli-
+cants provide a copy of an Internationally Recognized Certiﬁcate of Compliance (IRCC)
+[as set forth in the Nagoya Protocol]. If an IRCC is not applicable in the providing
+country, the applicant should provide relevant information regarding compliance with
+prior informed consent and access and fair and equitable beneﬁt sharing as required by
+the national legislation of the country providing the genetic resources and/or associated
+traditional knowledge [ . . . ].
+
+Domestically, the economy of the patent appears to have been secured, in two respects. First,
+access to the genetic resource is controlled by the ABS system, and national control is further
+strengthened by the condition (already present from the outset in the MP) of the involvement of a
+public research institution or a Brazilian company. In order for a foreign institution or ﬁrm to have
+access to genetic heritage, formal cooperation with a national entity is required. The purpose of the
+MP is to ensure that Brazilian institutions are positioned as intermediaries between suppliers and
+users, and that these institutions receive a share of any beneﬁts and also beneﬁt from the expertise
+and resources of foreign partners. Second, the certiﬁcate of legal origin has been implemented since
+2010, after many meanderings.21 A certiﬁcate of legal origin enables the party requesting the patents
+to prove that the biological resource has been acquired in compliance with the law, that it corresponds
+to a speciﬁc location and beneﬁciaries and that Prior Informed Consent has been properly obtained
+(Hoare and Tarasofsky, 2007; Pires de Carvalho, 2005). This means that patents registered with INPI,
+the Brazilian National Institute of Intellectual Property, are no longer independent from the legal
+requirements of ABS, while the CURB enables the State, researchers (through capacity-building
+provisions and sharing of IPRs) and landowners to obtain the beneﬁts derived from innovations
+made by foreign researchers and ﬁrms. Lastly, this legal control is backed up by the Nagoya Protocol:
+article 12 of the latter speciﬁes that foreign user States must ensure that their nationals observe the
+law of the supplier State.
+
+Patentability, Availability of Resources and Diffusion of Innovations
+To ensure even greater control over biodiversity, the Brazilian State has restricted the ﬁeld of what is
+patentable and the implications of patents in terms of exclusive rights to resources. The relationships
+between “patents” on life forms and “ownership” of life forms are highly complex. It is impossible
+to have an overview of the implications of patents, whether in terms of legal and economic control
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+143
+
+Geoffroy Filoche
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+of the resource that forms the basis of the invention (or which may even actually be the invention)
+or in terms of the possibilities for other stakeholders to have access to the resources to create other
+innovations. Rather, an attempt will be made here to present the huge number of variables and their
+impact.
+
+First, a continuum can be noted in the way life forms are apprehended corresponding to the
+various disciplines of researchers: these range from work at the level of the genome, the proteome
+(proteins expressed within a cell) or metabolome (small molecules that exist within organisms). The
+subjects of scientiﬁc research range from genetic sequences producing amino acids through to
+the chemical compounds to be found within macromolecules. The diversity of scientiﬁc activity
+relating to life forms, and the potential applications of this work, result in a nesting “Russian doll”
+system in which life forms may be split up, in both scientiﬁc and legal terms, into a number of objects,
+with multiple uses for each object. Legal reductionism is made easier by scientiﬁc simpliﬁcation:
+outside the community, scientists communicate simpliﬁed concepts of the subjects on which they are
+working in order to ensure they retain better legal control of them (Torrance, 2010).
+
+Running alongside this splitting up of life forms runs a continuum of legal powers relating to
+life forms. For a protein produced by a given genetic sequence, the protection afforded by the patent
+may relate to the protein itself, the organism which allows it to be produced, the use of the protein
+in general or in particular, or on the composition which contains the protein, without allowing
+appropriation of the latter (Jannuzzi et al., 2008). Its strength may vary on the basis of how forceful
+the claims are, whether or not they are permitted (some substances may be considered prior art and
+fall into the public domain) and depending on regulations produced by the State: claims may be
+more or less broad (relating to a particular species or an entire genus), and relate to structures or
+functions, while some stakeholders may override the protection (exemptions exist for pure research),
+different stakeholders may protect the same natural object if it has multiple functions and so on. To
+varying degrees, all this may or may not end up restricting invention based on natural objects (Boyle,
+2003; Eisenberg, 2000), and generate a bundle of rights for a same resource that are more or less
+interdependent.
+
+Third, IPRs are deployed amid a range of strategies and economic contexts in which strict
+observance of ownership is not always ensured. The fact that legal control of the uses of a gene or
+properties of a molecule exist does not necessarily mean that there are economic beneﬁts at stake.
+Similarly, the existence of legal control of certain aspects of life forms does not necessarily imply
+control of the economic process in which the invention is developed and produced. What is more,
+patents are not actually “that” important: researchers, and even companies, do not always seek to
+take action against patent violations, and voluntary licenses are regularly negotiated, sometimes free
+of charge or against token payment.
+
+In Brazil, article 10-IX of the LPI states that the following are not considered as inventions:
+
+all or part of natural living organisms and biological material to be found in nature, or
+isolated from nature, including the genome or germplasm of any natural living organism
+or natural biological processes.
+
+Similarly, according to article 18-III, the following may not be patented:
+
+all or part of natural living organisms, with the exception of transgenic microorganisms
+which fulﬁl the three conditions of patentability: novelty, an inventive step and industrial
+applicability ( . . . )—and which are not simply discoveries.
+
+Irrespective of the reasons for which the law has sought to prohibit patentability of natural
+elements, it uses the argument of an absence of an inventive step, which is legally above reproach
+
+144
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Geoffroy Filoche
+
+in terms of TRIPS and at the very heart of the intellectual property system. Isolating a gene and
+explaining its useful properties in an industrial context does not count as an inventive step, but
+as a discovery (Dal Poz and Barbosa, 2007). Nucleotide sequences (which make up genes) and
+peptide sequences (the protein produced by genes) that have been isolated from natural life forms,
+and their functions for any given purpose or in a given context, are not patentable; neither are
+extracts, molecules, substances or mixtures obtained from animals, plants or microorganisms that
+exist in the natural state. None of these innovations may be considered an invention that satisﬁes the
+criteria of an inventive step, even if the researcher supplies evidence of this in their patent application
+(Del Nero, 2008). In the Brazilian patent system, biology takes precedence over chemistry. Life
+forms have an intrinsic quality which is different from that of a chemical compound. Particularly in
+the United States, the opposite approach is taken: laboratory work by scientists makes it possible
+to differentiate chemistry from biology, and thus reduce life forms to mere chemical compounds
+that may be patented (Calvert and Joly, 2011). Moreover, contrary to the speciﬁcations of TRIPS,
+natural microorganisms are not patentable in Brazil. No intellectual property is possible except for
+transgenic microorganisms, which are considered to be the result of genuine human intervention.
+Similarly, processes and methods for obtaining natural extracts (in biochemistry) and isolating genes
+and proteins (in molecular biology), pharmaceutical compositions and the methods for obtaining
+them, and vectors (recombinant DNA) with their nucleic acid sequences are patentable (GTEB,
+2007).
+
+INPI, the Brazilian agency for issuing patents, is currently examining applications from the ﬁeld
+of biotechnology that were ﬁled 10 years ago. Consequently, the only solution at present is to analyze
+legislation and technical memoranda supplied to patent examiners. The LPI may be interpreted in
+diametrically opposing ways. For some (including Almeida M¨uller et al., 2002), while the natural
+extract itself may not be patented, the same is not true of its use to resolve a given technical issue. In
+this perspective, the process encompasses the natural compound. Others (including INPI’s GTEB)
+hold that this is not the case: the use of a natural object for precise functions does not constitute a
+process. Only traditional processes and methods (extraction, isolation, microorganism culture, etc.)
+may be patented. When patents are issued, and when their validity is challenged in court, these
+arguments come head to head. Similarly, there are a number of ways of getting round the prohibition
+on patenting natural substances. For instance, for molecules, genes and proteins, the examiner must
+prove that there is no natural equivalent, which is very difﬁcult to do in practice. At the same time,
+it is always possible to alter the molecular structure of a compound, particularly by using certain
+processes. In addition, the guidelines for examining biotechnology patents (INPI, 2002) call on patent
+examiners to be particularly vigilant: claims may encompass the molecule and the compound, if the
+compound only contains this molecule.
+
+Nonpatentability of the functions and use of natural substances leads to the following state
+of affairs: biobricks and their properties may not be privatized, thus enabling all researchers and
+companies to work without a license on a substance, and use it to make another product, even if the
+patentability of processes can halt research and development of products to a certain extent. In other
+words, on the one hand, natural substances have a commons-like status: researchers and companies
+have fewer rights (compared with the situation in the EU and United States) with regard to natural
+elements, but they have access to a larger and more open “common-pool,” and the possibility of
+patenting the ﬁnal product, without others being prevented from following the same path. On the
+other hand, anyone—including foreign researchers and ﬁrms—may have access to biodiversity-based
+innovations and develop (more or less) new products (a medicine using the same active principle but
+which composition is different for instance) which can also be protected by patent, to a slight degree
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+145
+
+Geoffroy Filoche
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+in Brazil and to a much greater extent elsewhere, in jurisdictions where naturally occurring life forms
+can be appropriated.
+
+This situation does not suit a certain number of scientists and companies. In the ﬁelds of molecu-
+lar biology, biochemistry and agricultural biotechnologies (which have major economic implications
+today), the desire to protect innovations—and the natural elements which underpin them—by patents
+is increasingly in evidence.22 Theses actors argue that patents offer incentives to the private sector to
+invest and transform knowledge into products and allow better competitiveness on a highly compet-
+itive market. It appears that the public authorities are indeed receptive to such arguments. However,
+with patentability the specter of biopiracy also reappears, and with it the private appropriation
+of resources by foreign and domestic economic interests, much feared by the State and by NGOs
+alike. Moreover, patents are being applied at ever-earlier stages of research, which is liable to lead
+to the tragedy of the anticommons (Heller and Eisenberg, 1998), even if little empirical research
+has been conducted in domains such as pharmacogenomics (Paci et al., 2010), molecular biology or
+biochemistry. In any event, for the time being at least, the State intends to retain a certain degree of
+control over resources and innovations shifting toward the private sector, even if it is opening up the
+possibility of private–public partnerships and commons.
+
+Organization of the Biotechnology Sector: Toward a New Rights Sharing System?
+Innovation in biotechnology has been overseen solely by the federal or federated State (Gouvea
+and Kassicieh, 2005), which implements incentive policies. The political process began in 2003 with
+the Prospectiva Consultoria Brasileira de Assuntos Internacionais. The document identiﬁes biotech-
+nologies as one of the key sectors. Legislation was subsequently adopted. In 2007, the government
+published a Pol´ıtica de Desenvolvimento da Biotecnologia (PDB).23 President Lula was very clear in
+his ofﬁcial presentation of the decree:
+
+“Brazil is not, and will never again be a mere supplier of raw materials for the global
+market. ( . . . ) The goal is to concentrate on biotechnologies, investing in research into
+DNA sequencing, neuroscience, stem cell research, nanobiotechnology and biopharma-
+ceuticals.” (Lula da Silva, 2007).
+
+From 2007 onwards, R$6 billion (approximately $3.5 million) were to be invested in R&D by
+public bodies over 10 years. At the same time, the government attempted to encourage private-sector
+ﬁrms to provide R$4 billion worth of investment. To achieve this, a Comitˆe Nacional de Biotecnologia
+was set up, with the Forum de Competitividade de Biotecnologia, set up in 2003 by the federal
+government, representing the interests of the private sector. While it remains very general, article 3
+of the PDB seeks to encourage diffusion of innovations, specifying that the State must ensure that
+biotechnology and technological and economic cooperation are accessible to society as a whole. PDB
+calls explicitly for increasing the number of biotechnological patents owned by Brazilians, both in
+Brazil and abroad. It also seeks to harmonize practices for managing the intellectual property of
+federal and state research and development support agencies so as to facilitate the transfer of the
+technologies developed by science and technology institutions to the private sector, while preserving
+the rights and remuneration due to these science and technology institutions and, where applicable,
+to the supporting agencies.
+
+It is in this context that demands for a reform of the legal framework have been made, to
+shift the status of nature-based innovations from that of commons with a low degree of exclusiv-
+ity to one favoring a greater degree of ownership (whether private or common). One of the most
+active lobbies, the Brazilian Association of Biotechnology Enterprises (ABRABI), is demanding
+protection of “small natural molecules currently unknown to chemistry which are the result of sci-
+
+146
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Geoffroy Filoche
+
+entiﬁc creativity in terms of their isolation and determination of their biological activity” (Paes
+de Carvalho, 2005). In its Resolution no. 61, the Brazilian Association of Intellectual Property
+(ABPI) uses arguments based on legal technique. With regard to a 2003 bill that would have re-
+quired applicants to supply proof of the inventive step involved in their activity and the industrial
+applicability of their invention, ABPI held that this was unfair to scientists and entrepreneurs,
+and that the inventive step should simply be described in the patent application, as is the case
+elsewhere.
+
+Many bills exist that tend toward the patentability of life forms. The arguments in favor of
+this are aired in parliamentary debates: for instance, it would avoid importing synthetic chemical
+substances, which may be patented, since similar natural molecules exist in Brazil; and it would im-
+prove the competitiveness and revenues of domestic industries with respect to foreign competitors.24
+The bill that has made the most progress through the legislative process is Bill no. 4161, spon-
+sored by Member of Parliament Antˆonio Thame. This calls for patents on the following to be
+prohibited:
+
+all or part of natural life forms and biological material to be found in nature, including the
+genome or germplasm of any natural living organism and natural biological processes,
+with the exception of biological substances and materials obtained, extracted or isolated
+from nature which fulﬁl the conditions of patentability and abide by the stipulations of
+legislation with regard to access to genetic resources.
+
+The inventive step is no longer presumed not to exist, and this establishes a link with the issue
+of ABS. Like the LPI, Bill no. 4961 establishes exemptions to allow pure research on the patented
+invention, as well as private-sector uses of the resource for noncommercial purposes. However, it does
+not explicitly seek to introduce new possibilities for holding knowledge and innovation in common.
+If parliamentary debates are anything to go by, politicians and public authorities are aware
+that innovations may be developed in the private sector without tangible advantages of exploiting
+biodiversity (such as increasing capacity in academic training and research) being created. Similarly,
+debates on patents lodged for incremental innovations based on chemical molecules or pharmaceu-
+tical compounds that have already been patented offer evidence that the current dilemma25 could be
+further exacerbated in the event of naturally occurring life forms becoming patentable. The call for
+private rights to innovations appears to go hand in hand with a concern to make scientiﬁc and tech-
+nological commons available in the long term against a backdrop of global competition in the ﬁeld of
+biotechnology. There is sometimes convergence between the positions of researchers, entrepreneurs
+and the State on this question. Public-sector researchers wish to see common rights restricted to
+Brazilian researchers and their private-sector (or indeed foreign) partners. Companies are aware of
+the interest of creating partnerships with universities that have signiﬁcant human resources and tools
+that are frequently expensive. The shared aim, which resonates with the desire of the States to develop
+national research and industry, is thus to beneﬁt from each other’s innovations and face up to those
+foreign stakeholders with which no partnerships exist.
+
+The Organization for Nucleotide Sequencing and Analysis (ONSA) programme was funded by
+the State of S˜ao Paulo from 1997, and beneﬁted from an innovative institutional organization.
+Some 30 university laboratories were networked to collaborate on sequencing the genome of xylella
+fastidiosa, a bacteria that cause signiﬁcant damage to orange trees. Organization involved sharing
+worktools and research ﬁndings. These ﬁndings were made freely accessible to the public over the
+internet. The argument ran as follows: since funding came from the public sector, the results could
+not be privatized, by any researcher (including public-sector researchers) or company. At the same
+time, other innovations (bioinformatic tools and sequencing techniques) were the subject of patent
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+147
+
+Geoffroy Filoche
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+applications. However, many researchers were of the opinion that this organization made genetic
+sequences available to northern country stakeholders free of charge, without the latter having con-
+tributed anything to this common network. To address this problem, some parties sought for an
+EU-style patentability of nucleotide sequences, while others argued in favor of patentability with
+open licenses destined for universities and private-sector ﬁrms involved in the projects, while others
+again proposed commons-based models (Octaviani, 2010).
+
+Brazil is as yet far removed from the European and American experiences of institutional sharing
+of research and patented natural objects, particularly in the ﬁeld of microorganisms (Dedeurwaerdere,
+2010). Nevertheless, the December 2004 law on innovation26 has created instruments that may be
+used for this purpose. Law and Decree no. 5.563 of 11 October 2005 sought to achieve three aims:
+encouraging empowerment of researchers and companies, achieving “technological autonomy” with
+respect to third countries and promoting the nation’s industrial development. While the law was
+designed to enable scientiﬁc knowledge to move to an industrial environment, it is directed ﬁrst and
+foremost at public institutions. Universities are required to have intellectual property units (N´ucleos
+de Inovac¸ ˜ao Tecnol´ogica) in order to encourage their researchers to lodge patents and not simply
+publish their results in scientiﬁc journals. The role of these units may be to provide legal advice to
+researchers, but may also involve dissuading the latter from lodging a patent application if there is
+little chance of it being used given the lack of industrial take-up or market conditions (Querido et al.,
+2011). These units may also decide on strategies for holding patents in common, within a university
+(between laboratories) or between universities. Furthermore, the law seeks to frame public-private
+partnerships, establishing two goals. The ﬁrst goal is the diffusion of innovation: universities and
+public research institutions can sign technology transfer contracts and operating licenses with other
+public institutions or private-sector ﬁrms (article 6 of the law). They may do so free of charge or
+against payment, in order to have access to other innovations through a cross-licensing mechanism,
+or to enable low-cost production for the purposes of public health or access by the population
+to national products that are cheaper than imported products. Second, partnership agreements
+between public institutions and private-sector companies are permitted, enabling IPRs to be shared
+(article 9).
+
+Individual rights of inventors have also been strengthened, which, depending on practice, could
+clash with the concern to hold innovations in common at the scale of public institutions and their
+partner ﬁrms. This means that henceforth, public-sector researchers, as individuals, are entitled to a
+percentage of royalties derived from the use of patents (article 13), and may even be granted exclusive
+ownership of the patent (article 11), even if the institution retains the prerogative for awarding them
+this right. This legislation also makes it possible for researchers to be released from their public-sector
+institution to set up a business. However, as the arbiter of various sectors of the national interest, the
+State reserves the right to impose other rules in the event of “national necessity.” It may also require
+the research institution to carry out technology transfer or grant an operating license. However, any
+such transfer of rights may not be made to a single company (article 6 §5), apparently with a view to
+preventing monopolies.
+
+This law on innovation is too recent to allow a proper assessment. However, a number of
+comments may be made. Above all, it is public universities and public research institutes that beneﬁt
+from the credits and incentives and that lodge patent applications with INPI (Moreira et al., 2006).
+Furthermore, three key characteristics may be noted: the relative lack of partnerships with the
+private sector, a dearth of technological implementations and the fact that non-Brazilians lodge the
+overwhelming majority of patents with INPI, which is seen as a problem by the authorities (Uchˆoa
+et al., 2011).
+
+148
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Geoffroy Filoche
+
+Conclusions
+A number of important lessons may be learned from the Brazilian example, on two levels.
+
+First, there are lessons to be learned regarding the issues raised by applying the CBD when
+it comes to scope (the deﬁnition of what constitutes a genetic resource, what types of use and
+user are concerned, etc.) and control. When the regime was set up, nationalization of resources
+and public centralization of the power to grant access was observed (CGEN), even if some private
+rights remained. The framework privileged the “land” approach (rights of owners to the physical
+resource) rather than the “activity” approach (the right of researchers to work on resources), and
+decision making at a level that was assumed to be impartial but which could be out of sync with
+the realities on the ground. In actual fact, the existing ABS framework led to a lack of access and
+therefore an absence of use. Subsequently, there was a shift toward a more commons-like system: a
+regime facilitating scientiﬁc activity and offering greater ﬂexibility to move forwards from a regime of
+noncommercial use to that of commercial use, allowing activities to develop without being restricted
+by the rights of public authorities and individuals. Similarly, faced with problems of congestion in
+terms of procedures and assessment of the potential risks of research (in terms of too much private
+appropriation or control of the R&D process), a tendency of researchers to self-regulate the process
+of granting permission and arbitrating between interests has been observed.
+
+Second, there are lessons to be learned when it comes to the bundles of rights relating to
+biodiversity. The legal status of a resource shifts and becomes more complex as it circulates and is
+transformed. The actual subject in law changes: physical resources (a plant sample or microorganism),
+nonmaterial resources (information contained in the genetic sequence) and intellectual resources (the
+scientiﬁc knowledge relating to a resource and industrial processes). This gives rise to interlocking
+rights with regard to the same resource when it comes to access (a mix of public permissions, private
+rights and emerging common rights, and a desire to decentralize to grant more power to research
+institutions) and when it comes to lodging a patent (a mix of public control, private rights and
+making innovations available to the scientiﬁc community or the “public,” more or less broadly
+deﬁned).
+
+Brazil is currently seeking to restructure these bundles of rights on nature-based innovations as
+part of legislative reforms that are in all likelihood imminent. In the political, scientiﬁc and industrial
+circles in question, the debate currently comes down to the following question: is an absence of
+patentability of naturally occurring life forms compatible with development of the biotechnology
+sector? If Brazil allows IPRs on natural elements in the near future, the question will then become
+the following: in what conditions will appropriation of innovations and natural elements through
+patents make it possible to develop the national biotechnology sector, and how will this redeﬁne
+relations between the public and private beneﬁts of biodiversity? ABS is not simply an issue when it
+comes to North-South relations on the international scene: it may also unite or divide within a single
+nation.
+
+About the Author
+Geoffroy Filoche is a Senior Research Fellow at the Institut de Recherche pour le D´eveloppement
+(IRD—UMR GRED, France). He is currently a Visiting Professor at the Universidade Federal de
+Goi´as (UFG—IESA, Brazil). He holds a Doctorate in Public Law (Universit´e de Nantes, France).
+His work focuses on biodiversity law, intellectual properties standards and multicultural policies
+directed at indigenous and local peoples in South America; e-mail: geoffroy.ﬁloche@ird.fr
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+149
+
+Geoffroy Filoche
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Notes
+This article draws on research carried out as part of the BioTEK Program (2008–11) funded by the ANR Suds
+(France), in cooperation with the Instituto de Estudos S´ocio-Ambientais (IESA, Universidade Federal de Goi´as,
+Brazil). I would like to thank Catherine Aubertin and Florence Pinton, with whom some of the ﬁeldwork was
+conducted. The article beneﬁted from stimulating discussions with the other members of the BioTEK team:
+Fr´ed´eric Thomas, Val´erie Boisvert, Christophe Bonneuil, Elise Demeulenaere and Jean Foyer. In particular, I
+would like to thank the following for sharing information and ideas: Camila Neves Soares Oliveira, Fernanda
+Alvares da Silva, Fabiane Pereira Ramos Figueiredo, Karla Kovary, Chang das Estrelas Wilches, Ana Paula
+Caldeira, Juliana Santilli, Henry Iba˜nez de Novion, Marcelo Dias Varella, Denis Borges Barbosa and Celso
+Lage.
+
+1 The speciﬁc issue of agricultural biotechnologies (with the major incidence of GMOs [genetically modiﬁed
+organisms] and the existence of rights for new plant varieties, which are very different from patents) is not
+discussed here. On this point, see for instance, Carvalho et al. (2006) and Thomas (2006).
+
+2 Rights relating to traditional knowledge that recognize customary systems of indigenous common property
+
+are not discussed here. On this issue, see for example, McManis (2007) and Filoche (2007, 2009).
+
+3 The bundle metaphor is useful in capturing analytically the total range of rights and obligations, the
+potential totality of “sticks’ that can be bundled and distributed over different holders of rights and
+obligations. See Benda-Beckmann et al. (2006).
+
+4 The CNPq is an agency of the Brazilian Ministry of Science and Technology whose aim, particularly
+through the funding of calls for projects, is to encourage scientiﬁc and technological research. Researchers
+form part of the agency’s policymaking and assessment bodies.
+
+5 Di´ario Oﬁcial da Uni˜ao, Sec¸ ˜ao 1, p. 11, 24/08/2001.
+6 IBAMA reports can be viewed on the http://www.ibama.gov.br website.
+7 CGEN reports can be viewed on the http://www.mma.gov.br website.
+8 Di´ario Oﬁcial da Uni˜ao, Sec¸ ˜ao 1, p. 79, 24/10/2003.
+9 Di´ario Oﬁcial da Uni˜ao, Sec¸ ˜ao 1, p. 57, 2/03/2007.
+10 Di´ario Oﬁcial da Uni˜ao, Sec¸ ˜ao 1, p. 167, 27/12/2007.
+11 Di´ario Oﬁcial da Uni˜ao, Sec¸ ˜ao 1, p. 118, 12/09/2006.
+12 The use of genetic resources is broadly deﬁned by the Protocol as “to conduct research and development
+on the genetic and/or biochemical composition of genetic resources, including through the application of
+biotechnology as deﬁned in Article 2 of the Convention” (article 2c).
+
+13 “In the development and implementation of its access and beneﬁt-sharing legislation or regulatory re-
+quirements, each Party shall create conditions to promote and encourage research which contributes to
+the conservation and sustainable use of biological diversity, particularly in developing countries, including
+through simpliﬁed measures on access for non-commercial research purposes, taking into account the need
+to address a change of intent for such research.”
+
+14 Di´ario Oﬁcial da Uni˜ao, Sec¸ ˜ao 1, p. 1, 18/07/2007.
+15 Di´ario Oﬁcial da Uni˜ao, Sec¸ ˜ao 1, p. 120, 29/09/2008.
+16 Di´ario Oﬁcial da Uni˜ao, Sec¸ ˜ao 1, p. 77, 23/05/2011.
+17 Di´ario Oﬁcial da Uni˜ao, Sec¸ ˜ao 1, p. 96, 16/09/2009.
+18 Dates from 9 December 2010 but published in the Di´ario Oﬁcial da Uni˜ao on 5 September 2011.
+19 Lei n
+
+9.279/96 de 14 de Maio de 1996 (com alterac¸ ˜oes oriundas da Lei N
+
+◦
+
+◦
+
+10.196 de 14 de fevereiro de
+
+2001), Di´ario Oﬁcial da Uni˜ao, Sec¸ ˜ao 1, 15/5/1996.
+
+20 Draft Decision to enhance mutual supportiveness between the TRIPS Agreement and the Convention on
+Biological Diversity, Communication from Brazil, China, Colombia, Ecuador, India, Indonesia, Peru,
+Thailand, the ACP Group, and the African Group, TN/C/W/59, Trade Negotiations Committee, WTO,
+19/04/2011.
+
+150
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Geoffroy Filoche
+
+21 Although the principle existed right from the 2001 MP, a large amount of legislation had to be produced:
+CGEN Resolution no. 23 (November 2006), INPI Resolutions no. 134 and 135 (December 2006), CGEN
+Resolution no. 34 (February 2009) and INPI Resolution no. 207 (April 2009).
+
+22 The current framework is also deemed unsatisfactory by opponents of patentability. For instance, in 2001,
+one project sought to prohibit patentability of any product or process, including recombinant DNA.
+However, civil society, in favor of patentability, has organized itself more effectively and its initiatives are
+taken into account by public authorities.
+
+23 Decreto 6.041/2007, 08/02/2007, Di´ario Oﬁcial da Uni˜ao, Sec¸ ˜ao 1, p. 1, 09/02/2007.
+24 Di´ario da Cˆamara dos Deputados, pp. 58679–85, 22/10/2009.
+25 “( . . . ) Permissive regimes that grant patents to non-deserving innovations may elicit sharp reactions from
+groups ( . . . ) that are principally users of knowledge. Yet restrictive regimes that deny many applications
+risk alarming and alienating ( . . . ) local industrial and scientiﬁc communities that fear having their own
+innovative endeavors frustrated and their own patent applications denied on account of being insufﬁciently
+inventive (i.e., trivial rather than innovative) (Shadlen, 2011, p. 145).”
+
+26 Lei 10.973/04, 2/12/2004, Di´ario Oﬁcial da Uni˜ao, Sec¸ ˜ao 1, p. 2, 3/12/2004.
+
+References
+Aguiar, R. C. (2002) Adeus ao para´ıso: a internacionalizac¸ ˜ao da Amazˆonia. Paralelo 15, Bras´ılia.
+Almeida M¨uller, A. C., Pereira Jr., N. and Antunes, A. M. S. (2002) ‘Protecting Biotechnological Inventions
+in Brazil and Abroad: Draft, Scope and Interpretations of Claims’, Albany Law Journal of Science &
+Technology, 13, 145–72.
+
+Aubertin, C., Boisvert, V. and Nuzzo, V. (2007) ‘L’acc`es aux ressources g´en´etiques et le partage des avantages:
+une question conﬂictuelle. Exemples du Br´esil et de la Bolivie’, in C. Aubertin, F. Pinton and V. Boisvert
+(eds.), Les march´es de la biodiversit´e. IRD Editions, Paris, pp. 121–47.
+
+Aubertin, C. and Moretti, C. (2007) ‘La biopiraterie, entre ill´egalit´e et ill´egitimit´e’, in C. Aubertin, F. Pinton and
+
+V. Boisvert (eds.), Les march´es de la biodiversit´e. IRD Editions, Paris, pp. 91–120.
+
+Aubertin, C. and Filoche, G. (2011) ‘The Nagoya Protocol on the Use of Genetic Resources: One Embodiment
+
+of an Endless Discussion’, Sustentabilidade em Debate, 2(1), 51–63.
+
+Azevedo, C., Lavratti P. C. and Moreira T. C. (2005) ‘A Convenc¸ ˜ao sobre diversidade biol´ogica no Brasil:
+considerac¸ ˜oes sobre sua implementac¸ ˜ao no que tange ao acesso ao patrimˆonio gen´etico, conhecimentos
+tradicionais associados e repartic¸ ˜ao de benef´ıcios’, Revista de Direito Ambiental, 37, 113–43.
+
+Balbani, A. P., Silva, D. H. S. and Montovani, J. C. (2009) ‘Patents of Drugs Extracted from Brazilian Medicinal
+
+Plants’, Expert Opinion on Therapeutic Patents, 19(4), 461–73.
+
+Beas Rodrigues Jr., E. (2010) Tutela jur´ıdica dos recursos da biodiversidade, dos conhecimentos tradicionais e do
+
+folclore. Elsevier, Rio de Janeiro.
+
+Benda-Beckmann, F., von, Benda-Beckmann, K. and Wiber, M. (2006) ‘The Properties of Property’, in F.
+von Benda-Beckmann, K. von Benda-Beckmann and M. Wiber (eds.), Changing Properties of Property.
+Berghahn Books, New York, pp. 1–39.
+
+Beurier, J.-P. (1996) ‘Le droit de la biodiversit´e’, Revue Juridique de l’Environnement, 1–2, 5–28.
+Boisvert, V. and Vivien, F.-D. (2005) ‘The Convention on Biological Diversity: A Conventionnalist Approach’,
+
+Ecological Economics, 53, 461–72.
+
+Boyle, J. (2003) ‘Enclosing the Genome: What the Squabbles over Genetic Patents Could Teach Us’, Advances
+
+in Genetics, 50, 97–122.
+
+Buck, M. and Hamilton, C. (2011) ‘The Nagoya Protocol on Access to Genetic Resources and the Fair and
+Equitable Sharing of Beneﬁts Arising from their Utilization to the Convention on Biological Diversity’,
+Review of European Community & International Environmental Law, 20(1), 47–61.
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+151
+
+Geoffroy Filoche
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Calvert, J. and Joly, P.-B. (2011) ‘How Did the Gene Become a Chemical Compound? The Ontology of the Gene
+
+and the Patenting of DNA’, Social Science Information, 50(2), 1–21.
+
+Carvalho, S. M. P., Salles-Filho, S. L. M. and Paulino, S. R. (2006) ‘Propriedade intelectual e dinˆamica de
+
+inovac¸ ˜ao na agricultura’, Revista Brasileira de Inovac¸ ˜ao, 5(2), 315–40.
+
+Check, E. and Haydn, T. (2007) ‘Strike Threat over Jailed Primatologist’, Nature, 448, 634.
+Chen, J. (2006) ‘There’s No Such Thing as Biopiracy . . . And It’s a Good Thing Too’, McGeorge Law Review,
+
+37, 1–36.
+
+Cook-Deegan, R. and Dedeurwaerdere, T. (2006) ‘The Science Commons in Life Science Research: Structure,
+Function, and Value of Access to Genetic Diversity’, International Social Science Journal, 58(2), 299–
+317.
+
+Dal Poz, M. E. and Barbosa, D. B. (2007) ‘Incertezas e riscos no patenteamento de biotecnologias: a situac¸ ˜ao
+brasileira corrente’, in V. Iacomini (ed.), Propriedade intelectual e biotecnologia. Juru´a Editora, Curitiba,
+pp. 93–138.
+
+Dedeurwaerdere, T. (2010) ‘Global Microbial Commons: Institutional Challenges for the Global Exchange and
+
+Distribution of Microorganisms in the Life Sciences’, Research in Microbiology, 161, 414–21.
+
+Del Nero, P. (2008) Biotecnologia. An´alise cr´ıtica do marco jur´ıdico regulat´orio. Editora Revista dos Tribunais,
+
+S˜ao Paulo.
+
+Dutﬁeld, G. (2003) Intellectual Property Rights and the Life Science Industries. Ashgate, Aldershot.
+Eisenberg, R. (2000) ‘Re-examining the Role of Patents in Appropriating the Value of DNA Sequences’, Emory
+
+Law Journal, 49, 783–800.
+
+Filoche, G. (2007) Ethnod´eveloppement, d´eveloppement durable et droit en Amazonie. Bruylant, Bruxelles.
+Filoche, G. (2009) ‘Les connaissances, innovations et pratiques traditionnelles en mati`ere de biodiversit´e: un
+
+kal´eidoscope juridique’, Droit et Soci´et´e, 72(2), 433–56.
+
+Filoche, G. and Foyer, J. (2011) ‘La bioprospection au Br´esil et au Mexique, un eldorado? Entre instabilit´e des
+
+pratiques et permanence des repr´esentations’, Revue d’Anthropologie des Connaissances, 5(2), 234–59.
+
+Firn, R. D. (2003) ‘Bioprospecting—Why Is It So Unrewarding?’, Biodiversity and Conservation, 12(2), 207–
+
+16.
+
+Glowka, L. (1997) ‘The Next Rosy Periwinkle Won’t Be Free: Emerging Legal Frameworks to Implement Article
+
+15’, Environmental Policy and Law, 27, 441–58.
+
+Grajal, A. (1999) ‘Biodiversity and the Nation State: Regulating Access to Genetic Resources Limits Biodiversity
+
+Research in Developing Countries’, Conservation Biology, 13(1), 6–9.
+
+GTEB (Grupo de Trabalho Especial em Biotecnologia) (2007) Estudo Comparativo dos Crit´erios de Patente-
+abilidade para Invenc¸ ˜oes Biotecnol´ogicas em Diferentes Pa´ıses. DART/CEDIN/DIESPRO, INPI, Rio de
+Janeiro.
+
+Gouvea, R. and Kassicieh, S. (2005) ‘Using Resources in R&D Policy Planning: Brazil, the Amazon and
+
+Biotechnology’, Technological Forecasting & Social Change, 72, 535–47.
+
+Grubb, P. W. and Thomsen, P. R. (2010) Patents for Chemicals, Pharmaceuticals, and Biotechnology. Fundamentals
+
+of Global Law, Practice, and Strategy, 5th edition, Oxford University Press, Oxford, UK.
+
+Heller, M. and Eisenberg, R. (1998) ‘Can Patents Deter Innovation? The Anticommons in Biomedical Research’,
+
+Science, 280, 698–701.
+
+Hermitte, M.-A. (1992) ‘La Convention sur la Diversit´e Biologique’, Annuaire Franc¸ais de Droit International,
+
+38, 844–70.
+
+Hoare, A. L. and Tarasofsky, R. G. (2007) ‘Asking and Telling: Can ‘Disclosure of Origin’ Requirements in
+
+Patent Applications Make a Difference?’, Journal of World Intellectual Property, 10(2), 149–69.
+
+INPI (Instituto Nacional da Propriedade Industrial) (2002) ‘Diretrizes para o exame de pedidos de patente nas
+´areas de biotecnologia e farmaceutica depositados ap´os 31/12/1994’, Revista da Propriedade Intelectual,
+1648, 1–14.
+
+152
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Geoffroy Filoche
+
+Jannuzzi, A. H. L., Vasconcellos, A. G. and Gomes de Souza, C. (2008) ‘Especiﬁcidades do patenteamento
+no setor farmacˆeutico: modalidades e aspectos da protec¸ ˜ao intelectual’, Cadernos de Sa´ude P´ublica, 24(6),
+1205–18.
+
+Jinnah, S. and Jungcurt, S. (2009) ‘Could Access Requirements Stiﬂe Your Research?’, Science, 323, 464–5.
+Li, J. W. H. and Vederas, J. C. (2009) ‘Drug Discovery and Natural Products: End of an Era or an Endless
+
+Frontier?’, Science, 325, 161–65.
+
+Lula da Silva, Presidente Luiz In´acio (2007) Discurso na cerimˆonia de lanc¸amento da Pol´ıtica de Biotecnologia.
+Pal´acio do Planalto, 22 de fevereiro de 2007. Available at <http://www.info.planalto.gov.br>, search by
+date [Accessed 21 July 2011].
+
+Marques, F. (2011) ‘Bioprospecc¸ ˜ao: emaranhado burocr´atico’, Pesquisa FAPESP, 179, 28–33.
+McManis, C. (ed.) (2007) Biodiversity and the Law: Intellectual Property, Biotechnology and Traditional Knowl-
+
+edge. Earthscan, London.
+
+Morales, A. P. (2010) ‘Bioprospecc¸ ˜ao: burocracia ainda emperra acesso ao patrimˆonio gen´etico nacional’,
+
+Ciˆencia e Cultura, 62(3), 8–10.
+
+Moreira, A. C., Almeida M¨uller, A. C., Pereira Jr., N. and Antunes, A. M. S. (2006) ‘Pharmaceutical Patents
+
+on Plant Derived Materials in Brazil: Policy, Law and Statistics’, World Patent Information, 28, 34–42.
+
+Moretti, C. and Aubertin, C. (2007) ‘Strat´egies des ﬁrmes pharmaceutiques : la bioprospection en question’, in
+C. Aubertin, F. Pinton and V. Boisvert (eds.), Les march´es de la biodiversit´e. IRD Editions, Paris, pp. 27–54.
+Nogueira, R. C., Cerqueira, H. F. and Soares, M. B. P. (2010) ‘Patenting Bioactive Molecules from Biodiversity:
+
+The Brazilian Experience’, Expert Opinion on Therapeutic Patents, 20(2), 1–13.
+
+Octaviani, A. (2010) ‘Biotechnology in Brazil: Promoting Open Innovation’, in L. Shaver (ed.), Access to
+Knowledge in Brazil. New Research on Intellectual Property, Innovation and Development. Bloomsbury
+Academic, Basingstoke, pp. 79–102.
+
+Ostrom, E. and Schlager, E. (1996) ‘The Formation of Property Rights’, in S. Hanna and C. Folke (eds.), Rights
+to Nature: Ecological, Economic, Cultural and Political Principles of Institutions for the Environment. Island
+Press, Washington, DC, pp. 127–56.
+
+Paci, D., Hopkins, M. M., Zika, E. and Ibarreta, D. (2010) ‘Impact of DNA Patents on Pharmacogenomics
+
+Research and Development: Economic and Policy Issues’, Drug Development Research, 71, 485–91.
+
+Paes de Carvalho, A. (2005) ‘Biotecnologia, biociˆencias e sustentabilidade’. Paper presented at the Sustent´avel
+2005 (Congresso Ibero-Americano sobre Desenvolvimento Sustent´avel), 31 May to 2 June, Rio de Janeiro.
+Pires de Carvalho, N. (2005) ‘From the Shaman’s Hut to the Patent Ofﬁce: In Search of a TRIPs-Consistent
+Requirement to Disclose the Origin of Genetic Resources and Prior Informed Consent’, Washington
+University Journal of Law and Policy, 17, 111–86.
+
+Querido, A. L. S., Lage, C. L. S. and Vasconcellos, A. G. (2011) ‘What is the Destiny of Patents of Brazilian
+
+Universities?’, Journal of Technology Management & Innovation, 6(1), 46–57.
+
+Rezaie, R., Frew, S. E., Sammut, S. M., Maliakkal, M. R., Daar, A. S. and Singer, P. A. (2008) ‘Brazilian Health
+
+Biotech—Fostering Crosstalk between Public and Private Sectors’, Nature Biotechnology, 26(6), 627–44.
+
+Roa-Rodriguez, C. and van Dooren, T. (2008) ‘Shifting Common Spaces of Plant Genetic Resources in the
+
+International Regulation of Property’, Journal of World Intellectual Property, 11(3), 176–202.
+
+Rocha, F. A. N. G. (2003) ‘Regulamentac¸ ˜ao jur´ıdica do acesso `a biodiversidade’, Revista de Direito Ambiental,
+
+29, 167–85.
+
+Rose, C. M. (2003) ‘Romans, Roads, and Romantic Creators: Traditions of Public Property in the Information
+
+Age’, Law and Contemporary Problems, 66, 89–110.
+
+Ryan, M. P. (2010) ‘Patent Incentives, Technology Markets, and Public-Private Bio-Medical Innovation Net-
+
+works in Brazil’, World Development, 38(8), 1082–93.
+
+Safrin, S. (2004) ‘Hyperownership in a Time of Biotechnological Promise: The International Conﬂict to Control
+
+Blocks of Life’, American Journal of International Law, 98, 641–85.
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+153
+
+Geoffroy Filoche
+
+Biodiversity Fetishism and Biotechnology Promises in Brazil
+
+Santilli, J. (2005) Socioambientalismo e novos direitos. Peir´opolis, S˜ao Paulo.
+Schlager, E. and Ostrom, E. (1992) ‘Common Property and Natural Resources: A Conceptual Analysis’, Land
+
+Economics, 68(3), 249–52.
+
+Scott, R. L. (2003) ‘Bio-Conservation or Bio-Exploitation: An Analysis of the Active Ingredients Discovery
+Agreement between the Brazilian Institution Bioamazonia and the Swiss Pharmaceutical Company No-
+vartis’, George Washington International Law Review, 35, 977–1000.
+
+Shadlen, K. C. (2011) ‘The Political Contradictions of Incremental Innovation: Lessons from Pharmaceutical
+
+Patent Examination in Brazil’, Politics & Society, 39(2), 143–74.
+
+Stone, C. D. (1995) ‘What to Do about Biodiversity: Property Rights, Public Goods, and the Earth’s Biological
+
+Riches’, Southern California Law Review, 68, 577–620.
+
+Straus, J. (2008) ‘How to Break the Deadlock Preventing a Fair and Rational Use of Biodiversity’, Journal of
+
+World Intellectual Property, 11(4), 229–95.
+
+Ten Kate, K. and Laird, S. A. (eds.) (2002) The Commercial Use of Biodiversity: Access to Genetic Resources and
+
+Beneﬁt Sharing. Earthscan, London.
+
+Thomas, F. (2006) ‘Biodiversit´e, biotechnologies et savoirs traditionnels. Du patrimoine commun de l’humanit´e
+
+aux ABS’, Revue Tiers Monde, 188, 825–42.
+
+Torrance, A. W. (2010) ‘Gene Concepts, Gene Talk, and Gene Patents’, Minnesota Journal of Law, Science &
+
+Technology, 11(1), 157–91.
+
+Tvedt, M. W. (2006), ‘Elements for Legislation in User Countries to Meet the Fair and Equitable Beneﬁt-Sharing
+
+Commitment’, Journal of World Intellectual Property, 9(2), 189–212.
+
+Uchˆoa, N. N., de Paiva Ferreira, R., Sachetto-Martins, G. and M¨uller, A. C. (2011) ‘Ten Years of the Ge-
+nomic Era in Brazil: Impacts on Technological Development Assessed by Scientiﬁc Production and Patent
+Analysis’, World Patent Information, 33, 150–6.
+
+Young, T. (2006) ‘An Implementation Perspective on International Law of Genetic Resources: Incentive, Con-
+
+sistency, and Effective Operation’, Yearbook of International Environmental Law, 15, 3–93.
+
+154
+
+C(cid:2) 2012 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2012) Vol. 15, no. 2
+
+

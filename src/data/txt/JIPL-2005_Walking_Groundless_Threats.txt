@@ -1,0 +1,2199 @@
+Journal of Intellectual Property Law & Practice, Vol. 1, No. 1
+
+ARTICLE
+
+51
+
+Walking the groundless threats minefield
+Ewan Nettleton and Brian Cordery*
+
+1. Introduction
+Whether a groundless threats action could arise on
+threatening litigation depends on several
+factors.
+The type of IP right involved will always be the start-
+ing point, since for some IP rights, such as copyright,
+there are no groundless threats provisions. That is not
+to say that there can be no cause of action where a
+threat has been made in relation to such rights. Other
+causes of action may arise such as malicious false-
+hood, defamation, or even contempt of court in
+some circumstances. However, such actions are relat-
+ively rare and, falling outside the scope of this article,
+will not be considered further.
+
+it
+
+is
+threat(s)
+
+important
+and
+
+If there are threats provisions for the IP right
+the
+in question,
+potential
+the
+circumstances and the identity of the parties involved
+in the context of those provisions. The next section of
+this article seeks to provide an overview of the law
+for each relevant right.
+
+to identify
+consider
+
+then
+
+ The making of a groundless threat
+
+to sue
+another person for infringing an intellectual
+property right may result in civil liability for
+the person making the threat.
+
+ It is important to distinguish those intellectual
+property rights that give rise to threats actions
+from those that do not and to consider the rel-
+evant legislation and caselaw in each case.
+
+ The risk of a statement made being considered
+a threat can lead to intellectual property owners
+launching legal proceedings before seeking a
+negotiated settlement.
+
+ The option of suing any party for making a
+infringement,
+groundless
+including the IP owner’s solicitors, may be put
+to strategic use by the alleged infringer.
+
+to sue for
+
+threat
+
+2. Overview of the law on
+groundless threats
+IP rights with groundless threats
+provisions
+
+Specific groundless threats provisions apply mainly in
+relation to registrable rights, and at the time of writ-
+ing apply to the following: patents, trade marks, and
+UK designs. No such provisions exist for the follow-
+ing non-registrable rights: copyright, (unregistered)
+Community design right, database right, rights in
+confidential
+information and unregistered trade
+marks (in the sense of marks that would form
+the basis of a passing-off claim). However,
+the
+
+*
+
+1
+
+Bristows. E-mail:
+bristows.com.
+
+ewan.nettleton@bristows.com and brian.cordery@
+
+See eg Jaybeam Ltd v Abru Aluminium Ltd [1976] RPC 308, where an
+injunction was granted to restrain further threats following notification
+of a design registration in a letter which also threatened proceedings in
+relation to copyright infringement.
+
+Ó The Authors (2005). Published by Oxford University Press. All rights reserved.
+
+in contrast
+
+distinction is not altogether so simple. Registered
+Community designs,
+to their UK
+registered counterparts, are not presently subject to
+any threats provisions, and yet, anomalously, unre-
+gistered UK designs are. The position in relation to
+Community designs is set to change later this year
+as described below, but the anomaly with regard to
+unregistered designs will remain. Furthermore, where
+multiple IP rights are concerned, seeking to threaten
+in relation to a right for which there are no threats
+provisions, while mentioning another, might lead to
+problems.1
+
+General aspects of the various
+groundless threats provisions
+
+Where threats provisions could apply, there are three
+common aspects worthy of mention. These can be
+considered together before examining the individual
+provisions, because the case law until recently has
+tended to apply generally, irrespective of the particu-
+lar right involved.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+5
+1
+2
+1
+9
+3
+7
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+52
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2005, Vol. 1, No. 1
+
+The first common aspect, unsurprisingly,
+
+is a
+‘threat’. This term, construed widely, includes both
+express and implied threats. The test that tends to
+be used is objective, the court assessing whether the
+language used would convey to the reasonable man
+an intention to bring infringement proceedings.2 It
+covers threats made in a whole range of media
+including letters, circulars, and advertisements.
+
+The second main common element is the person
+who may bring a groundless threats action, the so-
+called person aggrieved. This term is also construed
+widely and covers anyone whose ‘commercial interests
+are likely to be adversely affected in a real, as opposed
+to a fanciful or minimal, way’.3 Therefore, a potential
+cause of action is not limited merely to the person
+directly threatened. For example, a supplier whose
+customer cancels a contract in the face of threatened
+litigation for patent or trade mark infringement could
+bring an action against the right-holder to seek to
+restrain the threats.
+
+The remedies available in a groundless threats
+action are also broadly the same for each of the IP
+rights. In each case, one may obtain a declaration
+that the threat was unjustifiable, an injunction res-
+training the continuance of the threats, and damages
+in respect of any losses sustained by reason of the
+threats (though these will often be nominal). How-
+ever, what is often seen as the real utility of threats
+actions is the ability to seize the initiative that such
+actions can give to potential defendants to infringe-
+ment proceedings. This aspect, which has been used
+to great effect as a tactical ploy in the context of wider
+litigation, is considered further below.
+
+Patents
+
+The groundless threats provisions relating to patents
+are found in section 70, Patents Act 1977. Before
+1 January 2005, these provisions were very similar
+to the statutory provisions relating to trade marks
+and UK designs. However, important changes to sec-
+tion 70 came into effect4 from the beginning of 2005.
+
+2
+
+See eg C&P Developments Co (London) v Sisabro Novelty Co (1953) 70 RPC
+277 in the context of patents and L’Oreal (UK) Ltd v Johnson & Johnson
+[2000] FSR 686 in the context of trade marks.
+
+In particular, the ‘old’ version of section 70 had the
+following important aspects:
+
+(i) Permitted acts. Threats concerning acts of primary
+infringement (ie making or importing a patented
+product or using a patented process) were per-
+mitted.5 However, threats that went further by
+alleging secondary acts (eg threatening infringe-
+ment by selling or keeping a product) were not,
+even where the person threatened was someone
+who was also engaged in acts of primary infringe-
+ment. The latter point was made clear in the Cav-
+ity Trays case,6 where wider threats against a
+manufacturer were held not to be permitted.
+
+(ii) Mere notification. Merely notifying someone of
+the existence of a patent was likewise permitted,7
+allowing patent holders to bring their patent to
+a potential infringer’s attention (and to provide
+a copy of the patent if desired). However, saying
+more than this always had the potential to be
+construed as a threat because of the breadth of
+the interpretation of this term.
+
+(iii)Justification. The standard response of a patent
+holder accused of making a threat is to start the
+proceedings that were threatened. If the person
+threatened was shown to infringe, then the patent
+holder could avoid liability for making a ground-
+less threat on the basis of the defence of justifica-
+tion.8 This defence would not be available if the
+patent was held to be invalid on the ground that
+an invalid patent cannot be infringed and there-
+fore that the threat was not justified.
+
+The amendments to section 70 changed each of
+these aspects significantly, strengthening the paten-
+tee’s position but not, as many IP practitioners would
+have hoped, removing the threats provisions com-
+pletely. Permitted threats have now been extended
+to cover all threats made to primary infringers so
+that, on this point, Cavity Trays is no longer good
+law.9 With regard to concerns over groundless threats
+actions, manufacturers and importers of infringing
+
+6 Cavity
+
+Trays
+
+Ltd
+
+v
+
+RMC
+
+Panel
+
+Products
+
+Ltd
+
+[1996]
+
+3 Brain v Ingledew Brown Bennison & Garrett (No.3) [1997] FSR 511.
+
+RPC 361.
+
+4 Amendments made by section 12 of the Patents Act 2004. The amend-
+ments to section 70 of the Patents Act 1977 were brought into effect on
+1 January 2005.
+
+5
+
+Section 70(4), Patents Act 1977, prior to amendment by section 12, Patents
+Act 2004.
+
+7
+
+8
+
+9
+
+Section 70(5), Patents Act 1977, prior to amendment by section 12, Patents
+Act 2004.
+
+Section 70(2), Patents Act 1977, prior to amendment by section 12, Patents
+Act 2004.
+
+Section 70(4), Patents Act 1977, as amended.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+5
+1
+2
+1
+9
+3
+7
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Ewan Nettleton and Brian Cordery · Walking the groundless threats minefield
+
+ARTICLE
+
+53
+
+Are legal proceedings already in
+
+Yes
+
+existence?
+
+No
+
+(Arguably) No action for
+
+unjustified threats can lie since
+the proceedings already exist
+
+Is the communication, when
+viewed through the eyes of the
+objective recipient, a threat?
+
+Yes
+
+Is the ‘threat’ made in respect
+only of allegations of making or
+importing a product or using a
+
+process?
+
+No
+
+Is the ‘threat’ made against a
+
+person who has made or
+
+imported a product or used a
+
+process for allegedly
+
+undertaking any other infringing
+
+act?
+
+No
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Is the ‘threat’ merely providing
+factual information about the
+
+patent?
+
+No
+
+Is the ‘threat’ merely for the sole
+
+purpose of discovering the
+
+identity of the person who has
+
+made or imported alleged
+
+infringing products or used an
+allegedly infringing process?
+
+Yes
+
+No
+
+The person who issued the
+
+threat has a valid defence to the
+
+threats action
+
+Yes
+
+The threats action will fail
+
+Yes
+
+Yes
+
+The threats action will succeed
+
+No
+
+No action for unjustified
+
+threats will lie
+
+An action for unjustified
+
+threats will lie
+
+Did the person threatening use
+
+his/her best endeavours to
+ascertain the identity of the
+
+primary infringer and notify the
+person threatened accordingly?
+
+No
+
+Is the patent held valid and
+
+infringed at trial?
+
+No
+
+Is the patent held infringed and
+invalid but, at the time of making
+the threat, the person making the
+threat did not know and had no
+reason to suspect that the patent
+
+was invalid?
+
+Flowchart 1. Threats in relation to patents under the regime of the Patents Act 2004.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+5
+1
+2
+1
+9
+3
+7
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+54
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2005, Vol. 1, No. 1
+
+Are legal proceedings already in
+
+Yes
+
+existence?
+
+No
+
+(Arguably) No action for
+
+unjustified threats can lie since
+the proceedings already exist
+
+Is the communication, when
+viewed through the eyes of the
+objective recipient, a threat?
+
+Yes
+
+Is the ‘threat’ made in respect of
+an act of primary infringement –
+i.e. applying the mark to goods,
+
+importing goods bearing the
+mark or supplying services
+
+under the mark?
+
+No
+
+Is the ‘threat’ a mere notification
+that a trade mark is registered or
+
+has been applied for?
+
+No
+
+Yes
+
+Yes
+
+No
+
+No action for unjustified
+
+threats will lie
+
+An action for unjustified
+
+threats will lie
+
+The threats action will fail
+
+Yes
+
+Is the trade mark held valid and
+
+infringed at trial?
+
+No
+
+The threats action will succeed
+
+Flowchart 2. Threats in relation to trade marks under the 1994 regime.
+
+products and those using infringing processes can
+now, to all intents and purposes, be threatened with
+impunity. The mere notification provisions have also
+been extended, expressly permitting patent holders
+to provide factual information about the patent, to
+make enquiries for the sole purpose of unearthing
+the perpetrators or instances of primary infringe-
+ment, and to make assertions about the patent for
+the purpose of such enquiries. It is unclear how much
+further this permits a patentee to go compared with
+the previous (mere notification) provision, but pat-
+entees now appear to be in a stronger position. The
+defence of
+justification has also been widened in
+that the patentee can avoid liability where he can
+show that he did not know and had no reason to sus-
+pect that the patent would be held invalid.10
+
+The 2004 Act also introduced a new defence that
+applies where a patentee can show that he used his
+
+best endeavours, without success, to discover the
+identity of the primary infringer, if he notified the
+person threatened accordingly, providing details of
+the endeavours used before or at the time of the
+threat.11
+
+Trade marks and designs
+
+In respect of trade marks, the relevant provisions are
+to be found in section 21 of the Trade Marks Act
+1994, and these are very similar to those of the ‘old’
+version of section 70, Patents Act 1977. Permitted
+threats are confined to threats that relate to primary
+acts of infringement, which in the context of trade
+marks are12 (i) the application of a mark to goods
+or their packaging, (ii) the importation of goods (or
+their packaging) to which a mark has been applied,
+or (iii) the supply of services under a mark. The
+
+10 The patentee would also need to show infringement of the patent as under
+
+11 Section 70(6), Patents Act 1977, as amended.
+
+the ‘old’ version of Section 70(4) to make use of the defence.
+
+12 Section 21(1), Trade Marks Act 1994.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+5
+1
+2
+1
+9
+3
+7
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Ewan Nettleton and Brian Cordery · Walking the groundless threats minefield
+
+ARTICLE
+
+55
+
+provisions likewise permit ‘mere notification’ and,
+like the ‘old’ version of section 70, offer no defence
+of justification where a registration is held to be
+invalid.13
+
+The position is similar in relation to registered UK
+designs, under section 26 of the Registered Designs
+Act 1949, and for UK unregistered design right, under
+section 253 of the Copyright Designs and Patents Act
+1988 (CDPA). Currently, however, in contrast to the
+law applicable to trade marks (where section 21 of
+the Trade Marks Act applies to Community and
+international marks),14
+there are no groundless
+threats provisions in relation to (registered or unre-
+gistered) Community designs.15 This position is set
+to change following a consultation conducted by the
+UK Patent Office in 2004 on the UK legislation relat-
+ing to Community designs. Among the changes
+proposed was the suggestion that section 26 of the
+Registered Designs Act should be extended to apply
+to Community designs. According to the UK Patent
+Office, it is intended that section 26 will apply to
+both registered and unregistered Community designs
+(rather than section 253 of the CPDA applying to the
+latter), and, as at August 2005, it is anticipated that
+these provisions will be implemented in October 2005.
+Although this would remove the present anomaly, by
+which threats
+relating to registered Community
+designs are not covered,
+it would maintain the
+anomalous nature of threats provisions in relation
+to unregistered designs.
+
+3. Tactical use of groundless
+threats actions
+The availability of a threats action has in the past pro-
+vided potential defendants with significant armament
+in the face of possible infringement proceedings. By
+starting a threats action, they have the opportunity
+to seize the initiative and to make important decisions
+about the case. For instance, they can choose the
+court in which they want to start proceedings rather
+than leaving this to the right-holder. This choice will
+normally be between the Patents Court and the
+Patents County Court, but the selection could be sig-
+nificant, not least because the space in the respective
+
+13 Subsections 21(4) and (3), respectively.
+
+14 By virtue of Article 4 of the Community Trade Mark Regulations 1996.
+
+the relevant
+court diaries and the availability of
+judges could determine the speed with which the
+case will run.
+
+A groundless threats action can also disrupt the
+right-holder’s infringement action, diverting time
+and resources into defending the groundless threats
+claim. Advisors in this situation not only may have
+to explain to their client why they are now in the
+position of defendant rather than claimant but also
+may find themselves joined as co-defendant if they
+were involved in making the threat (eg if they sent
+the threat in the form of a letter before action). Fur-
+thermore, even if proceedings are not commenced,
+an infringer may seek to use the threat of bringing
+groundless threats proceedings as a bargaining chip
+in negotiations. For these reasons, the decision to
+place a client in the position where a groundless threats
+action could be brought should not be taken lightly.
+There will be commercial circumstances where the
+merits of sending a strong signal
+to a potential
+defendant outweigh the risks, but the possibility of a
+threats action must be taken into account when
+reaching a decision.
+
+The decision in Reckitt16 demonstrates the Court’s
+position on the tactical use of groundless threats in
+infringement actions. Reckitt sued Home Pairfum
+for infringement of registered UK and Community
+trade marks, registered and unregistered designs, and
+for passing off and breach of confidence in relation to
+Home Pairfum’s air freshener products. Before com-
+mencing proceedings Reckitt’s solicitors, Laytons,
+wrote to Home Pairfum, allegedly threatening litiga-
+tion of the UK and Community trade marks and
+registered designs. Home Pairfum, counterclaiming
+that the trade marks were invalid, also sought declar-
+atory and injunctive relief and compensation for the
+alleged threats. Reckitt applied to strike out Home
+Pairfum’s threats counterclaim as abusive. Home
+Pairfum’s subsequent application to add Laytons as
+defendants to the threats counterclaim had the effect
+of bringing under the magnifying glass the tactical
+use of groundless threats actions in infringement
+proceedings.
+
+In his judgment, Mr Justice Laddie recognized the
+inherent tensions in the law between encouraging
+
+15 Both of which are governed by Council Regulation (EC) No 6/2002 of
+
+16 Reckitt Benkiser (UK) Ltd v Home Pairfum Ltd [2004] England and Wales
+
+12 December 2001 on Community Designs.
+
+High Court 302.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+5
+1
+2
+1
+9
+3
+7
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+56
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2005, Vol. 1, No. 1
+
+parties to talk before commencing proceedings and
+the statutory groundless threats provisions.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Laddie J considered himself unable to use the
+Court’s case management powers to override
+the statutes
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+However, he considered himself unable to use the
+Court’s case management powers to override the stat-
+utes and refused to strike out the threats counter-
+claim. That said, he recognized that Home Pairfum’s
+attempt to join Laytons was a tactical ploy. Although
+he was not willing to condemn it as pure ‘mischief ’,
+which was how Reckitt’s counsel characterized it, he
+noted that it was at least in part aimed at making
+the relationship with their client uncomfortable.
+This may give some comfort to advisors who write
+letters before action on behalf of their clients, since
+it suggests that they are unlikely to be joined as
+defendants in a threats claim in any ongoing proceed-
+ings. However, the situation might have been differ-
+ent had Home Pairfum sued first, including Laytons
+as a defendant. Advisors may therefore,17 when their
+client wishes to write letters which could be construed
+as a threat, wish to suggest that such letters are best
+sent by the client. Then, if a groundless threats action
+is brought, they at least will be able to continue advis-
+ing and should not be prevented from acting by the
+potential conflict of interest that might result if they
+were added as a defendant.
+
+4. Tensions in the law
+Groundless threats, as Mr Justice Laddie noted in
+Reckitt, create ‘an obvious tension between the sens-
+ible ‘‘talk first’’ policy of the [Civil Procedure Rules
+(CPR)] and the ‘‘sue first’’ policy encouraged by the
+legislation’. Indeed the CPR, which was introduced
+to transform the civil justice system, includes various
+pre-action protocols to be followed in advance of
+starting proceedings. Some categories of cases have
+specific protocols associated with them, but where
+no specific protocol has yet been adopted, as is the
+
+steps,
+
+case for intellectual property disputes, the Practice
+Direction—Protocols applies. This protocol suggests
+taking several
+starting with the potential
+claimant giving written details of his claim to the
+potential defendant.18
+to envisage
+how the protocol might be followed for relevant
+IP rights without risking liability for a groundless
+threats claim, except where the person notified is
+allegedly involved in primary acts of patent infringe-
+ment.
+
+is difficult
+
+It
+
+Although a good deal of effort was put into the
+for
+development of a specific pre-action protocol
+intellectual property disputes,
+the resulting drafts
+were not adopted as a protocol to the CPR, not least
+because of the inherent conflicts with the statutory
+groundless threats provisions. Notwithstanding the
+lack of formal adoption, one of the drafts was pub-
+lished as a non-binding Code of Pre-action Practice
+for IP cases19 in January 2004. The status of the
+code is uncertain but,
+like the general Pre-Action
+Protocol, this code suggests steps that parties should
+take before commencing IP proceedings which will
+involve pre-action interparty correspondence. The
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+There is a tension between the ‘talk first’
+philosophy of the CPR and the ‘sue first’
+approach encouraged by the legislation
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Code of Pre-action Practice itself acknowledges that
+following these steps could give rise to a groundless
+threats action and suggests that there may be cases
+where a claimant can reasonably justify not sending
+such letters on the grounds that to do so would be
+likely to give rise to a groundless threats claim. In
+effect, the code says to right-holders and advisors:
+‘Please ensure you follow this Code but, if you do
+so, it is probable that you’ll be opening yourself to a
+potential threats action and, if so, pointing to the
+Code and saying you followed it won’t give you a
+defence to a threats action.’
+
+In light of the above, and given Mr Justice Laddie’s
+judgment in Reckitt, it seems likely that these tensions
+in the law will remain.
+
+17 Subject to following the rules of professional conduct when communicat-
+
+ing with other parties.
+
+18 Paragraph 4.2(a) of the Practice Direction—Protocols to the CPR.
+
+19 Code of Practice for Pre-Action Conduct in Intellectual Property Disputes
+published in January 2004 by the Law Society Committee assembled to
+draft a pre-action protocol for IP disputes chaired by Michael Skrein.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+5
+1
+2
+1
+9
+3
+7
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Ewan Nettleton and Brian Cordery · Walking the groundless threats minefield
+
+ARTICLE
+
+57
+
+5. Practical tips on navigating
+the minefield
+There are a number of steps that IP right-holders
+and their advisors may wish to consider in order to
+navigate this difficult area of the law:
+
+(i) Staying within the statutory exceptions. Knowledge
+of the threats provisions and their exceptions may
+allow advisors to assist their clients to demon-
+strate that they are serious about enforcing their
+rights against a potential defendant while staying
+within those exceptions. This is certainly easier
+for patents than it once was, but it will not assist
+where a right-holder wishes to make this point
+about relevant IP rights to a secondary infringer,
+for example to inform a retailer that proceedings
+will be brought in the event that it does not
+stop selling an infringing product.
+
+(ii) Compliance with the pre-action protocols/code of
+practice. It is open to a party to follow the Prac-
+tice Direction—Protocols to the CPR or the IP-
+specific Code of Pre-action Practice to the letter.
+Indeed, a failure to follow them may lead to costs
+sanctions. Compliance with them is, however,
+unlikely to circumvent a groundless threats claim.
+The Code of Pre-action Practice itself acknow-
+ledges that such a claim might arise.
+
+(iii)General trade warnings. Since groundless threats
+actions require that the threat be directed at
+someone specifically,20 a right-holder may instead
+communicate its intention to enforce its rights to
+the industry generally. This might be done by way
+of an advertisement in the trade press. However,
+extreme care should be taken as it is clear that
+threats can be made by circulars and advertise-
+ments as well as in direct communications to spe-
+cific persons.
+
+(iv) The ‘protective claim form’. In the face of the
+groundless
+threats provisions, a practice has
+grown up whereby a claim form is issued by the
+claimant but not served on the potential defend-
+ant so that if a groundless threats action is com-
+
+20 See eg Speedcranes Ltd v Thomson [1978] RPC 221.
+
+21 Council Regulation 44/2001 on jurisdiction and the recognition and
+
+enforcement of judgments in civil and commercial matters.
+
+menced in relation to subsequent threatening
+communications, it can be defended on the basis
+that the threat was not groundless because an
+infringement action had already been com-
+menced. The legal basis for this practice has
+been strengthened recently by the implementa-
+tion of the Brussels Regulation,21 which confirms
+that the UK court is first seized of proceedings
+(and therefore that they have genuinely begun)
+when the claim form is issued. However, the
+time for serving the claim form once issued is
+much reduced under the CPR.22 Furthermore,
+issuing a claim form incurs a significant court
+fee and this may be too big a step for some clients
+to take. For these reasons, the practical utility of
+the ‘protective claim form’ as well as the underly-
+ing rationale is open to question.
+
+(v) Without prejudice
+
+correspondence. The
+
+courts
+appear reluctant to grant relief
+for groundless
+threats made in genuine settlement discussions,23
+which may therefore provide a useful tool for
+groundless threats avoidance. However, merely
+marking a letter ‘without prejudice’ will not assist
+a party if the communication in question was not
+directed at negotiations to settle actual or poten-
+tial litigation.24 The question of what amounts to
+a genuine negotiating document as opposed to a
+mere assertion of rights was usefully discussed by
+the High Court in Schering v Cipla.25
+
+6. Conclusions
+Groundless threats form a complex and changing area
+of IP law, which advisers need to take into account in
+virtually every dispute. Reckitt recently confirmed that
+the groundless
+threats provisions, while running
+counter to the purpose of the CPR, cannot be ignored
+by the courts. Ultimately, the only satisfactory way to
+relieve the tension between the modern ‘talk first’
+policy of the CPR and the ‘sue first’ policy encour-
+aged by the legislation would be to remove the threats
+provisions or to introduce exceptions weakening the
+threats provisions so as to allow right-holders to
+
+22 It is now four months from issue for service within the jurisdiction (subject
+to extension on application to the Court) under Rule 7.5 of the CPR (com-
+pared with a year under the Rules of the Supreme Court).
+
+23 See eg Unilever Plc v Procter & Gamble Co [1999] FSR 849.
+24 Kooltrade Ltd v XTS Ltd [2001] FSR 13.
+25 [2004] England and Wales High Court 2587 (Ch).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+5
+1
+2
+1
+9
+3
+7
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+58
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2005, Vol. 1, No. 1
+
+notify alleged infringers of their rights and seek fur-
+ther information from them. This weakening has par-
+tially occurred in relation to patents with the
+introduction at the start of 2005 of the amendments
+to section 70. However, the introduction of these
+amendments has not provided a threats panacea to
+patent holders and it remains to be seen how the sec-
+tion will be interpreted by the courts. What is clear
+is that the threats provisions contained in the IP
+legislation will remain in force in one form or
+another for the foreseeable future and that
+they
+remain a trap for the unwary.
+
+doi:10.1093/jiplp/jpi018
+Advance Access Publication 21 October 2005
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+5
+1
+2
+1
+9
+3
+7
+5
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+

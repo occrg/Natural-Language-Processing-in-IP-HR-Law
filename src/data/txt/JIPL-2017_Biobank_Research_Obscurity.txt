@@ -1,0 +1,4181 @@
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 4
+
+ARTICLE
+
+307
+
+Biobank-related research and intellectual
+property rights: deconstructing the obscurity
+Rajam Neethu*
+
+I. Introduction
+
+Biobanking and Big Data have become prominent terms.
+Biobanks are deﬁned as collections of samples of human
+bodily substances that are or can be associated with per-
+sonal data and information relating to their donors.
+Examples of bodily substances are cells, tissue and blood,
+as well as DNA as the physical medium of genetic infor-
+mation.1 The scale at which it is possible to collect, store
+and analyse such information has been commonly referred
+to as Big Data.2 However the actual connotation of Big
+Data takes different forms based on the nature of the ﬁeld
+of exploration, eg computer science, ﬁnancial analytics,
+business or genomics.3 This article limits the exploration
+of Big Data to the ﬁeld of genomic studies and its associ-
+ated health research. Large-volume correlation analysis is
+made possible using biobanks, which in fact ﬁll the gap
+between the clinical and biological data.4 While acknowl-
+edging the importance of algorithmic data as an essential
+constituent of biobanks, this article limits its examination
+to issues facing the exploitation of samples stored in bio-
+banks for medical research. As a result, discussion of geno-
+mic research in Big Data in the current context essentially
+entails a discussion of human subjects and how their data
+would ethically be handled during research.
+
+The beginning of systematic collections of human cells
+and tissues dates back to the eighteenth century and in-
+cludes ﬁxed, processed as well as frozen viable and non-
+viable materials.5 In Europe, however, the mushrooming
+of biobanks is a fairly recent phenomenon which began
+approximately a decade ago. Though frozen samples were
+stored in many laboratories, they were not a standardized
+collection that could be regarded as a biobank. It has been
+the growth in scientiﬁc technology and increased possibili-
+ties to store biological data from large cohorts that has
+
+The author
+ Rajam Neethu, B.A.L, LL.B, LL.M (LSE, London), is
+a PhD fellow at the Faculty of Law, University of
+Copenhagen.
+
+This article
+ This article concerns the legal and practical chal-
+lenges related to biobank research in the area of
+Big Genomic Data and its implications for medical
+research in Europe in the light of
+the New
+Recommendation CM/Rec (2016)6 on research on
+biological materials of human origin and the
+Declaration of Taipei on Ethical Considerations re-
+garding Health Databases and Biobanks, 2016.
+
+ On the one hand there is the need to exploit the vast
+amount of resources collected thanks to huge capital
+investments to meet the demands of health care. This
+calls
+for better research partnerships. Health re-
+searchers involved in such research use IP rights to
+protect their research. On the other hand, biobanking
+involves ethical considerations which govern the man-
+agement and use of relevant resources. Balancing these
+two often is a challenge.
+
+ This article examines the issues related to research
+partnerships within publicly funded biobanks and fo-
+cuses on the legal implications of Big Genomic Data
+research and IP rights within publicly funded bio-
+banks. It examines two central issues in relation to
+biobanks: ownership and informed consent of partic-
+ipants under the lens of IP law. While IP law policies
+tend to focus on the promotion of innovation, the
+contextual discussion on biobanks also calls for the
+consideration of ethical aspects.
+
+*
+
+1
+
+I would like to express my sincere gratitude to Prof. Dr. Jens Schovsbo,
+Faculty of Law, University of Copenhagen for his valuable comments on
+the earlier drafts and Prof. Dr. David Gurwitz, (Sackler Faculty of
+Medicine, Department of Human Molecular Genetics and Biochemistry,
+TAU) for his insights on the topic. Email: rajam.neethu@jur.ku.dk.
+‘Biobanks for research’, German National Ethics Council, 2004; Biobank refers
+to the structure, while biobanking essentially means the technology involved in
+the storing of samples and data. A biobank is also commonly referred to as a
+biorepository, repository or tissue bank, which simply refers to a collection of
+biospecimens and their associated data. A biobank can be comprised of hu-
+man, animal or environmental (eg seeds, viruses, soil, etc) biospecimens.
+
+When they are limited in point of time, like a speciﬁc cohort, it is referred as a
+biorepository by some, however, a strict distinction does not exist between the
+two terms. Eg, See Article 3 III, Ordinance No. 2,201 of 2011 Brazil.
+‘BIG DATA: Seizing opportunities, preserving values’, Executive ofﬁce of
+the President of the USA, May 2014.
+Ibid, note 2.
+Zhonghua Wei Chang Wai Ke Za Zhi, ‘Biobank in the age of big data’,
+January 2015, PMID:25656021 (English abstract).
+
+2
+
+3
+4
+
+5 Herbert Gottweis and Alan Petersen, Biobanks: Governance in
+
+Comparative Perspective (Routledge, London, 2008), p. 23.
+
+VC The Author(s) 2017. Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jpx004
+Advance Access Publication 27 February 2017
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+4
+3
+0
+7
+3
+0
+5
+6
+7
+4
+5
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+308
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 4
+
+enabled the new systematic approach to biobanking.6
+These changes have provided systematic approaches to un-
+derstand disease patterns and formulate new pathways for
+personalized medicine. In 2006 the European Strategy
+Forum on Resource Infrastructures (ESFRI)7 recognized
+the importance of biobanks as a strategic resource infra-
+structure to bridge the gap created in basic discovery and
+translation into medical products and applications. The
+Biobanking
+resources Research
+Infrastructure (BBMRI) was a result of this realization.
+Since its inception in 2008 the BBMRI has adopted several
+initiatives to create a more formalized biobanking struc-
+ture that would act as a resource for biomedical research.
+
+Biomolecular
+
+and
+
+The deﬁnition of biobanks, as discussed earlier,
+encompasses two sets of
+information stemming from
+their technological base8: the samples and the data. These
+can largely help researchers to secure an analysis of the
+samples ‘as such’, eg where the samples are part of a pop-
+ulation collection or under a speciﬁc investigation cohort.
+The same set of samples may be also used for other re-
+search purposes, eg diabetes studies in coeliac patients.
+Population studies, hospital collections and clinical studies
+broadly form the basis of biological collections and are
+popularly referred to as the ‘Big Data’ of health. They con-
+tain various subsets of genomic and proteomic data, dif-
+ferent types of samples, multiple aliquots relating to
+disease groups or at times they may be linked with hospi-
+tals or clinics. Much of the actual usage of these Big Data
+relating to health research is still unknown and often
+apprehensions about this ‘unknown’ part informs the dis-
+cussion relating to concerns over the potential uses and
+
+application of biorepositories.9 While public investments
+in such endeavours have as their ultimate goal the foster-
+ing of advanced research and innovation for better health
+care systems, the exploitation of these resources presents
+some challenges. The main concern for donors and pa-
+tients is the ‘un-conceived’ exploitation of biobank data.10
+Researchers may use relevant information along with the
+samples collected by a biobank to further their own ﬁnd-
+ings, thereby giving a starting point for research. IP rights
+come into consideration when research results need to be
+transformed into factual applications in order to exploit
+the research possibilities fully. Biobanks are often caught
+directly between the values relating to medical research
+and the potential commercial and scientiﬁc value of such
+Big Data. Initial concerns raised by relevant literature in
+this ﬁeld have related to the issue of consent11 with respect
+to the use of samples and also underuse of biological re-
+sources held by biobanks.12 But with more research proj-
+ects being ﬂoated within such repositories, concerns have
+shifted to IP rights and their management, particularly
+over standards relating to exchange and data-sharing poli-
+cies.13 The importance attached to research using human
+biological materials
+also reﬂected in the new
+Recommendation CM/Rec (2016)614 on research on bio-
+logical materials of human origin, examined in this article.
+This article considers three main challenges in bio-
+
+is
+
+bank-related research:
+
+(a) property laws;
+
+(b) IP rights; and
+(c) ethics.15
+
+6
+7
+
+8
+
+9
+
+Ibid, p. 10.
+European Roadmap for Research Infrastructures Report 2006, available
+at: http://ec.europa.eu/research/infrastructures/index_en.cfm?pg¼esfri-
+roadmap (last accessed on 29 April 2015).
+Biobanking as a technology refers to the process by which samples of
+bodily ﬂuid or tissue are collected for research use to improve our under-
+standing of health and disease, see also: http://www.healthtalk.org/peo
+ples-experiences/medical-research/biobanking/what-biobanking-and-
+why-it-important (last accessed on 13 December 2016).
+‘The challenge of saving lives with “Big Data”, 7 February 2016 at: http://
+www.bbc.com/news/health-35491177 (last accessed on 10 February
+2016); see also footnote 1 for the term ‘biorepository’.
+
+10 Biobanks may involve a variety of data. It is not essential that all bio-
+
+banks are related to a health database. The contents of the biobank vary
+based on its nature and purpose. It is to be noted that all data related to
+donors come within the purview of the General Data Protection
+Regulation (EU) 2016/679 of the European Parliament and of the
+Council of 27 April 2016, which repeals the earlier Directive 95/46/EC.
+Under the new regulation, special exemptions are provided for scientiﬁc
+archives and in the interest of public health. The notion of ‘un-conceived
+usage’ means that it is unconceived by the donors at the time of donating
+the samples. It is a legally valid usage but based on the nature of consent
+followed under national law and does not mean violations of the laws of
+Data Protection (see footnotes 34–36 for related discussion on the point).
+For the impact of Data Protection Regulation, see BBMRI Position Paper
+on the General Data Protection Regulation, October 2015.
+
+11
+
+See, eg, M. Adams, E. D. Prentice andG. G. Oki, ‘Ethical considerations
+in informed consent for potential future use of human tissue samples’,
+IRB1.996.vol. 18, no. 2, pp. 6–7; Jane Kaye and Mark Stranger, Principles
+and Practice in Biobank Governance (Routledge, London, 2012); Flavio
+D’Abramo, Jan Schildmann and Jochen Vollmann, ‘Research
+Participants’ Perceptions and Views on Consent for Biobank Research: A
+Review of Empirical Data and Ethical Analysis’, BMC Medical Ethics 16
+(2015): 60. PMC.Web. 23 March 2016; M. Scudellari, ‘Biobank managers
+bemoan underuse of collected samples’, Nature Medicine, 19(3), p. 253,
+March 2013.
+
+12 P. Puchois, ‘Finding ways to improve the use of biobanks’, Nature
+
+Medicine, 19 (7), 814–15 (2013).
+
+13 Berthold Huppertz and Andreas Holzinger, ‘Biobanks – A source of large
+
+biological data sets: Open problems and future challenges’, in A.
+Holzinger and I. Jurusuca (eds), Interactive Knowledge Discovery and
+Data Mining in Biomedical Informatics (Springer, Dordrecht, 2014).
+
+14 Adopted by the Committee of Ministers on 11 May 2016, at the 1,256th
+meeting of the Ministers’ Deputies, available at: http://www.coe.int/en/
+web/bioethics/-/research-on-biological-materials-of-human-origin-new-
+recommendations-to-member-stat-1 (last accessed on 13 December
+2016).
+
+15 Reference herein to ethics implies code of ethical principles approved in-
+
+ternationally or nationally in respect of the usage of human biological
+materials and human participation in research related activities e.g.
+Helsinki Declaration on biomedical research, International Declaration
+on Human Genetic Data, http://www.unesco.org/new/en/social-and-hu
+man-sciences/themes/bioethics/human-genetic-data/, Oviedo
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+4
+3
+0
+7
+3
+0
+5
+6
+7
+4
+5
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Rajam Neethu  Biobank-related research and intellectual property rights
+
+ARTICLE
+
+309
+
+Biobanks consist of a combination of genetics, tissues,
+health treatment and patients or donors. The governance
+of a resource infrastructure within such a conglomerate
+paradigm has found unsettled equations within traditional
+property rights.16 Control over ideational or intellectual as-
+pects on the other hand is regulated by IP rights.17 In the
+context of biobank-based research activities, the discourse
+on IP rights has often stemmed from the traditional con-
+cept of property as control over resources. This approach
+has resulted from an ethical discourse primarily focused
+on the participants to such research.18 For instance how
+are issues of ownership over samples and ownership over
+intellectual efforts dealt with in the context of biobanks?
+Does IP law act as an enabler or restrictor in biobank-
+based research? Does bioethics allow balancing them out?
+
+Rights over intellectual creations
+
+Human biological materials including human tissues
+stored in a repository evolve out of a process that goes
+from collection, storage and preservation to research
+and use for industrial purposes. The fact that these ‘Big’
+datasets have great economic value requires a functional
+balance between the aims of biobanks, spontaneous do-
+nations and the notion of public good.19 Biobanking as
+a system enables the transfer of bio specimens from the
+donor to the repository with altruistic motives or in the
+interest of research, the result of which may be beneﬁ-
+cial to the patient or for others suffering from a similar
+situation as the donor. However, difﬁculties arise when
+the use of a donated sample is extended beyond those
+that were considered by the donor, eg where there is a
+broad consent from the donors. In this context two in-
+terrelated tensions arise: one relating to legal ownership
+over the donated biological material, and the other re-
+lating to IP rights connected with the research results
+obtained by using such materials.
+
+The traditional concept of ‘ownership’ refers to an
+exercise of complete dominion over things or claims
+and gives the ‘owner’ a ‘jus in rem’.20 Ownership rights
+
+have often found an uncomfortable equation with hu-
+man biological materials used in research and have
+sought a distinction from the common law notions of
+property.21 In the context of discussions over tissue
+samples taken by research entities like biobanks, the
+purpose of the biobank at hand often determines the
+creation and use of the resources and—as a result—the
+nature and conceptualization of ownership may vary.
+However, there is still a lack of consensus as to how
+these concepts need to be governed.22 While some have
+regarded the debate over ownership rights in genomic
+research meaningless,23 others have considered it as the
+basis to recognize different models of governance.24
+Signiﬁcant parts of the literature on the apprehensions
+relating to biobanks and its research uses tends to over-
+lap the notions of patent ownership and ownership of
+the tissue samples per se. The concept of ownership of
+tissues is a matter which has been under the purview of
+national
+legislation. The Anglo-Saxon tradition has
+been the ‘work and skill’ test to determine the excep-
+tions to the rule that the human body and its separated
+body parts lack proprietary status.25 This entails that
+sufﬁcient amount of skill and labour invested in pro-
+curing and preserving body parts could lead to limited
+possessory rights devoid of commercial usages. This ap-
+proach has been signiﬁcantly
+an
+Australian High Court decision.26 In R v Kelly27 this ex-
+ception was acknowledged as conferring on the right-
+holder the simple right to continue possessing the body
+part, while making it possible for the state to prosecute
+its theft. However, it did not offer any right to sell,
+transfer or proﬁt from such processed human biological
+parts. Common law tradition has focused on criminal
+prosecutions pertaining to human biological materials
+taken from corpse and has not distinguished between
+samples taken from corpses and samples from living
+human bodies, despite having had such an opportunity
+in the Diane Blood case.28 There the Court of Appeal of
+England and Wales refused to examine the legality of
+the sperm taken from an unconscious spouse without
+
+inﬂuenced by
+
+Convention on Human Rights and Biomedicine, https://www.coe.int/en/
+web/conventions/full-list/-/conventions/treaty/164.
+
+biological samples this cannot sit well because all rights under a tradi-
+tional notion of ownership cannot be exercised.
+
+16 D. E. Winickoff, ‘Partnership in U.K. biobank: A third way for genomic
+
+22 Naomi Hawkins et al., ‘Ownership of biomedical information in bio-
+
+property?’, J Law Med Ethics, August 2007 35: 440–56.
+J Harris, ‘Property and Justice’, Oxford University Press, 2002, p. 43.
+Supra note 16.
+
+17
+18
+19 Catherine Waldby, ‘Biobanking in Singapore: Post-developmental state,
+
+experimental population’, Journal of New Genetics and Society, 2009,
+28(3): 253–65.
+
+20 Black’s Law Dictionary online, available at: http://thelawdictionary.org/
+
+21
+
+in-personam-in-rem/ (last accessed on 26 December 2016).
+Infra note 25 at p. 178. See also J. Harris, Property and Justice (Clarendon
+Press, Oxford 1996), p. 109, Harris talks of the traditional notion of
+property under English common law as ownership to land, which means
+the rights of the person in relation to things, however in the case on
+
+banks’, in G. Pascuzzi et al., Comparative Issues in the Governance of
+Research Biobanks (Springer, Dordrecht, 2013), pp. 77–86.
+Ibid, note 21at p. 84.
+
+23
+24 Turner infra note 122.
+25
+
+Imogen Goold, Kate Greasley, Jonathan Herring, and Loane Skene,
+Persons Parts and Property, How Should we Regulate Human Tissue in the
+21st Century? (Hart Publishing, Oxford, 2014, p. 14.
+
+26 Doodeward v Spence [1908] HCA 45; (1908) 6 CLR 406 (31 July 1908).
+27
+28 R v Human Fertilization and Embryology Authority, [1997] 2 All ER 687.
+
+[1999] 2 WLR 384.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+4
+3
+0
+7
+3
+0
+5
+6
+7
+4
+5
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+310
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 4
+
+express consent in the interest of the appellant’s wish to
+conceive a child from her husband. Rather, the cases fo-
+cused on other ethical implications, notably bearing a
+child conceived with a neurologically dead person. The
+debate over ownership of body parts has been extensive
+and is not within the scope of this article. However, ref-
+erence to it serves to highlight the debate over the con-
+cept of ownership ‘per se’ and the exploitation of
+research results. In other words, the question as to
+whether tissues can be property per se is different from
+the question as to how research results can be pro-
+tected, eg where the samples used in the research cohort
+arise from a biorepository. Patent law protects the func-
+tionality as disclosed from the technical disclosure and
+thus does not concern itself with the proprietary rights
+of tissues or cells.29 There are several instances from the
+United States which reﬂect this conﬂict, though stem-
+ming from a patent landscape. For instance in Moore v
+Regents of the University of California,30 the question
+was whether Moore retained any property rights in the
+‘Mo cell line’, which was derived from Moore’s spleen
+and was subsequently patented. The Supreme Court of
+California rejected Moore’s claim for conversion,
+thereby dismissing any property claims in the sample
+taken from Moore during his surgery. Another signiﬁ-
+cant case is that of HeLa cells, these being the most
+widely used model cell line for studying human cellular
+and molecular biology. Application as a model organ-
+ism has contributed to the characterization of impor-
+tant biological processes
+than 70,000
+publications and 11,000 patent applications.31 The cell
+line originated from a cervical cancer tumour of a pa-
+tient named Henrietta Lacks, who later died of cancer
+in 1951.32 This key example is illustrative of the con-
+cerns that may arise in the context of biobanks, particu-
+larly in respect of ownership rights. Concerns over the
+exploitation of donated tissues without proper consent
+often culminate in claims of ownership rights over the
+samples. In a fairly recent case, a Canadian court has
+ruled that
+‘excised human tissue may indeed be
+
+and more
+
+29 P. A. Andanda, ‘Human tissue-related inventions: Ownership and intel-
+lectual property rights in international collaborative research in develop-
+ing countries’, J Med Ethics 2008; 34:171–9.
+51 Cal. 3d 120; 271 Cal. Rprt. 146.
+
+30
+31 http://hamptonroads.com/2010/05/cancer-cells-killed-henrietta-lacks-
+then-made-her-immortal (last accessed on 8 December 2014). See also
+Jonathan J. M. Landry et al., ‘The genomic and transcriptomic landscape
+of a HeLa cell line’, G3 1 August 2013, vol. 3 no. 8 1213–24.
+
+32 Rebecca Skloot, The Immortal Life of Henrietta Lacks (Broadway Books,
+
+New York, 2011).
+
+33 Piljak Estate v Abraham , 2014 ONSC 2893 (CanLII).
+34 No. 151/2003, Thursday 27 November 2003.
+35 Renate Gertz, ‘An Analysis of the Icelandic Supreme Court Judgment on
+
+the Health Sector Database Act’, SCRIPT-ed 1/2 (2004) 241–58.
+
+personal property but it does not form part of the per-
+son from whom it came because it belongs to hospitals
+as part of the medical record’.33 This does not necessar-
+ily mean that donors do not have a say in how their
+samples ought to be used. In Gudmundsdottir v The
+State of Iceland,34 the Icelandic Supreme Court held
+that the daughter of a deceased man could prevent his
+health information from being entered into the Health
+Sector Database.35 Along similar lines, the European
+Court of Human Rights has held that taking tissues
+without proper assessment of consent and by not in-
+forming the spouse of the deceased, thus depriving the
+exercise of certain rights established under domestic
+law—notably the right to express consent or refusal in
+relation to the removal of relevant tissue—was a viola-
+tion of the surviving spouse’s right to privacy under
+Article 8 of the European Human Rights Convention.36
+In addition, the anguish suffered by the wife in ﬁnding
+out about the removal of some of her husband’s body
+parts was considered in itself a violation of human dig-
+nity.37 In another instance, the European Court of
+Human Rights held that the retention of the applicant’s
+ﬁngerprint information, after all charges against her
+were dropped, infringed her right to privacy.38 From
+this case law it appears that the interrelated concepts of
+privacy and autonomy are uniﬁed at a more fundamen-
+tal level by consideration that each reﬂects a valued as-
+pect of human personality and is visible in the context
+of physical samples.39 This is in line with the analogy
+taken in a different context in Google Spain SL, Google
+Inc. v Agencia Espa~nola de Proteccion de Datos, Mario
+Costeja Gonzalez,40 in which the Court of Justice of the
+European Union held that an individual may request to
+have relevant information pertaining to him delisted from a
+search engine even if ‘those rights override, the economic
+interest of the operator’.41 Overall, while ‘jus in rem’ gov-
+erns ownership rights over excised biological samples, there
+exists ‘jus in personam’ in respect of the individual’s right
+over the use of his biological samples.42.This in fact has
+been the basis for debate over the issue of the various types
+
+36 Elberte v Latvia, Application no. 61243/08) [2015] ECHR 1.
+37 Paras 141–2 of the judgment in Elberte v Latvia, [2015] ECHR 1.
+38
+39 The European Group on Ethics in Science and New Technologies to the
+
+S and Marper v United Kingdom [2008] ECHR 1581.
+
+European Commission recognizes the same connection between personal
+health data and personality; see Opinion of the EGE, Ethical Issues of
+Healthcare in the Information Society (Opinion No. 13, July 1999).
+
+40 C131/12, see also http://united-kingdom.taylorwessing.com/globaldata
+
+hub/article_big_data_ownership.html.
+Ibid paras 81–97.
+Supra note 25 at p. 90.
+
+41
+42
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+4
+3
+0
+7
+3
+0
+5
+6
+7
+4
+5
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Rajam Neethu  Biobank-related research and intellectual property rights
+
+ARTICLE
+
+311
+
+of informed consent originally mooted by Convention on
+Human Rights and Biomedicine.43
+
+The above discussion provides two important inferences
+in the context of biobanking: the donor may choose what
+use (if any) will be made of his samples, also because one’s
+own right to self-determination is a fundamental right in it-
+self;44 health researchers will be able to achieve the goals of
+medical research only if their research falls within standard-
+ized norms of consent and respect for privacy. From a dif-
+ferent angle, one might argue that this also implies that,
+once donated on the basis of informed consent (irrespective
+of the type of consent) following a standard protocol, a do-
+nor may not be able to make further claims in respect of the
+use of sample in research. However, withdrawal of samples
+from the research is possible in light of privacy consider-
+ations as referred to above. It might not be possible for the
+donor to make a claim (including IP-related) on the sample
+as such.45 However, often balancing the public outlook
+might be difﬁcult at the cost of even dissolving the biobank.
+For instance, failure of the Icelandic biobanking cohort in-
+volving private company deCode is an example which of
+how the Icelandic Government failed to address the various
+concerns relating to uses of the samples taken from
+Icelanders.46 This means that, while there may no longer be
+proprietary rights post-donation of tissues, there may still
+be limited rights of other kinds.47 In addition the ‘use’, ‘ex-
+change’ and ‘transfer’ of such Big Data to researchers out-
+side the facility or even across borders can be a challenge to
+any discourse around ownership. This calls for due dili-
+gence on the part of governing bodies and ethics commit-
+tees in biorepositories. It may be essential for biobanks to
+build a cooperative and productive framework to address
+these issues by taking into consideration the substantive
+public engagement in the existence of biobanks.48
+
+II. IP rights and biobanks
+
+A. IP rights and possibilities within biobanks
+
+As discussed above, the importance of biomedical re-
+search drives the creation of research infrastructures. In
+
+innovations.49 Analogous
+
+the context of medical research, the impact of IP rights
+can be seen as a multi-cyclic chain (Fig. 1 Annex). The in-
+novation cycle is in fact a continuous process of discovery,
+validation development, registration and commercializa-
+tion, leading to the creation of value which can be rein-
+vested in further
+to the
+innovation cycle, the biobanks also form part of a research
+cycle by acting as a facilitator of information. Pathmasiri
+et al.50 considers that within the life of biobanks there are
+three different phases, ie the creation, collection and ac-
+cess phases. Just as the innovation cycle has ‘research con-
+cept’ as its focal point, the purpose of the collection
+governs the structure and purpose framework of the bio-
+bank at issue. In case of standalone biobanks with inde-
+pendent collections, it is possible that there could only be
+two phases, ie the creation and collection phases. Access
+in such cases depends on a researcher’s research project
+that is using the sample from the biobank. In this way
+they may only act as catalyst within a bigger innovation
+cycle. Within these phases there could be an upstream
+phase where mostly sample study and analysis is con-
+ducted for the creation of a collection. Then the actual
+collection and processing of data originates the repository.
+This technically qualiﬁes as the upstream phase in the life
+of a biobank.51 The downstream phase begins wherein the
+researchers working with speciﬁc disease investigations
+may use the sample collected by the biobanks for the pur-
+poses of their research projects. Interestingly each of these
+phases may involve different IP considerations.
+
+i. Patents
+The upstream phase of a biobank, ie the creation and col-
+lection phases, may be characterized by patents for innova-
+tion equipment for sample collection and storage, eg
+sample processors or lab automation units that help to
+process the sample and also generate automated data from
+the wet samples as they are being processed. The upstream
+phase may be also subject to patents for certain products
+used in research, eg cell lines that may be used for various
+research purposes
+appropriate
+
+they possess
+
+the
+
+if
+
+43 Art. 5. Convention for the Protection of Human Rights and Dignity of
+
+47 Donors can have a right to withdraw if they feel the research is not in
+
+the Human Being with Regard to the Application of Biology and
+Medicine: Convention on Human Rights and Biomedicine, Oviedo,
+4.IV.1997.
+
+44 Art. 5. Universal Declaration on the Human Genome and Human
+
+Rights, 1997.
+
+45 Withdrawal and destruction of samples under the supervision of the rele-
+vant ethics committees may still be possible. However, it may not be pos-
+sible to remove the data analysis that has already been done using such
+samples. For more on this point, see Karen Melham, et al., ‘The evolution
+of withdrawal: Negotiating research relationships in biobanking’, Life
+Sciences, Society and Policy 10 (2014): 16. PMC. Web. 12 December 2016.
+
+46 Garðar Arnason, ‘Icelandic Biobank. A Report for GenBeneﬁt’ (2007),
+available at: www.uclan.ac.uk/genbeneﬁt (last accessed on 26 December
+2016).
+
+line with their interests or beliefs. This, according to some authors, has
+the analogy to moral rights under copyright law. See Naomi Hawkins,
+‘Intellectual Property and Biobanks’, in D. Macalzoni, Ethics, Law and
+Governance of Biobanking (Springer, Dordrecht, 2015), 1st edn.
+See Kathryn G. Hunter and Graeme T. Laurie, ‘Involving publics in bio-
+bank governance: Moving beyond existing approaches’, in Heather
+Widdows and Caroline Mullen, The Governance of Genetic Information:
+Who Decides? (Cambridge University Press, Cambridge, 2009).
+
+48
+
+49 European IPR Helpdesk, fact sheet ‘Intellectual Property in
+
+Biotechnology’, 2014.
+Saminda Pathmasiri et al., ‘Intellectual property rights in publicly funded
+biobanks: Much ado about nothing?’, Nature Biotechnology, 29 (4), April
+2011, 319–23.
+Supra note 49.
+
+50
+
+51
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+4
+3
+0
+7
+3
+0
+5
+6
+7
+4
+5
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+312
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 4
+
+requirements to be considered an invention. In addition,
+processes relating to the extraction of certain samples for
+speciﬁc cohorts could also qualify for patenting, eg extrac-
+tion and storage of spinal ﬂuid for speciﬁc studies. The
+downstream research using samples leading to qualitative
+research outcomes may be patented as well. In Europe the
+relevant legislative framework appears fairly homogeneous
+in relation to donation of tissues,52 blood53 and organs54
+in the context of the quality and safety framework which
+deﬁnes the parameters of all stages of the chain from dona-
+tion to transplantation. However, these legal frameworks
+do not address research using human tissues and cells
+when used for purposes other than application to the hu-
+man body.55 The European intellectual property regime
+partially covers the use of human genetic materials in med-
+ical research, both through legal framework and decisions
+of the Court of Justice of the European Union (CJEU).
+The legal
+the European Patent
+Convention (EPC)56 and the Directive on the legal protec-
+tion of biotechnological inventions, popularly called the
+Biotech Directive.57 The EPC approach to inventions is
+non-discriminatory and reﬂects Article 27 of TRIPS.58
+Irrespective of the nature of technology, an invention that
+is new,
+industrial application
+would qualify for protection.59 However, the EPC does
+not contain speciﬁc provisions concerning the patentability
+of human biological materials,60 such as, for instance, hu-
+man cell lines.61 Lack of clarity as regards biotechnological
+inventions led to the adoption of the Directive. This con-
+siders elements isolated from the human body or other-
+wise produced by means of a technical process to be a
+patentable invention even if the structure of that element
+is identical to that of a natural element.62
+
+inventive and capable of
+
+regime consists of
+
+In International Stem Cell Corporation v Comptroller
+General of Patents63 in relation to Article 5(1) of the
+
+Directive the CJEU held that, ‘while the human body at
+the various stages of its formation and the simple discov-
+ery of one of its elements are not patentable, an element
+isolated from the human body or otherwise produced by
+means of a technical process can be patented’.64
+
+In T 0080/05,65 the EPO had to consider a method
+for diagnosing a predisposition for breast and ovarian
+cancer in a human subject.66 Opponents67 to the patent
+alleged that methods disclosed in the application were
+not patentable as per Article 52 (2) (a) EPC and Article
+52 (2) (c) EPC because they were based on a discovery
+of a mutation and discovery of relationship that exists
+in nature between mutation and disease. It was also
+contented by the opponents to the patent that it was a
+purely mental act that a human having this mutation
+has a predisposition to the disease. The opponents also
+referred to Article 53(c) EPC, which states that patents
+shall not be granted for diagnostic methods practiced
+on the human or animal body. However, the EPO
+Board of Appeal noted that ‘an element isolated from
+the human body or otherwise produced by means of a
+technical process may constitute a patentable invention.
+This ﬁnding applies to claims relating to products, ie
+genes, and is a fortiori applicable to the method claims
+here at issue’.68 Moreover, the Board held that subject
+matter not a mental act because the features of the
+claims are considered as requiring working steps of
+technical nature. Further, the methods claimed were of
+a technical nature and were performed on a tissue sam-
+ple of a human subject and not on a human subject per
+se and are therefore patentable.69
+
+ii. Copyright
+Copyright could also vest in biobanks, eg in the soft-
+ware used for regulating activities of
+the biobank,
+
+52 Directive 2004/23/EC, on quality and safety standards for donated hu-
+
+man tissues and cells.
+
+63 Case C-364/13, Opinion of Advocate General, July 2014 para 16, 51–2.
+64 Case C-364/13, Judgment of the Court (Grand Chamber), 18 December
+
+53 Directive 2002/98/EC, on quality and safety standards for the collection,
+testing, processing, storage and distribution of human blood and blood
+components.
+
+54 Directive 2010/53/EU / 2010 on standards of quality and safety of human
+
+organs intended for transplantation.
+Ibid Recital 11 preamble.
+
+55
+56 European Patent Convention, 5 October 1973, as revised by the Act revis-
+
+ing the EPC of 29 November 2000.
+
+57 Directive 98/44/EC, of 6 July 1998, on the legal protection of biotechno-
+
+logical inventions.
+
+58 Art. 27 TRIPS: ‘Patents shall be available for any inventions, whether
+
+products or processes, in all ﬁelds of technology, provided that they are
+new, involve an inventive step and are capable of industrial application’.
+
+59 Article 52, European Patent Convention, 1973.
+60
+61 Geertrui Van Overwalle, Gene Patents and Collaborative Licensing Models
+
+Supra note 57, Recital 9.
+
+(Cambridge University Press, Cambridge, 2009) 1st edn.
+
+62 Art. 5 (2), Directive 98/44/EC, on the legal protection of biotechnological
+
+inventions.
+
+2014, para 6.
+
+65 Method of diagnosis/University of Utah, 19 November 2008.
+66 Myriad Genetics discovered the BRCA1 gene in 1994 and the BRCA2
+gene in 1995; the patent over the BRCA1 & 2 genes were controversial
+and were opposed in many quarters. In Association for Molecular
+Pathology v Myriad Genetics Inc. (133 S.Ct. 2107), the US Supreme Court
+held that a naturally-occurring DNA segment which is a product of na-
+ture and, as such, cannot be patented. However, a complementary DNA,
+ie, an artiﬁcial product designed to mirror the coding parts of genes are
+eligible for patent protection because they are not naturally occurring.
+See also Emma Barraclough, ‘What Myriad means for biotech’, WIPO
+Magazine, August 2013.
+In T 0080/05 (Method of diagnosis/University of Utah) of 19 November
+2008, there were 6 opponents in the appeal. Opponents to the patent in-
+cluded Institute Curie, Assistance Publique-Hoˆ pitaux de Paris, Institute
+Gustave Roussy – IGR, Belgian Society of Human Genetics et al. and
+Associazione Angelaserra per la Ricerca sul Cancro.
+
+67
+
+68 T 0080/05, see para 59 of the decision.
+69 T 0080/05, paras 62–3.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+4
+3
+0
+7
+3
+0
+5
+6
+7
+4
+5
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Rajam Neethu  Biobank-related research and intellectual property rights
+
+ARTICLE
+
+313
+
+reports or publications forming a part of the content of
+the biobank database and the substantial investment
+put in creating the biobank that would be protected un-
+der the Database Directive 96/9/EC70 as a sui generis
+right. The latter protects any investment put into ob-
+taining, verifying or presenting the contents of the data-
+base having a minimum level of originality.71 The value
+of biobanks lies in the biological samples they collect
+and the genetic data contained therein.72 The invest-
+ments that go into ‘obtaining’ and ‘verifying’ the con-
+tents of a database, which in this case would be the
+genetic samples from the participants and their associ-
+ated primary data, should secure protection under the
+Database Directive.73 The term of protection of the sui
+generis rights is 15 years. However, when the database
+is modiﬁed in a substantial way (evaluated qualitatively
+or quantitatively) to the contents of a database it gives
+rise to a fresh term of 15 years for the database.74 Thus
+for biobanks to which new information or collections
+are added, it could be easier to obtain extended periods
+of protection.
+
+iii. Trade marks
+Trade mark law might also be relevant in the context
+of biobanks. Trade mark registration is available to
+signs that can be represented graphically and distin-
+guish the goods or services of one undertaking from
+those of another. Trade marks serve as indicators of
+business origin, and may consist of words,
+logos,
+devices or other distinctive features such as colours
+or shapes, or a combination of these.75 Biobanks
+may beneﬁt from protecting their identity through
+their name and logos in order to build a brand value
+over time.
+
+a piece of information that meets certain requirements
+under Directive 2016/943,77 such as (a) it is secret that
+it is not known among or readily accessible to persons
+within the circles that normally deal with it; (b) it has
+commercial value because it is secret; (c) it has been
+subject to reasonable steps under the circumstances, by
+the person lawfully in control of the information, to
+keep it secret.78 A trade secret model for biobanks has
+been proposed by some authors79 on the belief that it
+would help remove the ambiguity and misunderstand-
+ing surrounding the respective rights and obligations of
+contributors, biobanks, researchers and their institu-
+tions alike under the current regimes of informed con-
+sent. A trade secret model aims to use contracts to
+deﬁne the relationship between various parties in-
+volved, ie donors, biobanks and researchers in the con-
+text of biobanks.80 While this is a laudable move in
+terms of alternative strategies to the issues of consent, it
+may not ﬁnd many followers in Europe. This is the case
+because it tends to undermine a key principle in the
+Convention on Human Rights and Biomedicine,81 ie,
+‘The human body and its parts shall not “as such” give
+rise to ﬁnancial gain’ and using the trade secret would
+mean a commerce or enterprise in genes from an ethi-
+cal point of view which is not the direction to be fol-
+lowed for biobanks.82 However,
+it would still be
+possible for biobanks to use trade secrets in the various
+techniques employed by them—such as extraction pro-
+cesses for samples—and would serve as an alternative
+to patents, which may be costly for publicly funded bio-
+banks to maintain.
+
+B. Pre-patent medical research
+and lack of direction
+
+iv. Trade secrets
+A trade secret is a valuable piece of information that is
+treated as conﬁdential because it gives that enterprise a
+competitive advantage.76 In the EU a trade secret means
+
+The above discussion has focused on the possibilities of-
+fered by IP rights in biobanks and at the same time high-
+lighted the concerns relating to biobank-related research,
+notably ownership and use of these valuable resources.
+
+70 Directive 96/9/EC, of 11 March 1996, on the legal protection of
+
+databases.
+
+information (trade secrets) against their unlawful acquisition, use and
+disclosure.
+
+71 Directive 96/9/EC, Recital 15–16.
+72 D. Hallinan and M. Friedewald, ‘Open consent, biobanking and data
+
+protection law: Can open consent be “informed” under the forthcoming
+data protection regulation?’, Life Sciences, Society and Policy, 11 (1),
+doi:10.1186/s40504-014-0020-9.
+
+73 Directive 96/9/EC, on the legal protection of databases, Article 7(1).
+74 Directive 96/9/EC, on the legal protection of databases, Article 10.
+75 Directive (EU) 2015/2436, of 16 December 2015, to approximate the laws
+
+of the Member States relating to trade marks, Art.3.
+
+76 EU commission Directive (EU) 2016/943 on the protection of undis-
+
+closed know-how and business information (trade secrets) against their
+unlawful acquisition, use and disclosure, 8 June 2016.
+
+77 Directive (EU) 2016/943 of the European Parliament and of the Council
+of 8 June 2016 on the protection of undisclosed know-how and business
+
+78 Directive (EU) 2016/943, Article, 2(1).
+79
+
+John M. Conley et al., ‘A trade secret model for genomic biobanking’,
+The Journal of Law, Medicine & Ethics : A Journal of the American Society
+of Law, Medicine & Ethics 40 (3) (2012): 612–29. PMC. Web. 13
+December 2016.
+Ibid, note 79.
+
+80
+81 Convention for the Protection of Human Rights and Dignity of the
+
+Human Being with regard to the Application of Biology and Medicine:
+Convention on Human Rights and Biomedicine, Oviedo, 4.IV.1997,
+Article 21.
+
+82 Alexander M. Capron et. al., Ethical Issues in Governing Biobanks: Global
+
+Perspectives (Routledge, London, 2008), p. 32.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+4
+3
+0
+7
+3
+0
+5
+6
+7
+4
+5
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+314
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 4
+
+This requires one to consider two further aspects: the ex-
+tent to which a biobank can claim a share in the research
+results that are protected through IP rights; and the ethi-
+cal question facing IP protection for this kind of re-
+search. The ﬁrst aspect has often been considered
+negatively in scholarly discussion.83 However, where bio-
+banks get involved with a special process for securing
+samples for the research or where they co-fund such re-
+search projects, biobanks could in fact claim a share in
+the IP rights emanating from such research.
+
+While a functional analysis could help in clarifying
+the protection of research results, the ethical aspect of
+‘pre-patent’ biobank research remains a matter of con-
+cern. There is no doubt that the use of samples and
+data held by these repositories are put to rigorous scru-
+tiny by relevant ethics committees or boards. However,
+it is still not possible to trace the IP applications using a
+biobank’s sample, which has the effect of holding up
+other research using similar samples from the biobank
+or where the exploitation of a patent research result is
+made in unwarranted ways. The role of the ethics com-
+mittees is limited to the ‘actual use’ of samples and not
+to the potential exploitation of IP rights.
+
+IP law itself only allows for a limited consideration
+
+of this issue.
+
+On the technical front, patentability of an invention
+might be validly excluded on grounds of ‘ordre public’
+or ‘morality’ in order to protect human, animal plant
+life or health or to avoid serious prejudice to the envi-
+ronment.84 This standard cut-off exemption has been
+indicated as an effective solution.85 This approach un-
+der TRIPS has been effectively adopted under Art.53 (a)
+EPC. The purpose of this provision under the EPC is to
+deny patent protection to inventions likely to induce
+riot or public disorder, or to lead to criminal or other
+generally offensive behaviour.86 Some of the examples
+offered by the examination guidelines of EPO87 tend to
+throw some light on this, such as incitement to riot or
+acts of disorder;
+to criminal acts; racial,
+
+incitement
+
+such invention.
+
+similar discriminatory propaganda; and
+religious or
+grossly obscene matter. This provision of law, apart from
+forming a ‘blanket clause’ that is framed to accommo-
+date future developments, constitutes a ‘fundamental
+and high-ranking norm’ that is ‘future-proof in the
+sense of being technology neutral’.88 The approach
+taken under the EPC differs from the one under TRIPS,
+in relation to which a ‘necessity’ test requires an assess-
+ment of the necessity in preventing the commercial ex-
+ploitation of
+such
+exclusion cannot apply merely because of a prohibition
+in the law. With respect to biotech inventions, Rule 28
+of the Implementing Regulation offers examples from
+the ﬁeld of biotechnology that potentially gives rise to
+an objection under the ‘ordre public’ and morality
+clause.89 The correct approach to Rule 28(c) of imple-
+menting regulation, as per the enlarged board of appeal
+in Warf case,90 is to identify the claimed monopoly and
+ask whether that monopoly embraces the exceptions
+mentioned under the provision.91 Rule 29(2),92 how-
+ever, deﬁnes which biological material originating from
+the human body may be patented. It states that:
+
+In any case,
+
+An element isolated from the human body or otherwise
+produced by means of a technical process including the se-
+quence or partial sequence of a gene may constitute a pat-
+entable invention, even if the structure of that element is
+identical to that of a natural element.
+
+This position under Rule 29(2) is resounded under
+Art.5 (2) of the Biotech Directive.93 In Howard Florey94
+(The Relaxin case) the EPO observed that exclusion
+from patentability on these grounds would be only pos-
+sible if the invention at issue was regarded as universally
+outrageous. In that case DNA as such was not regarded
+as life but rather as one of the many chemical entities
+participating in biological processes. Hence no offence
+to human dignity had occurred, also considering that
+the donor of the relevant tissue has been asked for her
+consent and her self-determination was not affected by
+
+Supra note 22.
+
+83
+84 TRIPS (Trade Related Aspects of Intellectual Property Rights), Art.
+
+27(2).
+
+85 G. H. C. Bodenhausen, Guide to the Application of the Paris Convention
+for the Protection of Industrial Property, as revised at Stockholm in 1976,
+WIPO publication no. 611(E) BIRPI, 1969, reprinted 1991.
+
+86 EPC Examination Guideline 2014. Available at https://www.epo.org/law-
+practice/legal-texts/archive/guidelines-2014.html (last accessed on 25 July
+2016).
+Ibid, note 86, Examination Guidelines of EPO, Chapter III Examination
+of Formal Requirements point 8.1.
+
+87
+
+88 T. Sommer, Can Law Make Life (too) Simple? (DJØF Publishing,
+
+Copenhagen, 2013), pp. 180–8.
+
+89 Under Article 53(a), European patents shall not be granted in respect of
+biotechnological inventions which, in particular, concern the following:
+
+(a) processes for cloning human beings; (b) processes for modifying the
+germ line genetic identity of human beings; (c) [29] uses of human em-
+bryos for industrial or commercial purposes; (d) processes for modifying
+the genetic identity of animals which are likely to cause them suffering
+without any substantial medical beneﬁt to man or animal, and also ani-
+mals resulting from such processes.
+
+90 G 0002/06, available at http://www.epo.org/law-practice/case-law-ap
+
+peals/recent/g060002ex1.html (Last accessed on 25/07/16).
+Ibid.
+
+91
+92 Ex Rule 23(e), Implementing Regulation to European Patent Convention
+
+(EPC) 1973.
+
+93 Directive 98/44/EC of the European Parliament and of the Council of 6
+
+July 1998 on the legal protection of biotechnological inventions.
+
+94 T 0272/95, http://www.epo.org/law-practice/case-law-appeals/recent/
+
+t950272eu2.html (last accessed on 25 July 2016).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+4
+3
+0
+7
+3
+0
+5
+6
+7
+4
+5
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Rajam Neethu  Biobank-related research and intellectual property rights
+
+ARTICLE
+
+315
+
+the exploitation of the claimed molecules.95 While sam-
+ples isolated from the human body by a technical pro-
+cess might not be treated as offensive of the ‘ordre
+public’ and morality clause per se, what would really be
+a matter of concern would be the issue of self-
+determination. This is exactly the concern reﬂected in
+the case law discussed above in the context of owner-
+ship of human biological materials. Respect for auton-
+omy is one of the basic ethical principles as far as
+biobanks and their research activities are concerned.
+The right to freely and voluntarily decide whether or
+not to participate in medical research is now universally
+accepted as a standard principle which is strengthened
+further in international covenants like the Helsinki
+Declaration on Biomedical Research,96
+the Oviedo
+Convention97
+and the Universal Declaration on
+Bioethics and Human Rights.98 Thus, it was not sur-
+prising when the special Eurobarometer survey of 2010
+reported that even though only a third (34%) of
+Europeans had heard of biobanks, the majority (67%)
+of them felt that researchers should ask for permission
+for every new piece of research to be conducted. The
+question as to the ethical implication of a patentable in-
+vention has to be distinguished from the ethical impli-
+cations facing the research leading to the invention.99
+However, this distinction often seems to be entangled
+in the discussions relating to the patentability of human
+tissues. This was, for instance, the case in John Moore v
+Regents of the University of California.100 The concern
+raised therein was
+recognized by the Californian
+Supreme Court when it sought to reconcile the concept
+of ‘ﬁduciary duty’ with the need to seek a patient’s con-
+sent for a medical procedure through an informed con-
+sent by disclosing any personal interest of the doctor
+unrelated to the patient’s health, whether research or
+judgment.101
+economic that may affect the medical
+However the CJEU in the judgment in C-377/98,102
+concerning the application for annulment of
+the
+Directive by The Netherlands, dealt with a similar issue
+in a different way. The Kingdom of the Netherlands in
+the case submitted that the absence in the Biotech
+Directive of a provision requiring veriﬁcation of the
+
+consent of the donor or recipient of products obtained
+by biotechnological process would undermine the right
+to self-determination. The court rejected this argument,
+stating that reliance on the fundamental right of human
+integrity was
+
+clearly misplaced as against a directive which concerns only
+the grant of patents and whose scope does not therefore ex-
+tend to activities before and after that grant, whether they
+involve research or the use of the patented products.103
+
+The court furthermore stated that ‘the grant of a patent
+does not preclude legal limitations or prohibitions ap-
+plying to research into patentable products or the ex-
+ploitation of patented products’.104 Though the views
+in the Relaxin case and C-377/98 are different, what is
+clear is that the Relaxin case enabled the EPO to use the
+exclusion to regulate the conduct of pre-patent research
+activities.105
+
+In the context of biobanks, the discourse is essentially
+distinct. This is so because the intended use of samples
+for research is an essential component of the deﬁnition of
+biobank itself.106 The very foundational basis for the crea-
+tion of these collections is to enable them to become re-
+search resource infrastructures. Consistent with this, the
+issues raised in Moore and HeLa cell
+line essentially
+points towards the adherence of good research practices
+and scientiﬁc integrity. While such instances tend to act
+as harbingers of a structured research and IP policy for
+publicly funded biobanks, they may not be beﬁtting ex-
+amples in the given context. The current understanding
+of the potential of biobanks has prompted an increased
+standardization in the collection, storage and exploitation
+of relevant resources. For instance, the UK biobank regis-
+try clearly articulates in its aims the use of samples ‘for
+improving the prevention, diagnosis and treatment of a
+wide range of serious and life-threatening illnesses – in-
+cluding cancer, heart diseases, stroke, diabetes, arthritis,
+osteoporosis, eye disorders, depression and forms of de-
+mentia’.107 The aims of such repositories and the donor’s
+aspiration can ﬁnd homogeneity only through research
+and development of facilities for the treatment of many
+life-threatening diseases. The ‘subsequent use’ of human
+
+Ibid.
+
+95
+96 Adopted by the 18th WMA General Assembly, Helsinki, Finland, June
+
+1964.
+
+97 Oviedo, 4 April 1997 available at: https://www.coe.int/en/web/conven
+tions/full-list/-/conventions/treaty/164 (last accessed on 25 July 2016).
+
+98 Adopted on 19 October 2005.
+99 WIPO Magazine, Issue 2/2006 (April) available at: http://www.wipo.int/
+
+102 Kingdom of the Netherlands v European Parliament and Council of the
+
+European Union, 2001 E.C.R. I-7079.
+103 Ibid at para 79. See also : T 1213/05.
+104 Ibid note 102 at para 80. See also 14th Recital of the preamble to the
+
+Biotechnology Directive, 98/44/EC.
+
+105 Justin Pila, ‘Intellectual property rights and detached human body parts’,
+
+Journal of Med Ethics 2014, 40: 27–32.
+
+wipo_magazine/en/2006/02/ (last accessed on 25 July 2016).
+
+106 Robert Hewitt and Peter Watson, ‘Deﬁning Biobank’, Biopreservation
+
+100 Supra note 30.
+101 Supra note 30, at page 35 of the judgment.
+
+and Biobanking, October 2013, 11(5): 309–15.
+
+107 UK biobank website, http://www.ukbiobank.ac.uk/about-biobank-uk/
+
+(last accessed on 21 March 2016).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+4
+3
+0
+7
+3
+0
+5
+6
+7
+4
+5
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+316
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 4
+
+biological materials arises at the point of collection.108
+The procedures followed during the collection phase gov-
+ern the scope of the use of such resources. While stan-
+dardizations of sample quality, form and analysis are
+important for the full exploitation of the resources col-
+lected in biobanks, it is also essential to standardize access
+and use of the samples quite early on. This would ensure
+transparency in research and protection of research re-
+sults through patents. This is also beneﬁcial from an in-
+dustrial point of view to follow the guidelines of use and
+access outlined by a biobank to ensure clarity in research
+purposes and outcomes. The strength or weakness of a
+patent rests on the achievement of this clarity on the con-
+ﬂicting interests involved and not on account of the pat-
+ent itself.109 However, there could be other factors that
+are remotely connected to the ethics of patentability. For
+instance, the examples of Tongan and Icelandic popula-
+tion biobanks have shown that not all biobanks are well
+received in the public opinion.110 European patent law is
+interpreted and applied in a sufﬁciently rigorous manner
+to ensure that
+the human body effectively remains
+unavailable and inalienable and that human dignity is
+properly safeguarded.111 However, the important ques-
+tion to ensure compliance with research ethics remains a
+grey area. Although there is formally no restriction in the
+scope of ‘ordre public and morality clause’ to exclude bi-
+ological materials taken in violation of human autonomy
+and dignity, it has never been applied by the EPO. The
+lack of clarity in this respect is bound to bring in the vi-
+cious circle of debate over ownership and use of biologi-
+cal materials in research.
+
+III. Biobanking: a case for health care
+participation
+
+Unlocking life’s code through the Human Genome
+Project has opened up unlimited possibilities for medical
+diagnosis and early cure of diseases. Despite this, the
+
+for
+
+and
+
+health
+
+researchers
+
+scientiﬁc community has been concerned that premature
+patenting would slow down innovation and hinder drug
+development.112 Thus, patenting per se is not a worry
+but premature patenting is. These concerns were laid to
+rest with the publication of all human genetic sequences
+of the Human Genome Project in 2003 in the public do-
+main.113 This has provided a valuable source of informa-
+tion
+pharmaceutical
+companies alike.114 As new diagnostic methods and tools
+are being discovered and new functions of biomarkers
+being identiﬁed, researchers are now able to study what
+an individual is predisposed to far in advance of any
+health events for the individual.115 This is essential to
+cure disease at the earliest opportunity or at times offer
+preventive care such as, for instance, in relation to breast
+and ovarian cancers. It is apparent that there is a high
+scientiﬁc and commercial value for such samples. This
+value creation also implies the endurance of biobanks to
+offer samples and related information for potential re-
+search. However, the task of mapping and exploiting
+such data resources is not an easy one.116 ‘Sustainability’
+towards the ends of biobanks is indeed a major issue in
+the functioning of a biobank. Studies conducted on do-
+nors who contributed their biological materials for vari-
+ous biobanks show that they do so only in the interest of
+research results helping the common good.117 Often it is
+seen that the donors are reluctant to participate in proj-
+ects which are meant to be ‘idle collections’, ie only for
+the purposes of storage.118 What motivates public partic-
+ipation in biobanks is indeed the greater good that could
+emanate out of research using such collections. This is
+essential in the interest of medical research and transla-
+tion of research beneﬁts to the community, which is the
+for the creation of biorepositories.119
+ultimate goal
+Besides all this, there exist multifaceted challenges in
+terms of industrial partnerships, as well as multinational
+collaborations where research initiatives are connected
+across multiple international borders.120 Consequently
+
+108 Supra note 25, at p. 27.
+109 Example in the Relaxin case discussed above, the opposition to the claims
+therein pointed out that taking tissue from a pregnant woman was an of-
+fence to human dignity. However, the fact of consent from such pregnant
+women was a strong foothold to the usage of such samples by the
+Howard Florey Institute. Thus, while the patent may be new, inventive
+and industrially applicable, it must also comply with standard practices
+of research to ensure the stability of such patents.
+
+110 European Commission, ‘Biobanks for Europe: A challenge for gover-
+
+nance’, Report 2012, available at:
+https://ec.europa.eu/research/swafs/pdf/pub_archive/biobanks-for-
+europe_en.pdf (last accessed on 21 January 2016).
+
+111 Kingdom of Netherlands v European Parliament and council of the
+
+European Union, C-377/98.
+
+112 Hilary Rose and Steve Rose, The Promethean Promises of the New Biology,
+
+Genes, Cells and Brains (Verso, London, 2014).
+
+113 Human Genome Project (1990); Hap Map Project (2002).
+
+114 Supra note 5 at p. 27.
+115 Ricardo Mele´ndez-Ortiz, Vicente Sanchez, ‘Trading in Genes:
+
+Development Perspectives on Biotechnology, Trade and Sustainability’,
+Earthscan London, First edition 2005.
+
+116 Ingeborg Meijer, Jordi Molas-Gallart and Pauline Mattson, ‘Networked
+research infrastructures and their governance: The case of biobanking’,
+Science and Public Policy, 39(4) (2012): 491–9.
+
+117 D. M. Shaw, B. S. Elger and F. Colledge, ‘What is a biobank? Differing
+
+deﬁnitions among biobank stake holders’, Clinical Genetics 85 (3): 223–7,
+March 2014.
+
+118 Ibid.
+119 Byunghak Kang et al., ‘Current Status, Challenges, Policies, and Bioethics
+of Biobanks’, Genomics & Informatics, 11 (4) (2013): 211–17. PMC. Web.
+23 March 2016.
+
+120 For instance it was observed in Maximillian Schrems v Data Protection
+Commissione, Case C362/14, the protection of the ‘privacy’ and of the
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+4
+3
+0
+7
+3
+0
+5
+6
+7
+4
+5
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Rajam Neethu  Biobank-related research and intellectual property rights
+
+ARTICLE
+
+317
+
+for
+
+licensing,
+
+Economic
+
+Co-operation
+
+issues of the nature of consent, beneﬁt sharing and trans-
+concerns hard to impeach. The
+parency become
+Organisation
+and
+Development (OECD) guidelines on Human Biobanks
+and Genetic Research Databases (HBGRDs), 2009,121
+provide that the sharing of knowledge is one of the
+most important beneﬁts to be derived from HBGRDs:
+its operators should endeavour to foster the exchange
+of information, technology and research through vari-
+ous means including technology transfer, material trans-
+fer,
+joint research and development activities.
+One of the several means to achieve the sustainability
+of biobanking structures is to deﬁne the possible eco-
+nomic models to secure diverse industrial and com-
+mercial partnerships.122 There is a growing tendency to
+secure private funding sources and involve industrial
+partners in biobank-based research activities.123 While
+balancing the two distinct clusters of economics and
+ethics becomes a challenge, there is also a realization
+that such industrial partnership in biobanks is no lon-
+ger excludable in the interest of marketable health re-
+search.124 As Baird points out ‘as a society, we need to
+think about the consequences, for health research as a
+whole, of the strong focus on academic–industry part-
+nerships to produce marketable products’.125 Shifting
+focus onto the commercial partnerships within bio-
+banks brings forth some important questions, at least
+from an intellectual property perspective as discussed
+so far in this article.
+
+In May 2016, a new set of recommendations to the
+Council of Europe member states on the removal, stor-
+age and use of biological materials for research pur-
+poses was adopted by the Committee of Ministers.
+Recommendation CM/Rec (2016)6 recognizes the value
+of biomedical research for the advancement of health-
+care and the improvement of the quality of life and at
+the same time offers to protect the personal life of indi-
+viduals who have contributed their samples for biomed-
+ical research.126 The recommendation captures some of
+the dilemmas highlighted in the discussions above. It
+applies in the following situations:
+
+(a) obtaining biological materials of human origin for
+
+storage for future research purposes;
+
+(b) storage of biological materials of human origin for
+
+future research purposes;
+
+(c) the use in a research project of biological materials
+of human origin that are stored or were previously
+obtained for another purpose, including a previous
+research project; and
+
+(d) associated personal data.127
+
+said
+
+follows
+
+recommendation
+
+The
+the Oviedo
+Convention128 in declaring the human body and its
+parts ‘shall not “as such” give rise to ﬁnancial gain’.
+Whilst doing so it also tries to factor in the needs of
+medical researchers by requiring that appropriate con-
+sent ought to be respected in using the biological mate-
+rials for research purposes, particularly if
+they are
+identiﬁable. If the proposed use of identiﬁable biologi-
+cal materials in a research project is not within the
+scope of prior consent given by the person concerned,
+efforts must be made to obtain such consent unless the
+individual, at the time of offering her samples, ex-
+pressed the wish not to be contacted.129 In situations in
+which contacting a donor has been unsuccessful, the re-
+search project may still be able to use the biological ma-
+terials and data, where the research addresses an
+important scientiﬁc interest and is in accordance with
+the principle of proportionality. This means that the in-
+terference with a fundamental right affected must be
+proportional in relation to the legitimate interest pur-
+sued by the researcher. Non-identiﬁable materials on
+the other hand could be used in a research project pro-
+vided that such use does not violate any restrictions de-
+ﬁned by the person concerned before the materials have
+been rendered non-identiﬁable. The recommendation
+thus applies to biorepositories which store human bio-
+logical materials for potential future uses. While it sets
+in a caution for usage of human biological materials,
+the point of discussion stops at ‘actual usage’ of the
+samples and is silent on the intellectual property rights
+emerging from research projects using such materials.
+
+fundamental rights of individuals becomes a matter of utmost
+importance.
+
+124 D. E. Winickoff and R. N. Winickoff, ‘The charitable trust as a model for
+
+genomic biobanks’, New England Journal of Medicine, 349 (12): 1180–4.
+
+121 See: http://www.oecd.org/science/biotech/guidelinesforhumanbiobank
+sandgeneticresearchdatabaseshbgrds.htm (last accessed on 12 January
+2016).
+
+122 Andrew Turner, Clara Dallaire-Fortier and Madeleine J. Murtag,
+
+‘Biobank Economics and the “Commercialization Problem”’,
+Spontaneous Generations: A Journal for the History and Philosophy of
+Science, 7 (1) (2013): 69.
+
+123 Timothy Caulﬁeld et al., ‘Industry involvement in publicly funded bio-
+
+banks’, Ethics Watch, 15 (220), April 2014.
+
+125 P. Baird, ‘Getting it right: Industry sponsorship and medical research’,
+
+CMAJ, 13 May 2003; 168 (10): 1267–9.
+
+126 Adopted by the Committee of Ministers on 11 May 2016 at the 1,256th
+meeting of the Ministers’ Deputies, Available at: http://www.coe.int/en/
+web/portal/-/research-on-biological-materials-of-human-origin-new-rec
+ommendations-to-member-states (last accessed on 20 July 2016).
+
+127 CM/Rec (2016)6, Article 2.
+128 Oviedo, 4 April 1997.
+129 CM/Rec (2016) 6, Article 21.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+4
+3
+0
+7
+3
+0
+5
+6
+7
+4
+5
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+318
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 4
+
+Also these guidelines offering general recommendation
+are not legally binding.130 They ought to be more eas-
+ily adapted to changing circumstances and realities of
+biobanks today. This requires an in-depth reﬂection
+on a more detailed policy on IP rights and the com-
+mercial use of biological materials of human origin.
+From a biobank perspective it is essential that the pros
+and cons involved in IP rights, when applied to bio-
+bank-based research, be fully understood in consider-
+ing various strategies. Some biobanks in Europe have
+begun to address these in research agreements and
+MTAs (Material Transfer Agreements131) with research
+collaborators.132 In considering some mechanisms to
+address the concerns reﬂected above it is essential to
+consider an IP policy that deﬁnes the ethical criterion
+in accordance with the biobank concerns or which
+mitigates the effect of a stricter application of patent
+criteria. This apart, in research collaboration by bio-
+banks with external partners, it may be possible to of-
+fer non-exclusive licensing strategies wherein it would
+be still possible for the biobanks to continue to exploit
+the research results.133 It is also important for bio-
+banks to seek patent laws research exemption which
+will enable biobanks to continue with their research
+activities without being hampered by a patent, for in-
+stance. Thus, for biobanks, relevant IP policy needs to
+be tailored to their structural framework and require-
+ments while in keeping with some of the points that
+are discussed above.
+
+IV. Concluding remarks
+
+The above analysis has sought to highlight three impor-
+tant aspects.
+
+First, the importance of public–private partnership
+for the fruitful uses of resources which have been gath-
+ered within the biobanks using huge amount of invest-
+in its
+ment. The WHO regional ofﬁce for Europe,
+Guidelines on Genetic Databases,
+the
+
+states
+
+that
+
+partnership between public and private enterprises
+would currently seem to be the optimal means to realize
+public beneﬁt from research in genetics.134 It has also
+been pointed out by the guidelines that the means by
+which funding for research is provided should be less of
+a concern; instead adequate safeguards are to be insti-
+tuted to ensure that the public beneﬁt of the research is
+realized, and that the research is carried out in a man-
+ner that is ethically justiﬁable. The OECD guidelines of
+2009135 provide that:
+
+the operators of
+the Human Biobanks and Genetic
+Research Databases (HBGRD) should have a clearly articu-
+lated policy that is communicated to participants relating
+to the commercialisation of its own resources, research re-
+sults derived from those resources, and/or commercial
+products, if any, that may arise from research using its
+resources.
+
+Further, the ‘operators of the HBGRD136 should have a
+clear policy in regards to IP rights, which should ad-
+dress the rights, if any, of the Human Biobanks and
+Genetic Research Databases, researchers and partici-
+pants’. The reasonable expectation of the public to-
+wards the use of their samples in medical research
+requires biobanks not only to have a clear-cut policy on
+industrial involvement and research participation, but
+also in securing beneﬁts to the community that contrib-
+uted the samples for such uses. This also requires atten-
+tion to the principles of altruism and good clinical
+practices
+evolved from the Helsinki
+Declaration and the Belmont Report.137 While endeav-
+ouring to promote ‘Big Data’ research, biobanks must
+also ensure that signiﬁcant community beneﬁts evolve
+from such research. This requirement stems from a
+number of international instruments like UNESCO’s
+International Declaration on Human Genetic Data138
+and the HUGO Ethics Committee Statement on Beneﬁt
+Sharing.139 Such directional changes would need a re-
+ﬁnement in the role of the National Ethics Committees
+
+have
+
+that
+
+130 Article 288 of the Treaty on the Functioning of the European Union.
+131 A Material Transfer Agreement governs the transfer and use of research
+
+Technology Transfer: A Practical Guide to the New European Licensing
+Regime (Elsevier, Amsterdam, 2004).
+
+material that is made available by the biobank (Provider) to the entity
+that wishes to use the material for its own internal research purposes
+(Recipient), when at the time of transfer no research collaboration exists
+between the two contractors, see http://www.bbmri-wp4.eu/wiki/index.
+php/Material_Transfer_Agreement.
+
+132 The author’s own research reveals certain patterns involved in these re-
+
+search contracts.
+
+133 A non-exclusive licensing means the licensor remains free to exploit the
+same intellectual property and to allow any number of other licensees to
+also exploit the same intellectual property. This gives a bit of ﬂexibility
+for biobankers but it is not free from defects, and often experience shows
+that pharmaceutical companies and other industrial partners are reluc-
+tant to deal in non-exclusive practices as it may affect drug development.
+Hence the appropriate strategy is still being explored in regard to licens-
+ing for biobanks. See Duncan Curley, Intellectual Property Licenses and
+
+134 WHO 2003, ‘Genetic databases: assessing the beneﬁts and impact on hu-
+man and patient rights’, available at: http://www.who.int/genomics/publi
+cations/en/index5.html (last accessed on 25 July 2016).
+
+135 OECD guidelines, Human Biobanks and Genetic Research Databases,
+
+2009, principles 9.D and 9.E.
+
+136 HBGRD or Human Biobanks and Genetic Research Databases.
+137 See note 96; Belmont Report: Ethical Principles and Guidelines for the
+
+Protection of Human Subjects of Research, Report of the National
+Commission for the Protection of Human Subjects of Biomedical and
+Behavioural Research, 1978, deduced three fundamental principles of jus-
+tice, respect and beneﬁcence.
+
+138 Adopted at UNESCO’s 32nd General Conference on 16 October 2003.
+139 Ethics Committee, Human Genome Organization (HUGO) available at http://
+
+www.hugo-international.org/HUGO-CELS (accessed 24 January 2017).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+4
+3
+0
+7
+3
+0
+5
+6
+7
+4
+5
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Rajam Neethu  Biobank-related research and intellectual property rights
+
+ARTICLE
+
+319
+
+and Boards of Ethics within biobank governance
+structures.
+
+This leads to a second issue—the proprietary nature
+of rights over samples. It is an essential concern due to
+lack of clarity in the legal frameworks governing use of
+human biological materials, particularly for research
+purposes. Although the law tends to deﬁne that human
+body parts are res extra commercium140 ‘as such’, it
+fails to provide guidance on the use of tissue or cells
+used in research. Thus there is a strange vacuum as to
+the concept of ‘ownership’ over such biological mate-
+rials. Social policy requires that such matters need to be
+structured within law in securing the balance and
+avoiding a legal gap.141
+
+Finally, IP rights often go unaddressed in guidelines
+relating to health research. The result of this is that often
+research gets entangled in a web of complex misconcep-
+tions. There is the robust need, at least at the EU level,
+for clarity in this respect. This would undoubtedly help
+to deﬁne the parameters for governance of big genetic
+databases. A ‘Public Consultation on Health Databases
+and Biobanks’ was announced by the World Medical
+Association in 2015, which drew attention to the prob-
+lem of the use of biological materials in biomedical re-
+search.142 The consultation sought to give a special
+consideration to the possible exploitation of IP rights. It
+also considered protection of ownership over materials,
+rights and privileges before collecting and sharing the bi-
+ological materials.143 Some of the responses published
+online have sought to highlight the problems which this
+article presents. For instance, one of the comments
+points out that one cannot always speak of ‘ownership’
+about human material, because there is a risk of confu-
+sion between intellectual property rights and the other
+prerogatives on the resources.144 It has also been sug-
+gested that there exists an ambiguity as to the consider-
+ations
+to be taken into account with regard to
+intellectual property rights which required explicit meas-
+ures in that regard.145 Another opinion called to limit
+the ‘Protections for ownership of materials, rights and
+
+privileges . . . before collecting and sharing the material
+and data’, (as provided in the consultation146) to indige-
+nous groups only.147 It has also been suggested with re-
+gard to future uses of samples that researchers should
+describe all further use and data access in terms that are
+reasonable at the point of data collection and ensure that
+data are not used in any manner incompatible with
+those purposes. Keeping the board consent would thus
+ensure that research using samples from biobanks are
+not hampered; however, it has been suggested that an in-
+dependent ethics committee should also be consulted to
+determine whether a new consent is necessary for sec-
+ondary uses of such samples.148 This also calls for moni-
+toring of research activities going on within biobanks by
+an ethics committee which was yet another suggestion
+towards biobank-related research.149 These stakeholder
+concerns have ﬁnally been given shape in the form of the
+‘WMA Declaration of Taipei on Ethical Considerations
+regarding Health Databases and Biobanks, 2016’,150 This
+document is regarded as a complementary tool to the
+Helsinki Declaration as modiﬁed in 2013, taking into ac-
+count the need for the medical profession to have guid-
+ance about how to ethically approach the rapidly
+growing agendas of health databases and biobanks.151
+The Declaration of Taipei calls for special considerations
+to the possible exploitation of
+intellectual property.
+Accordingly it requires that protection for ownership of
+materials, rights and privileges must be considered and
+contractually deﬁned before collecting and sharing the
+material. Intellectual property issues should be addressed
+in a policy that covers the rights of all stakeholders and
+should be communicated in a transparent manner.152
+
+Thus there still remains much to be conﬁgured at
+least as far as IP rights in the ﬁeld of biotechnology are
+concerned. There exists ample scope to use patent laws
+to address some of these concerns. The EPC does not
+expressly require applicants to submit evidence of pre-
+vious informed consent of the donor of the cells or a
+beneﬁt-sharing agreement, nor has its approach been
+broad enough to include an assessment of consent in
+
+140 Convention for the Protection of Human Rights and Dignity of the Human
+Being with regard to the Application of Biology and Medicine: Convention
+on Human Rights and Biomedicine (Oviedo, 4 April 1997), Article 21.
+
+147 ISBER, Comments on the World Medical Association Declaration on
+Ethical Considerations Regarding Health Databases and Biobanks, 11
+June 2016.
+
+141 This follows the Latin legal maxim, Natura no facit vacuum, nec lex super-
+
+vacuum, meaning ‘Nature makes no vacuum, the law nothing
+purposeless’.
+
+142 Dated 9 April 2015. An open consultation on the ethical issues surround-
+
+ing health databases and biobanks http://www.wma.net/en/40news/
+20archives/2015/2015_13/ (last accessed on 1 December 2016).
+
+143 Ibid, note 142, point 22.
+144 BBMRI–ERIC contribution to the comments on WMA Declaration on
+
+Ethical Considerations Regarding Health Databases and Biobanks, 12
+June 2015.
+
+145 Ibid.
+146 Point 22 of the consultation, see Supra note 142.
+
+148 IPPC, EFPIA and ACRO, joint comments dated 17 June 2015.
+149 Nufﬁeld Council on Bioethics, comments on WMA Declaration on
+
+Ethical Considerations Regarding Health Databases and Biobanks, 18
+March 2015.
+
+150 Adopted by the 53rd WMA General Assembly, Washington, DC, USA,
+October 2002 and revised by the 67th WMA General Assembly, Taipei,
+Taiwan, October 2016, available at: http://www.wma.net/en/30publica
+tions/10policies/d1/ (last accessed on 3 January 2017).
+
+151 http://www.bbmri-eric.eu/news-events/new-wma-declaration-of-taipei-
+
+on-hdb-published/ (last accessed on 1 January 2017).
+
+152 Point 18, Declaration of Taipei, see note 150.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+4
+3
+0
+7
+3
+0
+5
+6
+7
+4
+5
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+320
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 4
+
+the light of the public ordre and morality clause to give
+strength to biotechnological
+inventions. However,
+some national patent laws contain provisions outlining
+a consent requirement for samples used in research
+leading to the patent, eg in Denmark.153 A wider appli-
+cation of this could offer some solace in this regard,
+and help to offer a constructive approach to biotech in-
+
+vention considerations.154 This may help biobanking in
+alleviating the current concerns of the public towards
+research and thus increase the propensity towards in-
+creased industrial and research partnership in the larger
+community interest, which is the cornerstone of bio-
+banking and the very basis for the creation of such ‘Big
+Data’.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+4
+3
+0
+7
+3
+0
+5
+6
+7
+4
+5
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+153 Order on Patents and Supplementary Protection Certiﬁcates, The Patent
+
+and Trademark Ofﬁce Denmark (Order No. 25 of 18 January 2013),
+chapter II, Art.3(6), available at:
+http://www.dkpto.org/media/183780/the%20patent%20and%20trade
+mark%20ofﬁce%20order%202013%20no%20%2025.pdf (last accessed
+on 14 December 2016).
+
+154 International Declaration on Human Genetic Data 2003—Special status
+
+(a) Human genetic data have a special status because: (i) they can be pre-
+dictive of genetic predispositions concerning individuals; (ii) they may
+
+have a signiﬁcant impact on the family, including offspring, extending
+over generations, and in some instances on the whole group to which the
+person concerned belongs; (iii) they may contain information the signiﬁ-
+cance of which is not necessarily known at the time of the collection of
+the biological samples; (iv) they may have cultural signiﬁcance for per-
+sons or groups. (b) Due consideration should be given to the sensitivity
+of human genetic data and an appropriate level of protection for these
+data and biological samples should be established.
+
+

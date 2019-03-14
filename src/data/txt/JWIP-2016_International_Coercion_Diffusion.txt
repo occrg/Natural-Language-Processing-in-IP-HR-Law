@@ -1,0 +1,1933 @@
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2, pp. 2–27
+
+doi: 10.1111/jwip.12051
+
+International Coercion and the Diffusion of
+Regulatory Data Protection
+
+Gabriel J. Michael
+Information Society Project, Yale Law School
+
+Prior to 1990, regulatory data protection existed only in 14 highly developed countries. Since then, 60 additional
+countries have adopted regulatory data protection. New adopters include a large number of countries with no
+domestic pharmaceutical industry. These countries will face higher pharmaceutical prices as a result of offering
+regulatory data protection. Why would countries that stand to lose from offering regulatory data protection choose
+to do so? The author argues that the global diffusion of regulatory data protection can be directly traced to
+international coercion from the United States and the European Union (EU). The US coerces weaker trading
+partners into adopting regulatory data protection by requiring such protection as a condition of concluding trade
+agreements or bilateral intellectual property agreements. Meanwhile, the EU coerces applicants by demanding that
+they adopt such rights during EU accession negotiations, on average four years prior to accession. He tested these
+claims using a multi-method research design that combines event history analysis with evidence from leaked US
+diplomatic cables and public EU accession documents. His ﬁndings demonstrate that coercive diffusion can take
+place by means of threats, and that countries often actively oppose adopting intellectual property rights, but
+nevertheless adopt them due to international coercion.
+
+Keywords TRIPS; bilateralism; pharmaceuticals; intellectual property
+
+Over the past two decades, scores of countries around the world have adopted new and unusual intellectual
+property rights. Separate from the traditional areas of copyright, patent and trademark, new sui generis
+rights protect exotic subject matter, such as databases, plant varieties or the layout of integrated circuits.
+Often the countries adopting these new protections have no clear reason to do so. They have no domestic
+industries that stand to beneﬁt from new protections, and domestic policymakers often oppose their
+introduction. This is especially true of the intellectual property rights protecting the clinical trial data that
+pharmaceutical ﬁrms submit to regulatory authorities (hereafter regulatory data protection). These data
+document the safety and efﬁcacy of pharmaceutical products. Adopting intellectual property rights that
+restrict access to these data allows pharmaceutical ﬁrms to delay competition from generic manufacturers,
+increasing the price of medicine and further burdening public health systems throughout the world.
+
+Prior to 1990, regulatory data protection existed only in 14 highly developed countries. Since then, 60
+additional countries have adopted regulatory data protection. The large number of countries adopting this
+new intellectual property right poses a puzzle. The new adopters include a large number of countries with
+no domestic pharmaceutical industry whatsoever, and these countries will face higher pharmaceutical
+prices as a result of offering regulatory data protection. Why would countries that stand to lose from
+offering regulatory data protection choose to do so?
+
+This article argues that the global diffusion of regulatory data protection can be directly traced to
+international coercion from the United States and the European Union. Although regulatory data
+protection increases pharmaceutical prices and harms public health, it beneﬁts large pharmaceutical ﬁrms
+based in the United States and EU member states (El-Said and El-Said, 2007; Malpani, 2009; Shaffer and
+Brenner, 2009). The United States coerces weaker trading partners into adopting regulatory data protection
+by requiring such protection as a condition of concluding trade or bilateral intellectual property
+
+2
+
+© 2016 John Wiley & Sons Ltd
+
+International Coercion and Data Protection
+
+Gabriel J. Michael
+
+agreements. Meanwhile, the EU coerces applicants by demanding that they adopt such rights during EU
+accession negotiations, on average four years prior to accession.
+
+I test these claims using a multi-method research design that combines event history analysis with
+detailed evidence gleaned from leaked US diplomatic cables and public EU accession documents. The
+statistical analysis ﬁnds strong correlations between the decision of a country to sign a trade agreement
+with the United States or apply for EU membership and an increased likelihood of adopting regulatory data
+protection. These correlations persist even when controlling for a number of key political and economic
+variables. Furthermore, I ﬁnd no support for explanations of diffusion pointing to the role of international
+organizations, learning or mimicry. Leaked diplomatic cables conﬁrm that countries negotiating trade
+agreements with the United States actively opposed adopting regulatory data protection but ultimately
+caved to US pressure. Likewise, EU accession documents indicate that newly acceding members sought to
+delay adopting regulatory data protection as long as possible.
+
+My ﬁndings have signiﬁcance for at least two literatures. First, my research demonstrates that coercive
+diffusion can take place by means of threats. Powerful states can threaten to withhold or delay promised
+beneﬁts or remove existing beneﬁts, unless a target state adopts a desired policy. This can happen in a
+variety of negotiations, such as bilateral trade agreement negotiations, EU accession negotiations, and the
+WTO accession process. Over the past few decades, international economic negotiations have experienced
+a dramatic shift from the multilateral forum of the GATT/WTO to a plethora of regional, plurilateral and
+bilateral agreements (Mansﬁeld and Pevehouse, 2013; Menon, 2007). Yet within the diffusion literature,
+the focus has been on accounting for the diffusion of the agreements themselves, rather than asking
+whether trade agreements and other rapidly proliferating types of agreements might serve as new conduits
+for coercion.1
+
+While the sanctions literature has come to view threats as a frequent and effective form of coercion in
+the service of foreign policy goals, the diffusion literature largely focuses on other forms of coercion.2
+These other forms of coercion include conditionality imposed by international ﬁnancial institutions and
+federal governments; hierarchical coercion imposed by supranational or national governments on lower
+governments; “soft coercion” in the form of go-it-alone power, ﬁrst-mover advantages or successful
+policies serving as templates for second-comers; and constructivist forms of power exerted through
+persuasion, hegemonic ideas or the ability of normative leaders to shape states’ behavior.3 Some scholars
+go so far as to downplay the importance of coercion as a mechanism of diffusion, claiming that coercion is
+“out of step with our world,” (Simmons et al., 2008, pp. 358–359). In contrast, my ﬁndings show that
+powerful states possess the ability to dictate the terms of law and policy to weaker states by threatening to
+withhold beneﬁts during various types of negotiations.
+
+Second, the results show that when countries adopt new intellectual property rights like regulatory
+data protection, they often do so for reasons other than those commonly suggested by the economic or
+international political economy literature. The traditional economic justiﬁcation for creating intellectual
+property rights points to the necessity of such rights to solve market failures that result from the non-rival
+and -excludable nature of intangible goods (Landes and Posner, 2003). Countries may also adopt
+intellectual property rights in order to beneﬁt from their presumed indirect effects, such as fostering
+economic development, attracting foreign investment or sending signals about a business-friendly
+environment (Braga et al., 2000; Fink and Maskus, 2005; Javorcik, 2004). In contrast to these economic
+explanations, my ﬁndings show that countries often actively oppose adopting intellectual property rights,
+but nevertheless adopt them due to international coercion. As a result, the so-called harmonization of
+intellectual property law does not reﬂect a growing international consensus or the beneﬁts of
+standardization, but rather the effects of coercion (Dutﬁeld and Suthersanen, 2005).
+
+The remainder of the article proceeds as follows: ﬁrst, I explain what regulatory data protection is, and
+how and why regulatory data came to be protected as intellectual property. I also discuss the negative
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+3
+
+Gabriel J. Michael
+
+International Coercion and Data Protection
+
+effects of regulatory data protection on pharmaceutical prices and public health. Second, I discuss theories
+that might explain the puzzle of why so many countries have adopted regulatory data protection despite
+having good reasons not to do so. Third, I present the results of an event history analysis of potential factors
+contributing to the adoption of such protection. Finally, I offer detailed qualitative evidence conﬁrming the
+causal processes suggested by the event history analysis: the United States and EU coerce weaker states
+into adopting strict intellectual property laws through trade and accession agreements. The qualitative
+evidence also largely eliminates competing explanations.
+
+1 What is Regulatory Data Protection?
+Before pharmaceutical ﬁrms can market new products, they must gain regulatory approval on the basis of
+successful clinical trials. Over the years, these clinical trials have become increasingly expensive.
+Estimates of the costs of trials vary widely, but the Pharmaceutical Research and Manufacturers of
+America (PhRMA) reports total costs of over $1 billion to develop and bring to market a new drug
+(PhRMA, 2012). Some research criticizes these estimates as inﬂated (Light and Warburton, 2011). Still, it
+is clear that drug development entails large costs, of which clinical trials account for a signiﬁcant portion
+(Adams and Brantner, 2006; DiMasi et al., 2003).
+
+Clinical trials generate valuable data; these data are the evidence upon which regulators base their
+decisions to approve new drugs. The data are valuable to more than just the original ﬁrm: if competing
+ﬁrms can show that their products are equivalent to the original, they can save hundreds of millions of
+dollars by foregoing their own clinical trials and relying on the data already submitted to regulators by the
+original ﬁrm. Patent laws normally prohibit such behavior by forbidding competing ﬁrms from copying
+patented drugs. But once its patents expire, competing ﬁrms are free to duplicate a drug. This is the
+standard strategy used by generic pharmaceutical ﬁrms to bring competing versions of drugs to market.
+Despite their economic value, regulatory data are largely unprotected by intellectual property law. As
+scientiﬁc facts, data cannot be patented or copyrighted. As a result, in the 1980s, the governments of
+countries that were home to major pharmaceutical ﬁrms developed a novel form of protection for
+regulatory data. In 1984, as part of the Hatch–Waxman Act, the United States created a new intellectual
+property right for regulatory data (Weiswasser and Danzis, 2003). The law stipulates that for a period of
+ﬁve years after a pharmaceutical company submits data for regulatory approval, the US Food and Drug
+Administration (FDA) will not accept applications to approve competing products that rely on the data. In
+1986, the EU adopted a similar regime, providing a minimum of six years of regulatory data protection.
+Since generic pharmaceutical manufacturers operate on thin margins, they cannot affordably conduct
+duplicate clinical trials. Thus, regulatory data protection effectively prevents generic competition for
+several years.
+
+As pharmaceutical ﬁrms increasingly focused on markets outside the United States and Western
+Europe, regulatory data protection became increasingly important. Originator pharmaceutical ﬁrms—that
+is, ﬁrms that undertake research and development of new drugs—normally seek to patent their products in
+jurisdictions throughout the world. However, patentability requirements vary by country. The United
+States has relatively weak standards of patentability, meaning that a pharmaceutical product patented in
+the United States may not be eligible for a patent in another country. In contrast, regulatory data protection,
+when available, obtains irrespective of patent status. Even if a patent is later invalidated or was never
+sought, regulatory data protection provides a virtually unassailable monopoly for the original ﬁrm, making
+it highly attractive for originator pharmaceutical ﬁrms.
+
+In the absence of generic competition, originator ﬁrms can charge signiﬁcantly higher prices,
+sometimes for many years. These price increases cut into ﬁnite public health budgets, leaving less money
+to spend on treatment and covering fewer affected individuals (Baker, 2008; Malpani, 2009). As a result, a
+
+4
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+International Coercion and Data Protection
+
+Gabriel J. Michael
+
+Figure 1. Cumulative Adoptions of Regulatory Data Protection
+
+country’s decision about whether or not to provide regulatory data protection can literally be a matter of
+life and death (Cawthorne, 2012).
+
+Figure 1 shows the cumulative number of countries that have adopted regulatory data protection over
+time, whereas Figure 2 shows which countries currently offer such protection. Prior to 1990, regulatory
+data protection was conﬁned to fourteen highly developed countries. Since then, sixty additional countries
+have adopted laws offering this new intellectual property right.
+
+The originator pharmaceutical industry is heavily concentrated in the United States and a few Western
+European countries. The decision of these countries to create a new intellectual property right in regulatory
+data are adequately explained by traditional collective action theory: a relatively small number of
+pharmaceutical ﬁrms stand to gain concentrated beneﬁts, while the costs fall upon a diffuse and
+unorganized consumer population (Drahos, 2004; Olson, 1971). But the vast majority of countries that
+have adopted laws protecting regulatory data in the past two decades have no pharmaceutical industry
+whatsoever. In such cases, there is no domestic constituency that can directly beneﬁt from this special
+intellectual property right. Furthermore, these countries can expect to be negatively affected by the delayed
+generic competition and increases in pharmaceutical prices associated with regulatory data protection.
+Why would these countries choose to offer such protection? The next section presents several possible
+explanations.
+
+2 Mechanisms of Diffusion
+Coercion
+Countries without signiﬁcant originator pharmaceutical industries—that is, virtually every country outside
+of the United States, the United Kingdom, Switzerland, Germany and France—have no obvious reason to
+adopt new intellectual property rights protecting clinical trial data. This article contends that of the 74
+countries that have adopted laws creating such rights, most have done so as a direct result of international
+coercion exerted by the United States and the EU.
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+5
+
+Gabriel J. Michael
+
+International Coercion and Data Protection
+
+Figure 2. Map of Countries Providing Regulatory Data Protection
+
+Hypothesis 1 Countries negotiating a trade or bilateral intellectual property agreement with the United
+States will be more likely to adopt laws protecting regulatory data, due primarily to US coercion.
+
+Coercion “refers to a situation in which one actor (A) is able to manipulate the cost/beneﬁt ratios of the
+alternatives perceived by another actor (B) so that the latter would be foolish to choose any alternative
+other than X,” (Baldwin, 1985, p. 38). Coercion need not necessarily imply only harm or the threat of harm.
+As Baldwin notes, it can also involve promised rewards, actual rewards or providing false information
+about cost/beneﬁt ratios. Countries negotiating trade agreements are subject to coercion on various
+matters, such as human rights standards and intellectual property policies Drahos et al. (2004) and Hafner-
+Burton (2005). The United States in particular devotes signiﬁcant resources to achieving its ends with
+respect to intellectual property policy. In addition to including extensive intellectual property chapters in
+its trade agreements, the United States has established a number of bilateral intellectual property
+agreements with various countries. These agreements are usually linked to bilateral investment treaties,
+and the US portrays them as a stepping stone to stronger bilateral economic relations (Drahos, 2001). Most
+US demands on intellectual property are non-negotiable, and stem from a US template for free trade
+agreements that offers no ﬂexibility to potential trading partners (Lopert and Gleeson, 2013). While some
+of this template simply restates the provisions contained in the World Trade Organization’s (WTO)
+Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS), many of the template’s
+demands are “TRIPS-plus,” requiring countries to provide more stringent protection than that required by
+international law. Since the mid-1990s, this template has required parties to provide a TRIPS-plus form of
+regulatory data protection. Given the potential for these agreements to serve as instruments of coercion, I
+
+6
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+International Coercion and Data Protection
+
+Gabriel J. Michael
+
+expect countries negotiating trade or bilateral intellectual property agreements with the United States to be
+more likely to adopt laws protecting regulatory data.4
+
+Hypothesis 2 Countries negotiating accession to the EU will be more likely to adopt laws protecting
+regulatory data, due primarily to EU coercion.
+
+Accession to the EU involves negotiations between parties of vastly unequal negotiating power
+(PuSscaSs, 2014). While the Europeanization literature invokes the concept of conditionality, under which
+the EU offers beneﬁts to prospective members in exchange for political and economic concessions from
+prospective members, this kind of conditionality is practically and theoretically equivalent to coercion
+(Cengiz and Hoffmann, 2013; Dobbin et al., 2007; Schimmelfennig and Sedelmeier, 2004). Countries
+negotiating accession to the EU face the prospect of conforming their domestic law with the entire acquis
+communautaire, which necessarily includes adopting current EU law on regulatory data protection.
+However, because the EU observes and reports on prospective members’ accession progress, applicants
+face pressure to conform to the acquis earlier than necessary. As a result, EU applicants that eventually join
+the EU on average adopt regulatory data protection nearly four years before acceding. This unexpected
+behavior is due to coercive pressure exerted by the EU during the accession process.
+
+These hypotheses not only specify expected statistical correlations, but also identify coercion as the
+mechanism that produces such correlations. A purely quantitative analysis cannot completely conﬁrm
+them. Thus, I adopt a multi-method research design that combines both quantitative and qualitative
+analysis to test these hypotheses.
+
+Alternative Explanations
+The existing literature posits a number of alternative explanations. Rather than pointing to coercion, these
+explanations emphasize the constraints of international
+the role of
+international organizations and processes of socialization or mimicry.
+
+law, economic competition,
+
+International Law
+International law encompasses numerous treaties relating to intellectual property. For more than a century,
+the Berne and Paris Conventions have established minimum international standards for copyright and
+patent law respectively. The WTO’s TRIPS incorporates provisions from both the Berne and Paris
+Conventions, and imposes additional requirements on member states’ domestic intellectual property law
+(Kapczynski, 2009; Reich, 2004). Thus, the steady expansion of WTO membership could offer a potential
+explanation for the diffusion of regulatory data protection.
+
+In theory, all WTO members are required to protect regulatory data from “unfair commercial use.” But
+in practice, this provision is only valuable to pharmaceutical ﬁrms when it is implemented in the manner
+the United States and the EU have chosen: providing ﬁve or more years of inviolable protection against any
+use of regulatory data by competitors whatsoever. During this period, pharmaceutical ﬁrms possess an
+unassailable monopoly regardless of patent status. While the United States tried to ensure that the WTO’s
+Agreement on TRIPS included provisions similar to the 1984 Hatch–Waxman Act, it succeeded only in
+inserting a weaker provision. TRIPS leaves the phrase “unfair commercial use” undeﬁned, and establishes
+no time period of inviolable protection. Thus, the US and EU implementations of article 39.3 are “TRIPS-
+plus,” offering stronger protections than international law requires (Pugatch, 2005). Because WTO
+membership only obliges countries to abide by TRIPS, membership alone cannot directly explain why
+countries choose to adopt TRIPS-plus interpretations of TRIPS provisions. However, a correlation
+between WTO membership an increased probability of protecting regulatory data would warrant further
+investigation to determine what role WTO membership plays.
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+7
+
+Gabriel J. Michael
+
+International Coercion and Data Protection
+
+Economic Development and Competition
+The relationship between intellectual property law and economic development is complex, and the causal
+relationships are not well understood (Chang, 2001; Hudson and Minea, 2013). However, some studies
+have found a positive correlation between strong intellectual property rights and economic growth under
+certain conditions (Gould and Gruben, 1996; Maskus, 2000). Generally speaking, developed countries
+provide stronger intellectual property protection than less developed countries (Ginarte and Park, 1997).
+The political and economic advice given by developed countries to developing countries often
+encourage the latter to adopt stronger intellectual property rights in order to promote development, both
+internally and by attracting foreign investment and stimulating trade.5 Some studies have found a link
+between strong intellectual property laws and increased foreign investment ﬂows, although such laws can
+also encourage foreign ﬁrms to engage in less FDI and more licensing and joint ventures, particularly
+pharmaceutical ﬁrms (Braga and Fink, 1998; Branstetter et al., 2006; Lee and Mansﬁeld, 1996; Maskus,
+1998). However, other work suggests that the effects foreign investment are more strongly linked to
+geographic proximity to major investor states and the target country’s market size and human capital
+resources (Kanwar, 2012; Nunnenkamp and Spatz, 2004).
+
+With respect to regulatory data protection in particular, countries may believe that adopting such
+protection will grant them a competitive edge when compared to other states. This might occur if providing
+regulatory data protection helps attract foreign business and investment to a state, although there is
+evidence to suggest that it does not (Malpani, 2009). Alternatively, regulatory data protection might
+encourage innovation and creativity in the domestic pharmaceutical sector, thereby making a state’s
+domestic economy more competitive. But the originator pharmaceutical industry—that is, the research-
+based pharmaceutical ﬁrms that stand to beneﬁt from protection—is concentrated in the United States and
+Western Europe, and not in the developing countries that are now adopting regulatory data protection.
+Furthermore, regulatory data protection applies equally to domestic and foreign ﬁrms, and thus conveys no
+unique competitive advantage to domestic ﬁrms (Adamini et al., 2009).
+
+In fact, the actual effect, if any, of regulatory data protection on economic development is largely
+irrelevant to the decision to adopt. This is because the success or failure of a law or policy does not
+determine whether it will diffuse (Sharman, 2008; Soule, 1999). What matters is the effect a state presumes
+adopting a policy will have. It is inappropriate to use measures of presumed effects, such as increases in
+foreign direct investment or trade, as independent variables for two reasons. First, existing empirical
+research on the effects of regulatory data protection does not specify either the direction or magnitude of
+correlations we should expect. Second, and more importantly, any effects come after the decision to adopt,
+and thus cannot be used to explain why adoption occurred. Decision makers do not know the results of a
+new policy in advance; they only know what they believe the results will be. As a result, I avoid using
+measures of policy success as potential indicators of diffusion, instead relying on the qualitative analysis to
+help illuminate the motivations behind adoption.
+
+International Organizations, Learning and Geography
+Political science research demonstrates that international organizations can shape the norms and policy
+decisions of states, and policy diffusion research has speciﬁcally identiﬁed ways in which international
+organizations facilitate learning among member states (Finnemore, 1993; Park, 2007; Stone, 2004).
+Similarly, national organizations can facilitate learning among subnational entities (F€uglister, 2012).
+Thus, international organizations might play a role in the diffusion of regulatory data protection. In fact,
+technical assistance has been speciﬁcally identiﬁed as facilitating the spread of stronger intellectual
+property laws (Matthews and Munoz-Tellez, 2006).
+
+The World Intellectual Property Organization (WIPO), a specialized United Nations agency, conducts
+hundreds of technical assistance activities each year, focusing especially on developing countries. WIPO
+
+8
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+International Coercion and Data Protection
+
+Gabriel J. Michael
+
+technical assistance takes many forms. It can consist of reports or briefs enumerating best practices and
+designed to aid in the implementation of such practices in a given country; it can be equipment and
+software provided to facilitate patent examination or establish databases for the registration of intellectual
+property; often, it involves WIPO ofﬁcials visiting a foreign country to conduct training, or bringing
+foreign ofﬁcials to WIPO for training. WIPO could serve as a mechanism by which certain understandings
+of appropriate intellectual property policy spread throughout member states.
+
+States may also learn from or emulate one another (Shipan and Volden, 2008). Indeed, much of the
+initial interest in diffusion was driven by striking observations of policy adoptions clustered in time and
+space, for example, of economic liberalization or social sector reform (Simmons and Elkins, 2004;
+Weyland, 2006). Existing literature tends to emphasize the importance of geographical proximity for
+learning, both between and within states (Glick and Friedland, 2014; Simmons, 2009). However, at a
+theoretical level, there is often little reason to expect certain mechanisms of diffusion to operate more
+effectively for neighbors than for non-neighbors. For example, weaker states all over the world are subject
+to coercive pressure, economic competitors are not necessarily close together, and distant countries may
+well serve as better models for learning and imitation than those nearby, particularly if distant countries
+possess other characteristics that make them good models. For that matter, clustering in space is neither
+necessary nor sufﬁcient evidence of policy diffusion: some policies (such as intellectual property policies)
+diffuse with little or no geographic clustering, and even geographically close adoptions of similar policies
+may be driven by exogenous factors (e.g., water conservation policies are likely to cluster because of
+exogenous environmental characteristics, not because of diffusion).
+
+The next section employs event history analysis to test the hypotheses described in this section, and to
+address the possibility that the alternative explanations just described might account for the pattern of
+adoptions observed.
+
+3 Quantitative Analysis
+Data
+The 14 countries that adopted such laws prior to 1990 are excluded because they were the very ﬁrst
+countries to create such intellectual property rights.6 These countries are highly developed and home to
+originator pharmaceutical ﬁrms, and thus face different considerations than the bulk of countries that
+adopted regulatory data protection after 1990.7 Additionally, I exclude seventeen countries with a 2012
+population of less than 250,000, since consistent time-series data on independent variables for these small
+countries are unavailable.8 The collected data cover 160 countries, with observations for the years from
+1990 to 2012. Country-year observations cease after a country adopts regulatory data protection, resulting
+in a total of 2,986 observations for most variables.
+
+Data for the dependent variable (i.e., whether a country adopts regulatory data protection or not) were
+gathered primarily from a series of reports published by the International Federation of Pharmaceutical
+Manufacturers and Associations (IFPMA), an international industry group for originator pharmaceutical
+ﬁrms.9 I supplemented these data with information from the WIPO Lex, an online database of WIPO
+member state laws (World Intellectual Property Organization, 2014c). I also gathered additional data from
+the United States Trade Representative Ofﬁce’s Special 301 annual reports (such reports often contain
+information on newly implemented intellectual property laws), the WTO Accession Commitments
+Database (which details the speciﬁcs of a country’s intellectual property laws at the time of accession), and
+several secondary sources discussing regulatory data protection legislation in speciﬁc regions (Bucknell,
+2011; Ceron and Godoy, 2009; Roffe et al., 2006; World Trade Organization, 2014a).10 While all WTO
+members are obligated to protect regulatory data from unfair commercial use, they are not required to
+create intellectual property rights in regulatory data. Thus, I deﬁne a dichotomous dependent variable,
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+9
+
+Gabriel J. Michael
+
+International Coercion and Data Protection
+
+coding as 0 countries that either do not have any law dealing with regulatory data, or only meet the TRIPS
+standard of protecting such data from unfair commercial use. I code as 1 countries that provide a
+TRIPS-plus level of protection, such as preventing any reliance on regulatory data for a set period of time.
+The minimum period observed is ﬁve years, the same as the period set in the US Hatch–Waxman Act, but
+some countries have offered protection lasting six years, ten years or even longer. However, wherever such
+protection exists, its substantive effect is similar: it prevents the entry of generic competitors to already
+approved drugs.
+
+I use the year of a law’s adoption, rather than its implementation, as there may be a gap of several years
+between adoption and implementation. When regulatory data protection is offered through self-executing
+treaty provisions, I use the date of the signing of the treaty, rather than its ratiﬁcation.11 In rare cases,
+countries provide private commitments to adopt laws protecting regulatory data, in the form of
+“assurances” or “understandings.” Because such commitments generally have limited legal effect, I do not
+include them in my dataset.
+
+Hypothesis 1 suggests that countries negotiating a trade or bilateral intellectual property agreement
+with the United States will be more likely to adopt regulatory data protection, due primarily to US
+coercion. If this hypothesis is true, I expect a signiﬁcant correlation between the presence of a US trade or
+bilateral intellectual property agreement and whether a country adopts regulatory data protection. To
+account for the potential inﬂuence of US trade agreements, I include a dichotomous, time-varying variable,
+coded as 0 in years prior to the year in which an agreement was signed, and coded as 1 thereafter. I collected
+data on these agreements primarily from the World Bank, supplemented with information from the Ofﬁce
+of the United States Trade Representative and secondary sources. I include full-ﬂedged free trade
+agreements, which cover virtually all areas of trade, as well as more speciﬁc bilateral intellectual property
+agreements. I do not include Trade and Investment Framework agreements (TIFAs), as these agreements
+are more vague and less comprehensive than either full trade agreements or bilateral intellectual property
+agreements. Out of the 160 countries in the dataset, 24 had trade or intellectual property agreements with
+the United States.
+
+Hypothesis 2 suggests that countries negotiating accession to the EU will be more likely to adopt
+regulatory data protection, due primarily to EU coercion. As above, if this hypothesis is true, I expect a
+signiﬁcant correlation between a country’s status as an EU applicant and whether it adopted such laws.
+Thus, I include a dichotomous, time-varying variable, coded as 0 in years prior to the ﬁrst year in which a
+country applied for EU membership, and coded as 1 thereafter.
+
+In order to test for any effect of WTO membership on a country’s likelihood of protecting regulatory
+data, I include a dichotomous, time-varying variable indicating a country’s membership status in a given
+year (World Trade Organization, 2014b). Of course, correlations between this variable and the dependent
+variable could implicate mechanisms of diffusion other than the inﬂuence of an international organization;
+for example, the WTO’s accession process allows powerful incumbents like the United States the
+opportunity to extract costly concessions from prospective members (Jones, 2009). However, it also
+empowers weak member states by allowing them to block the accession of prospective members, for
+example, Georgia’s opposition to Russia’s accession (Schneider and Urpelainen, 2012).
+
+To account for the possibility that states protect regulatory data in order to promote economic
+development, I include measures of logged GDP per capita, based on World Bank data (World Bank,
+2014). I considered a variety of measures that could be expected to correlate with domestic innovative
+capacity, such as a dichotomous measure of pharmaceutical research and development capacity provided
+by the World Health Organization (WHO), as well as the number of pharmaceutical patents granted in a
+country. In theory, countries with high innovative capacity would have more reason to adopt laws
+protecting regulatory data than those that lack innovative capacity. Detailed time-series cross-sectional
+data on the pharmaceutical industry is difﬁcult to obtain; ultimately I chose to include the logged number of
+
+10
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+International Coercion and Data Protection
+
+Gabriel J. Michael
+
+patent applications made by a country’s residents as a potential measure of domestic innovative capacity.
+WIPO collects patent data from its members states; however, patent application data are available only for
+1,154 country-year observations, or 39% of the total observations (World Intellectual Property
+Organization, 2014a). As a result, I only include this variable in an alternate model.
+
+In order to test for the possibility of inﬂuence by international organizations, I create a variable that
+counts the number of WIPO technical assistance activities occurring in a country during a given year.12
+Because WIPO conducts a large variety of training missions on many topics, I limited consideration to
+activities that speciﬁcally mentioned pharmaceuticals as well as general or patent-related TRIPS
+implementation. Since protecting regulatory data (at least from “unfair commercial use”) is an important
+TRIPS implementation topic, it is likely to have been discussed during general TRIPS implementation
+assistance activities. WIPO’s data on technical assistance only covers years from 2000 to the present. For
+years prior to 2000, I assume that no relevant training activities took place for two reasons. First, such
+activities would only have been relevant after 1995, when the WTO’s TRIPS came into force. Second, both
+developing countries (which under WTO rules designate themselves) and former communist countries had
+no obligation to apply most of TRIPS, including article 39.3, which discusses regulatory data, until 2000.
+As discussed, the theoretical case for spatial correlation between adopters of the laws I consider is
+weak, although I might observe geographical clustering among EU applicants. In order to account for
+geographical effects, I create a variable indicating the number of contiguous countries that have adopted
+similar laws in a prior year.13 This variable captures the intuitive deﬁnition of “neighbor”; in contrast,
+using the proportion of neighbors might understate the inﬂuence of contiguous adopters for countries with
+many neighbors. In any case, I experiment with alternative speciﬁcations of this variable, which I discuss
+as part of my robustness checks.
+
+Table 1 summarizes the variables, units and data sources used in the regressions, and Table 2 presents
+
+summary statistics for these variables.
+
+Model
+My quantitative analysis employs event history analysis, otherwise known as survival regression. Event
+history analysis is a standard technique for the quantitative analysis of diffusion widely used across
+subﬁelds of political science (Berry and Berry, 1990; Bush, 2011; Francesco, 2012; Kim, 2013; Shipan and
+Volden, 2006; Sugiyama, 2008; Tucker et al., 2012). Event history analysis permits inferences about the
+inﬂuence of covariates on the probability of some event occurring, allows for the incorporation of time-
+varying covariates, and handles right-censored data (i.e., units in which the event of interest did not occur
+
+Variable
+Regulatory data protection
+GDP per capita
+Polity score
+I membership
+EU applicant
+Patent applications
+US trade or IP agreement
+WIPO assistance
+Contiguous adopters
+
+Table 1: Description of Regression Variables
+
+Unit
+
+Binary dummy
+
+Logged inflation-adjusted US dollars
+Score ranging from  10 to þ10
+
+Binary dummy
+Binary dummy
+
+Logged (Integer 0þ 1)
+
+Binary dummy
+Integer 0
+Integer 0
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+Source
+Original
+
+World Bank
+
+Marshall (2013)
+
+WTO
+
+European Union
+
+WIPO
+
+World Bank, etc.
+
+WIPO
+Original
+
+11
+
+Gabriel J. Michael
+
+International Coercion and Data Protection
+
+Table 2: Summary Statistics
+
+Variable
+Regulatory data protection
+GDP per capita
+Polity score
+WTO member
+EU applicant
+Patent applications
+US trade or IP agreement
+WIPO assistance
+Contiguous adopters
+
+n
+
+2986
+2754
+2698
+2986
+2986
+1154
+2986
+2986
+2986
+
+Min.
+
+0
+4
+ 10
+0
+0
+1
+0
+0
+0
+
+x
+0
+7
+4
+1
+0
+5
+0
+0
+0
+
+x
+
+0
+7
+2
+1
+0
+5
+0
+0
+0
+
+Max
+
+1
+11
+10
+1
+1
+11
+1
+4
+9
+
+s
+0
+1
+6
+0
+0
+2
+0
+0
+1
+
+#NA
+
+0
+232
+288
+0
+0
+
+1832
+
+0
+0
+0
+
+during the entire period of observation) (Box-Steffensmeier and Jones, 2004). In this article, the event is
+the adoption of a TRIPS-plus intellectual property law protecting regulatory data. Because I have no
+reason to expect any particular pattern of diffusion, I avoid using a parameterized hazard function, instead
+opting for the Cox proportional hazards model. All independent variables are lagged by one year in order to
+ensure that changes in covariates come before changes in the dependent variable (Box-Steffensmeier and
+Jones, 2004, p. 110).
+
+Regression
+Table 3 presents the results of the event history analysis for three different models. The table reports log
+hazard coefﬁcients, with robust standard errors in parentheses. Robust standard errors are calculated to
+account for clustering among groups of related observations (countries) (Box-Steffensmeier and Jones,
+2004, p. 115). Log hazard coefﬁcients less than zero mean that an increase in a variable is associated with
+a decreased probability of a country adopting a law protecting clinical trial data. Conversely, log hazard
+coefﬁcients greater than zero mean that an increase in a variable is associated with an increased probability
+of adoption. A log hazard coefﬁcient of exactly zero would indicate that a variable has no effect on the
+probability of adoption.
+
+Model 1 includes typical control variables: logged GDP per capita, a country’s Polity score, and a
+country’s WTO membership. In this simple model, higher GDP per capita is correlated with an increased
+likelihood of protecting regulatory data. This ﬁnding is unsurprising, given that developed economies in
+general tend to provide stronger intellectual property protection (Ginarte and Park, 1997). While a
+country’s Polity score is also statistically signiﬁcant in this model, the substantive effect of the variable is
+quite small. WTO membership is insigniﬁcant, which lends support to the claim that TRIPS obligations
+cannot logically explain why countries offer TRIPS-plus protection for regulatory data.
+
+Model 2 adds several additional variables. The effect of EU applicant status and US trade and bilateral
+intellectual property agreements, both chosen to indicate potential coercion as discussed in hypotheses
+1and 2, are far and away the most substantively and statistically signiﬁcant variables. Both factors are
+associated with large increases in the probability that a country will protect regulatory data. As in Model 1,
+logged GDP per capita remains positive and statistically signiﬁcant, although the effect weakens. A
+country’s polity score is no longer statistically signiﬁcant. As before, WTO membership remains
+insigniﬁcant. The variable counting WIPO technical assistance missions is also insigniﬁcant. However,
+the number of contiguous adopters, chosen to indicate the possibility of mimicry between geographical
+neighbors, has a small positive and statistically signiﬁcant effect. Model 2 also ﬁts the data far better than
+Model 1, as indicated by the log likelihood, likelihood ratio tests and Akaike information criteria.
+
+12
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+International Coercion and Data Protection
+
+Gabriel J. Michael
+
+Table 3: Cox Proportional Hazards Models with Time-Varying Covariates
+
+Coefficient
+GDP per capita
+
+Polity IV
+
+WTO member
+
+EU applicant
+
+US FTA
+
+WIPO technical assistance
+
+Contiguous adopters
+
+Patent applications
+
+AIC
+Num. of events
+Num. of obs.
+Log likelihood
+Likelihood ratio
+
+
+
+
+p < 0.001.
+p < 0.01.
+p < 0.05.
+
+Model 1
+
+
+0.73
+(0.10)
+
+0.08
+(0.03)
+0.53
+(0.46)
+
+Model 2
+
+
+0.39
+(0.14)
+ 0.01
+(0.03)
+0.56
+(0.50)
+2.15
+(0.39)
+2.93
+(0.40)
+0.51
+(0.40)
+
+0.35
+(0.12)
+
+
+
+
+
+422.70
+52
+2518
+ 208
+73.74
+
+356.10
+52
+2518
+ 171
+148.34
+
+
+
+
+
+Model 3
+
+
+0.46
+(0.20)
+ 0.07
+
+(0.03)
+1.22
+(0.64)
+1.80
+(0.40)
+2.17
+(0.51)
+
+0.90
+(0.45)
+0.16
+(0.14)
+0.14
+(0.11)
+265.90
+43
+1062
+ 125
+87.44
+
+Model 3 modiﬁes Model 2 by incorporating one additional variable indicating the logged number of
+patent applications from a country’s residents. This variable serves to indicate domestic innovative
+capacity. Because data are not available for all observations, the total number of observations declines
+signiﬁcantly, although only nine events are lost. In Model 3, both variables chosen to test hypotheses 1 and
+2 remain positive, large, and statistically signiﬁcant. Logged GDP per capita also remains positive and
+statistically signiﬁcant. In contrast, the variables selected as indicators of the inﬂuence of international
+organizations and mimicry swap statistical signiﬁcance: WIPO technical assistance just crosses the
+threshold of signiﬁcance, while the number of contiguous adopters is no longer signiﬁcant.
+
+To summarize the results of all three models, the two variables with large, positive and statistically
+signiﬁcant effects are those indicating whether a country is an EU applicant, and whether it has a trade or
+bilateral intellectual property agreement with the United States. Increases in logged GDP per capita are
+consistently correlated with a higher likelihood of protecting regulatory data, while neither Polity scores
+nor a country’s WTO membership have any clear effect. Alternative explanations, such as the argument
+that countries might protect regulatory data in order to spur domestic innovation, as a result of the inﬂuence
+of international organizations or because they are mimicking the policies of neighboring countries, ﬁnd
+little statistical support in these models: variables measuring domestic pharmaceutical patent applications,
+WIPO technical assistance missions and the number of neighbor adopters have no clear or consistent
+effects.
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+13
+
+Gabriel J. Michael
+
+International Coercion and Data Protection
+
+Variable
+GDP per capita
+
+EU applicant
+
+Table 4: Hazard Rates for Model 2
+
+Description
+
+One unit change
+
+(increase in logged GDP per capita)
+
+From 0 to 1
+
+(from non-applicant to EU applicant)
+
+US trade agreement
+
+From 0 to 1
+
+(from no agreement to U.S. trade agreement)
+
+
+
+
+
+p < 0.001.
+p < 0.01.
+p < 0.05.
+
+Change
+
+
+
+
+48%
+(13%, 93%)
+757%
+(300%, 1733%)
+1780%
+(755%, 4032%)
+
+
+
+Log hazard coefﬁcients are difﬁcult to directly interpret. To ease interpretation, Table 4 reports the
+percentage increase in the likelihood that a country will adopt a law protecting regulatory data, given a one-
+unit change in a speciﬁc independent variable. Table 4 includes only the three independent variables with
+consistent substantively and statistically signiﬁcant coefﬁcient estimates.
+
+The likelihood that a country will protect regulatory data increases dramatically if the country has a
+trade or bilateral intellectual property agreement with the US. Such a country is over eighteen times
+more likely to offer this TRIPS-plus protection than a country without such an agreement. EU
+applicants are also signiﬁcantly more likely to protect regulatory data, over eight times more likely than
+countries that are not EU applicants. Logged GDP per capita also have a positive effect, although it is
+dwarfed by the dummy variables for US agreements and EU applicants. For a one-unit change in logged
+GDP per capita, a country is 48% more likely to protect regulatory data. The precise estimates for these
+effects should be viewed within the context of their conﬁdence intervals, reported below the estimates
+in parentheses. Even when considering the low end of the 95% conﬁdence interval, the effects remain
+substantively signiﬁcant.
+
+Robustness Checks
+My ﬁnding of large, positive, statistically signiﬁcant correlations between US trade and bilateral
+intellectual property agreements, EU applicants, and the likelihood of adopting laws protecting regulatory
+data are robust to a variety of changes in assumptions about the data and models. None of the models
+violate the proportional hazards assumption that is core to estimating Cox proportional hazards models.
+The observed effects remain even when expanding the dataset to cover the years back to 1984, and even
+when including a number of states with small populations of less than 250,000.
+
+In alternative model speciﬁcations, I included additional variables to denote the presence of free trade
+agreements with the EU and Japan, since such agreements might present the same opportunities for
+coercion that I hypothesize exist in US trade and bilateral intellectual property agreements. However,
+neither EU nor Japanese trade agreements produced any signiﬁcant effect in these alternative models, and
+did not substantively alter my ﬁndings.
+
+To test the robustness of my geographical contiguity variable, I experimented with deﬁning a similar
+dichotomous variable based on proximity between countries. Countries that had already protected
+regulatory data and were closer than a critical threshold value of distance were counted as neighbors.
+Various speciﬁcations of this critical value produced no signiﬁcant difference in the models.
+
+In addition to observing the number of WIPO technical assistance events for a given country-year, I
+experimented with keeping a running total of all such events for a given country. If repeated exposure to
+
+14
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+International Coercion and Data Protection
+
+Gabriel J. Michael
+
+such events over time had a stronger effect than a just a few events, such a running total might have been
+statistically signiﬁcant. However, this alternate speciﬁcation produced no signiﬁcant differences.
+
+4 Qualitative Analysis
+Both US trade and bilateral intellectual property agreements and EU applicant status are strongly
+correlated with an increased likelihood that a country will adopt new intellectual property laws protecting
+regulatory data, even when controlling for a variety of other factors and including variables to account for
+alternative explanations. US trade agreements and EU accession agreements generally explicitly spell out
+obligations involving regulatory data protection. Thus, the strong effects of these dummy variables are not
+necessarily surprising. However, the fact that a trade or accession agreement imposes an obligation on a
+country does not by itself provide any evidence that the country was coerced into adopting a law to fulﬁll
+the obligation. The results of the event history analysis models thus provide a preliminary, but incomplete
+case for hypotheses 1 and 2.
+
+This section uses qualitative data to explore the precise causal mechanisms at work. I rely heavily on
+State Department diplomatic cables released by WikiLeaks. Beginning in February 2010, and continuing
+until September 2011, WikiLeaks, a non-proﬁt organization devoted to publishing leaked information
+from whistleblowers, released over a quarter million internal diplomatic cables sent between the US
+Department of State’s headquarters, embassies, consulates and other missions around the world. The
+earliest cables date from 1966, and the most recent from 2010, although the vast majority of the cables date
+from about 2000 to 2010. Based on these leaked diplomatic cables, as well as public EU accession
+documents, I show that the statistical correlations identiﬁed in the previous section represent instances of
+US and EU coercion.
+
+Trade Agreements with the United States: The US–Oman FTA
+Models 2 and 3 suggest that if a country has a trade agreement or bilateral intellectual property agreement
+with the United States, it will be more likely to offer IP protection for regulatory data. While such an
+association could indicate coercion on the part of the United States, statistical relationships alone do not
+offer enough evidence. I employ process tracing to determine whether and how such agreements lead to
+countries adopting these laws. Speciﬁcally, I examine interactions between the US and Omani
+governments leading to the conclusion of the US–Oman Free Trade Agreement. Oman adopted regulatory
+data protection legislation in 2008, immediately prior to the US–Oman FTA entering into force.
+
+Oman’s adoption of regulatory data protection is an archetypical case of coercive policy diffusion.
+Oman became a WTO member in November 2000. Prior to a country’s joining the WTO, the WTO’s
+General Council establishes a working party to study the accession request. Working parties are formally
+open to all current WTO members, and when large countries request to join the WTO, working parties may
+consist of many WTO members. However, for smaller countries, working parties usually only consist of a
+few speciﬁc WTO members: the United States, the EU, Canada, Japan, Australia, New Zealand,
+Switzerland, perhaps a few large developing countries (e.g., Brazil and India) and WTO members that are
+neighbors of the acceding country (Michalopoulos, 1999, p. 5).
+
+institutions,
+
+The prospective WTO member must prepare a memorandum explaining its current policies and
+government
+including in areas beyond trade. Working party members examine this
+memorandum and ask questions of the prospective member, a process which can take years. Negotiations
+on tariff levels take place, ﬁrst when the prospective member submits an initial offer to the working party,
+and later in bilateral negotiation between the prospective member and any current WTO member that
+wants to engage in such negotiations. Finally, when negotiations are complete, the WTO secretariat
+produces a draft accession report that must be approved by the working party. This report contains the
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+15
+
+Gabriel J. Michael
+
+International Coercion and Data Protection
+
+agreed-upon commitments established during the negotiations with the acceding country. If approved by
+the working party, the report is sent for formal approval to the General Council, and the country can ﬁnally
+sign an accession protocol (Michalopoulos, 1999, p. 9).
+
+Working party reports contain details of the questions asked by working party members, as well as the
+answers and clariﬁcations provided by prospective WTO members. Thus, in addition to the detailed
+schedules of tariff rates, these reports serve as a record of the commitments prospective WTO members
+have made. In some cases, working party reports contain commitments made by prospective members that
+go beyond the minimum obligations required of WTO members. For example, working party reports
+sometimes contain commitments by prospective WTO members to implement TRIPS-plus policies, even
+though WTO membership only requires TRIPS-compliant policies. Strong data exclusivity is a prime
+example of such a TRIPS-plus commitment that sometimes appears in WTO working party reports,
+although broader “WTO-plus” commitments also exist (Qin, 2003).
+
+Oman’s WTO accession working party report contains no mention of regulatory data protection at all;
+thus, there is no evidence it was requested or committed to provide TRIPS-plus standards of protection at
+the time of its accession. On the contrary, in May 2000, Oman passed an intellectual property law clearly
+aimed at complying with its TRIPS obligations prior to joining the WTO that did not offer an exclusive
+intellectual property right for regulatory data (World Intellectual Property Organization, 2000, article 34).
+Bilateral trade negotiations between the United States and Oman began in March 2005 and ended in
+September 2005, although the FTA did not enter into force until January 2009 (United States Trade
+Representative, 2005). In contrast to Oman’s accession to the WTO, the US–Oman FTA contains
+provisions requiring both parties to offer strong data exclusivity (United States Trade Representative,
+2009, article 15.9). Though it already had had TRIPS-compliant provisions regarding regulatory data since
+2000, Oman passed a new intellectual property law in May 2008. The new law offered TRIPS-plus
+protection for regulatory data, and the language of the new law mirrors the language found in the
+US–Oman FTA (World Intellectual Property Organization, 2008, section 65(4)).
+
+This timeline alone strongly suggests that the only reason Oman adopted strong data exclusivity was
+to satisfy US demands pursuant to the negotiation of an FTA. However, a series of diplomatic cables from
+the US Embassy in Muscat sent between 2007 and 2008 provide additional evidence to support this
+conclusion. FTA negotiations included speciﬁc discussions about IP protection for regulatory data. A
+cable dated 26 February 2007 explains:
+
+The Omani government has worked extensively with USG [United States government]
+counterparts to revise its already strong intellectual property regime in advance of the
+implementation of the FTA . . . Oman will also improve enforcement and protection of
+undisclosed test data from unfair commercial use (US Department of State, 2007b).
+
+However, Oman did not want to offer TRIPS-plus protection for regulatory data. A cable dated 8
+August 2007 reports that the Omani Commerce and Industry Minister Maqbool bin Ali Sultan “again
+relayed his concern that the USG was treating Oman differently from other FTA partners with respect
+to data protection,” (US Department of State, 2007a).14 Meanwhile, an Omani ofﬁcial in the Ministry of
+Health expressed concern about the impact of the FTA on pharmaceutical prices in Oman, noting that
+Oman provides healthcare free of charge to its citizens (US Department of State, 2007a). Another cable
+reports that
+the Omani government
+eventually lost its way, becoming frustrated with what was viewed as unreasonable U.S. demands” and
+notes that “Oman’s fear that the FTA’s strong intellectual property protections would impede its ability
+to obtain needed pharmaceutical products” was a “major sticking point,” (US Department of State,
+2008a).
+
+in the process of “developing FTA-compliant regulations,
+
+16
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+International Coercion and Data Protection
+
+Gabriel J. Michael
+
+FTA negotiations had a direct impact on Omani domestic law. In a cable dated September 5, 2007
+discussing a meeting between US Ambassador to Oman Gary Grappo and the Omani Minister of
+Commerce and Industry Maqbool bin Ali Sultan, embassy staff write “The Ambassador reminded the
+Minister that USTR would not be able to accept Oman’s data protection language as drafted in its industrial
+property law . . . Maqbool promised to discuss this request with the Minister of Health,” (US Department of
+State, 2007c). By February of 2008, the embassy reported “Oman will also improve enforcement and
+protection of undisclosed test data from unfair commercial use. Both revised laws, which included input
+from the USG, are undergoing ﬁnal review,” (US Department of State, 2008b).
+
+Given this evidence, it is safe to say that Oman adopted TRIPS-plus regulatory data protection as a
+concession to demands from the US government. Oman already had a TRIPS-compliant law in place. Only
+after it completed trade negotiations with the United States did it adopt a strong data exclusivity law. These
+negotiations included explicit demands from the United States to change its law, demands that were met
+with resistance from multiple Omani government ofﬁcials. In the face of continued US pressure, Oman
+eventually capitulated and adopted a new law offering TRIPS-plus protection for regulatory data.15
+
+European Union Membership
+Models 2 and 3 identiﬁed EU applicant status as another substantively and statistically signiﬁcant factor
+associated with a country’s likelihood of adopting regulatory data protection. Virtually all applicants to the
+EU adopt regulatory data protection after applying, but prior to joining. Of the 25 post-1986 EU applicants,
+21 follow this pattern. From a legal perspective, this is hardly surprising. As a condition of membership,
+states acceding to the EU must implement the acquis communautaire, that is, the body of EU law. Since
+regulatory data protection is part of the acquis, new members must offer such protection.
+
+However, simply because EU members are required to adopt regulatory data protection does not
+necessarily mean that EU membership caused them to adopt it. Other factors may be responsible. EU
+members or applicants might choose to adopt regulatory data protection for independent reasons, such as
+to support a domestic pharmaceutical industry that could beneﬁt from the policy. Furthermore, the
+requirements of EU membership do not necessarily explain why EU applicants adopt regulatory data
+protection when accession is still years away. On average, EU applicants that eventually join the EU adopt
+regulatory data protection approximately four years before acceding.
+
+EU accession documents provide evidence that the EU accession process is a driving force behind the
+diffusion of regulatory data protection. During the period leading up to EU accession, the EU observes,
+advises and reports on future members’ steps toward transposing the acquis into national law. EU
+enlargement reports demonstrate that the European Commission (the executive branch of the EU)
+carefully reviews applicants’ steps toward adopting regulatory data protection. Commission documents
+speciﬁcally mention the issue when discussing the accessions of Poland, Slovakia, Slovenia and Croatia.
+For example, in 2001, the Commission bemoaned Poland’s lack of progress:
+
+In the ﬁeld of pharmaceuticals, the framework Law on Pharmaceuticals was adopted in
+September 2001. This law will enter into force in January 2002, with exception of some
+provisions which will come into force at the date of accession. With respect to data exclusivity,
+this delayed entry into force will create serious difﬁculties in the short term (European
+Commission, 2001).
+
+Later Commission reports on Slovakia’s and Slovenia’s accession progress identify the national laws
+transposing the acquis’s regulatory data protection provisions. Commission reports also highlight
+instances in which EU applicants have failed to make adequate progress. For example, a Commission
+report on Croatia’s accession explained that even though Croatia had a relevant law on the books, “further
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+17
+
+Gabriel J. Michael
+
+International Coercion and Data Protection
+
+efforts are needed to achieve full alignment in particular as regards data exclusivity in pharmaceutical
+products, veterinary medicinal products and pre-packaging,” (European Commission, 2012). The
+Commission’s monitoring report on Hungary’s accession includes similar
+remarks (European
+Commission, 2003).
+
+There is no evidence to suggest that EU applicants wanted to adopt regulatory data protection for
+internal reasons. On the contrary, US State Department diplomatic cables offer an outsider’s perspective
+on the EU accession process. These cables consistently report that EU applicants were in no hurry to
+implement regulatory data protection, and in some cases applicants took active steps to delay
+implementation. Thus, I cannot attribute adoption to domestic demand, competitive pressures, policy
+learning or imitation.
+
+For example, in 2005, the US embassy in Bratislava complained that Slovakian government had been
+storing clinical trial data in the ofﬁces of a generic pharmaceutical ﬁrm for years (US Department of State,
+2005a). Embassy staff implied that by making this data available to others, the Slovakian government
+actively aided a local generic pharmaceutical ﬁrm. The US Trade Representative repeated this claim in its
+2005 Special 301 Report. The United States removed Slovakia from the Special 301 Watch List in 2006,
+citing improvements in the protection of clinical trial data. However, these improvements cannot be
+attributed to US pressure. Slovakia had been on the Special 301 Watch List every year since 2001. Rather,
+the improvements came about as a result of Slovakia’s implementation of EU accession requirements.
+Another US diplomatic cable from Bratislava conﬁrms this timeline: “In a very positive step, [the
+Slovakian] parliament approved the Amendment to the Medicines Act . . . the section of the amendment
+transposing the EU Directive on data exclusivity also passed without any changes,” (US Department of
+State, 2006c).
+
+Several other US diplomatic cables conﬁrm that when EU applicants adopt regulatory data protection,
+they do so almost entirely as a result of their obligations to the EU, and not due to any other factors. A US
+diplomatic cable from Warsaw reported that as late as 2007, Poland, Lithuania, Malta and Hungary were
+all seeking to delay the implementation of a recently adopted EU directive extending periods of protection
+for regulatory data. Poland led the revolt, arguing that since the EU had adopted the directive a month prior
+to its accession, Poland had had no input, and thus was entitled to resist implementation of the directive.
+The US embassy noted that Poland’s goal was “to decrease drug prices as quickly as possible by
+introducing generic competition,” (US Department of State, 2007d).
+
+For EU applicants, the pattern is clear: these countries adopt regulatory data protection sometime
+between their date of application to the EU and their date of accession. The European Commission
+carefully monitors progress towards compliance with the acquis. While the United States may try to
+persuade EU applicants to speed up their adoption of this protection, the obligations of EU accession are
+the motivating factor. These obligations are coercive because they require states to adopt a policy that they
+would not otherwise have chosen to adopt. The absence of evidence pointing to any domestic interest in
+regulatory data protection, combined with the evidence that EU applicants actively sought to resist or delay
+implementation of such protection, strengthens the case for coercive diffusion.
+
+Alternative Explanations
+While the regression results do not clearly support any alternative explanations, I sought out qualitative
+evidence for other mechanisms of diffusion, which I address in this section.
+
+Neither diplomatic cables nor any other qualitative data provide much evidence that competitive
+considerations played an important role in whether or not a country adopted regulatory data protection.16
+Among the relatively few countries in the dataset that have a strong domestic pharmaceutical industry, that
+industry is primarily generic. Countries with major originator pharmaceutical industries were the earlier
+adopters of regulatory data protection and do not feature in the dataset. Since regulatory data protection is
+
+18
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+International Coercion and Data Protection
+
+Gabriel J. Michael
+
+generally a commercial impediment for generic pharmaceutical ﬁrms, I would expect such ﬁrms and their
+host countries to oppose such protection, since doing so will convey a competitive advantage to the
+domestic generic industry. This was the case in Jordan. Even years after it concluded its FTA with the
+United States, US diplomatic cables report that Jordan continued to narrowly interpret its FTA obligations,
+including the provisions regarding regulatory data, a tactic supported by the Jordanian pharmaceutical
+industry (US Department of State, 2004, 2006a).
+
+On the other hand, even if regulatory data protection poses a competitive disadvantage to generic
+domestic pharmaceutical industries, countries may accept such provisions because other aspects of the
+FTA prove beneﬁcial to them. For example, in mid-2006 Peru’s domestic pharmaceutical industry
+completely changed its position on the US–Peru Trade Promotion Agreement. Although it had initially
+opposed the agreement, and still opposed the data protection provisions, on 9 May 2006, the Peruvian
+Pharmaceutical Association announced that it supported the PTPA. Struggling to explain the position
+change, the US Embassy in Lima spoke with the former president of the association, who “indicated that
+several of ADIFAN’s larger members saw the FTA as an opportunity to do business with American
+pharmaceutical companies and thus tacitly supported the FTA. ADIFAN’s position change might reﬂect
+the power that these larger companies have over the smaller ones,” (US Department of State, 2006b).
+As for other mechanisms of diffusion, the diplomatic cables offer some insight into the potential role
+of constructivist explanations and learning. Constructivists studying diffusion frequently point to the role
+of social ties between policymakers (Finnemore, 1993). Such ties may come from shared educational
+experiences, shared participation in professional networks or epistemic communities, or other forms of
+contact (Dobbin et al., 2007). Along these lines, US State Department diplomatic cables sometimes
+speciﬁcally call out biographical notes of elites that presumably might make them more sympathetic to US
+policy preferences. For example, a cable from the US Embassy in Amman reports that eleven alumni of a
+US exchange program had recently been appointed as members of the Jordanian Senate. One of these,
+Dr. Aref Batayneh, a former minister of health, had participated in a “Voluntary Visitor Program on IPR,
+Patent Protection for Pharmaceutical products in 1996,” run by an unnamed US agency (US Department of
+State, 2003).
+
+However, mere existence of such ties does not necessarily indicate that participants are sympathetic to
+the US position. For example, Santiago Roca, the President of Indecopi, Peru’s IP administrative agency,
+earned a Ph.D. in economics from Cornell University. One might assume that a western education in
+economics or law could socialize students, including those coming from developing countries, to be
+favorable toward intellectual property. Yet under Roca, Indecopi was vehemently opposed to the PTPA,
+going so far as to suggest that the entire intellectual property chapter be dropped from the FTA negotiations
+(US Department of State, 2005b).
+
+With respect to learning, there is evidence of at least one case in which a country welcomed technical
+assistance from the US on regulatory data protection. Diplomatic cables from the US Embassy in Riyadh
+indicate that Saudi Arabia was extremely receptive to US positions. One cable discusses a workshop that
+took place in June 2009, and “was considered a success by Saudi agencies including the Saudi Food and
+Drug Authority (SFDA) and King Abdulaziz City for Science and Technology (KACST) Patent Ofﬁce.”
+In fact, the workshop was so successful that the Saudi government requested an additional one. The cable
+goes on to note that the Saudi ofﬁcial responsible for IP rights
+
+. . . said his government wanted to learn best practices for DE [data exclusivity] protection
+from the United States, European Union, and other countries . . . The Saudi government has
+made it very clear there is an open door for DE-related training with both the USG and the
+private sector, which they want to use to shape Saudi implementation of its DE protection (US
+Department of State, 2009).
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+19
+
+Gabriel J. Michael
+
+International Coercion and Data Protection
+
+Episodes like this one suggest that training and technical assistance may play some role in the
+diffusion of regulatory data protection around the world. Saudi Arabia had already adopted strong data
+exclusivity in 2005 as part of its WTO accession agreement, so it is not possible to conclude that US
+trainings in 2009 played a causal role in the policy adoption. However, even if regulatory data protection
+had been demanded by the United States as a condition of Saudi Arabia’s WTO accession, the Saudi
+government may have been happy to accept such a condition.
+
+These vignettes provide limited evidence for alternative mechanisms of diffusion. But when
+compared to the evidence documenting signiﬁcant coercive pressures exerted by the United States and EU,
+I conclude that alternative mechanisms were negligible in the diffusion of regulatory data protection.
+
+5 Conclusion
+This article traces the diffusion of regulatory data protection from 14 highly developed countries in 1980s,
+to 60 additional countries today. The event history analysis indicated that both US trade agreements and
+EU applicant status are strongly correlated with an increased likelihood of adopting regulatory data
+protection, even when controlling for other factors. Exploring these broad ﬁndings through qualitative
+analysis, I found signiﬁcant evidence of coercion through US FTA and EU accession negotiations.
+
+In contrast, alternative explanations ﬁnd limited support. WTO membership cannot explain why
+countries have adopted TRIPS-plus interpretations of TRIPS provisions. While there is a correlation
+between a country’s level of economic development and its likelihood of protecting regulatory data, this
+relationship is dwarfed by the effects of US and EU coercion. Anecdotal evidence may support
+explanations relying on socialization of elites or learning, but these explanations ﬁnd no basis in the
+quantitative analysis.
+
+General correlations between economic development and stronger intellectual property rights can
+give the impression that developed countries choose to offer stronger intellectual property rights. Yet as
+my ﬁndings indicate, there may be far more political causes that lead to the adoption of strong intellectual
+property rights. Absent US and EU coercion, far fewer countries around the world would offer regulatory
+data protection. Without such protection, generic ﬁrms would be able to market drugs sooner and at lower
+costs, generating signiﬁcant savings for both public and private purchasers.
+
+terms, does not represent an international consensus, but
+
+This suggests that the widespread adoption of other TRIPS-plus provisions, such as extended
+is instead driven by similar
+copyright
+mechanisms of coercion. Coercive diffusion has been a longstanding feature of international intellectual
+property law (Sell, 1995). For that matter, coercion can be employed in other policy areas, such as human
+rights and labor standards (Hafner-Burton, 2005; Postnikov and Bastiaens, 2014).
+
+While coercion can be employed in the service of normatively desirable goals, as I have shown, it can
+also be employed to advance the interests of foreign industries, to the detriment of domestic industries and
+public health. This adds to a growing body of evidence demonstrating that policy diffusion is not always
+beneﬁcial (Shipan and Volden, 2012). While scholars of diffusion have focused on other forms of
+coercion, coercive diffusion that makes use of threats is easily masked as mere bargaining. In reality, gross
+power imbalances between states effectively allow more powerful states to dictate the domestic policy of
+weaker states.
+
+About the Author
+Gabriel J. Michael, is a visiting fellow at the Information Society Project, Yale Law School, New Haven,
+CT; E-mail: gabriel.j.michael@gmail.com
+
+20
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+International Coercion and Data Protection
+
+Gabriel J. Michael
+
+Notes
+I would like to thank Susan Sell, Henry Farrell, Steven Balla, Eric Lawrence, Sean Flynn, Jack Balkin, the
+resident fellows of the Information Society Project and an anonymous reviewer for their helpful comments
+on earlier drafts of this article.
+1 For example, Jandhyala et al. (2011); Solıs et al. (2009). Simmons et al. (2008, p. 13) do mention that trade
+negotiations with the United States or the European Union might serve as “moments of vulnerability” that could
+affect the timing of liberalization, but they do not empirically explore the possibility.
+2 On sanction threats, see Drezner (2003); Lacy and Niou (2004); Whang et al. (2013).
+3 Loan conditionality is widely cited as a coercive mechanism of diffusion (Braun and Gilardi, 2006; Dobbin et al.,
+2007; Elkins et al., 2006; Jandhyala et al., 2011; Sharman, 2008; Simmons et al., 2006; Weyland, 2005), but also
+widely criticized, since “conditionality” may in fact be desired or even instigated by domestic policymakers, who
+may beneﬁt from shifting blame for unpopular but necessary policy changes to external actors (Drazen, 2002;
+Vreeland, 2003; Weyland, 2005). Conditionality also takes place in regional and national contexts (Braun and
+Gilardi, 2006; Shipan and Volden, 2012). On hierarchical or vertical coercion, see Bulmer and Padgett (2005);
+Daley and Garand (2005); and Shipan and Volden (2008). For various forms of “soft coercion,” see Gruber (2000);
+Schelling (1960); and Volden (2006). For constructivist accounts of coercive diffusion, see Goodman and Jinks
+(2004); Mintrom and Vergari (1998); and Sharman (2008).
+
+4 While the European Union’s free trade and economic partnership agreements also generally require parties to
+
+protect regulatory data, most of these parties have already been obliged by a prior agreement to do so.
+
+5 For example, European Commission (2014); United States Trade Representative (2014).
+6 These countries are the United States (1984) and the members states of the European Union as of 1986 (Belgium,
+Denmark, France, Germany, Greece, Ireland, Italy, Luxembourg, the Netherlands, Portugal, Spain and Great
+Britain). Japan is also excluded; while it does not explicitly offer an intellectual property right for regulatory data, it
+created a system with similar effects in 1979. Japan is home to several large originator pharmaceutical ﬁrms,
+although none rank among the world’s largest dozen.
+
+7 However, I add these countries back into the dataset as part of my robustness checks.
+8 The countries consist of Caribbean and Paciﬁc island nations, as well as Andorra and Liechtenstein.
+9 The most recent report is publicly available (International Federation of Pharmaceutical Manufacturers and
+
+Associations, 2011). I obtained older reports directly from the IFPMA.
+
+10 For a complete archive of Special 301 reports, see Knowledge Ecology International (2014).
+11 The logic in using the earlier date is that commitment or treaty signing represents the decision of a state to adopt the
+provision, and that decision would have been inﬂuenced by contemporaneous or immediately preceding factors.
+Ratiﬁcation and implementation may be delayed for a variety of reasons unrelated to the decision to adopt a
+provision in the ﬁrst place.
+
+12 I derive the data from the WIPO Technical Assistance Database. As of March 2013, the database has information
+on 2,488 missions, meetings and visits, where at least one of the beneﬁciary countries was a developing country,
+least developed country or country in transition from a centrally planned economy. The database includes
+information for the years 2007–2013, but additional data are also available for the years 2000–2005 (World
+Intellectual Property Organization, 2005, 2014b).
+
+13 Shipan and Volden (2006) take a related approach, using the proportion of a state’s neighbors that have adopted a
+
+policy. My geographical data come from the CShapes dataset (Weidmann et al., 2010).
+
+14 Notably, according to the cable’s author, Oman was not the subject of any unusual or special pressure: “Maqbool
+continues to cling to the argument that Oman is being treated differently than other FTA partners with regard to the
+issue of data protection. To dispel the Minister of this notion, Embassy would like to deliver a letter to Maqbool,
+either signed by DUSTR [Deputy U.S. Trade Representative] or by the Ambassador, that explains to the Omani
+government that they are being accorded the same treatment as other FTA partners.”
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+21
+
+Gabriel J. Michael
+
+International Coercion and Data Protection
+
+15 Oman is not the only country to have faced such demands from the United States and capitulated. Similar patterns
+are evident in both Peru and Jordan, both of which adopted TRIPS-plus regulatory data protection while
+negotiating a trade agreement with the United States. The demands of the United States, as well as the reluctance of
+the Peruvian and Jordanian governments, are well-supported by both leaked diplomatic cables as well as
+secondary literature.
+
+16 Far from being unlikely to mention such considerations, diplomatic cables often report on the local political
+
+context, noting whether domestic industry supports or opposes provisions of interest.
+
+References
+
+Adamini S., Maarse H., Versluis E. and Light D.W. (2009) ‘Policy Making on Data Exclusivity in the European
+Union: From Industrial Interests to Legal Realities’, Journal of Health Politics, Policy and Law 34(6), 979–1010.
+Adams C.P. and Brantner V.V. (2006) ‘Estimating The Cost Of New Drug Development: Is It Really $802 Million?’,
+
+Health Affairs 25(2), 420–428.
+
+Baker B.K. (2008) ‘Ending Drug Registration Apartheid: Taming Data Exclusivity and Patent/Registration Linkage’,
+
+American Journal of Law & Medicine 34(2), 303–344.
+
+Baldwin D.A. (1985) Economic Statecraft. Princeton University Press, Princeton, NJ.
+Berry F.S. and Berry W.D. (1990) ‘State Lottery Adoptions as Policy Innovations: An Event History Analysis’,
+
+The American Political Science Review 84(2), 395–415.
+
+Box-Steffensmeier J.M. and Jones B.S. (2004) Event History Modeling: A Guide for Social Scientists. Cambridge
+
+University Press, New York.
+
+Braga C.A.P. and Fink C. (1998) ‘The Relationship between Intellectual Property Rights and Foreign Direct
+
+Investment’, Duke Journal of Comparative & International Law 9(1), 163–188.
+
+Braga C.A.P., Fink C. and Sepulveda C.P. (2000) Intellectual Property Rights and Economic Development. World
+
+Bank, Washington, DC.
+
+Branstetter L.G., Fisman R. and Foley C.F. (2006) ‘Do Stronger Intellectual Property Rights Increase International
+Technology Transfer? Empirical Evidence from U. S. Firm-Level Panel Data’, The Quarterly Journal of
+Economics 121(1), 321–349.
+
+Braun D. and Gilardi F. (2006) ‘Taking ‘Galton’s Problem’ Seriously Towards a Theory of Policy Diffusion’, Journal
+
+of Theoretical Politics 18(3), 298–322.
+
+Bucknell D. (2011) Pharmaceutical, Biotechnology and Chemical Inventions: World Protection and Exploitation.
+
+Oxford University Press, New York.
+
+Bulmer S. and Padgett S. (2005) ‘Policy Transfer in the European Union: An Institutionalist Perspective’, British
+
+Journal of Political Science 35(1), 103–126.
+
+Bush S.S. (2011) ‘International Politics and the Spread of Quotas for Women in Legislatures’, International
+
+Organization 65(01), 103–137.
+
+Cawthorne, P. (2012) ‘Data Exclusivity a Life and Death Issue’, Bangkok Post [online]. Available at <http://www.
+bangkokpost.com/opinion/opinion/308740/data-exclusivity-a-life-and-death-issue> [Accessed February 2013].
+Cengiz F. and Hoffmann L. (2013) ‘Rethinking Conditionality: Turkey’s European Union Accession and the Kurdish
+Question: Turkey’s EU accession and the Kurdish Question’, JCMS: Journal of Common Market Studies 51(3),
+416–432.
+
+Ceron A. and Godoy A.S. (2009) ‘Intellectual Property and Access to Medicines: An Analysis of Legislation in
+
+Central America’, Bulletin of the World Health Organization 87(10), 787–793.
+
+Chang H.-J. (2001) ‘Intellectual Property Rights and Economic Development: historical lessons and emerging issues’,
+
+Journal of Human Development 2(2), 287–309.
+
+Daley D.M. and Garand J.C. (2005) ‘Horizontal Diffusion, Vertical Diffusion, and Internal Pressure in State
+
+Environmental Policymaking, 1989–1998’, American Politics Research 33(5), 615–644.
+
+22
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+International Coercion and Data Protection
+
+Gabriel J. Michael
+
+DiMasi J.A., Hansen R.W. and Grabowski H.G. (2003) ‘The Price of Innovation: New Estimates of Drug
+
+Development Costs’, Journal of Health Economics 22(2), 151–185.
+
+Dobbin F., Simmons B. and Garrett G. (2007) ‘The Global Diffusion of Public Policies: Social Construction,
+
+Coercion, Competition, or Learning?’, Annual Review of Sociology 33(1), 449–472.
+
+Drahos P. (2001) ‘BITs and BIPs’, The Journal of World Intellectual Property 4(6), 791–808.
+Drahos P. (2004) ‘The Regulation of Public Goods’, Journal of International Economic Law 7(2), 321–339.
+Drahos P., Lokuge B., Faunce T., Goddard M. and Henry D. (2004) ‘Pharmaceuticals, Intellectual Property and Free
+
+Trade: the Jase of the US-Australia Free Trade Agreement’, Prometheus 22(3), 243–257.
+
+Drazen A. (2002) ‘Conditionality and Ownership in IMF Lending: A Political Economy Approach’, IMF Staff
+
+Papers 49.
+
+Drezner D.W. (2003) ‘The Hidden Hand of Economic Coercion’, International Organization 57(03), 643–
+
+659.
+
+Dutﬁeld G. and Suthersanen U. (2005) ‘Harmonisation or Differentiation in Intellectual Property Protection? The
+
+Lessons of History’, Prometheus 23(2), 131–147.
+
+El-Said H. and El-Said M. (2007) ‘TRIPS-Plus Implications for Access to Medicines in Developing Countries:
+Lessons from Jordan-United States Free Trade Agreement’, Journal of World Intellectual Property 10(6),
+438–475.
+
+Elkins Z., Guzman A.T. and Simmons B.A. (2006) ‘Competing for Capital: The Diffusion of Bilateral Investment
+
+Treaties, 1960–2000’, International Organization 60(4), 811–846.
+
+European Commission. (2001) Regular Report on Poland’s Progress towards Accession, SEC(2001) 1752. European
+
+Commission, Brussels.
+
+European Commission. (2003) Comprehensive Monitoring Report on Hungary’s Preparations for Membership,
+
+COM(2003) 675 ﬁnal. European Commission, Brussels.
+
+European Commission. (2012) Comprehensive Monitoring Report on Croatia, SWD(2012) 338 ﬁnal. European
+
+Commission, Brussels.
+
+Commission European. (2014) Intellectual Property. [online]. Available at <http://ec.europa.eu/trade/policy/
+
+accessing-markets/intellectual-property/> [Accessed September 2014].
+
+Fink C. and Maskus K.E. (2005) Intellectual Property and Development: Lessons from Recent Economic Research,
+
+World Bank Publications, Washington, DC.
+
+Finnemore M. (1993) ‘International Organizations as Teachers of Norms: The United Nations Educational, Scientiﬁc
+
+and Cultural Organization and Science Policy’, International Organization 47(4), 565.
+
+Francesco F.D. (2012) ‘Diffusion of Regulatory Impact Analysis Among OECD and EU Member States’,
+
+Comparative Political Studies 45(10), 1277–1305.
+
+F€uglister K. (2012) ‘Where Does Learning Take Place? The Role of Intergovernmental Cooperation in Policy
+
+Diffusion’, European Journal of Political Research 51(3), 316–349.
+
+Ginarte J.C. and Park W.G. (1997) ‘Determinants of Patent Rights: A Cross-National Study’, Research Policy 26(3),
+
+283–301.
+
+Glick D.M. and Friedland Z. (2014) ‘How Often Do States Study Each Other? Evidence of Policy Knowledge
+
+Diffusion’, American Politics Research 42(6), 956–985.
+
+Goodman R. and Jinks D. (2004) ‘How to Inﬂuence States: Socialization and International Human Rights Law’, Duke
+
+Law Journal 54(3), 621–703.
+
+Gould D.M. and Gruben W.C. (1996) ‘The Role of Intellectual Property Rights in Economic Growth’, Journal of
+
+Development Economics 48(2), 323–350.
+
+Gruber L. (2000) Ruling the World: Power Politics and the Rise of Supranational Institutions. Princeton University
+
+Press, Princeton, NJ.
+
+Hafner-Burton E.M. (2005) ‘Trading Human Rights: How Preferential Trade Agreements Inﬂuence Government
+
+Repression’, International Organization 59(03), 593–629.
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+23
+
+Gabriel J. Michael
+
+International Coercion and Data Protection
+
+Hudson J. and Minea A. (2013) ‘Innovation, Intellectual Property Rights, and Economic Development: A Uniﬁed
+
+Empirical Investigation’, World Development 46, 66–78.
+
+International Federation of Pharmaceutical Manufacturers and Associations. (2011) Data Exclusivity: Encouraging
+Development of New Medicines [online]. Available at <http://www.ifpma.org/ﬁleadmin/content/Publication/
+IFPMA_2011_Data_Exclusivity__En_Web.pdf> [Accessed September 2014].
+
+Jandhyala S., Henisz W.J. and Mansﬁeld E.D. (2011) ‘Three Waves of BITs The Global Diffusion of Foreign
+
+Investment Policy’, Journal of Conﬂict Resolution 55(6), 1047–1073.
+
+Javorcik B.S. (2004) ‘The Composition of Foreign Direct Investment and Protection of Intellectual Property Rights:
+
+Evidence From Transition Economies’, European Economic Review 48(1), 39–62.
+
+Jones K. (2009) ‘The Political Economy of WTO Accession: The Unﬁnished Business of Universal Membership’,
+
+World Trade Review 8(02), 279–314.
+
+Kanwar S. (2012) ‘The Location of Overseas Research and Development and Intellectual Property Protection’,
+
+Journal of Development Studies 48(10), 1453–1469.
+
+Kapczynski A. (2009) ‘Harmonization and Its Discontents: A Case Study of TRIPS Implementation in India’s
+
+Pharmaceutical Sector’, California Law Review 97(6), 1571–1649.
+
+Kim D. (2013) ‘International Nongovernmental Organizations and the Global Diffusion of National Human Rights
+
+Institutions’, International Organization 67(03), 505–539.
+
+Knowledge Ecology International. (2014) The USTR Special 301 Reports, 1989 to 2014 [online]. Available at <http://
+
+keionline.org/ustr/special301> [Accessed September 2014].
+
+Lacy D. and Niou E.M.S. (2004) ‘A Theory of Economic Sanctions and Issue Linkage: The Roles of Preferences,
+
+Information, and Threats’, Journal of Politics 66(1), 25–42.
+
+Landes W.M. and Posner R.A. (2003) The Economic Structure of Intellectual Property Law. Belknap Press of Harvard
+
+University Press, Cambridge, MA.
+
+Lee J.-Y. and Mansﬁeld E. (1996) ‘Intellectual Property Protection and U.S. Foreign Direct Investment’, The Review
+
+of Economics and Statistics 78(2), 181–186.
+
+Light D.W. and Warburton R. (2011) ‘Demythologizing the High Costs of Pharmaceutical Research’, BioSocieties
+
+6(1), 34–50.
+
+Lopert R. and Gleeson D. (2013) ‘The High Price of “Free” Trade: U.S. Trade Agreements and Access to Medicines’,
+
+The Journal of Law, Medicine & Ethics 41(1), 199–223.
+
+Malpani R. (2009) ‘All Costs, No Beneﬁts: How the US-Jordan Free Trade Agreement Affects Access to Medicines’,
+
+Journal of Generic Medicines 6(3), 206–217.
+
+Mansﬁeld E.D. and Pevehouse J.C. (2013) ‘The Expansion of Preferential Trading Arrangements’, International
+
+Studies Quarterly 57(3), 592–604.
+
+Marshall M.G. (2013) Polity IV Project: Political Regime Characteristics and Transitions, 1800–2012 [online].
+
+Available at <http://www.systemicpeace.org/polity/polity4.htm> [Accessed October 2013].
+
+Maskus K.E. (1998) ‘Role of Intellectual Property Rights in Encouraging Foreign Direct Investment and Technology
+
+Transfer’, The Duke Journal of Comparative & International Law 9, 109.
+
+Maskus K.E. (2000) ‘Intellectual Property Rights and Economic Development’, Case Western Reserve Journal of
+
+International Law 32, 471.
+
+Matthews D. and Munoz-Tellez V. (2006) ‘Bilateral Technical Assistance and TRIPS: The United States, Japan and
+the European Communities in Comparative Perspective’, The Journal of World Intellectual Property 9(6),
+629–653.
+
+Menon J. (2007) ‘Bilateral Trade Agreements’, Asian-Paciﬁc Economic Literature 21(2), 29–47.
+Michalopoulos C. (1999) WTO Accession for Countries in Transition [online]. Available at <http://elibrary.
+
+worldbank.org/content/workingpaper/10.1596/1813-9450-1934> [Accessed September 2014].
+
+Mintrom M. and Vergari S. (1998) ‘Policy Networks and Innovation Diffusion: The Case of State Education
+
+Reforms’, The Journal of Politics 60(01), 126–148.
+
+24
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+International Coercion and Data Protection
+
+Gabriel J. Michael
+
+Nunnenkamp P. and Spatz J. (2004) ‘Intellectual Property Rights and Foreign Direct Investment: A Disaggregated
+
+Analysis’, Review of World Economics 140(3), 393–414.
+
+Olson M. (1971) The Logic of Collective Action: Public Goods and the Theory of Groups, number v. 124 in Harvard
+
+Economic Studies. Harvard University Press, Cambridge, MA.
+
+Park S. (2007) ‘The World Bank Group: Championing Sustainable Development Norms?’, Global Governance 13(4),
+
+535–556.
+
+PhRMA. (2012) PhRMA 2012 Proﬁle: Pharmaceutical Industry [online]. Available at <http://www.phrma.org/sites/
+
+default/ﬁles/159/phrma_industry_proﬁle.pdf> [Accessed September 2014].
+
+Postnikov E. and Bastiaens I. (2014) ‘Does Dialogue Work? The Effectiveness of Labor Standards in EU Preferential
+
+Trade Agreements’, Journal of European Public Policy 21(6), 923–940.
+
+Pugatch M.P. (2005) ‘The International Regulation of IPRS in a TRIPS and TRIPS-plus World’, Journal of World
+
+Investment & Trade 6, 431.
+
+PuSscaSs V. (2014) ‘Accession Negotiations to the European Union’, Studia Europaea 1(1), 5–20.
+Qin J.Y. (2003) ‘“WTO-Plus” Obligations and Their Implications for the World Trade Organization Legal System’,
+
+Journal of World Trade 37(3), 483–522.
+
+Reich A. (2004) ‘The WTO as a Law-Harmonizing Institution’, University of Pennsylvania Journal of International
+
+Economic Law 25, 321.
+
+Roffe P., Tansey G. and Vivas Eugui D. (2006) Negotiating Health: Intellectual Property and Access to Medicines.
+
+Earthscan, London, Sterling, VA.
+
+Schelling T.C. (1960) The Strategy of Conﬂict. Harvard University Press, Cambridge.
+Schimmelfennig F. and Sedelmeier U. (2004) ‘Governance by Conditionality: EU Rule Transfer to the Candidate
+
+Countries of Central and Eastern Europe’, Journal of European Public Policy 11(4), 661–679.
+
+Schneider C.J. and Urpelainen J. (2012) ‘Accession Rules for International Institutions A Legitimacy-Efﬁcacy Trade-
+
+Off?’, Journal of Conﬂict Resolution 56(2), 290–312.
+
+Sell S.K. (1995) ‘Intellectual Property Protection and Antitrust in the Developing World: Crisis, Coercion, and
+
+Choice’, International Organization 49(02), 315–349.
+
+Shaffer E.R. and Brenner J.E. (2009) ‘A Trade Agreement’s Impact On Access To Generic Drugs’, Health Affairs
+
+28(5), w957–w968.
+
+Sharman J. (2008) ‘Power and Discourse in Policy Diffusion: Anti-Money Laundering in Developing States’,
+
+International Studies Quarterly 52(3), 635–656.
+
+Shipan C.R. and Volden C. (2006) ‘Bottom-Up Federalism: The Diffusion of Antismoking Policies from U.S. Cities to
+
+States’, American Journal of Political Science 50(4), 825–843.
+
+Shipan C.R. and Volden C. (2008) ‘The Mechanisms of Policy Diffusion’, American Journal of Political Science
+
+52(4), 840–857.
+
+Shipan C.R. and Volden C. (2012) ‘Policy Diffusion: Seven Lessons for Scholars and Practitioners’, Public
+
+Administration Review 72(6), 788–796.
+
+Simmons B.A. (2009) Mobilizing for Human Rights: International Law in Domestic Politics. Cambridge University
+
+Press, Cambridge, NY.
+
+Simmons B.A., Dobbin F. and Garrett G. (2006) ‘Introduction: The International Diffusion of Liberalism’,
+
+International Organization 60(4), 781–810.
+
+Simmons B.A., Dobbin F. and Garrett G. (2008) The Global Diffusion of Markets and Democracy. Cambridge
+
+University Press, New York.
+
+Simmons B.A. and Elkins Z. (2004) ‘The Globalization of Liberalization: Policy Diffusion in the International
+
+Political Economy’, The American Political Science Review 98(1), 171–189.
+
+Solıs M., Stallings B. and Katada S.N. (2009) Competitive Regionalism: FTA Diffusion in the Paciﬁc Rim,
+
+International Political Economy Series. Palgrave Macmillan Basingstoke [England], New York.
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+25
+
+Gabriel J. Michael
+
+International Coercion and Data Protection
+
+Soule S.A. (1999) ‘The Diffusion of an Unsuccessful Innovation’, The ANNALS of the American Academy of Political
+
+and Social Science 566(1), 120–131.
+
+Stone D. (2004) ‘Transfer Agents and Global Networks in the ‘Transnationalization’ of Policy’, Journal of European
+
+Public Policy 11(3), 545–566.
+
+Sugiyama N.B. (2008) ‘Theories of Policy Diffusion: Social Sector Reform in Brazil’, Comparative Political Studies
+
+41(2), 193–216.
+
+Tucker J.A., Stoutenborough J.W. and Beverlin R.M. (2012) ‘Geographic Proximity in the Diffusion of Concealed
+
+Weapons Permit Laws’, Politics & Policy 40(6), 1081–1105.
+
+United States Trade Representative. (2005) Statement of Why the United State-Oman Free Trade Agreement is in the
+Interest of U.S. Commerce [online]. Available at <http://www.ustr.gov/webfm_send/2650> [Accessed
+September 2014].
+
+United States Trade Representative. (2009) Final Text of the U.S.-Oman FTA [online]. Available on <http://www.
+
+ustr.gov/trade-agreements/free-trade-agreements/oman-fta/ﬁnal-text> [Accessed September 2014].
+
+United States Trade Representative. (2014) Intellectual Property [online]. Available on <http://www.ustr.gov/trade-
+
+topics/intellectual-property> [Accessed September 2014].
+
+U.S. Department of State. (2003) ‘Eleven Exchange Visitor Alumni Appointed Members Of The New Senate’,
+
+03AMMAN7526, Wikileaks, Embassy Amman (Jordan).
+
+U.S. Department of State. (2004) ‘Jordan FDA Decision On Osteoporosis Drug Generic Raises IPR Concerns’,
+
+04AMMAN725, Wikileaks, Embassy Amman (Jordan).
+
+U.S. Department of State. (2005a) ‘2004 Special 301 Review For Slovakia’, 05BRATISLAVA161, Wikileaks,
+
+Embassy Bratislava (Slovakia).
+
+U.S. Department of State. (2005b) ‘Peru’s IPR Negotiator Resigns, But Then Stays On’, 05LIMA1092, Wikileaks,
+
+Embassy Lima (Peru).
+
+U.S. Department of State. (2006a) ‘Hikma Pharmaceuticals Showcases Another Growing Sector In Jordan’,
+
+06AMMAN2648, Wikileaks, Embassy Amman (Jordan).
+
+U.S. Department of State. (2006b) ‘Peruvian Pharmaceutical Industry In Favor Of FTA’, 06LIMA2264, Wikileaks,
+
+Embassy Lima (Peru).
+
+U.S. Department of State. (2006c) ‘Special 301 Recommendation For Hong Kong’, 06HONGKONG715, Wikileaks,
+
+Consulate Hong Kong (China).
+
+U.S. Department of State. (2007a) ‘Minister Hopeful Of October Implementation Of FTA’, 07MUSCAT774,
+
+Wikileaks, Embassy Muscat (Oman).
+
+U.S. Department of State. (2007b) ‘Oman Response To 2007 Special 301 Review’, 07MUSCAT189, Wikileaks,
+
+Embassy Muscat (Oman).
+
+U.S. Department of State. (2007c) ‘Oman’s Commerce Minister Reafﬁrms Drive Toward FTA', 07MUSCAT850,
+
+Wikileaks, Embassy Muscat (Oman).
+
+U.S. Department of State. (2007d) ‘Poland: Pharmacuetical Data Exclusivity Update’, 07WARSAW595, Wikileaks,
+
+Embassy Warsaw (Poland).
+
+U.S. Department of State. (2008a) ‘Embassy Muscat Nomination Of Brian Grimm For Herbert Salzman Award’,
+
+08MUSCAT333, Wikileaks, Embassy Muscat (Oman).
+
+U.S. Department of State. (2008b) ‘Oman Response To Special 301 Review’, 08MUSCAT152, Wikileaks, Embassy
+
+Muscat (Oman).
+
+U.S. Department of State. (2009) ‘Saudi Commerce Ministry Eager For Data Exclusivity Best Practices’,
+
+09RIYADH1634 Embassy Riyadh (Saudi Arabia): Wikileaks.
+
+Volden C. (2006) ‘States as Policy Laboratories: Emulating Success in the Children’s Health Insurance Program’,
+
+American Journal of Political Science 50(2), 294–312.
+
+Vreeland J.R. (2003) The IMF and Economic Development. Cambridge University Press, New York.
+
+26
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+International Coercion and Data Protection
+
+Gabriel J. Michael
+
+Weidmann N.B., Kuse D. and Gleditsch K.S. (2010) ‘The Geography of the International System: The CShapes
+
+Dataset’, International Interactions 36(1), 86–106.
+
+Weiswasser E.S. and Danzis S.D. (2003) ‘The Hatch-Waxman Act: History, Structure, and Legacy’, Antitrust Law
+
+Journal 71, 585.
+
+Weyland K. (2005) ‘Theories of Policy Diffusion: Lessons from Latin American Pension Reform’, World Politics
+
+57(2), 262–295.
+
+Weyland K.G. (2006) Bounded Rationality and Policy Diffusion: Social Sector Reform in Latin America. Princeton
+
+University Press, Princeton, NJ.
+
+Whang T., McLean E.V. and Kuberski D.W. (2013) ‘Coercion, Information, and the Success of Sanction Threats’,
+
+American Journal of Political Science 57(1), 65–81.
+
+World Bank. (2014) Data [online]. Available at <http://data.worldbank.org/> [Accessed September 2014].
+World Intellectual Property Organization. (2000) Oman: Law on Trade Marks, Descriptions and Secrets and
+Protection from Unfair Competition (Promulgated by the Royal Decree No. 38/2000) [online]. Available at
+<http://www.wipo.int/wipolex/en/details.jsp?id=3379> [Accessed September 2013].
+
+World Intellectual Property Organization. (2005) Information on WIPO’s Development Cooperation Activities,
+
+WIPO/EDS/INF/1 Rev. World Intellectual Property Organization, Geneva.
+
+World Intellectual Property Organization. (2008) Oman: Industrial Property Rights and their Enforcement for the
+Sultanate of Oman (Royal Decree No. 67/2008) [online]. Available at <http://www.wipo.int/wipolex/en/details.
+jsp?id=5836> [Accessed September 2013].
+
+World Intellectual Property Organization. (2014a) Statistics on Patents [online]. Available at <http://www.wipo.int/
+
+ipstats/en/statistics/patents/> [Accessed September 2014].
+
+World Intellectual Property Organization. (2014b) Technical Assistance Database [online]. Available at <http://
+
+www.wipo.int/tad/en/> [Accessed September 2014].
+
+World Intellectual Property Organization. (2014c) WIPO Intellectual Property Laws and Treaties Database (WIPO
+Lex) [online]. Available at <http://www.wipo.int/wipolex/en/index.jsp?tab=3> [Accessed September 2014].
+World Trade Organization. (2014a) Accession Commitments Database (ACDB) [online]. Available at <http://acdb.
+
+wto.org/> [Accessed September 2014].
+
+World Trade Organization. (2014b) Understanding the WTO Members [online]. Available at <http://www.wto.org/
+
+english/thewto\_e/whatis\_e/tif\_e/org6\_e.htm> [Accessed September 2014].
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 1–2
+
+27
+
+

@@ -1,0 +1,2590 @@
+246
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 4
+
+Fake it ’til we make it: regulating dangerous
+counterfeit goods
+James L. Bikoff, David K. Heasley, Valeriya Sherman,
+and Jared Stipelman*
+
+The world’s most lucrative industry?
+The world’s most
+lucrative industry may well be
+counterfeiting. According to some estimates, the trade
+in counterfeit goods accounts for 10% of all global
+trade and rakes in well over $500 billion per year.1
+And counterfeiting extends far beyond handbags and
+watches: today, anything and everything from electric-
+al
+fuses and car airbags to wine and prescription
+pharmaceuticals is counterfeited—posing a major risk
+to human health and safety. The global trade in dan-
+gerous counterfeit goods has grown directly alongside
+the trade in more traditional,
+‘low-risk’ counterfeit
+goods.
+
+The numbers are stark: counterfeit or falsiﬁed
+drugs directly cause 100,000 annual deaths in Africa
+the World Health Organization estimates.2
+alone,
+Interpol places the number above one million world-
+wide.3 Up to 30% of the world’s medicine supply4—
+and an even higher proportion of drugs sold online5—
+are counterfeit.6
+
+The danger is not limited to pharmaceuticals. Car
+manufacturer Aston Martin recently recalled 75% of its
+global ﬂeet due to safety concerns over counterfeit plastic
+parts.7 A recent epidemic of counterfeit, shatter-prone,
+chemically treated ‘decorative’ contact
+lenses has been
+
+The authors
+† The authors are attorneys in the Washington DC ofﬁce of Smith,
+
+Gambrell & Russell, LLP. Mr Bikoff, head of the ﬁrm’s inter-
+national trade mark and internet practice, has more than 40 years
+of experience in trade mark, copyright, anti-counterfeiting and
+internet litigation and counselling. He is a member of the ECTA
+Anti-Counterfeiting Committee. Mr Heasley has more than 30
+years of experience in IP and commercial litigation. Ms Sherman
+focuses her practice on trade mark, copyright and internet matters.
+Mr Stipelman was an intern at the authors0 former law ﬁrm.
+
+This article
+† The lucrative global trade in dangerous counterfeit goods—every-
+
+thing from fake or adulterated pharmaceuticals to mislabelled elec-
+trical components—grows annually. Despite the obvious public
+health dangers posed by these products, most jurisdictions lack an
+integrated legal regime to prevent the ﬂow of dangerous counterfeits.
+
+† This article uses survey data gleaned from representatives to the
+
+ECTA to broadly characterize anti-dangerous-counterfeiting legal
+regimes in the US, EU, China and India. After setting out these arche-
+types, this article analyses certain ‘best practices’ including consumer
+education on the public health impact of dangerous counterfeits
+(particularly food and medicine), integrated product tracing systems
+and greater international coordination in enforcement efforts.
+
+† The article seeks to add to a growing international conversation
+
+between law enforcement, non-governmental organizations and
+private stakeholders on the most effective means to curtail the
+growing dangerous counterfeit problem.
+
+*
+1
+
+2
+
+Email: jbikoff@sgrlaw.com.
+See Michel Danet, ‘Message from the WCO Secretary General,
+International Customs Day 2007’ World Customs Organization (26 January
+2007), http://www.wcoomd.org/en/media/newsroom/2007/february/
+message-from-the-wco-secretary-general–international-customs-day-2007.
+aspx. Statistics on counterfeiting are notoriously inaccurate because many
+counterfeit goods go undetected.
+See Jocelyne Sambira, ‘Counterfeit drugs raise Africa’s temperature’ Africa
+Renewal (May 2013) (citing WHO statistics). This ﬁgure only includes
+deaths caused directly by the drug poisoning—the ﬁgure is far higher when
+also accounting for deaths caused by reliance on fake (though not
+inherently dangerous) medicines. For instance, the International Policy
+Network estimates that 700,000 malaria and tuberculosis deaths each
+year—a signiﬁcant portion of all fatalities from these diseases—could have
+been avoided if the victims had used proper and not counterfeit medicines.
+See ‘Fake Drugs Kill Over 700,000 People Every Year – New Report’
+International Policy Network (2012), http://www.policynetwork.net/health/
+media/fake-drugs-kill-over-700000-people-every-year-new-report. This is
+the equivalent of ‘four fully laden jumbo jets crashing every day.’ Sambira,
+supra note 2.
+
+3 Natalie Southwick, ‘Counterfeit drugs kill 1mn people annually – Interpol’
+
+4
+5
+
+6
+
+7
+
+In Sight Crime (24 October 2013), http://www.insightcrime.org/news-
+briefs/counterfeit-drugs-kill-1-million-annually-interpol.
+See ibid.
+See eg, Melanie Haiken, ‘Up to 77 Percent of Viagra bought online may be
+fake, and possibly dangerous, research shows’ Forbes (12 September 2013)
+(noting that most erectile dysfunction medication sold online is
+counterfeit); Xu Wei and Chen Hong, ‘Ofﬁcials: majority of foreign drugs
+sold online fake’ China Daily (9 May 2014), http://www.chinadaily.com.cn/
+china/2014-05/09/content_17494803.htm (noting that, depending on type,
+up to 75% of foreign drugs sold online in China are fake).
+See generally Lawrence O Gostin et al, Countering the Problem of Falsiﬁed
+and Substandard Drugs 95 –105 (2013), http://www.nap.edu/catalog/18272/
+countering-the-problem-of-falsiﬁed-and-substandard-drugs (presenting
+information on frequency of drug adulteration based on region and drug
+type).
+See Derek Mead, ‘How counterfeit plastic led to Aston Martin recalling
+17,590 cars’ Motherboard (6 February 2014), http://motherboard.vice.com/
+blog/how-counterfeit-plastic-led-to-aston-martin-recalling-17590-cars.
+
+# The Author(s) (2015). Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jpv016
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+4
+2
+4
+6
+8
+0
+9
+2
+7
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+James L. Bikoff et al. . Fake it ’til we make it: regulating dangerous counterfeit goods
+
+ARTICLE
+
+247
+
+causing consumers permanent eye damage.8 And counterfeit
+semiconductors have become so commonplace that the
+United States has added a new anti-counterfeiting rule to
+its military procurement regulations after several recent
+incidents involving military equipment with counterfeit
+electronic parts.9
+
+To turn the tide, consumer groups, industry stake-
+holders, international organizations and governments
+have begun proactively combating dangerous counterfeit
+goods.10 But due to their relative novelty, these anti-
+counterfeiting efforts have not been uniformly effective
+in stemming the rapid growth of the global counterfeit-
+ing industry.11
+
+The authors of this article—through the European
+Communities Trade Mark Association (ECTA)—soli-
+cited information from private and governmental repre-
+sentatives in 35 countries about the character and scope
+of their efforts to combat dangerous counterfeit goods,
+and have analysed the responses. Part 2 of this article
+explains the survey methodology. Part 3 discusses how
+four major international
+trading areas—the United
+States, the European Community, China and India—
+combat dangerous counterfeits. Part 4 discusses enforce-
+ment issues revealed by the survey responses, and identi-
+ﬁes best practices for detecting and mitigating the risk
+posed by dangerous counterfeits. Part 5 concludes with
+recommendations for further action.
+
+The survey method explained
+No jurisdiction has fully solved its dangerous counterfeit
+goods problem, but some have come closer than others.
+Indeed, given the vast disparities in manpower, capital
+and economic trajectory among different countries,
+there is probably no ideal model.
+
+Because there is no perfect model to emulate, the goal
+of this article is to foster high-level discussions on the
+best practices for addressing the problem of dangerous
+fakes. As what constitutes a ‘dangerous counterfeit good’
+is subjective, and the best practices to curb dangerous
+counterfeiting vary with the prevailing economic, demo-
+
+graphic and political circumstances in a jurisdiction, our
+survey questions were deliberately open-ended. They
+allowed responders to address whatever issues they found
+most important, and to highlight the anti-dangerous-
+counterfeiting policies they deemed most effective. Such
+an approach allows many different perspectives to in-
+ﬂuence the debate. Almost as importantly, the gaps and
+silences in survey responses tend to reﬂect the gaps in
+anti-counterfeiting enforcement.
+
+The world’s main dangerous counterfeit
+countermeasures
+Dangerous counterfeit goods are both dangerous
+and counterfeit, so most jurisdictions combat them
+with a combination of consumer protection and intel-
+lectual property laws. This approach creates multiple
+layers of protection, but also increases the need for
+coordination.
+
+The American system
+Although the United States has few laws that explicitly
+target dangerous counterfeits, it excels in coordinating
+different types of private and public enforcement actions,
+resulting in a well-integrated anti-dangerous-counterfeiting
+programme.
+
+The United States’ regulation of dangerous goods—
+counterfeit or not—incidentally regulates many danger-
+ous counterfeit goods. For instance, the USA regulates
+all pesticides under the Federal Insecticide, Fungicide
+and Rodenticide Act (FIFRA),12 and regulates other
+common dangerous substances (such as lead and asbes-
+tos) under the Toxic Substances Control Act (TSCA).13
+
+through normal channels of
+
+Dangerous counterfeit goods generally do not enter
+the market
+trade and
+thereby avoid the inspections and restrictions mandated
+by product safety laws, such as FIFRA and TSCA. To
+help close this loophole, the USA allows certain private
+actors to sue for counterfeiting under its Trademark
+Act.14 Those found guilty risk criminal penalties15 and
+
+8
+
+See ‘Federal agencies warn against counterfeit decorative contact lenses’
+United States Immigration and Customs Enforcement (ICE) (23 October
+2013), http://www.ice.gov/news/releases/1310/131023washingtondc.htm.
+
+10 See eg, Countering the Problem of Falsiﬁed and Substandard Drugs supra
+note 6 at 255 –64 (proposing an international regime for regulating drug
+quality).
+
+9 DFARS. Detection and Avoidance of Counterfeit Electronic Parts, 78
+
+11 The incompleteness of these efforts is already starting to cause unforeseen
+
+F.R.28780 (16 May 2013), https://www.federalregister.gov/articles/2014/05/
+06/2014-10326/defense-federal-acquisition-regulation-supplement-
+detection-and-avoidance-of-counterfeit-electronic; see also ‘Winning the
+battle against counterfeit semiconductor products’ Semiconductor Industry
+Association at 5 –6 (August 2013), http://www.semiconductors.org/
+clientuploads/directory/DocumentSIA/Anti%20Counterfeiting%20Task%
+20Force/SIA%20Anti-Counterfeiting%20Whitepaper.pdf (discussing
+recent instances of counterfeit semiconductors causing ﬁres or product
+malfunction in various consumer items and medical equipment).
+
+collateral problems. For instance, ineffective and adulterated counterfeit
+antibiotics are accelerating the proliferation of drug-resistant diseases. See
+eg, Editorial: ‘Counterfeit drugs: a growing global threat’ Lancet 2012,
+379:685; Countering the Problem of Falsiﬁed and Substandard Drugs, supra
+note 6 at 54 – 62. Similarly, the safety risks to civilians from counterfeit
+military hardware are obvious and acute.
+
+12 See 7 USC §§ 136-136Y et seq (2007).
+13 See 15 USC §§ 2601 –2692 (1976).
+14 See 15 USC §§ 1114, 1125(a) (2006).
+15 See 18 USC § 2320 (1996).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+4
+2
+4
+6
+8
+0
+9
+2
+7
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+248
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 4
+
+massive damages.16 The potential for such large recover-
+ies further motivates private companies to police the
+marketplace and conduct their own investigations into
+potential dangerous counterfeits.
+
+Several other American laws and regulations also
+contain anti-counterfeiting provisions meant to promote
+cooperation between the public and private sectors. For
+example, the Tariff Act broadly prohibits importation of
+counterfeit goods, and allows entities whose rights are
+infringed by counterfeit goods to coordinate with customs
+ofﬁcials to seize suspected counterfeits.17 The private com-
+panies record their trade mark registrations with the rele-
+vant agencies, usually Customs and Border Protection
+(CBP) or Immigration and Customs Enforcement (ICE),
+who then know what to look for when attempting to
+seize counterfeit goods at the border.18 The National In-
+tellectual Property Rights Coordination Center further
+synchronizes administrative actions, and various organiza-
+tions use this information to warn consumers of poten-
+tially dangerous counterfeits.19
+
+The United States—like many other countries—sup-
+plements its general regime with speciﬁc legislation tar-
+geting dangerous counterfeit goods it deems particularly
+dangerous. For instance, the Food and Drug Safety Innov-
+ation Act20 imposes signiﬁcant obligations on manufac-
+turers to avoid adulteration and enhances the penalties
+for counterfeiting drugs. Individual US states also often
+craft their own legislation to arrest the ﬂow of particular
+dangerous counterfeits, such as car airbags.21
+
+16 See 15 USC § 1117.
+17 See generally 19 USC § 1526 (forbidding importation of goods that
+infringe on American intellectual property rights, authorizing their
+destruction and allowing rights holders to seek damages or injunction).
+
+18 See generally ‘Record trademarks with customs and border protection’
+
+United States Patent and Trademark Ofﬁce, http://www.uspto.gov/
+trademarks/notices/tmrecorduscustoms.jsp (accessed 21 September
+2014) (advising trade mark owners to register their marks with CBP);
+see also ‘Intellectual property rights e-recordation application’ United
+States Customs and Border Protection, https://iprr.cbp.gov/ (accessed 21
+September 2014) (indicating steps a trade mark owner must take to
+record their rights with CBP); ‘CBP seizes 500k in fake goods’ United
+States Customs and Border Protection (3 October 2014), http://www.
+cbp.gov/newsroom/local-media-release/2014-10-03-000000/cbp-seizes-
+500k-fake-goods; ‘Houston man charged with trafﬁcking counterfeit
+“beats by dre” headphones’ United States Immigration and Customs
+Enforcement (10 October 2014), https://www.ice.gov/news/releases/
+houston-man-charged-trafﬁcking-counterfeit-beats-dre-headphones
+(documenting counterfeit goods seizures aided by private industry).
+See Appendix A for a more extensive list of representative
+enforcement actions by US, European and international enforcement
+agencies.
+
+19 See generally ‘About the IPR Center’ National Intellectual Property Rights
+
+Coordination Center, http://www.iprcenter.gov/about-us (detailing the role
+the IPR Center plays in coordinating US and international administrative
+enforcement actions and public –private education).
+
+20 See 21 USC §§s 811– 812 (2012).
+21 See eg, Jonathon Ramsey, ‘Ohio enacts counterfeit airbag law’ Autoblog (31
+
+December 2013), http://www.autoblog.com/2013/12/31/ohio-enacts-
+
+The European system
+The European continent contains 50 countries, each with
+its own unique legal system. However, harmonizing inﬂu-
+ences—notably the European Union (EU)—have led many
+European countries to combat dangerous counterfeit
+goods in similar ways.
+
+Like the United States, most European jurisdictions
+do not regulate ‘dangerous counterfeit goods’ spe-
+ciﬁcally; rather,
+they regulate dangerous products
+and counterfeit products as separate, but overlapping,
+issues. Most European states enforce their prohibitions
+against dangerous goods through customs inspections
+(for imports) or in domestic laboratories, under do-
+mestic law (for goods produced internally). If the certi-
+fying state is an EU member, the products can then be
+distributed throughout the EU without further inspec-
+tion.22 If a non-food product is dangerous to the envir-
+onment, consumer health or national security, then
+the EU’s rapid response system, RAPEX,23 allows for
+close coordination of enforcement efforts among EU
+member states.
+
+European anti-counterfeiting laws have converged sig-
+niﬁcantly because EU membership and various inter-
+national treaties have encouraged such alignment.24 Most
+EU states have laws providing for both criminal and
+private civil penalties for counterfeiting.25 Private indus-
+tries frequently hold events to educate enforcement ofﬁ-
+cials on how to identify particular counterfeit products.26
+
+counterfeit-airbag-law/ (noting that New York, Connecticut and Ohio have
+all passed laws banning counterfeit airbags).
+
+22 See generally ‘A single market for goods’ European Commission, http://ec.
+europa.eu/internal_market/top_layer/goods/index_en.htm (last updated
+10 July 2014) (observing that EU member states should only interfere with
+free ﬂow of accredited goods across borders under exceptional
+circumstances).
+
+23 See generally ‘Rapid alert system for non-food dangerous products’
+
+European Commission, http://ec.europa.eu/consumers/archive/safety/rapex/
+index_en.htm (last updated 20 March 2014) (describing the general
+contours of the RAPEX system).
+
+24 See eg, Paris Convention for the Protection of Industrial Property, as last
+
+revised at the Stockholm Revision Conference, 14 July 1967, 21 UST 1583;
+828 UNTS 303 (harmonizing IP rights); Council Directive 2004/48, on the
+enforcement of intellectual property rights, OJ L195/16 (standardizing civil
+remedies for IP infringement); Council Regulation 765/2008, setting out
+the requirements for accreditation and market surveillance relating to the
+marketing of products, OJ L218/30 (setting forth market surveillance
+procedures); Regulation (EU) n 608/2013/EU of the European Parliament
+and of the Council of 12 June 2013 concerning customs enforcement of
+intellectual property rights and repealing Council regulation (EC) n 1383/
+2003, JOEU 29 June, n L 181 (customs enforcement of intellectual property
+rights).
+
+25 See Council Directive 2004/48 for civil measures.
+26 See eg, ‘Our Partners’ Ofﬁce for Harmonization in the Internal Market,
+
+https://oami.europa.eu/ohimportal/en/our-partners (accessed 19 August
+2014) (after loading click on ‘User Groups’ tab) (listing the various private
+industry groups that regularly coordinate with OHIM).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+4
+2
+4
+6
+8
+0
+9
+2
+7
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+James L. Bikoff et al. . Fake it ’til we make it: regulating dangerous counterfeit goods
+
+ARTICLE
+
+249
+
+If private companies provide speciﬁc information about
+an incoming infringing product shipment, European
+customs authorities will intercept the shipment.27
+
+The EU further harmonizes European anti-dangerous-
+counterfeiting laws with both directives that address
+speciﬁc goods, such as dangerous toys,28 pharmaceuti-
+cals, pesticides,29 food imitation30 and medical devices,31
+and with directives that harmonize legal procedures in
+intellectual property32 and product liability law.33 Many
+European states also promulgate speciﬁc anti-dangerous-
+counterfeiting laws. For instance, many European nations
+have speciﬁc regulations concerning counterfeit food
+and tobacco.
+
+In addition to the EU’s internal efforts to promote
+harmonization and cooperation, European states and private
+entities participate prominently in global anti-counterfeiting
+efforts through organizations like Interpol,34 Europol35
+and the United Nations.36 Ultimately, the fact that one
+can even discuss Europe as a single unit (as opposed to 50
+disparate ones) speaks to Europe’s tremendous success in
+standardizing its counterfeiting laws. Its regional system is
+a blueprint for how to coordinate anti-counterfeiting laws
+on a global scale.
+
+The Chinese system
+Any discussion of Chinese law prohibiting dangerous
+counterfeiting must begin by acknowledging that some
+Chinese businesses are among the world’s largest produ-
+cers of adulterated and counterfeit products. Though the
+full extent of Chinese counterfeiting is unknown, recent
+high-proﬁle incidents involving counterfeit or unsafe
+wine,37 baby formula,38 high-tech products39 and aero-
+plane parts40 hint at the scope of the problem, which is
+an open secret.41
+
+The extent and proﬁtability of Chinese ‘fakes’42 constrain
+the potential effectiveness of Chinese anti-counterfeiting
+and dangerous product legislation. At the local and
+regional
+level, business and government are often so
+intertwined that the local enforcement bodies ostensibly
+responsible for enforcing anti-counterfeiting laws may
+themselves proﬁt from the counterfeiting industry.43
+Chinese federal authorities face comparable moral
+hazards, in that they are further hamstrung by their reliance
+on these same corrupt local ofﬁcials for information.44
+And because a majority of Chinese counterfeit goods are
+produced by legitimate factories working illegitimate ‘third
+shifts’, it is frequently difﬁcult to shut down operations
+
+27 See generally O Vrins, ‘Regulation 608/2013: towards a more effective
+
+36 See eg, ‘Counterfeit: don’t buy into organized crime’ United Nations Ofﬁce
+
+Customs enforcement of intellectual property rights’, (2013) BMM Bulletin
+3, 118 and O Vrins, and M Schneider, Enforcement of Intellectual Property
+Rights through Border Measures. Law and Practice in the EU, 2nd ed. (2012),
+Oxford University Press (describing how private actors can ﬁle a customs
+detention order (CDO) to alert EU customs ofﬁcials to potentially
+infringing shipments). Most of our responders that discussed private –
+public cooperation in interdiction required private entities to pay for all or
+part of the expenses, such as storage and destruction costs. This sort of
+barrier against private sector participation arguably chills customs
+enforcement efforts.
+
+28 See eg, Council Directive 2009/48, on the safety of toys, OJ L 170/1
+
+(legislating stringent toy safety standards).
+
+29 See eg, Council Directive 91/414/EEC, concerning the placement of plant
+
+protection products on the market, OJ L/230.
+
+30 See eg, Council Directive 87/357/EEC, on the approximation of the laws of
+the Member States concerning products which, appearing to be other than
+they are, endanger the health or safety of consumers, OJ L/192 (requiring
+explicit labelling for products that imitate ingestibles).
+
+31 See Council of Europe Convention on the counterfeiting of medical
+
+products and similar crimes involving threats to public health (Medicrime
+Convention).
+
+32 See eg, Council Directive 2004/48.
+33 See eg, Council Directive 2001/95, on general product safety, OJ L 11/4
+
+(standardizing product safety standards throughout the EU).
+
+34 See eg, ‘Interpol operation nets fakes worth USD 50 million across Asia’
+Interpol (22 September 2014), http://www.interpol.int/News-and-media/
+News/2014/N2014-179 (describing an Interpol-led anti-counterfeiting
+campaign resulting in hundreds of arrests worldwide).
+
+35 See eg, ‘Thousands of tonnes of fake food and drink seized in Interpol-
+
+Europol operation’ EUROPOL (13 February 2014), https://www.europol.
+europa.eu/content/thousands-tonnes-fake-food-and-drink-seized-
+interpol-europol-operation (detailing a coordinated sting operation
+wherein law enforcement on four continents seized 1,200 tons of
+counterfeit food and a similar quantity of drinks from 33 different
+countries).
+
+on Drugs and Crime, http://www.unodc.org/counterfeit/ (accessed 22
+September 2014) (describing recent United Nations anti-counterfeiting
+educational material).
+
+37 See eg, Jeff Leve, ‘Massive Chinese counterfeit wine ring busted with 7,000
+
+fake cases’ The Wine Cellar Insider (30 August 2013), http://www.
+thewinecellarinsider.com/2013/08/massive-chinese-wine-counterfeiting-
+ring-busted-7000-fake-cases/.
+
+38 See eg, Tania Branigan, ‘Chinese ﬁgures show ﬁvefold rise in babies sick
+from contaminated milk’ The Guardian (2 December 2008), http://web.
+archive.org/web/20081205093042/http://www.guardian.co.uk/world/2008/
+dec/02/china.
+
+39 See eg, Christopher Magoon and Katie Martin, ‘China’s copycat
+
+phenomenon: fake apple stores still booming in southern China’ Tea
+Leaf Nation (4 June 2013), http://www.tealeafnation.com/2013/06/
+chinas-copycat-phenomenon-fake-apple-stores-booming-in-southern-
+china/.
+
+40 See US Senate Armed Services Committee, Inquiry into Counterfeit
+
+Electronic Parts in the Department of Defense Supply Chain,
+Washington: Government Printing Ofﬁce (2012), http://www.levin.
+senate.gov/newsroom/press/release/senate-armed-services-committee-
+releases-report_on-counterfeit-electronic-parts (accessed 19 August
+2014).
+
+41 See eg, ‘2013 USTR Report to Congress on China’s WTO compliance’
+
+United States Trade Representative (2013) at 7, http://www.ustr.gov/sites/
+default/ﬁles/2013-Report-to-Congress-China-WTO-Compliance.pdf
+(noting that American businesses lose $48 billion annually to Chinese
+counterfeiters).
+
+42 See Yu Hua, ‘The true cost of chinas fakes’ New York Times (9 June 2014),
+
+http://www.nytimes.com/2014/06/10/opinion/yu-hua-the-true-cost-of-
+chinas-fakes.html?_r=0.
+
+43 See eg, Mark Turnage, ‘Most counterfeit goods are from China’ Business
+
+Insider (25 June 2013), http://www.businessinsider.com/most-counterfeit-
+goods-are-from-china-2013-6 (noting that it is an open secret that
+counterfeiters bribe local Chinese government ofﬁcials to ignore their
+operations).
+
+44 See ibid.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+4
+2
+4
+6
+8
+0
+9
+2
+7
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+250
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 4
+
+that produce counterfeit goods.45 Finally, the sheer size of
+China’s market and the scope of its counterfeiting problem
+make enforcement difﬁcult.46 Even well-intentioned
+product safety and anti-counterfeiting watchdogs are
+overworked and of limited effectiveness.
+
+Against that background, China,
+
+like other major
+regimes, regulates ‘dangerous counterfeit products’ through
+a bifurcated scheme that regulates counterfeit products
+and dangerous products separately. These legal regimes,
+however, are often difﬁcult for foreign businesses to
+access.47
+
+Moreover, a lack of coordination between speciﬁc ad-
+ministrative agencies inhibits enforcement. Infringement
+claims against registered or ‘well-known’ Chinese trade
+marks and other marks are investigated by different
+agencies, none of which has the authority to regulate
+dangerous products.48 Furthermore, as the statutes of
+limitation on infringement claims and many product
+safety claims are two years or less, litigants must choose
+the right forum or risk losing the opportunity to bring
+their claims.
+
+Although civil litigants can recover statutory damages
+under Chinese anti-counterfeiting law without proving
+actual damages, criminal penalties are another matter.
+For a counterfeiter to be subject to criminal penalties,
+the prosecution must generally meet certain thresholds
+of actual damage.49 Under the best circumstances, actual
+damages are hard to prove, and when the counterfeited
+goods are themselves inexpensive (such as foodstuffs),
+their actual value may not even reach the predicate
+threshold for criminal liability.50 This effectively immu-
+nizes many dangerous counterfeiters from criminal pros-
+ecution for injuries their counterfeiting has caused.
+
+have a tremendous demand for cheap (frequently dan-
+gerous) goods, and various Chinese government policies
+actively encourage manufacture of inexpensive products.
+Because a dangerous counterfeiting control programme
+would be at cross-purposes with other Chinese econom-
+ic policies, legislation seeking to control dangerous pro-
+ducts frequently follows—rather than prevents—crises.
+The paradigmatic example of this was the Chinese
+tainted milk scandal.51 In 2008, melamine-tainted milk
+powder produced by a well-known Chinese dairy manu-
+facturer killed four infants and made hundreds of thou-
+sands of others ill.52 Both the dairy and the Chinese
+government knew of the issue beforehand, but legisla-
+tion was passed only after the crisis.53 Moreover, the
+regulatory response was arguably dysfunctional—part of
+the government’s response was to effectively loosen the
+deﬁnition of ‘milk’, lowering required protein levels to
+remove the incentive for corrupt producers to add mela-
+mine (a protein substitute) to their milk powder.54
+Though such an approach might address the melamine
+problem, it does not make the public healthier. All told,
+China’s legal protection against counterfeit and danger-
+ous goods—though improving—still lacks transparency,
+consistency and effectiveness.
+
+The Indian system
+Although far from perfect,55 the Indian anti-counterfeit-
+ing and anti-dangerous products regimes balance con-
+sumer protection with the need for administrability.
+Despite India’s size and relative poverty, aspects of its
+system have garnered international praise from a variety
+of sources.56
+
+China has a variety of laws regulating dangerous pro-
+ducts, but all subject to a caveat. Chinese consumers
+
+India joins many other jurisdictions in regulating dan-
+gerous counterfeits through legislation against dangerous
+
+45 See eg, Dan Harris, ‘Not exactly counterfeit—new balance shoes and
+
+China’s “third shift”’, ChinaLawBlog (1 May 2006), http://www.
+chinalawblog.com/2006/05/not_exactly_counterfeit_new_ba.html
+(describing the ‘third shift’ phenomenon and chronicling New Balance’s
+travails in trying to shut down a third shift counterfeiter).
+
+46 For instance, Chinese authorities recently arrested 2,000 people for
+
+counterfeiting drugs without signiﬁcantly denting the ﬂow of counterfeit
+drugs in China. See David Barboza, ‘2000 arrested in China in crackdown
+on counterfeit drugs’ New York Times (5 August 2012), http://www.nytimes.
+com/2012/08/06/world/asia/2000-arrested-in-china-in-crackdown-on-
+counterfeit-drugs.html?_r=2&.
+
+47 See generally Gloria Q Wu, ‘Anti-counterfeiting guide in China’ Lexology (4
+June 2012), http://www.lexology.com/library/detail.aspx?g=e65c3880-053b-
+474e-ae4a-3f7d9e8630a2 (describing Chinese customs interdiction
+procedures).
+
+48 See ibid.
+49 See ibid.
+50 See ibid.
+51 See generally Vivien Lim, ‘Tainted milk: unraveling china’s melamine
+scandal’ ThinkBusiness (1 March 2013), http://thinkbusiness.nus.edu/
+articles/item/118-tainted-milk-unravelling-china%E2%80%99s-melamine-
+
+scandal (providing background on the melamine scandal and discussing
+government and big-industry complicity in various Chinese dangerous-
+product scandals).
+
+52 Ibid.
+53 Ibid.
+54 See ‘China lowers dairy protein levels to curb melamine’ China Daily (15
+
+July 2010), http://www.chinadaily.com.cn/china/2010-07/15/
+content_10107670.htm.
+
+55 See generally ‘Guide to protection of intellectual property rights in India
+
+2014’ Ofﬁce for Harmonization in the Internal Market (2014), https://oami.
+europa.eu/ohimportal/documents/11370/80606/Guide+to+protection+
+of+intellectual+property+rights+in+India (accessed 26 August 2014)
+(describing weaknesses in Indian IP enforcement, focusing on difﬁculties
+securing and enforcing patents).
+
+56 See eg, Ofﬁce Memorandum, ‘Award of WCO certiﬁcate of merit 2014’
+
+India Ministry of Finance (27 January 2014), http://www.cbec.gov.in/
+deptt_offcr/misc/wco-meritlist2014.htm (listing Indian recipients of World
+Customs Organization awards); Guide to Protection of Intellectual Property
+Rights in India 2014, supra note 55 at 7 (discussing ease of seeking
+compensation for trade mark and copyright infringement in civil courts).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+4
+2
+4
+6
+8
+0
+9
+2
+7
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+James L. Bikoff et al. . Fake it ’til we make it: regulating dangerous counterfeit goods
+
+ARTICLE
+
+251
+
+products and anti-counterfeiting laws.57 However, due to
+India’s vast size and limited budget, Indian customs—to a
+greater extent than most countries—cannot inspect every
+single shipment of goods into the country. Accordingly,
+India supplements its random inspections by requiring
+shipments of ‘inherently dangerous cargo’ to submit to add-
+itional scrutiny. India streamlines enforcement by requiring
+that speciﬁc types of dangerous cargo enter India only via
+certain ports. Such a rule allows for specialization among
+customs ofﬁcials, and establishes easy grounds for suspicion
+of any dangerous cargo that enters through the wrong port.
+India coordinates internally through advanced track-and-
+trace procedures for certain dangerous products.
+
+India supplements its ofﬁcial procedures by inviting ex-
+tensive private involvement. It has broad anti-counterfeiting
+laws that contemplate both civil and criminal liability.58
+Private parties can also ask domestic laboratories or
+customs to test particular lots of potentially dangerous
+goods, and can register their trade marks for ﬁve years with
+Indian customs, thus alerting customs ofﬁcials to suspected
+infringement and empowering them to act against it.59
+
+Like many other countries, India supplements its
+general scheme with policies regulating goods of special
+concern, particularly agricultural products. And it
+actively encourages regulated industries to self-regulate
+voluntarily, which has resulted in numerous private
+standard-setting bodies that are more responsive and
+more protective than enacted laws.
+
+respondents
+
+Survey insights and best practices
+Our
+represent different countries and
+various professional backgrounds, but most raised the
+same concerns and described similar practices. A few of
+these observations—shared by several responders—are
+especially informative as to both the scope of the danger-
+ous counterfeiting problem and potential ways forward.
+
+Ingestible dangerous goods are more
+prominent in anti-dangerous-counterfeiting
+programmes than equally dangerous inedible
+goods
+Without fail, survey respondents focused on ingestible
+substances—food, drink, tobacco or medicines—as the
+main dangerous products worth regulating. Although
+most governments regulate dangerous chemicals, electronics
+and ﬁrearms, responders frequently did not include these
+
+57 See eg, Guide to Protection of Intellectual Property Rights in India 2014,
+supra note 55 at 5 (listing speciﬁc legislation to protect patents, trade
+marks, copyrights, industrial designs, seeds and geographic indicators, and
+to protect consumers from potentially harmful substances including
+cosmetics, drugs and food adulterants).
+
+kinds of product regulations in their answers; though the
+dangers of these products are well-known, they are not fore-
+most in the public consciousness. Going forward, more
+effort needs to be expended educating both government
+ofﬁcials and the public about non-ingestible dangerous
+counterfeit products.
+
+Successful consumer education efforts should
+highlight personal safety risks of dangerous
+counterfeit goods
+The Italian respondent wisely observed that many efforts to
+educate consumers about counterfeit goods have failed in
+part because of how the message was framed. Counterfeit-
+ing aids unlawful activity and harms legitimate businesses,
+but many consumers are unmoved by such appeals to their
+better nature. Indeed, the whole reason that counterfeiting
+is so lucrative—and, in some instances, so dangerous—is
+that consumers want goods far cheaper than the legitimate
+market will bear. The most effective educational efforts
+portray the product as undesirable by focusing on the grue-
+some health and safety consequences of using poorly made
+counterfeit goods. Anti-counterfeiting public education
+and outreach efforts should thus focus on the personal—
+not social—risks of using dangerous counterfeit goods.
+
+Integrated product tracing systems could
+leverage network effects to aid enforcement
+A product that is dangerous to a Chilean person is just
+as dangerous to a Danish or Indian person; laws differ,
+but the nature of dangerous products remains the same.
+Similarly, a counterfeit product is a counterfeit product
+wherever it is sold—only the legal consequences differ.
+
+Recognizing that danger from products transcends bor-
+ders, the European Union’s RAPEX system allows for the
+speedy and streamlined sharing of
+information across
+borders. India, the United States and others have their own
+systems to accomplish similar ends within their own borders.
+Any system that trades in information—which RAPEX
+and its national equivalent systems surely do—becomes
+exponentially more potent as it leverages network effects.
+Since dangerous products are equally dangerous in all jur-
+isdictions, anti-dangerous-products enforcement would
+become more efﬁcient if the disparate systems were inte-
+grated. An integrated system aimed at tracking and tracing
+dangerous products could coexist
+in harmony with
+different substantive national laws. Everyone is warned
+of the products, but no jurisdiction has to act on the
+
+58 See ibid at 3, 7 (noting large awards offered in civil anti-counterfeiting
+
+litigation).
+
+59 See ibid at 7 –8.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+4
+2
+4
+6
+8
+0
+9
+2
+7
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+252
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 4
+
+warnings. An international counterfeit tracing system
+would likely yield beneﬁts similar to an international
+dangerous product tracing system.
+
+Cooperative international anti-counterfeiting
+efforts have been largely successful and should
+be expanded
+The authors were struck by how similarities in anti-
+counterfeiting and dangerous products enforcement
+regimes vastly outweighed the differences—both sub-
+stantively and procedurally. These similarities are prob-
+ably attributable to the tremendous (and largely effective)
+extent of international dialogue and cooperation on global
+IP and product safety issues, both by governments and
+private associations. Prompting and strengthening these
+engagements is critical to the global effort to combat
+dangerous counterfeit goods.60
+
+Legislation should guide and complement
+private enforcement efforts
+Consumers bear the brunt of dangerous and counterfeit
+goods; they are the ones who become ill or are harmed
+by shoddy products. And if those consumers lose conﬁ-
+dence in the legitimate brands that are counterfeited,
+lawful private businesses—and even industries—suffer
+the long-term effects of lost consumer goodwill. When
+these businesses fail, everyone loses.
+
+The upshot is that private businesses that have the most
+to lose from rampant counterfeit and adulterated products
+generally have the greatest means and motivation to
+curtail counterfeiting. Anti-counterfeiting and dangerous
+product legal regimes should engage the assistance of
+these interested, knowledgeable and well-funded private
+businesses in enforcement efforts. It appears that every
+jurisdiction surveyed envisages public–private partner-
+ships on IP enforcement, whether through private legal
+action, cooperation between businesses and customs ofﬁ-
+cials or educational efforts. Some regimes—such as China
+(which limits damages for counterfeiting) or Ukraine
+(where private entities foot the entire bill for intercepting
+shipments)—inhibit private enforcement, thus limiting
+their potential effectiveness. When possible, such barriers
+to private enforcement should be eliminated.
+
+Concluding remarks
+Expensive, brand-named products become expensive,
+brand-named products in part because of their superior
+
+materials and manufacture; you get out what you put in.
+Every day, more and more people become consumers,
+and these new consumers are generally not wealthy. Yet
+many want the same products as the global wealthy. To
+them, the appeal of counterfeits is immense, and as such
+the counterfeit problem is only going to grow.
+
+Governments have the tools to respond, but too often
+individual jurisdictions go it alone, employing unilateral
+strategies to combat coordinated international counter-
+feiting networks. We may not know what the best en-
+forcement approach is, but that is not it. International
+organizations should identify potential best practices and
+start a conversation as to how to best implement these prac-
+tices across jurisdictional boundaries. The public health
+and safety consequences of the problem are simply too
+great to ignore.
+
+Appendix: Representative enforcement
+actions
+Alone or coordinated, spontaneous or planned, govern-
+ment agencies tasked with preventing the ﬂow of danger-
+ous counterfeits seize infringing goods every day. The
+enforcement actions described below are representative:
+
+1. After a multi-year investigation by numerous US law
+enforcement agencies including the FBI, Immigration
+and Customs Enforcement (ICE), Homeland Security
+Investigations (HSI), Internal Revenue Service (IRS)
+and the Department of Defense (DoD), the owner and
+four employees of Oregon-based defence contracting
+ﬁrm Kustom Products, Inc. pleaded guilty on 18 July
+2014 to fraudulently obtaining 750 DoD contracts
+valued in excess of $10 million. Of these, one of the
+most egregious—and the one that ultimately led to
+their prosecution—related to counterfeit aviation lock-
+nuts used in military ﬁghter jets. Kustom Products sup-
+plied these counterfeit locknuts in 2008—sourced from
+a known Texas-based counterfeiter—but military
+supply chain protocols identiﬁed the fakes. Upon inves-
+tigation, Kustom Products claimed to have delivered
+locknuts from the ‘wrong bin’. However, when asked to
+replace the counterfeit parts, Kustom Products sourced
+identical locknuts from the same manufacturer. Under
+the plea agreement, the defendants forfeited all pro-
+ceeds attributable to the fraud, as well as various vehi-
+cles, $365,000 and real property.61
+
+2. Pursuant to an ICE investigation, an indictment was
+ﬁled on 12 September 2014 charging two defendants
+
+60 See eg, Countering the Problem of Falsiﬁed and Substandard Drugs, supra
+
+61 ‘Oregon defense contractor pleads guilty to multimillion dollar scam’ ICE
+
+note 6 at 255 –64 (recommending a uniﬁed international code of practice,
+overseen by the WHO and engaging private stakeholders, to combat the
+dangers posed by falsiﬁed medicines).
+
+(18 July 2014), http://www.ice.gov/news/releases/1407/140718portland.htm.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+4
+2
+4
+6
+8
+0
+9
+2
+7
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+James L. Bikoff et al. . Fake it ’til we make it: regulating dangerous counterfeit goods
+
+ARTICLE
+
+253
+
+with ten counts related to a conspiracy to smuggle
+four million misbranded and counterfeit pills into
+the United States. According to the indictment, from
+2007– 2010 Marla Ahlgrimm, a pharmacist from
+Madison, Wisconsin and Balbir Bhogal, a Las Vegas
+pharmacologist, illicitly contracted to acquire the
+pills from an Indian drug counterfeiter. The defen-
+dants allegedly purchased the pills to supply a Costa
+Rican online pharmacy, but actually sold them dir-
+ectly to consumers in the United States.62
+
+3. On 27 January 2014, based on ﬁndings from an in-
+vestigation by HSI, Hao Yang of Harrisburg, Penn-
+sylvania pleaded guilty to trafﬁcking in counterfeit
+goods, including counterfeit military-grade circuits
+and avionics equipment. Pursuant to his plea deal,
+he forfeited $59,000 in cash, a 2010 Acura and
+various counterfeit items worth $280,720. He faces a
+maximum of 10 years in prison.63
+
+4. In a series of recalls dating back to May 2013, Aston
+Martin has recalled 17,590 vehicles due to faulty
+plastic throttle pedal arms. In a 15 January 2014
+letter to the US National Highway Transportation
+Safety Administration, Aston Martin revealed that the
+defects stemmed from counterfeit plastics used by a
+third-tier supplier. Although engineering speciﬁca-
+tions supplied to Hong-Kong-based Fast Forward
+Tooling required the use of brand-name DuPont plas-
+tics, Fast Forward Tooling instead acquired its plastics
+from Dongguan-based Synthetic Plastic Raw Material
+Co. This recall affects nearly all 2008–2014 Aston
+Martin models.64
+
+5. On 12 June 2013, 34-year-old Jason Jordan pleaded
+guilty to conspiracy to trafﬁc in counterfeit goods.
+Between July 2010 and August 2012, Jordan im-
+ported and sold counterfeit Ford, GM, Honda and
+Toyota airbags over the internet, grossing nearly
+$450,000. As part of a plea agreement, Jordan would
+forfeit $57,000 in seized cash, pay a judgment of
+$100,000 to the government and pay restitution in
+the amount of $444,180.28. Prosecutors recom-
+mended a prison sentence of 31 months. The safety
+
+risks inherent in counterfeit airbags were considered
+in the sentencing proposal.65
+
+6. On 6 August 2013, two men were arrested and
+charged with conspiring to smuggle and trafﬁc in
+counterfeit and misbranded prescription medicine,
+including Viagra. The investigation, conducted by
+HSI and partners, identiﬁed the two men as engaged
+in smuggling large shipments of Viagra from China
+to the US. The suspects were apprehended when one
+of them delivered approximately 17,000 counterfeit
+and misbranded Viagra tablets to an undercover
+agent who successfully inﬁltrated the counterfeit
+pharmaceutical trafﬁcking organization.66
+
+7. In a joint operation conducted with French customs,
+the United States Custom and Border Patrol (CBP)
+seized 480 shipments of counterfeit critical computer
+components between 1 November 2012 and 30 April
+2013. Operation Core Systems continued a line of
+joint operations between French and US Customs ofﬁ-
+cials, and served to highlight the threat to businesses
+and public safety from counterfeit computer parts.67
+
+8. Between 28 March and 8 April 2013, US CBP
+ofﬁcials seized 14,904 toasters bearing counterfeit
+Underwriter’s Laboratories (UL) safety marks. UL per-
+forms vigorous safety tests on products to determine
+potential risks from ﬁre, shock and other health
+hazards, meaning the toasters with counterfeit UL
+marks are potentially dangerous to consumers. The
+seized toasters had a market value of $297,931.68
+
+9. Between 5 May and 11 May 2014, an INTERPOL-led
+anti-counterfeiting programme involving private
+stakeholders and representatives from ten European,
+Asian and North American countries netted over
+$50 million of counterfeit products. The programme
+resulted in the seizure of various types of counterfeit
+goods, including cigarettes, cosmetics, alcohol, elec-
+tronics and electrical parts, and led to hundreds of
+arrests.69
+
+10. On 19 March 2012, EUROPOL arrested individuals
+in the UK, Spain, Romania and the Netherlands for
+importing counterfeit drugs from Singapore and
+
+62 ‘2 Charged with smuggling counterfeit pharmaceuticals’ ICE (15 September
+
+66 ‘2 men arrested for smuggled counterfeit viagra from China to Houston
+
+2014), http://www.ice.gov/news/releases/1409/140915newyork2.htm.
+
+63 ‘Man pleads guilty to counterfeit goods’ ICE (27 January 2014), http://www.
+
+and Chicago’ ICE (6 August 2013), http://www.ice.gov/news/releases/1308/
+130806houston.htm.
+
+ice.gov/news/releases/1401/140127baltimore.htm.
+
+67 ‘CBP, French customs seize critical counterfeit electronic components’ CBP
+
+64 Kyle Stock, ‘Bad gas pedals force Aston Martin to recall 17,590 fancy cars’
+
+Bloomberg Business Week (6 February 2014), http://www.businessweek.com/
+articles/2014-02-06/bad-gas-pedals-force-aston-martin-to-recall-17-590-
+fancy-cars.
+
+65 ‘Washington state man pleads guilty to trafﬁcking in counterfeit air bags’ ICE
+
+(22 May 2013), http://www.cbp.gov/newsroom/national-media-release/
+2013-05-22-040000/cbp-french-customs-seize-critical-counterfeit.
+
+68 ‘CBP seizes nearly 15,000 toasters with counterfeit safety markings’ CBP
+
+(18 April 2013), http://www.cbp.gov/newsroom/local-media-release/2013-
+04-18-040000/cbp-seizes-nearly-15000-toasters-counterfeit-safety.
+
+(12 June 2013), http://www.ice.gov/news/releases/1306/130612yakima.htm.
+
+69 ‘Interpol operation nets fakes worth USD 50 million across Asia’ Interpol
+
+(22 September 2014), http://www.interpol.int/News-and-media/News/
+2014/N2014-179.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+4
+2
+4
+6
+8
+0
+9
+2
+7
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+254
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 4
+
+China. The counterfeits included both generic and
+name brands, and were laced with various poisonous
+ﬁller ingredients.70
+
+11. On 22 May 2014, a coordinated effort between Inter-
+pol and the UK’s Medicines and Healthcare Products
+Regulatory Agency (MHRA) resulted in the seizure of
+over $29 million of counterfeit pharmaceuticals and
+10,603 websites. The effort was conducted as part of
+Operation Pangaea VII, Interpol’s anti-counterfeit
+pharmaceutical programme, and is believed to be the
+largest-ever crackdown on illicit pharmaceuticals.71
+
+12. As part of a massive Interpol– Europol-coordinated
+effort conducted in December 2013 and January
+2014, over 1,200 tons of counterfeit food, and
+430,000 litres of counterfeit drink were seized from
+locations in 33 countries. The seizures notably
+included 131,000 litres of oil and vinegar, 45 tons of
+dairy products, 60,000 bottles of fake champagne
+and 685 tons of poorly preserved or mislabelled
+seafood. The operation, dubbed Opson III, also
+resulted in arrests in Spain, France, Vietnam, Thai-
+land and the Philippines.72
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+4
+2
+4
+6
+8
+0
+9
+2
+7
+0
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+70 ‘Europol busts international ring of fake pharma distributors’ Organized
+
+72 ‘Thousands of tonnes of fake food and drink seized in Interpol-Europol
+
+Crime and Corruption Reporting Project (19 March 2012), https://www.
+reportingproject.net/occrp/index.php/en/ccwatch/cc-watch-briefs/1428-
+europol-busts-international-r.
+
+operation’ EUROPOL (13 February 2014), https://www.europol.europa.eu/
+content/thousands-tonnes-fake-food-and-drink-seized-interpol-europol-
+operation.
+
+71 ‘Thousands of Illicit online pharmacies shut down in the largest-ever global
+
+operation targeting fake medicines’ Interpol (22 May 2014), http://www.
+interpol.int/News-and-media/News/2014/N2014-089.
+
+

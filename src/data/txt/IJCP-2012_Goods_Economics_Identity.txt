@@ -1,0 +1,1172 @@
+International Journal of Cultural Property (2012) 19:97–118. Printed in the USA.
+Copyright © 2012 International Cultural Property Society
+doi:10.1017/S0940739112000070
+
+Protection of Cultural Goods—
+Economics of Identity
+Marianna Bicskei*
+
+Kilian Bizer
+
+Zulia Gubaydullina
+
+Abstract: This article addresses the current international debate on the
+protection of cultural goods. Whereas some groups (such as indigenous
+peoples) are arguing for the creation of cultural property rights analogous to
+classic intellectual property rights such as patent and copyright, most
+industrialized countries advocate to keep cultural goods within the public
+domain. In this article, we develop an economic perspective based on identity
+and clarify the question of which cultural goods should be protected, regulated,
+or left in the public domain. We conclude that protection based on the concept
+of identity is required for a very limited scope of cultural goods.
+
+INTRODUCTION
+
+In the Intergovernmental Committee on Traditional Knowledge, Genetic Re-
+sources and Traditional Cultural Expressions of the World Intellectual Property
+Organization (WIPO-IGC), nations from all parts of the world are discussing
+
+*University of Göttingen, Economic Policy and SME Research, Platz der Göttinger Sieben 3, 37073
+Göttingen, Germany. Email: Marianna.Bicskei@wiwi.uni-goettingen.de
+
+ACKNOWLEDGMENTS. This research is part of the Interdisciplinary Research Group on Cultural
+Property funded by Deutsche Forschungsgemeinschaft (DFG). We gratefully acknowledge the con-
+structive comments by two anonymous referees, the editor Alexander Bauer, participants at the 2010
+ACEI conference in Copenhagen, the Società conference at the University of Vienna, and the Inter-
+national Symposium on Cultural Property in Göttingen. We are also grateful for many helpful dis-
+cussions and comments by Regina Bendix, Ejan Mackaay, Dorothy Noyes, Rosemary J. Coombe, and
+the Interdisciplinary Cultural Property Research Group.
+
+97
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+98
+
+MARIANNA BICSKEI, KILIAN BIZER, AND ZULIA GUBAYDULLINA
+
+whether to provide more protection for cultural goods. In the Convention
+on the Protection and Promotion of the Diversity of Cultural Expressions, the
+United Nations undertook “to protect and promote the diversity of cultural
+expressions, . . . and to give recognition to the distinctive nature of cultural ac-
+tivities, goods and services as vehicles of identity, values and meaning.”1 More-
+over, the protection of culture is part of the international agenda in different
+aspects and constellations. How can this be interpreted from an economic point
+of view?
+
+Many cultural expressions, such as sacred rituals or sand paintings, play an im-
+portant role in the identity of certain groups and should be protected from mis-
+appropriation and misuse. Such cultural practices might require specific protection
+measures.
+
+While some countries would like cultural goods to receive more protection, other
+countries argue that cultural goods belong to the public domain. The latter argue
+that most, if not all, cultural goods should be available for everybody as long as
+standard intellectual property rights are not infringed upon. Take, for example,
+yoga as a meditation practice used around the world despite the fact that it orig-
+inates in India. Should yoga be reserved for the Indian population only? Should
+everybody else be required to apply for a yoga permit or even pay a “yoga dime”
+for practicing it?2 As another example, take any language: Should someone willing
+to learn to speak it pay an additional charge or ask for permission because the
+language “belongs” to another culture?
+
+Of course, many doubt that cultural expressions should be commodified at all.
+But in the contemporary world temples as well as their rituals, villages, or tribes
+and their celebrations, dances, theatre, or sacred drawings come to the attention
+of tourists, designers, and other outsiders and in practice are turned into com-
+modities. In the process of commodification certain aspects of the culture may
+very well get lost. This loss may form the difference between the original cultural
+expression and the commodified one, and can be relevant for the identity of mem-
+bers of a specific group. Such loss can take the form of identity loss and thus serve
+as a source of justification for protecting cultural goods. We use the phrase cul-
+tural goods in what follows to direct our attention toward goods and services de-
+rived from culture in the broadest sense. In order to avoid misunderstanding, we
+do not use the term goods in any other sense.
+
+In this article we analyze from an economic perspective whether cultural goods
+require further protection if we take effects on identity into account. We develop
+a framework allowing us to assess different effects on three of the most relevant
+groups affected by cultural goods. We distinguish these groups as culture carri-
+ers, outsider consumers, and culture reproducers, which are not the same as pro-
+ducers of classic goods and services. Such an assessment provides insights into
+the regulatory choice problem faced by national legislators as well as the inter-
+national community, who intend to identify how much protection of cultural
+goods should be targeted in general. According to our analysis of the utility
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+PROTECTION OF CULTURAL GOODS
+
+99
+
+of cultural carriers, only cultural goods that are essential to identity and dignity
+require additional protection. This is due to the fact that culture reproducers
+and outsider consumers negatively affect the identity and thus the dignity of
+the culture carriers. In these cases, rights are required to exclude these actors
+from consumption and restrict the commodification of these particular cultural
+goods.
+
+To investigate this topic, the rest of the article proceeds as follows: The second
+section discusses identity as an economic variable, which is said to determine the
+valuation of the protection of cultural goods. The third section deals with the util-
+ity derived from consuming and reproducing cultural goods. In the fourth and
+fifth sections, we address different protection issues regarding cultural goods while
+classifying cultural goods according to their direct and indirect effects. In the final
+section we arrive at several conclusions.
+
+PROTECTION OF CULTURAL GOODS—LITERATURE REVIEW
+
+In drawing on the concept of identity to develop an economic argument about
+the protection of cultural goods, we feel it is necessary to analyze identity in an
+economic context and incorporate identity into the economic (utility) function.
+This is necessary because identity is of high importance in a cultural context. To
+understand the behavior of individuals or groups, the impact of others on their
+identity must be scrutinized more deeply.
+
+The descriptive literature on identity and its utility relies on the theses of Ak-
+erlof and Kranton,3 the most widely accepted account of the relationship between
+identity and economic outcomes. These authors suggest that identity might be
+recognized as a determinant factor in utility functions. In their model, the utility
+function (Uj) consists of three variables.4 The first, identity or self-image (Ij), is
+determined by social categories such as gender or occupation as well as their fea-
+tures and typical characteristics since members of a given social category or group
+are often expected to exhibit specific physical or cultural characteristics and atti-
+tudes. The second variable refers to a person’s actions (aj) undertaken to maxi-
+mize the person’s own utility while complying with the prescriptions of his social
+category. The third identifies the actions of others (a−j), which, combined with
+the second variable, have an impact on a person’s consumption of goods and ser-
+vices. It is assumed that a particular social category has an impact on a person’s
+identity, thereby affecting the person’s so-called identity-related behavior.5 Con-
+sequently, identity plays an important role in the utility function because a person’s
+own actions affect the person’s utility, which is to some extent based on the ac-
+tions’ impact on identity. According to the model of Akerlof and Kranton, identity-
+based payoffs can arise from a person’s own actions as well as from those of others.
+The result is that the actions of others can affect a person’s utility and identity at
+the same time, a finding that needs further investigation.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+100
+
+MARIANNA BICSKEI, KILIAN BIZER, AND ZULIA GUBAYDULLINA
+
+In our article, we focus on the changes in utility caused by (other) third parties
+not belonging to the particular social category. According to the literature men-
+tioned in the preceding paragraph, “those who try to change social categories and
+prescriptions may face similar derision because the change may devalue others’
+identity.”6 In the model of Akerlof and Kranton there is the possibility for a per-
+son to have a limited choice over his or her identity. They argue that without dis-
+tinctive characteristics, it is possible to join other social categories, but also that
+this possibility is limited with respect to physical appearance or accent. We as-
+sume that different cultures, as a kind of social category not only sharing com-
+mon characteristics but also constituting a social group,7 comprise individuals
+whose common features form a basis for their interaction with one other, and
+that these are fundamentally based on cultural goods. The consumption and pro-
+duction of cultural goods within a particular culture are based on the choices and
+actions of individuals or a group of individuals, which induce changes in their
+utility function and thus in their identity. According to this argument, the impact
+of cultural-goods-related actions by an outsider to the group on another person’s
+group identity deserves further attention. In this context Akerlof and Kranton iden-
+tify a loss of identity if somebody violates a person’s internalized values (“pre-
+scriptions”). Therefore, these actions of others produce “externalities,” against which
+there is no protection. Activities of persons related to cultural goods who are not
+members of the particular culture are the basis of our analysis. In our view, these
+actions may need to be regulated by institutions such as the World Intellectual
+Property Organization (WIPO).
+
+The literature on cultural goods shows a broad scale of approaches mostly
+based on international trade. Francois and van Ypersele8 approach the issue of
+protecting cultural goods and their impact on welfare from a different perspec-
+tive. Their work is based on the different valuation of cultural goods by insiders
+(home country) and outsiders (abroad), produced under economies of scale, and
+is exemplified by trade in movies. In their example, Hollywood films, which can
+unintentionally disturb traditional or indigenous cultures, are valued the same
+by both sides (local and foreign people). This means, for instance, that consum-
+ers in both the United States and France are willing to pay for consumption of
+Hollywood films. In contrast, the valuation of domestically produced films is not
+homogeneous between consumers at home and abroad. According to that exam-
+ple, not all French consumers prefer French auteur films or are willing to pay a
+premium for them.9 In their two-country (United States, France)/three-cultural-
+goods (mainstream Hollywood films, French auteur films, U.S. auteur films) model,
+they explore whether protection of cultural goods (in this case, auteur films)
+could increase welfare for all parties and whether it can be Pareto improving for
+all parties if countries introduce a cultural tariff on Hollywood films. If a tariff
+or quota is introduced, traditional film production, in which fixed costs are
+very high, would not be crowded out by blockbuster producers, whose market
+share takes up most of the world. From the perspective of domestic groups in
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+PROTECTION OF CULTURAL GOODS
+
+101
+
+both countries, the restriction would imply that the local auteur cinema would
+still be available for the local population, which values this good highly. More-
+over, consuming locally produced goods is required in order to keep domestic
+culture alive. At the same time, export potential is provided, which increases the
+well-being of the population. In this article, great importance is attributed to
+the valuation of cultural goods. This valuation is fundamental to the different
+social groups and must be reflected when investigating the protection of cultural
+goods.
+
+Another important contribution to the issue of protecting cultural goods is pro-
+vided by Janeba,10 who analyzes the impact of free trade of cultural goods on cul-
+tural identity. In his article, cultural goods are defined as goods that interconnect
+individual consumption decisions and thus contribute to the formation of a cul-
+tural identity. For example, consuming a cultural good could make consumption
+more attractive for other consumers. Identity is built if all individuals within the
+society consume the same cultural good (a culturally homogeneous good). The
+identity function could be described as a network externality. For instance, Ger-
+mans drink beer, which is identified as a common tradition in Germany. If every-
+body in the society consumes the same good, the loss in identity is zero, but
+consumption is influenced by the factors of price and social punishment. This
+consumption may change in the case of trade liberalization leading to changes in
+the homogeneous consumption behavior of a specific society, therefore causing a
+loss of identity. Janeba favors a protectionist approach toward cultural goods based
+on welfare analysis both in closed and open economies. Considering one model of
+international trade and assuming different technologies and economies of scale,
+he deducts inter alia that in the case of cultural homogeneity (homogeneous taste
+and consumption of cultural goods), trade cannot have a Pareto-improving effect
+on closed economies (autarky). In sum, the model demonstrates that while social
+consumption behavior changes due to the imported cultural goods, individuals
+consuming the exported good lose out on trade liberalization. Janeba argues that
+consumers of cultural goods produced and consumed locally are those that op-
+pose trade liberalization the most. He further concludes that globalization has a
+negative impact on national culture and individual identities. In order to preserve
+a culture, the consumption of locally produced goods must be supported.
+
+The public debate concerns the preservation of culture and cultural identity
+through the protection of cultural goods. The economic discussion takes this up
+while seeking the utility-providing effect of cultural goods. Against this back-
+ground, we focus on the central question: What exactly is it that requires protec-
+tion? We answer this question by introducing an economic approach to cultural
+goods and their protection. We suggest a set of criteria that help to determine
+whether a cultural good should be protected or not. These criteria include con-
+siderations of direct effects as well as indirect effects of cultural goods’ consump-
+tion. We also distinguish between certain groups affected by the consumption and
+reproduction of cultural goods.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+102
+
+MARIANNA BICSKEI, KILIAN BIZER, AND ZULIA GUBAYDULLINA
+
+UTILITY FROM CULTURAL GOODS
+
+Culture is a phenomenon that is not easy to define. The United Nations define
+culture as “diverse forms across time and space; this diversity is embodied in the
+uniqueness and plurality of the identities and cultural expressions of the people
+and societies making up humanity.”11 We define culture within the scope of this
+article as a phenomenon consisting of different goods (cultural goods) that “are
+considered to consist of tangible and intangible items of cultural significance.”12
+The specific feature of cultural goods lies above all in the fact that they must be
+treated as vectors of identity and not as mere commodities or consumer goods.13
+Of course, immaterial cultural goods are more problematic, as most material goods
+are already protected by classic property rights, but both intangible and tangible
+parts of cultural goods are the subjects of our examination.
+
+For our analysis, we introduce the notions of culture carriers, culture reproduc-
+ers and outsider consumers (consumers others than culture carriers). Culture
+carriers are defined as the groups or individuals from whom the cultural good
+originates. They could also be called insiders, as they belong to the group or
+society14 in which a certain cultural good emerges. As they are the holders and
+custodians of particular cultural goods, they consequently consist of both pro-
+ducers and consumers. They produce cultural goods that they sell as a private
+good and/or provide for the public domain. For simplicity of argumentation we
+refer to these insider actors as “culture carriers.” As part of the group of outsid-
+ers, the so-called outsider consumers and the culture reproducer (reproducer of
+cultural goods) are defined as societies, groups, or individuals using the cultural
+good but who are entirely disconnected from its emergence. Both groups, insid-
+ers and outsiders (see figure 1), draw utility from cultural goods, and both groups
+value the cultural good in question positively.
+
+Let us first take a closer look at the utility of culture carriers. To address this we
+introduce a “cultural utility function” of culture carriers who share the same cul-
+tural identity based on particular cultural goods. We assume that cultural goods
+
+FIGURE 1. Classification of the actors in the categories of insider and outsider.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+PROTECTION OF CULTURAL GOODS
+
+103
+
+provide both direct and indirect utility to culture carriers. The direct part of the
+utility includes monetary benefits from cultural goods. These arise when any out-
+sider consumer is willing to pay for using a cultural good such as dancing lessons,
+a copy of a traditional pattern, music, or a picture of some historical monument
+produced by culture carriers. This utility can also be described as “direct consump-
+tion benefit” or “direct market benefit.”15 Arguing in this manner, it is clear that if
+outsider consumers use a cultural good without paying for it, such as illegally up-
+loading copyrighted cultural songs, it has a negative impact on the (direct) utility
+of the culture carrier who intended to sell it. In cases in which no income or rev-
+enue is generated, culture carriers might face the problem of not being able to
+recover the costs invested in the production of that cultural good. In the long run,
+this could have a negative effect on the incentives to create cultural goods.16 As a
+result, this can imply an overall economic loss. Moreover, if other individuals or
+groups other than culture carriers (defined as reproducers of cultural goods) begin
+to reproduce the same cultural goods without permission and seize benefits from
+them (copying a cultural song and selling it), it reduces the direct part of the util-
+ity of the culture carriers even more.17 These factors play a role above all when,
+for instance, immaterial property rights are infringed.
+
+In our analysis from the regulatory perspective, the utility of outsider consum-
+ers and reproducers also plays an important role and must be considered within
+the direct component of the cultural utility function.18 Thus, if the culture carri-
+ers’ direct utility decreases but is in turn overcompensated by the utility increase
+of the outsiders, it can be overall economically reasonable to allow for outside
+consumption. In other words, if the social costs19 restricting the outside consump-
+tion of the particular cultural good are greater than the social benefits, the eco-
+nomic reasoning is the same as in the case of monopoly regulation: Even if the
+monopolist loses his revenues, it makes sense to restrict his actions.
+
+Let us turn our focus to the crucial part of the cultural utility function: the
+indirect component. Indirect utility is constituted of different effects, which,
+in sum, provide identity for the culture carriers.20 These effects include intrin-
+sic values such as option, existence, bequest, prestige and education values.
+These are so-called nonmarket, nonuser benefits.21 The utility drawn from iden-
+tity defined in this way enters the cultural utility function of the culture carriers.
+Identity as part of the utility function was already discussed by Akerlof and
+Kranton22 in the labor market context and can also be applied to the cultural
+utility function. However, according to Throsby23 it is quite difficult to deter-
+mine the value of identity in monetary terms because identity cannot be ex-
+changed for other goods. This part of the cultural utility function is the most
+complicated one, as it consists of different effects. On the one hand, identity
+affects the consumption decisions of individuals and can therefore be seen as a
+consumption externality, similar to network externalities.24 Accordingly, it might
+simply mean the motivation to engage in and perform common practices or
+consume particular cultural goods. Moreover, on the other hand, some cultural
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+104
+
+MARIANNA BICSKEI, KILIAN BIZER, AND ZULIA GUBAYDULLINA
+
+goods could fundamentally affect the existential identity of a person, his dignity.
+Thus, destroying or misusing this kind of cultural good would imply a negative
+effect on the person’s identity, thus causing a loss in utility. According to Harri-
+son,25 identity-providing symbols (like cultural goods), which refer to all objects
+or customs used as signs or representatives of the social (cultural) identity, are
+validly authentic if maintained by the owners.26 The same actions by outsiders,
+however, are seen as imitations or as misappropriations of characteristics and
+qualities of the owner’s group, which can be interpreted as a depreciation or
+devaluation of the identity. Consequently, the impact of outsiders, both on direct
+and indirect utility of the culture carriers, needs further investigation.
+
+CLASSIFICATION OF CULTURAL GOODS
+
+From an economic point of view, cultural goods can be classified according to the
+extent to which outsiders make use of them and in doing so affect the culture
+carriers’ utility. Once the cultural utility functions are clearly stated, the question
+of protecting cultural goods can now be analyzed with the help of these as well as
+their relationships. Based on the described utility effects of cultural goods in sec-
+tion 3, it is possible to divide them into different groups depending on the cul-
+tural outsiders’ effect on the culture carriers’ utility.
+
+Thus, first with focus on direct utility, it can increase, decrease or remain un-
+changed as outsider consumers use cultural goods. Speaking of the indirect part
+of the cultural goods’ utility-providing impact, the so-called identity-providing
+part, we scrutinize the effect of the cultural consumption by outsiders on indirect
+utility. According to that, cultural goods can be divided into three different types:
+
+1. Cultural consumption by outsiders has a positive effect on the utility of cul-
+ture carriers: The indirect utility of cultural goods rises with the number of
+other users. This type of cultural goods can be identified for example if the
+group “owning” this cultural good (culture carrier) is willing to disseminate
+it to other individuals, groups, or societies (to outsiders). For example, a lan-
+guage spoken by other groups produces network externalities;27 the adop-
+tion of a religion by another community ensures comparable values and
+norms, and the like. Christianity, which was and is disseminated actively by
+missionaries, is an example of such a cultural good from a Christian point of
+view.28
+
+2. The utility of cultural goods could also be independent of usage by outsid-
+ers. These kinds of cultural goods are rarely found. For example, Buddhism
+as a religion or spiritual philosophy is very peaceful. According to the doc-
+trine of Buddhists, it is important to find the middle path in themselves and
+escape from negative feelings. The aim is to attain nirvana, but this path must
+be reached alone. Therefore, the fact that this religion is used by other than
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+PROTECTION OF CULTURAL GOODS
+
+105
+
+insider consumers does not have any effect whatsoever on Buddhists’ indi-
+rect or direct utility.
+
+3. The utility of cultural goods can diminish as outsider consumers use them.
+For example, if sacred rituals are performed by outsiders, they may lose their
+meaning for the culture carriers. According to de Beus,29 who investigated
+the impact of national identity, it can even influence their feeling of belong-
+ing, dignity, and identity. The question of what kinds of cultural goods have
+this strong identity or dignity-providing effect cannot be answered without
+analyzing particular cases. The secrecy of cultural goods can serve as an in-
+dication for this effect: Culture carriers trying to restrict the access of others
+(outsider consumers, or groups willing to produce the same cultural good)
+to their cultural good (and by no means aiming to sell this good themselves)
+could be seen as evidence in favor of protection.30 As “individuals are the
+best judges of their own welfare,”31 the effort to keep a cultural good secret
+indicates that it must have a large influence on their identity. An example for
+such a kind of cultural good is the turtle as a religious symbol of Ganalbingu
+people. This was misappropriated by an outsider textile producer which neg-
+atively affected the identity of that group.32 Mike Tyson or Robbie Williams
+wearing a Maori tattoo33 (moko) exemplify other cases in which outsider
+consumption of a particular cultural good negatively affects the indirect util-
+ity of culture carriers since ta moko illustrates identity and serves particular
+meaning such as recognition of difference by the Maori people.34 Accord-
+ingly, outsider consumption or production in the new context change “the
+meaning and significance” of these goods.
+
+If we further differentiate between the direct and indirect utility of culture carri-
+ers, which can be positively or negatively affected by outsider consumption, we
+arrive at the classification presented in figure 2.
+
+The matrix in figure 2 combines the effects of outsiders’ consumption and re-
+production on the direct and indirect utility of culture carriers. The effect of cul-
+tural consumption or production by outsiders on the direct utility of culture carriers
+is shown on the x-axis, while the effects on indirect utility are depicted on the
+y-axis.
+
+In the first quadrant (I) there is no need for any regulation, as both direct and
+indirect utility of culture carriers are positively affected by cultural outsider con-
+sumption. Additional cultural production has the same effect, as it generates ad-
+ditional cultural consumption, which again is positive.
+
+An example is language as a part of culture. The culture carriers of a certain
+language could be interested in its dissemination and usage, as it facilitates trade
+between cultures and offers a possibility of reducing the costs of engaging third
+parties.35 A common language is necessary for international/domestic communi-
+cation and trade,36 and the importance of it grows with time, so the effects in the
+long run as well as in the short run are positive.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+106
+
+MARIANNA BICSKEI, KILIAN BIZER, AND ZULIA GUBAYDULLINA
+
+FIGURE 2. Utility effects on the culture carriers’ utility caused by outsiders and the pro-
+tection area for cultural goods (shaded).
+
+In the second quadrant (II) the indirect utility is positive, while the direct utility
+of culture carriers is negatively affected by cultural outsider consumption. There-
+fore, the culture carriers’ direct utility should be considered in comparison to the
+utility of outsider consumers and culture reproducers. Furthermore, the long-run
+welfare effects of consumption and additional production must be analyzed. In this
+part of the analysis, a detailed consideration of the culture carriers’ direct utility, the
+outsider consumers’ utility, and the culture reproducers’ utility is necessary. If the
+only motivation of the culture carriers seeking protection of cultural goods is to
+maintain their monopolistic position regarding the production of cultural goods, it
+could be rational to allow other culture reproducers to enter the market and gen-
+erate additional benefits for society. However, additional culture reproducers may
+increase the supply of cultural goods and achieve a sustained price reduction or may
+even destroy the good’s cultural content, thus not implying any additional benefits
+for society in the long run. Or, in contrast, additional (re-)production of cultural
+goods by outsiders may act as a marketing tool to advertise and increase the value
+of the original cultural goods (made by culture carriers), thus creating or broaden-
+ing the market for cultural products on the long run.37
+
+Another possibility is that if the utility of outsider consumers exists only if cul-
+ture carriers are the producers of a certain cultural good, then there is no need for
+regulation, as this feature of the utility function serves as an entry barrier for ad-
+ditional culture reproducers. However, the distinguishing character between an orig-
+inal or authentic (made by culture carriers) and a perfect copy (produced by an
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+PROTECTION OF CULTURAL GOODS
+
+107
+
+outsider) of a cultural good is questionable according to Mas-Colell.38 He argues
+that a perfect description of the object is infeasible and, accordingly, that the unique
+characteristics of an original are hard to identify. Valuations of the goods are de-
+pendent on the intrinsic motivation of both culture carriers and outsiders, but he
+argues that the owners are not always interested in preventing the property from
+being copied because the spreading of copies can still raise the value of the orig-
+inal (as already mentioned here).
+
+In this quadrant, existing legal tools can be useful in solving the problem. For ex-
+ample, the system of fair trade ensures that goods from a particular part of the world
+that were produced according to the legality of fair trade cannot be produced and
+sold by another person who is not involved.39 Moral rights in, for instance, Austra-
+lia or the United Kingdom give opportunities to creators to protect their integrity
+right and their work’s underlying knowledge and content from infringement.40 This
+means that reproduction and alteration of the work is only allowed under the su-
+pervision of the author, which arguably prevents misuse and misrepresentation.
+
+The history of origin of the Quileute in America can provide an example for this
+quadrant. Due to Stephenie Meyer’s vampire chronicles, this group of people has be-
+come very well-known and famous.41 The Twilight story, which is based on the cre-
+ation saga of the Quileute, has generated enormous revenues from books, movies,
+and other products.42 The Quileute have not profited from these activities as yet, al-
+though the core of these products is based on their cultural property. The fame of
+the Quileute has encouraged other producers (reproducers) to begin to use the name
+Quileute as a symbol for other products such as jewelry or hoodies without the per-
+mission of the Quileute. The Quileute are ready to share parts of their culture with
+outsiders with the exception of burial grounds and religious ceremonies, according
+to their tribal law, which are “sacred and not to be entered.”43 The situation, in which
+the Quileute wish to make their certain cultural goods publicly accessible and com-
+mercialize it to earn money, means that the influence of outsiders has no identity-
+destroying effect. The interest of these people lies above all in benefiting from the
+profit earned through their culture. From an identity-economic point of view, ad-
+ditional preventive measures are not necessary at this point.
+
+The third quadrant (III) represents the most complicated cases in the analysis.
+The consumption and production of cultural goods by outsiders have negative
+effect on both direct and indirect utility of culture carriers.
+
+It is very important to distinguish among different effects on indirect utility,
+because not every attack on identity immediately equals an attack on the dignity
+of a person. In other words, not every kind of cultural consumption and repro-
+duction by outsiders that has a negative impact on indirect utility is at the same
+time a violation of dignity. For this reason, we separate the effects on indirect util-
+ity into two parts, which are divided by the acceptability-line (see figure 2). This
+acceptability-line varies from nation to nation (or culture to culture) according to
+their respective constitutional norms and the accompanying administration of jus-
+tice. This line is a flexible concept; the definition of the exact position and mean-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+108
+
+MARIANNA BICSKEI, KILIAN BIZER, AND ZULIA GUBAYDULLINA
+
+ing of this line reflects existing norms in society and could vary in different societies.
+It is therefore subject to discussions and judgments of courts of justice in a par-
+ticular country. In short, “dignity does not depend on personal favours and occa-
+sional balances of power, but on social openness guaranteed by the rule of law,
+vigilant public debate, the plurality of associations, and social rights.”44
+
+The self-determination of a cultural group’s own identity in accordance with their
+tradition and customs was recognized in the Declaration on the Rights of Indig-
+enous Peoples of the United Nations.45 Furthermore, the connection between the
+culture and the dignity of the culture carriers was considered. According to this dec-
+laration, these groups “have the right on the dignity and diversity of their cultures,
+traditions, histories and aspirations.”46 Dignity is a person’s fundamental right. Other
+fundamental rights such as privacy or religion are based on the concept of dignity.
+In the case when a cultural good is an inseparable component of a culture and the
+fundamental identity of the culture carriers is thereby influenced, the protection-
+worthiness of that cultural good would be corroborated. The position of the line re-
+flecting these identity- and dignity-essential characteristics of the cultural goods is
+defined by an acceptance of those involved. Therefore, this line will take other po-
+sitions within different cultures and cultural groups. This approach is supported by
+the following UN directive concerning Human Rights:“recognizing, respecting, valu-
+ing their customs, rules is essential to their identity, dignity.”47 This effect becomes
+disastrous below the acceptability-line on the basis of identity in figure 2.
+
+The gray shaded area below the acceptability-line contains those cultural goods
+that need protection on the basis of identity. Here, the effect of outsiders on the
+identity and the dignity of the culture carriers is so strong that the losses of the
+culture carriers cannot be tolerated any more. Therefore, protection is justified, as
+in these cases the dignity of a person is endangered.
+
+Let us exemplify this by the original Hopi or Navajo tradition of sweat lodges,
+in which a cleansing of body and spirit takes place. According to the traditional
+tribal law, it was forbidden to charge any fees for this holy and intimate cere-
+mony.48 The mere fact of outsiders consuming and even reproducing this sacral
+ritual resulted in an outcry by the indigenous people. Because it concerns a ritual,
+the Navajos are offended49 and suffer a loss in their identity if an outsider carries
+out the same ritual as a measure of well-being. From the point of view of indig-
+enous leaders, “most hallowed ideas and rituals” constitute goods “which cannot
+diffuse to others without suffering harm.”50 Therefore, it seems obvious that cul-
+tural goods below the acceptability-line in this quadrant are in need of protection.
+In cases above the acceptability-line, where the dignity, that is, the fundamental
+identity of a person or group, is not affected, an economic analysis can help to
+find an optimal solution. Therefore, there are three groups relevant to economic
+consideration51—culture carriers, culture reproducers, and outsider consumers.
+However, in connection with the direct, economic benefit, the United Nations stress
+that the cultural groups should be the beneficiaries of a commercial use of their
+cultural goods.52
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+PROTECTION OF CULTURAL GOODS
+
+109
+
+The problem could consist in a positive correlation of the outsider consumers’
+utility with the importance of the cultural goods for the culture carriers, so that
+cultural goods with potential identity-destroying effects could be especially valu-
+able to outsider consumers.53 Therefore, it is crucial to distinguish these different
+aspects of the cultural utility function of culture carriers. The analysis of our sec-
+ond quadrant applies in cases where there is no indication of cultural consump-
+tion or additional cultural reproduction by outsiders with an identity-destroying
+effect (cases above the acceptability-line). As an example, take the noble stratum
+of the Toraja society, marapuan, who are identified by owning a tongkonan, a tra-
+ditional Toraja house. The tongkonan is an impressive and complex structure; the
+creation of such a building requires skill and vast resources.54 The noble mara-
+puan enjoy the privileges of decorating their houses in a special way (with paint-
+ings and carvings) and pursuing funeral rituals. The size of the tongkonan and
+the quality of its decorations, carvings and paintings displays rank, honor, and
+social prestige.55 Large-scale emigration in the 1970s and the resultant remit-
+tances sent home changed the social landscape—Toraja families of low status were
+now able to build large tongkonans and organize expensive, imposing funeral cer-
+emonies (thus acting as additional culture reproducers). These in turn attracted a
+growing number of foreign tourists (as outsider consumer). The noble marapuan
+are critical of this development and would like to protect their traditional social
+position,56 which is closely related to the rights to build tongkonans and organize
+imposing funeral rituals. Nevertheless, previous research does not reveal the ex-
+tent to which the nobility seeks protection of its privileges.57 The identity-providing
+effect is in fact clear, but seems to be rising with the number of outsider consum-
+ers. Thus, there is no clear reason to believe that the fundamental part of the group’s
+identity or dignity is affected. Therefore, the overall economic effect for the whole
+region is higher, if additional culture reproducers enter the market and attract
+more tourists. Its distributional consequences for society and the reinvigorating
+effect on tradition are additional positive effects of no protection.
+
+In the fourth quadrant (IV) are cases in which outsiders cause positive effects
+on the direct part of utility and at the same time induce losses in indirect utility.
+Above the acceptability-line as in the third quadrant are cases for which the analy-
+sis of the second quadrant should be applied. Below the line an example could be
+the case of “selling one’s soul to the devil,”58 which in spite of causing identity-
+destroying effects still has some positive effects with respect to payment. In the
+story of Timm Thaler or the Sold Laughter59 the youthful protagonist sells his laugh-
+ter to an impersonation of the devil and consequentially wins every bet, but soon
+discovers the value of his laughter and wants to cancel the transaction. At least as
+long as transactions are completely voluntary and do not exploit the situation (the
+devil entices a youngster to sell his laughter), such cases in the fourth quadrant
+might remain an exception because cultural carriers will weigh the positive direct
+effects against the negative identity effects and can decide for themselves. Further
+regulation is required only if representation within groups is problematic. Apart
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+110
+
+MARIANNA BICSKEI, KILIAN BIZER, AND ZULIA GUBAYDULLINA
+
+from that, another example for a good containing a strong identity or dignity char-
+acter attached to its culture carriers is to be considered. For example, the peak of
+the Kailas Mountain has not been climbed because of its sacredness.60 Neverthe-
+less, outsider tourisms would generate revenues for both the culture carriers and
+the whole region. On the other hand, climbers or other persons on the top would
+destroy the soul and dignity of the culture carriers. In such a scenario a protection-
+worthy good exists and requires additional protection measures justified by the
+negative impacts on the identity and dignity of the culture carriers.
+
+This classification based on direct and indirect utility effects shows that only
+cultural goods of the third and fourth quadrants need protection. Within these
+quadrants we have distinguished between cultural goods that influence the fun-
+damental identity and thereby dignity of a person or a group, consequently re-
+quiring protection, and cultural goods for which a cost-benefit analysis can help
+to find an optimal solution (regarding whether consumption or production for
+outsiders can be allowed). In these latter cases additional regulation may be nec-
+essary to adequately represent the interests of the groups involved.
+
+PROTECTION OF CULTURAL GOODS
+
+Within the debate around the protection of cultural goods, the most important
+arguments are those that analyze, primarily, trade with cultural goods and the
+overall economic effects, not the protection worthiness of the cultural goods per
+se. However, our approach focuses on the characteristic of cultural goods to
+also provide indirect utility based on identity and dignity. Consequently, we as-
+certain a protective need first of all only for those cultural goods that are essen-
+tial to identity and dignity. We come to this result because we recognize a
+connection between the dignity of the person and certain cultural goods. In-
+deed, by no means do all cultural goods have a direct influence on the identity
+and with it the dignity of individuals. Therefore, only few goods are located below
+the acceptability-line of figure 2 for which additional preventive measures are to
+be introduced.
+
+Since only a minority of cultural goods require protection, those affecting the
+
+fundamental identity and dignity of persons and groups, some questions arise:
+
+1) How can we determine whether a cultural good possesses a fundamental
+identity- or dignity-providing effect, which would justify protection by law?
+
+As far as different cultural goods belonging to different societies or groups are
+concerned, no general rule can be applied. The decision of whether a cultural good
+has this characteristic or not can only be made in a single case analysis by a court
+of law, in which the interests of culture carriers should be combined with opin-
+ions of independent experts and other interested groups.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+PROTECTION OF CULTURAL GOODS
+
+111
+
+The definition of what cultural goods are identity-critical can be determined by
+the groups themselves. According to the United Nations, cultural groups have the
+right to take part in the decision-making processes concerning their rights.61 Ba-
+sically, this entails that culture carriers or their representatives must become the
+most important actors in the process of assessing and recognizing these cultural
+goods. Culture carriers should have “a legitimate interest in exercising a duty of
+care or ‘stewardship’ over resources”62 that represents their collective cultural iden-
+tity or “peoplehood.” The sacred goods and spiritual elements, which presumably
+form the majority of the protection-worthy goods below the acceptability-line,
+should stand in the center of these investigations. Examining particular cases for
+such protection must take central stage within the decision process. To take the
+interest of other parties (outsiders) into account and not to threaten the public
+domain unnecessarily by granting additional protection for all cultural goods, the
+secrecy and the connected strong values of these goods to the cultural community
+must be clearly identifiable. As Carpenter et al.63 suggest, in some cases tribal cus-
+tomary law clearly identifies “certain resources as critical to the community and
+thereby necessitating human care.” Of course, this is just one possibility for ob-
+taining evidence of the need for protection of these particular goods.
+
+Summing up, as stated by Brown,64 there is a need to separate the claims re-
+garding economic justice and those regarding respectful treatment of cultural ele-
+ments. Therefore, in cases where the objections of culture carriers against outsider
+consumption and reproduction of particular goods are not of an economic na-
+ture, this could serve as evidence for further investigation of protection-worthiness.
+
+2) If a cultural good does not have any fundamental identity- or dignity-
+
+providing effect, how should the market be regulated?
+
+Cultural goods show quite a few similarities to intellectual property, mostly be-
+cause of their immaterial character. However, protecting cultural goods with the
+same instruments as intellectual property rights cannot be a suitable mecha-
+nism, as criteria of novelty (patents) or individual authorship (copyright) are
+not met. Some cultural goods like paintings, sculptures, buildings or monuments
+are safeguarded by the instrument of the UNESCO World Heritage Site. How-
+ever, while this does not always imply optimal protection, it rather offers com-
+mercialization opportunities.65 In cases of the first and second quadrants, and
+above the acceptability-line of the third and fourth quadrants for immaterial cul-
+tural goods, where the privacy of the culture carriers is not at stake, the UNESCO
+Convention for the Safeguarding of Intangible Cultural Heritage66 provides an
+adequate instrument. On the international level, it aims “at ensuring the viability
+of the intangible cultural heritage” and “to ensure recognition of, respect for, and
+enhancement of the intangible cultural heritage . . . of the communities groups
+or individuals concerned.” However, these legislations are not sufficient for cases
+located below the acceptability-line.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+112
+
+MARIANNA BICSKEI, KILIAN BIZER, AND ZULIA GUBAYDULLINA
+
+3) What role does the international community play within the regulation pro-
+
+cess for cultural goods under the acceptability-line?
+
+The international community should feel responsible for creating a legal environ-
+ment, in which particular cases can be scrutinized and enforced. This in turn would
+facilitate communicating the importance and the role of culture and cultural goods
+in the respective societies.
+
+Additionally, the market for cultural goods is not limited to a specific country.
+The actors such as consumers and producers can be situated abroad, thus making
+multilateral and bilateral international consultations necessary. Brown67 argues that
+a global market also requires a global controlling regime going beyond mere bi-
+lateral solutions.
+
+Another challenge consists in the fact that not all societies or indigenous groups
+are recognized by their own country. The international level could provide a venue
+for particular cases which require mediation. Particular societies should take the ini-
+tiative (as a private initiative) in the case of disagreement with their own govern-
+ment. Otherwise, the state level is entitled to solve the problem. The Indigenous
+Caucus of the WIPO provides a stage with which international attention can be at-
+tracted, in which NGOs (nongovernmental organizations) and indigenous groups
+from the whole world point to the problem of insufficient protection of cultural
+goods.
+
+4) What kind of rights can be granted for culture carriers’ cultural goods that
+
+are worthy of protection?
+
+Speaking only about cultural goods under the acceptability-line, negative effects on
+identity and dignity need to be avoided. For this, culture carriers are required to be
+able to control and supervise the consumption of their cultural goods by outsiders
+and restrict access to their holy or spiritual cultural goods, which are strongly con-
+nected to their identity or dignity. Because of the special nature of these cultural
+goods, general property rights are not a sufficient tool to prevent the commercial-
+ization of cultural goods. However, property rights are required to exclude others
+from consuming and producing these cultural goods. Thus, to some extent, search-
+ing for such “defensive” legal instruments as sui generis rights seems to support these
+goals. The international regime has already turned its focus on these special prop-
+erty rights granting moral rights to culture carriers while recognizing group own-
+ership and ensuring protection lasting in perpetuity.68 Under the auspices of
+WIPO, the elaboration of a draft proposal for sui generis rights for the protection of
+traditional cultural expressions (TCEs)69 (defined as of material or immaterial na-
+ture, or a combination of these) is currently on the agenda. Article 3 (alternative 3)
+of this preliminary version addresses to some extent the mentioned cultural goods
+proposing a provision of “adequate and effective [legal or practical] measures . . . to
+prevent the [unauthorized fixation, disclosure, use or other exploitation] disclo-
+sure of secret traditional cultural expressions,” while as overall objectives recogniz-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+PROTECTION OF CULTURAL GOODS
+
+113
+
+ing that these “cultural communities consider their cultural heritage to have intrinsic
+value, including social, cultural, spiritual . . . values” and promoting “respect . . .
+for the dignity, cultural integrity” of these traditional cultures and communities.70
+Rights to and authority over cultural goods providing identity and dignity (such
+as secret and sacred cultural goods) is a necessary requirement to keep outsiders
+out, which thus avoids a consumption and commercialization of these cultural
+goods by the latter. Granting perpetual rights, as sui generis model laws do, how-
+ever, is not a preferable solution given the dynamical nature of culture. It requires
+that people will always ascribe sacredness to certain cultural goods or declare cul-
+tural goods as providing identity and dignity. However, culture carriers and their
+identity are dynamic as well. Some cultural goods lose their meaning to culture
+carriers over time and the group of culture carriers who value a particular culture
+good need not be stable. These time limits and community limits (the changing
+character of groups valuing such goods) are important and should be incorpo-
+rated in the legislation to avoid the additional social costs caused by unnecessary
+curtailing of the public domain.
+
+CONCLUSION
+
+The international debate on the protection of cultural goods is in need of an an-
+swer to the question of what exactly is required to provide specific protection in
+addition to existing property rights. The international debate focuses on so-called
+sui generis property rights.71 However, in this article we suggest an a priori dis-
+tinction between direct and indirect effects of cultural goods. Direct effects can be
+quantified as the monetary value arising from marketing a cultural good. Even
+though in many cases it is not easy to determine such values, there is a broad
+literature on values of cultural goods.72 Indirect effects occur as negative or pos-
+itive effects on identity. Indirect effects also include option values, prestige values,
+and so forth,73 which are much more difficult to express in monetary terms.
+
+If only direct effects exist, positive and negative effects should be weighed against
+each other. Protection should be implemented if net benefits outweigh net costs
+and if this net gain is higher than in a situation with no protection of cultural
+goods including the consideration of the utility of all stakeholders. Such an eval-
+uation of net benefits must take place on a case by case basis and cannot be solved
+by introducing international standards.
+
+If indirect effects do exist, the priority is to check their impact on identity. If
+identity is affected, it is crucial to determine whether the impacts on identity go as
+far as seriously impairing the personal fundamental identity or dignity of culture
+carriers. If and only if this is the case, international norms for cultural protection
+should be implemented in the form of sui generis rights. We suggest that a serious
+impact on dignity can be assumed if the culture carriers show, for example, seri-
+ous efforts to keep a certain cultural good a secret. The respective acceptability-
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+114
+
+MARIANNA BICSKEI, KILIAN BIZER, AND ZULIA GUBAYDULLINA
+
+line must be established by the particular states and groups based on cultural
+borders and local specifics.
+
+All in all, we conclude that in very limited cases, cultural goods may require
+additional protection in the form of sui generis rights. However, the introduction
+of sui generis cultural property rights on an international level should be re-
+stricted only to cases where the dignity of culture carriers is seriously endangered.
+This has the advantage of not threatening the public domain and thus upholding
+the valuable dissemination of cultural knowledge and innovation. Beyond this cat-
+egory, however, there is a wide field in which regulatory interventions can facili-
+tate the arrival of market actors at sensible decisions.
+
+ENDNOTES
+
+1. UNESCO Convention (2005), Article 1(a) and (g).
+2. See the resent achievements on the yoga dispute at WIPO: WIPO, “WIPO and India Partner
+
+or WIPO, “About the Traditional Knowledge Digital Library.”
+
+3. Akerlof and Kranton, “Economics and Identity.”
+4. The utility function is described as Uj ⫽ Uj (aj, a−j, Ij).
+5. Akerlof and Kranton, “Economics and Identity,” 721.
+6. Akerlof and Kranton, “Economics and Identity,” 725.
+7. The difference between social category and social group is explained in Davis, Theory of the
+Individual in Economics. There exist internalist and externalist types of definition of the individual
+(p. 17). “Defining individuals as socially embedded explains them in terms of their external relations
+to one another”: the difference between social categories and social groups is of importance to signal
+this embeddedness.
+
+8. Francois and van Ypersele, “On the Protection of Cultural Goods.”
+9. See also Francois and van Ypersele, “On the Protection of Cultural Goods.”
+10. Janeba, “International Trade and Cultural Identity.”
+11. UNESCO Convention (2005), 1.
+12. Cheng, “Cultural Goods Creation,” 264.
+13. UNESCO, Universal Declaration (2001), Article 8.
+14. This article does not address the question of who belongs to such a cultural group, it rather
+assumes that a group is homogeneous and values a particular cultural good homogeneously. Devi-
+ating behaviour and its impacts within the group is not part of this analysis.
+
+15. Frey, “What Values Should Count in the Arts?” 265.
+16. See Koppel, “Patente—Unverzichtbarer Schutz Geistigen Eigentums”; Liebig, “Geistige Eigen-
+
+tumsrechte aus der Perspektive der Entwicklungsländer.”
+
+17. To judge whether a particular cultural good (such as a story or a song) belongs to one par-
+ticular culture and whether this culture (cultural group) is the only beneficiary to commercialize it,
+is not a subject of this article. See discussion about this topic in Young, Cultural Appropriation and
+the Arts; Brown, Who Owns Native Culture?
+
+18. Further classification of the utility of outsiders into direct and indirect utility is not necessary
+since in the case of outsiders the acceptance of identity in regard with a particular cultural good
+emerging from insiders is not of relevance.
+
+19. In this case, social costs should be understood as loss of utility by exclusion from consump-
+tion and the follow-up costs such as limitation of public domain, and thus the restriction of cre-
+ativity and innovation. See Lechner et al., “The Allocation of Property Rights.”
+
+20. As the individuals of the particular cultural group value a specific cultural good similarly, the
+
+culture carriers share the same cultural identity.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+PROTECTION OF CULTURAL GOODS
+
+115
+
+21. Frey and Meier, “The Economics of Museums,” 1022.
+22. Akerlof and Kranton, “Economics and Identity”; Akerlof and Kranton, “Identity and the Eco-
+
+nomics of Organizations.”
+
+23. Throsby, “Determining the Value of Cultural Goods.”
+24. See Janeba, “International Trade and Cultural Identity.”
+25. Harrison, “Identity as a Scarce Resource.” 240.
+26. Also, we are aware of the fact that the conceptual definitions serve as a tool for operational-
+ization. However, the ethnographically documentable social environment is provided with far less
+clear border drawings.
+
+27. See Janeba, “International Trade and Cultural Identity.”
+28. At this point, we neglect the negative effects, because as a rule the “new Christians” earlier
+
+belonged to another religion, with which they then caused a suitable utility loss.
+
+29. de Beus, “The Value of National Identity.”
+30. Harrison, “Identity as a Scarce Resource”; Brown, “Heritage Trouble.”
+31. Throsby, “Determining the Value of Cultural Goods,” 276.
+32. See Janke, Minding Culture: Case Studies, case study 3.
+33. See Meijl, “Maori Intellectual Property Rights”; or further discussion “Tyson’s Moko Draws
+Fire From Maori,” New Zealand Herald. 具http://www.nzherald.co.nz/nz/news/article.cfm?c_
+id⫽1&objectid⫽10727836典 (25 May 2011) accessed on 2 August 2011.
+
+34. See Pritchard, Culture, Knowledge, Property, 51–84.
+35. Lazear, “Culture and Language.”
+36. Ridler, “Cultural Identity and Public Policy.”
+37. See the investigation of this issue in Young, Cultural Appropriation and the Arts; Carpenter
+
+et al., “Clarifying Cultural Property.”
+
+38. Mas-Colell, “Should Cultural Goods Be Treated Differently?”
+39. WFTO, IFAT Standards (2007).
+40. Janke, Minding Culture: Case Studies, 20ff.
+41. Riley, A. R., “Sucking the Quileute Dry,” New York Times, February 8 2010.
+42. See Carpenter et al., “Clarifying Cultural Property.”
+43. See Riley, “Sucking the Quileute Dry.”
+44. de Beus, “The Value of National Identity,” 177.
+45. United Nations Declaration (2007), Article 33.
+46. United Nations Declaration (2007), Article 15.
+47. United Nations Report (2000), Principle 4.
+48. Rehfeld, “Tod in der Heiler-Welt,” Financial Times Deutschland, 22 October 2009.
+49. See Brown, Who Owns Native Culture? 6.
+50. See Brown, Who Owns Native Culture?
+51. Further differentiation of outsider consumers (such as on the national or international level)
+
+is also possible and adds more parameters to the maximization task.
+
+52. United Nations Report (2000).
+53. Harrison, “Identity as a Scarce Resource”
+54. Scarduelli, “Dynamics of Cultural Change,” 390ff.
+55. Scarduelli, “Dynamics of Cultural Change,” 392.
+56. Adams, “Constructing and Contesting Chiefly Authority.”
+57. Oral communication from field studies in Indonesia by Beate Engelbrecht (2009).
+58. Ejan Mackaay pointed this out at a conference held near Göttingen, Germany, on 12–15 No-
+
+vember 2009.
+
+59. Krüss, Timm Thaler oder Das Verkaufte Lachen.
+60. For some ideas about the Kailas Mountain, see Hamsa, The Holy Mountain.
+61. United Nations Declaration (2007), Articles 2 and 18.
+62. See in Carpenter et al., “Clarifying Cultural Property,” 582, referring to Carpenter et al., “In
+
+Defense of Property.”
+
+63. See Carpenter et al., “Clarifying Cultural Property,” 587.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+116
+
+MARIANNA BICSKEI, KILIAN BIZER, AND ZULIA GUBAYDULLINA
+
+64. See Brown, Who Owns Native Culture? 234.
+65. See discussions in Berger, Erb.Gut?
+66. UNESCO Convention (2003), Art. 1(a), (b), and 14(a).
+67. Brown, “Heritage Trouble.”
+68. See discussion in Bizer et al., “Sui Generis Rights.”
+69. WIPO, The Protection of Traditional Cultural Expressions: Draft Articles (2011).
+70. See WIPO (2011), The Protection of Traditional Cultural Expressions: Draft Articles, Objectives
+
+(i) and (ii).
+
+71. Brown, “Heritage Trouble.”
+72. See, for instance, Throsby, “Determining the Value of Cultural Goods”; Frey, “What Values
+
+Should Count in the Arts?”
+
+73. See Frey and Meier, “The Economics of Museums.”
+
+BIBLIOGRAPHY
+
+Adams, Kathleen M. “Constructing and Contesting Chiefly Authority in Contemporary Tana Toraja,
+Indonesia.” In Chiefs Today, edited by Geoffrey Miles White and Lamont Lindstrom, 264–75. Stan-
+ford, CA: Stanford University Press, 1997.
+
+Akerlof, George A., and Rachel E. Kranton. “Economics and Identity.” The Quarterly Journal of Eco-
+nomics 115, no. 3 (2000): 715–53.
+
+———. “Identity and the Economics of Organizations.” Journal of Economic Perspectives 19, no. 1
+(2005): 9–32.
+
+Berger, Karl C. Erb.Gut? Kulturelles Erbe in Wissenschaft Und Gesellschaft; Referate Der 25. O¨ sterre-
+ichischen Volkskundetagung Vom 14–17.11.2007 in Innsbruck. Edited by Karl C. Berger, Margot Schin-
+dler and Ingo Schneider. Vol. 23, Buchreihe Der O¨ sterreichischen Zeitschrift Für Volkskunde; N.S.,
+23. Wien: Selbstverl. des Vereins für Volkskunde, 2009.
+
+Bizer, Kilian, Matthias Lankau, Gerald Spindler, and Philipp Zimbehl. “Sui Generis Rights for the
+Protection of Traditional Cultural Expressions Policy Implications.” jipitec 2 (2011).
+
+Brown, Michael F. Who Owns Native Culture? Harvard University Press, 2003.
+
+———. “Heritage Trouble: Recent Work on the Protection of Intangible Cultural Property.” Inter-
+national Journal of Cultural Property 12, no. 01 (2005): 40–61.
+
+Carpenter, Kristen A., Sonia K. Katyal, and Angela R. Riley. “In Defense of Property.” The Yale Law
+Journal 118, no. 6 (2009): 1022–125.
+
+———. “Clarifying Cultural Property.” International Journal of Cultural Property 17, (2010): 581–98.
+
+Cheng, Sao-Wen. “Cultural Goods Creation, Cultural Capital Formation, Provision of Cultural Ser-
+vices and Cultural Atmosphere accumulation.” Journal of Cultural Economics 30, (2006): 263–86.
+
+Davis, John B. The Theory of the Individual in Economics: Identity and Value. London: Routledge,
+2003.
+
+de Beus, Jos. “The Value of National Identity.” In The Value of Culture, edited by Arjo Klamer, 166–
+86. Amsterdam: Amsterdam University Press, 1996.
+
+Francois, Patrick, and Tanguy van Ypersele. “On the Protection of Cultural Goods.” Journal of Inter-
+national Economics 56, no. 2 (2002): 359–69.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+PROTECTION OF CULTURAL GOODS
+
+117
+
+Frey, Bruno S. “What Values Should Count in the Arts? The Tension Between Economic Effects and
+Cultural Value.” In Beyond Price, edited by Michael Hutter and David Throsby, 261–69. New York:
+Cambridge University Press, 2008.
+
+Frey, Bruno S., and Stephan Meier. “The Economics of Museums.” In Handbook of the Economics of
+Art and Culture, edited by Victor A. Ginsburgh and David Throsby, 1017–47. Amsterdam: Elsevier,
+2006.
+
+Hamsa, Bhagwa¯n Shri. The Holy Mountain: Being the Story of a Pilgrimage to Lake Ma¯nas and of
+Initiation on Mount Kaila¯s in Tibet. With an Introduction by W. B. Yeats. Delhi: Pilgrims Book, 1997.
+
+Harrison, Simon. “Identity as a Scarce Resource.” Social Anthropology 7, no. 3 (1999): 239–51.
+
+Janeba, Eckhard. “International Trade and Cultural Identity.” NBER Working Paper Series. Cam-
+bridge: National Bureau of Economic Research, 2004.
+
+Janke, T. Minding Culture: Case Studies on Intellectual Property and Traditional Cultural Expressions:
+World Intellectual Property Organization, 2003.
+
+Koppel, Oliver. “Patente—Unverzichtbarer Schutz Geistigen Eigentums.” Wirtschaftsdienst 88, no. 12
+(2008): 775–80.
+
+Krüss, James. Timm Thaler Oder Das Verkaufte Lachen [Timm Thaler or the Sold Laughter]. Ham-
+burg: Oetinger, 1962.
+
+Lazear, Edward P. “Culture and Language.” Journal of Political Economy 107, no. 6 (1999): S95.
+
+Lechner, Sebastian, Zulia Gubaydullina, and Kilian Bizer. “The Allocation of Property Rights to In-
+tangible Cultural Assets.” In Discussion Paper Series, 1–16. Göttingen: Universität Göttingen, 2008.
+
+Liebig, Klaus. “Geistige Eigentumsrechte Aus Der Perspektive Der Entwicklungsländer: Ein
+Zwiespältiges Instrument.” Wirtschaftsdienst 88, no. 12 (2008): 780–83.
+
+Mas-Colell, Andreu. “Should Cultural Goods Be Treated Differently?” Journal of Cultural Economics
+23, (1999): 87–93.
+
+Meijl, Toon von. “Maori Intellectual Property Rights and the Formation of Ethnik Boundaries.” In-
+ternational Journal of Cultural Property 16, (2009): 341–55.
+
+Pritchard, Stephen. Culture, Knowledge, Property. North Melbourne, Victoria: Australian Scholarly
+Publishing, 2008.
+
+Ridler, Neil B. “Cultural Identity and Public Policy: An Economic Analysis.” Journal of Cultural Eco-
+nomics 10, no. 2 (1986): 45–56.
+
+Scarduelli, Pietro. “Dynamics of Cultural Change among the Toraja of Sulawesi.” Anthropos (2005):
+389–400.
+
+Throsby, David. “Determining the Value of Cultural Goods: How Much (or How Little) Does Con-
+tingent valuation Tell Us?” Journal of Cultural Economics 27, (2003): 275–85.
+
+UNESCO. Universal Declaration on Cultural Diversity. Paris: UNESCO, 2001.
+
+———. Convention for the Safeguarding of the Intangible Cultural Heritage. Paris: UNESCO, 2003.
+
+———. Convention on the Protection and Promotion of the Diversity of Cultural Expressions. Paris:
+UNESCO, 2005.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+118
+
+MARIANNA BICSKEI, KILIAN BIZER, AND ZULIA GUBAYDULLINA
+
+United Nations. Commission on Human Rights, Human Rights of Indigenous Peoples, Report of the
+Seminar on the Draft Principles and Guidelines for the Protection of the Heritage of Indigenous People.
+Geneva: UN, 2007.
+
+———. United Nations Declaration on the Rights of Indigenous Peoples. Resolution adopted by the
+General Assembly 61/295. New York: UN, 2007.
+
+World Fair Trade Organization. IFAT Standards for Fair Trade Organizations. Belgium: World Fair
+Trade Organization, 2007.
+———. “WIPO and India Partner to Protect Traditional Knowledge from Misappropriation.” Geneva/
+New Delhi, 2011. 具http://www.wipo.int//pressroom/en/articles/2011/article_0008.html典 accessed 18
+July 2011
+
+World Intellectual Property Organization. “About the Traditional Knowledge Digital Library (Infor-
+mation Courtesy of the Council of Scientific and Industrial Research).” 具http://www.wipo.int/
+meetings/en/2011/wipo_tkdl_del_11/about_tkdl.html典 accessed 18 July 2011.
+
+———. Intergovernmental Committee on Intellectual Property and Genetic Resources, Traditional
+Knowledge and Folklore. The Protection of Traditional Cultural Expressions: Draft Articles. Document
+prepared by the Secretariat. Geneva, 2011.
+
+Young, James O. Cultural Appropriation and the Arts. Wiley-Blackwell 2010.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:18:24, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739112000070
+
+

@@ -1,0 +1,1045 @@
+International Journal of Heritage Studies
+
+ISSN: 1352-7258 (Print) 1470-3610 (Online) Journal homepage: https://www.tandfonline.com/loi/rjhs20
+
+On the Cultural Heritage of Robots
+
+Dirk H. R. Spennemann
+
+To cite this article: Dirk H. R. Spennemann (2007) On the Cultural Heritage of Robots,
+International Journal of Heritage Studies, 13:1, 4-21
+To link to this article:  https://doi.org/10.1080/13527250601010828
+
+Published online: 14 Dec 2006.
+
+Submit your article to this journal 
+
+Article views: 256
+
+Citing articles: 3 View citing articles 
+
+Full Terms & Conditions of access and use can be found at
+
+https://www.tandfonline.com/action/journalInformation?journalCode=rjhs20
+
+International Journal of Heritage Studies
+Vol. 13, No. 1, January 2007, pp. 4–21
+
+On the Cultural Heritage of Robots
+Dirk H. R. Spennemann
+
+DirkSpennemann
+dspennemann@csu.edu.au
+Taylor and Francis Ltd
+RJHS_A_200977.sgm
+10.1080/13527250601010828
+International Journal of Heritage Studies
+1352-7258 (print)/1470-3610 (online)
+Original Article
+2006Taylor & Francis Ltd
+131000000January 2007
+
+Cultural heritage management is an inherently retrospective discipline. To the detriment
+of future heritage management, some heritage places were not recognised and managed
+even though they had instant global significance after their creation (e.g. sites of the Apollo
+space programme). The current revolution in robotic technologies, coupled with the devel-
+opments in artificial intelligence, suggests that the creation of self-reflective robots capable
+of  semi-independent  thought  (processes)  is  not  too  far  away.  This  paper  explores  the
+conceptual and ethical issues that heritage managers face when dealing with the heritage
+such robots will create.
+
+Keywords: Cultural Heritage Management Theory; Artificial Intelligence; Robotics; Space 
+Heritage
+
+The aim of this paper is to generate some reflection on and discussion of the future of
+our  heritage.  This  paper  will  not  cover  familiar  ground  by  looking  at  the  abundant
+literature on the agents and processes that influence the future of our heritage, be they
+political,1 administrative,2 economic,3 social or environmental.4 The focus of the paper
+rests in the conceptual realm of heritage futures.
+
+By its nature, cultural heritage management (in the USA, ‘historic preservation’) is a
+discipline that is intensely retrospective. Indeed, the heritage laws of some countries
+require that a certain time has elapsed before a property may be deemed eligible for
+inclusion  in  heritage  lists.  The  US  Historic  Preservation  Act  with  its  50-year  rule
+springs to mind (but is not the only one) where the justifications for exceptions to this
+rule are very complicated.5 While in the USA the debate has commenced on finding
+ways to recognise late 20th-century heritage under the existing framework,6 these legal
+provisions  have  prevented  the  heritage  value  of  sites  associated  with  the  Apollo
+programme being formally recognised the moment Neil Armstrong stepped onto the
+lunar surface—even though the significance of the event for humanity as a whole was
+indisputable.7 As a result, quite a number of sites and items were lost because formal
+assessment was not carried out.8
+
+Dirk H. R. Spennemann, Charles Sturt University. Correspondence to: dspennemann@csu.edu.au
+
+ISSN 1352–7258 (print)/ISSN 1470–3610 (online) © 2007 Taylor & Francis
+DOI: 10.1080/13527250601010828
+
+International Journal of Heritage Studies
+
+5
+
+There is substantial potential for the loss of emergent heritage(s), especially in the area
+of technologies. Examples range from decommissioned as well as still operating nuclear
+power plants to laboratories and installations, where ground breaking research has been
+carried  out,  such  as  the  Human  Genome  DNA  laboratory  at  Lawrence  Livermore
+National Laboratory in Livermore (CA, USA) or the much more imposing CERN facility
+near  Meyrin  (Switzerland)  and  other  superconductor  establishments.  While  some
+thought has been given to the management of technological facilities that are still in use
+today and form industrial and ongoing technological investment9 the issue of recogn-
+ising emergent heritage has not seen enough attention from heritage managers.
+
+If future heritage potential is not to be lost, then a paradigm shift is required that
+challenges the retrospective nature of cultural heritage management and the concom-
+itant mindset of many of its practitioners—well trained, yet moulded into a confined
+outlook on heritage through their education as archaeologists or architects,10 as well as
+through  exposure  to  daily  commercial  pressures.  Rather  than  relying  solely  on
+retrospective evaluation, responsible ‘stewardship’11 entails that heritage practitioners
+are also cognisant of contemporary and emerging issues. To the physical manifesta-
+tions of these issues (in the form of sites, buildings or landscapes) the precautionary
+principle needs to be applied.12 There is no logical reason why protective listing cannot
+and should not occur for very recent heritage. Under the Australian legal framework
+this is certainly possible as the following two examples will illustrate.
+
+The first example is the Broadarrow Café at Port Arthur, Tasmania, where on 29
+April  1996  a  single  gunman  shot  35  and  killed  20  people  (with  another  15  killed
+elsewhere in the grounds of the Port Arthur historic site). While the café was to be
+demolished once it was no longer needed as a crime scene, heritage practitioners soon
+after argued that this site, albeit imbued with dissonant heritage values, encapsulated a
+fundamental  change  in  Australian  society,  leading  to  the  banning  of  handguns  and
+automatic  weapons  across  the  nation.13  The  social  significance  of  these  events  was
+immediately  recognisable  and  did  not  require  the  passage  of  time.  Hence,  heritage
+protection of the site was warranted and justified.14
+
+The second example is the lecture theatre and administrative buildings of Charles
+Sturt University’s Thurgoona (New South Wales) campus. Erected in 1997–2001 using
+rammed earth technology, the buildings and the landscaping in which they are set are
+as environmentally neutral as possible, relying on passive energy, with solar heating
+and water cooling (piped through large farm dams acting as heat exchangers), as well
+as composting toilets and artificial wetlands for purification of human waste.15 Even
+though the buildings are very recent, they have been the stimulus for a more wide-
+spread application of the design and technology in the region, including application in
+schools,  churches  and  private  dwellings.  For  this  reason  the  lecture  theatre  and
+administrative  buildings  have  been  included  as  worthy  of  protection  in  the  recent
+Albury City Heritage Study16 and are poised to be included in the local legal protection
+framework to be finalised in late 2006.
+
+Given the mutability of heritage values, a proper application of the precautionary
+principle does not mean that decisions made today need to be permanent. Rather, they
+provide a future generation of heritage professionals with options they otherwise may
+
+6 D. H. R. Spennemann
+
+lack. If it becomes clear, with the passage of time and a reassessment of the values, that
+the initial assumptions about the future values of the listed sites were over-optimistic,
+the site can be delisted.17
+
+This kind of proactive thinking and the actions derived from it have already been
+applied to some future developments. A good number of spacecraft circle the Earth in
+stable  or  geostationary  orbits.  Calls  have  been  made  to  maintain  some  of  these  for
+future heritage managers to classify, evaluate and manage.18 As human exploration of
+the universe moves on to other planets, the spectre of cultural landscapes created on
+other planets has raised its head among the conservation movement and ethicists. Mars
+appears to be the next celestial body to be explored by human endeavour—although a
+return to the Moon will occur in the more immediate future.19 A debate on the ethics
+of ‘terra-forming’ or the creation of Earth-like, and thus human-inhabitable, environ-
+ments  on  Mars  has  started,  with  some  scholars  advocating  that  an  (inter-)national
+parks system should be established on Mars in order to protect some areas from human
+interference.20
+
+Although some of the issues and subject matter is that of present and future heritage,
+and even though the concept of terra-forming Mars sounds quite futuristic to many,
+all examples are mere extensions of the present concepts. Indeed, practicalities of access
+and  law  enforcement  aside,  all  issues  can  be  dealt  with  using  existing  paradigms.
+Common to the above considerations of contemporary, emergent and future heritage
+is  the  fact  that  heritage  is  still  constructed  as  the  processes  and  products  of  human
+interaction  with  the  environment  surrounding  us,  which,  over  time,  has  already
+become a human artefact in its own right: a cultural landscape.21
+
+This  paper  wishes  to  expand  this  discourse  and  consider  the  nature  of  heritage
+created not by humans but by machines. What is the nature and future of the Earth’s
+robotic heritage?
+
+The predictable response to the question will be one of disbelief. Why, then, in the
+face of possible ridicule should one pursue such a topic?22 The author believes that the
+matter of robotic heritage will be a major issue faced by the next generation of heritage
+managers. These are not questions of an idle academic mind. As will be shown below,
+artificial intelligence, unbeknownst to most users, has already become quite pervasive
+in modern society and robotic appliances are entering the consumer market in a series
+of guises.23 We have to consider the heritage dimensions now, while we still have a
+chance to develop appropriate mechanisms and protocols.
+
+Robots and Robotics
+
+A couple of definitions are needed to set the scene. A robot, as defined by practical
+English  usage,  is  a  machine  or  device  that  performs  tasks  subject  to  direct  human,
+programmed controls with human interaction and supervision, or completely auton-
+omously based on programmed routines. Robotics is the science or study of the tech-
+nology associated with the design, fabrication, theory, and application of robots.24
+
+Both  academic  and  popular  (science  fiction)  writing  quickly  took  to  the  term
+robotics, coined by Isaac Asimov in 1941 in the short story ‘Liar!’25 Asimov created a
+
+International Journal of Heritage Studies
+
+7
+
+world where robots were capable of independent rational thought although tied and
+subservient  to  humanity  through  a  set  of  behavioural  rules  (Asimov’s  three  laws  of
+robotics).26
+
+While  his  concepts  still  remain  fictional,  recent  advances  in  the  field  of  remote-
+controlled  technology  and  robotics  have  been  phenomenal.  While  manufacturing
+robots have been employed in the automotive industry since the early 1980s,27 mobile
+units  have  been  more  recent.  They  have  become  increasingly  advanced  in  their
+capabilities, while at the same time simple models, such as Sony’s robotic dog AIBO,
+and Sony’s robotic biped SDR-3x have entered the consumer and toy market.28 Honda
+has been developing the humanoid robot ASIMO,29 which is capable of stepping down
+stairs and navigating predefined environments. It has been deployed as a tour guide in
+museums as well as a greeter in, for example, trade fairs.
+(Source: Honda.)Likewise,  remote-controlled  equipment,  such  as  satellites,  cruise  missiles,  bomb
+removal and deep-sea submersibles have been around for some time, but advances in
+computing power have seen their capabilities increase exponentially.30 The RoboCup,
+where programmed full-size robots play soccer, is an example of advanced technology
+in  which  individual  robots  make  situational  decisions.31  All  these  technologies,
+however,  are  still  based  on  programmed  decision  trees  and  activity  sequences.  In  a
+sense, all of these examples are machines that operate independently, but under direct
+human guidance or through indirect, programmed human coordination.
+
+Figure 1 Honda’s ASIMO humanoid robot.
+
+Early attempts were made to develop routines that could, with some ‘freedom of
+choice’,  develop  interactive  chess  programs  and  other  situational  video  games.32
+Although these initial attempts were quite restricted in their options, since then new
+developments  in  artificial  intelligence  (AI)  have  seen  the  gradual  development  of
+computing algorithms that can out-think grandmasters at the game of chess, analyse
+and create music and art, develop and self-learn construction rules, develop new car
+body shapes, influence transportation systems or design aircraft parts. AI can be used
+to equip machines with independent decision-making capabilities based on predefined
+grammatical  (rather  than  fixed)  rule  sets,  obviating  the  need  for  the  presence  of
+humans. Not surprisingly, military applications have been at the forefront: uncrewed
+combat vehicles and surveillance planes have been developed and deployed and are
+continually being given increased capabilities.33
+
+In  addition,  experiments  have  been  made  to  introduce  robots  into  the  (human)
+rehabilitation environments as well as socio-bots,34 suggesting that a wave of socially
+useful robotic applications is not too far off.
+
+At present, none of the robots are included in national lists of cultural heritage items
+protected  from  export  or  destruction.  Some  scholarly  research  on  the  matter  has
+commenced, at least in the realm of computers, as is evidenced by the journals IEEE
+Annals of the History of Computing as well as Iterations: A Journal of Software History
+and  the  work  carried  out  by  the  Charles  Babbage  Institute  at  the  University  of
+Minnesota. Science and technology museums have been collecting examples of such
+equipment as part of their mission. There are also some Web archives that focus on
+historic software.35 It is not that part of cultural heritage, however, that is the focus of
+the remainder of this paper, but the artefacts and places created or modified by robots.
+
+8 D. H. R. Spennemann
+
+Figure 1 Honda’s ASIMO humanoid robot.
+(Source: Honda.)
+
+Places Created by Robots
+
+The  stimulus  for  this  paper  arose  out  of  an  assessment  of  the  management  options
+related to the cultural heritage places and items on the lunar surface.36 While these
+papers dealt with the traces left by humans, the issue of the management of traces left
+by remote-controlled and robotic probes arose. Let us look at the issues at hand.
+
+International Journal of Heritage Studies
+
+9
+
+If we ignore point-sample collection devices such as Luna 9 or Surveyor 3, the first
+mobile remote-controlled technology was used in space on 17 November 1970 with the
+deployment  of  Luna  17,  a  Soviet  space  probe  that  soft-landed  on  the  moon  and
+deployed Lunokhod 1, an eight-wheeled rover. The rover took soil samples and analy-
+sed them in situ. During its operational life of 10 days the rover travelled 10.5 km. A
+similar device, Lunokhod 2, was deployed in January 1973. This rover lasted for about
+four months and travelled over 37 km. The base units of the lunar probes as well as the
+base units of the lunar rovers are still on the surface of the moon. There are also the
+tracks made by the rover as well as the small depressions caused when the samples were
+dug.37
+
+Figure 2 Lunokhod 1.
+Source: NSSDC, 2002c. National Space Science Data Centre . NSSDC Master Catalog: Spacecraft . Luna 17/Lunokhod 1. NSSDC ID: 1970-095A (Online) http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1970-095A. Accessed 26 February 2004.
+
+Lunar heritage sites differ from any other heritage site on Earth (or Mars for that
+matter) in that, due to the virtual absence of an atmosphere and thus of any winds on
+the Moon, the tracks left by Lunokhod 1 and 2 as well as the footprints of the Apollo
+astronauts are preserved.
+
+Similarly, remote-controlled rovers have been successfully landed on the Martian
+surface. Like the Soviet lunar mission, the US probes collect and analyse soil samples
+
+Figure 2 Lunokhod 1.
+Source: NSSDC, 2002c. National Space Science Data Centre. NSSDC Master Catalog: Space-
+craft.  Luna  17/Lunokhod  1.  NSSDC  ID:  1970-095A  (Online)  http://nssdc.gsfc.nasa.gov/
+database/MasterCatalog?sc=1970-095A. Accessed 26 February 2004.
+
+10 D. H. R. Spennemann
+
+on the spot without the need to return to Earth. In July 1997 a US space probe soft-
+landed and deployed the six-wheeled rover Pathfinder, which operated for almost three
+months  and  travelled  less  than  ten  metres  from  the  lander.  In  December  2003  and
+January 2004 two new US space probes soft-landed, deploying the six-wheeled rovers
+Spirit in 2003 and Opportunity38 in 2004. At the time this paper went to press (in late
+2006) both are still operating, both well past their anticipated working life. Spirit has so
+far operated for 994 sols and Opportunity for 930 sols,39 travelling 6,876 m and 9,023m,
+respectively.40 A British-designed Martian rover failed to respond after landing.41
+
+The US rovers left wheel tracks on the Martian surface that have been photographed
+using  the  onboard  camera.  By  dragging  its  wheel,  one  of  the  rovers  (Opportunity)
+excavated a small trench in the soft Martian sediment, 50 cm long, 20 cm wide and
+about 9 cm deep.42 The trench was dug for sediment extraction at lower levels. These
+traces will be obliterated over time because, unlike the Moon, Mars has an atmosphere,
+where winds, and indeed storms, are known to occur. Thus it is certain that any tracks
+will be eroded in the near to mid-term future. Moreover, it is possible that an entire
+rover could be covered in Aeolian sediment.
+
+Figure 3 Trench dug by the rover Opportunity on Mars. Note also the tracks left in the fine sediment.
+Source: NSSDC, 2004c. Mars Rover Opportunity Images. Online: http://nssdc.gsfc.nasa.gov/planetary/mars_exploration_rovers/merb_images.html. Accessed 26 February 2004.
+
+However, at least on the lunar surface, such traces remain and are poised to be so for
+the foreseeable future. The only risks to their survival are human visitation to the sites
+and thus obliteration of the tracks by footprints43 and the chance that a micro-meteor
+strikes  the  exact  location  and  obliterates  the  track  by  cratering.  Of  those,  human
+visitation has the highest probability and thus poses the greatest risk.
+
+Robotic Heritage?
+
+No one would consider discussing whether a hole dug by a front-end loader is a human
+activity even though the hole was not dug by human hands or through the exertion of
+
+Figure 3 Trench dug by the rover Opportunity on Mars. Note also the tracks left in the
+fine sediment.
+Source:  NSSDC,  2004c.  Mars  Rover  Opportunity 
+Images.  Online:  http://
+nssdc.gsfc.nasa.gov/planetary/mars_exploration_rovers/merb_images.html.  Accessed  26
+February 2004.
+
+International Journal of Heritage Studies
+
+11
+
+human power. There is a direct causal relationship between a person manipulating the
+levers of the machine and the operation of the bucket of the front-end loader. Likewise,
+equipment that is continually controlled in its movements and actions by humans via
+electronic signals can be deemed to have been moved and operated by people, however
+far the controller’s physical location may be removed from that of the equipment. It is
+immaterial in such cases whether a human is actually close to the location of activity.
+Conceptually the evidence of such equipment activities is akin to the hole dug by the
+front-end loader.
+
+However, as computing technology improves, the capability of machines to make
+decisions  independent  of  direct  human  interaction  is  increasing.  The  field  of  AI  is
+improving  based  on  co-evolutionary  learning  in  the  self-organization  of  complex
+systems.44 This is bound to increase exponentially the capabilities to make decisions
+independent of interaction. There are already examples where computing algorithms
+have developed new algorithms without human interaction.45
+
+Thus the date is not too far off when we will see physical impact traces and artefacts
+of  semi-remotely  controlled,  semi-independent  robots,  ‘thinking’  and  acting  within
+broadly defined parameters of permissibility. Matters can quickly become even more
+complex as we imagine human-designed and human-programmed robots assembling
+a computer algorithm-designed satellite or interplanetary probe in a totally dust-free
+environment. It will be loaded by a human-conceptualised but computer-algorithm
+designed and part-human, part AI-programmed robot into the cargo-bay of a delivery
+vehicle.  After  having  been  safely  deposited  on  a  planetary  surface  by  human-pre-
+programmed, but independently acting, decision-making system guiding the approach
+and  landing  phases,  the  probe  will  deploy  a  part-human,  part  AI-designed  and
+programmed rover, which would then survey the planetary surface based on its AI-
+derived  decisions  for  best  effect.  While  this  may,  at  present,  sound  reminiscent  of
+George Lucas’s Star Wars, much, if not most, of the technology is actually in place or
+under development. Thus such a scenario is quite real.
+
+The previous scenario poses the ethical question of whether the physical traces left
+by such remote vehicles on the lunar surface and, should they survive, on the Martian
+surface,  constitute  evidence  of  human  interaction  with  the  environment,  and  thus
+human cultural heritage. Or are they, in fact, a new type of heritage, partly human,
+partly machine? In short, does the old concept of a human-generated heritage suffice,
+or do we need to develop a new value system for robotic heritage? And if we do, what
+would it look like?
+
+Hoeing Old Ground
+
+Before we can consider the question of a value system for robotic heritage, we need to
+reflect  on  and  consider,  albeit  briefly,  the  relevant  conceptual  underpinnings  that
+govern cultural heritage management practice on our own planet.
+
+In a broad conceptual framing, cultural heritage is the result of humankind’s inter-
+actions  with  the  environment  and  one  another.  The  outcome  of  these  processes  is
+reflected  in  a  number  of  forms  and  is  generally  divided  within  two  typologies  of
+
+12 D. H. R. Spennemann
+
+tangible  (built  environment,  sites,  landscapes,  objects  and  artefacts)  and  intangible
+cultural heritage (language, folklore, skills and customs).46 The community, from local
+to international, ascribes values of varied strength and importance to these expressions
+of  cultural  heritage.  Heritage  managers  assess  the  values  projected  onto  cultural
+heritage  places  by  the  public  against  predetermined  criteria  to  determine  their
+significance.47 Preservation theory holds that this process enables important aspects of
+the past to be identified, protected and managed for the benefit of present and future
+generations.48
+
+The discussion of heritage values has seen the move from the purely historical and
+architectural layers of cultural significance to an increased appreciation of the fact that
+social and community values underpin all heritage.49
+
+Since cultural heritage and ‘value’ in general are a human construct, the values that
+underpin  and  circumscribe  what  people  define  as  heritage  are  purely  human
+projections onto an essentially value-free animate or inanimate world.
+
+Subjective  valuation,  revaluation  and  ultimately  prioritisation  occur  consciously
+and subconsciously on a continual basis. If a choice has to be made, individuals tend to
+be  prepared  to  ‘trade-off’  one  value  against  another.  Just  as  an  individual’s  values
+underpin the personal value assessment, the congruence of individual values creates
+values held by communities. As with all values, cultural heritage values are variable
+between  communities  as  well  as  socio-economic  layers  within  a  community.
+Moreover, values as mutable qualities change in intensity of conviction over time, and
+thereby create a semi-fluid state in heritage valuations. These decisions will change with
+individual circumstances.50 This fluidity of projected values, both on an individual and
+a collective level, with continuously shifting ground rules, needs to be acknowledged.51
+The central figure in the valuations is the individual, and the central generation is the
+present one. As has been argued elsewhere, ‘we are preserving the past according to our
+present values and essentially for our own benefit, and that, plainly speaking, we are
+shaping the past in the image of our values’.52
+
+As humanity’s values change in response to the new intellectual challenges posed by
+the increased capabilities of AI-derived robots, we need to adjust our perceptions of
+‘heritage’.  Ultimately,  we  need  to  consider  that  our  present  definition  of  cultural
+heritage needs to be flexible enough to include the actions of human-designed, but AI
+‘thinking’, robots in the not-so-distant future.
+
+Future (in) Conflict
+
+The ethical question we have to answer is to what extent we wish to value robotic heri-
+tage. This issue has three levels that need to be considered.
+
+Do We Wish to Value these Aspects of Heritage in the First Place?
+
+One  could  argue  that,  after  all,  robots  and  the  programs  that  run  them  are  human
+constructions in the first place. Even with increasing AI capabilities, they are ultimately
+just machines, on which we can pull the plug at any time.
+
+International Journal of Heritage Studies
+
+13
+
+That  line  of  argument,  however,  is  not  very  compelling  as  there  is  already  an
+abundance of technological sites on the various national heritage lists. Indeed, even the
+World Heritage List contains places that have been nominated for their technological
+evidence. As heritage managers worldwide seem to have a love affair with technological
+monuments,53 there is no reason to assume that this should be any different when it
+comes to robotic heritage.
+
+There is one additional philosophical question we have to ask as heritage managers:
+at what point does an artefact cease to be a human artefact and become a ‘robofact’, one
+purely  created  by  a  robot?  The  exploration  of  such  robofacts  and  their  curation  is
+beyond the scope of this paper and will be addressed elsewhere.54
+
+Artefacts and sites created by robots, especially the first examples as derived from
+independent thought, would certainly qualify as heritage sites under standard rules as
+they  reflect  on  human  heritage.  But  as  it  stands,  while  an  inclusion  from  a  human
+perspective is possible, the heritage registers could not deal with the inclusion of sites
+that are registered for their significance from a robot perspective. Thus unless humans
+value the sites/artefacts, they will not be listed/collected. In that regard robotic heritage
+will share the same fate as until recently faced by ethnic, minority, African-American
+(in the USA) and women’s sites. In the absence of formal regulations and processes, it
+will be up to the sole discretion of the heritage manager to consider them. In essence,
+to the well-entrenched concepts of sexism and racism we can now add the concept of
+silicon-based specism.
+
+What about Value Conflicts?
+
+In  the  current,  solely  human-derived  heritage  environment  many  practitioners  are
+faced with the problem of resolving conflicts over heritage. Competing use of proper-
+ties  and  demand  for  alternative  uses  of  limited  land  for  development  means  that
+impacting  on  heritage  properties  is  commonplace.55  In  some  countries/settings  the
+value conflicts are being played out along ethnic, religious or social class lines.56
+
+It does not take much imagination to foresee a situation where the protection of
+robotic heritage will be in conflict with human development interests. Which values
+should prevail? If history and current practice is any guide, it will be the human values.
+But do we need processes in place that will allow a considered decision to be made
+before it is too late?
+
+What Rights Do AI Robots Have?
+
+The most challenging, final question relates to the rights that AI-imbued robots might
+have. Given that values and rights as we construct them to be are an anthropogenic
+concept, the matter can be easily, if dictatorially, resolved with a resounding ‘none’.
+
+This would be oversimplifying the matter, however. Several human ethicists have
+been discussing the rights that should be ascribed to our closest living ancestors among
+the great apes, in particular chimpanzees. Peter Singer has been advocating that the
+great apes (chimpanzee, gorilla and orang-utan) should be afforded ‘three basic rights
+
+14 D. H. R. Spennemann
+… the right to life; the right to liberty; and the right not to be tortured’.57 Singer bases
+his claim on the observation that in his view they are 
+
+beings who possess many of the characteristics which we consider distinctive in our
+own species. They form close and lasting attachments to others; they show grief; they
+play; when taught sign language, they tell lies; they plan for the future; they form polit-
+ical coalitions; they reciprocate favours, and they become angry when someone for
+whom they have done a favour does not respond similarly. Their intellectual abilities
+have been compared with those of children between two and three years old, and their
+social bonds are stronger than we would expect from a child of that age.58
+
+Ultimately it comes down to the question of what makes us human and the rest of the
+world not. One line of argument, the last barrier so to speak, has been that we humans
+are capable of self-awareness. However even this distinction will soon become irrele-
+vant. Once we ascribe great apes a set of rights based on Peter Singer’s concepts then,
+by extension, such rights needs to be considered too for robots once future AI-driven
+robots  have  the  ability  to  make  independent  decisions.  If  the  distinction  regarding
+rights-holding animals is made based on social and intellectual characteristics, and is
+not based primarily on genetic similarity to us humans, then the fact that robots are
+artificial life forms should not enter into the debate.
+
+The most cogent argument against the conveyance of inalienable rights to animals,
+at least under the anthropocentric concept of rights,59 also confers the corollary, the
+ascription of duties and obligations. While the fulfilment of such obligations can be
+expected of humans,60 it quite clearly cannot be expected of the great apes.
+
+Assuming  that  robots  essentially  fall  into  the  same  category  as  the  great  apes  is
+underestimating  the  potential  of  future  robots.  While  the  assumption  will  most
+certainly be consistent for the first generation(s) of independent-acting robots, that
+assumption falls short once we are contemplating fully sentient and self-aware robots.
+These  paradigms  assume  that  the  individual  (human  or  robot)  concerned  not  only
+possesses the capacity for basic consciousness (sentience), but also possess the ability to
+perceive their own existence (self-awareness). It is that level that will set robots apart
+from the great apes and thus will allow the reciprocal element of rights and obligations
+to be fulfilled.
+
+There  has  been  limited  discussion  of  the  legal  nature  and  standing  of  artificial
+intelligence61 and derived from there the rights of (future generations of) robots. Frei-
+tas raises the issue that self-aware robots should be afforded rights, and then considers
+a long list of issues where such rights might not mesh well with the current human-
+focused legal system of the USA.62 The other, and well-cited, paper by McNally and
+Inayatullah  works  along  similar  lines,  and  explores  the  interrelationship  of  human
+obligations  and  responsibilities,  as  well  as  the  obligations  and  responsibilities  of
+robots.63 At present no real work has been carried out on conceptualising the interplay
+of AI-derived and human value systems.
+
+If we ascribe rights to robots, then we have to set in place processes that ensure that
+these  rights  are  not  violated  when  we  are  dealing  with  robotic  heritage  places  and
+artefacts. It is self-explanatory that these processes, at least in the first instance, will be
+based on human value sets and priorities.
+
+International Journal of Heritage Studies
+
+15
+
+The matter can be elevated to an even higher ethical plane when we contemplate that
+AI-imbued robots may possess the evolutionary programming capability to develop
+their own value sets. The underlying assumption of most of robotics and the ethical
+literature surrounding it is that the three laws of robotics as postulated by Asimov in
+1942 are essentially feasible. Asimov construed his robots as being essentially subservi-
+ent to humans. But what will be the outcome if the values we ascribe to robotic artefacts
+and sites are not congruent with the robots’ own values?
+
+Future Heritage—Quo Vadis?
+
+This paper has raised some serious issues relating to our construction of heritage and
+how this may apply to artefacts and sites created by robots capable of (semi-)indepen-
+dent thought through improved AI algorithms.
+
+While some of the issues appear quite futuristic in concept it must always be remem-
+bered that the technological developments are progressing at an ever-accelerating pace.
+Whether  or  not  the  reader  meets  the  reasoning  in  the  paper  with  disbelief,  the  fact
+remains that it is only a matter of time until we have to face up to the question: what is
+the nature and future of the Earth’s robotic heritage?
+
+Unless we seriously consider the implications of the matter, we will stand accused by
+future generations of not protecting the emerging heritage while we had the chance.
+The  precautionary  principle  should  apply  in  this  case.  Ultimately  this  is  an  ethical
+discussion that heritage managers need to have. This paper is just the start.64
+
+Notes
+
+1 [1] Cf. Pearson and Sullivan, Looking after Heritage Places; Murtagh, Keeping Time.
+2 [2] Cf. Spennemann, ‘Risk Assessments in Heritage Planning’.
+3 [3] Cf.  Lockwood  and  Spennemann,  ‘Value  Conflicts  between  Natural  and  Cultural  Heritage
+
+Conservation’.
+
+4 [4] Cf. Weaver, Conserving Buildings.
+5 [5]
+
+Shull et al., ‘Guidelines for Evaluating and Nominating Properties that Have Achieved Signif-
+icance within the Past Fifty Years’.
+
+7 [7]
+
+6 [6] C.  Kelly,  ‘New  Opportunities.  Historic  Preservation  Tax  Incentives  and  the  Recent  Past’,
+October 2003, available from http://www.cr.nps.gov/hps/tps/recentpast/twentietharticle.htm
+Spennemann,  ‘The  Ethics  of  Treading  on  Neil  Armstrong’s  Footsteps’;  idem,  ‘Out  of  this
+World’.
+Spennemann and Kosmer, ‘Heritage Sites of the US Space Program in Australia’; idem, ‘The
+Naval Heritage of Project Apollo’.
+
+8 [8]
+
+9 [9] Cf. Advisory Council on Historic Preservation, Balancing Historic Preservation Needs.
+10[10] Cf. Canning and Spennemann, ‘Contested Space’.
+11[11] But see Spennemann, ‘Gauging Community Values’, for a critique of the underlying notion of
+
+‘stewardship’ in cultural heritage management.
+See Sandin et al., ‘Five Charges against the Precautionary Principle’, for this concept.
+
+12[12]
+13[13] Bingham, Suddenly one Sunday; Allison and Scott, ‘In the Wake of Tragedy’; Chapman, Over
+
+Our Dead Bodies.
+
+14[14] R.  Hollow,  ‘Managing  Heritage  Sites  of  Human  Atrocity:  Ethics  and  Politics’,  Bachelor  of
+Applied  Science  (Honours)  diss.,  School  of  Environmental  and  Information  Sciences,
+
+16 D. H. R. Spennemann
+
+Charles Sturt University, Albury, 2001; Hollow and Spennemann, ‘Managing Sites of Human
+Atrocity’.
+
+15[15] Howard et al., ‘Is Today Shaping Tomorrow for Tertiary Education in Australia?’; Webster-
+
+Mannison, ‘Integrated Systems with Rammed Earth’.
+
+16[16] Albury City, Albury City Wide Heritage Study, vol. 1: The Study, draft document, Albury City,
+
+17[17]
+
+March 2003.
+It is acknowledged that a delisting of heritage places is rarely the case. Most heritage lists are
+additive  and  cumulative.  Many  heritage  lists  are  replete  with  examples  of  early  inclusions
+based  solely  on  the  ‘merit’  of  age  and  ‘prettiness’,  without  any  concern  given  to  assess  the
+underlying heritage values. At present, delisting occurs only where sites are no longer extant
+(due  to  demolition  or  loss  from  natural  disasters)  or  where  the  property  has  been  severely
+impaired (due to modification or disaster impact).There is no need, however, to assume that
+this practice will remain the case if new heritage management paradigms are espoused. As the
+recent developments in Australia have shown, existing lists can be ‘pruned’ by the creation of
+new  lists  with  more  selective  and  stringent  criteria  (the  new  National  Heritage  Register  as
+opposed to the old Register of the National Estate).
+
+18[18] Cf. Barclay and Brooks, ‘In situ Preservation of Historic Spacecraft’.
+19[19] Projected  by  2015;  G.  W.  Bush,  ‘President  Bush  Announces  New  Vision  for  Space
+Exploration Program’, Press Release, Office of the Press Secretary, White House, Washing-
+ton, DC, 2004.
+
+20[20] Zubrin and Wagner, The Case for Mars; Fogg, ‘The Ethical Dimensions of Space Settlement’;
+Williamson, ‘Space Ethics and Protection of the Space Environment’; Cockell and Horneck,
+‘A Planetary Park System for Mars’.
+Seddon, Landprints.
+
+21[21]
+22[22] Paraphrased from the concerns of responses anticipated by McNally and Inayatullah in their
+
+23[23]
+
+1988 paper ‘The Rights of Robots’.
+See  the  2004  World  Robotics  survey  by  the  United  Nations  Economic  Commission  for
+Europe (UNECE), available from www.unece.org/press/pr2004/04robots_index.htm
+
+24[24] OED.
+25[25] Asimov, ‘Liar!’ [short story].
+26[26]
+
+In  his  1942  short  story  ‘Runaround’  Asimov  first  explicitly  introduced  his  three  laws  of
+robotics, to which in 1985 he added a fourth which underpins the previous three (and hence is
+referred to as the zeroth law of robotics)(Asimov, Robots and Empire): 
+
+0. A robot may not injure humanity or, through inaction, allow humanity to come to harm.
+1. A robot may not injure a human being or, through inaction, allow a human being to come
+
+to harm.
+
+2. A  robot  must  obey  orders  given  it  by  human  beings  except  where  such  orders  would
+
+conflict with the First Law.
+
+3. A robot must protect its own existence as long as such protection does not conflict with
+
+the First or Second Law.
+
+27[27] Cf. Winkler, ‘Robotics Advances Aimed at Assembly Lines’.
+28[28]
+
+I.  Sample,  ‘Robot  Walk’,  21  November  2000  [accessed  26  February  2004],  available  from
+http://www.newscientist.com/news/news.jsp?id=ns9999194
+See https://asimo.honda.com
+
+29[29]
+30[30] The growth in the robotics field can best be demonstrated by the range of academic refereed
+journals  dedicated  to  the  subject  matter:  Advanced  Robotics,  1986–;  Artificial  Life  and
+Robots, 1997–; Autonomous Robots, 1994–; IEEE Journal of Robotics & Automation Magazine,
+1994–;  IEEE  Transactions  on  Robotics  and  Automation,  1984–;  Industrial  Robot,  1992–;
+International Journal of Humanoid Robotics, 2004–; International Journal of Robotics Research,
+1982–;  Journal  of  Intelligent  &  Robotic  Systems,  1988–;  Journal  of  Robotic  Systems,  1984–;
+Laboratory  Robotics  and  Automation,  1989–;  Machine  Learning,  1966–;  Robotics  &  Autono-
+
+International Journal of Heritage Studies
+
+17
+
+mous Systems, 1985–; Robotics and Computer-Integrated Manufacturing, 1984–; Robotics and
+Expert Systems, 1985–; Springer Tracts in Advanced Robotics, 1985–.
+
+31[31] Kitano  et  al.,  ‘RoboCup’;  Kitano,  ‘RoboCup  Rescue’.  For  details  see  the  official  Web  site:
+
+http://www.robocup.org/
+
+32[32] Kozdrowicki and Cooper, ‘COKO III’; Forster, The Encyclopedia of Game Machines.
+33[33] For  examples  of  the  categories,  see  the  computer  system  ‘Deep  Blue’;  Pollack  et  al.,  ‘Three
+Generations of Automatically Designed Robots’; Jacob, ‘Composing with Genetic Algorithms’;
+Widmer,  ‘Machine  Discoveries’;  Cohen,  ‘The  Further  Exploits  of  AARON,  Painter’;  ‘Lego-
+bots’; Chou, ‘The Growing Role of IT in Transportation’; Keane and Nair, ‘Problem Solving
+Environments in Aerospace Design’; Gage, ‘UGV HISTORY 101’; C. A. Thornberg and J. P.
+Cycon,  ‘Sikorsky  Aircraft’s  Unmanned  Aerial  Vehicle,  Cypher—System  Description  and
+Program Accomplishments’, paper presented at the 51st AHS Annual Forum, 9–11 May 1995,
+Fort Worth, TX: 804–11.; Granlund et al., ‘The WITAS Unmanned Aerial Vehicle Project’.
+
+34[34] Cf. for autism: Robins et al., ‘Robots as Isolators or Mediators for Children with Autism?’; as
+socio-bots cf. Dautenhahn et al., ‘What is a Robot Companion—Friend, Assistant or Butler?’
+35[35] Charles  Babbage  Institute,  University  of  Minnesota,  http://www.cbi.umn.edu.  For  software
+collection etc. see Spicer, ‘The IBM 1620 Restoration Project’; Burba and Fran, ‘Researching
+the History of Software’; Schlombs, ‘Digital Archives for the History of Software’.
+Spennemann,  ‘The  Ethics  of  Treading  on  Neil  Armstrong’s  Footsteps;  idem,  ‘Out  of  this
+World’.
+
+36[36]
+
+37[37] National Space Science Data Center, NSSDC Master Catalog: Spacecraft. Surveyor 3, NSSDC
+ID:  1967-035A,  available  from  http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1967-
+035A;  Spacecraft.  Luna  9,  NSSDC  ID:  1966-006A,  available  from  http://nssdc.gsfc.nasa.gov/
+database/MasterCatalog?sc=1966-006A; Spacecraft. Luna 21/Lunokhod 2, NSSDC ID: 1973-
+from  http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1973-001A;
+001A,  available 
+Spacecraft.  Luna  17/Lunokhod  1,  NSSDC  ID:  1970-095A,  available 
+from  http://
+nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1970-095A [all accessed 26 February 2004].
+
+39[39]
+
+38[38] National  Space  Science  Data  Center,  NSSDC  Master  Catalog:  Spacecraft.  Mars  Pathfinder
+Rover, NSSDC ID: MESURPR, available from http://nssdc.gsfc.nasa.gov/database/MasterCat-
+alog?sc=MESURPR;  Spacecraft.  Spirit  (Mars  Exploration  Rover  A),  NSSDC  ID:  2003-027A,
+available  from  http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=2003-027A;  Spacecraft.
+Opportunity  (Mars  Exploration  Rover  B),  NSSDC  ID:  2003-032A,  available  from  http://
+nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=2003-032A [all accessed 26 February 2004].
+‘Sol’ is a term that defines one solar day on Mars, i.e. one full revolution of a planet around its
+own axis. On Earth a sol is colloquially termed a day. As planets rotate around their axes at
+different speeds, the use of ‘day’ for Mars would be misleading because people would equate a
+‘day’ on Mars with 24 hours (as defined on Earth), whereas in fact a Mars ‘sol’ lasts 24 hours,
+39 minutes and 35 seconds on Earth. See M. Allison and R. Schmunk, ‘Technical Notes on
+Mars  Solar  Time  as  Adopted  by  the  Mars24  Sunclock’,  NASA  Goddard  Institute  for  Space
+Studies  (updated  30  July  2004),  available  from  http://www.giss.nasa.gov/tools/mars24/help/
+notes.html
+
+40[40] Mars  Exploration  Rover  Mission,  NASA  Jet  Propulsion  Laboratory,  California  Institute  of
+
+Technology, http://marsrovers.jpl.nasa.gov/home/
+
+41[41] National Space Science Data Center, NSSDC Master Catalog: Spacecraft. Beagle 2, NSSDC ID:
+2003-022C, available from http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=2003-022C
+[accessed 26 February 2004].
+
+42[42] Mars  Rover  Opportunity  Images,  available  from  http://nssdc.gsfc.nasa.gov/planetary/mars/
+
+mars_exploration_rovers/merb_images.html [accessed 26 February 2004].
+
+43[43] For ethical dimensions see Spennemann, ‘The Ethics of Treading on Neil Armstrong’s Foot-
+
+steps’; idem, ‘Out of this World’.
+
+44[44] Watson  et  al.,  ‘Embodied  Evolution’;  Pollack  et  al.,  ‘Three  Generations  of  Automatically
+
+Designed Robots’.
+
+18 D. H. R. Spennemann
+
+45[45] Williams, ‘Unnatural Selection’.
+46[46] Pearson and Sullivan, Looking after Heritage Places.
+47[47] Cf. Marquis-Kyle, Walker and Australia ICOMOS, The Illustrated Burra Charter; Australian
+
+Heritage Commission, Protecting Local Heritage Places.
+
+48[48] Pearson and Sullivan, Looking after Heritage Places; Murtagh, Keeping Time.
+49[49] Pearson  and  Sullivan,  Looking  after  Heritage  Places;  Canning  and  Spennemann,  ‘Contested
+Space’;  Spennemann,  ‘Your  solution,  their  problem’;  Spennemann,  ‘Gauging  Community
+Values’.
+
+Spennemann, ‘Gauging Community Values’.
+
+50[50] Lockwood and Spennemann, ‘Value Conflicts’.
+51[51] D. H. R. Spennemann, ‘Your Solution, their Problem’.
+52[52]
+53[53] Feminist historians and cultural heritage specialists have pointed out repeatedly that much of
+heritage  management  favours  the  product,  and  especially  the  technological  product,  over
+process (Smith and duCros, Women in Archaeology), thereby overlooking women’s sites.
+Spennemann, ‘A Line in the Sand?’
+
+54[54]
+55[55] Pearson and Sullivan, Looking after Heritage Places; Murtagh, Keeping Time.
+56[56] Tunbridge and Ashworth, Dissonant Heritage.
+57[57] The observation that these rights are not always observed among human populations either,
+despite the Universal Declaration of Human Rights (UN General Assembly Resolution 217 A
+(III) of 10 December 1948, http://www.un.org/Overview/rights.html), is quite immaterial in
+this regard. That is a matter of enforcement but not of conceptual understanding.
+Singer, Animal Liberation; idem, ‘Peter Singer v Kenan Malik’.
+
+58[58]
+59[59] The anthropocentric view of rights assumes that there are no intrinsic values and no rights
+that exist ab initio. Rather, all such values and rights are entities conceptualised and projected
+by sentient beings.
+
+60[60] Common ethical and legal practice holds that these obligations cannot be expected from non-
+sentient and mentally impaired humans, as exemplified by the rule of diminished responsibil-
+ity in various legal systems.
+
+61[61] Lehman Wilzeg, ‘Frankenstein Unbound’.
+62[62] Freitas, ‘The Legal Rights of Robots’.
+63[63] McNally and Inayatullah, ‘The Rights of Robots’.
+64[64] Future papers need to address the issue as to who should be determining which sites and arte-
+facts are worth preserving and managing. It can be foreshadowed that expert committees akin
+to the Royal Institute of Engineers will play a prominent role.
+
+References
+
+Advisory Council on Historic Preservation. Balancing Historic Preservation Needs with the Operation
+of Highly Technical or Scientific Facilities: A Report to the US House of Representatives, Commit-
+tee on the Interior and Insular Affairs, Subcommittee on National Parks and Public Lands, and
+the  Committee  on  Science,  Space  and  Technology.  Washington,  DC:  Advisory  Council  on
+Historic Preservation, 1991.
+
+Allison, B. and D. Scott. ‘In the Wake of Tragedy’. Museums National 5, no. 3 (1997): 1–8.
+Asimov, I. ‘Liar!’ [short story], Astounding Science Fiction (May 1941): 43–55.
+———. ‘Runaround’ [short story], Astounding Science Fiction (March 1942): 94–103.
+———. Robots and Empire. New York: Doubleday, 1985.
+Australian  Heritage  Commission,  Protecting  Local  Heritage  Places.  Canberra:  Australian  Heritage
+
+Commission, 1999.
+
+Barclay, R. and R. Brooks. ‘In Situ Preservation of Historic Spacecraft’. JBIS—Journal of the British
+
+Interplanetary Society 55, nos. 5–6 (2002): 173–81.
+
+Bingham, M. Suddenly One Sunday. Sydney: HarperCollins, 2000.
+
+International Journal of Heritage Studies
+
+19
+
+Burba, J. and P. L. Frana. ‘Researching the History of Software: Mining Internet Resources in the
+“Old World,” “New World,” and the “Wild West”’. Iterations: A Journal of Software History 1
+(2002), available from http://www.cbi.umn.edu/iterations/burbafrana.pdf
+
+Canning,  S.  and  D.  H.  R.  Spennemann.  ‘Contested  Space:  Social  Value  and  the  Assessment  of
+Cultural  Significance  in  New  South  Wales,  Australia’.  In  Heritage  Landscapes:  Understand-
+ing  Place  and  Communities.  Proceedings  of  the  Lismore  Conference,  edited  by  M.  M.  Cotter,
+W.  E.  Boyd  and  J.  E.  Gardiner.  Lismore,  NSW:  Southern  Cross  University  Press,  2001:
+457–68.
+
+Chapman, S. Over Our Dead Bodies: Port Arthur and the Fight for Gun Control. Annandale, NSW:
+
+Pluto Press, 1998.
+
+Chou, W. ‘The Growing Role of IT in Transportation’. IT Professional 5, no. 6 (2003): 5–6.
+Cockell,  C.  and  G.  Horneck.  ‘A  Planetary  Park  System  for  Mars’.  Space  Policy  20,  no.  4  (2004):
+
+291–95.
+
+Cohen, H. ‘The Further Exploits of AARON, Painter’. Stanford Humanities Review SEHR, 4, no. 2:
+Constructions of the Mind (1995), available from http://www.stanford.edu/group/SHR/4-2/
+text/cohen.html (updated 22 July 1995).
+
+Dautenhahn,  K.,  S.  Woods,  C.  Kaouri,  M.  Walters,  K.  L.  Koay  and  I.  Werry.  ‘What  is  a  Robot
+Companion—Friend,  Assistant  or  Butler?’  In  Proceedings  of  the  IROS  2005,  IEEE  IRS/RSJ
+International  Conference  on  Intelligent  Robots  and  Systems,  2–6  August  2005,  Edmonton,
+Alberta: 1488–93.
+
+Fogg, M. J. ‘The Ethical Dimensions of Space Settlement’. Space Policy 16 (2000): 205–11.
+Forster, W. The Encyclopedia of Game Machines— Consoles, Handheld & Home Computers 1972–2005.
+
+Utting, Germany: GAMEplan, 2005.
+
+Freitas, R. A. ‘The Legal Rights of Robots’. Student Lawyer 13, no. 1 (1985): 54–56, available from
+
+http://www.rfreitas.com/Astro/LegalRightsOfRobots.htm
+
+Gage, D. W. ‘UGV HISTORY 101: A Brief History of Unmanned Ground Vehicle (UGV) Development
+
+Efforts’. Unmanned Systems Magazine 13, no. 3 (1995): 9–16, 32.
+
+Granlund, G., K. Kuchcinski, E. Sandewall, K. Nordberg, E. Skarman and J. Wiklund. ‘The WITAS
+Unmanned Aerial Vehicle Project’. In ECAI 2000: Proceedings of the 14th European Conference
+on Artificial Intelligence, edited by W. Horn. Amsterdam: IOS Press, 2000: 747–55.
+
+Hollow,  R.  and  D.  H.  R.  Spennemann.  ‘Managing  Sites  of  Human  Atrocity’.  Cultural  Resource
+
+Management 24, no. 8 (2001): 35–36.
+
+Howard,  J.,  D.  Mitchell,  D.  H.  R.  Spennemann  and  M.  Webster-Mannison.  ‘Is  Today  Shaping
+Tomorrow  for  Tertiary  Education  in  Australia?  A  Comparison  of  Policy  and  Practice’.
+International Journal of Sustainability in Higher Education 1, no. 1 (2000): 83–96.
+
+Jacob,  B.  L.  ‘Composing  with  Genetic  Algorithms’.  In  Proceedings  of  the  International  Computer
+Music  Conference,  Banff,  Alberta,  September  1995.  San  Franciso:  International  Computer
+Music Association, 452–55.
+
+Keane,  A.  J.  and  P.  B.  Nair.  ‘Problem  Solving  Environments  in  Aerospace  Design’.  Advances  in
+
+Engineering Software 32 (2001): 477–87.
+
+Kitano,  H.  ‘RoboCup  Rescue:  A  Grand  Challenge  for  Multi-agent  Systems’.  In  Proceedings  of  the
+Fourth International Conference on MultiAgent Systems, 2000. Washington DC: ICMAS, IEEE
+Computer Society: 5–12.
+
+Kitano, H., M. Asada, Y. Kuniyoshi, I. Noda and E. Osawa. ‘RoboCup: The Robot World Cup Initia-
+tive’.  In  Proceedings  of  the  First  International  Conference  on  Autonomous  Agents,  Marina  del
+Rey, CA: Washington DC: Association for Computing Machinery: 340–47.
+
+Klumpe,  A.  R.  ‘A  Manually  Retargeted  Automatic  Landing  System  for  the  Lunar  Module  (LM)’.
+
+Journal of Spacecraft and Rockets 40, no. 6 (2003): 973–82.
+
+Kozdrowicki,  E.  W.  and  D.  W.  Cooper.  ‘COKO  III:  The  Cooper–Kozdrowicki  Chess  Program’.
+
+International Journal of Man–Machine Studies 6, no. 6 (1974): 627–99.
+
+Lehman Wilzeg, S. N. ‘Frankenstein Unbound: Towards a Legal Definition of Artificial Intelligence’.
+
+Futures 13, no. 6 (1981): 442–57.
+
+20 D. H. R. Spennemann
+
+Lockwood, M. and D. H. R. Spennemann. ‘Value Conflicts between Natural and Cultural Heritage
+Conservation—Australian  Experience  and  the  Contribution  of  Economics’.  In  Heritage
+Economics:  Challenges  for  Heritage  Conservation  and  Sustainable  Development  in  the  21st
+Century. Canberra: Australian Heritage Commission, 2001: 216–42.
+
+Marquis-Kyle, P., M. Walker and Australia ICOMOS. The Illustrated Burra Charter: Making Good
+
+Decisions about the Care of Important Heritage Places. Canberra: Australia ICOMOS, 1996.
+
+McCorduck, P. Aaron’s Code, Meta-art, Artificial Intelligence, and the Work of Harold Cohen. New
+
+York: W. H. Freeman, 1991.
+
+McNally,  P.  and  S.  Inayatullah.  ‘The  Rights  of  Robots:  Technology,  Law  and  Culture  in  the  21st
+
+Century’. Futures 20, no. 2 (1988): 119–36.
+
+Murtagh, W. J. Keeping Time: The History and Theory of Preservation in America. New York: Wiley, 1997.
+Pearson, M. and S. Sullivan. Looking after Heritage Places. Melbourne: Melbourne University Press,
+
+1995.
+
+Pollack, J. B., H. Lipson, G. Hornby and P. Funes. ‘Three Generations of Automatically Designed
+
+Robots’. Artificial Life 7, no. 3 (2001): 215–23.
+
+Robins,  B.,  K.  Dautenhahn  and  J.  Dubowski.  ‘Robots  as  Isolators  or  Mediators  for  Children  with
+Autism? A Cautionary Tale’. In Proceedings of the AISB’05 Symposium on Robot Companions.
+Hard  Problems  and  Open  Challenges  in  Human–Robot  Interaction,  14–15  April  2005,
+University  of  Hertfordshire,  UK.  Brighton:  SSAISB:  82–88,  available 
+from  http//
+www.aisb.org.uk/publications/proceedings.shtml
+
+Sandin, P., M. Peterson, S. O. Hansson, C. Rudén and A. Juthe. ‘Five Charges against the Precaution-
+
+ary Principle’. Journal of Risk Research 5, no. 4 (2002): 287–99.
+
+Schlombs,  C.  ‘Digital  Archives  for  the  History  of  Software:  The  Allen  Newell  Collection  and  the
+Herbert A. Simon Collection’. Iterations: A Journal of Software History 1 (2002), available from
+http://www.cbi.umn.edu/iterations/schlombs.pdf
+
+Seddon, G. Landprints: Reflections on Place and Landscape. Cambridge: Cambridge University Press,
+
+1997.
+
+Shull, C. D., M. Sherfy and W. R. Luce. ‘Guidelines for Evaluating and Nominating Properties that
+Have  Achieved  Significance  within  the  Past  Fifty  Years’.  National  Register  Bulletin,  no.  22.
+Washington, DC: National Park Service, 1990.
+
+Singer, P. Animal Liberation. 2nd ed. New York: Avon, 1990.
+———. ‘Peter Singer v Kenan Malik “Should We Breach the Species Barrier and Grant Rights to
+
+Apes?”’ [Letter dated 4 April 1999]. Prospect (1999): 17–19.
+
+Smith, L. J. and H. duCros. Women in Archaeology. A Feminist Critique. Canberra: Research School
+
+of Pacific Studies, Australian National University, 1993.
+
+Spennemann, D. H. R. ‘The Ethics of Treading on Neil Armstrong’s Footsteps’. Space Policy 20, no. 4
+
+(2004): 279–90.
+
+———.  ‘The  Naval  Heritage  of  Project  Apollo:  A  Case  of  Losses’.  Journal  of  Maritime  Research
+
+(October 2005), available from www.jmr.nmm.ac.uk/spennemann
+
+———. ‘Risk Assessments in Heritage Planning in Victoria and New South Wales. A Survey of the
+
+Status Quo’. Australasian Journal of Environmental Management 12, no. 2 (2005): 89–96.
+
+———. ‘A Line in the Sand? Explorations and Contemplations on the Heritage Value of Hominid,
+
+Pongid and Robotid Artefacts’. Journal of Material Culture (in preparation).
+
+———. ‘Out of this World: Issues of Managing Tourism and Humanity’s Heritage on the Moon’.
+
+International Journal of Heritage Studies 12, no. 4 (2006): 356–71.
+
+———. ‘Your Solution, their Problem. Their Solution, your Problem: The Gordian Knot of Cultural
+Heritage Planning and Management at the Local Government Level’. disP 42, no. 164 (2006):
+30–40.
+
+———. ‘Gauging Community Values in Historic Preservation’. CRM 3, no. 2 (2006): 6–20.
+Spennemann, D. H. R. and L. Kosmer ‘Heritage Sites of the US Space Program in Australia: Are We
+Managing them Adequately?’ QUEST— The History of Spaceflight Quarterly 12, no. 2 (2005):
+52–64.
+
+International Journal of Heritage Studies
+
+21
+
+Spicer, D. ‘The IBM 1620 Restoration Project’. IEEE Annals of the History of Computing 27 (2005):
+
+33–43.
+
+Tunbridge, J. E. and G. J. Ashworth. Dissonant Heritage: The Management of the Past as a Resource in
+
+Conflict. Chichester: Wiley, 1996.
+
+Watson, R., S. Ficici and J. B. Pollack. ‘Embodied Evolution: Embodying an Evolutionary Algorithm
+in a Population of Robots’. In Proceedings of the 1999 Congress on Evolutionary Computation,
+edited by P. Angeline, Z. Michalewicz, M. Schoenauer, X. Yao and A. Zalzala. Washington,
+DC: IEEE Press, 1999: 335–42.
+
+Weaver, M. E. Conserving Buildings: Guide to Techniques and Materials. Rev. ed. New York: Wiley,
+
+1997.
+
+Webster-Mannison,  M.  ‘Integrated  Systems  with  Rammed  Earth’.  In  Alternative  Construction:
+Contemporary  Natural  Building  Methods,  edited  by  L.  Elizabeth  and  C.  Adams.  New  York:
+Wiley, 2000: 273–82.
+
+Widmer,  G.  ‘Machine  Discoveries:  A  Few  Simple,  Robust  Local  Expression  Principles’.  Journal  of
+
+New Music Research 31, no. 1 (2002): 37–50.
+
+Williams, S. ‘Unnatural Selection. Machines Using Genetic Algorithms are Better than Humans at
+Designing  other  Machines’.  Technology  Review,  2  March  2005,  available  from  http://
+www.technologyreview.com/articles/05/02/issue/feature_algorithms.asp
+
+Williamson,  M.  ‘Space  Ethics  and  Protection  of  the  Space  Environment’.  Space  Policy  19,  no.  1
+
+(2003): 47–52.
+
+Winkler, C. ‘Robotics Advances Aimed at Assembly Lines’. Computerworld 14, no. 45 (1980): 25.
+Zubrin, R. with R. S. Wagner. The Case for Mars: The Plan to Settle the Red Planet and Why We Must.
+
+New York: Simon & Schuster, 1996.
+
+

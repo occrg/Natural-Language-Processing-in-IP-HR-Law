@@ -1,0 +1,2203 @@
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 8
+
+ARTICLE
+
+601
+
+A Dutch bankruptcy: how does it affect
+intellectual property, licensors and licensees?
+Gino van Roeyen and Denise Verdoold*
+
+The Netherlands is an important hub for trade, attract-
+ing international business. The country has become home
+to several renowned multinationals, quite often via so-
+called special purpose vehicles (SPVs). Such SPVs are
+typically used to either transfer a company’s intellectual
+property rights (IPRs) into the Netherlands or to license
+those rights. These SPVs are in most cases set up to
+become licensors for the purpose of inter-company or
+third-party licensing. Since this practice forms a crucial
+pivot for international business, it is essential that the in-
+tellectual property rights lying at the core of this business
+are well protected.
+
+When a company established in the Netherlands is
+declared bankrupt, a trustee is appointed by the compe-
+tent court and all the company’s assets become subject to
+a general ‘freeze’ in order for the trustee to pursue their li-
+quidation. The company thus loses the capacity to trade
+with the assets, including its intellectual property rights.
+The main task of the trustee is to settle the bankruptcy in
+the interest of the company’s creditors. Accordingly, the
+trustee has the power to sell and transfer the relevant in-
+tellectual property rights for as high a price as possible.
+
+It is a common perception that unencumbered prop-
+erty has a greater market value and may be sold at a
+higher selling price than property which, for example, has
+been licensed. Accordingly, licences are often regarded as
+having a price-reducing effect in intellectual property
+sales. However, for a number of reasons, third parties
+interested in buying intellectual property may also settle
+for a ‘licence included’ purchase. For example, the third
+party purchaser may require the intellectual property to
+be licensed if it does not have the means of exploitation
+itself. Further, royalty payments to which a licensee may
+be bound under a licence agreement may prove a valuable
+source of income.
+
+If, despite the possible desirability of purchasing
+licensed intellectual property, the bankruptcy trustee
+seeks to transfer the relevant rights free from licences,
+several legal issues arise, including the (limitations to)
+the powers of the trustee with regard to the intellectual
+property rights and the effect of the bankruptcy on the
+legal position of licensors, licensees and third parties.
+
+*
+
+Emails: g.vanroeyen@banning.nl and d.verdoold@banning.nl.
+
+The authors
+† Gino van Roeyen and Denise Verdoold LLM are
+Attorneys-at-law at BANNING N.V. (’s-Hertogen-
+bosch, The Netherlands).
+
+This article
+† When a company established in the Netherlands
+is declared bankrupt, a trustee is appointed whose
+main task is to settle the bankruptcy in the inter-
+est of the company’s creditors. Accordingly, the
+trustee has the power to sell and transfer the intel-
+lectual property rights part of the bankrupt’s
+estate for as high a price as possible. It is a
+common perception that unencumbered property
+has a greater market value and may be sold at a
+higher selling price than property which,
+for
+example, has been licensed. Hence it is likely the
+bankruptcy trustee seeks to sell intellectual prop-
+erty rights free from encumbrances.
+
+† This practice gives rise to several legal questions,
+amongst others regarding the (limitations to) the
+powers of the trustee with regard to the intellec-
+tual property rights and the effect of the bank-
+ruptcy on the legal position of licensors, licensees
+and third parties.
+
+† In this article, the authors seek to provide some
+insight and guidance with regard to these legal
+questions. For this purpose, the article focuses on
+(the impact of) two judgments of the Dutch
+Supreme Court
+in the so-called Nebula and
+Berzona cases, which are regarded as pivotal in
+this light.
+
+In this article the authors seek to provide some
+insight and guidance with regard to these legal issues in
+the light of both case law and legal principle. For a clear
+understanding of the issues involved, the authors ﬁrst
+provide a succinct overview of bankruptcy law in the
+Netherlands.
+
+# The Author(s) (2015). Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jpv094
+
+Advance Access publication on 8 June 2015
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+8
+6
+0
+1
+2
+4
+5
+7
+4
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+602
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 8
+
+Bankruptcy law in the Netherlands
+at a glance
+Bankruptcy proceedings in the Netherlands are governed
+by the Dutch Bankruptcy Act. A debtor who has ceased
+to pay his debts may be declared bankrupt by a district
+court following a petition for bankruptcy. The debtor
+may be a legal or a natural person. The bankruptcy peti-
+tion may be ﬁled by the debtor’s creditors or by the
+debtor himself.
+
+The creditor ﬁling the bankruptcy petition must es-
+tablish that he has a monetary claim against the debtor,
+that the debtor has ceased to pay his debts and that he
+has at least one more creditor.
+
+Following the grant of a bankruptcy order by the dis-
+trict court, the court appoints a bankruptcy trustee (in
+most cases an attorney-at-law). The trustee acts under
+the supervision of a member of the court.
+
+The main task of the trustee in the bankruptcy proceed-
+ings is to liquidate the debtor’s assets in order to divide the
+proceeds between the creditors. As a general rule all cred-
+itors are equal and should be treated equally, but there are
+exceptions to this rule. Secured creditors such as mort-
+gagees and pledgees, for example, can ignore the bankrupt-
+cy and can, as a general rule, sell the mortgaged or pledged
+property publicly in order to obtain payment of the debt.
+
+The bankruptcy order freezes all assets (all property, in-
+cluding intangible property) of the debtor in order to li-
+quidate those assets for the beneﬁt of the creditors. The
+debtor is no longer entitled to manage and dispose of these
+assets as the trustee takes over these powers. Transactions
+by the debtor concluded after the bankruptcy do not bind
+the estate unless they are beneﬁcial to the estate or the
+trustee accepts the obligations arising from the transactions.
+Upon appointment, the bankruptcy trustee is entrusted
+with the preservation, administration and liquidation of
+the bankrupt’s estate. Actions and claims from all cred-
+itors are stayed. The bankruptcy trustee is entitled to con-
+tinue the business of the bankrupt if the supervisory
+judge agrees. Assets of the bankrupt may be sold (at a
+public auction or privately on approval of the supervisory
+judge) by the bankruptcy trustee if this is not contrary to
+third-party ownership or security rights.
+
+The leading principle of Dutch bankruptcy law is the
+so-called paritas creditorum, which means that all creditors
+have an equal right to payment and that the proceeds of
+the bankrupt’s estate shall be distributed in proportion
+to the size of each creditor’s claims. In order to obtain
+payment of the proportion of the proceeds to which they
+
+1
+
+3 November 2006, ECLI:NL:HR:2006:AX8838 (Nebula) and 11 July 2014,
+ECLI:NL:HR:2014:1681 (Berzona).
+
+are entitled, any unsecured creditor must submit their
+claims in writing to the trustee for validation.
+
+There are two groups of creditors to whom the prin-
+ciple of paritas creditorum does not apply: secured cred-
+itors and creditors who have a preference by virtue of the
+Dutch Civil Code or any other relevant statute.
+
+Secured creditors, for example those with a mortgage,
+pledge or charge, have the right of summary foreclosure
+and may sell the secured property, thereby ignoring the
+bankruptcy. Following the foreclosure, secured creditors
+are entitled to the proceeds before unsecured creditors.
+
+Preferred creditors are, unlike secured creditors, not
+entitled to initiate foreclosure proceedings. They are
+required to present their claims to the trustee. Upon dis-
+tribution of the proceeds of the bankruptcy estate, the
+secured creditors receive payment before the unsecured
+creditors on a pro rata basis.
+
+Creditors with insolvency claims are entitled to the
+proceeds of the realization of the debtor’s assets. Insolv-
+ency claims are claims that have arisen before the
+opening of the proceedings. Certain claims are regarded
+as claims against the estate. In general, claims which
+arise as a result of or following an adjudication of bank-
+ruptcy are considered claims against the estate. Exam-
+ples include the salary of the bankruptcy trustee, the
+cost of liquidating the estate and the wages of employees
+of the bankrupt company as of the date of the bankrupt-
+cy adjudication. Claims against the estate have to be sat-
+isﬁed immediately and do not have to be submitted to
+the trustee for validation.
+
+The Nebulaand Berzonadecisions
+Two decisions of the Hoge Raad (the Dutch Supreme
+Court) led to the topicality of these issues in Dutch intel-
+lectual property practice since their delivery in 2006 and
+2014 respectively.1 Curiously, the litigation which gave
+rise to these decisions did not concern intellectual prop-
+erty or licence litigation in a bankruptcy context at all.
+On the contrary, the decisions concern private property
+leases. For a thorough understanding of the implications
+of these cases for intellectual property practice, it is ne-
+cessary to give a full and detailed account of the related
+facts, as well as to the considerations of the Hoge Raad.
+
+Nebula
+The facts of Nebula can be summarized as follows. Nebula
+owned immovable property comprising a business premises
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+8
+6
+0
+1
+2
+4
+5
+7
+4
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Gino van Roeyen and Denise Verdoold . A Dutch bankruptcy
+
+ARTICLE
+
+603
+
+with two apartments. Nebula transferred the economic
+ownership of the property to a party known in the judg-
+ment as A B.V. With the consent of Nebula, A B.V. trans-
+ferred the economic ownership of the property to a party
+known as B B.V. In the agreement regulating the latter
+transfer, several parts of the agreement between Nebula
+and A B.V. were referred to and declared applicable. B
+B.V. then entered into an agreement leasing one of the
+apartments to C & D (anonymous natural persons). After
+Nebula was declared bankrupt, the bankruptcy trustee
+initiated legal proceedings against C and D, seeking their
+eviction and arguing that Nebula had remained the
+owner of the property. According to the trustee, C and D
+were living in the apartment without being entitled to do
+so as there existed no contractual relationship between
+Nebula and C and D. In ﬁrst instance, the trustee pre-
+vailed, but the Court of Appeal reversed this decision. The
+trustee successfully appealed to the Hoge Raad.
+
+The Hoge Raad considered that this case turned on
+whether the economic owner of immovable property
+was allowed to lease this property following the bank-
+ruptcy of the legal owner of the property, with binding
+effect upon the bankrupt estate.
+
+The Hoge Raad ﬁrst considered that the Dutch legisla-
+tor has refrained from regulating or deﬁning the concept
+of ‘economic property’ in the Dutch Civil Code. Accord-
+ingly, it found that this term should be regarded as a
+general term, not being interpreted autonomously in the
+same manner as the legal relationship between the parties
+who contractually created the economic property. In this
+light, the Hoge Raad referred to its decision in Stichting
+B.V. Vagobel v Geldnet, in which it held that economic
+property is not legal property, the term ‘economic prop-
+erty’ only aiming at the existence of contractual rights and
+obligations with regard to an object, where these rights do
+not necessarily have the same meaning in all cases.2
+
+Secondly, the Hoge Raad considered that, under Dutch
+insolvency law, a bankruptcy has no inﬂuence at all on re-
+ciprocal agreements and leaves the obligations of the bank-
+rupt and his contracting parties unchanged.3 However,
+according to the Hoge Raad, this does not imply that a
+creditor party to a long term agreement with a contract-
+ing party who has been declared bankrupt is allowed to
+execute his rights under this agreement as if there was no
+bankruptcy. The Hoge Raad clariﬁed that any other view
+
+would have the effect of ignoring the principle of equal-
+ity of creditors, which forms the basis of the Dutch In-
+solvency Act, in an unacceptable way. The same is true
+where an agreement does not require the bankrupt to
+actively perform an obligation but simply to tolerate
+certain use of his property. If the contracting party of the
+bankrupt debtor could require the trustee to tolerate the
+continued use of the property, this would effectively
+enable the creditor to ignore the bankruptcy. According
+to the Hoge Raad, creditors may ignore the bankruptcy
+only in exceptional situations explicitly regulated by
+statute.4 Allowing creditors to do so in other situations,
+it ruled, would also seriously complicate a good manage-
+ment (by the trustee—GvR/DV) of the property, being
+part of the bankruptcy estate for which long-term agree-
+ments exist.
+
+The Hoge Raad concluded, contrary to the decision of
+the Court of Appeal that, following the bankruptcy of
+Nebula, B as the economic owner of the immovable
+property could no longer invoke its right of use with
+regard to this property against the trustee of Nebula’s
+estate. This is not changed by the right of use not being
+affected by the bankruptcy of Nebula, on the basis of the
+Hoge Raad’s second consideration.
+
+Berzona
+In 2014, the Hoge Raad delivered its decision in Berzona.5
+In this case ABN AMRO Bank N.V. had ﬁled a request for
+bankruptcy against Berzona B.V., which had failed to pay
+its debts to the bank. According to ABN AMRO, Berzona
+had also left other creditors unpaid. Under Dutch bank-
+ruptcy law, one of the requirements to obtain a bankrupt-
+cy order is the existence of prima facie evidence of a
+‘second creditor’ claim, the rationale being that a bank-
+ruptcy aims at dividing the assets of the debtor between
+his joint creditors. Obtaining a bankruptcy order against
+a debtor with only one creditor would be in conﬂict with
+this rationale. According to this condition, a creditor
+other than the creditor seeking to obtain the bankruptcy
+order must have a separate claim against the debtor. ABN
+AMRO relied on alleged claims of creditors leasing ﬂats of
+Berzona to fulﬁl this requirement. The claims of these
+lessees allegedly arose from their right to quiet enjoyment
+under a lease, as well as Berzona’s obligation under the
+
+2
+
+3
+
+5 March 2004, ECLI: NL:HR:2004:AN9687 (Stichting V.B. Vagobel v
+Geldnet).
+See eg Explanatory Memorandum to Article 37 of the Dutch Insolvency
+Act.
+
+4 An example of which, although not explicitly mentioned by the Hoge
+Raad, would be secured or preferential creditors, who on the basis of
+
+statute have the right of summary execution and priority over other classes
+of creditors in the bankruptcy see Articles 278, 268 and 248 of Book 3 of
+the Dutch Civil Code.
+11 July 2014, ECLI:NL:HR:2014:1681 (Berzona).
+
+5
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+8
+6
+0
+1
+2
+4
+5
+7
+4
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+604
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 8
+
+lease to perform maintenance on the ﬂats. Berzona denied
+that ABN AMRO had a directly collectable claim against
+Berzona and also denied that the alleged claims of the
+lessees could serve as second creditor claims required for
+the grant of the bankruptcy order.
+
+Both the District Court in ﬁrst instance and the Court
+of Appeal rejected the bankruptcy order request for
+failure to meet the second creditor claim requirement.
+The Hoge Raad took a different view, referring to the re-
+quirement of prima facie evidence of a second creditor
+claim in order for a bankruptcy order to be granted.
+Citing established case law, the Hoge Raad considered
+that the justiﬁcation for this requirement was the under-
+lying notion of a bankruptcy being aimed at the division
+of the debtor’s capital between his joint creditors. This
+aim would be nugatory if a bankruptcy order could be
+obtained where a debtor had only one creditor.
+
+In order for a claim to qualify as a second creditor
+claim, the Hoge Raad established that it should be viable
+to be presented for validation in the bankruptcy, so that
+the creditor can eventually share in the proﬁt when the
+bankruptcy estate is liquidated. Viable claims also include
+those for which the exact value is unknown at the time of
+validation, as well as non-monetary claims. Accordingly,
+claims for maintenance and quiet enjoyment under a
+lease may qualify as second creditor claims. However, as
+ABN AMRO had failed to establish that Berzona had
+breached its obligation for maintenance under the lease,
+there was merely a possible future claim for maintenance,
+which could be presented for validation. Accordingly, the
+claim could not serve as a second creditor claim.
+
+With regard to the claim for quiet enjoyment under a
+lease, the Hoge Raad considered that, in the absence of
+differing statements from ABN AMRO, the starting
+point should be that the obligation to grant the lessees
+quiet enjoyment under the lease was met at the time of
+the application for the bankruptcy order. Having estab-
+lished this, the Hoge Raad ruled as follows.
+
+As in its ruling in Nebula, the Hoge Raad conﬁrmed,
+referring to the explanatory notes to the Dutch Insolv-
+ency Act, that a bankruptcy does not have any inﬂuence
+on existing reciprocal agreements and does not therefore
+lead to a change of the obligations following from such
+agreements. However, on the basis of Article 37(1) of the
+Dutch Insolvency Act, the trustee is entitled not to
+perform the bankrupt’s obligations under a reciprocal
+
+agreement upon request of the contracting party of
+the debtor. Article 37(1) of the Dutch Insolvency Acts
+reads:
+
+If the obligations under a mutual agreement, at the time of
+the declaration of bankruptcy, have not been performed at
+all or only partially by both the debtor and his contracting
+party and the bankruptcy trustee does not declare himself,
+within a reasonable period determined for this purpose by
+the contracting party in writing, to be prepared to perform
+his obligations under the agreement, the bankruptcy trustee
+loses his right to claim performance.6
+
+The Hoge Raad, acknowledging this power of the bank-
+ruptcy trustee and explicitly referring to Nebula, held that
+the claims arising from the non-performance by the
+trustee of obligations under reciprocal agreements could
+be presented for validation in the bankruptcy. Even so,
+the trustee only has the right to (‘passive’)7 non-perform-
+ance of contractual obligations, which concerns obliga-
+tions which must be fulﬁlled out of or at the expense of
+the bankruptcy estate, such as a payments, delivery of
+goods or the creation of a right. In contrast, trustees do
+not (‘actively’)8 non-perform obligations under a con-
+tract as they are not entitled to any actions which statute
+or agreement does not grant them, such as actions for
+eviction or to assert ownership of the leased property
+if the lease is still in force. This would oppose the princi-
+ple underlying the Dutch Civil Code that a bankruptcy
+does not have any inﬂuence on existing reciprocal agree-
+ments.
+
+Signiﬁcantly, the Hoge Raad clariﬁed that Nebula es-
+sentially contained no other decision, but offers a single-
+sentence summary that ‘the Nebula decision concerns
+matter other than the matter at hand’. Nebula is held to
+concern only the question whether the trustee is bound
+by a lease agreement which has been entered into by the
+economic owner of property after the bankruptcy of the
+legal owner of the leased property on the basis of a con-
+tractual authorization of the legal owner.
+
+Now addressing the issue raised in Berzona, the Hoge
+Raad held that, if the lessee at the time of ﬁling a bank-
+ruptcy request quiet enjoys a lease, the trustee has no au-
+thority to end this enjoyment if the lease agreement is still
+in force. In that case, the claim for quiet enjoyment under
+a lease does not constitute a claim that can be presented
+for validation in the bankruptcy. Accordingly, it cannot
+
+6 Van Zanten, T. (2014), ‘Geen Nebula, maar Berzona: de curator heeft toch
+
+8 Again, the quotation marks are those the Hoge Raad, which seeks to clarify
+
+geen recht op wanprestatie!’, TvI 2014/36.
+
+7 Note the quotation marks which the Hoge Raad uses. From the examples
+the Hoge Raad uses it appears that it refers to situations where the trustee
+has a contractual obligation to do something and does not comply with
+that obligation by failing to perform such action.
+
+that the trustee does not gain any extra enforceable rights from the
+bankruptcy as such. The rights which the trustee wishes to enforce must be
+derived from existing agreements or statute.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+8
+6
+0
+1
+2
+4
+5
+7
+4
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Gino van Roeyen and Denise Verdoold . A Dutch bankruptcy
+
+ARTICLE
+
+605
+
+serve as a second creditor claim, taking into account the
+requirement explained above that there be more than one
+creditor in order for a bankruptcy order to be granted.
+
+Application of Nebulaand Berzonato a
+bankruptcy involving IPRs and licensing
+Introductory remarks
+Nebula led to a general belief in the view that the Hoge
+Raad had entitled the trustee not to perform contractual
+obligations, which could have negative impacts on intellec-
+tual property licences. Berzona seemed to have somewhat
+weakened this belief, although it has certainly not been dis-
+pelled.9 Accordingly, practice has come up with various
+constructions to create ‘bankruptcy-proof’ licences. Van
+Zanten offers an insight into the different ways practice
+has sought to curb the ‘right of the trustee to breach of
+contract’:
+
+For instance, experiments were conducted and philosophies
+were developed concerning the (effect of) encumbrance of
+intellectual property rights with usufruct rights, transfers of
+intellectual property rights on the condition precedent that
+bankruptcy would nullify the transfer and unconditional
+transfers to administration foundations. In addition, many—
+less far-reaching and as a result less secure—contractual
+constructions were suggested, which not so much prevent
+that the rights of licensees would be interfered with, but that
+should provide the trustee with an incentive not to do so,
+such as mounting royalty obligations or bonuses at the end
+of the term of the contract.
+
+As, in the view of the authors, the Hoge Raad in Nebula
+and Berzona did not recognize the trustee’s right to default
+on the contractual obligations of the bankrupt, nor did it
+suggest that the trustee has such a right, the question
+arises as to what the effect of these two decisions actually
+has on intellectual property licensing practice.
+
+For the purpose of providing insight into the answer
+of this question, it is now necessary to examine the pos-
+sible consequences of Nebula and Berzona in the case of
+
+9
+
+See eg M. Jansen (2014), ‘Zijn licenties nu opeens toch
+faillissementsbestendig?’: http://dirkzwagerieit.nl/2014/07/30/zijn-
+licenties-nu-opeens-toch-faillissementsbestendig/ (accessed 19/11/2014);
+M. Kingma (2014), ‘ABN/Berzona: einde aan de Nebula-leer voor licenties
+in faillissement?’ IEF14080: http://www.ie-forum.nl (accessed 19/11/2014);
+D. Van Engelen (2014) ‘De Hoge Raad keert op zijn Nebula-schreden terug
+in ABN AMRO v Berzona: http://www.boek9.nl; M. Rijsdijk (2014), ‘The
+Licensee’s Position During Bankruptcy’, WIPR, p. 132; R.D. Vriesendorp
+(2014), ‘Licensees slightly better off in bankruptcy of Dutch licensor - but
+not out of the woods’: http://www.debrauw.com/alert/licensees-slightly-
+better-bankruptcy-dutch-licensor-woods/.
+
+10 As matters concerning the conﬂict of laws, which may arise here, would
+unnecessarily complicate our case example, it is assumed that Dutch law
+governs the bankruptcy.
+
+the bankruptcy of the licensor, followed by the situation
+in which the licensee is declared bankrupt.
+
+When a licensor located in the Netherlands
+is declared bankrupt
+In this situation, licensor A, a company having its statutory
+seat in the Netherlands, grants a licence to licensee B allow-
+ing B to undertake certain actions with regard to the IPRs
+owned by A. At a certain point in time, after the licence
+agreement has been entered into, licensor A goes bankrupt
+and a bankruptcy trustee is appointed in the Netherlands.10
+The bankruptcy trustee will clearly use his best efforts
+to maximize the value of the estate in the interest of
+the creditors. As intellectual property in many instances
+accounts for a substantial part of a company’s economic
+value, the bankruptcy trustee will probably wish to sell the
+bankrupt’s intellectual property free from any licences.
+
+Directly after Nebula, the view that a trustee is entitled
+to default an agreement became and still is a popular
+mantra.11 The authors, however, share a contrary view.
+Close reading of Nebula learns that this decision does
+not pave the way for a general rule which justiﬁes the
+trustee in a bankruptcy estate to default on agreements
+which are in force when the request for bankruptcy was
+ﬁled. In addition, as indicated above, the Hoge Raad in
+Berzona clariﬁed that it follows from Article 37(1) of the
+Dutch Insolvency Act that a bankruptcy does not affect
+reciprocal agreements, notwithstanding the trustee’s en-
+titlement to decide not to perform certain ‘passive’ obli-
+gations arising out of such agreements.
+
+As the Hoge Raad in Nebula states, a trustee may not
+ﬁnd it in the interest of the bankruptcy estate to perform
+contractual obligations. Accordingly, the interest of the
+bankruptcy estate is said to play the role of determining
+whether a claim arising out of contractual obligations
+will be performed by the trustee or be left to be pre-
+sented for validation. The trustee must consider this
+carefully before deciding that the bankruptcy estate will
+not comply with obligations arising out of an agreement.
+It is this careful consideration which arguably renders it
+
+11 See eg M. Jansen (2014), ‘Zijn licenties nu opeens toch
+
+faillissementsbestendig?’: http://dirkzwagerieit.nl/2014/07/30/zijn-licenties-
+nu-opeens-toch-faillissementsbestendig/ (accessed 19/11/2014);
+M. Kingma (2014), ‘ABN/Berzona: einde aan de Nebula-leer voor licenties
+in faillissement?’ IEF14080: http://www.ie-forum.nl (accessed 19/11/2014);
+D. Van Engelen (2014) ‘De Hoge Raad keert op zijn Nebula-schreden terug
+in ABN AMRO v Berzona: http://www.boek9.nl; M. Rijsdijk (2014), ‘The
+Licensee’s Position During Bankruptcy’, WIPR, p. 132; R.D. Vriesendorp
+(2014), ‘Licensees slightly better off in bankruptcy of Dutch licensor - but
+not out of the woods’: http://www.debrauw.com/alert/licensees-slightly-
+better-bankruptcy-dutch-licensor-woods/.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+8
+6
+0
+1
+2
+4
+5
+7
+4
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+606
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 8
+
+necessary to refrain from the mantra that the Hoge Raad
+in Nebula accepted an absolute right of the trustee to
+default on contractual obligations. The Hoge Raad has not
+done so and, moreover, emphasized in Berzona that
+Nebula only affects whether the trustee is bound by a lease
+which has been entered into after the bankruptcy of the
+legal owner of the property leased by the economic owner
+of that property on the basis of a contractual authorization
+which the legal owner has provided to that end. Nebula
+thus concerns a highly speciﬁc situation and is not a ﬁt
+basis from which to make a generalization. One way or
+another, the approach of the Hoge Raad in Berzona
+strengthens the opinion of the authors that the Hoge Raad
+warns practice not to read into Nebula what it did not
+decide (the mantra that the trustee is simply entitled to
+‘say hello and wave goodbye’ to contractual obligations).
+
+In addition, the Hoge Raad in Berzona stressed that a
+bankruptcy order does not have the consequence of
+granting the trustee an ‘active’12 right or action which
+statute or contract do not assign to him/her.
+
+This leads us to the following conclusions with regard
+to whether the trustee is entitled to sell the intellectual
+property free from licences to a third party. The mindset
+of a trustee of a bankrupt intellectual property owner
+with regard to a reciprocal licence agreement13 should
+initially be that the bankruptcy does not affect this agree-
+ment. Secondly, the trustee should carefully consider
+and investigate whether a sale and transfer of the intel-
+lectual property free from licences to a third party would
+be beneﬁcial to the joint creditors of the bankruptcy.
+Thirdly, if such a sale and transfer seems to be in the
+interest of the joint creditors, the trustee should deter-
+mine which are the relevant obligations with respect to
+such sale and transfer that are laid down or can be
+derived from the licence agreement. These obligations
+should be identiﬁed by the trustee in order to administer
+the points on which he/she intends to default on the
+agreement. Finally, the trustee has to take into account
+that he cannot enforce rights or bring any action against
+the licensee which have not been agreed upon and which
+cannot be derived from statute. Thus where there is no
+contractual or statutory basis the trustee is not entitled
+to prohibit the licensee from performing his rights and
+
+12 Again, note the quotation marks used by the Hoge Raad, which sought to
+clarify that the trustee does not gain any extra enforceable rights from the
+bankruptcy as such. The rights which the trustee is allowed to enforce must
+be derived from an existing agreement or from statute.
+
+13 Nebula and Berzona only concern reciprocal agreements.
+14 Article 2.33 of the Benelux Convention on Intellectual Property and
+
+Related Rights (2006) (BCIP) and Article 23 of the European Trade Mark
+Regulation 207/2009 regarding trade marks, article 3.27 BCIP and Article
+33 of the European Community Design Regulation 6/2002 regarding
+registered design rights and article 56 of the Dutch Patent Act 1995
+regarding patents.
+
+obligations under the licence agreement in order to fa-
+cilitate a sale and transfer of the intellectual property free
+from licences.
+
+As an aside, when determining the actions of the
+trustee in the light of current contracts after a bankrupt-
+cy order, the Hoge Raad’s ruling that the trustee does not
+have any ‘active’ rights or actions which are not assigned
+to him by agreement or statute need not be forgotten.
+For instance, where the licensee of the bankrupt breaches
+its obligations under the licence agreement, the trustee
+may be held to be entitled to invoke the rights of the
+bankrupt trade mark proprietor against the licensee on
+the basis of Article 2.32(2) of the Benelux Convention on
+Intellectual Property (BCIP), which states that the trade
+mark proprietor make invoke its exclusive rights against
+licensees breaching the terms of their licence agreements
+relating to, inter alia, the scope of use of the trade mark
+allowed by the licence or the territory in which the trade
+mark may be used by the licensee. Despite qualifying as
+an ‘active’ right or action, the trustee arguably has this
+power as the BCIP (a statute) assigns this right to him.
+
+There is another reason why the authors defend this
+reasoning. Save for the Dutch Copyright Act and the le-
+gislation concerning the unregistered Community design
+as laid down in European Community Design Regulation
+6/2002, all intellectual property right statutes and regula-
+tions in force in the Netherlands provide for the registra-
+tion of licences in a public register.14 The effect of such a
+registration is that the licence can be invoked against third
+parties.15 A registered licence allows for a defence of the li-
+censee against a third party who has purchased and owns
+the licensed intellectual property to respect the licence
+(agreement).
+
+A careful trustee should determine whether the IPR
+he wishes to sell and transfer to a third party is encum-
+bered by registered licences and a third party interested
+in purchasing that IPR should certainly investigate this
+independently. Although a trustee who sells and trans-
+fers an IPR free from licences, knowing that a licence
+righto use it has been registered, may not risk a success-
+ful claim from the licensee,16 the third party who pur-
+chased that right may successfully bring a claim against
+the trustee on the basis of a free-from-licences-clause in
+
+15 The European Trade Mark Regulation 207/2009 and the European Design
+
+Regulation 6/2002 even go further in case a licence is invoked against a
+third party with knowledge of the registration of the licence in the registers.
+Article 23(1) and 33(2) of these Regulations respectively state:
+‘Nevertheless, such an act, before it is so entered, shall have effect vis-a`-vis
+third parties who have acquired rights in the registered [Community
+design or Community trade mark] after the date of that act but who knew
+of the act at the date on which the rights were acquired.’
+
+16 If the trustee acts according to the conclusions which the authors derive
+
+from the Nebula and Berzona decisions set out above.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+8
+6
+0
+1
+2
+4
+5
+7
+4
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Gino van Roeyen and Denise Verdoold . A Dutch bankruptcy
+
+ARTICLE
+
+607
+
+the purchase agreement. The bankruptcy does not affect
+the registration of the licence and the effect of registra-
+tion on third parties. However, the third party might
+successfully argue that the trustee did not sell and trans-
+fer the intellectual property as agreed. The risk of failing
+to regard this as being quintessential is also a reason why
+the authors object to reducing the Nebula decision to the
+unjust mantra that a trustee is entitled to default with
+regard to a reciprocal agreement.
+
+It follows from the above that licence agreements
+should, from the perspective of both the intellectual
+property proprietor and the licensee, be designed with a
+keen eye to bankruptcy situations. However, the protec-
+tion of a licensee against the bankruptcy of a licensor by
+virtue of an agreement, or statute for that matter, may
+be far from watertight. A licensee can only pursue the
+options best protecting his interests. This means, for
+example, trying not to accept a bankruptcy termination
+clause and demanding that the licence be registered in
+order to hold the licence against third parties who may
+obtain the licensed intellectual property from the trustee
+when the licensor goes bankrupt.
+
+There is also another side of the coin which may offer
+some perspective for the intellectual property proprietor to
+complicate the purchase and transfer of the intellectual
+property free from licences. In case of a bankruptcy, the
+registration of a licence might not be in the interest of the
+intellectual property proprietor. Registration of the licence
+has third party effect which may discourage third parties
+wishing to obtain IPRs that are unencumbered. This might
+open doors for a more fruitful restructuring of the insolv-
+ent company. A similar effect, although less strong, may
+follow from contractual provisions which aim at the con-
+tinuation of a licence if the intellectual property owner is in
+dire straits and ends up bankrupt. From the perspective of
+Article 37(1) of the Dutch Insolvency Act, it might be
+worthwhile to proﬁt from the continuation of the licence
+agreement and seek to render such a continuation attract-
+ive for the trustee as well as the joint creditors in whose
+interest the trustee has to manage the bankruptcy estate.
+
+When a licensee located in the Netherlands
+goes bankrupt
+The considerations which led the Hoge Raad to the
+Nebula and Berzona decisions and the implications these
+cases may have for intellectual property-related agree-
+ments, may also play a role if a trustee needs to manage
+the bankruptcy estate of the licensee.
+
+As has been argued above, the trustee must determine
+the implications of the continuation of the licence agree-
+ment with a view to the management of the bankruptcy
+estate in the interest of the joint creditors. The trustee
+may rely on Article 37(1) of the Dutch Insolvency Act
+allowing him/her not to perform certain obligations of
+the agreement if this is in the interest of the bankrupt
+licensee’s estate. This offers the trustee a certain freedom
+to act. If, for example, royalties are due and payment of
+these royalties is not in the interest of the bankruptcy
+estate of the licensee, the trustee is entitled to refrain
+from payment. Where payment is proﬁtable, the licence
+agreement may be performed.17
+
+The actions the trustee may take also depend on what
+is agreed between the licensee and licensor. If the agree-
+ment, for example, contains provisions taking effect
+upon the bankruptcy of the licensee, this will as a general
+rule have the effect of the licensee and thus the trustee
+no longer being entitled to use the licensed intellectual
+property, paving the way for infringement actions by the
+intellectual property owner.18
+
+Illustrative in this light is the following. The licence
+agreement may stipulate that, on bankruptcy, the licen-
+see is not allowed to dispose of any stock covered by the
+terms of the licence agreement. On the basis of Article
+37 of the Dutch Bankruptcy Act and the Nebula and
+Berzona decisions, the trustee may continue to sell stock
+despite this provision. After all, the trustee would argue
+that the Hoge Raad in Berzona held that the trustee has
+the right to decide not to perform contracts and non-
+perform the obligations following from such contracts.
+However, such a view would be contrary to the Hoge
+Raad’s consideration that the trustee does not have an
+‘active’ right which statute or agreement does not assign
+to him. Accordingly, the trustee is not entitled to sell the
+stock as the consideration of the Hoge Raad that the
+trustee is allowed to decide not to perform contractual
+obligations only grants the trustee an active right or to
+claim that it follows from agreement or statute. In this
+case, in the absence of a contractual or statutory right or
+claim to this end, the trustee should refrain from selling
+the stock.
+
+If the trustee, despite the absence of an ‘active’ right,
+seeks to sell the stock, the intellectual property proprietor
+may have a claim against him/her on the basis of the
+agreement or statute (trade mark infringement). In add-
+ition, the agreement may provide for the suspension of
+the performance of obligations under the contract in case
+of a breach of the obligations on the part of the licensee
+
+17 Although this might not be a likely scenario if the bankruptcy estate lacks
+
+18 This article does not elaborate on situations where a trustee might have a
+
+funds.
+
+possibility to challenge agreements which result from fraudulent
+conveyance.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+8
+6
+0
+1
+2
+4
+5
+7
+4
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+608
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2015, Vol. 10, No. 8
+
+(ie trustee), which also might pave the way for an in-
+fringement action and liability.
+
+Some ﬁnal remarks
+Legal doctrine and practice have erroneously distilled the
+mantra from Nebula that the bankruptcy trustee is entitled
+to breach contracts. This mantra does not do justice to the
+balanced approach necessary to thoroughly understand
+the complex problems that bankruptcies can cause for in-
+tellectual property proprietors and licensees. Berzona
+clearly offers proof of the Hoge Raad teaching that no
+lessons can be learned from Nebula other than those expli-
+citly laid down in that decision. In Berzona, the Hoge
+Raad rightly stressed that the legal question it decided
+upon in Nebula should be treated as case-speciﬁc, possibly
+not having implications for situations differing from this
+case. For intellectual property practice, Nebula would
+imply that a party entitled to exploit intellectual property
+rights on the basis of an agreement cannot enter into
+agreements with third parties regarding the exploitation
+of such rights after the bankruptcy of the intellectual
+property proprietor. Accordingly, the Hoge Raad stresses
+that, in Nebula, no general right of the trustee for non-
+performance of reciprocal agreements was acknowledged.
+On the contrary, it follows from Berzona (and this has
+been signposted in Nebula) that bankruptcy does not
+
+affect reciprocal agreements. Such agreements should in
+principle be performed after bankruptcy, unless the trustee
+has indicated upon request that he does not wish to
+honour the contract, which the Hoge Raad explained as
+non-performance of the contractual obligations. For re-
+ciprocal agreements, this means that these remain valid,
+unless contract or statute determines otherwise. The trustee
+is not entitled to disregard these contracts—indicating
+the importance of Berzona as compared to Nebula. On
+the contrary, Berzona contains an assignment of the
+Hoge Raad to bankruptcy trustees to perform a proper
+investigation to the rights and obligations on the part of
+the bankruptcy estate following from reciprocal agree-
+ments. This trustee may not automatically non-perform
+such agreements on the basis of Nebula. The trustee must
+determine whether performing the obligations under the
+agreement is in the interest of the bankruptcy estate. If this
+is not the case, the trustee is entitled to non-performance
+of such obligations. The justiﬁcation for non-performance
+is to be found in the interest of the bankruptcy estate. This
+is important to emphasize, as this may not be realized
+in practice. In addition, the trustee should take into
+account that the provisions of reciprocal agreements, as
+well as statutory provisions, determine if and, if so,
+which actions a trustee may invoke against the counter-
+party. Bankruptcy as such does not provide the trustee
+with additional rights to be invoked.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+0
+8
+6
+0
+1
+2
+4
+5
+7
+4
+6
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+

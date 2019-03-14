@@ -1,0 +1,1282 @@
+ 
+
+The Rise of Safe Havens for Threatened 
+Cultural Heritage
+Nikolaus Thaddäus Paumgartner*
+
+Raphael Zingg†
+
+ 
+
+Abstract: In light of the recent rise of destruction and looting of cultural 
+property, a need for formalized heritage protection has arisen. Increasingly 
+popular in the debate has become the instrument of international assistance 
+known as “safe havens.” These temporary refuges for at-risk cultural goods in 
+a third country have recently been implemented by Switzerland, France, the 
+United States, and the Association of Art Museum Directors. We assess the 
+contributions and shortcomings of these four regimes using a comparative 
+approach. Mainly, we find that, despite variations in their scope and structure, 
+none of the models accounts entirely for today’s major difficulties in protecting 
+endangered cultural properties. We draw recommendations for future safe haven 
+states against the backdrop of the existing models and hope to see the instrument 
+used in practice as a way to safely isolate cultural property from destructive 
+conflicts.
+
+Keywords: Safe havens, cultural heritage protection, comparative law
+
+INTRODUCTION
+
+The rampant destruction and looting of millennia-old cultural property in coun-
+tries subject to armed conflicts, such as Iraq, Syria, Mali, Egypt, or Afghanistan, 
+has prompted international outrage during the last decade. Heritage destruction, 
+as an instrument of war, has led to irreplaceable losses and the illicit trafficking of 
+
+*Pestalozzi Attorneys at Law, Zurich, Switzerland; Email: nikolaus.paumgartner@pestalozzilaw.com
+†Waseda University, Institute for Advanced Study, Tokyo, Japan; ETH Zurich, Center for Law & 
+Economics, Zurich, Switzerland; Email: rzingg@ethz.ch
+
+ACKNOWLEDGMENTS: We are grateful to Rino Büchel, Marc-André Haldimann, the participants 
+of the second All Art and Cultural Heritage Law Conference in Geneva, and two anonymous reviewers 
+for their comments and suggestions.
+
+323
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+International Journal of Cultural Property (2018) 25:323–346. Printed in the USA.Copyright © 2018 International Cultural Property Societydoi:10.1017/S0940739118000188324 
+
+NIKOLAUS THADDÄUS PAUMGARTNER AND RAPHAEL ZINGG
+
+cultural heritage items as a way to supplement the funding of militant groups.1 The 
+instrument of international assistance known as “safe havens”—granting tempo-
+rary refuges for at-risk cultural goods in a third country—has become increasingly 
+popular recently in the debate on heritage protection.
+
+Though of a hybrid nature, generally the following three main characteristics of safe 
+havens may be identified: (1) they stem from international cultural heritage obliga-
+tions that are related to cultural materials endangered by armed conflicts, terrorism, 
+and natural disasters; (2) they are primarily a matter of national law; and (3) they 
+give effect to ethical considerations of non-state actors that establish such facilities 
+based on instruments of self-regulation. The first two characteristics are mirrored 
+in the manifold international soft and hard law developments that ultimately led to 
+Switzerland, the United States, and France adopting national laws on the granting of 
+safe havens during the last three years, while further countries are expected to follow. 
+The Association of Art Museum Directors (AAMD) is exemplary of the third char-
+acteristic by issuing a self-regulatory framework for the provision of safe havens in 
+the institutions of its members. Facing today’s challenges, safe havens are one instru-
+ment that may contribute to better protecting threatened cultural heritage.
+
+In this article, we first explore the recent history of safe havens as a safekeeping 
+instrument for threatened cultural property. Next, we apply a comparative approach 
+to analyze the conditions and modalities of the provision of safe havens in Switzerland, 
+France, the United States as well as at the museum level. After assessing the four 
+different safe havens models, we then discuss the contributions and shortcomings of 
+each of the four models. Finally, and against the backdrop of the challenges identified 
+in the previous section, we conclude by identifying recommendations for the future 
+establishment and implementation of safe havens through national laws.
+
+A BRIEF HISTORY OF SAFE HAVENS
+
+First International Developments
+
+Traditionally,  there  has  been  a  vast  international  humanitarian  practice  to  pro-
+tect and safeguard cultural property evacuated from occupied territories. It is by 
+virtue of international customary law that states have a duty to protect, preserve, 
+and return property belonging to foreign states.2 Moreover, according to interna-
+tional law, the property of foreign states is immune from jurisdiction and seizure.3 
+Prominent examples for the granting of safe havens to works being endangered 
+abroad can be found in Switzerland, though not on the basis of specific national 
+
+1In this sense, archaeologists estimate that Islamic State of Iraq and Syria (ISIS) has looted up to USD  
+300 million worth of antiquities. See Sangwon Yoon, “Islamic State Is Selling Looted Art Online for 
+Needed Cash,” Bloomberg, 29 June 2015.
+2See illustratively Castel 1974, 124; Williams 1977, 154.
+3Castel 1974, 125; Williams 1977, 152.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+THE RISE OF SAFE HAVENS FOR THREATENED CULTURAL HERITAGE 
+
+325
+
+legal provisions. As early as the Spanish civil war (1936–39), the Musée d’art et 
+d’histoire of Geneva provided a refuge for large numbers of paints from the col-
+lection of the Museo Nacional del Prado in Madrid.4 More recently, from 2000 to 
+2007, Afghan cultural material was stored for safekeeping in the privately owned 
+Afghanistan Museum in Bubendorf, Switzerland.5 Lastly, the city of Geneva has 
+been storing archaeological treasures from Gaza in the Geneva Freeport.6
+
+Until the middle of the last century, states would grant such protection based 
+on their own diverse set of practices, national (antiquities) laws, export controls, 
+and rules and mechanisms of enforcement.7 The role of international law gained 
+importance with the passing of the 1954 Hague Convention.8 Setting rules for the 
+transport of cultural property outside an endangered territory and for its return 
+at  the  end  of  the  hostilities,9  the  convention  constituted  the  first  worldwide 
+international treaty focused exclusively on the safeguard of cultural property. The 
+obligation of states to cooperate to preserve cultural heritage from destruction 
+and misappropriation was further strengthened by several additional treaties that 
+were subsequently passed in the course of the last few decades, most notably the 
+1999 Second Protocol to the Hague Convention.10 International hard laws have 
+been complemented by several political soft law commitments by states and by 
+international mobilization campaigns. Prominent examples of such initiatives are 
+“Unite4Heritage,” which was launched by the United Nations (UN) Educational, 
+Scientific and Cultural Organization (UNESCO) in 2015, as well as the 2015 Expert 
+Committee report and resolution on the proposed extension of the doctrine of the 
+“responsibility to protect” to cultural property—that is, acts of intentional destruc-
+tion of cultural heritage would justify action from the UN Security Council.11
+
+4Musée d’Art et d’Histoire, “Du Greco à Goya: Chefs-d’oeuvre du Prado et de collections espagnoles. 
+50e anniversaire de la sauvegarde du patrimoine artistique espagnol 1939–1989,” Exhibition, 16 June –  
+24 September 1989, Geneva, Switzerland.
+5See Koellreuter and Bucherer 2008 for more details.
+6Musée d’Art et d’Histoire, “Gaza à la croisée des chemins,” Exhibition, 25 April – 7 October 2007, 
+Geneva. See Caroline Zumbach, “Des trésors de Gaza embarrassent Genève, qui appelle Berne à 
+l’aide,” Tribune de Genève, 21 November 2014.
+7Nafziger 2007, 148.
+8Convention for the Protection of Cultural Property in the Event of Armed Conflict, 14 May 1954, 
+249 UNTS 240 (Hague Convention).
+9Hague Convention, Art. 12–14; Regulations for the Execution of the 1954 Hague Convention for the 
+Protection of Cultural Property in the Event of Armed Conflict (Regulations for the Execution of 
+the Convention), Art. 18; First Protocol to the Convention for the Protection of Cultural Property in 
+the Event of Armed Conflict, 14 May 1954, 249 UNTS 358, para. 5 (First Protocol).
+10Second Protocol to the Convention for the Protection of Cultural Property in the Event of Armed 
+Conflict, 26 March 1999, 2253 UNTS 172 (Second Protocol).
+11“Responsibility  to  protect”  leads  to  an  extensive  interpretation  of  Art.  39  by  incorporating 
+human right violations as “threats to the peace” that would justify the decision of what measures 
+should be taken to maintain and restore international peace, which is an exception to the general 
+prohibition on the interstate use of force. See Brad Halt, “The Legal Character of R2P and the 
+UN Charter,” E-International Relations, 8 August 2012; and Franklin Lamb, “Can Responsibility 
+to Protect Preserve our Cultural Heritage in Syria?” counterpunch, 28 April 2016.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+326 
+
+NIKOLAUS THADDÄUS PAUMGARTNER AND RAPHAEL ZINGG
+
+Though generally providing for the safeguarding of cultural property, neither 
+international laws nor national implementations had yet to contain particular rules 
+on the granting of safe havens for threatened cultural property. In response, the 
+International Law Association adopted the Guidelines for the Establishment and 
+Conduct of Safe Havens for Cultural Material (ILA Guidelines) in 2008.12 These 
+guidelines constitute normative recommendations that act as a basis for states 
+when establishing and conducting safe havens or when integrating the regime into 
+their national laws. In essence, the ILA Guidelines and the appended Safe Haven 
+Model  Contract  provide  for  non-binding  standards  for  safekeeping,  preserving, 
+and returning cultural material on which governmental and non-governmental 
+bodies—typically museums—may rely when establishing safe havens. Particular 
+attention is given to the condition of care by both the safe haven state and the 
+source state or entity.13 By providing for well-reflected and practical guidelines in 
+a field so far characterized by uncertainty of standards and procedures, the ILA 
+Guidelines contributed to the emergence of national safe haven implementation in 
+the decade following their adoption.
+
+The concept of granting safe havens dramatically gained importance during the 
+international debate on heritage protection following the rise of the militant group of 
+the Islamic State of Iraq and Syria (ISIS) and the destruction and looting of millennia-
+old cultural property as an instrument of war. It has only been recently that 40 states 
+have committed to create an international network of safe havens, both at a national 
+level and in third countries, by adopting the Abu Dhabi Declaration on Heritage at 
+Risk in the Context of Armed Conflicts, 3 December 2016 (Abu Dhabi Declaration). 
+As per the declaration, refuges in third countries shall be a solution of last resort and, 
+in accordance with international law, be provided at the request of the governments 
+concerned and take into account the national and regional characteristics and contexts 
+of cultural property. The declaration also approves the setting up of a fund, an effort led 
+by France and the United Arab Emirates, aiming to raise USD 100 million by 2019 for 
+the implementation of programs for cultural property in danger on account of armed 
+conflict.14 Following this initiative, the UN Security Council adopted Resolution 2347 
+(2017) in order to encourage nations, inter alia, to consolidate their cultural property 
+in a network of safe havens in their own territories.15 Concurrently with the rise of the 
+
+12International Law Association (ILA), Guidelines for the Establishment and Conduct of Safe Havens 
+as Adopted by the International Law Association at Its 73rd Conference Held in Rio de Janeiro, Brazil, 
+Resolution no. 2/2008, 17–21 August 2008 (ILA Guidelines). For a comparison between the Swiss 
+model and the ILA Guidelines, see Chechi 2015, 92.
+13ILA Guidelines, Guidelines 4, 5.
+14The Alliance for the Protection of Heritage in Conflict Areas is a Swiss fund based in Geneva. See 
+“UNESCO, France and the Emirates Launch an International Alliance for the Protection of Heritage,” 
+20 March 2017, http://www.unesco.org/new/en/media-services/single-view/news/unesco_france_
+and_the_emirates_launch_an_international_alli/ (accessed 20 August 2018).
+15This approach focuses on illegal trafficking originating from a context of armed conflicts, notably 
+from terrorist groups, in particular from ISIL, Al-Qaeda, and associated individuals and groups.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+THE RISE OF SAFE HAVENS FOR THREATENED CULTURAL HERITAGE 
+
+327
+
+concept on the international stage, the proliferation of safe havens has recently found 
+its way into the national laws of several states as outlined in the subsequent paragraphs.
+
+Switzerland
+
+In the course of the complete revision of its Federal Act on the Protection of 
+Cultural Property in the Event of Armed Conflict, Disaster or Emergency Situa-
+tions (PCPA), Switzerland was the first country to transpose this instrument into 
+its national laws in 2015.16 Pursuant to Article 18 of the PCPA, the Swiss state may 
+henceforth grant safe havens to cultural property being threatened abroad.
+
+France
+
+In the same vein, Jean-Luc Martinez, director of the Musée du Louvre, was charged 
+by François Hollande, the former French president, with a mission concerning the 
+protection of cultural goods in armed conflicts. In the respective report, Martinez 
+argued that France should follow Switzerland, and he foresaw a legal instrument 
+to enable the removal and the temporary storage of threatened cultural material.17 
+Martinez’s report led to the proposed amendment “Palmyre” of the Projet de loi 
+relatif à la liberté de création, architecture et patrimoine, including a novel article 
+added to the Code du patrimoine that enables the French state to grant safe havens. 
+The bill was finally adopted in July 2016, and the result is an instrument based on 
+the Swiss model, but containing certain particularities.18 Since the law stipulates 
+that the modalities of its application are to be determined by the Conseil d’État on 
+an ordinance level and since this ordinance has not been passed to date, certain 
+concretizations still remain to be seen.19
+
+United States
+
+The Protect and Preserve International Cultural Property Act was signed into 
+law in the United States on 9 May 2016. It seeks to counter the black market trade 
+of plundered Syrian cultural goods.  Inter alia, it imposes specified import restric-
+tions (as set forth under section 307 of the Convention on Cultural Property 
+
+16Bundesgesetz über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und 
+in Notlagen, SR 520.3 (PCPA).
+17Jean-Luc Martinez, “Cinquante propositions françaises pour protéger le patrimoine de l’humanité: 
+Rapport au Président de la République sur la protection du patrimoine en situation de conflit armé,” 
+2015, particularly, proposition no. 47.
+18Loi du 7 juillet 2016 relative à la liberté de la création, à l’architecture et au patrimoine, Art. 56; 
+Code du patrimoine, Art. L. 111-11.
+19The status can be reviewed under “Contrôle de l’application de la loi relative à la liberté de la 
+creation, à l’architecture et au patrimoine,” https://www.senat.fr/application-des-lois/pjl15-015.html 
+(accessed 9 March 2018).
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+328 
+
+NIKOLAUS THADDÄUS PAUMGARTNER AND RAPHAEL ZINGG
+
+Implementation Act) with respect to any archaeological or ethnological material 
+from Syria, as if Syria was a state party to the Convention on the Means of Pro-
+hibiting and Preventing the Illicit Import, Export and Transfer of Ownership 
+of Cultural Property.20 The AAMD, in reaction to the first draft of the Protect 
+and Preserve International Cultural Property Act introduced in the House of 
+Representatives on 19 March 2015, released a statement in which it criticized 
+the import restrictions for forbidding the entry into the United States of cul-
+tural property that ISIS was in the process of destroying or that may be brought 
+in by Syrian refugees, forcing the latter to leave their heritage in Syria, where it 
+was most likely to be stolen or destroyed.21 The result was the addition to the 
+bill of a waiver to the import restrictions regarding a temporary deposit of the 
+(unlawfully  removed)  cultural  good  in  question,  which  led  to  a  form  of  safe 
+haven that may be granted by the United States upon the request of the owner 
+or custodian.
+
+Other Countries
+
+Germany, which also revised its Kulturgutschutzgesetz (Law on the Protection of 
+Cultural Property), considered the option of establishing safe havens for Syrian 
+and Iraqi cultural property.22 The proposition was introduced by the Deutsche 
+Kulturrat but, in the end, was not implemented as part of the revision that came 
+into force in August 2016.23
+
+In February 2017, the United Kingdom’s (UK) Parliament passed the Cultural 
+Property (Armed Conflicts) Act 2017 to implement the 1954 Hague Convention24 
+and its First and Second Protocols,25 with the convention and the protocols subse-
+quently being ratified in September 2017.26 Part 5, section 28, of the Cultural Prop-
+erty (Armed Conflicts) Act 2017 implements the UK’s obligations under Article 14  
+
+20Protect  and  Preserve  International  Cultural  Property  Act,  HR  1493,  s.  3(a);  Convention  on 
+Cultural  Property  Implementation  Act,  19  USC  §§  2601  et  seq.;  Convention  on  the  Means  of 
+Prohibiting  and  Preventing  the  Illicit  Import,  Export  and  Transfer  of  Ownership  of  Cultural 
+Property, 14 November 1970, 823 UNTS 231 (1970 UNESCO Convention). See Perini and Cunliffe 
+2015, 54.
+21Statement of the Association of Art Museum Directors, HR 1493, https://aamd.org/sites/default/files/
+key-issue/FINAL%20STATEMENT7471527_4.pdf (accessed 20 August 2018).
+22Kulturstaatsministerin Monika Grütters, Novellierung des Kulturgutschutz-Gesetzes, “Internationale 
+Variante des Kulturgutschutzes,” Deutschlandfunk, 22 April 2015.
+23“Asyl für bedrohtes syrisches und irakisches Kulturgut,” Deutscher Kulturrat, 22 April 2015, http://
+www.kulturrat.de/detail.php?detail=3097&rubrik=2 (accessed 20 August 2018).
+24Hague Convention.
+25The UK signed the Hague Convention but has not ratified it nor acceded to the two protocols. 
+See “Cultural Property (Armed Conflicts) Bill [HL]: Briefing for Lords Stages, Lords Library Doc. 
+LLN-2016-0029,  27  May  2016,  http://researchbriefings.parliament.uk/ResearchBriefing/Summary/
+LLN-2016-0029#fullreport (accessed 20 August 2018).
+26We are grateful to Rachael Bishop, Bill team manager, for the details provided.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+THE RISE OF SAFE HAVENS FOR THREATENED CULTURAL HERITAGE 
+
+329
+
+of  the  convention  to  ensure  that  cultural  property  that  is  being  transported  for 
+safekeeping may not be seized or forfeited while it is in the UK.27 In the case of 
+cultural property being transported to the UK for which the UK has accepted the 
+obligation to act as depository and safeguard under Article 18 of the Regulations 
+for the Execution of the 1954 Hague Convention for the Protection of Cultural 
+Property in the Event of Armed Conflict, subsection (5) of the Act provides that the 
+cultural property is protected while under the custody of the secretary of state or 
+the person or institution the latter has designated responsible for its safekeeping.28 
+In the event that the UK is requested to act as depositary, any cultural property 
+should be appropriately housed and cared for, and such property should only be 
+returned on cessation of the conflict.29 The government may make enquiries 
+regarding the provenance of the cultural property in order to avoid bringing cul-
+tural property with disputed ownership into the UK.30 According to Article 18 of 
+these regulations, in such cases, the UK is to extend to the cultural property as great 
+a measure of care as that which it bestows upon its own cultural property of com-
+parable importance and only return the good on cessation of the conflict.
+
+In Italy, a UNESCO Emergency Task Force for Culture has been established 
+with the aim of protecting cultural sites and artifacts in zones of conflict. The 
+task force will assist with the transfer of at-risk movable cultural heritage to safe 
+havens.31 The implementation of safe havens into the national laws of Italy, however, 
+does not seem to be planned at this current stage. In addition, China’s national 
+body overseeing the protection of historical heritage has recently vowed to respond 
+to  the  call  for  establishing  safe  havens.32  It  would  seem  that,  following  the  Abu 
+Dhabi Declaration and the UN Security Council’s resolution outlined earlier and 
+given the regulatory requirements associated with the granting of safe havens, it 
+may be expected that further countries will follow and implement the concept in 
+their national laws.
+
+Criticisms
+
+Not all states have embraced this evolution, with Greece and Egypt publicly raising 
+concern about the concept of granting safe havens. Notably, contention arose 
+
+27See the Explanatory Notes to the Cultural Property (Armed Conflicts) Act 2017, available under 
+http://www.legislation.gov.uk/ukpga/2017/6/notes (accessed 20 August 2018).
+28Regulations for the Execution of the Convention.
+29Regulations for the Execution of the Convention, Art. 18.
+30See Cultural Property Act 2017, 77.
+31Memorandum of Understanding between the Government of the Italian Republic and UNESCO on the 
+Italian National Task Force in the Framework of UNESCO’s Global Coalition Unite4Heritage, 16 
+February  2016,  http://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1455616287505_2._ 
+Memorandum_of_Understanding___11_II_2016_DRAFT_Finale_UNESCO_versione_Italia.pdf 
+(accessed 20 August 2018).
+32Kaihao Wang, “China Answers Call for Relics ‘Safe Havens,’” China Daily, 29 March 2017.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+330 
+
+NIKOLAUS THADDÄUS PAUMGARTNER AND RAPHAEL ZINGG
+
+during Egypt’s adoption of Resolution 2347 (2017).33 In general, the creation of 
+safe havens outside of national boundaries was seen as not respecting the principles 
+of sovereignty and non-intervention.34 The Greek prime minister, on the other 
+hand, argued that the transfer of objects into third countries should be a solu-
+tion of last resort and that guarantees for their safe return should be established.35 
+Throughout the last century, these countries were repeatedly at the center of dis-
+putes over the return of cultural material. Illustratively, Greece has long sought 
+the return of the Parthenon Marbles, sculptures removed from the Parthenon by 
+Lord Elgin in the early 1800s and sold to the British Museum.36 Despite several 
+petitions since Greece’s independence in 1832 and formal requests through the 
+UN, the sculptures are still on permanent public display at the British Museum.37
+AAMD
+
+Concurrently with these legal developments, the AAMD, with its current network 
+of 242 museum directors in the United States, Canada, and Mexico, has issued a set 
+of guidelines on 1 October 2015 regarding the provision of safe havens for threatened 
+cultural property by museums.38
+
+SAFE HAVENS AT A NATIONAL LEVEL
+
+The Conditions of Safe Havens
+
+Cultural Property
+In all three jurisdictions, the property concerned has to qualify as “cultural prop-
+erty” in the sense of the underlying rule in order to be entitled to receive protection 
+
+33With the representative for Egypt arguing that “[s]tates must step up efforts while respecting the 
+principle of sovereignty and non-interference in others’ internal affairs” at the 7907th Meeting of the 
+Security Council. “Security Council Condemns Destruction, Smuggling of Cultural Heritage by  
+Terrorist Groups, Unanimously Adopting Resolution 2347 (2017),” 24 March 2017, https://www.
+un.org/press/en/2017/sc12764.doc.htm (accessed 20 August 2018); see also UNESCO, “Twelfth Meeting 
+by the Committee for the Protection of Cultural Property in the Event of Armed Conflict,” 8 November 
+2017, 40–41, unesdoc.unesco.org/images/0026/002601/260141E.pdf (accessed 20 August 2018), which  
+calls for a thorough review of the legal and policy framework for the implementation with safe havens.
+34See  “Briefing  and  Draft  Resolution  on  Protection  of  Cultural  Heritage  in  Armed  Conflicts,” 
+http://www.whatsinblue.org/2017/03/briefing-and-draft-resolution-on-protection-of-cultural- 
+heritage-in-armed-conflicts.php (accessed 20 August 2018).
+35Quoting the Greek Prime Minister Alexis Tsipras, see “40 countries create fund to protect cultural  
+heritage endangered by conflict,” https://www.i24news.tv/en/news/international/131661-161203- 
+nations-set-to-approve-fund-to-protect-cultural-heritage (accessed 20 August 2018).
+36For a historical account, see “How the Parthenon Lost Its Marbles,” 12 March 2016, https://www.
+nationalgeographic.com/archaeology-and-history/magazine/2017/03-04/parthenon-sculptures-british-
+museum-controversy/ (accessed 20 August 2018).
+37Banteka 2016, 1238.
+38AAMD Protocols for Safe Havens for Works of Cultural Significance from Countries in Crisis,  
+1  October  2015,  https://aamd.org/document/aamd-protocols-for-safe-havens-for-works-of-cultural-
+significance-from-countries-in-crisis (accessed 20 August 2018).
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+THE RISE OF SAFE HAVENS FOR THREATENED CULTURAL HERITAGE 
+
+331
+
+under the respective safe haven regime. However, while both the French and the 
+Swiss legislature use fairly broad definitions of cultural property, the US definition 
+is relatively narrow and, therefore, more restrictive. The Swiss legislature refers to 
+the definition of Article 1 of the Hague Convention, according to which cultural 
+property shall cover all “movable or immovable property of great importance to 
+the cultural heritage of every people.”39 The Hague Convention exemplifies this by 
+enumerating manuscripts, books, and other objects of artistic, historical, or  
+archaeological interest as well as scientific collections, important collections of 
+books or archives, and reproductions of the property defined above.40 The defini-
+tion of cultural property under the French Code du patrimoine is even broader; 
+it covers all movable or immovable property that represents a historical, artistic, 
+archaeological, aesthetic, scientific, or technical interest and does not, therefore, 
+require that the object to be protected have a specific significance.41
+
+Under the US regime, however, a safe haven may only be granted to designated 
+material of archaeological or ethnological interest. In order to qualify as material 
+of archaeological interest, the object must be of cultural significance, must be at 
+least 250 years old, and must have been normally discovered as a result of scientific 
+excavation, clandestine or accidental digging, or exploration on land or under-
+water.  Ethnological  objects  are  defined  as  products  of  a  tribal  or  non-industrial 
+society and as important to the cultural heritage of a people because of the objects’ 
+distinctive characteristics, comparative rarity, or contribution to the knowledge 
+of the origins, development, or history of that people.42 In addition, the mate-
+rial must, in theory, form part of the Designated List of Archeological Material of 
+Syria issued by the secretary. However, the designated list “covers all archeological 
+and ethnological material of Syria” and, thus, does not include further restrictions. 
+Considering that these conditions are cumulative, the scope of the US regime is 
+significantly more restrictive than the other two jurisdictions. However, it should 
+be kept in mind that all material not qualifying thereunder may be imported with-
+out the import restriction applying and, therefore (in theory) is granted protection 
+in the United States (though not under the safe haven regime).
+
+Endangerment in a Third State
+
+Threat
+
+According to the Swiss law, the cultural property must be under threat, while, in 
+France, it must be subject to a situation of emergency and of serious danger in the 
+
+39PCPA,  Art.  2,  lit.  a.  The  ILA  Guidelines  refer  to  the  definition  of  cultural  property  by  the  1970 
+UNESCO Convention.
+40Hague Convention, Art. 1, lit. 1. Criticizing this approach, see Schweizerische Gesellschaft für 
+Kulturgüterschutz, “Stellungnahme der Schweizerischen Gesellschaft für Kulturgüterschutz zur 
+Totalrevision des Bundesgesetzes über den Schutz der Kulturgüter bei bewaffneten Konflikten 
+vom 20,” June 2013, 3.
+41Code du patrimoine, Art. L1.
+42Convention on Cultural Property Implementation Act, s. 302(2)(C)(ii).
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+332 
+
+NIKOLAUS THADDÄUS PAUMGARTNER AND RAPHAEL ZINGG
+
+third state.43 In both cases, the endangerment does not depend on the origin of the 
+situation of danger but, rather, on the probable impact of the danger on the cul-
+tural good.44 Regarding the aim of a vast protection of both laws, we expect that the 
+Swiss Federal Council and the Conseil d’État would interpret the notion broadly.45
+Under the US legislation, which is linked directly to the Syrian conflict, such 
+endangerment is seen as de facto given, and refuge may be granted to all “property 
+unlawfully removed from Syria on or after March 15, 2011,” which was the official 
+date of the beginning of the Syrian civil war.46 Under the import restriction, no 
+archaeological or ethnological material from Syria may be imported unless (1) Syria 
+issues a certification or other documentation that certifies that the exportation is 
+not in violation of the laws of Syria or (2), in the absence of such documentation, 
+satisfactory evidence is provided that the material was exported from Syria not less 
+than 10 years before the date of such entry and that neither the person on whose 
+account the material is imported (or any related person) has contracted for, or 
+acquired an interest in, the material more than one year before the date of entry 
+into the United States.47
+
+Armed Conflict and Disasters
+
+In line with the ILA Guidelines,48 in both Switzerland and France, the endanger-
+ment must be the result of an armed conflict or a catastrophe (or an emergency).49 
+The term “armed conflict” encompasses both international and non-international 
+conflicts and, hence, not only declared wars between two or more countries but 
+also other armed conflicts without recognition as a state of war.50 Since safe havens 
+implement the international assistance efforts of the Second Protocol to the Hague 
+Convention, it seems that the dichotomy between armed conflicts, on the one 
+hand, and internal unrest and tensions (which are not, therefore, within the scope 
+of the Swiss and French laws), on the other hand, should also apply.51
+
+The revision of the Swiss rules in 2015 aimed at an adaptation toward today’s 
+danger and threat situation, therefore, extending its scope of application to disasters  
+
+43PCPA, Art. 2 lit. c; Code du patrimoine, Art. L. 111-11, respectively. Similarly, see ILA Guidelines, 
+Art. 2, requires that the cultural material is “endangered.”
+44Paumgartner and Zingg 2014, 1376–77; similarly Engelhardt 2010.
+45For Switzerland, see Paumgartner and Zingg 2014, 1377. On the assessment of the situation of 
+threat, see Chechi 2015, 89. As outlined above, in France, the Conseil d’État will determine the 
+conditions of applications of the article by way of a respective ordinary.
+46This date is derived from UN Security Council Resolution 2199, 12 February 2015, on threats to 
+international peace and security caused by terrorist acts by Al-Qaeda.
+47Convention on Cultural Property Implementation Act, s. 307.
+48ILA Guidelines, Guideline 2.
+49The ILA Guidelines also call for a broad scope of application, naming endangerment by armed conflict, 
+natural disasters, illegal excavations, or other insecurity, see ILA Guidelines, Guideline 2.
+50See Paumgartner and Zingg 2014, 1377; Message of the Federal Council on the Revision of the 
+Federal Law over the Protection of Cultural Property in the Event of Armed Conflict, BBl 2013 8987 
+(Message of the Federal Council 2013), 9003; for the differentiation, see Pabst 2008; Lattman 1974.
+51Paumgartner and Zingg 2014, 1377; Pabst 2008, 223.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+THE RISE OF SAFE HAVENS FOR THREATENED CULTURAL HERITAGE 
+
+333
+
+and emergencies, whereas, as discussed earlier, France took over the notion of disas-
+ters only.52 According to the Swiss Federal Council, a catastrophe is an event whose 
+implications overstrain the personal and material means of the community con-
+cerned and, therefore, requires external support. On the contrary, an emergency is 
+not characterized by a single event but, rather, by a development of events that leads 
+to the state of necessity of external support mentioned earlier.53 In France, the term 
+“catastrophe” should be interpreted broadly, considering the protective aims of the 
+law, and, consequently, also cover what Switzerland defines as disaster and emergency 
+(since the notion of an emergency is part of the definition of threat). Despite the fact 
+that the Swiss message of the Federal Council only refers to natural disasters, we are 
+of the opinion that man-made disasters should also be subsumed under the term.54
+
+Requesting Entity
+Under the Swiss model, it is not entirely clear whether a safe haven may only be 
+granted  upon  request  by  a  foreign  state  owning  or  possessing  the  respective 
+cultural good in danger or also upon request by a non-state owner or possessor (or 
+even upon determination by the Swiss state itself), since the wording of the clause 
+contains no information thereto.55 On the contrary, the French model is clear in 
+this sense. A safe haven may only be granted upon request of the foreign state 
+owning or possessing the cultural good or upon a respective resolution by the UN 
+Security Council.56
+
+An opposite approach is followed by the United States’s Syrian-adapted model, 
+where safe havens may only be granted upon request of the foreign (non-state) 
+owner or lawful custodian of the good in danger. Furthermore, in the case where 
+no owner or lawful custodian can reasonably be identified, the president of the 
+United States may determine whether a safe haven should be granted.57
+
+Conclusion of a (State) Treaty with the Source State
+
+State Treaty
+
+In France, the conclusion of a state treaty is required unless a respective resolution 
+by the UN Security Council is in existence.58 Even though the second paragraph 
+
+52For Switzerland, see Message of the Federal Council 2013, 8991; for France, see Code du patrimoine, 
+Art. L. 111-11.
+53Message of the Federal Council 2013, 9003.
+54See Paumgartner and Zingg 2014, 1377. Particularly industrial disasters. See the reference of the 
+Message of the Federal Council 2013, 8991; BBl 2010, 5146.
+55In our view, safe havens can be granted in Switzerland upon request by a non-state owner or 
+possessor; for a detailed assessment, see Paumgartner and Zingg 2014, 1378.
+56According to the Code du patrimoine, new Art. L. 111-11.
+57Protect and Preserve International Cultural Property Act, s. 3(c)(2)(A)(ii).
+58Although not explicitly mentioned, this may deviate from the fact that only states may request a 
+safe haven and, therefore, a respective treaty between the requesting state and the French state must 
+always be concluded in one form or another.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+334 
+
+NIKOLAUS THADDÄUS PAUMGARTNER AND RAPHAEL ZINGG
+
+of Article 12 of the PCPA contains a detailed list of what should be included in a 
+respective state treaty, it is not entirely clear whether the provision of safe havens 
+in Switzerland requires the conclusion of a state treaty with the source state.59 The 
+question is linked with that regarding who may request the granting of safe havens. 
+In this context, it remains questionable whether, for instance, a group of insur-
+gents or belligerents, who does not have legal personality,60 have the legal capacity 
+to enter into a treaty with Switzerland regarding the protection of endangered 
+cultural material under a safe haven61 or if a non-treaty-based safe haven may be 
+granted. In the United States, on the other hand, where the provision of a safe 
+haven constitutes a waiver of import restrictions for goods imported from Syria, 
+no state treaty is required.62
+
+UN Security Council
+
+As outlined above, an innovative approach to combat these issues was introduced 
+in France by leaving the French government the possibility of granting a safe haven, 
+irrespective of any approval of the source state, when a resolution of the UN Security 
+Council is taken in this respect.63
+
+Treaty Conditions
+
+Article 12, paragraph 2, of the PCPA contains a detailed list of what should be 
+included in the state treaty between Switzerland and the source state,64 whereas the 
+French provisions currently remain silent in this regard.65 The conclusion of the 
+treaty may, in theory, be oral and is not subject to any formal requirements, but the 
+written form will most probably be the rule, even in the course of time-restricted 
+procedures.66 France could eventually follow Switzerland’s decision that foresees 
+the drafting of a model safe haven treaty in order that the Federal Council may react 
+promptly to potential requests.67
+
+59PCPA, Art. 12, stipulates that the Federal Council “can” enter into state treaties.
+60Dinstein 2014, 65.
+61When a state recognizes insurgents or belligerents, the latter are provided with a legal personality of 
+functionally limited nature, which encompasses the capacity to enter into agreements regarding the 
+protection of persons. In regard to the Swiss model and the open wording of the PCPA, Art. 12, it can, 
+in our view, be deduced in analogy that insurgents or belligerents recognized by the Swiss state have 
+the legal capacity to enter into treaties regarding the protection of cultural property. See Paumgartner 
+and Zingg 2014, 1378.
+62See Paumgartner and Zingg 2014, 1378, for a detailed assessment.
+63Code du patrimoine, Art. L. 111-11.
+64Such  as  transport  modalities,  cost  distribution,  insurance  and  liability,  modalities  of  the  return, 
+applicable law, or competent court; see also Paumgartner and Zingg 2014, 1379, for an overview.
+65Though this might form part of the ordinance to be passed by the Conseil d’État.
+66See Legal Status of Eastern Greenland (Norway v. Denmark), 1933, Series A/B, No. 53, 70; Maritime 
+Delimitation and Territorial Questions between Qatar and Bahrain (Qatar v. Bahrain), 1 July 1994, 
+ICJ Reports (1994) 112.
+67Message of the Federal Council 2013, 9001.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+THE RISE OF SAFE HAVENS FOR THREATENED CULTURAL HERITAGE 
+
+335
+
+No Contribution to Illegal Trafficking or Financing of Criminal or Terrorist 
+Activities
+In order to fight the abuse of safe havens, under the US model, there should not be 
+any credible evidence that granting the waiver will contribute to illegal trafficking 
+in cultural goods from Syria or to the financing of criminal or terrorist activities. 
+Though not explicitly mentioned in the respective provisions, we expect that this 
+also applies to the Swiss and French model. The same caveat was already identified 
+in the ILA Guidelines.68
+
+The Provision of Safe Havens
+
+Authority to Grant Safe Havens
+The power to decide upon the granting of a safe haven lies with the executive 
+authorities in all three jurisdictions—that is, the Federal Council in Switzerland, 
+the Ministre des Affaires étrangères in France, and the president in the United 
+States.69 In order to grant the waiver, the president of the United States must certify 
+to the congressional committees that the respective conditions (described above) 
+for the granting of such are fulfilled.70
+
+Places of Refuge
+Safe havens should generally be characterized as protected facilities offered by the 
+countries with climatic, security, and technical conditions to guarantee state-of-
+the-art safekeeping.71 Illustratively, Switzerland has already determined a (secretly 
+kept) refuge near Affoltern in the Canton of Zurich.72 Similarly, the French state 
+will make available secured premises. It remains to be seen whether this will also 
+happen in advance or only upon the individual requests for the granting of safe 
+havens, whereas François Holland in his former role as president of the French 
+Republic indicated that the Centre de réserves du Louvre in Liévin could become 
+a safe haven.73 In the United States, the facilities of the US government or of a 
+cultural or educational institution would be used.74
+
+68ILA Guidelines, Guideline 4.
+69For Switzerland, see PCPA, Art. 12, para. 2; Message of the Federal Council 2013, 9012; for the 
+United States, see Protect and Preserve International Cultural Property Act, s. 3(c)(1); and for France, 
+see Code du patrimoine, Art. L. 111-11.
+70Protect and Preserve International Cultural Property Act, s. 3(c)(2)(A); see also Perini and Cunliffe 
+2015, 54.
+71ILA Guidelines, Guideline 2. With France talking of “locaux sécurisés” (Code du patrimoine, Art. L. 
+111-11) and Switzerland of “locaux protégés” (PCPA, Art. 2, lit. C).
+72Discussion with the Swiss Federal Office for Civil Protection; see also, Cornelia Wegerhoff, “Hafen 
+für gefährdete Kulturgüter, Der sichere Fels bei Affoltern,” Deutschlandradio Kultur July 16, 2015.
+73Kim Willsher, “Louvre to Offer Shelter for World Treasures Rescued from War Zones,” The 
+Guardian, 1 November 2016.
+74Protect and Preserve International Cultural Property Act, s. 3(c)(3).
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+336 
+
+NIKOLAUS THADDÄUS PAUMGARTNER AND RAPHAEL ZINGG
+
+Collaboration with UNESCO
+The pivotal role of UNESCO is underlined by the requirement that the safe-
+keeping of the cultural material in Switzerland has to occur under the patronage of 
+UNESCO and that, in France, UNESCO has to be informed about the provision of 
+the safe haven.75 In the past, the ILA Guidelines had already urged countries to ask 
+UNESCO and other international organizations, such as the International Council 
+of Museums and the International Council on Monuments and Sites, for assistance 
+and advice.76 On the contrary, there is no such rule under the laws of the United 
+States.
+
+Fiduciary Custody
+Under Swiss law, the cultural material has to be deposited under “fiduciary cus-
+tody,” which (pursuant to Swiss law) requires that all protective measures are taken 
+according to the state of the art (Fachkunst) and in the exclusive interest of the 
+bailor.77 The further details of the obligations of Switzerland of such custody are 
+to be specified in the respective treaty regulating the safe haven.78 Under the new 
+Article L111-11 of the Code du patrimoine, there is no such mention concerning 
+how the deposit shall be handled; the obligations of the custodian, therefore, are 
+either to be negotiated bilaterally between the French state and the source state or 
+formalized in the ordinance still to be passed. Similarly, the US laws stipulate that 
+the material is held in custody without further specifying the details. Detailed 
+exemplary rules on the safekeeping and preserving of the cultural goods can be 
+found in Article 4 of the ILA Guidelines.
+
+Use of the Cultural Property
+Under the Swiss model, the underlying treaty must contain the conditions and 
+modalities of the exhibition or study of the cultural material.79 On the contrary, the 
+Swiss laws do not foresee the possibility of exhibiting the material in the absence of 
+such an agreement. According to the French model, loans may be granted, upon the 
+explicit consent of the source state, in order to circulate the material for exhibition 
+with the purpose of making known that such material is in danger. The material, 
+therefore, may also leave French territory under the condition that the state where 
+the exhibition is taking place grants immunity from the seizure of the respective 
+material.80 In the United States, a set of uses, such as restoration, conservation, 
+
+75PCPA, Art. 12, abs. 1; Code du patrimoine, Art. 111-11, respectively.
+76ILA Guidelines, Guideline 8.
+77The fiduciary custody works in the sense of Bundesgesetz über den internationalen Kulturgüter-
+transfer, SR 444.1, Art. 14 (KGTG); see also the Message of the Federal Council 2013, 8994.
+78See Paumgartner and Zingg 2014, 1381; “Leitbild Finanzhilfen zu Gunsten der Erhaltung des 
+beweglichen kulturellen Erbes,” Bundesamt für Kultur BAK, 31 March 2014, 2.
+79PCPA, Art. 12, para. 2.
+80Code du patrimoine, Art. L. 111-11.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+THE RISE OF SAFE HAVENS FOR THREATENED CULTURAL HERITAGE 
+
+337
+
+study, or exhibition without profit, are foreseen,81 but it is not regulated whether 
+or not the consent of the owner or the rightful custodian is required. Other forms 
+of use, such as the private loan of cultural material or the exploitation of rights—
+for instance, by photographic reproduction—shall, in principle, be forbidden.82
+
+Immunity from Seizure
+Immunity from seizure is granted to any material protected under safe haven in 
+all three jurisdictions.83 This mechanism creates ex ante incentives for the source 
+state—respectively, the non-state owner or possessor—to transfer the cultural 
+good(s) to the safe haven since claims by third parties will not be considered by 
+courts in the safe haven country during the safekeeping period.
+
+Import Restrictions
+Customs and tax provisions are triggered by the entry of movable cultural goods 
+with the aim of deposit.84 In Switzerland, the Federal Council has proposed using 
+a simplified warehousing procedure since the goods are not brought, distributed, 
+or used in another context.85 It remains to be seen whether a simplified import 
+procedure may be available for safe haven goods in France.86
+
+Return of Cultural Property
+Safe  havens  are  limited  in  time  by  their  very  nature.  The  French  laws  stipulate 
+that the state shall return the goods after the end of the situation that caused their 
+safekeeping or at any moment upon a respective request of the source state. The 
+conditions and modalities of return for Switzerland must be regulated in the un-
+derlying treaty. In the United States, the material must be returned to the owner or 
+lawful custodian at any time it is requested, irrespective of whether the Syrian civil 
+war has ended or not.87
+
+Costs
+The Swiss Federal Council estimates that the yearly costs that will be incurred for the 
+Swiss state in connection with safe havens (mainly for material and personnel) will 
+be approximately 50,000 to 100,000 Swiss francs, whereas the exact cost allocation 
+
+81Protect and Preserve International Cultural Property Act, s. 3(c)(3).
+82Paumgartner and Zingg 2014, 1381.
+83For Switzerland, PCPA, Art. 12, para. 3; for France, Code du patrimoine, Art. L. 111-11; for the 
+United States, see Protect and Preserve International Cultural Property Act, s. 3(c)(4) .
+84See KGTG, Art. 19; “Merkblatt Ein-, Durch- und Ausfuhr von Kulturgütern,” Bundesamt für Kultur 
+BAK, February 2014; Renold and Schönenberger 2014, 418ff.
+85See Paumgartner and Zingg 2014, 1382.
+86In this sense, see Ministère de l’Économie et des Finances, “Protection du patrimoine culturel,” 
+Circulaire no. 3, July 2012, 33.
+87For France, Code du patrimoine, Art. L. 111-11; for Switzerland, PCPA, Art. 12, para. 2; for the 
+United States, Protect and Preserve International Cultural Property Act, s. 3(c)(2)(B).
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+338 
+
+NIKOLAUS THADDÄUS PAUMGARTNER AND RAPHAEL ZINGG
+
+between the depositor and the Swiss state for each safe haven transfer is to be 
+agreed upon in the underlying treaty.88 The laws of France and the United States, 
+on the contrary, do not specify details on the cost distribution. In that regard, the 
+ILA Guidelines argue that based on fairness and on the importance to overcome 
+financial reluctances, the source state is expected, in principle, to provide compen-
+sation for reasonable expenses.89 Regarding the eventual revenues flowing from the 
+protected good(s), we recommend that the parties agree that the safe haven state 
+is entitled to use those for the maintenance and financing of the places of refuge.90
+
+SAFE HAVENS ON A MUSEUM LEVEL
+
+As a result of the limitations of the first draft of the Protect and Preserve Interna-
+tional Cultural Property Act, the AAMD has issued a set of ethical guidelines—
+the so-called AAMD Protocols for Safe Havens for Works of Cultural Significance 
+from Countries in Crisis (AAMD Protocols)—for the provision of safe havens by 
+museums.91 The AAMD Protocols therefore build upon an established practice in 
+the field of cultural heritage and museum management, where self-regulation and 
+the observation of extensive ethical codes have complemented (incomplete) legal 
+standards.92 Most famously, this is illustrated in the return of World War II era art 
+confiscated by the Nazis93 or in the museum acquisition process.94
+
+Similar to the Swiss and the French rules, the AAMD Protocols apply to works 
+in danger as a result of war, terrorism, and natural disasters. Under the protocols, 
+however, assistance in the form of a safe haven may be requested by any depositor 
+(that is, by state and non-state entities) of the works in danger and only require that 
+the request is made in compliance with applicable laws (that is, not violating the 
+rights of lawful owners). The AAMD Protocols list, inter alia, museums in the area 
+affected that hold works, governmental entities of or within the areas affected, US 
+government authorities who have seized works, or private individuals, companies, 
+or organizations that own, or have come into possession of, works as examples of 
+depositors that may request the granting of a safe haven from a member museum.95
+According to the AAMD Protocols, the works should be returned depending only 
+on the circumstances existing in the source country and, therefore, in our opinion, 
+
+88Message of the Federal Council 2013, 9013.
+89ILA Guidelines, Guideline 5.
+90Paumgartner and Zingg 2014, 1382. In the United States, the use of the material may not be made 
+for profit, which, in our eyes, does not exclude the possibility of using the revenues for the mainte-
+nance and financing of safe havens. See also ILA Guidelines, Guideline 4, with such provision.
+91AAMD Protocols for Safe Havens for Works of Cultural Significance from Countries in Crisis, 
+1 October 2015 (AAMD Protocols).
+92Frigo 2009, 50.
+93Dubin 2010, 102.
+94Nafziger 2007, 151.
+95See AADM Protocols, s. II.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+THE RISE OF SAFE HAVENS FOR THREATENED CULTURAL HERITAGE 
+
+339
+
+only when the situation that gave rise to the need for a safe haven has passed. In 
+between, the objects will be treated as loans96 and published on the AAMD object 
+registry.97 In addition, it is recommended that the inventorying and documenting 
+of the objects should take place in the country of origin and that a new condition 
+report should be prepared upon their arrival.98 Works should be transported by 
+the safest and surest method to the closest safe haven possible, whereas the depos-
+itor shall bear the respective costs unless otherwise agreed. Subsequently, the works 
+should be stored under conditions that are suitable and consistent with the security, 
+climate, and storage protocols of the respective museum. The works may only be 
+exhibited when appropriate and with the permission of the depositor. Similarly, 
+conservation should only be undertaken with the consent of the depositor, unless 
+there is an emergency.
+
+Since the AAMD is aware of the potential legal issues that circumvent the granting 
+of safe havens on a non-state level, the AAMD Protocols contain several precau-
+tionary provisions and recommendations in this regard. Accordingly, museums 
+are advised to exercise caution in assuring that the granting of the safe haven will 
+not violate the rights of lawful owners99 and that the return of the objects is in 
+compliance  with  applicable  laws.  Requests  for  safe  haven  and  agreements  to 
+accept  should  be  documented.  Furthermore,  the  protocols  recommend  that  the 
+museum should examine whether legal protections, such as immunity from seizure, 
+are available in the safe haven state before accepting the works.100 Referring to the 
+complexity of the legal issues, institutions are advised to consult with legal counsel 
+before accepting or returning the objects.
+
+ASSESSMENT OF THE MODELS
+
+Switzerland
+
+The Swiss model is characterized by provisions that are fairly broad, leaving the 
+executive authorities a lot of space for individual tailor-made solutions in order 
+to grant adequate protection to endangered cultural property. As with any other 
+broad clause, this is naturally accompanied by several uncertainties. It is highly 
+uncertain and thus remains to be seen whether a safe haven in Switzerland may be 
+requested only by the foreign source state and whether a state treaty is required. 
+Should that be the case, we think that the Swiss model is too restrictive and not 
+adequately suited to the pitfalls of the protection of cultural property during armed 
+conflicts. It is notable that the acceptance of works without the explicit consent of 
+
+96See AADM Protocols, s. VIII.
+97See AADM Protocols, s. IX.
+98See AADM Protocols, s. III.
+99See AADM Protocols, s. II.
+100See AADM Protocols, s. III.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+340 
+
+NIKOLAUS THADDÄUS PAUMGARTNER AND RAPHAEL ZINGG
+
+the source state could lead to several legal and diplomatic uncertainties. In order 
+to avoid these situations, Switzerland would have to undertake complex legal 
+clarifications, especially regarding whether the cultural property has been lawfully 
+removed from the source state. Otherwise, Switzerland would risk, inter alia, being 
+accused of having breached international treaties and of supporting the illicit plun-
+dering of cultural heritage.
+
+The Swiss model does not provide for protective measures regarding the export 
+of the endangered cultural objects from the conflicted area to Switzerland. Despite 
+the  fact  that  the  transport  may  be  regulated  in  the  treaty,  the  depositor  is  left 
+with the highest hurdle when seeking to receive protection abroad. We are of the 
+opinion that safe haven states should also try to account actively for this problem 
+area. Room for respective actions becomes particularly small when a safe haven 
+is requested by a non-state entity, given that any measures taken by Switzerland in 
+the absence of the consent of the source state would potentially interfere with the 
+source state’s sovereignty. Nevertheless, the safe haven state could seek collaboration 
+with international organizations, such as the UN.
+
+The broad definition of cultural property is clearly advantageous as it covers all 
+types of cultural material. The Swiss provision accounts properly for today’s risk 
+situation by covering external and internal armed conflicts. As a first Safe Haven has 
+already been determined in Switzerland, we welcome the fact that Swiss authorities 
+are demonstratively prepared to react promptly to requests. As mentioned above, 
+a model state treaty will also be drafted; a task to which particular attention shall be 
+drawn, as a detailed regulation would enable certain uncertainties to be overcome. 
+One point that should be regulated in greater detail is the return of the object in 
+order to overcome possible problems that might arise, for example, in cases where 
+the conflict ends earlier or later than anticipated under the treaty or in the case where 
+the state entity with which the treaty was concluded no longer exists.
+
+The Swiss model ensures that measures are taken in accordance with interna-
+tional expert organizations by requiring that the provision of safe haven must 
+occur under the patronage of UNESCO. The Swiss legislature has also reacted to 
+the urge to grant immunity from seizure to the cultural material in storage. Lastly, 
+one should remember that the Swiss model has played a pioneer role in this matter, 
+driving other states to enact similar legislation based thereon.
+
+France
+
+Aspects of the French legislation point to the Swiss model as an example but expand 
+on existing principles. The result is more detailed and clear provisions that, how-
+ever, also contain shortfalls with regard to the vast protection of cultural property 
+in danger. The respective ordinance that is to be passed by the Conseil d’État will 
+potentially bring further clarifications. The central shortfall of the French model 
+is that the provision of a safe haven by the French state may only be requested by 
+the source state of the cultural objects in danger. This is highly problematic in the 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+THE RISE OF SAFE HAVENS FOR THREATENED CULTURAL HERITAGE 
+
+341
+
+case where the government requesting a safe haven is not accepted by the interna-
+tional community, the state itself is not recognized by France, or where a non-state 
+owner of cultural property (for example, a private owner or non-state museum) 
+wishes custody of works in a safe haven, but the source state does not. Even though 
+enabling non-state entities to request safe havens leads to several legal and diplo-
+matic uncertainties (particularly in the absence of the source state’s consent101), 
+we believe that this is essential in order to account adequately for the dynamics of 
+today’s armed conflicts.
+
+The only possibility to overcome this deadlock situation under the French system 
+is a respective resolution by the UN Security Council. Although such a resolution 
+would be an innovative and clearly useful approach that would improve possible 
+protection and that, at the same time, would express the value of safe havens as 
+an instrument of international peace and security, it is questionable whether a 
+resolution would be taken against a source country’s explicit dissent or whether a 
+resolution may always be taken in due time and prior to the danger having mani-
+fested itself. Of a primarily symbolic nature, the willingness of the French state to 
+collaborate internationally in this field is further marked by the legal obligation to 
+inform UNESCO about the granting of a safe haven.
+
+In addition thereto, the fact that the property has to be returned at any time 
+upon request of the source state is to be criticized, especially since cultural property 
+may still be at risk when a respective request for return is placed. The French model 
+also currently provides no answer as to whether and to whom the cultural goods 
+shall be returned in case the owner or possessor no longer exists or has changed 
+since the safe haven was granted. A recent case in the Netherlands has shown that 
+such uncertainty may restrain the state in which the goods are temporarily located 
+from returning such goods. The Netherlands “handed back” 69 looted artifacts to 
+Iraq in 2009. In fact, the items could only be symbolically returned to the Iraqi 
+ambassador in the Netherlands and will be exhibited in the Dutch National Museum 
+for Antiquities until they can be safely returned to the Iraqi National Museum 
+in Bagdad.102 Another prominent example of the problems that can arise was the 
+storage of certain Polish art treasures in Canada during World War II. With the 
+change of the Polish government leading to various complications vis-à-vis the 
+Canadian authorities, among many other issues, it took the new Polish government 
+from 1945 until 1960 to re-obtain possession of all of the treasures.103
+
+The French model, which is similar to the Swiss model, does not contain any 
+measures regarding the export of the goods from the conflicted areas to French 
+territory. Whilst immunity from seizure is granted, it remains to be seen how 
+
+101This raises the same comments as those mentioned above.
+102See “Dutch Hand Back Looted Iraqi Art,” BBC News, 9 July 2009, http://www.museum-security.
+org/2009/08/war-in-iraq-u-of-t-expert-helps-track-priceless-artifacts-looted-in-2003-invasion-
+and-scattered-worldwide/ (accessed 20 August 2018).
+103Castel 1974, 122.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+342 
+
+NIKOLAUS THADDÄUS PAUMGARTNER AND RAPHAEL ZINGG
+
+custody will occur—that is, since there is no mention with regard to its fiduciary. 
+Therefore, it is desirable that questions such as these will be regulated under the 
+ordinance. What is clearly advantageous regarding the French model is the fact 
+that the definition of cultural property is the broadest among the three models, 
+enabling for the protection of a wide range of cultural goods without undergoing 
+problems of qualification. The French model adequately covers the main threats 
+of cultural property today (that is, all types of armed conflict and natural catastro-
+phes). The legal anchoring of the possibility of displaying the cultural objects in  
+national  and  international  exhibitions  should  be  considered  primarily  advanta-
+geous, particularly since this action enables the awareness of the endangerment 
+of the cultural objects to be raised. However, caution must be taken in case the 
+ownership of the works is unclear since false impressions can be created by display-
+ing illegally acquired and/or imported goods as goods that have been rightfully 
+acquired and imported.
+
+United States
+
+When assessing the US model, it should be taken into account that it works as a 
+waiver to certain import restrictions that would otherwise prohibit the import of 
+certain goods from Syria. As it only applies to a very limited set of cases, the model 
+cannot be examined from the same perspective as the Swiss and French models. 
+Overall, however, we are of the opinion that it represents a relatively flexible 
+exemption solution regime and that the principle of safe havens at an individual 
+state level should be further explored. In particular, a highly democratic legiti-
+mation within the safe haven state is ensured, which, in our view, is particularly 
+important with respect to the granting of safe havens without the source state’s 
+(explicit) consent. The requirement that there must be no credible evidence that 
+granting the waiver will contribute to illegal trafficking or financing of criminal or 
+terrorist activities additionally lowers the risk of abuse of the protection measures, 
+particularly if the works are exhibited.
+
+As outlined above, the definition of cultural property to which a safe haven 
+may be granted under the US model is relatively narrow. Goods that do not fall 
+under the definition are not subject to the import restriction and may be imported 
+(all other conditions fulfilled) and be granted protection in the United States.104 
+Through the requirement that the request for protection has to be made by the 
+lawful owner or custodian, the US model reacts adequately to the situation in Syria 
+and the pitfalls of cultural property endangered in zones of conflict. Practical issues 
+might yet arise with regard to proof of ownership or the lawfulness of the custody. 
+In order to mitigate this problem, the president of the United States is granted the 
+power to decide upon a safe haven in case no owner or lawful custodian can be 
+reasonably identified.
+
+104Except for if they were stolen from a museum and so on.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+THE RISE OF SAFE HAVENS FOR THREATENED CULTURAL HERITAGE 
+
+343
+
+As under the French model, the objects may be exhibited, in which case, inter-
+estingly, custody transfers to the respective institution in the United States. Similar 
+to the other two countries, the United States has addressed the central need of 
+granting immunity from seizure to the stored cultural material. Finally, as with 
+the French model, a point to criticize is that the objects must be returned anytime 
+upon an owner’s or a custodian’s request and that certain modalities of return are 
+not regulated. A further issue lies in the fact that the power to make such decisions 
+lies with the president, who must certify to the appropriate congressional commit-
+tees considering that a decision on this level of democratic legitimacy may not be 
+taken in due time.
+
+AAMD
+
+The  AAMD  Protocols  demonstrate  a  remarkable  private  initiative.  With  its  
+current  network  of  242  member  museums  across  Mexico,  Canada,  and  the 
+United  States,  potential  depositors  may  not  only  select  the  country  but  also 
+the  museum  and,  therefore,  the  most  suitable  conditions  for  storage  of  the 
+respective  endangered  cultural  objects.  The  protocols  are  exemplary  for  the  
+introduction  of  codes  of  ethics  and  self-regulation  by  museums  and  other  
+actors in the field of art due to ethical considerations. Scholars widely acknowl-
+edge  the  positive  impacts  such  ethical  codes  can  have,  supplementing  or 
+substituting incomplete legal norms.105 Given that the AAMD Protocols do not 
+limit the entities that may request a safe haven to states, the problems that are 
+discussed above do not arise. In addition, since the objects should be returned 
+depending only on the circumstances, we believe that a higher degree of pro-
+tection may be reached.
+
+Although the AAMD Protocols address the handling of legal risks repeatedly, 
+the central shortfalls of the model on a museum level are the legal uncertainties 
+that may impede this development. Determining the origin of the work in order to 
+avoid accepting illegal artifacts with false provenance106 and identifying the rightful 
+owner may be particularly challenging, especially under time constraints. A mu-
+seum also needs to ascertain that the object was not unlawfully removed from its 
+source state, which is a problem that is further exacerbated by the fact that safe 
+havens may also be requested by private individuals and, therefore, without the 
+consent of the source state. Museums are thus confronted with the strong risk of 
+complex  legal  disputes,  fines,  and  high  financial  and  reputational  damages.  The 
+protocols  recommend  that  museums  consult  legal  counsel  before  accepting  or 
+returning  any  works.  In  addition  to  being  costly,  the  determination  of  the  legal 
+framework of the ownership and the conditions of the return in special situations 
+
+105See Frigo 2009.
+106See Emily Sharpe, “We’ll Store Your Artefacts, US Tells Syrian Museums,” The Art Newspaper, 
+8 November 2015.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+344 
+
+NIKOLAUS THADDÄUS PAUMGARTNER AND RAPHAEL ZINGG
+
+may also become extremely complicated and time consuming to clarify for legal 
+experts.107
+
+A recent case in Switzerland (as mentioned above) may illustrate the complexity 
+and challenges of safe havens at the museum level. The Musée d’art et d’histoire 
+in Geneva had exhibited a collection of 530 pieces belonging to the Palestinian 
+National Authority and the collector Jawdat Khoudary in its exhibition Gaza à la 
+croisée des civilisations in April 2007. After Hamas took power in Palestine in June 
+2007, the works could not be returned due to the political insecurity that followed. 
+The city of Geneva then accepted custody of the works, but several issues followed. 
+Because  the  goods  had  transited  partly  via  Alexandria  and  partly  via  Tel-Aviv,  
+custom-related issues prevented the cultural goods from being returned.108 In 
+addition,  the  city  of  Geneva  could  not  discuss  the  case  with  the  Palestinian 
+National Authority for several years. Ultimately, the city of Geneva had to request 
+federal funding to cover the yearly costs of 35,000 Swiss francs for the works’ deposit 
+in the Geneva Freeport.109 The transport of the collection to the Palestinian Museum, 
+near Ramallah, was planned for 2017.110
+
+We believe that safe havens for objects with a complex legal background may be 
+granted by museums only in collaboration with the safe haven state. The AAMD Pro-
+tocols also eventually recommend that the museums should consider whether legal 
+protection, such as immunity from seizure, is available to protect the object and the 
+museum from claims. Since the objects may be deposited in museums under the US 
+model, this model works as an example for such museum–state cooperation.
+
+CONCLUSION AND RECOMMENDATIONS
+
+In light of the current systematic destruction and looting of cultural heritage, the world 
+faces immense challenges in preserving cultural sites and artifacts in conflict zones. In 
+this respect, we think that the establishment of places of refuge abroad may, in theory, 
+contribute largely to the rescue of endangered relics. Though the possible measures for 
+protecting cultural material on site in the conflicted areas are manifold and potentially 
+of great impact, such protective actions must always be weighed against other prior-
+ities, such as preventing attacks on civilians or protecting key infrastructure.111  
+
+107See  also  Lee  Rosenbaum,  “ISIS  Crisis:  AAMD’s  Risky  ‘Safe  Haven’  Initiative  for  Endangered 
+Archaeological  Material,”  7  October  2015,  http://www.artsjournal.com/culturegrrl/2015/10/
+isis-crisis-aamds-risky-safe-haven-initiative-for-endangered-archaeological-material.html (accessed 
+20 August 2018).
+108The shipping with an ATA Carnet requests that the identical customs points are used for exit and 
+return, but transit through Egypt is nowadays not practicable.
+109See Zumbach, “Des trésors de Gaza.” Although the yearly costs went down from approximately 
+30,000 to 18,000 Swiss francs in 2010, and, ultimately, the deposit was offered for free since 2014.
+110Discussion with Marc-André Haldimann, who will coordinate the transfer.
+111Adam Taylor, “General Says U.S. Will ‘Consider’ Saving Iraqi Antiquities Being Destroyed by the 
+Islamic State,” Washington Post, 9 March 2015.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+THE RISE OF SAFE HAVENS FOR THREATENED CULTURAL HERITAGE 
+
+345
+
+Safe havens, on the contrary, have the potential to isolate movable cultural goods 
+from imminent or ongoing conflicts and to keep them safe until the conflict has 
+ended. However, the challenge that safe haven states will often face is that of moving 
+from a symbolic measure to an instrument with practical impact. When consid-
+ering how fast conflicts may spread, one realizes that there may be little time in the 
+early period of a crisis to export works threatened by the imploding violence.112 At 
+later stages, the geopolitical situation may prevent the conflicted state from making 
+use of the possibility of requesting a safe haven abroad, as currently evidenced by 
+Syria. Simultaneously, and particularly in the absence of the consent of the source 
+state,  it  may  become  extremely  difficult  for non-state entities to export endan-
+gered cultural objects from conflicted areas without any external support.
+
+As outlined herein, each of the four models has different advantages and disad-
+vantages regarding the challenges inherent with the granting of safe havens, despite 
+the fact that, to our knowledge, neither the Swiss, the French, nor the AAMD safe 
+haven models have been used so far.113 Our recommendations to strengthen the 
+effectiveness and potential impact of safe havens are sevenfold. First, as the granting  
+of safe havens under consent of the source state is clearly beneficial, safe haven states 
+must engage in diplomatic proactive efforts and flexibility to create incentives for 
+third countries to make use of safe havens. Second, safe haven states should put a 
+high value on the safeguard of mankind’s heritage and, thus, be open when negoti-
+ating the cost allocation in order to counter the eventual lack of financial means of 
+source states. Additionally and ideally, safe haven states should, inter alia, by way of 
+collaboration with international organizations, such as the UN, foresee measures 
+for the export and transportation of the cultural goods from the source state to the 
+safe haven state. This is particularly important in the case of requests by non-state 
+depositors. Third, the treaty regulating the safe haven should address issues such as 
+the transfer and return of the cultural property clearly, also foreseeing unexpected 
+legal, factual, and political changes. Fourth, we recommend that future safe haven 
+states account better for the potential impact of a crisis in the law, such as a change 
+of regime or failed states. Fifth, goods should only be returned once the conflict 
+has ended. Sixth and despite the diplomatic and legal issues, we argue that the 
+effectiveness and use of safe havens should be reinforced through the acceptance 
+of deposits by non-state actors. Finally, we are of the opinion that states should 
+support private non-state initiatives, such as that by the AAMD, particularly by 
+providing them with legal protection measures.
+
+112One recent example is the Arabic Spring, where Hosni Moubarak resigned from the presidency 
+of Egypt only 18 days after the first protests in Tahrir Square or where Zine El Abidine Ben-Ali was 
+ousted within one month.
+113Discussion with Rino Büchel, Chief Protection of Cultural Property, Federal Office for Civil 
+Protection, Switzerland and with Association of Art Museum Directors (AAMD) staff members 
+in November 2016; a list of the objects under safe haven protection can be retrieved from AAMD, 
+“Object Registry,” https://www.aamd.org/object-registry (accessed 20 August 2018) (currently none).
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+346 
+
+NIKOLAUS THADDÄUS PAUMGARTNER AND RAPHAEL ZINGG
+
+BIBLIOGRAPHY
+
+Banteka, Nadia. 2016. “The Parthenon Marbles Revisited: A New Strategy for Greece.” University of 
+Pennsylvania Journal of International Law 37, no. 4: 1231–71.
+
+Castel, Jean-Gabriel. 1974. “Polish Art Treasures in Canada – 1940-1960: A Case History.” American 
+Society of International Law Proceedings 68: 121–26.
+
+Chechi, Alessandro. 2015. “Rescuing Cultural Heritage from War and Terrorism: A View from 
+Switzerland.” Santander Art and Culture Law Review 2, no. 1: 83–100.
+
+Dinstein, Yoram. 2014. Non-International Armed Conflicts in International Law. Cambridge: Cambridge 
+University Press.
+
+Dubin Rachel. 2010. “Museums and Self-Regulation: Assessing the Impact of Newly Promulgated 
+Guidelines on the Litigation of Cultural Property.” University of Miami Law School Institutional 
+Repository 18: 101–41.
+
+Engelhardt, Sophie. 2010. “Safe Haven für gefährdete Kulturgüter – Überblick über eine erste Vorlage 
+zur Umsetzung sogenannter “sicherer Häfen” unter besonderer Berücksichtigung von Kulturgütern 
+unbekannter Herkunft.” In Kulturgüterschutz –Kunstrecht – Kulturrecht, edited by K. Odendahl and 
+P. Weber, 55–82. Baden-Baden: Nomos.
+
+Koellreuter, Andreas, and Paul Bucherer. 2008. “Asyl für afghanische Kulturgüter in der Schweiz.” 
+Kulturgüterschutz Forum 12: 44–53.
+
+Frigo, Manlio. 2009. “Ethical Rules and Codes of Honor Related to Museum Activities: A Comple-
+mentary Support to the Private International Law Approach Concerning the Circulation of Cultural 
+Property.” International Journal of Cultural Property 16: 49–66.
+
+Lattmann,  Eveline.  1974. Schutz  der  Kulturgüter  bei  bewaffneten  Konflikten,  Die  Schweizerische 
+Gesetzgebung und Praxis aufgrund des Haager Abkommens vom 14. Mai 1954 für den Schutz von 
+Kulturgut bei bewaffneten Konflikten. Zürich: Schulthess.
+
+Nafziger, James. 2007. “The Principles for Cooperation in a Mutual Protection and Transfer of 
+Cultural Material.” Chicago Journal of International Law 8, no. 1: 147–67.
+
+Pabst,  Friederike.  2008.  Kulturgüterschutz  in  nicht-internationalen  bewaffneten  Konflikten.  Berlin: 
+Duncker & Humblot.
+
+Paumgartner, Nikolaus, and Raphael Zingg. 2014. “Die Schweiz als erster Safe Haven für Kulturgüter 
+(Switzerland as first Safe Haven for Cultural Goods).” Aktuelle Juristische Praxis 1375–83.
+
+Perini,  Silvia,  and  Emma  Cunliffe.  2015.  Towards  a  Protection  of  the  Syrian  Cultural  Heritage:  
+A Summary of the National and International Responses, vol. 3.
+
+Renold, Marc-André, and Beat Schönenberger. 2014. “Switzerland.” In Handbook on the Law of 
+Cultural Heritage and International Trade, edited by J. Nafziger and R. Paterson, 408–36. Cheltenham, UK: 
+Edward Elgar.
+
+Williams, Sharon. 1977. “The Polish Art Treasures in Canada, 1940–60.” Canadian Yearbook of 
+International Law 15: 146–72.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:40:17, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739118000188
+
+

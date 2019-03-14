@@ -1,0 +1,1576 @@
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2, pp. 133–154
+
+doi: 10.1111/j.1747-1796.2010.00412.x
+
+Is the Devil in the Data? A Literature Review of
+Piracy Around the World
+
+Nixon K. Kariithi
+University of the Witwatersrand
+
+This article examines the scholarly literature pertaining to music, ﬁlm and software piracy around the world,
+with special attention to data sources, research scope and general ﬁndings. The article ﬁnds that the
+conspicuous absence of methodologies utilizing critical theory in this broad literature has constricted the
+world view of piracy, resulting in monolithic explanations of the causes and correlates of piracy. It further
+identiﬁes systematic biases relating to the unjustiﬁed use of data published by the industry watchdog Business
+Software Alliance (BSA).
+
+Keywords copyright; piracy; information goods; intellectual property rights
+
+Deﬁnition and Conceptual Landscape
+
+Although broad extant literature exists on piracy and its many elements, the ﬁeld lacks a
+universally acceptable deﬁnition. For many like van Wijk (2002), piracy involves the unauthorized
+replication of copyrighted intellectual assets. Others are more general
+in deﬁning piracy as
+in general and software. Peitz and Waelbroeck (2006a,
+violations of copyrighted material
+p. 450) argues that books, software, music and video ﬁles are the main targets of internet piracy.
+Much extant literature agrees that piracy gains currency from its role in information goods. As
+Andr ´es (2006, p. 101) points out, information goods have large ﬁxed costs and small variable costs
+of reproduction. He adds that technological advancements have greatly reduced the costs of
+copying and also increased the availability of technologies to pirate these products. For example,
+according to Mishra et al. (2005, p. 224), software piracy occurs because software is the
+quintessential knowledge good having high development (ﬁxed) cost and minimal variable cost.
+Furthermore, as Coombe and Herman (2004, p. 561) note, the production of value increasingly
+‘‘takes the form of intangible, symbolic, or informational capital that is protected as intellectual
+property’’. Wang (2004) suggests that intellectual property (IP) is a kind of intangible asset owned
+by the creators, but it is a property in a legal sense that can be owned and dealt with.
+
+Economic theorists argue that the development of the knowledge economy requires consis-
+tency with the legal system, to protect the advanced productive forces involved in new knowledge
+and the new economy.1 Towse (2005) further points out that information goods––intangible
+products embodying IP––cannot be protected by contract alone as they are public goods and thus
+open to ‘‘third party’’ free rider use (see also Novos and Waldman, 1984, p. 237).2 Scholarly
+thinking around the ‘‘free rider’’ notion is informed by Arrow’s (1962) seminal paper that posited
+that the ‘‘indivisible’’ nature of knowledge means that whatever its production costs, subsequent
+reproductions cost nothing or next to nothing. In any case, as argued by Shy and Thisse (1999, p.
+164), the value of using an information good increases with the number of people who legally and
+illegally use the same good. Some scholars have coined the term ‘‘intellectual capitalism’’ to
+describe an emerging conﬂuence of a capitalist economy and a knowledge or information economy
+in which intellectual capital in some sense is dominant (Granstrand, 2000, p. 1061).3
+
+r 2011 Blackwell Publishing Ltd
+
+133
+
+Nixon K. Kariithi
+
+Literature Review of Piracy Around the World
+
+This reasoning underpins the common deﬁnition of piracy as the unauthorized use or
+reproduction of another’s work (see for instance Yang et al., 2004).4 Rahim et al. (1999, p. 302)
+deﬁne ‘‘software piracy’’ as ‘‘the practice of making unauthorised copies of software that is neither
+site-licensed nor in the public domain’’. Many researchers (e.g. Cheng et al., 1997; Gopal and
+Sanders, 1997; 1998; Gopal et al., 2004; Hinduja, 2008; Lau, 2003; 2007; Peitz and Waelbroeck,
+2006) have holistically adopted the deﬁnition advanced by the Business Software Alliance (BSA)
+that software piracy is ‘‘the unauthorized use of computer software or the unauthorized distribu-
+tion of copies of software without permission being given by the owner’’. Kini et al. (2003, p. 63)
+introduce a minor variation in their deﬁnition of software piracy as ‘‘the making of unauthorized
+copies of software by individuals or businesses for resale or for use in workplace, school, or home’’.
+Verhoogt and Schriks (2007, p. 84) also see piracy as part and parcel of the notion of IP.5 They
+argue that past media revolutions, like the introduction of the printing press, phonographs,
+television and computer, offered new means of production, distribution and consumption of
+information. The introduction of such new media constantly resulted in new legal questions—or
+maybe the recurring of the same legal questions—of IP (Verhoogt and Schriks, 2007, p. 83). Their
+argument resonates with de Castro et al’s (2008, p. 77) deﬁnition of product piracy as ‘‘the
+misappropriation of IP by a party other than the rightful owner, resulting in the making of
+unauthorized copies of a product’’.
+
+Interestingly, not all piracy is negative and detrimental to the economic gain of the IP holder.
+A growing research corpus—including Givon et al. (1995), Gayer and Shy (2003), Gopal et al.
+(2006), Liebowitz (2006) and Peitz and Waelbroeck (2006b)—has demonstrated that increases in
+piracy could boost the demand for legal information good.6 Bakker (2005) calls for a critical costs
+and beneﬁt analysis of ﬁle-sharing networks because of their inherent beneﬁts. It is also noteworthy
+that not all information goods are victims of piracy. For example, Cosovanu (2006) argues that
+piracy principally affects off-the-shelf software packaged for such general applications as text
+processing, spreadsheets and basic graphics packages. This is because these products have large
+market sizes and customer bases, high anonymity and mobility.
+
+Figure 1 summarizes the conceptual framework of extant research into the broad ﬁeld of
+piracy. The three types—music, video (ﬁlm) and software piracy—dominate, although there is a
+limited (and dwindling) amount of research into book piracy.7 The conceptual frames are self-
+explanatory: it appears that much theorizing of piracy falls into either end-user piracy, network
+externalities or commercial piracy. It is quite conceivable that future research might explore the
+interactions between these seemingly disparate frames. New research might also identify new
+conceptual frames altogether.
+
+Contextualizing Piracy
+
+As the premier advocates of digital property rights, BSA has dictated global understanding of a
+variety of policy priorities,
+including protection of IP rights (copyrights, patents and tech
+mandates), software innovation and choice. However, it is within these policy priorities that one
+can then critically engage with the discourses around music, video and software piracy. Several
+studies, informed by the ‘‘alarming’’ statistics, have highlighted the ‘‘negative’’ impacts of piracy in
+the software industry. However, most of the empirical studies on piracy have largely used the
+BSA’s piracy rates (Andr ´es, 2003; 2006; Depken and Simmons, 2004; Holm, 2003; Husted, 2000;
+Marron and Steel, 2000; Mishra et al., 2005; Shadlen et al., 2005; van Kranenburg and Hogenbirk,
+2005), among others. According to Andr ´es (2006), annual national software piracy rates are
+compiled by the International Planning and Research Corporation (IPRC, 2003) for the BSA and
+
+134
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+Literature Review of Piracy Around the World
+
+Nixon K. Kariithi
+
+Piracy 
+
+Types
+
+Music piracy
+
+Video (film) piracy
+Software piracy   
+
+Conceptual frames 
+End-user piracy 
+(cid:129) Non-commercial but unauthorised copying of information goods 
+
+for personal use 
+
+(cid:129) Analog formats e.g. dubbing video and audio cassettes 
+(cid:129) Digital formats e.g. copying computer software, DVDs or MP3s 
+(cid:129)
+
+Some use of shareware and freeware 
+
+Free distribution of information goods, especially via Internet  
+
+Network externalities 
+(cid:129)
+(cid:129) MP3 format downloading 
+(cid:129)
+Peer-to-Peer file sharing 
+(cid:129)
+Loading software in pre-sold computers 
+(cid:129) Downloading and sharing of “demo” files and “sample” music 
+(cid:129) Online provision of CD-key code crackers 
+
+Commercial piracy (bootlegging) 
+(cid:129)
+
+(cid:129)
+
+Illegal copies of information goods are sold in markets parallel to 
+original producers 
+Counterfeiting: Large-scale production of illegal information 
+goods 
+
+(cid:129) Unlawful branding of inferior in formation goods as original goods 
+
+Figure 1: Conceptual landscape of piracy
+
+the Software Information Industry Association (SIIA). BSA strongly argues that making or
+downloading unauthorized copies is to break the law, committing a copyright infringement. BSA,
+among other digital property rights activists, maintains that ‘‘digital piracy costs billions of dollars
+in revenues, wages, jobs and taxes for the USA alone’’.
+
+It is little wonder then that scholarly discussions of piracy are biased considerably in favour of
+BSA and its member organizations. Inevitably, this bias limits a critical understanding of a
+phenomenon that has assumed global proportions.8 However, it is noteworthy that some scholars
+and critics do not accept BSA’s piracy statistics. For example, Yar (2008) calls for a considerable
+critical scrutiny of the BSA ﬁgures because they emerge from partial and interested parties. He
+terms the statistics as ‘‘guesstimates, which can only approximately track levels of piracy; at worst,
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+135
+
+Nixon K. Kariithi
+
+Literature Review of Piracy Around the World
+
+they may be seen as the product of methodologically questionable forms of statistical inference and
+accounting’’ (Yar, 2008, p. 608). After all, he argues, most of the available data come mostly from
+the US sources, reﬂecting ‘‘the country’s eminent position in the global media for media and
+software goods’’. He further argues that these statistics should be viewed as discursive strategies
+that only attempt to construct a political and public consensus about the ‘‘immorality’’ of piracy.
+Gayer and Shy (2000) also believe that common statements made by publishers and their
+lawyers regarding their ‘‘losses’’ from piracy are grossly exaggerated and that the ‘‘reported losses’’
+do not usually exist. In trying to underscore the differential aspects of the piracy rates, Andr ´es
+(2006) argues that by whichever model used to calculate the rates, there is a correlation to the
+cultural, economic and socioeconomic factors like income, education and judicial efﬁcacy in the
+different regions and countries. Gopal et al. (2004, p. 90) go further to identify technological and
+ethical considerations, in addition to economic factors, as explanatory variables to why digital
+piracy is on the increase. They argue that the growing pervasiveness of the internet and the rapid
+adoption of broadband technology has led to cross-border and transcontinental music piracy.
+
+While reviewing piracy in Eastern Europe, Cosovanu (2006) identiﬁes an obstacle that is
+unrelated to the protection of IP rights that prevents most software ﬁrms in developing countries
+from moving into the more lucrative business of developing their own packed products on a
+sufﬁciently large scale. Cosovanu contends that the software industry is mainly dominated by the
+West in such a way that consumers in the developing countries are more conversant with their
+products. A new industry in the developing world will fail at the entry stage or even on the domestic
+market if they succeed in launching their packaged products because the local consumers are more
+comfortable with what they already know. These are products from the software industries in the
+West. This is what he refers to as the ‘‘network effect’’. Hand in hand with this is the ‘‘lock-in’’
+effect, where consumers are loath to learning new programs (as opposed to what they already know
+from the established software industries) that might come with packaged products from their own
+countries.
+
+Other factors include the high costs of developing a high-quality software package and
+launching it successfully. ‘‘Domestic capital is scarce and foreign capital has consistently preferred
+the less risky outsourcing model’’ (Cosovanu, 2006, p. 6). Telecommunications infrastructure as
+well as the size of the local market in Eastern and Central Europe is also an obstacle. While
+proffering an economic solution to piracy, Cosovanu (2006, p. 8) suggests that selling software
+products at a lower price that reﬂects the marginal costs and the local purchasing power could
+displace even the most resilient pirates without hurting diffusion, as the new discount clients would
+be encouraged to abandon the blackout market for the legal one. Hill (2007, p. 10) attributes the
+high piracy rates in Asia to the lack of long established IP rights regimes. Secondly, he argues that
+weak enforcement of the laws that do exist is another problem. Walls and Harvey (2006) observe
+the same in Hong Kong, as they discuss the institutional and operations of the pirate software
+market. While examining the current situation of IP in China, Wang (2004) argues that there is lack
+of sufﬁcient, effective, intensive and extensive enforcement of IP. Priest (2006, p. 801) also
+attributes the proliferation of piracy in China to a lack of will on the central government’s part
+to confront and eliminate piracy. However, he rightly argues that the government has more
+pressing problems to deal with, including the AIDS epidemic, pollution, unemployment and public
+health problems, among many others.
+
+The spread of piracy is also attributed to the rapid growth of technology. As Andr ´es (2006,
+p. 101) notes, the advancements in technology have reduced the costs of copying and also increased
+the availability of technologies to produce software applications, sound recordings and movies.
+This is a view shared by Bezmen and Depken (2006, p. 356) and Peitz and Waelbroeck (2006a),
+
+136
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+Literature Review of Piracy Around the World
+
+Nixon K. Kariithi
+
+who contend that technological advancements related to the production of information-based
+products have increased the availability of these goods on world markets, especially computer
+software, music and videos. These same advancements, however, have also reduced the costs and
+increased the availability throughout the world of the technology used to copy or ‘‘pirate’’ these
+products.
+
+The rise of piracy, according to Zamoon and Curley (2008), due to the pace of economic,
+technological and economic change, has obviously outpaced the development of laws and norms
+that regulate their acquisition and use. Yar (2005) agrees that these changes are ‘‘radically
+reconﬁguring the global political coordinates within which the consumption of media goods takes
+place’’. To Yar, the upsurge of piracy is also a product of the shifting legal regimes, lobbying
+activities, rhetorical manoeuvres, criminal justice agendas and ‘‘interested’’ or ‘‘partial’’ processes
+of statistical inference. Commenting on music piracy, Chiang and Assane (2007, p. 188) observe
+that with the rapid growth in technology, internet music piracy is increasingly becoming a problem
+especially with peer-to-peer (P2P) ﬁle-sharing services, personal websites and blogs.
+
+Methodologies Used in Piracy Studies
+
+Extant systematic studies of piracy around the world identify numerous methodological ap-
+proaches. This section outlines the major methodologies identiﬁed in the extant literature relating
+to software, music and video piracy. Although only the major methodologies are listed here, it is
+worth noting that a number of studies utilize multiple methodologies. Other studies adopt
+normative perspectives, thereby building their principal arguments through systematic literature
+reviews and philosophical excursions. While both quantitative and qualitative approaches are
+common among piracy scholars, this ﬁeld of study appears to have attracted more interest from the
+economics ﬁeld, especially the sub-ﬁeld of formal modelling using utility function theory. As such,
+there was a higher observance of formal modelling studies of piracy than any other research
+methodology.
+
+Country- and regional-level studies are probably the most frequently used case-study
+perspectives. At the country level, numerous studies exist on developed and developing countries.
+China is one of the most studied countries in this regard (see Greguras, 2007; Guifeng et al., 2005;
+Jiang, 2007; Kshetri, 2009; Liu, 2005; Priest, 2006; Wang, 2004; Yang and Clarke, 2005).
+Anchordoguy (2000) offers a detailed case study of Japan’s software industry and the challenge
+of software piracy. Gan and Koh (2006) investigate perceptions of software piracy among
+university students in Singapore. Other case studies exist for Brunei (Rahim et al., 1999), Eastern
+Europe (Cosovanu, 2006), the European Union (Saxby, 2004), Finland (Siponen and Vartiainen,
+2005), Hong Kong (Lau, 2003; Moores and Dhillon, 2000), Iran (Sarkissian, 2008), Nigeria
+(Oyebisi and Agboola, 2003), Singapore (Moores and Dhaliwal, 2004), Thailand (Kini et al., 2003)
+and Turkey (Mishra et al., 2006). Some extant research embarks on comparative analysis using
+case studies. For example, Chen and Maxwell (2007) examine bilateral IP negotiations between
+Taiwan and the United States. Rawlinson and Lupton (2007) investigate cross-national attitudes
+and perceptions of piracy between the United States and China. At a global level, Ginarte and
+Park’s (1997) cross-national study creates an index of patent rights across 110 countries, while
+Husted (2000) studies the impact of national cultures on software piracy across 39 countries. Shore
+et al. (2001) use questionnaires to study piracy attitudes in the United States, New Zealand, Hong
+Kong and Pakistan. Other cross-national studies of piracy include van Kranenburg and Hogenbirk
+(2005) and Landy (2008).
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+137
+
+Nixon K. Kariithi
+
+Literature Review of Piracy Around the World
+
+A special case-study type is the one used by Bakker (2005) investigating the efﬁcacy of legal
+networks and illegal ﬁle-sharing schemes in delivery digital products. Bakker examines secondary
+data—media reports and industry announcements—using multiple analysis methods, and con-
+cludes that paid (legal) download services are more enduring than P2P ﬁle-sharing services. Similar
+studies have been carried out by King and Lampe (2003) as well as Domon and Yamazaki (2004).
+Liebowitz (2003; 2005; 2006) are seminal studies of the ﬁle-sharing networks, focusing on research
+methodologies used to estimate the impact of P2P sharing on the global music industry. The
+Liebowitz research examines the magnitude of MP3 downloads and ﬁle-sharing and estimates their
+adverse effects on the durability of the global music industry. Zentner (2008) uses a sophisticated
+survival analytic probit regression model that investigates the impact of broadband internet use
+and ﬁle sharing on the existence of physical retail music stores.
+
+Another common research method is economic modelling. Here, studies have proceeded from
+microeconomic theory with an emphasis on utility function models and competition forms. Conner
+and Rumelt (1991) is seminal both in its methodology and its ﬁndings. Conner and Rumelt
+modelled piracy as a function of price, protection technology, demand for the pirated copy and an
+undeﬁned matrix representing the behaviour patterns of hard-core pirates. They use normative
+theory and utility functions to establish the proﬁt-maximizing level of protection, and ﬁnd that
+protection increases both price and proﬁt.
+
+Some studies have used marginal cost theories for monopolistically competitive markets
+(e.g. Yoon, 2002). Sundararajan (2004) uses utility function theory to model pricing strategies
+under different piracy scenarios. Sundararajan reports that the use of utility models offers
+useful insights into the design of effective pricing policies in the presence of digital piracy, as
+well as how to simultaneously use price discrimination and technology-based protection to deter
+piracy. Similar studies investigating optimal pricing under piracy conditions include Khouja
+and Smith (2007) and Khouja and Park (2007). Bae and Choi’s (2006) paper entitled A Model
+of Piracy also uses utility function theory to study the short- and long-term effects of piracy. They
+argue that piracy is a major factor in a monopolistic software producer’s decision matrix of
+efﬁciency and quality in the short and long run. Chang et al. (2008) research ender-user piracy in a
+monopolized software industry setting in which consumers have a heterogeneous income and
+limited liability. Other important studies using utility functions include Johnson (1985), Novos and
+Waldman (1984), Shy and Thisse (1999), Gayer and Shy (2003), Gayer and Shy (2000), Qiu (2006)
+and Kiema (2008).
+
+Banerjee (2003) uses utility theory to model the impact of government policies on the decision
+calculus of consumers, producers and pirates. He ﬁnds that a producer’s decision to ﬁght piracy
+through monitoring (and use of government policy) could signiﬁcantly reduce the spread and reach
+of pirated products. The role of the government and its policies in this case is primarily in the
+promotion of network effects, Banerjee adds. In another equally interesting study using the same
+methodology, Banerjee (2006) highlights the challenges posed by governments that see non-action
+on their part as a socially optimal outcome on the decision of whether to ﬁght piracy. In this case,
+Banerjee suggests that commercial pirates (organizations that take pirated software and install it
+across their operations) will be content with paying a penalty to the government, which in turn
+redistributes such beneﬁts to the broader society. In a watershed study, Belleﬂamme and Picard
+(2007) take studies using the utility function theories to a higher level when they model the
+behaviour of duopolists in the presence of piracy. They model multiproduct monopoly as a
+function of the duopolists’ action as well as those of the externalities introduced by piracy. By
+modelling the behaviour of multiple producers in reaction to piracy, Belleﬂame and Picard reveal
+deeper insights regarding how piracy affects markets of perfectly differentiated products. Chellapa
+
+138
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+Literature Review of Piracy Around the World
+
+Nixon K. Kariithi
+
+and Shivendu (2005) use utility functions to model piracy in vertically integrated markets as a two-
+stage decision phenomenon. Hill (2007) also uses analytical models in a study of strategic responses
+to piracy. Hui et al. (2008) use utility functions to model the economics of shareware software,
+while Mishra et al. (2005) use them to estimate the cost of software piracy detection and
+prevention. Peitz and Waelbroeck (2006b) uses utility function models to demonstrate the
+advantage of free music downloads.
+
+Under the classical economic theory ambit, a rich corpus of research methodologies has
+emerged. These range from simple descriptive studies to advanced statistical analysis. For example,
+Cheng et al. (1997) offer one of the earliest statistical analyses of the decision calculus whether or
+not to pirate software. Their study, which was dogged by numerous methodological challenges,
+was critical in providing a template of ﬁndings on why individuals pirate. Givon et al. (1995) also
+offer an interesting estimation of lost sales using diffusion models.9 Depken and Simmons (2004)
+conduct a cross-national study of variation in piracy propensity using multivariate regression
+analysis techniques. Their study models the propensity to pirate software against economic
+development, international trade links, cost of living, literacy and individualism as explanatory
+variables. Their study supports other general ﬁndings indicating that at a macro level, piracy is
+linked to some aspects of a country’s gross domestic product (GDP), trade, research and
+development (R&D), employment, labour force and foreign direct investment (FDI) (Javorcik,
+2004; Yang, 2007). Javorcik (2004) uses an econometric speciﬁcation model to estimate the impact
+of intellectual copyright protection on FDI. Yang (2007) uses similar multivariate regression
+techniques to analyse more recent data and ﬁnds that a country’s macro environments do impact
+on the degree of piracy in that country. He argues that ‘‘when [software] ﬁrms go to a country for
+business activities, they must conduct a macro analysis of the country’s environments and their
+inﬂuence on piracy’’ (Yang, 2007, p. 139).
+
+Bezmen and Depken (2006) use robust pooled ordinary least squares (OLS) models to study
+socioeconomic inﬂuences on software piracy in the Unites States. They report a negative relation-
+ship between software piracy and income, tax burdens and economic freedom. Djekic and
+Loebbecke (2007) use descriptive statistics and binary logistic regression models analyses to
+empirically investigate the extent to which technical copy protections avoid illegal copying among
+international software users. A number of studies by leading piracy scholar Ram Gopal also use
+multiple methodologies, for example economic modelling and survey research (Gopal et al., 2006),
+survey research and structural models (Gopal and Sanders, 1998; Gopal et al., 2004), and meta-
+analysis and survey research (Gopal and Sanders, 1997). Sinha and Mandel (2008) use modiﬁed
+versions of the contingent valuation method to estimate piracy and the consumers’ tendency to
+avoid paying for the product in 3-year panel data. In another interesting research perspective,
+Nizovtseva and Thursby (2007) develop a game-theoretic model to show that full public disclosure
+can be an equilibrium strategy in a game played by rational loss-minimizing agents.
+
+Most studies using classical economic theory proceed on the assumption that globalization,
+development trends and innovation in information technology help to establish the conditions for
+expanded production and consumption of ‘‘pirate’’ audio-visual goods (Yar, 2005). Other studies
+under this popular research genre use psychological approaches that emphasize belief, attitude,
+intention and behaviour (see e.g. Christensen and Eining, 1991). Christensen and Eining’s theory
+that attitude and social norms inﬂuence piracy has been widely supported and used as a foundation
+for further research into the causes and correlates of piracy around the world. The most popular of
+these are public opinion surveys of university students in a variety of social, economic and
+situational contexts, and their perceptions and behaviour towards piracy. For example, Swinyard
+et al. (1990) and Chiang and Assane (2007) use questionnaires to investigate the cognition,
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+139
+
+Nixon K. Kariithi
+
+Literature Review of Piracy Around the World
+
+attitudes and intentions of university students from Singapore and United States towards software
+piracy. Chiang and Assane (2008) conduct advanced quantitative investigations on the gender
+factor in decisions by university students to pirate music. Woolley and Eining (2006) polled
+university students studying accounting; Wang (2004) administered a closed questionnaire on
+students attending four Taiwanese universities; and d’Astous et al. (2005) used a self-administered
+questionnaire on students at a major Canadian business school. Coyle et al. (2009) use the same
+instrument to study the consumer considerations that lead to the decision to engage in music piracy
+among university students in Midwestern United States. Green (2007) conducts a three-wave panel
+data survey with university students in Illinois, United States. Siponen and Vartiainen (2005) use a
+questionnaire instrument to investigate the attitudes and factors affecting software piracy among
+university students in Finland. Lysonski and Durvasula (2008) investigate past and future
+predispositions to music piracy using a closed questionnaire.
+
+Other psychologically oriented studies are premised upon Fishbein and Ajzen’s (1975) theory
+of reasoned action10 and Ajzen’s (1985) more expanded theory of planned behaviour. Cronan and
+Al-Refee (2008) offer a useful discussion of TRA and TPB and then proceed to use the theories as
+the basis of a questionnaire-based study of piracy among students at a university in Midwestern
+United States. Limayen et al. (2005) use a combination of focus groups and questionnaire to
+investigate long-term factors inﬂuencing software piracy. Mishra et al. (2006) use a questionnaire
+to study software piracy among IT professionals in Turkey.
+
+Two cases highlighting advanced used of questionnaire instruments are noted. The ﬁrst is Nair
+and Stafford’s (1998) utilization of an open-ended expert panel questionnaire on executives whose
+companies have business interests in China. The second is Hinduja’s (2008) survey research that
+investigates de-individuation strategies (anonymity and pseudonymity) among university students
+who were also internet users. Yang et al. (2004) utilized a self-administered questionnaire on senior
+IP managers working with British and American manufacturing activities in China. The choice of
+method was critical to Yang’s wide-ranging ﬁndings and conclusions.
+
+While qualitative research methodologies appear to be relatively unpopular, their results have
+been critically useful in providing breadth to the global perspective of piracy research. Studies
+using ethnographic methodologies (e.g. Levy, 2007; Siponen and Vartiainen, 2004; Walls and
+Harvey, 2006) offer a unique window into understanding the decision calculus of participants in
+the piracy trade. Walls and Harvey use investigative ethnographic techniques to elicit ﬁrst-hand
+knowledge of buyers and sellers of pirated products in Hong Kong. Lau (2006) uses an open-ended
+questionnaire to study piracy attitudes on a major Chinese newsgroup, combined with a content
+analysis of posted messages. Lau (2007) also uses an open-ended questionnaire to computer
+enthusiasts visiting a major computer expo in Hong Kong. Bian and Moutinho (2009) used the
+focus group methodology to study attitudes towards counterfeit products. In a similar study, Byers
+et al. (2004) attempt to determine the source of unauthorized copies by studying the availability
+and characteristics of recent popular movies in ﬁle-sharing networks. Their ﬁndings, while not
+unequivocal, suggest that industry insiders are a major conduit in movie piracy.
+
+A small but persuasive number of extant studies use critical text analytic methodologies that
+draw their strength from the broad school of qualitative research. These methodologies include
+discourse analysis, for example rhetorical performance (Yar, 2008). Studies such as Yar (2008)
+presuppose that the ongoing global piracy debate is premised upon legitimating a socially shared
+notion of value, hence the use of ‘‘repertoires of justiﬁcation’’ to undergird most anti-piracy
+campaigns. Yar (2005) uses both the traditional classical economics explanation and the social
+constructionist perspective, and upholds the latter as a more persuasive methodology, stating ‘‘[its]
+critical edge derives from its ability to draw attention to the impact of dominant economic and
+
+140
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+Literature Review of Piracy Around the World
+
+Nixon K. Kariithi
+
+political interests upon the ways in which cultural goods can be legitimately enjoyed’’ (Yar, 2005,
+p. 691). He concludes:
+
+The expansion of proprietary copyrights, and the criminalization of their violation, is
+part of a larger ‘‘game’’ in which struggles to dominate the uses of information are
+being played out within the new ‘‘knowledge economy’’. Rather than taking industry or
+government claims about ﬁlm ‘‘piracy’’ (its scope, scale, location, perpetrators, costs or
+impact) at face value, we would do well to subject them to a critical scrutiny that asks in
+whose interests such claims ultimately work (Yar, 2005, p. 691).
+
+Outside of the above broad research genres are normative studies. A few initiatives were
+identiﬁed in the literature that utilized normative approaches to shed light on the broad question of
+piracy. Bockstedt et al. (2006) use normative approaches to examine how changes in the structure
+of the digital music market have affected the music industry’s strategy and management. Brennan
+(2002) offers a normative discussion of copyright of media content and the notion of equitable
+remuneration of retransmission pertaining to pay television. Runge and Defrancesco (2006) offer
+an engaging historical analysis of the Commons and IP rights.
+
+Normative studies, such as Granstrand (2000), Jacobs et al. (2001), Coriat and Orsi (2002),
+Depoorter and Parisi (2002) and Cook and Wang (2004), contain rich bibliographies of extant
+research in their respective sub-ﬁelds. From a normative legal perspective are such studies as Hayes
+and Fenwick (2001), Randle (2002), Ecob et al. (2003), Menell (2007), Epstein (2008) and Introna
+(2007). James et al. (2004), Towse (2005), Hanel (2006) and Forero-Pineda (2006) are normative
+studies of IP rights. Others conduct case-study research into IP rights, for example China (Liu,
+2005) and Iran (Sarkissian, 2008). Priest (2006) conducts an extensive study of the legal landscape
+governing ﬁlm and music in China. Pierce II (2006) provides an interesting discussion of
+maintaining market dominance after the expiry of software and other IT patents. Sharp’s (2007)
+case study of early music copyrights in the Unites States argues that over-extension of such
+copyrights poses threats to cultural development.
+
+An isolated amount of research explores the existence of positive aspects of piracy. Choi and
+Perez (2007) use normative theory and secondary data analysis to examine the impact of online
+piracy on innovation and the creation of new, legitimate businesses. Using similar normative
+perspectives, Jaisingh (2009) also ﬁnds that in monopoly markets, an increase in the policy variable
+(in the form of legal action against pirating users or educating users about the harms of piracy)
+could act as a disincentive for innovation. Cremer and Pestieau (2009) also use utility function
+modelling to demonstrate that piracy may be welfare enhancing because it enables a good to be
+provided to individuals with a low willingness to pay without undermining the producing ﬁrm’s
+ability to ﬁnance the development cost via the pricing scheme applied to high valuation consumers.
+In a similar undertaking, de Castro et al. (2008) use normative theory in information economics to
+explain why and when imitation can increase the value of an IP resource.
+
+A few studies also use critical cultural studies research techniques. Decherney (2007) uses
+media historicism in his engaging examination of the aetiology of copyright and piracy laws in the
+United States in the late, nineteenth century and early, twentieth century. DeVoss and Porter
+(2006) offer sophisticated cultural studies investigating P2P ﬁle sharing and its implications on
+somewhat disparate ﬁelds such as language teaching and writing. Their argument hinges on the
+need to deconstruct plagiarism and fair use in the era of blurred copyright issues. DeVoss and
+Webb (2008) extend the debate of copyright and fair use to multimedia compositions. Towse (2005)
+offers an interesting study of copyright issues from a cultural economics perspective. Here, Towse
+combines cultural studies research techniques and the historicism perspective to argue that
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+141
+
+Nixon K. Kariithi
+
+Literature Review of Piracy Around the World
+
+copyright favours the industry side of the creative industries rather than the creators and
+performers whose work they exploit.
+
+Findings from Extant Research
+
+Many studies on piracy implicate young people, especially students, as the most active demo-
+graphic group that practices piracy. Woolley and Eining (2006) quote a 1991 survey in United
+States that found out that a large number of accounting students pirate software. Yar (2008)
+quotes a 2004 US poll that found that ‘‘more than half of all eight- to 18-year-olds have
+downloaded music, one-third have downloaded games, and nearly a quarter have downloaded
+software illegally from the internet’’. Yar further quotes a 2004 Canadian survey, which found that
+47% of 12- to 21-year-olds intended to download music, video or software from the internet over
+the next 6 months. The Canadian study further found that 70% of respondents deemed it
+acceptable to download music, video or software from the internet. From these polls, Yar
+(2008,p. 609) argues that the high levels of softlifting—described by Mishra et al. (2005, p. 226)
+as downloading copyrighted software from the internet for personal use—among college students
+had little weight attached to the legal and moral objections.
+
+Chiang and Assane (2007) conducted a survey on university students in the United States to
+study attitudes towards copyright law along with economic and demographic factors affecting the
+extent of music copyright violations. Their choice of students was based on the notion that
+university students constitute ‘‘a market segment that is technologically savvy and exhibits high
+demand for music’’ (2007, p. 188). It is in this view that Mason (2008) argues that modern youth
+culture and piracy are explicitly linked. Cheng et al. (1997, p. 51) argue that software piracy is more
+prevalent in academia than in business and that colleges and universities are ‘‘breeding grounds for
+software piracy’’. In an empirical study of business students in a university, they came to a
+conclusion that affordability and price constitute the main reasons for pirating software, whereas
+the need for supporting material to use the software is the primary reason for purchasing the
+software among students.
+
+Lysonski and Durvasula (2008, p. 169) argue that Generation Y (mostly students and other
+young consumers) are more permissive of piracy for the expressed reason that they felt that there
+were doing no harm to others and they were ‘‘victims of inﬂated music prices kept artiﬁcially high
+by the music industry’’. In an exploratory research of moral intensity regarding software piracy
+conducted in a university in Thailand, Kini et al. (2003) came to a conclusion that the most active
+age group in software piracy is students under the age of 30 years. Females’ moral intensity
+towards piracy was also found to be lower than that of males. The same was found out about
+undergraduates as opposed to graduate students. However, Chiang and Assane’s (2008) study on
+university students in three US universities found out that male students exhibit relatively higher
+music ﬁle-sharing rates than females. The study further showed that male students in computer and
+other scientiﬁc ﬁelds tend to engage in ﬁle sharing more than their female counterparts in similar
+ﬁelds.
+
+Green (2007) indicates that female students have more respect for copyright laws than their
+male counterparts, who are more involved in downloading songs illegally from the internet.
+Bhattacharjee et al. (2003) concur with the above when they argue that females and older
+individuals, as opposed to younger college students, pirate less, just as individuals with an ethical
+disposition. They contend that young people form a signiﬁcant portion of the music fan base, and
+online music copying and sharing is rampant among students. In a study conducted in Singapore,
+Gan and Koh (2006) arrive at the conclusion that piracy is rampant among university students.
+
+142
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+Literature Review of Piracy Around the World
+
+Nixon K. Kariithi
+
+The only plausible causes of software piracy at the universities in Singapore, they argue, have been
+the absence of a clear software policy and a lack of understanding of copyright law by students, as
+well as a lack of vigorous law enforcement by academic ofﬁcials.
+
+While discussing software piracy among university students in Brunei, Rahim et al. (1999) are
+of the opinion that most academic institutions can hardly keep up with the pace and frequency with
+which new software appears in the market. This explains why students seek alternative means to
+gain access to the new software, usually through piracy (see e.g. Kini et al., 2003; Rawlinson and
+Lupton, 2007).
+
+Probably, to return to Cosovanu’s (2006) argument above about software being priced beyond
+the reach of most local users, Rawlinson and Lupton (2007) are of the opinion that most university
+students do not have much discretionary income to purchase software. A similar observation is
+made by Moores and Dhaliwal (2004) in a study on software piracy in Singapore among students.
+They conclude that software piracy among students was not an ‘‘ethically charged issue of right
+and wrong, but a calculated response aimed at acquiring software that would otherwise be out of
+their reach’’. In their study of piracy among IT professionals in Turkey, Mishra et al. (2006) found
+that younger professionals have a higher propensity to using pirated software than their older
+counterparts.
+
+From the above, therefore, it is clear that age, gender, income levels and experience are
+determining factors when considering reasons as to why people, especially students, engage in
+piracy. Lack of clear policies regarding software use and an absence of copyright laws especially in
+academic institutions is another factor. The fast pace at which new technologies come to being
+means that institutions have to keep up with this speed.
+
+China is prominent in piracy studies (see, for instance, Chow, 2003; Fisman and Wei, 2009;
+Greguras, 2007; Guifeng et al., 2005; Kshetri, 2009; Liu, 2005; Nair and Stafford, 1998; Priest, 2006;
+Rawlinson and Lupton, 2007; Wang, 2004; Yang and Clarke, 2005) for a number of reasons. As
+highlighted above, there is reported laxity in implementing IPR statutes. However, several other
+factors can account for this problem. China boasts the second-highest number of internet users in the
+world. Although China has the highest population in the world, the country, according to Priest
+(2006, p. 798), accounted for only 0.6% of the world market for music sold on a physical format
+(CDs, cassettes, etc.) in 2003, while the United States and England together accounted for nearly 50%
+of the global sales.
+
+However, as noted above, there is some moral ambiguity when discussing the issue of piracy,
+given the level of globalization of IT, within the backdrop of social, cultural, economic,
+technological inequalities, which are mostly fashioned in favour of the developed Western World
+and the United States predominantly. The emergence of China as an economic force might provide
+impetus to organizations like BSA to improve their ‘‘guesstimates’’ (Yar, 2008) of piracy rates.
+
+Besides a whole discipline of IP rights and piracy literature reviewed above, there is a glaring
+absence of similar studies in the developing world, except for a few mentions in the Asia-Paciﬁc
+region (Chen and Maxwell, 2007; Gan and Koh, 2006; Kini et al., 2003; Moores and Dhaliwal,
+2004; Shin, 2007; Walls and Harvey, 2006) and Eastern and Central Europe (Cosovanu, 2006).
+Mentions of Africa, Caribbean, Latin America and Middle East (Rahim et al., 1999; Sarkissian,
+2008) are almost non-existent. This is quite interesting, given that BSA names these regions as
+recording the highest levels of piracy rates, as indicated above. Second, most of the empirical
+studies have involved participants in America; hence, the ﬁndings might differ signiﬁcantly from
+the diverse regions of the world. It is this light that we argue that discourses around and about
+piracy must be cognizant of the above observations, lest we end up conditioned by the ‘‘victim’’
+mindset instead of looking at the bigger picture.
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+143
+
+Nixon K. Kariithi
+
+Literature Review of Piracy Around the World
+
+Rethinking Research in Piracy
+
+As already discussed, piracy is often perceived as a threat to the development and creation of
+information goods because it undermines the suppliers’ intents to recoup their development costs
+(see e.g. Andr ´es, 2006). The underlying assumption here is that piracy has a negative effect on a
+producer’s proﬁts. However, what proponents of the anti-piracy policies fail to acknowledge is that
+irrespective of the reasons presented to explain the proliferation of piracy, there is a redeeming side
+of the entire phenomenon. Economic, cultural and technological studies about and around piracy
+have brought to the fore ways into which those into the music, video and software industry can tap
+into the rich reservoir that has resulted from piracy.
+
+Decherney’s (2007, p. 109) argument is that instead of vilifying pirates and their trade, we
+should learn that today’s pirates are tomorrow’s moguls who are simply pushing the limits of new
+technologies in directions that have yet to be assimilated or condemned by law or society. The
+argument propounded here is that pirates simply take advantage of the temporary law frontiers
+that accompany the diffusion of new media. Decherney is content with the fact that ‘‘piracy is an
+integral part of the new media’’. He further argues that the new forms of copying and distribution
+only appear as piracy before they are assimilated and often modiﬁed by the law.
+
+In no less terms, Choi and Perez’s (2007) argument is congruent with the above. They respect
+the fact that pirate technologies and communities have spawned a proliferation and source of
+strategic innovations as well as a creation of both pirate and legitimate business models. While
+Napster (the online music sharing service that was closed down on allegations of massive copyright
+violations) was pilloried by the anti-piracy crusaders, Choi and Perez in fact argue that on the
+positive side, it contributed to a new market creation of music lovers who consumed music in a
+different way, thus giving rise to a new generation of business models:
+
+Catapulted by the original success of P2P (peer-to-peer ﬁle distribution systems)
+models, the music industry realized that it had to adapt to the changes by creating
+new business models like PressPlay.com, a joint venture between Sony Music
+Entertainment and Universal Music Group, and MusicNet, a partnership between
+AOL Time Warner, EMI, Bertelsmann, and technology from Real Networks—both
+launched in December 2001 (Choi and Perez, 2007, p. 172).
+
+The story of Napster, according to Choi and Perez, shows how online piracy advances
+technology, offers customer insight, builds a customer base and creates innovative and legitimate
+businesses. Peitz and Waelbroeck (2006b, p. 908) contend that ﬁle sharing should not be restricted
+as the music industry itself could beneﬁt from the ﬁle-sharing networks. They argue that down-
+loaders use ‘‘the downloaded ﬁles for sampling in order to make more informed purchasing
+decisions’’. As such, Choi and Perez conclude that even incumbents in legit businesses are turning
+to pirate and communities and they are no longer reluctant to work with them. This is because it
+offers them an opportunity to experiment, in creating new offerings and services. They give another
+example of Time Warner, who entered into a deal with BiTorrent, the entity that helped ignite the
+video market by pirate transfers. However, other incumbents are unwilling to work with the pirate
+communities, but they have accepted them as a fact of life; thus, they have had to devise new
+technologies (2007, p. 176).
+
+Tu and Lu (2006) concur that there are numerous opportunities and innovations for electronic
+markets and the new economy, given the rapid growth of the internet and other emerging
+information technologies. For example, Priest (2006) found that the Chinese record industry has
+developed more ﬂexible business models and it is less reliant on retail sales revenues, primarily
+
+144
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+Literature Review of Piracy Around the World
+
+Nixon K. Kariithi
+
+because of piracy. He argues that the industry is ‘‘naturally positioned at the cutting edge of an
+internet-driven shift from the old, product-oriented music business model to a service-oriented
+business model’’ (Priest, 2006, p. 835). From an economic perspective, Cosovanu (2006, p. 3) views
+piracy as a ‘‘necessary evil for the diffusion of software that is legally priced beyond the reach of
+most local users’’. The statement epitomizes the economic complexities that arise from media
+piracy.
+
+Cremer and Pestiau (2009) discount the generalizations that piracy negatively affects the
+producers’ proﬁts. They argue that within a monopolist setting that produces an information good
+that is sold in different versions to two groups of consumers whose valuation of the good differs,
+then copying or piracy might be welfare enhancing because ‘‘it is a way of providing the ‘‘good’’ to
+some individuals (those with a low willingness to pay) without undermining the ﬁrm’s ability to
+ﬁnance the development cost via the pricing scheme applied to high valuation customers’’ (2008,
+p. 2). According to them:
+
+The reason is that the consumers with a low willingness to pay can copy the information
+good at some cost and some quality loss. The consumers with a high willingness to pay
+cannot engage in fully-ﬂedged piracy, but they can consume the version designed for the
+other customer group (Cremer and Pestiau, 2008, p. 2).
+
+When copying is introduced, they add, a new equilibrium emerges with high-valuation
+consumers buying the original and low-valuation consumers buying the copy. In this way, a
+higher proﬁt may be yielded than in the absence of piracy. This is corroborated by de Castro et al.
+(2008, p. 78), who argue that piracy, at its extreme, may actually create wealth for an
+entrepreneurial ﬁrm ‘‘provided that any net increase in demand for the legal versions of the
+product is not outweighed by lobbying and enforcement costs’’. From a slightly different
+perspective, Givon et al. (1995), applying the innovation diffusion model on software piracy,
+argue that pirates play an important role in converting potential users into users of the software,
+many of whom legally purchase the software. The implication here is that piracy plays a dominant
+role in the generation of buyers over the life cycle of the software.
+
+Clearly, piracy is underpinned by complex economic structures, agencies and arrangements. It
+needs to be understood as such. Rather than a blanket condemnation of the practice, it is only apt
+that the other side be considered. It might be true that some of the economic incentives to pirate
+include the high cost of purchasing legitimate information goods. Gopal et al. (2004) report that in
+software policy, increasing software prices are generally correlated with increased piracy beha-
+viour. Secondly, as Jaisingh (2009) argues, stricter piracy policies that increase the perceived costs
+to using pirated software for end users may in some cases lead to an increase in piracy (demand in
+pirated products) and a decrease in product quality. Mason (2008) offers a powerful parting shot,
+arguing that piracy is more than the one-dimensional ‘‘threat’’ that most media and software
+practitioners see it as. Piracy, Mason argues, is—and always has been—an important catalyst for
+innovation. In acknowledging the role that piracy has played in the becoming of our modern
+society, he asserts that today’s occurrences of piracy are a sign of a change in the way we interact
+with information and cultural goods.
+
+Conclusion
+
+This study has examined the extant literature pertaining to piracy around the world and across a
+variety of ﬁelds. It has utilized conceptual frameworks, methodologies and ﬁndings as the main
+tenets for the systematic literature review. One discernible challenge of this strategy is its imputed
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+145
+
+Nixon K. Kariithi
+
+Literature Review of Piracy Around the World
+
+ability (and necessity) to organize seemingly disparate studies into some semblance of order. To be
+sure, the fact that these studies were on some aspect of music, video or software piracy does not
+necessarily imply that they have a common (but possibly latent) thread of relevance running
+through. To say that the broad patterns documented above suggest a robust ﬁeld is fallacious,
+especially given the broad breadth of theoretical perspectives and research assumptions. Indeed,
+the popular social science accusation of systematic literature review as a ‘‘mile wide but an inch
+deep’’ could well apply here, considering this study’s hesitation to delve substantively into a
+number of research elements. This critique notwithstanding, it is submitted here that the patterns
+reported above are intended to provide opportunities for general systemic analysis. Indeed, the
+utility of this review exercise is principally in isolated these general systemic patterns and the
+speciﬁc literature undergirding such observations.
+
+Two general observations are made regarding the conceptual foundations of research into
+piracy. First, extant research thus far suggests that the conceptual frames—end-user, network
+externalities and bootlegging—are linear and mutually exclusive. While such assumptions may be
+useful for the purposes of research designs,
+like many other
+contemporary phenomena, occurs in more complex scenarios. Such suppositions include the
+likelihood of interactive relationships. Second, the dominance of tertiary education samples is
+appreciated against the backdrop of advanced update of communications technologies among such
+communities. However, a nascent cultural studies school identiﬁes shopping malls as new oases for
+learning, socialization and the shaping of attitudes and perceptions. It may be important to
+examine the extent to which shopping malls and communications technology have interacted to
+construct and deconstruct attitudes and behaviour in contemporary societies.
+
+it is quite likely that piracy,
+
+Third, the overbearing nature of the BSA is disconcerting. BSA ideology overtly undergirds a
+large proportion of the research projects reviewed; its assumptions, data, argumentation and
+outlook colour many studies. To suggest that BSA data and activities lack veracity is unfair, but in
+the same vein, to rely exclusively on this organization’s viewpoint is tantamount to a research
+atrocity. Given BSA’s vested interests and well-articulated position in the anti-piracy campaigns,
+why would so many scholars from such diverse backgrounds coalesce around a blatantly
+unbalanced viewpoint? A plausible explanation is the dearth of alternative data, especially on
+BSA’s widely quoted economic costs of piracy around the world. Some studies utilized data from
+the International Federation of Phonogram and Videogram Producers (IFPVP), International
+Federation of Phonographic Industry (IFPI) and the British Phonographic Industry (BPI). Such
+data offered refreshing angles that must be encouraged in piracy research. As a bare minimum,
+piracy researchers must be wary of the fundamental ﬂaw of over-reliance on under-reliable data.11
+Fourth, the conspicuous absence of substantive inquiries into media and piracy is telling about
+the general fullness of this ﬁeld of research. Through their unmatched abilities to educate, inform,
+entertain and inﬂuence, mass media provide vital links between societies and the processes that
+constitute everyday life. It is difﬁcult to conceive twenty-ﬁrst century life and culture as anything
+but mediated lives and mediated cultures. That media are pervasive in all aspects of social life and
+social relations is now a foregone conclusion. In this regard, any endeavours to understand
+contemporary social perceptions and behaviour must have a media component. This applies to the
+piracy phenomenon more than most others. Among the missing media-related links are such
+perspectives as the social construction of piracy in media coverage; representations of piracy
+actors; and media discourses on this enduring social practice. Spitz and Hunter’s (2005) study on
+the social construction of Napster, and Yar’s (2005) construction of global movie piracy, are
+welcome exceptions to this general omission, but two examples that stand as reminders of the work
+still outstanding in our endeavour to understand piracy.
+
+146
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+Literature Review of Piracy Around the World
+
+Nixon K. Kariithi
+
+In addition, studying overtures to shift or change people’s perceptions of piracy is of critical
+importance. For nearly two decades, BSA has been actively lobbying governments and other
+public institutions in their ﬁght against piracy. Their persuasion methods and strategies, and any
+noted successes or failures, should themselves be subjects of rigorous research. The abrasive media
+campaigns—veiled as public education—have in the past included broadcast and advertising, while
+their advocacy efforts have included partnerships with stakeholder groups such as customs
+departments and chambers of commerce. But how efﬁcacious are these overtures, and to what
+extent can they be credited with any positive shifts in public attitude and behaviour towards piracy?
+In all, this review of extant literature has opened a useful window to piracy studies. The review
+has heightened our understanding of the piracy concept and ways in which researchers are
+exploring this public behaviour. Through this study, new research will be appropriately positioned
+conceptually and methodologically. New research also stands to gain from the broad knowledge
+patterns outlined here as well as the rich bibliography that that supports these patterns. This study
+also identiﬁes critical opportunities for further research, a useful starting point for anyone reading
+this review with an interest in research. The missing links in our systematic understanding of this
+social notion are also clearer to discern, if not easier to tackle.
+
+About the Author
+
+Nixon K Kariithi, Senior Research Associate, Department of Media Studies, University of
+the Witwatersrand, Johannesburg, Private Bag 3, Wits 2050, South Africa; e-mail: nixonkk@
+yahoo.com
+
+Notes
+
+This research was part of the multicountry research project,
+undertaken by the Association for Progressive Communications (ACP) and supported by the Social
+Science Research Council (SSRC), New York. I am grateful to Natasha Primo for assistance with project
+administration and the anonymous referees for their useful comments on earlier drafts of this manuscript.
+Neither the ACP nor SSRC is responsible for the data analyses and interpretations of the data presented here.
+
+‘‘Towards a D ´etente in Media Piracy’’,
+
+1 Wang (2004, p. 254) argues that
+
+the key to development of the knowledge economy resides in innovation of knowledge,
+while the intellectual property system,
+in terms of property, gives the owner of an
+innovation exclusive rights for a certain period, so that they might recover the high
+amount of
+to drive economic development. The
+establishment of a legal system of IP . . . gives full play into the value of IP and
+maximizes the interests of the owner, thereby mobilizing in full the people’s enthusiasm
+to innovate. Protecting IP rights is essential to fair competition, research and innovation.
+
+input and gains of
+
+innovation,
+
+2 A pure public good is one that is non-rival and non-excludable, the signiﬁcance of these characteristics
+
+being that consumers would not pay for such a good and a private proﬁt-oriented producer lacks the
+incentive to supply it (Towse, 2005, pp. 12–3).
+
+3 Granstrand (2000, p. 1061) deﬁnes intellectual capital as comprising all non-material or intangible
+resources that could be considered as capitalizable assets of an economic agent. He further decomposes
+capital into material (tangible) and non-material (intangible) capital.
+
+4 Yang et al. (2004, p. 459) argue that this deﬁnition has a much broader meaning than counterfeiting,
+which means ‘‘to imitate exactly something valuable or important’’, such as counterfeited money, with
+the intent to defraud or deceive.
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+147
+
+Nixon K. Kariithi
+
+Literature Review of Piracy Around the World
+
+5 To Verhoogt and Schriks (2007), IP is a fascinating mixture of concepts of individuality, property rights
+and technological innovation. They argue that IP provides the author the exclusive right to reproduce
+and to publicize his work. Such right suggests a special bond between the author and her or his ideas that
+may require special legal protection. For example, copyright is founded on the concept of the unique
+individual who creates something original and is entitled to reap a proﬁt from those labours (Verhoogt
+and Schriks, 2007, p. 84).
+
+6 This argument has been advanced by the ‘‘proﬁtable piracy’’ debate.
+7 A few studies, primarily from the 1980s, examined photocopying as a form of piracy. Another small array
+of studies, evident from 2004, focuses on the advent of e-books and the possible emergence of new forms
+of book piracy.
+
+8 In 2007, BSA released piracy rates around the world: North America 21%, Western Europe 33%, Asia
+
+Paciﬁc 59%, Middle East/Africa 60%, Central/Eastern Europe 68%, Latin America 65%, European
+Union 35% and Worldwide 38%. Clearly, piracy is on the rise despite global efforts to control it. The
+differences in magnitude between regions are also noteworthy. Some scholars have used data published
+by the International Planning Research Corporation (IPRC). For example, Andr ´es (2006, p. 101) quotes
+IPRC estimates of world piracy rate for business software applications (39% in 2002). Andr ´es says,
+according to the IPRC, worldwide losses from pirated PC business applications increased to US$13
+billion in 2002 from about US$11 billion in 2001. Interestingly, Bae and Choi (2006, p. 304) use BSA data
+that place global piracy in 2004 at 33% and translate the losses to software publishers alone at US$33
+billion.
+
+9 Diffusion models are premised on the notion that an innovation is ﬁrst adopted by a select group of
+buyers, called innovators, who then inﬂuence others by word of mouth to adopt the innovation. With
+software piracy, there exists both the legal diffusion and the illegal shadow diffusion.
+
+10 The theory of reasoned action postulates that human behaviour is rational and makes use of the limited
+information available to individuals. The theory suggests that two determinants affect human behaviour:
+attitude, which is personal in nature, and subjective norms, which represent social inﬂuences.
+
+11 Yar (2005) deserves special mention for carefully steering clear of BSA rehash and instead sourcing his
+
+data from less contentious sources such as the International IP Alliance (IIPA), Alliance Against
+Counterfeiting and Piracy (AACP), Anti-Counterfeiting Group (ACG), British Phonographic Industry
+(BPI), Federation Against Copyright Theft (FACT) and the Motion Picture Association of America
+(MPAA). Of course, it is quite plausible that these organizations share research and other industry data,
+but it is deﬁnitely a step in the right direction.
+
+References
+
+Ajzen, I. (1985) ‘From Intentions to Actions: A Theory of Planned Behaviour’, in J. Kuhi and J. Beckmann
+
+(eds), Action—Control: From Cognition to Behaviour. Springer, Heidelberg, pp. 11–39.
+
+Anchordoguy, M. (2000) ‘Japan’s Software Industry: A Failure of Institutions?’, Research Policy, 29(3),
+
+391–408.
+
+Andr ´es, A. R. (2003) ‘The Relationship between Software Protection and Piracy: Evidence from Europe’,
+
+European Journal of Law and Economics, 21(1), 29–51.
+
+Andr ´es, A. R. (2006) ‘Software Piracy and Income Inequality’, Applied Economics Letters, 13(2), 101–5.
+Arrow, K. (1962) ‘Economic Welfare and the Allocation of Resources for Invention’, in R. Nelson (ed.), The
+
+Rate and Direction of Inventive Activity. Princeton University Press, Princeton, NJ, pp. 609–26.
+
+Bae, S. H. and Choi, J. P. (2006) ‘A Model of Piracy’, Information Economics and Policy, 18(3), 303–20.
+Bakker, P. (2005) ‘File-Sharing—Fight, Ignore or Compete. Paid Download Services vs. P2P-Networks’,
+
+Telematics and Informatics, 22(1–2), 41–55.
+
+148
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+Literature Review of Piracy Around the World
+
+Nixon K. Kariithi
+
+Banerjee, D. (2003) ‘Software Piracy: A Strategic Analysis and Policy Instruments’, International Journal of
+
+Industrial Organization, 21(1), 97–127.
+
+Banerjee, D. (2006) ‘Lobbying and Commercial Software Piracy’, European Journal of Political Economy,
+
+22(1), 139–55.
+
+Belleﬂamme, P. and Picard, P. M. (2007) ‘Piracy and Competition’, Journal of Economics and Management
+
+Strategy, 16(2), 351–83.
+
+Bezmen, T. L. and Depken, C. A. II (2006) ‘Inﬂuences on Software Piracy: Evidence from the Various United
+
+States’, Economics Letters, 90(3), 356–61.
+
+Bhattacharjee, S., Gopal, R. D. and Sanders, L. G. (2003) ‘Digital Music and Online Sharing: Software Piracy
+2.0? Considering the Similarities and Unique Characteristics of Online File Sharing and Software Piracy’,
+Communications of the ACM, 46(7), 107–11.
+
+Bian, X. and Moutinho, L. (2009) ‘An Investigation of Determinants of Counterfeit Purchase Consideration’,
+
+Journal of Business Research, 62(3), 368–7.
+
+Bockstedt, J. C., Kauffman, R. J. and Frederick, J. R. (2006) ‘The Move to Artist-Led On-Line Music
+
+Distribution: A Theory-Based Assessment and Prospects for Structural Changes in the Digital Music
+Market’, International Journal of Electronic Commerce, 10(3), 7–38.
+
+Brennan, D. J. (2002) ‘Fair Price and Public Goods: A Theory of Value Applied to Retransmission’,
+
+International Review of Law and Economics, 22(3), 347–75.
+
+Byers, S., Cranor, L. F., Cronin, E., Korman, D. and McDaniel, P. (2004) ‘An Analysis of Security
+
+Vulnerabilities in the Movie Production and Distribution Process’, Telecommunications Policy, 28(7–8),
+619–44.
+
+Chang, M. C., Lin, C. F. and Wu, D. (2008) ‘Piracy and Limited Liability’, Journal of Economics, 95(1), 25–53.
+Chellapa, R. K. and Shivendu, S. (2005) ‘Managing Piracy: Pricing and Sampling Strategies for Digital
+Experience Goods in Vertically Segmented Markets’, Information Systems Research, 16(4), 400–17.
+
+Chen, C. and Maxwell, T. A. (2007) ‘The Dynamics of Bilateral Intellectual Property Negotiations: Taiwan
+
+and the United States’, Government Information Quarterly, 24(3), 666–87.
+
+Cheng, H., Sims, R. and Teegen, H. (1997) ‘To Purchase or to Pirate Software: An Empirical Study’, Journal
+
+of Management Information Systems, 13(4), 49–60.
+
+Chiang, E. P. and Assane, D. (2007) ‘Determinants of Music Copyright Violations on the University
+
+Campus’, Journal of Cultural Economics, 31(3), 187–204.
+
+Chiang, E. P. and Assane, D. (2008) ‘Music Piracy Among Students on the University Campus: Do Males and
+
+Females React Differently?’, The Journal of Socio-Economics, 37(4), 1371–80.
+
+Choi, D. Y. and Perez, A. (2007) ‘Online Piracy, Innovation, and Legitimate Business Models’, Technovation,
+
+27(4), 168–7.
+
+Chow, D. C. K. (2003) ‘Organized Crime, Local Protectionism, and the Trade in Counterfeit Goods in China’,
+
+China Economic Review, 14(4), 473–84.
+
+Christensen, A. L. and Eining, M. M. (1991) ‘Factors Inﬂuencing Software Piracy: Implications for
+
+Accountants’, Journal of Information Systems, 5(1), 67–80.
+
+Conner, K. R. and Rumelt, R. P. (1991) ‘Software Piracy: An Analysis of Protection Strategies’, Management
+
+Science, 37(2), 125–39.
+
+Cook, D. A. and Wang, W. (2004) ‘Neutralizing the Piracy of Motion Pictures: Reengineering the Industry’s
+
+Supply Chain’, Technology in Society, 26(4), 567–83.
+
+Coombe, R. and Herman, A. (2004) ‘Rhetorical Virtues: Property, Speech, and the Commons on the World-
+
+Wide Web’, Anthropological Quarterly, 77(3), 559–74.
+
+Coriat, B. and Orsi, F. (2002) ‘Establishing a New Intellectual Property Rights Regime in the United States.
+
+Origins, Content and Problems’, Research Policy, 31(8–9), 1491–507.
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+149
+
+Nixon K. Kariithi
+
+Literature Review of Piracy Around the World
+
+Cosovanu, C. (2006) ‘Open Source Software in Eastern Europe and other Emerging Markets: The Moral
+
+Alternative to Piracy?’, Journal of Internet Law, 9(1), 3–14.
+
+Coyle, J. R., Gould, S. J., Gupta, P. and Gupta, R. (2009) ‘To Buy or to Pirate: The Matrix of Music
+
+Consumers’ Acquisition-Mode Decision-Making’, Journal of Business Research, 62(10), 1031–7.
+
+Cremer, H. and Pestieau, P. (2009) ‘Piracy Prevention and the Pricing of Information Goods’, Information
+
+Economics and Policy, 21(1), 34–42.
+
+Cronan, T. P. and Al-Refee, S. (2008) ‘Factors that Inﬂuence the Intention to Pirate Software and Media’,
+
+Journal of Business Ethics, 78(4), 527–45.
+
+d’Astous, A., Colbert, F. and Montpetit, D. (2005) ‘Music Piracy on the Web–How Effective are Anti-Piracy
+Arguments? Evidence From the Theory of Planned Behaviour’, Journal of Consumer Policy, 28, 289–310.
+De Castro, J. O., Balkin, D. B. and Shepherd, D. A. (2008) ‘Can Entrepreneurial Firms Beneﬁt from Product
+
+Piracy?’, Journal of Business Venturing, 23(1), 75–90.
+
+Decherney, P. (2007) ‘Copyright Dupes: Piracy and New Media in Edison v. Lubin (1903)’, Film History,
+
+19(2), 109–24.
+
+Depken, C. A. II and Simmons, L. C. (2004) ‘Social Construct and the Propensity for Software Piracy’,
+
+Applied Economics Letters, 11(2), 97–100.
+
+Depoorter, B. and Parisi, F. (2002) ‘Fair Use and Copyright Protection: A Price Theory Explanation’,
+
+International Review of Law and Economics, 21(4), 453–7.
+
+DeVoss, D. N. and Porter, J. E. (2006) ‘Why Napster Matters to Writing: Filesharing as a New Ethic of
+
+Digital Delivery’, Computers and Composition, 23(2), 178–210.
+
+DeVoss, D. N. and Webb, S. (2008) ‘Media Convergence: Grand Theft Audio: Negotiating Copyright as
+
+Composers’, Computers and Composition, 25(1), 79–103.
+
+Djekic, P. and Loebbecke, C. (2007) ‘Preventing Application Software Piracy: An Empirical Investigation of
+
+Technical Copy Protections’, Strategic Information Systems, 16(2), 173–86.
+
+Domon, K. and Yamazaki, N. (2004) ‘Unauthorized File-Sharing and the Pricing of Digital Content’,
+
+Economics Letters, 85(2), 179–84.
+
+Ecob, C., Cootes, D. and Tout, A. (2003) ‘An Overview of the Australian Import Regime for Copyright
+
+Material’, Computer Law and Security Report, 19(4), 304–6.
+
+Epstein, R. (2008) ‘The Property Rights Movement and Intellectual Property: A Response to Peter Menell’,
+
+Regulation, 30(4), 58–63.
+
+Fishbein, M. and Ajzen, I. (1975) Belief, Attitude, Intention, and Behavior: An Introduction to Theory and
+
+Research. Addison, Wesley, Reading, MA.
+
+Fisman, R. and Wei, S. (2009) ‘The Smuggling of Art, and the Art of Smuggling: Uncovering the Illicit Trade
+
+in Cultural Property and Antiques’, American Economic Journal: Applied Economics, 1(3), 82–96.
+
+Forero-Pineda, C. (2006) ‘The Impact of Stronger Intellectual Property Rights on Science and Technology in
+
+Developing Countries’, Research Policy, 35(6), 808–24.
+
+Gan, L. L. and Koh, H. C. (2006) ‘An Empirical Study of Software Piracy Among Tertiary Institutions in
+
+Singapore’, Information and Management, 43(5), 640–9.
+
+Gayer, A. and Shy, O. (2000) ‘Copyright Enforcement in the Digital Era’, CESifo Economic Studies, 51(2–3),
+
+477–89.
+
+Gayer, A. and Shy, O. (2003) ‘Copyright Protection and Hardware Taxation’, Information Economics and
+
+Policy, 15(4), 467–83.
+
+Ginarte, J. C. and Park, W. G. (1997) ‘Determinants of Patent Rights: A Cross-National Study’, Research
+
+Policy, 26(3), 238–301.
+
+Givon, M., Mahajan, V. and Muller, E. (1995) ‘Software Piracy: Estimation of Lost Sales and the Impact on
+
+Software Diffusion’, Journal of Marketing, 59(1), 29–37.
+
+150
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+Literature Review of Piracy Around the World
+
+Nixon K. Kariithi
+
+Gopal, R. D. and Sanders, G. L. (1997) ‘Preventive and Deterrent Controls for Software Piracy’, Journal of
+
+Management Information Systems, 13(4), 29–47.
+
+Gopal, R. D. and Sanders, G. L. (1998) ‘International Software Piracy: Analysis of Key Issues and Impacts’,
+
+Information Systems Research, 9(4), 380–97.
+
+Gopal, R. D., Bhattacharjee, S., Sanders, G. L., Agrawal, M. and Wagner, S. C. (2004) ‘A Behavioural
+
+Model of Digital Music Piracy’, Journal of Organizational Computing and Electronic Commerce, 14(2),
+89–105.
+
+Gopal, R. D., Bhattacharjee, S. and Sanders, G. L. (2006) ‘Do Artist Beneﬁt from Online Music Sharing?’,
+
+Journal of Business, 79(3), 1503–33.
+
+Granstrand, O. (2000) ‘The Shift Towards Intellectual Capitalism—The Role of Infocom Technologies’,
+
+Research Policy, 29(9), 1061–80.
+
+Green, H. (2007) ‘Digital Music Pirating by College Students: An Exploratory Empirical Study’, Journal of
+
+American Academy of Business, Cambridge, 11(2), 197–204.
+
+Greguras, F. (2007) ‘Intellectual Property Strategy and Best Practices for R&D Services in China’, Computer
+
+Law and Security Report, 23(5), 449–52.
+
+Guifeng, S., Lingnan, O. and Qingsheng, Z. (2005) ‘Policies of Software Protection: The Practice of China’,
+
+Computer Law and Security Report, 21(4), 338–43.
+
+Hanel, P. (2006) ‘Intellectual Property Rights Business Management Practices: A Survey of the Literature’,
+
+Technovation, 26(8), 895–931.
+
+Hayes, D. L. and Fenwick, W. (2001) ‘Internet Copyright—Advanced Copyright Issues on the Internet—Part
+
+III’, Computer Law and Security Report, 17(2), 75–91.
+
+Hill, C. W. L. (2007) ‘Digital Piracy: Causes, Consequences, and Strategic Responses’, Asia Paciﬁc Journal of
+
+Management, 24(1), 9–25.
+
+Hinduja, S. (2008) ‘Deindividuation and Internet Software Piracy’, Cyber Psychology and Behavior, 11(4),
+
+391–8.
+
+Holm, H. (2003) ‘Can Economic Theory Explain Piracy Behaviour?’, Economic Analysis and Policy [online],
+
+3(1). Available at hhttp://www.bepress.com/bejeapi [Accessed December 2010].
+
+Hui, W., Yoo, B. and Tam, K. Y. (2008) ‘Economics of Shareware: How do Uncertainty and Piracy Affect
+
+Shareware Quality and Brand Premium?’, Decision Support Systems, 44(3), 580–94.
+
+Husted, B. W. (2000) ‘The Impact of National Culture on Software Piracy’, Journal of Business Ethics, 26(3),
+
+197–211.
+
+International Planning and Research Corporation (IPRC) (2003) ‘Eighth Annual BSA Global Software
+
+Piracy Study’, Trends in Software Piracy 1994–2002.
+
+Introna, L. D. (2007) ‘Singular Justice and Software Piracy’, Business Ethics: A European Review, 16(3),
+
+264–77.
+
+Jacobs, L., Samli, A. C. and Jedlik, T. (2001) ‘The Nightmare of International Product Piracy’, Industrial
+
+Marketing Management, 30(6), 499–509.
+
+Jaisingh, J. (2009) ‘Impact of Piracy on Innovation of Software Firms and Implications for Piracy Policy’,
+
+Decision Support Systems, 46(4), 763–7.
+
+James, W., Smith, J. and Smith, H. (2004) ‘The IP Enforcement Directive: Is Further Legislation Really
+
+Necessary to Level the Playing Filed? A UK Perspective’, Computer Law and Security, 20(5), 356–63.
+
+Javorcik, B. S. (2004) ‘The Composition of Foreign Direct Investment and Protection of Intellectual Property
+
+Rights: Evidence from Transition Economies’, European Economic Review, 48(1), 39–62.
+
+Jiang, W. (2007) ‘Evaluating China’s Copyright Protection Situation’, The Journal of China Universities of
+
+Posts and Telecommunications, 14(1), 1–3.
+
+Johnson, W. R. (1985) ‘The Economics of Copying’, Journal of Political Economy, 93(1), 158–74.
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+151
+
+Nixon K. Kariithi
+
+Literature Review of Piracy Around the World
+
+Khouja, M. and Park, S. (2007) ‘Optimal Pricing of Digital Experience Goods Under Piracy’, Journal of
+
+Management Information Systems, 24(3), 109–41.
+
+Khouja, M. and Smith, M. A. (2007) ‘Optimal Pricing for Information Goods with Piracy and Saturation
+
+Effect’, European Journal of Operational Research, 176(1), 482–97.
+
+Kiema, I. (2008) ‘Commercial Piracy and Intellectual Property Policy’, Journal of Economic Behavior and
+
+Organization, 68(1), 304–18.
+
+King, S. P. and Lampe, R. (2003) ‘Network Externalities, Price Discrimination and Proﬁtable Piracy’,
+
+Information Economics and Policy, 15(3), 271–90.
+
+Kini, R. B., Ramakrishna, H. V. and Vijayaraman, B. S. (2003) ‘An Exploratory Study of Moral Intensity
+
+Regarding Software Piracy of Students in Thailand’, Behaviour and Information Technology, 22(1),
+63–70.
+
+Kshetri, N. (2009) ‘Institutionalization of Intellectual Property Rights in China’, European Management
+
+Journal, 27(3), 155–64.
+
+Landy, G. K. (2008) The IT/Digital Legal Companion: A Comprehensive Business Guide. Syngress, Burlington,
+
+Princeton, MA.
+
+Lau, E. K. W. (2003) ‘An Empirical Study of Software Piracy’, Business Ethics: A European Review, 12(3),
+
+233–45.
+
+Lau, E. K. W. (2006) ‘Factors Motivating People toward Pirated Software’, Qualitative Market Research: An
+
+International Journal, 9(4), 104–419.
+
+Lau, E. K. W. (2007) ‘Interaction Effects in Software Piracy’, Business Ethics: A European Review, 16(1),
+
+34–47.
+
+Levy, D. (2007) ‘Price Adjustment under the Table: Evidence on Efﬁciency-Enhancing Corruption’, European
+
+Journal of Political Economy, 23, 423–47.
+
+Liebowitz, S. J. (2003) ‘Will MP3 downloads Annihilate the Record Industry? The Evidence so Far’, Social
+
+Science Research Network [online]. Available at hhttp://ssrn.com/abstract=414162 or DOI:10.2139/
+ssrn.414162i.
+
+Liebowitz, S. J. (2005) ‘Pitfalls in Measuring the Impact of File-Sharing on the Sound Recording Market’,
+
+CESifo Economic Studies, 51(2–3), 435–73.
+
+Liebowitz, S. J. (2006) ‘File-Sharing: Creative Destruction of just Plain Destruction?’ Center for the Analysis
+of Property Rights Working Paper No. 04-03 [online]. Available at hhttp://ssrn.com/abstract=646943 or
+DOI: 10.2139/ssrn.646943i.
+
+Limayem, M., Khalifa, M. and Chin, W. W. (2005) ‘Factors Motivating Software Piracy: A Longitudinal
+
+Study’, IEEE Transactions on Engineering Management, 51(4), 414–25.
+
+Liu, W. (2005) ‘Intellectual Property Protection Related to Technology in China’, Technological Forecasting
+
+and Social Change, 72(3), 339–48.
+
+Lysonski, S. and Durvasula, S. (2008) ‘Digital Piracy of MP3s: Consumer and Ethical Predispositions’,
+
+Journal of Consumer Marketing, 25(3), 167–78.
+
+Marron, D. and Steel, D. (2000) ‘Which Countries Protect Intellectual Property? The Case of Software
+
+Piracy’, Economic Inquiry, 38(2), 159–74.
+
+Mason, M. (2008) The Pirate’s Dilemma: How Youth Culture Re-Invented Capitalism. Free Press, New York.
+Menell, P. S. (2007) ‘Intellectual Property and the Property Rights Movement’, Regulation, 30(3), 36–42.
+Mishra, A., Akman, I. and Yaziei, A. (2006) ‘Software Piracy Among IT Professionals in Organizations’,
+
+International Journal of Information Management, 26(5), 401–13.
+
+Mishra, B. K., Raghu, T. S. and Prasad, A. (2005) ‘Strategic Analysis of Corporate Software Piracy
+
+Prevention and Detection’, Journal of Organizational Computing and Electronic Commerce, 15(2),
+223–52.
+
+152
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+Literature Review of Piracy Around the World
+
+Nixon K. Kariithi
+
+Moores, T. T. and Dhaliwal, J. (2004) ‘A Reversed Context Analysis of Software Piracy Issues in Singapore’,
+
+Information and Management, 41(8), 1037–42.
+
+Moores, T. T. and Dhillon, G. (2000) ‘Software Piracy: A View from Hong Kong’, Communications of the
+
+ACM, 43(12), 88–93.
+
+Nair, A. S. and Stafford, E. R. (1998) ‘Strategic Alliances in China: Negotiating the Barriers’, Long Range
+
+Planning, 31(1), 139–46.
+
+Nizovtseva, D. and Thursby, M. (2007) ‘To Disclose or Not? An Analysis of Software User Behaviour’,
+
+Information Economics and Policy, 19(1), 43–64.
+
+Novos, I. E. and Waldman, M. (1984) ‘The Effects of Increased Copyright Protection: An Analytic
+
+Approach’, Journal of Political Economy, 92(2), 236–46.
+
+Oyebisi, T. O. and Agboola, A. A. (2003) ‘The Impact of the Environment on the Growth of the Nigerian IT
+
+Industry’, International Journal of Information Management, 23(4), 313–21.
+
+Pearce II, J. A. (2006) ‘How Companies can Preserve Market Dominance after Patents Expire’, Long Range
+
+Planning, 39(1), 71–87.
+
+Peitz, M. and Waelbroeck, P. (2006a) ‘Piracy of Digital Products: A Critical Review of the Theoretical
+
+Literature’, Information Economics and Policy, 18(4), 449–76.
+
+Peitz, M. and Waelbroeck, P. (2006b) ‘Why the Music Industry may Gain from Free Downloading—The Role
+
+of Sampling’, International Journal of Industrial Organization, 24(5), 907–13.
+
+Priest, E. (2006) ‘The Future of Music and Film Piracy in China’, Berkeley Technology Law Journal, 21(2),
+
+795–871.
+
+Qiu, L. D. (2006) ‘A General Equilibrium Analysis of Software Development: Implications of Copyright
+
+Protection and Contact Enforcement’, European Economic Review, 50(7), 1661–82.
+
+Rahim, M. M., Seyal, A. H. and Rahman, M. N. A. (1999) ‘Software Piracy among Computing Students: A
+
+Bruneian Scenario’, Computers and Education, 32(4), 301–21.
+
+Randle, P. (2002) ‘Rights Management—When the Chips are Down: Law and Technology can Potentially
+
+Prevent the Circumvention of Copy Protection’, Computer Law and Security Report, 18(5), 314–7.
+
+Rawlinson, D. R. and Lupton, R. A. (2007) ‘Cross-National Attitudes and Perceptions Concerning Software
+Piracy: A Comparative Study of Students from the United States and China’, Journal of Education for
+Business, 83(2), 87–94.
+
+Runge, C. F. and Defrancesco, E. (2006) ‘Exclusion, Inclusion, and Enclosure: Historical Commons and
+
+Modern Intellectual Property’, World Development, 34(10), 1713–27.
+
+Sarkissian, A. (2008) ‘Intellectual Property Rights for Developing Countries: Lessons from Iran’,
+
+Technovation, 28(11), 786–98.
+
+Saxby, S. (2004) ‘EU Gets Tough on Intellectual Property Rights’, Computer Law and Security Report, 20(3), 163.
+Shadlen, C., Schrank, A. and Kurtz, M. (2005) ‘The Political Economy of Intellectual Property Protection:
+
+The Case of Software’, International Studies Quarterly, 49(1), 45–71.
+
+Sharp, H. M. (2007) ‘The Day the Music Died: How Overly Extended Copyright Terms Threaten the Very
+
+Existence of Our Nation’s Earliest Musical Works’, Emory Law Journal, 57(1), 279–310.
+
+Shin, D. H. (2007) ‘A Critique of Korean National Information Strategy: Case of National Information
+
+Infrastructures’, Government Information Quarterly, 24(3), 624–45.
+
+Shore, B., Venkatachalam, A. R., Solorzano, E., Burn, J. M., Hassan, S. Z. and Janczewski, L. J. (2001)
+
+‘Softlifting and Piracy: Behavior Across Cultures’, Technology in Society, 23(4), 563–81.
+
+Shy, O. and Thisse, J. F. (1999) ‘A Strategic Approach to Software Protection’, Journal of Economics and
+
+Management Strategy, 8(2), 163–90.
+
+Sinha, R. K. and Mandel, N. (2008) ‘Preventing Digital Music Piracy: The Carrot or the Stick?’, Journal of
+
+Marketing, 72(1), 1–15.
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+153
+
+Nixon K. Kariithi
+
+Literature Review of Piracy Around the World
+
+Siponen, M. and Vartiainen, T. (2004) ‘Unauthorized Copying of Software and Levels of Moral
+
+Development: A Literature Analysis and Its Implications for Research and Practice’, Info Systems
+Journal, 14(4), 387–407.
+
+Siponen, M. and Vartiainen, T. (2005) ‘Attitudes to and Factors Affecting Unauthorized Copying of
+
+Computer Software in Finland’, Behaviour and Information Technology, 24(4), 249–57.
+
+Spitz, D. and Hunter, S. D. (2005) ‘Contested Codes: The Social Construction of Napster’, The Information
+
+Society, 21(3), 169–80.
+
+Sundararajan, A. (2004) ‘Managing Digital Piracy: Pricing and Protection’, Information Systems Research,
+
+15(3), 287–308.
+
+Swinyard, W. R., Rinne, H. and Kau, A. K. (1990) ‘The Morality of Software Piracy: A Cross-Cultural
+
+Analysis’, Journal of Business Ethics, 9(8), 655–64.
+
+Towse, R. (2005) ‘Economics and Copyright Reform: Aspects of EC Directive’, Telematics and Informatics,
+
+22(1), 11–24.
+
+Tu, Y. and Lu, M. (2006) ‘An Experimental and Analytical Study of On-Line Digital Music Sampling
+
+Strategies’, International Journal of Electronic Commerce, 10(3), 39–70.
+
+van Kranenburg, H. and Hogenbirk, A. (2005) ‘Multimedia, Entertainment, and Business Software Copyright
+
+Piracy: A Cross-National Study’, Journal of Media Economics, 18(2), 109–29.
+
+van Wijk, J. (2002) ‘Dealing with Piracy: Intellectual Asset Management in Music and Software’, European
+
+Management Journal, 20(6), 689–98.
+
+Verhoogt, R. and Schriks, C. (2007) ‘Reﬂecting Media: A Cultural History of Copyright and the Media’, in K.
+
+de Leeuw and J. Bergstra (eds), The History of Information Security: A Comprehensive Handbook.
+Elsevier B.V., New York, pp. 83–119.
+
+Walls, W. D. and Harvey, P. J. (2006) ‘Digital Pirates in Practice: Analysis of Market Transactions in Hong
+
+Kong’s Pirate Software Arcades’, International Journal of Management, 23(2), 207–14.
+
+Wang, L. (2004) ‘Intellectual Property Protection in China’, The International Information and Library Review,
+
+36(3), 253–61.
+
+Woolley, D. J. and Eining, M. M. (2006) ‘Software Piracy Among Accounting Students: A Longitudinal
+
+Comparison of Changes and Sensitivity’, Journal of Information Systems, 20(1), 49–63.
+
+Yang, D. (2007) ‘The Impact of Business Environments on Software Piracy’, Technology in Society, 29(1),
+
+121–41.
+
+Yang, D. and Clarke, P. (2005) ‘Globalisation and Intellectual Property in China’, Technovation, 25(5),
+
+545–55.
+
+Yang, D., Sonmez, M. and Bosworth, D. (2004) ‘Intellectual Property Abuses: How should Multinationals
+
+Respond?’, Long Range, 37(5), 459–75.
+
+Yar, M. (2005) ‘The Global Epidemic of Movie Piracy: Crime-Wave or Social Construction?’, Media, Culture
+
+and Society, 27(5), 677–96.
+
+Yar, M. (2008) ‘The Rhetorics and Myths of Anti-Piracy Campaigns: Criminalization, Moral Pedagogy and
+
+Capitalist Property Relations in the Classroom’, New Media and Society, 10(4), 605–23.
+
+Yoon, K. (2002) ‘The Optimal Level of Copyright Protection’, Information Economics and Policy, 14(3),
+
+327–48.
+
+Zamoon, S. and Curley, S. P. (2008) ‘Ripped from the Headlines: What can the Popular Press Teach us about
+
+Software Piracy?’, Journal of Business Ethics, 83(3), 515–33.
+
+Zentner, A. (2008) ‘Online Sales, Internet Use, File Sharing, and the Decline of Retail Music Specialty Stores’,
+
+Information Economics and Policy, 20(3), 288–300.
+
+154
+
+r 2011 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2011) Vol. 14, no. 2
+
+

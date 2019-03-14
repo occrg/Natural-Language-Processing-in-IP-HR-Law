@@ -1,0 +1,1149 @@
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4, pp. 150–167
+
+doi: 10.1002/jwip.12010
+
+Bioprospecting in the High Seas: Regulatory
+Options for Beneﬁt Sharing
+
+Morten Walløe Tvedt
+Fridtjof Nansen Institute
+
+Ane E. Jørem
+Fridtjof Nansen Institute
+
+Judging from the debates on the international political scene, the legal regime for the marine areas beyond national
+jurisdiction might be changing in the years to come. One recurring question is whether and how future international
+law should incorporate the issue of sharing the beneﬁts that arise from utilizing marine genetic resources (MGRs). In
+reviewing these questions, this work outlines some of the regulatory options for addressing the activity of
+bioprospecting in the high seas. De lege ferendae the activity of bioprospecting will likely give rise to a wide range of
+legislative alternative forms of beneﬁt sharing. These must be consistent with the fundamental principle of freedom of
+the high seas and the exclusive rights awarded by patents when the activity results in an invention; yet they should also
+have advantages in terms of conserving MGRs, promoting fairness and spurring innovation. When emphasis is placed
+on maintaining the incentives to innovate, there are important drawbacks to monetary beneﬁt sharing. On the other
+hand, open or semi-open source options can be conceived for the material relating to MGRs. This article identiﬁes
+important practical implications and unresolved legal and practical questions for owners of sampled material and for
+third-party users.
+
+Keywords access and beneﬁt sharing; bioprospecting; high seas; marine genetic resources
+
+Introduction
+
+Bioprospecting, the search for new and useful biological and genetic resources, is taking place in the high
+seas. These expeditions, often referred to as “cruises”, fulﬁl a range of different purposes, from pure
+academic, taxonomic mapping of species occurrence, to commercially oriented exploitation of marine
+genetic resources (MGR). Despite this activity, knowledge of marine life, species and genetic resources is
+still limited. The current and future legal status of MGR and bioprospecting in areas beyond national
+jurisdiction (ABNJ) has been the subject of debate for several years, though discussions have yet to
+provide answers that inspire consensus. Furthering these discussions necessitates exploring the points of
+intersection of several regimes of international law. The use of the high seas is governed by the law of the
+sea, as reﬂected in the United Nations Convention on the Law of the Sea (UNCLOS).1 Patent law provides
+a system for establishing exclusive rights to inventions, including to those based on biological material,
+regardless of where the material was found (Tvedt, 2010). The rationale for sharing beneﬁts that arise from
+MGR comes inter alia from the Convention on Biological Diversity (CBD)2 and its Nagoya Protocol
+(NP),3 which does not directly apply to ABNJ, apart from what ﬂag state legislation may warrant. The
+balance between patents and other rights to genetic resources that the CBD seeks to establish through
+Access and Beneﬁt Sharing (ABS) is absent for ocean resources. Free and open access, combined with
+applicability of exclusive rights through the patent system, prompts the question of whether there is need
+for a feedback mechanism also in the case of genetic resources in the high seas.
+
+Sharing of beneﬁts from the utilization of MGR remains a controversial topic. In this article, we
+explore two main proposals for beneﬁt sharing from bioprospecting for marine resources in the high seas:
+monetary sharing from utilization of MGRs and sharing of genetic material itself. Subsequently, we
+
+150
+
+© 2013 John Wiley & Sons Ltd
+
+Bioprospecting in the High Seas
+
+Morten Walle Tvedt and Ane E. Jrem
+
+discuss institutional options for beneﬁt sharing for the high seas. As the MGR in the Area4 have generated
+more overt debate and a more substantial body of literature5 than those in the high seas, this article focuses
+on the particularities of the high seas. Before analysing concrete alternatives for the roads ahead, we will
+ﬁrst brieﬂy introduce the state of discussions on a possible future regulation of MGR in ABNJ, and second,
+develop criteria for assessing the two proposals.
+
+State of the Discussions on MGRs in ABNJ
+
+The main forum in which the question of possible beneﬁt sharing from the utilization of high seas MGR is
+the Ad Hoc Open-ended Informal Working Group to study issues relating the conservation and sustainable
+use of marine biological diversity beyond areas of national jurisdiction (hereinafter the Working Group),
+established by the United Nations General Assembly.6 Present in meetings of the Working Group are
+chieﬂy representatives of states, but also intergovernmental organizations and non-governmental
+organizations. The mandate of the Working Group includes indicating options “to promote cooperation
+and coordination for the conservation and sustainable use of marine biological diversity in areas beyond
+national jurisdiction”.7 Some see in the mere establishment of the discussion forum an evident preparing
+of ground for regimes that regulate the exploitation of genetic resources in ABNJ (Treves, 2010, p. 17).
+As common ground, delegations value the conservation of MGR and the importance of scientiﬁc
+research.8 Concerning the exploitation of MGR, the only consensus so far seems to be the need to improve
+knowledge on existing activities,
+the marine environment
+(Broggiato, 2011, p. 185). While several parties to UNCLOS are eager to move the debate further, the
+discussions testify to the long-lasting impasse between partisans and objectors to the idea of deﬁning
+MGRs in ABNJ as “common heritage of mankind”.9 As an alternative option, the EU suggested in 2008
+taking the multilateral mechanism under the International Treaty on Plant Genetic Resources for Food and
+Agriculture (ITPGRFA)10 as a reference point for the discussions.11 Though most parties welcomed the
+proposal (Broggiato, 2008, p. 186), it has so far not lead to concrete proposals in subsequent meetings.
+Despite the lack of concrete text proposals, delegates to Rio þ 20 took only a few weeks after the
+
+their costs and implications
+
+for
+
+2012 meeting of the Working Group, note of the work of the group and committed “on an urgent basis” to
+address the issues of conservation and sustainable use of marine biodiversity in ABNJ, “including by
+taking a decision on the development of an international instrument under the United Nations Convention
+on the Law of the Sea”.12 Even if parties agree that MGR are common heritage of mankind, this does not
+necessarily provide clear guidance on how a beneﬁt-sharing scheme shall be construed. For as Leary
+explains, that regime is tailored for mineral resource exploitation and does not answer how beneﬁt sharing
+would be done when inventions are patent protected (Leary, 2009, p. 366). Also when plant genetic
+resources were recognized as common heritage (before the 1980s) no system for beneﬁt sharing from
+utilization of these resources was in place. In this situation, proposals on beneﬁt-sharing options often take
+a quite general form. It is therefore all the more important that the academic discussion strives towards
+ﬂeshing out concrete possibilities.
+
+Criteria for Outlining and Evaluating Regulatory Options
+
+In this article, we aim to contribute to the ongoing discussions by exploring two regulatory options for
+bioprospecting in the high seas. These two policy options will be evaluated on their capacity to spur
+innovation, promote conservation and ensure sustainable use of marine biodiversity, and whether a policy
+presents a fair option.
+
+A ﬁrst criterion is that of the potential of a regulation to spur innovation. This includes basic academic
+and scientiﬁc innovation that furthers knowledge of the ocean, and the commercial development of
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+151
+
+Morten Walle Tvedt and Ane E. Jrem
+
+Bioprospecting in the High Seas
+
+applications of biological diversity that lead to new products available on the market. A major source of
+scepticism towards ABS in general, voiced by certain developed states, is that regulation will put an
+unnecessary strain on the creators of innovation, that is industry and businesses, thus constituting a
+disincentive to innovate.13 Though not a new argument, it should be seen in relation to the economic
+downturn of recent years.14 In an industry where R&D is the fundamental ingredient of the innovation
+wanted by all parties, avoiding unnecessary strain on the creators of innovation is paramount. Often the
+availability of intellectual property rights (IPR) protection, as patents, is considered important. Therefore,
+any proposed scheme must correlate positively with innovation and be aware of any links to IPR and
+patents in particular.
+
+Conservation, a second criterion, is here understood as both in situ and ex situ conservation of
+biodiversity. As deﬁned in CBD article 2, in situ conservation is “the conservation of ecosystems and
+natural habitats and the maintenance and recovery of viable populations of species in their natural
+surroundings […]”.15 Ex situ conservation is the “conservation of components of biological diversity
+outside their natural habitats”.16 An example of ex situ conservation is keeping reproductive material in
+collections as a resource for research, or for reintroduction of endangered species into the wild. It should
+be reiterated here that CBD does not apply to ABNJ,17 and it is not obvious that the deﬁnitions of this
+Convention would prevail in a setting relating to the law of the sea. Conservation of marine biodiversity ex
+situ is second best to maintaining biodiversity in situ. Ex situ conservation is connected to spurring
+innovation insofar as marine material in a collection will be more accessible as the raw material for
+innovation compared to the innovator having to search for it in wild. The collections of plant genetic
+resources have been crucial in plant breeding; keeping collections of marine material could have a similar
+potential.
+
+Sustainable use, as a sub-notion of sustainable development,18 reﬂects two key concepts, that of a
+present and future need; and that “of limitations imposed by the state of technology and social
+organization on the environment’s ability to meet present and future needs”.19 Here the resources used are
+MGR and therefore the question is how well policy proposals reﬂect their sustainable use.
+
+Fairness is often taken to refer to general conceptions of what is just and morally right. On an
+international level, the concept of fairness often refers to the general North–South gap in development and
+that between the bioprospector and the involuntary bystander.20 Despite different existing notions of
+fairness, the discussions here are inspired by a Rawlsian perspective, as described in A Theory of Justice
+(Rawls, 1999). The essence of this conception of fairness is that any new legal tool must contribute at least
+so that the worse off be put in a slightly better position. Although Rawls did not himself apply his theory to
+international issues without modiﬁcation (Rawls, 1993, pp. 36–68, 1999, pp. 331–5), his ideas can inspire
+the discussion on marine bioprospecting. With respect to marine biological material, fairness could play
+an even greater part than in the CBD, under which the sharing the beneﬁts that arise from utilization of GR
+ideally entails a return of said beneﬁts to a national or local entity in a provider country, thus creating an
+incentive to safeguard and conserve biodiversity.21 Since there is no providing or conserving party in the
+high seas, it can be argued that, compared to the situation under the CBD, ABS for the high seas could fulﬁl
+a function that is more redistributive of means and know-how, than conservationist.
+
+We set out as the task of this article to examine two legal proposals in the light of these four criteria:
+
+potential for new innovation, conservation, sustainable use and fairness.
+
+First Policy Option: A Global Multilateral Benefit-Sharing Fund
+This section examines one possible modality for ABS for the high seas, namely monetary beneﬁt sharing.
+Since there are no sovereign rights of states to MGR in the high seas as is the basis for beneﬁt sharing under
+the CBD, it is most relevant to discuss a global system for sharing beneﬁts. If a mechanism is multilateral,
+it could take the form of a fund that serves as focal point and administers the monetary transactions.
+
+152
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Bioprospecting in the High Seas
+
+Morten Walle Tvedt and Ane E. Jrem
+
+In a scenario where money is to be transferred to a fund to be shared later, one question is whether
+contributions from bioprospectors or subsequent product developers should be mandatory or voluntary. If
+voluntary, contributions to the fund would depend on the incentives of bioprospectors, industry and other
+possible contributors. The possibility of making voluntary contributions would not affect the economical
+assessments of a company considering engaging in bioprospecting; it would thus not inhibit innovation in
+any way. On the other hand, there is a risk that a fund would simply not be used, and that there would be
+only symbolic funds available for the promotion of fairness, innovation, conservation or sustainable use. It
+is not easy to imagine what incentives could be envisaged that would make a company or a university
+contribute to such a fund.
+
+If contributions are mandatory, an obligation has to be triggered at a speciﬁc point, be it during
+bioprospecting or at any subsequent stage in research or commercialization. When identifying trigger
+points, parallel questions to implementation of ABS in the CBD arise.22 It must, for example, take heed of
+the widespread discussion about distinguishing academic research from commercial purposes. For the
+sake of promoting innovation, these triggers would have to be set in a legally predictable and objectively
+determined manner, so that investors and bioprospectors could have a good basis for making a decision on
+exploitation of MGR (Young and Tvedt, 2009, p. 115).
+
+One such trigger could be the initial moment at which any legal or natural person has established a
+wish to conduct a cruise. The question is what the implications would be of choosing this early trigger. At
+that point in time, different bioprospectors will have different intentions, not to mention that different
+actors might participate on board the same ship conducting a cruise. If the aim is to make obligations fall
+only on commercially oriented bioprospecting, by exempting academic cruises from the scope of beneﬁt-
+sharing requirements, this trigger might incentivise commercial cruises to sail under an academic ﬂag.
+Such an early trigger could end up not generating much monetary beneﬁts for the promotion of
+conservation, sustainable use and fairness.
+
+The time lag between conducting a commercial bioprospecting cruise and achieving commercial
+success can be long. To put a monetary obligation on the event of the cruise as the trigger point could
+reduce the incentive to innovate. If the aim is to make no distinction of pure and applied sciences, it should
+be noted that no commercial beneﬁts have been created at this moment. Especially if the obligation takes
+the form of monetary beneﬁts, this trigger can be perceived as a tax placed on an intention to pursue
+research. Opting for a trigger point closer to actual commercialization would likely be more conducive to
+promoting a fair system that encourages innovation.
+
+In the discussions leading up to the establishing of the NP under the CBD, an expert group suggested
+a list of speciﬁc categories of utilizations and sub-activities, including genetic modiﬁcation, biosynthesis,
+cultivation or production of compounds of naturally occurring materials.23 One or more of these
+speciﬁc acts of utilization could be set as the trigger points for a beneﬁt-sharing obligation for resources
+in the high seas. Choosing speciﬁc acts of utilization will establish a legally certain situation by being
+objectively veriﬁable (Tvedt and Young, 2007, pp. 66–8). What is retained here is that utilization
+can be categorized by stage of development from collection to product development (Tvedt and
+Young, 2007, p. 67). If the intention for a high seas beneﬁt-sharing mechanism is to leave academic
+research untouched, such actions could be associated with commercial use. Whenever triggering action is
+discussed, the granting of a patent is often mentioned. This action could provide a clear point of
+demarcation for commercialization. However, historically non-commercial actors, such as universities,
+are increasingly seeking patent protection. Concerning monetary beneﬁts, a granted patent does not
+automatically indicate whether any economic beneﬁt has accrued to the party, because the entry into
+market of an invention may lie years ahead (Salpin and Germani, 2007, p. 16). If obligations were
+triggered before revenue is gained, bioprospectors and industry would have to factor in yet another cost to
+the already risky investment. It could be perceived as taxing risk-taking. Its effect on willingness to
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+153
+
+Morten Walle Tvedt and Ane E. Jrem
+
+Bioprospecting in the High Seas
+
+explore and innovate is hard to assess, but some would doubtlessly see the trigger as a disincentive to
+innovation.
+
+A related option may prove better able to spur innovation: the granting of a patent could trigger a
+suspended obligation. “Suspended obligation” implies that an action in the present establishes an
+obligation in the future. This suspended obligation would then be triggered pending the realization of
+certain commercial successes occurring at a later stage. Such a suspended obligation would not impede
+innovation, but may be effective in providing funds for conservation and may contribute to the fair
+sharing.
+
+An even later triggering moment could be set, for instance when the revenues from a commercial
+application exceed a particular sum or when the product has been on the market for a certain period of
+time. This would require patience in relation to some inventions. In terms of incentives, the sense of
+entitlement to the product will presumably grow as the moment of access recedes into the past, and beneﬁt
+sharing will seem less and less natural in the eyes of the patent holder. Several years may pass from the
+sampling to the launching of a patented product. This is of particular relevance to the pharmaceutical
+industry where extensive trials are required. Uncertain but recurring indications estimate up to 15 years to
+develop a product in this sector.24 The advantage of setting a particular gross net sum as a trigger is
+particularly appropriate with regard to the fair
+treatment of unsuccessful or semi-successful
+bioprospecting enterprises: one does not incur an obligation before beneﬁts have arisen. In the absence
+of beneﬁts, there seems to be little reason to adhere to a redistributive objective. On the other hand, it could
+arguably be taken as a penalty for success, and discourage the considerable investments needed for this
+particular form of innovation. In addition, targeting only the publicly successful ventures might
+incentivise companies to conceal when or where the actual beneﬁts have been earned. This could be
+compensated to a certain extent by opting for forms of beneﬁts other than monetary, such as the sharing of
+knowledge or information on samples.
+
+A challenging question is how far away from the original sampled material the beneﬁt-creating
+process can go before participation in a fund model becomes no longer necessary.25 The question is what
+degree of similarity would be required for the obligation to be triggered. The answer lies somewhere
+between two extremes: where MGR have been a candidate in the research process, but not making their
+way into the ﬁnal product; and the direct use of for instance a sampled micro-organism being used as a
+product in itself. This question is not particular to marine bioprospecting, it applies to all types of ABS, and
+has received surprisingly little attention.
+
+Summing up, in order to promote innovation, the drafting of the trigger point for a mandatory solution
+requires legal predictability and must be set to an externally veriﬁable incident. Setting the trigger point
+into the future, will require more trust or a stronger system for control as the situation evolves with time.
+If one assumes that possible obligations fall upon patentees with commercially successful inventions
+and only these, mandatory obligations would have to be surveyed to ensure compliance. Effective
+implementation of any such requirement could involve relying on the patent system. This would require
+resolving the controversial issue of disclosure of origin in patent applications.26 Given the increasing
+tendency of universities to seek patent protection of their research results, a possibility is to target these
+users of biodiversity for particular beneﬁt-sharing measures. Compulsory co-ownership of IPR would not
+be easily compatible with the fundamental exclusivity of the rights awarded to the inventor by a patent, so
+it would be difﬁcult to establish a mandatory system. One could, however, invite universities to share and
+set up a practical system of ownership sharing for these patents with colleagues in disadvantaged states
+based on contracts. Participation of the wider scientiﬁc community could spur global innovation and not
+only meet the fairness objective. The drawback is that, if it is perceived as a burden on universities, they
+may become less attractive as partners to industry, and could in turn undermine efforts to promote
+innovation.
+
+154
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Bioprospecting in the High Seas
+
+Morten Walle Tvedt and Ane E. Jrem
+
+Sovereignty of the user country will, however, impede a change necessary to make the system
+functional, as requirements necessarily need to be transferred into domestic law to become binding. Not all
+user countries are likely to impose the same obligations on their domestic biotechnology.
+
+For the sake of not impeding innovation, the literature recognizes the importance of an end point for
+the obligation (Drankier et al., 2012, p. 385; Young and Tvedt, 2009, pp. 23–4). An end point would
+increase economic predictability for a potential investor. On the other hand, one could argue that setting an
+end point does not necessarily affect the incentive to invent, because an obligation late in the life cycle of a
+product affects the innovation decision less than a monetary obligation early in the cycle. A bioprospector
+would probably not refrain from conducting a cruise and subsequent research because of monetary beneﬁt
+sharing happening more than 20 years into the future. For conservation and sustainable use, there is no
+logic in deﬁning an end point to the beneﬁt-sharing obligation.
+
+A further question that arises is that of who should be at the receiving end of monetary beneﬁts. This is
+a challenge both for mandatory and voluntary models. There are many possible, worthy beneﬁciaries that
+could be envisaged for the conservation of biodiversity. Given the lack of investment in high seas
+conservation and protection of marine environments over the decades, recipients dedicated to the oceanic
+realm are likely candidates. To ensure an emphasis on conservation of the marine environment, a fund may
+transfer beneﬁts to states, regional and global organizations or NGOs with speciﬁc conservation projects,
+inter alia marine protected areas. Funding could be awarded to research institutions for science projects
+relating to the loss of marine biodiversity or understanding marine life and diversity. In such a scenario,
+beneﬁt sharing from bioprospecting would constitute a payment for the ecosystem services provided by
+the oceans to the whole of humanity, and be directed to preserving biodiversity, encouraging sustainable
+use, or fair sharing. It could also represent an incentive to conduct certain types of research rather than
+others. Theoretically, a high sea ABS system could even contribute to the conservation of mainland
+biodiversity and counter the practical shortcomings of beneﬁt sharing in the CBD. To sum up, several
+political and technical constrains must be resolved for both mandatory and voluntary fund models. It is
+important, when discussing technical solutions, to be aware of which objectives are considered most
+important.
+
+In the following, we ask whether certain forms of non-monetary options for high seas ABS may meet
+
+the set criteria more easily.
+
+Second Policy Option: Creating a Common Pool of Sampled MGR
+One approach to non-monetary beneﬁt sharing would be to establish a common pool of biological material
+retrieved from the high seas (Greiber, 2011, pp. 36, 46–7). We will in this section explore how such an
+option could be conceived.
+
+A common pool option draws on an open source approach, developed in the world of computer
+programming and software.27 It shares some of the emerging ideas concerning a common pooling of
+biotechnological research and development (Tvedt, 2013),28 along with the existing regime in the high
+seas. Non-monetary beneﬁts could well hold a value that could lead to creation of economic values. They
+are regularly regrouped in a CBD-NP setting to include inter alia sharing of research results or samples,
+cooperation in scientiﬁc research and admittance to ex situ facilities or information databases.29 Thus one
+non-monetary obligation could be to deposit a sample or a certain quantity of biological material in a
+common ex situ collection. Such an obligation would ﬁnd a great advantage in not needing to differentiate
+between academic and commercially oriented cruises, as samples to a collection could be provided
+equally by any of them.
+
+Biological resources in situ in the high seas seem to be common pooled resources, as the freedom of
+the high seas applies.30 The general idea we explore here is to deposit duplicate samples retrieved from the
+high seas in a public trust ex situ collection to be made available to others in a non-exclusive or partially
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+155
+
+Morten Walle Tvedt and Ane E. Jrem
+
+Bioprospecting in the High Seas
+
+exclusive manner. The basic idea behind this option is to spur innovation by making the material available
+for research and development for a greater scientiﬁc and perhaps also commercial audience than those
+with the ﬁnancial resources to bioprospect in the high seas. Such a common pool collection model for
+samples from the high seas would entail a continuum of marine resources being open to all. Without such a
+common pool, collected biological material would often be held in private collections. Third party or
+public access would constitute a type of beneﬁt sharing and thus meet the fairness criterion. This solution
+corresponds to the needs of the scientiﬁc community and users without the ﬁnancial muscles to go on
+cruises in the high seas (Greiber, 2011, p. 36). Therefore, it holds promise to promote innovation amongst
+a greater grouping of inventors. The objective of ex situ conservation of marine resources will be fully met
+for this proposal.
+
+For this common pool beneﬁt-sharing option, the relevant trigger point could be the activity of
+collecting samples, or at a later stage when the material has been processed or subject to research. It is
+possible also to imagine later triggers, but if the beneﬁt sharing requires samples-deposit, the same
+negative aspects as for monetary sharing do not appear.
+
+A common pool of genetic resources raises several challenges both regarding the pool and the
+commonness of the resources. Five legal and practical issues have been identiﬁed as important to the
+management of collections (Tvedt and Schei, 2009): deﬁning the material or information included in the
+pool; regulate the legal position of the depositor; the management of the pool itself; the legal position of
+the user of material taken out of the pool and ﬁnally questions regarding ownership of the collection itself.
+These issues all need to be discussed if any such pool is to be a realistic option.
+
+A common pool can contain either biological samples or information about such samples. If a
+common pool is to consist of samples, bioprospectors can be asked to deposit duplicate samples. These can
+be samples at different stages of being processed: from living samples in an aquarium-style collection to
+highly prepared laboratory samples of biological material. An aquarium would be the best option from a
+conservation perspective as species threatened by extinction could be saved ex situ. This would also be the
+most challenging option for the collectors, as keeping the specimen alive would require a lot of the
+collection itself and of on-board storage facilities until the specimen can be deposited. There are practical
+challenges to ex situ live collections too, as not all species can reproduce viable populations in captivity. It
+would therefore be worth exploring alternative methods of preparing and storing the samples at a later
+stage.
+
+A common pool can be composed of information of any kind, such as in silico31 processed data;
+sequencing data relating to the biological material; or research-derived knowledge. One option requiring a
+minimum of management could be achieved by way of a clearing-house mechanism, where information
+on the activity rather than the content of the ﬁndings is shared. Available sequencing data as a form of
+beneﬁt sharing may disseminate knowledge fairly and irrespectively of where the recipients are located,
+and would be based on well-known methods. The advantages in terms of conserving biodiversity could,
+however, be more indirect than in the case indicated above concerning the depositing of material. In patent
+terms, any collection of samples or information databank can be used as prior art and hinder novelty or
+inventiveness. Therefore, how material or information is made available to the public through such a
+deposit system need to be ﬁnetuned with respect to any later patent applications concerning invention
+based thereon.
+
+The second area in need of clariﬁcation concerns the conditions under which material is brought into
+the pool. The politically most challenging option would be to make it mandatory to share samples with the
+collections, as this would require global consensus amongst countries. A voluntary option would not put
+the same strain on researchers and industry, but would nevertheless require positive incentives to
+encourage sharing, for instance by allowing favourable access to the other accessions in the pool, or even
+beneﬁts from discoveries or inventions that result from a deposit. A voluntary mechanism could also invite
+
+156
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Bioprospecting in the High Seas
+
+Morten Walle Tvedt and Ane E. Jrem
+
+parties to deposit material held in private collections and from others in addition to research vessels, such
+as mining operators or offshore drilling companies when they ﬁnd or take out biological samples. By
+including material from sources other than bioprospecting, activities with potentially damaging
+environmental repercussions32 could be contributing to the ex situ conservation of some of the biodiversity
+they put at risk.
+
+All cases raise a fundamental question regarding the relationship between the collection and the
+depositing party. This relationship is particularily relevant if the depositor shall seek patent protection, as
+sharing might be postponed until after the patent application has been ﬁled. This can imply a considerably
+delay, as time might be needed before a patentable invention is ready. There are three main alternatives:
+samples are held in trust on behalf of the depositor; samples are given without restriction and samples are
+pooled under certain speciﬁc conditions. In the former case, where the sample is held in trust, the
+collection holds the material, but its disposal must be cleared with the depositor. The depositor maintains
+full rights to the material as nothing is yet shared, but the material will be conserved ex situ. This option
+would, however, not spur innovation by others, but could provide conservation and to a greater extent take
+into consideration the needs of the depositor. On the other side of this scale, the depositor leaves the
+material to the common pool, but retains no rights to it. In this situation, the depositor retains the right to
+the sample that he keeps, but makes the duplicate sample openly available to the global commons, with
+sharing set at maximum. This option would meet the conservation criterion, spur innovation and promote
+sustainable use. In the intermediate situation, the material could be pooled under any type of contractual
+restriction from the depositor. In these cases, different formulas for setting conditions securing the
+incentive to innovate by the depositor are conceivable. One could be to prohibit sharing of the samples in
+the collection before a certain date or before the depositor has granted permission.
+
+Any middleground option leaves ﬂexibility to adjust the legal situation for individual bioprospectors
+in contracts. This is particularly relevant if the depositor is intending to apply for a patent to the material or
+an invention based on it. Should the depositor seek a patent, the conditions attached to the sample in
+question would need to sustain the maintenance of novelty and inventiveness criteria by keeping the
+sample undisclosed for the necessary time.33
+
+This is closely related to the question of when material or information shall be shared with the collection.
+The main alternatives would be immediately following the collecting activity, or at any subsequent point of
+time in the process. If the system is mandatory, the trigger point needs to be speciﬁed; if the system were
+voluntary, there would be no formal need to specify the point of time beforehand. For a voluntary system,
+leaving ﬂexibility in a middleground contractual solution seems most viable in order not to deter innovation.
+The third issue that would have to be addressed in the case of both sample deposits and sequencing
+deposit solutions is the further management of the collections. Here, principles of sound management
+could be drawn from the practices of other collections.
+
+It will be imperative to deﬁne the conditions on which others can remove the material in the collection
+for use. This is crucial of course because the whole idea of the system is to make accessions available to a
+larger audience of users. Conditions for use would need to be elaborated in some detail, and this could also
+be done by studying the standard agreements used by other collections. The rights of others to apply for
+patent protection must be speciﬁed. Other users need to know the conditions on which they invest in
+research on these samples. Ideally, these rules need to be made clearer than is the case for the rules
+regulating the relationship to patent law in the Standard Material Transfer Agreement (SMTA) of the
+ITPGRFA (Medaglia et al., 2013, pp. 43–7). Finally, questions of ownership to the collections as such and
+coverage of their maintenance cost, will need to be resolved before any collection can embark on the task
+of becoming the ex situ common pool of MGRs and information from ABNJ.
+
+From a practical point of view, the institutional set-up needs to include public access collections. This
+is a method known from the plant sector where the International Agricultural Research Centres (IARCs) of
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+157
+
+Morten Walle Tvedt and Ane E. Jrem
+
+Bioprospecting in the High Seas
+
+the Consultative Group on International Agricultural Research (CGIAR) collect and hold raw materials
+and plant genetic resources. These collections are crucial for the conservation of plant genetic resources,34
+and have played an important role in spurring innovation during the Green Revolution in the plant sector
+(Dano, 2007, pp. 3–6). Transferring this option to marine bioprospecting purposes could promote ex situ
+conservation of biodiversity.35 For material deposits to reach the intended objective of fairness, a
+decentralized deposit system may be more efﬁcient than a centralized option. An alternative to building
+collections from scratch would be to designate existing collections or research centres as repositories for
+these samples. Again, the functioning of CGIAR centres can serve as an example. In these institutional set-
+ups, the ex situ common pool is associated with capacity building initiatives and plant breeding for new
+varieties, if the collections are combined with research units.
+
+Summing up, we believe that a common pool model holds greater promise to spur innovation than the
+fund model. Clearly, a system for ex situ conservation will generate more sustainable use and indeed
+conserve the resources. Whether a common pool model is more apt than a fund to promote fairness
+depends on how the both of them are construed.
+
+Institutional Options
+Traditionally, the concept of ABS belongs to the realm of areas under national jurisdiction.36 Merging this
+concept with the regime of the high seas requires ﬁnding an apt institutional anchorage. This is a challenge
+that will have to be addressed by stakeholders advocating a change to the status quo. In this section, we
+examine some of the institutional alternatives that arise.
+
+No agency currently has a mandate that would allow imposing mandatory bioprospecting regulation
+for ABNJ. Whereas resources under national jurisdiction may be accessed through a contract or a bilateral
+agreement, access to biological material in the ABNJ is not subject to any contractual counterpart. Beneﬁt-
+sharing arrangements outside a system of international policies would have to take the form of self-
+imposed obligations through ﬂag state jurisdiction. Ships are subject to the exclusive jurisdiction of the
+state under whose ﬂag they sail.37 Thus, when the minimum requirements of the law of the sea are met,
+states are free to regulate the conditions of access to biological material for their nationals. One possible
+option could be to make bioprospecting performed by nationals dependent on permits, the terms of which
+could require bioprospectors to share beneﬁts. This would mean that undertaking obligations would be
+voluntary in international law.
+
+From a state perspective, there are important political disincentives to enacting such domestic
+regulation. Principally, states have little, if any, incentive to place economic or practical burdens on their
+nationals when other states do not, as this would place national research institutions or industry in a
+position of competitive disadvantage in the international market. Furthermore, were states to enact such
+regulations, it could create a problem of ﬂag-state shopping, at least for the private institutions conducting
+bioprospecting: private institutions would have an incentive to relocate to states without such measures
+and sail under the ﬂag of that state.38 The challenge to such an approach is even greater if no other states, or
+only a few, were to enact legislation: the burden of being a Good Samaritan is even heavier to carry alone.
+No such domestic legislation is known to have been enacted (Leary, 2009, p. 363).
+
+An initial step would be to agree upon the aptness of a multilateral approach. For such multilateral
+approaches, it could be fruitful to envisage the resources as common pool resources, possibly with
+attached obligations (Tvedt, 2013). Some form of institutional entity or agency would be required to be in
+charge of, or associated with, a multilateral approach. The question is what sort of entity.
+
+A possible institutional avenue is that of a regional approach to high seas ABS. Regional agreements
+that also cover ocean ABNJ are important in safeguarding the environment and biodiversity beyond the
+Exclusive Economic Zone.39 Regional ﬁsheries management organizations or frameworks like the
+
+158
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Bioprospecting in the High Seas
+
+Morten Walle Tvedt and Ane E. Jrem
+
+OSPAR Convention40 may serve as examples. Regional agreements present certain characteristics that
+should be noted here. First of all, vast parts of the high seas are not covered by regional agreements.
+Placing ABS obligations on speciﬁc regions may discourage bioprospecting in those areas and thus not
+spur innovation. Second, it could also increase bioprospecting pressure on the areas with the least
+developed management systems, as access would probably be less regulated. And ﬁnally, there is less
+justiﬁcation for monetary ABS as a means for achieving fairness in a regional context than in a global one,
+as national wealth is often more evenly distributed amongst parties to a regional agreement than they are at
+the global level. However, if ABS is seen as non-monetary and the beneﬁts shared are scientiﬁc
+information or easier access to the knowledge that bioprospecting leads to, regional forums present with
+the advantages of existing structures and experience that can be beneﬁcial to conservation and sustainable
+use, provided regional organizations are strengthened and a functioning distribution of scientiﬁc
+knowledge can be set up.
+
+Another regulatory option could be for an international organization with responsibility for the end
+product to have a stake, for example, marine bioprospecting with a view to creating a pharmaceutical
+product could be regulated by the World Health Organization; food or agriculture could be regulated by
+the Food and Agriculture Organization. Such a sector-based approach, assessed from the perspective of
+the user, would have certain drawbacks. The sector within which an invention ﬁnds its use can be arbitrary
+and overlap others. Legal obligations will not be known until a later stage of the bioprospecting process.
+As predictability is an important factor for investing in bioprospecting, a sectoral approach could induce
+disincentives to innovate in areas where there is a sector-speciﬁc organization hoping to receive the
+beneﬁts. The distribution of these disincentives is also likely to be uneven. For instance, if an active
+compound is identiﬁed and a commercial application is found in a sector with beneﬁt-sharing obligations,
+it could be tempting not to invest further in product development in that sector. In this scenario, it would be
+better for the industry to explore whether the compound might not have an application in another sector
+that is not regulated by beneﬁt-sharing obligations. This argument would not be valid if ABS was seen by
+the industry as positively business-friendly, or if all sectors were regulated. Both scenarios currently seem
+rather unlikely in their fullest extent. Other difﬁcult questions would arise, such as what should be
+considered a sector, whether all sectors should be regulated, and whether it is rational to entrust a number
+of institutions with similar work. To sum up, a sectoral solution may prove contrary to the objective of
+spurring innovation. Nor is a sectoral approach on the table in the on-going discussions.
+
+Another possible institutional haven for ABS policies on biological material in the high seas could be
+that of the CBD. It would involve entrusting some sort of institutional body, existing or to be created, with
+a role in connection with a COP decision under the CBD, an MOP decision under the NP, guidelines, or a
+new protocol.41 With a view to conserving biodiversity and promoting sustainable use, this institutional
+option has certain advantages. Conservation and sustainable use of biodiversity in ABNJ are recognized
+objectives under the Convention: contracting parties have a general obligation to cooperate “in respect of
+areas beyond national jurisdiction” for the conservation and sustainable use of biodiversity.42 Since 1992,
+the bodies of the CBD have grown increasingly proﬁcient in this area. Beneﬁt sharing could also build on
+ideas set forth in NP article 10 on a possible multilateral beneﬁt-sharing mechanism for utilization of
+genetic resources in “transboundary situations” and situations where “it is not possible to grant or obtain
+prior informed consent”. Here, parties to the Protocol could conceivably negotiate a global multilateral
+beneﬁt-sharing mechanism that addresses high seas genetic material. That said, any agreement reached in
+this forum would in all likelihood be without the participation of the biggest biotech state, the United
+States.43 The United States is also not party to UNCLOS, which decreases the relative value of this
+argument. Of greater importance is the lack of institutional roots in the CBD for high seas governance that
+go beyond the general principle of cooperation found in article 5 and the possibilities awarded by ﬂag state
+jurisdiction through article 4. Legally, nothing stands in the way of taking the CBD as a starting point for
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+159
+
+Morten Walle Tvedt and Ane E. Jrem
+
+Bioprospecting in the High Seas
+
+high seas ABS as long as the policies are in conformity with the law of the sea.44 All the same, it might be
+perceived as presenting logical, or almost methodological, impediments. It may contradict the perception
+of UNCLOS as “the legal framework within which all activities in the ocean and seas must be carried
+out”.45 As noted by Greiber, joining a CBD-based global beneﬁt-sharing mechanism could be interpreted
+as forum choice, and subsequently disconnect UNCLOS from ABS related to MGRs in ABNJ
+(Greiber, 2011, p. 34). This latter point could be detrimental to the potential and role of UNCLOS to
+protect the marine environment from all harmful human activity, and thus run counter to the objective of
+conservation and sustainable use.
+
+It might be more fruitful to apply the CBD concept of beneﬁt sharing to the “Constitution for the
+oceans” and an UNCLOS framework. An institutional path starting from an UNCLOS offset could ensure
+greater uniformity and integration with existing rights and obligations. It could also prove beneﬁcial to
+conservation and sustainable use of biodiversity if synergy effects are attained from future purely
+environmental regulation of the high seas, such as marine protected areas. There is also a potential for
+synergies between future UNCLOS-related regulation and the global multilateral beneﬁt-sharing
+mechanism envisaged in NP article 10. The provision has a wider scope of application than the high seas; it
+refers to utilization in “transboundary situations” and where “it is not possible to grant or to obtain prior
+informed consent”. The idea behind NP article 10 was to bring genetic resources outside the scope of
+national sovereignty, sometimes referred to as “orphan genetic resources”, under an ABS scheme
+(Tvedt, 2011, p. 15). The idea of closing access gaps or vesting a body with the competence to regulate a
+future mechanism under article 10 would have consequences for the question of sharing the beneﬁts from
+bioprospecting in ABNJ.
+
+As stated above, the views expressed by delegates to the Ad hoc Open-Ended Working Group, and
+
+echoed at the Rio þ 20 summit, on the possibility of a new implementing agreement to UNCLOS has
+given new momentum to the question of oceanic governance.46An implementing agreement to UNCLOS
+holds great promise, such as the potential to take into account the inadequacies of the current law of the sea
+and adopt holistic and modern environmental governance of the high seas. Concerning bioprospecting, the
+potential is twofold: ﬁrstly, it would be an opportunity to address the problems encountered by deep sea
+bioprospecting activities, as to the legal status of biological material of the Area.47 This legal clarity could
+in turn encourage research and innovation. Secondly, a new implementing agreement could provide an
+opportunity to render more effective what can be seen as existing beneﬁt-sharing provisions under
+UNCLOS, such as technology transfer obligations.48 It could become a means of promoting fairness in the
+exploitation of high seas biological material. It should be noted that an ABS regime, resembling that of
+the CBD, is a potential, though far from self-evident, ingredient in such an implementing agreement. The
+diversity of oceanic life faces a variety of great and imminent threats. A possible scenario is that even its
+most ardent proponents would drop the controversial issue of beneﬁt sharing in order to solve other issues,
+considered to be more urgent. These are considerations that are closely related to the discussions on
+modalities of ABS options. In the context of an UNCLOS-associated process, the structure and size of an
+ABS entity would depend on how states perceive beneﬁt sharing. If beneﬁt sharing is viewed as the
+exchange of scientiﬁc knowledge, thus providing one form of fairness, a secretariat with the responsibility
+for administering an Internet platform may sufﬁce.49 The current online bioprospecting information
+resource maintained by the United Nations University may serve as an example here.50 A modest
+institutional option could also be a clearing-house mechanism that receives notiﬁcation of scientiﬁc
+research and ensures the further distribution of data (Matz-Lu¨ck, 2010, p. 69). If an ABS-system
+resembling that outlined in NP article 10 were envisaged, a larger structure could be required. As pointed
+out by Matz-Lu¨ck, full resource management, including scientiﬁc experts, compliance control and
+decision-making bodies, would require a permanent institution, and the question of legal personality
+would also have to be addressed (Matz-Lu¨ck, 2010, p. 68).
+
+160
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Bioprospecting in the High Seas
+
+Morten Walle Tvedt and Ane E. Jrem
+
+A candidate for the position of institutional umbrella for ABNJ ABS exists already within UNCLOS.
+The International Seabed Authority (ISA), located in Jamaica, is in charge of administering the mineral
+resources of the Area in accordance with principles set forth in Part XI. The legal status of seabed mineral
+resources as common heritage of mankind and the provisions on technology transfer can be seen as
+founded on objectives that reﬂect the “fairness” sought by ABS proponents. Additionally, the fact that the
+ISA is an already existing institution is an important argument for the ISA assuming the role of managing a
+future ABS regime for the high seas. It is most commonly evoked in relation to an expansion of its
+mandate to include the biological resources of the Area. But
+it could also be associated with
+bioprospecting in the water column above. As noted in an EU working paper, the ISA may also be put in
+charge of managing a sui generis system, thus avoiding fragmentation of international agencies, while
+beneﬁting from existing structures and expertise and increasing the activities of an underused body.51
+Politically, however, this scenario may prove exceedingly hard to realise, given the difﬁculties that arose
+relating to the resources of the Area when UNCLOS was adopted. Another alternative for ABS proponents
+would be to advocate for the creation of a separate institution with less ideologically controversial
+baggage. Whether this strategy is fair, is another question. Developing countries can argue that history so
+far has cheated them of the fervently fought for beneﬁts of the common heritage regime, as mineral
+prospecting has yet to prove commercially lucrative.52 Amending or interpreting the regime of the Area to
+apply to biological material on the ocean ﬂoor, seabed and the water column above could in that regard be
+a fair redress of fate’s irony. Nevertheless, this scenario remains politically difﬁcult and could inhibit
+progress on the issue.
+
+A less controversial platform for high seas ABS could also be created in the future. Two ideas for
+global institutions could be explored: the one of creating a World Environmental Organisation (WEO) or
+the empowerment of a global genetic resource ombudsman. The idea of a WEO was launched before
+
+Rio þ 20, but did not become a reality there. Yet increased interest in global marine governance could
+
+perhaps be one of the developments that could make this institutional change regain global interest.
+
+The idea of a genetic resource ombudsman has been tabled on a couple of occasions at ABS
+negotiations under the CBD. The idea here is to create an independent advisory and surveillance system to
+monitor potential breaches of ABS obligations. If no agreement can be reached to establish an authority in
+connection with the UNCLOS, the ombudsman system would be worth exploring in greater detail.
+
+The task of ﬁnding the appropriate forum cannot be evaded. Whether the entity is built upon the CBD,
+UNCLOS or other instruments, its characteristics will as showed above depend on the rights and
+obligations proposed.
+
+Concluding Remarks
+
+It is far from easy either from a technical legal perspective or in terms of what is politically feasible to set
+up a regulatory environment for bioprospecting in the high seas. With a view to encouraging scientiﬁc
+research and innovation, a fund or a state-to-state approach with mandatory monetary beneﬁt sharing can
+provide disincentives to innovate.
+
+If no distinction is made between academic and commercial research, and obligations fall on both
+from the sampling moment, it could represent a step away from the current regime for scientiﬁc research as
+a freedom of the high seas under UNCLOS.53 The compatibility of new regulations with the existing
+framework would depend on what obligation actually is placed on the bioprospectors.
+
+The negotiations leading to the ITPGRFA and the NP show how sensitive the trigger point issue is. It
+is also probably the most crucial issue to resolve for an ABS system to become functional. Neither the
+deﬁnitions in NP article 2(c), nor the solutions in the ITPGRFA, are particularly well drafted if the
+objective is to establish legal basis for creating large revenues. If a system is meant to be mandatory, the
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+161
+
+Morten Walle Tvedt and Ane E. Jrem
+
+Bioprospecting in the High Seas
+
+formulation of the trigger points is crucial because they must be made legally binding in national law to
+create obligations on the users. Noting the recent EU proposal for user country measures to meet NP
+obligations54 and the non-membership to the CBD of the United States as a core biotech economy, there
+will likely be substantial political difﬁculties connected to speciﬁc mandatory trigger points also regarding
+marine bioprospecting.
+
+Building on UNCLOS policy of making research available would be less threatening to the
+safeguarding of innovation. The idea of a common pool means strengthening UNCLOS objectives of
+disseminating research and technology. It too has drawbacks in limiting the exclusivity otherwise offered
+to bioprospectors, though the exclusivity offered by a patent would still be intact. Ironically, though, most
+of the challenges to innovation indicated above under this option come from patent law, which has as its
+primary justiﬁcation the protection of investments and the promotion of innovation.
+
+Compared to the monetary transfer scenario discussed above, this option has important advantages
+for the promotion of scientiﬁc innovation. It also provides a way of rendering operable the technology-
+transfer provisions of UNCLOS, and thus meet the objectives of the negotiators of the “Constitution for
+the oceans”. Rendering what are initially in situ common pool resources de facto common pool resources
+in the wild, irrespective of economic capacities, could provide fairness and spur innovation.
+
+About the Authors
+Morten Walløe Tvedt, senior research fellow, Fridtjof Nansen Institute, P.O. Box 326, 1326 Lysaker,
+Norway; e-mail: mwt@fni.no. Tvedt has published extensively in the area of genetic resource law and
+intellectual property in recent years (see www.fni.no for a complete list of publications). The
+most important monograph regarding genetic resources he co-authored with Tomme R. Young, Beyond
+Access: Exploring Implementation of the Fair and Equitable Sharing Commitment in the CBD. IUCN
+Environmental Policy and Law Paper No. 67/1 (available in English, Spanish and French, www.fni.no/
+publ/biodiversity.html).
+
+Ane E. Jørem, research fellow, Fridtjof Nansen Institute, P.O. Box 326, 1326 Lysaker, Norway;
+e-mail: aej@fni.no. Her research interests lie in the ﬁeld of legal regulation of biological diversity and
+marine genetic resources. The research behind this article is funded by the Norwegian Research Council
+under the ELSA Program and forms part of the 3 year project “Exploring Legal Conditions and
+Framework for Marine-based Bioprospecting and Innovation” at the FNI.
+
+Notes
+
+1. United Nations Convention on the Law of the Sea, 1833 UNTS 3, adopted on 10 December 1982.
+2. Convention on Biological Diversity, 1760 UNTS 79, adopted on 5 June 1992, article 15.
+3. Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Beneﬁts Arising from
+
+their Utilization to the Convention on Biological Diversity, adopted on 29 October 2010.
+
+4. The Area is the “sea-bed and the ocean ﬂoor and the subsoil thereof beyond national jurisdiction”. UNCLOS,
+
+article 1(1).
+
+5. See for example, Glowka (1996, pp. 154–78), Oude Elferink (2007), Matz-Lu¨ck (2010) and Scovazzi (2010).
+6. Established by resolution of the United Nations General Assembly, Oceans and the Law of the Sea (A/RES/59/24,
+
+2004).
+
+7. Ibid., paragraph 73(d).
+8. See for example, Ad Hoc Open-Ended Informal Working Group, Letter dated 15 May 2008 from the Co-
+Chairpersons of the Ad-Hoc Open-Ended Informal Working Group to Study Issues Relating to the Conservation
+
+162
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Bioprospecting in the High Seas
+
+Morten Walle Tvedt and Ane E. Jrem
+
+of Marine Biological Diversity in Areas Beyond National Jurisdiction to the President of the General Assembly
+(A/63/79), paragraphs 6 and 10.
+
+9. Ad Hoc Open-Ended Informal Working Group, Letter Dated 8 June 2012 from the Co-Chairs of the Ad Hoc Open-
+
+ended Informal Working Group to the President of the General Assembly (A/67/95, 2012), paragraphs 15–9.
+
+10. International Treaty on Plant Genetic Resources for Food and Agriculture, 2400 UNTS 303, adopted on 3
+
+November 2001.
+
+11. Ad Hoc Open-Ended Informal Working Group, Letter dated 15 May 2008 from the Co-Chairpersons of the Ad-
+Hoc Open-Ended Informal Working Group to Study Issues Relating to the Conservation of Marine Biological
+Diversity in Areas Beyond National Jurisdiction to the President of the General Assembly (A/63/79), paragraph 38.
+12. UNCSD, Report of the United Nations Conference on Sustainable Development (A/CONF.216/16, 2012),
+
+paragraph 162.
+
+13. Ad Hoc Open-ended Informal Working Group, Letter Dated 30 June 2011 from the Co-Chairs of the Ad Hoc
+Open-ended Informal Working Group to the President of the General Assembly (A/66/119, 2011), paragraph 6.
+
+14. On the effects of the economic downturn for biotechnology, see Giovannetti and Jaggi (2012, pp. 25–39).
+15. CBD, article 2, paragraph 13.
+16. Ibid., article 2, paragraph 8.
+17. Its provisions apply in relation to each contracting party to areas within national jurisdiction and may only be
+
+extended to ABNJ as a result of ﬂag state jurisdiction. See ibid., article 4(a) and (b).
+
+18. See World Commission on Environment and Development, Report of the World Commission on Environment
+
+and Development: Our Common Future (Annex to document A/42/427, 1987), part IV, paragraph 1.
+
+19. Ibid. See Sands (2003, p. 253).
+20. See UNCLOS, preamble, paragraph 5. On the justice in using genetic resources, see Schroeder and Pogge
+
+(2009).
+
+21. See COP4, Adressing the Fair and Equitable Sharing of the Beneﬁts Arising out of Genetic Resources: Options
+for Assistance to Developing Country Parties to the Convention on Biological Diversity (UNEP/CBD/COP4/22,
+1998), p. 3. This link has been contested, see Simpson (1997).
+
+22. For a discussion of these challenges, see Tvedt and Young (2007, pp. 59–96).
+23. Ad Hoc Open-ended Working Group on Access and Beneﬁt-sharing, Report of the Meeting of the Group of Legal
+and Technical Experts on Concepts, Terms, Working Deﬁntions and Sectoral Approaches (UNEP/CBD/WG-
+ABS/7/2, 2–9 April 2009).
+
+24. See for example, Smagadi (2009, p. 29).
+25. This thought draws inspiration from Young and Tvedt (2009, p. 24).
+26. See generally Hoare and Tarasofsky (2007); Tvedt (2006, p. 204).
+27. On the development of the open source movement, see for example, Mandrusiak (2010, pp. 313–6).
+28. See for example, Kamau and Winter (2013).
+29. See NP, annex, article 1(2).
+30. See for example, Broggiato (2011, p. 36); also Leary (2009, p. 362). Both put particular emphasis on sampling in
+
+the deep seas of areas beyond national jurisdiction.
+
+31. That is “describing biological processes or experiments that are simulated by a computer program”, Oxford
+
+University Press (2012).
+
+32. On the environmental impacts of seabed mining and fossil fuel extraction compared to bioprospecting, see
+
+Ramirez-Llodra et al. (2011, pp. 11–5).
+
+33. Agreement on Trade-Related Aspects of Intellectual Property Rights, adopted on 15 April 1994, article 27(1).
+There are different understandings of the “novelty” requirement, ranging from an absolute novelty requirement to
+a local novelty requirement, see Grubb (1999, pp. 54–8).
+
+34. On the history and functioning of the CGIAR, see Fowler and Mooney (1990, pp. 150–1); FAO (FAO, 1997,
+
+p. 253); Louaﬁ (2013).
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+163
+
+Morten Walle Tvedt and Ane E. Jrem
+
+Bioprospecting in the High Seas
+
+35. Potentially, but controversially, it could be used as a means reintroduce endangered species into the wild. Given
+the vastness of the ocean, how useful such reintroduction is would have to be evaluated along with the
+considerations of ecological impacts of reintroduction in general.
+
+36. See CBD, article 15, which establishes that the authority to determine access to GR rests with national
+governments and is subject to their legislation, while obliging states to take measures to share beneﬁts arising
+from the commercial utilisation of these GR. See also article 4 concerning the jurisdictional scope of the
+convention.
+
+37. UNCLOS, article 92(1).
+38. Pursuant to UNCLOS article 91 there must nonetheless be a “genuine link between the State and the ship”.
+39. For an introduction to the most important regional treaties and their importance in protecting marine ecosystems,
+
+see Warner (2009, pp. 173–205).
+
+40. Convention for the Protection of the Marine Environment of the North-East Atlantic, 2354 UNTS 67, adopted on
+
+22 September 1992.
+
+41. See Greiber (2011, p. 34). He argues against CBD-associated organs hosting a global multilateral beneﬁt-sharing
+
+mechanism.
+
+42. CBD, article 5.
+43. The United States signed the CBD in 1993, but never ratiﬁed it. UNCLOS and the Implementation Agreement
+Relating to Part XI were sent to the American Senate in 1994, where ratiﬁcation was rejected. For the comparative
+dominance of the United States in biotechnology, see Giovannetti et al. (2011).
+
+44. CBD, article 22(2) provides that parties shall implement the convention “with respect to the marine environment
+
+consistently with […] the law of the sea”.
+
+45. United Nations General Assembly, Oceans and the Law of the Sea (A/RES/66/77, 2011), preamble, paragraph 4.
+46. See generally Hart (2008). See also Chiarolla et al. (2012).
+47. On the long-standing, unresolved paradoxes of the legal status of MGR in the Area in relation to the
+Common Heritage of Mankind, see Glowka (1996, pp. 154–78), Leary (2007), Oude Elferink (2007), Leary
+(2012, pp. 435–48).
+
+48. UNCLOS, Part XIV. This part of the Convention is considered by some parties to be the Part with the gravest
+implementation gaps. See Ad Hoc Open-ended Informal Working Group, Letter Dated 30 June 2011 from the Co-
+Chairs of the Ad Hoc Open-ended Informal Working Group to the President of the General Assembly (A/66/119,
+2011), paragraph 36.
+
+49. See Matz-Lu¨ck (2010, p. 68). Her institutional proposals concern management of the living resources in the Area.
+50. United Nations University (2012). The database publishes known information on research and commercialised
+products arising from bioprospecting in the four categories of Antarctic, Paciﬁc, Marine and Arctic
+bioprospecting.
+
+51. Council of the European Union, Reﬂections on the Management of Genetic Resources in Areas Beyond National
+Jurisdiction (Background paper 12) (11510/06 ADD 12, 2006), p. 9. See also Matz-Lu¨ck (2010, pp. 72–3), who
+favours this option for biological resources in the Area, but recognises its unlikelihood.
+
+52. De la Fayette considers that if delegates negotiating UNCLOS had known about the economic potential of genetic
+resources when the Convention was negotiated, surely they would have included them in Part XI. De la Fayette
+(2010, p. 77).
+
+53. UNCLOS, Part XIII.
+54. The European Commission, Regulation of the European Parliament and of the Council on Access to Genetic
+Resources and the Fair and Equitable Sharing of Beneﬁts Arising from their Utilization in the Union (COM
+(2012) 567 Final, 2012).
+
+164
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Bioprospecting in the High Seas
+
+Morten Walle Tvedt and Ane E. Jrem
+
+References
+
+Broggiato, A. (2008) ‘Marine Biological Diversity in Areas Beyond National Jurisdiction’, Environmental Law and
+
+Policy, 38(4), 182–8.
+
+Broggiato, A. (2011) ‘Marine Genetic Resources Beyond National Jurisdiction—Coordination and Harmonisation of
+
+Governance Regimes’, Environmental Policy and Law, 41(1), 35–42.
+
+Chiarolla, C., Kantai, T. and Morgera, E. (2012) Summary of the Fifth Meeting of the Working Group on Marine
+Biodiversity Beyond Areas of National Jurisdiction. Earth Negociations Bulletin, 25(83), International Institute
+for Sustainable Development, 14 May 2012, n.p. Available at <http://www.iisd.ca/vol25/enb2583e.html>
+[Accessed 19 December 2012].
+
+Dano, E.C. (2007) Unmasking the New Green Revolution in Africa: Motives, Players and Dynamics. Third World
+
+Network, Penang.
+
+De la Fayette, L.A. (2010) ‘Institutional Arrangements for the Legal Regime Governing Areas Beyond National
+Jurisdiction—Commentary on Tullio Scovazzi’, in Molenaar E. J. and Oude Elferink A. G. (eds.), The
+International Legal Regime of Areas Beyond National Jurisdiction: Current and Future Developments. Martinus
+Nijhoff, Leiden, pp. 61–75.
+
+Drankier, P., Oude Elferink, A.G., Visser, B. and Taka´cs, T. (2012) ‘Marine Genetic Resources in Areas Beyond
+National Jurisdiction: Access and Beneﬁt-Sharing’, The International Journal of Marine and Coastal Law,
+27(2), 375–433.
+
+FAO. (1997) The State of the World’s Plant Genetic Resources for Food and Agriculture. FAO, Rome.
+Fowler, C. and Mooney, P. (1990) Shattering: Food, Policies and the Loss of Genetic Diversity. University of Arizona
+
+Press, Tucson.
+
+Giovannetti, G. and Jaggi, G. (2012) Beyond Borders: Global Biotechnology Report 2012. Ernst & Young,
+n.p. Available at <http://www.ey.com/Publication/vwLUAssets/Beyond_borders_2012/$FILE/Beyond_borders_
+2012.pdf> [Accessed 19 December 2012].
+
+Giovannetti, G., Jaggi, G. and Bialojan, S. (2011) Beyond Borders: Global Biotechnology Report 2011. Ernst &
+Young, n.p. Available at <http://www.ey.com/Publication/vwLUAssets/Beyond_borders_global_biotechnology_
+report_2011/$FILE/Beyond_borders_global_biotechnology_report_2011.pdf> [Accessed 19 December 2012].
+
+Glowka, L. (1996) ‘The Deepest of Ironies: Genetic Resources, Marine Scientiﬁc Research, and the Area’, Ocean
+
+Yearbook, 12, 154–78.
+
+Greiber, T. (2011) Access and Beneﬁt Sharing in Relation to Marine Genetic Resources From Areas Beyond National
+
+Jurisdiction: A Possible Way Foreward, BfN-Skripten No. 301, IUCN, Bonn.
+
+Grubb, P.W. (1999) Patents for Chemicals, Pharmaceuticals and Biotechnology: Fundamentals of Global Law,
+
+Practice and Strategy. Oxford University Press, Oxford.
+
+Hart, S. (2008) Elements of a Possible Implementation Agreement to UNCLOS for the Conservation and Sustainable
+
+Use of Marine Biodiversity in Areas Beyond National Jurisdiction, Marine Series No. 4, IUCN, Gland.
+
+Hoare, A.L. and Tarasofsky, R.G. (2007) ‘Asking and Telling: Can ‘Disclosure of Origin’ Requirements in Patent
+
+Applications Make a Difference?’, Journal of World Intellectual Property, 10(2), 149–69.
+
+Kamau, E.C. and Winter, G. (eds.), (2013) Common Pools of Genetic Resources: Equity and Innovation in
+
+International Biodiversity Law. Routledge, London.
+
+Leary, D. (2007) International Law and the Genetic Resources of the Deep Sea. Martinus Nijhoff, Leiden.
+Leary, D. (2009) ‘International Law and the Genetic Resources of the Deep Sea’, in Vidas D. (ed.), Law, Technology
+and Science for Oceans in Globalisation: IUU Fishing, Oil Pollution, Bioprospecting, Outer Continental Shelf.
+Martinus Nijhoff, Leiden, pp. 353–69.
+
+Leary, D. (2012) ‘Moving the Marine Genetic Resources Debate Forward: Some Ref‘lections’, The International
+
+Journal of Marine and Coastal Law, 27, 435–448.
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+165
+
+Morten Walle Tvedt and Ane E. Jrem
+
+Bioprospecting in the High Seas
+
+Louaﬁ, S. (2013) ‘Collective Action Challenges in the Implementation of the Multilateral System of the International
+Treaty: What Roles for the CGIAR Centres?’, in Halewood, M. Noriega I.L. and Louaﬁ S. (eds.), Crop Plant
+Genetic Resources As a Global Commons: Challenges in International Law and Governance. Earthscan,
+Abington, pp. 310–28 [forthcoming].
+
+Mandrusiak, L. (2010) ‘Balancing Open Source Paradigms and Traditional Intellectual Property Models to Optimize
+
+Innovation’, Maine Law Review, 63(1), 304–30.
+
+Matz-Lu¨ck, N. (2010) ‘The Concept of the Common Heritage of Mankind’, in Molenaar, E.J. and Oude Elferink A.G.
+(eds.), The International Legal Regime of Areas Beyond National Jurisdiction: Current and Future
+Developments. Martinus Nijhoff, Leiden, pp. 61–75.
+
+Medaglia, J.C., Morten, W.T., Frederic, P.-W., Ane, J. and Freedom-Kai, P. (2013) The Interface between the Nagoya
+Protocol on ABS and the ITPGRFA at the International Level—Potential Issues for Consideration in Supporting
+Mutually Supportive Implementation at the National Level. Fridtjof Nansens Institutt, Lysaker (FNI Report,
+no. 1/2013).
+
+Oude Elferink, A.G. (2007) ‘The Regime of the Area: Delineating the Scope of Application of the Common
+Heritage Principle and Freedom of the High Seas’, The International Journal of Marine and Coastal Law, 22(1),
+143–75.
+
+A Dictionary of Biology (2012) Oxford University Press, Oxford.
+Ramirez-Llodra, E., Tyler, P.A., Baker, M.C., Bergstad, O.A., Clark, M.A., Escobar, E., Levin, L.A., Menot, L.,
+Rowden, A.A., Smith, C.R. and Van Dover, C.L. (2011) ‘Man and the Last Great Wilderness: Human Impact on
+the Deep Sea.’ PLoS ONE, 6(7), 1–25.
+
+Rawls, J. (1993) ‘The Law of the Peoples’, Critical Inquiry, 20(1), 36–68.
+Rawls, J. (1999) A Theory of Justice: Revised Edition. Belknapp Press, Cambridge, MA.
+Salpin, C. and Germani, V. (2007) ‘Patenting of Research Results Related to Genetic Resources from Areas Beyond
+National Jurisdiction: The Crossroads of the Law of the Sea and Intellectual Property Law’, RECIEL, 16(1),
+12–23.
+
+Sands, P. (2003) Principles of International Environmental Law. Cambridge University Press, Cambridge.
+Schroeder, D. and Pogge, T. (2009) ‘Justice and the Convention on Biological Diversity’, Ethics and International
+
+Affairs, 23(3), 267–280.
+
+Scovazzi, T. (2010) ‘The Seabed Beyond the Limits of National Jurisdiction: General and Institutional Aspects’, in
+Oude Elferink A.G. and Molenaar E.J. (eds.), The International Legal Regime of Areas Beyond National
+Jurisdiction: Current and Future Developments. Martinus Nijhoff, Leiden, pp. 43–60.
+
+Simpson, R.D. (1997) ‘Biodiversity Prospecting: Shopping the Wild Is Not the Key to Conservation’, Resources, 126,
+
+12–15.
+
+Smagadi, A. (2009) Medicinal Bioprospecting: Policy Options for Access and Beneﬁt-Sharing. British Institute of
+
+International and Comparative Law, London.
+
+Treves, T.
+
+(2010)
+
+‘Principles and Objectives of
+
+the Legal Regime Governing Areas Beyond National
+Jurisdiction’,
+in Oude Elferink, A.G. and Molenaar, E.J. (eds.), The International Legal Regime of
+Areas Beyond National Jurisdiction: Current and Future Developments. Martinius Nijhoff, Leiden,
+pp. 8–25.
+
+Tvedt, M.W. (2006) ‘Elements for Legislation in User Countries to Meet the Fair and Equitable Beneﬁt-Sharing
+
+Commitment’, The Journal of World Intellectual Property, 9(2), 189–212.
+
+Tvedt, M.W. (2010) ‘Patent Law and Bioprospecting in Antarctica’, Polar Record, 47, 45–55.
+Tvedt, M.W. (2011) A Report from the First Reﬂection Meeting on the Global Multilateral Beneﬁt-Sharing
+
+Mechanism, FNI Report No. 10/2011, Fridtjof Nansen Institute, Lysaker (Norway).
+
+Tvedt, M.W. (2013) ‘Common Pools in Aquaculture: Exploring Patent Law ABS and Sui Generis Options’, in Kamau
+
+E.C. and Winter G. (eds.), Common Pools of Genetic Resources. Routledge, London [Forthcoming].
+
+166
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Bioprospecting in the High Seas
+
+Morten Walle Tvedt and Ane E. Jrem
+
+Tvedt, M.W. and Schei, P.J. (2009) Den rettslige situasjonen for MARBANK og andre marine biobanker i Norge, FNI
+
+Report No. 6/2009, Fridtjof Nansen Institute, Lysaker (Norway).
+
+Tvedt, M.W. and Young, T.R. (2007) Beyond Access: Exploring Implementation of the Fair and Equitable Sharing
+
+Commitment in the CBD, IUCN Environmental Policy and Law Paper No. 67/2, IUCN, Gland.
+
+United Nations University. Bioprospecting Information Resource [online database]. Available at <www.
+
+bioprospector.org/bioprospector/> [Accessed 19 December 2012].
+
+Warner, R. (2009) Protecting the Oceans Beyond National Jurisdiction: Strengthening the International Law
+
+Framework. Martinus Nijhoff, Leiden.
+
+Young, T. and Tvedt, M.W. (2009) Balancing Building Blocks of a Functional ABS System, FNI Report No. 7/2009,
+
+Fridtjof Nansen Institute, Lysaker (Norway).
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+167
+
+

@@ -1,0 +1,484 @@
+Liberalization of Antitrust Rules for IP Licensing 
+
+Global Trends and  Unresolved Issues 
+
+Joel DAVIDOW* 
+
+BACKGROUND 
+
+During the 1970s, international licensors of intellectual property (IP) often found 
+themselves in a regulatory straitjacket. Japan and major developing countries required 
+notification  of  all  inward-bound  licences,  and  deleted  all  clauses  deemed  to  be 
+objectionable. The EU made notification almost mandatory by means of rules denying 
+a non-notifier the right to defend a restriction after the fact, and exposing a non-notifier 
+to fines that would not be imposed if the licence had been submitted at the outset. The 
+United  States, whde not requiring notification of licences, emulated the above parties 
+in  promulgating  lists  of  licensing  practices  that  would  be  treated  as  prima  facie 
+unacceptable. The Antitrust  Division’s list  of suspect practices was  called  the  “Nine 
+No-Nos”.  The Division created a patent section with a mandate to bring test  cases in 
+the  licensing area, which  it  did, resulting in  some victories  or settlements based  on 
+prosecutorial theories that are no longer used. 
+
+In Japan and the EU, lists of licensing clauses were created, defining groups of them 
+as  “black  listed”,  “grey listed”  or  “white listed”.  No  defence for  lack  of significant 
+market share was recognized. A number of the grey-list  clauses would not have raised 
+antitrust issues under U.S. law. 
+
+In  many  developing  countries,  such  as  Mexico,  Brazil,  Argentina  and  India, 
+virtually any restriction on a local licensee, even if it were the licensor’s own subsidiary, 
+could be struck down if found to be unfavourable to national development interests or 
+unfair  to  local licensees.’  In  an  effort  to  codifjr  their  approach, the  developing and 
+least-developed countries (LDCS) asked the United  Nations Conference on Trade and 
+Development  (UNCTAD) to  promulgate  a  “Code  of  Conduct  for  the  Transfer  of 
+Technology  to  Developing  Countries”  (TOT Code)  that,  if  adopted  as  originally 
+proposed, would  have condemned  forty types  of licence restrictions-virtually 
+every 
+one that those countries had ever heard of. 
+
+*  Partner, Kile, Goekjian, Reed & McManus, Washington, D.C. 
+
+As  chief of the Foreign Commerce Section of the Antitrust Division, the author served as a negotiator of 
+the UN Set of Principles for the Control of Restrictive Business Practices and of the UNCTAD Conference on a 
+Transfer of Technology Code. He is the author of Foreign Antitrust Rulesfor Patent Licenses in each edition of Drafting 
+License Agreements, Aspen Press, third edition, 2002. 
+
+The author may be contactd at: cjdavidow@kgrmlaw.com). 
+See Joel Davidow, The United States,  Developing Countries and the Issue of Intra-Enterprise Agreementr, 7 GA. 
+
+J. of Int’l & Comparative Law 507, 1977. 
+
+492 
+
+THE JOURNAL OF WORLD  INTELLECTUAL  PROPERTY 
+
+There were a substantial number  of theoretical and practical objections to patent 
+licence/antitrust  systems  based  on  the  listing  of  suspect  practices  and  requiring  (or 
+impelling)  their  notification  and  review.  First,  the  licensed  patent,  process  or 
+improvement  might  simply be  of little  market  significance, so that  there  is  no likely 
+competitive  harm  regardless  of  the  type  of  restriction  imposed.  For  instance,  if  a 
+company obtained a patent on a cigarette lighter that works on methane and looks like 
+a crocodile, consumers would probably be indifferent to whether the licensing of such 
+device includes price fixing, restrictions on research, tying of methane purchases to the 
+device,  exclusive grant-back  of improvements,  etc.  There are  simply so  many  other 
+ways to light cigarettes, many of them very cheap, that the danger of substantial effect 
+on the economy is nil. This problem is now handled in some Guidelines by the creation 
+of “safe harbors”: pre-clearing  firms or devices with low market shares.2 But it remains 
+to be seen whether all parties involved will perceive market parameters in the same way. 
+Second,  various  adrmnistrative  or  bureaucratic  inefficiencies  were  inherent  in 
+licence review. In the EU, whenever the licence did not fit exactly within a white-list 
+exemption,  the  company  would  have  to  re-write  it,  live  with  the  risk  of  later 
+invalidation  or seek a formal clearance, which could take three or four years to obtain, 
+sometinies after considerable expense.  In Japan,  clearance of a licence agreement  was 
+largely a dialogue between the Japanese licensee and the Japan Fair Trade Commission 
+(JFTc),  with the licensor having no official role or right to appeal. Moreover, the timing 
+and circumstances often meant that the revision of the licence  changed the economics 
+in favour of the licensee, with there being no practical way of re-negotiating  the royalty 
+or adding balancing provisions. 
+
+Lastly, much  of the practice  of listing suspect provisions  and  conducting  licence 
+review was infected by  fairness or national  development  considerations  that were  not 
+necessarily identical  with  competition  or efficiency analysis.  For  instance,  provisions 
+requiring  the  licensee  to  grant  back  improvement  patents  were  more  likely  to  be 
+accepted  if  the  licensor  granted-forward  similar rights.  Such  approach  has  a  certain 
+attractive symmetry but may make little  sense in competition  terms,  or even fairness 
+terms. For instance, if the licensor has two hundred researchers and the licensee has one 
+researcher, is it truly “fair” to require licensors to provide improvements royalty free? If 
+third  parties  could  benefit  competitively  from  licences,  surely a  reciprocal  exclusive 
+grant-back and grant-forward  is twice as bad for rivals as one or the other would be? If 
+a licensor takes on a risky distributor, why should an agreement which provides that if 
+the distributor does badly and the licence is transferred to another the original dealer will 
+not  continue  selling the  product,  not  be  honoured?  But Japan  and  the EU  express 
+suspicion about restrictions which last longer than the end of the licence. 
+
+2  See, e.g., United States Department of Justice and Federal Trade Commission, Antitrust  Guidelinesfor  the 
+Licensing  oflutellecttral Property, 4 Trade Reg. Rep. (CCH) 13, 132 at 20, 733, 1995: 20 percent market share is safety 
+zone (74.3). 
+
+LIBERALIZATION OF ANTITRUST RULES 
+
+493 
+
+Starting in about 1980, there has been an intellectual and political counter attack 
+which has been very substantially successful. Most developing countries have abandoned 
+technology  screening,  along  with  investment  screening.  Many  have  adopted  a 
+Western-style antitrust law under which an attack on a licence agreement would require 
+a detailed complaint and a substantial amount of proof of market effect.3 
+
+In  1980,  while  the  TOT Code  exercise  was  fakng,  the  United  Nations 
+unanimously  adopted  a  voluntary  antitrust  code,  and  UNCTAD developed  a  model 
+antitrust  law  and  antitrust  technical  assistance  programme.4  After  1985,  this 
+technological assistance was frequently sought. After the fall of Soviet-bloc communism 
+in  1989, there  was  a  greater  shift  toward policies  of  deregulation, privatization  and 
+adoption of antitrust laws. In 1970, approximately thirty countries had an antitrust law. 
+By 2000, almost one hundred countries had such a law, many of which had opened up 
+to foreign investment and deregulated many sectors. 
+
+The negotiation of the proposed TOT Code was  stalemated and the project was 
+abandoned. Instead, the developing countries accepted the TRIPS Agreement which was 
+highly favourable to patent owners, requiring phased adoption of IP laws by developing 
+countries and provision of extensive remedies against  infringement. In trade for such 
+concession, the technology-dependent countries settled merely for a  short passage  in 
+TRIPS stating that antitrust regulation of licences is legitimate, and that practices such as 
+tying may legitimately be reviewed and remedied. 
+
+I.  AMERICA MOVES FIRST AND LEADS REFORM 
+
+In  the  late  1970s  and  early  1980s,  U.S.  antitrust  agencies  abandoned  the 
+Nine-No-Nos  approach, concluding that patents seldom confer real monopoly power 
+and that  most patent licence clauses  need to be  examined in terms of actual purpose, 
+effect  and market context rather than in terms of whether they can be characterized as 
+involving a provision that has been found competitively dangerous in some situations. 
+In  1995, the U.S. agencies promulgated new IP Guidelines that stressed the need 
+for  full-scale  analysis  rather  than  mere  labelling, and  that  declared  that  licensing is 
+generally pro-competitive and that most licence conditions perform useful economic 
+functions. The Guidelines also set out a 20 percent market-share safe harbor. This meant 
+that U.S. agencies were unlikely to investigate or challenge licences between firms with 
+minor market shares. Nevertheless, the U.S. agencies continued to bring enforcement 
+actions in this area, such as one against a General Electric (GE) medical device licence 
+that  prevented  hospital  licensees  from  entering  the  service  field  where  GE  was 
+becoming dominant. The case was settled when GE agreed to delete the restriction. 
+
+World: Crisis, Coerrion and  Choice, 49 International Organization 1, 1995. 
+
+These trends are chronicled in Susan K.  Sell, lntellectttal  Property  Protection  and  Antitrust  in  the  Developing 
+4  See Debra L. Miller and Joel Davidow, Antitrust at  the United Nations: A  Tale of Two Codes, 18 Stan J. of 
+
+Int’l Law 347, 1982. 
+
+494 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPERTY 
+
+11.  LIBERALIZATION 
+
+IN JAPAN OCCURS IN STAGES 
+
+In response to US. criticism, Japan modified its scheme of patent licence review in 
+1989, then abandoned it in  1997, replacing it in  1999 with IP Guidelines very similar 
+to those published by the U.S. agencies.5 
+
+The new JFTC Guidelines contain four sections: 
+- 
+- 
+
+an introduction, setting forth the purpose and applicabdity of the Guidelines; 
+the JFTC’s views on the relationship between patent licensing agreements and 
+$,  23 of Japan’s Antimonopoly Act; 
+the JFTC’S views on the patent or know-how  licensing agreements fiom the 
+perspective of unreasonable restraint of trade and private monopolization; and 
+the JFTC’S views on the patent or know-how  licensing agreements from the 
+perspective of unfair trade practices. 
+
+- 
+
+- 
+
+In particular, the new JFTC Guidelines used text  and examples, not mere lists, to 
+explicate agency policy. The new Guidelines stated that restrictions would be deemed 
+reasonable or not,  based  on  market  share and  effect  on competition  rather  than  on 
+fairness considerations or on a per se basis. Further, theJFTC has created a business-review 
+clearance procedure under which it will opine on licence arrangements submitted by 
+domestic or foreign firms. 
+
+The new  Guidelines treat price or re-sale  price restrictions on licensees as almost 
+always  objectionable.  Unlike  the  United  States, Japan  condemns  maximum-price 
+clauses  as  well  as  minimum  ones.  The Japanese Guidelines  condemn  restrictions on 
+research  by  the licensee, an item that has  appeared in EU and U.S.  cases and  merger 
+reviews. Japan also condemns exclusive grant-back clauses on improvements, a stricter 
+position than in the EU or the United  States. 
+
+The  new  Guidelines,  like  those  of  the  United  States,  but  unlike  Japan’s  old 
+licensing Guidelines, concentrate much  attention  on  issues  of licensing by  dominant 
+syndicates  or  dominant  firms.  It  is  stated that  pooling  of patents  to  achieve market 
+allocation is unacceptable. It is warned that pooled patents may be subject to compulsory 
+licensing  as  an  antimonopoly  remedy.  Patent  tying  or  package  licensing  by  a 
+market-dominating firm is stated to be probably illegal. 
+
+Carehl study of the JFTC IP Guidelines reveals  that,  although Japan  has  moved 
+much closer to  U.S.  analysis and positions, there  are instances in which  the Japanese 
+approach is significantly hfferent.  In a few cases, it appears that the variance may simply 
+be based on a misunderstanding of US. precedent or inability to handle it in the same 
+
+5  The  sequential  changes in Japanese  antitrust  treatment .of technology licences are  discussed in  detail in 
+
+Joshua A. Newberg,  Technology Licensing UnderJapanese  Antitrust LAW,  32 Law & Policy in Int’l Bus. 705, 2001. 
+
+LIBERALIZATION OF ANTITRUST RULES 
+
+495 
+
+way in the context of their legal system. In others, the motivating force appears to be a 
+greater  concern  with  fairness  than  with  competition  theory  as  such.  The  JFTC 
+Guidelines, at  Section 2B(b), state that  the  use  of a  no-contest  clause  is  probably an 
+Antimonopoly  Act  violation.  In  the  United  States,  such  clause  would  at  most  be 
+unenforceable. 
+
+A  simdar  confusion  occurs with  regard  to  the  issue  of royalties,  which  can  be 
+collected for an unduly long period. In Bmlotte v .  Thys,6 the U.S. Supreme Court held 
+that  it  is  a  misuse  of  a patent  to  insist  on  royalties being  paid  after  it  has  expired. 
+However,  later  cases  make  clear  that  such  clauses  or  collections  are  not  antitrust 
+violations.  Nevertheless,  the JFTC  Guidelines treat  a  Bmlotte  violation  as  a  probable 
+antitrust  violation unless justified  as  part  of an  instalment payment  plan.  The more 
+extreme divergence in this area deals with know-how  licensors who enforce a contract 
+in  order to  collect royalties or know-how  that  has  come into the public domain for 
+reasons that are not  the fault of the licensee. The U.S. Supreme Court, in Aronsen  v .  
+Quickpoint  Pencil  C O . , ~  held  that  there  is  nothing  wrong  with  such  a  clause  or  its 
+enforcement, that the licensee bargains for a head start over potential rivals and must pay 
+for his bargain even when the advantage turns out to be short-lived. The antitrust logic 
+of the Aronsen decision is made clear by the facts of that case. There, half-a-dozen  new 
+competitors had entered the market and the royalty was only 2 percent. Thus, it is nearly 
+impossible  to  see  why  collection  of  the  royalty  had  any  antitrust  significance. 
+Nevertheless, the JFTC Guidelines announce the opposite of the Aronsen rule, namely 
+that it is probably an antitrust violation for a licensor to insist on being paid for know- 
+how that has become public. It can be noted that the EU rule for some years was the 
+same as the one the Japanese have now revived, namely that collecting such royalties is 
+at least a suspect practice.8 
+
+Although the new Japanese licensing Guidelines generally follow the substantive 
+approach of the U.S. Guidelines, there are a few variations, most of which reflect the 
+earlier Japanese approach that licensors generally have stronger bargaining positions than 
+licensees and that it is a proper function of competition law to redress such bargaining 
+imbalance when it is “abused”. The Guidelines refer to abuse of a “dominant bargaining 
+position” as  being a  cognizable offence under  the Japanese Antimonopoly Act. With 
+regard to the particular issue of grant-backs,  the 1999 Guidelines state that a one-way 
+exclusive  grant-back  may  be  acceptable  if  there  is  adequate  compensation  to  the 
+licensee. This approach has no counterpart in US. antitrust law, and goes even a bit 
+further than EU competition law on the same subject. The approach does not stand up 
+well  under  competition-law  analysis.  If  exclusive  grant-backs  are  dangerous  to  the 
+public because  the licensor may  use  them  to  dominate a  technology market, then  it 
+makes no competition-law sense to excuse such amassing of technology rights as long 
+
+6  379 US. 29 (1964). 
+’ 440 U.S. 257 (1979). 
+8  See Article 3(5) of the Know-How Group Exemption, Regulation 556/89 (now defunct) 
+
+496 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPERTY 
+
+as the licensor pays a lot for such rights. Economic theory would suggest that the greater 
+the market power being obtained, the more the monopolist will pay. 
+
+The Japanese Guidelines differ from US. antitrust rules in a number of other specific 
+ways. One example is that the Guidelines indicate that requiring a licensee to promise not 
+to challenge the vahdity of a patent may  constitute a violation of Japan's Antimonopoly 
+Act.  The  U.S.  Supreme  Court  held  in  Lear  v .  Adkins,  Inc.,9  that  a  covenant  not  to 
+challenge  validty  is  against  public policy and therefore unenforceable. However, U.S. 
+courts have held that imposing such a covenant is not an antitrust violation in itself.10 Thus, 
+it appears that a company licensing in or into Japan could expose itselfto antitrust penalties 
+for imposing such covenant, but not in the United States. This appears to be an instance 
+in whch Japan attempted to follow the US. rule but ignored a  subtle distinction and 
+ended up with a tougher rule than the Americans impose. 
+
+111.  REFORM IN THE EU: ACTION AND PENDING  PROPOSALS 
+
+The EU has liberalized both its procedural requirements and its substantive rules. 
+
+A.  Procedural Liberalization 
+
+The  EU  has  never  formally  required  the  notification  of  licence  agreements. 
+Nevertheless, for a long time its system as a whole created a very strong impetus for the 
+notification of many agreements or for the avoidance of licence provisions that would 
+have  created  grounds  for  notification.  Some  of  the  rules  creating  pressures  for 
+notification have already been changed. It now appears likely that many others will be 
+abandoned or loosened. First, Article 81(2) of the current EU Treaty provides  (as did 
+old  Article  85(2))  that  restrictions  of  EU  competition  are  void.  Thus,  a  licence 
+containing a  grey-list  or  black-list  restriction  could  be  deemed  void,  thus  perhaps 
+releasing a  licensee from the  restriction, voidmg the  whole  licence, or  exposing the 
+licensor to a  fine. Under  the  old system, the  EU Commission would  not  consider a 
+restriction under old Article 85(3) (now Article 81 (3)) if the licensor needed it only after 
+an issue arose with regard to a non-notified agreement. Second, it was a tenet ofEU law 
+that only the Commission could find that a restriction was justifiable on policy grounds. 
+A national court would possess no such power. 
+
+The  system has  changed and  is  changing further.  The Commission has  already 
+abandoned its refusal to consider justifications for restrictions that were not notified at 
+the  outset.  Moreover,  in  regard  to  distribution  restrictions,  the  Commission  has 
+published a policy paper proposing to reverse the old system and allow national courts 
+to  deal with  Article  81(3) arguments for  the  legality  of  a  restrictive provision.  The 
+Commission adopted the same policy for licence agreements early in 2004. 
+
+395 U.S. 693 (1969). 
+
+lo  Panther Pumps  G Equip. Co. v. Hydrocraft, Xu., 468 F 2d 225,232 (7th Cir. 1972) 
+
+LIBERALIZATION OF ANTITRUST RULES 
+
+497 
+
+The EU’s IP  licence  Guidelines (“technology-transfer group  exemption”) were 
+partially  modernized  in  1996. The  changes made  at  that  time  included  extending 
+coverage  to  mixed  patent  know-how  licences,  decreasing the  number  of  grey-  or 
+black-listed items and creating a fast-track system for obtaining a comfort-letter  sort of 
+clearance  on  particular  licence  provisions  or  schemes.  The  group  exemption  was 
+supposed to be re-examined  in 2006, but it has become an anomaly in light of other 
+changes, and has been substantially altered in May 2004. 
+
+Since the EU has largely eliminated the group-exemption approach and clearance 
+approach with regard to many fields, such as distribution restraints, it became clear that 
+a  parallel  change  had  to  be  made  with  regard  to  the  technology-transfer  group 
+exemption, and this is now happening. 
+B .  Substantive Liberalization 
+
+In a paper re-evaluating  its “block exemption” on IP licensing, the EU indicated 
+that its current black and grey lists were too strict and mechanical. Indicating the kind 
+of changes it would make, the Commission dmussed a number of controversial grey- 
+list and black-list items of the past  which should be treated more liberally. Thus, in a 
+new Regulation which was scheduled for early 2004, the competition agency made the 
+following changes: 
+
+- 
+
+-  stated that output or quantity restrictions in licences may be efficiency-enhancing 
+and site licences may be acceptable even when they have a tendency to restrain 
+output; 
+covenants not  to  compete in licences may  be acceptable between firms that 
+were not competitors prior to the licence; 
+tymg clauses in licences are exempted where less than 30 percent of the market 
+is affected; 
+non-reciprocal  grant-backs  and  certain  exclusive  grant-backs  can  “benefit 
+ti-om a block exemption”. 
+
+- 
+
+- 
+
+Iv.  REFORM IN LDCS 
+
+Between 1965 and 1975, many developing countries and LDCS experimented with 
+a policy of restricting foreign &rect investment or condtioning it in detailed ways. Such 
+regimes often included a required registration of licence agreements between a foreign 
+corporation and a  local one, even if the licensee was  a subsidiary of the licensor. Not 
+only did these regimes sometimes limit the amount of royalties to be paid and even the 
+export  of  royalties,  they  created lists  of  licence  restrictions which  were  viewed  as 
+unfavourable to the licensee or other national interest, and were thus often modified or 
+expunged by a local official. As noted above, the high point of this movement occurred 
+
+498 
+
+THE JOURNAL OF WORLD  INTELLECTUAL  PROPERTY 
+
+in  the  late  1970s when  those  countries, acting as  a  political group  within  the  UN, 
+attempted to secure international approval of a “transfer of technology code of conduct” 
+containing  forty  or  so  licence  restrictions  that  were  to  be  declared  presumptively 
+unlawful by the international community. The proposed code was debated for five years 
+but was never agreed upon. By the early  1980s, an era of investment deregulation and 
+investment attraction began to sweep the developing world. New governments in many 
+developing countries concluded that  anti-investment  policies had  been  self-defeating 
+and that liberalization was the more advantageous policy. 
+
+The trends just dscussed can be traced in LDC after LDC.  In Argentina, technology- 
+transfer contracts were often screened. However,  it was reported that by  1993, “apart 
+from the restrictions set out in Argentina’s antitrust law, there are no restrictive clauses 
+that  are  not  allowed  to  be  included  in  technology-transfer  agreements,  whether 
+between dependent or independent parties.”ll 
+
+In Brazil,  “rules issued  in  February  1991 streamlined procedures, reduced  INPI 
+interference in contract terms and permitted licensors to maintain control of technology 
+after contract expires.”12 
+
+In Mexico,  a  strict screening requirement  was  instituted in  1973. The law was 
+substantidy liberalized in 1982. The system was hlly repealed in 1993 when investment 
+was liberalized and an antitrust regime was put into effect.13 
+
+The  Indian  government  announced  in July  1991 that  much  of  the  system  of 
+business licences and restrictions would be abolished. However, contracts that bid the 
+licensee to make tie-in  purchases are ~r0hibited.l~ 
+
+V. 
+
+ISSUES FOR POSSIBLE FUTURE RECONSIDERATION 
+
+One  type  of licensing restriction-price 
+
+is  widely  disfavoured, 
+appears entitled to a good bit ofliberalization. U.S., Japanese and EU Guidelines all state 
+in similar terms that attempts by a licensor to control the re-sale  or sale prices of one or 
+more licensees are very likely to be challenged and sanctioned. On the other hand, there 
+are at least three situations in which it would be good law and policy to be more tolerant 
+of price clauses. 
+
+clauses-which 
+
+First, the legahty of licence clauses  setting maximum prices needs to be clarified. 
+The  U.S.  Supreme  Court  has  ruled,  in  State  Oil  v .  Khan,I5  that  it  is  a  mistake  to 
+condemn maximum-price  futing and treat  it  as  being  illegal per se.  The Khan  ruling 
+occurred more than one year after the 1995 publication of the U.S. IP Guidelines. Thus, 
+
+11  Thomas J. Ehrbar, Buiness International’s Guide to Intevnational Licensing, 1993, p. 11. 
+12  Ibid., at 24. 
+13  See ibid., p. 9, at 38; Oscar M. Becereil, Mexico’s New Law Liberalizes Technology  Transfer, Les Nouvelles, 
+’ 4   Ibid., at 155-56 
+15  522 U.S. 3 (1997). 
+
+March 1992. 
+
+LIBERALIZATION OF ANTITRUST RULES 
+
+499 
+
+it may be that the next version of those Guidelines wdl reflect this change in U.S. law. 
+There were strong indications of this in a speech by the U.S. Antitrust Chief when he 
+referred to the agencies’ position “that it is per se illegal for a patentee to fur the minimtrm 
+re-sale  price for a good that has been fully sold to retailers” (emphasis added).16 There 
+appears to be no reason why maximum-price furing would be any more undesirable in 
+IP licensing than in product distribution arrangements, and there may even be reasons 
+why setting such maximums is even more justifiable in the IP context, since these are 
+often legal monopolies. 
+
+The  EU  issued  new  vertical  Guidelines  in  1999.  It  stated  that  they  would  be 
+applicable  to mixed-dstribution licensing transactions where the non-licensing purpose 
+was primary. In those Guidelines, the EU took the position that the setting of maximum 
+prices is generally unobjectionable. Implementation of those Guidelines means that at least 
+some licence agreements in  or  to  Europe can  already  contain maximum-price-setting 
+clauses that are legal. There does not seem to be a logical reason  why maximum-price 
+setting in a pure licence agreement would be any more objectionable than in a mixed 
+situation such  as  franchising or  distribution. The  new  version  of  the  E U s  licensing 
+Guidelines  authorizes  the  setting of  maximum  prices  in  vertical licences, but  not  in 
+licences from one competitor to another. 
+
+Second, it appears to be that most antitrust agencies around the world treat price 
+restrictions  on  re-sale  of  patented  products  the  same  as  price  restrictions  on  the 
+manufacture  and first-sale  of patented products. Clearly, if the  rationale for  treating 
+minimum-price setting in patent licences involving the right to re-sell  patented products 
+is based on the general ban on minimum re-sale price maintenance, then there is no such 
+basis  for  harsh  treatment  of price  restrictions in  situations where  the  licensee itself 
+manufactures the product and does not act as a re-seller. 
+
+Third, although the U.S. IP Guidelines pay lip service to the 1926 General Electric 
+ruling that price setting is legal in a licence from the patent holder to a single licensee, 
+their  implication  is  that  they  do  not  really  agree  with  the  General  Electric  rule  and 
+mention it only because it has never been expressly overruled. In Japan and the EU, the 
+IP  Guidelines do  not  indicate any  difference between  the  rules disfavouring licence 
+clauses governing the pricing of a single licensee as compared to clauses governing the 
+pricing of multiple licensees in  the  same  market.  Nevertheless, all  three jurisdictions 
+recognize that a licensor has a full right to grant an exclusive licence and to promise not 
+to compete with its licensee. 
+
+Where a licensor has legally created a technology monopoly licensee, it should be 
+a  matter of competition policy indifference whether  the prices of the product in  the 
+technology-monopolized  market  are  set  by  the  licensor  or  by  the  licensee.  Some 
+
+16  See  Antitrust  and  Intellectual  Property,  address  by  R.  Hewitt  Pate,  Acting  Assistant  Attorney  General, 
+
+Antitrust Division, January 2003. 
+
+500 
+
+THE JOURNAL OF WORLD  INTELLECTUAL  PROPERTY 
+
+developing countries, or nationalistic ones, may prefer that the local party set the price, 
+but there is no economic reason to predict that  a licensee with market power will set 
+lower prices than an offshore licensor. Thus, there is no consumer interest in prohibiting 
+licensee imposition of sale or re-sale  prices of a licensee which faces no competition. 
+
+CONCLUSION 
+
+Clearly, there is widespread international acceptance now of the twin notions that 
+IP rights should be respected and that licensing is useful and pro-competitive.  Further, 
+the  red  tape  of  notification  and  black-list/grey-list  observance  has  largely  been 
+eliminated globally. What remains is to think through a few more dubious doctrines and 
+to harmonize  and strengthen  prosecutorial  strategies regarding  serious cases of cartels 
+masquerading as licence or cross-licence agreements. 
+
+

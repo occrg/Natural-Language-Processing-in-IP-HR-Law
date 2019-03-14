@@ -1,0 +1,1332 @@
+Trade in Electronic Commerce Services under 
+
+the WTO 
+
+The Need  to Clearly Classify Electronic Transmissions as 
+
+Services and  Not  TartEf-Liable 
+
+Ernest0 HERNANDEZ-L~PEZ* 
+
+Should the World Trade Organization classifjr electronic transmissions as a service, 
+and thus tariff-free under the General Agreement on Trade in Services (GATS), or should 
+the WTO classifjr electronic transmissions as a good, and thus subject to tariffi under the 
+General Agreement on Tariffs and Trade (GATT)? 
+
+This  article  dlscusses  two  important  issues:  first, whether,  for  the  sake of  legal 
+certainty, the WTO should take the appropriate steps to definitively classifjr electronic 
+transmissions as a service and as not tariff-liable.’ Not tariff-liable means that a good is 
+not subject to customs duties. Electronic transmission refers to “digitahzed information 
+transmitted  by  electronic  means.”2  Because  they  imply  an  exchange  of  digital 
+information, electronic transmissions are a dynamic, highly technical, and evolving form 
+of cross-border  transactions.  Second, it  explores how,  if  electronic transmissions are 
+defined as a service, WTO Members will be able to benefit from eventual liberalization 
+in the service sector. 
+
+* J.D.  (The  George  Washington  University  Law  School);  M.A.  (Georgetown  University).  Served  as  an 
+International  Relations  Professor  at  the  Universidad  del  Rosario  and  as a  Political Science  Professor  of  the 
+Universidad Javeriana, both in Santaf2 de Bogoti, Colombia. 
+
+Thanks are due to Professor John Spanogle for his comments, patience, and suggestions regarding this article, 
+and “Skip” Jones and the staff of the Office of Multilateral Main of the U S .  Department of Commerce, as well 
+as  Professors  Raj  Bhala  and  Stanimar Alexandrov  for  their  guidance  in  teaching  him  about  the  Wto.  Any 
+perspectives presented  in  this  article solely  reflect the  opinions  of the  author.  Any  comments  may  be sent to: 
+ccernestoh@gwu.edun. 
+
+“Tariff-liable’’ means that a good is subject to tariff duties. Accordingly, a government may charge a tariff on 
+a good, if it is tariff-liable.  Tariffs are:  “A schedule or system of duties imposed by a government  on imported or 
+exported  goods. In the United States, tariffs are imposed on imported goods only.”: see Black’s Law Dictionary, 
+West Publishing Co., St. Paul, Minnesota, 1999, at 1468. A certain kind of tariff is a customs duty. A customs duty 
+is  “a  duty levied on an imported or exported commodity, especially the federal tax levied on goods shpped into 
+the United States.”: see Blacks Law Dictionary, ibid., 523. For the sake ofbrevity this study uses tariffs and customs 
+duties synonymously, although there are other types of tariff duties, such as antidumping tariff duties, discriminatory 
+tariff duties, redatory tariff duties, etc. 
+*  See WTO Council for  Trade  in  Goods, Work  Programme  on Electronic  Commerce  (hereinafter  Work 
+Programme  I).  26 July  1999, G/C/W/158,  at  para.  2.2(iv).  This  article  treats  “electronic  transmission” as  a 
+transaction between  a customer and a supplier, and applies trade law to t h s  transaction to see how the transaction 
+is  classified  as a  “trade in goods”  or “trade  in  services”. It asks how the WTO will  treat  cross-border  trade  in 
+electronic transmission, the electronic transmission a customer receives and the digitalized information by electronic 
+means. This could be via the Internet, wire, or intranet. It is not necessary for the offer and assent ofthis transaction 
+to be done via electronic means, although typically it is; it is only necessary for the transmission of the information 
+(service of good) to be done electronically. Examples include downloading documents on the World Wide Web 
+in pdf, html, or word processor format, music in MP3 format, or images in quicktime format. 
+
+558 
+
+THE JOURNAL  OF WORLD  INTELLECTUAL PROPERTY 
+
+Section I  of the article reports on the current state of confusion and indecision in 
+the WTO surrounding the issue of whether all electronic transmissions are services and 
+whether  electronic  transmissions  are  customs-duty-free?  Section  II  presents  the 
+various  perspectives  in  the  electronic  transmissions  debate.  This  debate  refers  to 
+whether  electronic  transmissions are a good or a service. There is  a discussion of the 
+arguments for classification as a good and for classification as a service, justifications for 
+applying  customs  duties and  reasons to not apply customs duties,  and  contemporary 
+examples  of  U.S.  law  which  define  “goods”  and  determine  the  tax  liability  of 
+e-commerce.  Section III  examines how electronic  transmissions fall within  the  GATS 
+legal framework.  Initially, hypothetical  examples  are given  to present  what potential 
+scenarios may  develop  from  the  legal  issues raised  in  this  article.  Next,  there  is  an 
+analysis of the  GATS four-mode  legal framework,  requirements  for specific Member 
+commitments,  and  the on-going  services-trade  negotiations.  Section  IV presents  the 
+conclusions. 
+
+Electronic transmission can be seen as a good or as a service. From one perspective, 
+a number  of electronic transmissions  have  qualities similar, if not identical,  to  goods. 
+Electronic  transmissions  such  as  downloadable  music,  books,  movies,  newspapers, 
+documents  and  computer  programs  share  many  qualities  with  physical  goods.  The 
+consumer does not receive  a dfferent product.  Alternatively,  electronic  transmissions 
+can  be  seen  as  a  service.  The  customer  purchases  or  uses  the  service  of attaining 
+electronic information.4  Considering  these  varying positions,  this article refers to this 
+issue as the “electronic transmission debate”. 
+
+Because electronic  transmissions are a  dynamic and  evolving type  of transaction, 
+the WTO should classify them as a service. With this classification, the WTO’S complex 
+legal framework for services can adapt to the evolving technological nature of electronic 
+transmissions.  If  electronic  transmissions  are  not  defined  as  a  service,  Members  will 
+remain  debating  the  characterization  of  cross-border  electronic  transmissions.  This 
+debate  will  delay  and  stall  any  substantive  liberalization  for  trade  in  electronic 
+transmissions services. 
+
+3  The WTO does  not  define  goods;  instead  it  relies on Members  to  apply tariffs  to  goods  in  their  Tariff 
+Schedule. The GATS Agreement does not define “services”; instead it defines “trade in services”; see Section IILA, 
+below. 
+
+4  The typical transaction could be either: (1) a licence which permits the customer to make and use a copy of 
+the computer program; or (2) purchasing the service of using the computer program which is  online.  For  either 
+one of these contracts, the issue of whether there is a service or good applies. The reasoning is  that the lack of a 
+customs ducy being applied would motivate a government to make the determination of whether it is a good or a 
+service. A more sophisticated analysis would stress the issue of the intellectual property aspect of the transaction. 
+Computer programs, literature, images and music benefit tiom such intellectual property protection as copyrights, 
+trademarks and patents. It could be argued that the transaction is not a transfer of goods because the customer only 
+attains a right to use the intellectual property. Without any tangible exchange, the transfer ofthese rights is a service. 
+Nonctheless, the end result of the transaction-a  book, music, or text-motivates 
+governments to make the central 
+enquiry of this article. 
+
+E-COMM  TRADE UNDER THE WTO 
+
+5 59 
+
+I.  THE CURIlENT STATE OF ELECTRONIC TRANSMISSIONS 
+
+IN THE WTO: A LACK OF 
+
+CLARITY 
+
+Currently, the WTO has failed to extend a moratorium on applying customs duties 
+to electronic transmis~ions.~ The WTO agreed to a temporary moratorium on applying 
+customs duties to electronic transmissions in 1998.(j This issue was to be decided at the 
+WTO’S Third Ministerial Meeting in  Seattle in  the f d  of  3999.7 With  the  failure to 
+launch a new negotiating round, the Ministerial was unable to discuss the issue.* Since 
+then,  WTO  Members  have  been  unable  to  extend  or  to  make  permanent  the 
+moratorium on applying customs duties to electronic  transmission^.^ At present, WTO 
+Members have no legal obligation to apply or to not apply customs duties to electronic 
+transmissions.10  However, with the  current business  enthusiasm for e-commerce,  the 
+increasing importance of electronic transmissions and the complex nature of the GATS 
+Agreement,  the  WTO  should  eliminate  any  uncertainties  and  declare  electronic 
+transmissions a service, and therefore customs-duty-free. 
+
+The WTO is  currently  analysing how  e-commerce  fits  within  the  various legal 
+benefits  and  obligations presented by  a variety of WTO Agreements. A  part  of  this 
+e-commerce  enquiry is the electronic transmission debate. At present, Members are not 
+obligated to apply or to not apply customs duties to electronic transmission transactions. 
+Following  the  1999  Seattle  Ministerial,  there  has  not  been  any  extension  or 
+confirmation of the moratorium on applying customs duties to electronic transmissions. 
+Many Members have dfferent perspectives regarding the moratorium. Some Members 
+contend that the moratorium is still in effect, while others contend that it lapsed with 
+the failure of extension at Seattle.” Nonetheless, no Member has declared its intention 
+to  impose  customs  on  e-commerce  transactions.  Regardless  of there  being  no  clear 
+determination by the WTO, there is still the possibility for a Member to apply customs 
+duties to electronic transmissions. 
+
+1998. 
+
+5  See Electronic Commerce, BNA Int’l Trade Daily, 5 December 2000. 
+
+See WTO, Tbe  Geneva Ministerial  Declaration  on  Global  Electronic  Conrmerce, WT/MIN(98)/DEc/2,  25  May 
+
+7  See Infomation Technology, BNA Int’l Trade Reptr, 6 October 1999. 
+8  See  Electronic  Commerce,  supra,  footnote  5;  WTO Postpones  Seattle  Po’ost-Mortem, BNA Int’l  Trade  Daily, 
+
+20 December 1999; E-Commerce, BNA Int’l Trade Daily,  15 November 1999. 
+
+9  Id. 
+10  This argument stems &om the fact that: (1) there have not been specific c-commerce sector negotiations in 
+the GATS; and (2) the moratorium on customs duties application has not been renewed.  Alternatively, it may be 
+argued that the GATS imposed a prohibition  on tariffs for  all services. Thus, because electronic  transmission is a 
+service, Members enjoy the bencfit of having trade in this service free from tanffs. With this,  Members have  the 
+de fact0 obligation to not impose a customs duty. 
+
+‘ 1   See Electronic Commerce, BNA Int’l Trade Daily, 14 December 2000: explaining that the United States insists 
+that the moratorium is in effect, while developing countries contend that it has lapsed. Infrmation  Technology, BNA 
+Int’l Trade Daily, 6 October 1999: explaining that despite much support amongst Memben, the moratorium will 
+most  likely  not  be  permanent,  and  India,  Malaysia  and  Mexico  were  non-committal,  “arguing  that  further 
+clarification was needed on what transactions will be covered by the moratorium.” 
+
+560 
+
+THE JOURNAL OF WORLD  INTELLECTUAL PROPERTY 
+
+The  most  recent  development  has  been  the  establishment  of  a  formal  “Work 
+Programme on Electronic Commerce” by the WTO General Council on 17 July 2000.12 
+This was an important step, as e-commerce  issues had been stalled for nearly two years 
+following  the  Third  Ministerial.’3 Previous  WTO work  on  e-commerce  was  done 
+informally, and  not  necessarily under  the  supervision  of the  General  Council.14 The 
+current programme invites the four WTO subsirnary bodies-the  Council for Trade in 
+Goods, Council for Trade in Services, Council for Trade-Related  Aspects of Intellectual 
+Property  Rights  (TRIPS), and  the  Committee  on  Trade  and  Development-to 
+independently  examine  how  e-commerce  fits  within  their  focus  sectors.  The  four 
+bodies are to report at the General Council’s regular meetings.15 This Work Programme 
+builds on previous work done within the Council for Trade in Goods.16 Established in 
+July 1999, this latter view includes: 
+
+‘‘- 
+- 
+
+market access for and access to products related to electronic commerce; 
+valuation issues arising from the  application of the Agreement on Implementation of 
+Article VII of the GATT 1994; 
+
+-  issues arising from the application of the Agreement on Import Licensing Procedures; 
+-  customs duties and other duties and charges as defined under Article II  of GATT  1994; 
+-  standards in relation to electronic commerce; 
+-  rules of origin issues; and 
+-  classification issues.”17 
+Classification issues represents the most important concern for this article, as they 
+relate to the decision as to whether an electronic transmission is a good or a service, i.e. 
+the electronic transmission debate. 
+
+11.  THE ELECTRONIC TRANSMISSION DEBATE 
+
+Currently,  the  WTO has  decided  to  classify  cross-border  transactions  via  the 
+Internet  as  “trade  in  services”,  and  they  thus  fall  under  the  G A T S . ~ ~  The  GATS is 
+technology-neutral, 
+i.e.  it  does  not  “distinguish  between  technological  means  of 
+delivery.!’19  Personal  delivery,  delivery  by  boat,  delivery  by  airplane,  or  electronic 
+delivery of services all fall under the GATS. Accordingly, most WTO Members propose 
+that  “all  the  provisions  of  the  GATS apply  to  trade  in  services  through  electronic 
+means.”20 Regarding most e-commerce  services, there is little disagreement about their 
+legal status as a service. 
+
+l2  See WTO Council  for  Trade in  Goods, Chairman’sfoctuo/  progress  report  to  the  General  Council  on  the  Work 
+
+Programme  on Electronic Commerce,  24 November 2000, G/L/421,  at  1. 
+
+13  See Electronic  Commerce,  supra, footnote 5. 
+l4  See Chairman’sfactrcal progress report, supra, footnote 12. 
+15  Id. 
+16  Id. 
+l 7   Ibid., at 3. 
+l8  See  WTO,  Electronic Commerce:  Briefing  Note, available at:  ~chttp:www.wto.org/eng~~sh/tratop~e/ecorn~e/ 
+
+ecom_briehote-e.htmn,  viewed on 19 April 2001. 
+
+Iq  Id. 
+Id. 
+
+E-COMM  TRADE UNDER THE WTO 
+
+561 
+
+There is, however, disagreement about the “classification” of the specific form of 
+e-commerce  called  electronic  transmi~sion.~’ Electronic  transmission  refers  to 
+“digitahzed information transmitted by electronic means”.22 These transmissions can be 
+viewed as a good or as a service. In order to make sense of this issue, this study presents 
+below the arguments made by Members stressing: 
+
+- 
+
+- 
+
+- 
+
+- 
+
+classification  as a service @A); 
+classification  as a good (ILB); 
+applying customs duties (KC);  and 
+not applying customs duties (ILD). 
+
+The first two sub-sections address the substantive legal issue of classification, while 
+the latter two analyse the logistical problems of customs-duty application. As part of an 
+effort to draw external legal  influence, this section concludes with  an  examination of 
+how U.S. contract law and U.S. e-commerce regulations define goods and services and 
+how they apply tax liability to e-commerce transactions (II.E). 
+
+Electronic transmissions refer  to the possibility of a  consumer obtaining a book, 
+text, software, or music via  electronic means. Examples include downloading a book 
+from the  Internet,  a  computer program  from  a  host  server, or  an MP3 file  from an 
+electronic bulletin board. 
+
+From the  service perspective, Members argue that  the consumer is  only using a 
+service which, for instance, permits the consumer to make a copy of the book.23 From 
+this perspective, there is no actual physical product exchange, there is only an exchange 
+of digital information. That is, there is only the use  of service/information to make a 
+product. 
+
+From the goods perspective, Members contend that  the consumer electronically 
+attains a product identical to an actual physical good.24 This position emphasizes that the 
+electronic transmission facilitates the delivery of a physical good, such as a book.25 
+
+It  is  contended  here  that  this  debate  is  fuelled  by  economic  and  sovereignty 
+interests.  Governments  have  the  authority  to  apply  customs  duties.  A  multilateral 
+
+21  See Chairman’s Factual Progress Report, supra, footnote 12, at para. 3; Work  Programme on Electronic Commerce 
+Progress  Report  to  the  General  Council  (hereinafter  Work  Programme rI), 27 July  1999, S/L/74,  at  para.  24;  Work 
+Programme  I,  supra,  footnote 2,  at  S u m .  2;  §  2; Council for  Trade  in  Services,  Work  Programme on  Electronic 
+Commerce (hereinafter Work  Programme III)  S/C/8, 31 March 1999, at 5; General Council, Preparationsfor  the  1999 
+Mitiisierial Cortferenre Work  Progranime on Electronic Commerce,  Communicationfrom Indonesia and Singapore (hereinafter 
+Preparafions), 9 July  1999, WT/GC/W/247,  at  paras.  10-13; General Council, Interim  Review  ofProgress  in  the 
+Implementation ofthe  Work  Programme on Electronic Commerce, 14 April 1999, WT/GC/24,  at § 2; Council for Trade 
+in Goods, Work Programme on Ekctronic Commerce, Background Note by the Secretariaf (hereinafter Work Programme IY), 
+5 November 1998, G/C/W/128,  at para. 1.2. 
+
+22  See Work  Propamme  I ,  supra, footnote 2, at para. 2.2(iv). 
+23  Ibid., at para. 2.4. 
+24  Ibid., at para. 2.6. 
+25  Id. 
+
+562 
+
+THE JOURNAL  OF WORLD INTELLECTUAL PROPERTY 
+
+decision  to  not  apply  customs  duties  translates  into  a  sovereign  ceding  some  of  its 
+authority.  The  GATS prohibits  applying  tariffs  to  services,  while  under  the  GATT, 
+Members  may  subject goods to customs duties. Accordingly,  some Members feel that 
+electronic transmissions offer consumers a means of avoiding paying customs duties on 
+articles such as music recorhngs on CDs, or books. With this, governments lose much- 
+needed funds. Despite participation  in global free trade, many countries receive a major 
+part  of  their  government  funds  from  tariff.  Alternatively,  other  Members  regard 
+electronic  transmissions as an example of free trade. Here, there  is commercial activity 
+which  is  not subject to government intervention.  Similarly, many  nations are hesitant 
+to  cede their authority  to apply customs duties.  Nations  often regard  this authority as 
+their sovereign right. 
+
+It is further contended here that the debate is exacerbated by duelling multilateral 
+negotiation positions intrinsic to the WTO. The electronic transmission debate fits in as 
+a  part  of  a  variety  of trade  negotiations  which  each  Member  conducts.  The WTO 
+represents  a  series  of  multilateral  negotiations  in  many  economic  sectors,  such  as 
+agriculture and services, where consensus has not been reached.26 Some Members, such 
+as the United States and the European Union, seek the initiation of a new round of trade 
+negotiations.  Other  Members  prefer  to  not  proceed  with  further  such  negotiations. 
+Both camps, though, need other Members to build alliances and consensus in the WTO 
+Ministerials and in the  actual trade  negotiations.  With  so many  negotiation  positions, 
+the electronic transmission debate becomes a bargaining chip within larger issues, such 
+as the start of a new round, negotiating the Agreement on Agriculture  and revising the 
+Anti-Dumping  Agreement.  Accordingly,  this  multilateral  bargaining  exacerbates  the 
+indecision and ambiguity surrounding electronic transmissions. 
+
+A.  WITH NO  TANGIBLE GOODS  TRANSFERRED,  ELECTRONIC TRANSMISSIONS ARE  A 
+
+SERVICE 
+
+Some  WTO Members  present  four  main  arguments  for  classifjing  electronic 
+
+transmissions as services. These arguments stress that the GATS: 
+
+-  is technology-neutral; 
+- 
+
+information is exchanged not products; 
+electronic transmissions are customizable; and 
+digitalized information  does not require a physical or tangible form. 
+
+- 
+
+- 
+
+2h  Examples  of these  WTO Treaties  include areas  such  as:  textiles,  agriculture, sanitary and phytosanitary 
+measures, technical barriers  to  trade, subsidies and  countervailing measures,  antidumping,  safeguards, rules  of 
+origin,  customs  valuation, import licensing,  State  trading  enterprises,  information  technology products  (ITA), 
+trade  facilitation  services,  intellectual  property,  TRIPS, trade  policy  reviews,  government  procurement, 
+transparency  working, investment and  trade,  balance  of payments, competition  policy,  electronic commerce, 
+environment, development,  regionalism,  and  dispute  settlement.  See  WTO, WTO Trade  Topics,  available at: 
+((http://www.wto.org/english/tratop_e/tratop_e.htm)), viewed on 21 April 2001. 
+
+E-COMM  TRADE UNDER THE W T O  
+
+563 
+
+First, the strongest argument for classification of electronic transmissions as a service 
+is that the GATS is technology-neutral;27 it does not dstinguish between what form of 
+technology  is  used  to deliver  a service.28  Electronic  transmissions involve  a digital or 
+non-physical manifestation of exchange. The similarity of dgital information with actual 
+goods is irrelevant,  because information  does not have actual physical attributes like a 
+good; information only permits the customer to make something, such as a good. The 
+GATS encompasses all trade in services; the WTO Secretariat notes that “the reach of the 
+GATS rules extends to all forms of international trade in services.”29 With this mind-set, 
+electronic transmissions are no different from other services, and thus the GATS applies. 
+Second,  electronic  transmissions  transmit  digital information,  as  opposed  to  any 
+physical  product.30  Here,  there 
+is  a  distinction  between  the  data  (digitalized 
+information) and the product  (music CD, book, or magazine). Often Members refer to 
+the product as the carrier of the data.31 The carrier is tariff-liable, while the data is n0t.32 
+With an electronic transmission, there is an exchange of data or information. This data 
+is digitalized. Nothing physical or tangible is exchanged. Because information is not a 
+physical product, electronic transmission cannot be classified as a good. 
+
+Indonesia and Singapore explain this point: 
+“Books, music, and software are not themselves new commercial products. It is just that prior 
+to the advent of e-commerce, they were treated as goods because they had to be delivered 
+in  the form of a  carrier  media, be  it paper,  cassettes, etc., and  those  carrier  media  were 
+classified  as  goods.  Now  that  those  forms  of  tangible  carrier  mediums  are  no  longer 
+necessary  maybe  what  we  need  to  consider  is  whether the  software  and  music  would 
+continue to classify as goods, or it might be more appropriate for them to be classified as 
+services.”33 
+Third, the  ability to  adapt  or customize  electronic  transmissions precludes  their 
+classification  as  a  good.34 With  electronic  transmissions, there  is  not  a  single  good 
+exchanged. Instead, a service is provided to create a customized set of data. Digitalized 
+information permits a recipient  to alter the form, structure, size and applicability of the 
+final product.  For instance, a recipient may download only one section of a text, may 
+decide to not download all files included in an application, or may retrieve only sections 
+of a CD or sections of a song. This changeable nature of the transmission supports the 
+
+27  See Work  Programme rI,  supra, footnote 21, at para. 6; Work  Programme 111,  supra, footnote 21, at para. 4. The 
+GATT is  not technology-neutral,  but all goods to  which  the GATT applies must be  classified in the Harmonised 
+System (HS). Accordingly, only technologies in a Member’s Tariff Schedule are subject to tariffs. 
+
+28  Specifically, the GATS provides some general obligations which Members must afford to “trade in services” 
+&om other Memben.  For further  liberalization, Members must  reach specific commitments  on specific sectors. 
+Accordingly, one sector of “trade in services”  may benefit &om more liberalized treatment  than  another sector 
+because the specific commitments vary. In this respect, all service sectors do not benefit from the same liberalization. 
+For instance, there may be more liberahzed treatment  given to trade in financial services as compared to trade in 
+legal services, because the specific commitments relating to financial services are more liberal. 
+
+z9  See WTO Secretariat, An Introduction to the GATS, Trade in Services Division, October 1999, at para.  1.1. 
+3u  See Work  Programme I ,  supra, footnote 2, at para. 2.6. 
+3’  See Preparations, supra, footnote 21, at para.  11. 
+32  Id. 
+33  Id. 
+34  See Work  Programme I ,  rupra, footnote 2, at para. 2.8. 
+
+564 
+
+THE JOURNAL  OF WORLD INTELLECTUAL PROPERTY 
+
+service  argument,  because  the  transmission’s  end  result  can  be  changed.  With  this 
+customized  nature,  the  transaction  never  results  in  one  single type  of product.  The 
+Council for Trade in Goods elaborates: 
+
+“The  inherently  ‘customizable’  nature  of  many  digital  products  would  argue  against 
+classifylng  them  as  traditional goods.  The number  of  new  categories of  products made 
+possible by digitalization was limitless.”35 
+Fourth,  the intangible or non-permanent  nature  of &gitalized information suggests 
+that it is not a good.36 With this changing nature, it becomes difficult to classiG an electronic 
+transmission as  one lund of good. Digidzed information, such as software, text or mgital 
+music, is not fixed or tangible. Digital information exists as ideas, yet it is not necessary for 
+them to be tangible for them to have any value. This non-fixed  or non-permanent  nature 
+suggests that they resemble a service. This is because it is in the information that the value 
+lies. Digitalized information may only resemble a good ifit is stored in a physical form, such 
+as a dlskette or paper copy. The Council for Trade in Goods explains: 
+
+“AU digitalized products could be  traded over the Internet, and while some products, e.g. 
+software or music,  could be  stored on a carrier media  after being received electronically 
+(thus approximating a good), a carrier media was, in many cases, unnecessary.”37 
+
+B.  WITH A  RESULT  THAT  IS IDENTICAL TO A  GOOD,  AN ELECTRONIC TRANSMISSION 
+
+IS  A GOOD 
+
+Some Members argue that electronic transmissions should be classified as  goods.38 
+The central argument  for such  classification is  that  the end  result of a transmission is 
+identical to a physical g00d.39  Here, observers note in some instances that transmission 
+of digitalized information  provides  recipients  with  something  which  is  not  different 
+from  a  tangible  version  of the  inf~rrnation.~~ This  similarity suggests that  goods  are 
+exchanged via electronic transmissions. The Council for Trade in Goods reports: 
+
+“Examples given in this context related to music downloaded from the Internet in the form 
+of digitalized data  v e m s  a physical  CD purchased in a  shop. In  the  circumstances where 
+software downloaded from the Internet was a perfect substitute for the software on a disk 
+or CD ...”41 
+
+35  See  ibid., at  para. 2.8.  This argument rests  on the reasoning  that  the mutabte  nature of electronic  data 
+permits an  endless variety of end-products.  This makes it impossible to classify an electronic  transmission as  one 
+product.  This argument is  weakened  however, by  current  goods which  are  “customizable”.  Products  such  as 
+jewellery, cars, clothes, shoes, and many others come in many shapes and sizes. Yet they are able to be classified as 
+a good. 
+
+36  The key  element here is that  data is intangible.  It  cannot be touched or carried away. It does not have a 
+physical composition. Some goods may not be permanent, but they are tangible. For instance, agricultural products, 
+if left alone, will decay and cease to exist eventually. They are non-permanent. Initially, and even in decomposition, 
+these goods are tangible. They have a physical element. 
+
+37  See Work  f i o p m m e  I ,  supra, footnote 2, at para. 2.8. 
+38  Ibid., at para. 2.6. 
+39  Id. 
+40  Id. 
+41  Id. 
+
+E-COMM  TRADE UNDER THE WTO 
+
+565 
+
+Another  argument  stresses  that  mass  electronic  dstribution  of  data  should  be 
+classified  as  a  good.42  This  is  because  mass  dstribution  lessens  the  individual  or 
+specialized nature of services. With mass distribution, a host is consistently supplying data 
+as if it were a good. The consistent and dedicated nature of the distribution suggests there 
+is an economic value to the data, which is transacted as if it were commerce in goods. 
+
+Furthermore,  some Members  note  that  there  should  be  classification  as  a  good 
+when  there  is  a  physical  counterpart  to  the  result  of electronic  transmission.43 This 
+perspective attempts to dstinguish digtal transmissions of data and digital transmissions 
+of products  which  exist in  tangible  form.  When  there  is  a tangible  counterpart,  the 
+transmission should be classified as a good and thus tariff-liable.44 
+
+There are WTO benefits to characterizing electronic transmissions as goods and thus 
+subject to the GATT. At  an initial glance,  the  GATT appears less  favourable because  it 
+permits  a  Member  to  impose  tariff-liability  on  most  goods.  Interestingly,  the  GATT 
+places the general  obligations  of national  treatment  and  most-favoured-nation  (MFN) 
+treatment, does not require specific commitments, and does not contain any progressive 
+liberalization.  It thus  provides  a clearer sets of benefits  and  obligations for Members. 
+Goods traded between Member countries benefit from national and MFN treatment. 
+
+On  the  other  hand,  electronic  transmissions, like  most  forms  of  e-commerce, 
+represent  a rapidly evolving technology. With fibre optics, satellite-based transmissions, 
+mobile  communications  technology,  Internet  networks  and  the  constant  fusion 
+between  these technologyes, electronic transmission will  evolve at an amazingly rapid 
+pace. A classification of electronic transmissions as  a good would be short-sighted  as  it 
+may become quickly outdated in a world of evolving technologies.  With this constant 
+evolution, the GATS presents a better system of liberalization as its definition of services 
+is  less  static  than  a  product/goods  determination  and  thus  more  accommodating  to 
+technological  innovations. 
+c.  LIKE ANY OTHER GOOD, ELECTRONIC TRANSMISSIONS SHOULD BE  SUBJECT TO 
+
+CUSTOMS DUTIES 
+
+For  proponents  of  applying  customs  duties  to  electronic  transmissions,  the 
+argument rests on a classification of electronic transmissions as goods. Should this be the 
+case,  customs  duties  could  be  applied.45  Goods  are  subject  to  Tariff  Schedules,  as 
+submitted  to  the  WTO by  its  Members.  Goods  obtained  electronically,  such  as 
+downloaded music or books, should be subject to customs duties just as tangible goods 
+
+42  Ibid., at para. 2.7. 
+43  Ibid., at para. 10. 
+44  Ibid., at para. 2.3. 
+45  While the WTO and the GATT have the objective of reducing trade barriers, tarif5 remain a fiaure in the 
+trade regime of many nations. Many States are hesitant to completely liberalize their goods markets and eliminate 
+all tarif5 for many goods. With this in mind, the GATT trade negotiation  rounds aimed to reduce ta&  rates for 
+many goods. 
+
+566 
+
+THE JOURNAL OF WORLD  INTELLECTUAL PROPERTY 
+
+are. The GATT negotiations represent extensive multilateral obligations on tariff rates for 
+various goods. Permitting  a class of goods, such as electronically transmitted  goods, to 
+escape  customs  duties  disrupts  free  trade.46  The WTO represents  an  organized  and 
+planned  effort  to  liberalize  trade  between  nations.  With  a  class  of  goods  escaping 
+negotiated  tariff levels, Members  are having their benefits violated.  Tariff levels were 
+negotiated;  each  tariff level  in  the  GATT represents  a  multilateral  benefit.  Members 
+benefit  &om a certain  rate  negotiated  for goods such as  TVs, books  or video  cassette 
+movies.  These  tariff  levels represent  a  multilateral  effort  to  achieve  free  trade.  For 
+instance, Members negotiated a certain tariff level for books and CDs but these tariffs 
+are not collected when there is an electronic transmission of these products because the 
+transmission permits a customer to avoid customs declaration at a port. 
+
+D.  BECAUSE THEY ARE A SERVICE, AND DETERMINATION  OF WHEN THERE IS  ACTUAL 
+“IMPORTATION” REMAINS  UNCLEAR, ELECTRONIC TRANSMISSIONS SHOULD NOT 
+BE  SUBJECT TO CUSTOMS DUTIES 
+
+It is contended by some Members that electronic transmissions should not be subject 
+to  customs  duties.47  Arguments  against  applying  customs  duties  rest  on  two  ideas: 
+electronic transmissions  are  a  service, which  is  not  subject to  customs duties; and  it  is 
+difficult to logistically apply customs duties to an electronically delivered product.48 The 
+GATS does not include any mention or possibhty of applying customs duties,+’ and to apply 
+tariffi to a service would  go against the benefits secured by  the  negotiated  Agreement. 
+Accordingly, to apply tarif3 to trade in services is a violation of a Member’s GATS benefits. 
+Electronic transfer presents many problems for applying customs duties, First, it is 
+difficult  to  actually  determine  if  an  importation  takes  place.50  With  an  electronic 
+transmission, there is no tangible object which crosses a physical border; with this lack, 
+the  question  arises  of  when  and  if  an  importation  can  be  determined.  Without 
+determination of when  an importation  occurs, it is difficult to establish when  customs 
+duties should be applied.51 The Council for Trade in Goods reports: 
+
+“. . . where customs duties were applied to goods in the delegation’s country, a cross-border 
+
+46  A central tenet  of the WTO is that it represents a multilateral set of obligations which remove barriers  to 
+trade. This is  accomplished by multilateral negotiations which set obligations and benefits. In these negotiations, 
+Memben sort out and weigh each other’s economic comparative advantage in goods production to determine how 
+goods can best be traded fieely. WTO Members benefit from this treaty-created system of free trade. If a Member 
+does not fulfil its obligations, other Members have their benefits violated. This takes away an element of the free 
+trade system which  was negotiated. In this light, the system of free trade is  disrupted when a Member violates it5 
+WTO obligations. 
+
+47  See Work  hograntme  11,  supra, footnote 21, at para. 22. 
+48  Id. The Alliance for Global Business presents a series of reasons why e-commerce  should remain customs- 
+duty-free: see Alliance for Global Business (AGB), Fact Sheet on the Duty-Free  Treatment ofElectronic Transmissions and 
+Its  Importance  to  Global  Electronic  Commerce  and  Expanded  International  Trade,  October  1999,  available  at  the 
+Organization  of  American  States  Foreign  Trade  Information  System:  xhttp//www.sice.oas.org/e-comm/ 
+studies.aspr, viewed on 19 June 2001. 
+
+49  Id. 
+5”  See Work h o p m m e  I ,  supra,  footnote 2, at para. 2.9. 
+5’  Ibid.,  at para. 4.3. 
+
+E-COMM  TRADE UNDER  THE W T O  
+
+567 
+
+trade transaction was always involved. With electronic commerce, especially in the Internet 
+realm, it was unclear whether there was a ‘thing’ that actually moved across a border, which 
+would lead to the  conclusion that  ‘importation’ in the sense of Article II  of the GATT had 
+not taken place. GATT Article  II  referred to customs duties applied in connection with an 
+importation. If no importation was involved, electronic transmission would be taken out of 
+the realm of applying customs duties.”52 
+Second,  the  electronic  nature  of  these  transfers  escapes  classification under  the 
+Harmonized System (HS) which WTO Members use to classify products and determine 
+tariff  levels.  The  HS  does  not  currently  include  any  electronic  transmissions.53 
+Classification of a product in the HS relies on the “distinguishing physical characteristics 
+of the product.”54 For instance, a CD or a book is  classified by the HS accorlng to its 
+physical  shape,  size and dimensions.  Electronic transmissions represent  the  transfer of 
+digital information, lacking a tangible quality. Electronic transmissions, however, do not 
+have any physical characteristics.55 Digitalized information is only distinguishable by its 
+content; it is  not recognizable,  until  a  recipient receives  it.  During transmission,  this 
+information  remains  as  a  series  of  computer-generated  “0s”  and  “1s”.  Having  no 
+physical characteristics, digital information and electronic transmissions escape the HS 
+classification scheme. The Council for Trade in Goods expands: 
+
+“While the HS distinguishes between empty carrier media and carrier media with content, 
+it does not have a classification for the content itself. This can be illustrated by the case of 
+computer software traded  over  the  Internet. The  HS  does  not  have  a  classification for 
+software because software is  not a physical entity. Rather, software is  classified under the 
+type of carrier media is contained 0n.”56 
+Lacking  a  way  to  properly  place  electronic  transmissions  in  the  HS,  Members 
+
+suggest that customs duties should not be applied to electronic transmissions. 
+
+E.  CLASSIFICATION  AND  TAX-LIABILITY  EXAMPLES IN U.S.  LAW 
+
+U.S.  law  has  begun  to  examine  many  of  the  issues  that  the  WTO faces  in 
+determining  whether  electronic  transmissions  are  goods  or  services  and  whether 
+e-commerce  should  be  taxed.  Should  the  WTO apply  the  U.S.  legal  perspective, 
+electronic transmissions will not be classified as a good. They lack the “tangible” quality 
+necessary  to  qualify  as  a  “good”.  Similarly, they  exchange  “computer information”, 
+which  is  excluded  from  the  definition  of  “goods”.  Regarlng  the  taxing  of 
+
+53  Ibid., at para. 2.9. 
+53  Ibid.,  at  para. 4.4.  Alternatively, these classifications could be  added.  However, this goes contrary to the 
+
+tendency of classifying electronic transmissions as a service. 
+
+54  Ibid., at paras. 5.4 and 5.5. 
+55  Alternatively, electronic transmissions could be classified according to whichever physical characteristics or 
+carrier  the content  typically  has.  With this, electronic  transmissions would fit  into the HS  and the  GATT. This 
+classification would  go  against  the  trend  to  keep  e-commerce  duty  free.  Also,  classification  of  an  electronic 
+transmission into the HS would not reflect technological advances. For instance, with the music available online 
+example,  HS  classification  would  place  this transmission in  the  CD or  magnetic  recording section  of the  HS. 
+However, this does not reflect the actual transaction, because the physical elements of a magnetic recording or a 
+CD are not evident when music is downloaded. 
+
+56  See Work  J’rogramme  IV, supra, footnote 21, para. 2.2. 
+
+568 
+
+THE JOURNAL OF WORLD  INTELLECTUAL  PROPERTY 
+
+e-commerce,  the  United States has been  hesitant  to  tax any  transaction  done by  this 
+means.  The U S .  government  takes this  position  because  taxation  would  hinder  the 
+medium’s development,  and  tax  liability would raise the  complex  issue  of which  tax 
+regime should apply. 
+
+1.  The U.S. Dejnition of  “Goods”: Stressing  the Tangible and  Movable Qualities 
+
+Specifically, the most prevalent U.S. definition of goods is that used in the Uniform 
+Commercial  Code  ( U C C ) . ~ ~  This  definition  stresses  the  “tangble”  and  “movable” 
+qualities of goods.58 As  did the draft for the model law for computer information, the 
+Uniform  Computer  Information  Transactions  Act  (1999)  (UCITA) incorporates  the 
+UCC’S definition  of “goods”.~9 Most States have not adopted  or implemented  UCITA. 
+It does, though, provide an example of how U.S. policy-makers  may define goods and 
+services in the e-commerce  sector. 
+
+To qualify as a “good” under the UCC there must be a tangible or physical quality 
+present  at  the  time  of  the  transaction.60  According  to  these  criteria,  electronic 
+transmissions  escape  the  definition  of being  goods.  There  is  no tangible  or movable 
+is  transmitted.  Consequently,  the  U.S. 
+object  evident  when  dqptal  information 
+contract-law  perspective would fail to qualify electronic transmissions as a good. 
+
+The UCC definition stresses the tangible and movable quahties of goods: 
+“ ‘Goods’ means all things (including specially manufactured goods) which are movable at the 
+time afident$cation  to  a contractfor  sale  other  than money in which the price is  to be  paid, 
+investment  securities  (Article 8) and  things in  action.  ‘Goods’ also  includes the  unborn 
+young of animals, growing crops, and other identified things attached to realty as described 
+in the section on goods to be severed from realty.” (emphasis added).61 
+The Official Comment adds: 
+“The definition of goods is based on the concept of movability.”6’ 
+Black’s Law Dictionary makes reference  to this definition of goods, and it adds: 
+“The term does not include . . . general  intangible^."^^ 
+
+~ 
+
+Selected Commercial Statues, 48th edition, 2000; also “goods”, Black‘s Law Dictionary, supra, footnote 1, at 701. 
+
+57  See Uniform Commercial Code [Code, 1999 Official], Article 2-105(1); Definitions: Goods, in West Group, 
+58  See Ucc, id. 
+59  See  S  102(33)  “Goods”,  National  Conference  on  Commissioners  on  Uniform  State  Laws,  Draft 
+Amendments to Uniform  Computer Information Transactions Act, 28 July to 4 August 2000 (hereinafter UCITA) 
+in  Doctrnieril  Supplenient  International  E-Commerce  Seminar,  Professor  Spanogle,  The George  Washington University 
+Law School, Spring 2001, at pp. 281-309.  The most recent drafts of the UCITA can be viewed on the Web page of 
+the  National  Conference  of  Commissioners  on  Uniform  State  Laws.  See  The  National  Conference  of 
+Commissioners on Uniform State Laws, Drafts and Model Acts Official Site, available at: (<http://www.nccusI.orgr 
+and (~http://www.law.upenn.edu/bll/ulc/ulc.htm~~, viewed on 19 June 2001. 
+
+60  Ucc Article 2-105(1). 
+61  Id. 
+
+See West Group, supra, footnote 57, at 49. 
+
+63  Supra, footnote 1, at 701, referring to U c c  § 2-101-(a)(24). 
+
+E-COMM  TRADE UNDER  THE WTO 
+
+5 69 
+
+When interpreting Article 2-105(1),  U.S. courts stress the tangible element of the 
+transaction in question to determine if the software transaction implies a good or a lease. 
+In Communications Groups Inc. v.  Warner Communications Inc., a New York County Court 
+held  that  a software transaction  was  a  good because the  transfer from seller to buyer 
+involved tangibles.64 Here, the contract stipulated “equipment” in the work schedule.65 
+This inclusion  of tangbles-equipment-made 
+the transaction a sale of goods.66 If the 
+transaction was limited to information  only, without  tangibles such as  equipment, the 
+contract would have been a service. 
+
+In Archifectronics Inc.  v.  Control Systems  lnc.,  the Southern  District  Court of New 
+York  held  that  a  software  transaction  was  not  a good.67  Here, the  Court noted  that 
+software  is  considered  a  good,  but  that  copyrights,  patents  and  trademarks  are 
+considered “intangibles” and thus not goods.68 In this case, the Court reasoned that the 
+transaction  concerned the right to use software and the right to market the pr0duct.6~ 
+The Court held  that  because  this  contract  implied  a transfer of intellectual  property 
+rights, the transaction was a lease and thus not a sale of goods.70 
+
+Accordingly,  following  US.  legal  analysis,  the  key  distinction  is  whether  the 
+transmission involves the movement of tangibles or intangibles. The transfer of tangibles 
+indicates  that  the  transmission involves  goods.  The transfer of intangibles  makes  the 
+transmission a service. Specifically, if the electronic transmission is limited to transfer of 
+digital information, U.S. law would find it a service. Examples of such transfer would 
+be  an  MP3  music  file,  a  text  or a  magazine  article  downloaded  fiom  the  Internet. 
+However,  if the  electronic  transmission includes  the transfer of anything  physical  or 
+tangible,  then  the  transmission  will  imply  a  good.  Examples  of  this  would  include 
+downloading a program or text electronically which includes paper literature, an article 
+of clothing,  or  a  plastic  identification  card.  In  these  cases,  the  key  element  of  the 
+transmission was digital information, but the inclusion of paper literature, an article of 
+clothing  or  a  plastic  identification  card  reify  that  tangibles  are  included.  These  last 
+examples are extreme, but they do illustrate that to securely avoid a transmission being 
+identified as a goods transfer nothing tangible should be transferred. 
+
+The UCITA bases  its  definition  of goods  on  the  UCC criteria  of tangibility  and 
+
+movability, and tailors the UCC definition by adding: 
+
+“ ‘Goods’ means all things that are movable at the time relevant to the computer information 
+transaction  . . . The term  does not include computer information,  money, the subject of foreign 
+exchange  transactions,  documents,  letters  of  credit,  letter-of-credit  rights,  instruments, 
+
+64  See Communications Groups Inc.  v.  Warner Communications Inc., 527 N.Y.S. 2d, 341, 343 
+65  Ibid., at 344. 
+66  Id. 
+
+See Architectronics h c .  v. Control Systems Inc., 935 F. Supp. 425, at 432. 
+
+68  Id. 
+69  Id. 
+70  Id. 
+
+570 
+
+THE JOURNAL O F  WORLD INTELLECTUAL PROPERTY 
+
+investment  property,  accounts,  chattel  paper,  deposit  accounts,  or  general  intangibles.” 
+(emphasis added).71 
+
+It goes on to provide the following definition for computer information: 
+“. . . information in electronic form which is obtained from or through the use of a computer 
+or which is in a form capable of being processed by  a computer . . .’I72 
+The  UCITA provides  a  series  of  exclusions  which  are  important  to  electronic 
+transmissions. First, they stress that the UCITA applies to computer information and not 
+to goods. It states: 
+
+“This Act applies to computer information transactions . . . if a transaction includes computer 
+information and goods, this Act applies to the transactions involving computer information, 
+informational rights in it, and creation or modification of it.”73 
+By  stressing  computer 
+
+intangible 
+(information)  versus  tangible  distinction  evident  in  U.S.  contract  law.  Accordingly, 
+electronic transmissions under this definition are a service and not a good. 
+
+the  UCITA highlights 
+
+information, 
+
+the 
+
+Second, the  exclusions identify  many  transactions which  include  information  or 
+intangibles and which are not within the UCITA’S scope. There is  a fear that industries 
+which  use computer information may fall under new obligations and duties that are set 
+in the UCITA. In particular, a business may use computer services to facilitate its industry, 
+although  it  is  not  involved  in  computer  information  creation,  such  as  software 
+production.  From this viewpoint, computers are used to create financial services, music 
+recordings  and  motion  pictures.  These  industries  fear  that  the  UCITA will  place 
+contractual  obligations  on them.  Accordingly,  the  UCITA includes  specific exclusions 
+which nulli6 its application to these industries.74 Using this example, international legal 
+obligations  evident  in  the  WTO, EU,  or  other  treaties  could proceed  to  specifically 
+exclude computer-facilitated  transactions from e-commerce. 
+
+Electronic transmissions fail to meet the tangibility criterion as defined in the UCC 
+and the UCITA. First, there is no tangible or physical product evident when an electronic 
+transmission takes place; the recipient  uses a computer program  presented  by the host 
+only  to  attain  additional  hgital  information.  This  digital information  can  be used  to 
+reproduce music as on a CD, text as in a book or computer functions as in a computer 
+program. Nonetheless, there is never any movable or physical object present at the time 
+of the  transaction,  only  a transfer of digital information.  The UCITA also  sets out the 
+standard, “all things that are movable at the time relevant  to the computer information 
+transaction.”75 With no physical product  existent at the time of transmission, electronic 
+transmissions thus fail to meet the “goods” definition. 
+
+7’  Supra, footnote 59, at §  102(33). 
+72  Ibid., at §  102(10). 
+73  Ibid., at §  103(b)(l). 
+74  Ibid., at §  103(b)(2). 
+75  Ibid., at §  102(33). 
+
+E-COMM  TRADE UNDER THE WTO 
+
+57 1 
+
+Second, electronic transmissions also fail to meet other “goods” criteria, defined in 
+the UCC and UCITA; they fdl within  the  “general intangibles” exclusion of the UCC 
+and  the  “computer  information”  exclusion  in  the  uCITA.76 These  two  Sections 
+specifically  exclude  “general  intangibles”  and  “computer  information”  from  the 
+“goods”  definition.77  Electronic  transmissions  are  the  exchange  of  computer 
+information. This information may produce  music texts, or a computer program, but 
+it is not a good. 
+
+The significance of the information exchanged in an electronic transmission is that 
+a computer uses it. The information is of no value without using a computer to read it. 
+A  CD or MP3 player reads the information transmitted with a computer  to  produce 
+music. A computer’s central processing unit (CPU) reads &gital information and &splays 
+it  on  a  computer  monitor  as  text.  A  computer’s  attached  printer  reads  the  digital 
+information and produces a paper copy of the text, while a CPU reads lgital information 
+to run a computer program. In all three examples, a computer is necessary to read the 
+d@al  information. This data is computer information. Accordmgly, it is excluded from 
+the UCC and UCITA definitions of “goods”. 
+
+2.  U.S. Preservation of  Tax and Customs-Duty Neutrafityfor  E-Commerce 
+
+The U.S.  domestic treatment  of e-commerce  provides for  non-taxation  and  no 
+tariff  liability  for  international  electronic  transmissions.  There  is  a  temporary 
+moratorium on taxing e-commerce transactions, and there is a clear legal precedent that 
+electronic transmissions are not subject to customs duties. Indeed, the United States has 
+decided  to  not  impose  any  customs duties or  taxes  on  e-commerce  transactions.  In 
+1997, the Clinton Administration presented A Framework for  Global Electronic Commerce, 
+which  stressed  the  importance  of  tax  neutrality  for  e-commerce.78  The  Report 
+explained that subjecting e-commerce  to tax liability would impede the growth of the 
+medium.79  “Inconsistent tax regimes” would create confusion for both consumers and 
+businesses.80 This rationale led to the Internet Tax Freedom Act (ITFA)  which placed a 
+three-year moratorium on imposing any new taxes on “Internet access and multiple or 
+discriminatory taxes on electronic commerce”.81 The Act is: 
+
+“. . . based on a simple principle: Information should not be taxed. As we enter the digital age, 
+
+76 Id. 
+77 See supra, footnotes 61 and 64 and accompanying text. 
+78  See White House, A Frameworkfor  Global Electronic Commerce, available at: c(http://www.ecommerce.gov/ 
+fiamewrk.htm)) (hereinafter  Framework),  viewed on 20  April  2001; Jeffery P.  Cunard  and Jennifer B. Coplan, 
+Selected  Topics in E-commerce LAUJ, 86 PLI/NY 333, at 428. 
+
+7y  Specifically, the Report states: “In addition, the United States believes that no new taxes should be imposed 
+
+on Internet commerce.”: see Framework, ibid., at Issues §  1, “Customs and Taxation”. 
+
+80  See id.; also Cunard and Coplan, supra, footnote 78, at 428. 
+81  See Cunard and Coplan, id.; see also Internet Tax Freedom Act, P.L. 105-277,  at Office of Representative 
+Christopher Cox, Internet Tax Freedom Act Home Page, available at: cchttp://cox.house.gov/nettax/,,, viewed on 
+20 April 2001. 
+
+572 
+
+THE JOURNAL OF WORLD  INTELLECTUAL PROPERTY 
+
+the age of information, establishing this principle in law will have profound and long-lasting 
+consequences.”82 
+Sidarly, the  US.  Customs  Service  does  not  subject  electronic  transmissions to 
+customs duties.83 In presenting its “Importation Requirements”, the Customs Service states: 
+“Information and  materials  downloaded from  the  Internet are  not  subject  to  duty.  This 
+applies to any  goods or merchandise  that  are  electronically  transmitted  to  the purchaser, 
+such as CDs, books or posters.”84 
+When asked about what customs  duties are applicable  to software transmitted by 
+electronic  means,  the Customs Service  explains that  “software  entered via  electronic 
+transmissions”  is  exempted from the  “general  rule that  all  goods  provided for in the 
+HTSUS [Harmonized  Tariff  Schedule  of  the  United  States]  are  subject  to  duty. 
+Therefore, no duty is owed if software is entered via electronic transrnissions.”85 
+
+111.  T O  SECURE TRADE LIBERALIZATION, 
+
+INHERENT COMPLEXITIES AND 
+
+AMBIGUITIES IN THE GATS URGE A CLEAR DETERMINATION 
+TRANSMISSION 
+
+DEBATE 
+
+O F  THE ELECTRONIC 
+
+In order to understand  how WTO obligations affect electronic transmissions, this 
+
+Page, id. 
+
+**  “Plain English” Summary $The  Internet  Tax Freedom Act (P.L. 105-277)  at Internet Tax Freedom Act Home 
+*3  In  the past, the  U.S.  Customs  Service has  provided  confusing decisions regarding what  is  merchandise 
+(customs-duty liable) and whether software is customs-duty liable: see Jenna F. Karadbil and Kerith A.  Strano, Panel 
+VII: Taxes, Tan&,  and  Other Regulafory Barriers to Electronic Commerce, 17 Ariz. J. Int’l & Comp. L.  183, at  189-191. 
+The U.S. Customs Service had not taken a definitive stance that software does not qualify as  “merchandisc” and 
+thus is not subject to customs duties. In U.S. customs law, importers must file customs entry forms to pay  duties 
+for all “merchandise”. See also Karadbil and Strano (refemng to 19 USC 5 1484 (2001)). The term “merchandise” 
+is defined as “goods, wares, and chattels of every description, and includes merchandise the importation of which 
+is prohibited, and certain monetary instruments.”: see Karadbil and Strano (referring to 19 USC §  1401(c)). In the 
+past, it remained unclear if this definition included digitalized information.  O n  two separate occasions, the U.S. 
+Customs  Service  took  confusing  stands.  First,  it  held  that  software  purchased  overseas  on  the  Internet  was 
+merchandise and was an  “object of trade”. This occurred in Headquarters Ruling Letter 114459, of 17 September 
+1998: see Karadbil and Strano. Second, it held, in General Note 16 to the 1999 Harmonized Tariff Schedule of the 
+United  States,  that  “telecommunications  transmissions”  are  not  “goods  subject  to  the  Tariff  Schedule.”:  see 
+Karadbil and Strano. This illustrates that, when first confronted with the complexities of electronic transmissions, 
+the U.S. Customs Service took some time to clearly define if they were or were not subject to customs duties. 
+
+84  U.S. Customs Service, Internet  Transactions, available at: cchttp://www.customs.gov/impoex/inetrade.htm>), 
+
+viewed on 20 April 2001, at 7. Interestingly, in this description, the Customs Service notes it is illegal to download 
+copyrighted materials without authorization and to download child pornography. The Customs Service does apply 
+customs duties to products which are purchased over the Internet yet imported by  non-electronic  means. 
+
+85 See U.S.  Customs Service, Dept. of Treasury, Re: Computer S$tware  on Diskette atid o n  CD-ROM; Sojware 
+via Electronic Transmission, 1997, WL 336120,  17 April  1997, a letter from the Customs Service respondmg to an 
+inquiry from a British sofmare exporter about the customs duties for software imported on diskette, CD-ROM, 
+and via  electronic means. In this letter, the Customs Service places software imported on diskette in the HTSUS 
+classification sub-chapter 85.24.99.40, which is for “Records, tapes, and other recorded media for sound or other 
+similarly recorded  phenomena  . . . other.”  It places the software on CD-ROM in subheading 85.24.39.00 of the 
+HTSUS, which is for “Records, tapes, and other recorded media for sound or other similarly recorded phenomena 
+. . . discs for laser reading systems.” Accordingly, in  deciding how to apply  customs duties, the  Customs Service 
+determines where the  articles  fit within  the  U.S. Tariff Schedule. This determination  depends on  the physical 
+attributes of the  article. Here,  software had  three  different  treatments:  (1) no  classification  in  the  Schedule if 
+transmitted via  electronic  means;  (2)  classification  as  a diskette; and  (3) classification as  a  CD-ROM. The only 
+differences in these three classifications rest on the physical attributes. Accordingly, electronic transmissions escape 
+the tariff classification scheme of the Tariff Schedules. 
+
+E-COMM  TRADE UNDER  THE WTO 
+
+573 
+
+article  provides  two  hypothetical  examples.  One is  in  a  country with free  trade  and 
+national treatment in the electronic transmission services sector, while the other is in a 
+country without bee trade in the electronic transmissions services sector. 
+
+Example  1: 
+
+Ernesto, residmg in country Free Trade Land (FTL), downloads an MP3 file from 
+Internet Music Service Page Inc.  (IMs) which  is based in Foreign  Country (FC). 
+Ernesto  pays  for  the  service  and  receives  the  MP3 file.  FC  and  FTL are  both 
+Members  of  the  WTO. With  bilateral  negotiations  and  determination  in  their 
+commitment  Schedules, FC and FTL have agreed to extend national treatment  to 
+trade in electronic transmission services. 
+
+There are no customs duties included in Emesto’s price because the IMS is classified 
+as “trade in electronic transmission service”. As a service, this transaction falls under 
+GATS, which prohibits tariffs for service transactions. Purchasing the same music in 
+CD form or as an over-the-counter  MP3 file would include customs duties if the 
+CD or MP3 file was imported.  Accordingly, classification as a service permits this 
+download  to  benefit  from  customs-duty-free  treatment.  Also, IMS benefits  fi-om 
+national treatment  in FTL. Although  it is a foreign  company,  IMS enjoys all rights 
+that  a  service  provider  from  FTL would,  because  of  the  specific service  sector 
+commitments  between  FTL  and  FC.  Therefore,  specific  service  sector 
+commitments  provide  electronic  transmission  service  providers  easier  access  to 
+conduct business in WTO countries. 
+
+Example 2: 
+
+John, a resident of country Secure Our Borders (SOB), downloads an MP3 file from 
+Internet Music  Service Page  Inc.  (IMs)  which  is based in Foreign  Country (FC). 
+John pays for and receives the MP3 file. John pays customs duties on the download 
+to avoid a penalty from SOB’S Internet Download Monitor Board  (IDMB). FC and 
+SOB have no trade agreement on electronic transmissions; SOB is not a Member of 
+the WTO. SOB classifies electronic transmissions as goods when there is a transfer of 
+something similar to a physical product. 
+
+John  pays a higher  price  than  Ernesto because the MP3 file download  in SOB is 
+classified as a good. The MP3 has a physical counterpart, i.e. a CD. As a good, CDs 
+are tariff-liable. With customs duties added to the MP3’s price, this increases John’s 
+and IMS’ costs. Because SOB must determine  when there is an actual importation, 
+SOB sets up the IDMB. SOB has to pay to create and maintain this new admmistrative 
+agency.  SOB charges  a  value-added  tax  to  John  to  pay  for  the  creation  and 
+maintenance  of  the  IDMB. Also,  IMS is  subject  to  foreigner-specific  regulations 
+
+574 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPERTY 
+
+concerning  setting  up  a  foreign  office,  electricity,  importing  hardware,  and 
+Internet-provider 
+treatment  and 
+liberalization in the  trade  in  electronic transmission services, John’s  transaction is 
+more expensive than Ernesto’s. Yet both received the same result-a  music file. 
+
+licences.  Accordmgly,  without 
+
+tariff-fiee 
+
+With four modes  of supply of services, required  Member-specific  commitments 
+and  continuing  trade  negotiations  on market  access to  services, the  GATS presents  a 
+complex and unclear set ofWT0 obligations for trade in services. Any obligations which 
+result  from  a  resolution  of  the  electronic  transmission  debate  wlll  be  a  part  of this 
+complex  network  of GATS commitments.  Accordmgly,  this  article  contends  that  the 
+WTO should begin to resolve the electronic transmission debate in order to then decide 
+appropriately  how  liberalization  commitments  for  trade  in  electronic  transmission 
+services fill within the GATS framework. Without these definitions and determinations, 
+the  WTO will  continue  in  a  state of uncertainty  and  inability  to secure  e-commerce 
+GATS benefits for its Members. By clearly defining whether electronic transmissions are 
+a service or a good, customs-duty  free or tariff-liable,  the WTO may procced to define 
+what trade liberalization obligations exist. With this objective, this section describes the 
+GATS’ unique legal commitment framework. 
+
+A.  “MODES OF SUPPLY”  AND A  LACK  OF DEFINITIONS 
+
+Article I  defines the scope and coverage of the GATS.  The Article states that GATS 
+applies to “measures by  [WTO]  Members affecting trade in services.”*6 This includes all 
+services, except those “supplied in the exercise of governmental authority”.87 The GATS 
+does not, however, provide a clear and precise definition of “what is a service [or] what 
+is  not  a  service.”** Observers  have  explained  that  Members  were  hesitant  to  define 
+“services” because “they concluded no practical purpose can be served by an attempt to 
+define  service^'."*^ Aly K. Abu-Akeel  provides this explanation: 
+
+“Given  the  enormity  of  tradable  services and  the  continuous  change  in  the  description, 
+content, and characteristics of any given service due to constant technological advances, it 
+is sufficient for purposes of the GATS to define only what is meant by ‘trade in  service^'."^^ 
+The  dynamic  and  changing  nature  of  electronic  transmissions  illustrate  why 
+
+negotiators were so hesitant to agree to a definition of services. 
+
+8h  See WTO, General Agreement on Trade in Services (GATS), Article I;  Scope and Definition, available at: 
+((http://www.wto.org/english/tratop-e/serv-e/l-scdef~e.htm)),  viewed  on  20 April  2001.  Emad  Tinawi  and 
+Judson 0. Berkey argue that electronic  services do not fit in well within the  GATS four part  “trade in services” 
+definition:  see  Emad  Tinawi  and  Judson  0. Berkey,  E-Services  and  the  WTo--The  Adequacy  of  the  GATS 
+Classijcation  Franiework,  available  at  the  Organization  of  American  States  Foreign  Trade  Information System: 
+(<http://www.sice.oas.org/e-comm/studies.aspn, viewed on 19 June 200 1. 
+
+J. Int’l L. & Econ., at  189. 
+
+87  Ibid., Article 1(3)(b). 
+**  Id.; see also Aly K. Abu-Akeel, Definition of  Trade in Setvices under the GATS: Legal Implications, 32 Geo. Wash. 
+89  Ibid., at  190. 
+90 Ibid., at  190-191. 
+
+E-COMM  TRADE UNDER THE WTO 
+
+575 
+
+In  setting  out  four  modes  of  supply,  Article  I  defines  “trade  in  services”. 
+
+Specifically, Article 112) states: 
+
+“For the purposes of this Agreement, trade in services is defined as the supply of a service: 
+(a)  &om the temtory of one Member into the territory of any other Member; 
+(b)  in the territory of one Member to the service consumer of any other Member; 
+(c)  by  a service supplier of one Member, through commercial presence in the territory of 
+
+any other Member; 
+
+(d)  by a service supplier of one Member, through presence of natural persons of a Member 
+
+in the temtory of any other Member.” 
+
+Put generally, these modes of supply refer to “cross-border supply”, “consumption 
+abroad”,  “commercial  presence”,  and  “presence  of  natural  persons”.  Article  1(2) 
+describes  where  the  “trade”  occurs  and  assumes  “services”  will  be  understood  by 
+observers and Members.  With this  definitional  framework,  the  GATS identifies what 
+trade in services accomplishes: it supplies across borders, provides a commercial presence 
+abroad, and  establishes a physical  presence  abroad. The GATS does not define what  a 
+service is. It does point to four areas where trade in services occurs. 
+
+This lack of definition fuels the current electronic transmission debate. Electronic 
+transmissions represent  a “cross-border  supply” and “consumption  abroad”.  With this 
+in  mind,  they  can  be  classified  as  “trade  in  services”.  Similarly,  some  electronic 
+transmissions result in a product  which  is  no dfferent to a  good.  Music downloaded 
+from the Internet is not different to a physically transported CD. A manuscript attached 
+to  an  e-mail  and  sent  across borders  is  no  different  to  a book  which  faces  customs 
+inspection  and  tariff charges. With a more  precise  definition  of “services”, Members 
+could decipher whether  electronic transmissions are a good  or a  service. Currently, a 
+lack  of  a  clear  definition  fuels  the  debate  and  permits  Members  to  avoid  any 
+commitments and to delay liberalization negotiations. 
+
+Despite  this  definitional  dilemma,  the  GATS sets  a  series  of obligations  which 
+Members  must  provide  to  “trade  in services” from other  Members.  Article  11’s MFN 
+treatment  obligation  is  the most important.  Also it is important to note that the GATS 
+does  not  include  a  national  treatment  ~bligation.~’ National  treatment  is  a  general 
+obligation  evident  in  the  GATT and  many  other  WTO Agreements92 and  is  used  in 
+international  treaties to provide foreigners the same benefits afforded to nationals of a 
+State. It is of extreme importance because it provides foreigners the certainty that they 
+will not be discriminated  against. It is a principal benefit  of the WTO and  GATT legal 
+framework, as is MFN treatment. 
+
+MFN is usually sought by States in order to ensure that any benefits received &om 
+a treaty  are not overshadowed  or made insignificant by  future  agreements  with  other 
+
+9’  See GATS, supra, footnote 86, at Part 11:  General Obligations and Discipline. 
+92  See, WTO,  General  Agreement  on  Tariffs and Trade  1947, Article  III:  National  Treatment  on  Internal 
+Taxation and  Regulation, available at: cchttp://www.sice.oas.org/TRADEE.ASP#WTO/GATT)>, viewed on 20 
+April 2001; Agreement on Trade-Related Aspects of Intellectual Property Rights, Article 111:  National Treatment, 
+available at: c(http://www.wto.org/english/tratop-e/~ps-e/t-a~2-e.htm)),  viewed on 20 April 2001. 
+
+576 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPERTY 
+
+States. For example, State A and State B may agree to certain benefits in Treaty X with 
+an MFN clause. If State A  comes to another  agreement  with  State C in Treaty Z ,  by 
+virtue  of the  first  Treaty’s MFN clause  State B  will  receive  the benefits  of Treaty  Z. 
+Without the MFN clause, State B would not receive the new benefit. Consequently, the 
+benefits agreed to in first agreement  would be less favourable when  compared to the 
+second agreement. 
+
+B.  THE  COMPLEXITY  OF SPECIFIC COMMITMENTS 
+
+By setting the obligation of national treatment in Part 111  (Specific Commitments), 
+the  GATS makes one of the WTO general obligations into an obligation  required only 
+by  specific  commitment.  Essentially,  Members  only  have  to  provide  “national 
+treatment” in trade in those service sectors where they make a specific commitment and 
+place this commitment in their Schedule.93 If they do not make a specific commitment 
+or  if  they  fail to  include  it  in  their  Schedule,  Members  can  provide  discriminatory 
+treatment to foreign service providers. With the GATS scheme, a Member may provide 
+discriminatory treatment  to an electronic transmission provider from another Member 
+country. 
+
+Specifically, Article  XVI (Market Access) states that  for  a  service supplier from  a 
+
+Member country to another Member’s market: 
+
+“. . . each Member shall accord services and service suppliers of any other Member treatment 
+no less favourable than that provided for under the terms, limitations and conditions agreed 
+and specified in its Schedule.” (footnote 0mitted).~4 
+And for national treatment, Article XVII (National Treatment) states that Members 
+shall provide  “treatment  no less favourable than  that it accords to its own like services 
+and  service  suppliers.”  The Article,  though,  permits  Members  to  provide  “different 
+treatment” for foreign service suppliers.95 Article X V I I ( ~ )  adds: 
+
+“A Member may meet the requirement of paragraph 1 by  according to services and service 
+suppliers  of  any  other  Member,  either formally  identical treatment  or formally  di&erent 
+treatment to that it accords to its own like services and service suppliers.” (emphasis added). 
+By eliminating any distinction  between  “formally identical  treatment  or formally 
+different  treatment”,  Article  X V I I ( ~ )  provides  Members  with  a  legal  avenue  for 
+discriminating against foreigners. 
+
+For goods, the GATT provides national treatment as a general obligation. It sets this 
+
+standard: 
+
+“The products of the territory of any contracting party imported into the territory of any 
+
+93  Article XVI. 
+94  Article x v i ( 1 ) .  
+95  See  Raj Bhala and Kevin  Kennedy,  World  Trade  Law: The GAT-WTO System,  Regiotial  Arrangements and 
+
+U S .  Law, Lexus Law Publishers, Charlottesville, VA, 1998, at  1259-1260. 
+
+E-COMM  TRADE UNDER  THE WTO 
+
+577 
+
+other contracting party shall be accorded treatment no less favourable than that accorded to 
+like products of national origin in respect of all laws, regulations and requirements affecting 
+their internal sale, offering for sale, purchase, transportation, distribution or use  . . .”96 
+Without any limitations set by specific commitments or by the ‘‘formally identical 
+treatment or formally different treatment”, the GATT provides treatment which may be 
+more  favourable  to  goods.  For  trade  in  services,  legal  counsel  must  analyse  if  the 
+treatment is provided in a Member’s specific Schedule, while for goods, legal counsel 
+rests  more  secure  that  Article  111  of  the  GATT sets  national  treatments  as  a  general 
+obligation and is not subject to any specific commitments. 
+
+WTO Members have the choice to decide whether electronic transmissions will be 
+subject to  the  GATS or the  GATT. At  first glance, the  GATS appears more  favourable, 
+because  it  provides for no  tariff liability for trade in services. The GATT appears less 
+favourable, because it subjects goods to customs duties. The GATS, however, does limit 
+the  application  of fundamental WTO rights such  as  MFN and  national treatment.  In 
+decidmg whether electronic transmissions should be classified as  a  good  or a  service, 
+Members must weigh tariff-‘-free treatment with  limited MFN and national treatment. 
+Put  bluntly:  what  is  preferable, clearly  set  tariffs  or  the  possibility of  discriminatory 
+treatment? 
+
+This limited version of national treatment, as opposed to the general obligation for 
+goods, is  a  result  of services being tariff-free  while  goods are  tariff-liable.  Generally 
+spealung, international trade in goods is restricted by customs duties, while services are 
+not subject to customs duties. Without customs duties, the movement of services would 
+be too fi-ee and many Members hesitant to open their markets as much. Accordmgly, 
+Members have  to place a service on its  Schedule in order to be obligated to provide 
+non-discriminatory treatment. 
+
+The WTO explains this difference: 
+“At  first  sight, it  may  be  difficult  to  understand  why  the  right  to  national treatment  is 
+restricted  under  the  GATS to  services for  which  commitments  have  been  undertaken, 
+whereas under  the GATT it applies to all  goods. The reason lies in the nature of trade in 
+services. Universal  national treatment  for  goods is  possible, without  creating free  trade, 
+because the entry of foreign goods into a national market can still be controlled by import 
+duties, quantitative restrictions and other border measures. By contrast, a foreign supplier of 
+most services, particularly if those services are supplied by commercial or personal presence 
+in the importing country’s market, will in practice enjoy virtually free access to that market 
+if given national treatment, since this by definition will remove any regulatory advantage 
+enjoyed by the domestic service ~upplier.”~’ 
+There is a need to control this trade because, without limitations, domestic markets 
+
+would be disrupted with a flood of imported services. 
+
+96  Article III(4). 
+97  See WTO Secretariat, supra, footnote 29, at para. 8 
+
+578 
+
+THE JOURNAL OF WORLD INTELLECTUAL  PROPERTY 
+
+With the limits set on national treatment by the GATS, services have a more limited 
+market  access  than  goods.  The  GATT provides  a  general  obligation  for  national 
+treatment;  the  GATS, though,  requires  a  specific  commitment  from  a  Member  for 
+national  treatment  to  be  an  obligation.  Specific  commitments  provide  individual 
+Members  additional  discretion  to  choose  whether  or  not  to  extend  the  treatment. 
+Furthermore,  the  need  for  specific commitments  provides  Members  with  additional 
+leverage and  opportunities  for  delay when  negotiating  any WTO obligation.  Because 
+national  treatment  is  not  secured  for  all  services,  Members  will  play  upon  their 
+individual extension  of national treatment  to secure a better negotiating position in the 
+WTO. This position  will extend  to other WTO negotiations  in other sectors and, as a 
+result, services such as e-commerce  have a more fragile national treatment benefit. 
+c.  PROGRESSIVE  LIBERALIZATION  AND SPECIFIC COMMITMENTS:  AMBIGUOUS 
+
+BENEFITS 
+
+Currently, the GATS does not provide a clearly defined set of benefits to liberalized 
+cross-border  trade  in services. The trade-in-services  sector  of electronic transmissions 
+does  not  benefit  from  specific  commitments.  For  a  Member  to  benefit  from  GATS 
+liberalization, there must be a specific commitment  made by another Member to open 
+a service sector. Members must take part in continued negotiations-called  progressive 
+liberalization-to 
+liberalize  specific sectors of the  service  economy.  A  Member  may 
+only benefit from market access to another Member’s service economy when there is a 
+specific commitment made in a particular service sector. Absent this commitment, there 
+is  no  guaranteed  market  access  or benefit  of national  treatment.  Accordingly,  GATS 
+benefits  of  tariff-free  trade  in  services,  MFN treatment  and  national  treatment  are 
+conditional on further negotiations and on reaching a specific commitment in particular 
+sectors. Consequently,  trade  in  e-commerce  services will  only be  guaranteed  market 
+access when negotiations  and additional commitments are reached. 
+
+GATS Article xrx(1) sets the progressive liberalization standard as: 
+“. . . Members shall enter into successive rounds of negotiations, beginning not later than five 
+years from the date of entry into force of the WTO Agreement and periodically thereafter, 
+with a view to achieving a progressively higher level of liberalization  . . .” 
+Members will have to engage in multilateral, bilateral, or plurilateral negotiations 
+
+to establish which service sectors will be liberalized.g* 
+
+This liberalization is not guaranteed  to be multilateral. Members will benefit from 
+market access to service sectors only as another Member makes a specific commitment 
+to  liberalize a  service  sector.  The negotiations  explained  in  Article  XIX  serve  as  the 
+
+98  The WTO Secretariat  explains thc  importance of new  negotiations: “Article  XIX  is  a  guarantee  that  the 
+present  Gxrs  package  is  only  the  first  fruit  of  a  continuing  enterprise, to  be  undertaken  jointly  by  all  WTO 
+Members, to raise the level  of services commitments  towards  one another.”:  see  WTO Secretariat,  Guide to  the 
+Uruguay Round  Agreements, at  173. 
+
+E-COMM  TRADE  UNDER  THE WTO 
+
+579 
+
+forum  to reach  a consensus about which  Member  will  liberalize which  sectors. This 
+contrasts with the GATT’s general approach which provides benefits to all Members. The 
+GATS, however,  only  extends  benefits  such  as  MFN or  national  treatment  when  an 
+individual Member ~ o m m i t s . ~ ~ T h i s  
+conditioning of GATS benefits is set in Article xvI(1) 
+(Market Access). It states: 
+
+“With respect  to  market  access through  the modes  of supply identified in  Article  I,  each 
+Member shall accord services and service suppliers of any other Member treatment no less 
+favourable than  that provided for under the terms, limitations and conditions agreed  and 
+specified in its Schedule.” (footnote omitted). 
+
+By permitting Members to limit market access on an individual basis, Article XVI 
+shifts the importance from the GATS Agreement to the commitment Schedules of its one 
+hundred and forty-one  Members. 
+
+IV.  CONCLUSION 
+
+Currently,  the  WTO faces  a  variety  of  complex  issues  surrounding  electronic 
+
+transmissions. Specifically, these include: 
+
+-  classification  of  electronic  transmissions  (or  the  “electronic  transmission 
+
+- 
+
+- 
+
+debate”); 
+extension  of the moratorium on applying customs duties; and 
+
+commencing  liberalization  negotiations  for  the  e-commerce  trade  services 
+sector. 
+
+Before Members benefit from any liberalization in this sector, these issues must be 
+resolved. The moratorium is a temporary solution to the problem of applying customs 
+duties to electronic transmissions. 
+
+Because no Member has demonstrated or expressed an interest in applying customs 
+duties, an agreed-to  moratorium does not necessarily translate into a real benefit.  The 
+multilateral efforts spent to reach a moratorium may be better spent on proceeding with 
+liberalization  in  the  sector.  The  GATS provides  Members  with  the  power  to  limit 
+national  treatment  and  MFN treatment  to  protect  their  service  sector  markets.  Any 
+liberalization requires an affirmative and specific commitment. Accordmgly, a Member 
+may proceed with trade in the e-commerce  service sector negotiations without fearing 
+that their markets will be penetrated by foreign providers. 
+
+99 This conditioning  is further  complicated by  the schematic structure  of a Member’s Schedule. Bhala and 
+Kennedy note: “If the framework of agreement is the skeleton of the GATS, then  the Schedule of market access 
+commitments is the flesh and bones. The Members’ Schedules list the service sectors and modes ofsupply for which 
+individual Members have agreed to provide full or partial access to the service suppliers of other WTO Members.”: 
+see Bhala and Kennedy, s u p ,  footnote 95, at 1256. They add “Only those industries that are listed in a Member’s 
+Schedule of Commitments are open to foreign service suppliers with respect to at least one mode ofsupply.”: ibid., 
+at  1257. 
+
+580 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPERTY 
+
+The WTO should  define  electronic  transmission  as  a service  and, as  such,  free 
+from customs duties. This will provide three important benefits. First, Members will 
+be able to begin thinking about how to liberalize or protect their domestic electronic 
+transmission service market in the future. Members will be able to prepare themselves 
+for  the progressive  liberalization  required  under  the  GATS. In particular,  Members 
+will not have  to decide  if this  economic sector  requires  treatment  as  a  good  or as  a 
+service. 
+
+Second, Members will not have to face the daunting task of classifying electronic 
+transmissions  within  their  Tariff  Schedules.  As  the  U.S.  Customs  Service’s position 
+illustrates, it is not easy  to place electronic transmissions within  such a Schedule. The 
+HS distinguishes products by their physical attributes.  Because electronic transmissions 
+only contain digital information, it is difficult to place them in the HS Schedule. 
+
+Third,  Members  will  benefit  from  the  GATS’  open  definition  of  “services”. 
+Electronic transmissions represent a highly technical and constantly changing medium. 
+Economic necessity and technologcal innovation develop faster than multilateral legal 
+obligations. If the WTO labelled electronic transmissions as a good, then this definition 
+might not accurately represent future technological  developments. With this in mind, 
+GATS negotiators  were  hesitant  to  draft  a  “service”  definition  which  might,  in  the 
+future, have excluded important functions. With the  GATS, Members have the benefit 
+of  limiting  liberalization  with  specific  commitments.  This  power  of  specific 
+commitments provides Members with a way to guide or control liberalization of their 
+electronic transmissions market sector. 
+
+The benefits of liberalization, however, will only develop when Members proceed 
+to  the  progressive  liberalization  step  of  the  GATS framework.  This  requires  the 
+identification  of a service area sector which Members intend to liberalize. Accordingly, 
+the WTO should definitively classi@ electronic transmissions as a service and not subject 
+to customs duties. 
+
+With these steps, Members will be able to begin examining how and under what 
+
+conditions may they liberalize their electronic transmissions market. 
+
+

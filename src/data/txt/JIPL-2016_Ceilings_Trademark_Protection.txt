@@ -1,0 +1,2511 @@
+698
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2016, Vol. 11, No. 9
+
+Ceilings for trade mark protection: some
+thoughts on s 92 TMA 1994
+Jesus-Ivan Mora Gonzalez*
+
+Introduction
+In 2005 the Commission issued a proposal1 for a directive
+on criminal measures aimed at ensuring the enforcement
+of intellectual property rights as a reaction to the failed
+attempt to introduce criminal law penalties in Directive
+2004/48 EC2 on the enforcement of intellectual property
+rights (Enforcement Directive). The proposal referred
+particularly to piracy and counterfeiting as an ever-increa
+sing problem linked to organized crime. Although this
+proposal was
+initially welcomed by the European
+Parliament,3 it was not successful due to the lack of con-
+sensus in the Council regarding EU (EU) criminal law
+competence.4 In September 2010 the Commission with-
+drew the proposal, afﬁrming that it was unlikely to be able
+to secure the implementation of the directive in the near
+future.5 It did so, not because of uncertainty about whether
+the criminal enforcement of intellectual property rights
+was necessary, but because it planned to achieve the same
+result through the ratiﬁcation of the Anti-Counterfeiting
+Trade Agreement (ACTA).6 In 2011 the Commission rec-
+ommended the ratiﬁcation of ACTA, but the European
+Parliament, concerned by the continuing protests and res-
+ervations about the Agreement, refused to do so.7 On 4
+July 2012 ACTA was rejected by the European Parliament
+(by 478 votes to 39, with 165 abstentions) based on the
+lack of clarity in the wording of the legal provisions, espe-
+cially concerning individual criminalization and commer-
+cial scale, and the role of internet service providers.8
+
+*
+
+1
+
+2
+
+3
+
+Dr. Jesus Ivan Mora Gonzalez is a Lecturer in Law at Universidad
+Internacional de Valencia (VIU) and former Research Scholar at Max Planck
+Institute for Innovation and Competition. Email: ivanmoragzls@gmail.com.
+I want to thank Prof. Dr. Annette Kur for her time and support during
+my research stay at Max Planck Institute for Innovation and Competition
+(Munich).
+Proposal for a European Parliament and Council Directive on criminal
+measures aimed at ensuring the enforcement of intellectual property
+rights, 12 July 2005 COM (2005) 276 ﬁnal-COD 2005/0127.
+Directive 2004/48 EC of the European Parliament and of the Council of
+29 April 2004 on the enforcement of intellectual property rights, OJ L
+157, 30 April 2009.
+European Parliament Legislative resolution of 25 April 2007 on the
+amended proposal for a directive of the European Parliament and of the
+Council on criminal measures aimed at ensuring the enforcement of
+
+The author
+ Dr Jesus-Ivan Mora Gonzalez is a Lecturer in Law
+at Universidad Internacional de Valencia (VIU)
+and former Research Scholar at Max Planck
+Institute for Innovation and Competition.
+
+This article
+ This article focuses on s 92 of Trade Marks Act 1994
+(TMA 1994) regarding the prosecution of genuine
+fake markets after reading cases R v Johnstone [2003]
+UKHL 28, R v James Rupert Isaac [2004] EWCA
+Crim 1082 and R v Gary Boulter [2008] EWCA
+Crim 2375 and R v Beazley [2013] EWCA Crim 567.
+ After R v James Rupert Isaac [2004], the Court of
+Appeal in R v Gary Boulter [2008] and R v Beazley
+[2013] attempted to close the ‘door’ to the com-
+mercialization of genuine fakes based on the double
+identity case as laid down in s 10(1) TMA 1994 and
+the impossibility to regard the context where goods
+are sold as a disclaimer of trade origin.
+
+ Both judgments, however, are subject to some difﬁ-
+culties that should be taken into account when a
+criminal sanction is imposed under s 92 TMA 1994.
+
+The rejection of ACTA by the European Parliament
+emphasized a central problem with the EU legislative
+
+intellectual property rights, COM (2006) 0168C60233/20052005/0127
+(COD), 25 April 2007.
+S. Summers et al, The emergence of EU Criminal Law: Cybercrime and the
+Regulation of the Information Society (Hart Publishing, Oxford, 2014) 119–138.
+
+4
+
+5 Withdrawal of obsolete Commission Proposals, OJ C 252, 18 September
+
+6
+
+7
+
+8
+
+2010.
+Ofﬁce of the United States Trade Representative, “Anti-Counterfeiting
+Trade Agreement (ACTA)”, 1 October 2011, ﬁnal text available at www.
+mofa.go.jp/policy/economy/i_property/pdfs/acta1105_en.pdf.
+J. Gibson, “The Directive Proposal on criminal sanctions”, in C. Geiger
+(ed) Criminal Enforcement o f Intellectual Property: A Handbook of
+Contemporary Research ( Edward Elgar, Cheltenham, UKNorthampton
+USA, 2012) 245–269.
+European Parliament legislative resolution of 4 July 2012 on the draft
+Council decision on the conclusion of the AntiCounterfeiting Trade
+Agreement between the European Union and its Members, Australia,
+
+VC The Author(s) (2016). Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jpw107
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+9
+6
+9
+8
+2
+2
+1
+8
+7
+0
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Jesus-Ivan Mora Gonzalez  Ceilings for trade mark protection: some thoughts on s 92 TMA 1994
+
+ARTICLE
+
+699
+
+process: its top-down approach to law-making. The EU
+should explain not just why harmonization is necessary,
+but also why criminalization is required, especially
+when there is no consensus with regard to the scope of
+IP offences in EU Member States.9 The objective of this
+article, however, is more modest. It aims only to high-
+light the need for a bottom-up perspective on the crim-
+inal enforcement of trade mark rights by means of a
+discussion of the main difﬁculties that can be faced in s
+92 of the Trade Marks Act 1994 (TMA 1994) regarding
+the prosecution of genuine fake markets after cases like
+R v Johnstone (2003),10 R v James Rupert Isaac (2004),11
+R v Gary Boulter (2008)12 and R v Beazley (2013).13
+
+Genuine fake markets in s 92 TMA 1994
+
+In R v Johnstone, at paragraph 26 Lord Nicholls high-
+lighted that:
+
+Section 92 is concerned to prohibit the wrongful exploita-
+tion of registered trade marks. It replaced section 58A of
+the Trade Marks Act 1938. Section 58A made the fraudu-
+lent use of a trade mark an offence. Difﬁculties arose in
+practice in proving the necessary intent in cases where at
+point of sale the trader disclaimed the authenticity of his
+goods. The trader would describe his counterfeit products
+as brand copies or genuine fakes. Section 92 avoids this
+problem. In particular, intention to infringe a registered
+trade mark is not an ingredient of the offence. Instead, sec-
+tion 92 focuses simply on authorised use of a sign identical
+to, or likely to be mistaken for a registered trade mark.
+
+This optimistic view of s 92, however, was blurred in R
+v James Rupert Isaac. The Court of Appeal quashed the
+convictions that the Crown Court had imposed on
+Rupert Isaac for the selling of sweatshirts bearing the
+logos Boss and Polo for £3 each on the basis of an in-
+sufﬁcient direction in the questions about trade mark
+use, ie the defendant’s intention in using the sign and
+the prejudice to the function of the trade marks at issue.
+Did the defendant prejudice the normal function of the
+Boss and Polo trade marks?
+
+According to the appellant, the sweatshirts bore no re-
+semblance to the genuine items. It was not his intention to
+suggest that these were genuine Boss or Polo items and he
+did not believe that he was using the signs as trade marks.
+
+9
+
+Canada, Japan, the Republic of Korea, the United Mexican States, the
+Kingdom of Morocco, New Zealand, the Republic of Singapore and the
+United States of America. (12195/2011C70027/20122011/0167 NLE), 04 July
+2012.
+See eg ‘Towards a Renewed Consensus on the Enforcement of
+Intellectual Property Rights: An EU Action Plan’, Communication from
+the Commission to the European Parliament, the Council and the
+European Economic and Social Committee, COM/2014/0392, 1 July
+2014, EUR-lex-52014DC0392-EN.
+
+Although the Court of Appeal did not accept the appel-
+lant’s approach to genuine fake markets, it stressed that:
+
+[W]here the defendant’s use of a mark is not intended by
+him, or understood by the public, to be a designation of
+origin, there can be no infringement because such use does
+not prejudice the essential function of the registered mark
+. . . [T]he direction given to the jury, with its reference to
+use in the course of trade and prejudicing the function of
+the trade mark was not sufﬁciently clear to permit this con-
+viction to stand . . . [T]he jury must be directed that a
+criminal offence is committed only when as a ﬁrst element
+the offending sign is used as an indication of trade origin,
+as explained in Johnstone . . . there was substantial room
+for argument as to whether that was that case and the jury
+should have had clear direction on that topic . . . [I]t
+needed to be accompanied by a sufﬁcient direction on the
+question of trade mark use . . . [T]his conviction is not, in
+our judgement safe. The appellant, whatever mistakes were
+made by counsel at the trial, was entitled to a direction in
+accordance with the views expressed by the House of Lords
+in Johnstone. It must follows that his appeal must be al-
+lowed and the two convictions quashed.
+
+It seems that this judgment ‘reopened the door’ to gen-
+uine fake markets: a case for them may be formalized as
+follows. Criminal enforcement of trade mark rights calls
+into consideration two fundamental liberties: the liberty
+to engage in a proscribed conduct (the commercializa-
+tion of goods in a free market) and the liberty not to be
+subject to the hard treatment and condemnation inher-
+ent in punishment if the proscription is disregarded
+(criminal penalties to proscribe the commercialization
+of goods in a free market). The burden of these two
+fundamental liberties should compel the identiﬁcation
+of the legally protected interest that justiﬁes such re-
+strictions in free competition and why that interest
+should be enforced by criminal law. The legally pro-
+tected interest to restrain free competition has tradi-
+tionally been linked to the consumer right to be free
+from confusion, deception or mistake; that is, trade
+marks are valuable distinctive signs that foster con-
+sumer’s trust that their expectations of the products
+that bear the mark will be met and responsibility will lie
+on producers. Trade marks, therefore, are not property
+in the ordinary sense, but only distinctive signs indicat-
+ing the origin of a commercial product.14 The trade
+
+10 R v Johnstone [2003] UKHL 28.
+11 R v James Rupert Isaac [2004] EWCA Crim 1082.
+12 R v Gary Boulter [2008] EWCA Crim 2375.
+13 R v Beazley [2013] EWCA Crim 567.
+14 B. Beebe, ‘The Semiotic Analysis of Trademark Law’ (2004) 51 UCLA L
+
+Review, 621, 645–667.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+9
+6
+9
+8
+2
+2
+1
+8
+7
+0
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+700
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2016, Vol. 11, No. 9
+
+mark holder acquires only the right to forbid the goods
+to which the mark is applied from being confused with
+those of others and to prevent his own trade from being
+diverted to competitors through their use of misleading
+marks.15
+
+Under the confusion doctrine, both consumers and
+trade mark holders would be protected. Consumers
+would be protected against inferior look-alikes while
+trade mark holders would be motivated to produce
+quality products to enhance their goodwill in the mar-
+ketplace. Consequently, if consumers knew they were
+buying genuine fakes and wished to acquire them as
+imperfect substitutes that bearing the trade mark at a
+lower price, the trade mark reputation of the original
+source would not be damaged by the commercialization
+of those goods and trade mark holders would be able to
+continue selling the original products to those con-
+sumers who were willing to pay a higher price for them.
+After R v James Rupert Isaac the Court of Appeal in R
+v Gary Boulter attempted once again to close the door to
+genuine fake markets, by rejecting any possibility of re-
+garding them as descriptive use which does not jeopardize
+the guarantee of origin of the trade mark. The court high-
+lighted, ﬁrst, the distinction between s 10(1) and (2)
+TMA 1994, where the double identity case (identical signs
+þ identical goods) would exclude the need to take into
+account the evidence of likelihood of confusion. Secondly,
+by referring to Arsenal v Reed16 and R v Johnstone17 it
+stressed that the quality of reproduction of the trade mark
+is not relevant in these cases: holding otherwise would al-
+low the sale goods expressly marketed as fakes. Thirdly, it
+considered that the poor quality of counterfeit goods can-
+not be used as a novel defence to reopen the door to peo-
+ple selling widgets as genuine fakes. Accordingly,
+
+the goods in this case did not involve the use of a trade
+mark for a descriptive purpose but, as already stressed, was
+pure counterfeiting. It self evidently damages the registered
+proprietor of a trade mark if that proprietor is not able to
+control the use of its logo as a badge of origin and if goods
+of variable quality bearing that stamp are on the market.18
+
+This approach to genuine fake markets was reinforced
+in R v Beazley, a case in which the Court of Appeal high-
+lighted a Lockean approach to trade mark rights. The de-
+fendants had offered for sale wheel trims imported from
+Italy and designed speciﬁcally for well-known marks of
+motorcars, which ranged alphabetically between BMW
+and Volkswagen. The wheel trims bore the logos of the
+
+relevant manufacturers and were marketed by the defen-
+dants as ‘non-genuine replacement parts’ under advertise-
+ments such as:
+‘Vauxhall Astra Part (and a number).
+These wheel trims are not produced from the car manu-
+facturer but made to the same if not better product offer-
+ing a high quality lasting product for your vehicle.’19
+
+The defendants alleged the existence of a reasonable
+belief under s 92(5) TMA 1994. They claimed that they
+had good character since they had marketed the goods as
+‘non-genuine replacement parts’ rather than pretending
+that they had been made by the car manufacturer and
+furthermore the Italian manufacturers had escaped prose-
+cution in Italy. The Court of Appeal, however, rejected
+both arguments, ruling that the commercialization of
+‘non-genuine replacement parts’ was not a venial offence,
+but constituted real damage to the trade mark holder,
+and the fact that the Italian manufacturer’s representative
+had given evidence in the trial that a prosecution against
+it had failed in Italy was irrelevant under section 92(5)
+TMA 1994. According to the Court of Appeal:
+
+even if the goods are marketed in the way that these were
+here, they look as if they are real Volkswagen or Vauxhall
+or whatever trims and they are not. They are depriving the
+manufacturers of the legitimate fruits of all the research
+and development
+through which they developed their
+products. That is why trade mark exists.20
+
+Although the judgments in R v Gary Boulter and R v
+Beazley clariﬁed that counterfeiting invariably amounts
+to unfair competition and the context where the prod-
+ucts were sold in the marketplace (poor quality, low
+prices or disclaimers that literally say ‘non-genuine
+product or replacement parts’, among others) should
+not be taken into account as a relevant factor to delegit-
+imize the criminal enforcement of trade mark exclusive
+rights, closing the door’ to genuine fake markets is sub-
+ject to some hermeneutic difﬁculties, which will be ex-
+plained the following two sections.
+
+The proof of likelihood of confusion is
+not relevant to delimit the scope of s 92
+TMA 1994
+
+One of the key questions discussed in R v Johnstone was
+whether trade mark use was a necessary ingredient of
+criminal liability under s 92 TMA 1994. Lord Nicholls
+answered afﬁrmatively, holding that:
+
+15 G. S. Lunney, ‘Trademark monopolies’ (1999) 48 Emory Law Journal
+
+367, 439–482.
+
+16 Arsenal Football Club plc v Reed [2003] EWCA Civ 696.
+17 R v Johnstone, above, n 10.
+
+18 R v Boulter, paragraph 13.
+19 R v Beazley, paragraph 2.
+20 R v Beazley, paragraph 13.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+9
+6
+9
+8
+2
+2
+1
+8
+7
+0
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Jesus-Ivan Mora Gonzalez  Ceilings for trade mark protection: some thoughts on s 92 TMA 1994
+
+ARTICLE
+
+701
+
+[T]he essence of the trade mark has always been that it is a
+badge of origin. It indicates trade source: a connection in
+the course of trade between the goods and the proprietor
+of the mark . . . there is still no reason why other people
+should not be free to use the words in a descriptive sense,
+and not in any trade mark sense.21
+
+Section 92 TMA 1994, therefore, is to be interpreted as
+applying only when the offending sign is used as an in-
+dication of trade origin. If descriptive use of the trade
+mark, even in double identity cases (identical sign þ
+identical product), is excluded from the scope of s 92
+TMA 1994, could the commercialization of genuine
+fakes be regarded as a descriptive use of the trade mark
+at hand and be excluded as well?
+
+The appellant in R v James Rupert Isaac claimed that
+his sweatshirts bore no resemblance to the genuine
+trade mark items (Boss and Polo) and that he did not
+believe that he was using the signs as trade marks. That
+approach was conﬁrmed by the appellant in R v Gary
+Boulter when he claimed that the material was of such
+poor quality that no one could think that its trade ori-
+gin was that of the trade mark owner, ie that use would
+not jeopardize the guarantee of origin, which consti-
+tuted the essential function of trade mark rights accord-
+ing to the Court of Justice of the European Union
+(CJEU) in in Arsenal Football Club plc v Reed.22
+
+The Court of Appeal in R v Gary Boulter, however,
+rejected that approach to the guarantee of origin and
+highlighted the distinction between s 10(1) and (2)
+TMA 1994. The goods in that case did not involve the
+use of a trade mark for descriptive purposes. It was sim-
+ply a case of commercialization of counterfeit goods
+where the trade mark owner would not be able to con-
+trol the use of its logo as a badge of origin; that is, the
+context where the products have been sold should be
+excluded as an essential ingredient to delimit the scope
+of the trade mark offence under s 92 TMA 1994. In ad-
+dition, the double identity requirement, which is laid
+down in s 10(1) TMA 1994, would have no relevance
+for the proof of likelihood of confusion as that statu-
+tory provision only applies to similarity-based cases,
+that is: identical signs þ similar goods, similar signs þ
+identical goods and similar signs þ similar signs.
+
+This approach could be called the ‘non-contextualist
+test’ and it would based on double identity cases (iden-
+tical signs þ identical goods) with the aim of highlight-
+ing
+are
+commercialized (poor quality or low prices, among
+
+in which the
+
+context
+
+goods
+
+that
+
+the
+
+others) should be deprived of any hermeneutic value.
+The ‘non-contextualist test’ could ﬁt well with the
+CJEU’s interpretation of indication of origin based on
+the trade mark holder’s responsibility for quality con-
+trol regarding the commercialization of the products
+that bear the mark. In the early case Hag II,23 the CJEU
+held that:
+
+[T]rade mark rights are an essential element in the system
+of undistorted competition which the Treaty seeks to estab-
+lish and maintain. Under such a system, an undertaking
+must be in a position to keep its customers by virtue of the
+quality of its products and services, something which is
+possible if there are distinctive marks which enable cus-
+tomers to identify those products and services. For the
+trade mark to be able to fulﬁl this role, it must offer a guar-
+antee that all goods bearing it have been produced under
+the control of a single undertaking which is accountable
+for their quality.24
+
+Consequently, the guarantee on the quality control of
+those goods that bear the mark underlies the relevance
+of the trade mark holder’s exclusive rights and the irrel-
+evance of the context as a disclaimer to disprove the ex-
+istence of
+risk of consumer confusion. And this
+approach obviously ﬁts well with the underlying policy
+of the non-contextualist test: if the proof of consumer
+confusion is used as a strategy by trade mark infringers
+to justify the selling of genuine fakes at lower prices, the
+proof of consumer confusion should be removed as an
+essential ingredient under s 92 TMA 1994 in double
+identity cases (identical signs þ identical goods).
+
+Double identity cases, however, could be subject to
+the following counter-arguments. First, it seems that
+the lack of a statutory requirement for any evidence of
+likelihood of confusion in double identity cases is an at-
+tractive way of avoiding the problem faced by genuine
+fake markets. If the main difﬁculty lied in proving con-
+sumer confusion when no-one could think that a prod-
+uct’s trade origin is that of the trade mark owner, the
+quickest way to solve that difﬁculty would be to remove
+that requirement, ie if there is a double identity case it
+is not necessary to prove likelihood of confusion. But
+that approach raises a question with regard to cases
+where there is no double identity and the requirement
+to prove likelihood of confusion is laid down in the
+statutory wording under s 10(2) TMA 1994. Should the
+context as a disclaimer of the trade mark origin be
+taken into account to claim that genuine fake markets
+should not be criminalized as they are not likely to
+
+21 R v Johnstone, paragraph 13.
+22 Arsenal Football Club plc v Reed, above, n 16.
+23 Cnl-Sucal SA v Hag GF AG, 10/89, EU:C:1990:359.
+
+24
+
+Ibid. paragraph 13. See also HoffmannLa Roche v Centrafarm, C102/77,
+EU:C:1978:108; Canon Kabushiki Karsha v MetroGoldwyn, C39/97,
+EU:C:1998:442; Koninklijke Philips Electronics NV v Remington Consumer
+Products Ltd, C299/99, EU:C:2002:377.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+9
+6
+9
+8
+2
+2
+1
+8
+7
+0
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+702
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2016, Vol. 11, No. 9
+
+jeopardize the guarantee of origin? In fact, double iden-
+tity cases, which are laid down in s 10(1) of TMA 1994,
+take into account the evidence of consumer confusion,
+but that evidence is examined in the abstract where the
+context as a disclaimer of the origin is meaningless. The
+proof of likelihood of confusion is not relevant because
+when there is no descriptive use of the trade mark at
+hand and the signs and goods are identical it is pre-
+sumed iuris et de iure that the guarantee of origin has
+been jeopardized. The reality, however,
+is that con-
+sumers are not misled about the real origin of goods:
+they simply want to acquire them with the aim of gain-
+ing imperfect substitutes that bear the logo of the trade
+mark at a lower price. Would it be possible to claim
+that a praesumptio iuris et de iure regarding the evidence
+of consumer confusion in double identity cases should
+be replaced by a praesumptio iuris tantum since descrip-
+tive uses of the trade mark would prove that—even in
+double identity cases—the trade mark holder is only
+granted a property right to guarantee the origin of the
+goods? Could genuine fake markets be subject to that
+praesumptio iuris tantum under s 92 TMA 1994?
+
+In addition, it is difﬁcult for a reasonable person to
+foresee hypothetical scenarios under s 92(5) TMA 1994.
+Although the context as a disclaimer of the trade origin
+is not taken into account in s 10 (1) TMA 1994, this
+does not necessarily mean that the context in which the
+trade mark is commercialized is not relevant to inform
+consumers about the real origin of the goods. What the
+CJEU seems to afﬁrm is that the guarantee of quality
+control is a means of achieving the normative target of
+enabling consumers, without any possibility of confu-
+sion, to distinguish products from others that have an-
+other origin. The quality control (means), therefore,
+would make perfect sense when consumers are misled
+about the origin of the product as the trade mark
+holder would not be able to guarantee the identity of
+the origin of the product (target). However, the neces-
+sity of that guarantee is more questionable when con-
+sumers are not misled about the origin of the product
+
+25 Directive 2008/95/EC of the European Parliament and of the Council of
+22 October 2008 to approximate the laws of the Member States relating
+to trade marks, OJ L 299, 08.11.2008. See also. Directive (EU) 2015/2436
+of the European Parliament and of the Council of 16 December 2015 to
+approximate the laws of the Member States relating to trade marks, OJ L
+336, 23.12.2015, arts 5 and 10.
+
+26 Council Regulation (EC) No 2007/2009 of 26 February 2009 on the
+European Union trade mark, OJ L 341, 24 December 2015. See also
+Regulation (EU) 2015/2424, of the European Parliament and of the
+Council of 16 December 2015 amending Council Regulation (EC) No
+207/2009 on the Community trade mark and Commission Regulation
+(EC) No 2868/95, implementing Council Regulation (EC) No 40/94 on
+the Community trade mark and repealing Commission Regulation (EC)
+No 2869/95 on the fees payable to the Ofﬁce for harmonization in the
+
+and they are willing to acquire simply imperfect goods
+that bear the logo of a famous mark.
+
+The alternative to solve the difﬁculties faced by the
+‘non-contextualist test’, could be the statutory provi-
+sion laid down in s 92(4) TMA 1994:
+
+A person does not commit an offence under this section
+unless (a) the goods are goods in respect of which the trade
+mark is registered, or (b) the trade mark has a reputation
+in the United Kingdom and the use of the sign takes or
+would take unfair advantage of, or is or would be detri-
+mental to, the distinctive character or the repute of the
+trade mark.
+
+If the aim of genuine fake markets is not to mislead
+consumers about the real origin of goods, but to be a
+parasite on trade mark reputation by offering goods
+that bear the logo of a famous mark at a lower price,
+the key issue to be discussed should not be whether the
+trade mark use jeopardizes the guarantee of origin, but
+whether genuine fake markets take unfair advantage or
+damage the reputation of marks with a repute.
+
+Directive 2008/95/EC (the Trade Mark Directive,
+Arts 5 and 8)25 and Council Regulation (EC) No 2007/
+2009 (Articles 8 and 9)26 delimit the protection of well-
+known marks by proof of a detriment on the distinctive
+character of the mark (dilution by blurring), proof of a
+detriment on the repute of the mark (dilution by tarn-
+ishment) or taking unfair advantage of the distinctive
+character or reputation of the mark. The CJEU deﬁnes
+well-known marks as brands that are recognized by a
+relevant part of consumers in a relevant territory of the
+EU and afﬁrms that the scope of exclusive rights for
+well-known marks should be broader than for those
+distinctive signs that are not famous.27 This broader
+scope for marks with reputation is explained further in
+L’Oreal v Bellure,28 and has been applied in cases such
+as Red Bull v Sun Mark (2012),29 Jack Wills v House of
+Fraser (2014),30 Conde Nast v Vogue (2015)31 and
+Bayerische Motoren v Technosport London (2016).32
+
+In L’Oreal v Bellure, the CJEU held that trade mark
+infringements, which are established by Article 5(2) of
+
+Internal Market, OJ L 341/21, 24 December 2015, arts 1(10), (11) and
+(12).
+
+27 General Motors Corporation v Yplon SA, C375/97, EU:C:1998:575;
+
+Davidoff & Cie SA and Zino Davidoff SA v Gofkid, C292/00, EU:C:2003:9;
+Adidas AG and Adidas Benelux BV v Marca Mode and others, C102/07,
+EU:C:2008:655; L’Oreal and others v Bellure and others, C487/07, EU:
+C:2009:378; Interﬂora Inc and another v Mark & Spencer Plc and another,
+C323/09, EU:C:2011:173.
+L’Oreal v Bellure, above, n 27.
+
+28
+29 Red Bull BmbH v Sun Mark Ltd [2012] EWHC 2046 (Ch).
+30
+31 Conde Nast Publications Ltd v Vogue Ltd [2015] E.T.M.R 46
+32 Bayerische Motoren Werke AG v Technosport London Ltd, [2016] EWHC
+
+Jack Wills Ltd v House of Fraser [2014] EWHC 110 (Ch).
+
+797.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+9
+6
+9
+8
+2
+2
+1
+8
+7
+0
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Jesus-Ivan Mora Gonzalez  Ceilings for trade mark protection: some thoughts on s 92 TMA 1994
+
+ARTICLE
+
+703
+
+the Trade Mark Directive, are the consequence of a cer-
+tain degree of similarity between the mark and the sign,
+by virtue of which the relevant section of the public
+makes a connection between the sign and the mark,
+that is, establishes a link between them without confus-
+ing them. It is not necessary, however, that the degree
+of similarity is such that there exists a likelihood of con-
+fusion, but it is sufﬁcient that the degree of similarity
+has the effect of establishing a link between the sign and
+the famous mark.33 Even if the proof of this link is con-
+ditio a sine qua non for the proof of a trade mark in-
+fringement, it is not sufﬁcient to afﬁrm the existence of
+taking unfair advantage of, or being detrimental to, the
+distinctive character or the repute of the trade mark.
+The CJEU, with the aim of delimiting the scope of
+Article 5(2) Directive 89/104/EEC (First Council
+Directive),34 developed the requirements for this kind
+of injury in further detail:
+
+(i) Detriment to the distinctive character of the mark
+(dilution by blurring): this is caused when the
+ability of the mark to identify the goods or services
+for which it is registered is weakened as the use of
+an identical or similar sign by a third party leads
+to dispersion of the identity and hold upon the
+public mind of the earlier mark. Further to Intel
+Corporation v CPM United Kingdom,35 the proof
+of dilution by blurring requires evidence of a
+change in the economic behaviour of the average
+consumer of the goods or services for which the
+earlier mark was registered or a serious likelihood
+that such a change will occur in the future.36
+
+(ii) Detriment to the reputation of the mark (dilution
+by tarnishment): this is caused when the goods or
+services for which the identical or similar sign is
+used by the third party may be perceived by the
+public in such a way that the trade mark’s power
+of attraction is reduced, especially when it has a
+negative impact on the image of the mark.37
+
+(iii) Taking unfair advantage of the distinctive character
+or reputation of the mark (parasitic behaviour or
+free-riding): this covers cases where, by reason of a
+transfer of the image of the mark or of the charac-
+teristics that it projects to the goods identiﬁed by the
+identical or similar sign, there is clear exploitation
+
+33 Adidas-Salomon AG v Fitnessworld Trading Ltd, C-408/01,
+
+EU:C:2003:582.
+See Directive 2008/95/EC, above, n 23, Art 5(2) and Directive (EU) 2015/
+2436, above, n 23, Art 10(2).
+Intel v CPM United Kingdom Ltd, C-252/07, EU:C:2008:655.
+L’Oreal v Bellure, paragraph 39 .
+L’Oreal v Bellure, paragraph 40.
+
+34
+
+35
+36
+37
+
+on the coat-tails of the mark with a reputation. In
+order to determine whether the use of a sign takes
+unfair advantage of the distinctive character or re-
+pute of the mark, it is necessary to undertake a
+global assessment, taking into account all factors rel-
+evant to the circumstances of the case, which include
+the strength of the reputation of the mark, the de-
+gree of distinctive character of the mark, the degree
+of similarity between the marks at issue and the na-
+ture and degree of proximity of the goods or services
+concerned. The CJEU links this modality to the
+functions of trade marks, which are not only an in-
+dication of origin, but also serve the functions of
+communication, investment and advertising.38
+
+The last modality of injury played a very important
+role in Red Bull v Sun Mark and BMW v Technosport
+London. In the ﬁrst case, Red Bull alleged that Sun Mark
+had infringed the trade mark ‘BULLIT’ through the use
+of the sign ‘BULLET’ in relation to an energy drink and
+the trade mark ‘RED BULL’ through the use of the adver-
+tising slogan or strapline ‘NO BULL IN THIS CAN’. The
+claim concerning ‘NO BULL IN THIS CAN’ was mainly
+addressed under Article 9(1)(c) of Council Regulation
+40/94/EC.39 The court afﬁrmed that the proof of a trade
+mark infringement under this provision requires evidence
+be shown of the reputation of the mark, a globally appre-
+ciated link between the signs and taking unfair advantage
+of the distinctive character or reputation of the famous
+mark. The court held that this advertising slogan was a
+trade mark infringement. It did so by referring to General
+Motors v Yplan40 to deﬁne the reputation of the mark,
+Intel Corp v CPM41 to ﬁnd a globally appreciated link be-
+tween the signs, and L’Oreal v Bellure42 to delimit the
+scope of taking unfair advantage of the distinctive charac-
+ter or reputation. According to the court:
+
+the
+
+strapline
+
+In effect,
+
+Red Bull contends that the strapline takes advantages of the
+repute of RED BULL to promote the defendant’s drink. I
+agree with this.
+say to the
+consumers: <Here’s an energy drink which is as good as the
+famous RED BULL drink with which you are familiar, but
+cheaper > . . . Red Bull contends this is unfair because it en-
+ables the defendants to take the beneﬁt of the substantial
+sums which Red Bull has spent on advertising and promoting
+RED BULL, and of its resulting reputation, and thereby to
+save money on advertising and promoting their own product
+
+L’Oreal v Bellure, paragraph 41.
+
+38
+39 Council Regulation (EC) No 40/94 of 20 December 1993 on the
+
+Community trade mark, OJ L 011, 14 January 1994.
+
+40 General Motors Corporation v Yplan SA, C375/97 EU:C:1998:575.
+41
+
+Intel Corporation Inc v CPM United Kingdom Ltd, C252/07,
+EU:C:2008:655.
+L’Oreal and others v Bellure and others, C487/07, EU:C:2009:378.
+
+42
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+9
+6
+9
+8
+2
+2
+1
+8
+7
+0
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+704
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2016, Vol. 11, No. 9
+
+. . .Taking all the circumstances into account, I conclude that
+the strapline does take unfair advantage of the repute.43
+
+In BMW v Technosport, the defendant (Technosport)
+was a company dealing with the repair and mainte-
+nance of cars in North London. Technosport (TLL) had
+used signs identical to BMW’s trade marks (the BMW
+word and roundel) in the course of its business. BMW
+claimed that in doing this, TLL had infringed its trade
+marks and passed off its service as being associated with
+or approved by BMW. The defendant denied both trade
+mark infringement and passing off, claiming that its use
+of BMW’s signs did no more than accurately conveying
+the message that TLL was a garage specializing in the
+maintenance and repair of BMW cars. The Intellectual
+Property Enterprise Court, however, held that TLL had
+taken unfair advantage of reputation through the use of
+the BMW roundel under the hermeneutic criterion es-
+tablished in L’Oreal v Bellure:
+
+There is nothing in the case law to preclude the court from
+concluding in an appropriate case that the use of a sign the
+objective effect of which is to enable the defendant to bene-
+ﬁt from the reputation and goodwill of the trade mark
+amounts to unfair advantage even if it is not proved that
+the defendant subjectively intended to exploit that reputa-
+tion and goodwill . . . I have found that the roundel signs
+used by TLL did convey to the average consumer that TLL
+was an authorised dealer . . . It is the objective effect of the
+use of the mark that matters, not the user’s subjective in-
+tention. TLL’s use of its roundel signs therefore took unfair
+advantage of the repute of the Roundel.44
+
+It follows that the judgment in L’Oreal v Bellure could
+provide an attractive strategy to delimit the scope of s
+92 TMA 1994. The criminalization of genuine fake mar-
+kets could be easily justiﬁed by claiming that the pro-
+tection of property rights in the trade mark should be
+the underlying criminal policy and the production, dis-
+tribution and selling of products that bear the trade
+mark without the consent of the trade mark holder
+should be regarded as a trade mark misappropriation
+under s 92 TMA 1994.
+
+This approach, however, presents some difﬁculties.
+First, the statutory provision in s 92(4) TMA 1994 might
+not be necessarily interpreted in that way. The proof of
+taking unfair advantage or being detrimental to the repute
+of the trade mark could be interpreted as conditio sine qua
+non that must be taken into account for the analysis of
+
+any evidence of likelihood of consumer confusion and as
+an essential ingredient of the indication of origin to justify
+a criminal sanction under s 92(4) TMA 1994. Secondly, if
+the principles of legality and proportionality are consid-
+ered essential pillars of a democratic society, any individ-
+ual should be entitled to have an indication of the legal
+rules applicable to any criminal process and be able to
+foresee the consequences of his actions, in particular to
+avoid any disproportionate punishment. The criminal en-
+forcement of trade mark exclusive rights therefore, could
+arise merely because the trade mark holder fears that its
+product would be aligned with an unsavoury mental asso-
+ciation that citizens should reject or a mere detriment on
+the power of attraction with the potential to affect the in-
+vestment or advertisement functions of the famous mark.
+This normative approach, however, could turn trade
+mark protection upside down. Whereas traditional trade
+mark theory protects vulnerable consumers from confu-
+sion as to the source of goods or services, the criminaliza-
+tion of genuine fake markets would protect the largest
+corporations from consumers who are not loyal to the
+trade mark owner; that is, consumer loyalty to the trade
+mark holder could be regarded as a legally protected inter-
+est under s 92 TMA 1994.
+
+The proof of likelihood of confusion is
+relevant to delimit the scope of s 92
+TMA 1994
+
+The alternative to the normative irrelevance for the
+proof of consumer confusion in genuine fake markets
+could be its acceptance as a more realistic approach to
+the guarantee of origin, but projected in the whole con-
+text where genuine fakes reach real and potential cli-
+ents. That approach is known in American law as post-
+sale confusion test.45 It seeks to examine any evidence
+of consumer confusion not from the average consumer
+perspective who buys genuine fakes at the point of sale,
+but from the general public perspective (real and poten-
+tial clients) in post-sale contexts where the proof of
+consumer confusion at the point of sale is irrelevant.
+Personal use of the trade mark by those consumers who
+buy a genuine fake could lead individuals, other than
+the real purchasers, to believe mistakenly that a product
+was manufactured by the trade mark holder. The trade
+
+43 Red Bull v Sun Mark, paragraphs 105–109.
+44 BMW v Technosport London, paragraphs 3538.
+45
+
+It was ﬁrst applied to the interpretation of the Lanham Act 1946, ss 32
+and 43, and later to 18 USC s 2320. In civil proceedings, see eg Boston
+Professional Hockey Ass’n v Dallas Cap & Emblem Mfg, Inc, 510 F2d 1004
+(1975); Amp Inc v Foy, 540 F2d 1181 (1976); Levi Strauss v Blue Bell, 632
+F2d 817 (1980); Clarke Checks, Inc v John Harland Co, 711 F2d 966
+
+(1983); Lois Sportswear, Inc v Levi Strauss & Co, 799 F2d 867 (1986). In
+criminal proceedings, see United States v Infurnari, 647 F Supp 57
+(1986); United States v Gantos, 817 F2d 41 (1987); United States v Yamin,
+868 F2d 130 (1989); United States v Hon, 904 F2d 803 (1990); United
+States v Voss, 82 F3d 1521 (1996); United States v Foote, 413 F3d 1240
+(2005).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+9
+6
+9
+8
+2
+2
+1
+8
+7
+0
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Jesus-Ivan Mora Gonzalez  Ceilings for trade mark protection: some thoughts on s 92 TMA 1994
+
+ARTICLE
+
+705
+
+mark holder’s loss would be justiﬁed through the dam-
+age to the trade mark reputation as sellers of genuine
+fakes offer those goods to consumers and those sellers
+allow consumers to acquire the prestige of owning what
+appears to be the more expensive product. A loss in
+trade mark reputation, therefore, could occur when a
+sophisticated buyer purchases a genuine fake and passes
+it off to the public as the genuine article, thereby con-
+fusing the viewing public and achieving the status of
+the genuine article at a knockoff price.
+
+Arsenal46 and Corporation v Eagle Technologies
+(2011)47 are remarkable examples of this approach. The
+ﬁrst case concerned the selling and offering for sale by
+Mr Reed of scarves marked in large lettering with the
+word ‘ARSENAL’, a word that is registered as a trade
+mark by Arsenal Football Club for those and other
+goods. Mr Reed claimed that the consumers of his
+products would not be misled about their real origin as
+he let the consumers know that his products did not
+come from any ofﬁcial shop of Arsenal Football Club.
+Further to a reference for a preliminary ruling, the
+CJEU held that the presence on Mr Reed’s stall of the
+notice stating that the goods at issue in the main pro-
+ceedings are not ofﬁcial Arsenal FC products would not
+be relevant to avoid infringement:
+
+Even on the assumption that such a notice may be relied
+on by a third party as a defence to an action for trade mark
+infringement, there is a clear possibility in the present case
+that some consumers, in particular if they come across the
+goods after they have been sold by Mr. Reed and taken
+away from the stall where the notice appears, may interpret
+the sign as designating Arsenal FC as the undertaking of or-
+igin of the goods.48
+
+In DataCard Corp v Eagle Technologies, DataCard
+Corp claimed that Eagle Technologies had infringed its
+trade mark ‘DATACARD;
+in respect of labels applied to
+ribbon packaging on the websites that the defendant
+managed for its resellers. Eagle Technologies denied any
+trade mark infringement on grounds that the use at
+hand was necessary to indicate that its ribbons were
+compatible with the printers of DataCard Corp and the
+context of that use was sufﬁcient to avoid likelihood of
+confusion. The High Court of Justice of England and
+Wales rejected the defendant’s arguments and held that
+the use of DATACARD by Eagle Technologies amounted
+to trade mark infringement. The High Court of Justice,
+concerning the post-sale confusion doctrine, held that:
+
+On balance, it seems to me that the case law of the Court
+of Justice supports the proposition that post-sale confusion
+
+can be relied upon in support of a claim under article 5(1)
+b [of the First Council Directive] This is most clearly the
+case in respect of the labels . . . even if the consumers were
+not confused at the time of purchase and such confusion
+only arose after purchase, that is immaterial . . . .49
+
+The aim of the post-sale confusion test is clear. If the
+point of sale as a disclaimer of the trade origin is the main
+hermeneutic difﬁculty in forbidding the commercializa-
+tion of genuine fakes, the point of sale should be removed
+and replaced by a post-sale context that enables trade
+mark holders to prove the existence of the risk of con-
+sumer confusion. This approach, however, faces some dif-
+ﬁculties in justifying a criminal sanction under s 92 TMA
+1994. This is, ﬁrst, because of a distortion in the source
+theory. Trade mark exclusive rights are extended to the
+hypothetical and futuristic behaviour of real purchasers of
+genuine fakes when they interact with other individuals
+that could be potential consumers of genuine goods or
+simply snobs who could feel ‘disappointed’ or ‘offended’
+by a loss of their social distinctiveness. Any evidence of
+likelihood of consumer confusion is examined in a con-
+text where the point of sale has no legal value, but this
+context is simply hypothetical. At the point of sale, con-
+sumers are not misled about the real origin of goods; they
+simply want to acquire those goods with the aim of gain-
+ing the logo of the famous mark at a lower price, ie the
+proof of consumer confusion is transformed dramatically.
+The traditional relationship between consumers and trade
+mark holders would be replaced by a peer-to-peer con-
+sumer interrelationship based on wealth signalling and so-
+cial distinction. This is secondly because the person who
+sells genuine fakes knows simply a context as a disclaimer
+of trade origin that is useful for those consumers who are
+willing to acquire those products. In this scenario, the
+seller would be responsible for a futuristic and hypotheti-
+cal scenario where citizens could bear or simply contem-
+plate the logo of the trade mark. It seems unreasonable
+under s 92(5) TMA 1994 to justify a criminal sanction
+based on the extension of the proof of mens rea to this
+futuristic behaviour in post-sale contexts when the seller
+of genuine fakes knows simply that consumers cannot be
+confused about the source of the goods because of the
+context in which the genuine fakes are commercialized.
+This is because the capability of genuine fakes to be
+viewed and examined by the general public becomes an
+arbitrary hermeneutic approach in deciding what kind of
+uncompetitive behaviour should be enforced by a crimi-
+nal sanction with the ability to marginalize all those cases
+where genuine fakes are not displayed in public.
+
+46 Arsenal Football Club plc v Matthew Reed, C206/01, EU:C:2002:651.
+47 DataCard Corp v Eagle Technologies (2011) EWHC 244 (Pat).
+
+48 Arsenal v Reed, paragraph 57.
+49 DataCard Corp v Eagle Technologies, paragraph 286.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+9
+6
+9
+8
+2
+2
+1
+8
+7
+0
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+706
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2016, Vol. 11, No. 9
+
+Conclusion
+
+R v James Rupert Isaac seemed to open the door to
+genuine fake markets when it was supposed that R v
+Johnstone had closed it. R v Gary Boulter and R v
+Beazley attempted to close the door once again to
+those markets based on the double identity case as
+laid down in s 10(1) TMA 1994 and the impossibility
+of considering the context where the goods are sold as
+a disclaimer and essential element to disprove any evi-
+likelihood of confusion. Both judgments,
+dence of
+however, are subject
+to some difﬁculties, which
+
+should be taken into account when a criminal sanc-
+tion is imposed under s 92 TMA 1994. This does not
+mean that proposals that develop new argumentative
+strategies to criminalize counterfeiting (especially to
+implement a bottom-up approach to law-making in
+the EU) are not welcome, but the price to be paid for
+this should not be the enforcement of property rights
+in distinctive signs without considering the social di-
+mension of indication of origin to help consumers
+make informed decisions about the source of the
+products they buy.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+1
+9
+6
+9
+8
+2
+2
+1
+8
+7
+0
+8
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+

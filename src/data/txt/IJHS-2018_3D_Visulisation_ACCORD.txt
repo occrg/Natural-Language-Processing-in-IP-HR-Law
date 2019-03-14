@@ -1,0 +1,7588 @@
+International Journal of Heritage Studies
+
+ISSN: 1352-7258 (Print) 1470-3610 (Online) Journal homepage: https://www.tandfonline.com/loi/rjhs20
+
+3D heritage visualisation and the negotiation of
+authenticity: the ACCORD project
+
+Siân Jones, Stuart Jeffrey, Mhairi Maxwell, Alex Hale & Cara Jones
+
+To cite this article: Siân Jones, Stuart Jeffrey, Mhairi Maxwell, Alex Hale & Cara Jones (2018) 3D
+heritage visualisation and the negotiation of authenticity: the ACCORD project, International Journal
+of Heritage Studies, 24:4, 333-353, DOI: 10.1080/13527258.2017.1378905
+To link to this article:  https://doi.org/10.1080/13527258.2017.1378905
+
+Published online: 17 Oct 2017.
+
+Submit your article to this journal 
+
+Article views: 783
+
+View Crossmark data
+
+Citing articles: 2 View citing articles 
+
+Full Terms & Conditions of access and use can be found at
+
+https://www.tandfonline.com/action/journalInformation?journalCode=rjhs20
+
+InternatIonal Journal of HerItage StudIeS , 2018
+Vol. 24, no. 4, 333–353
+https://doi.org/10.1080/13527258.2017.1378905
+
+3D heritage visualisation and the negotiation of authenticity: the 
+ACCORD project*
+
+Siân Jonesa 
+
+, Stuart Jeffreyb 
+
+, Mhairi Maxwellc 
+
+, Alex Haled 
+
+ and Cara Jonese
+
+adivision  of  History  and  Politics,  Pathfoot  Building,  university  of  Stirling,  Stirling,  uK;  bSchool  of  Simulation  and 
+Visualisation, glasgow School of art, glasgow, uK; cSchool of Simulation and Visualisation, glasgow School of art, 
+glasgow, uK; dHistoric environment Scotland, edinburgh, uK; earchaeology Scotland, Musselburgh, uK
+
+ARTICLE HISTORY
+received 14 March 2017 
+accepted 25 august 2017
+
+KEYWORDS
+authenticity; 3d modelling; 
+digital heritage visualisation; 
+co-production; community
+
+ABSTRACT
+This  article  examines  the  question  of  authenticity  in  relation  to  3D 
+visualisation  of  historic  objects  and  monuments.  Much  of  the  literature 
+locates their authenticity in the accuracy of the data and/or the realism of 
+the resulting models. Yet critics argue that 3D visualisations undermine the 
+experience  of  authenticity,  disrupting  people’s  access  to  the  materiality, 
+biography  and  aura  of  their  historic  counterparts.  The  ACCORD  project 
+takes questions of authenticity and 3D visualisation into a new arena – that 
+of community heritage practice – and uses rapid ethnographic methods 
+to examine whether and how such visualisations acquire authenticity. The 
+results demonstrate that subtle forms of migration and borrowing occur 
+between the original and the digital, creating new forms of authenticity 
+associated with the digital object. Likewise, the creation of digital models 
+mediates the authenticity and status of their original counterparts through 
+the networks of relations in which they are embedded. The current pre-
+occupation  with  the  binary  question  of  whether  3D  digital  models  are 
+authentic or not obscures the wider work that such objects do in respect 
+to  the  cultural  politics  of  ownership,  attachment,  place-making  and 
+regeneration.  The  article  both  advances  theoretical  debates  and  has 
+important implications for heritage visualisation practice.
+
+Introduction
+
+Media forms are constantly calling into question each other’s ability to represent the authentic, and these reme-
+diations raise the possibility of the decay of aura, the loss of authenticity of experience. (Bolter et al. 2006, 34)
+
+Authenticity has long been seen as an intrinsic and immutable dimension of tangible historic objects, 
+monuments and landscapes; an integral aspect of their significance, their truthfulness, and their genu-
+ineness. In authorised museum and heritage discourses, there has been an overwhelming emphasis on 
+material authenticity, with the integrity or ‘true’ nature of objects defined in relation to their origins, 
+provenance and fabric (Cameron 2007, 52; Jones 2010, 184). In contrast, the authenticity of physical 
+replicas and reconstructions has a much more chequered and ambivalent history (Foster and Curtis 
+2016; Fyfe 2004; Rabinowitz 2015). Whilst fluctuating according to their modes of production, accu-
+racy, institutional associations and biographical trajectories, their authenticity and value are almost 
+
+CONTACT  Siân Jones 
+*the data is archived with the archaeology data Service, https://doi.org/10.5284/1042733.
+
+  sian.jones@stir.ac.uk
+
+© 2017 Siân Jones, Stuart Jeffrey, Mhairi Maxwell, alex Hale and Cara Jones. Published with license by Informa uK limited, trading as taylor & francis 
+group
+
+334 
+
+ 
+
+ S. JONES ET AL.
+
+always seen as secondary, and indeed a potential threat, to the original objects they represent. Digital 
+visualisations of historic objects and monuments, which can be seen as virtual replicas or reconstruc-
+tions, often acquire a similarly complex and ambivalent status (Cameron 2007). However, recent 
+research suggests that apparently clear cut distinctions between originals and replicas, both physical 
+and digital, are far more complex.
+
+The extent to which the authenticity of originals is intrinsic and immutable has been questioned. 
+It has been argued that authenticity is in large part culturally constructed, being constituted through 
+regimes of value associated with authorising institutions such as museums, art galleries and the inter-
+national art market (Bruner 2007; Holtorf and Schadla-Hall 1999; Lindholm 2008). In terms of the 
+experience of authenticity, aging, patina and material decay are also important, creating a diffuse 
+sense of ‘pastness’ (Douglas-Jones et al. 2016; Holtorf 2013). Finally, ethnographic research reveals 
+that authenticity is produced and negotiated through networks of relationships between people, places 
+and things (Dicks 2000; Jones 2010; Jones and Yarrow 2013; Macdonald 2013).
+
+Just as the intrinsic authenticity and value of originals is problematised, so the inauthenticity of 
+replicas has been questioned. From various perspectives, studies have shown that physical replicas can 
+acquire authenticity and value, depending on their modes of production and consumption, and the 
+networks of institutional and individual relations they are embedded in (e.g. Foster and Curtis 2016; 
+Holtorf and Schadla-Hall 1999; Latour and Lowe 2011). Likewise in debates surrounding digital media, 
+the idea that virtual representations signal the end of authenticity has been challenged (e.g. Cameron 
+2007; Gillings 2005; Jeffrey 2015), or at least reconfigured as ‘the experience of aura is alternately called 
+into question and reaffirmed’ (Bolter et al. 2006, 22).
+
+In this article, we examine the question of authenticity in relation to digital visualisation of his-
+toric objects and monuments in the context of participatory community practices. We draw on the 
+results of the innovative ACCORD project (Archaeological Community Co-Production of Research 
+Resources), which examined the opportunities and implications of collaborative, community-based, 
+digital recording and modelling, using the techniques of photogrammetry and reflectance transfor-
+mation imaging. The methodologies underpinning community co-design and co-production in the 
+ACCORD Project are discussed in detail elsewhere (Jeffrey et al. 2015), whilst another article focuses 
+on their role in the production of value and sense of place (Jeffrey et al. In Prep). Here we use the 
+rapid ethnographic research conducted alongside the project to explore the relationship between 3D 
+digital models and authenticity.
+
+This research provides a substantial body of qualitative evidence demonstrating that digital objects 
+can acquire authenticity and value; something that until now has been largely confined to theoretical 
+propositions. Whilst distinctions between originals and 3D models are upheld, the research shows 
+that it is a mistake to view these in terms of fixed attributes. Rather digital records and objects become 
+bound up in complex and dynamic networks of relationships. Importantly, these allow for subtle 
+forms of migration and borrowing, alongside the generation of new forms of value and authenticity. 
+The community co-design and co-production employed in the ACCORD project is a key part of this 
+process, creating relationships between people, places and objects often expressed in forms of identity 
+and belonging. Thus, whilst much of the literature on the authenticity and value of digital media focuses 
+on accuracy, resolution, aesthetics and consumption (see Bolter et al. 2006; Garstki 2016), this research 
+shows that modes of production and participatory practice are equally if not more important. The 
+results challenge received assumptions about authenticity and new digital media, and advance related 
+philosophical and theoretical debates. They also have important ramifications for the application of 
+digital heritage visualisation in practice.
+
+Authenticity and digital representation
+Before turning to the ACCORD project in detail, we interrogate the current debates surrounding digital 
+media and authenticity in more depth and explain our approach to these issues. Broadly speaking, 
+authenticity refers to the quality of being authentic, that is, real, original, truthful, or genuine; ‘really 
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  335
+
+proceeding from its stated source’ (Oxford English Dictionary 2002, 153). Authorised heritage and 
+museum discourses still treat authenticity as something intrinsic to historic buildings, monuments 
+and objects; and lacking or derivative in the case of replicas. As noted in the introduction, construc-
+tivist critiques have dismantled this distinction to some extent, but the intimate relationship between 
+materiality and conceptions of authenticity remains firm. Historic fabric is objectified as a container of 
+authenticity and a battery of techniques applied to differentiating the ‘real’ or ‘genuine’, from the ‘fake’. 
+Indeed, even recent research challenging essentialist notions of authenticity suggests that the specific 
+biographies and materialities of historic objects are important in how people experience and negotiate 
+authenticity (e.g. Holtorf 2013; Jones 2010, 2016). In particular, weathering and patina are significant 
+elements in people’s experience of authenticity (Douglas-Jones et al. 2016). It is not surprising therefore 
+that the ‘weirdness’ of digital objects creates questions about their authenticity (Jeffrey 2015, 147). 
+Lacking either physical substance, or a specific physical locale, they can seem like otherworldly, free 
+floating representations. Furthermore, whilst they can offer a representation of the physical signs of age, 
+digital objects themselves appear impervious to the ravages of time, even bearing infinite reproduction 
+apparently without attenuation (Jeffrey 2015). For these reasons their authenticity is regarded with sus-
+picion and their existence is even seen as a threat to the unique, ‘original’ historic forms they represent.
+The work of Benjamin has been particularly influential in debates about digital authenticity (Bolter 
+et al. 2006; Cameron 2007; Garstki 2016; Jeffrey 2015; Rabinowitz 2015). Writing in the early twentieth 
+century in response to new technological developments such as photography and cinema, Benjamin 
+argued that mechanical reproduction undermines the uniqueness of the original art object, which 
+in turn leads to the decay of aura, along with the sense of awe and reverence associated with it. For 
+Benjamin ([1936] 1969, 221) the aura or authenticity of a thing:
+
+… is the essence of all that is transmissible from its beginning, ranging to its substantive duration to its testi-
+mony to the history it has experienced. Since the historical testimony rests on the authenticity, the former, too 
+is jeopardized by reproduction when substantive duration ceases to matter.
+
+The authenticity of an object is thus associated with its unique position in space and time, and the 
+biography  it  encapsulates.  Although  Benjamin  highlighted  the  liberatory  political  possibilities  of 
+mechanical reproduction, those applying his ideas to mass digital media have focused primarily on 
+its potential to destabilise the ‘real’ and the ‘true’ (Cameron 2007, 50–51). Digital models and vis-
+ualisations of historic objects, buildings and monuments are often portrayed as inauthentic ‘digital 
+terrorists’ (Cameron 2007, 51), or in a more positive sense useful surrogate records that remain highly 
+dependent on their physical referents. In this latter sense, the degree of accuracy, objectivity, and/or 
+realism of digital records and visualisations inevitably remain key preoccupations, notwithstanding 
+their separation and distinction from their tangible counterparts (e.g. Garstki 2016; Rabinowitz 2015).
+Nevertheless, as noted in our introduction these hard and fast distinctions between digital his-
+torical objects and their physical counterparts have been challenged. In their work on physical cop-
+ies of artworks produced through intermediary digital techniques, Latour and Lowe (2011) directly 
+challenge Benjamin’s thesis, arguing that some part of the aura of the original object can ‘migrate’ to 
+its replicas. They propose that some forms of replication facilitate this migration more than others 
+and much depends on the different degrees of effort, cost and technological sophistication employed 
+(Latour and Lowe 2011, 7–8). They also argue that the physical and cultural contexts in which copies 
+are encountered are important in determining the degree to which they acquire aura or authenticity 
+(Latour and Lowe 2011, 10–11). Jeffrey (2015, 148) builds on Latour and Lowe’s argument and pro-
+poses that aura can also migrate to digital copies in and of themselves, through both attention to the 
+aesthetics of digital visualisations and, foreshadowing this research, active community participation 
+in their production. Others in turn have suggested that digital historical objects can accrue their own 
+forms of authenticity or aura over time, because ‘the digital historical object is a creative work in its 
+own right with a history and provenance’ (Cameron 2007, 67).
+
+The ACCORD project sheds new light on the question of if, when, and how digital 3D historic 
+objects acquire authenticity. Our focus is on how people experience authenticity in relation to 3D 
+
+336 
+
+ 
+
+ S. JONES ET AL.
+
+models. Thus, we are not concerned with characteristics such as accuracy, objectivity and realism 
+per se, except in so far as they inform the production and negotiation of authenticity. We also treat 
+aura as a specific aspect of the experience of authenticity related to biographical uniqueness and a 
+simultaneous sense of distance and connection associated with heritage objects; what one of us has 
+referred to as the ‘thrill of proximity’ (Jeffrey 2015, 147). In addition to exploring whether or not digital 
+3D visualisations of historic objects, monuments and places can acquire authenticity or aura, we also 
+ask what these visualisations do. In what ways do they impact on the authenticity of their ‘original’ 
+counterparts and their ongoing biographical trajectories? Furthermore, to what extent do they create, 
+extend and/or reinforce networks of relations between people, places and things, and in so doing medi-
+ate the experience of authenticity (cf. Jones 2010; Jones and Yarrow 2013; Macdonald 1997b, 2013)?
+Before we examine these questions in more depth, we discuss the research practices and methodol-
+ogies used in the ACCORD project, starting with a brief summary of approaches to digital visualisation 
+and public engagement. We then introduce the community heritage groups that participated in the 
+project and the heritage places that were recorded and modelled.
+
+The ACCORD project: research practices and methodologies
+After more than 3 decades of research and development, digital visualisation techniques, including 
+laser scanning, photogrammetry, and reflectance transformation imaging, are now ubiquitous in the 
+archaeology, heritage and museum sectors. However, the use of these techniques remains largely in 
+the domain of expert forms of knowledge, informed by academic research agendas and/or professional 
+priorities. The London Charter for Computer-Based Visualisation of Cultural Heritage encapsulates 
+this in its principles, which are intended as a ‘benchmark’ to ensure intellectual and technical rigour 
+(Londoncharter.org 2009). There is a body of work relating to the use of digital media, including 3D 
+recording and modelling, for communication, education and public engagement (for a review see 
+King, Stark, and Cooke 2016). However, much of this is pre-occupied with access to, and dissemina-
+tion of, academically or professionally produced records and visualisations, again as exemplified by 
+the London Charter (see section on ‘access’). A number of projects have made significant advances in 
+developing forms of archiving and presentation that facilitate active visitor/public engagement (King, 
+Stark, and Cooke 2016, 90–93), of which the Ename project was an early pioneer with its focus on 
+interactive, collaborative storytelling (Pletinckx, Silberman, and Callebaut 2003). Yet, even in such 
+cases, the production of the digital data and visualisations involved remains predominantly in the 
+hands of academic researchers or museum and heritage professionals, aided by interpreters, designers 
+and digital technologists.
+
+In recent years, projects founded on citizen science and crowdsourcing have contributed to greater 
+public/community participation in the production of digital material in heritage and museum contexts 
+(for a discussion see King et al. [2016], Simon [2010], and contributions to Kalay et al. eds [2008]). 
+MicroPasts, a web-enabled, crowd-sourcing project (micropasts.org) is a prominent example in the 
+museum sector. It brings together full-time academic researchers, volunteer archaeological and his-
+torical societies and other interested members of the public to create research data (Bonacchi et al. 
+2014). Tasks include helping to locate artefact findspots, identifying subject matter in historic archives, 
+masking photos for 3D modelling, or transcribing letters and catalogues. However, more often than 
+not, the nature of the digital research data, the role of participants, and the types of heritage involved 
+in such projects are defined by academic researchers and/or museum and heritage professionals. 
+Thus, in the few publications focusing on the potential of photogrammetry for facilitating community 
+engagement with heritage, much of the emphasis is on training and the creation of a record of heritage 
+assets (e.g. Bryan and Chandler 2008; McCarthy 2014), perpetuating expert authority in similar ways 
+to many community archaeology projects (Smith and Waterton 2009). Furthermore, the social and 
+communal values associated with the historic artefacts, monuments and places being recorded are 
+rarely incorporated into the project design, let alone the creation of digital research data.
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  337
+
+In contrast, the ACCORD project team worked with ten community heritage groups across Scotland 
+to create 3D records and models of heritage places of significance to them (Figure 1). The aim was to 
+examine the opportunities and implications of digital visualisation technologies for community her-
+itage practice using co-design and co-production of 3D models of historic monuments. Popular in a 
+range of design, planning and healthcare environments, co-design and co-production methodologies 
+are intended to decentre traditional relationships of power, control and expertise between researchers 
+and volunteers, or ‘professionals’ and ‘non-professionals’ (Burr and Matthews 2008; Conroy, Clarke, 
+and Wilson 2012; Cottam and Leadbeater 2006; Davies 2010). Whilst not without their challenges and 
+shortcomings, these methodologies produce more symmetrical relationships between participants at 
+the same time as facilitating critical reflection on the power relationships involved (see Maxwell [2017] 
+for further discussion in the context of ACCORD; also Lynch and Alberti [2010]).
+
+In terms of digital visualisation technologies, ‘consumer-level’ photogrammetry (structure from 
+motion) and Reflectance Transformation Imaging (hereafter RTI) were used, because they are more 
+accessible than other techniques and thus facilitate participation. Depending on the outcomes of the 
+co-design process, time of flight laser scanning was sometimes also deployed, for example for large-
+scale recording. 3D printing technology was used in select cases to create physical models from the cap-
+tured data. The digital data and models resulting from the project have been permanently archived on 
+an open-access basis archived with Archaeology Data Service (doi: https://doi.org/10.5284/1042733). 
+Issues relating to open-data and ownership of the resulting assets (intellectual property and copyright) 
+were openly negotiated with the community groups, usually resulting in use of Creative Commons 
+
+Figure 1. Co-design and co-production with community groups. Clockwise from top left: (a) photogrammetry with ardnamurchan 
+Community archaeology group; (b) co-design with Kirkcudbright Historical Society; (c) focused group interview and (d) rtI, both 
+with and Colintraive and glendaruel History and archaeology group (Images: aCCord, CC-BY).
+
+338 
+
+ 
+
+ S. JONES ET AL.
+
+attribution licensing (CC-BY). Further technical information is also provided in the ACCORD archive 
+(http://archaeologydataservice.ac.uk/archives/view/accord_ahrc_2015/overview.cfm).
+
+A distinctive aspect of the ACCORD project is that ‘co-design’ encouraged community participants 
+to take an active role in the selection of recording ‘targets’ and technologies, with particular attention 
+to the significance of heritage places, and the social and communal values associated with them. These 
+social and communal values were also recorded and archived with the digital models. Furthermore, 
+key research objectives included an exploration of the impact of community co-design and co-pro-
+duction on the value and authenticity of both the digital models and their original counterparts. For 
+this purpose, we used qualitative research methods associated with rapid or focused ethnography, 
+which are usually charcterised by short time-frames, mixed methods, multi-disciplinary teams, and 
+forms of active intervention to create ‘intense routes to knowing’ (Pink and Morgan 2013, 351; also 
+Knoblauch 2005). As Pink and Morgan (2013, 352) put it:
+
+[Rapid ethnography] involves intensive excursions into [people’s] lives, which use more interventional as well as 
+observational methods to create contexts through which to delve into questions that will reveal matters to those 
+people in the context of what the researcher is seeking to find out.
+In the case of the ACCORD project, the co-design and co-production of 3D records provides an 
+entry point or ‘intervention’ around which qualitative research was conducted. Our work with each 
+group started and finished with focused group interviews (see Finch, Lewis, and Turley 2014), which 
+acted as points of intensive discursive enquiry where background knowledge could be obtained, and 
+concepts and experiences relevant to the project explored and probed. The discussion was ‘focused’ by 
+the project team through the use of a semi-structured interview design, but this was used flexibly to allow 
+participants to use their own frames and concepts and to pursue their own priorities. Furthermore, the 
+project team encouraged participants to talk to one another: ‘asking questions, exchanging anecdotes, and 
+commenting on each others’ experiences and points of view’ (Kitzinger and Barbour 1999, 4). We also 
+used participant observation during the co-design and co-production of the digital records and models, 
+which facilitated intensive observation of these ‘situated performances’ (Knoblauch 2005, para 28).
+
+In synopsis, the ACCORD team spent 2–3 intensive days working with each of the 10 community 
+groups and the various methodologies were combined in 4 distinct phases (see Figure 2). Phase 1 
+consisted of the first focused group interview with those members of the community heritage group 
+who wished to engage in the accord project (Figure 1(c)). This was designed to elicit discussion about 
+the nature and formation of the heritage group, their interests and attachments, the heritage prac-
+tices they ordinarily engage in, and the meanings and values associated with specific historic objects, 
+monuments and places.
+
+Phase 2 focused on co-design of the 3D recording and modelling activities. This phase consisted 
+of a continuation of the phase 1 focus group, identifying and discussing targets and technologies for 
+3D visualisation, often with the aid of images and maps (see Figures 6(a) and (c) below). In addition, 
+co-design often entailed direct engagement with landscapes of attachment in the form of site visits 
+and story telling (Figure 1(b), also Figure 5(b) below). Community participants and research team 
+members worked together, taking into account the interests of the community heritage group, as well 
+as the objectives of the ACCORD project.
+
+Phase 3 focused on co-production, starting with field recording and then progressing to data pro-
+cessing and modelling. Community participants had different levels of photographic and IT proficiency, 
+with only a handful of individuals across all of the groups with any prior experience of photogram-
+metry, let alone the other techniques. Members of the project team brought technical expertise and 
+experience to the co-production, but a collaborative ethos was actively promoted with community 
+participants engaged in photographic recording (Figure 1(a)), screening and lighting for RTI (Figure 
+1(d)), clearing vegetation, strategic discussion and management of data. Data-processing and mod-
+elling were initiated by project staff, but wherever possible conducted in the company of community 
+participants with as much participation as possible (see Figure 5(d) below). This phase also stimulated 
+reflection and discussion mediated by close engagement with heritage places and direct experience 
+of the recording practices.
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  339
+
+Figure 2. diagram showing the key stages in the aCCord methodology (aCCord, CC-BY).
+
+Phase 4 involved another focused group interview, this time exploring the significance, value and 
+authenticity of the 3D visualisations, as well as their relations with the tangible objects and places 
+they represent. Where forms of attachment and ownership surfaced these were actively explored, as 
+were the aesthetics of the virtual forms produced. Discussion also focused on the practices involved 
+and the experience of co-design and co-production. Finally, the ways in which participation in 3D 
+visualisation impacted on the interests and attachments of those involved was considered.
+
+Throughout the four phases, project team members were participant observers. Jones and Maxwell, 
+in particular took the lead in terms of this overarching ethnographic research, keeping field notes to 
+record observations, experiences and conversations. Phases 2 and 3, where project team members and 
+community participants engaged in collaborative practices, were particularly productive in this regard. 
+Direct engagement with landscapes, monuments and objects during co-design and co-production often 
+stimulated conversations and debates that provided insights into group dynamics and the ways in which 
+value and authenticity are negotiated in practice. Participant observation also allowed the project team 
+to gain an understanding of community participants’ changing attitudes to 3D technologies and the 
+resulting visualisations. Thus the ACCORD methodology created intense research encounters that 
+brought theoretical questions into focus within an ethnographic arena (Pink and Morgan 2013, 357), 
+including those relating to significance, value and authenticity.
+
+Places of significance: community heritage practices and 3D visualisation
+The ACCORD project involved a diverse range of community groups largely drawn from pre-ex-
+isting relationships with project partners. Half were recruited from Archaeology Scotland’s Adopt-
+a-Monument Scheme, a five-year community-led scheme (with some 55 self-subscribed groups), 
+
+340 
+
+ 
+
+ S. JONES ET AL.
+
+which supports and facilitates local groups across Scotland wishing to conserve and promote their 
+local heritage. An open call through the Scheme enlisted 5 groups to participate in ACCORD (Access 
+Archaeology; Ardnamurchan Community Archaeology Group; Bressay History Group; Colintraive 
+and Gendaruel History & Archaeology Group; The Friends of Glasgow Necropolis). We recruited a 
+further group through Glasgow Life’s community outreach scheme (Castlemilk’s How Old Are Yew?) 
+and one through the Royal Commission on the Ancient and Historic Monuments of Scotland (now 
+part of Historic Environment Scotland (HES)) (the rock climbers at Dunbarton Rock). The remaining 
+3 out of 10 ACCORD groups were recruited through academic and professional colleagues of the 
+project team who were working with community archaeology or heritage groups (The Kircudbright 
+History Society; The Rhynie Woman Group; Tarbat dig/Clan McFarlene Group).
+
+The ten groups vary considerably in their nature, interests, size and longevity (see Table 1 for 
+details). They include archaeology and history societies, as well as more informal groups with a strong 
+emphasis on practical investigation, conservation and presentation of heritage places. Many of the 
+groups are characterised by their focus on a specific locale, associated with a range of interests and 
+activities extending beyond cultural heritage. Indeed, a couple of groups we worked with can best be 
+described as ‘communities of practice’; loose, emergent or transient groups, formed around particular 
+kinds of activity and/or heritage places with little formal organisational structure.
+
+In terms of size, the groups range from a handful of people to those with a sizeable membership, 
+although the ACCORD team usually worked with 5–10 (self-selecting) participants from a given group. 
+The groups are widely distributed across Scotland, from the Central Belt, to Kirkcubright in the south-
+west, the Ardnamurchan peninsula in the West Highlands, Rhynie in the East, and the remote islands 
+of the Uists and Bressay (see Figure 3). These offer radically different geographic contexts associated 
+with correspondingly diverse landscapes and forms of heritage, including densely populated urban 
+conurbations, rural/coastal towns and villages, and dispersed Highland and Island communities. There 
+are also significant variations in socio-economic context, ranging from Castlemilk, one of Glasgow’s 
+post-War social housing schemes, to the wealthy rural town of Kirkcudbright, to communities under-
+going population decline in more remote regions. There are also some variations in age and gender, at 
+least in terms of the individuals who participated in ACCORD. However, the most significant social 
+distinction, for rural groups at least, is that between self-defining ‘incomers’ and ‘locals’; a widespread 
+category distinction in rural Scotland (e.g. Macdonald 1997a; Nadel-Klein 1991).
+
+For many of the groups, investigating, conserving and/or promoting heritage places is a means to 
+establish connections to locality and make a place for themselves; as one participant put it, to ‘get in 
+touch through the story’. This inclination is often particularly pronounced or explicit for those who see 
+themselves, and/or are defined by others, as ‘incomers’. This also impacts on the kinds of monument 
+people focus on. For instance, rural heritage groups with a significant proportion of ‘incomers’ often 
+avoid the recent past, which is bound up in personal genealogies and oral histories, and focus on the 
+distant past manifested in archaeological monuments to create a sense of connection for themselves.
+Related processes are at work in contexts associated with a history of dislocation or displacement. 
+For instance, the Scots-Americans involved in the Tarbet dig within the Loch Lomond and Trossachs 
+National Park are seeking to re-connect with their clan heritage by actively investigating and record-
+ing what they see as their Clan MacFarlane heritage. In a very different context, for members of 
+Castlemilk’s ‘How Old Are Yew?’ group, investigating, recording and preserving what might be seen 
+as the elite heritage of the former Castlemilk House offers a means to create a sense of belonging in 
+one of Glasgow’s notorious post-war housing schemes.
+
+Another important aspect of these place-making activities is the desire to counter decline and mar-
+ginalisation. The Rhynie Woman group offers another example, seeing Rhynie as ‘a bit of a backwater’ 
+and their work as a means of ‘putting Rhynie on the map’. Colintraive and Glendaruel History and 
+Archaeology Group are also preoccupied with marginalisation seeing themselves as ‘a community at 
+risk’ and heritage as a means of generating tourism, business and leisure; ‘making something that peo-
+ple will want to come and see’. Indeed, countering ‘risk’ is an important stimulus to the place-making 
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  341
+
+ 
+t
+s
+o
+m
+
+ 
+t
+u
+b
+
+ 
+,
+s
+t
+s
+i
+u
+e
+h
+t
+ 
+n
+
+ 
+
+i
+ 
+t
+n
+e
+d
+i
+s
+e
+r
+ 
+e
+r
+a
+
+ 
+l
+l
+
+ 
+
+a
+P.
+r
+a
+H
+C
+S
+ 
+r
+o
+f
+ 
+r
+e
+e
+t
+n
+u
+o
+v
+y
+l
+r
+a
+u
+g
+e
+r
+ 
+y
+e
+h
+t
+
+l
+
+l
+
+ 
+
+ 
+.
+
+ 
+
+i
+
+e
+s
+r
+u
+o
+c
+g
+n
+n
+e
+v
+e
+y
+g
+o
+o
+e
+a
+h
+c
+r
+a
+
+l
+
+ 
+
+ 
+
+ 
+
+n
+a
+h
+g
+u
+o
+r
+h
+t
+ 
+t
+e
+m
+p
+u
+o
+r
+g
+e
+r
+o
+c
+e
+h
+t
+
+ 
+
+ 
+
+ 
+
+ 
+.
+
+ 
+
+l
+
+4
+1
+0
+2
+e
+c
+n
+i
+s
+ 
+e
+v
+i
+t
+c
+a
+ 
+)
+s
+r
+a
+u
+g
+e
+r
+ 
+0
+1
+-
+5
+(
+ 
+p
+u
+o
+r
+g
+y
+g
+o
+o
+e
+a
+h
+c
+r
+a
+
+l
+
+ 
+
+ 
+l
+
+a
+m
+r
+o
+f
+n
+
+i
+ 
+l
+l
+
+a
+m
+
+s
+ 
+a
+
+ 
+
+e
+r
+a
+ 
+s
+r
+e
+b
+m
+e
+m
+
+ 
+t
+s
+o
+M
+
+ 
+.
+
+ 
+
+p
+o
+h
+s
+k
+r
+o
+w
+d
+n
+a
+l
+t
+o
+c
+S
+y
+g
+o
+o
+e
+a
+h
+c
+r
+a
+n
+a
+n
+
+l
+
+ 
+
+ 
+
+ 
+
+i
+ 
+
+n
+o
+i
+t
+a
+p
+i
+c
+i
+t
+r
+a
+p
+ 
+r
+e
+t
+f
+a
+3
+1
+0
+2
+n
+
+ 
+
+ 
+
+i
+ 
+
+d
+e
+m
+r
+o
+f
+ 
+y
+l
+l
+
+a
+i
+c
+ffi
+o
+
+ 
+.
+
+ 
+
+a
+e
+r
+a
+e
+h
+t
+ 
+n
+
+i
+ 
+t
+c
+e
+o
+r
+p
+
+j
+
+ 
+l
+
+ 
+
+l
+
+a
+c
+i
+g
+o
+o
+e
+a
+h
+c
+r
+a
+n
+a
+y
+b
+d
+e
+t
+a
+u
+m
+
+l
+
+ 
+
+ 
+
+i
+t
+s
+ 
+y
+l
+l
+
+a
+i
+t
+i
+n
+
+l
+
+i
+ 
+)
+s
+r
+a
+u
+g
+e
+r
+ 
+6
+(
+ 
+p
+u
+o
+r
+g
+y
+g
+o
+o
+e
+a
+h
+c
+r
+a
+
+l
+
+ 
+
+ 
+l
+
+a
+c
+o
+
+l
+ 
+l
+l
+
+a
+m
+
+s
+ 
+a
+
+ 
+’.
+s
+r
+e
+m
+o
+c
+n
+
+i
+‘
+ 
+t
+n
+e
+d
+i
+s
+e
+r
+ 
+d
+e
+n
+fi
+e
+d
+-
+f
+l
+e
+s
+
+’.
+s
+r
+e
+m
+o
+c
+n
+
+i
+‘
+ 
+
+d
+e
+n
+fi
+e
+d
+-
+f
+l
+e
+s
+ 
+e
+r
+a
+
+ 
+
+p
+u
+o
+r
+g
+e
+h
+t
+
+ 
+
+ 
+.
+
+ 
+
+y
+t
+i
+r
+a
+h
+C
+h
+s
+i
+t
+t
+o
+c
+S
+d
+e
+r
+e
+t
+s
+i
+g
+e
+r
+ 
+a
+ 
+s
+i
+ 
+
+ 
+
+h
+c
+i
+h
+w
+
+l
+
+ 
+,
+)
+s
+r
+a
+u
+g
+e
+r
+ 
+0
+1
+(
+ 
+p
+u
+o
+r
+g
+g
+n
+d
+n
+a
+t
+s
+-
+g
+n
+o
+
+i
+
+ 
+
+l
+ 
+y
+l
+e
+v
+i
+t
+a
+e
+r
+ 
+t
+u
+b
+
+l
+
+ 
+,
+l
+l
+
+a
+m
+
+s
+ 
+a
+
+ 
+’
+s
+l
+a
+c
+o
+
+l
+‘
+ 
+
+ 
+
+ 
+
+d
+e
+n
+fi
+e
+d
+-
+f
+l
+e
+s
+ 
+f
+o
+x
+i
+m
+a
+ 
+t
+n
+e
+s
+e
+r
+p
+e
+r
+ 
+s
+r
+e
+b
+m
+e
+M
+
+ 
+
+ 
+
+ 
+.
+)
+6
+9
+9
+1
+d
+e
+n
+e
+p
+o
+(
+ 
+e
+r
+t
+n
+e
+C
+e
+g
+a
+t
+i
+r
+e
+H
+y
+a
+s
+s
+e
+r
+B
+e
+h
+t
+ 
+d
+e
+d
+n
+u
+o
+f
+
+ 
+
+ 
+
+s
+e
+d
+i
+r
+b
+e
+H
+ 
+r
+e
+t
+u
+o
+
+ 
+,
+t
+s
+i
+u
+S
+&
+
+ 
+
+ 
+
+ 
+.
+
+n
+
+l
+
+a
+r
+u
+r
+ 
+e
+t
+o
+m
+e
+r
+
+ 
+
+l
+
+p
+u
+o
+r
+g
+y
+g
+o
+o
+e
+a
+h
+c
+r
+a
+ 
+s
+s
+e
+c
+c
+a
+
+ 
+,
+
+ 
+
+i
+
+l
+
+a
+u
+s
+n
+n
+e
+P
+n
+a
+h
+c
+r
+u
+m
+a
+n
+d
+r
+a
+
+l
+
+d
+n
+a
+h
+g
+H
+
+i
+
+s
+d
+n
+a
+l
+s
+I
+ 
+
+d
+n
+a
+l
+t
+e
+h
+S
+
+ 
+,
+
+y
+a
+s
+s
+e
+r
+B
+
+l
+
+a
+r
+u
+r
+ 
+e
+t
+o
+m
+e
+r
+
+ 
+l
+
+a
+r
+u
+r
+ 
+e
+t
+o
+m
+e
+r
+
+ 
+ 
+
+ 
+
+y
+t
+i
+n
+u
+m
+m
+o
+C
+n
+a
+h
+c
+r
+u
+m
+a
+n
+d
+r
+a
+
+ 
+
+p
+u
+o
+r
+g
+y
+g
+o
+o
+e
+a
+h
+c
+r
+a
+
+l
+
+ 
+
+p
+u
+o
+r
+g
+y
+r
+o
+t
+s
+i
+H
+y
+a
+s
+s
+e
+r
+B
+
+ 
+
+ 
+.
+
+e
+m
+e
+h
+c
+s
+ 
+g
+n
+i
+s
+u
+o
+h
+
+’.
+s
+r
+e
+m
+o
+c
+n
+
+i
+‘
+ 
+
+d
+n
+a
+
+ 
+’.
+s
+r
+e
+m
+o
+c
+n
+
+i
+‘
+
+ 
+l
+
+a
+i
+c
+o
+s
+ 
+r
+a
+W
+
+ 
+
+-
+t
+s
+o
+p
+e
+h
+t
+ 
+n
+
+i
+ 
+
+ 
+
+p
+u
+w
+e
+r
+g
+/
+e
+v
+i
+l
+ 
+s
+t
+n
+a
+p
+i
+c
+i
+t
+r
+a
+p
+ 
+t
+s
+o
+M
+
+ 
+
+ 
+.
+r
+e
+c
+ffi
+o
+d
+n
+a
+d
+o
+o
+W
+k
+l
+i
+
+l
+
+ 
+
+ 
+
+m
+e
+l
+t
+s
+a
+C
+e
+h
+t
+ 
+y
+b
+d
+e
+z
+i
+n
+a
+g
+r
+o
+
+ 
+
+ 
+.
+
+ 
+
+ 
+
+e
+r
+u
+t
+a
+n
+d
+n
+a
+y
+g
+o
+o
+e
+a
+h
+c
+r
+a
+
+l
+
+ 
+.
+l
+c
+n
+
+i
+ 
+,
+
+e
+g
+a
+t
+i
+r
+e
+h
+k
+l
+i
+
+ 
+
+ 
+
+ 
+
+m
+e
+l
+t
+s
+a
+C
+n
+o
+g
+n
+i
+s
+u
+c
+o
+f
+ 
+)
+s
+r
+e
+b
+m
+e
+m
+0
+1
+-
+5
+(
+ 
+p
+u
+o
+r
+g
+ 
+t
+s
+e
+r
+e
+t
+n
+
+ 
+
+i
+ 
+l
+
+a
+c
+o
+
+l
+ 
+
+e
+e
+r
+f
+ 
+
+a
+
+w
+o
+g
+s
+a
+g
+
+l
+
+ 
+,
+
+k
+l
+i
+
+m
+e
+l
+t
+s
+a
+C
+
+n
+a
+b
+r
+u
+
+ 
+
+ 
+?
+w
+e
+Y
+e
+r
+a
+d
+o
+w
+o
+H
+
+l
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e
+r
+t
+n
+e
+c
+p
+u
+o
+r
+g
+e
+h
+t
+ 
+f
+o
+ 
+s
+e
+i
+t
+i
+v
+i
+t
+c
+a
+
+ 
+.
+s
+r
+e
+b
+m
+e
+m
+
+ 
+l
+
+a
+i
+c
+ffi
+o
+0
+4
+h
+t
+i
+
+ 
+
+ 
+
+w
+
+l
+
+ 
+t
+s
+u
+r
+t
+ 
+t
+n
+e
+m
+p
+o
+e
+v
+e
+d
+g
+&
+C
+e
+h
+t
+ 
+f
+o
+e
+e
+t
+t
+i
+
+ 
+
+ 
+
+ 
+
+m
+m
+o
+c
+-
+b
+u
+s
+ 
+a
+
+ 
+
+ 
+
+ 
+
+d
+e
+n
+fi
+e
+d
+-
+f
+l
+e
+s
+ 
+y
+l
+t
+s
+o
+m
+e
+r
+a
+p
+u
+o
+r
+g
+y
+r
+o
+t
+s
+i
+h
+e
+h
+t
+ 
+f
+o
+ 
+s
+r
+e
+b
+m
+e
+M
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+.
+t
+s
+e
+r
+o
+f
+n
+a
+fi
+a
+n
+o
+r
+t
+S
+d
+e
+n
+w
+o
+-
+y
+t
+i
+n
+u
+m
+m
+o
+c
+e
+h
+t
+ 
+n
+o
+
+ 
+
+ 
+
+ 
+
+l
+
+w
+o
+g
+s
+a
+g
+g
+n
+i
+t
+o
+m
+o
+r
+p
+d
+n
+a
+g
+n
+p
+o
+e
+v
+e
+d
+
+l
+
+i
+
+ 
+
+ 
+
+ 
+,
+
+ 
+
+ 
+
+i
+
+g
+n
+v
+r
+e
+s
+e
+r
+p
+n
+o
+g
+n
+i
+s
+u
+c
+o
+f
+ 
+5
+0
+0
+2
+n
+
+ 
+
+i
+ 
+
+ 
+
+d
+e
+m
+r
+o
+f
+ 
+y
+t
+i
+r
+a
+h
+C
+h
+s
+i
+t
+t
+o
+c
+S
+d
+e
+r
+e
+t
+s
+i
+g
+e
+r
+ 
+a
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+l
+
+e
+v
+i
+t
+c
+a
+h
+g
+u
+o
+h
+t
+ 
+)
+e
+p
+o
+e
+p
+0
+8
+.
+c
+(
+ 
+p
+h
+s
+r
+e
+b
+m
+e
+m
+g
+n
+i
+y
+a
+p
+-
+e
+e
+f
+ 
+l
+
+i
+
+ 
+
+a
+n
+o
+i
+t
+a
+n
+r
+e
+t
+n
+
+i
+ 
+
+i
+
+e
+s
+r
+e
+v
+d
+a
+ 
+s
+i
+ 
+
+ 
+
+e
+r
+e
+h
+t
+
+ 
+.
+s
+i
+l
+
+o
+p
+o
+r
+c
+e
+n
+
+ 
+
+o
+t
+ 
+e
+s
+n
+o
+p
+s
+e
+r
+ 
+n
+
+i
+ 
+
+ 
+
+n
+o
+i
+t
+c
+a
+o
+t
+ 
+d
+e
+z
+i
+n
+a
+v
+l
+a
+g
+y
+l
+t
+n
+e
+c
+e
+r
+ 
+p
+u
+o
+r
+g
+
+ 
+
+ 
+l
+
+ 
+
+ 
+
+a
+c
+o
+l
+-
+n
+o
+n
+a
+y
+l
+t
+n
+a
+n
+m
+o
+d
+e
+r
+P
+
+i
+
+ 
+.
+
+ 
+
+k
+c
+o
+r
+n
+o
+t
+r
+a
+b
+m
+u
+d
+
+ 
+f
+o
+
+ 
+
+e
+d
+i
+s
+ 
+
+ 
+
+W
+n
+e
+h
+t
+ 
+n
+o
+g
+n
+b
+m
+
+i
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+l
+
+i
+l
+c
+d
+n
+a
+g
+n
+i
+r
+e
+d
+u
+o
+b
+n
+o
+d
+e
+r
+t
+n
+e
+c
+ 
+t
+s
+e
+r
+e
+t
+n
+i
+/
+e
+c
+i
+t
+c
+a
+r
+p
+ 
+f
+o
+y
+t
+i
+n
+u
+m
+m
+o
+c
+ 
+l
+
+ 
+
+a
+m
+r
+o
+f
+n
+
+i
+ 
+,
+
+i
+
+d
+u
+fl
+a
+
+ 
+
+.
+
+e
+g
+a
+t
+i
+r
+e
+h
+g
+n
+b
+m
+
+i
+
+ 
+
+ 
+
+i
+l
+c
+o
+t
+ 
+t
+a
+e
+r
+h
+t
+ 
+d
+e
+v
+e
+c
+r
+e
+p
+
+i
+
+.
+
+l
+
+d
+e
+s
+a
+b
+-
+w
+o
+g
+s
+a
+g
+e
+r
+a
+ 
+s
+r
+e
+b
+m
+e
+m
+
+ 
+
+l
+l
+y
+g
+r
+a
+
+ 
+,
+
+l
+
+a
+u
+s
+n
+n
+e
+p
+
+i
+
+ 
+l
+l
+
+e
+w
+o
+C
+
+l
+
+a
+r
+u
+r
+
+ 
+
+y
+r
+o
+t
+s
+i
+H
+
+ 
+l
+
+ 
+
+l
+
+e
+u
+r
+a
+d
+n
+e
+g
+d
+n
+a
+e
+v
+a
+r
+t
+n
+
+i
+
+ 
+
+i
+l
+
+o
+C
+
+ 
+
+l
+
+p
+u
+o
+r
+g
+y
+g
+o
+o
+e
+a
+h
+c
+r
+a
+d
+n
+a
+
+ 
+
+e
+r
+i
+h
+s
+n
+o
+t
+r
+a
+b
+m
+u
+d
+W
+
+ 
+.
+
+ 
+ 
+,
+
+ 
+
+k
+c
+o
+r
+n
+o
+t
+r
+a
+b
+m
+u
+d
+
+n
+a
+b
+r
+u
+
+ 
+
+ 
+
+k
+c
+o
+r
+n
+o
+t
+r
+a
+b
+m
+u
+d
+ 
+t
+a
+ 
+s
+r
+e
+b
+m
+
+i
+l
+c
+-
+k
+c
+o
+r
+
+)
+’
+
+y
+b
+m
+u
+d
+
+‘
+(
+
+ 
+
+w
+o
+g
+s
+a
+g
+
+l
+
+n
+a
+b
+r
+u
+
+ 
+ 
+
+ 
+
+l
+
+w
+o
+g
+s
+a
+g
+e
+h
+t
+ 
+f
+o
+ 
+s
+d
+n
+e
+i
+r
+f
+e
+h
+t
+
+ 
+
+s
+i
+l
+
+o
+p
+o
+r
+c
+e
+n
+
+ 
+t
+s
+o
+m
+
+ 
+t
+u
+b
+y
+l
+l
+
+ 
+
+a
+c
+o
+
+l
+ 
+
+ 
+.
+
+e
+v
+i
+l
+ 
+s
+r
+e
+b
+m
+e
+M
+y
+t
+i
+r
+a
+h
+c
+a
+ 
+s
+a
+ 
+s
+u
+t
+a
+t
+s
+ 
+l
+
+ 
+
+ 
+
+ 
+
+a
+i
+c
+ffi
+o
+g
+n
+i
+k
+e
+e
+s
+ 
+d
+n
+a
+n
+o
+i
+t
+u
+t
+i
+t
+s
+n
+o
+c
+a
+g
+n
+i
+t
+f
+a
+r
+d
+y
+l
+t
+n
+e
+r
+r
+u
+C
+
+ 
+
+ 
+
+ 
+
+.
+
+ 
+
+l
+
+d
+r
+a
+y
+k
+r
+i
+K
+d
+o
+ 
+t
+h
+g
+i
+r
+b
+d
+u
+c
+k
+r
+i
+K
+ 
+t
+a
+m
+
+ 
+
+s
+i
+l
+
+ 
+
+a
+d
+n
+a
+v
+o
+t
+ 
+e
+s
+n
+o
+p
+s
+e
+r
+ 
+n
+
+i
+ 
+
+ 
+
+0
+1
+0
+2
+e
+c
+n
+i
+s
+ 
+n
+o
+i
+t
+a
+v
+r
+e
+s
+n
+o
+c
+e
+v
+i
+t
+c
+a
+-
+o
+r
+p
+e
+r
+o
+m
+
+ 
+
+ 
+
+ 
+.
+
+ 
+
+ 
+
+ 
+
+ 
+
+i
+
+e
+g
+a
+t
+i
+r
+e
+h
+e
+n
+y
+h
+r
+n
+o
+g
+n
+i
+s
+u
+c
+o
+f
+ 
+)
+s
+r
+e
+b
+m
+e
+m
+g
+n
+d
+n
+u
+o
+f
+ 
+6
+(
+ 
+s
+r
+e
+n
+o
+i
+t
+i
+t
+c
+a
+r
+p
+e
+v
+i
+t
+a
+e
+r
+c
+ 
+f
+o
+p
+u
+o
+r
+g
+
+i
+
+ 
+
+ 
+
+ 
+l
+
+a
+m
+r
+o
+f
+n
+
+i
+ 
+l
+l
+
+a
+m
+
+s
+ 
+a
+
+e
+r
+i
+h
+s
+n
+e
+e
+d
+r
+e
+b
+a
+
+ 
+,
+
+i
+
+e
+n
+y
+h
+r
+
+y
+a
+w
+o
+
+l
+l
+
+a
+g
+
+ 
+
+n
+
+i
+ 
+
+d
+e
+g
+a
+g
+n
+e
+ 
+s
+a
+h
+y
+t
+e
+i
+c
+o
+S
+e
+h
+t
+
+ 
+
+ 
+
+ 
+.
+s
+r
+e
+b
+m
+e
+m
+0
+8
+
+ 
+
+ 
+
+ 
+.
+c
+e
+r
+a
+e
+r
+e
+h
+t
+
+ 
+
+ 
+.
+
+1
+0
+0
+2
+n
+
+ 
+
+i
+ 
+
+d
+e
+h
+s
+i
+l
+
+ 
+
+b
+a
+t
+s
+e
+y
+t
+e
+i
+c
+o
+s
+ 
+g
+n
+i
+y
+a
+p
+-
+e
+e
+f
+ 
+l
+
+a
+m
+r
+o
+f
+ 
+
+a
+
+ 
+
+d
+n
+a
+ 
+s
+e
+i
+r
+f
+
+m
+u
+d
+
+ 
+,
+t
+h
+g
+i
+r
+b
+d
+u
+c
+k
+r
+i
+K
+
+ 
+s
+t
+n
+a
+p
+i
+c
+i
+t
+r
+a
+p
+ 
+r
+e
+h
+t
+o
+
+ 
+
+ 
+
+,
+
+i
+
+ 
+.
+)
+s
+r
+e
+b
+m
+e
+m
+0
+0
+2
+1
+.
+c
+(
+ 
+e
+d
+w
+d
+l
+r
+o
+W
+e
+n
+a
+l
+r
+a
+f
+c
+a
+M
+n
+a
+C
+ 
+f
+o
+ 
+s
+r
+e
+b
+m
+e
+m
+e
+v
+i
+t
+c
+a
+
+l
+
+ 
+
+ 
+
+ 
+;
+s
+n
+a
+c
+i
+r
+e
+m
+a
+-
+s
+t
+o
+c
+S
+
+ 
+
+o
+w
+
+ 
+
+t
+ 
+y
+b
+d
+e
+d
+n
+u
+f
+
+ 
+.
+
+e
+g
+a
+t
+i
+r
+e
+H
+ 
+t
+h
+g
+
+i
+l
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+h
+t
+r
+o
+n
+y
+b
+d
+e
+t
+c
+e
+r
+i
+d
+n
+o
+i
+t
+a
+v
+a
+c
+x
+e
+n
+a
+d
+n
+u
+o
+r
+a
+d
+e
+m
+r
+o
+f
+ 
+g
+n
+p
+u
+o
+r
+g
+ 
+t
+n
+e
+i
+s
+n
+a
+r
+t
+ 
+a
+
+i
+
+ 
+
+ 
+,
+
+d
+r
+a
+y
+h
+c
+r
+u
+h
+C
+ 
+s
+s
+u
+l
+&
+e
+l
+s
+I
+ 
+t
+e
+b
+r
+a
+t
+
+ 
+
+ 
+
+d
+n
+a
+m
+o
+l
+h
+c
+o
+l
+
+ 
+
+l
+
+.
+s
+t
+s
+i
+g
+o
+o
+e
+a
+h
+c
+r
+a
+ 
+r
+u
+e
+t
+a
+m
+a
+e
+r
+e
+w
+
+ 
+
+’.
+s
+r
+e
+m
+o
+c
+n
+
+i
+‘
+ 
+
+d
+e
+n
+fi
+e
+d
+-
+f
+l
+e
+s
+ 
+e
+r
+a
+
+n
+w
+o
+t
+ 
+l
+
+a
+r
+u
+r
+
+l
+
+a
+r
+u
+r
+
+l
+
+a
+r
+u
+r
+
+ 
+
+y
+t
+e
+i
+c
+o
+S
+y
+r
+o
+t
+s
+i
+H
+ 
+t
+h
+g
+i
+r
+b
+d
+u
+c
+k
+r
+i
+K
+e
+h
+t
+
+ 
+
+ 
+
+p
+u
+o
+r
+g
+n
+a
+m
+o
+W
+e
+n
+y
+h
+r
+e
+h
+t
+
+i
+
+ 
+
+ 
+
+ 
+
+i
+
+j
+
+t
+c
+e
+o
+r
+P
+g
+d
+e
+l
+s
+I
+ 
+t
+e
+b
+r
+a
+t
+
+ 
+
+)
+c
+t
+e
+ 
+s
+t
+s
+e
+r
+e
+t
+n
+
+i
+ 
+,
+
+y
+r
+o
+t
+s
+i
+h
+
+ 
+,
+
+n
+o
+i
+t
+u
+t
+i
+t
+s
+n
+o
+c
+(
+ 
+n
+o
+i
+t
+p
+i
+r
+c
+s
+e
+D
+
+s
+u
+c
+o
+f
+ 
+l
+
+a
+c
+i
+h
+p
+a
+r
+g
+o
+e
+G
+
+n
+a
+b
+r
+u
+ 
+/
+l
+a
+r
+u
+R
+
+ 
+
+p
+u
+o
+r
+g
+y
+t
+i
+n
+u
+m
+m
+o
+C
+
+ 
+
+.
+s
+p
+u
+o
+r
+g
+y
+t
+i
+n
+u
+m
+m
+o
+c
+d
+r
+o
+C
+C
+a
+
+ 
+
+ 
+.
+
+ 
+
+1
+e
+l
+b
+a
+T
+
+342 
+
+ 
+
+ S. JONES ET AL.
+
+Figure 3. location map showing the distribution of aCCord project groups (Image: aCCord, CC BY-Sa 3.0).
+
+activities of many of the community heritage groups involved in ACCORD, whether threats take the 
+form of vandalism, coastal erosion, or straightforward neglect.
+
+These on-going heritage practices and the relationships associated with them framed the co-design 
+and co-production of 3D digital heritage visualisations during the ACCORD project. The interests, 
+agendas and values of the groups concerned, informed the heritage places we recorded and modelled, 
+creating visualisations of ‘places of significance’ as defined by the groups themselves. A wide range of 
+monuments, buildings and objects were ultimately selected for recording and visualisation (see Table 
+2 and Figure 4). Among them are prehistoric monuments (such as Lephinkill Chambered tomb and 
+Grimsay Wheelhouse) and historic buildings (such as the excavated remains of a seventeenth/eight-
+eenth century structure on Tarbet Isle, the ruined manse in the abandoned township of Cullingsburgh 
+(Figure 4(a)), or the Monteath Mausoleum in Glasgow Necropolis). There are a number of early 
+medieval sculptured stones (Figure 4(d)), and a significant number of later historic gravestones. Other 
+memorials include the Jhone MacFarlan (sic) plaque in the wall of Luss Church (Figure 4(c)) and the 
+WW1 War Memorial in Colintraive (also Figure 4(d)). Finally there is also a range of what can be 
+classed as art, in the form of sculptures and rock art, ranging from prehistoric cup and ring marks, to 
+the late twentieth century sculpture King of the Castle in Castlemilk, and the graffiti associated with 
+the climbing routes at Dumbarton Rock.
+
+Some of the heritage places that were visualised as part of the ACCORD project are associated with 
+family history and genealogical connections, but more frequently they relate to less direct or specific 
+notions of inheritance and cultural continuity. Many also have a symbolic or iconic role in terms of 
+the distinctiveness of a place and the identity of those associated with it. For instance, for the Friends 
+of Glasgow Necropolis, the cemetery is an important symbol of the city, intimately associated with its 
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  343
+
+0
+5
+3
+2
+2
+
+ 
+;
+
+0
+3
+1
+2
+2
+
+ 
+;
+
+7
+3
+5
+8
+1
+3
+
+ 
+
+ 
+
+&
+3
+8
+7
+7
+(
+ 
+s
+t
+n
+e
+m
+u
+n
+o
+M
+d
+e
+u
+d
+e
+h
+c
+S
+
+l
+
+ 
+
+)
+8
+4
+9
+(
+ 
+t
+n
+e
+m
+u
+n
+o
+M
+
+)
+4
+2
+8
+7
+
+I
+
+t
+r
+
+ 
+;
+
+y
+r
+t
+e
+m
+m
+a
+r
+g
+o
+t
+o
+h
+P
+
+ 
+
+n
+
+i
+ 
+
+b
+a
+l
+s
+ 
+e
+v
+a
+r
+g
+
+ 
+l
+
+i
+
+a
+v
+e
+d
+e
+m
+a
+
+ 
+
+ 
+;
+l
+l
+
+ 
+
+e
+a
+g
+n
+a
+n
+ 
+s
+a
+m
+a
+C
+ 
+t
+a
+ 
+s
+e
+n
+o
+t
+s
+e
+v
+a
+r
+g
+c
+i
+r
+o
+t
+s
+i
+h
+
+ 
+
+ 
+
+3
+
+ 
+;
+
+i
+
+e
+n
+o
+t
+s
+ 
+g
+n
+d
+n
+a
+t
+s
+ 
+d
+e
+s
+i
+c
+n
+i
+-
+s
+s
+o
+r
+c
+ 
+l
+
+i
+
+a
+v
+e
+d
+e
+m
+y
+l
+r
+a
+e
+
+ 
+
+ 
+l
+l
+
+ 
+
+a
+e
+g
+n
+a
+n
+ 
+s
+a
+m
+a
+C
+
+t
+s
+i
+u
+
+ 
+.
+
+S
+
+ 
+,
+
+e
+r
+o
+m
+w
+o
+H
+ 
+t
+a
+
+ 
+,
+
+e
+n
+o
+t
+s
+ 
+d
+e
+b
+i
+r
+c
+s
+n
+i
+-
+s
+s
+o
+r
+c
+ 
+l
+
+i
+
+a
+v
+e
+d
+e
+m
+y
+l
+r
+a
+e
+
+ 
+
+ 
+
+ 
+
+ 
+
+9
+6
+8
+9
+&
+4
+1
+2
+4
+3
+3
+
+ 
+ 
+
+l
+
+d
+e
+u
+d
+e
+h
+c
+S
+a
+ 
+s
+i
+ 
+
+ 
+
+e
+r
+o
+m
+w
+o
+H
+
+I
+
+t
+r
+
+ 
+;
+
+y
+r
+t
+e
+m
+m
+a
+r
+g
+o
+t
+o
+h
+P
+
+ 
+
+ 
+
+n
+a
+d
+n
+a
+
+ 
+l
+
+e
+p
+a
+h
+c
+ 
+l
+
+ 
+
+i
+
+i
+
+a
+v
+e
+d
+e
+m
+a
+ 
+f
+o
+ 
+s
+n
+u
+r
+ 
+;
+)
+e
+g
+a
+n
+o
+r
+i
+(
+ 
+e
+s
+u
+o
+h
+e
+e
+h
+W
+y
+a
+s
+m
+
+l
+
+ 
+
+ 
+
+i
+r
+g
+
+)
+R
+M
+N
+
+(
+ 
+
+D
+
+I
+ 
+
+e
+r
+o
+m
+n
+a
+C
+
+n
+o
+i
+t
+a
+n
+g
+i
+s
+e
+d
+e
+g
+a
+t
+i
+r
+e
+H
+
+ 
+
+i
+
+l
+
+s
+e
+g
+o
+o
+n
+h
+c
+e
+T
+
+ 
+
+ 
+]
+E
+M
+A
+N
+T
+C
+E
+J
+O
+R
+P
+[
+ 
+g
+n
+i
+r
+u
+d
+d
+e
+s
+i
+l
+
+ 
+
+l
+
+a
+u
+s
+i
+v
+ 
+s
+e
+c
+a
+p
+/
+s
+t
+c
+e
+b
+o
+e
+g
+a
+t
+i
+r
+e
+H
+
+j
+
+ 
+
+j
+
+t
+c
+e
+o
+r
+p
+-
+b
+u
+s
+
+.
+s
+t
+n
+e
+m
+u
+n
+o
+m
+d
+r
+o
+C
+C
+a
+
+ 
+
+ 
+.
+
+ 
+
+2
+e
+l
+b
+a
+T
+
+ 
+
+p
+u
+o
+r
+g
+y
+t
+i
+n
+u
+m
+m
+o
+C
+
+ 
+
+e
+h
+t
+ 
+n
+
+i
+ 
+t
+o
+n
+
+ 
+l
+
+a
+i
+r
+o
+m
+e
+m
+
+ 
+
+1
+W
+W
+
+ 
+
+(
+ 
+0
+4
+5
+0
+4
+&
+0
+6
+9
+9
+3
+
+ 
+
+)
+r
+M
+n
+
+e
+r
+o
+m
+n
+a
+C
+n
+
+ 
+
+i
+ 
+t
+o
+n
+
+6
+0
+0
+9
+8
+1
+
+ 
+
+l
+
+ 
+:
+t
+n
+e
+m
+u
+n
+o
+M
+d
+e
+u
+d
+e
+h
+c
+S
+a
+ 
+f
+o
+ 
+t
+r
+a
+P
+
+ 
+
+ 
+
+ 
+
+h
+c
+o
+r
+b
+d
+n
+a
+h
+c
+r
+u
+h
+c
+ 
+l
+
+ 
+
+i
+
+a
+v
+e
+d
+e
+m
+
+)
+3
+8
+7
+7
+(
+
+e
+n
+o
+n
+
+e
+n
+o
+n
+
+ 
+;
+I
+
+t
+r
+
+ 
+;
+
+y
+r
+t
+e
+m
+m
+a
+r
+g
+o
+t
+o
+h
+P
+
+ 
+
+ 
+;
+)
+t
+r
+a
+k
+c
+o
+r
+ 
+c
+i
+r
+o
+t
+s
+i
+h
+e
+r
+p
+(
+ 
+e
+n
+o
+t
+s
+ 
+d
+e
+k
+r
+a
+m
+g
+n
+i
+r
+ 
+d
+n
+a
+p
+u
+c
+ 
+;
+l
+
+ 
+
+ 
+
+a
+i
+r
+o
+m
+e
+M
+
+ 
+
+ 
+r
+a
+W
+1
+W
+W
+
+I
+
+t
+r
+
+ 
+;
+
+y
+r
+t
+e
+m
+m
+a
+r
+g
+o
+t
+o
+h
+P
+
+ 
+
+h
+g
+r
+u
+b
+s
+g
+n
+
+i
+l
+l
+
+u
+C
+n
+
+ 
+
+i
+ 
+,
+
+ 
+
+l
+
+n
+y
+u
+r
+B
+n
+e
+s
+n
+a
+J
+ 
+s
+e
+a
+C
+ 
+r
+e
+d
+n
+a
+m
+m
+o
+C
+ 
+f
+o
+e
+n
+o
+t
+s
+e
+v
+a
+r
+g
+
+ 
+
+ 
+ 
+
+h
+t
+7
+1
+C
+
+ 
+;
+
+i
+
+p
+h
+s
+n
+w
+o
+t
+ 
+d
+e
+n
+o
+d
+n
+a
+b
+a
+n
+
+ 
+
+i
+
+i
+ 
+)
+d
+e
+n
+u
+r
+(
+ 
+e
+s
+n
+a
+M
+h
+g
+r
+u
+b
+s
+g
+n
+
+ 
+
+i
+l
+l
+
+u
+C
+
+ 
+
+h
+c
+r
+u
+h
+C
+h
+s
+i
+r
+a
+P
+d
+o
+n
+a
+o
+h
+c
+l
+i
+
+l
+
+ 
+
+ 
+
+K
+
+y
+r
+t
+e
+m
+m
+a
+r
+g
+o
+t
+o
+h
+P
+
+ 
+,
+
+l
+
+e
+r
+u
+t
+p
+u
+c
+s
+ 
+ff
+a
+t
+s
+l
+a
+f
+
+ 
+;
+
+9
+9
+9
+1
+
+ 
+,
+r
+e
+t
+n
+u
+H
+y
+n
+n
+e
+K
+
+ 
+
+ 
+,
+
+ 
+
+l
+
+e
+r
+u
+t
+p
+u
+c
+S
+e
+l
+t
+s
+a
+C
+e
+h
+t
+ 
+f
+o
+g
+n
+K
+
+i
+
+ 
+
+ 
+
+ 
+
+n
+
+i
+ 
+
+w
+o
+n
+(
+ 
+e
+s
+u
+o
+H
+k
+l
+i
+
+ 
+
+m
+e
+l
+t
+s
+a
+C
+m
+o
+r
+f
+ 
+y
+l
+l
+
+ 
+
+i
+
+a
+n
+g
+i
+r
+o
+
+ 
+,
+
+y
+r
+u
+t
+n
+e
+c
+-
+h
+t
+n
+e
+e
+t
+e
+n
+n
+
+i
+
+ 
+
+n
+r
+i
+a
+C
+d
+e
+r
+e
+b
+m
+a
+h
+C
+
+i
+
+ 
+l
+l
+i
+k
+n
+h
+p
+e
+l
+
+ 
+
+)
+k
+r
+a
+P
+y
+r
+t
+n
+u
+o
+C
+n
+e
+g
+r
+e
+d
+a
+C
+
+l
+
+l
+
+ 
+
+d
+r
+a
+y
+k
+r
+i
+K
+
+ 
+r
+e
+s
+a
+
+i
+
+l
+ 
+t
+h
+g
+fl
+ 
+f
+o
+e
+m
+
+ 
+
+i
+t
+
+i
+
+g
+n
+n
+n
+a
+c
+s
+
+i
+
+g
+n
+n
+n
+a
+c
+s
+
+I
+
+t
+r
+
+ 
+;
+
+y
+r
+t
+e
+m
+m
+a
+r
+g
+o
+t
+o
+h
+P
+
+I
+
+t
+r
+
+ 
+;
+
+y
+r
+t
+e
+m
+m
+a
+r
+g
+o
+t
+o
+h
+P
+
+ 
+
+ 
+f
+l
+e
+s
+t
+i
+ 
+k
+c
+o
+r
+n
+o
+t
+r
+a
+b
+m
+u
+d
+
+e
+r
+o
+m
+n
+a
+C
+n
+
+ 
+
+i
+ 
+t
+o
+n
+ 
+s
+i
+
+ 
+
+ 
+:
+t
+n
+e
+m
+u
+n
+o
+M
+d
+e
+u
+d
+e
+h
+c
+S
+ 
+f
+o
+ 
+t
+r
+a
+P
+
+l
+
+)
+7
+0
+1
+0
+9
+(
+ 
+e
+l
+t
+s
+a
+C
+n
+o
+t
+r
+a
+b
+m
+u
+d
+
+ 
+
+ 
+;
+I
+
+ 
+r
+e
+s
+a
+
+i
+
+l
+ 
+t
+h
+g
+fl
+ 
+f
+o
+e
+m
+
+ 
+
+i
+t
+
+t
+r
+
+ 
+;
+
+y
+r
+t
+e
+m
+m
+a
+r
+g
+o
+t
+o
+h
+P
+
+ 
+
+d
+e
+s
+u
+ 
+)
+i
+t
+
+ 
+
+ffi
+a
+r
+g
+y
+r
+a
+r
+o
+p
+m
+e
+t
+n
+o
+c
+d
+n
+a
+c
+i
+r
+o
+t
+s
+i
+h
+h
+t
+i
+
+ 
+
+ 
+
+ 
+
+w
+
+(
+ 
+s
+e
+c
+a
+f
+ 
+k
+c
+o
+r
+ 
+d
+n
+a
+ 
+s
+r
+e
+d
+u
+o
+B
+
+l
+
+l
+
+g
+n
+i
+r
+e
+d
+u
+o
+b
+d
+n
+a
+g
+n
+b
+m
+
+i
+
+ 
+
+ 
+
+i
+l
+c
+ 
+r
+o
+f
+
+ 
+
+n
+o
+t
+r
+a
+b
+m
+u
+d
+ 
+t
+a
+ 
+s
+r
+e
+b
+m
+
+i
+l
+c
+-
+k
+c
+o
+r
+
+)
+’
+
+y
+b
+m
+u
+d
+
+‘
+(
+ 
+k
+c
+o
+r
+
+6
+9
+1
+7
+1
+
+ 
+;
+
+5
+8
+1
+7
+1
+
+ 
+;
+
+9
+9
+1
+7
+1
+
+ 
+
+ 
+
+&
+9
+6
+ 
+s
+t
+n
+e
+m
+u
+n
+o
+M
+d
+e
+u
+d
+e
+h
+c
+S
+
+l
+
+ 
+
+9
+6
+0
+4
+6
+
+)
+7
+6
+5
+6
+3
+(
+ 
+g
+n
+d
+
+i
+
+l
+i
+
+ 
+
+ 
+
+u
+B
+d
+e
+t
+s
+i
+l
+B
+y
+r
+o
+g
+e
+t
+a
+C
+
+ 
+
+ 
+
+9
+2
+5
+2
+4
+&
+3
+1
+0
+0
+3
+1
+
+ 
+
+)
+d
+r
+a
+y
+k
+r
+i
+K
+(
+ 
+)
+2
+4
+0
+6
+1
+(
+ 
+g
+n
+d
+
+i
+
+l
+i
+
+u
+B
+
+ 
+ 
+
+ 
+
+ 
+
+d
+e
+t
+s
+i
+l
+C
+y
+r
+o
+g
+e
+t
+a
+c
+ 
+;
+
+9
+6
+8
+1
+1
+
+ 
+ 
+;
+)
+1
+6
+4
+2
+(
+ 
+t
+n
+e
+m
+u
+n
+o
+M
+d
+e
+u
+d
+e
+h
+c
+S
+
+l
+
+ 
+
+ 
+
+g
+n
+d
+
+i
+
+l
+i
+
+ 
+
+ 
+
+u
+B
+d
+e
+t
+s
+i
+l
+B
+y
+r
+o
+g
+e
+t
+a
+c
+
+ 
+
+)
+0
+3
+4
+4
+1
+(
+
+y
+r
+t
+e
+m
+m
+a
+r
+g
+o
+t
+o
+h
+P
+
+ 
+
+ 
+
+n
+h
+o
+J
+ 
+;
+)
+n
+o
+i
+t
+a
+v
+a
+c
+x
+e
+h
+g
+u
+o
+r
+h
+t
+ 
+d
+e
+a
+e
+v
+e
+r
+ 
+s
+g
+n
+i
+t
+o
+o
+f
+ 
+l
+l
+
+l
+
+a
+w
+
+ 
+
+(
+ 
+e
+l
+t
+s
+a
+C
+e
+l
+s
+I
+ 
+t
+e
+b
+r
+a
+t
+
+ 
+s
+s
+u
+l
+ 
+f
+o
+
+ 
+l
+l
+
+ 
+
+a
+w
+n
+r
+e
+h
+t
+r
+o
+n
+e
+h
+t
+ 
+o
+t
+n
+
+ 
+
+i
+ 
+t
+l
+i
+
+u
+b
+
+ 
+,
+
+2
+1
+6
+1
+
+ 
+,
+
+ 
+
+l
+
+e
+u
+q
+a
+P
+e
+n
+a
+l
+r
+a
+f
+c
+a
+M
+
+d
+n
+o
+m
+o
+l
+h
+c
+o
+l
+
+ 
+
+ 
+,
+
+h
+c
+r
+u
+h
+C
+
+ 
+
+o
+w
+
+t
+ 
+;
+’
+
+e
+r
+a
+u
+q
+s
+ 
+e
+h
+t
+ 
+n
+
+i
+ 
+
+e
+n
+o
+t
+s
+‘
+ 
+
+e
+h
+t
+ 
+’,
+e
+n
+a
+t
+S
+w
+a
+r
+C
+
+ 
+
+‘
+ 
+
+e
+h
+t
+ 
+:
+s
+e
+n
+o
+t
+s
+ 
+l
+
+o
+b
+m
+y
+s
+ 
+h
+s
+i
+t
+c
+i
+P
+2
+
+ 
+
+ 
+s
+’
+g
+a
+u
+l
+ 
+t
+S
+e
+h
+t
+ 
+n
+
+ 
+
+ 
+
+i
+ 
+s
+e
+n
+o
+t
+s
+e
+v
+a
+r
+g
+y
+r
+u
+t
+n
+e
+c
+-
+h
+t
+n
+e
+e
+t
+e
+n
+n
+d
+n
+a
+ 
+-
+h
+t
+n
+e
+e
+t
+h
+g
+e
+
+i
+
+i
+
+ 
+
+l
+l
+
+a
+h
+s
+r
+a
+M
+y
+l
+l
+i
+
+ 
+
+B
+ 
+r
+e
+
+l
+l
+
+e
+v
+a
+r
+t
+ 
+e
+h
+t
+ 
+o
+t
+ 
+d
+e
+t
+a
+c
+i
+d
+e
+d
+e
+n
+o
+
+ 
+
+ 
+
+ 
+
+i
+
+l
+
+)
+d
+r
+a
+y
+k
+r
+i
+K
+d
+o
+e
+n
+y
+h
+r
+(
+ 
+d
+r
+a
+y
+h
+c
+r
+u
+h
+C
+
+ 
+
+p
+u
+o
+r
+g
+n
+a
+m
+o
+W
+e
+n
+y
+h
+r
+e
+h
+t
+
+i
+
+ 
+
+ 
+
+ 
+
+e
+n
+a
+l
+r
+a
+f
+c
+a
+M
+n
+a
+C
+/
+e
+l
+s
+I
+ 
+t
+e
+b
+r
+a
+t
+
+l
+
+ 
+,
+)
+d
+r
+a
+y
+k
+r
+i
+K
+d
+o
+
+l
+
+ 
+
+(
+ 
+d
+r
+a
+y
+h
+c
+r
+u
+h
+C
+ 
+s
+’
+t
+r
+e
+b
+h
+t
+u
+C
+ 
+t
+S
+n
+h
+t
+i
+
+i
+
+ 
+
+w
+ 
+s
+e
+n
+o
+t
+s
+e
+v
+a
+r
+g
+h
+t
+8
+1
+C
+3
+
+ 
+
+ 
+
+ 
+
+y
+t
+e
+i
+c
+o
+S
+y
+r
+o
+t
+s
+i
+H
+ 
+t
+h
+g
+i
+r
+b
+d
+u
+c
+k
+r
+i
+K
+e
+h
+t
+
+ 
+
+ 
+
+.
+
+l
+
+)
+1
+4
+8
+1
+d
+d
+a
+n
+o
+d
+c
+a
+M
+n
+h
+o
+J
+ 
+s
+r
+
+ 
+
+ 
+
+M
+d
+n
+a
+
+ 
+,
+
+3
+6
+8
+1
+-
+1
+8
+7
+1
+
+s
+i
+l
+
+o
+p
+o
+r
+c
+e
+n
+
+4
+1
+0
+5
+4
+
+)
+0
+9
+8
+3
+3
+(
+ 
+g
+n
+d
+
+i
+
+l
+i
+
+ 
+
+ 
+
+u
+B
+d
+e
+t
+s
+i
+l
+a
+y
+r
+o
+g
+e
+t
+a
+C
+
+ 
+
+I
+
+t
+r
+
+ 
+;
+
+y
+r
+t
+e
+m
+m
+a
+r
+g
+o
+t
+o
+h
+P
+
+ 
+
+ 
+ 
+t
+r
+a
+c
+u
+o
+f
+e
+s
+i
+o
+c
+n
+a
+r
+f
+(
+ 
+s
+e
+n
+o
+t
+s
+e
+v
+a
+r
+g
+2
+
+ 
+
+ 
+;
+
+ 
+
+l
+
+m
+u
+e
+o
+s
+u
+a
+M
+h
+t
+a
+e
+t
+n
+o
+M
+e
+h
+t
+
+ 
+
+ 
+
+ 
+
+l
+
+w
+o
+g
+s
+a
+g
+e
+h
+t
+ 
+f
+o
+ 
+s
+d
+n
+e
+i
+r
+f
+e
+h
+t
+
+ 
+
+ 
+
+l
+
+p
+u
+o
+r
+g
+y
+g
+o
+o
+e
+a
+h
+c
+r
+a
+ 
+s
+s
+e
+c
+c
+a
+
+ 
+
+ 
+
+y
+t
+i
+n
+u
+m
+m
+o
+C
+n
+a
+h
+c
+r
+u
+m
+a
+n
+d
+r
+a
+
+ 
+
+p
+u
+o
+r
+g
+y
+g
+o
+o
+e
+a
+h
+c
+r
+a
+
+l
+
+ 
+
+p
+u
+o
+r
+g
+y
+r
+o
+t
+s
+i
+H
+y
+a
+s
+s
+e
+r
+B
+
+ 
+
+ 
+
+?
+w
+e
+Y
+e
+r
+a
+d
+o
+w
+o
+H
+
+l
+
+ 
+
+ 
+
+ 
+
+l
+
+p
+u
+o
+r
+g
+y
+g
+o
+o
+e
+a
+h
+c
+r
+a
+d
+n
+a
+y
+r
+o
+t
+s
+i
+H
+
+ 
+
+ 
+
+ 
+ 
+l
+
+ 
+
+l
+
+e
+u
+r
+a
+d
+n
+e
+g
+d
+n
+a
+e
+v
+a
+r
+t
+n
+
+i
+
+ 
+
+i
+l
+
+o
+C
+
+344 
+
+ 
+
+ S. JONES ET AL.
+
+Figure  4.  Some  examples  of  aCCord  outputs  in  various  stages  of  production.  Clockwise  from  top  left:  (a)  processing  of  a 
+photogrammetric model of Cullingsburgh Manse; (b) point cloud of falstaff showing camera positions; (c) 3d print of the Macfarlane 
+plaque at luss church courtesy of Preston Mcfarland; (d) photogrammetric visualisations of the WW1 memorial in Colintraive and 
+the early medieval cross at Camas nan geall, ardnamurchan (Images: aCCord, CC-BY).
+
+‘illustrious’ Victorian history. In a very different context, members of the Access Archaeology Group 
+see Grimsay Wheelhouse as an iconic monument, distinguishing the Uists from other islands in the 
+Outer Hebridean archipelago, as well as the rest of Scotland. Dumbarton Rock, or ‘Dumby’, has an 
+iconic role in Scottish climbing heritage, symbolic of a gritty urban scene (see Hale et al. 2017, 9, 
+12). As a final contrasting example, Kenny Hunter’s King of the Castle Sculpture, created as part of a 
+public art regeneration project in 1999, is symbolic of the resilience and spirit that characterise the 
+Castlemilk community.
+
+As we discuss in detail elsewhere, many of the social and communal values associated with these 
+tangible heritage places ‘migrate’ to 3D visualisations in the context of co-production methodologies 
+(Jeffrey et al. In Prep). The ACCORD project provides clear evidence that the digital models accrue 
+similar values to originals, becoming imbued with symbolic associations relating to identity and place. 
+At the same time, it shows that visualisation technologies can also enhance the understanding of the 
+original monument or object e.g. RTI can reveal inscriptions or designs that are otherwise difficult 
+or impossible to identify, and photogrammetry can facilitate new perspectives and viewpoints that 
+change people’s understanding of the original historic forms. In a less direct sense 3D digital records 
+have the potential to reinforce and enhance forms of symbolism and community identity associated 
+with originals. Indeed, the act of digital recording in the context of community co-production extends 
+relations with the original metaphorically and physically, through the forms of production involved. 
+It requires an objectification of significance, alongside concentrated forms of engagement, which are 
+experienced communally, and which add to the cultural biography of the original historic buildings, 
+monuments and objects involved.
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  345
+
+Thus, in the context of community co-production, 3D records and visualisations not only accrue 
+value, they also enhance the values associated with the tangible heritage objects they represent, and 
+in some cases even create new forms of value. But what of the ambivalent relationships between 3D 
+digital representations and authenticity? How does community co-production impact on the authen-
+ticity of 3D models and indeed their physical counterparts? In the next section we return to this issue.
+
+The digital and the material: experiencing and negotiating authenticity in the 
+ACCORD project
+Preliminary responses from those involved in the ACCORD project appeared to uphold a strong dis-
+tinction between digital representations and their tangible counterparts. People’s initial reactions to the 
+digital models they had created often focused on their visual impression and aesthetics, especially their 
+realism or hyper-realism: ‘it looks just like the real thing’, ‘it’s almost more real than the original’, and 
+so forth. The apparent veracity or fidelity of the digital visualisations was central to these claims and a 
+repeated focus of discussion, ostensibly vindicating prevailing academic concerns about the accuracy 
+and objectivity of the digital surrogate. Furthermore, many focused on the photographic qualities 
+of the models and their potential as forms of record for conservation and investigation. However, 
+although these characteristics would appear to bring 3D models and visualisations closer to the realm 
+of the authentic, in the sense of the real, the genuine and the truthful, ironically that was not the case. 
+Indeed, explicit statements regarding the distinctiveness of the digital copy usually accompanied these 
+discussions: ‘it’s not the same as the original though’; ‘it could never be a substitute for the original’.
+In making distinctions between original and virtual objects participants would frequently high-
+light characteristics of the former that are absent in the digital realm. The importance of tangibility 
+and touch was often underlined, resonating with recent research on authenticity (e.g. Holtorf 2013; 
+Jones 2010, 2016). As one participant put it, the original ‘makes you want to touch it’, whilst another 
+emphasised that contact with the original offers a ‘physical connection back to the people who make 
+it’, echoing Holtorf’s (2013, 433) arguments about one of the key characteristics of ‘pastness’. Other 
+sensory qualities associated with the experience of tangible historic objects were also highlighted: 
+their physical setting and wider landscape; associated sounds and smells; the weather and so forth. 
+Such issues were rarely straightforward, often resulting in debate about the distinctions. For instance, 
+one member of the Access Archaeology Group in the Uists pointed out that the 3D visualisation is 
+‘still a representation …. It doesn’t have atmosphere, the landscape, the weather’. Another member 
+of the group immediately countered this view, asserting that ‘it is a visualisation, but it is [also] a real 
+site, it is the stone, it is the site’. This exchange was then followed by a passionate discussion about 
+the importance of changing weather conditions and sounds, such as bird song, in the experience of 
+historic objects, monuments and places.
+
+The ethnographic material from the ACCORD project thus echoes recent studies that highlight 
+the importance of sensory aspects of experience in the negotiation of authenticity. These aspects are 
+clearly missing from the digital models and this constrains their aura and authenticity in part. However, 
+complex relations are created between physical originals and digital models, which demonstrate that the 
+latter are active agents in the negotiation of authenticity. Some ACCORD participants clearly felt that 
+digital representations can take something away from their original counterparts. As one participant in 
+the Kirkudbright group evocatively exclaimed, ‘it dilutes the original!’; seemingly echoing Benjamin’s 
+point about the decay of aura. Yet, many participants highlighted the ways in which digital models offer 
+new ways of seeing and experiencing. People talked of ‘seeing more’ or ‘seeing differently’. Moreover, 
+for one of the climbers we worked with at Dumbarton Rock the 3D models of the boulders and rock 
+faces allowed him ‘to experience the place differently’. Indeed despite the absence of materiality, the 
+climbers’ response to the digital models was informed by their embodied practices, and the value of 
+the models in part lay in the way they allowed them to think through the relation between their bodies 
+and the surfaces of the rock in new ways (Figure 5) (for further discussion see Hale et al. 2017, 10–11).
+
+346 
+
+ 
+
+ S. JONES ET AL.
+
+The ability to manipulate photogrammetric models and hence gain access to new perspectives on 
+their physical counterparts was also important to such claims about new ways of seeing and experi-
+encing (and see Cameron 2007, 66). More commonly, these were prompted by the revelations of RTI, 
+illuminating previously illegible inscriptions and other marks, such as the cup and ring marks recorded 
+using this technique with the Glendaruel and Colintraive group (Figure 1(d)). As one participant 
+exclaimed upon seeing the results of the RTI, ‘I couldn’t see why it was exciting and important before 
+[…] now I see why’. In this way, as Latour and Lowe (2011, 4) argue, ‘facsimiles, and especially those 
+relying on complex (digital) techniques, are the most fruitful way to explore the original and even to 
+help re-define what originality actually is’. Yet it is not just down to their ability to register and reveal 
+aspects of a thing that are invisible to the human eye. The digital object is also associated with a magical 
+quality that animates the original. As one participant in the ACCORD project remarked, the digital 
+visualisation ‘brings it [the original] to life’. It can be argued that this also relates to the experience 
+of authenticity; the process of digital recording and representation somehow brings those involved 
+closer to the unique biography of the original, through forms of studied attention that highlight the 
+marks of its production and the patina of age, even if in the form of a representation (Cameron 2007, 
+63; Garstki 2016, 5–6).
+
+Importantly, the act of participating in the production of 3D visualisations was a significant aspect 
+of people’s responses to the models, contributing to a sense of authenticity. The significance of ‘being 
+there’ was summed up particularly succinctly by one participant in the Uist group who simply stated, 
+‘it’s authentic because we made it’. For some, the authenticity of the model was also derived from pre-ex-
+isting forms of attachment and identity associated with the site they were recording and modelling. 
+
+Figure 5. aCCord work in progress with the climbers at dumbarton rock (‘dumby’). Clockwise from top left: (a) taking photographs 
+of one of the boulders for photogrammetry; (b) co-design in action; (c) a photogrammetric model of Pongo boulder; (d) processing 
+images in the field (Images: aCCord, CC-BY).
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  347
+
+As discussed in the previous section, these visualisation practices were undertaken in landscapes that 
+are rich in significance and the focus of existing heritage practices, and this in turn clearly contrib-
+uted not just to the value of the resulting models, but also their authenticity. Thus, in the context of 
+co-production, the productive nature of 3D models, and the significance of who creates them with 
+what intention, is brought into sharp focus, creating forms of authority and aura.
+
+At the same time, the ACCORD project shows that, in the context of community co-production at 
+least, 3D heritage visualisations can create, extend and reinforce networks of relations between people, 
+monuments and places. In a number of cases, visualisation served to articulate and authorise relations 
+between objects and places. For instance in recording and modelling a nineteenth-century garden 
+statue of Falstaff (Figure 6(b)), which is now located in Calderwood Park, the Castlemilk group were 
+driven by a concern to reconnect the statue with its original location in the grounds of the former 
+Castlemilk House. Their selection of the statue in the context of co-design was framed by previous 
+research on the house and its grounds, in particular an historic postcard showing Falstaff standing in 
+the gardens. Talk of requesting his physical return to Castlemilk, was transposed into the possibility 
+of a metaphorical re-appropriation through recording and modelling.
+
+Thus 3D visualisation can provide a mechanism for negotiating relations of attachment and belong-
+ing, as discussed by Brown (2007) in relation to Maori objects in museums. At the same time, whilst 
+the Castlemilk example apparently centres on the relationship between objects and places, it also 
+needs to be understood in terms of relationships between people and place set against the experience 
+of postwar urban renewal and displacement. In coupling Falstaff – a nineteenth-century monument 
+that has been displaced – with the ‘King of the Castle’ sculpture (1999) – a monument resulting 
+
+Figure 6. aCCord work with Castlemilk’s ‘How old are Yew?’ group. Clockwise from top left: (a) photograph of Castlemilk House as 
+pictured on an edwardian postcard; (b) recording the statue of falstaff; (c) old photographs of Castlemilk collected by the group; (d) 
+a member of the group taking photographs of Kenny Hunter’s sculpture, ‘King of the Castle’, for photogrammetry (Images: aCCord, 
+CC-BY).
+
+348 
+
+ 
+
+ S. JONES ET AL.
+
+from a public art project celebrating Castlemilk’s modern housing estate – the Castlemilk group were 
+actively engaged in reinforcing their own connections to place (Figure 6). The ‘wee rascal’, as ‘King 
+of the Castle’ is affectionately known locally, is an icon of Castlemilk, ‘everyone knows it!’ As one 
+person explained, he ‘tells of the regeneration story’, which is so important in terms of transforming 
+Castlemilk from an economically deprived housing scheme on the outskirts of a Glasgow into a place 
+of significance (Figure 6(c)).
+
+There are many other examples from the ACCORD project that demonstrate how 3D recording and 
+modelling became caught up in the negotiation of authentic relationships between people and places, 
+past and present. One of the most obvious is the way in which the Scots-Americans who participated 
+in the Tarbet Isle excavations saw 3D visualisation as a means to authenticate their own relationships 
+to the MacFarlane Clan. 3D visualisation and printing focused on the wall footings uncovered by the 
+excavations on Tarbet Isle (James 2015), as well as the seventeenth-century plaque in memory of Jhone 
+MacFarlan (sic) located in the wall of Luss Church (also known as St Kessog’s Church) (Figure 4(c)). 
+For the two MacFarlane participants (who also funded the excavations on Tarbet Isle) creating virtual 
+models captured the act of ‘being there’, in the heart of what they see as MacFarlane country, even 
+though the status of the Tarbet Isle structure as a Clan MacFarlane stronghold remained unsubstanti-
+ated. It was also felt that the virtual models would enable others in the Clan MacFarlane Society back 
+home in the U.S.A. to connect to their ancestors remotely. For one participant 3D printing became 
+key to this process, as he explained in a subsequent blog article in language saturated with allusions 
+to authenticity:
+
+Photogrammetry combined with 3D printing is an incredibly special technology which can be used to perma-
+nently capture and preserve the real world […] 3D printing has allowed me to bring some of that homeland and 
+history back with me. This makes it easier for people to discover, understand, and fall in love with their heritage. 
+They can now hold in their hand a scaled reproduction of a building or some other artefact. (McFarland cited 
+in Krassenstein 2014)
+Whilst such explicit statements are music to the ears of commercial ventures like 3DPrint.com and 
+others, the ACCORD project also reveals more complex and subtle negotiations at stake in 3D record-
+ing. For instance, in the case of other groups the creation of 3D records and visualisations provided 
+a means for self-defined ‘incomers’, with no prior connections to the rural communities they have 
+settled in, to create a sense of connection for themselves. Doing photogrammetry and RTI required 
+them to devote time and studied attention to a specific place, but it also served to incorporate them 
+into the biography of that place through their authorship of a virtual model. Thus, in the context of 
+co-production the practices involved in the use of 3D technologies create networks of relationships 
+between historic objects, people and places that become part of the biography of the virtual object 
+and mediate the experience of authenticity for all involved.
+
+Digital objects thus become caught up in the cultural politics of authentication. The selection of an 
+object, building or monument for recording and modelling creates meaning and value and extends 
+networks of relationships across time and place. For instance, members of the Kirkcudbright History 
+Society selected various headstones in the Kirkcudbright Kirkyard as a means to show how the cem-
+etery, which was subject to vandalism in 2010, is a cherished part of the community (Figure 1(b)). 
+The decision of the Colintraive and Glendaruel group to model a neglected and forgotten memorial 
+to two brothers who died at Gallipoli was an act of reinstating them in local social memory at a time 
+of wider commemoration of WW1 (Figure 4(d)). For one member of the ACCORD group, who had 
+just returned from 20 years in Australia, it also became a personal project of reinstatement allowing 
+him to make a meaningful connection between Australia and his new home through his subsequent 
+investigation of the lives of the brothers and their deaths at Gallipoli.
+
+Three final brief examples demonstrate the power of visualisation to endorse (or not) forms of her-
+itage that have an ambivalent status in terms of authenticity. As discussed above, for the climbers we 
+worked with at Dumbarton Rock, visualising the climbing boulders and rock faces provided a means 
+of incorporating ‘Dumby’s’ place in Scottish climbing heritage into the wider discourses of authenticity 
+surrounding the monument, including controversially the graffiti that adorns the rock surfaces (Figure 
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  349
+
+5(c)). In contrast, with Grimsay Wheelhouse, members of the Uists’ Access Archaeology Group rec-
+ognised that in the eyes of archaeologists and heritage professionals, the 3D model might authenticate 
+what is regarded as a controversial reconstruction based on the excavations of a lone local amateur. 
+Nevertheless, this awareness did not ultimately undercut their desire to model the wheelhouse, which 
+is an iconic type of monument distinguishing the Uists from other places. Perhaps the most decisive 
+example of the authenticating role of 3D recording is found in the case of the Bressay Stone, the original 
+of which is now part of National Museums Scotland, located in Edinburgh. In this case, the idea of 
+recording and modelling a physical replica that stands in its place on Bressay was dismissed, because 
+it was felt that visualisation would lend it undue value and authenticity and reinforce the rights of the 
+museum in regard to the original.
+
+It would thus appear that digital visualisations have a role in mediating the experience of authenticity 
+for those involved in their production. Whilst digital models may lack the visceral thrill of being in 
+the presence of the original, they can create new sets of relations with their physical counterparts that 
+gives the models a magical, alluring quality, and this in turn suggests a partial if limited migration of 
+aura. 3D models also acquire new forms of authenticity, because recording and modelling is a creative 
+process, and thus the product acquires a form of aura in relation to the networks of relations involved 
+in their production. Yet above all, it is clear that 3D visualisations do important authenticating work, 
+becoming active agents in the negotiation of relations between people, places and things, as well as 
+the cultural politics that inform those relations.
+
+Conclusion
+The results of the ACCORD project make a significant contribution to theories of authenticity and 
+have important implications for heritage visualisation practice. Much of the theoretical debate cur-
+rently focuses on the accuracy of the data and/or the realism of the resulting 3D visualisations. Flynn 
+(2007, 350) points out that ‘in virtual heritage, an algorithmically accurate large-scale 3D model of a 
+cathedral or castle is taken as the hallmark of authenticity’. A long-standing ‘technological fetishism’ 
+(Huggett 2004) reigns where claims to objectivity and authenticity are removed from the producer 
+and located with the technology itself (Garstki 2016, 15). Furthermore, notions of ‘digital surrogacy’ 
+are commonplace (Garstki 2016; Rabinowitz 2015), but because of their potential for successful imi-
+tation digital historic objects are also conceived as a source of threat to the authentic original object 
+(Cameron 2007, 51). The London Charter for the Computer-based Visualisation of Cultural Heritage 
+thus stresses the need to distinguish between ‘fact and fiction’ in heritage visualisation, to make visible 
+‘the limitations of knowledge’ (Denard 2012). Furthermore, in museums and heritage organisations, 
+much work is devoted to preserving the authority and authenticity of the original over the digital 
+(Cameron 2007, 52). Nevertheless, all too often the productive or creative nature of 3D visualisation, 
+embodied in acts of selection, manipulation and interpretation, remains obscure in the presentation 
+of the final models (Cameron 2007, 56; also Garstki ; Rabinowitz 2015).
+
+The ACCORD project takes questions of authenticity and 3D visualisation into a new arena – that 
+of community heritage practice. Using rapid ethnographic approaches, combined with co-produc-
+tion of 3D models of historic objects, buildings and monuments, we have explored when and how 
+digital visualisations acquire authenticity. There is evidence for some ‘migration of aura’ (Latour and 
+Lowe 2011, 4) in that the digital ‘copy’ becomes part of the trajectory of original and its continually 
+re-written biography. The meanings, values, attachments and agendas that informed the selection and 
+creation of visualisations during the ACCORD project ensured a partial, if at times limited, migration 
+of authenticity. Yet we also agree with Cameron (2007, 67) that 3D visualisation is a creative work in its 
+own right and thus ‘the digital acts as testimony to its own history and origin, and hence authenticity’. 
+Community co-production of 3D digital models, in which their history and provenance is explicitly 
+tied to those involved in their design and creation, shows very clearly that they can acquire aura and 
+authenticity independently. In this way digital visualisations embody networks of relations between 
+objects, people and places, as Deger (2016, 128) has argued for ‘thick photography’. These networks 
+
+350 
+
+ 
+
+ S. JONES ET AL.
+
+in turn are central to the production and negotiation of authenticity, whether in relation to material 
+or digital objects (Jones 2010; Jones and Yarrow 2013; Macdonald 2013).
+
+The key point here is that a pre-occupation with the virtual object – and the binary question of whether 
+it is or is not authentic – obscures the wider work that digital objects do. There is strong evidence from 
+the ACCORD project that the creation of digital models can actively mediate the authenticity and 
+status of their original counterparts. Visualisation is also incontrovertibly caught up in the work of 
+remediation that goes on around heritage places, in particular the wider cultural politics of ownership, 
+attachment, place-making and regeneration. Thus seeing the authenticity of digital 3D models simply 
+as a facet of their accuracy, objectivity or realism is a misplaced venture. Instead, we echo Gilling’s 
+(2005) argument that it would be far more profitable to see it as a property of the relationships between 
+people and their world.
+
+These conclusions have a number of implications for the use of heritage visualisation in practice. 
+In providing benchmark standards, The London Charter (2009) stresses that ‘sufficient information 
+should be documented and disseminated to allow computer-based visualisation methods and outcomes 
+to be understood and evaluated’. This includes documenting knowledge-claims, research sources, 
+methods, formats and standards. However, there needs to be more attention to who was involved in the 
+production of specific visualisations, their relationships to the original historic objects involved, and 
+the social, economic and political conditions under which visualisations are produced. Furthermore, 
+whilst access and communication are given considerable weight in the Charter, the emphasis is very 
+much on stewardship and the dissemination of expert knowledge to public audiences. In the current 
+version, there is no mention of public participatory methods, nor the potential value of co-design 
+and co-production.
+
+Based on the results of the ACCORD project we argue that the design and production of herit-
+age visualisations should include a consideration of the wider cultural politics and social relations 
+surrounding the original historic objects, as well as the production of digital records and models 
+(see Brown 2007; Deger 2016). Communities of interest and practice should be consulted and where 
+possible included in co-design and co-production of visualisations alongside academics, heritage 
+professionals,  designers  and  digital  technologists.  Furthermore,  documentation  should  include  a 
+record of these relationships, and associated interests and practices, making these accessible to those 
+who view heritage visualisations. For examples of how this can be achieved see the statements of 
+significance archived with the ACCORD data (Jeffrey et al. 2017). These proposals shift the emphasis 
+from product to process, but they would also enhance the significance of the products. The meaning, 
+value and authenticity of digital heritage visualisations would be enhanced and their relationship to 
+the unfolding biographies of their historic counterparts sustained. Importantly, such developments 
+should also facilitate a richer dialogue about what is at stake in the visualisations and experiences we 
+produce about the past.
+
+Acknowledgements
+First and foremost we would like to thank all our community participants who made this research possible. Thanks 
+also to the ACCORD project partners: Archaeology Scotland, the Royal Commission on the Ancient and Historic 
+Monuments of Scotland (now part of Historic Environment Scotland) and Glasgow Life. Various colleagues facilitated 
+the project and we are grateful to Gordon Noble and Richard Jones for introducing us to two of the community groups, 
+and in particular Heather James who invited us to carry out ACCORD research during the MacFarlane excavations on 
+Tarbet Isle. Thanks to Sam Alberti and Sally Foster for their insightful comments on a draft version of this paper. We 
+would also like to thank the two anonymous reviewers for their constructive criticism and suggestions.
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  351
+
+Funding
+This work was supported by the Arts and Humanities Research Council under [grant number AH/L007533/1].
+
+Notes on contributors
+Siân Jones is a professor of Environmental History and Heritage at the University of Stirling. She is an interdisciplinary 
+scholar with expertise in cultural heritage, as well as on the role of the past in the production of power, identity and 
+sense of place. Her recent projects focus on the practice of conservation, the experience of authenticity, replicas and 
+reconstructions, approaches to social value, and community heritage.
+Stuart Jeffrey is a reader in Heritage Visualisation at Glasgow School of Art in the School of Simulation and Visualisation. 
+His research addresses all aspects of heritage visualisation and the use of new technologies to record, analyse, interpret 
+and represent diverse forms of tangible and intangible heritage. His recent projects examine how these technologies 
+affect our engagement with the past.
+Mhairi Maxwell is an archaeologist who worked on community heritage projects at the Glasgow School of Art’s Digital 
+Design Studio (now School of Simulation and Visualisation). She now works at the V&A Museum of Design Dundee 
+in the Learning and Innovation Team.
+Alex Hale is an archaeologist who formerly worked at the Royal Commission on the Ancient and Historical Monuments 
+of Scotland, which is now part of Historic Environment Scotland. He works on collaborative research projects, landscape 
+surveys and Scotland’s contemporary and historic graffiti art.
+Cara Jones is a project manager at Archaeology Scotland. She has worked as a field archaeologist, heritage consultant, 
+development control archaeologist and currently co-manages Archaeology Scotland’s Adopt-a-Monument scheme.
+
+ORCID
+Siân Jones 
+Stuart Jeffrey 
+Mhairi Maxwell 
+Alex Hale 
+
+ http://orcid.org/0000-0001-6157-7848
+
+ http://orcid.org/0000-0003-2084-4174
+
+ http://orcid.org/0000-0003-1740-8590
+
+ http://orcid.org/0000-0002-6560-4003
+
+References
+Benjamin, Walter. [1936] 1969. “The Work of Art in the Age of Mechanical Reproduction.” In Illuminations, edited by 
+
+Hannah Arendt and translated by Harry Zohn, 217–251. New York: Schocken Books.
+
+Bolter, Jay D., Blair MacIntyre, Maribeth Gandy, and Petra Schweitzer. 2006. “New Media and the Permanent Crisis of 
+
+Aura.” Convergence 12 (1): 21–39. doi:10.1177/1354856506061550.
+
+Bonacchi, Chiara, Andrew Bevan, Daniel Pett, Adi Keinan-Schoonbaert, Rachael Sparks, Jennifer Wexler, and Neil 
+Wilkin. 2014. “Crowd-sourced Archaeological Research: The MicroPasts Project.” Archaeology International 17: 
+61–68. doi:10.5334/ai.1705.
+
+Brown, Deidre. 2007. “Te Ahu Hiko: Digital Cultural Heritage and Indigenous Objects, People and Environments.” In 
+Theorizing Digital Heritage: A Critical Discourse, edited by Fiona Cameron and Sarah Kenderdine, 77–92. Cambridge, 
+MA: MIT Press.
+
+Bruner, Edward B. 2007. “Abraham Lincoln as Authentic Reproduction: a Critique of Postmodernism.” In Museums in 
+
+a Material World, edited by Simon J. Knell, 301–319. London: Routledge.
+
+Bryan, Paul G., and Jim H. Chandler. 2008. “Cost-effective Rock-art Recording within a Non-specialist Environment.” 
+The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences 37 (B5): 259–264.
+Burr, Jacob, and Ben Matthews. 2008. “Participatory Innovation.” International Journal of Innovation Management 12 
+
+(3): 255–273.
+
+AHRC.
+
+Cameron,  Fiona.  2007.  “Beyond  the  Cult  of  the  Replicant:  Museums  and  Historical  Digital  Objects  –  Traditional 
+Concerns, New Discourses.” In Theorizing Digital Heritage: A Critical Discourse, edited by Fiona Cameron and 
+Sarah Kenderdine, 49–75. Cambridge, MA: MIT Press.
+
+Conroy, Mervyn, Harriet Clarke, and Lynne Wilson. 2012. Connected Health and Social Care Communities. Swindon: 
+
+Cottam, Hilary, and Charles Leadbeater. 2006. Co-creating Outcomes. London: Design Council.
+Davies, Sue M. 2010. “The Co-production of Temporary Museum Exhibitions.” Museum Management and Curatorship 
+
+25 (3): 305–321. doi:10.1080/09647775.2010.498988.
+
+Deger, Jennifer. 2016. “Thick Photography.” Journal of Material Culture 21 (1): 111–132. doi:10.1177/1359183515623312.
+
+352 
+
+ 
+
+ S. JONES ET AL.
+
+Denard, Hugh. 2012. “A New Introduction to the London Charter.” In Paradata and Transparency in Virtual Heritage, 
+edited by Anna Bentkowska-Kafel, Drew Baker, and Hugh Denar, 57–71. London: Routledge. Accessed August 21, 
+2017. http://www.londoncharter.org/introduction.html
+
+Dicks, Bella. 2000. Heritage, Place and Community. Cardiff: University of Wales Press.
+Douglas-Jones, Rachel, John Hughes, Siân Jones, and Thomas Yarrow. 2016. “Science, Value and Material Decay in the 
+Conservation of Historic Environments.” Journal of Cultural Heritage. Advance Online Publication. doi:10.1016/j.
+culher.2016.03.007.
+
+Finch, Helen, Jane Lewis, and Caroline Turley. 2014. “Focus Groups.” In Qualitative Research Practice: A Guide for 
+Social Science Students and Researchers, edited by Jane Ritchie, Jane Lewis, Carol McNaughton Nicholls, and Rachel 
+Ormston, 211–242. London: Sage.
+
+Flynn, Bernadette. 2007. “The Morphology of Space in Virtual Heritage.” In Theorizing Digital Heritage: A Critical 
+
+Discourse, edited by Fiona Cameron and Sarah Kenderdine, 349–368. Cambridge, MA: MIT Press.
+
+Foster, Sally M., and Neil G. W. Curtis. 2016. “The Thing about Replicas – Why Historic Replicas Matter.” European 
+
+Journal of Archaeology. Advance Online Publication 1–27. doi:10.1179/1461957115Y.0000000011.
+
+Fyfe, Gordon. 2004. “Reproduction, Cultural Capital and Museums: Aspects of the Culture of Copies.” Museum and 
+
+Society 2 (1): 47–67.
+
+Garstki, Kevin. 2016. “Virtual Representation: The Production of 3D Digital Artefacts.” Journal of Archaeological Theory 
+
+and Method. Advance Online Publication. doi: 10.1007/s10816-016-9285-z.
+
+Gillings, Mark. 2005. “The Real, the Virtually Real, and the Hyperreal: The Role of VR in Archaeology.” In Envisioning the 
+Past: Archaeology and the Image, edited by Sam Smiles and Stephanie Moser, 223–239. Oxford: Blackwell Publishing 
+Ltd. doi: 10.1002/9780470774830.ch12.
+
+Hale, Alex, Alison Fischer, John Hutchinson, Stuart Jeffrey, Siân Jones, Mhairi Maxwell, and John Stewart Watson. 2017. 
+“Disrupting the Heritage of Place: How Counter Archaeologies were Practiced by the ACCORD Project at Dumby, 
+Scotland.” World Archaeology. Advance Online Publication. doi: 10.1080/00438243.2017.1333923.
+
+Holtorf,  Cornelius.  2013.  “On  Pastness:  A  Reconsideration  of  Materiality  in  Archaeological  Object  Authenticity.” 
+
+Holtorf, Cornelius, and Tim Schadla-Hall. 1999. “Age as Artefact: On Archaeological Authenticity.” European Journal 
+
+Huggett, Jeremy. 2004. “Archaeology and the New Technological Fetishism.” Archeologia e Calcolatori 15: 81–92.
+James, Heather. 2015. Tarbet Isle, Loch Lomond, Argyll and Bute, Scotland. Northlight Heritage Report 121. Glasgow: 
+
+Jeffrey, Stuart. 2015. “Challenging Heritage Visualisation: Beauty, Aura and Democratisation.” Open Archaeology 1: 
+
+Anthropological Quarterly 86 (2): 427–443.
+
+of Archaeology 2 (2): 229–247.
+
+Northlight.
+
+144–152. doi:10.1515/opar-2015-0008.
+
+Jeffrey, Stuart, Alex Hale, Cara Jones, Siân Jones, and Mhairi Maxwell. 2015. “The ACCORD Project: Archaeological 
+Community Co-production of Research Resources.” In Proceedings of the 42nd Annual Conference on Computer 
+Applications and Quantitative Methods in Archaeology, CAA 2014, edited by François Giligny, François Djindjian, L. 
+Costa, Paola Moscati, and S. Robert, 1–7. Paris: CAA.
+
+Jeffrey, Stuart, Alex Hale, Cara Jones, Siân Jones, and Mhairi Maxwell. 2017. ACCORD: Archaeology Community Co-
+
+production of Research Data [data-set]. York: Archaeology Data Service [distributor]. doi:10.5284/1042733.
+
+Jeffrey, Stuart, Siân Jones, Mhairi Maxwell, Alex Hale, and Cara Jones. In Prep. “Heritage Visualisation as Community 
+
+Engagement: Making Place, Creating Value.”
+
+Jones, Siân. 2010. “Negotiating Authentic Objects and Authentic Selves: Beyond the Deconstruction of Authenticity.” 
+
+Journal of Material Culture 15 (2): 181–203. doi:10.1177/1359183510364074.
+
+Jones, Siân. 2016. “Unlocking Essences and Exploring Networks: Experiencing Authenticity in Heritage Education 
+Settings.” In Sensitive Pasts. Questioning Heritage in Education, edited by C. van Boxtel, M. Grever, and S. Klein, 
+130–152. Oxford: Berghahn.
+
+Jones, Siân, and Thomas Gresham Yarrow. 2013. “Crafting Authenticity: An Ethnography of Conservation Practice.” 
+
+Kalay, Yehuda, Thomas Kvan, and Janice Affleck, eds. 2008. New Heritage: New Media and Cultural Heritage. London: 
+
+Journal of Material Culture 18 (1): 3–26.
+
+Routledge.
+
+King, Laura, James F. Stark, and Paul Cooke. 2016. “Experiencing the Digital World: The Cultural Value of Digital 
+
+Engagement with Heritage.” Heritage and Society 9 (1): 76–101.
+
+Kitzinger,  Jenny,  and  Rosaline  S.  Barbour.  1999.  “Introduction:  The  Challenge  and  Promise  of  Focus  Groups.”  In 
+Developing Focus Group Research, edited by Rosaline S. Barbour and Jenny Kitzinger, 1–21. London: Sage. doi: 
+10.4135/9781849208857.n1.
+
+Knoblauch, Hubert. 2005. “Focused Ethnography.” Forum Qualitative Sozialforschung/Forum: Qualitative Social Research 
+
+6 (3): Art. 44. http://nbn-resolving.de/urn:nbn:de:0114-fqs0503440.
+
+Krassenstein, Eddie. 2014. “3D Printing Allows Man to Preserve and Replicate a Piece of Family History in Incredible 
+
+Fashion.” 3DPrint.com. https://3dprint.com/26369/3d-printed-family-stone/.
+
+INTERNATIONAL JOURNAL OF HERITAGE STUDIES  
+
+  353
+
+Latour, Bruno, and Adam Lowe. 2011. “The Migration of the Aura, or How to Explore the Original through its Facsimiles.” 
+In Switching Codes: Thinking Through Digital Technology in the Humanities and the Arts, edited by Thomas Bartscherer 
+and Roderick Coover, 275–298. Chicago, IL: University of Chicago Press.
+
+Lindholm, Charles. 2008. Culture and Authenticity. Oxford: Blackwell.
+Londoncharter.org.  2009.  London  Charter  for  Computer-based  Visualization  of  Cultural  Heritage.  http://www.
+
+londoncharter.org/.
+
+Lynch, Bernadette T., and Sam J. M. M. Alberti. 2010. “Legacies of Prejudice: Racism, Co-production and Radical Trust 
+
+in the Museum.” Museum Management and Curatorship 25 (1): 13–35.
+
+Macdonald, Sharon. 1997a. Reimagining Culture: Histories, Identities and Gaelic Resistance. Oxford: Berg.
+Macdonald, Sharon. 1997b. “A People’s Story: Heritage, Identity and Authenticity.” In Touring Cultures: Transformations 
+
+of Travel and Theory, edited by Chris Rojek and John Urry, 155–175. London: Routledge.
+
+Macdonald, Sharon. 2013. Memorylands: Heritage and Identity in Europe Today. London: Routledge.
+Maxwell, Mhairi. 2017. “Power is in the Process: The ACCORD Project.” Internet Archaeology 44. doi:10.11141/ia.44.10.
+McCarthy, John. 2014. “Multi-image Photogrammetry as a Practical Tool for Cultural Heritage Survey and Community 
+
+Engagement.” Journal of Archaeological Science 43: 175–185. doi:10.1016/j.jas.2014.01.010.
+
+Nadel-Klein, Jane. 1991. “Reweaving the Fringe: Localism, Tradition, and Representation in British Ethnography.” 
+
+Oxford English Dictionary. 2002. Oxford: University of Oxford Press.
+Pink, Sarah, and Jennie Morgan. 2013. “Short-term Ethnography: Intense Routes to Knowing.” Symbolic Interaction 36 
+
+American Ethnologist 18 (3): 500–517.
+
+(3): 351–361. doi:10.1002/SYMB.66.
+
+Pletinckx, Daniel, Neil Silberman, and Dirk Callebaut. 2003. “Heritage Presentation through Interactive Storytelling: A 
+New Multimedia Database Approach.” The Journal of Visualization and Computer Animation 14: 225–231. doi:10.1002/
+vis.319.
+
+Rabinowitz, Adam. 2015. “The Work of Archaeology in the Age of Digital Surrogacy.” In Visions of Substance: 3D Imaging 
+in Mediterranean Archaeology, edited by Brandon R. Olson and William R. Caraher, 27–42. Grand Forks: The Digital 
+Press at the University of North Dakota.
+
+Simon, Nina. 2010. The Participatory Museum. Accessed August 14, 2017. http://www.participatorymuseum.org/
+Smith, Laurajane, and Emma Waterton. 2009. Heritage, Communities and Archaeology. London: Duckworth.
+
+

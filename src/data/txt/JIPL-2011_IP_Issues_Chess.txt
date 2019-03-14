@@ -1,0 +1,1318 @@
+Journal of Intellectual Property Law & Practice, 2011, Vol. 6, No. 10
+
+ARTICLE
+
+723
+
+Intellectual property issues in chess games
+Alisa Melekhina and Neal Orkin*
+
+The tournament-tested chess players sit across from each
+other.1 One leans back in her chair, arms crossed, a slight
+smirk on her face. Her opponent deﬁantly hunches over the
+board, hands clasping his forehead like a visor, his face red-
+dening with each passing second of the clock. Sweat forms
+on his old, wrinkled brow, his hand shakes slightly as he
+clasps his face, and then it hovers across the board. His time
+is running out, and he sees no possible move to escape his
+opponent’s deadly mating attack. Cursing himself
+for
+hanging a piece in the opening, Boris resigns and pushes his
+way through the crowd gathered around the board.
+Throughout this contest, Natasha had calmly rocked back
+and forth in her chair, eyeing the prominent, world-class
+chess players in the crowd who had intently watched. Once
+the crowd disperses and the chess pieces and board are
+secured in their box, Natasha haughtily drops a carbon copy
+of her victorious game into the designated box, knowing
+that her brilliant masterpiece will soon ﬁnd a permanent
+place in the chess databases for everyone to see.
+
+Publication of chess games
+Publishing chess games is the current norm at tourna-
+ments with directors requiring that players submit a copy
+of their score sheet, which acts as a tangible move-by-
+move record of the game. The score sheet is ﬁlled in with
+special shorthand chess notation designed to record con-
+cisely the moves played on the board, allowing them to
+be replayed later for post-mortem analysis (Figure 1).
+
+A chess ofﬁcial usually interprets the notation, and
+enters the moves into a computer program designed
+speciﬁcally to facilitate the input of chess games. The elec-
+tronic record is submitted either for online live broadcast,
+or posted later to the tournament website. The games are
+subsequently copied from the website by a third party,
+and are transmitted to various chess databases. Some,
+such as the weekly TWIC, are available as free downloads,
+while others, like the annual ChessBase, collect various
+games and sell the collection for proﬁt. Major tourna-
+ments
+in the late nineteenth century imposed the
+
+The authors
+† Alisa Melekhina is, at age 19, a graduate of the
+philosophy programme at Drexel University. She
+is also a national chess master, having won numer-
+ous honours including a gold medal for the USA
+in the Women’s World Team Chess Champion-
+ships held in Ningbo, China in 2009. Neal Orkin
+is an associate professor of Legal Studies at Drexel
+University’s LeBow College of Business
+in
+Philadelphia where he teaches courses in IP.
+
+for
+
+copyright protection under
+
+This article
+† This article considers whether chess games are
+eligible
+the
+current US Copyright Act. Publishing chess
+games is the norm at tournaments. While the
+amateur player may be delighted that his or her
+win may be viewed, studied, and revered around
+the world,
+losing opponents may believe that
+they have a right to block publication of their
+game. Whether winners or losers, many believe
+that they should at least be compensated when
+their games are published in chess books.
+
+† The nature of chess games as a series of discov-
+ered facts fails to meet the originality require-
+ment of copyright
+legislation. Nevertheless, a
+minimally creative presentation of a compilation
+of chess games in a training manual or puzzle
+book may be eligible for the protection.
+In
+limited circumstances, chess games can be the
+subject matter of conﬁdentiality agreements.
+
+† While chess games are not proper subject matter
+for copyright protection, they may be eligible for
+trade secret protection in rare circumstances.
+
+currently outmoded practice requiring that players had no
+choice but to agree to terms such as,
+‘All games and
+
+*
+1
+
+Email: orkinn@drexel.edu and alisa.melekhina@gmail.com.
+I would like to thank Neal Orkin, whose course on Intellectual Property
+and Cyber Law inspired not only the concept of this paper, but the
+direction for my future legal career. His guidance and knowledge was
+invaluable from the ﬁrst to ﬁnal draft. Dr. Alan Soble, a chess player in
+
+his own right, prompted me to think of chess as a ﬁnite logical system
+throughout his classes on propositional and predicate logic at Drexel
+University. Finally, Professor Robert O’Neill’s undergraduate course in
+Legal Research and Writing was an essential that I am certain will also
+guide the research of many others in their legal careers.
+
+# The Authors (2011). Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jpr115
+
+Advance Access publication on 23 July 2011
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+6
+1
+0
+7
+2
+3
+8
+7
+7
+2
+2
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+724
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2011, Vol. 6, No. 10
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+6
+1
+0
+7
+2
+3
+8
+7
+7
+2
+2
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+Figure 1. Chess score sheet.
+
+problems shall remain the property of the Congress, and
+shall not be published without its consent.’2
+
+While the amateur player may be content or even
+delighted that his or her win may be viewed, studied, and
+revered around the world, losing opponents may believe
+that they have a right to block publication of their game,
+especially if the quality of play is embarrassing and
+demeaning. Others, whether winners or losers, may
+believe that they should at least be compensated when
+
+their games are published in not only chess database soft-
+ware, but in books that use their games for instructional
+material, often without the player’s consent unless direct
+analysis by the player in question is desired.
+
+Chess games, composed of an abstract sequence of a
+vast array of permissible moves within the rules of the
+game, represent intangible intellectual creations. This
+article discusses whether this content is suitable for IP
+protection, providing a reward to innovative creators.
+
+2 E Winter, ‘Copyright on Chess Games’ 29 (2006) Chess Notes Archive,
+
+http://www.chesshistory.com/winter/extra/copyright.html.
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Alisa Melekhina and Neal Orkin . Intellectual property issues in chess games
+
+ARTICLE
+
+725
+
+the forefront of
+
+Copyright protection
+In the USA, copyright protects the expression of ideas
+that are original works of authorship.3 Protecting chess
+games through copyright has been debated since the
+late nineteenth century. At
+these
+debates stood Wilhelm Steinitz, the ﬁrst world chess
+champion, who led arduous campaigns in favour of
+copyright protection. Steinitz, who later changed his
+ﬁrst name to William, emigrated to the USA from
+Austria in 1883, ofﬁcially becoming a citizen ﬁve years
+later.4 His fervour was manifested by his publishing a
+piece in an 1886 edition of International Chess Maga-
+zine demanding royalties for chess games that he con-
+sidered were unjustly exploited by ungrateful, wealthy
+fans.5
+
+At that time, any legal redress for copyright protec-
+tion in the USA would have been based on the arcane
+Copyright Act of 1790 (the next major statutory revi-
+sion was enacted in 1909), which limited protection to
+‘maps, charts, and books’.6 The public eventually lost
+interest, rendering Steinitz’s efforts unsuccessful, and
+leaving chess games by default in the public domain.
+The main argument advanced against copyright protec-
+tion during that era, persisting to this day, was that few
+individuals would beneﬁt while any outlet of creativity
+and learning available to the chess public would be
+stiﬂed.
+
+Many chess players analyse opening theory and chess
+games from databases and instructional materials to
+improve their game and create novel moves in the
+opening, further beneﬁting, and contributing to the
+technique and ideas employed by others. It can be
+reasonably argued that no chess game is truly unique,
+inevitably borrowing from ideas,
+theories, novelties,
+and analyses from previous games. For example, a
+player may have inadvertently stumbled upon a strong
+opening novelty played by a grandmaster, and used the
+exact move in the game against his or her next unwit-
+ting opponent. If the number of accessible games were
+severely limited by legal protection, each player would
+be left to depend upon his or her own analysis, sup-
+pressing any strategic advancement in chess theory, and
+severely lowering the quality of the game. Additional
+arguments against copyrighting chess games rely on the
+complexities regarding the claims of both players over
+
+the same game. For instance, the following issue may
+arise: which of the two players, who often reside in
+different states or even countries, would have authority
+over publication rights to the game, especially in cases
+where the interests of the two parties happen to con-
+ﬂict, as in the opening scenario?
+
+These arguments are relevant, but contain a critical
+assumption that must be analysed before the aforemen-
+tioned complexities can even be addressed. They
+assume that chess games are original works of author-
+ship, a fundamental requirement of the current US
+Copyright Act.
+
+Originality
+The term original is not deﬁned by the Copyright Act,
+but courts have interpreted it to mean that the work
+must be original
+to the author. Only a nominal
+amount of creativity is necessary. To this end, one may
+rely on Judge Learned Hand’s famous statement, ‘But if
+by some magic a man who had never known it were to
+compose a new Keats’s Ode on a Grecian Urn, he
+would be an “author,” and, if he copyrighted it, others
+might not copy that poem,
+though they might of
+course copy Keats’s.’7 To further this argument, a game
+that exactly repeats several moves of previously played
+games might be copyrightable, provided that
+the
+players were unaware of the primary game.
+
+Chess games demand that creative moves, strategies,
+and techniques be employed in response to the
+opponent’s threats designed ultimately to checkmate
+the king. Surely, the intuitive reaction and counterac-
+tion taken by both opponents during the course of the
+game in formulating the moves could result in an orig-
+inal work. However, the phrase ‘works of authorship’
+limits the material that can be copyright-protected,
+regardless of its originality. The Copyright Statute pro-
+vides a wide array of categories for what may be con-
+sidered a work of authorship. Among those listed are
+literary works, pictures, graphics, and audiovisual
+works. The notation representing directions for moving
+pieces in chess games in print (such as the score sheet)
+or digital (Figure 2) format may arguably be considered
+a literary work.8
+
+Many players insist that the aesthetic qualities of
+chess games relay a masterful story of an intricate
+
+17 USC §102 (2009).
+
+3
+4 B Wall, ‘Wilhelm Steinitz (1836-1900)’ [2009], Bill Wall’s Chess Master
+
+Proﬁles: Geocites. http://www.geocities.com/SiliconValley/Lab/7378/
+steinitz.htm.
+5 Winter, ibid.
+6
+
+Library of Congress, 2011, Copyright Act of 1790 full text, Washington
+DC, Copyright Ofﬁce. http://www.copyright.gov/history/1790act.pdf.
+
+7
+
+8
+
+Sheldon v Metro-Goldwyn Pictures Corporation, 81 F.2d 49, 54 (2nd Cir.
+1936).
+17 USC §101 (2009) deﬁnes literary works as ‘works, other than
+audiovisual works, expressed in words, numbers, or other verbal or
+numerical symbols or indicia, regardless of the nature of the material
+objects, such as books, periodicals, manuscripts, phonorecords, ﬁlm,
+tapes, disks, or cards, in which they are embodied’.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+6
+1
+0
+7
+2
+3
+8
+7
+7
+2
+2
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+726
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2011, Vol. 6, No. 10
+
+extending to ‘principles or discoveries’,10 but courts
+have recognized the ‘copyright monopoly’11 that would
+arise if
+facts were indeed granted protection. For
+example, facts of nature, such as E ¼ mc2, would not
+be eligible for copyright protection because that would
+understandably impose an absurd monopoly over
+‘They are manifestations of laws of
+physics research.
+nature,
+free to all men and reserved exclusively to
+none. He who discovers a hitherto unknown phenom-
+enon of nature has no claim to a monopoly of it which
+the law recognizes.’12 Einstein did not manipulate the
+universe into conforming to this equation; rather, he
+empirically discovered the equation as an expression of
+the functionality of the universe.
+
+Concepts that are discovered rather
+than created
+While it may seem counterintuitive, chess parameters,
+similar to those of mathematical systems, yield abstract
+concepts that are discovered rather than created. Math-
+ematical systems are variants of logical systems in that
+they function based on axioms or rules of inference (eg
+a line is the shortest distance between two points in
+Euclidean geometry), and rules of formation or syntax
+(eg the positioning of
+the symbols of operation).
+system, one can derive mathematical
+Within this
+truths, such as 32 ¼ 8  4, which are considered facts.
+Similarly, chess games function on the basis of their
+axioms, which include the way the pieces move (eg the
+knight moves in an L-shape), and rules for capturing
+and castling. Included in its rules of formation are the
+64 squares on the board, the initial set-up of the pieces,
+and the number of pieces used. Conversely, different
+rules of formation are employed in bughouse, a chess
+variant played with a partner in which captured pieces
+from the partner’s board are transferred to one’s own
+board with certain limitations. The occurrence of
+unusual numbers of pieces on the board from neigh-
+bouring and concurrent games represents a separate
+logical system. Within this system, one makes moves
+that conform to the established rules of inference and
+formation, but one cannot legally (by chess terms)
+make or create moves on the board that fall outside the
+conﬁnes of the rules.
+
+In compliance with these rules, a ﬁnite number of
+sequences of moves can be made, even if the number is
+too
+calculation.
+
+for human or
+
+computer
+
+vast
+
+12 Diamond v Chakrabarty, 447 US 303, 309 (1980) partially quoting from
+
+Funk Brothers Seed Co. v Kalo Inoculant Co., 333 US 127, 130 (1948).
+
+Figure 2. Text format of above score sheet game.
+
+battle, with the skilful player/craftsman controlling and
+directing the artistic procession of events. If chess
+games were entitled to copyright, would it still be poss-
+ible to control the publication of the moves involved?
+Before this can be afﬁrmed, another limitation to copy-
+rightable material must be taken into consideration.
+
+Facts generally cannot be copyrighted since they fail
+the originality requirement. ‘This is because facts do
+not owe their origin to an act of authorship. The dis-
+tinction is one between creation and discovery: the ﬁrst
+person to ﬁnd and report a particular fact has not
+created the fact; he or she has merely discovered its
+existence.’9 Not only is copyright prohibited from
+
+Feist Publications, Inc. v Rural Telephone Service, 499 US 340, 347 (1991).
+
+9
+10 17 USC §102 (2009).
+11 Harper & Row, Publishers, Inc. v Nation Enterprises, 471 US 539, 544
+
+(1985).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+6
+1
+0
+7
+2
+3
+8
+7
+7
+2
+2
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Alisa Melekhina and Neal Orkin . Intellectual property issues in chess games
+
+ARTICLE
+
+727
+
+The players use their ingenuity to discover moves from
+all possible options that would offer the most advantage
+in a given position. All chess moves available in a pos-
+ition are already present, made possible by the logical
+nature of the system. One must discover the best move,
+choosing from a selection of ‘legal’ or possible moves.
+The discovery of a move from a selection of predeter-
+mined possibilities renders each move factual. Accord-
+ing to Feist, the compilation of facts does not render the
+work original; facts must be presented in a ‘minimally
+creative’ way to be worthy of copyright protection.
+Therefore, while chess games themselves cannot be
+copyright-protected, a compilation of games in a train-
+ing manual or puzzle book could be an expression of
+the author’s ideas. For example a physics textbook,
+functioning as expressions of ideas, can be protected by
+copyright even though the featured equations, such as
+E ¼ mc2 would be ineligible for protection.
+
+While the expressions of ideas in an instructional
+chess book would be protected by copyright, it is ques-
+tionable whether the same would hold for individual
+score sheets. Despite the expression of an idea in a tan-
+gible medium immediately acquiring a copyright,13 the
+rearrangement of raw ‘facts’ in the tangible medium
+may not meet the standard of minimal creativity estab-
+lished in Feist. While assembling a legible score sheet
+demands some efforts by the player—such as the
+manner in which the opponent’s name, date, and tour-
+nament are recorded, along with the spaces designated
+to record the outcome and the players’ signatures—the
+ﬁnal product follows a systematic notational scheme
+that differs only by each player’s handwriting. Regard-
+less of whether a score sheet or scanned image of a
+score sheet
+the protection
+would still not be available for the represented game,
+continuing to be published in the more legible and
+modern text format (see Figure 2, the text format of
+games used in chess books and online sources). Score
+sheets are typically only included in a games compi-
+lation if they represent an historic encounter by a chess
+legend such as Bobby Fischer.
+Trade secret protection
+Finally, one must consider whether any other legal pro-
+tection exists to prevent public release of a chess game
+or chess moves. Since copyright protection probably
+does not apply to chess games, trade secret protection
+
+is eligible for copyright,
+
+may be considered a last resort in the following limited
+scenario. Trade secrets protect information that has an
+economic value and which an owner shows an intent
+to keep secret. The subject matter of a trade secret, as
+deﬁned by the UTSA (Uniform Trade Secrets Act),14
+extends to formulae, patterns, compilations, programs,
+devices, methods, techniques, or processes. Any infor-
+mation is eligible for protection provided that reason-
+able security measures are undertaken. This ﬂexibility
+may allow trade secret protection to apply to chess
+games or moves, but only in very limited circum-
+stances. Consider a scenario in which one’s ﬁnancial
+success depended on winning a major tournament, and
+the player hired a second to create an opening novelty
+against a main rival for the prize money. Hiring the
+assistance of a professional in preparation for a tourna-
+ment is standard, acceptable practice. Many players
+garner the majority of their income by coaching and
+preparing others. A conﬁdentiality agreement could be
+used to prohibit the second from disclosing the speci-
+ﬁed opening novelty before it is played in the tourna-
+ment and subsequently released to the public. If the
+second were carelessly to employ the novelty before the
+tournament, noticed by the adversaries’ team who con-
+sequently devised a refutation to it, the second would
+have misappropriated the trade secret.
+
+Chess games are not a proper subject matter for IP
+protection. Of course, a distressed chess player could
+take precautions to inhibit the publication of his or her
+games, such as refusing to use live broadcasting devices
+during games, neglecting to submit the score sheet, and
+playing in local tournaments that do not publish games
+but merely facilitate the competition. To prevent the
+earlier discomforting scenario featuring the dismal
+player and haughty opponent, no legal remedy can
+replace thorough and dedicated preparation and study
+of chess strategy itself.
+
+for
+
+the coming round, Boris
+
+With no immediate or future prospect of barring the
+publication of chess games based on IP claims, the next
+day when the other players are busy determining their
+pairings
+surreptitiously
+removes the copy of his game against Natasha from the
+drop-in box. Before the tournament director has a chance
+to review it, he crumples it, and tosses it into the nearest
+trashcan. ‘Now it won’t get published,’ he contemptuously
+murmurs under his breath.
+
+That’s another available remedy.
+
+13 17 USC §102 (2009).
+
+14 The model law has thus far been adopted by 46 states, with others still
+
+relying on common law.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+6
+1
+0
+7
+2
+3
+8
+7
+7
+2
+2
+2
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+

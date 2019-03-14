@@ -1,0 +1,1916 @@
+DOI: 10.1111/jwip.12088
+
+ORIGINAL ARTICLE
+
+The ratification and implementation of the
+Marrakesh Treaty for visually impaired persons in
+the Arab Gulf States
+
+Rami Olwan
+
+College of Business Administration, Sharjah
+University, Sharjah, United Arab Emirates
+
+Correspondence
+Assistant Prof., Rami Olwan, College of
+Business Administration, Sharjah University,
+Sharjah, United Arab Emirates.
+Email: ramiolwan@gmail.com
+
+Visually impaired persons (VIP) have asked the international
+community to help end the “book famine” they face and
+increase the number of books available in accessible formats.
+After 30 years of negotiations, meetings and consultation
+between member states delegates, negotiators and non-
+profit organizations, the World Intellectual Property Orga-
+nization (WIPO) adopted the VIP Treaty on 27 June 2013 in
+Marrakesh, Morocco, which entered into force on 30
+September 2016. Until today,
+it is mostly developing
+countries that have ratified the Treaty and only the United
+Arab Emirates (UAE) embraced its principles among the Gulf
+States. This article studies the copyright system in the Arab
+Gulf States and examines the state's readiness for the
+adoption of the Treaty. It argues that without considering
+the cultural and legal implications that influence disability
+and visual impairment in these states ratifying the Marrakesh
+Treaty and amending copyright laws in the Gulf States will
+not alleviate the “book famine” for VIPs in these countries.
+This article proposes legal and policy recommendations to
+promote and facilitate accessibility to published works for
+VIPs that can be adopted in the Arab Gulf States and other
+developing countries.
+
+K E Y W O R D S
+access to books, Arab Gulf States, author's exceptions to
+copyright, developing countries, print disability, Marrakesh Treaty
+
+© 2017 The Authors. The Journal of World Intellectual Property © 2017 John Wiley & Sons Ltd
+
+178 | wileyonlinelibrary.com/journal/jwip
+
+J World Intellect Prop. 2017;20:178–205.
+
+OLWAN
+
+1 |
+
+INTRODUCTION
+
+| 179
+
+Despite advances in digital technologies and the Internet that humans have witnessed in the twenty-first century,
+millions of people worldwide are still denied access to published works (LaBarre, 2014). According to the latest survey
+prepared by the World Health Organization (WHO), 285 million people worldwide are estimated to be visually
+impaired of which 39 million are blind and 246 million have low vision (World Health Organization (WHO), 2014).
+About 90% of the world's population with visual impairment live in developing and least-developing countries (LDCs),
+and only around 5% of published works are available in accessible friendly formats (such as Braille, audio and large
+print) (Group of Specialists on Human Rights in the Information Society, 2008; McClanahan, 2012; Williams, 2012). In
+the Arab world alone, it is estimated that there are about 35 million blind people living in the Arab region (Alyam, 2010;
+Calvo, 2014, World Health Organization (WHO), 2012), but the number is not definite as there is no reliable data
+(United Nations Economic and Social Commission for West Asia (ESCWA), 2014), on the size and causes of visual
+impairment (Al Thani, 2006).
+
+Access to knowledge and information is a basic human right and has become an essential component for full
+participation in society (Accessible Book Consortium; Kaminski & Yanisky-Ravid, 2014). It is a prerequisite for
+achieving full human development potential as it opens the door to education, employment, good health, and social
+and political participation (Conway, 2015, p. 37). The international community is struggling with the lack of access to
+books that hinders global efforts toward inclusivity and equality between all nations and people (United Nations
+Development Program (UNDP), 2015, p. vii). For developing countries, access to books is critical to redress inequality
+in society and to achieve social and economic development.
+
+Nowadays, we live in a wireless, touch-screen, online world where technology is constantly evolving. Visually
+impaired persons (VIPs) have tremendous means and ways never experienced before to access an unlimited number
+of published works with the aid of new technologies that include Braille translators, DAISY, screen readers, speech
+synthesizers, Kindle-style Braille, Apple iPad and other adaptive devices and technologies (Bertlesman, 2012, Center
+for Disability Law and Policy (CDLP), 2012).
+
+As the majority of published works that are produced today are “born digital” and accessible (Fruchterman, 2013),
+it is remarkably easy to distribute these works via modern Internet communication networks to anyone anywhere at
+virtually no marginal cost (Cameron, Wood & Suzor, 2014). Unfortunately, despite the advances in digital
+technologies, VIPs are still challenged to gain access to published works and are faced with various technical,
+commercial and legal barriers (Bertlesman, 2012, p. 42).
+
+The availability of published works is not enough for VIPs who also need to obtain accessible format copies to use
+for reading and development. The process of converting existing published works into accessible formats is typically
+expensive and time-consuming and that is why non-profit organizations and charities worldwide try to provide more
+accessible materials for VIPs, but unfortunately, the number of these works is considered small and their distribution is
+limited (Calvo, 2014; Gahleitner, 2013).
+
+Publishers and rights holders refuse to license copyrighted materials or to make them in accessible formats
+because they view the market for VIPs as economically unprofitable (Fitzpatrick, 2014; CDLP). In the face of increased
+unauthorized distribution of copyrighted works, they have employed various means such as technological protection
+measures (TPMs), encryption, and rights management information (RMI) to protect and preserve it (Fitzpatrick, 2014,
+p. 153). This ultimately has a lasting effect on accessibility and has led many commentators to bleakly describe the
+crisis in terms of access to books for VIPs as “the Book Famine for the Blind” (Helfer, Land, Okediji, & Reichman, 2017,
+p. xxi; Hely, 2010, p. 1398).
+
+One of the main reasons that inhibit VIPs from accessing works, including books, journals and other published
+works is mainly copyright laws that differ from one country to another, allowing in some countries translation rights,
+but prohibiting the creation, distribution and sharing of accessible format copies through any communication medium
+including the Internet (Sganga, 2015, p.88). Many international copyright laws are unclear in relation to the importing
+and exporting of accessible copies from one country to another, which could trigger at least, in theory, copyright
+
+180 |
+
+OLWAN
+
+infringement liability (Electronic Information for Libraries (EIFL), 2015; NZ Ministry of Business, Innovation, and
+Employment (MBIE), 2015). As a result, copyright law has emerged as one of the forceful means of regulating ideas
+and knowledge-based products in the digital age by prohibiting the free flow of information rather than facilitating
+knowledge sharing and distribution.
+
+VIPs and non-profit organizations supporting them began thinking of a treaty for the blind in the 1980s (Nelson,
+2013), but it was only on 27 June 2013 that the World Intellectual Property Organization (WIPO) adopted a new
+treaty in Marrakesh, Morocco for the blind and print disabled. The Treaty is formerly known as “Marrakesh Treaty to
+Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired or Otherwise Print Disabled”
+(“Marrakesh Treaty or Treaty”).1
+
+The Marrakesh Treaty is an international agreement on copyright limitations and exceptions that aim to facilitate
+the cross-border exchange of accessible format copies of books and other print materials for VIPs, without requiring
+prior consent from copyright holders, and regardless of countries’ copyright laws (Gahleitner, 2013; Gesit, 2013;
+Guarini, 2013; Helfer et al., 2017, p. 91; MBIE, 2015; Nelson, 2013; World Blind Union (WBU), 2013; Zemer & Gaon,
+2015, p. 838). The Treaty forms a significant landmark in reaching international consensus on designing limitations and
+exceptions to authors’ rights (Helfer et al., 2017, p. xxiii). For developing countries, it is particularly useful because it
+requires the amendment or enactment of new copyright laws for the benefit of VIPs.2
+
+There are an increasing number of studies that deal with copyright law and the accessibility of VIPs to published
+works (Conway, 2015; Hapur & Suzor, 2013; Helfer et al., 2017; Hely, 2010; Kaminski & Yanisky-Ravid, 2014; Li &
+Selvadurai 2014; Scheinwald, 2012; Trimble, 2014; Vezzoso, 2014; Williams, 2012; Zemer & Gaon, 2015), but
+unfortunately, these studies do not examine closely the cultural implications that affect the implementation of the
+Marrakesh Treaty. In the Gulf States, in particular, copyright scholars have not examined the subject of VIPs, copyright
+and access to published works (Al Fawzan, 2009; Eeed, 2001; Khater, 2008; Loutfi, 2012).
+
+The purpose of this paper is twofold: First, it studies the cultural challenges that influence the adoption of the
+Marrakesh Treaty in developing countries, and particularly the Arab Gulf States. Second, it examines the current
+copyright regimes in the Gulf States and discusses the extent to which they can be amended for the benefit of VIPs.
+The article is divided into ten sections. Section 2 provides a brief overview of the main provisions of the WIPO's
+Marrakesh Treaty and discusses its aims in relation to VIPs and international copyright law. Section 3 studies the
+relationship between culture, disability and intellectual property in the Gulf States. Section 4 examines the availability
+of published works in an accessible format in the Arabic language for VIPs. Sections 5 and 6 deal with the effectiveness
+of disability legislations in the Gulf States, and the ratification in the Gulf States of the major international human rights
+treaties mainly the United Nation Convention of the Rights of People with Disabilities (CPRD) 2006. Section 7 gives an
+overview of the legal and author's rights systems in the Gulf States. It also examines the exceptions to VIPs and
+technological protection measures (TPMs) under the copyright laws of the Gulf States. Section 8 examines the
+exceptions for disabled people in the French Intellectual Property Code (IPC) and its adoption in the copyright laws of
+the Gulf States. Finally, section 9 provides legal and policy recommendations to rethink disability rights and visual
+impairment in the Gulf States. This section is divided into two sub-sections. Section 9.1 will consider the legal
+recommendations for the implementation of the Marrakesh Treaty, and finally, Section 9.2 will discuss the policy
+recommendations to promote the interests of visually impaired communities in the Gulf States. Sections 1 and 10
+provide the introduction and conclusion.
+
+2 | THE MARRAKESH VIPS TREATY
+
+The early draft version of the Marrakesh treaty was formally introduced in May 2009 by Brazil, Uruguay and Paraguay
+(Scheinwald, 2012, p. 472), but it was only in December 2012 that member states and international organizations
+agreed to discuss a specific treaty containing limitations and exceptions for VIPs at the WIPO Diplomatic Conference3
+(Bertlesman, 2012, pp. 43–46; Brown & Waelde, 2015; Brown, Waelde, & Harmo, 2012, p. 928; Conway, 2015, pp.
+
+OLWAN
+
+| 181
+
+41–43; Ficsor, 2013; Helfer et al., 2017, p. xvii; Hely, 2010, pp. 1393–1395; Vezzoso, 2014, pp. 806–807). Despite
+disagreement over the provisions of the treaty, the representatives and negotiators managed to leave their
+differences behind4 (Brown & Waelde, 2015, pp. 577–602; Brown et al., 2012, p. 928; Kaminski & Yanisky-Ravid,
+2014, pp. 262–263), and the WIPO adopted the Treaty on 27 June 2013 in Marrakesh, Morocco, which later entered
+into force on 30 September 20165 (WIPO, Marrakesh Treaty 2013 WIPO Notification No. 21, 2016).
+
+2.1 | The treaty in a nutshell
+
+The final version of the Marrakesh Treaty is short comprising of 22 articles and a preamble (Marrakesh Treaty, 2013,
+Preamble). The Treaty starts by acknowledging its relationship with other international intellectual property and
+copyright treaties mainly the Berne Convention, the TRIPS Agreement and the WIPO Copyright Treaty (WCT).6
+
+Article 2 defines the three key important terms of the Treaty, and these include “works”, “accessible format copy”
+
+and “authorized entities”7 (Helfer et al., 2017, pp. 21–38).
+
+for
+
+the public reading of a poem or play)
+
+The central provision of the Marrakesh Treaty is Article 4(1)(a) which imposes on the contracting parties the
+obligation to provide works in accessible format copies in favor of beneficiary persons (also authorized entities), and also
+allows making any necessary changes to the work for that effect.8 This is achieved by having a limitation and exception in
+the copyright law to the rights of reproduction, distribution, making available to the public and public performance9 (such
+as the right
+(EIFL, 2015, p. 9; Helfer et al., 2017, pp.
+38–43; Li & Selvadurai, 2014, p. 658; Vezzoso, 2014, p. 802–813). Several conditions need to be satisfied for this
+to occur. First, there should a lawful access to the work. Second, the access should be for the sole purpose of converting it
+to an accessible format copy. Third, the accessible format copy should be distributed and made available by the
+authorized entity for the exclusive use of the beneficiary person and, fourth it should be provided only for non-
+commercial purposes.10 The Treaty bestows on the contracting parties’ broad discretions in implementing its provisions
+based on their own legal systems and practices, provided they comply with the three-step test available under the Berne
+Convention and other international treaties11 (Helfer et al., 2017, pp. 67–74; Vezzoso, 2014, pp. 796–820).
+
+The Marrakesh Treaty does not contain any mandatory reference to either the “commercial availability” or
+remuneration or a payment of a fee to authors and copyright holders but leaves the matter to be determined by the
+member states. These two provisions are considered permissive and it is left for each state to adopt them (Helfer et al.,
+2017, pp. 47–51).12
+
+Another unique and mandatory provision in the Marrakesh Treaty is the cross-border exchange system. Article 5
+(1) of the Treaty requires a contracting party to permit an authorized entity to send (export) an accessible format copy
+made under an exception to an authorized entity or a beneficiary person in another destination country13 (EIFL, 2015;
+Helfer et al., 2017, pp. 53–55; Li, 2014, p. 766; Schonwetter, Kouletakis, & Wiele, 2015). There are three important
+requirements built into the provision: First, both the exporting country (source) and the importing country
+(destination) must be parties to the Marrakesh Treaty. Second, the accessible format copies must be “made under a
+limitation or exception or pursuant to operation of law”. Third, the distribution must occur “by one authorized entity to
+a beneficiary person or an authorized entity”.14 Article 6 of the Treaty matches Article 5 in requiring contracting
+parties to allow authorized entities or beneficiary persons to receive (import) accessible format copies from another
+authorized entity or beneficiary located in other countries.15 In addition, Article 7 of the Treaty provides that a TPM,
+such as a copy or access control, cannot prevent beneficiary persons from enjoying the exceptions provided under the
+Treaty, even when a country prohibits the circumvention of TPMs in its copyright legislation16 (Attorney-General's
+Department (AGD), 2015; EIFL, 2015; Helfer et al., 2017, pp. 62–67; Hilty et al., 2015, p. 9; Sganga, 2015, p. 100;
+Wiele, 2014, p. 50). Article 9 of the Treaty encourages contracting parties to share information, practices and policies
+in relation to authorized entities (including information related to the cross-border exchange of accessible format
+copies) with interested parties and members of the public as appropriate.17 Finally, the Treaty has also other important
+provisions in relation to the international bureau, eligibility, rights and obligations, signature, entry into-force,
+effective date, denunciation, language and depository.18
+
+182 |
+
+OLWAN
+
+2.2 | The high expectations of the treaty for VIPs
+
+The Marrakesh Treaty is the first international intellectual property treaty with clear humanitarian and social development
+goals. This is because it allows blind and the print disabled to access books and other published works (Helfer et al., 2017, p. 91;
+Fruchterman, 2013; MBIE, 2015, p. 25) by lowering the transaction costs that are associated with the making and supplying of
+copies of copyrighted works for VIPs for whom visual perception of works is impossible or extremely difficult (Trimble, 2014, p.
+772). The Treaty intends to mitigate the global problem of the “book famine”19 for blind and VIPs worldwide, and at the same
+time tries to reduce copyright piracy (CDLP; Helfer et al., 2017, p. xxi; Hilty et al., 2015; Jarvis, 2015; Scheinwald, 2012; WBU,
+2013; Zemer & Gaon, 2015, p. 848). The adoption of the Treaty also ends a troubled historical period of international copyright
+relations that lasted for more than a decade (Fiscor, 2013a; LaBarre, 2014). This is because previous international IP treaties
+such as the WCT and the WIPO Performance and Phonograms Treaty (WPPT) have dealt particularly with the strengthening and
+enforcement of copyright, rather than dealing with limitations and exceptions to copyright.
+
+The Treaty intends to prevent copyright law from further constituting an insurmountable obstacle to the
+production and dissemination of works in accessible formats (Conway, 2015; p. 41; Hilty et al., 2015). It specifically
+addresses the needs of visually impaired communities by discussing, for the first-time copyright, human rights and
+disability together in a meaningful way (Brown & Waelde, 2015, pp. 577–602; Helfer et al., 2017, p. xxiii, 8).
+
+With the Marrakesh Treaty, it is possible to see a shift in the culture of the WIPO, such that the international
+institution is not only focused on enhancing enforcement regimes but is now being moved to expressly consider global
+public interests, including the fundamental rights to have equal access to knowledge and information and other
+development goals (Conway, 2015, p. 57; Trimble, 2014, p. 770). For that purpose, the Treaty is important because it
+offers an important launching pad to bolster attention to Access to Knowledge (A2K) and the WIPO Development
+Agenda within developing countries and LDCs (Kapczynski, p. 806; Okediji, 2008, pp. 137–161; Olwan 2013, pp.
+268–269; Roffe & Vea, 2008 pp. 79–110; Williams, 2012, p. 1073; Yu, 2009, pp. 515–522).
+
+The Treaty forms a significant legal landmark in the quest to establish uniform criteria for copyright exceptions
+and limitations and the promotion of international cooperation to facilitate access to knowledge for people with print
+disability (Li & Selvadurai, 2014, pp. 663–664). It is particularly important for the international community because it is
+the first time that an international agreement has been reached between various parties representing different
+perspectives who came together to negotiate and sign a limitation and exception treaty for VIPs (Australian Digital
+Alliance (ADA), 2014; Fiscor, 2013a, p. 82; Zemer & Gaon, 2015, p. 847). This has a far-reaching practical implication
+for the ability of the international community to meet, improve and challenge prevalent conceptions about what
+intellectual property and copyright laws ought to be (Trimble, 2014, pp. 768–795). As Professor Justine Hughes
+explains, “the Marrakesh Treaty—and the process by which it was achieved—are important because they show that it
+is possible to overcome extremely polarized IP perspectives when negotiating IP treaties” (Hughes, 2013).
+
+For developing countries, the Marrakesh Treaty for VIPs is also very important. First, the majority of developing
+countries do not have specific copyright provisions for the benefit of VIPs (Sullivan, 2006, pp. 108–109), and the
+Treaty is clear on requiring national law amendments for that purpose. Second, the majority of VIPs in developing
+countries may not be able to obtain accessible format copies of copyrighted works ordinarily (Yun, 2012, p. 440), and
+they need the assistance of developed countries that may not have any desire to provide appropriate accessible
+copies (Scheinwald, 2012, p. 475). Third, VIPs in developing countries and domestic organizations of disabled people
+exert lower levels of influence on the reform of domestic copyright legislations, as compared to better-resourced
+copyright owners and holders (Kaminski & Yanisky-Ravid, 2014, p. 290; Yun, 2012).
+
+3 | CULTURE, DISABILITY AND INTELLECTUAL PROPERTY IN THE GULF STATES
+
+To appreciate the challenges related to the implementation of the Marrakesh Treaty in the Gulf States, it is important
+to understand the region's local context, in particular the relationship between culture, disability and intellectual
+property protection.
+
+OLWAN
+
+| 183
+
+Culture can be defined as “the total way of life of people” or “the whole complex of traditional behavior which has
+been developed by the human race that is successively learned by each generation” (Creetz, 1973; Sunder 2001, p.
+498). It includes the set of attitudes, values, beliefs and behaviors shared by a group of people (Rubin & Menzer, 2010).
+Disability is an umbrella term for impairments, activity limitations, and participation restrictions (Mitra, Posarac &
+Vick, 2011). The Gulf States still understand disability as a medical or pathological condition that needs to be cured,
+and not as a social condition that should be dealt with properly by society.20 Unfortunately, there is no accurate and
+reliable data on the number of disabled people in the Gulf States, and without such data, there can be no appropriate
+services or programs and no proper response to their particular needs (Al Thani, 2006; ESCWA, 2014, p. 7). It is
+important to learn about cultures and how it affects individuals’ attitudes toward people with disability since this is a
+prerequisite to understanding their situations and conditions in society (Al Ahmadi, 2014, pp. 28–30).
+
+Arab countries are not considered a homogeneous group and there are differences that exist among them in
+terms of economy, social values, politics and geography (Al Thani, 2006). In the Gulf States, in particular, cultural
+factors such as family, tradition, ethnicity and religion present additional barriers for people with disabilities to
+participate and function normally in society and economic life (Mitra et al., 2011; Thomas & Thomas, 1998).
+
+The Gulf States are not individualistic, but rather family and community oriented, it is believed that people should
+take care of their own children rather than delegate that responsibility to the government. Unfortunately, persons
+with intellectual, developmental or psychosocial disabilities are considered a source of shame and a financial burden
+for many families (Al Thani, 2006). It is also perceived in society that disabled people are lacking the ability to live
+independently and to participate and be included in the community on an equal basis with others. There is also a lack of
+awareness for persons with a disability about their rights and the services available to them (United Nations,
+Committee on the Rights of Persons with Disability, 2016).
+
+Disability has a negative impact in relation to women as it creates more challenges in their daily life (Nagata, 2003).
+Although the status of disabled women generally in the Gulf States varies from one country to another, it is common
+for them to be marginalized in society (Nagata, 2003). This can happen by keeping disabled women at home or
+educating them in special schools removed from the public eye, which greatly reduces both the public acceptance of
+their limitations and their employment opportunities (Weber, 2012).
+
+The Gulf States are multicultural which is not surprising as these states import a large amount of labor from other
+countries. For example, in states like Qatar and the United Arab Emirates (UAE), the share of expatriates in the
+population runs as high as 80–90%, but with somewhat lower shares in other GCC countries such as Saudi Arabia (The
+World Bank, 2010, p.3).
+
+Many ethnic groups are living in the Gulf, and these include, but are not limited to Arabs, Iranians, Africans,
+Indians, Filipinos and many more. Families with disabled children who are working in the Gulf States will have different
+opinions about disability, independence and health. They might have fewer personal and family resources, have less
+knowledge and understanding of externally available resources, as well as higher unemployment (NARIC, 2010).
+
+As for religion, Islam sees disability as morally neutral. It is neither a blessing nor a curse and it should be accepted
+as being an inevitable part of the human condition, and a fact that has to be addressed properly by society (Al Thani,
+2006). Islamic principles do not discriminate against people with disabilities; rather, Islam encourages Muslims to
+provide the best care to those who have special needs. For families with disabled children, they need to accept their
+destiny and be grateful to God who has specific foresight in creating people with disabilities (Al Ahmadi, 2014, pp. 28–
+30). Unfortunately, there is a contradiction between the Islamic philosophy toward disability and the cultural attitudes
+that exist in the Gulf States as many people with disabilities are facing difficult types of negative attitudes, and they do
+not have equal access to education, jobs and social life (Al Ahmadi, 2014, pp. 28–30).
+
+The United Nations (UN) describes the Arab region generally as lagging behind the rest of the world, as disabled
+people are invisible, marginalized and more isolated than other people, because of negative social attitudes and the
+lack of a human rights culture (Reinl, 2008). The Gulf States (more broadly Arab countries) are struggling with the
+challenges associated with disability (WHO, 2012, p. 6).21 For these reasons, they are trying to raise public awareness
+about the causes and prevention of disability, and the rights and potentials of persons with disabilities, passing
+
+184 |
+
+OLWAN
+
+legislation, supporting organizations for persons with disabilities, and creating an accessible physical environment to
+buildings and other facilities that are used by the public (barrier free environment) (Al Thani, 2006; ESCAWA, p. 10).
+It is important to consider the relationship between law and culture. Laws need to change and adapt accordingly
+
+based on the local conditions and developments occurring in society.
+
+In relation to intellectual property, the Gulf States have complied with their international obligation under the
+TRIPS Agreement by enacting various intellectual property laws that contain the basic required protection for patents,
+copyrights, trademarks, trade secrets and industrial designs.22 Bahrain and Oman signed a Free Trade Agreement
+(FTA) with the United States and as a result, they have adopted a higher level of protection for intellectual property.
+Although the Gulf States have legislation that protects intellectual property, there are concerns by developed
+countries particularly the United States that the level of enforcement of those laws is inadequate and insufficient. This
+is the position of the United States Trade Representative (USTR) that criticized these laws, and their application in
+practice on a number of occasions.23
+
+The Gulf States adopt a traditional view towards intellectual property, as do many other developing countries,
+that it is an essential tool to attract Foreign Direct Investment (FDI) and promote economic growth and development
+(Drahos, 2002, p. 779; Drahos, 2003, pp.14–15; Okediji, 1996, p. 331; Olwan, 2013, pp. 211–212; Reichman, 2009,
+pp. 1117–1118). This view is short-sighted, while it might be true that intellectual property is important for business,
+but it cannot alone bring economic development and efficiency.
+
+Unfortunately, Intellectual property laws in the Gulf States have not been amended to accommodate the interests
+of disabled persons. This is because intellectual property and particularly copyright is not understood as a way to
+affect the ability of disabled persons to learn, think, share and borrow ideas, and develop emotionally and
+economically (Sunders, 2012, pp. 1–2). It is critically important for the Gulf States to understand intellectual property
+not only from an economic perspective but also from a broader cultural and social perspective. With the exception of
+Kuwait, Gulf copyright laws do not mention VIPs and do not offer them any “safe harbor” protection for making and
+distributing accessible format copies, such as Braille, audio, or digital format (Johnson, 2010). It is important for the
+Gulf States to understand intellectual property as a way to affect human capabilities and be able to live a good and
+joyful life (Sunder, 2006, p. 285; Sunder, 2012, pp. 1–16). The exact situation of copyright laws in the Gulf States will
+be discussed in detail in section 7.
+
+4 | THE AVAILABILITY OF PUBLISHED WORKS IN ARABIC
+
+Unfortunately, the number of books and published works that are available for VIPs in an accessible format is limited in
+the Arab world. Many blind and VIPs have mentioned the fact that they are suffering from a shortage of books (Al
+Bayan, 2016). There are also few businesses and non-profit organizations in the market that are involved in the
+practice of converting books to accessible formats in the Arab world.24
+
+There are also no reliable figures on the production of Arabic books in the region, but many indicators suggest a
+severe shortage of writings and a large share of the market consists of religious books and educational publications
+that are limited in their creative content, much less compared to other fields such as science and the arts (Rogan, 2004;
+UNDP Arab Human Development Report, 2003; Ursula, 2016). In addition, the publishing industry in the Arab world
+faces well-known challenges such as high illiteracy levels, low income of potential readers, a lack of distribution
+networks, the dearth of bookstores and public libraries, censorship and piracy25 (Al Jabry, 2015; Buchmesse, 2014;
+Rogan, 2004; UNDP, 2003; Ursula, 2016).
+
+As for digital publishing, it is still in its infancy across the region, and the majority of people still prefer reading
+printed books (Kulesz, 2010; Shahbandari, 2015). According to a study prepared by the Wamda Research Lab in
+partnership with Google in 2015, only 41.5% of the Arab world population (estimated 375 million), use of the Internet
+and Digital Arabic Content (DAC) online stands at 3% of global content since 2015 with a significant gap in online
+content in both quality and quantity (Knight, 2015).
+
+OLWAN
+
+| 185
+
+Recently, there have been many initiatives and new projects to promote books and increase publishing and reading
+habits in the Arab world (Al Jabry, 2015). For example, the Emirate of Dubai recently launched a 100-million-dirham fund
+(more than US $27 million) called the National Endowment for Reading, which aims to increase early-childhood reading,
+lifelong reading and support local publishers. The UAE has also announced plans to build “the biggest library in the Arab
+world” (Ursula). On a final note, it is important to give more attention to the subject of book production and the
+availability of books in the Arab world not only to benefit VIPs but also sighted people because there are real challenges
+faced by the publishing industry that have to be addressed properly by society (UNDP, 2003, p. 74–84).
+
+5 | THE EFFECTIVENESS OF DISABILITY LAWS IN THE GULF STATES
+
+The Gulf States have enacted specific laws to protect the rights of people with disabilities. These laws provide equal
+rights and opportunities for people with special needs in education, health, training and rehabilitation. In Qatar, there
+is the Law in Relation to People with Disability,26 and in the Sultanate of Oman the Law for Disabled People.27 In Bahrain,
+the Law on the Welfare, Rehabilitation and Employment of Persons with Disabilities.28 In Kuwait, the Law for the Rights of
+People with Disabilities,29 and in Saudi Arabia, the Law for Disability and Care for Disabled People.30 Finally, the UAE has
+the Federal Law in Relation to the Rights of People with Disabilities and Special Needs.31
+
+Many organizations are working to advance the disability rights of VIPs in the Gulf States. In Qatar, for example,
+there are specialized organizations, such as the Qatar Social and Cultural Center for the Blind, and the Qatar Assistive
+Technology Center (MADA).32 In the UAE, there is the Sharjah City for Humanitarian Services (SCHS),33 Zayed Higher
+Organization for Humanitarian Care and Special Needs34 and Tamkeen,35 Al Thiqah Club for Handicapped36 and the
+Emirates Association of the Visually Impaired.37 In Saudi Arabia, there is Ebsar Foundation,38 and in Bahrain, the
+Saudi-Bahraini Institute for the Blind.39 Finally, in Kuwait, there is the Kuwait Association for the Blind, a nonprofit
+organization that provides various services for VIPs including supplying books in Braille and audio formats.
+
+For the proper implementation of any legislation in the Gulf States, it is important for social and cultural attitudes
+to be supportive. Unfortunately, there is a gap between the actual legislation of the Gulf States for persons with
+disabilities and the social and cultural attitudes toward VIPs in society. Another important comment to make is that the
+Gulf States focus on removing barriers to the physical environment (street, public buildings and transport) for VIPs
+(disabled people more generally), rather than access to cultural works. It is extremely important to give particular
+attention to increasing the number of accessible copies of published works (e.g. Braille, large print, audio recording,
+and audio-visual and digital-compatible formats) to support the educational needs and development goals of VIPs.
+
+6 | THE IMPLEMENTATION OF INTERNATIONAL HUMAN RIGHTS
+TREATIES IN THE GULF STATES
+
+There are three important international human rights treaties focused on disability and these include the International
+Covenant on Economic and Social Culture Rights 1996 (ICESCR),40 the International Covenant on Civil and Political
+Rights 199641 (ICCPR),42 and the UN Convention on the Rights of Persons with Disabilities 200643 (CPRD) (Brown &
+Waelde, 2015, pp. 577–602; Brown et al., 2012, p. 928). There are also other international treaties that cover
+disability rights and these include the Universal Declaration of Human Rights 1946 (UDHR),44 the Convention against
+Discrimination in Education 1960 (CDE)45 and the Convention on the Rights of the Child of 1989 (CRC).46
+
+The International Convention on the Rights of People with Disabilities (CRPD)47 is a United Nations human rights
+treaty that was adopted on 13 December 2006 to provide basic rights in relation to disability. The CRPD is regarded as
+the foundational international human rights treaty for disabled people and VIPs for various reasons (UNDP, 2003, pp.
+94–96). First, it treats VIPs as a category of persons with disabilities and provides more detailed rights compared to
+previous treaties particularly in relation to the right to access information.48 Second, it imposes an obligation on states
+to ensure that people with disabilities can take part in cultural life on an equal basis with others.49 Finally, and more
+
+186 |
+
+OLWAN
+
+importantly, it requires states to make sure that intellectual property rights (IPRs) do not impose unreasonable or
+discriminatory barriers to access to cultural materials50 (Brown et al., 2012, p. 915, 928; Helfer et al., 2017, pp. 16-19;
+Scheinwald, 2012, p. 460; UNDP, 2003, pp. 10–11, 94-96; Yun, 2012, p. 469).
+
+The Gulf States that have ratified the CPRD include Saudi Arabia (accession on 24 June 2008); Qatar (accession
+on 13 May 2008); Oman (accession on 6 January 2009); UAE (accession on 19 March 2010); Bahrain (accession on 22
+September 2011); and Kuwait (accession on 22 August 2013).51 Saudi Arabia is the only country among the Gulf
+States that has ratified the CPRD's Optional Protocol on 24 June 200852 that allows individuals and groups to
+complain regarding breaches of the CPRD provisions by State parties. Saudi Arabia is also the only Gulf State that is a
+member of the Committee on the Rights of Persons with Disability (CRPD) until 31 December 2020.53 The Gulf States
+are also members of the United Nations Convention on the Rights of the Child (CROC),54 and several of those states
+are members of the Convention against Discrimination in Education (CDE).55
+
+The rationale for the ratification of international human rights treaties in the Gulf States are diverse and can be
+either internationally or domestic. International motives include being a good citizen of the international system,
+integration into the international community, and “being the first at everything”. Among the domestic motives is that
+ratification is considered a good policy tool for domestic change in the country and for empowering progressive
+government agencies against more traditional or conservative groups (Çalı & Ghanea, 2013, pp. 8–9).
+
+Unfortunately, the Gulf States that are members of the CRPD Treaty have not complied with their general
+obligations under the treaty. In particular, they have not created copyright limitations and exceptions for VIPs in
+accordance with Article 30(3) of the Treaty.
+
+The UAE is the only country among the Gulf States that have adhered to the Marrakesh Treaty. On 15 October
+2014, the UAE Government deposited its instrument of accession to the Treaty at the WIPO headquarters (Emirates
+News Agency, 2014).56 The Committee on the Rights of Persons with Disabilities (CPRD) welcomed the UAE
+accession to the Marrakesh Treaty in 2014.57 On 2 October 2015, the Committee on the Rights of Persons with
+Disabilities (CPRD) has criticized the State of Qatar, for not ratifying the Marrakesh Treaty, and recommended that it
+should adopt all appropriate measures to ratify the Treaty as soon as possible.58
+
+Finally, as a general note on disability legislation in the Gulf States compared to the situation in other developing
+countries, the Gulf States’ disability legislation and policies are based on their commitments to ratify international human
+rights treaties, but their implementation is weak and ineffective. For the future development of disability laws in the Gulf
+States, it is important to build upon the international principles available under international treaties and not only
+enshrine them within national legislation, but also apply them in practice to help and benefit disabled and VIPs.
+
+7 | THE INADEQUACY OF COPYRIGHT LAWS IN THE GULF STATES
+
+7.1 | Overview of the legal system in the Gulf States
+
+The Gulf legal system is based on continental European civil law, rather than the common law. Legislation and not case-law
+is the primary source of laws in the Gulf States. Judicial precedents do not have a binding authority (stare decisis), but only a
+persuasive authority. This is because courts in the Gulf region are not bound by their own decisions or by the decisions of
+other courts, even if it was issued by a higher court, as each case is considered unique (Al Tamimi, 2003, p. 21). Many laws in
+the Gulf States are inspired by Egyptian legislation that is modeled on French law (Hansen, 2009, p. XXVII; Wahab, 2012).
+The Gulf States have adopted the Egyptian Civil Code of 1948, as amended, that covers personal rights, contracts,
+obligations and torts that are heavily influenced by the French Napoleonic Code or French civil law.59 They have also other
+similar laws in other fields of private law such as commercial law, labor law and intellectual property law.
+
+Sharia law is the religious text of the Holy Quran, and the saying and the practice of the Prophet Mohammad
+(Sunnah). Sharia is still important in the Gulf States especially in relation to personal status and family matters such as
+divorce, inheritance and child custody.60 Furthermore, it is one of the formal sources of law that should be consulted
+when legislation is silent (Turner, 2011).
+
+OLWAN
+
+| 187
+
+Finally, it should be noted that there are some differences existing between the legal systems of the Gulf States.
+For example, the UAE is a federal state and has two types of laws, federal and local. The federal law is issued by the
+federal government and applied across the country while the local law is issued by a particular Emirate and applied
+only in that Emirate (Gorse, 2016, p. 289). The free zone Dubai International Financial Center (DIFC) was established in
+2004 in the Emirate of Dubai has a unique court system that follows the common law.61
+
+7.2 | Author's rights system in the Gulf States
+
+All Gulf States are members of the TRIPS Agreement that outlines the minimum standards of protection for
+copyright.62 A few Gulf States, such as, Bahrain and Oman, have signed a Free Trade Agreement (FTA) with the United
+States63 and as a result their level of copyright protection is considered to be “TRIPS Plus” (Drahos, 1999; Drahos,
+2001, pp. 792–793; Drahos, 2002, pp. 767–777; Drahos, 2003, pp. 6–11; Gervais, 2013, pp. 95–112; Okediji, 2003,
+p. 338; Olwan, 2016, p. 427; Yu, 2006, pp. 283–286; Yu, 2007), compared to the remaining Gulf States that are
+instead “TRIPS” only.
+
+The Gulf States follow the continental European system of author's rights applied in civil law countries and not the
+copyright system applied in common law countries (Bently (ed.), 2015, pp. FRA-11-12; Goldstein & Hugenholt, 2013, pp.
+19–22; Lewinski, 2008, pp. 33–63; Olwan, 2016, 429). The Egyptian Code of Intellectual Property64 has inspired copyright
+laws in the Gulf States that adopt the dualist approach toward copyright providing authors two kinds of rights: moral and
+economic (Arif, 2014, p. 42; Fitzgerald & Olwan, 2010, pp. 565–566). The moral rights of the author include the right of
+paternity; the right of integrity; the right of consideration; the right to object to derogatory treatment, and the right of
+withdrawal.65 As for the economic or financial rights, there is the right of reproduction and the right of performance
+(communication to the public), and the right of resale among other.66 The copyright law in Gulf States gives also additional
+neighboring or related rights mainly to performers, phonograms producers and broadcasting organizations.67
+
+Under the copyright laws of the Gulf States, a protected work cannot be legally reproduced, adapted, digitized, or
+formatted without the author's authorization. As in other jurisdictions, copyright laws in the Gulf States provide a
+number of exceptions to author's rights68 that are determined on a case-by-case basis (Bently (ed), 2015, p. FRA-126;
+Bently & Sherman, 2014, pp. 28-31; Spitz, 2015, pp. 106–107), and must be interpreted restrictively (exception est
+strictissimae interpretationis) in favor of the copyright holder. The Berne Convention requires member Gulf States when
+drafting their limitations and exceptions69 to abide by the Berne's Three-Step Test that must not conflict with a normal
+exploitation of the work or constitute unreasonable prejudice to the legitimate interests of the author.70
+
+7.3 | The exceptions to VIPs
+
+As explained, the copyright laws in the Gulf States have an enumerated and restrictive list of exceptions that allow the use of
+copyrighted works for specific determined purposes that are in line with the French law, particularly Article L122-5 of the
+Intellectual Property Code (IPC) in relation to exceptions to copyright and neighboring rights71 (French AIPPI Group, 2010).
+These exceptions are different from the United States Copyright Law of 1976, as amended, which adopts a more flexible system
+called “fair use”72 as compared to other Anglo-Saxon countries such as the United Kingdom,73 Australia74 and Canada.75
+
+Copyright laws in the Gulf States permit various uses of copyrighted materials for no cost and without taking the
+permission of copyright owners in specific determined circumstances (Olwan, 2016, pp. 423–427). These include
+private copying, performance within the family circle, analyses and quotations, temporary acts of reproduction, press
+reviews, speeches and teaching and educational purposes,76 but the application of these exceptions in practice is still
+unclear in the Gulf States as there are few court decisions that deal with the issue.77
+
+Unfortunately, the majority of copyright laws in the Gulf States do not mention blind, visually impaired and other
+reading disabled people, and do not provide specific copyright exceptions for their benefit.78 This means that any use
+or adaptation of a work into a more accessible format by a blind person or anyone working on his behalf constitutes
+copyright infringement of the author's rights.
+
+188 |
+
+OLWAN
+
+If there are no exceptions for VIPs in the copyright laws of the Gulf States, is it possible to apply the education
+exceptions79 or libraries exceptions80 on VIPs? The answer is that it is difficult to apply those exceptions on VIPs for
+the reasons explained below.
+
+First, the use of work for education may allow the translation of works but does not allow converting it to
+accessible format copies. Second, these exceptions are specific and do not approve clearly “format shifting” that
+allows the conversion of print materials to alternative and accessible formats for educational purposes even if that is
+used for VIPs. Third, the education exceptions do not permit educational institutions to digitize copyrighted materials
+to be used for distance learners and students living in rural areas having sensory-disabilities. In addition, copyright laws
+in the Gulf States fail to address the issue of cross-border transfer of published works made accessible to VIPs and
+“parallel importation” is not clearly mentioned in these copyright laws.81
+
+In particular, the Gulf States’ copyright laws are mostly silent allowing accessible format copies from third
+countries to be imported without the consent of copyright holders. The availability of such a provision would help VIPs
+and organizations assisting those that want to import accessible copies available in other countries for distribution in
+the region (Wiele, 2014, p. 41; Yun, 2012, pp. 463–464).
+
+7.4 | Technological protection measures (TPMs)
+
+The emergence of Digital Rights Management (DRM) in the digital age and the problems of anti-encryption
+regulations pose a further hurdle to VIPs to access published works (IFPI, 2003; Yun, 2012, p. 439).
+
+DRM are access control technologies used to protect the copyright of digital media, and it is extremely important
+from the perspective of copyright owners in order to control access to, and the use of their works to make sure
+appropriate financial revenues are given (Bertlesman, 2012, p. 49). Copyright owners and holders increasingly rely on
+TPMs, and these include digital access codes, encryption, digital locks and other copy protection methods (Australian
+Human Rights Commission (AHRC), 2004; Schonwetter et al., 2015, p. 11; Group of Specialists on Human Rights in the
+Information Society (MC-S-IS)).
+
+For VIPs, the circumvention of TPMs is necessary, as it would allow them to convert e-books and other works that
+they lawfully obtain into a spoken language or make Braille copies to help with their visual impairment (Wiele, 2014, p.
+45; UK Intellectual Property Office). It is important to discuss TPMs under the copyright laws of the Gulf States and
+examine to what extent they can constitute an extra hurdle for VIPs and their accessibility to published works.
+
+All Gulf States have specific provisions to deal with DRM mainly in relation to Technological Protection Measures
+(TPMs) and Rights-Management Information (RMI). These provisions were included in the copyright laws of the Gulf
+States mainly because of entering into international copyright treaties (WIPO and WPPT)82 or signing Free Trade
+Agreements (FTAs) with the United States.
+
+The Gulf States’ copyright laws expressly provide for civil, criminal and administrative remedies for the
+circumvention of TPMs.83 They prohibit the trafficking in devices (manufacturing, importing distribution) that are used
+for circumvention.84 The prohibition on the circumvention of TPMs is absolute for the majority of copyright laws in
+the Gulf States that do not have limitations or exceptions to permit circumvention for any legitimate purpose such as
+reverse engineering, security testing, encryption research, inter-operability and print disability.
+
+Bahrain and Oman are the only countries among the Gulf States that provide exceptions for the circumvention of
+TPMs. The Bahraini Copyright Law includes clear exceptions for the circumvention of TPMs specifically for
+functionaries, representatives or contractors in order to enforce the law and investigate crimes and for other, security
+and other governmental activities.85 On the other hand, the Omani Copyright Laws also provide exceptions for the
+circumvention of TPMs for “non-profit public library, a document keeping agency, educational or scientific or cultural
+institution, or a non-commercial governmental broadcasting corporation”, if they believe that they are not in violation
+of the law.86 Finally, the Gulf States have not appointed any authority for regulating TPMs and for marketing the
+devices that can be used for the protection and identification of works.
+
+OLWAN
+
+| 189
+
+The Gulf States need to amend their TPM provisions in the copyright laws to comply with the Marrakesh Treaty.
+They should ensure that TPMs do not prevent VIPs and authorized entities from enjoying the limitations and
+exceptions under the Treaty (Helfer et al., 2017, p.63). In particular, it is important to have in the copyright laws clear
+rights for beneficiary persons and authorized entities for the circumvention of TPMs for the purposes of creating and
+distributing accessible copies of works (Cameron et al., 2014). In addition, these laws should allow the manufacturing,
+distribution and importation of devices or equipment to overcome access control technologies. This is particularly
+important not only for the Gulf States but also for other developing countries, which are likely to be more duly
+burdened by TPMs and DRM provisions (Helfer et al., 2017, p. 67).
+
+It is fair to conclude that the current copyright regimes of the Gulf States are unsatisfactory for the purpose of
+VIPs as they do not contain any kind of exception regarding the circumvention of TPMs for their benefit and
+amendments to these laws are necessary. This will be explained further in detail in section 9.
+
+8 | THE EXCEPTIONS FOR PEOPLE WITH DISABILITY IN THE FRENCH
+INTELLECTUAL PROPERTY CODE
+
+The Gulf States should learn from the experience of other countries particularly those that follow similar legal systems,
+such as France. As explained, copyright laws in the Gulf States were inspired by the French Intellectual Property Code
+(IPC), and it is important to consider to what extent they might benefit from such a system to develop their own.
+The Marrakesh Treaty has not been ratified by either France nor by other E.U member States. This is despite the
+fact that the European Union (E.U) Council, signed the Treaty on 30 April 2014 in Geneva, and the E.U Commission has
+proposed the ratification after obtaining the proper consent from the European Parliament (European Commission,
+2014; Saez, 2014; Zemer & Gaon, 2015, p. 842). On 6 July 2017, The European Parliament adopted two legal
+instruments to implement the Marrakesh Treaty that need to be formally approved. These include the Proposal for a
+Directive on permitted uses of works and other subject-matter protected by copyright and related rights for the
+benefit of VIPs (2016/0278 (COD)),87 and the Proposed Regulation on the cross-border exchange between the Union
+and third countries of accessible format copies of certain works for VIPs (2016/0279 (COD)).88 (Ermert, 2017;
+European Parliament, 2017; International Federation of Library Associations and Institutions (IFLA), 2017).
+
+The French Intellectual Property Code (IPC), as amended (Law No 2006–961 of 1 August 2006) provides in
+Articles L.122-5(7) and L.211-3(6) exceptions for the benefit of disabled people.89 The law permits the reproduction
+of works and also performance (communication to the public by public institutions and organizations for the personal
+use of disabled people (Bently (ed.), 2015, pp. FRA 130-131; French AIPPI Group, 2010; Spinali, 2008; Spitz, 2015, p.
+116). Articles L.122–13 to L.122–21 of the IPC, organize in great detail, the conditions in which the organizations
+open to the public may implement this exception90 (Spitz, 2015, p. 116). The French law is clear in broadening the
+definition of the people who can benefit from this exception to include not only blind people, but also people with
+physical, mental and psychological disability (French APPI Group). The exception does not give any compensation to
+authors (Bently (ed.), pp. FRA 130–131), and it also requires publishers to adopt a more proactive role in making their
+digital files available to certified public organizations (libraries, archives, documentation and cultural centers) to enable
+them to provide and distribute accessible format copies (Bently (ed.), pp. FRA 130–131; Cabut, 2013; Sullivan, 2006,
+p. 90–91).
+
+It might be a good idea for the Gulf States to consider developing their own system based on the French model
+and law for the following reasons. First, the exceptions under the French Intellectual Property Code (IPC) are not only
+applicable to blind people but also generally to other disabled people. This approach is recommended because it will
+benefit the wider community of disabled people in the region. Second, the requirement under the law for publishers to
+make their digital works available for certified public organizations is also encouraged because it will increase the
+number of available books in the Gulf States. Third, the system has proper restrictions and guarantees in place (who
+can use and when) to make sure that the rights of authors and publishers alike will not be used improperly and
+
+190 |
+
+OLWAN
+
+infringed. Fourth, the law does not require any kind of compensation for authors, and this corresponds to the
+copyright system in the Gulf States and also the Marrakesh Treaty (Helfer, et al., 2017, pp. 49–51).
+
+One problem with the application of exceptions under French law is that it requires the disabled person to fulfill a
+specific standard to be able to enjoy the exception and be entitled to an accessible copy (Sullivan, 2006, p. 30, 58).
+Unfortunately, as explained earlier, the Gulf States do not define disability and there is no specific and unified standard
+that is used to determine disability and visual impairment in the region. Furthermore, French law is not in conformity with
+the Marrakesh Treaty, particularly in relation to the cross-border exchange and importation of accessible format copies,
+and it requires the Gulf States to review and reform such a system carefully before its adoption in their local laws.
+
+Finally, it is important for Gulf States to learn from the best practices of other countries that have updated their copyright
+laws to accommodate the needs of visually impaired persons, such as the United States,91 (NLS FactSheets, 1996), the United
+Kingdom,92 (Winenand, 2014), Canada93 (Awad, 2016; Cox, 2016; Fuchterman, 2013; Pillali, 2012) Australia,94 India,95 (Gurry,
+2016; Pillai, 2012) Brazil,96 China97 and many other countries (UNDP, p. 32; Sloan & Hortan, 2014).
+
+9 | THE WAY FORWARD: THE FUTURE OF VIPS IN THE GULF STATES
+
+9.1 | The legal recommendations for VIPs
+
+As the UAE has ratified the Marrakesh Treaty, it should make immediate amendments to its copyright regime to
+implement the Treaty and abide by its international obligations.
+
+The UAE has a variety of options on how it should reform its copyright law to correspond with its international
+obligations under the Marrakesh Treaty. One option is to amend the UAE Copyright Law by using the language of the
+actual text of the Treaty, and the second option is to issue a separate implementation regulation in relation to the
+Treaty (Trimble, 2014, p. 794; UNDP, 2015, p. 25).
+
+The key definitions of the Marrakesh Treaty, including “accessible format copy”, “authorized entity”, “beneficiary
+persons” and “print disability” should be included in the UAE Copyright Law. A good suggestion would be to include
+examples of print disabilities in a non-exhaustive manner, and broaden the definition of “beneficiary persons” by not
+restricting it to persons who are blind or visually impaired, but also include other kinds of disabilities such as mental,
+motor, hearing and persons with dyslexia (Helfer et al., 2017, pp. 31–38; Li, 2014, pp. 741–750; UNDP, 2015, pp. 18–19;
+Vezzoso, 2014, p. 811). This corresponds with the position of French law that was discussed in section 8.
+
+The definitions available in the Marrakesh Treaty can be used as a model to amend Article 1 (definitions) of the
+
+UAE Copyright Law for that purpose.
+
+Unfortunately, Article 22 of the UAE Copyright Law does not allow the domestic creation and distribution of
+accessible format copies by a VIP or a non-profit organization. In order to comply with Article 4 of the Marrakesh
+Treaty, the law should be amended by including a clear, simple and technology natural exception for VIPs (2014).
+Article 22 of the UAE Copyright Law98 should be amended as follows:
+
+22. Without prejudice to the moral rights of the author set out in this law, the author, after the publication of
+his work, may not prevent others from doing any of the following acts:
+
+1–8 . . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . ..
+
+9—The making, acquiring, supplying and distribution of accessible format copies for the sole benefit of the
+beneficiary person.
+
+The authorized entity wishing to undertake such activities must supply the work exclusively to the
+beneficiary person and needs to have lawful access to the work and provide services on a non-commercial
+basis.99
+
+OLWAN
+
+| 191
+
+Article 37 of the UAE Copyright Law makes it a criminal offense to manufacture (or produce) and import works for the
+purpose of sale, rental or circulation. This is applicable on importation of authorized copies of work as well as the importation
+of unauthorized copies or counterfeit copies (Hansen, 2009, p. 240). In order to comply with Articles 5 and 6 of the
+Marrakesh Treaty, Article 37 of the UAE Copyright Law must allow authorized entities to import and export accessible
+format copies to serve VIPs. Article 37 of the UAE Copyright Law (Hansen, 2009) should be amended as follows:
+
+37. Without prejudice to any harsher punishment stated in any other law, any person who, without the
+written permission of the author or the holder of neighboring rights, or their successors, does any of the
+following act, is to be punished by imprisonment for a period of any least two months and a fine not less than
+10,000 dirhams and not exceeding 50,000 dirhams or either one of these:
+
+1. Infringes any of the moral or financial rights of the author or holder of a neighboring rights as set out in this
+law, including putting any work or performance or sound recording or broadcast program that is protected
+by this law within the reach of the public whether by means of computer or the Internet or formation
+networks or communication networks or any other means.
+
+2. Sells or rents or make available for circulation in any way a work or sound recording or broadcast program
+protected pursuant to the provisions of this law.
+The punishment set out in this article is to be multiplied according to the number of works or performances
+or broadcasts or recordings the subject of the crime. If the crime is committed again, imprisonment for not
+less than six months and a fine of not less than 50,000 dirhams are to be imposed.
+
+3) Notwithstanding subsection 1 and 2, an accessible format copy can be imported by an authorized entity
+or a beneficiary person without the permission of the copyright holder by any means, including non-
+commercial lending or by electronic communication by wired or wireless means.
+
+4) Notwithstanding subsection 1 and 2, an accessible format copy can be exported by an authorized entity
+to any other authorized entity or any other non-profit institution that provide services to the blind, visually
+impaired or otherwise print disabled. (UNDP, 2015, pp. 91–93).
+
+According to Article 38 of the UAE Copyright Law, it is also an infringement of the UAE's Copyright Law to import, sell
+or rent devices that circumvent TPMs and to use a device “prepared with a sole object of infringing the copyright”. Article 38
+of the UAE Copyright Law does not contain any exceptions or limitations for the circumvention of TPMs for any purpose. To
+ensure that anti-circumvention provisions do not impede beneficiary persons from gaining access to accessible format
+copies, an exception should be included in the UAE Copyright Law to allow the circumvention of the TPMs to allow the
+creation of accessible format copies for VIPs. The exceptions should be flexible allowing the use of tools and services,
+whether commercial or non-commercial that enable the circumvention as necessary or appropriate (EIFL, 2015, pp. 22–23).
+
+Article 38 of the UAE Copyright Law (Hansen, 2009) should be amended as follows:
+
+Without prejudice to any harsher punishment stated in any other law, any person who commits any of the
+following acts is to be punished by imprisonment for a period of at least three months and a fine not less than
+50,000 dirhams and not exceeding 500,000 dirhams:
+
+1) Manufacturing or importing, without a right to do so, and with the purpose of selling or renting or circulating,
+any work or counterfeit copies or any apparatus or means or tools designed or prepared specially for
+manipulating protection or techniques used by the author or the holder of a neighboring right to transit or offer
+for circulation or to regulate or to manage these rights or to preserve a specific clarity of quality of production.
+
+192 |
+
+OLWAN
+
+2) Disabling or impairing, without a right to do so, any technical protection or electronic information
+intended to regulate the right set out in this law.
+
+3) Computer downloading or storing of any copy of computer programs or applications or databases without
+a license from the author or right holder or their successors.
+
+If the crimes are committed again, imprisonment for not less than nine months and a fine of not less than
+200,000 dirhams is to be imposed.
+
+4) Notwithstanding subsection 1 and 2, technological protection measures may be circumvented by an
+authorized entity, beneficiary person or someone acting on his behalf in order to create accessible format copies
+exclusively for the purpose of enjoying the exception provided in Article 22/9. (UNDP, 2015, pp. 91–93).
+
+The UAE should avoid including the commercial availability clause or payment of any fee to the copyright holder
+for the use of the accessible format copy. The inclusion of such a provision would impair the ability to use the
+exceptions under the Marrakesh Treaty and lead to more time and resources being spent on determining whether a
+commercially available, accessible format exists in the first place (Helfer et al., 2017, pp. 47–49; AGD; MBIE, 2015, p.
+22). It is also not recommended under the UAE Copyright Law to mandate the payment of royalties to copyright
+owners mainly because the Marrakesh Treaty does not require it. This approach should also be followed by other
+developing countries that may not have enough financial resources to remunerate publishers and copyright holders in
+order to serve the visually impaired community (Fruchterman, 2013; Helfer et al., 2017, pp. 49–51).
+
+For the other Gulf States that have not joined the Marrakesh Treaty, the ratification of the Treaty is of paramount
+importance, allowing these States to meet their international obligations under the CPRD, and other international human
+rights treaties. It will also lead to invaluable benefits for libraries, government and similar non-profit organizations to
+increase their extensive collection of works in Arabic or English, and domestic production of accessible format copies. To
+make this a reality, these institutions not only need to encourage their states to join but they also need to make sure that
+their governments take the necessary steps to implement the Treaty into their domestic law (EIFL, 2015, p. 13).
+
+As previously discussed, a number of Gulf States have signed an FTA with the United States, including Bahrain and
+Oman. It is important to give special attention to the copyright laws of those states if they want to join the Marrakesh Treaty
+as they have international obligations beyond the minimum standards under the TRIPS Agreement. Alternatively, if any Gulf
+State decides not to join the Marrakesh Treaty, it should amend the copyright law and include exceptions to benefit VIPs in
+order to increase access to books and other published works for VIPs. The law should strike a balance between protecting
+the interests of rights holders and simultaneously providing effective and equal access rights to VIPs. Furthermore, it should
+be flexible and neutral as technology can change rapidly. Finally, it is suggested to use the same amendments that were
+proposed for the UAE Copyright Law to reform other similar copyright laws in the Gulf States.
+
+9.2 | The policy recommendations for VIPs
+
+For a proper implementation of the Marrakesh Treaty, it is not enough to amend copyright laws in the Gulf States, but
+also it is important to take other practical measures to assist VIPs.
+
+To increase the availability of books and other published works and to ensure that they are accessible by VIPs in
+the Gulf States, it is suggested, in the future, to introduce a mandatory deposit scheme that requires Arabic publishers
+to deposit hard copy versions of their published books with government and non-profit organizations assisting VIPs
+(Cameron et al., 2014). This would enable these public institutions in the Gulf States to efficiently supply accessible
+format copies for VIPs (CDLP; Harpur & Suzor, 2013, pp. 753-754; Helfer et al., 2017, p. 66; Spinali, 2008). If the Gulf
+States want to work together in this regard, they could create the Gulf Cooperation Council (GCC) National Digital
+Accessible Library that protects the rights of copyright holders as well as increases the availability of books and
+
+OLWAN
+
+| 193
+
+published works in accessible formats for VIPs such as audio and large print. This might not be possible without legal
+reforms to the current laws in the Gulf States and in particular the copyright laws that must be amended to allow
+government and non-profit entities that serve VIPs to import and export accessible format copies (cross-border
+exchange system), firstly among the Gulf States and with other contracting parties to the Marrakesh Treaty.
+
+None of these solutions would be contrary to the international obligations of the Gulf States, and would not
+create an unreasonable prejudice to the interests of the copyright rights-holder if clear policies and basic security
+measures are introduced to protect it from illegal use (Harpur & Suzor, 2013, pp. 753–754).
+
+The Gulf States have a major role to play in making sure that the Marrakesh Treaty is implemented effectively.
+First, they need to connect the implementation of the Treaty with other international human rights treaties that they
+have ratified particularly the CPRD. This is essential in order to build on their existing knowledge, processes, measures
+and institutions that they already have for the consistent application of their international obligations under
+international treaties (Helfer et al., 2017, p. 78). Secondly, they need to consult with individuals and Disabled Persons’
+Organizations (DPOs) in relation to amending their existing laws and devising effective practical measures to
+implement the Treaty, and reporting the same to the United Nations and other relevant international institutions
+(Helfer et al., 2017, pp. 82–83). Thirdly, they need to develop appropriate action plans for an effective implementation
+of the Treaty. This can be achieved by integrating the Marrakesh Treaty's objectives with their current national plans
+for disabled people, increasing awareness, expanding access to published works, and collecting data regarding such
+access for future reference (Helfer et al., 2017, pp. 83–84). Finally, they need to provide remedies and construct
+appropriate mechanisms for violating and enforcing the rights by of VIPs by allowing them to file complaints to
+designated authorities, in relation to accessing and sharing accessible format copies (Helfer et al., 2017, p. 76).
+
+Disabled Persons’ Organizations (DPOs) in the Gulf States that represent the interests of VIPs and the community
+have an important role to play in encouraging the ratification and implementation of the Marrakesh Treaty. This is
+because they have many advantages over governmental organizations as they can be flexible and swift in dealing with
+the local needs and problems faced by the community (Fakhr, 2005, p. 2). They must take various steps and practical
+measures to advocate the rights of VIPs in order to influence decision-making in their jurisdiction.
+
+DPOs in the Gulf States need to work more often with one another and with other international organizations to
+
+develop successful partnerships to meet their common goals and make the necessary changes in law and policy.
+
+DPOs should not only be passive providers of self-help and social services for their members but rather they need to
+engage more often in human rights debates and advocacy (Meyers, 2016, p. 6). They must participate fully in the
+interpretation, implementation, monitoring the international human rights treaties in the Gulf States and in advising
+international organizations accordingly. They need to raise public awareness about the rights of persons with disabilities and
+hold regular open forums for members of their community and the public. These should discuss in particular the importance
+of the Marrakesh Treaty and share best practices from around the world in relation to its adoption and implementation.
+DPOs have an important role to play in mobilizing people to ask their governments, in the Gulf States, to sign the
+Marrakesh Treaty and implement their international obligations under human rights treaties. They must, in particular,
+contact and meet government officials and decision-makers in order to raise their awareness about the issues faced by
+disabled people and VIPs. Unfortunately, there are limited Arabic publications in relation to the Marrakech Treaty and
+it is important to write and publish more information about the subject. DPOs can produce and distribute information
+pamphlets about the Marrakesh Treaty in Arabic and speak about the problems, rights, and needs of VIPs in various
+forms of media such as print, radio, television and the Internet.
+
+10 | CONCLUSION
+
+We need to ask ourselves important questions about the Marrakesh Treaty. Will adherence to the Treaty help VIPs in
+the Gulf States? What is the role of national governments in the Gulf States in terms of facilitating access to published
+works for VIPs?
+
+194 |
+
+OLWAN
+
+There is no doubt that technology has dramatically changed the lives of all individuals, including VIPs because it
+allows them to access information and published works in a variety of ways never experienced before. It is also a fact
+that copyright laws have become a barrier to access copyrighted materials, especially in the digital age as it prevents
+users from producing and using an author's work without permission.
+
+It is important for all Gulf States to ratify the Marrakesh Treaty for the benefit of VIPs because it would provide
+them with great opportunities to access books and published works. Non-profit organizations and libraries would be
+able to increase their published materials by benefiting from the availability of books available in many languages,
+including Arabic and English.
+
+Joining the Marrakesh Treaty is a step forward for the Gulf States to rethink their approach to copyright laws that need
+to take into consideration not only authors’ rights but also the needs of other users. The amendments in the copyright laws
+should create a fairer system for all those who use copyright including VIPs, and at the same time provide equal rights and
+guarantees to people with disabilities (Bertlesman, 2012). This will hopefully lead to more comprehensive reforms of
+copyright laws in the Gulf States particularly in relation to limitations and exceptions to author's rights.
+
+The article has provided various suggestions and recommendations to amend the copyright laws in the Gulf after
+reviewing relevant international human treaties that these states have signed and their national disability laws. It has
+also given particular attention to governments’ role in helping visually impaired communities and supporting non-
+profit organizations in creating repositories for the benefit of VIPs.
+
+It is essential not to raise the hopes of the visually impaired community in terms of alleviating the “book
+famine”. While the Marrakesh Treaty is important in offering a legal infrastructure and an international framework
+to help visually impaired community around the world, it, unfortunately, will not make a real difference in the life
+of this marginalized community unless society as a whole removes the technical, legal and cultural barriers that
+prevent access to books and published works for VIPs (Fruchterman, 2013; United Nations Human Rights (UNHR),
+2014).
+
+ACKNOWLEDGMENTS
+
+The author wishes to thank his father Dr. Mohamed Olwan and his sister Dr. Dana Olwan for their help in reading an
+early draft of the article. He also acknowledges the constructive comments and excellent suggestions that were
+received from the anonymous reviewers of the Journal of World Intellectual Property (JWIP) that improved the
+manuscript.
+
+ABOUT THE AUTHOR
+
+Dr. Rami Olwan is an Assistant Professor at the College of Business Administration teaching business law at Sharjah
+University, Sharjah, United Arab Emirates (UAE). He has published widely in the area of intellectual property in the
+Middle East and the author of the book entitled “Intellectual Property and Development: Theory and Practice”
+(Springer, 2013). E-mail: ramiolwan@gmail.com
+
+ENDNOTES
+
+1 The Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired, or Otherwise
+Print Disabled’, (2013), (“Marrakesh Treaty”) http://www.wipo.int/wipolex/en/treaties/text.jsp?file_id = 301019. As of 10
+September 2017, 31 countries have ratified the Treaty and the majority of these countries are developing countries. These
+include Argentina, Australia, Botswana, Brazil, Burkina Faso, Canada, Chile, Democratic People's Republic of Korea, Ecuador,
+El Salvador, Guatemala, Honduras, India, Israel, Kyrgyzstan, Liberia, Malawi, Mali, Mexico, Mongolia, Paraguay, Panama,
+Peru, Republic of Kenya, Republic of Korea, Saint Vincent and the Grenadines, Singapore, Sri Lanka, Tunisia, United Arab
+Emirates and Uruguay. See WIPO, Contracting Parties- Marrakesh VIP Treaty http://www.wipo.int/treaties/en/
+ShowResults.jsp?treaty_id = 843
+
+OLWAN
+
+| 195
+
+2 Article 4, Marrakesh Treaty. The Marrakesh Treaty http://www.wipo.int/wipolex/en/treaties/text.jsp?file_id = 301019
+3 “Almost 30 years ago, a joint WIPO/UNESCO study had already recommended the formulation of a new international
+instrument addressing the two related problems of the “production of special media materials” and the “cross-border
+distribution of those materials...” Brazil was the first country to broach the copyright problems faced by visually impaired
+persons at an international level in 1977” (Fiscor, April 2013).
+
+4 There were several important issues that arose during the negotiating of the draft treaty including: “whether it should take
+the form of a binding agreement or a recommendation; the types of disabilities and the rights to be included; the classes of
+beneficiaries; the extent of relaxations to be provided for developing countries; the relationship to the Berne Conventions’
+three-step test; the question of commercial availability; and the use of technological protection measures”. (Brown et al.,
+2012, p. 928; Brown & Welde, 2015, pp. 577–602).
+
+5 Article 18 of the Marrakesh Treaty provides that: “This Treaty shall enter into force three months after 20 eligible parties
+referred to in Article 15 have deposited their instrument of ratification and accession”. The Marrakesh Treaty http://www.
+wipo.int/wipolex/en/treaties/text.jsp?file_id = 301019
+
+6 Article 1 of the Marrakesh Treaty provides that: “Nothing in this Treaty shall derogate from any obligations that Contracting
+Parties have to each other under any other treaties, nor shall it prejudice any rights that a Contracting Party has under any
+other treaties”. The Marrakesh Treaty http://www.wipo.int/wipolex/en/treaties/text.jsp?file_id = 301019
+
+7 Article 2(a–c), Marrakesh Treaty. The Marrakesh Treaty http://www.wipo.int/wipolex/en/treaties/text.jsp?file_
+
+id = 301019
+
+8 See Article 4(1)(a), Marrakesh Treaty. The Marrakesh Treaty http://www.wipo.int/wipolex/en/treaties/text.jsp?
+file_id = 301019. Article 4(2)(b) also provides that “A beneficiary person, or someone acting on his or her behalf including
+a primary caretaker or caregiver, may make an accessible format copy of a work for the personal use of the beneficiary
+person or otherwise may assist the beneficiary person to make and use accessible format copies where the beneficiary
+person has lawful access to that work or a copy of that work”. The Marrakesh Treaty http://www.wipo.int/wipolex/en/
+treaties/text.jsp?file_id = 301019
+
+9 Article 4(1)(b) adds that “contracting parties may also provide a limitation or exception to the right of public performance to
+facilitate access to works for beneficiary persons”. The Marrakesh Treaty http://www.wipo.int/wipolex/en/treaties/text.
+jsp?file_id = 301019
+
+10 See Article 4(2), Marrakesh Treaty. The Marrakesh Treaty http://www.wipo.int/wipolex/en/treaties/text.jsp?file_id
+
+= 301019
+
+11 Articles 10–11, Marrakesh Treaty. The Marrakesh Treaty http://www.wipo.int/wipolex/en/treaties/text.jsp?
+
+file_id = 301019
+
+12 Articles 4(4) and 4(5), Marrakesh Treaty. The Marrakesh Treaty http://www.wipo.int/wipolex/en/treaties/text.jsp?
+
+file_id = 301019
+
+13 Article 5, Marrakesh Treaty. The Marrakesh Treaty http://www.wipo.int/wipolex/en/treaties/text.jsp?file_id = 301019
+14 Article 5, Marrakesh Treaty. The Marrakesh Treaty http://www.wipo.int/wipolex/en/treaties/text.jsp?file_id = 301019
+15 Article 6, Marrakesh Treaty. The Marrakesh Treaty http://www.wipo.int/wipolex/en/treaties/text.jsp?file_id = 301019
+16 Article 7, Marrakesh Treaty. The Marrakesh Treaty http://www.wipo.int/wipolex/en/treaties/text.jsp?file_id = 301019
+17 Article 9 (1–2), Marrakesh Treaty. The Marrakesh Treaty http://www.wipo.int/wipolex/en/treaties/text.jsp?
+
+file_id = 301019
+
+18 See Articles 14–21, Marrakesh Treaty. The Marrakesh Treaty http://www.wipo.int/wipolex/en/treaties/text.jsp?file_id =
+
+301019
+
+19 “Book famine” is the lack of access to published works in accessible formats for blind and visually impaired persons.
+20 For example, Article 2 of the UAE Disability Law defines “a person with special needs as every person suffering from a
+temporary or permanent, full or partial deficiency or infirmity in his physical, sensory, mental, communicational, educational
+or psychological abilities to an extent that limits his possibility of performing the same requirements as people without
+special needs.” See Federal Law No. (29) of 2006 Concerning the Rights of People with Special Needs http://www.albayan.ae/
+across-the-uae/2006-09-11-1.868190
+
+21 One report prepared by the World Health Organization (WHO) mentioned the various challenges in relation to disability in
+the region. These include: “defining disability; the lack of data and information on disability; the domination of the concept
+of “care” over inclusion in addressing the issue; the discrepancy between the current level of political commitment with the
+magnitude of disability; the gap in understanding how commitments are translated into action; the fragmentation of
+existing efforts; and insufficient or ineffective coordination mechanisms between the concerned sectors”. There are also
+
+196 |
+
+OLWAN
+
+gaps in the essential care and service provision, including rehabilitation services, together with the limited human resources
+in different aspects and the variation in the level of development in the Gulf States (WHO, 2012).
+
+22 Bahrain and Kuwait joined the WTO on 11 December 2005; UAE on 10 April 1996; Qatar on 13 January 1996; Oman on 9
+November 2000, and Saudi Arabia on 11 December 2005. See Part II (intellectual property rights) and Part III (enforcement
+of intellectual property rights) of the TRIPs Agreement https://www.wto.org/english/docs_e/legal_e/27-trips.pdf
+
+23 For example, the United States Trade Representatives (USTR) reports of 2016 and 2017 puts Kuwait on its Priority Watch
+List for failing to adequately protect intellectual property (copyright). See Office of the United States Trade
+Representatives, 2017 Special 301 Report
+https://ustr.gov/sites/default/files/301/2017%20Special%20301%
+20Report%20FINAL.PDF, and 2016 Special 301 Report https://ustr.gov/sites/default/files/USTR-2016-Special-301-
+Report.pdf
+
+24 For example, in the UAE, the Zayed Higher Organization for Humanitarian Care and Special Needs and Tamkeen are
+
+converting schoolbooks to accessible formats for blind students and other visually impaired persons.
+
+25 There are also other challenges facing publication in Arabic and these include: “lack of reliable figures about book
+production and sales; insufficient readership; censorship and issues related to freedom of expression; difficulties of regional
+distribution and piracy, and barriers to the development of publishing structures” (Buchmesse, 2014).
+
+26 Law No. 2 for 2004 in Relation to People with Disability http://www.almeezan.qa/LawArticles.aspx?LawTreeSectionID
+
+= 2138&lawId = 246&language = en
+
+27 Law No. 63/2008 for Disabled People http://www.ilo.org/dyn/natlex/natlex4.detail?p_lang = fr&p_isn = 86171
+28 Law No. 4 of 2006 on the Welfare, Rehabilitation and Employment of Person with Disabilities as amended by Law No. 59 of
+http://www.ilo.org/dyn/natlex/natlex4.detail?p_lang = en&p_isn = 98524&p_count = 97990&p_classification =
+
+2014
+08.01&p_classcount = 1645 (Arabic).
+
+29 Law No. 8 of 2010 for the Rights of People with Disabilities http://www.ilo.org/dyn/natlex/natlex4.detail?p_lang = en&p_isn
+
+= 89501
+
+30 Law for Disability and Care for Disabled People Law No. (1421 H).
+31 Federal Law No. 29 of 2006 Concerning the Rights of People with Disabilities and Special Needs, as amended by Law No. 14 of
+2009. In the Emirate of Dubai, there is also Law No. (2) of 2014 that aims to provide high-quality medical care and social
+services, boost public awareness and contribute to integrating people with disabilities into society. In addition, the Dubai
+government has also issued recently the Dubai Disability Strategy 2020, which aims to provide equal rights and services to
+people with disabilities.
+
+32 Qatar Social and Cultural Center for the Blind http://www.blind.gov.qa/en/node/qatar-social-and-cultural-center-blind;
+
+Qatar Assistive Technology Center (MADA) http://mada.org.qa/en/
+
+33 Sharjah City for Humanitarian Services http://www.schs.ae/default.aspx.
+34 Zayed Higher Organization for Humanitarian Care and Special Needs http://www.zho.ae
+35 Tamkeen http://www.tamkeen.ae
+36 Thiqah Club for Handicapped http://www.althiqahclub.com
+37 Emirates Association of Visually Impaired http://www.eavi.ae
+38 Ebsar Foundation http://www.ebsarfoundation.org
+39 Saudi-Bahraini Institute for the Blind http://www.blindinstitute.org
+40 See Articles 1.1, 6 and 15.1 of the International Covenant on Economic and Social Culture Rights (ICESCR) http://www.
+ohchr.org/EN/ProfessionalInterest/Pages/CESCR.aspx. The UN General Assembly adopted the International Covenant on
+Economic and Social Culture Rights (ICESCR) in 1966 and it came into force in 1976 together with its sister covenant, the
+International Covenant on Civil and Political Rights 1996 (ICCPR), they form part of the International Bill of Human Rights.
+41 Articles 18.1 and 19(2) (right to exercise freedom of opinion and right of expression) of the International Convention on
+Civil and Political Rights (ICCPR). The International Convention on Civil and Political Rights (ICCPR) http://www.ohchr.org/
+en/professionalinterest/pages/ccpr.aspx
+
+42 The ICESCR and ICCPR are useful for visually impaired persons as the first contains the right to take part in cultural life, and
+
+the second contains the right to receive and impart information.
+
+43 Article 24 (right of education) of the Convention on the Rights of Persons with Disabilities (CRPD) http://www.ohchr.org/
+
+EN/HRBodies/CRPD/Pages/ConventionRightsPersonsWithDisabilities.aspx
+
+44 Article 26 (right of education) of the Universal Declaration of Human Rights (UDHR) http://www.ohchr.org/EN/UDHR/
+
+Documents/UDHR_Translations/eng.pdf
+
+OLWAN
+
+| 197
+
+45 Articles 1, 4 and 5(a) of the Convention against Discrimination in Education (CDE) http://www.unesco.org/education/pdf/
+
+DISCRI_E.PDF
+
+46 Articles 12.1, 14.1, 17, 28, 29 and 31 of the Convention on the Rights of the Child (CRC) http://www.ohchr.org/en/
+
+professionalinterest/pages/crc.aspx
+
+47 The Treaty opened for signature on March 30, 2007 and came into force on May 3, 2008. See Articles 9, 21, 27 and 29 of
+the Treaty. The Convention on the Rights of Persons with Disabilities 2006 (CPRD) http://www.ohchr.org/EN/HRBodies/
+CRPD/Pages/ConventionRightsPersonsWithDisabilities.aspx
+
+48 The CRPD defines in Article 2 communication as “includes languages, display of text, Braille, tactile communication, large
+print, accessible multimedia as well as written, audio, plain- language, human-reader and augmentative and alternative
+modes, means and formats of communication, including accessible information and communication technology”. See
+Article 2, CPRD. The Convention on the Rights of Persons with Disabilities 2006 (CPRD) http://www.ohchr.org/EN/
+HRBodies/CRPD/Pages/ConventionRightsPersonsWithDisabilities.aspx
+
+49 The CPRD requires signatories in Article 21 to “take all appropriate measures to ensure that persons with disabilities can
+exercise the right to freedom of expression and opinion, including the freedom to seek, receive and impart information and
+ideas on an equal basis with others. . ..”. It also requires member states to take all appropriate measures to ensure that
+“persons with disabilities” [...] enjoy access to cultural materials in accessible formats. See Articles 21 and 31 of the CPRD.
+The Convention on the Rights of Persons with Disabilities 2006 (CPRD) http://www.ohchr.org/EN/HRBodies/CRPD/
+Pages/ConventionRightsPersonsWithDisabilities.aspx
+
+50 Article 30 (3) of CPRD requires state parties to: “[T]ake all appropriate steps, in accordance with international law, to ensure
+that laws protecting intellectual property rights do not constitute an unreasonable or discriminatory barrier to access by
+persons with disabilities to cultural materials”. Article 30 (2), CPRD. The CPRD http://www.ohchr.org/EN/HRBodies/
+CRPD/Pages/ConventionRightsPersonsWithDisabilities.aspx
+
+51 Member Gulf Countries of the Convention on the Rights of Persons with Disabilities (CPRD). Retrieved from https://
+
+treaties.un.org/Pages/ViewDetails.aspx?src = IND&mtdsg_no = IV-15&chapter = 4&lang = en
+
+52 United Nations Human rights Office of the High Commissioner, the Optional Protocol to the Convention on the Right
+of Persons with Disability http://www.ohchr.org/EN/HRBodies/CRPD/Pages/OptionalProtocolRightsPersonsWith
+Disabilities.aspx
+
+53 United Nations Human rights Office of the High Commissioner, Elected Members of the Committee on Rights of Persons
+
+with Disability http://www.ohchr.org/EN/HRBodies/CRPD/Pages/Membership.aspx
+
+54 Member Gulf Countries of the Convention on the Rights of the Child (CROC). Retrieved from https://web.archive.org/
+
+web/20140211151110/https://treaties.un.org/pages/viewdetails.aspx?src = treaty&mtdsg_no = iv-
+11&chapter = 4&lang = en
+
+55 See the Gulf States that are members of the Convention against Discrimination in Education (CDE) http://portal.unesco.
+
+org/en/ev.php-URL_ID = 12949&URL_DO = DO_TOPIC&URL_SECTION = 201.html
+
+56 The UAE has chosen to accede the Treaty and not to ratify it. This has the same legal effect as ratification. The UAE
+Constitution and national laws determine whether a given treaty is to be ratified by the executive or by parliament, and
+which procedure must be followed. It also determines whether a treaty automatically becomes domestically binding or
+whether implementing legislation is required. Article 47 of the UAE Constitution of 1971, as amended (latest 2004)
+provides that the Supreme Council of the Union shall exercise ratification of treaties and international agreements and such
+ratification shall be accomplished by decree. The UAE Constitution of 1971, as amended https://www.constituteproject.
+org/constitution/United_Arab_Emirates_2004.pdf
+
+57 United Nations, Committee on the Rights of Persons with Disability, concluding observations on the initial report of the
+United Arab Emirates, 3 October 2016, CPRD/C/ARE/CO/1. Retrieved from http://tbinternet.ohchr.org/_layouts/
+treatybodyexternal/Download.aspx?symbolno=CRPD%2fC%2fARE%2fCO%2f1&Lang=en
+
+58 United Nations, Committee on the Rights of Persons with Disability, concluding observations on the initial report of Qatar,
+2 October 2015, CRPD/C/QAT/CO/1. Retrieved from http://tbinternet.ohchr.org/_layouts/treatybodyexternal/
+Download.aspx?symbolno=CRPD%2fC%2fQAT%2fCO%2f1&Lang=en
+
+59 See Bahraini Decree Law No. 21 of 2001; Qatari Law No. 22 of 2004; Omani Civil Code No. 29l/2013; Kuwaiti Law No. 67
+
+of 1980 and UAE Federal Law No. 1 of 1987. Saudi Arabia relies more on Sharia and these is no civil code.
+
+60 Compare Article 7 of the United Arab Emirates Constitution of 1971, as amended, that states Sharia is “a main source of legislation”
+with Article 1 of Saudi Arabia's Constitution of 1992, as amended (Basic Law) that states that “Quran and the Sunnah are the
+country's
+Law https://www.constituteproject.org/constitution/United_Arab_
+Emirates_2004.pdf; Saudi Arabia Basic Law https://www.constituteproject.org/constitution/Saudi_Arabia_2005.pdf
+
+constitution”. The UAE Constitutional
+
+198 |
+
+OLWAN
+
+61 DIFC Authority Laws and Regulation https://www.difc.ae/laws-regulations/difc-laws-regulations
+62 Articles 9–14 of the Trade-Related Aspects of Intellectual Property Agreement of 1994 (TRIPS). The TRIPS Agreement
+
+https://www.wto.org/english/docs_e/legal_e/27-trips.pdf
+
+63 The United States-Bahrain Free Trade Agreement, 11 January 2006 https://ustr.gov/trade-agreements/free-trade-
+agreements/bahrain-fta/final-text; The United States-Oman Free Trade Agreement, 1 January 2009 https://ustr.gov/
+trade-agreements/free-trade-agreements/oman-fta
+
+64 Egyptian Law on the Protection of Intellectual Property Rights (Law 82, 2002) http://www.wipo.int/wipolex/en/text.jsp?
+
+file_id = 126540
+
+65 Article 5 of the Omani Copyright Law (Omani Royal Decree Promulgating the Law on Copyright and Related Rights); Article 5 of
+the UAE Copyright Law (Federal Law No. 7 of 2002 in Relation to the Rights of the Author and Neighboring Rights); Article 5 of
+the Bharani Law (Bahrain Law Relating to the Protection of Copyright and Neighboring Rights); Article 10 of Qatari Copyright
+Law (Qatari Law on the Protection of Copyright and Related Rights) and Articles 6–7 of the Kuwaiti Copyright Law (Kuwaiti
+Law No. 22 of 2016 Concerning Copyright and Related Rights).
+
+66 Article 7 of the UAE copyright law; Article 6 of the Omani Copyright Law; Article 6 of the Bharani Copyright Law; Article 7
+
+of the Qatari Copyright Law; Article 9 of the Kuwait Copyright Law, and Article 9 of the Saudi Copyright Law.
+
+67 Articles 17–19 of the UAE copyright law; Articles 15–18 of the Omani Copyright Law; Articles 14–17 of the Bahraini
+Copyright Law; Articles 40–42 of the Qatari Copyright Law; Articles 16–19 of the Kuwaiti Copyright Law, and Article 7 of
+the Saudi Implementing Regulations of Copyright Law (May 29, 2004), as amended, (22 June 2005) http://www.wipo.int/
+wipolex/en/text.jsp?file_id = 129517
+
+68 Most of the exceptions available under the copyright laws of Gulf States are similar to the exceptions stated in Article
+L.122–5 (copyright exceptions) and Article L.214–1 (neighboring right exceptions) of the French Intellectual Property Code
+(IPC).
+
+69 All Gulf States are members of the Berne Convention that gives member states enough flexibility in implementing the
+various limitations and exceptions in accordance with their legal systems and local laws. Articles 10(2) and 10bis of the
+Berne Convention. The Berne Convention http://www.wipo.int/wipolex/en/treaties/text.jsp?file_id = 283693
+
+70 Article 9(2), Berne Convention. The Berne Convention http://www.wipo.int/wipolex/en/treaties/text.jsp?file_id = 283693
+71 Article L.122–5 of the French Intellectual Property Code (IPC) http://www.wipo.int/wipolex/en/details.jsp?id = 14082
+72 See Sec. 107, U.S Copyright ACT of 1976 http://www.copyright.gov/title17/
+73 The U.K. Copyright, Designs and Patents Act (CDPA) of 1988 was amended in 2014 to include new exceptions for research,
+education, libraries, museums and archives, disabled people and public administration. See Copyright, Design and Patent Act
+1988 (CDPA), Chapter III- Act Permitted in Relation to Copyright, (C.48) http://www.legislation.gov.uk/ukpga/1988/48/
+part/I/chapter/III.“The Gower Review of Intellectual Property Report” (2006) and the “Digital Opportunity: A Review of
+Intellectual Property and Growth” Report (2011) did not recommend the adoption of a U.S. style of fair use.
+
+74 As for Australia, the Copyright Act of 1968 was amended by the Copyright Amendments Act of 2006 that added new
+provisions permitting fair dealing for the purpose of parody and satire (S41A), time-shifting (S111), device shifting (S109A)
+and format-shifting (S43C, 47J and 110AA). See the Australian Copyright Act of 1968 (ACA) as amended, Part III- Copyright
+in Original Literary, Dramatic, Musical and Artistic Works, Division 3 Act Not Constituting Infringements of Copyright in
+Works http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/. The Australian Law Reform Commission (ALRC,
+2013) has proposed on February 13, 2014 the introduction of an open-list style of exceptions and limitations (fair use) in
+Australia, but the Australian law has not been amended still.
+
+75 In Canada, the new amendments to the Copyright Modernization Act of June 2012 (Bill-C11) introduced new exceptions and
+these include: commercial user-generated content (S29.21), non-reproduction for private purposes (S29.22), backup
+copies (S29.24), backup of computer program (30.6), interoperability of computer program (S30.61), encryption research
+(S30.62), security (S30.63), temporary reproductions for technological processes (S30.71), and persons with perceptual
+difficulties (S32). See Copyright Modernization Act (CMA) (Bill C-11) http://laws.justice.gc.ca/eng/acts/C-42/. Canadian
+scholars and legal experts have considered at length and debated the introduction of American fair use system into the
+Canadian Copyright Law (Geist, 2013, pp. 157–186).
+
+76 Article 15 of the Saudi Copyright Law; Article 29 of the Kuwait Copyright Law; Article 18 of the Qatari Copyright Law;
+Article 19 of the Bahraini Copyright Law; Article 20 of the Omani Copyright Law, and Article 22 of the UAE Copyright Law.
+77 One of the decision by the UAE Dubai Court of Cassation found on 17 June 2007 that libraries are allowed to make one
+copy or more of copyrighted works in any suitable format provided that the number of copies is limited to the needs and
+without prejudice to the rights of the author. Appeal No. 92/ 2007, civil decision, date, 17 June 2007.
+
+OLWAN
+
+| 199
+
+78 An exception of this is the new Kuwaiti Copyright Law No. 22 of 2016 in Article 29/14 that facilitates accessibility to work
+without an authors’ permission to a disabled person via electronic communication. The law has several conditions and these
+include: (a) the person should have a legitimate copy of the work; (b) the person must convert the work to accessible format
+and not make any changes; (c) this should be done for non-profit purposes; (d) only for personal use and (e) it is possible to
+import and export the accessible format copy to allow a disabled person to access it. See Article 29/14 of the Kuwait Law
+No. 22 of 2016 on Copyright and Related Rights http://www.alanba.com.kw/ar/kuwait-news/661259/20-06-
+2016
+
+(Arabic).
+
+79 See Article 15/3 of the Saudi Copyright Law; Article 29/4 of the Kuwaiti Copyright Law; Article 21 of the Qatari Copyright
+Law; Article 21/C of the Bahraini Copyright Law; Article 20/3 of the Omani Copyright Law, and Article 22/4 of the UAE
+Copyright Law.
+
+80 See Article 15/3 of the Saudi Copyright Law; Article 29/12 of the Kuwaiti Copyright Law; Article 21/2 of the Qatari
+Copyright Law, Article 22 of the Bharani Copyright Law; Article 20/3 of the Omani Copyright Law and Article 22/4 of the
+UAE Copyright Law.
+
+81 “Parallel importation” “refers to the import of goods outside the distribution channels contractually negotiated by the
+
+manufacturer” (Wiele, 2014).
+
+82 The Gulf States that entered into the WIPO Copyright Treaty and WIPO Performance and Phonograms Treaty (1996) are
+Bahrain (15 September 2005); Oman (20 June 2005); Qatar (28 July 2005) and the UAE (14 April 2004). Saudi Arabia and
+Kuwait are not yet members. WIPO Copyright Treaties Members http://www.wipo.int/treaties/en/ShowResults.jsp?
+lang = en&treaty_id = 16 and WIPO Performance and Phonograms Treaty http://www.wipo.int/treaties/en/ShowResults.jsp?
+lang = en&treaty_id = 20
+
+83 Article 45/1 of the Bahraini Copyright Law; Article 40/1 of the Omani Copyright Law; Article 51 of the Qatari Copyright
+Law; Article 21/5 of the Saudi Copyright Law; Article 38/2 of the UAE Copyright Law, and Article 42/3 of the Kuwaiti
+Copyright Law.
+
+84 Article 45/2 of the Bahraini Copyright Law; Article 40/2 of the Omani Copyright Law; Article 51/1 of the Qatari Copyright
+Law; Article 21/7 of the Saudi Copyright Law; Article 38/2 of the UAE Copyright Law and Article 42/1 of the Kuwaiti
+Copyright Law.
+
+85 Article 45/6 of the Bahraini Copyright Law.
+86 Article 52/5 of the Omani Copyright Law.
+87 Proposal for a Directive of the European Parliament and of the Council on certain permitted uses of works and other
+subject-matter protected by copyright and related rights for the benefit of persons who are blind, visually impaired or
+otherwise print disabled and amending Directive 2001/29/EC on the harmonisation of certain aspects of copyright and
+related rights in the information society-COM(2016)596 http://ec.europa.eu/newsroom/dae/document.cfm?doc
+_id = 17221
+
+88 Proposal for a Regulation of the European Parliament and of the Council on the cross-border exchange between the Union
+and third countries of accessible format copies of certain works and other subject-matter protected by copyright and
+related rights for the benefit of persons who are blind, visually impaired or otherwise print disabled- COM(2016)595 http://
+ec.europa.eu/newsroom/dae/document.cfm?doc_id =17219
+
+89 See French Law No. 2006–961 of 1 August 2006 on Copyright and Related Rights in the Information Society http://www.wipo.
+int/wipolex/en/details.jsp?id = 5606. See also Articles 5(3)(b) (exception and limitation for benefit of people with disability)
+and 6(4) (exception for beneficiary person) of the Copyright Directive 2001/29/EC on the harmonization of certain aspects of
+copyright and related rights in the Information Society (Infosoc Directive). See Article 5 and Article 6 of the E.U Information
+Society Directive http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri = OJ:L:2001:167:0010:0019:EN:PDF
+
+90 See Articles L.122-13- L.122–21 of the French Intellectual Property Code (IPC).
+91 Section 121 (a) (Limitations on Exclusive Rights: Reproduction for Blind or other People with Disabilities) of the U.S
+Copyright Law provides that: “(a) Notwithstanding the provisions of section 106, it is not an infringement of copyright for an
+authorized entity to reproduce or to distribute copies or phonorecords of a previously published, nondramatic literary work
+if such copies or phonorecords are reproduced or distributed in specialized formats exclusively for use by blind or other
+persons with disabilities. . .. . ..”. See sec. 121(a), 17 U.S.C. The US Copyright Act 1976, as amended https://www.law.cornell.
+edu/uscode/text/17/121
+
+92 See the Copyright and Rights in Performances (Disability) Regulations 2014 that amended Chapter 3 of Part 1 of the U.K
+
+1988 Act http://www.legislation.gov.uk/uksi/2014/1384/regulation/2/made
+
+93 See C-11 Bill-An Act to amend the Copyright Act (access to copyrighted works or other subject-matter for persons with perceptual
+Canada
+
+http://www.parl.gc.ca/HousePublications/Publication.aspx?Language = E&Mode = 1&DocId = 8385190.
+
+disabilities)
+
+200 |
+
+OLWAN
+
+ratified the Marrakesh Treaty on 30 June 2016, and as a result, the Treaty came into force on 30 September 2016. See WIPO,
+Marrakesh Notification No. 20. Retrieved from http://www.wipo.int/treaties/en/notifications/marrakesh/treaty_marrakesh_20.
+html
+
+94 See secs. (135NZ), (135ZP) and (135ZQ) of the Division 3-Reproduction and Communication of Works by Institutions
+Assisting Persons with a Print Disability, Part VB of the Australian Copyright Act of 1968, as amended http://www.austlii.
+edu.au/au/legis/cth/consol_act/ca1968133/index.html#s135zq. See also the fair dealing provisions (format shifting and
+fair dealing for research and “special cases” in Australia, part III, Division 3-Acts Not Constituting Infringements of
+Copyright in Works of the Australian Copyright Act of 1968, as amended http://www.austlii.edu.au/au/legis/cth/
+consol_act/ca1968133/index.html#s135zq
+
+95 See Indian Copyright Amendment Act of 2012, No. 27 of 2012, an Act to amend the Copyright Act, 1957 (7 June 2012)
+
+http://www.wipo.int/edocs/lexdocs/laws/en/in/in066en.pdf
+
+96 “Brazil was one of the main negotiators of the visually impaired persons Treaty. It deposited its ratification of the Treaty on
+December 11, 2015. The Brazilian federal legislation Law N. 13.146/15 for the broad inclusion of people with disabilities
+entered into force on 4 January 2016” (De Souza, Fairbanks, & Monteiro, 2016).
+
+97 See the Copyright Law of the People's Republic of China of 26 February 2010 http://www.wipo.int/edocs/lexdocs/laws/
+
+en/cn/cn031en.pdf
+
+98 Hansen (2009), Appendix 14, Federal Law No. 7 of 2002 in Relation to the Rights of the Author and Neighboring Rights, pp. 457–
+
+480.
+
+99 The amendments for articles 22/9, 37 and 38 of the UAE Copyright Law is based on Appendix 2, “Model Statute for
+Implementation of the Marrakesh Treaty to Facilitation Access to Published Works for Persons who are Blind, Visually
+Impaired, or otherwise Print Disabled” (UNDP, 2015, pp. 91–93), that was prepared by Jonathan Band and Peter Jaszi.
+
+ORCID
+
+Rami Olwan
+
+http://orcid.org/0000-0002-6596-8931
+
+REFERENCES
+
+Accessible Book Consortium. The challenge: Tackling the global book famine. Retrieved from http://www.
+
+accessiblebooksconsortium.org/portal/en/index.html
+
+Al Ahmadi, M. (2014). Students with vision impairments in the UAE higher education system. (Doctoral Dissertation, Deakin
+
+University). Retrieved from http://dro.deakin.edu.au/eserv/DU: 30073004/alhammadi-studentswith-2014A.pdf
+
+Al Bayan. (2016, February 22). The availability of braille and audio books- limited presence in supplying the blind. Al Bayan.
+
+Retrieved from http://www.albayan.ae/five-senses/culture/2016-02-22-1.2578762
+
+Al Fawzan, M. B. B. (2009). Copyright protection in Saudi Arabia—Explanation and study. Riyadh, SA: Library of Law and Business
+
+(Arabic).
+
+Al Jabry, S. A. (October 29, 2015). Sharjah hopes to turn the page in Arab publishing. The National. Retrieved from http://
+
+www.thenational.ae/arts-life/books/sharjah-hopes-to-turn-the-page-in-the-arab-publishing-world
+
+Al Tamimi, E. (2003). Setting up in Dubai: A comprehensive guide to the legal and commercial aspects of establishing a business in
+
+Dubai. Dubai, UAE: Atlas Printing Press.
+
+Al Thani, H. (2006). Disability in the Arab region: Current situation and prospects. Journal for Disability and International
+Development, 3. Retrieved from http://www.dvv-international.de/en/adult-education-and-development/editions/aed-
+682007/adult-education-for-persons-with-disabilities/disability-in-the-arab-region-current-situation-and-prospects/
+
+Alyam. (April 15, 2010). 35 Million blind people in the Arab world. Alyam, issue 7675. Retrieved from http://www.alayam.
+
+com/alayam/local/396843/News.html
+
+Arif, A. M. M. (2014). An analysis of copyright protection in Saudi Arabia. International Journal of Law and Management, 56(1),
+
+38–48.
+
+Attorney-General's Department (AGD) Copyright Law Section. (2015). National interest analysis ATNIA 9 with attachment on
+consultation, Marrakesh Treaty to facilitate access to published works for persons who are blind, visually impaired, or
+otherwise print disabled. Retrieved from http://www3.austlii.edu.au/au/other/dfat/ATNIA/2015/9.pdf
+
+Australian Digital Alliance (ADA). (2014). Australia signs treaty giving blind and visually impaired access to books. Retrieved
+
+from http://digital.org.au/content/australia-signs-treaty-giving-blind-and-visually-impaired-access-books
+
+OLWAN
+
+| 201
+
+Australian Government Law Reform Commission (ALRC) (February 13, 2013). Copyright and the digital economy (Report
+
+122). Retrieved from http://www.alrc.gov.au/publications/copyright-report-122
+
+Australian Human Rights Commission (AHRC). (2004). Copyright and print disability: Frequently asked questions. Retrieved
+
+from https://www.humanrights.gov.au/publications/copyright-and-print-disability-frequently-asked-questions
+
+Awad, B. (2016). How the Marrakesh treaty makes the intellectual property system more inclusive, Open Canada.org.
+Retrieved from https://www.opencanada.org/features/how-marrakesh-treaty-makes-intellectual-property-system-
+more-inclusive/
+
+Bently, L., (Ed.) (2015). International Copyright Law and Practice. San Francisco, CA: Lexis-Nexis.
+Bently, L., & Sherman, B. (2014). Intellectual Property Law. New York, NY: Oxford University.
+Bertlesman, M. (2012). The fight for accessible format: Technology as a catalyst for a world effort to improve accessibility
+
+domestically. Syracuse Science and Technology Law Reporter, 27, 26–54.
+
+Brown, A., & Waelde, C., (2015). Human rights, persons with disabilities and copyright. In C. Geiger, (Ed.), Research handbook
+
+on human rights and intellectual property (pp. 577–602). Cheltenham: UK Edward Elgar.
+
+Brown, A., Waelde, C., & Harmo, S. (2012). Do you see what I see? Disability, technology, law and the experience of culture.
+
+International Review of Intellectual Property and Competition Law, 43(8), 901–930.
+
+Buchmesse, F. (2014). The Arab book market. Retrieved from http://www.buchmesse.de/images/fbm/dokumente-ua-pdfs/
+
+2014/buchmarkt_arabische_welt_engl_2014_43687.pdf
+
+Cabut, S. (December 31, 2013). France leads the way on audiobooks for blind and visually impaired people, The Guardian. Retrieved
+
+from https://www.theguardian.com/society/2013/dec/31/digital-audiobooks-visually-impaired-download-france
+
+Çalı, B., & Ghanea, N. (2013, June). From ratification to implementation: UN human rights treaties and the GCC, Workshop
+Series Report, June 20, 2013. Retrieved from https://www.academia.edu/7140048/The_Domestic_Effects_of_ Intern
+ational_Human_Rights_Treaty_Ratification_in_the_Gulf_Cooperation_Council?auto=download
+
+Calvo, F. J. M., (2014). Sharing accessible books in Arabic: how can the Marrakesh treaty help? Techshare Middle East- Doha
+
+(Qatar). Retrieved from http://www.techshareme.org/files/2014/10/Francisco-Calvo-Marrakech-Treaty.pdf
+
+Cameron, N., Wood S., & Suzor N. (2014). Discussion paper submitted by the QUT intellectual property and innovation center
+to the attorney-general's department consultation on Marrakesh treaty options for implementation. Retrieved from
+http://eprints.qut.edu.au/79122/
+
+Center for Disability Law and Policy (CDLP). (2012). National University of Ireland Galway, submission to copyright review
+committee in response to copyright and innovation: A consultation paper. Retrieved from https://www.djei.ie/en/
+Consultations/Consultations-files/NUI-Galway-Centre-for-Disability-Law-and-Policy.pdf
+
+Conway, D., (2015). The miracle at Marrakesh: Doing justice for the blind and visually impaired while changing the culture of
+norm setting at WIPO. In I. Calboli, & S. Ragavan, (Eds.), Diversity in intellectual property: Identities, interests and intersection
+(pp. 35–57). New York: Cambridge University.
+
+Cox, K. (2016). Canada introduces legislation preparing for accession to the Marrakesh treaty (Take Two). ARL Policy Notes.
+
+Retrieved from http://policynotes.arl.org/?tag=marrakesh-treaty
+
+Creetz, C. (1973). Thick description: Toward an interpretative theory of culture. The interpretation of cultures: Selected essays.
+
+New York: Basic Books.
+
+De Souza, A. R., Fairbanks, A. D. S , & Monteiro, D. S. (January 14, 2016). A look at the Marrakesh treaty ratification in Brazil.
+Intellectual Property Watch. Retrieved from http://www.ip-watch.org/2016/01/14/a-look-at-the-marrakesh-treaty-
+ratification-in-brazil/
+
+Drahos, P. (1999). The universality of intellectual property rights: Origins and development in intellectual property and human
+rights, World Intellectual Property Organization, Geneva, 1999, 13–41. Retrieved from http://www.wipo.int/edocs/
+mdocs/tk/en/wipo_unhchr_ip_pnl_98/wipo_unhchr_ip_pnl_98_1.pdf
+
+Drahos, P. (2001). Bits and bips bilateralism in intellectual property. Journal of World Intellectual Property, 4(6), 791–881.
+
+https://doi.org/10.1111/j. 1747-1796. 2001.tb00138.x
+
+Drahos, P. (2002). Developing countries and international intellectual property standard setting. Journal of World Intellectual
+
+Property, 5(5), 765–789. https://doi.org/10.1111/j. 1747-1796. 2002.tb00181.x
+
+Drahos, P. (2003). Expanding intellectual property's empire: The role of FTAs. Retrieved from http://www.ictsd.org/
+
+downloads/2008/08/drahos-fta-2003-en.pdf
+
+Eeed, E. (2001). Copyright and neighboring Rights in Lebanese, Arabic and foreign Law. Beirut, Lebanon, Sader (Arabic).
+Electronic Information for Libraries (EIFL). (2015). The Marrakesh treaty: An EIFL guide for Libraries. EIFL: Retrieved from
+
+http://www.eifl.net/system/files/resources/201511/marrakesh_lowres.pdf
+
+Emirates News Agency.
+
+(October 10, 2014). UAE to join two WIPO treaties. Retrieved http://wam.ae/en/details/
+
+1395271145460
+
+Ermert, M. (July 6, 2017). EU parliament adopts Marrakesh treaty; blind union prepared to fight publisher ‘compensation’.
+Retrieved from https://www.ip-watch.org/2017/07/06/eu-parliament-adopts-marrakesh-treaty-blind-union-prepared-
+fight-publisher-compensation/
+
+202 |
+
+OLWAN
+
+European Commission. (2014, October 21). European Commission proposes ratification of marrakesh treaty to facilitate
+access to books for visually impaired persons. Retrieved from http://europa.eu/rapid/press-release_IP-14-1185_en.htm
+European Parliament. (July 2017). EU will make more books available for blind people. Retrieved from http://www.europarl.
+
+europa.eu/news/de/press-room/20170629IPR78641/eu-will-make-more-books-available-for-blind-people
+
+Fakhr M. A. (2005). Civil society and democracy in the Gulf region, 11th Mediterranean Dialogue seminar: security and
+
+development in the Gulf region, NATO parliamentary Assembly, Doha, Qatar, November 26–28, 2005.
+
+Ficsor, M. (2013). The preparation of a WIPO instrument/treaty on exceptions or limitations for the visually impaired in the
+light of the WIPO-UNESCO model provisions on the same Adopted in the “guided development” period. 21st Annual
+Intellectual Property Law & Policy Conference, Fordham University School of Law. Retrieved from http://
+fordhamipconference.com/wp-content/uploads/2013/04/Panel-4B_Ficsor.pdf
+
+Fiscor, M. (2013a). Commentary to the Marrakesh treaty on accessible format copies for the visually impaired’ copyright See-
+
+Saw. Retrieved from http://www.copyrightseesaw.net/archive/?sw_10_item=50
+
+Fitzgerald, B., & Olwan, R. (2010). Copyright law in the United Arab Emirates in the digital age. European Intellectual Property
+
+Review, 32(11), 565–574.
+
+Fitzpatrick, S. (2014). Setting its sights on the Marrakesh Treaty: The U.S. role in alleviating the book famine for persons with
+
+print disabilities. Boston College of International and Comparative Law Review, 37(1), 139–172.
+
+French AIPPI Group. (2010). Exceptions to copyright protection and the permitted uses of copyright works in the hi-tech and
+
+digital sectors. Retrieved from https://aippi.org/download/commitees/216/GR216france_en.pdf
+
+Fruchterman, J. (2013). Poisoning the treaty for the blind, Huffington Post. Retrieved from http://www.huffingtonpost.com/
+
+jim-fruchterman/poisoning-the-treaty-for-_b_3225181.html
+
+Gahleitner, A. (2013). 30 Years in the making, the WIPO treaty for the blind is signed. Internal Voices. Retrieved from http://
+
+internalvoices.org/2013/07/blind/
+
+Geist, M. (2013). Fairness found: How Canada quietly Shifted from fair dealing to fair use. In M. Geist, (Ed.), The copyright
+pentalogy: How the supreme court of Canada shook the foundation of Canadian copyright law (pp. 157–186). Ottawa, OTT:
+Ottawa University Press. Retrieved from http://www.press.uottawa.ca/sites/default/files/9780776620848.pdf
+
+Gervais, D. J. (2013). TRIPS and Development. (August 21, 2013). Vanderbilt Public Law Research Paper No. 13–46. Retrieved
+
+from SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2313836
+
+Gesit, M. (2013). Will Canada stand up for the rights of the visually impaired? Retrieved from http://www.michaelgeist.ca/
+
+2013/06/tvi-treaty-column/
+
+Goldstein, P., & Hugenholt, B. (2013). International copyright: principles, law, and practice (3rd ed.). Oxford: Oxford University.
+Gorse, M. (2016). Construction law in the United Arab Emirates. Oxford: Wiley.
+Group of Specialists on Human Rights in the Information Society (MC-S-IS). (September 2008). Copyright and human rights.
+
+Retrieved from https://rm.coe.int/1680483b14
+
+Guarini, D. (May 30, 2013). Captcha fail leaves blind people unable to sign ‘we the people’ petition to help the blind. The
+Huffington Post. Retrieved from http://www.huffingtonpost.com/2013/05/30/we-the-people-blind-petition_n_
+3361075.html
+
+Gurry, F. (September 30, 2016). Making books accessible to all. The Hindu. Retrieved from http://www.thehindu.com/
+
+opinion/op-ed/making-books-accessible-to-all/article9163855.ece
+
+Hansen, P. W. (2009). Intellectual property law and practice of the United Arab Emirates. New York: Oxford University.
+Harpur, P., & Suzor, N. (2013). Copyright protections and disability rights: Turning the page to a new international paradigm.
+
+University of New South Wales Law Journal, 36(3), 745–778.
+
+Helfer, L. R., Land, M. K., & Okediji, R. L., & Reichman. (2017). The world blind union guide to the Marrakesh treaty—Facilitating
+
+access to books for print-disabled individuals. New York: Oxford University.
+
+Hely, P. (2010). A model copyright exemption to serve the visually impaired: An alternative to the treaty proposal before
+
+WIPO. Vanderbilt Journal of Transnational Law, 43, 1369–1411.
+
+Hilty, R., Köklü, K., Kur, A., Nérisson, S., Drexl, J., & Lewinski, S. (2015). Position paper of the Max Planck Institute for
+innovation and competition—concerning the implementation of WIPO Marrakesh treaty to facilitate access to published
+works for persons who are blind, visually impaired or otherwise print disabled, Max Planck Institute for Innovation and
+Competition (September 9, 2015). Retrieved from http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2654610
+
+Hughes J. (August 28, 2013). How the Marrakesh treaty was negotiated. Managing Intellectual Property. Retrieved from
+
+http://www.managingip.com/Article/3248494/How-the-Marrakesh-Treaty-was-negotiated.html
+
+IFPI (2003, March). The WIPO treaties: protection of rights management information. Retrieved from http://www.ifpi.org/
+
+content/library/wipo-treaties-rights-management-information.pdf
+
+International Federation of Library Associations and Institutions (IFLA). (July 6, 2017). The European union votes on the
+implementation of the Marrakesh Treaty. Retrieved from https://blogs.ifla.org/lpa/2017/07/06/the-european-union-
+votes-on-the-implementation-of-the-marrakesh-treaty/
+
+OLWAN
+
+| 203
+
+Jarvis, N. (2015). National implementation of the MVT: perspective of the blind, visually impaired, or otherwise print disabled.
+
+Retrieved from http://www.wipo.int/edocs/mdocs/mdocs/en/wipo_reg_cr_sin_15/wipo_reg_cr_sin_15_t_11.pdf
+
+Johnson, E. (2010). Intellectual property's need for a disability perspective. George Mason University Civil Rights Law Journal
+
+(CRLJ), 20(2), Retrieved from SSRN https://ssrn.com/abstract=1667099
+
+Kaminski, M. E., & Yanisky-Ravid, S. (2014). The Marrakesh treaty for visually impaired persons: Why a Treaty was preferable
+
+to soft law. University of Pittsburgh Law Review, 75, 255–300.
+
+Kapczynski, A. (2008). The access to knowledge mobilization and the new politics of intellectual property. Yale Law Journal,
+
+117, 804.
+
+Khater, N. H. (2008). Explanation of intellectual property rules: author's rights and neighboring rights. Abu Dhabi: United Arab
+
+Emirates University (Arabic).
+
+Knight, L. (2015). Digital arabic content: an industry brief [WRL Report]. Retrieved from http://www.wamda.com/2015/06/
+
+digital-arabic-content-addressing-the-gap
+
+Kulesz, O. (2010). Digital publishing in developing countries. Retrieved from http://alliance-lab.org/etude/wp-content/
+
+uploads/digital_publishing.pdf
+
+LaBarre, S. C. (2014). The Marrakesh treaty: From the visually impaired persons community's perspective, presented to the
+copyright problems of access to published works for persons Who are visually impaired conference, Organized by the
+Copyright Agency of the Republic of Azerbaijan and the World Intellectual Property Organization (WIPO). Retrieved from
+https://nfb.org/images/nfb/publications/bm/bm15/bm1501/bm150104.htm
+
+Lewinski, S. A. (2008). Copyright law and neighbouring rights. New York, NY: Oxford University.
+Li, J. (2014). Copyright exemption to facilitate access to published works for the print disables. The gap between national laws
+and the standard required by the Marrakesh treaty. International Review of Intellectual Property and Competition, 45(7),
+740–767.
+
+Li, J., & Selvadurai, N. (2014). Reconciling the enforcement of copyright with the upholding of human rights: A consideration of
+the Marrakesh treaty to facilitate access to published works for the blind, visually impaired and print disabled. European
+Intellectual Property Review, 36(10), 653–664.
+
+Loutfi, M. (2012). Intellectual property right—basic principles—A study of law No. 82 of 2002. Cairo: Al Nahda (Arabic).
+McClanahan, P. (July 30, 2012). US and EU blocking treaty to give blind people access to books. The Guardian. Retrieved from
+
+http://www.theguardian.com/global-development/2012/jul/30/us-eu-blocking-treaty-blind-books
+
+Meyers, S. (2016). NGO-Ization and human rights law: The CRPD's civil society mandate. Laws, 5(2), 21. https://doi.org/
+
+10.3390/laws5020021
+
+Mitra, S., Posarac A., & Vick, B. (2011). Disability and poverty in developing countries: A snapshot from the world health
+survey. Retrieved from http://siteresources.worldbank.org/SOCIALPROTECTION/Resources/SP-Discussion-papers/
+Disability-DP/1109.pdf
+
+Nagata, K. K. (2003). Gender and disability in the Arab region: The challenges in the new millennium. Asia Pacific Disability
+
+Rehabilitation Journal, 14(1), 10–17. http://english.aifo.it/disability/apdrj/apdrj103/arab-region.pdf
+
+NARIC. (May 2010). Dual status: racial and ethnic minorities, and disability. ReSearch, 5, 3. Retrieved from http://www.naric.
+
+com/?q=en/node/87
+
+Nelson, M. K. (July 5, 2013). Landmark treaty breaks down book barriers for the blind’, Center for Health Journalism,
+Bhekisisa. Retrieved from http://mg.co.za/article/2013-07-05-landmark-treaty-breaks-down-book-barriers-for-the-
+blind/
+
+NLS Factsheets. (1996). Copyright law amendment. Retrieved from http://www.loc.gov/nls/reference/guides/copyright.
+
+html
+
+NZ Ministry of Business, Innovation and Employment (MBIE). (2015). Discussion document Marrakesh treaty: possible
+accession and option for implementation. Retrieved from http://www.mbie.govt.nz/info-services/business/intellectual-
+property/copyright/marrakesh-treaty/consultation/discussion-document.pdf
+
+Okediji, R. L. (1996). The myth of development, the progress of rights: Human rights to intellectual property and development.
+
+Law and Policy Journal, 18, 315–354.
+
+Okediji, R. L. (2003). The International relations of intellectual property: Narratives of developing country participation in the
+
+global intellectual property System. 7 Singapore Journal of International and Comparative Law, 7, 315–385.
+
+Okediji R. L (2008). History lessons for the WIPO development agenda in Neil Weinstock Netanel, The development agenda:
+
+global intellectual property and developing countries (Oxford University, 2008). 137–161.
+
+Olwan, R. (2013). A pragmatic approach to intellectual property and development: A case study of the Jordanian copyright law
+
+in the Internet Age. The Loyola of Los Angeles International and Comparative Law Review, 35(2), 209–272.
+
+Olwan, R. (2016). The adoption of the American model of fair use in gulf states—A comparative analysis of exceptions to
+
+author's rights in common law and civil law countries. European Intellectual Property Review, 38(7), 416–436.
+
+Pillai, P. R. (2012). Accessible copies of copyright work for visually impaired persons in India. Creative Education, 3(6A),
+
+1061–1062. Retrieved from http://www.scirp.org/journal/PaperInformation.aspx?PaperID=23581
+
+204 |
+
+OLWAN
+
+Reichman, J. H. (2009). Intellectual property in the twenty-first century: Will the developing countries lead or follow? Houston
+
+Law Review, 46, 1115–1185.
+
+Reinl, J. (September 3, 2008). Arab region “lacks” disability awareness. The National. Retrieved from http://www.thenational.
+
+ae/news/world/middle-east/arab-region-lacks-disability-awareness
+
+Roffe, P., & Vea, G., (2008). The WIPO development agenda in an historical and political context. In N. W. Netanel, (Ed.), The
+
+development agenda: Global intellectual property and developing countries. New York: Oxford University.
+
+Rogan E. (2004). Arab books and human development. Eurozine. Retrieved from http://www.eurozine.com/pdf/2004-04-
+
+27-rogan-en.pdf
+
+Rubin, K. H. & Menzer M. (2010). Culture and social development. Retrieved from http://www.enfant-encyclopedie.com/
+
+pages/PDF/Rubin-MenzerANGxp.pdf
+
+Saez, C. (2014, April 3). EU wrestles with procedure for signing marrakesh treaty for visually impaired’, Intellectual Property
+Watch. Retrieved from http://www.ip-watch.org/2014/04/03/eu-wrestles-with-procedure-for-signing-marrakesh-
+treaty-for-visually-impaired/
+
+Scheinwald, A. (2012). Who could possibly be against a treaty for the blind? Fordham Intellectual Property Law Journal, 22(2),
+
+445–511.
+
+Schonwetter, T., Kouletakis, J., & Wiele B. (2015). Marrakesh treaty implementation guide South Africa, IP Unit University of
+Cape Town, Briefing Paper Version 2. Retrieved from http://ip-unit.org/wp-content/uploads/2015/05/IPUnit_
+MarrakeshGuide SA1. pdf
+
+Sganga, C. (2015). Disability, right to culture and copyright: Which regulatory option? International Review of Law, Computers &
+
+Technology, 29(2–3), 88–115.
+
+Shahbandari S. (November 5, 2015). Digital publishing still in its infancy across region. Gulf News. http://gulfnews.com/news/
+
+uae/society/digital-publishing-still-in-its-infancy-across-region-1.1614200
+
+Sloan, D, & Hortan, S. (2014). Global considerations in creating an organizational web accessibility policy. The Paciello Group.
+from https://www.paciellogroup.com/blog/2014/04/global-considerations-creating-organizational-web-
+
+Retrieved
+accessibility-policy/
+
+Spinali, A. (2008). European copyright legislation-exceptions for disabled people. Retrieved from www.euroblind.org/media/
+
+position-papers/2008_4_EBU_Copyright.doc
+
+Spitz, B. (2015). Guide to copyright in France. The Netherlands: Kluwer Law International.
+Sullivan, J. (2006). WIPO study on copyright limitations and exceptions for the visually impaired, submitted to the Standing
+Committee to the Copyright and Related Rights. Retrieved from http://www.wipo.int/edocs/mdocs/copyright/en/
+sccr_15/sccr_15_7.pdf
+
+Sunder, M. (2001). Cultural dissent. Stanford Law Review, 54, 495–567.
+Sunder, M. (2006). IP3. Stanford Law Review, 59(2), 257–332.
+Sunder, M. (2012). From Good to a Good Life, Intellectual Property and Global Justice. New Heaven and London: Yale University.
+The International Association for the Protection of Intellectual Property (French AIPPI Group). (2010). Exceptions to
+copyright protection and the permitted uses of copyright works in the Hi-Tech and Digital Sectors. Retrieved from https://
+aippi.org/download/commitees/216/GR216france_en.pdf
+
+The United Nations Development Program (UNDP). (2003). The Arab human development Report. Retrieved from http://
+
+www.arab-hdr.org/PreviousReports/2003/2003.aspx
+
+The United Nations Development Program (UNDP). (2015). Our right to knowledge: legal reviews for the ratification of the
+Marrakesh treaty for persons with print disabilities in Asia and the Pacific. Retrieved from http://www.asia-pacific.undp.
+org/content/dam/rbap/docs/Research%20%26%20Publications/hiv_aids/rbap-hhd-2015-our-right-to-knowledge.pdf
+The United Nations Economic and Social Commission for West Asia (ESCWA) (2014). Disability in the Arab region, an
+https://www.unescwa.org/sites/www.unescwa.org/files/page_attachments/disability_in_the_
+
+Retrieved
+
+overview.
+arab_region-_an_overview_-_en_1. pdf
+
+Thomas, M. & Thomas, M.J. (December 29, 1998). Influence of cultural factors on disability and rehabilitation in developing
+
+countries. Retrieved from http://www.dinf.ne.jp/doc/english/asia/resource/apdrj/z13jo0400/z13jo0403.html
+
+Trimble, M. (2014). The marrakesh puzzle. International Review of Intellectual Property and Competition Law, 45(7), 768–795.
+Turner, P. (September 2011). Finding your path: arbitration, sharia, and the modern Middle East. Al Tamimi Legal Update, 8.
+Retrieved from http://www.tamimi.com/en/magazine/law-update/section-7/august-september-1/finding-your-path-
+arbitration-sharia-and-the-modern-middle-east.html
+
+United Nations, Committee on the Rights of Persons with Disability (2015). Concluding observations on the initial report of
+Qatar, CRPD/C/QAT/CO/1. Retrieved from http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?
+symbolno=CRPD%2fC%2fQAT%2fCO%2f1&Lang=en
+
+United Nations, Committee on the Rights of Persons with Disability. (2016). Concluding Observations on the initial report
+the United Arab Emirates, CPRD/C/ARE/CO/1. Retrieved from http://tbinternet.ohchr.org/_layouts/treaty
+
+of
+bodyexternal/Download.aspx?symbolno=CRPD%2fC%2fARE%2fCO%2f1&Lang=en
+
+OLWAN
+
+| 205
+
+United Nations Human Rights (UNHR). (2014). Campaigning for the rights of the disabled in the region http://www.ohchr.
+
+org/EN/NewsEvents/Pages/RightsOfTheDisabledInArabRegion.aspx
+
+Ursula, Lindsey. (July 7, 2016). Why don’t Arabs read? Al Fanar Media. Retrieved from http://www.al-fanarmedia.org/2016/
+
+07/why-dont-arabs-read/
+
+Vezzoso, S. (2014). The Marrakesh spirit- a ghost in three steps? International Review of Intellectual Property and Competition
+
+Law, 45(7), 796–820.
+
+Wahab, A. (2012). An overview of the Egyptian legal system and legal research. GlobaLex. Retrieved from http://www.
+
+nyulawglobal.org/globalex/Egypt.htm
+
+Weber, A. S. (2012). Inclusive education in the Gulf Cooperation Council. Journal of Educational and Instructional Studies
+
+in the World, 2(2), 2146–7463. Retrieved from http://www.wjeis.org/FileUpload/ds217232/File/11.weber.pdf
+
+Wiele, B. V. (2014). The ratification and implementation of the Marrakesh Treaty: A look at the future of South African
+copyright law. (Master's Thesis, Cape Town University). Retrieved from https://open.uct.ac.za/bitstream/handle/11427/
+13038/thesis_law_2014_van_wiele_b.pdf?sequence=1
+
+Wienand, P. (2014). UK copyright infringement exceptions—how the changes will affect you. Farrer and Co. Retrieved from
+
+http://www.farrer.co.uk/Global/Briefings/UK%20Copyright%20infringement%20exceptions%20-%20how%20the%
+20changes%20will%20affect%20you.pdf
+
+Williams, S. (2012). Closing in on the Light at WIPO: movement towards a copyright treaty for the visually impaired and
+
+intellectual property movements. University of Pennsylvania Journal of International Law, 33(4), 1035–1074.
+
+World Bank. (2010). Economic integration in the GCC Retrieved from http://siteresources.worldbank.org/INTMENA/
+
+Resources/GCCStudyweb.pdf
+
+World Blind Union (WBU). (2013) The Treaty of Marrakesh explained. Retrieved from http://www.worldblindunion.org/
+
+english/news/Pages/The-Treaty-of-Marrakesh.aspx
+
+World Health Organization (WHO). (December 26, 2012). Summary report on the first stakeholders meeting for developing
+
+an Arab report on disability. Retrieved http://applications.emro.who.int/docs/IC_Meet_Rep_2013_EN_14926.pdf
+
+World Health Organization WHO.
+
+(2014). Visual
+
+impairment and blindness. Retrieved from http://www.who.int/
+
+mediacentre/factsheets/fs282/en/
+
+Yu, P. K. (2006). TRIPs and its discontents. Marquette Intellectual Property Law Review, 10(2), 369–410.
+Yu, P. K., (2007). Intellectual property, economic development, and the China puzzle. In D. Gervais, (Ed.), Intellectual property,
+trade and development-strategies to optimize economic development in a TRIPS-Plus era (pp. 173–220). New York: Oxford
+University.
+
+Yu, P. K. (2009). Dean's lecture series: A tale of two development agendas. Ohio Northern University Law Review, 35, 465–573.
+Yun, C. (2012). Moving towards a more inclusive copyright regime for visually impaired. Singapore Academy of Law Journal, 24,
+
+433–469.
+
+Zemer, L., & Gaon, A. (2015). Copyright, disability and social inclusion: The Marrakesh treaty and the role of non-signatories.
+
+Journal of Intellectual Property and Practice, 10(11), 836–849.
+
+How to cite this article: Olwan R. The ratification and implementation of the Marrakesh Treaty for
+visually impaired persons in the Arab Gulf States. J World Intellect Prop. 2017;20:178–205.
+https://doi.org/10.1111/jwip.12088
+
+

@@ -1,0 +1,1470 @@
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4, pp. 296–320
+
+doi: 10.1111/j.1747-1796.2008.00345.x
+
+Interoperability and Other Issues at the
+IP–Anti-trust Interface: The EU Microsoft
+Case
+
+Dr Duncan Curley
+Innovate Legal
+
+The judgment in 2007 of the Court of First Instance in Microsoft Corporation v European
+Commission was the culmination of one of the biggest anti-trust battles ever to have taken
+place in the European Union. Although most aspects of the European Commission’s original
+decision of 2004 were upheld, the Microsoft case remains interesting at several levels. The
+judgment deals with the question of when it is permissible, in the public interest, to encroach
+upon the exclusivity of intellectual property rights-holders, by requiring the grant of licences
+to third parties seeking to enter or remain on the market. The case provides an illustration of
+Community policy objectives being implemented through the medium of the competition
+rules, namely the opening up of the software industry to more competition and the
+encouragement of innovation in information technology. It also provides an illustration of
+differing attitudes to the anti-trust regulation of unilateral conduct by companies with a
+dominant market position in Europe and the United States.
+
+Keywords Software; European Union; competition; compulsory licences
+
+The decision of the Court of First Instance (CFI) in Microsoft Corporation v
+Commission of the European Communities of 17 September 2007 (the Microsoft
+case)1 effectively marked the beginning of the end2 of one of the biggest anti-trust
+battles ever to have taken place in the European Union (EU). Although the CFI
+upheld most aspects of the European Commission’s original decision of 20043 in
+which Microsoft Corp. (Microsoft) was ﬁned h497 million for abusing its dominant
+position on the market for personal computer (PC) operating systems, contrary to
+article 82 of the Treaty establishing the European Community (the EC Treaty),4 the
+Microsoft case remains interesting at several levels. It addresses the question of
+when it is permissible, in the public interest, to encroach upon the exclusivity of
+owners of intellectual property (IP) rights, by requiring the grant of licences to third
+parties seeking to enter or remain on the market, with the CFI’s judgment providing
+the ﬁrst application of the compulsory licensing criteria laid down in the European
+Court of Justice’s decisions in Joined Cases C-241/91 P and C-242/91 P RTE and
+ITP v Commission (Magill)5 and Case C-418/01 (IMS Health).6 It provides an
+illustration of two Community policy objectives being implemented through the
+medium of the competition rules, namely the opening up of the software industry to
+more competition and the encouragement of innovation in information technology
+(IT). Finally, the CFI’s judgment provides an illustration of the different attitudes
+
+296
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+Duncan Curley
+
+to the regulation of unilateral conduct by dominant ﬁrms in the EU and the United
+States.
+
+The Industry Setting
+
+The Microsoft case has provided a focal point for the ongoing debate about the
+future direction of the software business.7 For many years, proprietary software
+developed inside specialist software houses held sway. In the EU, proprietary
+software is primarily protected against unlicensed reproduction by means of copy-
+right. Proprietary software is usually made available to purchasers under licence,
+for a fee, and only in object code form.
+
+By the 1980s, almost all software was proprietary but then came open source
+and the concept of ‘‘free software’’,8 such as the Linux operating system. Advocates
+of open source claim that the ability of anyone to be able to access the source code
+of computer software and make modiﬁcations (in return for making those mod-
+iﬁcations available to other users) facilitates innovation by means of collaborative
+engagement. Open source software development has become increasingly commer-
+cial in recent years and the growth in open source software revenue streams has
+been signiﬁcant, with one estimate placing Linux-related revenues at almost
+$37 billion by 2008 (Mahony and Naughton, 2004). However, open source software
+may need to be customized before it can be installed and integrated with existing
+computer hardware and software. For the protagonists of open source, an
+important issue in breaking into the mainstream of acceptability for high-end
+commercial software applications is interoperability with proprietary systems
+(Buono and Sieverding, 2007).
+
+Network Computing and Interoperability
+
+Network computing is an inescapable feature of modern ofﬁce life. As such, it is big
+business. The powerful computers that organize and manage communications
+between users of PCs in both large and small organizations are called servers. A
+server typically includes both hardware devices and software, such as an operating
+system. It is critical in any computer network that a PC and a server can work
+effectively together. Interoperability is a term that is used to describe effective
+communication within a computer network. Yet this is not quite the full story,
+because interoperability is a matter of degree. As one industry expert puts it:
+
+Not everyone needs to have William Shakespeare’s command of the
+English language in order to communicate with others in English. One
+can get by in a foreign country with just a few words and phrases. The
+same is true in technology, where sufﬁcient levels of interoperability can
+be achieved without one program being able to take advantage of every
+feature in the other (Zuck, 2005).
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+297
+
+Duncan Curley
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+In other words, interoperability implies an ability to communicate and share
+data, but it does not necessarily imply complete compatibility (Buono, 2005). The
+degree of interoperability between products sold by different vendors (multi-vendor
+interoperability) is clearly important when businesses come to make their purchas-
+ing decisions for servers for their computer network.
+
+Within the software industry, interoperability is usually effected in one of three
+ways: by means of direct access to interface information (e.g. by means of a licence),
+open standards or reverse engineering. The licensing business model is one that has
+been adopted by Microsoft and it has embarked on a strategy of expansion of its IP
+portfolio with the intention of driving revenues from licensing (Marsland, 2003).
+Open standards consist of published hardware or software speciﬁcations that are
+developed by organizations in which companies participate on a consensual basis.
+IBM has, for example, pledged publicly that its patents may be used to create
+open standards (Kappos and Strimaitis, 2006). As far as reverse engineering goes, in
+the EU, there is a limited right for software developers lawfully to decompile a
+computer program, with a view to effecting interoperability, without
+in-
+fringing copyright. This right is enshrined in Council Directive 91/250/EEC of 14
+May 1991 on the legal protection of computer programs (the Software Copyright
+Directive).
+
+The IP–Anti-trust Interface
+
+The EU competition rules are intended to preserve the functioning of the free
+market economy. A speciﬁc policy objective within this overall framework is to
+preserve a competitive market structure for innovation, by ensuring that the
+number of players investing in a particular technological area is not restricted
+(Kairo and Paulweber, 2001). IP rights such as patents, copyright and trademarks
+are monopoly rights conferred by the state as a reward for innovation and
+creativity. Patents,
+in particular, may be used to restrict access to superior
+technology so that an above-market premium can be earned by the patent-owning
+ﬁrm. Ownership of superior technology and associated IP rights may thus give
+certain ﬁrms (undertakings, in the language of the EU competition rules) the power
+to price products above the prevailing market rate. Yet when such companies
+possess signiﬁcant shares of EU markets, their business decisions may engage the
+competition rules, speciﬁcally article 82 of the EC Treaty. One of the difﬁcult
+questions facing IP and competition policy makers is how to balance the degree of
+monopoly protection given by IP rights to inventors and artists, on the one
+hand, against the desirability of maintaining open and competitive markets, on
+the other (Curley, 2006). The clash between the desire to reward creativity and
+inventive activity with copyright and patents and the EU policy imperative to
+foster innovation by means of open and dynamic markets is encapsulated in
+the battle between the various software industry protagonists in the Microsoft
+case.
+
+298
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+Duncan Curley
+
+The EU Competition Rules: Articles 81 and 82
+
+The main European competition rules are laid down in articles 81 and 82 of the EC
+Treaty.9 The two provisions can affect IP rights-holders in different ways. Article 81
+is primarily aimed at cartels and other anti-competitive, joint behaviour, but it can
+catch all kinds of agreements and business transactions entered into by companies.
+Article 81(1)(b) expressly prohibits agreements between companies that limit or
+control ‘‘production, markets, technical development or investment’’.
+
+Article 81 regulates two of the main methods of achieving interoperability:
+software licences and standards. Software copyright licence agreements are among
+the commercial arrangements that can beneﬁt from an automatic exemption from
+the prohibition in article 81, by virtue of Commission Regulation (EC) No. 772/
+2004, known as the Technology Transfer Block Exemption Regulation or the
+TTBER, which came into force at the end of April 2004 (Curley and Garrod, 2004).
+A detailed set of guidelines on the effect of the competition rules on technology
+licensing agreements was published by the European Commission at the same
+time.10 Agreements that establish patent pools and standard-setting organizations
+are not covered by the TTBER, but there is a helpful section in the guidelines that
+indicates how the Commission will assess the pro-competitive beneﬁts of such
+arrangements.11 Both the TTBER and the guidelines contain concrete embodiments
+of the European Commission’s policy of endeavouring to preserve competition in
+innovation, by maintaining the capacity for technological development to be
+conducted in a number of ﬁrms, rather than allowing technology (and IP) to
+become concentrated in the hands of a few (Curley, 2004).
+
+Article 82 prohibits undertakings with a dominant position on a particular
+market from conducting themselves in a way that constitutes an abuse of their
+market power. It is aimed at unilateral conduct by dominant ﬁrms with substantial
+market shares. Article 82(b) speciﬁcally lists the limiting of production, markets or
+technical development to the detriment of consumers as ways in which a dominant
+position may be abused.
+
+Article 82—Special Responsibility
+
+Underlying article 82 is the assumption that the behaviour of monopolists should be
+subject to clear and strict competition rules, based on the premise that the mere
+presence of a dominant undertaking on the market has already weakened the
+competitive process and reduced the economic freedom of other undertakings, to
+the detriment of consumers.12 Where there is only one dominant undertaking on a
+market with several smaller, fragmented players, article 82 imposes strictures on the
+way in which the dominant ﬁrm may conduct itself, with the aim of maintaining
+what little competition remains on a market that is dominated by one main player.
+Article 82 thus applies only where a company has a dominant position on a
+relevant market. When conducting market investigations under article 82, the
+European Commission usually deﬁnes the relevant market and then determines
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+299
+
+Duncan Curley
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+whether a company is in fact dominant on that market. It often uses market shares
+as the most important factor in deciding whether an undertaking is dominant, large
+market shares being regarded as prima facie evidence of the existence of dominance.
+The text of article 82 is as follows:
+
+Any abuse by one or more undertakings of a dominant position within the
+common market or in a substantial part of it shall be prohibited as incompatible
+with the common market in so far as it may affect trade between Member States.
+Such abuse may, in particular, consist in:
+
+(a) directly or indirectly imposing unfair purchase or selling prices or other
+
+unfair trading conditions;
+
+(b) limiting production, markets or technical development to the detriment of
+
+consumers;
+
+(c) applying dissimilar conditions to equivalent transactions with other trading
+
+parties, thereby placing them at a competitive disadvantage;
+
+(d) making the conclusion of contracts subject to acceptance by the other parties
+
+of supplementary obligations which, by their nature or according to
+commercial usage, have no connection with the subject of such contracts.
+
+An undertaking acting abusively may be able to escape liability for a breach of
+Article 82 if it can show an objective justiﬁcation for its conduct.
+
+Commission v Microsoft (the Commission Decision)
+
+The Decision of 24 March 2004
+Central to the EU case (and the notorious US anti-trust case13) was Microsoft’s
+very strong position on the market for PC operating systems. These deal with
+routine computing tasks such as memory allocation and controlling the operations
+of peripherals. Microsoft had—and continues to have—a very large market share
+of new PC operating system licences, with over 90% of the market since 2000.14
+The Windows operating system has of course become the de facto standard for
+most PCs. The fact that Windows is ubiquitous undoubtedly confers upon
+Microsoft signiﬁcant market power, but arguably consumers also beneﬁt, because
+they get access to many different kinds of application software that have been
+written by software designers speciﬁcally to interface with the Windows operating
+system.
+
+Windows Media Player—the Tying Abuse
+According to the Commission, Microsoft had abused its dominant position on the
+PC operating systems market by integrating (or bundling) its Windows Media
+Player into its Windows operating system. This was categorized (in legal terms) by
+the Commission as a ‘‘tying’’ abuse under article 82(d), i.e. the allegation was that
+Microsoft was making the availability of the Windows PC operating system
+conditional upon the simultaneous acquisition of Windows Media Player. The
+Commission claimed that if this practice was allowed to continue, it would lead to
+
+300
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+Duncan Curley
+
+the progressive elimination of rival media players, because producers of compatible
+software and content knew that if they based their products on Microsoft’s
+Windows Media Player technology—rather than on competing technology—they
+would be able to reach almost all PC users. This would eventually lead to all
+consumers preferring Windows Media Player to other media players.
+
+The remedy ordered by the Commission in this part of the case was to force
+Microsoft to offer its Windows PC operating system without a media player. This
+remedy was in itself a source of considerable debate (see, e.g., Dolmans and Graf,
+2004; K ¨uhn et al., 2005), but it will not be addressed further in this article, save to
+note that by the time of its appeal, Microsoft had already complied with this part of
+the Commission’s original decision.15 Before the CFI, Microsoft alleged that the
+Commission was forcing it to offer to consumers what was essentially a degraded
+version of its Windows PC operating system, but the CFI rejected this argument
+and upheld the remedy.
+
+Work Group Server Operating Systems—the Leveraging Abuse
+
+The interoperability part of the case concerned servers. At issue in the case were
+smaller servers that carry out basic tasks such as the management of communication
+between a network of PC users. The Commission referred to these as work group
+servers in its decision.16 In 1998, Sun Microsystems Inc. (Sun) had asked Microsoft
+to disclose interoperability information to allow Sun to make work group server
+operating systems that were compatible with the Windows environment and that
+could compete effectively with Microsoft’s Windows work group server operating
+systems. Microsoft refused. Sun complained to the European Commission.
+
+The Commission investigated. It found that the proper functioning of a work
+group of PC users using Windows relied upon a technical architecture of client-to-
+server and server-to-server interconnections and interactions. The prevalence of the
+Windows operating system on the PCs of many work group networks gave
+Microsoft an in-built advantage over its competitors in the market for work group
+server operating systems, because it was in the best position to engineer the most
+efﬁcient server software that could interact with Windows operating system soft-
+ware installed on most PCs. The Commission concluded that interoperability
+information was needed by those competitors of Microsoft that wanted to develop
+work group server operating systems that could function effectively within a
+network of PCs running a Windows PC operating system.
+
+The Commission found as a matter of fact that reverse engineering of Windows
+was not viable. It examined the public availability of interface information, such as
+the disclosures made by Microsoft in compliance with its obligations under the
+settlement of the US anti-trust litigation.17 These disclosures were made by Micro-
+soft pursuant to its Communications Protocols Licensing Program, which began in
+September 2002.18 However, as the Commission pointed out in its decision,19 the
+information licensed under this program was limited to client-to-server communica-
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+301
+
+Duncan Curley
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+tion protocols and not server-to-server protocols. The terms of the licence agreement
+offered by Microsoft speciﬁcally exclude any use of the communications protocols
+for server-to-server communications. Thus, the interoperability information that
+companies such as Sun needed was only available from one source—Microsoft.
+
+The Commission surmised that the close compatibility of PCs running a
+Windows operating system and work group servers also running a Windows
+operating system enabled Microsoft to lock the market into a homogenous,
+Microsoft solution. In addition, an important component of the Commission’s
+case was Microsoft’s previous conduct, in entering the market for group server
+operating systems, then building up its market share and altering its conduct viz. its
+competitors. Vendors of the Unix operating system and Novell Inc. (Novell) were
+the ﬁrst on the market for work group server operating systems in the 1980s, when
+computing networks were built with non-Microsoft work group servers. In the early
+1990s, when Microsoft did not have an alternative work group server operating
+system,
+it therefore had incentives to have its Windows PC operating system
+interoperate with non-Microsoft work group server operating systems. To this
+end, Microsoft had disclosed interoperability information, licensing, for example,
+Digital Equipment Corporation in 1995. However, according to the Commission,
+once Microsoft’s work group server operating system had gained acceptance in the
+market, Microsoft’s policy changed. It began to withhold interoperability informa-
+tion, rather than share it.
+
+By the time of the Commission’s decision, Microsoft’s share of the work group
+server operating systems market was at least 60%.20 Because of its dominant position
+on this market and its overwhelming dominance on the market for PC operating
+systems, Microsoft’s refusal to supply interoperability information to Sun was an
+abrogation of its special responsibility under article 82 not to endanger an already-
+fragile state of competition on the market for work group server operating systems.
+This meant that Microsoft had infringed article 82. Furthermore, the Commission
+concluded that the only viable means for others to achieve interoperability with
+Windows required Microsoft to provide interoperability information directly to its
+competitors, under licence. By way of remedy, the Commission therefore ordered
+Microsoft to disclose complete and accurate speciﬁcations of the communication
+protocols necessary for Microsoft’s competitors to be able to make work server
+operating systems that could interface properly with Windows-operated PCs. The
+decision reﬂects the Commission’s policy (seen in other areas of competition law and
+in the Software Copyright Directive) that technical development is best promoted by
+a number of different ﬁrms innovating, rather than one (Anderman, 2004).
+
+Interoperability Information
+
+One of the main issues in the Microsoft case was the question of the scope of the
+Commission’s order and what was actually meant by interoperability information.
+The term interoperability has of course already been the subject of controversy in
+
+302
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+Duncan Curley
+
+the EU in recent years; lack of agreement on the interoperability provisions in the
+proposed Computer-Implemented Inventions Directive21 was part of the reason
+why that draft directive was rejected by MEPs in 2005.
+
+The Commission claimed that it had required Microsoft to disclose interoper-
+ability information as deﬁned in the Software Copyright Directive, where, in recital
+12, the word ‘‘interoperability’’ is said to mean ‘‘the ability [of two software
+programs] to exchange information and mutually to use the information which
+has been exchanged’’, i.e. multivendor interoperability. The actual wording in the
+Commission’s decision is as follows: ‘‘interoperability information’’ consists of the
+‘‘complete and accurate speciﬁcations for all the [communications] protocols
+implemented in Windows work group server operating systems and . . . used by
+Windows work group servers to deliver ﬁle and print services and group and user
+administrative services . . . to Windows work group networks’’.22
+
+Microsoft claimed that the Commission was in fact demanding something more
+than simply a guaranteed ability to communicate and share data. The speciﬁcations
+for Microsoft’s communication protocols were detailed descriptions of the design
+and operation of those protocols that would allow a competitor to use them in its
+own server operating systems. Microsoft claimed that if it was forced to license its
+communications protocols as the Commission envisaged, the end result would not
+be competition, but instead the development of ‘‘clones’’ of Microsoft work group
+servers with perfect substitutability (or ‘‘plug replaceability’’) for a Windows-based
+server operating system. Microsoft conceded that there was a minimum level of
+interoperability with Windows that was required for effective competition, but it
+said that this level was not difﬁcult to achieve, technically. A large section of the
+technical debate in the investigative procedure was taken up by this question of
+whether the Commission’s remedy would allow Microsoft’s competitors simply to
+‘‘clone’’ its Windows products.
+
+The Software Copyright Directive
+
+Article 6 of the Software Copyright Directive makes lawful the act of decompiling
+computer software (reverse engineering) in order to enable an independent pro-
+grammer to ensure that a new computer program can interoperate with an original
+software program. This may be necessary where, for example, information on
+interfaces is not made available by an owner of proprietary software: ‘‘Article 6 . . .
+permits reverse engineering in order to access the interfaces which are needed to
+support the functionality designed in an independently created program’’ (Hart,
+2006). However, article 6 is quite restrictive, because any such reverse engineering
+must be for the narrow purpose of obtaining interface information that is necessary
+to achieve interoperability; it does not permit a software programmer to obtain
+interface information that is not relevant to that task.
+
+The restrictive nature of article 6 arises because of the obligations of the EU
+member states under article 9(2) of the Berne Convention for the Protection of
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+303
+
+Duncan Curley
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+Literary and Artistic Works (the Berne Convention),23 dealing with the right of
+reproduction of copyright works. It will be recalled that article 9(1) of the Berne
+Convention provides that authors of literary works (including computer programs)
+shall have the exclusive right of authorizing the reproduction of such works, in any
+manner or form (emphasis added). Article 9(2) contains a limited derogation from the
+broad scope of the exclusive right, in that ‘‘It shall be a matter for legislation in the
+countries of the Union to permit the reproduction of such works in certain special
+cases, provided that such reproduction does not conﬂict with a normal exploitation of
+the work and does not unreasonably prejudice the legitimate interests of the author’’.
+The limited right of decompilation provided in article 6 of the Software Copyright
+Directive is intended to be in accordance with these Berne Convention obligations
+(Czarnota and Hart, 1991). However, it transpired that the argument between the
+Commission and Microsoft about the correspondence between ‘‘interoperability’’ as
+deﬁned in the Software Copyright Directive and the degree of interoperability sought
+by the Commission was something of an unnecessary sideshow.
+
+The CFI’s Decision on Interoperability
+
+Before the CFI, the Commission maintained that it had not ﬁxed the interoperability
+that was required for effective competition at a given level. It said that it had
+established as a matter of fact that the degree of interoperability with Windows that
+Microsoft’s competitors could achieve (e.g. using reverse engineering) was simply too
+low to enable them to remain viably on the market. The purpose of its remedy was
+therefore to make available information that would allow Microsoft’s competitors to
+engineer an equivalent degree of interoperability to that achieved by Microsoft, but by
+means of their own innovative efforts, so that when a server running a non-Microsoft
+work group server operating system is installed on a Windows-based work group
+server network, it would be capable, inter alia, of delivering all of its functionalities to
+client PCs running Windows. The remedy was not intended to allow Microsoft’s
+competitors to produce clones; it was intended to enable competing products with
+‘‘added value’’ to be created that would function differently to Windows.
+
+The CFI agreed with the Commission’s assessment of the facts. In doing so, it
+sought to rise above the arguments as to whether the ‘‘interoperability’’ sought by
+the Commission was the same as or consistent with ‘‘interoperability’’ as deﬁned in
+the Software Copyright Directive. The CFI ruled that what was in issue was a
+decision adopted by the Commission in application of article 82, a provision that
+was of higher rank than the Software Copyright Directive. The question for
+determination was actually whether the Commission had correctly determined the
+degree of interoperability that should be attainable in light of the objectives of article
+82.24 The CFI concluded that it had.
+
+Microsoft’s IP
+
+Microsoft claimed that it had invested many years of research and development in
+designing communications protocols that were useful in terms of functionality and
+
+304
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+Duncan Curley
+
+which enhanced the speed, reliability, security and efﬁciency of interactions between
+Windows operating systems. The communication protocols and the speciﬁcations
+describing them were protected by various IP rights, including copyright and
+patents. In addition, they constituted valuable conﬁdential information that could
+be protected against unauthorized disclosure by the law of trade secrets in various
+member states.
+
+One of Microsoft’s arguments against the Commission’s disclosure order was to
+point out that the remedy rode roughshod over Microsoft’s IP rights, a serious
+matter in relation to which there is existing EU jurisprudence. Microsoft claimed
+that the Commission had not satisﬁed the requirements set down in the existing cases
+on article 82 and the compulsory licensing of IP rights. It accused the Commission
+publicly of ‘‘the biggest encroachment on intellectual property in European compe-
+tition law history’’ and likened the Commission’s disclosure remedy to ‘‘opening the
+vaults of a bank’’ and ‘‘handing out money to passers-by’’.25
+
+The Commission had initially seemed sceptical about the IP rights that
+Microsoft claimed were relevant. In a footnote to the original decision,26 it had
+conceded that the speciﬁcations might constitute information that was prima facie
+protectable by Microsoft as trade secrets. The Commission had also acknowledged
+that if it ordered Microsoft to disclose interoperability information to its compe-
+titors (such as Sun) for the purpose of allowing them to produce rival work group
+server operating systems, this might constitute compulsory licensing of Microsoft’s
+IP rights.
+
+On 30 September 2004, some 6 months after the Commission’s decision, there
+was a hearing before the president of the CFI on Microsoft’s application to suspend
+the operative parts of the Commission’s order, pending the CFI’s substantive ruling
+on Microsoft’s appeal. The application was subsequently turned down,27 but
+Microsoft took the opportunity to beef up its case with additional details about
+the IP rights that would become the subject of compulsory licensing,
+if the
+Commission’s disclosure remedy was upheld. Microsoft’s communication protocols
+attract copyright (when expressed) and the written speciﬁcations for those protocols
+are preparatory design materials that also qualify for copyright protection, pur-
+suant to article 1(1) of the Software Copyright Directive.28 Like any copyright
+owner, Microsoft has the exclusive right to authorize the publication of its protected
+work. The Commission’s remedy would of course deprive Microsoft of the right to
+decide whether, and if so in what form, when and on what conditions, it could
+license the speciﬁcations. In addition, because the purpose of the Commission’s
+order was to permit Microsoft’s competitors to adapt the speciﬁcations disclosed to
+them for the purpose of developing rival products that could interoperate with
+Windows, the remedy would deprive Microsoft of its exclusive right to authorize the
+creation of derivative works.
+
+In relation to patents, the position was somewhat less clear, but Microsoft
+claimed that it had a large number of patents and patent applications that would
+cover various aspects of the implementation of the communications protocols for
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+305
+
+Duncan Curley
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+Windows client PC and server operating systems.29 Patented technology was not
+excluded from the Commission’s remedy and Microsoft asserted that such technol-
+ogy would have to be made the subject of a compulsory patent licence, if the
+Commission’s remedy was made effective. Microsoft also observed (at the interim
+measures hearing) that the effect of the proposed remedy was not limited in time, so
+that future patents granted to Microsoft would eventually be covered by the
+compulsory licensing requirement.
+
+Finally, Microsoft claimed that its communication protocols constituted valu-
+able technical interoperability information that Microsoft was prima facie entitled
+to keep secret. Before the CFI, the Commission vigorously disputed the value of the
+information that Microsoft sought to protect. It also rejected Microsoft’s assertion
+that the communication protocols were innovative and it put in evidence claiming
+that the relevant interoperability information did not include ‘‘any intrinsically
+valuable invention’’. In relation to copyright, the Commission observed that the
+fact that the speciﬁcations were protected by copyright was ‘‘purely incidental’’
+because the remedy imposed upon Microsoft by the Commission’s order obviously
+required it to draft a document.
+
+Although both sides spent a great deal of time in argument about these issues
+before the CFI, the court deftly avoided the need to determine whether—in fact—
+Microsoft had IP rights that would need to be the subject of a compulsory licence.
+The CFI noted that the Commission had adopted its decision on the assumption
+that Microsoft was the proprietor of relevant IP rights. The CFI conﬁrmed the
+correctness of this approach. The court was content to proceed on the assumption
+that the high water mark of Microsoft’s case on IP rights was proved, i.e. that the
+communication protocols (or the speciﬁcations of those protocols) were protected
+by IP rights and/or could be treated as trade secrets.30 The CFI observed that the
+real question to be resolved in the case was whether the jurisprudential conditions
+upon which a dominant undertaking may be required to grant a licence of its IP
+rights had been made out.31
+
+The Jurisprudence on Compulsory Licensing
+
+Decisions ordering the compulsory licensing of IP rights as a remedy for breach of
+competition law have been few and far between in the EU. The compulsory
+licensing remedy developed out of a line of article 82 cases concerned with refusals
+to deal by a dominant company with a weaker competitor. The line of cases starts
+with the 1974 judgment of the European Court of Justice in the case of Commercial
+Solvents v Commission.32 In brief, Commercial Solvents was the dominant supplier
+of a raw material used in the manufacture of a drug to treat tuberculosis. After a
+period of supplying the raw material to Zoja—a company that was active in the
+downstream market for the drug—supplies were unilaterally terminated, because
+Commercial Solvents decided that it wanted to supply the drug itself. The
+Commission decreed that Commercial Solvents had abused its dominant market
+
+306
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+Duncan Curley
+
+position under article 82, by refusing to supply Zoja. It ordered the resumption of
+supplies of the raw material. This decision was upheld by the Court of Justice on
+appeal.
+
+In 1988, the Court of Justice considered a refusal to license IP rights in the
+context of article 82, in the case of Volvo v Veng.33 Volvo had alleged that the
+importation and sale in the United Kingdom by Veng of front wing components for
+Volvo cars infringed Volvo’s UK-registered design. Veng alleged that Volvo was
+abusing its dominant position on the market for spare parts by refusing to grant
+Veng a licence of its IP that would enable Veng to sell the car components in the
+United Kingdom lawfully. The Court of Justice held that any obligation imposed by
+competition law on the owner of an IP right to grant a licence would take away the
+very substance of the exclusive monopoly right. The court did however say that the
+exercise of an exclusive right by the proprietor of an IP right could offend against
+article 82, if the dominant undertaking had carried out other culpable acts in
+addition to the refusal to license, such as (for example) the ﬁxing of prices for spare
+parts at an unfair level. The conclusion that was drawn from this case was that if a
+dominant company owns IP rights that enable it to prevent third parties from
+producing directly competing products, it was not an abuse per se for it to refuse to
+grant licences. Dominant undertakings would only commit an abuse of a dominant
+position within the meaning of article 82 by refusing to license their IP rights, if they
+did something more than merely exercise their legal rights to prevent their monopoly
+rights from being infringed.
+
+Magill
+
+The ﬁrst case in which IP rights were the subject of a compulsory licence ordered
+under the competition rules was the Magill decision. Mr Magill wished to publish a
+composite television (TV) programme guide for Irish viewers. Up until that point,
+consumers had had to buy separate guides for each TV channel. The Irish broad-
+casters sued Mr Magill for infringement of copyright subsisting in the list of TV
+programmes contained in their individual guides.
+
+On appeal, the Court of Justice conﬁrmed that each broadcaster was dominant
+in the market for TV scheduling information and the refusal of the broadcasters to
+license Mr Magill infringed article 82. In particular, the Court of Justice held that
+the exercise of an exclusive right such as copyright may in exceptional circumstances
+infringe article 82. The exceptional circumstances in this case included the fact, ﬁrst,
+that the refusal concerned a product (the weekly TV listings), the supply of which
+was indispensable to the proposed activity by Mr Magill, namely the publication of a
+composite TV guide. Second, the TV companies’ refusal prevented the launch of a
+new product, which the TV companies did not offer and for which there was proven
+consumer demand. Third, the refusal was not objectively justiﬁed. Fourth, the TV
+companies had effectively reserved to themselves a secondary market—the market
+for TV guides—by excluding all competition on that market.
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+307
+
+Duncan Curley
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+IMS Health
+
+In the IMS Health case, the issue was whether, in the circumstances of the case, an
+abuse had been committed when a dominant undertaking (IMS Health) had refused
+a licence to its weaker competitor (NDC) to use a database in which copyright
+subsisted. IMS Health sued NDC, then a new entrant onto the market for German
+pharmaceutical sales data, for copyright infringement. NDC asked IMS to grant it a
+copyright licence, in exchange for payment, but IMS refused. The German court
+decided to refer the question of whether IMS had the right to ﬁnal injunctive relief
+under German copyright law, if the refusal by IMS to enter into a licence with NDC
+on reasonable terms was abusive conduct within the meaning of article 82.34 The
+Court of Justice stated that in order for the refusal of a copyright owner to give
+access to a product or service that was indispensable for carrying on a particular
+business to be abusive under article 82, three conditions must be satisﬁed:
+
+
+the refusal must prevent the emergence of a new product for which there is
+potential consumer demand;
+the refusal to license by the copyright owner must be unjustiﬁed, when examined
+objectively;
+the refusal must be such as to exclude any competition on a secondary market.
+
+
+
+
+
+Since the decision in IMS Health, there has been considerable debate in the
+literature about the meaning of the judgment and its implications for dominant
+including the question as to whether IMS Health establishes an
+companies,
+exhaustive list of exceptional circumstances that must each be checked off in turn,
+before the compulsory licensing remedy may be imposed. It has been observed that
+the Court of Justice’s decision in IMS Health did not progress the understanding of
+the case law much beyond what was stated in Magill (Meinberg, 2006). Commen-
+tators have disagreed on how to reconcile the two cases, especially in the notional
+scenario of a competitor seeking to bring to market not just a new product (as in
+Magill) but a different product that infringes the IP rights of a dominant under-
+taking, but for which nonetheless there is potential customer demand (see, e.g.,
+Cook, 2004; Ong, 2004; Stothers, 2004; Temple Lang, 2004).
+
+Application to Microsoft v Commission
+
+Before the CFI, Microsoft maintained, inter alia, that none of the criteria set out in
+the IMS Health case were satisﬁed. The Commission argued that it did not follow
+from IMS Health that the circumstances in which compulsory licensing of inter-
+operability information could be ordered should be assessed solely against the
+conditions laid down in that case.35 The Commission maintained that in order to
+determine whether a refusal to deal
+it is necessary to take into
+consideration all the particular circumstances surrounding that refusal, which need
+not necessarily be the same as those identiﬁed in the previous cases.
+
+is abusive,
+
+308
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+Duncan Curley
+
+According to the Commission, there were exceptional circumstances in the
+Microsoft case that warranted a compulsory licence. These were as follows: ﬁrst, the
+fact that the information was interoperability information, interoperability being ‘‘a
+matter to which the Community legislature attaches particular importance’’;
+second, Microsoft’s overwhelming dominance in the market for PC operating
+systems and the use of its power on that market to eliminate competition on the
+adjacent work group server operating systems market; third, Microsoft’s conduct in
+initially making available interface information, establishing itself on the market
+and then disrupting previous levels of supply by subsequently refusing to disclose
+such information to its competitors (cf. Commercial Solvents).
+
+Although the strict legal position can only be clariﬁed by a further ruling from
+the Court of Justice, the CFI gave its opinion on the criteria set out in Magill and
+IMS Health. It conﬁrmed that it is only in exceptional circumstances that the
+exercise of an exclusive IP right may give rise to an abuse under article 82. The CFI
+also conﬁrmed that the IMS Health conditions are cumulative so that, when found
+together, they meet the exceptional circumstances criterion, as required by Magill.
+The CFI came up with the following, combined reﬁnement of the requirements in
+Magill and IMS Health: 36
+
+Once it is established that the following set of circumstances prevail, the refusal by
+the holder of a dominant position to grant a licence may infringe Article 82,
+unless the refusal is objectively justiﬁed:
+
+ the refusal must relate to a product or service indispensable to the exercise of a
+particular activity on a neighbouring market;
+ the refusal is of such a kind as to exclude any effective competition on that
+neighbouring market;
+ the refusal must prevent the appearance of a new product for which there is
+potential consumer demand.
+
+The CFI then proceeded to consider whether each of these circumstances was
+
+present in the Microsoft case.
+
+The Indispensable Nature of the Interoperability Information
+
+Microsoft challenged the Commission’s ﬁnding that interoperability with the client
+PC operating system was of signiﬁcant competitive importance in the market for
+work group server operating systems. Noting that such factual questions were only
+subject to limited review by the community courts, the CFI refuted this challenge.37
+The court conﬁrmed the Commission’s conclusion that interoperability considera-
+tions play a key role in consumers’ decisions about whether to purchase work group
+server operating systems. It found that, in light of the privileged, technical links that
+Microsoft had established between its Windows client PC and work group server
+operating systems and the fact that Windows is present on virtually all client PCs
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+309
+
+Duncan Curley
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+installed within organizations, Microsoft was able to impose the Windows domain
+architecture as the de facto standard for work group computing. The consequence
+of this was that interoperability with Windows was key to other work group server
+operating systems, if they were to remain viably on the market.
+
+The Risk of Elimination of Competition
+
+Microsoft argued that the refusal to disclose interoperability information was not
+such as to exclude all competition on a secondary market, in this case the market for
+work group server operating systems. It noted that the Commission had based its
+ﬁnding of a breach of article 82 on the mere risk of elimination of competition.
+Microsoft claimed that in the cases dealing with compulsory licensing of IP rights,
+the community courts had adopted a more stringent test, requiring a high
+probability of effective competition being eliminated. Microsoft also claimed that
+the perceived risk to competition elaborated by the Commission was contradicted
+by the state of the market in the real world, since the refusal by Microsoft of Sun’s
+request in 1998. Although 6 years had elapsed before the Commission issued its
+decision in 2004, there were still numerous competitors on the market for work
+group server operating systems, including IBM, Novell and Sun, not to mention the
+emergence of Linux.
+
+The CFI was robust in its dismissal of Microsoft’s arguments, particularly the
+complaint about the alleged higher standard of proof for the elimination of
+competition, which the court found to be ‘‘purely one of terminology and wholly
+irrelevant’’.38 Having considered the factual evidence assembled by the Commission
+during the investigative procedure, the CFI conﬁrmed the Commission’s ﬁnding
+that Microsoft’s refusal to disclose interoperability information meant that its
+competitors’ products were conﬁned to marginal market positions. The CFI
+concluded that the fact that there was still marginal competition between operators
+on the market did not vitiate the Commission’s ﬁnding that all effective competition
+was at risk of being eliminated.39
+
+The New Product Criterion
+
+Arguably, one of the weaknesses in the Commission’s initial decision was that it did
+not ﬁnd that Microsoft was suppressing a new product (as required by Magill)
+by refusing to supply interoperability information. As Microsoft pointed out, there
+were other work group server operating systems available on the market from
+other vendors, such as Linux. Citing in particular the ﬁrst IMS Health criterion,
+which states that a refusal must prevent the emergence of a new product for
+which there is a potential consumer demand, Microsoft criticized the Commission’s
+decision. It said that the Commission had failed to identify any new product
+that Microsoft’s competitors would develop using the communications protocols,
+nor had the decision identiﬁed any demand on the part of consumers for such
+a product.
+
+310
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+Duncan Curley
+
+In an important section of its judgment, the CFI emphasized that whether
+Microsoft’s conduct prevented the appearance of a new product fell to be assessed
+under article 82(b), which prohibits abusive practices that consist of ‘‘limiting
+production, markets or technical developments to the . . . prejudice of consumers’’.
+It stated that:
+
+The circumstance relating to the appearance of a new product [as
+prefaced in Magill and IMS Health] cannot be the only parameter
+which determines whether a refusal to license an intellectual property
+right is capable of causing prejudice to consumers within the meaning of
+Article 82(b). As that provision states, such prejudice may arise where
+there is a limitation not only of production or markets, but also of
+technical development.40
+
+The Commission had found that Microsoft’s refusal to disclose interoperability
+information put its competitors’ products at a disadvantage, particularly with
+regard to properties such as security, reliability, ease of use or operating perfor-
+mance speed. The CFI approved the Commission’s ﬁnding that if Microsoft’s
+competitors had access to the interoperability information, they could use that
+information to make advanced features of their own products available within a
+Windows domain, thus facilitating technical development:
+
+. . . the contested decision rests on the concept that, once the obstacle
+represented for Microsoft’s competitors by the insufﬁcient degree of
+interoperability with the Windows domain architecture has been
+removed, those competitors will be able to offer work group server
+operating systems which, far from merely reproducing the Windows
+systems already on the market, will be distinguished from those systems
+with respect to parameters which consumers consider important . . . .41
+
+The CFI was not persuaded by Microsoft’s argument that no consumers had
+actually complained that they had been forced to adopt a Windows work group
+server operating system because of a lack of choice. The CFI made the point that
+when customers were confronted with a choice as to whether to put up with
+interoperability problems rendering their business processes cumbersome and
+inefﬁcient, they were bound to opt for an alternative, homogenous Windows-based
+solution for their work group network instead.42 The CFI noted that it was settled
+law that article 82 covered not only practices that affect consumers directly, but also
+those that indirectly affect consumers by impairing an effective competitive
+structure.43
+
+In conclusion, the CFI afﬁrmed the Commission’s ﬁnding that Microsoft’s
+refusal to disclose interoperability information limited technical development to the
+prejudice of consumers, contrary to article 82(b). Although the Commission had
+not expressly dealt in its decision with the new product criterion in IMS Health, on
+the basis that Microsoft’s refusal limited the technical development of new products
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+311
+
+Duncan Curley
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+by its competitors, the CFI was content to ﬁnd that this criterion was indeed
+satisﬁed.44
+
+Objective Justiﬁcation
+
+Incentives to Innovate
+Microsoft argued that its conduct in refusing to supply interoperability information
+was objectively justiﬁable. It held IP rights over the technology concerned and it
+had made signiﬁcant investments in designing its communication protocols. If
+Microsoft was forced to license out this interface information, it would take away
+Microsoft’s own incentives to continue with further innovations in this area.
+
+In coming to its initial decision, the Commission had focused on the effect of
+Microsoft’s refusal to supply interoperability information on the overall level of
+innovation in the software industry. The Commission alleged that the effect of
+Microsoft’s refusal to supply the requisite information would be to force the market
+to migrate towards an industry standard for work group server operating systems
+based on Windows, thereby discouraging other companies from coming up with
+innovative solutions of their own and limiting technical development to the
+prejudice of consumers. In short, Microsoft’s refusal would adversely affect the
+incentives of others to innovate and so prevent the emergence of new products in the
+future. The Commission had concluded that by ordering disclosure, there would be
+an overall positive effect on incentives to innovate in the rest of the industry, as well
+as on Microsoft.45 These considerations outweighed the potential negative impact
+of a compulsory licence on Microsoft’s own incentives to innovate.
+
+The Commission’s ‘‘balancing’’ of incentives to innovate in its Microsoft
+decision has been the subject of considerable discussion in the literature (K ¨uhn
+and Van Reenen, 2007; L ´eveˆ que, 2005). This particular aspect of the decision was
+vigorously attacked by Microsoft before the CFI as marking a radical departure
+from the case law, asserting that the Commission’s ‘‘balancing test’’ was legally
+defective, vague and could have unforeseen consequences. Microsoft contended
+that the application of the test would have the effect of reducing the incentives of
+dominant undertakings to invest in research and development, because they might
+have to share the fruits of their efforts with others. It criticized the Commission for
+making no attempt to quantify the negative impact of the compulsory licensing
+remedy on Microsoft’s competitors, who (Microsoft said) would ‘‘wait and see’’
+what technology they could obtain under licence, rather than developing their own
+technology.
+
+The CFI found that Microsoft had not sufﬁciently discharged its burden of
+proof concerning the negative effects that would be caused by the disclosure
+order.46 In this speciﬁc context, the CFI noted that it was normal practice in the
+IT industry to disclose interface information to third parties to facilitate interoper-
+ability between products. Furthermore, the disclosures made under the United
+States settlement and the Microsoft Communications Protocols Licensing Program
+
+312
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+Duncan Curley
+
+(as regards client-to-server communication protocols) had had no discernible
+negative impact on Microsoft’s incentives to innovate.47 In relation to the
+controversial ‘‘balancing test’’, the CFI re-examined in careful detail the Commis-
+sion’s original decision. It noted that the Commission had proceeded in accordance
+with the case law, by ﬁrst establishing that the exceptional circumstances identiﬁed
+by the Court of Justice in Magill and IMS Health were present. Having established
+that there were indeed exceptional circumstances, the Commission had then,
+correctly, moved on to consider whether the justiﬁcation put forward by Microsoft
+for its conduct—the negative effect on its incentives to innovate—should,
+objectively, prevail over the exceptional circumstances that the Commission had
+identiﬁed.
+
+The CFI conﬁrmed that the Commission’s conclusion (that Microsoft’s justi-
+ﬁcation was inadequate) was soundly based, when judged objectively against a
+range of criteria. These included the fact that the Commission had successfully
+refuted Microsoft’s arguments about the cloning of its products, the fact that the
+Commission had established that disclosure of interoperability information was
+widespread in the software industry and also that a commitment made by IBM to
+the Commission in 1984 was not substantially different from what Microsoft was
+being obliged to do pursuant to the Commission’s order.48 The CFI was adamant
+that the Commission had not employed a novel incentives to innovate ‘‘balancing
+test’’ in this assessment. This seems to be a somewhat charitable reading of the
+Commission’s decision, although the CFI was probably right in that the outcome of
+the case did not depend upon the Commission’s application (or not) of this new test.
+When scrutinized, Microsoft’s attempted justiﬁcation was simply too vague and
+imprecise to outweigh the objective factual evidence that the Commission had
+ranged against it.
+
+Mandating Access: The Public Interest
+
+The CFI ruled that the mere fact that Microsoft’s communication protocols (or the
+speciﬁcations for those protocols) were covered by IP rights could not be an
+objective justiﬁcation within the meaning of IMS Health. The court pointed
+out that Microsoft’s argument was ‘‘inconsistent with the raison d’eˆtre of the
+exception’’49 that the jurisprudence recognizes in favour of free competition. In a
+highly pertinent section of the judgment, the CFI explains the rationale for
+this exception:
+
+. . . . the Community judicature considers that the fact that the holder of
+an intellectual property right can exploit that right solely for his own
+beneﬁt constitutes the very substance of his exclusive right. Accordingly,
+a simple refusal, even on the part of an undertaking in a dominant
+position, to grant a licence to a third party cannot in itself constitute an
+abuse of a dominant position within the meaning of Article 82. It is only
+when it is accompanied by exceptional circumstances such as those
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+313
+
+Duncan Curley
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+hereto envisaged in the caselaw that such a refusal can be characterised
+as abusive and that, accordingly, it is permissible, in the public interest in
+maintaining effective competition on the market, to encroach upon the
+exclusive right of the holder of the intellectual property right by
+requiring him to grant licences to third parties seeking to enter or
+remain on that market.50
+
+Conﬁdential information and trade secrets also have no immunity, the CFI
+having dismissed Microsoft’s argument that the fact that the relevant technology
+was secret and of signiﬁcant value to licensees provided objective justiﬁcation for its
+refusal to disclose. The withholding of information was, said the CFI, a unilateral
+business decision on Microsoft’s part and there was no reason why secret technol-
+ogy should enjoy a higher level of protection than technology that had been
+disclosed to the public, for example in a patent speciﬁcation.51
+
+Discussion
+
+The public interest exception referred to by the CFI corresponds to a similar
+exception in the United States, where the courts have conﬁrmed that IP rights
+are essentially no different to other property rights, in terms of their lack of
+immunity from the anti-trust rules (Anderman, 2004; Merges, 1999). However, US
+anti-trust regulators have said publicly that the compulsory licensing remedy must
+be kept strictly within bounds, bearing in mind the potential for regulators to get it
+wrong, which carries with it the risk of a chilling effect on innovation (Delrahim,
+2004).
+
+Before the Microsoft decision, a number of commentators had been unable to
+credit the idea that the principles set out in Magill should be applied across the
+board, to all IP rights (Meinberg, 2006; Reimann, 2004). In giving judgment in a
+case heard in the specialist UK Patents Court in 1998, Mr Justice Laddie (as he then
+was) doubted whether the ‘‘exceptional circumstances’’ criterion in Magill applied
+to patents.52 The trivial nature of the right subsisting in a simple list of TV
+programmes that was in issue in Magill led some commentators to speculate as
+to whether Magill was a rare example of the community courts’ disapproval of
+‘‘disproportionate leverage’’, i.e. ‘‘small’’ property rights being used to effect a scale
+of commercial leverage that was not in proportion to the degree of creativity that
+had been exerted (Korah, 1996). Such cases might be classiﬁed as copyright misuse
+in the United States53 (see also Merges, 1999).
+
+The sweeping nature of the CFI’s judgment in the Microsoft case represents a
+potentially signiﬁcant shift in the EU case law, or at least an important clariﬁcation.
+It dilutes the apparently stringent test for compulsory licensing previously set out in
+Volvo v Veng and Magill. The CFI has conﬁrmed that the IP rights of companies—
+including patents—are no more immune from competition law than any other kinds
+of assets, if the regulator can articulate clear concerns about market structure,
+competition and future effects on innovation.
+
+314
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+Duncan Curley
+
+Conclusions
+It is worth emphasizing that the facts of the Microsoft case were unusual. It has
+already been noted that in reaching its decision, the Commission attached sig-
+niﬁcance to aspects of Microsoft’s past behaviour, speciﬁcally, the change in
+Microsoft’s policy relating to the disclosure of interoperability information at a
+time when it was seeking to increase its share in the market for work group server
+operating systems.
+
+Anti-trust regulators on both sides of the Atlantic acknowledge that it is more
+appropriate to focus on the actual economic effects that result from certain
+behaviours, rather than having rules set in stone that automatically condemn
+speciﬁc activities. In recent years, EU competition policy has certainly moved away
+from the rigid application of rules that typiﬁed the Commission’s decisional practice
+during the 1960s and 70s. The Commission now has a progressive, economics-based
+policy under article 81 that recognizes (for example) that cooperation between
+companies can sometimes assist in the development and exploitation of new
+technologies, thereby enabling more and better products to be brought to market
+and allowing greater consumer choice.
+
+Despite the publication by the Commission of a review of exclusionary abuses
+in December 2005,54 European policy on unilateral conduct has not been reformed
+and the Commission still applies form-based rules, based on assumptions of harm,
+in applying article 82. The consequence of this is that abuses are categorized (e.g.
+‘‘tying’’ and ‘‘refusals to deal’’) and condemned, without necessarily examining in
+detail the actual economic impact of the activities of a dominant ﬁrm in any
+particular case. In the Microsoft case, for example, the fact that the Windows PC
+operating system provides a platform for others to innovate in order to bring new
+applications to market with a guarantee of reaching the majority of consumers was
+not a matter for consideration under article 82.
+
+Those advocating a traditionalist approach to anti-trust enforcement in the
+EU would no doubt condemn the exercise of market power that could result in a
+more monopolistic market structure. For the CFI at least,
+it seems that the
+Microsoft case fell into this category. The Commission’s decision was essentially
+predicated on a perceived risk to future competition, which is acceptable under an
+analysis of unilateral conduct under article 82, as conﬁrmed by the CFI. However,
+the decision has drawn criticism from US anti-trust regulators as potentially
+harming consumers by chilling innovation and discouraging competition.55 The
+EU ruling was intended to encourage alternative poles of innovation within the
+software industry, but only time will tell if the Commission’s disclosure remedy
+achieves this goal.
+
+Finally, a question for IP rights-holders is whether the CFI’s Microsoft
+judgment has broader signiﬁcance for the technology strategies and IP leveraging
+policies of undertakings with signiﬁcant market shares. The judgment raises
+the spectre of business decisions (such as choosing a licensee) being over-ridden
+at some point in the future by the EU competition rules, with obvious knock-on
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+315
+
+Duncan Curley
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+effects for commercial decisions about whether to invest in a particular area of
+technology.
+
+About the Author
+
+Dr Duncan Curley is a solicitor at Innovate Legal, London, UK.
+
+He qualiﬁed in 1995 at Clifford Chance and in 2003 he became a partner in the
+intellectual property, media and technology department at McDermott, Will &
+Emery. In 2007, Dr Curley founded a new IP law ﬁrm, Innovate Legal. Dr Curley’s
+practice consists predominantly of patent and trade mark litigation in the English
+courts. He is a specialist in dealing with anti-trust counterclaims in the context of IP
+disputes, having acted in one of the major UK cases on ‘‘Eurodefences’’ (Sandvik v
+Pﬁffner, patents) and in the case of Sportswear v Stonestyle (trademarks). Dr Curley
+is a frequent speaker on IP issues, including a recent participation on a panel
+discussion of IP/anti-trust issues at the IP Business Congress in Amsterdam (June
+2008). His publications include a report on Supplementary Protection Certiﬁcates
+(Extending Rewards for Innovative Drug Development), originally commissioned for
+the UK Government’s review of the intellectual property system. Dr Curley is also
+the author of Intellectual Property Licences and Technology Transfer, a book on the
+European Technology Transfer Block Exemption Regulation, and numerous legal
+articles and opinions in journals such as European Intellectual Property Review and
+Patent World. Dr Curley is a member of Council of the Intellectual Property
+Institute, he is an associate member of the Chartered Institute of Patent Attorneys
+in the United Kingdom and a member of the Laws Committee of the Licensing
+Executives Society (Britain and Ireland section); e-mail: duncancurley@innovate
+legal.co.uk
+
+Notes
+
+The author is grateful to Microsoft for ﬁnancial support in the preparation of this paper. All
+views expressed are the author’s own and not necessarily shared by Microsoft.
+
+1 Case T-201/04: Judgment (hereafter the CFI Judgment) of the Court of First Instance
+(Grand Chamber) on the Application by Microsoft Corp. for annulment of Commission
+Decision 2007/53/EC of 24 March 2004.
+
+2 Microsoft has recently appealed a ﬁne imposed by the Commission for non-compliance
+
+with its 24 March 2004 decision, but not the substantive judgment of the CFI.
+
+3 Case COMP/C-3/37.792 Microsoft [2007] OJ L32/23/ (hereafter referred to as the
+
+‘‘Commission’s Decision’’).
+
+4 [2007] OJ C306/1, as amended by the Treaty of Lisbon, signed at Lisbon, 13 December
+
+2007 (now the Treaty on the Functioning of the European Union).
+
+5 [1995] ECR I-743.
+6 [2004] ECR I-5039.
+7 It is instructive to note that in addition to the two main protagonists in the case, by the
+time of the main hearing before the CFI in April 2006, there were no less than 14 further
+
+316
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+Duncan Curley
+
+companies and trade associations who had been given leave to intervene in the
+proceedings in support of one party or another.
+
+8 According to the deﬁnition on the website of the Free Software Foundation (available at
+http://www.fsf.org [Accessed on December 2007]), ‘‘free software’’ is a matter of liberty,
+not price: ‘‘Free software is a matter of the users’ freedom to run, copy, distribute, study,
+change and improve the software’’. It refers to four kinds of freedom for the users of the
+software: the freedom to run the program, for any purpose; the freedom to study how
+the program works and adapt it to the user’s needs; the freedom to redistribute copies;
+the freedom to improve the program and release those improvements to the public, so
+that the whole community beneﬁts.
+
+9 Supra n. 4.
+
+10 Commission Notice 2004/C101/02: Guidelines on the Application of article 81 of the EC
+
+Treaty to Technology Transfer Agreements.
+
+11 At paragraphs 210–35.
+12 The so-called ordoliberal approach to competition policy underlying article 82 (see
+
+Ngwe and Rose, 2007; Van Miert, 1998).
+
+13 United States v Microsoft Corporation, Civil Action No. 98-1232 and 1232 (TPJ),
+
+described in detail in Gordon (2003).
+
+14 Commission Decision, supra n. 3, recital 431.
+15 Windows XP N was released in June 2005 and Windows Vista was subsequently released
+
+in Europe in two versions, one with the Media Player functionality removed.
+
+16 Commission Decision, supra n. 3, recital 53.
+17 In June 2004, the US Court of Appeals afﬁrmed the settlement that Microsoft had
+
+reached with the US Department of Justice and several US states.
+
+18 In May 2006, Microsoft agreed to extend its communications protocols licensing
+
+program until 2009.
+
+19 Commission Decision, supra n. 3, recital 277.
+20 Ibid., recital 499.
+21 Proposal by the European Commission for a Directive on the patentability of computer-
+
+implemented inventions COM (2002) 92 ﬁnal.
+22 Commission Decision, supra n. 3, article 1(1).
+23 Paris Act, 24 July 1971 as amended on 29 September 1979.
+24 CFI Judgment, supra n. 1, paragraph 227.
+25 As reported in the Financial Times, 27 April 2006.
+26 Footnote 249 to recital 190 in the Commission Decision, supra n. 3
+27 By order of the President of the CFI in a judgment dated 22 December 2004, [2004] ECR
+
+II-4463.
+
+28 ‘‘For the purposes of this Directive, the term ‘‘computer program’’ shall include their
+
+preparatory design material.’’
+
+29 Including, for example, European patent 0438571 B1 ‘‘Method and system for open ﬁle
+
+caching in a networked computer system’’.
+
+30 CFI Judgment, supra n. 1, paragraphs 283–9.
+31 Ibid., paragraph 290.
+32 [1974] ECR 223.
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+317
+
+Duncan Curley
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+33 [1988] ECR 6211.
+34 The form of the questions referred is helpfully set out at the end of the article by Stothers
+
+(2004).
+
+35 Consistent with the position it took in its subsequent discussion paper on the application
+
+of article 82 of the Treaty to exclusionary abuses (at paragraph 242).
+
+36 CFI Judgment, supra n. 1, paragraph 332.
+37 Ibid., paragraphs 379 et seq. See, for example, Case C-120/97, Upjohn [1999] ECR I-223,
+
+paragraph 34 and Case T-179/00, A. Menarini v Commission [2002] ECR II-2879,
+paragraphs 44 and 45.
+
+38 Ibid., paragraph 561.
+39 Ibid., paragraph 563.
+40 Ibid., paragraph 647.
+41 Ibid., paragraph 656.
+42 Ibid., paragraph 662.
+43 Ibid., paragraph 664.
+44 Ibid., paragraph 665.
+45 Commission Decision, supra n. 3, recital 783.
+46 CFI Judgment, supra n. 1, paragraphs 704 et seq.
+47 In the interests of balance, it should be noted that there is no concrete evidence that the
+US remedy has had any positive material impact on market outcomes either: Evans et al.
+(2005).
+
+48 CFI Judgment, supra n. 1, paragraph 710.
+49 Ibid., paragraph 690.
+50 Ibid., paragraph 691.
+51 Ibid., paragraph 693.
+52 (1998) 2 CMLR 839.
+53 As in the US case Alcatel USA Inc. v DGI Technology Inc. 166 F.3d 772 (5th
+
+Circuit1999).
+
+54 DG Competition discussion paper on the application of article 82 (ibid.).
+55 Comments of Mr Thomas Barnett, as noted in the Financial Times, 23 September 2007.
+
+References
+
+Anderman, S. (2004) ‘Does the Microsoft Case Offer a New Paradigm for the ‘‘Exceptional
+
+Circumstances’’ Test and Compulsory Copyright Licenses under EC Competition
+Law?’, The Competition Law Review, 1(2), 7–22.
+
+Buono, F. M. (2005) ‘‘Interoperability’’, Not ‘‘Interchangeability’’: The Importance of a
+
+Proper Approach to Deﬁning and Achieving ‘‘Interoperability’’ to Enhance Competition,
+Innovation and Consumer Choice in the Information Technology Marketplace [online].
+Available at hhttp://www.metrocorpcounsel.com/current.php?artType=view&art
+Month=February&artYear=2007&EntryNo=73i [Accessed December 2007].
+Buono, F. M. and Sieverding, M. (2007) ‘GPL Version 3: Two Steps Back for Open
+
+Source Licensing, Interoperability, and Open Innovation?’, Les Nouvelles, XLII(2),
+405–12.
+
+Cook, T. (2004) ‘Has Copyright Hit the Wall?’, Copyright World, 142, 20–2.
+
+318
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+Duncan Curley
+
+Curley, D. (2004) Intellectual Property Licences and Technology Transfer. Chandos
+
+Publishing, Oxford.
+
+Curley, D. (2006) ‘Balancing Intellectual Property Rights and Competition Law in a
+
+Dynamic, Knowledge-Based European Economy’, in M. Pugatch (ed.), The Intellectual
+Property Debate. Edward Elgar, Cheltenham, pp. 213–29.
+
+Curley, D. and Garrod, D. (2004) ‘European Technology Transfer Regulation Embraces
+
+Software Licences—But Is It All Good News?’, Computers and Law, 15(1), 21.
+
+Czarnota, B. and Hart, R. J. (1991) Legal Protection of Computer Programs in Europe—A
+
+Guide to the EC Directive. Butterworths, London, p. 82.
+
+Delrahim, M. (2004) Forcing Firms to Share the Sandbox: Compulsory Licensing of
+
+Intellectual Property Rights and Antitrust, speech to the British Institute of International
+and Comparative Law, 10 May [online]. Available at hhttp://www.usdoj.gov/atr/public/
+speeches/203627.htmi [Accessed December 2007].
+
+Dolmans, M. and Graf, T. (2004) ‘Analysis of Tying Under Article 82 EC: The European
+Commission’s Microsoft Decision in Perspective’, World Competition, 27(2), 225–44.
+Evans, D. S., Nichols, A. L. and Schmalensee, R. (2005) ‘United States v Microsoft: Did
+
+Consumers Win?’, Journal of Competition Law and Economics, 1(3), 497–539.
+
+Gordon, R. L. (2003) Antitrust Abuse in the New Economy: The Microsoft Case. Edward
+
+Elgar, Cheltenham.
+
+Hart, R. J. (2006) ‘Interoperability Information and the Microsoft Decision’, European
+
+Intellectual Property Review, 7, 361–5.
+
+Kairo, J. and Paulweber, M. (2001) ‘High Technology Industries, Private Restraints on
+
+Innovation, and EU Antitrust Law: The European Approach to Market Analysis of
+R&D Competition Part II’, RTkom, 2, 68–78.
+
+Kappos, D. and Strimaitis, R. (2006) ‘Why Collaboration is Crucial’, Managing Intellectual
+
+Property, December 2006/January 2007, 31–3.
+
+Korah, V. (1996) Technology Transfer Agreements and the EC Competition Rules. Clarendon
+
+Press, Oxford, p. 54.
+
+K ¨uhn, K. U. and Van Reenen, J. (2007) Interoperability and Market Foreclosure in the
+
+European Microsoft Case [online]. Available at hhttp://papers.ssrn.com/sol3/
+papers.cfm?abstract_id=1013929i [Accessed December 2007].
+
+K ¨uhn, K. U., Stillman, R. and Caffara, C. (2005) ‘Economic Theories of Bundling and their
+
+Policy Implications in Abuse Cases: An Assessment in Light of the Microsoft Case’,
+European Competition Journal, 1, 85–122.
+
+L ´eveˆ que, F. (2005) Innovation, Leveraging and Essential Facilities: Interoperability Licensing
+in the EU Microsoft Case [online]. Available at hhttp://www.cerna.ensmp.fr/Documents/
+FL-Ms-WorldCompetition.pdfi [Accessed December 2007].
+
+Mahony, I. G. and Naughton, E. J. (2004) ‘Open Source Software Monetized: Out of the
+
+Bazaar and into Big Business’, Computer & Internet Lawyer, 21(10), 1–17.
+
+Marsland, R. (2003) ‘Reconstructing Microsoft: The New Marshall Plan’, Intellectual Asset
+
+Management, 2, 15–8.
+
+Meinberg, H. (2006) ‘From Magill to IMS Health: The New Product Requirement and the
+
+Diversity of Intellectual Property Rights’, European Intellectual Property Review, 7,
+398–403.
+
+Merges, R. P. (1999) Who Owns the Charles River Bridge? Intellectual Property and
+
+Competition in the Software Industry, UC Berkeley Public Law and Legal Theory
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+319
+
+Duncan Curley
+
+Interoperability and Other Issues at the IP–Anti-trust Interface
+
+Working Paper Series (No.15), downloaded from the Social Science Research Network
+[online]. Available at hhttp://papers.ssrn.com/sol3/papers.cfm?abstract_id=208089i
+[Accessed December 2007] .
+
+Ngwe, C. and Rose, I. (2007) ‘The Ordoliberal Tradition in the European Union, its Inﬂuence
+
+on Article 82 EC and the IBA’s Comments on the Article 82 EC Discussion Paper’,
+Competition Law International, February, 3(1) 8–12.
+
+Ong, B. (2004) ‘Anti-competitive Refusals to Grant Copyright Licences: Reﬂections on the
+
+IMS Saga’, European Intellectual Property Review, 11, 505–14.
+
+Reimann, C. (2004) ‘Essential Function vs Essential Facility: Deﬁning the Amount of R&D
+
+Protection in High-Tech Industries After IMS and Microsoft’, The Competition Law
+Review, 1(2), 49–64.
+
+Stothers, C. (2004) ‘IMS Health and its Implicatons for Compulsory Licensing in Europe’,
+
+European Intellectual Property Review, 10, 467–72.
+
+Temple Lang, J. (2004) ‘Mandating Access: The Principles and the Problems in Intellectual
+
+Property and Competition Policy’, European Business Law Review, 1087–113.
+
+Van Miert, K. (1998) The Future of European Competition Policy, speech of 17 September
+
+1998 [online]. Available at hhttp://ec.europa.eu/comm/competition/speeches/text/sp
+1998_042_en.htmli [Accessed December 2007].
+
+Zuck, J. (2005) ‘Public Services Interoperability in Europe’, European Review of Political
+
+Technologies [online], 3. Available at hhttp://www.politech-institute.org/review/articles/
+ZUCK_Jonathan_volume_3.pdfi [Accessed December 2007].
+
+320
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2008) Vol. 11, no. 4
+
+

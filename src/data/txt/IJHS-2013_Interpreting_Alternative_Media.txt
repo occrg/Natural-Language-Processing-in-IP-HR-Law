@@ -1,0 +1,1148 @@
+International Journal of Heritage Studies
+
+ISSN: 1352-7258 (Print) 1470-3610 (Online) Journal homepage: https://www.tandfonline.com/loi/rjhs20
+
+It’s hard to be down when you’re up: interpreting
+cultural heritage through alternative media
+
+Daniel Michon & Ahmed El Antably
+
+To cite this article: Daniel Michon & Ahmed El Antably (2013) It’s hard to be down when you’re up:
+interpreting cultural heritage through alternative media, International Journal of Heritage Studies,
+19:1, 16-40, DOI: 10.1080/13527258.2011.633539
+To link to this article:  https://doi.org/10.1080/13527258.2011.633539
+
+Published online: 24 Jan 2012.
+
+Submit your article to this journal 
+
+Article views: 649
+
+Citing articles: 2 View citing articles 
+
+Full Terms & Conditions of access and use can be found at
+
+https://www.tandfonline.com/action/journalInformation?journalCode=rjhs20
+
+International Journal of Heritage Studies, 2013
+Vol. 19, No. 1, 16–40, http://dx.doi.org/10.1080/13527258.2011.633539
+
+It’s hard to be down when you’re up: interpreting cultural
+heritage through alternative media
+Daniel Michona* and Ahmed El Antablyb
+
+aDepartment of Religious Studies, Claremont McKenna College, 850 Columbia Avenue,
+Claremont, CA 91711, USA; bDepartment of Architecture, University of California, 470
+Wurster Hall, Berkeley, CA 94720, USA
+(Received 5 August 2011; ﬁnal version received 13 October 2011)
+
+Heritage places are characteristically imbued with a multiplicity of meanings
+contingent on the speciﬁcities of the society, time and space in which such
+places are perceived. The interpretation of places also depends on the
+affordances of the representational medium through which these places are per-
+ceived and the ways in which such a medium is socially deployed and inter-
+preted. Using the ancient settlement of Sirkap, located in modern-day Pakistan,
+as a case study, the present article demonstrates that a change in the representa-
+tional medium entails a change in the interpretation of archaeological records.
+Most conventional historical accounts of Sirkap use two-dimensional site maps
+and city plans as the primary media to represent the urban fabric of the ancient
+settlement. These media lend themselves to interpreting the Block D Apsidal
+Temple complex as the dominant socio-religious structure in the afﬂuent north-
+ern parts of the settlement. When the authors developed an interactive three-
+dimensional reconstruction of Sirkap using gaming technology – a medium that
+allows users, through their avatars, to explore the settlement from the standpoint
+of a pedestrian – it was immediately obvious that the aforementioned Block D
+Apsidal Temple complex did not demand such an interpretation. Instead, the
+in the afﬂuent northern parts of the settlement,
+authors argue that, at
+the northern gate, its adjacent fortiﬁcations, and the Block A stupa court were
+the dominant structures. Such an interpretation leads the authors to question the
+canonical understanding of the role of the state and its military apparatus in the
+socio-religious life of Sirkap.
+
+least
+
+Keywords: multi-user virtual environments; new media; tangible heritage; intan-
+gible heritage; place-making; Sirkap
+
+‘[A] model is judged not by the proofs advanced in support of it, but by the results it
+produces in interpretation’ (de Certeau 1984, p. 137).
+
+Introduction
+Multi-user virtual environments (MUVEs) are a new medium for researching the
+genesis and evolution of sites of cultural signiﬁcance. MUVEs are able to model
+both the tangible and intangible heritage of a site, allowing the user to obtain a
+more dynamic understanding of the culture. The present article documents the early
+
+*Corresponding author. Email: dmichon@cmc.edu
+
+Ó 2013 Taylor & Francis
+
+International Journal of Heritage Studies
+
+17
+
+stages of a cultural heritage project – ‘Virtual Sirkap’ – which captures and commu-
+nicates the interplay of context (geography), content (architecture and artefacts), and
+temporal activity (rituals and everyday life) in a MUVE leading to a unique digital
+archive of the tangible and intangible heritage of the ancient South Asian city of
+Sirkap. Sirkap is but one element of the vast archaeological complex at Taxila, a
+complex which was the ancient capital of western Punjab and is now a UNESCO
+World Heritage site located in Pakistan (Figure 1).
+
+In the ﬁrst section, ‘Thinking through media’, we introduce the powerful role
+that the media we employ play in how we think and, consequently, the effect they
+have in shaping our interpretations. We argue here that new media such as MUVEs
+can have a profound impact on the presentation and interpretation of cultural heri-
+tage sites. In the next section titled ‘Representing place’, we explicitly argue that
+we are not creating an ‘authentic and accurate’ model of the cultural heritage of Sir-
+kap. Rather, through our interpretation of the archaeological data, we are necessarily
+creating one instance of the ancient city – an instance that will bear, if we have
+been careful in our interpretation, some traces of the intents and purposes of some
+of its original creators. However, the meanings of the city will also be determined
+very much by present concerns – both those of the modellers, the Virtual Sirkap
+project team, and the users, the visitors to the site who engage the place. Once we
+have made our theoretical orientations clear the ﬁnal section of the article begins
+with a brief introduction to the ancient South Asian city of Sirkap, and quickly
+moves on to the crux of the argument. First, we highlight some of the standard
+interpretations of Sirkap based on the two-dimensional representations available.
+
+Figure 1. The location of Sirkap in the South Asian subcontinent.
+
+18
+
+D. Michon and A. El Antably
+
+We then leave the two-dimensional world behind and enter the three-dimensional
+virtual environment. We encourage readers to download the model for themselves
+so they can explore the city as we have created it;1 however, for a journal article
+such as this, we narrate the experience of walking the city for the readers. In doing
+so, we seek to demonstrate how a three-dimensional experience produces new
+insights into the cultural heritage of an ancient city.
+
+Thinking through media
+Most of the time, we, as scholars, do not pay close attention to the formative effect
+of our chosen mode of representation on our arguments. Text is the dominant mode
+of representation for communicating scholarly ideas and many have erroneously
+assumed its neutrality. However, for quite some time now, linguists, media theorists,
+and literary critics have argued against the neutrality of text. For example, in lin-
+guistics, it is well understood that our own native language is instrumental in the
+ways in which we think about and represent ideas (Wittgenstein 1968, Heidegger
+1971, Lakoff and Johnson 1980). Media theorists have detailed how text has its
+limitations, which typically emerge when a textual narrative is appropriated into a
+different medium. An example of this dissonance – an example that comes very
+close to the cultural heritage project discussed in the following pages – is when a
+novel is appropriated for the stage. A novel, according to Abbott (2002, p. 121), is
+full of gaps in its prose narrative and ‘[t]here is no way that a narrator can avoid
+calling on listeners or readers to help bridge one gap after another’. On stage, how-
+the novel’s characters are alive and actions unfold in actual time and, as
+ever,
+Abbott continues, ‘[w]hat happens is that many of these narrational gaps disappear.
+This is what happens on stage. The difference in effect is great’. Even the choice of
+tools for recording our ideas has a formative effect. Friedrich Kittler (1999) argues
+that not only do people operate upon media, but media also operate upon people.
+Perhaps the most famous statement of this effect comes from Friedrich Nietzsche
+(cited in Kittler 1999, p. 200) when he used his typewriter, rather than his pen, to
+proclaim, in an appropriately terse statement: ‘Our writing tools are also working
+on our thoughts’. Thus, transitions across time and space, from oral discourse to
+writing, from hand-copying manuscripts to the printing press, from pen to type-
+writer, to name a few, have all been transformative moments in the way we think
+about, and interpret, the world.
+
+Thus, just as Kittler details how new media technologies such as the gramo-
+phone, ﬁlm, and typewriter shattered the hegemony of the printed word in the
+in the twenty-ﬁrst century, computer-generated three-
+late nineteenth century,
+dimensional virtual environments have the potential
+to create similar seismic
+shifts (Gill 2009). That is, if history is any guide, we can expect that these new
+media will challenge and change the way we think and argue much like those
+key transformative moments in the past. For example, a two-dimensional visual-
+isation, whether a traditional map or a new geographic information system (GIS)
+computer visualisation, certainly encourages different
+thinking about space, but
+too, has limitations.2 In the interpretation of the spatial meaning of ancient
+it,
+cities,
+the scholar who engages with an archaeological site map, whether on
+paper or in GIS, has a privileged point of view – that of the ‘celestial eye’
+which, to appropriate the words of Michel de Certeau (1984, p. 92): ‘. . .makes
+the complexity of the city readable, and immobilizes its opaque mobility in a
+
+International Journal of Heritage Studies
+
+19
+
+Inhabitants may,
+
+transparent text’. Thus, for the scholar, like de Certeau’s ‘voyeur’ viewing Man-
+hattan from the 110th ﬂoor of the World Trade Center,
+the archaeological site
+map allows the whole city to be apprehended in one glance. That
+is, on the
+two-dimensional page,
+spatial everyday practices vanish, and the logic of
+the map that reveals itself is one that no inhabitant would encounter. While the
+map-reader experiences the urban fabric from above without limits, the inhabit-
+ants’ experience of a city is constrained by walls, closed doors, and limited
+sight-lines. The map-reader is subject
+to none of these restrictions, but rather
+she has a totalising view of the space devoid of its inhabitants. Further, it is not
+just the physical and visual affordances that de Certeau outlines, but he is inter-
+ested in how the inhabitants’ experience also goes beyond the limits of these
+physical determinants.
+themselves from
+taking a path that is generally considered accessible. However, while in this pro-
+ject we are interested in representing the experience of inhabiting the place from
+the standpoint of a human being, we do not want to take our appropriation of
+de Certeau’s insights too far, and thus we must be clear that trying to recover
+the everyday practices of the inhabitants of an ancient city is very, very difﬁcult.
+However, we ﬁnd that de Certeau is quite helpful when he points to the inad-
+vertent wisdom of a 1970s poster describing the wonder of visiting the World
+Trade Center, which reads: ‘It’s hard to be down when you’re up’ (Figure 2).
+In the ‘Virtual Sirkap’ project, we read this poster idiosyncratically, as does de
+to ‘be down’;
+Certeau, and we also read it as a challenge. Thus, we attempt
+that is, we attempt to represent the vantage point of the walker ‘down’ in the
+city, rather than the voyeur ‘up’ above it. The walkers in a city, as de Certeau
+argues, experience an urban fabric in a particular way, and this is the experience
+we seek, however compromised it might be by the interventions of technology
+and time.
+
+for example, prevent
+
+Representing place: erasure and formative effects
+In our view, place is a social, historical, and spatial phenomenon. By that we mean
+that the meaning of a singular, physical space changes according to the speciﬁcities
+of the society, the time, and the physical attributes in which that space is inter-
+preted.3 As such, place is not ﬁxed in any of these three dimensions. For example,
+a given classroom at an American university, as a place, may contain particular
+meanings for an American student, but have very different meanings for a Chinese
+student who just came to the USA for study. The same classroom has a third mean-
+ing for an American student who used to study in the same physical location – the
+same space – 20 years ago. And if one changes the physical settings of the class-
+room – the spatial matrix – the meaning changes for all three students. Thus, place
+is heterogeneous; it affords a multiplicity of mixed and sometimes contradicting
+meanings that are juxtaposed with each other and yet do not negate each other. A
+given classroom may be experienced simultaneously as a place of ecstasy by one
+student and as a place of agony by his classmate. Ecstasy and agony co-exist within
+the class space despite their opposing meanings, and thus the presence of one
+meaning does not necessary entail the absence of the other. The meaning of a class-
+room may also change in the mind of one student over time. It can be a place of
+ecstasy at the start of the academic semester, and then a place of agony at its end.
+The meaning of the classroom can also change in the mind of this given student
+
+20
+
+D. Michon and A. El Antably
+
+Figure 2. 1970s American poster advertising the observation deck of the World Trade
+Center.
+Note: Size, 46  30 inches.
+
+depending on the presence of one teacher or the other. In this way, the ‘meaning’
+of a space – that is, place – is presentist and contingent on the experience of the
+individual; it is not ﬁxed in some permanent past (Lefebvre 1991, Casey 2002).
+This kind of place is very, very difﬁcult to recover in the ancient city of Sirkap, but
+it might not be impossible. If we can discern individual or social meanings which
+are encoded in the physical matrix of the city, we may be able to re-present at least
+one meaning. With this said, we would like to highlight two important concerns
+about representing place: (1) the act of representation tends to signify one interpre-
+tation of the place and to erase others; and (2) the act of representation tends to
+have a formative effect on the signiﬁed place.
+
+Erasure
+The heterogeneity of place is affected by the activities not just of individuals, but
+of large social groups as well. Dominant groups typically try to impose one mean-
+ing of a given place, obviously theirs, on other groups. Thus, the place becomes an
+object of the dialectics of domination and appropriation. It
+is most often these
+
+International Journal of Heritage Studies
+
+21
+
+dominant meanings that are encoded in the architecture and writings that exist as
+artefacts in the present for archaeologists and historians to study. An example of
+the pitfalls in these interpretive processes that comes very close to our project is
+historic Colonial Williamsburg. Colonial Williamsburg is a preservation of the eigh-
+teenth-century historic district of the town of Williamsburg, Virginia. But the site is
+more than just the space; that is, it contains more than just the physical buildings
+and natural environment, the tangible heritage. Colonial Williamsburg also employs
+actors to play the roles of eighteenth-century inhabitants of the town. These actors
+recreate the intangible heritage of the site, and attempt to make space into place. In
+the early 1970s, this historical ‘recreation’ of the intangible heritage at Colonial
+Williamsburg was criticised as elitist as it ignored the harsh reality of the life of
+black Americans in the colony (Gable et al. 1992). In response to these critiques,
+the curators of Colonial Williamsburg attempted to ‘democratise’ the story. They
+sought to incorporate African-American history into the site. However, much of
+this was, as the curators put it, ‘conjectural’; that is, the history and material culture
+of such a marginalised group did not survive in a form that is readily accessible to
+us in the present. Thus, another critique arose after the interleaving of ‘conjectural’
+black history into the site. The effect of juxtaposing the dominant history of the
+white colonists with a ‘conjectural’ black history created an interesting, and disturb-
+ing, paradox: the museum, by including a black history that is ‘conjectural’ implied
+that mainstream, dominant history is ‘actual’. In other words, the inclusion of a
+previously excluded group worked to ensure the legitimacy of the mainstream,
+dominant history by making it seem more real and truthful than the history of other
+groups (Gable et al. 1992). Here, at Colonial Williamsburg, we see the difﬁculty in
+representing past history without erasing, or at least diminishing the importance of,
+much of it.
+
+We address this issue of erasure, or better for our project, the (im)possibility of
+retrieval, of certain experiences by our choice of user avatars. In Virtual Sirkap, the
+user takes on a pedestrian view in both the literal and ﬁgurative sense: the user’s
+avatar is literally represented as ‘on-foot’, but the avatar is also quite ‘pedestrian’,
+that is, commonplace and ordinary. Thus, we represent an experience of the city
+from the point of view of the commoner. However, the urban form of the city may
+not have been purposely designed to engage with the commoner, but rather, the
+urban form may reﬂect the desire to engage other classes of inhabitants such as a
+monk or a prince, and as such, perhaps the commoner’s perspective is not of pri-
+mary importance. We employ Michel de Certeau here to address these concerns. De
+Certeau argues that all places exist in a dialectical relationship between a represen-
+tation of place imposed by a dominant structure and an appropriation of the same
+place by subverted structures. To quote de Certeau (1984, p. xix):
+
+I call a ‘strategy’ the calculus of force-relationships which becomes possible when a
+subject of will and power (a proprietor, an enterprise, a city, a scientiﬁc institution)
+can be isolated from an ‘environment’. A strategy assumes a place that can be circum-
+scribed as proper (propre) and thus serve as the basis for generating relations with an
+exterior distinct from it (competitors, adversaries, ‘clientèles’, ‘targets’, or ‘objects’ of
+research). I call a ‘tactic’, on the other hand, a calculus which cannot count on a
+‘proper’ (a spatial or institutional localisation), nor thus on a borderline distinguishing
+the other as a visible totality. The place of a tactic belongs to the other. A tactic insin-
+uates itself into the other’s place, fragmentarily, without taking it over in its entirety,
+without being able to keep a distance.
+
+22
+
+D. Michon and A. El Antably
+
+For our model, what is important here is that places are in themselves representa-
+tional devices used by dominant structures of power – in our representation, perhaps
+the religious elite (the monk) or the state/military apparatus (the prince) – to impose
+a certain meaning on their dwellers – our pedestrian avatar. Dwellers, on the other
+hand, usually appropriate their own, different, meanings in their everyday use of
+these places. As contemporary scholars, we have no access to these meanings in the
+past. What we can do is to reconstruct the formal space and allow for a pedestrian
+(on-foot) experience. We could have created the look of the avatar to match a cer-
+tain class, but this would have done very little to change the ways in which users
+perceive the place. We could make conjectures based on historical studies of these
+classes, but this approach goes beyond the limits of our current study. Thus, what
+we do in the present article is compare the presentist interpretation derived from our
+three-dimensional representation with the equally presentist interpretations derived
+from more traditional media of representation such as two-dimensional maps, photo-
+graphs, and site plans. We signal the presentist nature of the model by having the
+user choose an avatar that reﬂects our contemporary culture.
+
+Formative effects
+In Virtual Sirkap, then, we are well aware that what we ‘recreate’ privileges the
+dominant groups’ history. Although we understand place as inter-subjective and het-
+erogeneous – and we accept that it has a multiplicity of meanings depending on the
+speciﬁcity of the individual, the society, and the time in which it is interpreted –
+most of the past meanings are now lost to us. Further, however, it is not just that
+only certain meanings survive the ravages of time, but the very act of representation
+ﬁxes the meaning of place according to its producer’s time and worldview. Such a
+producer can be an individual (e.g., a painter) or a group of individuals (e.g., the
+dominant media or, in this case, the Virtual Sirkap team). Edward Casey (2002)
+calls this process ‘re-emplacement’. According to Casey, the act of representing a
+place, for example in a painting or a map, is an act of a re-emplacement of this
+place. It is a subjective act in which one tries to reinstate the meaning of a place in
+a representational medium. Re-emplacement also implies a displacement. The rein-
+stated meaning of place is reinterpreted in a different place by a different society at
+a different time. This act has a formative effect on the meaning of the place. Jeff
+Malpas (2008, p. 206) sums up the problem well:
+
+. . .no attempt to recreate a place elsewhere can ever be successful as a recreation of
+‘that’ place, since the identity of the place is itself tied to its speciﬁcity and singular-
+ity, and the very attempt at ‘recreation’ marks off the ‘recreated’ place from the origi-
+nal – similarly no such ‘recreation’ can ever do justice to the original sense of place
+at issue.
+
+Further, the medium of representation itself is inherently selective in its signiﬁca-
+tion, and much depends on its technical affordances. For example, a photograph
+does not afford sound, whereas ﬁlm does. The medium is also socially constructed
+and the way in which it is perceived has an impact on the meaning it conveys. For
+example, a photograph typically suggests an actual event while a painting suggests
+artistic expression. Therefore, a re-emplacement of place through representation can
+entail a change of meaning depending on the medium of representation, the time,
+and the society in which the representation is deployed.
+
+International Journal of Heritage Studies
+
+23
+
+Similarly, the medium of representation that we employed in our project is not
+neutral. Its technical affordances and the ways in which it is socially constructed and
+deployed have a formative effect on the ways in which Virtual Sirkap is perceived.
+Our project employs a computer-generated virtual environment based on gaming
+technology. It represents place in three-dimensional perspectival constructions where
+users are represented as anthropomorphic, usually gendered, three-dimensional com-
+puter models called ‘avatars’. Through avatars, users can explore the environment
+and interact with other users and non-playing characters. The environment allows for
+a liberal visual, auditory, and kinetic experience of space in actual time.4 This sets
+this medium apart from cinematography, which affords only a restricted experience
+in a staged time and space. It also sets it apart from maps for it puts back into the
+representation the possibility of individually and socially inhabiting the place. On
+the other hand, other than sight, hearing, and kinesthesis, our medium does not
+afford the other senses. The sense of smell, for example, which is a key sense in
+market places, is absent from our reconstruction of Sirkap’s Main Street.
+
+Cartographic media and interpretation: representations of Sirkap circa 100 CE
+
+The position of Sirkap within the archaeological complex of Taxila
+Located in northern Pakistan about 22 km to the west of Islamabad and about 25
+km to the northwest of Rawalpindi, the archaeological complex at Taxila was at
+one time at the intersection of three great trade routes connecting India, Central
+Asia, and Western Asia. Its early urban form was developed in the late sixth cen-
+tury BCE, and it ﬂourished from the third century BCE to the seventh century CE.
+Its decline can be linked to changes in the trade routes and a subsequent population
+decrease (Dani 1986). The site is a vast complex of monasteries, temples, and three
+separate cities, which taken as a whole covers almost 45 km2. It was ‘discovered’
+by Alexander Cunningham in the late nineteenth century as he travelled throughout
+India following the pilgrimage routes of the Chinese monks Fa Xian, who also trav-
+elled through the Indian subcontinent in the ﬁfth century CE, and Xuan Zang, who
+did the same in the seventh century CE (Singh 2004).
+
+While Cunningham did not engage in full excavations at Taxila, he did carry
+out some preliminary digs in and around the area.5 However, it was the twentieth-
+century British archaeologist Sir John Marshall who did the most extensive work
+there from 1913 to 1934. His ﬁnds were steadily published in his yearly Annual
+Reports, and in 1951, Marshall re-published his data in a three-volume ﬁnal report
+now known simply as Taxila. Marshall (1951) wrote in his introduction: ‘in such an
+excavation there comes a time when the entire body of data has to be re-examined
+and coordinated, and a comprehensive account of the whole put at the service of
+archaeologists and historians’. Although there have been various small archaeologi-
+cal digs in the area since the publication of Taxila in 1951, Marshall’s work is by
+far the most comprehensive archaeological record of the site to date.6
+
+In Taxila Marshall identiﬁed – in addition to the myriad of temples, stupas, and
+monasteries – three separate cities. The earliest, and smallest, was located on Bhir
+Mound and was founded some time after the fourth century BCE. In the late Maur-
+yan period and during Indo-Greek rule – that is, the early second century BCE –
+much of the population moved from Bhir Mound to Sirkap. Sirkap ﬂourished from
+
+24
+
+D. Michon and A. El Antably
+
+Table 1. Chronology of habitation at Sirkap.
+
+Virtual Sirkap
+terminology
+
+Rulers
+
+Dates
+
+Settlement
+
+Phase
+
+Transitional
+
+Phase
+
+Mauryans, Indo-Greek, Indo-Scythian, Indo-
+Parthian and other kings
+Upper boundary of Settlement Phase is marked by coins of the Kushana
+king Kujula Kadphises, circa 78 CE
+Great Kushana kings: Vima Takto, Vima
+Kadphises, Kanishka I and Huvishka
+
+circa 200 BCE to mid-
+to late ﬁrst century CE
+
+circa mid- to late ﬁrst
+century CE to circa
+200 CE
+circa 200 CE to ﬁfth
+century CE
+
+High Kushana
+
+Phase
+
+Begins with reign of Vasudeva I and includes
+later Kushana and Kushana-Sassanian rulers
+
+Notes: CE, Common Era; BCE, before the Common Era.
+
+the late second/early ﬁrst century BCE to the middle of the second century CE
+under the rule of three successive groups: the Indo-Scythians, Indo-Parthians, and
+Kushanas. With the arrival of the Kushanas in the late ﬁrst century CE, the city’s
+population began to move to Sirsukh which, unfortunately, has yet to be adequately
+excavated. This period, from the late ﬁrst century CE to the middle of the second
+century CE we have called the ‘Transitional Phase’, and it is from this period that
+much of the ruins of the city belong (see Table 1). The long-term goal of the Vir-
+tual Sirkap project is to build a comprehensive model in both space and time: we
+hope not only to model the urban and extra-urban landscape, but also to present
+these landscapes through time; that is, to offer snapshots of the whole complex at
+Taxila at different historical moments. However, we have only just begun, and at
+this point, we have only modelled a small portion of the middle city of Sirkap,
+from the northern fortiﬁcations to Block D, as it might have stood around 100 CE.
+
+Scholars as voyeurs: experiencing the city while ‘being up’
+The primary site plan of the city of Sirkap, Plate 10 entitled ‘Plan of Sirkap show-
+ing the second (parthian) stratum’, is found in volume three of Marshall’s Taxila. It
+is the site plan used by almost all subsequent studies of the cultural heritage of the
+city (Figure 3). Of course, while it is the primary focus of our study in the present
+article, this two-dimensional site plan is not the only medium through which a scho-
+lar can interpret Sirkap. Photographs – including those taken by Marshall and his
+excavation team at the time of excavation, those taken by subsequent excavation
+teams and visitors to the site after Marshall, and aerial images (both the traditional
+methods of using an airplane and now the much easier method of using Google
+Earth) – and actually walking through the extant ruins are two other ways of appre-
+hending the site. Virtual Sirkap and photographs are similar in that while both are
+displayed in two-dimensional platforms, they solicit our life-long experience with
+three-dimensional objects to reconstruct in our mind the third dimension. Virtual
+Sirkap differs from photographs, however, as it affords kinesthesis – the ability to
+perceive the environment by experiencing movement through it – whereas photo-
+graphs are more like site plans in that they are static. Virtual Sirkap differs from
+walking the extant ruins in two ways: ﬁrst, the ruins at Sirkap do not preserve the
+third dimension in any helpful way. That is, what is left of the city is just the foot-
+
+International Journal of Heritage Studies
+
+25
+
+Figure 3. Marshall’s Plate 10 as found in Taxila (Marshall 1951).
+Note: Image reproduced with permission from Cambridge University Press.
+
+26
+
+D. Michon and A. El Antably
+
+print, and the visitor’s sight-lines are not impeded. Second, the norms of heritage
+site management work to order the experience for the visitor. As Sudharshan
+Seneviratne (2008, p. 190) argues:
+
+. . .the site management decorum applied at living World Heritage sites becomes an
+impediment to the free ﬂow of intangible heritage. Neatly demarcated pathways force-
+fully guiding the movement of pilgrims and visitors, restrictions imposed on certain
+types of rituals and expressions. . . and the restriction of entry after visiting hours
+(when such sites are aesthetically most appealing) tend to dilute the ‘living’ heritage
+at heritage sites. . . [they become] docile and devoid of ‘life’.
+
+Thus, the media of photographs and the act visiting the extant ruins run up against
+many of the same issues that adhere to two-dimensional site plans. Again, however,
+our focus here is the most common way of representing Sirkap, two-dimensional
+site plans and maps.
+
+Now, when we look at Marshall’s Plate 10, the two-dimensional site plan of
+Sirkap, from above – as we must when viewing it in two dimensions – three fea-
+tures of the plan visually demand our attention: the Block D Apsidal Temple com-
+plex, the northern fortiﬁcation wall, and Main Street. The ‘modern’ afﬁnity for
+order and simplicity within constructed space draws our eye away from the chaos
+of the intricate urban fabric of much of the city and towards the large swathes of
+solid white and black space – the white space created by the outer courtyard of the
+Block D Apsidal Temple complex and the black space created by the heavy foot-
+print of the fortiﬁcation wall.7 Further, the ‘modern’ desire for symmetry, most
+readily apparent in our familiarity with the grid layout of a city, impels us to focus
+on the geometric work that Main Street performs.
+
+Of these three features, perhaps the most visually captivating is the Block D
+Apsidal Temple complex. As Ahmed Dani (1986, p. 100), perhaps the foremost
+expert on Sirkap after Marshall, wrote: ‘[t]he temple [in Block D] is the most
+imposing building in the whole site of Sirkap’. We argue that this assessment is not
+primarily derived from its size, but more so from the simplicity of the architectural
+features as depicted on the two-dimensional page. It certainly is large, the whole
+complex occupies much of Block D and spills into Block C to the north. The rect-
+angular outer wall is approximately 69.4 m in length and 45 m in width, while the
+temple itself measures 39.9  15.5 m. However, it is not primarily the size of
+the structure that draws our eyes to it, as equally large structures can be found in
+the site plan but do not hold our attention in the same way. For example, the Palace
+complex in Block K is much larger, measuring approximately 106 m in length by
+97 m in width. However, the Palace complex is divided into a number of rooms
+and courts, all of which we can see in our totalising vision from above, and these
+divisions lessen its visual impact, making it seem smaller than the Block D Apsidal
+Temple complex. The Block D Apsidal Temple complex, on the other hand, has
+lots of white space both surrounding and within it, giving it a sense of mass. So, in
+the midst of the chaos of black lines that characterises most of Plate 10, our eyes
+move to this white space, and the Block D Apsidal Temple complex becomes the
+visual focus of the city.
+
+This focusing phenomenon is even stronger in the many reprints of Marshall’s
+Plate 10. The original Plate 10 was published in Taxila as a large, 25-inch-wide fold-
+out. However, very few publications allow for such a large fold-out, and so it is
+
+International Journal of Heritage Studies
+
+27
+
+Figure 4. Marshall’s Plate 10 – a reproduction from the fortiﬁcations through Block F.
+Note: Image reproduced with permission from Cambridge University Press.
+
+rarely reproduced in full. Rather, the map is divided into parts for ease of publication.
+A reproduction strategy that keeps the image most fully intact is to shrink it a bit and
+then rotate it 90° clockwise so that the north–south orientation is vertical allowing for
+the most coverage. Even in this maximal procedure, only 11 inches of the original
+
+28
+
+D. Michon and A. El Antably
+
+Figure 5. Reproduction of Marshall’s Plate 10 by the Pakistan Department of Archaeology
+and Museums outside the site itself.
+Note: Photo reproduced with permission from Usman Waqas (http://pbase.com/waqas).
+
+plate can be depicted on one page – that is, from the fortiﬁcations to Block F
+(Figure 4). More often than not, however, only a very small portion of the city is rep-
+resented – from the fortiﬁcations to Block D or E. The result of these reductions is
+twofold: (1) the larger structures that might compete for our visual attention with the
+Block D Apsidal Temple complex are not depicted; and (2) often the Block D Apsi-
+dal Temple complex is centred on the page.8 When Marshall’s Plate 10 is reduced in
+size enough to ﬁt entirely on one page, the focusing effect of the empty white space
+of the Block D Apsidal Temple complex is heightened even more.9
+
+Marshall’s Plate 10, while the most ubiquitous, is not the only representation of
+the Sirkap available. Perhaps the most striking full reproduction of Plate 10 was
+created by the Pakistan Department of Archaeology and is not in a publication at
+all. Rather, a full reproduction of Marshall’s Plate 10 stands at the entrance of the
+ruins of Sirkap. The site plan is drawn with white lines on a blue background
+(Figure 5). In this representation, the Pakistan Department of Archaeology chose to
+draw the white lines of the Block D Apsidal Temple complex in bold, which further
+distinguishes it from the rest of the city. Yet another important representation of
+Sirkap is found in A. Ghosh and Sir Mortimer Wheeler’s 1947–48 excavation
+report.10 In this plan, the Block D Apsidal Temple complex’s white space jumps
+out even more. As beﬁts the visual prominence of this structure as represented in
+the two-dimensional site maps, this complex receives the most attention in discus-
+sions of urban form and religion at Sirkap.
+
+The other two features that visually demand our attention in two-dimensional
+site plans of Sirkap are Main Street, which bisects the city, and the fortiﬁcations,
+which surround it.11 To reiterate what we said previously, the acculturated ‘modern’
+desire for symmetry and order brings our attention to Main Street (particularly in
+the full reproduction of the city site plan as in Figure 3), and the ‘modern’ empha-
+sis on simplicity brings our attention to the solid, thick black lines of the fortiﬁca-
+tion’s footprint (Figure 3). These two features, like the Block D Apsidal Temple
+complex, have received much attention from scholars who often have noted the odd
+relationship between them: the northern gate does not open out directly onto Main
+Street as one would expect, but rather is offset to the east quite a bit. This odd ori-
+entation is explained by Marshall (1951, p. 115) as a product of both defensive and
+sanitary concerns:
+
+[The offset orientation] would check any sudden rush of assailants and prevent them
+sweeping through the gateway and up the Main Street. . . [and] during the rainy season
+
+International Journal of Heritage Studies
+
+29
+
+the ﬂood-water pouring down Main Street would extend its force to some extent
+against the city wall. . . before entering the capacious underground drain which passes
+from south to north beneath the gateway.12
+
+Both of these explanations are well-founded, but perhaps not exhaustive, as we
+shall explore in the next section. That is, this understanding, or better ‘experience’,
+of the relationship between the fortiﬁcations and Main Street, just as the ‘experi-
+ence’ of the centrality of the Block D Apsidal Temple complex, is very much the
+product of the visual medium employed: the two-dimensional site map.
+
+Walking the city: experiencing Sirkap in three-dimensions
+As the title to this section suggests, and as we have noted previously, the goal of
+the Virtual Sirkap project was to create a way in which we, in the present, can
+‘walk the city’ rather than apprehend it from above. While there is still much work
+to be done – we were only able to model a very small portion of Sirkap – our
+three-dimensional virtual environment affords us that possibility. At the beginning
+of the project, we expected the interactive nature of the model to be the primary
+generator for fresh ideas. That is, we were very interested in tracking how users
+experienced the city when it was populated by non-player characters engaging in
+actions as simple as walking down the street, selling goods in the market, or offer-
+ing devotion at a shrine. And while we were able to put non-player characters into
+the model, we did so only at a very basic level. Unfortunately, there are only two
+types of non-player characters, one male and one female prototype, and we have
+yet to model the appropriate physical forms and dress for them. Further, and more
+importantly, there is very little interactivity with them: visitors can only watch them
+perform their preset tasks and cannot engage with them. The incomplete nature of
+the model as we envisioned it, however, has turned into a great boon. One of the
+great surprises in the Virtual Sirkap project was how different the experience of the
+city was even without the interactive portion completely ﬁnished. That is, the urban
+layout, when experienced from the ground up as an inhabitant of a three-dimen-
+sional world might have encountered it, provided alternative interpretations of the
+religio-political form of the city. When walking the city in three dimensions, rather
+than apprehending it in a totalising vision via the two-dimensional site plan, the
+visual dominance of the Block D Apsidal Temple complex recedes signiﬁcantly.
+One might assume, as we did, that the size of the Block D Apsidal Temple complex
+would render it visible from quite a distance;13 however, this is not the case. For
+example, when standing in the centre of Main Street between Block 1 and Block
+A, the Block D Apsidal Temple complex is barely visible (Figure 6a). In fact, one
+would already have to know it is there to realise that the small circles just above
+the far south-eastern buildings were the crests of the pillars located in the courtyard
+of the Block D Apsidal Temple complex. That is, from this vantage point, it is
+impossible to know that these circles are actually Buddhist chakra wheels mounted
+on tall pillars. Further, the visitor’s interest is drawn to the activity, the movement,
+on Main Street and not to the constructed form, thus rendering the pillars even
+more insigniﬁcant. As the visitor moves down Main Street,
+the chakra wheels
+mounted on the pillars do become more prominent (Figure 6b); however, the roof
+to the Block D Apsidal Temple does not come into view until she reaches the
+southern portion of Block C (Figure 6c). It is only when standing directly in front
+
+30
+
+D. Michon and A. El Antably
+
+Figure 6. Screen shots of an avatar ‘walking the city’ in the Virtual Sirkap project: (a)
+avatar standing between Block 1 and Block A looking north; (b) avatar standing at Block B
+looking north; (c) avatar standing at the southern end of Block C looking north; (d) avatar
+standing at Block D looking at the Apsidal Temple complex.
+
+of the Block D Apsidal Temple complex that the temple roof and a portion of the
+temple itself, rather than just the pillars, are visible (Figure 6d).
+
+The preceding description of the view of a person walking southward on Main
+Street is merely a translation of a possible course of action that can be taken in the
+model. It is much like a city tour in that the choices are pre-determined for the
+reader. However, unlike an actual tour, a textual description does not take place in
+real time. This is an important aspect of walking a city – it takes time to move from
+one spot to the next. The city cannot be apprehended all at once, but only in small
+segments. In the Virtual Sirkap model, for a visitor to change their location in the
+city they must walk to the next point. If they want to revisit a site, they must walk
+back. They are located in time and space, and their decisions must
+take these
+parameters into account. On the other hand, the location of the traditional scholar
+
+International Journal of Heritage Studies
+
+31
+
+Figure 6. (continued).
+
+engaging a two-dimensional site plan is, paradoxically, both nowhere and every-
+where at the same time. The scholar views the city from above, from an undeﬁned
+point in space, which no inhabitant of the city could attain. However, from that
+indeterminate place, that ‘God’s eye view’, the scholar, or as de Certeau calls her,
+the ‘voyeur-god’, is also, at the same time, everywhere. However, in Virtual Sirkap,
+walking, for example, in a straight line – with no stopping to look at other build-
+ings, with no stopping to look at the markets – from Block 1 to Block D (about
+150 m) takes almost two minutes. This lessens the impact of any particular build-
+ing, and in particular the Block D Apsidal Temple complex, as much of the time it
+is not within the visitor’s immediate experience.
+
+Now that the Block D Apsidal Temple complex is not assumed to be the domi-
+nant structure in the city, other structures begin to come into focus and demand our
+attention. For example, for any visitor entering the city through the northern gate
+(which we must note is only one of a number of ways to move within the city) the
+
+32
+
+D. Michon and A. El Antably
+
+Figure 7. Screen shots of an avatar entering the city through the northern gateway in the
+Virtual Sirkap project.
+
+visually dominant structure is not the Block D Apsidal Temple complex, but the
+Block A stupa court. Not only is the top of the stupa in Block A visible from the
+moment the visitor enters the city,14 but they are further drawn towards this struc-
+ture as the entrance to this stupa court opens out to Second Street and not out to
+Main Street as expected. The intentionality of this north-facing orientation is further
+conﬁrmed by the fact that the stupa itself faces north towards Second Street and the
+northern gate. The visitor, upon entering the city then, naturally walks straight from
+the northern gate to a sort of walkway leading to the entrance of the stupa court
+(Figures 6a–c).15 Thus, in addition to the previous arguments of sanitation and
+defence, we can add a third argument for the function of the odd orientation of the
+northern gate and Main Street: the three-dimensional experience informs us that
+the Block A stupa court held a privileged place in the religio-political geography of
+the city.16 New arrivals would most likely make initial offerings here, and the struc-
+ture would showcase the power of the rulers.17 This is not to discount Marshall’s
+arguments; structures can have multiple purposes, and it is quite possible that the
+‘odd’ orientation of the northern gate served to facilitate waste management, bolster
+a defensive posture, and afford an initial contact point for visitors to the city.
+
+Thus, our three-dimensional model offers hints of the importance of the socio-
+religious ideologies embedded within the urban form of Sirkap. However,
+the
+instantiation of political ideology in Sirkap’s urban form ﬁnds its most profound
+visual imprint in the ever-present fortiﬁcation walls. The fortiﬁcations do not just
+dominate the landscape when a visitor approaches the city from outside the walls
+
+International Journal of Heritage Studies
+
+33
+
+(Figure 7), but they dominate the interior of the city as well. It is not just that they
+are visible from many parts of our model, but it is that they are visually imposing
+from almost every vantage point. No matter where the visitor walks in the city, the
+fortiﬁcations loom in the background. Here,
+the state apparatus, represented by
+defensive walls and the soldiers placed within them, is decidedly present. In the
+Block A stupa court, the fortiﬁcations tower over the interior, and the visitor could
+not but be aware of the presence of the military above her (Figure 8a) – compare
+this with the photograph taken by Marshall from the same vantage point where
+the fortiﬁcation walls and northern gate dominate
+there is no indication that
+
+Illustration of the presence of fortiﬁcations throughout the city: (a) screen shots
+
+Figure 8.
+of avatar in the Block A stupa court facing northwest in the Virtual Sirkap project; (b)
+photograph from Marshall’s Taxila, Plate 23a, showing Block A stupa court looking
+northwest (photo reproduced with permission from Cambridge University Press; (c) screen
+shot of avatar at southern end of Block A facing north; (d) screen shot of avatar at southern
+end of Block D facing north; (e) screen shot of avatar in a small courtyard at the eastern
+end of Block B; (f) screen shot showing avatar in alley in Block A.
+
+34
+
+D. Michon and A. El Antably
+
+Figure 8. (continued).
+
+the fortiﬁcations are the
+(Figure 8b); on Main Street, whenever facing north,
+backdrop (Figure 8c); moving 150 m southward down Main Street, all the way to
+the Block D Apsidal Temple complex, the guard towers are a visible and distinct
+presence (Figure 8d); and in the various alleys and interior courtyards, the fortiﬁca-
+tions are present (Figure 8e and f). This ‘experience’ of the ubiquity of the fortiﬁca-
+tions is only possible in a three-dimensional environment.
+
+Conclusion
+Through the use of a three-dimensional MUVE, we have explored a multiplicity of
+meanings embedded within a small portion of the urban fabric of the ancient settle-
+ment of Sirkap. We contrasted these meanings with those derived from the more
+traditional medium of the two-dimensional site plan and concluded that traditional
+interpretations often overvalue the socio-religious impact of the Block D Apsidal
+
+International Journal of Heritage Studies
+
+35
+
+Figure 8. (continued).
+
+Temple complex,
+leaving the powerful visual statements made by the Block A
+Stupa Court, the northern gate, and the fortiﬁcations under-interpreted. However,
+we need to be very clear here: this does not mean that the Block D Apsidal Temple
+complex was not an important socio-religious site, in fact, at certain times, for
+certain inhabitants, and in certain ‘walkings’ of the city it surely was the dominant
+structure. However, it is also important to recognise that in some ‘walkings’ of the
+city, for example the one outlined previously where the visitor enters from the
+northern gates and walks southward down Main Street, the Block D Apsidal Tem-
+ple complex recedes from view, and other structures emerge. Further, the meanings
+we have identiﬁed can only be provisional, as we need to model so much more of
+the site. How would having a complete model of the excavated portion of Sirkap,
+not just the northern blocks, affect the experience of the city? How would entering
+from one of the other two gates affect the experience? And even beyond the urban
+
+36
+
+D. Michon and A. El Antably
+
+fabric, how would modelling the extra-urban monasteries, stupas, and temples affect
+the experience of the walled city? For example, surely the massive Dharmarajika
+Stupa complex, located less than 1.5 km to the southeast of the eastern gate at
+Sirkap, had a powerful effect on the city itself.
+
+Lastly, how will improving the visual believability and interactional capabilities
+of the non-player characters populating the city change the experience? Through-
+out the present article, we have stressed the presentist nature of the Virtual Sirkap
+experience, and increasing the verisimilitude and perceptual realism of the experi-
+ence will only add to the complexity of this problem. As the creators of the vir-
+tual city, we are constantly reminded that we are not representing actual events.
+However, we hope that, ultimately, the city will be visited by many people who
+are interested in the cultural heritage of ancient India. Since we are employing
+gaming technology, these users will most likely interact with the environment in
+ways similar to the ways they interact with video games in general:
+they will
+explore it playfully and uncritically. The more visually believable the environment
+becomes, the more users will understand it as objective history. That is, just as,
+because of the ways photographs are socially constructed, photorealism, or percep-
+tual realism, suggests actual events (Tagg 1993), so too will our model suggest
+actual history. In fact, Kevin Schut (2007, p. 229) argues that ‘the creation of a
+tangible historical space is in some sense a much more convincing case of histori-
+cal objectivity than any picture might be’. If this is true, it is incumbent upon us
+as the creators of Virtual Sirkap to ﬁnd ways in which to encourage the users to
+engage the game critically.
+
+All of these issues can be explored as the Virtual Sirkap model continues to
+grow, and their theoretical value can be enhanced through other models of heritage
+sites. However, what is clear is this: the interpretation of heritage places depends on
+the affordances of the representational medium through which these places are per-
+ceived and the ways in which such a medium is socially deployed and interpreted.
+This means that the models we create are profoundly presentist – that is, they
+reﬂect many of our concerns in the present, rather than giving us objective knowl-
+edge about the past. However, with careful modelling, perhaps we can capture some
+of the meanings embedded by some of its past inhabitants and ﬁnd ways to convey
+these meanings to visitors to the city.
+
+Acknowledgements
+The construction of Virtual Sirkap was funded through the National Endowment for the
+Humanities Digital Humanities Start-Up Grant Programme. We would like to extend our
+sincerest thanks to the NEH for their support. We would also like to thank Cambridge
+University Press for allowing us to use a number of plates from volume three of Marshall
+(1951). This project was born out of a collaboration between Daniel Michon and Yehuda
+Kalay. Finally, we would like to recognize the rest of the modelling team, as without their
+efforts this project would not have been successful. Thank you Pinar Aybar, Ginette Wessel,
+Seungwan Hong, and Paul Kim for all your work.
+
+Notes
+1. The model is available for download at www.virtualsirkap.com.
+2. While it is true that GIS does have three-dimensional capabilities, they still rely very
+much on two-dimensional epistemologies. For example, the most popular three-dimen-
+
+International Journal of Heritage Studies
+
+37
+
+sional use of GIS is in viewshed analysis. However, viewshed analysis does not allow a
+user to walk through the landscape and experience the site.
+
+3. This view is not new, but rather is in accordance with much of the recent theorising
+on spatiality. One potential confusion is in the inversion of the meanings of de Cer-
+teau’s terms ‘place’ and ‘space’. That is, de Certeau, in line with continental scholars
+on space, thinks of space (éspace) in an Aristotelian sense:
+the space of all places
+(lieux). Here, space is full of meanings ascribed to it by the social groups that inha-
+bit it. Most Anglo-American scholars, on the other hand, think of space in a Platonic
+sense: a physical container devoid of meaning. Thus, for these latter scholars, place
+is space imbued with meaning typically understood at the individual level. So, to be
+clear, we ascribe the meanings the term ‘place’ that de Certeau has assigned to space
+(éspace). In addition, obviously, our use of ‘space’ is akin to de Certeau’s ‘place’
+(lieux).
+
+4. ‘Kinesthesis’ is perception through movement, and since the user has an awareness of
+the avatar’s moving body’s position in relationship to an object of perception, it is a
+form of kinesthesis. However, like in all kinesthetic activities, the extent of the user’s
+ability to explore the environment liberally is limited by certain factors. In a virtual envi-
+ronment, the constraints depend on the programming code that controls and regulates
+movement. For example, in our project, the code does not allow avatars to ﬂy or users
+to explore the environment using a ﬂying camera. This is a restricted experience when
+compared with an environment like Second Life (www.secondlife.com), which allows its
+users both these abilities.
+
+5. The archaeological data from Taxila published by Alexander Cunningham can be found
+scattered throughout his annual reports to the Archaeological Survey of India. See, in
+particular volumes I (1871), II (1872), V (1875), and XIV (1882), all now reprinted by
+the Archaeological Survey of India.
+
+6. Other excavations and surveys of note include Ghosh (1947–48), Sharif (1969), and
+Khan (1983). A very good summary of many of these excavations can be found in Dani
+(1986). Most recently, there has been an ongoing excavation of parts of Taxila by a
+Korean team, but they have yet to put forth a full publication.
+
+7. These ‘modern’ ideas of what makes for a well-designed, beautiful city are deeply
+rooted in the aesthetic assumptions derived from the western classical tradition. In fact,
+in the World Heritage Committee’s ofﬁcial justiﬁcation for the inclusion of Taxila on the
+World Heritage List, it is Taxila’s link to urban development further to the west that is
+highlighted. In the ﬁnal decision document (International Council on Monuments and
+Sites [ICOMOS] 1980), the World Heritage Committee brieﬂy notes the presence of ‘a
+number of Buddhist monasteries of various periods and. . . Moslem mosques and mad-
+rassahs of the medieval period’ (ICOMOS 1980, p. 1) contained within the vast complex
+that is Taxila, but it quickly moves on to describe Taxila’s ‘universally meaningful’ set-
+tlement sites. According to the World Heritage Committee, the ﬁrst settlement site, Bhir
+Mound, owes its urban design to the ‘Achaemenians’. The second site, Sirkap, derives
+its importance from its similarity to ‘the Hellenistic grid system and show[s] the strong
+western classical inﬂuence on local culture’ (ICOMOS 1980, p. 1). In addition, the third
+site, Sirsukh, ‘attests to the early inﬂuence of Central Asian architectural forms on those
+of the sub-continent’ (ICOMOS 1980, p. 2). Thus, the ‘universally meaningful’ heritage
+of Taxila is all connected to civilisations to the west of the subcontinent. Further, this
+judgement concerning the value of Taxila using almost exclusively ‘Western’ criteria is
+not limited to assessments of its urban form. After recognising Taxila as a unique exem-
+plar of western urban development – and by omission not recognising Taxila for its
+South Asian urban heritage – the World Heritage Committee turns to Criterion 6 in
+which a World Heritage Site is ‘directly or tangibly associated with events or with ideas
+of beliefs of outstanding universal signiﬁcance’ (UNESCO 1980, p. 5). The event of
+‘outstanding universal signiﬁcance’ associated with Taxila has nothing to do with Indian
+history – and Taxila is associated with many events of great signiﬁcance to Indian
+history – but rather it is Bhir Mound’s purported association with the ‘triumphant entry
+of Alexander the Great into Taxila’ (ICOMOS 1980, p. 2) that qualiﬁes it for inclusion.
+8. Two examples of this kind of reproduction are in Behrendt (2004, Fig. 10) and Dani
+
+(1986, ﬁg. 26).
+
+38
+
+D. Michon and A. El Antably
+
+9. See Marshall (1936), a volume that was published long before his integrative excavation
+
+report in 1951, and another full reproduction of Plate 10 in Mairs (2005, Fig. 2).
+
+10. This plate is reproduced in a number of important publications, including, Dani (1986,
+
+pl. 2) and Allchin (1995, ﬁg. 12.5).
+
+11. While Dani (1986, pp. 140–141) concludes that ‘the general view of the Saka-Parthian
+city, as drawn by Marshall, can hardly be improved’, he also suggests that ‘main street
+(sic) dominates the entire city plan’ (Dani 1986, p. 92).
+
+12. All later studies of Sirkap agree with this analysis, for example, see Chakrabarti (1995,
+
+p. 179) and Dani (1986, p. 92).
+
+13. We constructed the height of the outer enclosure wall to rise 5 m from the ground
+level of Main Street; the heights of the other buildings are about 3 m. A signiﬁcant
+difference between Marshall’s discussion of the temple complex and our model per-
+tains to the two ‘stupa bases’ outside the main temple. Domenico Faccenna has
+made a very convincing argument that these types of bases were for pillars, not stu-
+pas, and we have chosen to follow Faccenna (2007). The pillars we constructed are
+also 5 m high, but the whole Block D Apsidal Temple complex was constructed on
+a raised, 2 m-high platform, so the pillars, in effect, rise 7 m above the street level.
+Cresting the pillars is a circular disk, the Buddhist chakra wheel. Further, we were
+quite conservative in our construction of
+the structures fronting Main Street. For
+example, while Marshall suggests that many of them supported a second storey, we
+only constructed single-storey buildings as we saw no signiﬁcant evidence for two
+storeys. However, if we followed Marshall and did build another storey on some of
+these buildings, this would further obstruct the view of the Apsidal Temples complex
+in Block D. Of course, many decisions were made in how to reconstruct
+the city,
+and a complete discussion of such decisions can be found at
+the project website,
+www.virtualsirkap.com.
+
+14. The Block A stupa court complex contained a central stupa which sat on a square plinth,
+three smaller, votive stupas, and a few small rooms. According to Marshall’s excavation
+report, the houses in Block 1 belong to very late stratum II only, that is, the very end of
+the Settlement Phase and into the Transitional Phase. Without these poorly built houses,
+the entry to the city would lead the visitor directly to the Block A stupa complex.
+
+15. On Marshall’s (1951) site plan, we can trace a direct line from there is a direct line from
+the entrance to the city (square 2–68’) to some rubble (square 15–68’) that indicates
+some kind of walkway leading to the entrance of the stupa court from Second Street
+(square 15–65’).
+
+16. We have yet to model the diachronic changes in the urban fabric of the city. This is
+
+something we would like to do in the future.
+
+17. Support for the conclusion that this stupa shrine was a locus of royal patronage comes
+from its similarity to two other stupas in urban Sirkap, those in Block F and Block G –
+two stupas which, as I argue elsewhere (Michon 2007), received direct royal patronage
+and served as tools to express the power of the rulers. We, obviously, have not yet mod-
+elled these stupas.
+
+Notes on contributors
+Daniel Michon received his Ph.D. in Religious Studies from University of California, Santa
+Barbara and has been teaching at Claremont McKenna College since 2007. His research
+focuses on the intersection of religion and material culture in ancient India.
+
+Ahmed El Antably is a Ph.D. Candidate in Design Theories and Methods with a Designated
+Emphasis in New Media, Department of Architecture, University of California, Berkeley. He
+is currently ﬁnishing his dissertation on the ways in which place is perceived in online
+multiuser virtual environments.
+
+References
+Abbott, H.P., 2002. The Cambridge introduction to narrative. Cambridge, UK: Cambridge
+
+University Press.
+
+International Journal of Heritage Studies
+
+39
+
+University Press.
+
+Government Central Press.
+
+Government Central Press.
+
+Press.
+
+Press.
+
+Allchin, F.R., 1995. The Mauryan state and empire. In: F.R. Allchin, ed. The archaeology of
+the emergence of cities and states. Cambridge, UK:
+
+early historic South Asia:
+Cambridge University Press, 187–221.
+
+Behrendt, K., 2004. The Buddhist architecture of Gandhara. Leiden, The Netherlands: Brill.
+Casey, E., 2002. Representing place.
+landscape, painting, and maps. Minneapolis, MN:
+
+University of Minnesota Press.
+
+de Certeau, M., 1984. The practice of everyday life. Berkeley, CA: University of California Press.
+Chakrabarti, D.K., 1995. The archaeology of ancient Indian cities. New Delhi, India: Oxford
+
+Cunningham, A., 1871. Four reports made during the years 1862-63-64-65. Vol. I. Simla:
+
+Cunningham, A., 1872. Four reports made during the years 1862-63-64-65. Vol. II. Simla:
+
+Cunningham, A., 1875. Report for the year 1872-73. Vol. V. Simla: Government Central
+
+Cunningham, A., 1882. A tour in the Punjab 1878-79. Vol. XIV. Simla: Government Central
+
+Dani, A.H., 1986. The historic city of Taxila. Tokyo, Japan: Unesco.
+Faccenna, D., 2007. Columns at Dharmarajika (Taxila). East and West, 57, 127–173.
+Gable, E., Handler, R., and Lawson, A., 1992. On the uses of relativism: fact, conjecture,
+and black and white histories at Colonial Williamsburg. American Ethnologist, 19 (4),
+791–805.
+
+Ghosh, A., 1947–48. Taxila (Sirkap). Ancient India, 4, 41–84.
+Gill, A., 2009. Digitizing the past: charting new courses in the modeling of virtual land-
+
+scapes. Visual Resources: An International Journal of Documentation, 25 (4), 313–332.
+
+Heidegger, M., 1971. Building, dwelling, thinking. In: A. Hofstadter, ed. and trans. Poetry,
+
+language, thought. New York: Harper & Row, 145–161.
+
+International Council on Monuments and Sites, 1980. Advisory board evaluation of Taxila,
+Pakistan [online]. Paris, ICOMOS. Available from: http://whc.unesco.org/archive/advi-
+sory_body_evaluation/139.pdf [Accessed 23 September 2011].
+
+Khan, G.M., 1983. Hathial excavations. Journal of Central Asia (Islamabad), 6 (2), 35–44.
+Kittler, F.A., 1999. Gramophone, ﬁlm, typewriter. Stanford, CA: Stanford University Press.
+Lakoff, G. and Johnson, M., 1980. Metaphors we live by. Chicago, IL: University of
+
+Chicago Press.
+
+Blackwell.
+
+Lefebvre, H., 1991. The production of space. D. Nicholson-Smith,
+
+trans. Malden, MA:
+
+Mairs, R., 2005. The ‘Greek grid-plan’ at Sirkap (Taxila) and the question of Greek inﬂu-
+ence in the North West. In: M. Willis, ed. Migration, trade and peoples: European asso-
+ciation of South Asian archaeologists, proceedings of the eighteenth congress. London:
+The British Academy, 135–147.
+
+Malpas, J., 2008. New media, cultural heritage and the sense of place. mapping the concep-
+
+tual ground. International Journal of Heritage Studies, 14 (3), 197–209.
+
+Marshall, J.H., 1936. A guide to Taxila. Delhi, India: Manager of Publications.
+Marshall, J.H., 1951. Taxila: an illustrated account of archaeological excavations carried
+out at Taxila under the orders of the Government of India between the years 1913 and
+1934. Cambridge, UK: Cambridge University Press.
+
+Michon, D., 2007. Material matters: archaeology, numismatics, and religion in early historic
+
+Punjab. Thesis (PhD). University of California, Santa Barbara.
+
+Schut, K., 2007. Strategic simulations and our past. Games and Culture, 2 (3), 213–235.
+Seneviratne, S., 2008. Situating world heritage sites in a multicultural society: the ideology
+of presentation at the sacred city of Anuradhapurna, Sri Lanka. In: M. Liebmann and U.
+Rizvi, eds. Archaeology and the postcolonial critique. Lanham, MD: AltaMira Press,
+177–195.
+
+Sharif, M., 1969. Excavation at Bhir Mound, Taxila. Pakistan Archaeology, 6, 6–99.
+Singh, U., 2004. The discovery of ancient India: early archaeologists and the beginnings of
+
+Tagg, J., 1993. The burden of representation: essays on photographies and histories. Minne-
+
+archaeology. Delhi, India: Permanent Black.
+
+apolis, MN: University of Minnesota Press.
+
+40
+
+D. Michon and A. El Antably
+
+UNESCO, 1980. Operational guidelines for the implementation of the World Heritage Con-
+vention [online]. Available from: http://whc.unesco.org/archive/opguide80.pdf [Accessed
+23 September 2011].
+
+Wittgenstein, L., 1968. Philosophical
+
+investigations. G. Anscombe,
+
+trans. New York:
+
+Macmillan.
+
+

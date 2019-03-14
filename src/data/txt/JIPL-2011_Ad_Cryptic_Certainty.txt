@@ -1,0 +1,2629 @@
+Journal of Intellectual Property Law & Practice, 2011, Vol. 6, No. 1
+
+ARTICLE
+
+25
+
+‘It’s the Ad text, stupid’1: cryptic answers won’t
+establish legal certainty for online advertisers
+Stephan Ott and Maximilian Schubert
+
+The Advocate General opened his opinion with a cita-
+tion from the New Testament:
+‘Seek, and you shall
+ﬁnd.’2 The hopes of advertisers and trade mark owners
+for more legal certainty, however, were disappointed,
+when the ECJ, on 23 March 2010, following a reference
+from the French Cour de Cassation,3 rendered its ﬁrst
+decision dealing with keyword advertising.4
+
+Although the ECJ left the interpretation of numer-
+ous issues with the national courts, the press largely
+agreed that this decision was a victory for Google. It,
+however, took only a couple of hours before comment-
+ators all over the globe began critically analysing the
+decision, speculating on how the national courts might
+eventually decide and pointing out a number of
+questions.5 Following subsequent debate,6 it is safe to
+say that it might be attorneys who are the real winners,
+as it is now in their hands to explore the room left for
+interpretation by processing new lawsuits before the
+national courts.
+
+Cause of action
+Google was sued in France on the ground that its
+AdWords service allowed customers to book third-
+party keywords that lead to the display of an advertise-
+ment. Case C-236/08 concerned the well-reputed
+French trade marks ‘Louis Vuitton’ and ‘LV’ and the
+Community trade mark ‘Vuitton’; Case C-237/08 con-
+cerned the French trade marks of Viaticum,
+‘Bourse
+des Vols’, ‘Bourse des Voyages’, and ‘BDV’; Case C-238/
+08 concerned the trade mark ‘Eurochallenges’ of Mr
+Thonet. While in Vuitton, the trade mark was actually
+contained in the text of the ad, which furthermore led
+to websites promoting imitations of Vuitton products,
+in the other two cases against competitors of
+the
+respective trade mark owner, the text of the ad did not
+include the trade mark itself.7
+
+1 Adaption of the famous phrase ‘It’s the economy, stupid!’ by James
+
+Carville.
+
+2 Matthew 7:7.
+3 Cour de Cassation, Decisions of 20 May 2008, Cases C-236/08, C-237/08,
+
+and C-238/08.
+
+4 Only 2 days later, on 25 March 2010, the ECJ also published its decision
+
+on the referral for a preliminary ruling by the Austrian Supreme Court in
+
+The authors
+† Stephan Ott works at the Zentrum Bayern Familie
+und Soziales in Bavaria, Germany and hosts the web-
+sites http://www.linksandlaw.com and http://www.
+linksandlaw.info on the law relating to hyperlinks and
+search engines (Email: stephanott-bayreuth@t-online.
+de). Mag. Maximilian Schubert LL.M. (Edinburgh) is a
+doctoral student at the Karl Franzens Universita¨t of
+Graz and hosts the website http://www.austrotrabant.at
+(Email: maximilian.schubert@gmail.com).
+
+This article
+† Within hours of publication of the eagerly awaited ECJ
+decision on keyword advertising, commentators began
+critically analysing it, speculating on how national
+courts will eventually rule on similar cases and raising a
+number of questions.
+
+† The ECJ found that Google, as a provider of a referen-
+cing service, did not use the sign in the course of trade
+and thus had not infringed trade mark law, but also
+found that advertisers might be liable for such infringe-
+ment if their advertisements adversely affect the func-
+tions of
+found that keyword
+advertising ‘usually’ does not affect the advertising func-
+tion of the trade mark; the question of how an ad has to
+be drafted so as not to affect the function of indicating
+origin remains open.
+
+the trade mark.
+
+It
+
+† The Court provided limited guidance to this question
+by stating that it depends particularly on the manner in
+which the ad is presented and that the function of indi-
+cating origin is adversely affected if the ad is so vague
+that an average internet user might assume an econ-
+omic connection between the trade mark proprietor
+and the advertiser. As text in AdWords is restricted to
+only 95 characters, we do not yet know if advertisers
+will
+successfully rule out any possible connection
+between themselves and trade mark proprietors.
+
+Bergspechte, Case C-278/08. This decision, largely based on Google France,
+is not analysed in detail and is only mentioned where necessary. For a
+detailed overview of Google’s AdWords programme, see Schubert/Ott,
+‘AdWords—Schutz fu¨r die Werbefunktion einer Marke?’ MarkenR 2009,
+338. The Court also issued a reasoned order on 23 March 2010,
+answering the German referral in Eis.de, Case C-97/09.
+
+# The Authors (2010). Published by Oxford University Press. All rights reserved.
+
+Advance Access publication on 8 November 2010
+
+doi:10.1093/jiplp/jpq150
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+6
+1
+2
+5
+2
+1
+9
+3
+8
+0
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+26
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2011, Vol. 6, No. 1
+
+Trade mark infringement by Google
+The ECJ found that Google, as the provider of a refer-
+encing service, had not
+infringed trade mark law.
+Although it is clear that AdWords operates ‘in the
+course of trade’ when it permits advertisers to book
+signs identical with trade marks as keywords, stores
+those signs, and displays its clients’ ads in this manner,
+it does not follow, however, that the service provider
+‘uses’ those signs within the terms of the Trade Mark
+Directive. Thus Google may only be held liable, if
+
+-
+
+-
+
+the requirements for a violation of the rights of the
+trade mark owner by the advertisers are fulﬁlled;
+
+the national prerequisites for intermediary liability
+are met; and
+
+- no liability exemptions apply.
+
+Trade mark infringement by the
+advertiser
+The Court ﬁrst held that an advertiser booking a trade
+mark as a keyword is using that trade mark in the
+course of trade (paras 51 and 52). Furthermore, the use
+‘is in relation to goods or services’,
+irrespective of
+whether the sign is also shown in the text of the ad
+(para 60 ff).8
+
+The ECJ then proceeded to the core of its decision,
+stating that a trade mark owner cannot oppose the use
+of a sign identical to the trade mark as a keyword, if
+that use is not liable to cause detriment to any of the
+trade mark functions (para 76). Such functions are
+not only the function of indicating origin, but also
+the communication,
+investment, or the advertising
+functions (para 77). The Court had already established
+this in L’Ore´al v Bellure in 2009.9
+
+ment of ‘likelihood of confusion’ for cases of ‘double
+identity’ (Article 5(1)(a) TMD),10 similar to that for
+Article 5(1)(b) TMD.11 This means a serious alteration
+of trade mark law and leads to a restriction of trade
+mark owners’ rights. For (a) to be infringed, one of the
+functions has to be affected or liable to be affected by
+the act of the advertiser. As for (b), the requirements
+have not changed. Only the essential trade mark func-
+tion (function of origin) is protected (paras 49 and 79).
+The ECJ’s ﬁndings in respect to the protection of the
+advertising function by means of Article 5(1) TMD
+were criticized by commentators,12 while the Court of
+Appeal for England and Wales referred to the ECJ’s
+concept as ‘conceptually vague and ill-deﬁned’.13
+
+Function of indicating origin
+The ECJ decision
+The ECJ conﬁrmed its own case law, according to which
+it is the essential function of a trade mark to guarantee
+to consumers the origin of the goods or services by
+enabling them to distinguish the goods or services from
+others that have a different origin (para 82). The ques-
+tion in this respect is whether that function is adversely
+affected through keyword advertising with trade mark-
+protected terms. The answer depends, in particular, on
+the manner in which the ad is presented. In effect, this
+means that it is the text or the content of the ad that
+determines whether it infringes (para 83). Other than
+the Advocate General in his opinion,14 the ECJ does not
+distinguish between the act of booking the keyword (as
+a purely internal process) and the display of the ad sub-
+sequent to a matching user query (as an external and
+publicly visible process). Instead, the ECJ, without expla-
+nation, assumes a comprehensive view.
+
+The Court, through the requirement of the effect of
+the trade mark functions, introduced a de facto require-
+
+It is thus for the national courts to assess, on a case-
+by-case basis, whether the function of indicating origin
+
+5 Goldman, ‘Google Gets Favourable ECJ Opinion, But Will It Prove to
+
+Be a Hollow Victory?’, http://blog.ericgoldman.org/archives/2010/03/
+google_gets_fav.htm.
+
+6 Anderl, ‘EuGH zur Verantwortlichkeit bei Keyword Advertising (II)’
+
+ecolex 2010, 477; Clark, ‘ECJ decides in French Google AdWord referrals:
+more seek than ﬁnd?’ Journal of Intellectual Property Law & Practice,
+2010/5; Klett/Apetz, ‘Nochmals: AdWord-Werbung unter Verwendung
+fremder Kennzeichen—markenrechtsverletzend?’ K&R 2010, 289; Knaak/
+Vehor, ‘Anmerkung zu Google France’ GRUR Int. 2010, 398;
+Schirmbacher, ‘Google-AdWords—Wie geht es weiter fu¨r Werbetreibende
+nach den EuGH-Urteilen?’ GRUR Prax 2010, 165; Spindler/Prill,
+‘Keyword Advertising—eine europa¨ische Rechtsprechungslinie beginnt
+. . .’, CR 2010, 303; Stadler, ‘EuGH: Google verletzt mit AdWords keine
+Markenrechte’ MMR-Aktuell, 301002.
+
+7 Para 62.
+8 Unfortunately, the Court did not address the question whether ‘use’ is
+also found when the advertiser has not booked the trade mark himself,
+but the ad was shown due to AdWords’ standard ‘broad match’ function.
+The German Federal Supreme Court found, in PCB-Pool, that under such
+
+circumstances there is no use of the trade mark (MarkenR 2009, 216). See
+Well-Szo¨nyi, ‘Die Kontroverse um die Zula¨ssigkeit der Verwendung
+fremder Marken als Schlu¨sselwo¨rter in der franzo¨sischen Rechtsprechung’
+GRUR Int. 2009, 557, 562.
+
+9 ECJ, GRUR 2009, 756, 761. ‘Opposing the idea of a separate protection
+
+for the advertising function: Knaak, Keyword Advertising’ GRUR Int.
+2009, 551, 555.
+
+10 Council Directive 89/104 to approximate the laws of the Member States
+
+relating to trade marks.
+
+11 The mention of ‘goods or services which are identical with, or similar’ in
+
+respect of Art 5(1)(a) [sic!] in para 49 of the English version of Google
+France appears to be an editorial mistake.
+
+12 Viefhues, ‘Markenrecht und Google AdWords: Ist die Werbefunktion der
+
+Marke die Lo¨sung?’ GRUR Prax 2009, 28.
+
+13 L’Ore´al SA & Others v Bellure NV & Others [2010] EWCA Civ 535
+
+para 30.
+
+14 See para 55 of the Opinion of Advocate General Poiares Maduro, 22
+September 2009, in Joint Cases C –236/08, C –237/08, and C – 238/08.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+6
+1
+2
+5
+2
+1
+9
+3
+8
+0
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Stephan Ott and Maximilian Schubert . ‘It’s the Ad text, stupid’
+
+ARTICLE
+
+27
+
+commercial
+trade mark owner (para 89) or
+
+was adversely affected or if any risk of it existed (para
+88). According to the ECJ, this conclusion is reached
+when:
+† the advertiser’s ad actually suggests the existence of a
+link between the advertiser and the
+† the ad is vague to such an extent that a normally
+informed and reasonably attentive internet user is
+unable to determine, on the basis of the advertising
+link and the commercial message attached thereto,
+whether the advertiser is a third party vis-a`-vis the
+proprietor of the trade mark or, on the contrary,
+is economically linked to the trade mark owner
+(para 90).
+
+Criticism and open questions
+The ECJ focuses primarily on the text of the ad.15
+Unfortunately, for advertisers, the space in such an ad
+is strictly limited. AdWords usually consist of
+four
+lines. The title of the ad must only contain 25 charac-
+ters and the two following lines 35 characters each. The
+last line contains the Display-URL. Top-Ads, which are
+displayed above the (‘organic’) search results, usually
+consist of only two lines, while the same character
+limitations apply. Further restrictions limit the content
+of the ad: eg prices displayed must not be misleading,
+additional
+information about promotions must be
+provided with one to two clicks on the landing site and
+the text
+should not contain certain call-to-action
+phrases, encouraging the user to perform certain tasks,
+such as eg to click on to a link.16 The Display-URL
+shown at the bottom of the ad also has to fulﬁl certain
+criteria. It need not be identical to the Destination-
+URL to which the ad is linked, but it has to be a
+genuine URL that is part of the advertiser’s site.17 Thus
+an ad leading a user to the site http://www.linksandlaw.
+the Display-URL
+de/let-me-out.htm might
+http://www.linksandlaw.de,
+not
+http://www.
+austrotrabant.at.
+
+use
+but
+
+For an advertiser, it is crucial to know how to draft
+the ad to avoid any likelihood of confusion concerning
+the origin of the offered goods or services. This might,
+however, be a difﬁcult task, considering that the web-
+savvyness of an average search-engine user is sur-
+prisingly low. Only one in three users is aware of the
+difference between ads and search results on the results
+pages; only one in six users states that he or she can
+clearly distinguish between them and just one out of 10
+is aware that search engines ﬁnance themselves through
+advertising.18 While the German Federal Supreme
+Court and the Advocate General have liberally assumed
+that users will, under no circumstances, establish a link
+between the ads and the search term/trade mark
+entered, French courts have repeatedly expressed the
+opposite opinion. In the absence of studies focusing
+explicitly on this issue,19 the ECJ has apparently chosen
+the middle path, providing only a vague framework to
+assist national courts deciding upon this question;
+many issues related to which we still miss empirical
+evidence.
+
+Here are some guidelines for advertisers to take into
+
+account when drafting an ad:
+
+1. It is disputed whether users pay attention to the
+Display-URL at all.20 An indication that they actually
+do is that Google, despite its severe space restrictions
+for text ads, continues to display it. This issue,
+however, might not be of great signiﬁcance if the
+users see that the trade mark they seek is not con-
+tained in the Display-URL, they could interpret this
+as an indication that the (linked) website is not the
+site of the trade mark owner. Since the users will not
+be able to tell if the advertiser is commercially con-
+nected to the trade mark owner, a likelihood of con-
+fusion cannot generally be ruled out.
+
+2. Usually the display of a trade mark in an ad will
+increase the danger of a likelihood of confusion. But
+if the ad is used for comparative advertising and the
+legal requirements
+for its permissibility are ful-
+ﬁlled,21 there will be infringement of neither unfair
+
+15 Hearts on Fire Co. v Blue Nile, Inc., 2009 WL 794482 (D. Mass., 27 March
+
+2009), where the District Court of Massachusetts developed a non-
+exhaustive catalogue of criteria which could help determine the likelihood of
+confusion with regard to keyword advertising. Ott, WRP 2010, 435, 437 s.
+
+16 AdWords Help, Advertising Policies, https://adwords.google.com/support/
+
+aw/bin/static.py?hl=en-uk&hlrm=de&page=guidelines.cs&adtype=text.
+17 AdWords Help, Destination-URL, https://adwords.google.com/support/
+
+aw/bin/answer.py?hl=en-uk&hlrm=de&answer=6314.
+
+18 Hargittai, The Role of Expertise in Navigating Links of Inﬂuence, in
+
+Turow/Tsui (Pub), The Hyperlinked Society: Questioning Connections in
+the Digital Age (2008), http://www.eszter.com/research/c10-
+linksoﬁnﬂuence.html, 11; Fallows, Search Engine Users: Internet searchers
+are conﬁdent, satisﬁed and trusting—but they are also unaware and naive
+(2004), http://www.pewinternet.org/pdfs/PIP_Searchengine_users.pdf, 17;
+
+Machill/Welp (Pub), Wegweiser im Netz (2003), 190; iCrossing: How
+America Searches (2007), http://www.icrossing.com/articles/How America
+Searches.pdf, 12.
+
+19 Bednarz/Waelde, ‘Search Engines, Keyword Advertising and Trade Marks:
+
+Fair Innovation or Free Riding? in Edwards/Waelde (Pub)’ Law on the
+Internet (2009), 304.
+
+20 Duchowski, Eye Tracking Methodology (Springer, 2007), 272.
+21 The use of the mark must not create a likelihood of confusion, it must
+
+not discredit or denigrate the mark, it must not take unfair advantage of
+the reputation of the mark, and it must not present goods or services as
+imitations or replicas of goods or services bearing the mark. ECJ, GRUR
+Int. 2009, 1010—L’Ore´al, para 70. Please see Art 4 of the Directive 2006/
+114/EC of the European Parliament and of the Council of 12 December
+2006 concerning misleading and comparative advertising.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+6
+1
+2
+5
+2
+1
+9
+3
+8
+0
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+28
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2011, Vol. 6, No. 1
+
+trade mark law. This was
+
+the
+competition nor
+opinion of the Court in L’Ore´al, where it found that
+the use of a competitor’s trade mark in comparative
+advertising is permitted by Community law if
+it
+fulﬁls the (stringent) legal requirements for com-
+parative advertising.22
+
+3. One might argue that a trade mark owner who dis-
+plays ads on Google may not be protected against
+ads by third parties. A user searching for a trade
+mark will see the ad of the trade mark owner and
+might conclude that all the other ads stem from
+unrelated third parties, as it is not very likely that
+the trade mark owner would compete with compan-
+ies to which he or she is commercially linked for
+user attention. Thus if a user can easily recognize the
+ad of
+this will probably
+reduce the risk of confusion concerning the origin of
+the other ads. The trade mark owner may, however,
+pause or end his ad-campaign at any time, so third
+parties cannot rely on this fact.
+
+the trade mark owner,
+
+4. Where multiple ads are shown, a user will assume
+that not all of them stem from the trade mark owner
+or a commercially linked entity. It will, however, be
+unclear to the user which ads are related and which
+are not.
+
+5. Another issue that proves that both sides—trade
+mark owners and advertisers—might see the ECJ’s
+decision as a victory for themselves is that the ads
+are clearly labelled and separated from the (organic)
+search results.23 It might be argued that the layout is
+a strong indication that users will not automatically
+establish a connection between the ad and the trade
+mark owner, unless there are other indications of a
+possible connection, such as the use of the trade
+mark in the text of the ad or in the Display-URL.24
+The ECJ might, however, not support this argument.
+In the second question referred to the ECJ by the
+Austrian OGH, the Court was asked whether an
+infringement depends upon whether an ad is shown
+in a separate section and is labelled as an advertise-
+ment.25 The ECJ interpreted this as a question on
+whether the trade mark owner should also be pro-
+
+tected if the ad is shown outside the section ‘spon-
+sored links’ and thus inside the search results. As
+this is generally not the case, the Court refused to
+answer the question. The ECJ could have used this
+opportunity to explain, in more detail, the connec-
+tion between the function of origin and the obli-
+gation to separate ads from content.
+
+6. Advertisers must remain cautious. Many users will
+not have sufﬁcient knowledge about the economic
+connections of the companies in the markets con-
+cerned. Competitors of the trade mark owner would
+thus be forced to use the already fairly restricted
+space of
+to provide information clear
+enough to avoid users assuming any nonexistent con-
+nection. Depending on how user perception of ads is
+evaluated (assuming no connection as the basic rule,
+or assuming a less savvy user who is not aware of
+how search engines work), courts will place more or
+less stringent requirements on the advertiser.
+
+their ads
+
+Uncertainity remains
+Keyword advertising with a competitor’s trade marks
+can adversely affect the trade mark function of indicat-
+ing origin. But this is up to the national courts to
+decide, on a case-by-case basis and with the general
+principles of the ECJ in mind. In consequence, this
+might cause further legal uncertainty: some national
+courts might not just require advertisers to refrain
+from using the trade mark in the text of the ad but
+may impose additional burdens.
+
+Advertising function
+The ECJ’s decision
+The trade mark owner is entitled to object to the use of
+his sign if it adversely affects his use of the trade mark
+as a factor in sales promotion or as an instrument of
+commercial strategy (the advertising function). The
+Court found that the use of a mark by a third party in
+the course of keyword advertising causes certain disad-
+vantages to the trade mark owner, such as the need to
+place a higher bid for a click on his ad (Cost-per-Click,
+
+22 ECJ, MR-Int 2008, 24—O2, para 45; ECJ, GRUR Int. 2009, 1010—
+
+L’Ore´al, para 72; ECJ, GRUR Int. 2003, 742—Pippig Augenoptik,
+para 39, 49.
+
+23 Differentiation between ads and organic search results may be difﬁcult, as
+
+search engines progressively include various kinds of information (eg
+maps or pictures) together with or above their search results. A big
+challenge may also lie in mobile devices, as their screen space is severely
+limited. The same is also true for augmented reality applications, where
+the user is constantly and automatically supplied with information
+without being informed where the data displayed stems from. Such
+services, which for example ‘enrich’ the interior view of a shopping centre
+
+with restaurant ratings and suggestions, usually do not indicate its origin.
+For example, YouTube, SekaiCameraDemoVideo, http://www.youtube.
+com/watch?v=KgTwSXK_5dg.
+
+24 For more information on the general obligation to separate commercial
+from editorial content in connection with keyword advertising, see Ott,
+‘Die Entwicklung des Suchmaschinen- und Hyperlinkrechts im Jahr 2008’
+WRP 2009, 351, 356; Ott, ‘Anmerkung zu LG Braunschweig—AdWords’
+MMR 2007, 123 s; Ott, ‘Die Entwicklung des Suchmaschinen- und
+Hyperlinkrechts im Jahr 2007’ WRP 2008, 393, 402.
+
+25 OGH ecolex 2008, 348—Bergspechte.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+6
+1
+2
+5
+2
+1
+9
+3
+8
+0
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Stephan Ott and Maximilian Schubert . ‘It’s the Ad text, stupid’
+
+ARTICLE
+
+29
+
+or CPC), to have it displayed more prominently than
+the ads of his competitors. This results from the fact
+that keywords are ‘sold’ on the basis of a continuous
+(sealed second price) auction,26 which means that
+prices soar when more advertisers bid, or are allowed
+to bid, on the same keyword. As the ranking of the ads
+is also inﬂuenced by other factors (eg the surﬁng
+behaviour of users, who have already clicked on ads in
+the past),27 the highest bid does not assure ranking as
+the most prominent ad. These repercussions, however,
+do not in themselves constitute an adverse effect on the
+advertising function of the trade mark. As a result of
+this reasoning of the Court, one might conclude that
+the advertising function of a trade mark is never
+adversely affected through keyword advertising. The
+Court, however, continued, in paragraphs 96 and 97, to
+explain this reasoning, which might be of future signiﬁ-
+cance:
+it said that the visibility of the trade mark
+owner’s goods and services to internet users is guaran-
+teed, as the home and advertising page of the proprie-
+tor of that mark will appear in the list of the ‘organic’
+search results, usually even in one of
+the highest
+positions.
+
+Criticism and unanswered questions
+The ECJ’s reasoning assumes that
+the trade mark
+owner is usually listed prominently in the search
+results. When searching for the trade marks mentioned
+in the cases against Google.fr in May 2010, the websites
+of the trade mark owners were actually displayed as
+most prominent entries on the search results pages.
+Since the ranking of a web page is effectively based
+upon a large number of (undisclosed) factors,28 it
+cannot be automatically assumed that the site of the
+trade mark owner will always be displayed among the
+ﬁrst 10 search results—usually the only ones users
+notice.
+
+It is in this respect critical to understand that an
+entity that does not allocate resources to search engine
+optimization (SEO)29 might easily ﬁnd itself displayed
+in less prominent positions inside the search result.
+Particularly if an entity is the proprietor of a number
+of trade marks that are not reﬂected in the URLs of the
+respective websites, a prominent ranking inside the
+search results is not guaranteed but may only be
+achieved through investment. The reverse conclusion of
+this reasoning might be the question of whether a trade
+mark owner who does not invest in SEO should be
+rewarded by the revival of protection based on the
+advertising function of his trade mark, as his website
+will be practically absent from the search results.
+
+This idea might even be developed further. What
+would happen if the ofﬁcial web-presence of a trade
+mark owner cannot be found through search engines at
+all? If search engine optimizers are caught by search
+engines, using illicit ways of improving their websites
+ranking (Cloaking, Doorway Pages etc.)30, the respect-
+ive website might be removed from the search engine
+index, which means that it will no longer be ﬁndable
+through that search engine. Such cases of ‘delisting by
+Google’ are rare and sometimes only temporarily, as eg
+in the case of the website of the German car-maker
+BMW.31
+
+A not overly convincing conclusion would be that
+violation of the search engine’s guidelines for search
+engine optimization, which effectively means
+the
+removal from the search engine’s index, might lead to
+the grant of additional trade mark protection, since the
+trade mark owner is no longer visible inside the web
+search results.
+
+That such considerations are not purely speculative
+can be demonstrated by the claim later withdrawn32 by
+Ascentive against Google in the USA.33 The case
+mainly dealt with the booking of a sign identical to
+Ascentive’s
+trade mark by third parties, but also
+
+26 Schubert, Keyword Prices: Why ‘Second Price’ Auctions? Prof Henzinger’s
+
+30 For more detailed technical explanations, see Ott, Kleinen Leitfaden zur
+
+Inaugural Lecture @ The University of Vienna, http://austrotrabant.
+wordpress.com/2010/03/22/keyword-prices-why-second-price-auctions-
+prof-henzingers-inaugural-lecture-the-university-of-vienna/.
+
+27 AdWords Help, How are Ads ranked? http://adwords.google.com/support/
+
+aw/bin/answer.py?hl=en-uk&answer=6111.
+
+28 Search engines assign a so-called ‘rank’ to each website, which indicates
+
+the position on which it will be shown in the list of (‘organic’) search
+results. This rank is based on a complicated algorithmic formula, which
+evaluates a large number of factors and is subject to steady changes.
+So-called ‘On-Page Factors’, such as the use of the keyword in the text or
+the title of the website, the domain, or the ﬁle name, play an import role
+in addition to the overall popularity of the web presence. The latter is
+dependent on how well the site is linked, taking into account the number,
+as well as the quality of the links (‘PageRank’ system).
+
+29 Search engine optimization is the process of improving the volume or
+quality of trafﬁc to a website from search engines via (‘organic’) search
+results. Search engines such as Google do not offer such services.
+
+Manipulation von Suchergebnissen, at: http://www.linksandlaw.de/
+suchmaschinen-leitfaden-zur-Manipulation-von-Suchergebnissen.htm;
+furthermore, Ott, ‘Technische Grundlagen und rechtliche Konsequenzen
+der Suchmaschinenmanipulation im Zusammenhang mit fremden
+Marken’, MMR 2008, 222 ss.
+
+31 See Google legt sich mit BMW an, http://www.sueddeutsche.de/,wirl1/
+
+wirtschaft/artikel/597/69528/; Patalong, Wie sich BMW ausgoogelte,
+http://www.spiegel.de/netzwelt/web/0,1518,399267,00.html.
+
+32 Ascentive v Google, Inc., 2:09-cv-02871 (E.D. Pa. voluntary dismissal 30
+
+July 2009).
+
+33 Ascentive, LLC v Google, Inc., 2:09-cv-02871-JS (E.D. Pa. complaint ﬁled
+
+25 June 2009), court documents at: http://news.justia.com/cases/featured/
+pennsylvania/paedce/2:2009cv02871/310256/.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+6
+1
+2
+5
+2
+1
+9
+3
+8
+0
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+30
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2011, Vol. 6, No. 1
+
+included another aspect. Ascentive had repeatedly com-
+plained to Google about the use of
+its trade mark
+within the AdWords programme. Although it is com-
+pletely unclear whether it was these complaints or
+other reasons that led to the removal of Ascentive, the
+company was effectively delisted at the end of February
+2009 and was then disallowed from using Google’s
+advertising service AdWords. Following the ECJ’s line
+of reasoning, the removal of Ascentive would, as a con-
+sequence of its absence in Google’s search results, lead
+to an infringement of the advertising function.34
+
+The reasoning of the ECJ is also interesting when
+
+viewed from the advertisers’ perspective
+
+Ascentive, however, based its strategy upon another
+argument. The company wanted to be listed on Google
+again, but did not allege that Google had abused its
+market power, as has been claimed in other cases
+before.35 Ascentive instead argued that users would
+expect, when entering a trade mark as a query into
+Google, to ﬁnd the website of the trade mark owner
+within the search results. As a consequence, Google
+would confuse users through its delisting and thus
+infringe the claimant’s trade mark rights.
+
+The reasoning of the ECJ is also interesting when
+viewed from the advertisers’ perspective. A third-party
+advertiser, booking a trade mark as a keyword, would
+be obliged to check if the trade mark owner’s website is
+shown inside the search results so as to avoid violating
+the trade mark’s advertising function. This could prove
+difﬁcult,
+since the standard option ‘broad match’
+makes it hard to predict which searches for trade
+marked terms will lead to the display of the ad.36 As a
+consequence, an advertiser will most likely not perform
+such a check because, even if he does so, there is no
+guarantee that the website of the trade mark holder
+
+34 Another idea would be to force Google to stop selling a company’s trade
+
+marks as keywords after it is delisted. This would be an option at least for
+trade marks with reputation.
+
+35 See Ott, ‘Die Entwicklung des Suchmaschinen- und Hyperlink-Rechts im
+Jahr 2007’ WRP 2008, 393, 406 ff.; ‘Ich will hier rein! Suchmaschinen und
+das Kartellrecht’ MMR 2006, 195 ss; ‘Marktbeherrschende und o¨ffentlich-
+rechtliche Suchmaschinen’ K&R 2007, 375 ss.
+
+36 Although Google does not tell advertisers ex ante which keyword will
+trigger their ads, if they are using the standard keyword option ‘broad
+match’, it supplies them with a ‘Search Query Performance report’, which
+tells them ex post which keywords have triggered their ads. Search Query
+Performance report—AdWords Help, http://adwords.google.com/support/
+aw/bin/answer.py?hl=en-uk&hlrm=de&answer=68034.
+
+37 The German Patent and Trade Mark Ofﬁce, http://www.dpma.de/marke/
+
+recherche/index.html; UK Intellectual Property Ofﬁce, http://www.ipo.
+
+search results.
+will also be shown in subsequent
+Changes in the search results happen often, eg due to
+adjustments in Google’s ranking algorithm. Thus, as
+soon as the trade mark holder disappears from the
+search result, the third party advertiser would infringe
+the trade mark owners’ rights.
+
+To avoid the situation elaborated above, the ECJ’s
+judgment could also be interpreted in such a way that
+it would be sufﬁcient for the trade mark owner to be
+able to be displayed in the search results. Whether the
+trade mark owner is effectively displayed would be irre-
+levant. The Court’s use of the word ‘usually’ could be
+seen to support such an interpretation. Unfortunately,
+even then the problem would remain that the Court’s
+general assumption, for which it presented no evidence
+at all, is most probably not true. Proprietorship of a
+trade mark alone does not inﬂuence the ranking of
+websites on Google. Readers are, at this point, encour-
+aged to search for any trade mark registered at their
+national patent ofﬁce37 through their respective Google
+site (eg www.google.co.uk) and to hunt for the trade
+mark owner in the search results.38 These searches
+might lead to various results, some of which are clearly
+not in line with the ECJ’s argumentation.
+
+Entities such as the claimants in the cases at hand,
+who have sufﬁcient resources to litigate a fundamental
+question of trade mark law before the ECJ, might be
+able to allocate enough resources for branding and
+search engine optimization to be prominently displayed
+within the search results. The authors are, however,
+aware that
+function as a
+general rule. Thus it must be borne in mind that the
+ECJ has not even considered the case of a trade mark
+owner who does not have a website of its own. Most
+‘big’ companies do, but eg about 20% of all Austrian
+companies do not and there are probably a number of
+trade mark owners among them.39
+
+supposition cannot
+
+this
+
+So to conclude, the explanation of its argument with
+the ‘usually’ provided visibility of
+the trade mark
+owner leaves room for two interpretations. The ﬁrst is
+
+gov.uk/types/tm/t-os.htm; The Trade Marks and Designs Registration
+Ofﬁce of the European Union, http://oami.europa.eu/CTMOnline/
+RequestManager/en_SearchBasic. For Austrian trade marks, unfortunately
+no such online services are available.
+
+38 For example, when searching on Google for ‘Vo¨slauer Balance’, a
+
+ﬂavoured Austrian mineral water (int. Trade Mark No. 859747), the
+website of the trade mark owner does not appear on the ﬁrst page
+of Google’s results, as the page http://www.vo¨slauer.com is entirely
+programmed in ‘Flash’ and thus cannot properly be indexed by Google.
+Simple SEO services, such eg the modiﬁcation of the pages ,noscript.
+tag, would increase the ranking of the website.
+
+39 Unternehmen sind Internet-ﬁt—Telekom Presse, http://www.telekom-
+
+presse.at/Unternehmen_sind_Internet-ﬁt.id.11184.htm.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+6
+1
+2
+5
+2
+1
+9
+3
+8
+0
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Stephan Ott and Maximilian Schubert . ‘It’s the Ad text, stupid’
+
+ARTICLE
+
+31
+
+that visibility is a de facto requirement. This interpret-
+ation would, however, lead to a large number of unan-
+swered questions. The second is that the Court right
+away assumes visibility. Such a view would be based on
+a highly questionable presumption, which is hard to
+accept.
+
+Establishment of the proof of visibility
+We look forward to seeing how lawyers all over Europe
+will react to the decision and if they will be able to
+convince national courts of the idea that there is still
+room left for the interpretation of the advertising func-
+tion in the context of keyword advertising. If they
+succeed in doing so,
+favourable decisions for trade
+mark owners might follow. To reach this goal, lawyers
+might point to eye-tracking studies, which are used to
+demonstrate users’ (visual) perception of search results
+and advertisements. Their relevance, however,
+is not
+undisputed.40
+
+According to one eye-tracking study, issued by an
+Austrian company, ads placed above the search result
+(Top-Ad) receive almost as much attention (93%) as
+the ﬁrst (organic) search results (95%).41 Thus, if the
+website of the trade mark owner is not located within
+the users ﬁeld of attention, which means among the
+ﬁrst two search results (the so-called ‘Golden-Triangle’),
+a competitor might actually receive more attention
+than the trade mark owner.
+
+The eight and the ninth search results are only regis-
+tered by every third user.42 In the cases decided by the
+ECJ so far, the trade mark owner was always displayed
+as the ﬁrst search result (the ECJ cautiously referred to
+as ‘in one of
+this is,
+however, not the case, a prudent lawyer, displaying
+empirical evidence, might succeed in convincing a
+national court of a trade mark infringement.
+
+the highest positions’).43 If
+
+40 The ‘mind-eye’ theory is based on the assumption that an object viewed
+is at the same time also the objective of cognitive reception. This thesis is
+partly contradicted by the hypothesis of ‘Inattentional Blindness’. This
+hypothesis stipulates that, while being occupied with a task and thus
+diverting attention to it, users fail to perceive unexpected information or
+information obviously not related to the task, even if it appears at
+ﬁxation and is thus optically perceived by the users. In the context
+of online advertising, this means that users’s speed in perceiving ads
+diminishes if their brains have ‘learnt’ during previous searches that
+the information shown in the areas of the screen where ads are usually
+displayed is not relevant to their search task. Although the information is
+ﬁxated upon by the eye, it is not subject to the users’ attention and thus
+not consciously perceived.
+
+Please see Benway/Lane, ‘Banner Blindness: Web Searchers Often Miss
+“Obvious” Links’, http://www.internettg.org/dec98/banner_blindness.html;
+Simons/Chabris, ‘Gorillas in Our Midst: Sustained Inattentional
+Blindness for Dynamic Events’, Perception 1999, 1059 ss; Bruke et al.,
+‘High-cost Banner Blindness: Ads Increase Perceived Workload, Hinder
+Visual Search, and are Forgotten’, ACM 2005, 425; Duchowski, Eye
+
+Considering that only a small number of users actu-
+ally pay attention to the Side-Ads on the right-hand
+side of the search result page, the following differen-
+tiations could be made:
+† If the website of the trade mark owner is displayed
+as the ﬁrst or the second result in the search results,
+visibility is guaranteed.
+† If the website of the trade mark owner is displayed
+between positions 3 and 10, visibility against the
+the
+Side-Ads is guaranteed, not however against
+Top-Ads.
+† If the website of the trade mark owner is not dis-
+played among the ﬁrst 10 search results, it receives
+insufﬁcient visibility and the advertising function is
+adversely affected.
+
+Taking into account that advertisers can only inﬂuence
+the position of an ad to a certain degree and that
+search results are not static, the existence of a trade
+mark infringement would be subject to continuous
+change,
+the
+desired legal certainty.
+
+thus resulting in the very opposite of
+
+Facts and assumptions
+In the future, an impairment/adverse effect of
+the
+advertising function will only be able to be ruled out if
+the visibility of the website of the trade mark owner in
+the search results is sufﬁciently provided, as was the
+case in the examined cases. If the facts are different,
+new lawsuits might lead to fact-speciﬁc case-by-case
+decisions which increase legal uncertainty.
+is
+assumed that
+the advertising function cannot be
+adversely affected by the AdWords service, one will
+have to accept that this reasoning is not based on
+empirical facts, but on highly questionable assumptions
+by the Court.
+
+If
+
+it
+
+Tracking Methodology (Springer, 2007), 270; Wright/Ward, Orienting of
+Attention (Oxford University Press, 2008), 151; Guo, ‘User Experience
+Research an Management of Online Advertising and Merchandising’, in
+Proceedings of the 3rd International Conference on Internationalization,
+Design and Global Development, Springer, 2009, 457.
+
+41 Ladsta¨tter, Wie werden die AdWords auf, http://www.google.at
+wahrgenommen? Ein Vergleich von Benutzern mit Kauf- und
+Informationsabsicht anhand von Eyetracking, http://www.usability.at/
+download/studiegoogleadwordswirkung.pdf.
+
+42 The fact that users usually restrict themselves to checking the ﬁrst couple
+
+of results is also known as the ‘Primacy Effect’. Machill/Welp (ed.),
+Wegweiser im Netz (Verlag Bertelsmann Stiftung, 2003), 255; Rath, Das
+Recht der Internet-Suchmaschinen (Richard Boorberg Verlag, 2005), 74;
+Google-Nutzer nehmen nur obere Treffer wahr, http://faz-community.
+faz.net/blogs/netzkonom/archive/2008/11/05/die-blicke-der-google-
+nutzer.aspx.
+
+43 Google France, para 97.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+6
+1
+2
+5
+2
+1
+9
+3
+8
+0
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+32
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2011, Vol. 6, No. 1
+
+The liability of Google
+The decision of the ECJ
+The Court correctly stated that Google’s AdWords
+service is an ‘information society service’
+in the
+meaning of the E-Commerce Directive,44 as it provides
+means of electronic equipment for the processing and
+storage of data at the individual request of a recipient
+(para 110). But
+the liability exemption as a host-
+provider according to Article 14 ECD is only applicable
+if this service is of a ‘mere technical, automatic and
+passive nature’, which implies
+service
+provider ‘has neither knowledge of nor control over the
+information which is transmitted or stored’ (para 113).
+The fact
+to
+payment or that it provides ‘general information’ to the
+advertiser ‘cannot have the effect of depriving Google
+the exemption . . .’ (para 116). Previous national
+of
+decisions, especially from France, as well as the opinion
+of
+the Advocate General, have expressed different
+views.45
+
+the AdWords
+
+service is
+
+subject
+
+that
+
+that
+
+the
+
+The crucial
+
+issue, which is left
+
+for the national
+courts to decide, is whether or not AdWords remained
+neutral in the course of drafting the text of the ad
+and in the establishment or selection of keywords
+(para 118).
+
+Criticism and questions left unanswered
+One should analyse what the ECJ has not said and
+which questions it has left untouched. For example, the
+Court did not comment on the scope of liability pro-
+tection. This has already been interpreted by some
+authors as a possible hint that the ECJ, as opposed to
+the German Federal Supreme Court, considers interim
+injunctions to be covered by the liability exemptions.46
+The Court does not touch on the question of whether
+the (analogous) application of the liability exemption
+to search engines is permissible. This is a highly contro-
+in Germany.47 The Court, however,
+versial
+explored whether the activity of the provider (of the
+referencing service, the Court successfully avoided the
+
+issue
+
+use of the term ‘search engine’
+covered by Article 14 ECD.
+
+in this context) is
+
+The decision of whether Google is to enjoy the liab-
+ility exemption rests with the national courts, which
+must decide now whether Google is a ‘neutral’ service.
+Taking into consideration Recital 42 of
+the ECD,
+Google must neither have ‘knowledge of nor control
+over the information which is transmitted or stored’.
+However, as long as Google has no actual knowledge of
+the keyword chosen by an advertiser or his or her
+message,
+it appears unlikely that the service will be
+found not to be neutral. Regarding the requirement of
+‘control over the information’, it is already negated by
+the provider’s ability to maintain his system properly
+and to delete particular ads. The requirement of
+control must
+apparently
+infringing piece of information. But there is no obli-
+gation to actively seek out infringing material (Article
+15 ECD).
+
+extend to
+
+every
+
+also
+
+The auctioning of keywords in the course of ‘sealed
+second bid options’ is a routine procedure on the inter-
+net.48 Analysed in detail, every service offered by
+Google in the course of booking keywords and the sub-
+sequent display of the ads qualiﬁes as being purely
+technical and thus neutral. For example, the Keyword
+Tool has drawn a considerable amount of criticism in
+France, where it has been subject to change. While the
+tool used to be available exclusively within AdWords, it
+has now been transformed into the publicly available
+Search Based Keyword Tool, whose focus has clearly
+shifted from suggesting additional keywords to provid-
+ing advertisers with ‘ideas’ as to how they can improve
+their advertising campaign based on the content of
+their website.49
+
+A service provider must be granted the ability to
+offer a service that meets the needs of his custo-
+the provider may chose to
+mers. While doing so,
+also
+customers
+auxiliary
+systems without
+loosing its liability exemption. Following this reason-
+ing, a US court
+the
+Keyword Tool should be seen as neutral and that
+
+in March 2010 ruled that
+
+offer
+
+44 Directive 2000/31 on certain legal aspects of information society services,
+in particular electronic commerce, in the Internal Market. Subsequently:
+ECD.
+
+45 See Ott, ‘EuGH: Schlussantra¨ge in den AdWords-Verfahren—
+
+Konsequenzen fu¨r die Anbieterhaftung in Deutschland’ MMR-Aktuell
+11/2009, V s with additional references. The reasoning of the ECJ is
+conclusive, given that the text of ECD does not mention the issue of
+payment, as it effectively aims to regulate commercial services, Recital 18;
+also see Art 2 (a) ECRL.
+
+46 Stadler, ‘EuGH: Google verletzt mit AdWords keine Markenrechte’ MMR-
+
+Newsdienst 5/2010, with additional references.
+
+47 BGH, MMR 2004, 529 ff.—Scho¨ner Wetten. Criticised by Sieber/
+
+Liesching, Die Verantwortlichkeit der Suchmaschinenbetreiber nach dem
+‘Haftung fu¨r
+Telemediengesetz, supplement of MMR 8/2007, 4 ss; Ott,
+Hyperlinks—Eine Bestandsaufnahme nach 10 Jahren’ WRP 2006, 691,
+694 s; Ott, ‘Haftung fu¨r Hyperlinks in Deutschland, O¨ sterreich und den
+USA’, GRUR Int. 2007, 14, 16 s. In his opinion, the General Advocate
+clearly supported the view that the liability exemption for caching should
+be extended to ‘organic’ search results. Footnote 71 of the opinion.
+
+48 Please see above footnote 28.
+49 Schubert, Google Keyword Tool: ‘Suggestions for TM-Infringements’ or
+‘Neutral Ideas’?, http://austrotrabant.wordpress.com/2010/05/16/googles-
+keyword-tool-suggestions-for-tm-infringements-or-neutral-ideas/.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+6
+1
+2
+5
+2
+1
+9
+3
+8
+0
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Stephan Ott and Maximilian Schubert . ‘It’s the Ad text, stupid’
+
+ARTICLE
+
+33
+
+Google is thus exempted from liability in accordance
+with 47 USC §230.50
+
+Outlook
+There are two more AdWords cases upon which the
+ECJ must decide. They stem from the Hoge Raad
+der Nederlanden51 and from the High Court of
+Justice for England and Wales.52 The answers to the
+
+remaining references are largely predictable and will,
+if the ECJ remains cryptic, not help to clarify the
+subject nor lead to the much desired legal certainty.
+Thus we are left to see what conclusion the referring
+national courts will draw from the decisions. Con-
+cerning the French case, a jurist noticed:
+‘You must
+bear in mind that the court is in France, the claimant
+is French, the defendant is American. Where do you
+think this will lead?’53
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+6
+1
+2
+5
+2
+1
+9
+3
+8
+0
+7
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+50 ‘Rather it is a “neutral tool,” that does nothing more than provide
+
+52 High Court of Justice, Chancery Division, Interﬂora, Inc. v Marks and
+
+options that advertisers could adopt or reject at their discretion, thus
+entitling the operator to immunity.’ Jurin v Google, Inc., 2010 US Dist.
+LEXIS 18208 (E.D. Cal., 1 March 2010). Regarding 47 USC § 230 please
+see Ott, ‘Die Entwicklung des Suchmaschinen- und Hyperlink-Rechts im
+Jahr 2007’ WRP 2008, 393, 400.
+
+51 Hoge Raad der Nederlanden, Portakabin v Primakabin, decision of the 12
+
+December 2008, C-558/08.
+
+Spencer PLC [2009] EWHC 1095(Ch).
+
+53 Michael Edenborough during the IPKats’ ‘Google AdWords Rapid
+
+Response Seminar’, London, 25 March 2010, http://ipkitten.blogspot.com/
+2010/03/google-adword-rapid-response-seminar_29.html.
+
+

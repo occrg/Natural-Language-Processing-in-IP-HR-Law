@@ -1,0 +1,1740 @@
+ International Journal of Cultural Property   (2016)   23:  1– 31 . Printed in the USA. 
+ Copyright © 2016 International Cultural Property Society 
+ doi:10.1017/S0940739116000011 
+
+                     
+
+    The Destruction of Cultural Property 
+in the Syrian Conflict: Legal Implications 
+and Obligations 
+       Emma     Cunliffe   *  
+
+   Nibal     Muhesen    †   
+
+   Marina     Lostal    ‡   
+
+    
+
+         Abstract:     This article comes as the conflict in Syria has entered its fifth year, 
+bringing with it loss of life and the displacement of the Syrian people as well 
+as extensive damage to, and destruction of, the country’s cultural heritage. 
+This article will first provide an overview and explanation of the national 
+and international legal framework for protecting cultural property in 
+conflict as it applies to the Syrian State and the non-State actors involved, 
+using examples from the whole conflict, including the recent actions of 
+Da’esh. Second, we demonstrate that the destruction of all types of cultural 
+property, regardless of its importance, can be considered a prosecutable 
+violation of these laws, and we examine the possibilities for prosecution. 
+Following from this discussion, we question whether the existing framework 
+can be considered effective and consider the role the international heritage 
+community can play.      
+
+  *  Endangered Archaeology in the Middle East and North Africa ,  Institute of Archaeology ,  University 
+of Oxford ,  United Kingdom ; Email:  emma.cunliffe@arch.ox.ac.uk  
+   †   Archaeology and Heritage of Syria ,  Department of Cross-Cultural and Regional Studies ,  Carsten 
+Niebuhr Center for Multi-Cultural Heritage ,  University of Copenhagen ,  Denmark  
+   ‡   Lecturer in International Law ,  Hague University ,  The Netherlands  
+
+ ACKNOWLEDGMENTS:     We are grateful to the University of Copenhagen and to Ingolf Thuesen, 
+the head of the Department of Cross-Cultural and Regional Studies, for his continuous support for 
+the work on Syrian archaeology and heritage. We are also grateful to Jack Williams, Georgia State 
+University College of Law, for his comments on an early version of this article, and to Roger O’Keefe, 
+for his comments on military necessity. 
+
+1
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+ 2   
+
+ EMMA CUNLIFFE ET AL
+
+  The  destruction  and  protection  of  cultural  heritage  in  armed  conflicts  has  been 
+a feature of war for thousands of years and has received increasing international 
+focus over the last two decades. While cultural heritage is threatened during peace-
+time, the severest damage takes place during social disorder and conflict, not only 
+resulting in the loss of something unique and irreplaceable but also psychologically 
+affecting the communities linked to it  1   and potentially causing increased violence.  2   
+Furthermore,  it  is  linked  to  cultural  cleansing—the  removal  of  communities  by 
+eliminating their presence in the landscape, leaving them with no “home” to return 
+to, should such an event become possible.  3   Cultural protection, on the other hand, 
+is increasingly linked to the recovery of psychological trauma and peace building 
+during  and  after  conflict,  in  addition  to  the  economic  tourism  benefits  it  can 
+provide.  4   
+
+ In contrast, it is sometimes argued that the targeting of sites and monuments 
+is irrelevant, given the other extensive human rights abuses that often accompany it. 
+However,  international  humanitarian  law  (IHL),  which  is  the  body  of  interna-
+tional law that regulates the conduct of armed conflict and seeks to limit its effects, 
+protecting people who are not part of the hostilities, binds those involved in 
+a  conflict to respect cultural property and promote its protection. The violation 
+of this core obligation constitutes a war crime, and, under certain circumstances, 
+its destruction may even amount to crimes against humanity, as explained by the 
+International Criminal Tribunal for the former Yugoslavia:
+
+  When perpetrated with the requisite discriminatory intent, [destruction] 
+amounts to an attack on the very religious identity of the people. As such 
+it manifests a nearly pure expression of the notion of “crimes against 
+humanity” for all of humanity is indeed injured by the destruction.  5    
+
+  The  conflict  in  Syria  has  led  to  hundreds  of  thousands  of  deaths,  millions  of 
+displaced  people,  and  the  damage  and  destruction  of  the  country’s  cultural 
+heritage. Although the generally accepted start date is 15 March 2011, “armed 
+conflict” —the point at which a conflict moves beyond an internal disturbance and 
+IHL becomes applicable—was not officially declared until June 2012.  6   The cultural 
+heritage in Syria has been profoundly involved in the conflict since the beginning, 
+when the eighth-century al-Omari mosque was shelled.  7   Reports of damage to 
+historic mosques, churches, and archaeological and heritage sites have continued 
+to mount, and by 27 June 2011, the first group, Le Patrimoine archéologique syrien 
+en danger, had formed to record and raise awareness of the extent of the damage. 
+Today,  Syria’s  heritage  is  still  continuously  exposed  to  various  actions  that  are 
+resulting in partial or total destruction. 
+
+ There is a national and international legal framework designed for cultural prop-
+erty protection (CPP) in such situations, but (as will be shown) too often it is not 
+applied or enforced, and it is little understood by most cultural heritage professionals. 
+The Syrian conflict is particularly complex as it is asymmetrical (that is, internal and 
+involving the State and non-State actors  8  ) rather than between State parties.  9   
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+LEGAL IMPLICATIONS AND OBLIGATIONS  
+
+  3 
+
+ This article will first provide an overview and explanation of the legal framework 
+for protecting cultural property in conflict as it applies in Syria. Previous studies 
+have focused on World Heritage sites  10   or on specific applications of law.  11   Second, 
+we will demonstrate that the destruction of all types of cultural property, regardless 
+of its importance, can be considered a prosecutable violation of law. Following 
+from this discussion, we will question whether the existing framework can be 
+considered effective and consider the role the international heritage commu-
+nity can play.  
+
+ THE NATURE OF THE DAMAGE 
+
+ Syria contains some of the most globally varied and important cultural heritage in 
+the Mediterranean: religion and tangible and intangible heritage have intertwined 
+over many millennia. The country hosts six World Heritage sites, which are all now 
+on the List of World Heritage in Danger, and 11 sites on the World Heritage Tentative 
+List.  12   However, while it has been argued that Syria’s world heritage is deserving 
+of special legal protection,  13   and international investigation has often focused on 
+these conspicuous sites,  14   Syria also has a rich national and local heritage, reflect-
+ing  the  diversity  of  its  population.  While  many  Syrians  whom  the  authors  have 
+spoken to feel a keen sense of pride in their “universal heritage,” it is often national 
+or local heritage that contributes most to a sense of identity,  15   and both have also 
+been devastated.  16   Their loss should not be overshadowed by the destruction of 
+the higher profile World Heritage sites, so this article will focus as far as possible 
+on other examples. 
+
+ The direct targeting and destruction of sites can have multiple causes: the preven-
+tion of the location’s political use; accidental collateral damage in armed clashes; 
+part of indiscriminate firing of guns and mortars at entire areas; or an obstacle to 
+other targets and purposively targeted to clear a path.  17   In addition, many sites are 
+reused, whether because they are conveniently located, provide a convenient exist-
+ing structure for reuse, or are valuable for their historic and still current strategic 
+vantage  points.  There  are  also  occasions  when  sites  are  deliberately  targeted  for 
+their associations with specific cultural groups. 
+
+ Looting,  and  the  ensuing  illicit  trade,  is  also  a  common  source  of  extensive 
+damage. Even the removal of objects with shovels can cause extensive damage to 
+the fabric of a site, and many sites have been bulldozed to enable easier access to 
+saleable objects. These objects are as much a part of Syria’s heritage as the sites and 
+museums  they  come  from,  and  once  stolen,  are  extremely  difficult  to  trace  and 
+return, particularly since objects looted from sites are unrecorded. 
+
+ While reoccupation and illegal building were problematic before the conflict,  18   
+the deterioration of security has enabled an increase in these issues. The conflict 
+has  led  to  a  massive  displacement  of  people  and  the  abandonment  of  entire 
+villages. Desperate for shelter, groups of civilians have reoccupied ancient sites and 
+even underground tombs and adapted them to their life. 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+ 4   
+
+ EMMA CUNLIFFE ET AL
+
+ Lastly, it is important to emphasize the damage caused by iconoclasm, a specific 
+form of damage that is increasing in the Syrian conflict. Although the seventeenth-
+century term specifically means the “breaking of images,”  19   in current literature, 
+it is usually given a wider definition that includes the destruction of specific reli-
+gious and symbolic buildings for a religiously motivated purpose, rather than for 
+a militaristic or social one.  20   There have been increasing documented outbreaks 
+of violence against religious and ethnic objects and structures, committed by 
+extremists. International attention, in particular, is now focused on the extremist 
+group Da’esh (more commonly known as the Islamic State of Iraq and the Levant 
+(ISIS)), who have destroyed monuments and sites as part of their campaign against 
+idolatry—for example, in Raqqa, and at Heraqla.  21   In addition, they have been 
+linked to the extensive looting and sale of many more artifacts to purchase weapons, 
+causing some to question the religious motivations underlying their actions.  22     
+
+ CULTURAL HERITAGE OR CULTURAL PROPERTY? 
+
+ It  is  important  to  understand  that,  legally  speaking,  distinctions  are  frequently 
+made between cultural property and the broader term cultural heritage, and both 
+international  and  national  definitions  of  heritage  vary.  This  article  focuses  on 
+physical heritage and so uses the legal definition for cultural property in the 1954 
+Convention for the Protection of Cultural Property in the Event of Armed Conflict 
+(Hague Convention).  23   Article 1 specifies that cultural property includes:
+
+  (a)  movable  or  immovable  property  of  great  importance  …  such  as 
+monuments of architecture, art or history, whether religious or secular; 
+archaeological sites; groups of buildings which, as a whole, are of his-
+torical  or  artistic  interest;  works  of  art;  manuscripts,  books  and  other 
+objects of artistic, historical or archaeological interest; as well as scientific 
+collections and important collections of books or archives or of reproduc-
+tions of the property defined above; (b) buildings whose main and effec-
+tive purpose is to preserve or exhibit the movable cultural property … (c) 
+centers containing a large amount of cultural property.  
+
+    TREATY AND CUSTOMARY LAW 
+
+ Changes  in  the  conduct  of  war,  both  ethical  and  operative,  have  resulted  in  a 
+complex  legal  cultural  protection  framework  in  national  and  international  law. 
+Building on their growing international acceptance, there is a gradually increasing 
+body of precedent for prosecution and implementation. However, to the non-
+specialist, the different legal terms and their implications remain confusing. There 
+is  an  important  distinction  between  customary  international  law  and  the  more 
+commonly known form of international law, called treaty law. International con-
+ventions (“treaties”) are legal instruments negotiated, elaborated, and adopted by 
+States. However, they rarely cover non-international (that is, internal) armed con-
+flicts, are not always ratified by all States, and are therefore binding in principle 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+LEGAL IMPLICATIONS AND OBLIGATIONS  
+
+  5 
+
+only on State parties. Treaties only become binding on those States that decide to 
+join. A signature expresses the intention of the State to comply with a treaty, but 
+States must still ratify it or accede to it (usually involving national parliamentary 
+approval) in order to be bound. 
+
+ Therefore, not all international legislation of this type referring to CPP is binding 
+on all parties involved in the Syria conflict. The country of Syria is only explicitly 
+bound by the treaties it has ratified and less definitively by the treaties it has signed. 
+How these treaties apply to non-State actors is complex and still being examined by 
+legal experts. However, even if a State has not signed or ratified a convention, some 
+treaties have become customary international law, which is binding on all States. 
+According to the International Committee of the Red Cross (ICRC):
+
+  [It] is made up of rules that come from “a general practice accepted as 
+law” and that exist independent of treaty law. Customary international 
+humanitarian  law  is  of  crucial  importance  in  today’s  armed  conflicts 
+because  it  fills  gaps  left  by  treaty  law  in  both  international  and  non-
+international conflicts … To prove that a certain rule is customary, one 
+has to show that it is reflected in state practice and that the international 
+community believes that such practice is required as a matter of law.  24    
+
+  Bearing this in mind, we will now present a brief overview of the key legal treaties 
+and customary laws applicable in Syria, beginning with cultural heritage destruc-
+tion in IHL, and then examine the more specific expressions of CPP in treaty law 
+and then in domestic law. Through this overview, we will demonstrate the many 
+ways the destruction of cultural property violates national and international law, 
+even given the asymmetric nature of the conflict. However, it is not enough to 
+have a legal framework, and the final section will examine the possibilities for 
+enforcement.   
+
+ INTERNATIONAL CUSTOMARY LAW 
+
+ International human rights law (IHRL) includes the destruction of cultural heri-
+tage, and Syria has acceded to / ratified many international conventions that it is 
+therefore  obliged  to  comply.  The  1948  Universal  Declaration  of  Human  Rights 
+(ratified  by  Syria)  forms  the  basis  of  IHRL.  Article  27  states  that  “[e]veryone 
+has the right to freely participate in the cultural life of the community, to enjoy 
+the arts.”  25   As a declaration (compared to, for example, a convention), it is not 
+binding, but the 1976 International Covenant on Economic, Social and Cultural 
+Rights (ICESCR) (ratified by Syria) guarantees some of its rights.  26   According to 
+the  ICESCR  Committee,  it  obligates  the  preservation  and  presentation  of  man-
+kind’s cultural heritage (Article 15(1)(a)). The UN Human Rights Council made it 
+clear that it is applicable in conflict situations.  27   It is debatable to what extent this 
+applies to Syria’s entire cultural heritage, but since world heritage is “heritage of 
+mankind as a whole,” the damage and partial destruction of all of its World Heritage 
+sites must surely qualify as a violation. For example, military forces have occupied 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+ 6   
+
+ EMMA CUNLIFFE ET AL
+
+parts of Aleppo, including the citadel and the Umayyad Mosque. This has led to 
+the targeting of both sites, resulting in structural damage and the loss of the his-
+toric Al-Wakfya library and the minaret of the mosque. One recent examination 
+of 210 locations in the World Heritage site determined that 22 had been destroyed, 
+48 were severely damaged, 33 were moderately damaged, and a further 32 had sus-
+tained possible damage.  28   Causes included shelling impacts (which damaged, for 
+example, the citadel glacis and destroying the minaret of the Umayyad Mosque), 
+fires caused by shelling (which destroyed, for example, most of the ancient souq 
+and  the  historic  Al-Wakfya  library),  and  the  use  of  explosives  to  target  military 
+occupied buildings (which were detonated, for example, in the tunnels under the 
+historic Carlton Hotel, destroying it) ( Figure 1 ).     
+
+ The 1949 Geneva Convention and its three protocols (of which Syria is a party 
+only to the first) are often cited in discussions of conflict legislation: they are con-
+sidered a cornerstone of IHL and the subset of IHRL that applies to armed con-
+flicts, setting baselines for the treatment of those uninvolved in the conflict.  29   In 
+the context of CPP, they ban the “pillage” (that is, looting) of civilian properties, 
+including cultural property, and prohibit acts of hostility against, the military 
+use  of, or reprisals against historic monuments and works of art. However, it is 
+with respect to these treaties that we see the first complexities of the asymmetric 
+conflict. Syria is not party to Additional Protocol II, which extends the previous 
+
+ 
+
+ 
+
+  FIGURE  1.  
+    The destruction within the Ancient City of Aleppo, which hosts a very rich 
+urban heritage, including mosques, shrines, and public places such as the  souk  and the 
+ khans . Some of the city’s urban heritage has been severely affected, and some has almost 
+vanished in the conflict. This photograph, showing rubble fills in the district of Sharia 
+al-Sweiqa, was taken in early November 2012 ( © AP Images / Polfoto / Monica Prieto ).    
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+LEGAL IMPLICATIONS AND OBLIGATIONS  
+
+  7 
+
+statues  to  internal  conflicts,  so  this  important  legislation  is  not  applicable.  30   
+Pillaging is nevertheless forbidden by the 1907 Hague Convention IV and the 
+Regulations Concerning the Laws and Customs of War on Land (Hague Regulations), 
+which is considered to be an important part of the body of customary international 
+law (Articles 28 and 47).  31     
+
+ TREATY LAW 
+
+ Today, the principal instrument for CPP is the 1954 Convention for the Protection 
+of Cultural Property in the Event of Armed Conflict (Hague Convention) (ratified 
+by Syria) and its additional 1954 First Protocol (ratified by Syria) and 1999 Second 
+Protocol (signed but not ratified by Syria). These treaties complement the Hague 
+Regulations. Also of international relevance is the 1970 Convention on the Means 
+of Prohibiting and Preventing the Illicit Import, Export and Transfer of Owner-
+ship of Cultural Property (UNESCO Convention) (ratified by Syria), while within 
+Syria,  the  key  legislation  is  the  1963  Antiquities  Law.  32    The  1995  Convention 
+on Stolen or Illegally Exported Cultural Objects (UNIDROIT Convention), which 
+would  provide  a  more  detailed  protection  framework,  has  not  been  signed  by 
+Syria.  33   These tools are intended to help safeguard cultural property by preventing 
+its destruction or use for military purposes and by providing systems of protection 
+and rules for combatants or occupying forces when dealing with the transport and 
+use of cultural property.  34   While there are inconsistencies in their approaches,  35   
+the destruction of culture or cultural property is a war crime. 
+
+ Lastly,  there  are  also  a  number  of  UN  Educational,  Scientific,  and  Cultural 
+Organization (UNESCO) conventions that deal with the importance and manage-
+ment of heritage. For the most part, these conventions lack specific obligations, 
+and it is not clear what level of protection is owed as a result of them; therefore they 
+are accorded only a brief discussion. 
+
+ The 1954 Hague Convention, the Hague Regulations, and the First and Second 
+Protocols are the only legal instruments specifically concerned with the protection 
+of  cultural  property  in  armed  conflict,  defining  cultural  property  and  outlining 
+appropriate measures to undertake in peacetime and during conflict. All warring 
+parties, including non-state actors, are bound to observe, as a minimum, the pro-
+visions relating to respect for cultural property (Article 19(1)).  36   States also agree 
+to prohibit and prevent pillage and vandalism directed against sites, to refrain from 
+direct attack, seizure, or capture, and in cases of occupation, to support the local 
+authority to protect sites. Using cultural property or its immediate surroundings 
+for  military  purposes  that  may  expose  it  to  direct  attack  is  prohibited  except  in 
+cases of “imperative military necessity” (Article 4). Additional articles include the 
+use of a “distinctive emblem” that may be placed on cultural property to protect 
+it from any attacks and the possibility of granting some cultural property “special 
+protection”  (Articles  6  and  8).  In  addition,  each  State  party  agrees  to  prevent 
+the exportation of cultural property if it occupies an area and to return cultural 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+ 8   
+
+ EMMA CUNLIFFE ET AL
+
+property  to  the  competent  authorities  (Article  1  of  the  First  Protocol).  Neither 
+treaty includes direct rules for enforcement, leaving this issue to the State parties. 
+ Under the Second Protocol, rather than simply “ensuring respect,” parties must 
+“do everything feasible” to verify objectives are not cultural property, take all fea-
+sible precautions to minimize damage, and refrain from attacks that would cause 
+incidental damage (Article 7a). The Second Protocol also contains clarification of 
+“imperative military necessity” and rules for enforcement (Articles 6 and 15–21). 
+There is also a revised system of “special protection,” called “enhanced protection” 
+(Article 10), since the initial system was unfeasible. Most importantly, it applies all 
+of its provisions to internal conflicts. Although Syria has not ratified the Second 
+Protocol, it did sign it at the time of its adoption. According to the principles of the 
+1969 Vienna Convention on the Law of Treaties, State parties to these conventions 
+have made a formal agreement to comply with the tenets.  37   A State that has signed, 
+but not ratified, a treaty has stated its intent to ratify the treaty and is therefore 
+obliged to refrain from “acts which would defeat the object and purpose” of the 
+treaty. These obligations end if the State declares that it does not intend to become 
+a party to the treaty (Article 18). Syria has made no such declaration. 
+
+ A recent study carried out by the ICRC suggests that the basic principles of the 
+1954 Hague Convention have become part of customary law and are applicable in 
+internal conflicts.  38   The study was based on an examination and review of State 
+practice and “belief that such practice is required, prohibited or allowed … as 
+a matter of law.”  39   While there is no global agreement regarding which parts of the 
+Hague Convention reflect customary law, the core provisions applicable to both 
+State and non-State parties include: the responsibility of nations to protect cultural 
+property in their own territory; the obligation to avoid targeting cultural sites 
+(subject to the imperative military necessity waiver); the obligation to refrain from 
+acts of reprisal against cultural property; and the obligation to prevent (members 
+of the military from engaging in) theft, pillage, and the misappropriation of cul-
+tural property.  40   
+
+ Given the core provisions in the Hague Convention that are applicable in non-
+international conflicts such as Syria, the potential list of violations is considerable. 
+While there is no agreement about what constitutes “respect,” a number of sites 
+appear to have been targeted for no obvious military reasons. In some cases, the 
+damage has been so extensive that not only significant buildings but also large 
+sections of entire cities have been reduced to rubble, as took place, as previously 
+discussed, in Aleppo as well as in large areas of historic (and modern) Homs 
+( Figure  2 ).  Many  more  sites  were  damaged  when  these  buildings  (and  the  sur-
+roundings) were used for military purposes and then damaged even more when 
+they  were  subsequently  targeted.  A  considerable  number  of  videos  and  images 
+show the military (re)use of strategic locations such as citadels (for example, Homs 
+or Qal’at al-Shmemis), high mosque minarets as sniper positions (such as the Abu 
+Bakr Mosque in Daraa), and even the use of churches, museums, and historic houses 
+as army barracks, training camps, and field hospitals (for example, the Museum of 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+LEGAL IMPLICATIONS AND OBLIGATIONS  
+
+  9 
+
+ 
+
+ 
+
+    The destruction within the city of Homs, showing clear evidence of the 
+
+  FIGURE  2.  
+lawless, systematic destruction of the urban landscape from heavy fighting. This pho-
+tograph, which shows damaged buildings in the Jouret al-Chiyah neighborhood, was 
+taken in early June 2013 by a citizen journalist and provided by “Lens Young Homsi” 
+( © Polfoto / AP Images ).    
+
+Ma’arat al-Nu’man, Idlib, or Deir Cherubim, Saydnaya). Aside from the damage 
+caused  by  carelessness,  military  occupation  often  involves  the  digging  and  con-
+struction  of  defensive  positions  and  tank  emplacements  in  the  archaeological 
+layers, such as at Ebla,  41   Apamea, and Tell Jifar.  42   These actions fall under the pro-
+hibition of acts of hostility directed against cultural property and the use of it and 
+its surroundings for purposes that may lead to their damage or destruction (both 
+of which may be waived for imperative military necessity).     
+
+ Since military use is one of the greatest causes of damage to sites, the ‘impera-
+tive military necessity’ waiver deserves a brief consideration. This exception is not 
+defined in the 1954 Hague Convention itself. It was clarified in the Second Protocol 
+to which Syria is not a party. It has been argued that the provision significantly 
+undermines the provisions as a whole,  43   and the entire concept has been exten-
+sively debated,  44   but no consensus has been reached. Marina Lostal has argued that 
+the 1954 Hague Convention provides a stringent legal standard with respect to the 
+prohibition of actions of hostility against cultural property, as a site must consti-
+tute a “military objective”  before  the imperative military necessity waiver can 
+be considered.  45   Given this, the many attacks upon civilian cultural property, and 
+the first occupation of a site for military purposes, must be considered unlawful. 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+ 10   
+
+ EMMA CUNLIFFE ET AL
+
+If a site is used for military purposes, under some circumstances it may then be 
+lawful to attack the site. Of the various examples discussed earlier, conflict occurred 
+at Homs citadel and Ebla (which both changed hands several times), Apamea, the 
+Museum of Ma’arat al-Nu’man, and the Abu Bakr mosque only after the site was 
+subject to military use. 
+
+ The  determination  of  military  necessity  is  an  “open-textured”  international 
+standard—that is to say, it has an unspecific definition—and investigations would 
+be conducted by the State applying the standard  46   and interpreted by reference to 
+the concept of the “military objective.”  47   Any international court or tribunal with 
+jurisdiction over the matter can review it.  48   However, as modern technological 
+capabilities advance, it is likely that the type of attack must also be considered, in 
+addition to determining the necessity of the attack, to determine if excessive force 
+resulting in destruction was used.  49   General Dwight Eisenhower wrote in his staff 
+orders of 29 December 1943: “The phrase ‘military necessity’ is sometimes used 
+where it would be more truthful to speak of military convenience or even of per-
+sonal convenience. I do not want it to cloak slackness or indifference.” Detailed 
+investigations are necessary on a case-by-case basis when the security situation 
+allows. Aspects to consider should include military records and diaries and witness 
+and  expert  testimonies,  along  with  other  information  that  may  help  to  provide 
+insight  into  the  military  situation  at  the  time  of  the  incident.  It  is  important  to 
+stress that the imperative military necessity test must not be made with hindsight 
+but that it must take into account the circumstances of the time. 
+
+ Article  6  of  the  Hague  Convention  suggests  marking  sites  with  a  distinctive 
+emblem, but this is problematic. Directly identifying a place as important can asso-
+ciate it with a particular culture and can render it a deliberate target (as happened in 
+Croatia), leading to disagreement about whether to implement the provision since 
+compliance could also result in destruction.  50   Fortunately, it is not mandatory, 
+so there is no penalty for failure to comply. 
+
+ The last aspect of the 1954 Hague Convention that requires elaboration is the 
+prohibition and prevention of pillage (Article 4(3)). Illegal excavations and thefts 
+have been extensively reported at sites (and, to a much lesser extent, at museums) 
+across Syria.  51   Although looting is destructive, it has led in some cases to the site’s 
+near-total  destruction,  such  as  at  Dura  Europos.  52    Official  sources  list  several 
+museums that have been looted, but social media groups suggest the true number 
+could be higher.  53   The majority of the items taken have been lost without a trace, 
+even with international assistance. An eighth-century Aramaic golden statue was 
+stolen from the museum of Hama at the start of the conflict: the theft was reported 
+to Interpol and its image was circulated on the December 2012 list of most wanted 
+missing objects, but the item was never located ( Figure 3 ).     
+
+ According to the 1954 Hague Convention, States agree to prohibit and prevent 
+the pillaging of sites. However, it has been argued that while the literal interpreta-
+tion of this phrase seems to impose an obligation to prevent any pillage, including 
+such action by the local population, it may actually only refer to acts committed by 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+LEGAL IMPLICATIONS AND OBLIGATIONS  
+
+  11 
+
+ 
+
+ 
+
+  FIGURE  3.  
+    An Aramaic gilt bronze statue dating to the eighth-century  bc  was stolen from 
+the museum of Hama in the early stages of the conflict. In December 2012, the statue was 
+put on Interpol’s “The Most Wanted Works of Art” poster, and in May 2012, Interpol 
+also called for vigilance about the looting of ancient mosaics in Syria (photograph from 
+2009, courtesy of D. Osseman).    
+
+the military of the State party.  54   While military parties may have been complicit in 
+the looting at some sites—for example, in Apamea—the looting has been far more 
+widespread  than  what  is  reported,  and  this  phrase  is  very  limiting.  55    However, 
+under IHL, “each party to the conflict must protect cultural property (applicable 
+in international and non-international armed conflict).”  56   This protection should 
+include the prevention of looting as it can cause catastrophic site destruction, but 
+this has not yet been explored within the legal framework and, instead, legal cases 
+have only focused on the removal of objects.  57   
+
+ The 1970 UNESCO Convention is the most broadly ratified treaty regarding 
+illicit cultural property.  58   It clearly states that “the export and transfer of ownership 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+ 12   
+
+ EMMA CUNLIFFE ET AL
+
+of cultural property under compulsion arising directly or indirectly from the 
+occupation of a country by a foreign power shall be regarded as illicit.” It defines 
+preventative measures State parties should take to prevent the import and acquisition 
+of illegally exported cultural property and binds them to return objects if requested 
+by the State party of origin. This latter provision covers only stolen inventoried 
+objects,  and,  unfortunately,  illicitly  excavated  objects  are  excluded.  The  date  of 
+the convention—1970—is usually taken as the date from which these provisions 
+should be enforced. Objects that were illegally removed before this date are not 
+covered. 
+
+ Whilst Syria has ratified (but not implemented) the UNESCO Convention, it 
+only  deals  with  looting  while  States  are  occupied  by  a  foreign  power.  All  States 
+must participate in the fight against illicit trafficking, through increased vigilance 
+against smuggling and by helping to restore stolen objects. The main difficulty is 
+confirming that objects were looted from Syria. Not only is it extremely difficult to 
+trace previously unknown objects taken directly from sites, but also not all museum 
+collections have been inventoried. This latter point is a key requirement of the con-
+vention, and the Syrian Directorate General of Antiquities and Museums (DGAM) 
+are working to rectify this situation. In addition, recovery requires international 
+co-operation, which is dependent upon the recognition of State parties by State 
+parties. The United States, for example, does not currently recognize the Syrian 
+government as a legitimate authority and has no diplomatic relations with them. 
+Under these conditions, restitution may not be legally possible. After several years 
+of pressure, the UN Security Council adopted Resolution 2199 in February 2015, 
+condemning the destruction of Syria’s heritage and reaffirming the importance of 
+preventing the illicit traffic of Syrian artifacts, as it did in Iraq in 2003. Experience 
+from Iraq in 2003 suggested that a similar prohibition reduced the amount of 
+illicit material available on the international market.  59   This has since been fol-
+lowed up by the adoption of the Operational Guidelines for the Implementation 
+of the UNESCO Convention at the third Meeting of State Parties in May 2015 
+as well as a UNESCO-sponsored workshop that is seeking ways to counter the 
+illicit traffic of cultural objects.  60   However, the full implementation of both the 
+UNESCO Convention and Resolution 2199 requires diplomatic relations to be 
+implemented in all countries. While neighboring countries are working to repa-
+triate recovered objects (with varying effort), the total is likely to be only a tiny 
+fragment of those removed. 
+
+ Furthermore, to establish accountability for such violations, and to determine if 
+the Hague Convention is applicable, those responsible must be caught. The iden-
+tity of the looters is largely unknown. The lack of centralized power in some areas 
+has encouraged the emergence of organized groups who carry out both planned, 
+selective  looting  and  un-planned,  “mob”-style  looting.  61    Some  are  armed  gangs 
+incorporating several hundred people, many of whom may be foreigners. Other 
+illegal excavations are conducted on a much smaller scale and are more likely to 
+have been conducted by local people, with motivations including poverty, greed, 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+LEGAL IMPLICATIONS AND OBLIGATIONS  
+
+  13 
+
+and money to fund the conflict. The sale of artifacts to buy arms by combatants is 
+particularly noteworthy  62   and has led to additional prosecutions. 
+
+ At this point, it is worth returning to iconoclasm. Reports detail the destruction 
+of historic Jewish and Islamic shrines, tombs, and representations of Islamic poets 
+and caliphs in Raqqa, Damascus, Aleppo, Dera’a, and Idlib,  63   many of which hold 
+(or held) the remains of significant figures. Numerous churches and mosques have 
+also been attacked.  64   Actions include burning, vandalism, shooting, and stabbing 
+of religious icons and historic documents; the looting of objects and statues; major 
+structural damage; the blowing up of shrines, mihrabs, altars, and religious statues; 
+and the removal of bells that called the community to prayer ( Figures 4  and  5 ). The 
+scale is staggering—for example, almost 1,500 mosques have been targeted appar-
+ently for various reasons, including religious extremism.  65           
+
+ Iconoclasm  is  not  a  specific  crime,  but  it  represents  the  removal  of  people’s 
+ability to participate in the cultural life of the community, as covered under gen-
+eral IHL, and it causes cultural property damage as defined in the 1954 Hague 
+Convention. Religious sites and objects are protected, therefore, from attacks and 
+prohibited from military use like other importance cultural property. 
+
+ Finally, there are also a number of international conventions that deal with the 
+importance and management of various forms of heritage: the 1972 UNESCO Con-
+vention  Concerning  the  Protection  of  the  World  Cultural  and  Natural  Heritage 
+(World Heritage Convention) (ratified by Syria);  66   the 2003 UNESCO Convention 
+
+ 
+
+ 
+
+    The destruction of the inside of the Khalid Ibn Al-Walid mosque in Homs. 
+
+  FIGURE  4.  
+It is believed to contain the tomb of the Muslim military leader Khalid Ibn Al-Walid. 
+The inside of the mosque has been severely affected, and its roof has collapsed. In addi-
+tion, the  mihrab  (niche) was also damaged ( © Polfoto / AP Images ).    
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+ 14   
+
+ EMMA CUNLIFFE ET AL
+
+ 
+
+ 
+
+    The destruction at the eighth-century  ad  Umayyad Mosque in Aleppo, which 
+
+  FIGURE  5.  
+caught fire in August 2012. Besides the severe damage to the prayer hall and the  mihrab  
+(niche), precious Islamic and Pre-Islamic manuscripts were lost due to the conflagration 
+that occurred in the library attached to the mosque in March 2013. The rubble at the 
+corner of the photo indicates the place where the minaret stood ( © Corbis Image ).    
+
+for the Safeguarding of Intangible Cultural Heritage (ratified by Syria );  67   and the 
+2005 UNESCO Convention on the Protection and the Promotion of the Diversity 
+of Cultural Expressions (ratified by Syria).  68   Although they represent binding con-
+ventions, their content is mostly programmatic and provide best practice guide-
+lines.  The  World  Heritage  Convention  operates  as  an  exception,  functioning  at 
+an international level, and requiring State Parties to submit reports detailing the 
+management of sites. Sites that are considered threatened can be placed on the List 
+of World Heritage in Danger, as Syria’s have been, and potentially delisted.  69   
+
+ There are also a number of declarations, of which the most relevant is the 
+UNESCO  Declaration  Concerning  the  Intentional  Destruction  of  Cultural 
+Heritage.  70   It includes a call to members to do everything they can to prevent acts 
+of intentional destruction of cultural heritage and requests its members to become 
+parties to both of the Hague Convention protocols. Declarations such as this one 
+represent the opinion of the majority of the Member States of UNESCO, but 
+they are not legally binding. However, they can prompt the adoption of another 
+international treaty or domestic legislation and may also be relevant in proving the 
+ opinion juris  of customary international law (that is, put very simply, any actions 
+carried out by a State are considered to be practically a legal obligation anyway). 
+In the case of Syria, such declarations have been largely ineffective with regard to 
+the adoption of the 1954 Hague Convention—one permanent member state of the 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+LEGAL IMPLICATIONS AND OBLIGATIONS  
+
+  15 
+
+UN Security Council still has yet to ratify it—the United Kingdom—and only time 
+will tell if it helps reduce looting. 
+
+ It should be noted that many of these conventions and treaties were not written 
+with long-term occupation by states or other parties in mind, as has happened in 
+Syria, and so they have no provisions to deal with these situations. In fact, IHL is 
+only now beginning to examine the legal ramifications of such actions, and new 
+developments/precedent rulings will have to be made.   
+
+ NATIONAL LEGAL PROVISIONS 
+
+ Cultural  property  in  Syria  is  governed  by  the  1963  Antiquities  Law,  which  was 
+amended in 1999, pre-dating several of the key international treaties and conven-
+tions (although updates have been drafted.  71   The Antiquities Law (Arabic  q ā n ū n 
+al-A ṯ  ā r ) explains the nature of Syrian heritage, regulating it with penalties in case 
+of destruction or the failure to protect it: “It is prohibited to destroy, transform, 
+and damage movable and immovable antiquities by writing on them, engraving 
+them, or changing their features, or removing parts of them” (Chapter 1, Article 7). 
+The Antiquities Law sets out laws against the forging and illicit traffic of Syrian cul-
+tural heritage, attributing the ownership of all antiquities and artifacts to the State. 
+Penalties for offences against the country’s heritage range from substantial fines 
+to imprisonment for either short or long periods. Given this, all of the offences 
+discussed above are crimes under the Antiquities Law, and some are more clearly 
+elaborated.  The  Hague  Convention,  for  example,  prohibits  military  use  of  the 
+undefined “immediate surroundings” of a site, while Chapter 2, Article 26, of the 
+Antiquities Law states: “Heavy and hazardous industries, military facilities might 
+not  be  built  within  500  meters  of  registered  immovable  archaeological  and  his-
+torical properties.” However, the specification that facilities might not be “built” 
+could be interpreted to allow the creation or placement of movable or temporary 
+facilities, such as existing mobile weapons arrays or military storage. Similarly, 
+unlike the Hague Convention, the Antiquities Law explicitly recognizes the crime 
+of looting, and forgery is also prohibited. All objects belong to the State, and, there-
+fore, forgeries, object removal (whether from a site or a museum), and the atten-
+dant site destruction are all crimes. While forgeries might not seem problematic, in 
+some cases, almost a third of objects seized were fake, tying up the resources of the 
+bodies tackling the looting and encouraging market demand.  72   
+
+ In addition, the conflict has led to the massive displacement of people and the 
+abandonment  of  entire  villages.  Desperate  for  shelter,  groups  of  civilians  have 
+reoccupied ancient sites and even underground tombs and adapted them to their 
+life. This has resulted in new buildings that violate the integrity of the site, the 
+removal of archaeological material for new buildings, rubbish dumps, looting, and 
+the targeting of the sites. This is particularly prevalent across the limestone massif 
+in Idlib and the Aleppo provinces, home to the “Dead Cities,” some of which form 
+a World Heritage site, and at Bosra, where “the residents found the right moment 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+ 16   
+
+ EMMA CUNLIFFE ET AL
+
+to push through illegal projects (construction in protected area), [and] it is diffi-
+cult to assess today the extent of their illegal actions.”  73   The damage caused by 
+the  re-occupation  of  such  sites  by  civilians  is  not  covered  under  international 
+law, which relates to military forces, so those responsible are only accountable 
+under State law. However, the changes made to the sites do fall under the regu-
+lation of Chapter 1, Article 7, of the Antiquities Law with respect to destroying 
+or  transforming  sites,  and,  as  such,  are  crimes.  Although,  given  the  likely  lack 
+of viable alternatives for accommodation and shelter, it is questionable whether 
+prosecution would be appropriate.   
+
+ THE LEGAL FRAMEWORK: REMARKS 
+
+ Cultural property clearly benefits from a system of legal protection that imposes 
+the obligation to protect cultural property in times of armed conflict. However, 
+the frameworks described are difficult to apply, and in the Syrian case, they have 
+proven to be inadequate—various violations and offences to cultural and religious 
+institutions and objects have taken place. The framework contains problems and 
+a  lack  of  clarity,  relating  to  military  necessity  in  particular.  Furthermore,  the 
+treaties that broaden the scope of the obligations to cover internal conflicts have 
+not been ratified, such as Additional Protocol II to the Geneva Conventions, the 
+Second Protocol to the Hague Convention, or the UNIDROIT Convention. Even 
+when ratified, these international conventions have not necessarily been incorpo-
+rated  into  domestic  legislation,  so  they  have  no  supporting  state  infrastructure. 
+Nonetheless, given its age, the Syrian Antiquities Law is holding up relatively well, 
+with some sections being clearer than the international legislation. The revisions to 
+the Antiquities Law are eagerly awaited, as they are expected to incorporate more 
+inclusive definitions of heritage as well as the obligations from conventions that 
+have been drafted since 1963. It has been demonstrated that the Antiquities Law is 
+complemented by the Hague Convention, and, in some ways, they shore up some 
+of the weaknesses of each other. It is hoped that the revisions will seek the best of 
+both. However, it is unclear how the new statutes will be implemented, given the 
+difficulties in enforcing the current Antiquities Law in the deteriorating security 
+situation. The fact that the destruction can be classed as violations (and, as will be 
+shown, as war crimes) demonstrates that there is a legal set of obligations that do 
+protect cultural property in conflict. These laws have proven to be effective else-
+where (for example, during the North Atlantic Treaty Organization’s operations in 
+Libya).  74   Therefore, the problem is not with the legal framework but, rather, with 
+its enforcement.   
+
+ PROSECUTIONS AND INTERNATIONAL CRIMINAL LAW 
+
+ National and international legal frameworks promote and enforce the standards 
+and values of the societies that created them, attempting to promote these standards 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+LEGAL IMPLICATIONS AND OBLIGATIONS  
+
+  17 
+
+and  prevent  the  consequences  of  their  avoidance  by  means  of  punishment. 
+As such, they represent the aspirations of those societies and should be enforced. 
+However, the nature of the conflict in Syria presents a particular challenge for the 
+enforcement of law. The conflict involves multiple actors, some of whom are part 
+of groups with chains of responsibility, and others are individuals (or may as 
+well be). Ideas of “territory” and, therefore, responsibility are constantly shifting. 
+In addition, the conflict is ongoing, and priorities and resources are unsurprisingly 
+focused on ending the conflict.  75    
+
+ National Prosecutions 
+
+ Nonetheless,  in  the  first  instance,  violations  involving  cultural  property  can  be 
+tried in Syrian law courts as offences against the Antiquities Law, Article 28 of the 
+Hague Convention, and IHL:
+
+  Syria  is   obliged   to  investigate,  prosecute  and  punish  the  authors  of 
+any  such  violations,  irrespective  of  their  allegiance  …  The  poten-
+tial approaches to accountability … would have to be supplemented by 
+national prosecutions in Syria at some point. Experience shows that only 
+a very limited number of cases can be dealt with by other States or the 
+international community.  76    
+
+  However, internal prosecutions are likely to wait until the conflict is resolved and 
+are ultimately likely to favor the victors in the conflict.   
+
+ International Prosecutions 
+
+ Therefore, should the international community feel it is necessary, parties can 
+be held responsible for violations of IHL. Based on the precedents of the ad hoc 
+International Criminal Tribunal for the former Yugoslavia (ICTY), a permanent, 
+treaty-based  criminal  court  was  created  under  the  1998  Rome  Statute  of  the 
+International Criminal Court (Rome Statute).  77   The International Criminal Court 
+(ICC)  is  intended  as  a  last  resort,  investigating  and  prosecuting  only  where 
+national courts have failed, and it is entirely independent. 
+
+ The destruction of cultural property falls under Article 8 (which covers inter-
+nal conflicts), which mandates that intentionally directing attacks against civilian 
+objects or historic monuments that are not military objectives is classed as “war 
+crimes.” However, Article 8 has been described as “anachronistic, incomplete and 
+inconsistent” since it fails to distinguish between the types or scales of attacks on 
+cultural property and imposes no criminal liability on individuals who utilize cul-
+tural property for military purposes, nor does it define cultural objects, even to the 
+extent of the Hague Convention.  78   Its definitions are more in keeping with the 1907 
+Hague Regulations.  79   Illegitimate looting or plunder are accountable.  80   Yet despite 
+the discrepancies between other international conventions and the Rome Statute, 
+Article 21 of the statute states that the ICC must consider (1) its statutes, then 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+ 18   
+
+ EMMA CUNLIFFE ET AL
+
+(2) where appropriate, applicable IHL, and then (3) general principles of law derived 
+from national systems if they are not inconsistent with international systems. This 
+suggests  that  Article  8  should  in  fact  be  interpreted  in  light  of  the  existing  legal 
+framework and that the two are complementary. However, this weakness in the 
+Rome Statute means that the specific prosecution of cultural violations is largely 
+a result of the will and interpretation of the prosecutor, so only a prosecution will 
+determine how useful the ICC is.  81   
+
+ Deliberate attacks against cultural property during armed conflict, such as the 
+destruction  that  occurred  during  the  Balkan  War  in  the  1990s,  in  Iraq  in  2003, 
+and in Mali in 2012, were deemed by the respective tribunals—the ICTY, the Iraqi 
+High  Criminal  Court,  and  the  ICC—to  be  potential  or  actual  violations  of  the 
+laws of warfare incurring individual criminal responsibility and thus, constituting 
+“war crimes,” setting a precedent for the prosecution of the destruction in Syria.  82   
+The UN Human Rights Council has determined that many violations of IHL have 
+occurred, including attacks against, and the pillaging and destruction of, cultural 
+property, citing the Hague Convention and the Rome Statute and confirming some 
+of the offences as war crimes.  83   In addition, iconoclasm falls within the ICC’s def-
+inition of war crime against cultural objects, and the specific unreasonable nature 
+of iconoclasm may be taken into account as an aggravating factor when sentencing. 
+Therefore, there would be grounds for prosecution by the ICC should they gain 
+jurisdiction over the situation. 
+
+ However, although Syria signed the Rome Statute in 2000 and should respect 
+the provisions, it has not ratified it. Without this step, or unless Syria declares 
+acceptance of the ICC’s jurisdiction, the ICC will only have authority if the issue 
+is referred to them by the UN Security Council. Given the divisions surrounding 
+Syria in the UN Security Council, such unified action is unlikely. In 2013, 58 coun-
+tries  sent  a  letter  to  the  UN  Security  Council  requesting  that  the  ICC  begin  an 
+investigation into war crimes in Syria (referring to human rights abuses, not cul-
+tural war crimes).  84   The referral was blocked by some Security Council permanent 
+members, who stated that it might destabilize chances for a peaceful solution. 
+
+ Even  should  a  prosecution  be  made,  there  are  limits  on  the  ICC.  Should 
+a party fail to co-operate, the ICC can only refer the matter back to the Assembly 
+of  State  Parties  (the  oversight  and  legislative  body  of  the  ICC)  or  to  the  UN 
+Security Council. Furthermore, the ICC has no official police force: it is reliant 
+on national authorities to apprehend suspects and transfer them to The Hague, 
+requiring national co-operation.  85     
+
+ State Prosecutions 
+
+ Under  certain  circumstances,  a  third  option  exists.  Article  28  of  the  Hague 
+Convention stipulates that all State parties must take all necessary steps to prose-
+cute persons of whatever nationality who breach the convention, no matter where 
+these violations took place (although whether such cases can actually be pursued in 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+LEGAL IMPLICATIONS AND OBLIGATIONS  
+
+  19 
+
+a particular country depends on its domestic laws).  86   While it is theoretically fea-
+sible, whether this would actually take place is open to question. The willingness to 
+investigate, prosecute, and punish crimes of this nature may be reinvigorated fol-
+lowing the international outrage and condemnation of the deliberate destruction 
+of historical sites occasioned by the Islamic State. If domestic prosecutions based 
+on Article 28 do take place, however, they would be unprecedented.    
+
+ WAYS FORWARD 
+
+ There  are  difficulties  in  securing  the  prosecutions  necessary  to  enforce  the  CPP 
+framework. Issues include the focus and possible bias of nationally located courts; 
+the lack of jurisdiction of the ICC and inadequacies of Article 8 of the Rome Statute; 
+and the lack of international unity. Assuming a prosecution was made, there are 
+difficulties in apprehending those guilty of violations. Given the many actors and 
+groups involved in the Syrian conflict as well as the dangerous security situation, it 
+would be difficult to identify those responsible for violations and even more diffi-
+cult to apprehend and transport them. State co-operation would be essential, but 
+there are large areas of the country that the State currently has little control over. 
+Yet these difficulties have been overcome before. 
+
+ In practice, cases must either be tried within Syria or referred to the ICC by 
+Syrians  or  the  United  Nations  (as  a  representative  of  States  outside  the  affected 
+territory). At present, the UN Security Council has failed to react in a unified, con-
+crete way, and prosecutions are unlikely to come from Syria. Given this impasse, 
+a new ad hoc tribunal, similar to the ICTY, has been suggested by the UN Com-
+mission of Inquiry that could focus exclusively on the Syrian situation.  87   This will 
+present its own problems in implementation—for example, defining a new legal 
+framework, finding appropriate facilities, recruiting personnel, and ensuring state 
+co-operation—and all from scratch, which will be both timely and costly.  88   
+
+ In 2013, the Chautauqua Blueprint was signed, which is a draft Statute for a 
+Syrian Extraordinary Tribunal to Prosecute Atrocity Crimes.  89   It was intended to 
+sit in Damascus with predominantly Syrian judges, which has called its neutrality 
+into  question.  The  cultural  crimes  it  would  have  jurisdiction  over  mirror  those 
+defined by the ICC, with all of its attendant problems.  90   It is hoped that if an ad hoc 
+tribunal were to be created, omissions such as this could be rectified.   
+
+ DA’ESH: A CASE STUDY 
+
+ The  case  of  Syria  is  particularly  complex  due  to  the  large  number  of  non-state 
+actors involved, many of whom have no official representation. It is therefore 
+instructive  to  consider  the  most  prominent  of  them—Da’esh.  They  have  com-
+mitted a number of prosecutable violations against cultural property within Syria, 
+among many others,  91   including destroying the Assyrian Lion statues in Raqqa with 
+a bulldozer; the destruction of the Temples of Bel and Baalshamin, seven funerary 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+ 20   
+
+ EMMA CUNLIFFE ET AL
+
+towers, the triumphal arch,  92   and the likely mining of the citadel and theatre at 
+Palmyra.  93    In  addition,  they  have  legalized  the  taxation  of  site  looting  and  cre-
+ated a Ministry of Antiquities to officially control the looting of sites and the sale 
+of objects, which has been confirmed by officials from the US State Department, 
+Homeland  Security,  the  Federal  Bureau  of  Investigation,  the  US  Department  of 
+Justice, and the United Nations at a conference held in September 2015 presenting 
+newly declassified documents.  94   
+
+ It would be necessary to gather significantly more evidence of Syrian destruction 
+than is currently available. The limited (confirmed) cultural destruction in Syria 
+(for example, of the Assyrian Lion statues), while tragic, could hardly be considered 
+a “grave breach” of IHL (although the extensive damage in Iraq could). The extent 
+of the looting is hotly debated (particularly since the state of most of the sites was 
+unknown before they occupied it),  95   and many of the sites they have attacked were 
+already occupied by a military force. The legality of the creation of the Ministry 
+of  Culture  is  unclear,  but  there  are  possible  historical  parallels.  The  Einsatstab 
+Rosenberg was a Nazi educational research institute and museum containing more 
+than 21,000 artworks stolen from countries across occupied Europe. The Nuremberg 
+Charter vested the International Military Tribunal with jurisdiction over the war 
+crime of plunder, and “in the context of belligerent occupation, the Tribunal held 
+the accused Rosenberg [Chief of the Institute] ‘responsible for a system of organ-
+ised plunder of both public and private property through the invaded countries,’”  96   
+for which he was found guilty.  97   
+
+ Da’esh  has  declared  itself  a  state,  but  this  state  lacks  formal  recognition  and 
+has  ratified  no  international  treaties,  raising  the  question  of  how  to  hold  them 
+accountable. Neither Syria nor Iraq, the countries where the new “state” is based, 
+are members of the ICC and are unlikely to cede to ICC governance, even to enable 
+the prosecution of Da’esh. Whether Da’esh can be referred to the ICC has been 
+discussed,  98   as this could constitute a “situation,” but current arguments are unde-
+cided whether the group must be linked to territory. If not, it would open Da’esh 
+up to prosecution for their actions globally, not just in Syria, but it also raises the 
+question of the extent to which the state leaders are responsible for the actions of 
+their members. If the ICC cannot prosecute, then the creation of an ad hoc tribu-
+nal, as was established for Rwanda, would allow the enforcement of IHL by the 
+United Nations with non-member states.  99     
+
+ A ROLE FOR THE INTERNATIONAL COMMUNITY? 
+
+ Any cases prosecuted will require evidence. There are already a number of orga-
+nizations working on war crime documentation, including Human Rights Watch, 
+the Syrian Observatory for Human Rights, and the Syria Justice and Accountability 
+Center, but none have the specific remit of dealing with heritage. Activist groups, 
+often utilizing social media, provide a large amount of information regarding the 
+destruction of Syrian heritage, but many cannot be verified. Many are authentic 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+LEGAL IMPLICATIONS AND OBLIGATIONS  
+
+  21 
+
+and well intentioned,  100   but some, such as Da’esh, are using the conflict as a source 
+of propaganda to promote themselves and debase their enemies. In January 2014, 
+the United Nations stopped updating the death toll as it could no longer verify its 
+information,  101   indicating the difficulties even for large organizations. 
+
+ The DGAM has initiated a series of documentation and digitalization projects, 
+providing some of the most reliable updates, but for obvious reasons as a state 
+institution, they are remaining impartial and documenting only the damage, rather 
+than the offences. Given the security situation and the decrease in resources, both 
+physical and human, their documentation activities cannot be exhaustive. Local 
+communities and unofficial bodies that are operating (for example, in Idlib) are 
+also frequently unable to carry out proper documentation and protection work. It 
+remains to be seen what role UNESCO will play, although throughout the conflict 
+new projects have been announced to document and protect Syria’s heritage.  102   
+Evidence suggests that the damage is greater than supposed. Reports at sites such 
+as Ebla note that looters are tunneling into them.  103   Therefore, the extent cannot 
+be known until it is possible to gain full access. 
+
+ Many sites are occupied and re-occupied by competing parties as the conflict 
+progresses.  Damage  reports  not  only  indicate  what  happened,  but  when  and 
+potentially  who  was  responsible.  However,  given  the  many  caveats  involved  in 
+modern methods to record damage, particularly involving social media, it remains 
+to be seen whether they will be admissible in a court of law and how the caveats can 
+be faced and dealt with. These problems are already making themselves felt in the 
+field of human rights.  104   Regardless, the international community in general must 
+accept the responsibility of documenting the violations occurring and address the 
+difficult issue of responsibility.   
+
+ CONCLUSIONS 
+
+ Through the overview of CPP legislation and with reference to the Syrian exam-
+ples, this article has demonstrated that there is a significant level of protection for 
+cultural property in both domestic and international laws governing archaeology 
+and heritage. At a national level, and where possible at an international level, the 
+Syrian DGAM has worked within the existing framework of domestic and interna-
+tional law, such as the World Heritage Convention, to try and protect its country’s 
+heritage. However, many other parties have failed to comply, and there are numerous 
+violations—in  particular,  the  utilization  and  targeting  of  heritage  sites  and 
+monuments. Even the hands of the United Nations are tied and cannot offer Syria 
+the support it needs. In May 2015, the United Nations unanimously adopted the 
+resolution “saving the cultural heritage of Iraq,” but it deliberately omitted Syria, 
+apparently for political reasons.  105   Given the lack of (or perhaps the impossibility 
+of) the national or international enforcement of these frameworks during conflict, 
+it  must  be  concluded  that  they  are  inadequate  for  cultural  property  protection. 
+Even after the conflict, enforcement will undoubtedly remain problematic, and it is 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+ 22   
+
+ EMMA CUNLIFFE ET AL
+
+doubtful to what extent, if any, prosecutions would act as a deterrent, particularly 
+given that those involved in such war crimes are often involved in worse atrocities 
+against the people whose heritage it belongs to, for which there does exist a body of 
+prosecutions as precedent. 
+
+ However, prosecutions are about more than determent. They serve justice. There 
+remains a need to build up solid documentation to assist in potential prosecutions. 
+This will be necessary for the future application of law in the country and to facil-
+itate the preservation of heritage for future generations. Yet collecting documen-
+tation apportions responsibility for potential offences, which could be extremely 
+dangerous for those involved. Documentation is therefore best conducted by an 
+independent party, and it is unfortunate that it is the Syrian people who have the 
+best access to such information. It may also be highly detrimental to peace building 
+since  parties  responsible  for  the  damage  are  likely  to  seek  to  avoid  culpability, 
+threatening the probably fragile atmosphere of co-operation. This in turn raises 
+moral quandaries regarding priorities—is the price of justice worth the potential 
+loss  of  peace?  Others  have  argued,  however,  that  such  prosecutions  can  in  fact 
+enhance the peace process, as it removes those individuals who are most likely to 
+be obstructive to the proceedings.  106   
+
+ While important, the available legal tools have not been effective in the pro-
+tection of Syrian heritage, raising the question of whether force should be used. 
+Ethical debates are only just beginning among the heritage community on whether 
+this can be justified in this context,  107   but at the time of writing, events may 
+overtake  them.  While  most  feel  that  human  lives  must  come  first,  making  it 
+difficult to prevent the use and abuse of cultural heritage, an armed brigade has 
+formed in Syria to protect the holy shrine of Sayyeda Seinab, outside Damascus,  108   
+and Turkey has cited the protection of an Islamic tomb when sending a military 
+convoy into Syria.  109   Now, as Da’esh control the strategically significant town 
+of Tadmur, which contains the World Heritage site of Palmyra, the United States 
+has reportedly agreed “that with the White House imprimatur, the UN Security 
+Council  will  be  strongly  urged  to  etch  a  Chapter  7  ‘red-line’  around  Palmyra’s 
+archeological  sites  and  defend  them  with  whatever  force  and  whatever  cost 
+required.”  110   Most recently, UNESCO approved a strategy at their thirty-eighth 
+General Conference for the Reinforcement of UNESCO’s Action for the Protection 
+of  Culture  and  the  Promotion  of  Cultural  Pluralism  in  the  Event  of  Armed 
+Conflict,  111   in which UNESCO agreed to encourage the inclusion of a cultural 
+heritage component in UN peace-keeping forces’ training and operations: “Ulti-
+mately, it  is  hoped  that  increased  awareness  of  [sic]  the  military  on  interna-
+tional  humanitarian  cultural  heritage  law  will  lead  to  …  significant  cultural 
+heritage  sites,  which  are  clearly  identified  and  protected  from  the  conflict.” 
+This  explicitly  builds  on  the  precedent  that  was  created  when  the  UN  Secu-
+rity Council established a peacekeeping mission in Mali, the Multidimensional 
+Integrated Stabilization Mission, to ensure security and political stability. Its 
+mandate included assisting “the transitional authorities of Mali, as necessary 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+LEGAL IMPLICATIONS AND OBLIGATIONS  
+
+  23 
+
+and feasible, in protecting from attack the cultural and historical sites in Mali, 
+in collaboration with UNESCO.”  112   
+
+ A final point concerns the future of the Syrian people. If Syria is to survive this 
+conflict, when reconstruction starts people will need their shared heritage in which 
+all Syrians, no matter how different, can find common cause. Heritage authorities 
+will  face  challenges  such  as  the  invention,  implementation,  and  enforcement  of 
+a complete body of state and legal structures pertaining to the CPP. This will be 
+particularly difficult given the emigration or loss of numerous heritage and legal 
+staff and the attrition of the infrastructure. The criminalization of attacks against 
+cultural property, as well as the efforts to protect the country’s heritage, should 
+not only be considered a Syrian issue but, rather, viewed from a global perspective 
+as  a  concrete  threat  to  modern,  diverse  societies.  The  targeting  and  destruction 
+of  cultural  property  and  heritage  in  Syria  can  be  viewed  as  attacks  on  the  very 
+essence of humanity. Efforts to safeguard cultural heritage in Syria, and to bring 
+those involved in its destruction to justice, should therefore also be perceived as a 
+humanitarian effort.     
+
+  ENDNOTES 
+
+ 1  .     Viejo-Rose and Stig Sørenson  2015 .  
+ 2  .     Isakhan  2013 .  
+ 3  .     E.g., Chapman  1994 .  
+ 4  .     Viejo-Rose  2013 ; Viejo-Rose and Stig Sørenson  2015 .  
+ 5  .     Prosecutor  v.  Dario  Kordic  and  Mario  Cerkez  (Trial  Judgment)  IT-95-14/2-T  (26  February 
+
+  
+  
+  
+  
+  
+2001).  
+ 6  .     Arimatsu and Choudhury  2014 .  
+  
+ 7  .     Human Rights Watch  2012 .  
+  
+  
+ 8  .     In  this  context,  State  is  distinct  from  state.  A  State  (often  referred  to  as  a  State  party)  is 
+a country that is formally recognized internationally and which can sign international treaties and 
+conventions.  
+ 9  .     Several  other  States  have  recently  become  involved  in  the  Syrian  conflict—for  example, 
+  
+Russia, France, the United Kingdom—and in at least one case have been accused of damaging 
+a World Heritage site. However, given the constraints of space, this article will focus on Syria and the 
+non-State actors involved there, rather than the other State parties. See Ana Maria Luca and Myra 
+Abdallah, “How Russia Bombed a UN Heritage Site in Syria,” 10 May 2015,  https://now.mmedia.me/
+lb/en/reportsfeatures/565993-how-russia-bombed-a-un-heritage-site-in-syria  (accessed 1 November 
+2015).  
+ 10  .     Lostal  2015 .  
+  
+ 11  .     Gerstenblith  2014 .  
+  
+ 12  .     While  only  11  sites  have  been  nominated,  they  make  up  12  submitted  nominations  on  the 
+  
+World Heritage Tentative List, as Dura Europos (8 June 1999) and Mari, Tell Hariri (8 June 1999) 
+were submitted separately, but have a twelfth nomination as a joint submission (Mari and Europos-
+Dura sites of the Euphrates Valley (23 June 2011).  
+  
+ 13  .     Lostal  2015 .  
+  
+ 14  .     E.g., Amnesty International and American Association for the Advancement of Science  2013 ; 
+World Heritage Committee  2013 ,  2014 ; Abdulkarim  2014 ; Cunliffe et al.  2014 ; Wolfinbarger et al. 
+ 2014a ,  2014b .  
+  
+
+ 15  .     Kila  2012 .  
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+ 24   
+
+ EMMA CUNLIFFE ET AL
+
+ 16  .     E.g.,  Cunliffe   2012 ;  Association  for  the  Protection  of  Syrian  Archaeology,   http://www.
+
+ 31  .     Hague Convention IV on Respecting the Laws and Customs of War on Land and its Annex: 
+
+ 25  .     Universal Declaration of Human Rights, 12 October 1948, UN Doc A/810 at 71 (1948).  
+ 26  .     International  Covenant  on  Economic,  Social  and  Cultural  Rights,  16  December  1966,  993 
+
+ 27  .     O’Keefe  2014 . UN Human Rights Council, Resolution 6/1, 27 September 2007.  
+ 28  .     Cunliffe et al.  2014 .  
+ 29  .     Geneva Conventions of 12 August 1949, 1125 UNTS 3.  
+ 30  .     Protocol Additional to the Geneva Conventions of 12 August 1949, and Relating to the Protec-
+
+ 17  .     Cunliffe  2014 .  
+ 18  .     International Council on Monuments and Sites  2011 .  
+ 19  .     Boldrick, Brubaker, and Clay  2013 .  
+ 20  .     Kila  2013 .  
+ 21  .     Cunliffe et al.  2014 .  
+ 22  .     Howard, Prohov, and Elliott  2015 . Given the constraints of this article, only brief attention is 
+
+  
+apsa2011.com  (accessed 30 May 2014).  
+  
+  
+  
+  
+  
+  
+given to Da’esh as they are largely treated as a non-State actor.  
+  
+ 23  .     Convention for the Protection of Cultural Property in the Event of Armed Conflict, 14 May 
+1954, 249 UNTS 240 (Hague Convention). The term cultural “property” is now widely considered 
+to be deficient. See Prott and O’Keefe ( 1992 ) for its failure to incorporate diverse forms of heritage. 
+However, “cultural heritage” has yet to receive widespread implementation or to be legally tested.  
+  
+ 24  .     International  Committee  of  the  Red  Cross,  “Customary  International  Humanitarian  Law,” 
+29 October 2010,  http://www.icrc.org/eng/war-and-law/treaties-customary-law/customary-law/
+overview-customary-law.htm  (accessed 13 May 2014).  
+  
+  
+UNTS 3.  
+  
+  
+  
+  
+tion of Victims of Non-International Armed Conflicts, 8 June 1977, 1125 UNTS 609.  
+  
+Regulation concerning the Laws and Customs of War on Land 1907, 187 CTS 227.  
+  
+ 32  .     Convention  on  the  Means  of  Prohibiting  and  Preventing  the  Illicit  Import,  Export  and 
+Transfer of Ownership of Cultural Property, 14 November 1970, 823 UNTS 231. Antiquities Law, 
+26 October 1963, Decree no. 222.  
+  
+ 33  .     Convention on Stolen or Illegally Exported Cultural Objects, 24 June 1995, 2421 UNTS 457. 
+There is a range of international laws and examples dealing with prosecutions for illegally removed 
+objects seized outside the country of origin, but these are outside the scope of this article.  
+  
+  
+ 2011 ; Ehlert  2014 .  
+ 36  .     Gerstenblith  2014 .  
+  
+ 37  .     Vienna Convention on the Law of Treaties, 23 May 1969, 1155 UNTS 331.  
+  
+ 38  .     Henckaerts  2005 .  
+  
+ 39  .     Ibid.,178.  
+  
+ 40  .     Gerstenblith  2010 ,  2014 ; Henckaerts  2005 .  
+  
+  
+ 41  .     C.J. Chivers, “Grave Robbers and War Steal Syria’s History,”  New York Times , 6 April 2013, 
+ http://www.nytimes.com/2013/04/07/world/middleeast/syrian-war-devastates-ancient-sites.html?_
+r=0&adxnnl=1&adxnnlx=1381999297-uZkVl2qRT6D6kiJ7dGErwA  (accessed 17/10/2013). See also 
+Patrick Cockburn, “The Destruction of the Idols: Syria’s Patrimony at Risk from Extremists,”  The 
+Independent , 11 February 2014,  http://www.independent.co.uk/news/science/archaeology/news/the-
+destruction-of-the-idols-syrias-patrimony-at-risk-from-extremists-9122275.html   (accessed  20  May 
+2014).  
+ 42  .     Casana and Panahipour  2014 .  
+  
+ 43  .     Gerstenblith  2010 , 9.  
+  
+ 44  .     Bogliolo  2012 .  
+  
+  
+ 45  .     Lostal  2012 . The definition of military objective is provided in Article 52(2) of Additional Pro-
+tocol I and considered to be part of customary international law: “[M]ilitary objectives are limited 
+
+ 34  .     Prott and O’Keefe  1992 .  
+ 35  .     For a full discussion, see Prott and O’Keefe  1984 ; Toman  1996 ; O’Keefe  2006 ; Kila  2012 ; Frulli 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+LEGAL IMPLICATIONS AND OBLIGATIONS  
+
+  25 
+
+ 46  .     O’Keefe  2008 ,  2014 .  
+ 47  .     See Lostal  2012 , 470.  
+ 48  .     For examples of discussions and court rulings, see O’Keefe  2006 , 130, 131.  
+ 49  .     For example, in Libya, the North Atlantic Treaty Organization selected more focused ordnance 
+
+ 54  .     Gerstenblith  2010 , 9.  
+ 55  .     Ali  2013 .  
+ 56  .     Henckaerts  2005 , Annex.  
+ 57  .     Ibid.  
+ 58  .     For a full commentary on this treaty, see Prott and O’Keefe  1988 ; O’Keefe and Patrick  1997 ; 
+
+to those objects which by their nature, location, purpose or use make an effective contribution to 
+military action and whose total or partial destruction, capture or neutralization, in the circumstances 
+ruling at the time, offers a definite military advantage.”  
+  
+  
+  
+  
+when attacking a military target to protect a site. See Kila  2012 .  
+ 50  .     Kila  2012 .  
+  
+ 51  .     Abdulkarim  2014 .  
+  
+ 52  .     Cunliffe et al.  2014 .  
+  
+  
+ 53  .     E.g., “Appel à la préservation des musées syriens adressé aux institutions internationales 
+et à la communauté internationale,”  Le patrimoine Syrien archéologique en danger , 30 April 2012, 
+ https://www.facebook.com/notes/le-patrimoine-arch%C3%A9ologique-syrien-en-danger-
+%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%
+D9%88%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AE%D8%B7%D8%B1/appel-
+%C3%A0-la-pr%C3%A9servation-des-mus%C3%A9es-syriens-adress%C3%A9-aux-institutions-
+internationa/311246265610371  (accessed 30 May 2014).  
+  
+  
+  
+  
+  
+O’Keefe  2007 ; UNESCO  2011 .  
+  
+ 59  .     Brodie   2008 ;  compare  Sam  Hardy,  “Syria/Lebanon:  Syrian-Lebanese  Antiquities-for-Arms 
+Trade,”  Conflict Antiquities Blog , 12 May 2013,  http://conflictantiquities.wordpress.com/2013/05/12/
+syria-conflict-funding-lebanon-illicit-antiquities-trade/  (accessed 01 May 2014).  
+  
+Lessons Learned to Implementation,” 3 June 2015, United Nations Headquarters, New York.  
+  
+ 61  .     Cunliffe  2014 .  
+  
+ 62  .     Aryn Baker and Majdal Anjar, “Syria’s Looted Past: How Ancient Artifacts Are Being Traded 
+for Guns,”  Time World , 12 September 2012,  http://world.time.com/2012/09/12/syrias-looted-past-
+how-ancient-artifacts-are-being-traded-for-guns/  (accessed 12 September 2012); see also Hardy, 
+“Syria/Lebanon.”  
+ 63  .     E.g., Association for the Protection of Syrian Archaeology (APSA), “Alep Henano: Destruction 
+  
+la coupole du Meqam Cheikh Yebreq,” YouTube,  https://www.youtube.com/watch?v=eEBE3Issjuw  
+(accessed 1 July 2013); Robert Fisk, “Syria’s Ancient Treasures Pulverised,”  The Independent , 5 August 
+2012,  http://www.independent.co.uk/opinion/commentators/fisk/robert-fisk-syrias-ancient-treasures-
+pulverised-8007768.html  (accessed 6 August 2012); “Damage at the Tomb of Shaykh Abdallah 
+Sirajuddin,”   Free  Halab  Blog ,  26  November  2012,   http://freehalab.wordpress.com/2012/11/26/damage-
+at-the-tomb-of-shaykh-abdallah-sirajuddin/ ; “Shaykh al-Yaqoubi Condemns the Bombing of Shrines 
+in Aleppo,”  Free Halab Blog , 24 November 2012,  http://freehalab.wordpress.com/2012/11/24/shaykh-
+al-yaqoubi-condemns-the-bombing-of-shrines-in-aleppo/  (both accessed 13 May 2014); Human 
+Rights Watch  2012 .  
+  
+ 64  .     E.g., Human Rights Watch  2012 ; Mediawerkgroep Syrie, “Desecrated Churches in Homs,” 17 June 
+2012,   http://mediawerkgroepsyrie.wordpress.com/2012/06/17/desacrated-churches-in-homs-pdf/  
+(accessed 1 December 2012).  
+  
+ 65  .     By mid-2013. The date of a report by Syrian Network for Human Rights,  Targeting Mosques , 
+11 June 2013,  http://sn4hr.org/public_html/wp-content/pdf/english/Targeting%20Mosques%20
+by%20Syrian.pdf  (accessed 30 May 2015).  
+  
+1972, 1037 UNTS 151 (World Heritage Convention).  
+
+ 66  .     Convention Concerning the Protection of the World Cultural and Natural Heritage, 23 November 
+
+ 60  .     Workshop on “Countering the Destruction of and Trafficking in Cultural Property: From 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+ 26   
+
+ EMMA CUNLIFFE ET AL
+
+ 67  .     Convention for the Safeguarding of Intangible Cultural Heritage, 17 October 2003, 2368 UNTS 3.  
+  
+  
+ 68  .     Convention on the Protection and the Promotion of the Diversity of Cultural Expressions, 
+20 October 2005, 2440 UNTS 311. Due to the complexities of underwater ownership and the fact 
+that  conflict  rarely  affects  underwater  sites,  the  UNESCO  Convention  on  the  Protection  of  the 
+Underwater Cultural Heritage, 2 November 2001, 41 ILM 40 (2002) will not be discussed here.  
+  
+ 69  .     For a detailed discussion of the extent to which the definition of heritage in the World Heritage 
+Convention is legally binding in armed confllicts, and the legal implications for the protection of 
+World Heritage sites. See Lostal  2015 .  
+  
+ 70  .     Declaration Concerning the Intentional Destruction of Cultural Heritage, Paris, 17 October 2003, 
+ http://portal.unesco.org/en/ev.php-URL_ID=17718&URL_DO=DO_TOPIC&URL_SECTION=201.
+html  (accessed 10 May 2014).  
+  
+ 71  .     Directorate General of Antiquities and Museums (DGAM), “Completing New Draft Law 
+on  Protection  of  Syria’s  Archaeological  Heritage,”   DGAM ,   http://www.DGAM.gov.sy/index.
+php?d=314&id=1114   (accessed  13  May  2014).  Perhaps  in  support  of  this,  during  2014,  legal 
+experts, officials from the DGAM, and other official Syrian bodies collaborated with UNESCO in 
+order to shed light on the expected benefits of the application of the Second Protocol of the Hague 
+Convention in the Syrian case.  
+  
+ 72  .     Suleiman Al-Khalidi, “Syrian Violence Threatens Ancient Treasures,”  Reuters , 20 February 2013, 
+ http://www.reuters.com/article/2013/02/20/uk-syria-crisis-antiquities-idUSLNE91J01C20130220  
+(accessed 21 February 2013).  
+ 73  .     World Heritage Committee  2013 , 115.  
+  
+ 74  .     Kila  2012 .  
+  
+  
+ 75  .     For a full discussion of the prosecution of cultural crimes, see Carcano  2013 ; Ehlert  2014 . For 
+brevity, this article will not discuss the sentencing of cultural crimes. It is extremely difficult to estab-
+lish the value of heritage. (For some examples of methods used, see Darvill, Saunders, and Startin 
+ 1987 ; Darvill and Fulton  1998 ; Isakhan  2014 ). In addition, it is likely that, as concepts of cultural her-
+itage and cultural property are refined in the heritage and legal spheres, value discussions will change.  
+ 76  .     Human Rights Council  2013 , 124.  
+  
+ 77  .     Rome Statute on the International Criminal Court, 17 July 1998, 2187 UNTS 90.  
+  
+ 78  .     Gottlieb  2004 , 857.  
+  
+ 79  .     Frulli  2011 .  
+  
+ 80  .     O’Keefe  2006 , 348.  
+  
+ 81  .     Carcano  2013 .  
+  
+  
+ 82  .     See Art. 3(d) of the Statute of the International Tribunal for the Prosecution of Persons Respon-
+sible for Serious Violations of International Humanitarian Law Committed in the Territory of the 
+Former Yugoslavia since 1991, 25 May 1993, 32 ILM 1159 (1993); Arts. 13(b)(14) and 13(b)(17) of 
+the Statute of the Iraqi Special Tribunal, 10 December 2003.  
+  
+  
+news.admin.ch/NSBSubscriber/message/attachments/29293.pdf  (accessed 30 May 2015).  
+  
+ 2013 .  
+  
+ 86  .     Human Rights Watch, “Syria and the International Criminal Court: Questions and Answers,” 
+September  2013,   http://www.hrw.org/sites/default/files/related_material/Q&A_Syria_ICC_Sept2013_
+en_0.pdf  (accessed 30 May 2015).  
+  
+ 87  .     Human Rights Council, “Commission of Inquiry on the Syrian Arab Republic: Press Conference,” 
+ http://webtv.un.org/media/press-conferences/watch/commission-of-inquiry-on-the-syrian-arab-
+republic-press-conference-geneva-17-march-2015/4116607036001#full-text  (accessed 30 May 2015).  
+ 88  .     Human Rights Council  2013 , 125.  
+  
+  
+ 89  .     Chautauqua  Institution,   “ The  Chautauqua  Blueprint  for  a  Statute  for  a  Syrian  Extraordi-
+nary  Tribunal  to  Prosecute  Atrocity  Crimes,”  September  2013,   http://insct.syr.edu/wp-content/
+uploads/2013/09/Chautauqua-Blueprint1.pdf  (accessed 30 May 2015).  
+
+ 83  .     Human Rights Council  2013 , 22.  
+ 84  .     Thomas Gürber, Letter to the President of the UN Security Council, January 2013,  http://www.
+
+ 85  .     For other problems regarding the enforcement of cultural property protection, see Lenzerini 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+LEGAL IMPLICATIONS AND OBLIGATIONS  
+
+  27 
+
+ 92  .     These events are confirmed in the regular reports published online by the ASOR Cultural Her-
+
+ 95  .     See the many articles debunking Da’esh myths by Sam Hardy in his  Conflict Antiquities Blog , 
+
+ 90  .     For a more detailed discussion, see Lostal  2015 .  
+  
+  
+ 91  .     In fact, there have been at least 50 incidents of varying severity attributed to Da’esh in Syria 
+alone. See “ISIS Destroys Mausoleums in Syria’s Palmyra,”  Al-Arabiya News , 23 June 2015,  http://
+english.alarabiya.net/en/News/middle-east/2015/06/23/ISIS-destroys-Islamic-mausoleums-in-Syria-
+s-Palmyra-.html  (accessed 10 November 2015).  
+  
+itage Initiative,  http://www.asor-syrianheritage.org/reports/  (accessed 10 November 2015).  
+ 93  .     Reported in  The Independent  on 21 June 2015 and again in  Sputnik News  on 6 October 2015 
+  
+(where the theatre is incorrectly identified as the amphitheater). Neither incident is verified; it may 
+even be the same report. See Alexander Sehmer, “Isis Fighters ‘Plant Mines’ around Ancient Palmyra 
+Site,”   The  Independent ,  21  June  2015,   http://www.independent.co.uk/news/world/middle-east/isis-
+fighters-plant-mines-around-ancient-palmyra-site-10335128.html   (accessed  10  November  2015); 
+and  Sputnik  News,  “ISIL  Rigs  Palmyra’s  Ancient  Roman  Amphitheater  with  Explosives,”   Sputnik 
+News ,  06  October  2015,   http://sputniknews.com/middleeast/20151006/1028118213/palmyra-syria-
+isil-theater.html  - ixzz3nuKaUFFX (accessed 10 November 2015).  
+  
+ 94  .     The event was Conflict Antiquities: Forging a Public/Private Response to Save Iraq and Syria’s 
+Endangered Cultural Heritage, which was held 29 September 2015 and organized by the Department 
+of  State  and  the  Metropolitan  Museum  of  Art.  In  addition  to  podcasts  of  the  event,  some  slides 
+and documents have been released, and several blogs have summarized the event. The UK Blue 
+Shield website has collated all the links into one place for those wishing further information,  http://
+ukblueshield.org.uk/events/previous-events/conflict-antiquities-forging-a-publicprivate-response-
+to-save-iraq-and-syrias-endangered-cultural-heritage/  (accessed 10 November 2015).  
+  
+ https://conflictantiquities.wordpress.com/  (accessed 10 November 2015).  
+ 96  .     O’Keefe  2010 , 337.  
+  
+ 97  .     Nowlan  1993 .  
+  
+  
+ 98  .     Alexander Skander Galand, “The Situation Concerning the Islamic State: Carte Blanche for the 
+ICC if the Security Council Refers?”  EJIL: Talk! Blog , 27 May 2015,  http://www.ejiltalk.org/the-situation-
+concerning-isis-carte-blanche-for-the-icc-if-the-security-council-refers/  (accessed 30 May 2015).  
+  
+ 99  .     Anthony Moreland, “In the Absence of Sovereignty, How Will ISIS Be Held Accountable for 
+Their Crimes?”  National Security and Armed Conflict Law Review , 10 February 2015,  http://nsac.law.
+miami.edu/absence-sovereignty-isis-held-accountable/  (accessed 30 May 2015).  
+    100  .     Perini and Cunliffe  2014a ,  2014b ,  2015 .  
+    101  .     Kashmira Gander, “UN to Stop Updating Death Toll in Syria Conflict,”  The Guardian , 07 January 
+2014, 
+ http://www.independent.co.uk/news/world/middle-east/un-to-stop-updating-death-toll-in-syria-
+conflict-9045096.html?origin=internalSearch  (accessed 13 May 2014).  
+    102  .     UN News Centre, “With Syria’s Culture Near ‘Point of No Return’: UN Agency to Create Safeguard 
+Observatory,”  UN Website ,  http://www.un.org/apps/news/story.asp?NewsID=47911  - .U4jFOvldWoP 
+(accessed 30 May 2014).  
+    103  .     Abdulkarim  2014 ; see also C.J. Chivers, “Grave Robbers and War Steal Syria’s History,”  New York 
+Times , 6 April 2013,  http://www.nytimes.com/2013/04/07/world/middleeast/syrian-war-devastates-
+ancient-sites.html?_r=0&adxnnl=1&adxnnlx=1381999297-uZkVl2qRT6D6kiJ7dGErwA  (accessed 
+17 October 2013).  
+    104  .     Centre for Human Rights and Global Justice, “2012–14 Initiative on Human Rights Fact-Finding, 
+Methods and Evidence,”  NYU School of Law Webpage ,  http://chrgj.org/project/2012-14-theme-human-
+rights-fact-finding-methods-and-evidence/  (accessed 30 May 2015).  
+    105  .     Cara Anna, “Syria: Europeans Block It from UN Culture Protection Measure,”  Associated Press , 28 
+May 2015,  http://news.yahoo.com/syria-europeans-block-un-culture-protection-measure-201902142.
+html  (accessed 15 June 2015).  
+    106  .     Human Rights Watch, “Syria and the International Criminal Court: Questions and Answers.”  
+    107  .     Sam  Hardy,  “Should  Cultural  Monuments  Become  an  Active  Issue  of  the  Human  Rights 
+Agenda?”  Conflict Antiquities Blog , 12 May 2013,  http://conflictantiquities.wordpress.com/2014/04/12/
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+ 28   
+
+ EMMA CUNLIFFE ET AL
+
+amnesty-international-political-violence-cultural-property-community-persecution/  (accessed 01 May 
+2014).  
+    108  .     M.  Karouney,  “Shi’ite  Fighters  Rally  to  Defend  Damascus  Shrine,”   Reuters ,  03  March  2013, 
+ http://www.reuters.com/article/2013/03/03/us-syria-crisis-shiites-idUSBRE92202X20130303?feed
+Type=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=
+Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29  (accessed 14 April 2014).  
+    109  .     C.  Labrousse,  “Turkey  Army  Convoy  Entered  Northern  Syria  to  Protect  Tomb,”   Arab 
+Chronicle , 24 April 2014,  http://the-arab-chronicle.com/turkey-army-convoy-entered-in-northern-
+syria/  (accessed 25 April 2014).  
+    110  .     Franklin Lamb, “The Fall of Palmyra,”  Counterpunch , 21 May 2015,  http://www.counterpunch.
+org/2015/05/21/the-fall-of-pamyra/  (accessed 30 May 2015).  
+    111  .     UNESCO  2015 , 7, point 35.  
+    112  .     Doc. S/RES/2100 (2013), para. 16(f); Doc. S/RES/2164 (2014), para. 14(b).   
+
+  BIBLIOGRAPHY 
+
+    Abdulkarim  ,    Maamoun  .   2014 .   Annual  Report  2013 .   Damascus :   Directorate  General  of  Antiquities 
+and Museums .  
+
+    Ali  ,   Cheikhmous  .  2013 .  “Syrian Heritage under Threat.”   Journal of Eastern Mediterranean Archae-
+ology and Heritage Studies   1 , no.  4 :  351 –66.  
+
+   Amnesty International and American Association for the Advancement of Science .  2013 .  Conflict in 
+Aleppo, Syria: A Retrospective Analysis . Geospatial Technologies and Human Rights Project.  London 
+and Washington, DC :  Amnesty International and American Association for the Advancement 
+of Science .  
+
+    Arimatsu  ,   Louise  , and   Mohuba     Choudhury  .  2014 .  The Legal Classification of the Armed Conflicts in 
+Syria, Yemen and Libya . International Law Series.  London :  Chatham House .  
+
+    Bogliolo  ,   Luis Paulo  .  2012 . “Rethinking Military Necessity in the Law of Armed Conflict.” Unpublished 
+PhD diss., University of Brasilia and London School of Economics and Political Science,  http://papers.
+ssrn.com/sol3/papers.cfm?abstract_id=2201129 .  
+
+    Boldrick  ,   Stacy  ,   Leslie     Brubaker  , and   Richard     Clay  , eds.  2013 .  Striking Images, Iconoclasms Past and 
+Present .  Farnham, UK :  Ashgate Publishing .  
+
+    Brodie  ,    Neil  .   2008 .   “The  Market  Background  to  the  April  2003  Plunder  of  the  Iraq  National 
+Museum.”   In   The  Destruction  of  Cultural  Heritage  in  Iraq ,  edited  by    P.  G.      Stone  ,    and    Joanne   
+  Farchakh-Bajjaly  ,  41 – 54 .  Woodbridge, UK :  Boydell Press .  
+
+    Carcano  ,   Andrea  .  2013 .  “The Criminalization and Prosecution of Attacks against Cultural Property.”  
+In  War Crimes and the Conduct of Hostilities: Challenges to Adjudication and Investigation , edited by 
+  F.     Pocar  ,   M.     Pedrazzi  , and   M.     Frulli  ,  78 – 97 .  Cheltenham, UK :  Edward Elgar .  
+
+    Casana  ,   Jesse  , and   Mitra     Panahipour  .  2014 .  “Satellite-Based Monitoring of Looting and Damage to Archae-
+ological Sites in Syria.”   Journal of Eastern Mediterranean Archaeology and Heritage Studies   2 , no.  2 :  128 –51.  
+
+    Chapman  ,   John  .  1994 .  “Notes: Destruction of a Common Heritage: The Archaeology of War in 
+Croatia, Bosnia and Hercegovinia.”   Antiquity   68 , no.  1 :  120 –26.  
+
+    Cunliffe  ,   Emma  .  2012 .  Damage to the Soul: Syria’s Cultural Heritage in Conflict .  Palo Alto, CA :  Global 
+Heritage Fund .  
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+LEGAL IMPLICATIONS AND OBLIGATIONS  
+
+  29 
+
+    ——— .  2014 .  “Archaeological Site Damage in the Cycle of War and Peace: A Syrian Case Study.”  
+ Journal of Eastern Mediterranean Archaeology and Heritage Studies   3 , no.  2 :  229 –47.  
+
+    Cunliffe  ,    Emma  ,    Wendi      Pederson  ,    Manuel      Fiol  ,    Traci      Jellison  ,    Caryn      Saslow  ,    Einar      Bjørgo  ,  and 
+  Giovanni     Boccardi  .  2014 .  Satellite-based Damage Assessment to Cultural Heritage Sites in Syria .  Geneva : 
+ UN Institute for Training and Research .  
+
+    Darvill  ,   Timothy  , and   Andrew K.     Fulton  , eds.  1998 .  MARS: The Monuments at Risk Survey of England, 
+1995 .  Bournemouth, UK :  School of Conservation Sciences, Bournemouth University .  
+
+    Darvill  ,    Timothy  ,    Andrew      Saunders  ,  and    Bill      Startin  .   1987 .   “A  Question  of  National  Importance: 
+Approaches to the Evaluation of Ancient Monuments for the Monuments Protection Programme in 
+England.”   Antiquity   61 , no.  3 :  393 – 408 .  
+
+    Ehlert  ,   Caroline  .  2014 .  Prosecuting the Destruction of Cultural Property in International Criminal Law: 
+With a Case Study on the Khmer Rouge’s Destruction of Cambodia’s Heritage .  Leiden :  Brill .  
+
+    Frulli  ,   Micaela  .  2011 .  “The Criminalization of Offenes against Cultural Heritage in Times of Armed 
+Conflict: The Quest for Consistency.”   European Journal of International Law   22 , no.  1 :  203 –17.  
+
+    Gerstenblith  ,   Patty  .  2010 .  “The Obligations Contained in International Treaties of Armed Forces to 
+Protect Cultural Heritage in Times of Armed Conflict.”  In  Archaeology, Cultural Property, and the 
+Military , edited by   L. W.     Rush  ,  4 – 14 .  Woodbridge, UK :  Boydell Press .  
+
+    ——— .  2014 .  “Beyond the 1954 Hague Convention.”  In  Cultural Awareness in the Military: Develop-
+ments and Implications for Future Humanitarian Cooperation , edited by   R.     Albro  ,   and   B.     Ivey  ,  83 – 98 . 
+ New York :  Palgrave Macmillan .  
+
+    Gottlieb  ,    Yaron  .   2004 .   “Criminalizing  Destruction  of  Cultural  Property:  A  Proposal  for  Defining 
+New Crimes under the Rome Statute of the ICC.”   Penn State International Law Review   23 :  857 .  
+
+    Henckaerts  ,   Jean-Marie  .  2005 .  “Study on Customary International Humanitarian Law: A Contribu-
+tion to the Understanding and Respect for the Rule of Law in Armed Conflict.”   International Review 
+of the Red Cross   87 , no.  857 :  175 – 212 .  
+
+    Howard  ,    Russell  ,    Jonathan      Prohov  ,  and    Marc      Elliott  .   2015 .  “Digging  in  and  Trafficking  Out:  How 
+the  Destruction  of  Cultural  Heritage  Funds  Terrorism.”   CTC  Sentinel,  Combating  Terrorism 
+Center , 27 February 2015,  https://www.ctc.usma.edu/posts/digging-in-and-trafficking-out-how-the-
+destruction-of-cultural-heritage-funds-terrorism .  
+
+   Human Rights Council .  2013 .  Report of the Independent International Commission of Inquiry on the 
+Syrian Arab Republic .  Washington, DC :  UN General Assembly, Human Rights Council .  
+
+   Human Rights Watch .  2012 .  “They Burned My Heart.” War Crimes in Northern Idlib during Peace 
+Plan Negotiations .  Washington, DC :  Human Rights Watch .  
+
+   International Council on Monuments and Sites .  2011 .  Ancient Villages of Northern Syria (Syrian Arab 
+Republic) . No 1348. Advisory Body Evaluation. 10 March.  Paris :  UNESCO .  
+
+    Isakhan  ,   Benjamin  .  2013 .  “Heritage Destruction and Spikes in Violence: The Case of Iraq.”  In 
+ Cultural Heritage in the Crosshairs. Protecting Cultural Property During Conflict , edited by   J. D.     Kila  ,   
+and   J. A.     Zeidler  ,  219 –48.  Leiden :  Brill .  
+
+    ——— .   2014 .   “Creating  the  Iraq  Cultural  Property  Destruction  Database:  Calculating  a  Heritage 
+Destruction Index.”   International Journal of Heritage Studies   1 , no.  1 :  1 – 21 .  
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+ 30   
+
+ EMMA CUNLIFFE ET AL
+
+    Kila  ,   Joris D  .  2012 .  Heritage under Siege: Military Implementation of Cultural Property Protection Fol-
+lowing the 1954 Hague Convention, Heritage and Identity .  Leiden :  Brill .  
+
+    ——— .  2013 .  “Inactive, Reactive, or Pro-active?”   Journal of Eastern Mediterranean Archaeology and 
+Heritage Studies   1 , no.  4 :  319 –42.  
+
+    Lenzerini  ,   Federico  .  2013 .  “The Role of International and Mixed Criminal Courts in the Enforcement 
+of  International  Norms  Concerning  the  Protection  of  Cultural  Heritage.”   In   Enforcing  International 
+Cultural Heritage Law , edited by   F.     Francioni  ,   and   J.     Gordley  ,  40 – 64 .  Oxford :  Oxford University Press .  
+
+    Lostal  ,    Marina  .   2012 .   “The  Meaning  and  Protection  of  ‘Cultural  Objects  and  Places  of  Worship’ 
+under the 1977 Additional Protocols.”   Netherlands International Law Review   59 , no.  3 :  455 –72.  
+
+    ——— .  2015 .  “Syria’s World Cultural Heritage and Individual Criminal Responsibility.”   Interna-
+tional Review of Law   3 :  1 – 17 .  
+
+    Nowlan  ,   Jacqueline  .  1993 .  “Cultural Property and the Nuremberg War Crimes Trial.”   Humanitaeres 
+Voelkerrecht   6 , no.  4 :  221 –23.  
+
+    O’Keefe  ,   Patrick J  .  2007 .  Commentary on the UNESCO 1970 Convention on the Means of Prohibiting 
+and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property .  Powys, UK : 
+ Institute of Art and Law .  
+
+    O’Keefe  ,   Roger  .  2006 .  The Protection of Cultural Property in Armed Conflict .  Cambridge :  Cambridge 
+University Press .  
+
+    ——— .  2008 .  “Protection of Cultural Property.”  In  The Handbook of International Humanitarian 
+Law , edited by   D.     Fleck  ,  433 –74.  Oxford :  Oxford University Press .  
+
+    ——— .  2010 .  “Protection of Cultural Property under International Criminal Law.”   Melborne Journal 
+of International Law   11 :  339 –92.  
+
+    ——— .  2014 .  “Protection of Cultural Property.”  In  Oxford Handbook of International Law in Armed 
+Conflict , edited by   A.     Clapham  , and   P.     Gaeta  ,  492 – 520 .  Oxford :  Oxford University Press .  
+
+    O’Keefe  ,   Roger  , and   J.     Patrick  .  1997 .  Trade in Antiquities .  Paris :  UNESCO .  
+
+    Perini  ,    Silvia  ,  and    Emma      Cunliffe  .   2014a .   Towards  a  Protection  of  the  Syrian  Cultural  Heritage: 
+A Summary of the International Responses (April 2014 —September 2014) , Vol.  2 .  Girona, Spail : 
+ Heritage for Peace .  
+
+    ——— .  2014b .  Towards a Protection of the Syrian Cultural Heritage: A Summary of the International 
+Responses (March 2011–March 2014) , Vol.  1 .  Girona, Spain :  Heritage for Peace .  
+
+    ——— .  2015 .  Towards a Protection of the Syrian Cultural Heritage: A Summary of the National and 
+International Responses (September 2014 —September 2015) , Vol.  3 .  Girona, Spain :  Heritage for Peace .  
+
+    Prott  ,   Lyndel V.  , and   Patrick J.     O’Keefe  .  1984 .  Law and the Cultural Heritage .  Abingdon, UK :  Profes-
+sional Books .  
+
+    ——— .  1988 .  Handbook of National Regulations Concerning the Export of Cultural Property .  Paris : 
+ UN Educational, Scientific and Cultural Organization (UNESCO) .  
+
+    ——— .  1992 .  “‘Cultural Heritage’ or ‘Cultural Property.’”   International Journal of Cultural Property  
+ 1 , no.  2 :  307 –20.  
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+LEGAL IMPLICATIONS AND OBLIGATIONS  
+
+  31 
+
+    Toman  ,   Jirí  .  1996 .  The Protection of Cultural Property in the Event of Armed Conflict: Commentary on 
+the Convention for the Protection of Cultural Property in the Event of Armed Conflict and Its Protocol, 
+Signed on 14 May, 1954 in The Hague, and on Other Instruments of International Law Concerning Such 
+Protection .  Paris :  UNESCO .  
+
+   UNESCO .  2011 .  The Fight against the Illicit Trafficking of Cultural Objects. 1970 Convention: Past and 
+Future: Information Kit .  Paris :  UNESCO .  
+
+    ——— .  2015 .  Item 4.11 of the Provisional Agenda 38 C/49: Reinforcement of UNESCO’s Action for the 
+Protection of Culture and the Promotion of Cultural Pluralism in the Event of Armed Conflict. Thirty-
+Seventh Session .  Paris :  UNESCO .  
+
+    Viejo-Rose  ,   Dacia  .  2013 .  “Reconstructing Heritage in the Aftermath of Civil War: Re-Visioning the 
+Nation and the Implications of International Involvement.”   Journal of Intervention and Statebuilding: 
+Special Issue on Cultural Interventions   7 , no.  2 :  125 –48.  
+
+    Viejo-Rose  ,   Dacia  , and   Marie Louise     Stig Sørenson  .  2015 .  “Cultural Heritage and Armed Conflict: 
+New  Questions  for  an  Old  Relationship.”   In   The  Palgrave  Handbook  of  Contemporary  Heritage 
+Research , edited by   E.     Waterton  ,   and   S.     Watson  ,  281 –96.  Basingstoke, UK :  Palgrave Macmillon .  
+
+    Wolfinbarger  ,   Susan  ,   Jonathan     Drake  ,   Eric     Ashcroft  , and   Kathryn     Hanson  .  2014a .  Ancient History, 
+modern  destruction:  Assessing  the  current  status  of  Syria’s  World  Heritage  Sites  Using  High  Resolu-
+tion Satellite Imagery .  Washington, DC :  American Association for the Advancement of Science and 
+Smithsonian Institution .  
+
+    ——— .  2014b .  Ancient History, Modern Destruction: Assessing the Status of Syria’s Tentative World 
+Heritage Sites Using High-Resolution Satellite Imagery , Part 1.  Washington, DC :  American Association 
+for the Advancement of Science and Smithsonian Institution .  
+
+   World Heritage Committee .  2013 .  Item 7B of the Provisional Agenda: State of Conservation of World 
+Heritage Properties Inscribed on the World Heritage List. Convention Concerning the Protection of the 
+World Cultural and Natural Heritage. Thirty-Seventh Session . Doc. WHC-13/37.COM/7B.ADD.  Paris : 
+ UNESCO .  
+
+    ——— .  2014 .  Item 7A of the Provisional Agenda: State of Conservation of the Properties Inscribed on 
+the List of World Heritage in Danger. Convention Concerning the Protection of the World Cultural and 
+Natural Heritage. Thirty-eighth Session . Doc. WHC-14/38.COM/7A.Add.  Paris :  UNESCO .    
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:33:25, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739116000011
+
+

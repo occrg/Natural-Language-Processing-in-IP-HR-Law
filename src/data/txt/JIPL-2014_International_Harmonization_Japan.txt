@@ -1,0 +1,3683 @@
+Journal of Intellectual Property Law & Practice, 2014, Vol. 9, No. 1
+
+ARTICLE
+
+61
+
+International harmonization of the grace period:
+the experience of Japan
+Shohei Ishimaru and Yuichiro Nakaya*
+
+Background
+The discussion on the harmonization of patent systems
+started in 1985 at the World Intellectual Property Organ-
+ization (WIPO). Although the discussion on harmoniz-
+ing substantive patent law has been stagnant in recent
+years, it was revived after the America Invents Act (AIA),
+enacted in 2011.
+
+One of the forums for these discussions is the Tegernsee
+Group.1 Responding to the results of the third meeting in
+October 2012, the Japan Patent Ofﬁce (JPO) hosted sympo-
+siums in Tokyo and Osaka,2 and found that harmonization
+of the grace period (GP) is the most strongly expected
+anticipated outcome on the part of users (see Figure 1).
+Further, in such discussions, the grace period attracts a lot
+of attention in international user communities.3
+
+A grace period is a period of time before the date of
+ﬁling a patent application for an invention during which
+certain kinds of disclosure of the invention are deemed
+not to destroy the novelty of the invention. Disclosures
+of this nature are usually referred to as ‘non-prejudicial
+disclosures’. The Cohen-Boyer patents are the best
+known case of patents utilizing GP;4 it is said that these
+patents have generated about 250 million dollars.
+
+With regard to GP, the Patent Act was revised in 2011
+in Japan. This article introduces statistical data relating to
+patent applications invoking GP received by the JPO, and
+examines the harmonization of GP by presenting the
+authors’ experiences. We were able to access a variety of
+data from related departments of the JPO when writing
+this article, and we would like to express our sincere grati-
+tude to all parties that facilitated our research.
+
+Brief history of international discussions
+on patent harmonization
+While the discussion of the harmonization of patent
+systems at WIPO started in 1985, the Prior Meeting on
+
+Email: nakaya-yuichiro@jpo.go.jp.
+
+*
+1 This group consists of the Japan Patent Ofﬁce, the United State Patent
+and Trademark Ofﬁce, four major European patent ofﬁces (Denmark,
+France, Germany and the United Kingdom) as well as the European
+Patent Ofﬁce.
+
+2 One author (Nakaya) participated in the symposiums as an organizer; the
+
+4
+
+other (Ishimaru) served as a moderator of the Tokyo symposium.
+
+The authors
+† Shohei Ishimaru is a former Associate Professor at
+the National Graduate Institute for Policy Studies;
+and Yuichiro Nakaya is a former Deputy Director,
+International Affairs Division,
+Japan Patent
+Ofﬁce.
+
+This article
+† With regard to the grace period (GP), the Patent
+Act was revised in 2011 in Japan in order to
+permit broad invocation of the GP to the disclos-
+ure resulting from an act of the person having the
+right to obtain a patent (including secondary dis-
+closure). The revised Patent Act came into force
+in April 2012.
+
+† This article introduces statistical data of patent
+applications invoking the GP, received by the
+Japan Patent Ofﬁce (JPO) between April and De-
+cember 2012, in order to ﬁnd out what changes
+are occurring due to the revision of the Patent Act
+in Japan in 2011. The data provided here imply
+that the revised GP system relieved more appli-
+cants than ever by enabling them to ﬁle patent
+applications invoking the GP under various situa-
+tions, including cases when applicants were not
+only universities but also small and medium-sized
+enterprises (SMEs) and large companies.
+
+† In July 2012 the JPO conducted a questionnaire
+survey on the results of the Patent Act revision.
+According to the results of this questionnaire
+survey, we found out that most of the respondents
+approved of the expanded scope of the GP. In
+addition, we examine the harmonization of GP by
+introducing the roundtables on the harmoniza-
+tion of patent systems held in Japan.
+
+3 The International Association for the Protection of Intellectual Property
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+/
+
+/
+
+/
+
+9
+1
+6
+1
+8
+2
+3
+4
+1
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+(AIPPI) commenced its own study on the grace period with the aim of
+adopting a resolution in September 2013; the International Federation of
+Intellectual Property Attorneys (FICPI) also prepared its own white paper
+on grace period toward the Administrative Committee in January 2013.
+‘The Story of the Cohen-Boyer Patents’ (2009) 96(6) Current Science
+(25 March 2009), 760.
+
+# The Author(s) (2013). Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jpt209
+
+62
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2014, Vol. 9, No. 1
+
+made to undertake a detailed study of four issues, and the
+study reports were made available on the discussants’ web-
+sites. After the third meeting held in Geneva in October
+2012, the Tegernsee Group undertook a common question-
+naire survey and held roundtables. Currently, the Group is
+summarizing the results of the surveys and roundtables.
+
+Differences in grace period systems
+Below we outline the differences between the systems of
+individual countries and regions. Table 1 does not pre-
+cisely reﬂect phrases used in the patent legislation of in-
+dividual countries and regions, but has simpliﬁed them.
+This allows us to understand in a concise manner the
+differences among the different countries and regions.
+
+With regard to the scope of the GP, in Japan, the Re-
+public of Korea and the United States, inventors/appli-
+cants can invoke the GP regardless of the format in which
+they disclose their inventions. In Europe, however, the
+disclosure format is very limited. Although the GP in
+Europe may be used if inventions are disclosed at inter-
+national exhibitions, there are only three exhibitions7 that
+have currently been approved. In China, the scope of the
+GP is slightly broader than that of Europe, as disclosures
+at speciﬁed academic conferences are allowed, in addition
+to international exhibitions.
+
+With regard to disclosures by third parties, the GP may
+be used for secondary disclosures by third parties origin-
+ating from disclosures by inventors/applicants in Japan,
+the Republic of Korea and the United States, but not in
+China and Europe. Notably the GP may be applied to dis-
+closures by third parties in the United States, even in cases
+where a third party independently makes and discloses
+the invention. This means that if any person discloses an
+invention ﬁrst, a patent right will be granted to him/her
+no matter who discloses it later (during 12 months).
+Therefore, some point out that the United States has actu-
+ally changed from the ﬁrst-to-invent system to the ‘ﬁrst-
+to-publish system.’ It will be necessary to keep an eye on
+how this system, unique to the United States, is enforced
+and what impact it will have.
+
+As shown in the Table 1, there is a difference in terms of
+the duration of the GP: 12 months in the United States and
+the Republic of Korea, but 6 months elsewhere. In terms of
+the date from which the GP is calculated, some countries
+base it on the ﬁling date, but others (China and the United
+States) base it on either the ﬁling date or the priority date.
+
+Figure 1. Importance of harmonization: Answers from Audience
+of Symposiums held by JPO in Tokyo and Osaka in March 2013.
+Note: Figure 1 shows the number of responses.
+
+Grace Period was held in 1984.5 This indicates that GP
+has been recognized as an important item for the process
+of harmonization from the very beginning of the discus-
+sions on patent harmonization.
+
+Although a diplomatic conference held to adopt the
+Patent Harmonization Treaty in 1991 was unsuccessful,
+WIPO continued the discussions, and in 2000, enacted the
+Patent Law Treaty (PLT) adopted. WIPO then resumed
+the discussion of substantive patent harmonization which
+was intended to lead to the Substantive Patent Law Treaty,
+but which, in 2005, resulted in a stalemate over North–
+South issues. In response to this stalemate, the Meeting of
+Developed Countries (the so-called ‘Group Bþ’) was set
+up to discuss the subject, but faced a conﬂict of opinions
+among member countries; there has been no signiﬁcant
+progress in its discussions after 2008.
+
+However, the United States’ progress toward the AIA
+in 2011 had a signiﬁcant impact on those international
+discussions and produced new momentum, one aspect
+of which was the onset of discussions in the Meeting of
+Five IP Ofﬁces; another was the initiation of discussions
+in the Tegernsee Group.
+
+The Meeting of Five IP Ofﬁces is a framework estab-
+lished by ﬁve patent ofﬁces6 in 2007. The Five IP Heads
+Meeting held in Tokyo in June 2011 resolved to begin
+discussing patent harmonization, and since then the
+group has made a comparative study of the operation of
+patent systems in individual countries and regions.
+
+Just after the start of discussions among the Five IP
+Ofﬁces, the Tegernsee Group commenced its own discus-
+sion. Its ﬁrst meeting was held in Tegernsee, a suburb of
+Munich, in July 2011. At the second Tegernsee Meeting
+(Spitzingsee, Germany) held in April 2012, a decision was
+
+5 R. Carl Moy ‘The History of the Patent Harmonization Treaty: Economic
+
+Self-Interest as an Inﬂuence’ Faculty Scholarship Paper No. 149 (1993),
+459.
+Japan Patent Ofﬁce (JPO), United States Patent and Trademark Ofﬁce
+(USPTO), European Patent Ofﬁce (EPO), Korean Intellectual Property
+
+6
+
+Ofﬁce (KIPO) and State Intellectual Property Ofﬁce of the People’s
+Republic of China (SIPO).
+
+7 Venlo (NL/2012), Yeosu (KR/2012), Milano (IT/2015), Ofﬁcial Journal
+
+EPO (4/2012), 342.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+/
+
+/
+
+/
+
+9
+1
+6
+1
+8
+2
+3
+4
+1
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Shohei Ishimaru and Yuichiro Nakaya . International harmonization of the grace period: the experience of Japan ARTICLE
+
+63
+
+Table 1 Comparison of grace period systems
+
+United State
+
+Korea
+
+Japan
+
+China
+
+Europe
+
+Scope
+
+Disclosure format
+by inventor/applicant
+
+Any
+
+Any
+
+Any
+
+Disclosure by third
+parties
+
+† Against intention of
+
+right holder
+
+† Secondary disclosure
+† Disclosure of
+
+independent invention
+
+† Against intention
+
+† Against intention
+
+of right holder
+
+† Secondary
+disclosure
+
+of right holder
+
+† Secondary
+disclosure
+
+† At international
+
+exhibitions
+
+† At speciﬁed academic
+
+conferences
+
+† Without consent of the
+
+applicant
+
+At international
+exhibitions
+
+† Due to evident
+
+abuse
+
+Duration
+
+Date from which
+the GP is calculated
+
+12 months
+
+Filing date or
+priority date
+
+12 months
+
+Filing date
+
+6 months
+
+Filing date
+
+6 months
+
+Filing date or priority
+date
+
+6 months
+
+Filing date
+
+Declaration/Procedure Not required
+
+Required
+
+Required
+
+Required
+
+Required
+
+Furthermore, some countries require a declaration or
+prescribed procedures in order to use the GP at the time
+of ﬁling of a patent application. While the United States
+does not require any declaration, s 1.77 of the Rules of
+Practice (Code of Federal Regulations (CFR) 37)) of the
+AIA announced on 14 February 2013, stipulates that the
+speciﬁcation should include a statement referencing prior
+disclosures by the inventor or the joint inventor.
+
+The columns for Europe in Table 1 are based on the
+European Patent Convention (EPC). The EPC member
+states base their GPs on the provisions of the EPC, except
+Portugal (where presentations at academic conferences
+are subject to GP). A point of interest is that Germany
+still permits GP without any restriction on disclosures by
+inventors/applicants in the case of utility models. Indeed,
+Germany had GP in its previous patent legislation, as did
+Austria, Italy, Switzerland and the United Kingdom.
+However, GP was excluded from each country’s Patent
+Act when they joined the EPC.
+
+Lastly, when we will look at other countries:8 Australia
+and Canada have generous GPs, as do Brazil and Russia.
+In India, the GP can be used for disclosures at academic
+conferences and tests at public places other than at exhi-
+bitions and fairs.
+
+Revision of Japan’s Patent Act in 2011
+In the case of the GP in Japan, there is currently no re-
+striction on the formats of disclosures by applicants, as
+explained above. This is the same as in the United States.
+
+But it was not always so. According the pre-1959 Patent
+Act, the GP could be used only for disclosures made at
+tests and at fairs and for exhibitions that had been
+approved by the government.
+
+Presentations in printed publications and in writing
+at academic conferences designated by the Commission-
+er of the Japan Patent Ofﬁce were added to the scope of
+the GP when the Patent Act was revised in 1959, in re-
+sponse to requests from academic societies. Disclosures
+via the internet were added to the scope of the GP in
+1999, and the previously limited list of approved disclos-
+ure formats was augmented in 2011 when Patent Act
+Article 30 was revised.
+
+We would like to describe the 2011 Patent Act Revision
+in more detail.9 In the past, the GP could only be used for
+a limited number of disclosure formats. However, it was
+pointed out that such narrowly delimited scope did not
+make the GP very meaningful, particularly since the list
+did not include ‘marketing research conducted for busi-
+ness purposes’ or ‘sales’. Then there were cases in which
+similar types of disclosures were allowed in some cases
+but not in others, on account of the different disclosure
+formats, methods and media, which created an inconsist-
+ent system.
+
+Examples of inconsistency:
+
+† Disclosure of
+
+inventions
+
+through catalogues and
+pamphlets displaying one’s own products to unspeci-
+ﬁed persons was allowed under the scope of the GP,
+while disclosure by selling one’s own products was not.
+
+8
+
+See Tegernsee Experts Group Report on ‘Grace Period’, Appendix A, pp
+52 – 56 (‘Tegernsee Report’). http://www.jpo.go.jp/torikumi/ibento/
+ibento2/pdf/sympo_tokkyo_reports/01e.pdf (accessed 1 November 2013)
+
+9
+
+See ibid, 22 – 23.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+/
+
+/
+
+/
+
+9
+1
+6
+1
+8
+2
+3
+4
+1
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+64
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2014, Vol. 9, No. 1
+
+† Disclosure of inventions through online video stream-
+ing via the internet was permitted, while disclosure
+through TV broadcasting was not.
+
+at
+
+academic
+
+conferences
+
+Moreover, it was pointed out that there were inconsist-
+encies when it came to disclosure through written pre-
+sentations
+sponsored by
+academic societies because the GP did not apply where
+an academic society had not been designated by the
+Commissioner of the Japan Patent Ofﬁce.10 In contrast,
+written proceedings and presentations posted on the
+internet may be subject to GP regardless of whether
+there is such a designation.
+
+In order to eliminate such inconsistencies in the GP,
+its scope was broadened to include any formats chosen
+by the applicants to disclose their inventions so they may
+become publicly known. This signiﬁcant expansion of
+the scope of the GP coincided with the demand from
+universities while enhancing the convenience for users
+who are not familiar with the patent system, taking into
+account the current situation in which research activities
+have become increasingly diversiﬁed in line with the pro-
+gress of open innovation. This is thought to expand the
+base for creating innovation. The list below summarizes
+the effect of the 2011 revision:
+† A person having the right to obtain a patent either
+conducted a test or made a presentation in a printed
+publication, in the media or in writing at an academic
+conference designated by the Commissioner of the
+Japan Patent Ofﬁce.
+† A person having the right to obtain a patent has either
+disclosed the invention through an exhibition spon-
+sored by the government or at an exhibition designated
+by the Commissioner of the Japan Patent Ofﬁce.
+† The disclosure was made against the will of the
+
+Before the 2011 Patent Act revision:
+
+person having the right to obtain a patent.
+
+After the 2011 Patent Act revision:
+† Disclosure made by a person having the right to
+† Disclosure made against the will of the person having
+
+obtain a patent.
+
+the right to obtain a patent.
+
+The current, post-revision situation
+Since the revised GP system came into force in April
+2012, the JPO has kept an eye on the situation and has
+
+10 It had been provided that academic societies shall be designated by the
+Commissioner of the Japan Patent Ofﬁce. Therefore, the existence of an
+application by an organizer affected the approval of whether the provision
+of exception to lack of novelty applies. No foreign academic society has
+
+provided us with data in this regard. Here we comment
+on that data.
+
+Statistics on the use of the GP
+In Japan, any applicant who invokes a GP needs to
+submit a document indicating his/her intention at the
+moment of ﬁling the patent application, and must
+submit necessary information for invoking it (ie indicate
+when and where the disclosure was made and what was
+disclosed by whom) within 30 days from the ﬁling of the
+patent application. Currently, we have data up until
+December 2012 because of the delay needed to compile
+the data.
+
+Figure 2 shows estimated values for the period from
+April 2012 to March 2013 based on data collected
+between April and December 2012. According to these
+estimated values, the use of GP increased by 66 per cent
+after the revised system had gone into effect.
+
+Currently, the JPO receives approximately 340,000
+applications per year, with the GP being used in fewer
+than 1 per cent of the total ﬁlings.
+
+level
+
+same
+
+The use of the GP decreased by approximately 20 per
+cent between 2009 and 2011. There are several reasons
+for this decrease. One reason is that the number of
+patent applications ﬁled by universities and small-and-
+medium-sized enterprises (SMEs) had decreased. The
+number of patent applications that the JPO received
+remained around the
+(approximately
+340,000) between 2009 and 2011 on a calendar year basis
+(in 2009 there were 348,596; in 2010 there were 344,598;
+and in 2011 there were 342,610). During those years, the
+number of applications ﬁled by universities decreased by
+5 per cent on a calendar year basis. The number in 2009
+was 7151, while the number in 2011 was 6756. Applica-
+tions ﬁled by SMEs decreased 10 per cent from 34,667 in
+2009 to 31,068 in 2011. Referring to the data below, we
+will explain that more than half of GP users are univer-
+sities and SMEs. The decreasing number of patent appli-
+cations ﬁled by universities and SMEs is thus considered
+to be a factor contributing to the decrease in the number
+of GP uses. However, the 20 per cent decrease in the GP
+usage cannot be explained by that reason alone.
+
+Another plausible reason is that intellectual property
+management has become widely recognized. National
+universities, which account for a high percentage of
+patent applications ﬁled by universities, were incorpo-
+rated in April 2004. Along with this change, the conven-
+tional principle, which was that research achievements
+
+made an application, although they could have been designated in terms of
+the system. A presentation made by a foreign academic society was not
+subject to GP.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+/
+
+/
+
+/
+
+9
+1
+6
+1
+8
+2
+3
+4
+1
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Shohei Ishimaru and Yuichiro Nakaya . International harmonization of the grace period: the experience of Japan ARTICLE
+
+65
+
+products before they ﬁle patent applications for them,
+and ﬁle patent applications only after they had come to
+know that those products are popular among costumers.
+As a result, they cannot take advantage of GP when they
+are ﬁling their patent applications.
+
+In many cases, as mentioned above, SMEs, without
+sufﬁcient resources to develop intellectual property sec-
+tions, realize the necessity of ﬁling patent applications
+after it has become too late. The revised patent law can
+now eliminate such cases.
+
+The use of GP by large companies has doubled. Gener-
+ally, large companies rarely use GP. The rate of GP utiliza-
+tion is no more than a few cases per 1000. Although large
+companies manage their inventions in a well-organized
+manner, they do not always manage them perfectly. In ex-
+tremely rare cases, due to an error, they disclose their
+inventions before they have ﬁled patent applications, and
+this forces them to use the GP. That is to say, the revision
+of the Patent Act offers the possibility of relieving such
+emergency situations.
+
+On the other hand, with regard to applications ﬁled
+by universities and public research institutions, the use
+of GP has not increased signiﬁcantly, even in the case of
+joint applications. The use has increased by only 18 per
+cent, from 590 applications in 2011 to 700 applications
+in 2012, and this increase is low compared to the entire
+increase.
+
+It seems that the following are the reasons for this. Ap-
+proximately 70 per cent of the use of GP by universities
+and public research institutions is connected to presenta-
+tions at academic conferences hosted by academic soci-
+eties. Although only academic societies designated by the
+Commissioner of the Japan Patent Ofﬁce were eligible
+under the previous Patent Act, the number of societies
+designated by the Commissioner exceeded 1000 (all desig-
+nated academic societies were Japanese academic soci-
+eties).11 It is thus assumed that almost all academic
+societies in Japan were designated by the Commissioner of
+the Japan Patent Ofﬁce, and that almost all presentations
+made at academic conferences held in Japan were eligible
+for GP. We can say that the condition of being ‘desig-
+nat[ed] by the Commissioner of the Japan Patent Ofﬁce’
+was removed by the revision of the Patent Act, but in prac-
+tice the scope of GP was not expanded in terms of such
+presentations (presentations at overseas academic confer-
+ences became eligible for GP). While some applications
+ﬁled after April 2012 contained requests for the use of GP
+in presentations at overseas academic conferences.
+
+Figure 2. Statistical survey on GP (JPO, March 2013).
+
+were generally vested in the individual researchers, was
+changed so that achievements are now vested in the
+organizations themselves. Therefore, given the necessity
+to manage intellectual property vested in them, each
+university has set up intellectual property headquarters
+and has made greater efforts to provide education on in-
+tellectual property to the teaching staff. The decrease in
+the number of applications using the GP may be partly a
+result of these changes. As if testifying to this, a panellist
+at the symposium stated: ‘Taking all applications ﬁled in
+the past into consideration, 14% of them had used the
+GP. However, recently only 5% of applications used the
+GP in the past few years.’
+
+Change in breakdown of GP users
+Table 2 below compares the breakdown of GP users from
+April to December 2011 and the breakdown from April
+to December 2012.
+
+Analysis by sector of applicant
+We note that the use of GP by SMEs increased approxi-
+mately 3.5 times, from 120 to 417 instances. According
+to the parties concerned, many applications are ﬁled
+because ‘exhibitions/fairs’ no longer need to be approved
+by the Commissioner, and ‘the act of selling’ has been
+included in the scope of GP under the revised patent
+law. A panellist at the symposium held in Tokyo stated:
+
+Currently, we notice that SMEs cannot fully manage intel-
+lectual property because they do not have intellectual prop-
+erty departments. It is common for companies with 200
+employees to have at most one dedicated intellectual prop-
+erty staff and two concurrent staff.
+
+Another panellist commented that there have been
+cases in which SMEs and venture companies supply
+
+11 Academic societies designated by the Commissioner of the Japan Patent
+
+Ofﬁce are listed at http://www.jpo.go.jp/shiryou/kijun/kijun2/30jyou/
+h23g_dantai.htm (accessed 1 November 2013) [in Japanese].
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+/
+
+/
+
+/
+
+9
+1
+6
+1
+8
+2
+3
+4
+1
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+66
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2014, Vol. 9, No. 1
+
+Table 2 Change in the number of applications for exception to lack of novelty (by sector of applicant and type of
+disclosure)
+
+Statistical Survey on GP (JPO, March 2013).
+
+In fact, the use of GP for disclosures at exhibitions
+and fairs has increased signiﬁcantly, as their designation
+by the Commissioner has become unnecessary. To begin
+with, it used to be necessary to obtain designation every
+time an exhibition or fair was held, even if it was regular-
+ly held every year. In addition, only about 120 exhibi-
+tions held in 2011 were so designated.12 For example,
+nearly 30 fairs were held to exhibit technologies and in-
+dustrial products in INTEX OSAKA, an international ex-
+hibition hall, during the ﬁscal year 2011. We examined
+in detail the list of events and found that only six of
+those events received a designation. For example, fairs
+for microfabrication technology, high-precision process-
+ing technology, high-density processing technology,
+waste disposal technology, energy-saving technology,
+and R&D support equipment such as analysis/measuring
+equipment, were not designated by the Commissioner. It
+is thus obvious that the Commissioner’s designation
+covered only a part of the fairs held.
+
+The use of the GP for disclosures made through pre-
+sentations at academic conferences sponsored by aca-
+demic societies has not increased, but the use of GP for
+disclosures at exhibitions and fairs has increased. This
+phenomenon seems to be attributable to the removal of
+the need for designation, as mentioned above. Universities
+
+12 Exhibitions designated by the Commissioner of the Japan Patent Ofﬁce are
+listed at: http://www.jpo.go.jp/shiryou/kijun/kijun2/30jyou/h23_30exposi.
+htm (accessed 1 November 2013) [in Japanese].
+
+that do not run their own businesses can present their
+research results mainly at academic conferences, but not
+at fairs or exhibitions that are designed to enable people
+to ﬁnd business partners and develop sales channels. It is
+presumed that, in the case of universities that give their
+presentations mainly at academic conferences, the num-
+ber of applicatiosn where the GP applies has not increased
+in tandem with the revision made to the Patent Act, since
+these conferences had been designated even prior to the
+legal revision.
+
+Analysis by type of disclosure
+As mentioned earlier, when we look at the types of dis-
+closures, the number of presentations made at academic
+conferences has not increased much, while that at fairs
+and exhibitions has increased 3.6 times (from 87 to 316).
+In addition, the GP was used in 142 cases for ‘the act of
+selling’ which became eligible for the GP, with SMEs
+accounting for almost 50 per cent of those cases. In total,
+‘the act of selling’ accounts for 17 per cent of the GP use
+among SMEs, and 7.7 per cent among large companies.
+
+Has the expanded scope of the GP sent a wrong
+message to users of the patent system? Concern has been
+expressed that the existence of the GP itself sends the
+wrong message, meaning that it may be used without
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+/
+
+/
+
+/
+
+9
+1
+6
+1
+8
+2
+3
+4
+1
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Shohei Ishimaru and Yuichiro Nakaya . International harmonization of the grace period: the experience of Japan ARTICLE
+
+67
+
+much consideration. This is seen as a negative view of
+the GP.
+
+We focus on large companies ﬁrst, in order to verify
+this point. Large companies as a whole manage their
+intellectual property thoroughly, so it is hard to believe
+that their intellectual property management has become
+lax in response to the expansion of the GP. Even if the
+Patent Act revision sends out the wrong message, it is
+difﬁcult to think that large companies would be affected
+by this. What, then, is the case of ‘academic conferences’
+whose scope of use of the GP has not expanded substan-
+tively? The number of cases in which the GP is used for
+presentations at academic conferences by large compan-
+ies has barely increased (by approximately 2 per cent).
+This indicates that large companies carefully manage in-
+tellectual property and provide their employees with a
+certain level of education on intellectual property.
+
+Compared with this data, the use of GP by universities
+(including collaborative research involving universities)
+has increased only by 1.3 per cent (from 461 to 467). If
+the expansion of
+the GP were sending the wrong
+message, i.e., that the GP can be evoked for technology
+that was disclosed in a presentation before a patent ap-
+plication for the technology has been ﬁled, the use of GP
+for presentations at academic conferences by universities
+should have increased more. However, there was no such
+tendency. In recent years, universities have focused on
+educating their teaching staff about IP and IP manage-
+ment by establishing intellectual property headquarters
+and academic-industrial collaboration organizations.
+Moreover, a panellist said at the symposium that univer-
+sities furnish teaching staff with the smallest amount of
+information possible on this revision to the Patent Act
+so that the expansion of the GP does not send the wrong
+message. Persons who provide education and who
+manage intellectual property rights may have prevented
+a negative message from being sent.
+
+The question here is why the use of the GP for disclo-
+sures through the internet, which was eligible for the GP
+in the past, has increased overall 2.5 times (from 128 to
+331). In response to this, some may point out that the
+expanded scope of the GP did send the wrong message.
+However, we should note that the use of the GP for dis-
+closures made by large companies through the internet
+has increased by 400 per cent (from 34 to 136). We
+repeat that large companies exercise thorough IP man-
+agement, so it is hard to believe that the expanded scope
+of the GP relaxed their IP management. We do not think
+
+that this is because large companies have started to use
+GP without giving it any consideration, and thus assume
+that there is another reason for the increase in the use of
+GP for online disclosures.
+
+One plausible theory is that ‘the act of selling’ is now
+eligible for the GP. It is impossible to know the purpose(s)
+of disclosing an invention on the internet based on the
+data for the convenience of application documents sub-
+mitted to the Japan Patent Ofﬁce. However, large com-
+panies are considered to use the internet mainly for the
+purpose of promoting sales and introducing their pro-
+ducts, and not for any academic purpose such as sharing
+research results. Since ‘the act of selling’ is eligible for GP,
+this facility can now be used for inventions publicized or
+disclosed on the internet for promotional purposes. The
+fact that online disclosure was not clearly listed may have
+made patent applicants hesitant about ﬁling applications
+evoking the GP. Now, since ‘the act of selling’ has clearly
+become eligible for GP, more large companies may have
+started to ﬁle applications for GP when making disclo-
+sures on the internet for sales purposes. Still, this is our
+assumption, and we will not know the real reason for the
+increase unless we interview companies.
+
+Breakdown of use of GP by technical ﬁeld
+When comparing applications using the GP for disclo-
+sures from April to December 2011 and from April to
+December 2012 by technical ﬁeld, the ratios of Section A
+‘Human Necessities’, Section E ‘Fixed Constructions’ and
+Section F ‘Mechanical Engineering, Lighting, Heating,
+Weapons, Blasting’ are increasing in the International
+Patent Classiﬁcation (IPC)13 (see Figures 4 and 5).
+
+Although we need to wait for a detailed analysis of
+each case, the details of inventions can be easily viewed as
+product shapes in the case of these sections (the details of
+inventions are not the ratio of components but chemical
+formulas).
+
+The use of the GP for disclosures at fairs, etc, has
+increased due to this revision of the Patent Act, and inven-
+tions are disclosed in the form of actual products dis-
+played at those fairs. The changed breakdown by technical
+ﬁeld is assumed to have a certain relationship with the in-
+creasing use of the GP with respect to disclosures of
+inventions at fairs.
+
+Ratio of accelerated examination
+What is interesting in the data provided by the JPO is the
+ratio of applications requesting accelerated examination.
+
+13 IPC Sections:
+
+A: Human Necessities
+B: Performing Operations; Transporting
+C: Chemistry; Metallurgy
+
+D: Textiles; Paper
+E: Fixed Constructions
+F: Mechanical Engineering; Lighting; Heating; Weapons; Blasting
+G: Physics
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+/
+
+/
+
+/
+
+9
+1
+6
+1
+8
+2
+3
+4
+1
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+68
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2014, Vol. 9, No. 1
+
+Table 3 compares the number of applications for which
+requests for examination have been ﬁled and applications
+for which requests for accelerated examination have been
+ﬁled as of 18 March 2013 with all applications and
+applications invoking GP with respect to applications
+ﬁled from April to December 2012 (excluding PCT appli-
+cations that entered the national phase in Japan).
+
+The ratio of requests for accelerated examination in the
+case of applications ﬁled by using the GP is higher than
+that in the case of applications ﬁled without using GP. Cur-
+rently, work-related applications, internationally ﬁled appli-
+cations, applications ﬁled by SMEs and venture companies
+and applications ﬁled by universities, Technology Licensing
+Organizations and public research institutions etc are eli-
+gible for accelerated examination in Japan.
+
+The results for some applications requesting acceler-
+ated examination have already been released. At this
+point, 62 applications have been examined, and 92 per
+cent of them have been granted patents. (See Table 4).
+Taking into account the fact that the ratio of patent-
+granting decisions in the calendar year 2011 was 60.5 per
+cent, we see that the ratio of patent-granting decisions in
+applications using the GP is higher than that for regular
+applications.
+
+The principle of the ﬁrst-to-ﬁle system is that inven-
+tions that have been disclosed before the respective patent
+applications have been ﬁled may not be patented, as the
+very fact of the inventions being disclosed renders them
+prior art. However, in spite of this principle, inventions
+ﬁled by using the GP as an exception to this rule are con-
+sidered to be important for applicants.
+
+When we look at the data, we recall the comment
+made by a symposium panellist that there have been cases
+in which SMEs and venture companies start to provide
+products before ﬁling patent applications for them, and
+then ﬁle patent applications after they come to know that
+those products are popular. This supports the idea that
+some applications that take advantage of the GP are ﬁled
+in respect of highly praised high-quality inventions.
+
+Results of questionnaire survey on the
+expansion of the scope of the GP
+In July 2013, the JPO conducted a survey on the results
+of the Patent Act revision. The results of the survey are
+included in the report by the Tegernsee Group.14
+
+According to the results of this survey, more than
+80 per cent of the respondents approve the expanded
+scope of the GP; the said respondents exclude those who
+answered that it was premature for them to evaluate (see
+Figure 6).
+
+14 See Tegernsee Report, above, n 8, 32 –39.
+
+Figure 3. Statistical Survey on GP (JPO, March 2013).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+/
+
+/
+
+/
+
+9
+1
+6
+1
+8
+2
+3
+4
+1
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Figure 4. Statistical Survey on the GP (JPO, March 2013).
+
+Figure 5. Statistical Survey on the GP (JPO, March 2013).
+
+Shohei Ishimaru and Yuichiro Nakaya . International harmonization of the grace period: the experience of Japan ARTICLE
+
+69
+
+Table 3 Differences in ratios of requests for examination and requests for accelerated examination between
+normal patent applications and those invoking GP (ﬁled in April – December 2012; as of March 2013)
+
+All Applications
+
+Applications invoking GP
+
+Number
+
+Ratio
+
+Number
+
+Ratio
+
+Applications
+
+Request for examination
+
+Request for accelerated examination
+
+Statistical Survey on GP (JPO, March 2013).
+
+(A)
+
+(B)
+
+(C)
+
+208,745
+
+–
+
+30,806
+
+(B/A)
+
+14.8%
+
+–
+
+–
+
+(a)
+
+(b)
+
+5461
+
+(C/A)
+
+2.6% (C/B)
+
+17.7% (c)
+
+1947
+
+245
+
+108
+
+–
+
+(b/a)
+
+12.6%
+
+–
+
+–
+
+(c/a)
+
+5.5% (c/b)
+
+44.1%
+
+Table 4 Results of Examination on applications
+invoking the GP (ﬁled in April – December 2012; as of
+18 March 2013)
+
+Results of examination
+
+Patents granted
+
+Applications refused
+
+Statistical Survey on GP (JPO, March 2013).
+
+57
+
+5
+
+91.9%
+
+8.1%
+
+Below are some comments on the advantages of the
+
+GP, based on the responses to the questionnaire survey.
+† Our university intends to ﬁle as many patent applica-
+tions as possible before making presentations on inven-
+tions. However, the GP is helpful, because researchers
+in universities tend to make presentations ﬁrst.
+† Since researchers in universities have a lower aware-
+ness of the importance of ﬁling patent applications
+compared to employees at companies, it is preferable
+for universities to have the GP system as a safety net.
+† In some cases, SMEs that don’t have even one person
+in charge of IP do not even recognize the requirement
+of ‘novelty.’ The role of the GP is great to protect
+newly-born technology.
+† There are cases where a person comes to consult his/
+her patent application after the disclosure at a fair and
+learns novelty for the ﬁrst time due to lack of knowl-
+edge of the patent system.
+
+On the other hand, there were some negative comments:
+† Because of the GP, there is a tendency for inventors to
+present
+their inventions at academic conferences
+without giving much thought about the consequences
+of doing so. There is a concern that this tendency will
+become more prevalent.
+† Although the scope of the GP was expanded, and this
+is beneﬁcial, there is also a risk that an idea might be
+stolen by others, on the other hand.
+
+As we have argued earlier, it is difﬁcult to think that this
+revision to the Patent Act sends a wrong message at this
+moment, with regard to the ﬁrst negative comment
+above. With regard to the second negative comment, we
+should not blame the GP system itself. It goes without
+saying that there is always a risk that an idea can be
+stolen by others when an invention is publicized, even
+when there is no option of using the GP. Taking into
+account the fact that GP is nothing but a relief measure,
+it should not be used frequently in the ﬁrst place.
+
+Evaluation of the revision made to
+Japanese Patent Act
+We next consider whether the revision of Japan’s Patent
+Act was positive or negative for system users.
+
+More than 80 per cent of respondents have a positive
+opinion of the GP system, according to the question-
+naire. Looking at the use of GP and the new modes that
+were added following this revision, we note that the GP
+is being used increasingly for fairs and sales. This indi-
+cates that inventions that had been previously disclosed
+can now take advantage of the revised GP, whereas they
+could not have before. Moreover, it is worth noting that
+the utilization rate of
+the accelerated examination
+system is high, and the rate to grant patents is also high.
+That is to say, this revision of the Patent Act paves the
+way for applicants to obtain patent rights for important
+inventions, which they were unable to do in the past,
+providing them with a more reﬁned safety net.
+
+We should not forget that some individuals made
+negative comments about the expanded scope of the GP.
+They were concerned that, thanks to the GP, more pre-
+sentations would be made without inventors giving
+careful thought about the consequences. However, the
+use of the GP for presentations at academic conferences
+by universities and public research institutions has
+not increased signiﬁcantly. We can thus say that the
+expanded GP has not had a negative impact on IP man-
+agement and IP education. We believe that it is necessary
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+/
+
+/
+
+/
+
+9
+1
+6
+1
+8
+2
+3
+4
+1
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+70
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2014, Vol. 9, No. 1
+
+Figure 6. Questionnaire regarding revision of GP (JPO, July 2012) Note: Figure 6 shows the number of responses.
+
+to inform the public thoroughly that the GP should
+serve as nothing more than a safety net.
+
+Another negative view of the GP relates to legal cer-
+tainty of patent systems, a point that was also discussed at
+the symposiums. In Japan, regardless of whether applica-
+tions are sought, the use of the GP is speciﬁed in the pub-
+lication of unexamined patent applications when the 18-
+month publication is made (see Figure 7). This is one so-
+lution to this issue. A panellist commented that this
+would contribute to systemic certainty. Professor Straus
+added that the Japanese system could be an alternative to
+taking legal certainty into consideration (if consideration
+of legal certainty were to lead to a compellingly different
+result, a system comparable to that applied in Japan and
+other States might offer an acceptable alternative).15
+
+As previously discussed, in the USA, the Rules of
+Practice of the AIA of February 2013 require ‘an earlier
+disclosure by an applicant to be described’ in the speciﬁ-
+cation, although this is not obligatory. The Rules explain
+that the reason for this is to eliminate unnecessary notiﬁ-
+cations of reasons for refusal. This is intended to con-
+tribute to the certainty of patent systems to some extent.
+In addition to such measure, as far as we know, there is
+no speciﬁc individual case in which the use of the GP has
+caused any uncertainty as to the patent system in Japan.
+No panellist at the symposiums held in Tokyo and Osaka
+reported any speciﬁc inconvenience, and we have not
+heard that any problem was caused by the expansion of
+the GP based on the revision to the Patent Act.
+
+We would like to introduce here the part relating to cer-
+tainty from the results of the survey undertaken in Japan in
+
+response to the agreement by the Tegernsee Group. Only
+eight (ie 2 per cent) among the 412 respondents answered
+that their business activities and research activities were ad-
+versely affected because the GP was used by others, and no
+one reported that this situation led to a lawsuit.
+
+Moreover, Professor Straus stated in his paper,16 with
+regard to Germany and the United Kingdom, two coun-
+tries that had the GP in the past, that:
+
+Neither the British or German Patent Ofﬁce, nor British nor
+German courts have any particular problems in coping with
+the grace period.
+
+The utilization rate of the GP in Japan has always
+been relatively low and would not greatly exceed 1 per
+cent of all patent applications even if it doubled, al-
+though, at this early stage, it is impossible to draw con-
+clusions about the effects of the revision of the Patent
+Law from the perspective of legal certainty. It may be ne-
+cessary to follow up on this decade after decade in order
+to obtain results. In any case, it is hard to imagine that
+there has been any signiﬁcant negative impact.
+
+Towards harmonization
+How can harmonization be achieved? It is clear that Japa-
+nese users expect the patent system to be harmonized in
+line with the expanded scope of the GP. Japanese users
+have a positive opinion of the GP, given their positive
+image of the 2011 revision to the Patent Act and the
+manner in which it expanded the scope of eligibility for
+the GP. This view is also apparent from the results of the
+Tegernsee Group survey.
+
+15 Joseph Straus Grace period and the European and international patent law:
+
+16 Ibid, xii, para 6.
+
+analysis of key legal and socio-economic aspects (CH Beck 2001) 96, para
+11.2.1. Munich, Germany.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+/
+
+/
+
+/
+
+9
+1
+6
+1
+8
+2
+3
+4
+1
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Shohei Ishimaru and Yuichiro Nakaya . International harmonization of the grace period: the experience of Japan ARTICLE
+
+71
+
+Figure 7. Sample of Publication of unexamined patent applications in Japan. [Note] Please refer to the part pointed by the arrow. This
+part tells that the applicant of this application has requested to use the GP. This part, if translated in English, says “Request for applying
+the Article 30 of Patent Act has been made. Inventions are published in XXXX dated DD,MM, 2013.”. The article 30 of Japanese Patent
+Act provides the GP.
+
+Seventy-ﬁve per cent of the respondents to the ques-
+tionnaire supported the GP. Looking at the results per
+attribute of the respondents, we can see that large com-
+panies have the lowest support rate, but even so, it is still
+69 per cent (see Figure 8).
+
+Support for the GP is also evident from the answers
+to other questions. Other questions, asking users about
+their perception of the GP, had both positive and nega-
+tive options, and the respondents were asked to choose
+all applicable options (multiple responses possible). The
+results in Figure 9 show that the number of positive
+options (ie 354) was 2.6 times higher than the number
+of negative options (ie 135).
+
+In the symposiums, all the panellists remarked that
+‘they were trying to avoid using the GP as much as pos-
+sible’. This was true not only for representatives of large
+companies but also for SMEs and universities. They all
+shared this common view. In addition, it was conﬁrmed
+in the symposiums that SMEs and universities use the
+GP more frequently than large companies do. This was
+also proved by the survey (see Figure 10).
+
+This is considered to be a sufﬁciently convincing result.
+It is not easy for SMEs to control the disclosure of new
+technologies by setting up IP departments or educating
+persons in charge of development on the patent system,
+as large companies do. Moreover,
+teaching staff at
+
+universities tend to place more importance on presenta-
+tions at academic conferences than on patent applica-
+tions, and the decision whether to obtain patents lies
+within their discretion. Nevertheless, SMEs and univer-
+sities in Japan do not necessarily use the GP frequently. It
+is certain that they take advantage of the GP, using it only
+as a safety net out of necessity. It is not simple to use the
+GP in terms of costs and procedures.
+
+The Patent Law Treaty (PLT) provides various means
+of assisting users, and this is why it was ratiﬁed as a user-
+friendly system by many countries. If the GP is a ‘safety
+net’, it should gain more popularity like the PLT. That is,
+it will be necessary in the future to have the proper
+mind-set on the GP in discussions on patent harmoniza-
+tion, such as ‘establishing a user-friendly system’ and
+‘developing safety nets’.
+
+Another important issue discussed at the symposiums
+was that GP in Europe is very limited in scope as com-
+pared to other countries. The limited scope of GP in
+Europe leads to a situation where the use of the GP in
+Japan, for example, has almost the same meaning as
+giving up the acquisition of right in Europe. That is, the
+use of the GP in Japan closes the applicants’ way to ac-
+quiring rights in Europe, since only Europe applies the
+‘principle of patent systems’ of the ﬁrst-to-ﬁle system in
+an extremely strict manner. If taking into account the
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+/
+
+/
+
+/
+
+9
+1
+6
+1
+8
+2
+3
+4
+1
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+72
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2014, Vol. 9, No. 1
+
+Figure 8. Are you in favour of a GP? Tegernsee Questionnaire Survey in Japan (JPO, March 2013).
+
+Figure 9. Perception about GP Tegernsee Questionnaire Survey in Japan (JPO, March 2013).
+
+Figure 10. Frequency of relying of GP Tegernsee Questionnaire Survey in Japan (JPO, March 2013).
+
+fact
+that patent application activities are becoming
+global in line with the advance in economic globalization
+now days, it is desirable to eliminate differences between
+systems in individual countries and regions as far as pos-
+sible in order to avoid the above mentioned problematic
+situation.
+
+As explained above, Austria, Italy, Germany, Switzer-
+land and the United Kingdom used to have the GP in the
+past, but it was abolished in 1973 when the EPC was
+
+adopted. The reason was that ‘where such protection
+existed in Europe which did not exist in non-contracting
+states, this [generous provision for scope] would give
+inventors a false sense of security leading them to lose
+their rights if they ﬁled in those countries’.17
+
+The use of the GP when an application is ﬁled in
+Japan leads to the loss of opportunity for acquiring a
+right in Europe. This is similar to the concern which
+was discussed when the EPC was ﬁrst formulated. The
+
+17 See Tegernsee Report, above, n 8, 7.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+/
+
+/
+
+/
+
+9
+1
+6
+1
+8
+2
+3
+4
+1
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Shohei Ishimaru and Yuichiro Nakaya . International harmonization of the grace period: the experience of Japan ARTICLE
+
+73
+
+Japanese government does not maintain the GP system
+to give patent system users a grace period for ﬁling appli-
+cations, but provides a safety net in cases where an appli-
+cation was publicized due to unavoidable reasons. Users
+do not think that there is no problem in delaying the
+ﬁling of patent applications simply because of the exist-
+ence of the GP that covers a certain period of time. This
+is clearly seen in the results of the questionnaire and the
+symposium discussions. Moreover, as explained earlier,
+applicants continue consider their inventions, with
+regard to which the GP was used, as very important:
+they still want to acquire patent rights in the ﬁrst place.
+Further, it is an indisputable fact that there are countries
+and regions where such important inventions are pro-
+tected (relieved) and countries and regions where they
+are not protected, even if the inventions are publicized at
+the same moment all over the world. This is unbelievable
+in our age of global economic activity. Unfortunately,
+the current safety net is broken in some parts of the
+world and users who are not well acquainted with the
+differences or pitfalls in the indivual national or regional
+systems run great risks.
+
+The European system does clarify legal certainty by
+issuing the important message that ‘any disclosure is
+not to be made before ﬁling a patent application for
+the invention that is to be disclosed’, simplifying the
+entire patent system. However, the disclosure of new
+technologies is not limited to places such as inter-
+national exhibitions. Technological inventions such as
+laboratory-level seed technology and software-related
+inventions that are not publicized at international exhibi-
+tions are forced to be treated discriminatorily, as they
+cannot be protected under the safety net of the GP in the
+ﬁrst place.
+
+The safety net has a serious problem. In Japanese
+users’ opinion, it is broken in some respects. In other
+
+18 UK Intellectual Property Ofﬁce, ‘Independent Review of IP and Growth’.
+
+Available at http://www.ipo.gov.uk/ipreview.htm (accessed 1 November
+2013). According to Imperial College London:
+The lack of a ‘grace period’ under the UK patent system means that many
+great ideas invented in UK Universities may only be patentable in other
+countries such as the USA and Canada. This inevitably means that certain
+inventions are more likely to be developed in the USA. The pressure to
+publish and to freely disclose ideas to other academics to disseminate
+information for the public good is a fundamental right of academics and
+should be inviolate. However, the need for a patent system that allows a
+short window of opportunity to recover from inadvertent disclosure would
+be good for UK inventions and UK competitiveness. We can produce many
+examples of inventions that have either been inadvertently disclosed or
+have only been commercialised in the USA.
+Imperial College London, ‘Joint Response from Imperial College London
+and Imperial Innovations Ltd to the UK Intellectual Property Ofﬁce’s Call
+for Evidence for an Independent
+Review of Intellectual Property and Growth launched in December 2010’
+http://www.ipo.gov.uk/ipreview-c4e-sub-imperial.pdf (accessed 1
+November 2013).
+The University of Manchester adds:
+
+words, in Japan, a country that has a grace period pro-
+viding a wide scope of application, we wonder if users in
+Europe encounter problems because they do not have
+the GP available to them. It seems that this might be the
+case. Some universities made comments in support of
+creating a GP with broader eligibility, in response to the
+review on ‘how the intellectual property framework
+supports growth and innovation’18 released by the UK
+Intellectual Property Ofﬁce (UKIPO) based on a request
+from British Prime Minister Cameron.
+
+A paper written by Professor Straus presents the
+Fraunhofer Patent Centre in Germany as follows: ‘At the
+Fraunhofer Patent Centre in Germany, annually, for in-
+stance for some 650 inventions, patent applications
+cannot be ﬁled in Europe due to pre-ﬁling disclosure.’19
+We would like to introduce interesting data here,
+namely the ranking of universities by number of Patent Co-
+operation Treaty (PCT) applications ﬁled. No university in
+Europe is listed in the top ﬁfty.20 What does this mean?
+Could this data possibly be related to the lack of availability
+of the GP in Europe or is there any other reason?
+
+In the GP system in China, where the number of patent
+applications is increasing rapidly, the eligibility for the GP
+is limited to disclosures at international exhibitions and
+presentations at government designated academic confer-
+ences. Therefore the scope of eligibility is very narrow
+from the users’ points of view, as it is in the case of
+Europe. Applicants who accept the European system as a
+standard may not ﬁnd any problem. However, if the aim
+is to establish a more user-friendly system, it is possible to
+achieve a win-win outcome not only for system users but
+also for respective governments in the long run.
+
+Fortunately, the current situation is different from
+what it was in 1973, when the EPC was adopted. As of
+2000, the GP was in place in more than 30 countries.21
+A report by the Tegernsee Group shows that users in
+
+The requirement for an invention to be conﬁdential prior to an application
+to patent does cause problems in a university context. Academics are keen
+to share information as soon as possible. This frequently means that
+applications are being rushed through shortly before the publication of an
+article or before a presentation. This affects the thought that can be put
+into securing the quality of the claims: it also curtails the period for further
+research to reﬁne the invention. The 12 month grace period which applies
+under the US system would be advantageous in this regard. The University
+often has to take very early decisions to patent whereas a later view might
+result in no patent being applied for at all. We recognise though that it
+raises the potential of subsequent interference proceedings.
+University of Manchester, ‘Review of Intellectual Property and Growth:
+Call for Evidence’ http://www.ipo.gov.uk/ipreview-c4e-sub-unimanchester.
+pdf (accessed 1 November 2013).
+19 Strauss, above, n 15, 90, para 9.2.
+20 WIPO, International Patent Filings Set New Record in 2011 (5 March
+
+2012), Annex 3: Published PCT international applications by top
+universities. Available at http://www.wipo.int/pressroom/en/articles/2012/
+article_0001.html#annex3 (accessed 1 November 2013).
+
+21 Strauss, above, n 15, 89, para 4.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+/
+
+/
+
+/
+
+9
+1
+6
+1
+8
+2
+3
+4
+1
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+74
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2014, Vol. 9, No. 1
+
+France and the United Kingdom are gradually becoming
+more willing to discuss the GP.22
+
+As for the direction to take in terms of GP harmoniza-
+tion, we hope that the system would be simple and easy
+to understand for both users and patent ofﬁces world-
+wide, based on the common understanding that the GP
+is to be used for nothing more than ‘a safety net’. The GP
+system can be based on common procedures and
+requirements in individual countries and regions so that
+a person who wants to use the GP as a safety net can do
+so without fail. There are two basic ideas on this issue:
+either (i) to adjust current systems to the existing
+
+system, which seems to be better, in a particular country
+or region or (ii) to establish a new, better system aiming
+for the best practices. In our personal opinion, the ﬁrst
+option is more beneﬁcial to practitioners.
+
+Although the United States has stuck to the ﬁrst-to-
+invent system for many years, it has taken a giant step
+toward international harmonization by enacting the AIA. In
+the same way, we believe that harmonization in a new era
+will advance if all countries swiftly move into action without
+losing the momentum. We hope that all parties concerned
+will have serious discussions and make efforts so that GP
+harmonization becomes a reality as soon as possible.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+ 
+
+/
+
+/
+
+/
+
+9
+1
+6
+1
+8
+2
+3
+4
+1
+4
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+22 See Tegernsee Report, above, n 8, 48.
+
+

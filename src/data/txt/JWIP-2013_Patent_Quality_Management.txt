@@ -1,0 +1,1140 @@
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4, pp. 168–188
+
+doi: 10.1002/jwip.12011
+
+On Legal Validity – Using the Work of Patent Courts
+for Quality Management
+
+The Statistical Reutilization of Patent Court Appeal Decisions
+
+Christoph Laub
+European Patent Ofﬁce
+
+The patent courts of the world’s leading patent systems annually pass judgment in more than 12,000 cases originating
+from decisions made at ﬁrst instance. These judgments constitute a statistically signiﬁcant resource of ﬁnal opinions
+relating to the quality of the work of the legal authorities, but one that has so far not been systematically exploited by
+the patent ofﬁces. This paper shows, for the ﬁrst time, a way to provide objective and cost-efﬁcient metrics for the
+work of patent ofﬁces and patent attorney professionals. Accordingly, the following key conclusions are developed in
+this paper:
+
+Patent case law is sufﬁciently representative and suitable for statistical analysis of ﬁrst instance decisions;
+The current academic approaches to legal validity analysis of patent court decisions seem not sufﬁciently transparent
+for the application in patent and trademark ofﬁce operative quality systems;
+The legal remedies of refusal and opposition appeal can be modeled;
+Legal validity and the harmonization level of a patent system are measurable;
+The legal validity of European Patent Ofﬁce (EPO) refusal decisions appears to be comparatively higher than the
+validity of opposition decisions in view of the EPO Boards of Appeal;
+The analysis methodology for the EPO is fully transferable to the worldwide relevant patent systems whilst retaining
+their national legal autonomy;
+The new EU Patent: there will be a degree of competition between EU patent revocation procedure and the EPO
+opposition procedure. In future, it will be necessary to evaluate also the quality of the EU Patent Court of First
+Instance.
+
+Keywords European Patent Ofﬁce; international patent ofﬁces; executive instance; patent courts; econometric
+measurement of legal validity; patent quality
+
+Introduction
+
+Over the past ten years, the subject of quality has gained a lot of momentum in discussions among the
+leading patent ofﬁces. In 2003, the UK IPO and later on a number of smaller patent ofﬁces have received
+the ISO 9001 certiﬁcation1 for the quality management of important core processes, and also the European
+Patent Ofﬁce (EPO) strives towards certiﬁcation in the near future. The issue of quality is now high on the
+agendas of most patent and trademark ofﬁces (PTOs) worldwide. With respect to international,
+multilateral cooperation it should, however, be noted that the PTOs are currently compared with each
+other only in procedural terms and that they aim only to establish procedural cooperation agendas. The
+authorities still do not recognize or compare the quality of each others’ patent products (with emphasize on
+the principle of territoriality). Despite this, most of the ofﬁces maintain internal product-speciﬁc audits
+which provide statistics about the quality of the patent grant decisions and even the thoroughness of the
+patent searches (Scellato et al., 2011). These quality assurance statistics are usually treated conﬁdentially
+and are not used for international comparative purposes.
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+Christoph Laub
+
+Although it makes use of sophisticated measures and despite its high-quality reputation among its
+users (Wild and Clover, 2010), the EPO is sometimes subject to criticism from both political interest
+groups and private entities. Within a European context, the EPO is, in a way, engaging in de facto
+competition with national patent ofﬁces. As an example, the German Patent and Trademark Ofﬁce
+(DPMA) provides quasi identical patent products and offers the same kind of legal recourse to the German
+patent court (BPatGer) for these products. Both ofﬁces offer an opposition procedure which is open for
+appeal, and also in the case of a refusal, both ofﬁces offer the possibility of appeals. Thus, the EPO Boards
+of Appeal2 (BoA) are engaged in making decisions every year on around 2,0003 cases (EPO Boards of
+Appeal, 2012, p. 3) and the BPatGer on 600 cases (German Bundespatentgericht, 2011, p. 82) regarding
+the legal validity of the ﬁrst instance’s4 work.
+
+It is thus remarkable that, so far, nobody has systematically included the work of the patent courts in a
+statistical legal validity evaluation in the context of the PTOs’ quality assurance systems. On the other
+hand, legal scholars do show less reluctance to carry out comparative legal validity analysis. Most of them
+apply correlation techniques usually based on bibliographic data (Harhoff and Reitzig, 2004, pp. 443–80).
+This is a very efﬁcient means to gain formal—but not legal—information. I do, however, not recommend
+this approach for the purpose of empiric legal validity analysis; and I am aware of only two publications
+that investigate the degree of validity of litigated US—but not European—patents making use of empiric
+techniques to a larger extent. Allison and Lemley (1998, p. 185) analyzed 300 patent validity decisions
+from District or Federal Circuit courts reported in the period from 1989 to 1996. They admitted, however,
+that it proved difﬁcult to convert a written decision into concrete numbers. Furthermore, they did not
+disclose whether, and to what degree, they used a systematic/harmonized technique for the extraction of
+data on legal validity from the decision texts. One recent paper by McEldowney (2006) investigates the
+application of novelty versus obviousness objections in more depth; but McEldowney also does not reveal
+how and to what degree he has mastered the difﬁculties of comparative case law analysis.
+
+Since there is obviously still a need to establish a common standard for the comparison of ﬁrst and
+second instance legal teachings in patent law, a methodology for comparative legal validity analysis is
+proposed in this paper. I have tested and optimized the approach while working as a project manager at the
+EPO, based on analysis of 2,300 appeal decisions from seven annual cohorts. An appeal is regarded as a
+judicial procedure, and the BoA are often referred to as courts.5 Thus, for the ﬁrst time it was possible to
+provide a statistical representation of the level of harmonization between the whole annual body of EPO
+judicial and executive instance decisions. This paper provides for a summary of the applied methodology
+and explains the practical use of the developed legal validity indicators. It is intended to stimulate interest
+in systematic legal validity analysis based on patent court decisions—an important statistical resource
+which has so far not been systematically exploited by the patent ofﬁces. Finally, the underlying thesis of
+this paper is that the applied legal theories and principles can be used effectively also for comparative legal
+validity studies within the Chinese, German, Japanese, Korean and US patent systems. Whereas the
+substantive patent law among these countries cannot be directly compared, the legal recourses in the
+respective systems can well be mapped and the ﬁrst and second instances’ decisions comparatively
+analyzed based on the analysis model introduced in Section 2 of this paper.
+
+Scope and Restrictions
+This article provides a self-contained overview of a methodology which I have developed. It is intended to
+address solutions to previously unsolved or undescribed challenges with respect to the systematic
+comparative analysis of appealed decisions of PTOs (namely grants and revocations of patents after
+opposition/reexamination/trial and refusals/rejections of patent applications). It is believed that patent
+professionals around the world who are looking for quality metrics complementary to the existing quality
+audit systems will beneﬁt from the teaching of this paper which presents an extraction of basic ideas and
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+169
+
+Christoph Laub
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+applications as developed in my book.6 It is likewise intended to provide legal and economic scholars with
+information gained from comparative case law legal validity analysis on a large scale.
+
+Some issues can only be dealt with in passing here. In particular, the detailed legal and procedural
+considerations for carrying out the methodology cannot be dealt with in the framework of a journal paper.
+Likewise, a more detailed individual comparison and applicability assessment with respect to the German,
+US, Japanese, Korean and Chinese legal systems is provided in the book. The important aspect of selection
+effects with respect to appeals before patent courts and boards is taken into account here, even though
+statistical aspects are not the main focus of this paper.
+
+1. Patent Case Law is Sufficiently Representative and Suitable for Statistical Analysis of
+
+First Instance Decisions
+
+In particular at the PTOs, there exists a widespread perception that because each decision of a BoA refers
+to a unique case, and because the boards have to construe the law according to the merits of each individual
+case, case law is not suitable for statistical validity assessment. According to this logic, one single case
+cannot be representative of a full population of refusals/rejections or opposition/re-examination/trial
+cases.
+
+Bearing in mind the above reservations it is time to investigate the following aspects related to the
+
+statistically representative character of patent court decisions:
+
+(i) Is it possible at all to reliably compare ﬁrst and second instance decisions for the purpose of
+
+systematic extraction of legal validity information?
+
+(ii) Do patent courts, in any case, produce sufﬁcient quantities of case law for statistical methods to
+
+deliver reliable results?
+
+(iii) The selection effect: are appeal decisions qualitatively representative in view of the total population
+
+of those decisions which were not appealed?
+
+1.1. Appeal Decisions are Statistically Representative
+The underlying problem discussed in this section is of a quantitative nature and concerns the numerical
+relation between second instance and ﬁrst instance decisions related to an annual cohort of PTO cases. In
+order to discuss this issue further it is worth taking a look at the population of the relevant output of the
+EPO. Figure 1 (not to scale) shows the population of EPO products, which are relevant for comparative
+legal validity analysis. As a rule of thumb one may say that about 45% of the EPO´s opposition decisions
+and 25% of the refusal decisions are appealed. These numbers stand for excellent sample sizes which
+
+Figure 1. Population of EPO patent products
+
+170
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+Christoph Laub
+
+allow for a statistical accuracy of the results of around 1.6%7—which represents a dream-score for quality
+managers.
+
+It must be also appreciated that the “validity auditors” engaged for this methodology—i.e. the patent
+courts in their decisions—have already ﬁnished and documented their work. The only remaining question
+is the qualitative legal representative character of the appeal population (i.e. the so-called “selection
+effect”).
+
+1.2 The Appeal Population is Qualitatively Representative (the Selection Effect of Appeals)
+This section deals with a qualitative question, namely with the representative character of the substantive
+legal issues which are the subject of the second instance decision. In other words: are only very special
+cases the subjects of appeals (by the applicant or by third parties) before the second instance? Is it not
+likely that the underlying ﬁrst instance decisions in appeal cases are legally less valid than those decisions,
+which are not appealed? In those circumstances, any sample of cases based on those that are appealed
+would hardly be representative.
+
+On the other hand, it would also be likely that the said 45% of opposition cases and 25% of refusal
+cases are representative of the whole population (including the non-appealed decisions) in terms of their
+legal validity—but not from a market point of view! Following this preferred logic, it could well be that
+these cases of average legal quality concern inventions of above-average economic value and/or
+inventions which play a role in a very competitive market environment.
+
+It is important to understand and to balance all of these possibilities in order to allow an appropriate
+interpretation of the proposed legal validity metrics. In this connection, it is necessary to distinguish
+between the representative character8 of the legal substantive content and the degree of statistical
+randomness of the appeal event. It is already safe to say at this point that—as far as legal validity is
+concerned—the population of opposition appeals and refusal appeals is a sufﬁciently representative (but
+not random) sample of the respective underlying opposition or refusal cases.9 In other words, there is an
+economic selection effect when a party adversely affected by the ﬁrst instance decision decides to appeal.
+It is, however, most likely that below-average legal validity of ﬁrst instance opposition decisions is not the
+driving factor for appeals. In the case of refusal appeals, there appears to exist a low but practically
+negligible correlation between the legal validity of the ﬁrst instance decision and the choice of the
+adversely affected party to appeal. In other words, there exists a signiﬁcant selection effect with respect to
+the economic importance of appealed ﬁrst instance cases. At the same time, there exists only a negligible
+selection effect with respect to the qualitative legal validity representativeness of the appealed cases. The
+remainder of this paper is concerned with the methodology of the analysis and does not present further
+investigations related to selection effects.
+
+2. Appeals Against Refusal and Opposition can be Modeled
+
+2.1. First Methodological Considerations With Respect to Comparative Modeling of Case Law
+Unlike patent quality auditors, only patent courts have, among other powers, the statutory mandate to
+correct errors made at ﬁrst instance. At the same time, the second instance is also responsible for setting the
+substantive legal standards for the interpretation of the patent conventions and for the development of the
+law when new legal questions arise from a case. Consequently, patent judges represent a distinct authority
+compared with ordinary auditors engaged in the framework of operative quality assurance. The BoAs of
+the EPO are not expected to make statements concerning the quality of the ﬁrst instance decision, but they
+have to provide a forum for the party which is adversely affected by a ﬁrst instance decision to obtain a
+review of that decision. It is therefore necessary to investigate carefully what kind of information can be
+extracted from patent court decisions (and what cannot). My objective therefore was to ﬁnd a reliable way
+to extract statistical information on legal validity from a large number of BoA decisions.
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+171
+
+Christoph Laub
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+2.2. A Direct (Ex Ante) Comparison of First Instance and Patent Court Decisions is Possible
+
+2.2.1. A Practical Case Example for Comparative Case Law Analysis
+The level of legal validity of a ﬁrst instance decision can be deﬁned as the level of conformity between it
+and the second instance court’s ﬁnding on same legal issues. What does this mean? Imagine, for example,
+a case in which, the ﬁrst (examining) instance rejects the inventive activity of a claimed controller for a
+fuel-cell powered asynchronous motor yacht drive. The applicant appeals against the refusal decision and
+the patent court subsequently upholds as inventive the amended claim for the controller of a fuel-cell
+powered asynchronous submarine motor drive. The question is: what does the second instance judgment
+indicate about the validity of the preceding ﬁrst instance decision?10 As a ﬁrst step, the applied
+comparative case law analysis methodology requires that both claims must be granulated with respect to
+the claimed content in connection with the assessed legal requirements to be met. In the current case, the
+claim feature of controllers for fuel-cell powered asynchronous motor drives has to be separated in
+connection with the legal requirement of inventive activity. As a next step, the (history of the) second
+instance judgment must be studied with respect to the court’s ex ante opinion also in connection with
+motor yachts instead of submarines. Often the court will voice an explicit ex ante opinion about the
+validity of the original ﬁrst instance decision. But also in cases where the court expresses no literal opinion
+with respect to the ﬁrst instance assessment, it is my practical experience that—thanks to the claim content
+granulation methodology—an experienced patent professional is practically always in the position to
+derive the court’s ex ante opinion with respect to the originally disputed case.
+
+2.2.2. Consequences for a Comparative Legal Validity Analysis Methodology
+Please note that Figures 1–3 are available in color in the PDF and online version of this article at http://
+onlinelibrary.wiley.com.
+
+We have learned from the above example that one important prerequisite to extract reliable statistical
+legal information from patent validity decisions is a standardized, descriptive methodology which is
+applied to the ﬁrst instance decision and to the succeeding appeal judgment. The information gained this
+way is systematically “granulated” down to a level of detail which allows precise coverage of relevant
+changes and amendments of the case.11 Figure 2 shows this process. For such a process it is, of course,
+necessary to distinguish between appeal against refusal/rejection and appeal against opposition/
+re-examination/trial.
+
+Figure 2. Modeling of the feature components of the appealed patent (the diagram applies equally to appeals against refusal and to,
+for example, appeals against re-examination or invalidation-trial decisions)
+
+172
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+Christoph Laub
+
+2.2.3. Quality Aspects Covered by Comparative Legal Validity Analysis
+The results that can be achieved with this methodology enable reliable statements in view of:
+
+instance;
+
+ the quality of the opposition/re-examination/invalidation procedure and refusal/rejection decisions;
+ the level of harmonization with regard to the interpretation of law between the executive and appeal
+ a quantitative metric for the scope of protection of patent claims;
+ the quality of patent search and patent documentation;
+ appropriate patentability thresholds;
+ the impact of the public (opponents) on the work of the PTOs.
+
+2.2.4. The Importance of a Reproducible “Ex Ante” Analysis Modeling Approach
+Within the framework of this paper, the concept of modeling is directed to a descriptive methodology.
+Namely, a concept is required which allows for systematic “granulation” and classiﬁcation of the decision
+content in such a way that the extracted information can be handled by case law analysts in close
+connection with the decision context. This way, it is possible immediately (i.e. ex ante) to compare the
+content of a ﬁrst instance decision with the decisive content of the second instance decision.
+
+Hitherto, the legal and econometrical approaches for legal validity analysis based on statistical
+modeling have not always been convincing in my opinion.12 It is observed that lawyers tend to interpret
+case law in the attorney’s fashion, whereas they are usually show a low proﬁle in terms of quantitative (i.e.
+mathematical) conceptions. On the other hand, economists usually lack of legal education, and the
+concepts of bibliographic correlation analysis familiar to me are not appropriate for in-depth
+investigations of legal validity of patent products.
+
+The methodology of comparative legal validity analysis, I have developed requires experts—such as
+patent examiners or attorneys—who are able to understand the respective ﬁrst and second instance
+decisions in order to describe the content in an analytic way based on a deﬁned scheme. For this procedure,
+it is important to refrain from the interpretation of the decision (in the way attorneys normally act on
+behalf of their clients) because such an approach would often lead to a non-objective bias of the lesson to
+be drawn from a decision. If these rules are thoroughly applied, the achieved results will be reproducible—
+i.e. two different analysts, with identical case constellations, will arrive at virtually the same validity
+classiﬁcation results.
+
+2.2.5. Distinctive Models Supporting Inter Partes and Ex Parte Comparative Legal Validity Analysis
+For the purpose of systematic classiﬁcation one has to distinguish between refusal-like13 (ex parte)
+appeals and opposition-like14 (inter partes) appeals. Whereas the relevant substantive patentability
+requirements (the substantive patentability requirements of the patent convention) are virtually identical
+for both legal recourses, there are many procedural differences—in particular with respect to patent claim
+amendments—between inter partes and ex parte appeals, and not only at the EPO. The applied
+methodology therefore strictly takes into account the ofﬁcial procedures (e.g. Examination Guidelines)
+and relevant landmark appeal decisions concerning substantive and procedural law questions, which were
+established to govern the speciﬁc ex parte and inter partes appeal legal recourses.15 It is thus possible to
+enable a direct (ex ante) comparability of the patent court’s teaching in view of the subject and legal
+argumentation of the original ﬁrst instance assessment.
+
+2.2.6. Claim Content Granulation for Detailed Legal Feature Analysis
+The concept of claim content granulation builds on the idea of legal themes. Since the assessment of a
+patent claim very often is based on a variety of legal objections with respect to only one or, likewise,
+several claim features, every ﬁrst instance assessment must be comparatively analyzed separately with
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+173
+
+Christoph Laub
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+respect to the second instance ﬁnal decision from an ex ante point of view. As an example: opposition
+claim feature 1 (e.g. one green/light-colored ball in Figure 2) can be objected to on the grounds of (lack of)
+clarity and (lack of) novelty at the same time. In parallel, opposition claim feature 2 (a second green/light
+ball in Figure 2) can be objected to on the grounds of (lack of) inventive step. Consequently, the patent
+claim must be granulated into three legal themes which will be comparatively analyzed from an ex ante
+perspective in view of the subsequent ﬁnding on appeal.
+
+In both cases (i.e. refusal-like and opposition-like appeal16), the features of the disputed matter are
+initially identiﬁed as claimed during ﬁrst instance procedure; afterwards they equally have to be isolated
+within the appeal context. This procedure of granulation of claim content is shown in Figure 2. With
+respect to the EPO, it goes without saying that both the claimed subject matter and the related patentability
+objections can and will change during the examination instance and BoA procedures, and the applicant/
+patentee will often ﬁle several sets of (auxiliary) claim requests. These problems of analysis are met by
+means of detailed granulation of the claim feature components while taking into account the claimed
+context of the invention.17
+
+It is an achievement of the proposed methodology to allow isolation of claim feature components
+while maintaining the link to the context of the invention. This way, every feature that is the subject of the
+ﬁrst instance and of the second instance procedure is extracted from the decisions and is thus available for
+comparative analysis. It is now possible to relate these relevant features and the ﬁrst instance decision with
+the conclusive ﬁnding on the facts of the case by the patent court (Laub, 2012, chapters D.I and E.I).
+
+2.2.7. Modeling Patent Claim Requests, Including Auxiliary Requests
+The green/light-colored balls in Figure 2 represent isolated claim feature components of the underlying
+ﬁrst instance decision. A model patent claim (plain envelope around each four green/light balls) shall be
+composed of four such feature components (green/light-colored balls). It is naturally possible to derive the
+examining/opposition division’s assessment of each of these components from the respective ﬁrst instance
+decision. Figure 2 is further more useful to illustrate the inherent problem—at least of the European and
+the German patent systems18—of amendments and substituted features being introduced during litigation.
+At both ﬁrst instance and at second instance, the applicant/patentee has the right to ﬁle a main request and
+several auxiliary requests. The green/light-colored envelopes in the left-hand bucket in Figure 2 can
+therefore represent patent claims from main requests or from auxiliary requests. Likewise, the green/light
+balls in the right-hand bucket can stem from ﬁrst instance main requests or auxiliary claim requests. It is
+now essential to analyze whether the second instance’s legal assessment of the green/light-colored ball
+feature (within the context of the invention) differs from the ﬁrst instance decision or not19 from an ex ante
+point of view. Accordingly, the blue/dark-colored envelopes in the right-hand bucket represent main
+requests and auxiliary requests as during appeal. As mentioned above, in some legal systems it is possible
+that the applicant/patentee enters the appeal stage with an already changed claim wording. Changed/added
+features of an amended claim may stem from other original claims (of the original ﬁrst instance main or
+auxiliary requests) or they may be supported by the description. It might therefore well be that new feature
+components (blue/dark-colored balls) will appear during appeal stage side by side with the original ﬁrst
+instance components (green/light-colored balls).
+
+2.2.8. Reading Figure 2 on a Practical Example
+Returning to the above practical example of patent claims for motor controllers at Section 2.2.1, a green/
+light-colored ball remaining in the right-hand bucket would represent the patent court’s (implicit or
+explicit) opinion with respect to the inventiveness of asynchronous motor controllers for motor yachts
+whereas blue/dark balls would represent the (always explicit) court’s judgment with respect to the
+application of asynchronous motor controllers for submarines.20 Practitioners know, of course, that patent
+
+174
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+Christoph Laub
+
+validity disputes often comprise far more than only one legal theme.21 Structured case law analysis,
+however, allows the granulation of a case into as many legal themes (as shown in Figure 2) as required22 in
+order to compare the court’s judgment side by side with the ﬁrst instance assessment.
+
+2.2.9. Claim Scope Modeling
+In order to take changes into account accurately, case law also require an excellent familiarity with regard
+to the admissibility of claim amendments and the claimed scope of protection. It is therefore necessary to
+establish a normalized concept for a relative description of scope amendments. Claim scope can be
+graphically modeled via the width of arrows.23 Figure 3 provides an exemplifying illustration of possible
+developments in the claim scope in the case of an appeal after a patent was maintained in amended form
+after opposition. Besides Figure 3, dedicated claim scope models have been developed also for the appeal
+of the opposition decision to revoke a patent and to reject the opposition as well as for the appeal of a patent
+application refusal.24
+
+2.3. Achievements of the Modeling Approach for Systematic Legal Validity Analysis
+With the above feature granulation and claim scope nomenclature it is now possible to establish a
+comparative legal validity analysis methodology which allows the projection of the conclusive arguments
+of the patent court directly (ex ante) on the previous ﬁrst instance assessment of the issues originally in
+question. The analysis techniques chosen for this paper comprise an exemplifying selection of the
+available tools of the applied methodology. The complete concept of systematic opposition-like and
+refusal-like case law analysis is based on ﬁve powerful pillars:
+
+(i) Because of their statutory nature, case law decisions are a superb resource for the extraction of
+
+conclusive validity information.
+
+(ii) It is possible to compare the patent scope during patent litigation.
+(iii) Expert analysts, trained in the application of patent law, only require a limited, well-deﬁned set of
+
+rules in order to exert their professional patent knowledge when using the proposed approach.
+
+(iv) There is no need to be concerned with most procedural problems and interpretations of substantial
+law when comparatively studying the ﬁrst and second instance decisions because the parties
+involved, together with the PTO examination instance and the court instances, have thoroughly
+solved those issues before the drafting of the substantive decisions.
+
+(v) Every case analyzed is of an individual nature. In practice, however, it is always possible to granulate
+the content of each case and to subsume relevant partial problems under the comparative analysis
+rules and standards.25
+
+Figure 3. Example of claim scope model: relative claim scope in the case of an appeal by the proprietor after opposition/re-
+examination/trial had resulted in maintenance of the patent in amended form (refusal/rejection claim scope models are following a
+different scheme)
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+175
+
+Christoph Laub
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+3. Legal Validity and the Harmonization Level of a Patent System are Measurable
+
+3.1. Methodological Considerations Relevant for the Statistical Evaluation of the Empirical Validity
+
+Data
+
+During practical analysis at the EPO every legal dispute could be granulated down up to around 70 single
+information bits, which are classiﬁed and analyzed in a database. Due to the fact that every year about
+2,000 appeals are decided at the EPO alone, such a population is a statistically signiﬁcant resource for the
+analysis of the relevant substantive legal requirements.26 Also other legal systems provide for statistically
+signiﬁcant populations of judicative decisions suitable for legal validity analysis purposes: at the DPMA,
+annually 600 validity related cases are decided, the Chinese Beijing No. 1 IP court annually decides 460
+validity-related cases, the Japanese Tokyo IP court judges about 340 cases annually, in Korea annually
+about 430 cases are decided and the USPTO BoA for the Federal Circuit deliver annually more than 7,000
+decisions.
+
+3.1.1. The Understanding of First Instance Decision Validity—Why a Court’s Assessment can Differ from
+
+the First Instance Decision
+
+My work in this area was motivated by the idea to provide quantitative metrics describing legal
+discrepancies between the judiciary and the executive instance. In an ideal patent system such
+discrepancies would of course tend to be zero. In practice, it is natural that some discrepancies occur.
+Hence, differences in the assessment of the merits of a case by the ﬁrst examination and by the second
+instance court tribunals are caused by the ﬁve following reasons:
+
+procedure.
+
+patent board/court.
+
+ The ﬁrst instance was not able to anticipate the legal interpretation of the statutory provisions by the
+ Information which was introduced during the appeal stage was not available during the ﬁrst instance
+ The second instance has merely provided an alternative assessment of a legal problem, whereas the
+ The legal dispute has raised problems which required a landmark decision by the court, which caused
+ The second instance board/court has simply erred in its assessment and conclusions.
+
+changes to the prevailing case law; whereas the ﬁrst instance was not able to predict these changes.
+
+decision of the ﬁrst instance was equally correct.
+
+In the case of discrepancies,27 it is always necessary to take these ﬁve options into account during
+validity analysis in order to allow an appropriate interpretation of the case and to arrive at reliable legal
+validity metrics (Laub, 2012, chapter G.I.1). These considerations are equally applicable to any two
+instance patent system.
+
+3.2. What is a Realistic Expectation for the Legal Validity Level of the Executive Instance?
+Empirical experience which I have gained from the comparative case law analysis methodology shows
+that in the case of EPO opposition decisions, and also during succeeding inter partes appeals, an average
+of only one legal objection (e.g. lack of inventive activity) is used in the decisive argumentation. In the
+case of refusals and succeeding ex parte appeals, however, an average of almost two legal objections are
+applied (e.g. lack of novelty in combination with a clarity objection of an ancillary claim feature
+component). In this way it might happen—in particular in the case of a refusal—that the examining
+division has correctly assessed a ﬁrst legal ground but has failed with (or missed) the examination of the
+second or third one. It is now fair to ask whether or not the ﬁrst instance examiners have fulﬁlled their
+mandate in such a case. This question would probably be answered differently by a member of the public
+vs. an ofﬁcial of the patent authority. From the point of view of a member of the public it may—within
+
+176
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+Christoph Laub
+
+certain limits—be a matter of secondary importance28 whether or not perfect harmonization between the
+ﬁrst and the second instance decisions is reached, as long as it is predictable whether the system
+grants valid intellectual protection rights. In order to be predictable, a patent system must not grant
+protection for any subject matter which obviously does not meet the substantive legal requirements,
+whereas protection must be available for subject matter which obviously meets all substantive legal
+requirements. In contrast to such a pragmatic point of view, patent ofﬁces—in the same way as any service
+provider—would possibly stress the importance of perfect harmonization between the ﬁrst instance and
+the court instance.
+
+3.3. The First Legal Validity Metric: Adherence to the Individual Legal Requirements
+
+3.3.1. The Idea of a Validity Metric for the Cumulated Annual First Instance Work
+Having in mind the practical examples and having studied the theoretical considerations of the above
+sections, we are now prepared to apply the analysis methodology on a large scale. In other words, a large
+(statistically signiﬁcant) number of appeal cases is analyzed, and the gained validity information is
+categorized and ﬁnally transferred in an overall validity metric for the legal validity of the cumulated ﬁrst
+instance decision work of an annual production cohort. Due to the nature of the relevant selection
+effects,29 the derived metrics will primarily show the validity of the selection of the appealed ﬁrst instance
+cases. Since the selected cases are also sufﬁciently representative for the average legal validity of the non-
+appealed decisions, the ﬁgures can be also interpreted as validity indicators for the overall population of
+the respective ﬁrst instance refusal-like and opposition-like decisions.30
+
+3.3.2. Interpretation of the Statistical Validity Figures
+Patent courts must satisfy the highest level of legal conformity with the relevant patent act (by deﬁnition
+almost 100%). Since an objective comparative description of the patent courts’ assessment is possible, the
+extracted statistics are a perfect resource to derive conclusive information about the level of divergence at
+ﬁrst instance with respect to substantive legal standards.31 The curves in Figure 4 are based on the whole
+annual population of analyzed cases and illustrate the levels of conformity of the ﬁrst instance with the
+second instance as derived by means of comparative legal validity analysis32 in terms of speciﬁc legal
+requirements (Legal standards of the European Patent Convention, EPC). According to the conformity
+metric for individual legal grounds (see Figure 4) “100%” means: out of 100 refusal/opposition objections
+
+Figure 4. Conformity of the ﬁrst instance to EPC standards (legal thoroughness) from an ex ante view; ﬁgures extracted from BoA
+decisions—ﬁctive ﬁgures for illustrative purpose only
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+177
+
+Christoph Laub
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+based, for example, on a lack of novelty (article 54 EPC) of the claimed features, the BoA or patent court
+equally considers all of these claimed features not novel (ex ante). It is now possible to calculate an overall
+metric by summing up the weighted statistics of the individual legal requirements33 (cf. next section).
+Comparative individual legal conformity metrics can be easily derived for almost every patent system.
+
+3.4. The Main Legal Validity Metric: The Overall Level of Harmonization of the PTO First Instance
+
+with the Legislation
+
+The proposed legal validity approach of this paper aims for a metric of overall conformity between the ﬁrst
+and the second instance. Based on the metrics of conformity to individual legal standards as introduced in
+Section 3.3, Figure 5 shows the derived overall level of harmonization between the ﬁrst and the court
+instance at the EPO. The single curve of Figure 5 is derived from the set of curves of Figure 4, whereas the
+impact of every legal requirement is weighted according to its annual frequency in the total of the BoAs’
+decisions.34 According to the overall legal conformity metric of Figure 5 “100%” means that out of 100
+refusal/opposition cases, the appeal instance for all of these cases comes (ex ante) to the same conclusion
+as the ﬁrst instance; that is the BoA would equally have refused/revoked/maintained the claim request (as
+it was ﬁled formerly at the ﬁrst instance) in amended/unamended form—irrespective of the claim request
+as ﬁnally ﬁled during the appeal procedure. The divergence-gap between the 100% mark and the overall
+conformity curve in Figure 5 stands for those cases (out of 100) where the BoA disagreed ex ante with the
+particular ﬁrst instance decision to refuse/revoke, maintain the patent, etc.
+
+Every patent professional is, however, aware that in particular opposition-like procedures35 can be
+complex and unpredictable—for both legal representatives and PTO ofﬁcials. Whereas the refusal/
+rejection of an application or a patent revocation is binary black-or-white decision, an opposition-like
+decision to maintain a patent in amended form requires a very precise trade-off between an accurately
+measured (reduced) scope of protection and appropriate legal reasoning which supports the required
+reduction in scope.
+
+It is therefore questionable whether it is always possible to achieve perfect harmonization in practice.
+Thus one may consider that sufﬁcient conformity between the ﬁrst and the second instance has
+already been achieved when the second instance approves the formal decision (to refuse, revoke, etc.) by
+the ﬁrst instance, notwithstanding any possible discrepancies36 with regard to the individual legal
+
+Figure 5. Overall level of harmonization between the ﬁrst instance decisions of an annual cohort and the appeal instance of a
+PTO—a schematic, illustrative example
+
+178
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+Christoph Laub
+
+reasoning—provided that no grants for allowable inventions are denied and no deﬁcient patents are
+granted by the authority. Similar overall legal validity metrics can be derived from individual legal
+conformity data for the most patent systems.
+
+3.4.1. Overall Harmonization Levels of EPO Opposition and Refusal Decisions during the Appeal
+
+Procedure
+
+3.4.1.1. Applying the Teaching of the Quality Validity Metric Introduced in Section 3.4
+Figure 5 teaches that it is possible to measure the harmonization level of ﬁrst instance decisions by means
+of only one general harmonization scale. In practice, however, one must distinguish between the quality of
+refusal-like and that of opposition-like decisions. Furthermore, in the preceding section, two different
+quality standards were suggested, as we should distinguish between pragmatic and perfectionist quality
+standards. Figure 6 is a concrete, anonymised, example of the metric explained by Figure 5 and shows the
+qualitative harmonization performance level of opposition decisions during appeal for a period starting in
+the early 1990s and ending in the mid-2000s. The slight decrease is marginally greater than the conﬁdence
+interval for the sample of decisions that were analyzed. The overall harmonization level is therefore
+acceptable. It is interesting to observe that the harmonization level for opposition decisions, measured
+according to pragmatic quality standards, is only a little higher than the harmonization level for the same
+decisions, measured according to the highest quality standards. It can thus be said that the legal validity of
+inter partes decisions basically falls into one of two states: either the decision perfectly satisﬁes the
+requirements of the BoA, or it completely fails to meet them. There is only a very small gray zone Doppo
+composed of those decisions, which only satisfy the pragmatic harmonization standards (i.e. decisions in
+which a formally correct result was obtained but, for example, with deﬁcient legal reasoning).
+
+Figure 6. Overall harmonization level between opposition decisions vs. EPO appeal instance—anonymised ﬁgures; derived from
+real EPO cases
+
+3.4.1.2. Comparison of the Opposition and the Refusal Harmonization Levels
+Figure 7 provides analogous ﬁgures for the qualitative harmonization level of EPO refusal decisions during
+a comparable period of time.37 In comparison to Figure 6, it is striking that—in terms of pragmatic validity
+standards—the legal validity of refusal decisions before the BoA is signiﬁcantly higher than the validity of
+opposition decisions. When, however, the perfect validity standard is used, the EPC harmonization level for
+refusal decisions is about the same as that achieved by opposition decisions. Figure 7 also provides
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+179
+
+Christoph Laub
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+Figure 7. Harmonization level between refusal decisions vs. EPO appeal instance—anonymised ﬁgures; derived from real EPO
+cases
+
+additional information: in contrast to the opposition quality ﬁgures there is a remarkably large “gray zone”
+Drefu of refusal decisions which are formally conﬁrmed by the BoA, but for which the actual legal
+objections of the ﬁrst instance are deﬁcient. Accordingly, the EPC harmonization levels of refusal decisions
+do not show such “black-and-white” behavior as the levels of the opposition decisions.
+
+3.4.1.3. The Quality of the Distinct Opposition Outcomes
+Having read the above it would still be unfair to conclude that the (pragmatic) harmonization level of
+opposition decisions is necessarily lower than that for refusals. In comparison with a refusal, the
+opposition procedure is relatively complex. As a matter of fact, the opposition decision population is
+composed of three core products, and the quality of these products should be investigated separately. In
+other words: among about 1,300 annual opposition appeals, around 300 appeals deal with a rejection of the
+opposition, 400 deal with a revocation of the patent and 600 deal with a patent as maintained in amended
+form. In order to gain an objective picture about the opposition validity, it is therefore essential to
+investigate these populations separately. Consequently, the overall ﬁgures according to Figure 6 are
+composed of the validity measures for (i) maintenance of a patent in amended form, (ii) refusal of an
+opposition (maintained as granted) and (iii) revocation of a patent in about equal weights. Figure 8
+
+Figure 8. Comparative appeal harmonization level of the distinct EPO opposition products; derived from real EPO cases
+
+180
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+Christoph Laub
+
+therefore shows the speciﬁc levels of harmonization of these distinctive decision categories with regard to
+the standards of the BoA.
+
+3.4.1.4. About the Difﬁculty to Maintain a Patent in Amended Form
+Comparing the statistics of Figures 7 and 8, it is remarkable that the harmonization quality of revocation
+decisions arrives at about the same high level as the quality of examination refusals (on the pragmatic
+standard). In contrast, the validity of maintenances in amended form achieves signiﬁcantly lower scores.
+This is, however, a plausible phenomenon: whereas an application refusal and a patent revocation both
+lead to a very well deﬁned result (i.e. the claim scope of protection is exactly zero), an inter partes decision
+to maintain a patent in amended form has no absolute winning or losing party. It is far more difﬁcult for the
+ﬁrst instance, to allow post-grant changes in the scope of a patent which exactly overcome the deﬁciencies
+raised by the opponent, without favoring one of the parties. This same phenomenon would be observed for
+the maintenance of patents in amended form after opposition/re-examination/validity trial in any national
+patent system which offers second instance inter partes validity jurisdiction. The relatively high quality of
+opposition rejection decisions can also be explained because an opposition rejection and a patent
+revocation are two antipodal outcomes, with the common feature that the formal ﬁrst instance decision is
+either fully conﬁrmed or fully rescinded; this leaves less uncertainty compared to a case where the scope of
+a patent is maintained in amended form.
+
+4. The Analysis Methodology for the EPO is Fully Transferable to the Relevant Patent
+
+Systems Worldwide whilst Retaining their National Legal Autonomy
+
+The discussion on quality among the leading patent ofﬁces worldwide de facto builds on various
+procedural standards such as ISO 900138 and less formal provisions, and multilateral corporations focus
+procedurally on “exchanges of best practice,” for instance. Hitherto, however, mutual recognition of
+examination core products or even a worldwide harmonization of patent laws has not been achieved.
+Under these conditions it appears to be consequent that the authorities worldwide would avoid at all costs
+the comparison of the substantive legal work of the ofﬁces. I am of the opinion, however, that comparative
+legal harmonization analysis could be established for almost all patent systems. This way it would be
+possible—in accordance with Figure 5—to determine the levels of harmonization between the executive
+and the judicial levels for the most patent systems, and it would even be possible to compare these ﬁgures
+with each other. In such a way legal validity analysis procedures could be established for the Chinese,
+German, Japanese, Korean and US patent systems (Laub, 2012, chapters J.I–J.VI). Because of the
+considerable administrative efforts involved and because of the required political justiﬁcation of such a
+mandate, a comparative study of international legal validity is not the subject of this article and should be
+carried out under the mandate of an international organization such as the World Intellectual Property
+Organization (WIPO) or within the context of a multilateral cooperation such as the IP5 (the forum of the
+EPO, JPO, KIPO, SIPO, USPTO).
+
+4.1. Application of the Legal Principles for Comparative Validity Analysis to National Patent
+
+Systems—the Example of Germany
+
+Almost any two-instance patent system is suitable for comparative validity analysis (cf. Section 4 above).
+Thanks to the particularly good comparability between the legal recourses of the German Patent Law
+(PatG) and the EPC, the following investigations are focused on the German patent system. Without
+doubt, PatG law inspired the founding fathers of the EPC to a high degree. On the other hand, the German
+patent system soon became harmonized with the EPC by means of the IntPatU€G.39
+
+Most of the German and EPC legal principles and provisions can therefore be compared side by side
+(Schulte, 2008). For the pragmatic purposes of case law analysis the procedural and legal principles of the
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+181
+
+Christoph Laub
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+two respective systems are almost identical. Consequently, the refusal and opposition provisions and the
+respective legal recourse to the German Patent Court (BPatGer) are very similar to the EPC system
+(Laub, 2012, chapters J.I.1–2). It is, of course, not required to apply the legal construction by the EPO BoA
+to foreign national patent standards. In the case of Germany, the Federal Patent Court (BPatGer) certainly
+remains the only relevant forum for review of decisions. The proposed analysis does not interfere with the
+territorial autonomy of German legislation and jurisprudence.
+
+National idiosyncrasies in the interpretation of speciﬁc legal concepts are not problematic for our
+purposes, because the methodology is focused on the analysis of the internal harmonization standards
+within the national systems.40
+
+4.2. Extensive Convergence of Relevant Principles between European and National Case Law
+In order to create reproducible results, systematic legal validity analysis follows a well-deﬁned set of rules
+which is based on relevant landmark decisions, as well as codiﬁed and ofﬁcial legal principles41 and also
+of Examination Guidelines. This set of rules can be divided into ﬁve groups of legal principles as derived
+from EPO practice (Laub, 2012, chapter C.III). For legal validity analysis it is consequently required that
+these principles are equally applicable to the national systems:
+
+(i) Guiding case law principles and rules for systematic validity analysis.
+(ii) Common legal principles afﬁrmed by national case law.
+(iii) Legal principles which are relevant for the assessment of decisions and written opinions.
+(iv) Legal principles related to the claim scope of protection and subject matter.
+(v) Legal principles related to the use and retrieval of prior art and citations.
+
+These principles have been investigated regarding their applicability to the Chinese, German,
+Japanese, Korean, and US patent law. It is not surprising that the German patent system shows a very high
+level of legislative alignment with the EPC standards (Laub, 2012, chapter J.I.3), but the Chinese,
+Japanese, Korean and US system are also very well suitable for comparative legal validity analysis
+(Laub, 2012, chapters J.II.3, J.III.3, J.VI.3 and J.VI.3). It must be stressed once again that the developed
+analysis approach does not question the territorial autonomy of national patent
+legislation and
+jurisprudence.
+
+4.3. Comparison of the National Legal Recourses
+When we are talking about “refusal-like” and “opposition-like” decisions it is also necessary to investigate
+the degree of comparability between the national legal remedies and the EPO procedures. For example, in
+the Chinese system, a rejection cannot be directly appealed against. Only after a re-examination procedure
+is the case eligible for appeal. While German and EPO refusal and opposition procedures are quasi-
+identical for analysis purposes, other patent systems formally do not know oppositions or have abandoned
+the opposition procedure. At the Chinese SIPO, re-examination procedures are foreseen for both
+challenged rejection and grant decisions. Likewise, the Japanese system knows dedicated ﬁrst instance
+trial procedures where refusal and grant decisions can be challenged. Also Korea knows a complex system
+of ﬁrst instance re-examination of rejections and trials for post-grant invalidation. All in all, the statutory
+ﬁrst instance revision procedures of the Asian patent systems can easily be compared with the EPO system
+for the purpose of legal validity analysis. On the other hand, the US system differs clearly from the above
+legal frameworks because of the judicial status of the US BoA Appeals and Interferences (BPAI).
+Contrary to the BoA and the national German, Chinese, Japanese and Korean patent courts, the superior
+BPAI are part of the PTO ﬁrst instance. Consequently, BPAI decisions are regarded as case law to a lesser
+degree than the other national patent courts’ jurisdiction; nevertheless they can be regarded as a second
+
+182
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+Christoph Laub
+
+instance for the purpose of comparative legal validity analysis. For good reasons, the US system of legal
+recourses is therefore well suited for the purpose of legal validity analysis (Laub, 2012, chapter J.VI.2).
+
+4.4. Implementation of Comparative Legal Validity Analysis in the Operative Quality Assurance
+
+System of PTOs
+
+After having studied the methodological principles of case law analysis and the interpretation of the
+statistical validity data, the ﬁnally decisive task is to embed the approach in a PTO quality assurance
+system.
+
+Figure 9 shows the timeline of the life of a patent (application) which is in principle applicable for all
+worldwide major patent systems and ofﬁces. Box (i) indicates the time at which the classical patent grant
+quality audit will be carried out at a patent ofﬁce (such as the EPO). Boxes (ii) and (iii) indicate the time at
+which comparative legal validity analysis can be carried out.42 Audit of opposition-like and refusal-like
+decisions is currently not common at PTOs because it requires enormous extra resources. Nevertheless,
+the ISO 9001 policy, which requires an assessment of all relevant processes within an organization,
+naturally also recommends the audit of these procedures. Comparative legal validity case law analysis
+provides an intelligent alternative/complimentary metric to the opposition and refusal quality audit; and it
+is, roughly, about 12 times cheaper than an opposition and refusal audit because the already decided cases
+do not have to be reviewed from scratch. Additionally, it is far more accurate than traditional audit,
+because the “auditors” are patent judges. Currently, the EPO is the only patent ofﬁce in the world that has
+tested such a metric, which is additionally suitable to provide top management with hard numbers about
+the adherence of the examiners to the standards set by the patent courts.
+
+Figure 9. Operative quality control measures during the life of a patent (application)
+
+4.5. The EU Patent: the EU Revocation Procedure will Compete with the EPO Opposition and Inter
+
+Partes Appeal Procedure
+
+Box (iii) of Figure 9 also points to the application of comparative legal validity analysis in a supranational
+environment. It is expected that by 2015, at the latest, the EU Patent43 will enter into force, and the EPO is
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+183
+
+Christoph Laub
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+certainly well aware of the respective important changes and challenges. In the ﬁrst place the EPO BoAs
+have respectfully taken note of the establishment of the Court of Appeal of the Uniﬁed Patent.44 Initially
+more signiﬁcant, however, will be the impact on the EPO opposition instance which it will ﬁrst experience
+with the operation of the EU Patent Court of First Instance most probably starting from 2015.
+
+Prospective EU patents will be granted by the EPO authority according to exactly the same
+substantive patentability standards as the EPC.45 Consequently, future EU revocation suits in front of the
+EU Patent Court of First instance46 will also be decided on basically the same substantive legal provisions
+as oppositions against European patents47 at the EPO according to article 99 EPC. Should the EU patent
+court, in individual cases, decide not to stay the proceedings, it may be the case that EPO opposition and
+EU revocation procedures against identical patent claims will take place in parallel. A practically more
+signiﬁcant impact of the European Patent Court of First Instance will, however, to be expected in the case
+of those revocation suits:
+
+(i) where the plaintiff uses the EU revocation procedure against the EU patent instead of opposing the
+
+identical European Patent at the EPO;
+
+(ii) where a counter claim for patent revocation is raised against a EU patent during the course of a patent
+
+infringement suit.
+
+Should the EU patent be well received among the system’s users, it is expected that the Court of First
+Instance, already in the ﬁrst year, may face a workload of about 100 revocation suits. Given a good
+performance of the EU patent, these numbers are expected to grow to 1,000 per annum by 2020.48 The
+legal validity of a signiﬁcant portion of these decisions will subsequently be challenged via appeals to the
+Court of Appeal of the Uniﬁed Patent.
+
+It is my personal opinion that the EPO will necessarily have to investigate the present level of legal
+harmonization between the EPO ﬁrst and second instance preferably by means of the statistical analysis
+approach introduced in this paper. As a next step, the respective level of harmonization between the ﬁrst
+instance and the second instance of the Uniﬁed Patent Court should also be estimated by strict application
+of analogous analysis rules. The results could then be easily and directly compared with validity scores of
+the EPO. Due to the volatility of the harmonization level which will have to be expected between the two
+instances of the new EU authority, it must be of a particular interest for the EPO to prove objectively its
+superiority and to maintain this advantage as long as possible.
+
+4.6. Statistical Considerations
+In addition to the legal and procedural considerations it is ﬁnally important to take into account the
+statistical representativeness of the population of appealed cases versus non-appealed opposition-like and
+refusal-like49 decisions.50 When the sizes of the national patent ofﬁces’ opposition-like and refusal-like
+populations and the populations of the respective appeals are known, it is possible to estimate the
+statistical accuracy of the applied legal validity analysis methodology. In the case of Germany, the
+expected statistical accuracy of legal validity analysis would arrive at 3.2% for refusal-appeal analysis and
+at 5.1% for opposition appeal analysis (both ﬁgures are slightly lower than for the European Patent
+System). The Chinese, Japanese, Korean and the US patent systems would arrive at similar accuracy levels
+(Laub, 2012, chapters J.I.4, J.II.4, J.III.4, J.IV.4 and J.VI.4).
+
+These accuracy values would satisfy the requirements of PTO quality management systems (QMS)
+very well. The expected statistical results currently cannot be provided by the tools of contemporary QMS,
+which do not regularly analyze refusal and opposition-like products. Most importantly, however, no audit-
+based QMS is suited to shed light on the level of legal harmonization between the ﬁrst and the court
+instance.
+
+184
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+Christoph Laub
+
+4.7. Further Perspectives
+The principle of comparative case law analysis could be implemented concurrently in the relevant patent
+ofﬁces worldwide. Such a co-operation could be governed, for example, by the WIPO or the IP5 forum.
+While maintaining the legal autonomy among the participating national patent systems (principle of
+territoriality), it would be possible—for the ﬁrst time—to investigate and to compare the respective
+internal legal harmonization levels among the PTOs and the patent courts/boards in charge. This would be
+all the more of high general interest also for legislators because the national patent boards/courts represent
+the respective national patent statutes.
+
+Besides their jurisdiction over refusal and opposition proceedings, national patent courts are also in
+charge of nullity cases. It has already been illustrated by example of the EU Patent in Section 4.5 above:
+because of their similarity to appeals, national nullity cases could equally be analyzed by means of the
+tools described in this paper (cf. box (iii) in Figure 9).
+
+It should be obvious that larger patent ﬁrms or industrial companies with a large patent portfolio could
+also use comparative legal validity analysis in order to gain information about their work (and the work of
+their competitors) simply by systematically analyzing the history of their cases as published by the PTOs
+and courts.
+
+About the Author
+
+Dr. iur. Christoph Laub, Dipl.-Ing., LL.M. IP (MIPLC), examiner in the ﬁeld of computer implemented
+inventions and project manager in the area of patent quality metrics, EPO, Bayerstr. 34, D-80335 Munich,
+Germany. He is author of publications in the ﬁeld of software patentability and legal validity concepts for
+PTO quality management; e-mail: christophlaub@gmx.de
+
+Notes
+
+This article solely reﬂects the personal opinion of the author. I would like to thank Professor Dr Christoph
+Ann LL.M. TU Mu¨nchen, who always encouraged me to think my ideas through to the end. I also owe a
+debt of gratitude to Dipl. Ing. Harald Boetticher, Directorate Advisor at the EPO, for his many insightful
+remarks with respect to our daily business.
+1. ISO 9001 is an established industrial process quality standard developed and maintained by the International
+
+Organisation for Standardisation, ISO, Geneva.
+
+2. The EPO Boards of Appeal are referred to as courts in the framework of this paper. cf. EPO Enlarged Board of
+Appeal, decision G 2/06, Reasons 4. The expression “executive instance” shall solely cover the ﬁrst—
+examination and opposition—instance.
+
+3. European Patent Ofﬁce (2012), EPO Ofﬁce Journal, Special Edition, European Patent Ofﬁce Board of Appeal
+
+Case Law, 3.
+
+4. Within the framework of this paper, the PTO examining and opposition decisions are considered ﬁrst instance
+
+decisions while the EPO BoA and national patent courts are considered the second legal instance.
+
+5. EPO Enlarged Board of Appeal (EBoA) Decision G 2/06, Reasons 4, Ofﬁcial Journal EPO 5/2009, 318 paragraph
+4: “Whereas EPO Boards of Appeal have been recognized as being courts or tribunals […] of an international
+organisation […].”
+
+6. A detailed description of the methodology, of relevant legal principles and the developed legal validity metrics
+
+can be found in the author’s book on this subject (Laub, 2012).
+
+7. With a conﬁdence interval of 90%.
+8. That is the comparability of the population of the ﬁrst instance’s work against which an appeal was ﬁled with these
+
+ﬁrst instance decisions which were not appealed—in terms of the legal issues which are raised.
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+185
+
+Christoph Laub
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+9. The aspect of representative character versus statistical randomness is further discussed in the author’s book
+(Laub, 2012, chapter B.III). The impact of selection effects on the representative character of the selected cases is
+not the subject of this article which concentrates on an empirical legal methodology. Since this paper focuses on
+the methodological aspects of comparative case law analysis which are decoupled from statistical considerations,
+it is sufﬁcient to know at this place that the negative impact of the selection effect is sufﬁciently low, while the
+selection effect for refusal appeal appears to be slightly larger than for opposition appeal.
+
+10. As an additional challenge for comparative prior art analysis, it must also be considered that in some legal systems
+the parties are allowed to introduce new prior art and evidence or to change their legal arguments during appeal.
+11. Important examples are: the substantive legal arguments, amendments of the claimed matter, admissibility issues
+
+or the prior art cited against the claims, etc.
+
+12. cf. the section Introduction above.
+13. That is rejection.
+14. That is re-examination and invalidation trial.
+15. That is inter partes and ex parte appeal.
+16. And similarly appeals of rejection re-examination, invalidation trials, etc., cf. also Section 4.2 below.
+17. cf. Supra n. 11.
+18. In other patent systems, like in the United States, the boards and courts are not allowed to ﬁnally decide on ex post
+
+amended claims during appeal; a convenient fact which simpliﬁes comparative legal validity analysis.
+
+19. It should be mentioned that the legal provision of interlocutory revisions (article 109 EPC) has no impact on the
+concept of comparative analysis, because decisions rectiﬁed by the ﬁrst instance are not subject of further appeal,
+and decisions which are not rectiﬁed are subject of regular appeal and can be conventionally analyzed.
+
+20. Some patent systems (e.g. the United States) do not allow ﬁnal court decisions of amended claims. This is even
+
+advantageous for case law analysis because of the explicit nature of the courts’ rulings.
+
+21. Example for a ﬁrst legal theme: the issue of inventiveness of a particular motor controller. Please note that the
+issue of novelty of the same particular motor controller would represent—per deﬁnition—a second legal theme.
+22. Taking, for example, into account prior art, procedural requirements, admissibility, alternatives, auxiliary claims,
+
+etc.
+
+23. As a practical example: the claim for a general purpose off-the-shelf asynchronous motor controller has a broader
+
+scope/longer arrow than the claim for a particular motor controller designed for submarines.
+
+24. Equally applicable to appeals of rejection re-examination, invalidation trials, etc.
+25. cf. Section 2.2.6 above about claim content granulation.
+26. For example, novelty, inventive activity, clarity, added subject matter, etc. The issues of the so-called selection
+
+effect were discussed in Section 1.2 above.
+
+27. For example, when the court has revoked a patent claim which had been considered patentable by the ﬁrst
+
+instance.
+
+28. Note, however, that the EPO, the German DPMA and all other established patent authorities work without any
+arbitrariness; but they may occasionally provide slightly deﬁcient arguments for an otherwise correct decision
+(e.g. to refuse or to maintain, etc.).
+
+29. As discussed in Section 1.2.
+30. In Section 1, the representativeness of the appealed ﬁrst instance decisions has been discussed with respect to the
+overall population including also the non-appealed opposition/re-examination/trial and refusal/rejection
+decisions.
+
+31. For example, for novelty, inventive activity, clarity, but also for thoroughness of search.
+32. In practice, approximately 98% of all decisions can be attributed to a relatively limited set of around ten legal
+
+(EPC) standards.
+
+33. This way, one arrives at a value which describes the overall harmonization level of the ﬁrst instance in relation to
+
+the requirements of the appeal instance and, at the same time, in relation to the patent act (cf. Figure 5).
+
+186
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+Christoph Laub
+
+34. In other words: ﬁrstly, the full cohort of appealed ﬁrst instance decisions is analyzed with respect to
+every individual legal requirement according to Figure 4. Some legal requirements are more frequently
+relevant and assessed by ﬁrst instance and by the patent court, others less frequently. As an example: out of the
+whole population of 100 cases article 54 is assessed 40 times, article 56 50 times and article 123 10 times.
+Consequently, the impact of the article 56 validity level of Figure 4 is larger than the article 54 validity level which
+again is larger than the article 123 validity scores when the overall validity of the 100 cases is calculated for
+Figure 5.
+
+35. cf. Supra n. 14.
+36. For example, the maintenance of a patent in amended form with a correct claim scope or a justiﬁable refusal of an
+
+application—independent of the detailed reasoning for the decision.
+
+37. For reasons of conﬁdentiality, the annual cohorts years 1–7 cannot be further speciﬁed.
+38. cf. Supra n. 1.
+39. cf. German “Gesetz u¨ber Internationale Patentu¨bereinkommen”, IntPatU€G, Artikel 1.
+40. Differing national interpretations of legal terms (e.g. the novelty requirements) are not detrimental to the
+application of legal validity analysis. Even though the German and European novelty provisions (§ 3 (1) PatG vs.
+Art. 54 (1) EPC) seem literally very similar, there exist signiﬁcant divergences with respect to the construction of
+the concept of novelty in some cases. The EPC interpretation of novelty tends to be relatively strict, requiring that
+the features must be unambiguously and directly derived from the prior art (T 410/99). In comparison, the German
+DPMA and BPatG already consider novelty destroying (according to § 3 I 2 PatG) any publication which
+discloses subject matter which the skilled person knows to be self-evident or as good as necessary to add, or which
+by careful reading he simply recognizes and reads in (BGH, GRUR 95, 330, 332, Elektrische Steckverbindung).
+
+41. cf. Section 2.2.
+42. With respect to refusal/rejection appeal analysis, the time of a respective BoA decision is of course not dependent
+
+on the opposition timeline.
+
+43. Ofﬁcially: European Patent with unitary effect according to the EU Regulation No. 1257/2012 of 17.12.2012. A
+ratiﬁcation by the sufﬁcient minimum of 13 member states seems realistic by spring 2015 (Dr jur Eskil Waage,
+Lawyer, Dir. International Legal Affairs at the EPO).
+
+44. Agreement on a Uniﬁed Patent Court, 16351/2/12 REV 2, article 6 (1).
+45. Article 142 EPC and Regulation (EU) No. 1257/2012, article 1 (2).
+46. cf. Supra n. 44, article 32 (1) d.
+47. Preliminary Findings of DG Internal Market and Services—Study on the Caseload and ﬁnancing of the Uniﬁed
+Patent Court; 07.11.2011; Section 4—Plaintiffs’ choice of forum for validity issues: EPO or UPC. Draft
+agreement on a Uniﬁed Patent Court and draft Statute—Revised Presidency text; article 15a (7).
+
+48. cf. Supra n. 47, Table I.1.1.
+49. cf. Supra n. 13 f.
+50. The issues of statistical randomness, qualitative representativeness and the so-called selection effect for appealed
+
+ﬁrst instance decisions have been dealt with in Section 1 above.
+
+References
+
+Allison, J. R. and Lemley, M. A. (1998) ‘Empirical Evidence on the Validity of Litigated Patents’, American
+
+Intellectual Property Law Association Quarterly Journal, 26, 185.
+
+German Bundespatentgericht. (2011) Annual Report, p. 82.
+Harhoff, D. and Reitzig, M. (2004) ‘Determinants of Opposition Against EPO Patent Grants—The Case
+of Biotechnology and Pharmaceuticals’, International Journal of Industrial Organization, 22, 4, 443–
+480.
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+187
+
+Christoph Laub
+
+Statistical Reutilization of Patent Court Appeal Decisions
+
+Laub, C. (2012) Legal Validity as a Worldwide Quality Standard for Patent Ofﬁces, GEW, Bd. 31, Heymanns,
+
+K€oln.
+
+McEldowney, S. M. (2006) ‘New Insights on the Death of Obviousness’, Stan Tech Law Review, Rev. 4.
+Scellato, G., Calderini, M., Caviggioli, F., Franzoni, C., Ughetto, E., Kica, E. and Rodriguez, V. (2011) Study of the
+
+quality of the patent system in Europe, Table 55, European Commission; Tender MARKT/2009/11/D.
+
+Schulte, R. (2008) Patentgesetz mit EPU€, 8. Auﬂage, LXXI and Introduction, 3.
+Wild, J. and Clover, J. (2010) ‘Sara-User Survey “The State of play”’, Intellectual Asset Magazine, No. 42,
+
+p. 49.
+
+188
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 3–4
+
+

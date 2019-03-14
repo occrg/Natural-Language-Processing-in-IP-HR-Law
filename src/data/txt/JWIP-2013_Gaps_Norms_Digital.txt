@@ -1,0 +1,1168 @@
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2, pp. 39–57
+
+doi: 10.1111/j.1747-1796.2013.12005.x
+
+Bridging the Gaps Between Social and Legal Norms
+Concerning Protection of Intellectual and Artistic
+Creations: On the Crisis of Copyright Law in the
+Digital Era
+
+Katarzyna Gracz
+European University Institute
+
+The paper aims at explaining the current crisis of copyright law in the digital era. The primary hypothesis of the study
+is that the core of the problem can be found in the divergence between legal and social norms concerning the access to
+intellectual and artistic creations. The author discerns two main sources of the conﬂict between these two bodies of
+norms. The ﬁrst is the result of the particular dynamics in the development of technology, copyright law and social
+norms that are perceived as a global phenomenon. The second is the outcome of speciﬁc local particularities that led in
+some societies to the evolution of social norms which differ considerably from the contemporary intellectual property
+regime. In both cases, however, the core of the problem lies in the fact that consumer held social norms (developed
+either on the global or local level) strongly oppose the absolute property rhetoric present in most of the international
+regulations in copyright law.
+
+Keywords copyright; Eastern Europe; colonialism; globalisation
+
+It seems that copyright law has been at a crossroads since the digital revolution. Initially, the
+introduction of technologies allowing consumers to access fast, easy, cheap and effective reproduction
+of cultural and knowledge goods, and more recently—the advent of Internet, that enables users to
+exchange an unlimited number of ﬁles containing protected contents, have seriously challenged
+the logic of copyright law. The response of the legal system to the perceived inefﬁciency of the
+solutions applied so far is the recent tendency to the exorbitant expansion of copyright law. This
+expansion takes various forms, the most important being: (1) prolongation of the terms of protection;
+(2) extension in the catalogue of the goods protected, that results in an inclusion of the commodities
+whose very nature is alien to the copyright regime (e.g. computer programs); (3) introduction of
+the technological means of protection simultaneous with legal restrictions and a legal ban on
+circumventing encryptions1; (4) reduction of the catalogue of limitations and exceptions to copyright;
+(5) increasing tendency of transferring copyright regulations from the private realm into that of criminal
+law, etc.
+
+In general, the trend could be described as strengthening the protection of the right holders through the
+introduction of the paradigm of absolute and unlimited property at the expense of consumers’ interests.
+Moreover, the reforms tend to universalise the regulations worldwide due to the recent globalisation of
+intellectual property law.2 Paradoxically, however, the increasing severity of copyright law is not
+accompanied by a rise in the level of observance of its legal rules and respect towards the current regime.
+The open-content paradigm, promoting alternative values to those of the expanding proprietary logic is
+gradually gaining visibility in public discourse, the illegal ﬁle-sharing in the network is ﬂourishing, and
+actions opposing contemporary intellectual property reforms are often described using the rhetoric of
+revolution and war.3
+
+© 2013 John Wiley & Sons Ltd
+
+39
+
+Katarzyna Gracz
+
+Bridging the Gaps Between Social and Legal Norms
+
+Hypothesis and Research Questions
+
+Given the aforementioned circumstances this analysis will be guided by the following research questions:
+
+1. What mechanisms underlie the current crisis of copyright law in the digital era?
+2. Why is the legal system following the wrong pattern notwithstanding the signals which suggest that its
+response to the perceived crisis of copyright law is ineffective and inadequate to the needs of the digital
+environment?
+
+3. What should be modiﬁed to increase the efﬁciency of copyright regulations?
+
+The analysis that follows will be aimed at answering the aforementioned research questions.
+
+Methodology and Description of the Analysed Model
+
+The central part of the analysis focuses on the description of mutual interactions of the legal system as a
+whole and its particular branches, especially copyright law and property law.
+
+Simultaneously, the study reconstructs the mutual interplay between the legal system and the
+following elements that comprise environment in which the legal system acts: technology, social norms
+and collective interests of four groups representing most important actors in the described model, namely
+the state authorities, creators, public and the intermediaries on the market between the creators and the
+public. It shows how the interactions of those elements with one another and with the legal system led ﬁrst
+to the introduction of the proprietary paradigm in the protection of intellectual creations, and then to the
+degeneration of this paradigm that caused the contemporary crisis of copyright law in the digital era.
+
+Legal system hereinafter is understood as in the Systems’ theory developed by Niklas Luhmann and
+Gunther Teubner (Luhmann, 2008; Teubner, 1988), that is as an autonomous, self-referential normative
+system that is separate from other normative systems (i.e. religion, morality, social norms), and which is
+independently setting its own boundaries in the process of autopoietic operations according to the bilateral
+code: legal vs unlegal.
+
+Technology is approached in this paper in a broad sense, as deﬁned by the American sociologist Read
+Bain, who in the 1930s wrote that “technology includes all tools, machines, utensils, weapons,
+instruments, housing, clothing, communicating and transporting devices and the skills by which we
+produce and use them.” (Bain, 1937, p. 860)
+
+Social norms4 are here interpreted as normative statements (Homans, 1961, p. 12) that identify social
+expectations arising in the course of repeated interactions (Bicchieri et al., 1997, pp. 25–7; Wrong, 1994,
+p. 48). They are enforced either through the application of internal sanctions of the ego which emerge as a
+result of the internalisation of the norms (Durkheim, 1915, pp. 236–45; 1951) and/or through the
+application of external, informal (i.e. non-legal) social sanctions (Parsons, 1952, p. 38; Durkheim,
+[1903] 1953, pp. 36, 43). Social norms might, but do not necessarily have to, coincide with legal norms.
+Even if they do coincide, they belong to diverse normative systems.
+
+Collective interests are here understood as covering four groups: the collective interests of:
+(1) authors/creators, (2) the public, (3) intermediaries on the market between the authors and the public,
+(4) state authorities. Interests are understood as comprising both advantages of ﬁnancial and non-ﬁnancial
+nature. However, in the case of the intermediaries, due to the nature of those entities and their role in the
+network of interdependencies analysed below—emphasis will be placed on the commercial interests,
+stemming from the mass reproduction and distribution of copyrighted works. The interests are described
+as collective because they are perceived as common for the representatives of the respective groups, not as
+speciﬁcally relevant for some individuals only (e.g. creators’ interests are those that are perceived as
+common for all or most of the creators in the particular territory and historical period).
+
+40
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+Bridging the Gaps Between Social and Legal Norms
+
+Katarzyna Gracz
+
+Part I: The Distancing Islands of Law and Social Norms—Universal Problem
+
+It will be argued in this paper that the current divergence between the social and legal norms is at the
+source of the crisis of copyright law in the digital era, which has its origins in the failure of the legal
+system to adapt satisfactorily to the new environment created by digital technologies, which instead
+applied old and inadequate patterns to an entirely new context. Rather than responding to all the stimuli
+of the digital environment, copyright law reproduced the rules of the physical world into the digital
+reality, thereby furthering the interests of right holders, while completely ignoring the emerging needs of
+users.
+
+This paper, however, will show that this process did not start with the introduction of Internet and
+digital technologies, but actually has its roots at the inception of copyright regime when the proprietary
+paradigm was ﬁrst transposed from property law into the new realm of protection of knowledge and
+artistic goods. It will be argued, nonetheless, that it was not the introduction of the proprietary rhetoric
+itself that led to the current crisis of copyright law, but rather the degeneration of the notion of property as
+applied to the protection of intellectual and artistic creations, that with the emergence of new technologies
+tends to be treated as an absolute and unlimited right.
+
+To prove it the paper will focus on four historical phases that are perceived as landmarks in the
+development of mechanisms underlying the current crisis of copyright law5: (1) manuscript culture, (2)
+advent of print and birth of copyright law, (3) introduction of technologies allowing for mass consumer
+copying and (4) the advent of digital technologies and Internet. It will endeavour to show not only the
+operations of the legal system but also the mechanisms of the complicated mutual relations between the
+legal system and the elements of its environment that led to the present shortcomings of copyright
+protection.
+
+Manuscript Culture
+The analysis starts with the very beginning of the story: the era of the manuscripts—when there were no
+copyright regulations, no technologies that enabled copying on a mass scale, entrepreneurial interests
+stemming from reproduction and distribution of creative works of others were just emerging, and the
+general social norms concerning replication of works of human ingenuity were unambiguously in favour
+of copying.
+
+In ancient times, the profession of a scribe was extremely elitist, usually inherited from father to son
+and limited to the highest social classes (McLain, 2005; Johnson, 1987; Rice, 2001).6 Scribes exercised
+many functions that required literacy and enjoyed a high esteem. Those of them who were professionally
+devoted to manual copying of texts, especially sacred verses, were working at the services of the rulers or
+religious institutions (temples, monasteries, etc.) who commissioned particular works. At that time there
+was no open market for manuscripts. Both the scribes and their works were part of the religious or
+governmental structures. The copying of sacred texts was regarded as a metaphysical activity and required
+complex rituals.7
+
+In Medieval Europe, the spiritually important process of reproducing holy texts concentrated in
+Christian monasteries, that had regular provision for the making of books called scriptorium. Before
+around 1200 books were copied in ecclesiastical institutions, however, by the eleventh century the class of
+professional lay scribes and illuminators emerged. They travelled from monastery to monastery and
+treated copying of texts as a mere commercial activity, rather than a religious practice. From about 1200
+books were mainly produced by lay people who were established in particular cities and who earned they
+living by making books (Watson, 2003, p. 8).
+
+This crucial change in the manuscript production, which moved from monasteries to lay scriptoria
+and from rural settings to urban centres, was a result of a shift in the motivation for copying the word in ink
+on parchment as it evolved from divine meditation to personal proﬁt (Booton, 2010a, p. 33). This is when,
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+41
+
+Katarzyna Gracz
+
+Bridging the Gaps Between Social and Legal Norms
+
+the commercial
+
+relevant for this analysis, the commercial interests of the intermediaries in the market of the creative works
+emerged.8 As might be inferred from the historical sources,
+interests of those
+intermediaries were from the very beginning inconsistent, or in some instances even contrary to the
+interests of the authors themselves9 (Watson, 2003, p. 9). By the early thirteenth century, many European
+cities had a commercial book trade that was largely governed by the university authorities (Watson, 2003,
+p. 9). At this time another chain of intermediaries in the book trade emerged: libraries, who were
+middlemen responsible for hiring scribes and illuminators and for selling the completed manuscripts
+(Booton, 2010b, p. 252). Some of the libraries realised the orders commissioned by particular customers,
+mainly belonging to nobility or clergy, however, in general production of books in this time became
+speculative (Watson, 2003, p. 11). It meant that the business of libraries became unpredictable as there
+was no guarantee that the costs incurred in the process of books’ production would be covered by adequate
+demand on the market. This fact is essential for the further analysis, because it will be argued that it was
+exactly this commercial risk of the libraries, who with arrival of print decommissioned the obsolete
+services of the scribes and turned into printers, that later triggered the transposition of the proprietary
+paradigm to law protecting the fruits of human creativity.
+
+The Advent of Print and the Birth of Copyright Law—The Introduction of the Proprietary Paradigm
+The introduction of the technology of printing had a double-edged effect on the interests of the
+intermediaries on the book market. On one hand, it allowed for fast, and for the ﬁrst time in history—mass
+reproduction of books that could be achieved at considerably low costs, as the work of the people has been
+replaced by the machines.10 In this way the advent of print enlarged the interests of the middlemen as they
+could potentially increase their proﬁts due to the fact that copying at this moment became on a mass scale,
+and so the number of potential clients who could be addressed augmented. However, the new technology
+created new commercial risks as the potential gain could have been easily stolen by unfair competitors,
+who equipped with the adequate machines could easily reproduce the same material, not having incurred
+the transaction costs of the ﬁrst stage of the publishing process, that is the costs stemming from the primary
+interactions between the publisher and the author.
+
+Nonetheless, luckily for the publishers at that time in Europe their interests were compatible with the
+interests of the governments and the church, which in trying to protect their own affairs—introduced legal
+regulations that as a by-product created a monopoly for the publishers’ services and in this way
+strengthened their position on the market. That was the case in most European countries in that period, as
+the states and the church trying to avoid the dissemination of undesirable content, expressing dissent and
+criticism of the government and established religion, introduced controls over printing, by requiring
+printers to have ofﬁcial licenses for producing books. These licenses gave the printer an exclusive
+right to print particular works for a ﬁxed period of years and enabled him to prevent others from
+printing the same books during that period. The licenses usually also prohibited the import of the same
+works printed abroad (MacQueen et al., 2007, p. 34). This regulation system present in most European
+countries did not yet amount to the modern copyright law, as it had different goals and took a completely
+different form. Nevertheless, the licensing regime of the print industry could be perceived as the ﬁrst
+attempt to regulate the market in intellectual creations. It was already under this regime, long before the
+introduction of the modern copyright law, that the self-referential operations of legal system, allowing
+proprietary logic to gradually enter the discourse concerning the nature of intellectual and artistic works
+commenced.
+
+The proprietary logic entered the discourse concerning intellectual creations for the ﬁrst time in
+England around 1590 (Arber, vol. II, p. 538, quoted after: Patterson, 1968, p. 54) when members of the
+Stationers’ Company modiﬁed the language used in the register of printed books. As the excellent
+historical analysis done by Lyman Ray Patterson proves, the form of the entry “evolved from that of a
+
+42
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+Bridging the Gaps Between Social and Legal Norms
+
+Katarzyna Gracz
+
+license to print, to the ownership of copy, to the ownership of a book.” [emphasis added] (Patterson, 1968,
+p. 54). Notwithstanding the fact that the change “was one of form only, not substance” (Patterson, 1968,
+p. 54) and legal basis for, as well as, legal nature of the copyright remained the same, “the evolution in the
+form of entry indicates that a subtle conceptual change was occurring and that booksellers had begun to
+think more explicitly of their “copies” or “books” as private property” [emphasis added] (Rose, 1993,
+p. 45) as was perceptively noticed by Mark Rose. Although at this point the modiﬁcation in rhetoric did not
+yet enter the public debates, the shift in the publishers’ perception of their rights that ushered in the
+paradigm of property in knowledge goods, is crucial for this analysis. For it was exactly when this shift
+occurred, that the reproduction of the patterns from property law into the realm of protection of intellectual
+creations started.
+
+The rhetoric of property in intellectual creations was later used by the Stationers for the purpose of
+agitation as early as in 1643, when threatened by the fact that their exclusive rights to print would be
+endangered, the printers published a pamphlet entitled The Humble Remonstrance of the Company of
+Stationers to the High Court of Parliament in which they openly referred to the proprietary paradigm,
+arguing that “their ancient Right, Propriety of Copies” was no longer secured, and therefore they would
+lack the “encouragement to make them [their properties] active and alacrious in the service of the state”
+[emphasis added] (Arber, vol. I, p. 586, quoted after: Rose, 1993, p. 16).
+
+It is worth emphasising that the publishers at that time used the property paradigm to justify and
+strengthen solely their own interests, and initially did not refer at all to the interests of authors. Eventually,
+however, it was the publishers who for the ﬁrst time applied the proprietary rhetoric with regard to the
+creators’ rights. Nonetheless, the printers made reference to the property rights of authors in intellectual
+and artistic works to defend their own interests.
+
+The proprietary rhetoric with regard to protection of intellectual and artistic creations should be
+therefore perceived as invented and popularised by the publishers, who threatened by technological and
+legal developments weakening their position on the market, applied it in trying to secure their own
+commercial interests.
+
+Although the Stationers used the rhetoric of absolute property perceived as a natural right when
+lobbying for the legal protection of their commercial interests, the Statute of Anne,11 enacted in 1709 that
+was the ﬁrst instantiation of the modern copyright law was to be a considerably moderate and balanced
+response. The Statute introduced the concept of author’s rights, as diverse from publisher’s rights and by
+minimising the protection to the limited period of fourteen years—it asserted that the copyright law should
+be differentiated from property rights and treated more as a privilege granted by the state. Symptomatic of
+this de-propertization of the protection of intellectual and artistic creations is the fact that the initial title of
+the act was changed from A Bill for the Encouragement of Learning and for Securing the Property of
+Copies of Books to the Rightful Owners thereof to A Bill for the Encouragement of Learning by Vesting the
+Copies of Printed Books in the Authors, or Purchasers, of such Copies, during the Times therein
+Mentioned (Rose, 1993, p. 46).
+
+As far as the object of this analysis is concerned, although the publishers’ lobbying actions later taken
+up by the authors themselves, attempted to introduce the proprietary rhetoric into the realm of the
+protection of literary works—the act itself refused to apply a proprietary paradigm. The legislator, by
+resisting the proprietary rhetoric wanted to limit the monopoly of the stationers in order to keep a proper
+balance between the interests of the creators, public and intermediaries in the market in the knowledge and
+artistic goods.
+
+Nonetheless, the introduction of the Statute of Anne should be perceived as the beginning, and not the
+end, of the debate on the proprietary paradigm in the protection of creation and dissemination of
+intellectual and artistic goods, especially that other Western European countries soon followed suit,
+providing space for public debates on the nature of literary and intellectual property.
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+43
+
+Katarzyna Gracz
+
+Bridging the Gaps Between Social and Legal Norms
+
+Introduction of Technologies Permitting Mass Consumer Copying—Initial Attempts to Strengthen
+the Proprietary Paradigm
+Although publishers faced with the technological novelty challenging the protection of their ﬁnancial
+interests already in the sixteenth century used the strong proprietary rhetoric understood as absolute
+control over the use of the protected works, this power was never granted to the right holders by law. The
+copyright regulations never protected against consumption by individuals and the idea of a private
+use perceived as being outside the right holders’ monopoly exploitation, thus not requiring the prior
+authorisation of rights, was so obvious and accepted by most early European copyright scholars that
+initially the copyright acts did not even contain provisions protecting private use (Guibault et al., 2003,
+p. 10.). They appeared only at the beginning of the twentieth century (Guibault et al., 2003, p. 10).12
+
+Nevertheless the copyright holders (represented mainly by middlemen in the market for intellectual
+and artistic creations) resorted to absolute property rhetoric every time they felt that their interests were
+being endangered by the inﬂuence of new technology. The twentieth century’s inventions of photocopying
+and analogue recording equipment had the same double-edged effect on the commercial interests of
+middlemen in the market for intellectual and artistic goods as before the invention of print did. This time,
+however, the new inventions were enabling consumers and not professional competitors to copy the
+knowledge and artistic goods on a massive scale. This once again triggered the absolute-property rhetoric
+on the part of the right holders who were claiming absolute control over the use of protected works that
+would preclude private copying with the use of new technologies. Following the logic of this strong
+proprietary arguments both private individuals who made reproductions with the use of new technologies
+and manufacturers and retailers of the necessary equipment were infringing the owner’s copyright in the
+work (Gentz, 1952, p. 495; Guibault et al., 2003, p. 10). This reasoning ﬁnally led to the introduction of the
+copyright levy system that was introduced ﬁrstly in Germany as a consequence of two decisions of the
+German Federal Supreme Court rendered in 1955 (Grundig Reporter case)13 and 1964 (Personalausweise
+case)14 and then spread throughout the rest of continental Europe. The reasons for introducing the levy
+systems combined with the earlier private copying exceptions in Europe were to balance the rights of both
+users and right holders as required by the three-step test set out in the Berne Convention, which establishes
+the conditions for any limitations of the reproduction right (Reinbothe, 2003).
+
+The limits to right holders’ control over the copyrighted goods were even more strongly stated in the
+later UK case Amstrad Consumer Electronics plc v The British Phonograph Industry Ltd Amstrad (1986)
+in which the court stated that the power of the right holders is also limited by the protection of
+technological development.15
+
+In conclusion, it should be stated that the legal system once again managed to balance the diverse
+social needs as expressed in the signals stemming from the environment in which the law operates and did
+not succumb to the absolute-property postulates of the right holders. The levy system introduced in most
+European countries allowed for equitable remuneration for the creators while at the same time leaving the
+copyright regulations in line with the social norms favouring private copying.
+
+The Digital Era—Absolute Property?
+It was not until another technological revolution, namely the introduction of Internet and later on P2P
+technologies, that the legal system was once again facing the absolute-property demands of the copyright
+holders, which again were mainly intermediaries. These new technologies allowed not only for mass
+reproduction but also mass distribution of the copyrighted material. Therefore, the absolute-property
+campaign started again, this time successfully changing the face of copyright law by introducing DRM
+technologies simultaneously to legal restrictions and legal ban on circumventing encryptions, prolonging
+the terms of protection and leading to the increasing tendency of transferring copyright regulations from
+the realm of private into that of criminal law.
+
+44
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+Bridging the Gaps Between Social and Legal Norms
+
+Katarzyna Gracz
+
+No longer were potential competitors the biggest challenge to the protection of copyright holders’
+interests. The content industry turned on practices of individual users as endangering their legitimate
+interests and once again attempted to enforce the paradigm of absolute property. This destroyed the
+delicate balance simultaneously safeguarding the interests of the right holders and the public, that
+copyright law managed to maintain for a long time, and lead to the conﬂict between legal and social norms
+regarding the protection of production and dissemination of intellectual creations.
+
+The Response of the Environment—Consumer Reaction
+The new technologies affected not only the legal regulations but also the social norms, increasing the
+number of postulates for general access to knowledge and information. Thus the exorbitant protection of
+copyright holders’ commercial interests introduced at the expense of the public’s needs led to the
+additional costs of compliance with the law stemming from the tension between the copyright regulations
+and social norms. Therefore, consumers trying to lower the incurred costs started choosing between two
+strategies: the strategy of avoidance or change of the onerous law.16
+
+The mechanisms allowing for the avoidance of problematic legal regulations that started to be applied
+by consumers may take two forms: evasion understood as an investment in decreasing the odds of being
+punished for violating a law (Wu, 2003, pp. 112–6) or avoision which can be deﬁned as efforts to exploit
+the differences between a law’s goals and its self deﬁned limits (Wu, 2003, pp. 112–6). Consumers’
+strategies leading to the avoidance of copyright regulations in fact take both forms: the former being best
+exempliﬁed by the application of various types of software enabling anonymity in the network, and the
+latter instantiated by the sharing platforms that create an illusion that the ﬁle-sharers are indeed close
+friends which would allow them to rely on private copying provisions.
+
+The strategy of change in the case of copyright law was so far reserved to the right holders,
+represented mainly by market intermediaries. The reasons for this are to be found in public choice theory
+which suggests that when the beneﬁts of law are concentrated, and its costs are diffuse, a small well-
+focused interest group (in this case intermediaries in the market for knowledge and artistic goods or
+collecting societies) will usually succeed in obtaining passage of the law, even if it does not beneﬁt society
+as a whole (Wu, 2003, pp. 116–9). Therefore, traditionally the strategy of change was too burdensome for
+consumers as it involved collective action problems, which were difﬁcult to overcome by small or loose
+groups. Nevertheless thanks to Internet communication, especially social networking and online petition
+services, the difﬁculties associated with the process of supplying public good in the form of the
+modiﬁcation of the existing law may be surmounted, and thus the mechanism of change of the onerous
+regulations becomes available to consumers as is very well exempliﬁed by the phenomenon of the Pirate
+Parties and the power of the anti-ACTA protests in Europe, showing the new lobbying power of the end-
+users in copyright issues.
+
+Part II: Cultural Colonialism—or Why Did the Anti-ACTA Protests Start in Poland?
+
+In this part of the paper evolutionary institutional theory will be applied to describe another source of
+discrepancy between the current copyright regime and social norms: the fact that social norms, contrary to
+the global intellectual property regime, are not universal but have evolved under the inﬂuence of local
+factors such as national culture, the particular socio-economic situation of a jurisdiction and historical
+contrasts in legal regulations between different territories. In the second subsection of this part of the paper
+the Polish case study will be analysed showing how particular local developments led to the evolution of
+social norms that are in sharp contrast with the absolute proprietary paradigm present in the current
+intellectual property regime, and which led to extremely intensive anti-ACTA protests in Poland. Before
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+45
+
+Katarzyna Gracz
+
+Bridging the Gaps Between Social and Legal Norms
+
+that, however, in the ﬁrst subsection a very short introduction to the evolutionary institutional theory will
+be provided.
+
+Concise Introduction to Evolutionary Institutional Theory
+This part of the paper is highly inspired by the book on The Evolution of Modern States. Sweden, Japan
+and the United States by Sven Steinmo in which the author applies the evolutionary approach to his
+analysis of social institutions. In developing his theory, Steinmo primarily claims that social systems are
+complex phenomena, which being fundamentally different from inanimate matter, react like living
+organisms in that they change, adapt and evolve in response to the modifying reality. A respective social
+system is often the unique result of a series of particular unguided interactions at the micro level. The
+interaction is the key aspect of an emergent system; therefore, similar factors can have very different
+effects in different contexts (Steinmo, 2010, pp. 10–3). Most importantly, however, evolutionary
+institutional theory “takes history seriously meaning that when and where something occurs can
+fundamentally shape what occurs.” (Steinmo, 2010, p. 13).
+
+Evolutionary institutional theory highlighting the uniqueness of the evolutionary patterns of the
+respective social institutions in various countries suggests that there are no global standards that would
+prove equally useful in diverse conditions (Steinmo, 2010, pp. 1–30). Law, equal to the economy, in order
+to be effective and to respond adequately to social needs must develop in conformity with the
+particularities of the local environment.
+
+Evolutionary institutional theory proves useful in describing the development of particular social
+norms in the given society that evolved in contrast to the universal legal regulations in the ﬁeld of
+copyright law. The most general message stemming from the application of evolutionary institutional
+theory, to the analysis of the historical development of copyright law is that intellectual and artistic
+creation is one of the innermost spheres of the social reality. Therefore, the attitude towards the protection
+of the fruits of human ingeniousness depends on manifold circumstances, the most inﬂuential being:
+historical, cultural, religious and socio-economic determinants. Hence, the current trend for international
+universal regulations, providing “one—size—ﬁts—all” solutions in the realm of intellectual property law
+must be deemed ineffective and inappropriate for the needs of the complex social reality.
+
+The Evolutionary Institutional Analysis of Polish Social Norms With Regard to the Distribution of
+Copyrighted Materials
+In January 2012 all of Europe witnessed massive protests, both in the streets and on the Internet, opposing
+the ratiﬁcation of the ACTA17 agreement. The anti-ACTA movement started in Poland and it was also
+here that the protests lasted the longest. It is estimated that around hundred thousand people went to the
+streets of dozens of big cities and smaller towns in Poland to show their objection to the ratiﬁcation of the
+controversial treaty (Gazeta Wyborcza, Rzeczpospolita of 20 January 2012 to 20 February 2012). They
+stayed in the streets for long weeks notwithstanding the extremely unfavourable weather conditions, when
+
+the temperatures were falling to as low as  20˚. It is also in Poland that these protests actually had some
+
+further reaching consequences as they not only changed the initial position of the government with regard
+to the ratiﬁcation of this controversial treaty, but actually started the public debate on the role of
+intellectual property in the information society. Moreover, as a result of lobbying of various
+stakeholders—the Ministry for Administration and Digitization promised the revision of the whole legal
+system in order to make sure that the Polish law is suitable to respond to the growing needs of the
+information society.
+
+The intensiveness of the anti-ACTA protests has attracted the attention of many social scientists as
+Poland had not witnessed such a social mobilisation since the collapse of the communist regime. Poles did
+not organise signiﬁcant protests when the whole world was marching against the war in Afghanistan and
+
+46
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+Bridging the Gaps Between Social and Legal Norms
+
+Katarzyna Gracz
+
+Iraq. There was no “occupy Poland,” and Poles did not have their “indignados” movement. There are
+various explanations of the anti-ACTA phenomenon in Poland ranging from the assertion that it was
+exactly this lack of earlier reactions that led to the protests as they have given necessary vent to
+accumulated frustration (Gazeta Wyborcza, Rzeczpospolita of 20 January 2012 to 20 February 2012), to
+the diagnosis that the secret negotiations on the treaty and the unclear position of the Polish government
+triggered thinking in terms of conspiracy theories and pushed people to protest even though they were not
+aware of the substance of the criticised legal act (Gazeta Wyborcza, Rzeczpospolita of 20 January 2012 to
+20 February 2012).
+
+In my opinion one of the most promising explanations of the anti-ACTA phenomenon in Poland
+concentrates on the analysis of the social norms with regard to the distribution of cultural and knowledge
+goods. The social research shows that only 13% of Poles buy books, music or ﬁlms. As many as 33% gets
+hold of them in digital form, in a non-formal manner and for free. If also the “physical” forms of exchange
+are included in informal circulations, such as lending books, CDs and DVDs from relatives and friends,
+then 39% of Poles participate in it (Filiciak et al., 2011).
+
+If not the whole population but only the most culturally and socially active group is analysed—the
+percentage of people engaging in the informal circulation of knowledge and cultural goods increases. The
+Polish cultural elite, understood as persons declaring much more interest in the cultural and social life as
+compared to the general population, equals more less the group of the active Internet users, thus the
+research done on this sample proves very useful18 (Czapin´ski and Panek, 2009, 2011). In 2011 37% of
+Polish Internet users declared having gone at least once in the previous month to a cinema, a theatre or
+a concert as compared to 6% of non-users (Czapin´ski and Panek, 2011). The Internet users
+declared buying three times more books and ﬁlms and even seven times more music than their
+counterparts who do not use the Internet (Filiciak et al., 2011). Moreover, if we add the circulation of
+culture that requires no expenditure like borrowing books, CDs or CDroms the changes between the users
+and non-users grow even bigger: 88% of Polish Internet users participates in the informal circulation of
+music, 73% in the informal circulation of books and 78% in the informal circulation of ﬁlms. The informal
+circulation in this questionnaire was understood widely as downloading, using the content downloaded by
+other members of the family, copying from friends and family, photocopying and scanning (Filiciak
+et al., 2011).
+
+If these data are aggregated, we ﬁnd that 72% of Polish Internet users declare that they download ﬁles
+with cultural goods either from websites or peer-to-peer networks. If we add streaming and exchange of
+ﬁles with friends then already 92% of Polish Internet users participate in this kind of circulation of cultural
+goods. If informal circulation also in physical formats is taken into account (photocopying, scanning, but
+also exchanging books, CDs and DVDs, including copy versions, with family and friends) then 95%
+declares participation. More than 50% of active Internet users admit that the main reason for them to
+engage in informal circulation is not the price barrier of the formal market but the wider access to
+knowledge and cultural goods as compared to the goods that they could buy (Filiciak et al., 2011).
+
+Moreover, as much as 52% of the whole Polish population agrees with the statement that the free
+access to books, ﬁlms and music should be treated as a fundamental right even if it precludes copyright
+(Millward Brown SMG/KRC, 2012).19
+
+The data quoted above prove that not only do Poles declare very strong social norms concerning
+access to knowledge and cultural goods but also that they act according to them. These norms clash with
+the strong proprietary vision of intellectual and artistic creations which was very much present in the
+discourse favouring the introduction of ACTA.20
+
+The following section, strongly inspired by evolutionary institutional theory, will attempt to show the
+historical and cultural circumstances which have contributed to the development of such strong social
+norms favouring unrestricted access to cultural and knowledge goods amongst Poles, which are in sharp
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+47
+
+Katarzyna Gracz
+
+Bridging the Gaps Between Social and Legal Norms
+
+contrast not only with the ACTA treaty, but generally with the whole body of current international
+intellectual property law based on the strong proprietary paradigm.
+
+In the ﬁrst part of this paper four important phases, that might be considered as milestones in the
+development of law and technology in terms of the production and distribution of intellectual and artistic
+creations were described. Although these stages were universal around the globe, in various countries they
+took place in different historical moments and in diverse circumstances. In this section, I will focus on the
+same three out of four phases,21 but highlighting additional elements of the environment in which both
+Polish copyright law and the respective social norms were evolving that were not present in Western
+European countries, and that might have contributed to the strong demand for unrestricted access to
+knowledge and culture goods amongst the Polish population.
+
+Advent of Print and the Birth of Copyright Law—The Introduction of the Proprietary Paradigm?
+Poland was actually in the forefront of countries granting the ﬁrst privileges protecting the interests of
+publishers, at the time that the cost of the printing press went down so drastically that the circulation of
+unauthorised reprints started ﬂourishing. The ﬁrst privilege was granted to a Polish publisher as early as in
+1494 (Benis, 1887, p. 444). The Polish system of privileges had a dual nature as it consisted of the
+privileges granted both by the secular and ecclesiastical authorities.22 The privilege system was
+developing in Poland very well and as early as in the middle of the sixteenth century the idea of system of
+international protection was developed, as the protection granted in the Polish privileges was expanded to
+imported books in Hebrew, Greek,23 and Czech24 (Benis, 1887, p. 453). The privileges assured the equal
+treatment of those imported books with regard to the Polish ones in terms of scope and the term of
+protection. Moreover some privileges granted protection against unauthorised reprint of the translations. It
+is also already in that period that some privileges were granted directly to the authors and not to the
+publishers (Benis, 1887, p. 453) and that generally artistic works of all types, and not only books were
+protected (Benis, 1887, p. 455). The legal doctrine unambiguously treated those privileges as belonging to
+the domain of private law, thus enforced only on the right holder’s motion.
+
+By the second half of the eighteenth century the privileges were already standardised and based on the
+customary law that developed with the time: they granted 20 years of protection against unauthorised
+reprint, translation, compilation, alteration of a work and export of similar or identical works. The sanction
+amounted to a ﬁnancial ﬁne, half of which was paid to the right holder, the other half to the treasury
+(Benis, 1887, p. 459).
+
+The ﬁrst attempts to regulate copyright in a single general legal act that would replace the system of
+privileges were already made in 1776 and 1784. The parliament, however, did not pass the law and so
+lost the chance to introduce the ﬁrst Polish copyright act. Poland was at that time partitioned between
+Russia, Austria and Prussia hence soon all the copyright issues arising on Polish land were to be regulated
+by three various copyright acts originating in the three legal systems of the respective states (Benis, 1887,
+p. 459).
+
+To sum up this period of Polish legal history it should be stated that although Poland did not have a
+single universal copyright act, the very well-developed system of privileges emerged quite early. The
+privileges responded to the need for protecting not only books but also other artistic creations, provided
+protection not only for national creations but expanded also to imported and translated works, introduced a
+sanction that meant both to cover the damages and to discourage future breach, and last but not least
+acknowledged the unique role of the author as different from the publisher. Thus it might be stated that the
+initial period of the development of copyright law in Poland, before the change from a system of privileges
+to the protection granted in the general legal acts, did not differ much from the processes that took place in
+Western Europe. Moreover, the well-developed system of privileges made actually Poland one of the early
+movers in the ﬁeld of protecting the fruits of human creation in this region of Europe.
+
+48
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+Bridging the Gaps Between Social and Legal Norms
+
+Katarzyna Gracz
+
+Nevertheless, already at the moment when the ﬁrst copyright acts on the Polish land were
+introduced,25 the Polish case was particular (Ferenc-Szydełko, 2000, p. 225). Not only did those
+regulations stem from three different legal systems, but they were imposed by the occupants’ hostile
+authorities, and moreover were strictly connected with the system of censorship, which in the territory of
+partitioned Poland was mainly aimed against Polish patriotic and pro-independence movements.
+
+In Austria the preventive censorship successfully impeded both the circulation and access to Polish
+works from 1781 (Ferenc-Szydełko, 2000, p. 225). Decisions of censors were irrevocable and strongly
+interfered with the integrity of the work: the censors deleted words and phrases forbidden by the law and
+replaced them with random expressions (Ferenc-Szydełko, 2000, p. 226).
+
+The situation was very similar in the Kingdom of Prussia, where from 1849 all the texts printed in
+Polish could only be published and imported from abroad if accepted by the censors. The strength of the
+censorship rendered legal circulation of Polish works (especially literature and press) in Prussia nearly
+inexistent (Ferenc-Szydełko, 2000, p. 225).26
+
+For Poles the most severe, however, was the system of censorship in Russia which was extremely
+active in blocking not only the circulation of Polish books and articles but also music, paintings, theatre
+and opera performances. Among the authors whose works were either completely banned or seriously
+changed by the Russian censors were two Nobel prize winners in literature Reymont and Sienkiewicz,
+famous composer Moniuszko, bard of Polish patriotic lyrics Mickiewicz and many other prominent
+creators. The interference of censors with the original works was so far—reaching that often authors could
+barely recognise their own creations as they were so cut and modiﬁed (Ferenc-Szydełko, 2000, p. 227).
+This power of the censors conﬂicted not only with the right to integrity of the work but also rendered the
+earnings of the authors nearly inexistent as the publishers at the time paid the remuneration to the authors
+proportionally to the size of the work, and thus works cut by half or more by the censors brought hardly any
+money to the author. The severe sanctions forced those creators, who did not want to compromise on their
+works and were courageous enough to object the requirements of censorship, to publish their works under
+pseudonyms or anonymously. Due to this fact even the right to paternity of the work was somehow biased.
+Thus the strength of the censorship system in all the three territories of partitioned Poland rendered
+the copyright protection with regard to Polish creators ﬁctitious, even if the legal acts regulating copyright
+issues treated an author as the primordial subject of copyright protection.27 The power of censors to block
+the distribution of original works, including the pieces of most prominent Polish creators, led also to the
+emergence and fast diffusion of the illegal circulation of Polish literary, artistic and knowledge goods. In
+these circumstances the social norms favouring the unrestrained access to intellectual creations were
+ﬂourishing, especially given that literature and art were at the time important carriers of Polish national
+identity, which was constantly suppressed by the hostile authorities. As copyright law in many instances
+did not secure real protection for the Polish creators, and because many of them treated their occupation as
+a mission in the ﬁght for independence, authors favoured wide access to their works. The debate on the
+“literary property” so powerful in England and France did not have its equivalent amongst the Polish
+elites. Moreover, even in the legal doctrine of that period the voices opposing the proprietary vision of
+copyright protection, criticising the “literary property” concept born abroad, and favouring the wide
+access to art and knowledge were prevailing (Go´rski, 1891).
+
+Hence, as opposed to many Western European countries, the situation in the Polish territory was not
+conducive to the general acceptance of the proprietary paradigm and very much favoured the concept of
+open access to knowledge and art. At that time the message that was conveyed in the literary and artistic
+works was the most important part not only of the creation but also of the distribution process, and every
+effort was taken to make it reach the widest possible audience. Thus social norms emerging at that time on
+the Polish land although strongly opposing plagiarism (Ferenc-Szydełko, 2000; Go´rski, 1891), did not
+condemn the unofﬁcial, and often illegal circulation of knowledge and artistic goods.
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+49
+
+Katarzyna Gracz
+
+Bridging the Gaps Between Social and Legal Norms
+
+Introduction of Technologies Allowing for Mass Consumer Copying—First Attempts to Strengthen the
+Proprietary Paradigm?
+The social norms promoting wide access to culture and knowledge, and accepting unofﬁcial, and often
+illegal, circulation of intellectual and artistic creations found favourable conditions also in the second
+phase of the development of the mutual interactions between technology and copyright norms as analysed
+in this paper. When Western European democracies were trying to ﬁnd a balance between the needs of
+consumers newly empowered by reproduction technologies, the importance of technological development
+and the demands of right holders who desired full control of the copyrighted works—in Poland once again
+the informal distribution of cultural and intellectual creations was ﬂourishing. Although the general
+political situation has changed drastically since the end of the previous analysed historical period, the
+censorship was again very much present and playing a similar role in sustaining social norms favouring
+wide access to culture and knowledge, during the time of communism as it did during the partitions of
+Poland.
+
+At the time when the ﬁrst technologies allowing for the reproduction of copyrighted materials by
+consumers—namely analogue recorders—were introduced, Poland was cut off from the Western world by
+the heavy Iron Curtain. The censorship did not allow for import of most Western cultural and knowledge
+goods and kept watch and ward not to allow “harmful” trends to be imitated in socialist Poland. “Big-beat”
+was banned by the Polish censors not only as a genre of music but also as a word. Wearing clothes
+according to Western fashion trends could be perceived as a revolutionary act, such an innocent detail as
+colourful socks in the 1950s could cost a cruel interrogation by the security forces. Obviously those facts
+triggered resistance, especially on the part of young people. One of the methods of opposing the regime,
+and more importantly of trying to live a normal life, involved gaining access to forbidden cultural
+creations—mainly music.
+
+The prominent role in the emancipation of many Polish teenagers growing up in communist Poland
+was played by Radio Luxembourg, the commercial multilingual radio station based in Luxembourg,
+which was at that time shaping the music tastes of young people around Europe. Although listening to this
+radio station was forbidden, most youngsters ignored the ban, and not only listened to but also recorded the
+broadcasts of Radio Luxembourg using the reel-to-reel audio tape recorders28 (Mann, 2010). With the
+political thaw, another source of music recordings emerged—the Polish Radio Program 3. Although it was
+a public, state-owned radio station, it was allowed some autonomy, according to the “vent” strategy of the
+communist party, which at some point started presupposing some freedom in the least important spheres of
+social life as an inevitable protection against the political revolution. The Program 3 introduced broadcasts
+that were specially devoted to the recording activities of the audience. The speaker, presenting a list of
+most popular Western songs counted down before playing each track so that the members of the public
+knew when to start recording. The recordings of music from those radio stations were one of the most
+demanded goods in the informal market where both sale and exchange contracts were concluded. Social
+esteem and the place in the youngsters’ hierarchy in communist Poland were proportional to the number of
+Western musical recordings owned. Most of them were either recorded from the radio stations or copied
+from friends.29
+
+Simultaneously, from the 1970s, the informal circulation of the written word was ﬂourishing. Books,
+articles and short leaﬂets with political messages were mass reproduced with the use of home-made
+duplicating machines30 and distributed through the illegal chains. This phenomenon was so widespread
+that it got the name of the “second circulation,”31 as opposed to the ofﬁcial distribution of cultural and
+knowledge goods approved of by the state censors. Between 1976 and 1980 “the second circulation”
+provided the space not only for political opposition but also for artistic creations the presence of which was
+impossible in “the ﬁrst,” ofﬁcial circulation (Pczak, 1988, p.29). The phenomenon of “the second
+circulation” was already very well entrenched in the collective consciousness of the Polish intelligentsia in
+
+50
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+Bridging the Gaps Between Social and Legal Norms
+
+Katarzyna Gracz
+
+the 1970s, and gaining the ever growing popularity among the working class. The information acquired
+from the informal chain of distribution with comparison to the ofﬁcial news allowed for developing
+critical opinions on the situation in Poland and abroad. Moreover, “the second circulation” was
+complimentary to “the ﬁrst” one in terms of the distribution of art and literature, as it provided space for the
+works forbidden by the censors, and as such was the real gateway to Western culture (Pczak, 1988, p.29).
+In the beginning of the 1980s the phenomenon of “the third circulation” emerged. “The third
+circulation” was a publishing and distributing movement of the youngest generation, originating from the
+alternative subcultures, mostly punks, opposing both the “ﬁrst” political mainstream, and the “second”
+oppositional movements. “The third circulation” did not only deny the communist ideology but also
+rejected conservative art, perceived by the youngest generation as compromising with the communist
+authorities. It involved unofﬁcial distribution of tape recordings, texts and graphics. “The third circulation”
+was not as structurally organised as “the second” in terms of publishing and distribution chains. The works
+were mainly circulated via the concerts, festivals, and ad hoc meetings of members of the subcultures. As
+the emergence and existence of “the second circulation” was strictly connected with the technological
+novelty of the duplicating machines and reel-to-reel audio tape recorders, “the third circulation” was born
+with photocopying machines and cassette decks. Due to these technological novelties the form of the
+circulating works also evolved. Whereas people involved in “the second circulation” did not learn how to
+use the new possibilities provided by these inventions and continued distributing mostly short leaﬂets as the
+easiest form to be copied on the duplicating machines, “the third circulation” was mainly concentrating on
+the distribution of tape cassettes with alternative music, recorded during live concerts or copied from
+master copies and fanzines: non-professional and non-ofﬁcial publications devoted to alternative culture,
+sold mainly by post for the cost of delivery. The novelty of photocopying allowed not only for much longer
+publications, as compared to the texts distributed within “the second circulation,” but also for much more
+interesting graphics and a generally attractive layout (Dunin-Wa˛sowicz, 2013). In the 1980s’ fanzines
+distributed within “the third circulation” reached the public of tens of thousands of young Poles between the
+age of 17 and 27 (Dunin-Wa˛sowicz, 2013). What is crucial for this analysis, “the third circulation,” equally
+in this respect to “the second circulation,” was a non-proﬁt enterprise, where facilitation of the widest
+possible dissemination and not ﬁnancial gain was the main incentive for involvement. Needless to say both
+“the second” and “the third” circulations were not only unofﬁcial but also illegal as they were developed
+outside the censoring system.
+
+Although alternative cultural movements, such as punk subculture, which involved the unofﬁcial
+distribution of cultural goods, also existed in Western Europe (especially in the U.K) and the United
+States—in Poland this phenomenon was much more inﬂuential, as it involved political opposition of the
+youngest generations tired both with the communist regime, and with the (in their opinion inefﬁcient)
+“elder” opposition, concentrated around “the second circulation.” The fact that involvement in the
+unofﬁcial distribution of cultural and knowledge goods was against the laws on censorship and as such
+carried the danger of criminal sanctions, including imprisonment, did not discourage, but quite to the
+opposite—added some ﬂavour to these activities, transforming them into the sort of a civil disobedience
+movement. The power of civil disobedience actions in creating and sustaining social norms is well known
+and cannot be underestimated. Hence the strength of both of the unofﬁcial Polish “circulations” in
+reinforcing social norms favouring the unrestricted access to intellectual and artistic creations should not
+be found surprising.
+
+When the Western world was discussing the dangers of new technologies in disrupting the copyright
+regime, epitomised by well-known slogans like, for example “Home taping is killing music. And it is
+illegal”—majority of the Polish population was involved in illegal circulations of cultural and knowledge
+goods, treating it as way of combating the hostile political regime. Whereas the West was calling
+unauthorised distribution “theft” as early as in the 1980s of the last century—between the 1960s and
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+51
+
+Katarzyna Gracz
+
+Bridging the Gaps Between Social and Legal Norms
+
+beginning of the 1990s at least two generations of Poles, perceived engaging in unofﬁcial circulation of
+music, literature and press as a virtue, providing access to objective information and a gateway to Western
+culture in the captive nation. The public debates on the limits of copyright monopoly triggered by the
+invention of new multiplying technologies that took place in the Western countries as early as in the 1960s
+and continued into 1980s and 1990s were absent in Poland in that time. Even the levy system, which might
+be perceived as the attempt to maintain a fragile balance between the interests of various stakeholders was
+introduced in Poland as late as in 1994.32
+
+In these circumstances social norms approving of the wide dissemination of cultural and knowledge
+goods, that were already rooted in the Polish culture, were further reinforced and shared by an ever
+growing number of Poles.
+
+The Digital Era—Absolute Property?
+
+As the analysis above shows, Poles entered the digital era already with strong social norms approving of the
+wide dissemination of cultural goods, even if such an activity was against the ofﬁcial laws. Contrary to the
+situation in Western countries, in Poland it was not only the youngsters, empowered with the new
+technological possibilities who suddenly changed their attitude to copyright law and shunned compliance
+in response to the power given to them by technology. Poles had a tradition dating back hundreds of years of
+unofﬁcial and illegal circulation of cultural goods that was familiar to elder generations as much as it was to
+teenagers. Internet and digital technologies of reproduction and dissemination of copyrighted materials
+were just another technological mean that replaced tools used so far. Poles not only did not develop strong
+social norms opposing the unauthorised distribution of cultural goods, but did not internalise the
+proprietary vision of cultural and knowledge goods as in Polish history it was not the private ownership and
+the ﬁnancial gain of the creator but the ability to convey important message to the public that was generally
+perceived as the incentive to create.33 The copyright law was not as internalised as it was in other countries
+also due to the fact that for most of its existence it did not offer any real protection to Polish creators. Poland
+also did not witness the important public discussions concerning the nature and function of intellectual
+creations, and the scope of their protection, which already had taken place in Western societies in both of
+the historical periods analysed above and facilitated the evolution of social norms that would be in line with
+copyright regulations. The ratiﬁcation of the ACTA treaty was actually the ﬁrst event that triggered public
+debates on that topic, thus the escalation of the dispute should not be a surprise especially as at its core lay a
+vital conﬂict between the imposed international regulations and the strongly internalised social norms.
+Concluding, the strong social norms favouring unrestricted access to culture and knowledge, in case
+of Polish society should not be perceived solely as a new phenomenon triggered by the digital revolution
+but also as a general cultural inclination which evolved over time due to the speciﬁc historical
+developments.
+
+Conclusion
+
+Application of evolutionary institutional theory allows the conclusion to be reached that the strong
+proprietary vision imposed universally through the recent international treaties, which do not take into
+account local developments, must necessarily clash with social norms which evolved as a response to
+particular historical experiences. The one-size-ﬁts-all formula will never be equally effective in
+diversiﬁed world. The law that is detached from social reality will fail to regulate human behaviour, no
+matter how severe it may become, as the mechanisms of civil disobedience (no matter whether justiﬁed in
+this situation or not) will lead to revolutionary or “martyr’s” behaviours as observed in the Pirate Bay case,
+where the accused managed to create the self-image of heroes ﬁghting for the just case and exhorting
+
+52
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+Bridging the Gaps Between Social and Legal Norms
+
+Katarzyna Gracz
+
+Internet users to follow the suit. However, being a highly political issue, copyright laws nowadays are not
+that easily changed.
+
+Both these inferences seem to lead the Polish Ministry for Administration and Digitization that did not
+ignore the strong anti-ACTA protests, but launched a round table gathering various stakeholders to
+negotiate a potential compromise with regard to copyright law that would satisfy conﬂicting interests,
+remaining, however, in accordance with the general framework of international law. The four rounds of
+negotiations shown that quite liberal Polish provisions on private use might be further modiﬁed in the
+“user-friendly” mode, given that a compromise on the question of the remuneration for the use of content
+material in the Internet will be found. The diversiﬁcation between the commercial and non-commercial
+use is also a potential option. The most immediate reform is supposed to remain within the current
+international regime, using, however, the possible exceptions to the maximum. Nevertheless in the last
+part of negotiations suggestion arose that Poland might even be willing to start a campaign on re-
+negotiating some international treaties so that they would reintroduce the lost balance of various interests
+protected by the copyright regime,34 as this is the only way to restore law’s ability to regulate human
+behaviour in the ﬁeld of distribution of artistic and intellectual creations.
+
+About the Author
+Katarzyna Gracz, PhD Candidate, Department of Law, European University Institute, Villa
+Schifanoia—Via Boccaccio 121, I-50133 Florence, Italy; e-mail: katarzyna.gracz@eui.eu. I am currently
+concluding my doctoral thesis Copyright in Decline? Systems Theory, Autopoiesis of Law and the Crisis
+of Copyright Law in the Digital Era under supervision of Prof. Giovanni Sartor
+
+Notes
+
+I would like to thank my supervisor Prof. Giovanni Sartor; Prof. Adam Czarnota, Prof. Onwubiko
+Agozino, my husband Cyprian Gracz, my colleagues: Anna Ciszek, Angela Daly, Dr Benjamin Farrand,
+Bruno Kamin´ski, Dr Adrian Ku¨nzler, Maxime Lambrecht, and the participants of my panel at The 2012
+Annual Meeting of the Law and Society Association in Honolulu, the Postgraduate Workshop at Riga
+Graduate School of Law and the Conference on the “Intellectual Property in Modern Europe—Tracing the
+Expansion of a Concept” in Leipzig for their fruitful comments and all the help they offered in the process
+of writing this paper. Dzie˛kuje˛ tez˙ Mamie, Tacie i całej Rodzinie za okazana˛ pomoc i wsparcie. All errors
+and conclusions remain mine.
+1. Requirement for anti-circumvention laws was globalised in 1996 with the creation of the WIPO Copyright Treaty.
+2. See for example, TRIPS Agreement, WIPO Treaties, etc.
+3. The expressions used by the opponents of the current international regime of intellectual property law to describe
+their actions include: “war,” “consumers’
+the users’ rights,” “electronic civil
+disobedience,” etc. See for example Rimmer, 2007); See the content of the web page http://thepiratebay.org/:
+The whole rhetoric of the Pirate Bay, beginning from the name and ofﬁcial logo of the service (the pirates’ ship) to
+the revolutionary statements and symbols (e.g. the pirate-bay ﬁst), indicate belligerent attitude towards the current
+copyright regime in general, and right holders in particular. Note especially the language used by the authors of
+the Pirate Bay in the responses to the legal threats sent by copyright holders at http://thepiratebay.org/legal
+(Accessed 4 April 2012) and the manifesto published on the day when the Pirate Bay’s administrators were
+sentenced to prison at http://thepiratebay.se/blog (note from 1 February 2012, Accessed 4 April 2012), stating
+“2012 is the year of the storm. (…) Experiencing raids, espionage and death threats, we’re still here. We’ve been
+through hell and back and it has made us tougher than ever. (…) In this year of the storm, the winners will build
+windmills and the losers will raise shelters. So ﬂex your muscles, fellow pirates, and give power to us all! Build
+
+revolution,” “ﬁght for
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+53
+
+Katarzyna Gracz
+
+Bridging the Gaps Between Social and Legal Norms
+
+more sites! More nets! More protocols! Scream louder than ever and take it to the next level!”; See also: Sebastian
+Lu¨tger from the Pirate Cinema referring to the statement by Mark Getty, the owner of Getty Images who in
+Lu¨tger’s words is “the largest intellectual proprietor in the world (…) who once said: intellectual property is the
+oil of the 21st century” in Lu¨tger’s opinion it is “a fantastic quote, you can condense it to one word, that is: ’war’.
+He declared war with that statement, saying we will ﬁght for (…) these completely illusionary rights to images,
+ideas, texts, inventions (…) just as we are ﬁghting now for access to natural resources. He declared war.” See Steal
+this Film 2, Directed by Jamie King, produced by The League of Noble Peers, released in 2007, available at:
+http://www.stealthisﬁlm.com/Part2/ (Accessed 8 May 2011, at 00:05:40 of the ﬁlm). There is an additional irony
+to Getty’s statement as he actually comes from a family of billionaires which originally made its money from oil.
+See http://en.wikipedia.org/wiki/Mark_Getty (Accessed 8 May 2011).The recent protests against ACTA in some
+countries, especially Poland were also full of anger and revolutionary rhetoric that was present both in “real” life
+as evidenced by the massive street protests (see the photos at http://wyborcza.pl/duzy_kadr/0,98792.html?
+
+tag¼acta) and in the virtual world that suffered numerous hackers’ attacks organised mostly by the Anonymous
+
+network (e.g. http://ireport.cnn.com/docs/DOC-734863).
+
+4. For a general review of sociological theories dealing with the concept of “social norms” (See: e.g, Horne, 2005,
+
+pp. 3–34).
+
+5. In introducing the model described, an important reservation in terms of the scope of this analysis is in order: it
+does not attempt to reconstruct the entire history of copyright law, but instead solely focuses on four important
+phases that could be regarded as landmarks in its development.
+
+6. In ancient Mesopotamia as well as among the ancient Jews, scribes belonged to the highest social elites and
+enjoyed great esteem. In ancient Egypt the respect towards them was so high that they were considered part of the
+royal court and were exempted from tax and military obligations.
+
+7. The level of complexity of the rituals involved in the process of copying the holy texts could be nowadays
+illustrated by the procedures followed by sofers—Jewish scribes, who transcribe by hand Torah scrolls and other
+religious writings, and are one of the last representatives of this profession in the current era. See for example Ray
+(1999) and Kolatch (1994); for a general bibliography on the topic see http://www.sofer.co.uk/html/sources.htm
+(accessed 24 January 2013).
+
+8. Although the analysis focuses on the history of the books’ market, the same pattern could be reconstructed with
+
+regard to other creative works.
+
+9. Petrarch in 1363 lamented that the copyists were so eager to make their proﬁt that they reproduced his epic
+“Africa” before ﬁnal correction, Bocaccio was similarly concerned to safeguard his texts until he deemed them
+ready for circulation.
+
+10. As already mentioned, the libraries with the advent of print decommissioned the obsolete services of scribes and
+illuminators and replaced them with printing machines, themselves at the same time turning from intermediaries
+coordinating the work of others into publishers.
+
+11. A Bill for the Encouragement of Learning, by Vesting the Copies of Printed Books in the Authors, or Purchasers
+
+of such Copies, during the Times therein Mentioned 1709, 8 Anne c.19, (CJ 16:369).
+
+12. Exemptions for the reproduction of a work in a limited number of copies for the purpose of private practice,
+study or use of the person making the copies appeared for the ﬁrst time in early 1900 versions of Dutch and
+German copyright statutes, and a provision concerning a private use in French law was introduced as late as in
+1957.
+
+13. BGH, 24 June 1955- Aktz.: I ZR 88/54 (Mikrokopien) in GRUR 11/1955.
+14. BGH, 29 May 1964—Aktz.: Ib ZR 4/63 in GRUR 02/1965.
+15. However, in the UK neither the right to the private copy nor the levy system exist.
+16. This part of the analysis is strongly inspired by the article written by Wu (2003).
+17. The Anti-Counterfeiting Trade Agreement (ACTA) is a multinational treaty for the purpose of establishing
+
+international standards for intellectual property rights enforcement.
+
+54
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+Bridging the Gaps Between Social and Legal Norms
+
+Katarzyna Gracz
+
+18. Obviously the sheer fact of using an Internet is not enough to explain these dependencies. The Internet users differ
+from the non-users in terms of age, wealth, educational background and this whole aggregate of variables explains
+why Internet users are more active in social and cultural life than non-users.
+
+19. Opinion poll conducted on 28–29 January 2012 on a representative sample of 1003 Poles by Millward Brown
+SMG/KRC. See http://centrumcyfrowe.pl/2012/protest-w-sprawie-acta-to-walka-mlodych-o-wolnosc-w-inter-
+necie-potwierdzaja-wyniki-badan/
+
+20. For the sake of this article the fact whether ACTA does or does not change much in the Polish legal system is not
+important. What counts, however, is the fact that this treaty is associated with the very strong proprietary vision of
+protecting intellectual property rights.
+
+21. The manuscript era is irrelevant for this comparison as there are no important differences between the various
+
+countries to be observed in this period.
+
+22. The most important difference between these two types of privileges was the fact that the ecclesiastical privileges
+covered only a particular edition, thus the publishers had to apply for the protection every time they wanted to
+reprint another edition of the same work.
+
+23. Due to the growing interest in religious studies, Greek and Hebrew were widely studied in Poland at that period.
+24. Czech was at that time a language widely spoken by the Polish elites.
+25. The ﬁrst copyright regulations in the Polish territory incorporated to Austria were enacted in 1811, in the parts
+
+partitioned by Russia in 1828 and in the Prussian part—in 1835.
+
+26. A very famous case of a publisher from Poznan´ who was not allowed (under the sanction of arrest) by the censors
+to sell the series of postcards and photographs by Artur Grottger titled Polonia and Lithuania proves that the
+slightest patriotic message in a Polish work was enough to ban the work from ofﬁcial circulation.
+
+27. The German Copyright Act 1837 determined the author to be the primordial subject of copyright. The § 1 of the
+Act held that the right to reproduction, distribution (including remuneration for the distributed works) belongs
+“solely to the author” (nur dem Autor derselben). Although similar wording was not included in the ﬁrst Austrian
+or Russian copyright acts—the entirety of regulations proved that the author was meant to be the pivot of the
+protection system (and not, e.g. a publisher as it used to be in the privilege system).
+
+28. In Polish: magnetofon szpulowy.
+29. Very rarely did the recordings originate from the illegal import.
+30. In Polish: famous “powielacze” that played an important role in the resistance movement against the communism.
+31. In Polish: “drugi obieg.”
+32. It was introduced by the Copyright Legal Act in 1994: Prawo autorskie z 1994 r.
+33. This vision is still strongly reinforced in Polish schools where literature, and art generally, are described primarily
+
+as the carriers of national identity used in the ﬁght for independence.
+
+34. All the reports from the proceedings of the round table on the reform of intellectual property law in Poland are
+
+available at: http://warsztaty.mac.gov.pl/prawo_autorskie/doku.php?id¼warsztat_2520prawo_2520autorskie.
+
+References
+
+A Bill for the Encouragement of Learning, by Vesting the Copies of Printed Books in the Authors, or Purchasers of
+
+such Copies, during the Times therein Mentioned 1709, 8 Anne c.19., (CJ 16:369).
+
+Amstrad Consumer Electronics plc v The British Phonograph Industry Ltd (1986) FSR 159 (CA) (Grundig Reporter
+case) BGH, 24 June 1955- Aktz.: I ZR 88/54 (Mikrokopien) in GRUR 11/1955. (Personalausweise case) BGH,
+29 May 1964–Aktz.: Ib ZR 4/63 in GRUR 02/1965.
+
+Benis, A. (1887) Ochrona praw autorskich w dawnej Polsce. Pamie˛tnik Słuchaczy Uniwersytetu Jagiellon´ skiego
+Wydany Staraniem I Nakładem Młodziez˙ y Akademickiej Na Urocystos´ c´ Otwarcia “Collegii Novi”. Drukarnia
+Uniwersytetu Jagiellonskiego pod zarzadem A.M. Kosterkiewicza, Krako´w.
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+55
+
+Katarzyna Gracz
+
+Bridging the Gaps Between Social and Legal Norms
+
+Bicchieri, C. H., Jeffry, R. and Skyrms, B. (eds) (1997) The Dynamics of Norms. Cambridge University Press, New
+
+York.
+
+Booton, D. E. (2010a) Manuscripts, Market and the Transition to Print in Late Medieval Brittany. Ashgate, Farnham,
+
+Surrey, England, Burlington, VT.
+
+Booton, D. E. (2010b) ‘The Librarius and Libraire as Witnesses to the Evolving Book Trade in Ducal Brittany’, Pecia.
+
+Le livre et l’e´ crit, 13, pp. 251–263.
+
+Bain, R. (1937) ‘Technology and State Government’, American Sociological Association. 2(6). pp. 860–874.
+Czapin´ski, J. and Panek, T. (eds) (2009) Diagnoza Społeczna 2009. Available at <http://www.diagnoza.com>
+
+[Accessed April 2013].
+
+[Accessed April 2013].
+
+Czapin´ski, J. and Panek, T. (eds) (2011) Diagnoza Społeczna 2011. Available at <http://www.diagnoza.com>
+Dunin-Wa˛sowicz, P. Inny Obieg. Available at <http://www.zinelibrary.pl/index.php?option¼com_content&view¼
+article&id¼15%3Ainny-obieg&catid¼11%3Ao-zinach&Itemid¼3&fe0c5785f673d3794b20f9d4b6f1b88a¼
+e89b83c989def4629733fbccf44dd8b3> [Accessed January 2013].
+
+Durkheim, E. (1915) The Elementary Forms of the Religious Life. Free Press, New York.
+Durkheim, E. (1951) Suicide. Free Press, New York.
+Durkheim, E. ([1903] 1953) ‘The Determination of Moral Facts’, in Durkheim E. (ed.) Sociology and Philosophy.
+
+Cohen and West, London, pp. 36–43.
+
+Ferenc-Szydełko, E. (2000) Prawo Autorskie na ziemiach polskich do 1926 r. Zeszyty Naukowe Uniwersytetu
+
+Jagiellon´skiego, Prace z Wynalazczos´ci i. Ochrony Własnos´ci Intelektalnej, Zeszyt 75, Krako´w.
+
+Filiciak, M., Hofmokl, J. and Tarkowski, A. (2011) Obiegi Kultury. Społeczna cyrkulacja tres´ ci report on the basis of
+the opinion poll conducted between 20 September to 2 October 2011 based on Computer Assisted Web
+Interviewing method regarding a representative sample of 1283 Polish Internet users.
+
+Gentz, G. (1952) ‘U¨ berspielungsfreiheit zum perso¨nlichen Gebrauch?’, GRUR 11/1952.
+Go´rski, A. (1891) W kwestyi własnos´ ci literackiej. Odb. z “Biblioteki Warszawskiej”, Warszawa.
+Guibault, L., Hugenholtz, P. B. and van Geffen, S. (2003) The Future of Levies in a Digital Environment. Final Report.
+
+Available at <http://www.ivir.nl/publications/other/DRM&levies-report.pdf> [Accessed January 2013].
+
+Homans, G. C. (1961) Social Behavior: Its Elementary Forms. Harcourt, Brace, New York, p. 12.
+Horne, C. H. (2005) ‘Sociological Perspectives on the Emergence of Social Norms’, in Hechter M. and Opp K-.D.
+
+(eds) Social Norms. Russell Sage Foundation, New York, pp. 3–34.
+
+Johnson, P. (1987) A History of the Jews. Harper & Row, New York.
+Kolatch, A. J. (1994) This is the Torah. Jonathan David Publishers, Inc., New York.
+Luhmann, N. (2008) Law as a Social System. Oxford University Press, Oxford.
+MacQueen, H., Waelde, C. H. and Laurie, G. (2007) Contemporary Intellectual Property: Law and Policy. Oxford
+
+University Press, Oxford.
+
+Mann, W. (2010) Rock Mann czyli jak nie zostałem saksofonista˛. Wydawnictwo Znak, Krako´w.
+McLain, C. D. (2005) Writing on the Tablet of the Heart: Origins of Scripture and Literature. Oxford University Press,
+
+New York.
+
+Millward Brown SMG/KRC, Opinion poll conducted on 28–29 January 2012 on a representative sample of 1003 Poles
+
+on their attitude towards intellectual property law in general and to ACTA in particular.
+
+Parsons, T. (1952) The Social System. Free Press, New York.
+Patterson, L. R. (1968) Copyright in Historical Perspective. Vanderbilt University Press, Nashville, TN.
+Pczak, M. (1988) ‘Kilka uwag o trzech obiegach’, Wie˛z´ , 2, (352). pp. 25–36.
+Ray, E. (1999) Sofer: The Story of a Torah Scroll. Torah Aura Productions, Los Angeles, CA.
+Reinbothe, J. (2003) ‘Private Copying, Levies and DRMs against the Background of the EU Copyright Frameworks’.
+Paper presented at the Conference on The Compatibility of DRM and Levies, organised by Rightscom Ltd.,
+
+56
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+Bridging the Gaps Between Social and Legal Norms
+
+Katarzyna Gracz
+
+London, 8 September. Available at <http://ec.europa.eu/internal_market/copyright/documents/2003-speech-
+reinbothe_en.htm> [Accessed January 2013].
+
+Rice, M. (2001) Who’s Who in Ancient Egypt. Routledge, London.
+Rimmer, M. (2007) Digital Copyright and the Consumer Revolution: Hands Off My iPod. Edward Elgar Publishing,
+
+Cheltenham.
+
+Rose, M. (1993) Authors and Owners: The Invention of Copyright. Harvard University Press, Cambridge, MA.
+Steinmo, S. (2010) The Evolution of Modern States: Sweden, Japan, and the United States. Cambridge University
+
+Press, New York.
+
+Teubne, G. (ed.) (1988) Autopoietic Law: A New Approach to Law and Society. W. de Gruyter, Berlin.
+Watson, R. (2003) Illuminated Manuscripts and Their Makers. V & A Publications, London.
+Wrong, D. (1994) The Problem of Order: What Unites and Divides a Society. Free Press, New York.
+Wu, T. (2003) ‘When Code Is Not Law’. Virginia Law Review, 89(4). pp. 103–170.
+http://centrumcyfrowe.pl
+http://en.wikipedia.org
+http://www.sofer.co.uk/html/sources.htm
+http://www.stealthisﬁlm.com
+http://thepiratebay.org/
+http://thepiratebay.se/blog
+
+http://warsztaty.mac.gov.pl/prawo_autorskie/doku.php?id¼warsztat_2520prawo_2520autorskie
+
+© 2013 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2013) Vol. 16, no. 1–2
+
+57
+
+

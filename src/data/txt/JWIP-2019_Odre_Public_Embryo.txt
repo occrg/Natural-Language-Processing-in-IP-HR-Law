@@ -1,0 +1,1389 @@
+DOI: 10.1111/jwip.12109
+
+ORIGINAL ARTICLE
+
+The limits of “ordre public” and “morality” for
+the patentability of human embryonic stem
+cell inventions
+
+Viola Prifti
+
+Rights & Science, Jean Monnet Centre of
+Excellence, University of Perugia, Perugia,
+Italy
+
+Correspondence
+Viola Prifti, Rights & Science, Jean Monnet
+Centre of Excellence, University of Perugia,
+Piazzale Gambuli, Building A-7th floor,
+Perugia, Italy.
+Email: viola.prifti@gmail.com
+
+Inventions involving human embryonic stem cells (hESC)
+have unprecedented potential to improve human life
+through discovery of new drugs and treatment of
+incurable neurodegenerative diseases, but at the same
+time, the use of human embryos in research gives rise to
+contrasting ethical, moral and religious views on the
+patentability of such inventions. Whether and to what
+extent patent offices should take these views into account
+is an open question. The “ordre public” and “morality”
+clause in patent law may help us find an answer, but
+neither the legislator nor courts have clarified the meaning
+of these vague terms. Judicial
+interpretation has some-
+times increased their ambiguity and raised legal uncer-
+tainty for the patentability of hESC inventions. This
+situation may be desirable in some cases, but not in
+others where the principles of the legal system as a whole
+come into play. This paper will shed light on the meaning
+of “ordre public” and “morality” for hESC inventions by
+examining patent law in the broader legal framework and
+emphasizing the interconnectedness of national
+legal
+systems in a global market as well as the common interest
+in healthcare innovations.
+
+K E Y W O R D S
+
+hESC inventions, ordre public and morality, patent law
+
+© 2018 The Authors. The Journal of World Intellectual Property © 2018 John Wiley & Sons Ltd
+
+2
+
+wileyonlinelibrary.com/journal/jwip 
+
+ 
+
+J  World  Intellect  Prop.  2019;22:2–15.
+
+P
+
+1
+
+W
+c
+s
+f
+v
+e
+t
+t
+v
+c
+i
+T
+t
+(
+l
+o
+d
+2
+
+T
+c
+t
+d
+e
+e
+A
+(
+
+T
+s
+i
+p
+T
+t
+T
+o
+m
+r
+t
+
+PRIFTI
+
+1 |
+
+INTRODUCTION
+
+| 33
+
+We are living in an era where Frankenstein's inventions have become a reality. Dolly the sheep, human-pig
+chimeras (Wu et al., 2017), and human genome editing for therapeutic purposes are all inventions driven by
+scientific reasons, but they unavoidably spur a debate on the ethics, morality, public acceptance and philosophical
+foundations of such inventions. When these inventions are patented, the discussion on different interests and
+values underlying “Frankenstein's inventions” transposes into patent law. Among these inventions, human
+embryonic stem cell (hESC) inventions may be considered the most controversial because they have the potential
+to introduce inheritable changes into the human genome. This may occur, for example, when the CRISPR-Cas9
+technique is applied to modify the DNA of human embryos in order to cure genetic diseases. The main clash of
+values and interests in this case is between those that seek to improve human health and those that fear the
+creation of designer babies or humans with superlative skills as depicted in the movie Gattaca.1 Although these
+inventions and related patents have not yet materialized, it is interesting to note that the United States Patent and
+Trademark Office (USPTO) has awarded a patent on “gamete donor selection,” which enables prospective parents
+to handpick a sperm or egg donor with whom they would be likely to produce a child born with desirable traits
+(FDA News Release, 2017) and the Japan Patent Office now allows patents on CRISPR-Cas9 applied to hESC as
+long as the invention does not aim at creating a human being. These patents encourage research with hESC in
+order to improve human life through discovery of new drugs, treatment of incurable neurodegenerative diseases,
+drug toxicity arrays, organ transplantation and through an understanding of the origin of health problems (Atala,
+2009), but they may also represent a step toward human genome modification.2
+
+The current debate on the patentability of hESC inventions, however, focusses on the destruction of the embryo.3
+The generation of human embryos implies the destruction of the blastocyst, a structure in early development that
+contains a cluster of cells from which the embryo arises (Expert Group, 2016, p.133). Some deem the destruction of
+the blastocyst equivalent to the destruction of an unborn child, while others sustain that the blastocyst will never
+develop into a child unless implanted in the uterus wall (EuroStemCell, 2018). This ethical dilemma on the status of the
+embryo4 and related social concerns enter into patent law through the public policy clause. This clause, which
+excludes some types of inventions from patentability, is found in art. 27. 2 of the Agreement on Trade-Related
+Aspects of Intellectual Property (TRIPS Agreement). The provision gives an option to World Trade Organization
+(WTO) countries to exempt subject matter from patentability for reasons of “ordre public” and “morality”:
+
+Members may exclude from patentability inventions, the prevention within their territory of the commercial
+exploitation of which is necessary to protect ordre public or morality, including to protect human, animal or
+plant life or health or to avoid serious prejudice to the environment, provided that such exclusion is not made
+merely because the exploitation is prohibited by their law.
+
+Art. 27.2 of the TRIPS Agreement article recognizes the differences between different jurisdictions.5 Prior to the
+TRIPS agreement, the EU, Japan, New Zealand and other WTO members had a public policy clause in their patent
+systems, contrary to Australia (Monger & Clark, 2013) Canada6 or the United States (Bagley, 2003, pp. 469–547). The
+implementation of the TRIPS Agreement did not affect their provisions on “ordre public” and “morality” or public
+policy. In any case, art. 27.2 gives poor guidance on the type of inventions that should be excluded from patentability.
+The vagueness of its terms can be clarified by courts and national legislation. But the interpretation of these legal
+terms in different jurisdictions may result in different types of permissible hESC inventions under national patent laws.
+This situation creates legal uncertainty, it may hinder the competitivity of research institutions and business firms that
+operate internationally,7 and thus run counter to the objectives of the TRIPS Agreement.8 In order to shed light on the
+matter, this paper will clarify the limits of “ordre public” and “morality” for hESC inventions. It will first explain the
+rationale of these limits and their significance for hESC inventions. Then it will try to elucidate the meaning of the
+terms through an analysis of courts’ decisions and suggest some criteria for assessing “ordre public” and “morality” for
+
+5.
+
+4
+2 |
+
+PRIFTI
+
+hESC inventions. The legal considerations will build upon elaborations on the concept of ethics as a set of values that
+guides judicial and legislative decisions.
+
+2 | THE RATIONALE OF THE “ORDRE PUBLIC” AND “MORALITY” CLAUSE
+IN PATENT LAW
+
+The public policy clause in patent law restricts the scope of patent rights ex-ante. This means that patents cannot be
+granted for the subject matter that falls under the patent clause. This type of limitation to patent rights is known as
+“exclusion to patent rights” (Christie, 2011, p. 121). Exclusions to patent rights are not new. They have their origin in
+national laws. European countries excluded some type of inventions from patentability for reasons of public health,
+morals, or safety, or as being contrary to the general interest of the state since the nineteenth century.9 Other
+countries such as Japan and China refer to inventions liable to contravene public order, morality or public health (art.
+32 of the Japan Patent Act) and to creations that violate the law or social ethics, or harm public interests (art. 5 of the
+Patent Law of the People's Republic of China), respectively. The United States have also considered morally
+controversial inventions under the requirements of utility and subject matter as delineated in section 101 of the
+Patent Act (Bagley, 2007, pp. 317–320; Bently et al., 2010, p. 53). Justice Story is repeatedly quoted for explaining
+that a “useful” invention is one “which may be applied to a beneficial use in society, in contradistinction to an invention
+injurious to the morals, health, or good order of society, or frivolous or insignificant. (emphasis added)” (Notes on the
+Patent Laws). Although the Supreme Court later declared that the power to impose limits to patentability of subject
+matter belongs only to Congress,10 the USPTO clarified that “inventions directed to human/non-human chimera
+could, under certain circumstances, not be patentable because, among other things, they would fail to meet the public
+policy and morality aspects of the utility requirement” (Bagley, 2007, p. 321).
+
+A WIPO study identifies six public policy justifications for exclusions from patentability (Bently et al., 2010, pp.
+44–45) and it notes that these justifications are subject to change.11 For the purpose of this paper, two rationales are
+relevant. Those that aim at excluding undesirable subject matter from patent protection and those that recognize
+countervailing policy considerations. The first type of rationale can be understood in relation to the role of patent law
+in signaling the kind of desirable activity under the patent system (Schneider, 2009, pp. 129–157). In this respect, the
+Board of Appeal of the EPO has argued that the ordre public and morality clause is a question of principle to safeguard
+the public trust in the patent system as a whole (Stauder, 2016, pp. 200–201). This rationale can be further explained
+based on economic reasoning. Neoclassical economic theory suggests that patents act as incentives to invest in R&D.
+The absence of patents in a technological field will discourage research in that particular field. Since patents guide “the
+investment of capital in the use and development of pre-existing developments” (Hadley, 1986, p. 134), they can be a
+means to direct the flow of capital toward improvements of current research. In absence of patents, the capital may be
+directed toward more profitable research. Patents remain a business tool for companies to capture their investment
+although some argue that other types of IP rights or regulatory mechanisms may play a more important role that
+patents in personalized medicine (Burk, 2015, pp. 232-255; Price II, 2016, pp.1401–1452). In this way, patent grants
+signal desirable types of inventions and indirectly influence the inventive activity.
+
+The exclusion based on countervailing policy considerations takes account of values and rights that deserve
+protection. In terms of the issue at hand, it may be envisaged that patents on hESC may be counterbalanced against
+the right to health. For example, patents may increase prices for hESC-based inventions and impair the right to receive
+healthcare for patients who cannot afford high prices. In this case, competition law can be a more appropriate
+mechanism to address the monopoly effects of patents. Indeed, several authors propose to leave the public policy
+clause outside the patent realm (Bagley, 2007, pp. 317–320; Strauss, 2002, pp. 45–62) since patent examiners are not
+well-equipped to decide on matters beyond patent law (Treichel, 2009, p. 450). Others argue that the patent system is
+the only legal arena where technologies are investigated on a case-by-case basis and the EPO may be particularly apt
+to make decisions on the matter (Sterckx & Cobain, 2012, p. 300). Moreover, the interpretation of art. 27.2 is quite
+
+P
+
+c
+i
+b
+S
+p
+
+w
+r
+w
+r
+p
+r
+b
+r
+d
+p
+D
+i
+p
+“
+
+3
+L
+
+A
+(
+i
+c
+d
+d
+t
+g
+E
+s
+t
+o
+t
+t
+t
+t
+p
+
+p
+i
+p
+
+TI
+
+t
+
+e
+s
+n
+,
+r
+t.
+e
+y
+e
+g
+n
+e
+t
+a
+c
+
+.
+e
+e
+w
+e
+d
+d
+.
+e
+a
+e
+t
+t
+s
+
+e
+t
+e
+e
+y
+t
+s
+t
+e
+
+PRIFTI
+
+| 35
+
+complex. For example, the exclusion concerns the commercial exploitation of the patent, not the patent per se.12 The
+irrelevance of national laws in defining “ordre public” and “morality” may, in particular, seem difficult to conceive
+because if a country prohibits the commercial exploitation of an invention, there may be no interest to grant a patent.
+Similarly, if a country allows the commercial exploitation of the invention, there may be no interest to disallow the
+patent.
+
+Since the TRIPS Agreement was negotiated with the aim to foster trade, the author of this paper believes that the
+wording “exclusion is not made merely because the exploitation is prohibited by their law” can be better understood in
+relation to the international system. This may be the case of a company that has protected the invention in countries
+where patentability is allowed but it also intends to obtain a patent in a country that prohibits research or has no
+regulations on the patented invention in order to have market power when laws change in the future. Even if the
+provision is applied in the national context, it can have a significance when the legislator plans to change the
+regulation. Legislative procedures may be long and complicated compared to patent processes. In some cases, it may
+be quicker and easier to grant a patent while waiting for the regulatory change. Indirectly, patent offices play a
+regulatory role13 but their position cannot depart from governmental objectives. Patent grants are often political
+decisions that indicate the types of inventions that can be deemed beneficial for the public. This may occur when a
+patent is granted on an invention for which no regulation is in place yet. Indeed, this is the case of hESC inventions.
+Different countries have different regulations for hESC research (EuroStemCell, 2017) but new scientific discoveries
+in the field create legal loopholes. Until the legislative body takes a decision on the ethical aspects of patentability,
+patent offices will bear the burden. This is especially the case of those countries that have an “ordre public” and
+“morality” clause into their patent laws.
+
+3 | THE MEANING OF “ORDRE PUBLIC” AND “MORALITY” IN PATENT
+LAW FOR hESC INVENTIONS
+
+Although exclusions aim at providing clear boundaries for patentability, they are a “constant source of contention”
+(Bently et al., 2010, p. 67). The vagueness of the terms “ordre public” and “morality” is a significant example of
+interpretative difficulty. Their meaning can be clarified through definitions offered by dictionaries, literature and court
+cases. The terms “ordre public” and “morality” have their origin in French law (Gervais, 2008, pp. 334–350). While a
+definition of “morality” as “a set of social standards for good behavior” (Morality, n.d.) or “principles concerning the
+distinction between right and wrong or good and bad behavior” (Morality, n.d.) offered by dictionaries may correspond
+to the French concept of bonnes mœurs14 understood as “the degree of conformity to moral principles (especially
+good)” (Gervais, 2008, p. 345; UNCTAD-ICTSD, 2005, p. 375) it is not possible to find a definition of “ordre public” in
+English. In French law, the term is an evolutionary concept that expresses concerns about “matters threatening the
+social structures of civil society as such” (Gervais, 2008, pp. 343–344). The EPO guidelines explain that the purpose of
+this public policy clause is to “deny protection to inventions likely to induce riot or public disorder, or to lead to criminal
+or other generally offensive behaviour” (EPO Guidelines, 2018, Part G- Chapter II–4.1). According to the guidelines,
+the provision will be invoked in rare and extreme cases, when the public would “regard the invention as so abhorrent
+that the grant of patent rights would be inconceivable.” On the other hand, the concept of morality has been related to
+the belief that some behavior is right and acceptable whereas other behavior is wrong, this belief being founded on the
+totality of the accepted norms which are deeply rooted in a particular culture.15 Obviously, this explanation offers
+poor guidance for hESC inventions, which need a case-by-case evaluation.
+
+It is worth focusing our attention on EPO case law since the EPO boards of appeal have decided 26 cases on “ordre
+public” and “morality.” Ten of them concern hESC inventions.16 While it is not possible to infer a general rule on the
+interpretation of the public policy clause because the EPO judges have elaborated different tests for assessing “ordre
+public” and “morality” depending on the subject matter,17 we can refer to art. 53 (a) of the Convention on the Grant of
+
+6
+2 |
+
+PRIFTI
+
+European Patents known as the European Patent Convention (EPC)18 as the legislative basis for EPO decisions. This
+provision establishes that European patents shall not be granted in respect of:
+
+inventions the commercial exploitation of which would be contrary to ‘ordre public’ or morality; such
+exploitation shall not be deemed to be so contrary merely because it is prohibited by law or regulation in
+some or all of the Contracting States.
+
+R. 28 of the Implementing Regulations to the EPC further explains that under art. 53 (a), patents should not be
+
+granted on the following inventions:
+
+1. processes for cloning human beings;
+2. processes for modifying the germline genetic identity of human beings;
+3. uses of human embryos for industrial or commercial purposes;
+
+Since R. 28 is a special provision compared to the general provision of art. 53 (a), this means that patentability
+decisions on hESC inventions should first be examined under this rule. If a decision cannot be reached, the provisions
+on “ordre public” and “morality” should be assessed. The application of R. 28, however, requires an interpretation of
+terms such as “cloning,” “human being,” “germline genetic identity” “use of human embryos” and “industrial or
+commercial purposes.” Courts have not yet exhaustively clarified these terms, but there is common understanding
+that the terms “cloning process” refer to the process of creating a cell or organism with the same nuclear genome as
+another cell or organism (EPO Guidelines, 2018, Part G, Chapter II, 5.3). It should be noted here that patent law is not
+concerned with the morality of the invention, but with the morality of the commercial exploitation of the invention.
+This means that if a human being were cloned, patent law would deem its “commercial exploitation” as immoral, not
+the cloned human being. There are two different types of cloning, reproductive and therapeutic cloning. The first aims
+at making an entire cloned human, while the second clones human cells for transplants and other medical uses. Two
+common methods of therapeutic cloning are somatic cell nuclear transfer (SCNT) and pluripotent stem cell induction.
+Reproductive cloning and cells obtained by the SCNT method are not currently patentable in Europe19 but induced
+pluripotent stem cells (iPSC) can be patented. The interpretation of this provision is yet uncertain because there is no
+legal definition of the status of “human being” and it is not clear whether the human embryo can be deemed a human
+being (Vo v France).
+
+The terms “human being” are also relevant for interpreting the ban on “processes for modifying the germline
+genetic identity of human beings.” This provision refers to processes that introduce heritable changes into the human
+genome. For example, the CRISPR-Cas9 technique could potentially be used to correct DNA sequences responsible
+for causing genetic diseases. The genetic modifications introduced by CRISPR-Cas9 are transmissible over
+generations. This is considered to be against “ordre public” and “morality.” Likewise, “uses of human embryos for
+industrial or commercial purposes” are deemed immoral under R. 28. Although the meaning of these terms may appear
+quite straightforward, they have been subject to interpretation. For instance, the Expert Group on patent law (Expert
+Group, p. 146) elaborates on three meanings of the term “use”: strict, middle, and widest. The “strict meaning” refers to
+the direct use of human embryos in the inventive process, the “middle meaning” involves an invention obtained by
+destroying the human embryo, whereas the “widest meaning” implies a “process or substance which depends on a
+prior, ‘upstream’ non-destructive use of a human embryo.” The majority of the members of the Expert Group conclude
+that only those inventions that require the direct use of human embryos and of processes that destroy human
+embryos are excluded from patentability, whereas two dissenting members argue that any use of human embryos
+should be excluded from patentability. With respect to the purpose of embryo use, the Court of Justice of the
+European Union (CJEU)20 has clarified that any use of the human embryo is excluded from patentability unless the use
+of the invention is “for therapeutic and diagnostic purposes which are applied to the human embryo and are useful to
+it” (Oliver Brüstle v Greenpeace eV). This definition may add to legal uncertainty since it does not clarify the meaning
+
+P
+
+o
+o
+
+n
+f
+t
+I
+
+d
+e
+“
+
+s
+W
+a
+s
+t
+d
+a
+p
+
+W
+w
+t
+b
+s
+p
+c
+n
+l
+3
+
+p
+(
+
+TI
+
+s
+
+e
+
+y
+s
+f
+r
+g
+s
+t
+.
+t
+s
+o
+.
+d
+o
+n
+
+e
+n
+e
+r
+r
+r
+t
+o
+y
+a
+e
+n
+s
+e
+e
+o
+g
+
+PRIFTI
+
+| 37
+
+of “useful.” It would be important to explain whether the utility of the invention contributes to the embryo per se and/
+or to the development of the embryo in order to understand the type of inventions that can be deemed patentable.
+There is also no agreement on the scientific understanding of “embryo.” In this case, lack of clarity does not
+necessarily have negative effects. The provisions on patent law are closely linked to scientific developments. Since the
+field of hESC inventions is in rapid progress, it may be desirable to avoid a static definition of “human embryo.” Indeed,
+the CJEU changed the definition of human embryo from a wide concept in the Brüstle case to a narrower one in the
+International Stem Cell Corporation case. The understanding of “human embryo” in Brüstle was coined as:
+
+any human ovum after fertilisation, any non-fertilised human ovum into which the cell nucleus from a
+mature human cell has been transplanted and any non-fertilised human ovum whose division and further
+development have been stimulated by parthenogenesis constitute a ‘human embryo’ within the meaning of
+Article 6(2)(c) of the Directive;
+
+In the International Stem Cell Corporation case, the CJEU judges excluded a non-fertilized human ovum whose
+division and further development have been stimulated by parthenogenesis from the concept of human embryo. The
+exclusion was justified by the fact that, in light of the current scientific knowledge, a human parthenote as such is not
+“capable of commencing the process of development which leads to a human being.” The reference to “current
+scientific understanding” is important because it highlights how the law is influenced by scientific developments.
+When science is in continuous evolution, legal interpretation navigates uncertain waters. In both cases, the CJEU
+argued that it is upon national courts to decide “whether a stem cell obtained from a human embryo at the blastocyst
+stage constitutes a ‘human embryo’ within the meaning of Article 6(2)(c) of the Directive.” It appears that the judges
+took account of the different understandings of “human embryo” under national European laws. In addition to
+defining the concept of “human embryo,” the CJEU judges reiterated the reasoning of EPO decisions on morally
+acceptable hESC inventions. In Europe, only hESC inventions that are obtained by not destroying the blastocyst are
+patentable.
+
+The rationale of this exclusion is strongly linked to the supremacy of human dignity as clarified in Use of embryos/
+WARF. The Wisconsin Alumni Research Foundation (WARF) claimed products “prepared exclusively by a method
+which necessarily involved the destruction of the human embryos from which the said products are derived, even if
+the said method is not part of the claims.” The EPO explained that the intended purpose of the rules on
+biotechnological inventions is to preserve human dignity (Sterckx & Cobain, 2012, p. 286) and the rationale of R. 28, in
+specific, is to prohibit misuse or commodification of the embryo. The EPO ruled that the invention violates the
+prohibition of Rule 28(c) since the destruction of the human embryo is an integral and essential part of the industrial or
+commercial exploitation of the claimed invention. Although the Enlarged Boards of Appeal in the WARF case offered
+no definition of “human dignity,”21 it confirmed the respect for human dignity as one of the primary objectives of EU
+law. The safeguard of human dignity was previously explained by the Court of Justice of the European Union in case
+377/98 (Kingdom of the Netherlands). The Advocate General observed the following:
+
+The right to human dignity is recognized by nearly all Contracting States and also the ECJ as a fundamental
+right. The human body is the vehicle for human dignity. Making living human matter an instrument is not
+acceptable from the point of view of human dignity. The right to human dignity is perhaps the most
+fundamental right of all, and is now expressed in Article 1 of the Charter of Fundamental Rights of the
+European Union, which states that human dignity is inviolable and must be respected and protected
+(emphasis added).
+
+Some authors argue that the wording in the “Use of embryos/WARF” decision, “implies that if a product is
+produced by a production method which initially involves the destruction of hESC then if further production
+(incubation of the cell culture) does not require further destruction of hESCs after the patent application filing
+
+8
+2 |
+
+PRIFTI
+
+date, patentability would not be precluded,” and therefore, human dignity would not be violated. At present, the
+EPO does not deem immoral patents on hESC filed after 5 June 2003. This is the date when a protocol to derive
+human parthenogenetic embryonic stem (hpES) cells from activated oocytes (parthenotes) was disclosed in the
+PCT application WO 03/046141 (Advanced Cell Technology). After this date, patent filings on “inventions relating
+to human pluripotent stem cells including hES cells, to their uses and to products derived from them are patentable
+(subject to fulfilling all patentability criteria) on the basis that these may be produced and put into practice using a
+method which does not involve destroying a human embryo” (Expert Group, p. 145).22 Based on statutory
+prohibitions and legal decisions, the following table gives an overview of the current state of patentability in
+Europe (Table 1).23
+
+Nevertheless, patentability of hESC research is far from certain for two main reasons. The first reason
+pertains to the continuous evolution of science, while the second to judicial interpretation which is influenced
+by several actors. In Europe, for example, third parties24 have often advanced many arguments against patents
+on hESCs concerning mainly the monopoly effects of patent rights and informed consent of genetic material
+extracted from the human body. These arguments have not been substantiated (Rennie-Smith, 2018/2019) and
+have rarely been considered by the Boards of Appeal. The EPO has clarified that it has not been vested with the
+“task of taking into account the economic effects of the grant of patents in specific areas of technology and of
+restricting the field of patentable subject-matter accordingly.”25 Similarly,
+the EPO has declared its
+incompetence to decide on informed consent since the EPC does not provide for such provisions (T-272/95
+If third parties’ arguments were sufficiently substantiated, they may further limit the
+and T-666/05).
+patentability of hESC inventions. This, however, will depend on the type of invention. One reason that may
+justify this interpretation is the necessity to interpret exclusions from patentability in order to give effect to
+their purpose (Treatment by surgery/MEDI-PHYSICS, Para. 3.1). A narrow or a broad interpretation can be
+adopted depending on the interests at stake. For example, if the purpose of the exclusion is deemed to be the
+safeguard of human dignity, no inventions that destroy human embryos should be allowed. If the purpose of the
+exclusion is the protection of human life (and the embryo is not considered to be “human life”), inventions that
+imply the destruction of human embryos could be patentable.
+
+This suggestion on the interpretation of “ordre public” and “morality” may add to legal uncertainty. In the area of
+patent law, “it is especially important that the law remain stable and clear” (Bently et al., 2010, p. 61). Indeed, the
+vagueness of law creates incentives to overcome legal hurdles through skillful drafting. This situation raises
+transaction costs and as mentioned in the beginning of this paper, it may damage the competitiveness of firms in the
+market. Different interpretations of the public policy clause may also facilitate the lack of public's trust in the patent
+system. Therefore, it is imperative to explore options that offer legal certainty.
+
+TABLE 1 Patentability of hESC inventions in Europe
+Non-patentable inventions
+
+Patentable inventions
+
+iPSC
+
+hESCs obtained through a non-destructive process
+
+Use of hESC for therapeutic or diagnostic purposes which is
+applied to the human embryo and is useful to it (emphasis
+added)
+
+Destruction of hESCs
+
+Human cloning
+
+hESC for modifying human germline
+
+hESC to create chimeras
+
+Uses of human embryos for commercial or
+
+industrial purposes, including scientific
+research
+
+Human ovum after fertilization
+
+hESC obtained throught SCNT
+
+P
+
+4
+“
+
+A
+s
+p
+e
+o
+j
+m
+t
+r
+w
+o
+e
+
+a
+l
+d
+b
+C
+i
+a
+l
+i
+a
+U
+s
+o
+R
+1
+C
+r
+m
+t
+i
+g
+(
+u
+p
+
+w
+P
+D
+c
+t
+p
+
+TI
+
+PRIFTI
+
+| 39
+
+e
+e
+e
+g
+e
+a
+y
+n
+
+n
+d
+s
+l
+d
+e
+f
+s
+5
+e
+y
+o
+e
+e
+e
+t
+
+f
+e
+s
+e
+t
+
+4 | EXPLORING OPTIONS FOR ASSESSING “ORDRE PUBLIC” AND
+“MORALITY” IN PATENT LAW FOR hESC INVENTIONS
+
+A suggestion to offer legal certainty for hESC inventions may appear more as a brave proposal rather than a pragmatic
+solution. This is because the concepts of “ordre public” and “morality” are subject to change over time and it is not
+possible to have a common understanding of the terms even at a particular point in time. Patents on life forms are an
+example of significant divergence with respect to the morality criterion. While most of the European society strongly
+opposes patents on life forms and the modification of human germline,26 there have been no similar reactions in other
+jurisdictions. The reasons for these views may be founded on various religious and philosophical concepts,27 but it
+may be worth drawing our attention to the dichotomy between those that contrast patents on any life form based on
+the belief that life is sacred and those that accept the patentability of biological material driven by the intention to
+realize social goals. Depending on the interests at stake, the last category may be composed of a plurality of actors
+with different views on the type of subject matter to be excluded from patentability. Some may deem hESC inventions
+obtained through the destruction of human embryos non-patentable, others may not see the destruction of human
+embryos as a limit to patentability and may further opt to extend patentability to human genome modification.
+
+The idea of value pluralism considers all these views valid and incommensurable (Isaiah Berlin, 2016). Indeed, they
+are all important given that societal wellbeing is determined by the welfare of its individuals. However, when
+legislative and judicial bodies are invited to decide on the matter, they need to compare different values. A common
+denominator for hESC inventions may be found in the objective to improve healthcare. Given that ethics permeates all
+body of law (Moufang. 1994, pp. 487–515) and it is present in the concepts of “ordre public” and “morality” (Sterckx &
+Cobain, 2012, p. 297), it appears reasonable to propose that ethics as a “a set of concepts and principles that guide us
+in determining what behavior helps or harms sentient creatures” (Paul & Elder, 2013) serves as a yardstick for
+assessing hESC inventions against “ordre public” and “morality.” Ethics is a means to distinguish between bad and good
+laws and helps determine morality, les bonnes mœurs, what is especially good. Since the primary aim of hESC
+inventions is to improve healthcare, in terms of the issue at hand, ethics can be found in human rights and in universally
+accepted principles. The human right to health, often coined also as the right to receive healthcare (Office of the
+United Nations High Commissioner for Human Rights and World Health Organization, 2018) has been enumerated in
+several international instruments such as the preamble of the Constitution of the World Health Organization, art. 25
+of the Universal Declaration of Human Rights, art. 12 of the International Covenant on Economic, Social and Cultural
+Rights, art. 24 of the Rights of the Child, art. 5 of the Convention on the Elimination of All Forms of Discrimination, art.
+12 and 14 of the Convention on the Elimination of All Forms of Discrimination against Women, and art. 25 of the
+Convention on the Rights of Persons with Disabilities. Countries may refer to the potential of hESC inventions to
+realize the right to health as “the right of everyone to the enjoyment of the highest attainable standard of physical and
+mental health” as provided for in art. 12 of the International Covenant on Economic, Social and Cultural Rights in order
+to justify the patentability of controversial research. This may be the case of human genome modification experiments
+in China conducted with the aim to find a cure for cancer (Rana, Dockser Marcus, & Wexin, 2018). The patentability of
+germline therapy is another example. Some countries allow it, others prohibit it a priori, under embryo protection laws
+(Germany), or constitutional bans (Switzerland), whereas “others consider it ethically unacceptable at current levels of
+understanding, not per se” (Schatz, 1998). This raises the question of the extent to which the right to health should
+prevail.
+
+Human dignity may represent a limit. For example, a life-saving invention obtained by destroying human embryos
+would be prohibited.28 Human dignity is reiterated in the EPO and CJEU decisions on hESC inventions. The Japan
+Patent Office has also affirmed the protection of human dignity as a public policy objective (Trial against Examiner's
+Decision of Refusal 2008–7386). The protection of human dignity of unborn embryos may appear unreasonable when
+compared with the potential of hESC inventions to save lives. In this regard, it is worth noting that the legal status of
+the embryo is determinant for deciding on the matter. There is no doubt that in addition to law, science and national
+public policies influence the interpretation of the public policy clause. Whereas it is upon governments to direct
+
+10
+2 |
+
+PRIFTI
+
+scientific developments for the benefit of society, the types of advantages that hESC inventions bring to the society
+will depend on the interests at stake. The vagueness of the terms “ordre public” and “morality” accommodate all of the
+interests involved and it may be unreasonable to provide a static definition of the terms. However, research involving
+hESC is a global concern because of its importance in personalized, precision and regenerative medicine. Investments
+both from the public and the private sector are on the rise and studies show that the global market for hESC research
+will reach two billion USD by 2020 (Global Industry Analysts, Inc., 2017). If an invention happens in one country, it will
+undoubtedly be distributed in other countries. Therefore, it is not unreasonable to propose some principles that
+provide guidance in understanding the public policy clause. Commonly accepted values as a guide on the patentability
+of hESC inventions can be found in soft law international instruments such as the UNESCO Universal Declaration on
+the Human Genome and Human Rights, and the UNESCO Universal Declaration on Bioethics and Human Rights.
+These international legal instruments set the limits for the evolution of science in line with a concept of ethics that
+helps humanity advance. In specific, art. 11 of the UNESCO Universal Declaration on the Human Genome and Human
+Rights prohibits reproductive cloning of human beings as a practice contrary to human dignity. Current patent laws
+comply with this provision. Art. 3 of the UNESCO Universal Declaration on Bioethics and Human Rights further
+explains that “human dignity, human rights and fundamental freedoms are to be fully respected” and “the interests and
+welfare of the individual should have priority over the sole interest of science or society.” The primacy of the human
+being and prohibitions on the intervention on the human genome are also affirmed in the Oviedo Convention for the
+Protection of Human Rights and Dignity of the Human Being with regard to the Application of Biology and Medicine:
+Convention on Human Rights and Biomedicine binding for all EU member states. Art. 12 and art. 14 of this Convention
+establish that predictive genetic tests should be performed only for health purposes and the use of techniques of
+medically assisted procreation shall be allowed only if “serious hereditary sex-related disease is to be avoided.” It
+appears thus that relevant limits for hESC inventions in international law are the ban on human genome modification
+and the welfare of the individual over the interest of science or society.
+
+Another option for an evaluation of “ordre public” and “morality” may be the examination of scientific guidelines
+developed by national science foundations and guidelines on hESC research elaborated by public bodies. This route was
+followed by the Japan Patent Office in Trial against Examiner's Decision of Refusal 2008–7386, where several scientific
+national and international documents were cited.29 The Asilomar Conference and its recommendations on experiments
+with recombinant DNA and ban on cloning have been followed by the scientific community for a long time (Fredrickson,
+1991). Therefore, it appears reasonable that patent judges include scientific evaluations in their decisions.
+
+Given different levels of socio–economic development between WTO countries, it is not wise to recommend a
+uniform understanding of the public policy clause at present. But the above analysis allows us to give some general
+recommendations for conducting a test of “ordre public” and “morality” based on art. 27.2. The test may involve two
+steps. The first step should reply to the following question: Is the patent rejection necessary30 to end the offence? If
+there are alternative measures to stop the offence against “ordre public” and “morality,” a ban on patentability will be
+of no use. If there are no alternatives to stop the offence, patent judges should assess whether the commercial
+exploitation of the invention is against “ordre public” and “morality.” The investigation of this question should first
+examine laws, regulations and scientific guidelines of national public authorities, then consider international soft or
+hard law instruments, and finally examine the purpose and use of hESCs in relation with domestic public policy. If the
+purpose and use of hESCs promote the public policy objective of healthcare and do not harm the individual, the
+invention should be considered patentable.
+
+5 | CONCLUSIONS
+
+The inclusion of the “ordre public” and “morality” clause in patent law serves as a means to guide scientific
+developments for the benefit of society. As explained in this paper, patent offices have important regulatory functions
+and the inclusion of a public policy clause in patent law is not a surprise.31 The interpretative difficulty linked with
+
+P
+
+v
+o
+d
+a
+i
+w
+c
+p
+a
+S
+
+A
+
+D
+
+o
+S
+o
+m
+e
+
+A
+
+I
+M
+o
+m
+o
+2
+
+C
+
+T
+
+E
+
+1
+
+2
+
+3
+
+4
+
+5
+
+TI
+
+PRIFTI
+
+| 311
+
+y
+e
+g
+s
+h
+l
+t
+y
+n
+
+t
+n
+s
+r
+d
+n
+e
+:
+n
+f
+t
+n
+
+s
+s
+c
+s
+,
+
+a
+l
+o
+f
+e
+l
+t
+r
+e
+e
+
+c
+s
+h
+
+value judgments enclosed in the terms of “ordre public” and “morality,” however, encumbers the work of patent
+offices. The current interpretation of the public policy clause for hESC inventions is filled with legal uncertainty on the
+definition of scientific terms. Indeed, it is not easy to hem scientific developments in a legal definition. This paper
+argues that in some cases it may be preferable to adopt flexible definitions but a global interest in healthcare
+innovations may require a common understanding of “ordre public” and “morality” in the long run. To this purpose, it
+was suggested that ethics as a set of values should determine the bonnes mœurs, what is good for society. The set of
+common values was found in international legal instruments and scientific guidelines that prohibit human cloning and
+put the welfare of the individual over the interest of science or society. At present, the concept of human dignity
+appears to set important limits for the patentability of hESC inventions. But these limits are subject to interpretation.
+Science is in continuous evolution and the question is not whether society or law will follow, but at what pace.
+
+ABOUT THE AUTHOR
+
+Dr. Viola Prifti is a researcher and lecturer in intellectual property law currently affiliated to the Jean Monnet Centre
+of Excellence “Rights & Science” at the University of Perugia in Italy. In August 2018, she will join the University of the
+South Pacific as a Lecturer in Law. In her work, she combines her passion for biology with her knowledge of law in
+order to offer sound solutions for policy-relevant questions in the field of biotechnology. A list of her publications,
+mainly focused on plant variety protection, is available at the following link: https://works.bepress.com/viola-prifti/,
+email: viola.prifti@gmail.com
+
+ACKNOWLEDGMENTS
+
+I thank Ms. Friederike Matheus and Dr. Micha Drukker of the Institute of Stem Cell Research, Helmholtz Centrum in
+Munich for helping me understand the scientific aspects of human embryonic stem cells. I also thank Shinsuke Kaneko
+of Morrison and Foerster in Tokyo for facilitating my understanding of Japanese legal texts, for translating research
+material from Japanese, and for continuously supporting my academic endeavors across continents. The information
+on the Japanese patent system was obtained during a research stay at the Institute of Intellectual Property in Tokyo in
+2017 sponsored by the Japan Patent Office.
+
+CONFLICTS OF INTEREST
+
+There is no conflict of interest.
+
+ENDNOTES
+
+1 This is a science fiction movie representing a future society driven by eugenics.
+2 It is worth noting here that there exists a market for human genome modification. See better Fox (2008), pp. 162–166.
+3 The importance of hESC in research remains even after the invention of induced pluripotent stem cells (iPSC) by Prof.
+Yamanaka. Although iPSC circumvent the problem of embryo destruction, hESC are still relevant for conducting similarity
+tests (to evaluate their similarity with iPSC) and for studying diseases. As confirmed during interviews with scientists
+(Friederike Matheus and Micha Drukker of Helmholtz Centrum in Munich, December 2016) the performance of iPSC and
+hESC varies in base of the object and purpose of research.
+
+4 Please, note that the blastocyst is a distinctive stage of the embryo. For a scientific definition of “blastocyst” see
+
+Encyclopedia Britannica.
+
+5 Prior to the TRIPS Agreement, the clause was originally inserted into national patent laws and in the text of the EPC. For
+more see Sterckx and Cockbain, (2012), pp. 23–24, p. 289. For the clause in the TRIPS Agreement see Gervais (2008) pp.
+334–350.
+
+12
+2 |
+
+PRIFTI
+
+6 To be noted that the Canada Patent Act exempted inventions with an illicit object from patentability prior to its 1993
+
+amendment.
+
+7 For an understanding of legal hurdles see Furman, (2013), pp. 230–233.
+8 This may happen because less competition in the market might reduce the transfer and dissemination of technology as
+
+required in art. 7 of the TRIPS Agreement.
+
+9 For specific examples on Austria, France and Italy see Bently et al. (2010).
+10 Bagley (2007), p. 320 citing Chakrabarty, 447 US at 318. The grant of exclusive property rights in a human being is deemed
+
+to be prohibited by the Thirteenth Amendment.
+
+11 In particular, it refers to the Board of Appeal of the European Patent Office (EPO) reasoning in T 315/03, Oncomouse, para
+
+4.4. See p. 44 of Bently et al. (2010).
+
+12 For a better understanding of the restrictions set in art. 27.2 see, Correa (2016), pp. 267–268.
+13 It has been affirmed in T 0356/93 (Plant cells) of 21.2.1995 that “The EPO being at the crossroads between science and
+
+public policy, was qualified to make value judgements about a given technology.”
+
+14 The foundations of the concept can be found in the “boni mores” in Roman law. For an understanding of the concept see
+
+Zimmermann (1996), pp. 706–715.
+
+15 For more explanations see The Case Law of the Boards of Appeal of the European Patent Office, 8th ed,/July 2016,
+available at https://www.epo.org/law-practice/legal-texts/html/caselaw/2016/e/clr_i_b_2_2_2_b.htm. Accessed 14
+February 2018.
+
+16 The results are based on a search performed on the Boards of Appeal database, http://www.epo.org/law-practice/case-
+law-appeals/advanced-search.html, last accessed 27 January 2018. The search terms were “52(a)” in the box “EPC article”
+for the period 1989–2018. Please, note that although the results page displays 36 cases, some concern the same case
+published in different languages.
+
+17 For example, in the Oncomouse case, T 0315/03 (Transgenic animals/HARVARD) of 6.7.2004, the judges adopted a
+utilitarian understanding of the clause and allowed the patentability of the transgenic mouse. In another case, they used the
+test to reject an application claiming a transgenic mouse for screening hair growth stimulants.
+
+18 The EPC incorporates the provisions of the Directive 98/44/EC of the European Parliament and of the Council of 6
+July 1998 on the Legal Protection of biotechnological inventions. Although their provisions apply to different jurisdictions,
+they are highly harmonized.
+
+19 SCNT cells are patentable in other jurisdictions. For instance, Japan grants patent rights on SCNT for therapeutic purposes.
+20 To be noted that the decisions of the CJEU apply only to EU countries, but the EPO follows CJEU's decision for the sake of
+
+substantive harmonization in patent law. For more see Pila and Torremans (2016), p. 129.
+
+21 For a study on the meaning of the concept see Beyleveld and Brownsword (2001).
+22 In addition, the EPO clarified that patent claims should be examined in combination with the “technical teaching of the
+application as a whole as to how the invention is to be performed.” This reasoning appeared necessary in order to avoid
+patent prohibitions by clever and skillful drafting.
+
+23 The US and Japan patent laws allow for more types of patentable hESC inventions.
+24 Patents granted by the EPO may be opposed before the EPO within nine months of the publication of the mention that the
+
+patent has been granted.
+
+25 See, for instance, G 1/98 Reasons 3.9 and T 1213/05. In T-666/05, the EPO adopted skilful legal drafting to distinguish
+between “exploitation of the patent” and “exploitation of the invention.” Since art. 53 (a) refers to “exploitation of the
+invention,” the judges argued that the negative effects of the patent could not fall under the wording of the provision.
+26 In the Oncomouse case, polls showed the contrariety of Europeans to animal patents. The initiatives “Kein Patent auf
+Leben!” and “No Patents on Seeds” represent an umbrella of organizations in Europe against life forms. The opposition to
+patents on modification of human germline is mainly related to eugenics fears.
+
+27 To be noted the humanist inheritance of the European Union as stated in the preamble of the Consolidated version of the
+
+Treaty on the European Union, pp. 15–16.
+
+28 This is a hypothetical case. If hESC inventions were filed after 5 June 2003, patent offices would deem the inventions
+
+patentable.
+
+29 Some of these documents are the report “Reproductive Supplementary Medicine by Providing Sperm/Ovum/Embryo etc”
+The report is published on 28 December 2000 by the Technical Committee on Reproductive Supplementary Medical
+Technology and it is available at http://www1.mhlw.go.jp/shingi/s0012/s1228-1_18.html. Accessed 29 January 2018 the
+
+P
+
+3
+
+3
+
+O
+
+V
+
+R
+
+A
+
+B
+
+B
+
+B
+
+B
+B
+B
+
+C
+
+C
+C
+
+C
+
+D
+E
+E
+E
+
+E
+
+F
+
+F
+
+F
+
+TI
+
+3
+
+s
+
+d
+
+a
+
+d
+
+e
+
+6,
+4
+
+-
+”
+e
+
+a
+e
+
+6
+s,
+
+s.
+
+f
+
+e
+d
+
+e
+
+h
+e
+
+f
+o
+
+e
+
+s
+
+”
+l
+e
+
+PRIFTI
+
+| 313
+
+9th Annual Report published by the UK Human Fertilization and Embryology Research Authority Bureau; “Guidelines on
+the use of human ES cells,” Notification no. 157 of the Ministry of Education, Culture, Sports, Science and Technology,
+Japan.
+
+30 For an interpretation of art. 27.2 in light of the necessity test developed under the GATT Agreement, see Harper
+(1997), pp. 380–420. For an analysis of GATT decisions on general exceptions see the Repertory of the Appellate Body
+Reports, available at https://www.wto.org/english/tratop_e/dispu_e/repertory_e/g3_e.htm. Accessed 14 February
+2018.
+
+31 As Professor Peter Drahos explains: “Patent law is located within and not outside a public ethic of community values and
+
+shared economic and social interests. There is nothing surprising about this” Drahos (1998) p. 441.
+
+ORCID
+
+Viola Prifti
+
+http://orcid.org/0000-0002-2027-9155
+
+REFERENCES
+
+Atala, A. (ed). (2009). Foundations of regenerative medicine. Clinical and therapeutic applications (1st ed). San Diego, CA:
+
+Elsevier, Academic Press.
+
+Bagley, M. A. (2003). Patents first, ask questions later: Morality and biotechnology in patent law. William Mary Law Review, 45,
+
+469–547.
+
+Bagley, M. A. (2007). A global controversy: The role of morality in biotechnology patent law. The University of Virginia Law
+
+School, Public Law and Legal Theory Working Paper Series, no. 57.
+
+Bently, L., Sherman, B., Borges Barbarosa, D., Grau-Kuntz, K., Basheer, Sh., Visser, C., . . . Joly, Y. (2010). Exclusions from
+patentability and exceptions and limitations to patentee's rights. WIPO Standing Committee on the Law of Patents, SCP/
+15/3, Annex 1.
+
+Beyleveld, D., & Brownsword, R. (2001). Human dignity in bioethics and law. Oxford: Oxford University Press.
+Blastocyst. (1998). Encyclopedia Britannica. Retrieved from https://www.britannica.com/science/blastocyst
+Burk, D. L. (2015). Patents as data aggregators in personalized medicine. Boston University Journal of Science and Technology
+
+Law, 2, 232–255.
+
+Christie, A. F. (2011). Maximising permissible exceptions to intellectual property rights. In A. Kur, & V. Mizaras, (Eds.), The
+
+structure of intellectual property law: Can one size fit all? (pp. 121–135). Edward Elgar: Cheltenham.
+
+Consolidated version of the Treaty on the European Union, OJ C 326, 26.10.2012.
+Convention on the Grant of European Patents of 5 October 1973 as amended by the act revising Article 63 EPC of 17
+December 1991 and by decisions of the Administrative Council of the European Patent Organisation of 21
+December 1978, 13 December 1994, 20 October 1995, 5 December 1996, 10 December 1998 and 27 October 2005 and
+its Implementing Regulations as last amended by the Administrative Council on 9 December 2004.
+
+Correa, C. (2016). Patent rights. In C. Correa, & A. Yusuf, (Eds.), Intellectual property and international trade. the TRIPS agreement
+
+(pp. 267–268). Alphen aan den Rijn: Kluwer Law International.
+
+Drahos, P. (1998). Biotechnology patents. Markets and morality. European Intellectual Property Review, 21(9), 441–449.
+EPO Guidelines for Examination. (2018). Retrieved from https://www.epo.org/law-practice/legal-texts/guidelines.html
+EuroStemCell. (2017). Richtlinien & Vorschriften. Retrieved from https://www.eurostemcell.org/theme/policy-regulation
+EuroStemCell. (2018). Embryonale Stammzellforschung: Ein ethisches Dilemma. Retrieved from https://www.eurostemcell.
+
+org/embryonic-stem-cell-research-ethical-dilemma
+
+Expert Group on the development and implications of patent law in the field of biotechnology and genetic engineering
+
+(E02973). (2016). Retrieved from http://ec.europa.eu/DocsRoom/documents/18604/attachments/1/translations/
+
+FDA News Release. (2017). FDA allows marketing of first direct-to-consumer tests that provide genetic risk information for
+certain conditions. Retrieved from https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm551185.
+htm
+
+Fox, D. (2008). Paying for particulars in people-to-be: Commercialization, commodification and commensurability in human
+
+reproduction. Journal of Medical Ethics, 34, 162–166.
+
+Fredrickson, D. S. (1991). Asilomar and Recombinant DNA: The end of the beginning, Institute of Medicine (US) Committee to
+Study Decision Making; Hanna KE, editor. National Academies Press (US): Washington (DC). Retrieved from https://www.
+ncbi.nlm.nih.gov/books/NBK234217/
+
+P
+
+W
+
+Z
+
+14
+2 |
+
+PRIFTI
+
+Furman, E. (2013). The dynamic state of patents in regenerative medicine. Tissue Engineering and Regenerative Medicine, 10(5),
+
+230–233.
+
+Gervais, D. (2008). The TRIPS agreement: Drafting history and analysis (3rd ed). Sweet & Maxwell, Thomson Reuters: North
+
+Yorkshire.
+
+Global Industry Analysts, Inc. (2017). Human embryonic stem cell research: A research brief. Retrieved from http://www.
+
+strategyr.com/MCP-6831.asp#sthash.RqEW7WUG.dpbs
+
+Hadley, A. T. (1986). Economics. An account of the relations between private property and public welfare. New York, London: G.P.
+
+Putnam's Son.
+
+Harper, M. B. (1997). TRIPS article 27.2: An argument for caution. William & Mary Environmental Law & Policy Revue, 21(2),
+
+380–420.
+
+International Stem Cell Corporation v Comptroller General of Patents, Designs and Trade Marks Request for a preliminary
+
+ruling from the High Court of Justice (England & Wales), Chancery Division (Patents Court), case-364/13.
+
+Isaiah Berlin. (2016). Stanford Encyclopaedia of Philosophy. Retrieved from https://plato.stanford.edu/entries/berlin/
+
+#BerlDefiValuPlur
+
+Kingdom of the Netherlands v European Parliament and Council of the European Union, C-377/98.
+Monger, C., & Clark, J. (2013). IP Australia. Patentable Subject Matter, The Walter and Eliza Hall Institute of Medical Research,
+Response to the IP Australia Consultation Paper. Retrieved from https://www.ipaustralia.gov.au/sites/g/files/net856/f/
+walter_eliza_hall_institute_submission_patentable_subject_matter.pdf
+
+Morality. (n.d.). In Cambridge online dictionary. Retrieved from https://dictionary.cambridge.org/dictionary/english/morality
+Morality. (n.d). The Oxford online dictionary. Retrieved from https://en.oxforddictionaries.com/definition/morality
+Moufang, R. (1994). Patenting of human genes, cells and parts of the body—the ethical dimensions of patent law. International
+
+Revue of Industrial Property and Copyright Law, 25(4), 487–515.
+
+Office of the United Nations High Commissioner for Human Rights and World Health Organization. (2018). The Right to
+
+Health, Factsheet no. 31. Retrieved from http://www.ohchr.org/Documents/Publications/Factsheet31.pdf
+
+Oliver Brüstle v Greenpeace eV, case-34/10.
+Paul, R., & Elder, L. (2013). The thinkers guide to ethical reasoning. Tomales, CA: The Foundation for Critical Thinking.
+Pila, J., & Torremans, P. (2016). European intellectual property law. Oxford: Oxford University Press.
+Price II, W. N. (2016). Big data, patents, and the future of medicine. Cardozo Law Review, 37, 1401–1452.
+Rana, P., Dockser Marcus, A., & Wexin, F. (2018). China unhampered by rules, races ahead in gene- editing trials, the wall street
+journal. Retrived from https://www.wsj.com/articles/china-unhampered-by-rules-races-ahead-in-gene-editing-trials-
+1516562360
+
+Rennie-Smith, C. (2018/2019). Life Form Patents: Proceedings in the European Patent Office and the Role of Non-
+Commercial Parties. In Berg, T. C. & Cholij, R. and Ravenscroft, S. (eds) [Title TBC: Volume emerging from the conference
+‘Patents on Life: Through the Lenses of Law, Religious Faith, and Social Justice’], Cambridge University Press: Cambridge.
+Repertory of the Appellate Body Reports (2018). Retrieved from https://www.wto.org/english/tratop_e/dispu_e/
+repertory_e/g3_e.htm
+
+Schatz, U. (1998). Patentability of genetic engineering inventions in european patent office practice. International Revue of
+
+Industrial Property and Copyright Law, 29(1), 2–16.
+
+Schneider, I. (2009). Can patent legislation make a difference? Bringing parliaments and civil society into patent governance. In
+S. Haunss, & K. C. Shadlen, (Eds.), Politics of intellectual property, contestation over ownership, use, and control of knowledge
+and information. Edward Elgar: Cheltenham.
+
+Stauder, D. (2016). Artikel 53 ausnahmen von der patentierbarkeit. In D. Stauder, (Ed.), Europäisches patentübereinkommen
+
+kommentar (7th ed.). Carl Heymanns Verlag: Munich.
+
+Sterckx, S., & Cobain, J. (2012). Exclusions from patentability: How far has the european patent office eroded boundaries?
+
+Cambridge: Cambridge University Press.
+
+Strauss, J. (2002). Kommerzielle und patentrechtliche aspekte der genomforschung. In G. Orth, (Ed.), Forschen und tun was
+
+möglich ist? Edition ‘ethic kontrovers’. Münster: Friedrich Verlag.
+Treatment by surgery/MEDI-PHYSICS, G 0001 /07 of 15.2.2010.
+Treichel, P. (2009). G2/06 and the verdict of immorality. International Revue of Intellectual Property and Competition Law, 40(4),
+
+450–471.
+
+Trial against Examiner's Decision of Refusal 2008–7386 on Japanese Patent Application No. 2003–523634 ‘Isolation of inner cell
+mass for establishment of human embryonic stem cell (hESC) strain’ Case of appeal against rejection appeal, WO 03/18783,
+Heisei 17 2005. Retrieved from http://tokkyo.shinketsu.jp/originaltext/pt/1218942.html. An English translation is available
+here:
+https://translate.google.com/translate?hl=ja&sl=ja&tl=en&u=http%3A%2F%2Ftokkyo.shinketsu.jp%2Foriginaltext%
+2Fpt%2F1218942.html
+
+UNCTAD-ICTSD. (2005). Resource book on TRIPS and development. Cambridge: Cambridge University Press.
+Use of embryos/WARF, G 0002 /06 of 25.11.2008.Vo v. France [GC], no. 53924/00, ECHR 2004-VIII.
+
+PRIFTI
+
+| 315
+
+Wu, J., Platero-Luengo, A., Sakurai, M., Sugawara, A., Gil, M. A., Yamauchi, T., . . . Izpisua Belmonte, J. C. (2017). Interspecies
+chimerism with mammalian pluripotent stem cells. Cell, 168(3), 473–486. http://www.cell.com/cell/fulltext/S0092-8674
+(16)31752-4.pdf
+
+Zimmermann, R. (1996). The law of obligations: Roman foundations of the civilian tradition. Oxford: Clarendon Press, Oxford
+
+University Press.
+
+How to cite this article: Prifti V. The limits of “ordre public” and “morality” for the patentability of human
+embryonic stem cell inventions. J World Intellect Prop. 2018;1–14. https://doi.org/10.1111/jwip.12109
+ 2019;22:2–15. https://doi.org/10.1111/jwip.12109
+
+TI
+
+),
+
+h
+
+w.
+
+P.
+
+),
+
+y
+
+/
+
+,
+/
+
+y
+
+al
+
+o
+
+t
+-
+
+-
+e
+e.
+/
+
+f
+
+n
+e
+
+n
+
+?
+
+s
+
+),
+
+l
+3,
+e
+%
+
+

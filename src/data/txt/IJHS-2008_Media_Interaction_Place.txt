@@ -1,0 +1,794 @@
+International Journal of Heritage Studies
+
+ISSN: 1352-7258 (Print) 1470-3610 (Online) Journal homepage: https://www.tandfonline.com/loi/rjhs20
+
+The Social Production of Heritage through
+Cross‐media Interaction: Making Place for
+Place‐making
+
+Elisa Giaccardi & Leysia Palen
+
+To cite this article: Elisa Giaccardi & Leysia Palen (2008) The Social Production of Heritage
+through Cross‐media Interaction: Making Place for Place‐making, International Journal of Heritage
+Studies, 14:3, 281-297, DOI: 10.1080/13527250801953827
+To link to this article:  https://doi.org/10.1080/13527250801953827
+
+Published online: 25 Apr 2008.
+
+Submit your article to this journal 
+
+Article views: 1567
+
+Citing articles: 23 View citing articles 
+
+Full Terms & Conditions of access and use can be found at
+
+https://www.tandfonline.com/action/journalInformation?journalCode=rjhs20
+
+International Journal of Heritage Studies
+Vol. 14, No. 3, May 2008, pp. 281–297
+
+The Social Production of Heritage 
+through Cross-media Interaction: 
+Making Place for Place-making
+Elisa Giaccardi & Leysia Palen
+
+143000000May 2008
+ElisaGiaccardi
+elisa.giaccardi@colorado.edu
+Taylor and Francis
+RJHS_A_295548.sgm
+10.1080/13527250801953827
+International Journal of Heritage Studies
+1352-7258 (print)/1470-3610 (online)
+Original Article
+2008Taylor & Francis
+
+The living relationship between intangible and tangible forms of heritage, as well as natural
+and cultural heritage, is a situated one, always in place. Information and communications
+technology (ICT) is opening up new ways of experiencing and thinking about heritage by
+allowing  for  cross-media  interaction.  By  combining  different  media  and  technologies,
+cross-media interaction supports the social production of heritage and creates ‘infrastruc-
+tures’ that act as places of cultural production and lasting values at the service of a living
+heritage practice.
+
+Keywords: Community; Cross-media Interaction; Heritage; Participation; Place; Social 
+Production
+
+Introduction
+
+The understanding and preservation of cultural heritage is an essential element of the
+human condition. We strive to understand the past and to explain and capture our own
+lived experiences to leave a legacy for the future through the preservation of artefacts,
+archaeological, historical and cultural sites and, increasingly, through evidence of our
+relationships with the natural environment.
+
+Information  and  communications  technology  (ICT)  is  opening  up  new  ways  of
+thinking about cultural heritage by allowing for cross-media interaction. For heritage
+work, cross-media interaction—which uses multiple media and technologies—creates
+socio-technical infrastructures that enable novel interaction between a local commu-
+nity  and  the  authentic  setting  in  which  the  artefact,  site,  or  natural  environment  is
+
+Elisa  Giaccardi  &  Leysia  Palen,  University  of  Colorado  at  Boulder.  Correspondence  to:  elisa.giaccardi@
+colorado.edu
+
+ISSN 1352–7258 (print)/ISSN 1470–3610 (online) © 2008 Taylor & Francis
+DOI: 10.1080/13527250801953827
+
+282 E. Giaccardi & L. Palen
+
+encountered. In this paper, we aim to show through example how cross-media inter-
+action can be brought to bear on the encounter with these artefacts and settings, and on
+the socially produced meanings and values that a community ascribes to them. We also
+provide an initial set of principles for cross-media interaction for designers and heritage
+practitioners to help realise these objectives of place-making in heritage practice.
+
+To contribute new perspectives on cultural heritage, the cross-media interaction we
+envision taps Malpas’ understanding of place as existential ground,1 which is where our
+experience and enduring relations with physical and social settings shape and define
+our sense of belonging, identity and culture. The social and technical ‘infrastructures’
+of  cross-media  interaction  allow  for  new  experiences  with  tangible  and  intangible
+forms of heritage and natural and cultural heritage. They open up new ways of explor-
+ing and articulating a community’s relations with the physical and social settings of
+the heritage, thereby enabling a form of social production of heritage as the locus of
+our sense of place; that is, as ‘the very matrix out of which human significance and
+meaning arise’.2
+
+The Social Production of Heritage
+
+Challenged  by  contemporary  culture  and  emerging  ICT,  new  understandings  of
+heritage3 are emerging that question boundaries between tangible, intangible, cultural
+and natural forms of heritage and that urge adoption of new classifications, policies and
+approaches for heritage practice.4 Cultural objects represent a multifaceted reality in
+which aspects of physicality, interpretation and ascribed value combine to produce and
+evolve the meaning of heritage. Through ICT we can facilitate the creative interaction
+among these components to give them different functions and degrees of importance
+according to the nature of the cultural object being represented.
+
+The encounter between the complex reality of heritage and ICT is not only an oppor-
+tunity but also a need. Some argue that cultural change is accelerating, requiring that
+we need to develop principles of design capable of more holistically integrating tangible
+and  intangible  resources:  ‘Objects,  collections,  buildings,  etc.  become  recognized  as
+heritage when they express the value of society and so the tangible can only be under-
+stood and interpreted through the intangible’ (emphasis added).6
+
+As demonstrated in recent studies, however, cultural rhetoric often situates heritage
+in  contrast  with  contemporary  human  life  and  culture,  thus  missing  the  sense  of
+connection  of  past  and  present  that  ultimately  supports  a  commitment  to  heritage
+preservation. Supported by recent studies in anthropology and human geography,7 for
+example, Kato’s case study of the Shirakami-sanchi World Heritage Area demonstrates
+how a local community’s conservation commitment is critical to heritage sustainabil-
+ity, and that heritage is formed through long connection with place.8 Setten’s findings
+about the Norwegian Jæren landscape heritage are similar. Of the farmers who inhabit
+that landscape, Setten writes: 
+
+They have measured their own practices against those of other family members as well
+as other farmers in the local community (present and past). […] Thus the landscape
+needs to be understood as lived and practiced within situations that are personal and
+
+International Journal of Heritage Studies
+
+283
+
+yet  social,  private  and  yet  public,  of  the  present  and  yet  of  the  past  and  the  future.
+(Emphasis added)9
+
+The living relationship between intangible and tangible forms of heritage, as well as
+natural and cultural heritage, is a situated relationship, always in place. How can ICT
+support and reinforce such a relationship?
+
+‘Place’ in Heritage Practice
+
+Sustaining the whole repertoire of embedded knowledge and social relations that are
+responsible for the creation, communication and renewal of our sense of heritage10 is
+fundamentally  a  place-making  process.  As  computing  becomes  more  pervasive  and
+digital networks extend our surroundings,11 ICT can support this process by allowing
+new ways to engage with the people, interpretations and values that pertain to a specific
+setting. Bringing or strengthening a sense of place—and therefore, a living and sustain-
+able relationship with heritage—means creating communication and interaction spaces
+capable of sustaining a community’s engagement with the physical and social settings
+of the heritage.
+
+The  importance  of  place  in  the  design  of  information  technologies  for  human
+communication and collaboration is increasingly a matter of discussion.12 McCarthy
+and Wright have proposed a dialogical approach to the design of information technol-
+ogies, promoting the importance of experience and engagement: 
+
+A  sensory  and  affective  experience  becomes  transformed  in  thought  and  story,  a
+building, the top of a mountain, and a chat room can become significant places for
+people—not just physical structures, natural landscapes, or digital discourses, but also
+meaningful and heartfelt places. When they become places, they become encultured,
+such that natural landscape—as a place—is no longer just natural but also cultural.13
+
+The idea of technologies of spatiality14 draws attention to creating and maintaining a
+correspondence between computational and non-computational aspects of ubiquitous
+computing settings. As Dourish explains: 
+
+Technological  mediation  supports  and  conditions  the  emergence  of  new  cultural
+practices, not by creating a distinct sphere of practice but by opening up new forms of
+practice within the everyday world, reflecting and conditioning the emergence of new
+forms of environmental knowing.15
+
+Some designers have applied these concerns about encounters with space and place to
+make people feel ‘at home’ in the museum or heritage site, engage them at the level of
+personhood, and improve their experience as visitors.16 Little has been done, however,
+to reinforce or even recover those structures of conversation between a community and
+its physical and social settings that make the practice and meaning of place and heritage
+evolve.
+
+According to Parkes and Thrift’s chronogeographic perspective, a sense of place is
+shaped through the interaction of a number of physical and social agencies, over and
+over again.17 What matters is ‘the order which people give to the world—a perceived,
+remembered, and expected order about objects, events and human nature’ (emphasis
+
+284 E. Giaccardi & L. Palen
+added).18 The objective of cross-media interaction is to articulate and sustain over time
+structures of conversation between a community and its physical and social settings
+that enable people to express their perceptions, interpretations and expectations about
+the heritage.
+
+Cross-media Interaction in Heritage Practice
+
+Cross-media interaction can be powerful when people take active roles in the interpre-
+tation  and  construction  of  heritage  and  their  experience  is  social  and  collaborative.
+Collective storytelling plays a critical role in supporting a situated and narrative mode
+of interpretation and construction of our sense of place and heritage.19 However, for
+collective storytelling to promote engaging and sustainable forms of social production
+of heritage, the design of technical infrastructure is not sufficient. Technical infrastruc-
+ture cannot account alone for heritage practice, though it is critical to redefining our
+encounters  with  place  and  social  practice.  Combining  technical  infrastructure  with
+diverse media and actively promoting social interaction are vital steps to support the
+tensional relationships between past, present and future, so that people can remember,
+perceive, and imagine encounters with the heritage.
+
+Learning from an Early Instance of Cross-media Infrastructure: The Virtual Museum of 
+the Collective Memory of Lombardia (MUVI)
+MUVI20 is an Italian project initiated in 1999 by the publishing house Sonar/ TiConUno.
+It is based on a cross-media infrastructure comprising a website and radio transmission.
+The goal of the project is to preserve the collective memory of Lombardia, one of the
+northern Italian regions. To achieve this objective, MUVI collects and makes publicly
+accessible  the  repertoire  of  photographic  pictures  and  correlated  memories  that  are
+scattered through different family archives in the regional territory. These archives are
+often unknown and relentlessly subject to loss. By leveraging personal accounts, MUVI
+collects images and stories related to historical events and the everyday life of people in
+Lombardia. However, the actual cultural heritage that MUVI aims to preserve comprises
+not only the pictures (see Figure 1) and documents collected on the website but also the
+memories these documents embody and the storytelling that brings them alive. MUVI
+transforms its audience—the local community—into active heritage, and makes it the
+main actor in the construction of the museum.
+
+Figure 1 Photographs from the MUVI website.
+
+To this end, different media are used to provide a forum that encourages and stim-
+ulates people to tell their stories, listen to the stories of others, and connect these tales
+together.  Each  medium  expresses  specific  properties:  the  legibility  of  the  Web  as  a
+photo album, the legitimacy of voices on the radio, and the affective power of pictures.
+In particular, the exposure to a warm medium such as the radio is important to encour-
+aging involvement. Emotions play a fundamental role in the emergence, collection, and
+preservation  of  actual  images  and  stories.  The  images  cue  and  inspire  stories  and
+personal accounts, often unpredictably and in surprisingly rich detail. By exploiting
+both the tangible and intangible resources of the community, the MUVI cross-media
+
+International Journal of Heritage Studies
+
+285
+
+Figure 1 Photographs from the MUVI website (courtesy of Sonar/TiConUno).
+
+286 E. Giaccardi & L. Palen
+
+infrastructure  inspires  spontaneous  participation  from  the  local  community  and
+supports the social construction of its cultural identity and sense of belonging to an
+identifiable territory.
+
+MUVI’s success—which measurably includes, over the span of four years, a collec-
+tion of 5,000 pictures and 150 radio broadcasts—illustrates the importance of partici-
+pation  and  storytelling  for  fostering  a  sense  of  place  and  heritage,  and  provides  an
+early  example  of  a  cross-media  infrastructure  that  links  experience,  memory  and
+imagination.
+
+The Silence of the Lands Project
+The  Silence  of  the  Lands  (SOL)21  is  a  project  initiated  in  2005  at  the  University  of
+Colorado,  Boulder,  by  Giaccardi.22  SOL  is  a  cross-media  infrastructure  based  on
+multiple  and  ubiquitous  computing  that  enables  the  capture  and  sharing  of  sonic
+experiences of the natural heritage (more than 1,300 sounds from its launch in July
+2007 to December 2007). The goal is to encourage an engaged and collective way of
+‘listening to the land’. The ultimate objective is to sustain a form of social production
+of the natural heritage that fosters environmental awareness and eventually supports
+new forms of land interpretation and management. This work is based on the belief
+that sounds are a personal and critical element of the natural heritage to be preserved.
+Through  both  fact  and  imagination,  SOL  cross-media  infrastructure  cultivates  a
+creative relationship between local communities and their land by enabling members
+and stakeholders to connect to each other’s experiences, consider each other’s inter-
+pretations and expectations, and inform actions within a shared narrative that unfolds
+over time.
+
+Technical Infrastructure
+
+SOL builds upon a multiple and ubiquitous technical infrastructure combining loca-
+tive and tangible media.23 The infrastructure cultivates the connection between a local
+community and its land through a cross-media interaction affording: (a) data catching
+(i.e.  capturing  sounds  from  the  natural  environment),  (b)  data  annotation  (i.e.
+mapping the soundscape on the Web), and (c) data interpretation (i.e. creating an ideal
+soundscape in the public space).
+
+Data catching: capturing ambient sounds from the natural environment.   Participants
+record  sounds  using  digital  recording  devices  or  sound  cameras  outfitted  with  GPS
+mapping software (see Figure 2). The software allows the recorded sounds to be associ-
+ated with their owner and placed on a map.
+
+Figure 2 Boulder community members using the sound camera.
+
+Data description: mapping the soundscape on the Web.   Sounds  are  shared  on  the
+web in the form of an interactive soundscape. While geographic position, time, and
+date are entered automatically, through the Web application participants are able to
+
+International Journal of Heritage Studies
+
+287
+
+Figure  2 Boulder  community  members  using  the  sound  camera  (photos  by  Larry
+Harwood/University of Colorado).
+
+add descriptions of the sounds they heard, indicate by means of colours whether they
+liked or disliked those sounds, and comment on other people’s sounds (see Figure 3).
+
+Figure 3
+
+Interactive soundscape from the Boulder community members.
+
+Data interpretation: creating an ideal soundscape in the public space.   By playing  with
+the soundscape on a public interactive table (see Figure 4), participants are encouraged
+to annotate and interpret sounds collaboratively and to create the ideal soundscape
+they would like to preserve and in which they would like to live.
+
+Figure 4 Prototype of the public interactive table for the  Silence of the Lands project (courtesy of the University of Colorado Museum of Natural History).
+
+Social Infrastructure
+
+A  critical  factor  to  the  project’s  viability  and  sustainability  is  participation  over  an
+extended period of time. Although built-in support for participation is an integral part
+of the technical infrastructure, sustained community participation and meaningful life
+experiences  are  made  possible  through  support  of  an  active  and  permanent  social
+infrastructure.24
+
+In SOL, participation is organised through long-term partnerships with community
+stakeholders  who  are  willing  to  explore  the  potential  impact  of  the  project  on  the
+community’s patterns of interaction with the land. Simultaneously with the develop-
+ment of the technical infrastructure, partnerships began in 2005 and evolved into an
+outreach  programme  called  Community  of  Soundscapes  in  the  summer  of  2007.  In
+collaboration with the City of Boulder Open Space and Mountain Parks and Water
+Quality  Departments,  we  engaged  the  local  community  of  Boulder,  Colorado,  in
+capturing  and  sharing  sonic  experiences.  Contextualised  within  the  City  of  Boulder
+nature programmes and public hikes, the first Community of Soundscapes enrolled a
+group  of  20  community  members  representative  of  different  age  populations  and
+professional backgrounds.25 From July to September, participants engaged in ‘sound-
+walks’ and workshops over six weeks, collecting and sharing more than 1,300 sounds.
+
+288 E. Giaccardi & L. Palen
+
+Figure 3
+
+Interactive soundscape from the Boulder community members.
+
+International Journal of Heritage Studies
+
+289
+
+Figure  4 Prototype  of  the  public  interactive  table  for  the  Silence  of  the  Lands  project
+(courtesy of the University of Colorado Museum of Natural History).
+
+The  pilot  was  successful,  with  participants  providing  useful  and  rich  feedback  for
+programme  evaluation26  and  requesting  continuation  of  the  project  over  the  entire
+year. Another programme will be launched in the spring of 2008 in collaboration with
+the University of Colorado Museum of Natural History and will connect the City of
+Boulder sponsored soundwalks with interpretive activities in the public space of the
+museum. Both programmes are funded by the CU-Boulder Outreach Committee and
+through  international  collaboration  between  the  University  of  Colorado  at  Boulder
+(USA), the University of Brescia (Italy), and the University of Plymouth’s Institute of
+Digital Art and Technology (UK).
+
+Place-making with the Silence of the Lands
+
+SOL  connects  personal  experiences  and  cultural  interpretation  of  natural  heritage
+through a process of data transfer that allows information to migrate back and forth across
+the natural environment, the website, and the public interactive table (see Figure 5).
+
+Figure 5 Cross-media infrastructure of the Silence of the Lands: (1) GPS satellite; (2) sound camera; (3) wireless connection; (4) Web server; (5) website; (6) interactive table.
+
+Information flow is designed to nurture the connection between the local commu-
+nity and its land by remixing perceptual and imaginative processes of interpretation.
+Place-making  with  SOL  links  experience  (as  reflective  of  embedded  perceptions  and
+practices), memory (as the filter of encultered values and interpretations), and imagi-
+nation (as reflective of intentions and expectations, and projection towards the future).
+
+Experience
+
+Sounds are captured from the natural environment and collected through the sound
+camera (see Figure 5, no. 2). Each recorded sound is linked to the person who collects
+
+290 E. Giaccardi & L. Palen
+
+Figure  5 Cross-media  infrastructure  of  the  Silence  of  the  Lands:  (1)  GPS  satellite;  (2)
+sound camera; (3) wireless connection; (4) Web server; (5) website; (6) interactive table.
+
+it  and  associated  with  GPS  data  determining  its  location  in  space  and  time  (see
+Figure 5, no. 1). This is the activity that we have categorised as ‘data catching’. It encour-
+ages a way of experiencing the natural environment that is authentic, direct and personal,
+and ultimately reflective of one’s practices and values.
+
+Memory
+
+Once recorded, sounds are transferred from the sound camera to the online database
+(see Figure 5, no. 4) and made publicly available on the website (see Figure 5, no. 5).
+Participants can access and describe their own sounds and compose them in a personal
+soundscape.27  The  outcome  of  these  individual  activities  is  the  collaborative  sound
+mapping of the heritage. This is the activity that we have categorised as ‘data descrip-
+tion’. It allows participants to recall their experiences through the filter of personal memory
+and to superimpose their knowledge and perspectives on the physical relationship with the
+natural heritage that is encouraged by the sound camera.
+
+Imagination
+
+The resulting personal soundscapes are the starting points from which members of the
+community  then  collaboratively  construct  the  ideal  soundscape  they  would  like  to
+preserve and in which they would like to live. Gathered around the public interactive
+table (see Figure 5, no. 6), people are encouraged to collaboratively reinterpret existing
+sounds and imagine their ideal soundscape. Over time, representations are produced
+
+International Journal of Heritage Studies
+
+291
+
+and integrated, and an image of the ideal soundscape evolves in a way similar to the
+soundscape produced online. This is the activity that we have categorised as ‘data inter-
+pretation’. It encourages participants to connect to the experiences of other community
+members and to imaginatively build a shared representation through collaborative play.
+
+Resulting Process
+
+Each  of  these  cycles  of  activities  is  designed  to  create  a  unique  interaction  space
+between the members of the local community, the authentic setting provided by the
+natural environment, and the computational data that enable its social interpretation
+and representation as natural heritage. A keystone is that members’ actions (e.g. their
+own particular decisions about collecting and annotating sounds) not only stimulate
+reflection on personal experience but also encourage reflection about others’ experi-
+ences that may in turn inform subsequent action. By harnessing some of the barriers
+between  people  and  settings  produced  by  spatial  distances  (‘voices  from  far  away’),
+temporal distances (‘voices from the past’), conceptual distances (‘voices from people
+with different knowledge and values’), and technological distances (‘voices embedded
+in the artifacts’),28 the cross-media infrastructure of SOL enables information to flow
+through  unique  but  layered  interaction  spaces  and  ‘circuit’  or  connect  cultural
+experiences,  interpretations  and  expectations.  As  a  result,  the  community’s  shared
+representation  of  the  natural  heritage  is  constructed  bit  by  bit,  according  to  new
+forms  of  practice  encountered  in  the  interaction  spaces  across  which  information
+migrates.
+
+Discussion
+
+The encouraging results of the SOL pilot illustrate the importance of locative technol-
+ogies in fostering a deeper sense of connection to the heritage, and provide the example
+of  a  more  pervasive  cross-media  infrastructure  in  which  the  spatial  and  temporal
+dimension of information flow is critical for linking experience, memory and imagina-
+tion in the process in heritage interpretation and construction.
+
+Making Heritage a Living Practice
+
+A living heritage practice must support the whole repertoire of knowledge and social
+relations that are responsible for the construction, communication, and renewal of our
+sense of place. This is possible only when we give people active and constructive roles,
+and we engage them in connecting to each other’s experiences, considering each other’s
+interpretations, and building insights that may lead to new meanings and relationships.
+Participation and storytelling play a critical role in supporting such a situated, reflec-
+tive,  and  narrative  mode  of  interpretation  and  production  of  our  sense  of  place.
+Naming and interpreting the artefacts (MUVI) or the land (SOL) in which the heritage
+is  encountered  is  a  form  of  storytelling  that  legitimates  personal  accounts  and
+promotes heritage literacy. This provides a useful way for local communities to develop
+a sense of ownership and commitment towards the heritage: 
+
+292 E. Giaccardi & L. Palen
+
+The emphasis on cultural practices is important. It is participants in a culture who give
+meaning to people, objects and events. Things ‘in themselves’ rarely if ever have any
+one, single, fixed and unchanging meaning. Even something as obvious as a stone can
+be a stone, a boundary marker or a piece of sculpture, depending on what it means
+[…] It is by our use of things, and what we say, think and feel about them—how we
+represent them—that we give them a meaning.29
+
+Furthermore, collective engagement with heritage happens over time, with meaning
+evolving as the past becomes more distant and the present changes. The means of heri-
+tage engagement and production are built not only in space—which tends to be the
+dominant dimension for this topic—but also, naturally, over time, where the past can
+be projected in the present and in the future. The perspective explained here in this
+paper foregrounds the dimension of time by harnessing its tensional flow as it aids in
+our ability to perceive, remember, and imagine, and bringing these temporal and spatial
+processes to bear on heritage work.
+
+Realising Place-making in Heritage Practice
+
+One major challenge of place-making from a cross-media point of view is enabling
+and  activating  participation.  Finding  new  ways  to  address  this  challenge  is  key  to
+keeping alive the heritage and the various perspectives that contribute to it. This last
+section  provides  an  initial  set  of  principles  for  cross-media  interaction  useful  for
+designers  and  heritage  practitioners  to  realise  place-making  in  heritage  practice.  To
+illustrate each principle we will extract examples from the analysis and evaluation of
+MUVI30 and SOL.31
+
+Principles of cross-media interaction design
+
+● Create socio-technical infrastructures. Technical infrastructure cannot account alone
+for  heritage  practice.  Social  infrastructure  is  necessary  to  support  community
+participation and regulate it sensibly over time. Social and technical infrastructures
+must  be  synergetic.  In  MUVI,  for  example,  the  collection  and  interpretation  of
+family pictures is facilitated by the collective storytelling promoted by community
+stakeholders through radio programmes, where the stories narrated by members of
+the community elicit personal memories and motivate other community members
+to share their photo albums.
+
+● Combine multiple interaction spaces. Different media and technologies exhibit differ-
+ent properties. Likewise, different material and topological settings exhibit different
+affordances for experience and social practice. Understanding the interaction qual-
+ities and affordances of different media, technologies and physical settings is the first
+step in combining them in a successful socio-technical infrastructure. In SOL, for
+example,  the  sound  camera  encourages  an  emotional  experience  of  the  natural
+environment  so  profound  that  community  members  are  willing  to  capture  and
+share  their  sounds  on  the  Web  to  re-enact  their  sonic  experiences.  Similarly,  in
+MUVI, the affective meaning of photographic images and the warm quality of the
+stories told through radio are a strong trigger for personal and collective memory.
+
+International Journal of Heritage Studies
+
+293
+
+● Design for persistence. Socio-technical infrastructures must be designed to become
+part of the practised setting to which the heritage belongs and be appropriated over
+time by social practice. This persistence is important for maintaining and harness-
+ing the connection with the tangibility of the heritage. In SOL, for example, some
+community members felt more connected to the environment by using the sound
+camera  as  a  sort  of  perceptual  appendix:  ‘I  went  on  a  night  hike  and  sat  and
+listened to the intense duet between insects and the hum of the city—wished I had
+brought the Sound Camera.’ Others felt more connected by using it and then leav-
+ing it at home: ‘I enjoyed the way it called my attention to sounds I might not have
+attended to otherwise. I have enjoyed those trails more when I walked them after
+recording there.’
+Pace participation. Engagement trajectories and entry points to the socio-technical
+infrastructure must be designed to allow for pacing participation according to one’s
+life patterns. Being able to engage in cross-media interaction by accessing the inter-
+action space more suitable to you and by migrating from visitor to contributor and
+from  contributor  to  visitor  when  needed  and  desired  is  crucial  for  sustained
+participation. In MUVI, for example, the radio is the ideal entry point for the older
+generation of community members, many of whom, in this case, seemed to prefer
+listening  to  personal  accounts  of  stories  than  reading  them.  By  listening  to  the
+radio,  they  are  encouraged  to  become  active  contributors  of  stories  and  pictures
+and eventually browse the pictures provided by other members of the community
+on the Web.
+Encourage  conversation.  The  production  and  flow  of  information  across  multiple
+interaction spaces is a powerful narrative mechanism. Transforming heritage objects
+(e.g. family pictures, stories and sounds) in pieces of a social conversation on their
+meaning and value requires bringing together not only the physical elements that
+represent  them  (e.g.  photos,  words  and  audio  recordings)  but  also  the  multiple
+perspectives that shed light upon how they were and are perceived and understood
+by others. In SOL, for example, the way in which sounds are mapped and repre-
+sented in the Web application enables visualisation of different interpretations and
+encourages community members to explore and comment on others’ perspectives.
+Legitimise personal accounts. Supporting the legitimacy of all personal accounts is
+important to encourage collection and conservation of resources. Even seemingly
+minor stories, if they have a chance to be told, might have unexpected value that
+then  changes  their  status.  For  example,  when  people  have  brought  their  family
+pictures  to  the  MUVI  headquarters  they  have  frequently  expressed  surprise  and
+pleasure at the unexpected role that a photo brings in the new context: ‘Well, I did
+not expect that my dad, playing in that village band … that this thing could be inter-
+esting,  have  a  value  as  a  document.’  Similarly,  in  SOL,  stakeholders  were  able  to
+discover and locate important spots in the natural habitat thanks to participants’
+recordings of their personal sonic experiences in those locations.
+Sustain narrative flow. Perceptions, cultural meanings and values associated with the
+heritage must be brought to interact over and over again. This unfolding narrative
+requires  the  connection  between  a  community  and  its  heritage  that  is  supported
+
+●
+●
+●
+●
+294 E. Giaccardi & L. Palen
+
+both factually and imaginatively by cross-media interaction. In SOL, for example,
+heritage  production  results  when  sound  collected  in  the  natural  environment  is
+annotated  and  mapped  collaboratively  and  when  the  geography  of  the  heritage
+evolves  according  to  the  collective  interpretation  of  the  meaning  and  value  that
+pertain to the land.
+Promote  a  sense  of  ownership.  Cross-media  interaction  must  allow  retaining  and
+reinforcing ownership of the heritage. In MUVI, for example, the radio and website
+together help maintain the association of family pictures to the place they belong
+(i.e.  the  family  owning  the  photographic  album).  In  a  similar  way,  cross-media
+interaction must maintain and harness the topological connection with the physi-
+cality of the heritage. In SOL, for example, a sense of ownership is developed from
+the act of annotating the land in which the natural heritage is encountered. A direct
+result of a sense of ownership is a stronger sense of connection and commitment
+towards  the  heritage.  One  SOL  participant  commented:  ‘I’m  more  interested  in
+learning to recognize specific bird calls. Also, I’m more attentive to sounds, whereas
+before I mostly got lost in my mind while walking.’ Another said: ‘I learned how
+important sounds are in our environment and that I took them for granted. I am
+interested to see how sounds change over time.’
+
+● Activate social synergies. Activating and promoting social synergies between different
+social groups or age populations is another important support mechanism to stim-
+ulate collection and conservation of resources. Both in MUVI and SOL, studies have
+documented new forms of collaboration that allow generations and social groups to
+connect  and  learn  from  each  other.  In  MUVI,  collaborations  are  established
+between  the  young  ‘digitally  expert’  generations  and  elderly  members  of  the
+community who are attracted to the possibility of participating and sharing their
+pictures  on  the  Web.  In  SOL,  one  participant  commented  after  listening  to  the
+recordings of a musician participating in the programme: ‘I have always enjoyed
+listening for natural sounds. I have now more appreciation for some of the more
+appealing human-caused sounds’ (e.g. a hiker humming, a group passing by and
+chatting, kids playing and laughing in the distance).
+
+Towards a Living Heritage Practice
+
+The research activities we have described here are motivated by the desire to address
+the social production of heritage as a central issue for museology and heritage practice.
+Other  researchers  and  practitioners,  by  envisioning  the  museum  or  heritage  site  as
+places of interaction between people and artefacts, have guided the design of such sites
+to support engaging experiences and interpretive exchanges. However, the bulk of this
+work has revolved around enriching visitor experiences of curated museum objects in
+the context of exhibit design,32 with less of a focus on emerging issues such as the social
+production of heritage.
+
+However, attention is shifting to these new concerns, not least because new cross-
+media innovations are coming to the fore. But the goals are, of course, challenging. What
+this contemporary attention to heritage needs is additional thinking about some of the
+
+●
+International Journal of Heritage Studies
+
+295
+
+core  concerns  presented  here,  including  how  to  sustain  over  time  the  enduring  and
+ecological system of experiences, interpretations and expectations that contribute to
+continuous heritage interpretation and construction. We need to innovatively leverage
+community resources that might support a new sense of connection, ownership and
+commitment towards the heritage. We believe that the use of cross-media interaction
+to supplement community-based heritage practices can support these pursuits. The goal
+is to place ICT in the service of a living heritage practice, to envision it as a mediating
+infrastructure for cultural production and the cultivation of shared and lasting values,
+and to move beyond thinking about it in a limited role of object-augmentation.
+
+Notes
+
+1 [1] Malpas, Place and Experience.
+2 [2] Malpas, this issue.
+3 [3] Kalay et al., New Heritage.
+4 [4] Munjeri,  ‘Tangible  and  Intangible  Heritage’;  Lowenthal,  ‘Natural  and  Cultural  Heritage’;
+
+Davis, ‘New Museologies and the Ecomuseum’.
+
+5 [5] Benedetti, ‘Virtuality and Reality in Enterprise’s Museum, Art Museum, Archeological Sites’.
+6 [6] Munjeri, ‘Tangible and Intangible Heritage’, 13.
+7 [7] Plumwood,  Environmental  Culture;  Rodman,  ‘Empowering  Place’;  Schech  and  Haggis,
+
+Culture and Development.
+
+Setten, ‘Farming the Heritage’, 74.
+
+8 [8] Kato, ‘Community, Connection and Conservation’.
+9 [9]
+10[10] Kirshenblatt-Gimblett, ‘Intangible Heritage as Metacultural Production’.
+11[11] Dourish, ‘Re-space-ing Place’; McCullough, Digital Ground.
+12[12] Erickson, ‘From Interface to Interplace’; Harrison and Dourish, ‘Re-place-ing Space’; Dourish,
+
+‘Re-space-ing Place’.
+
+13[13] McCarthy and Wright, ‘Technology in Place’, 920.
+14[14] Dourish  and  Bell,  ‘The  Experience  of  Infrastructure  and  the  Infrastructure  of  Experience’;
+
+Brewer and Dourish, ‘Storied Spaces’.
+
+15[15] Dourish, ‘Re-space-ing Place’, 304.
+16[16] Ciolfi  and  Bannon,  ‘Designing  Interactive  Museum  Exhibits’;  Heath  et  al.,  ‘Crafting
+
+Participation’.
+
+17[17] Parkes and Thrift, Times, Spaces, and Places.
+18[18] Moore and Golledge, Environmental Knowing.
+19[19] Plumwood, Environmental Culture; McCullough, Digital Ground.
+20[20] http://www.muvilo.it/
+21[21] http://www.thesilence.org/
+22[22] Giaccardi, ‘Cross-media Interaction for the Virtual Museum’.
+23[23] Locative  media  are  based  on  technologies  for  geographical  mapping  and  positioning  (e.g.
+GPS-equipped  smartphones);  tangible  media  are  based  on  the  manipulation  of  physical
+objects over computational surfaces (e.g. interactive tables).
+
+24[24] Giaccardi, ‘Cross-media Interaction for the Virtual Museum’.
+25[25] Despite the requests, the number of sound cameras available restricted the number of partici-
+pants. Those enrolled included writers, engineers, scientists, managers, designers, educators,
+therapists, musicians and college students, whose ages ranged from 20 to 62 years.
+
+26[26] Giaccardi, Freeston, and Matlock, Community of Soundscapes: Results and Evaluation, Internal
+
+Report, University of Colorado at Boulder, September 2007.
+
+27[27] A soundscape in SOL is the sonic equivalent of a digital photo album, but more immersive
+
+and interactive, and annotated with several descriptors.
+
+296 E. Giaccardi & L. Palen
+
+28[28] Fischer, ‘Distances and Diversity’.
+29[29] Hall, Representation, 3.
+30[30] Giaccardi, ‘Collective Storytelling’.
+31[31] Giaccardi et al., Community of Soundscapes: Results and Evaluation, Internal Report, University
+
+32[32]
+
+of Colorado at Boulder, September 2007.
+See, for example, the design of the Hunt Museum (McCarthy and Ciolfi, this issue) and the
+studies conducted at Tate Britain (vom Lehn et al., ‘Engaging Constable’).
+
+References
+
+Benedetti,  B.  ‘Virtuality  and  Reality  in  Enterprise’s  Museum,  Art  Museum,  Archeological  Sites’.
+Quaderni  della  Fondazione  Piaggio,  Nuova  Serie:  Cultura  Europea  e  Musei  VI,  no.  1  (2002):
+42–73.
+
+Brewer,  J.  and  P.  Dourish.  ‘Storied  Spaces:  Cultural  Accounts  of  Technology  and  Environmental
+
+Knowing’. International Journal of Human-Computer Studies (forthcoming).
+
+Ciolfi,  L.  and  L.  Bannon.  ‘Designing  Interactive  Museum  Exhibits:  Enhancing  Visitor  Curiosity
+through Augmented Artifacts’. In Proceedings of ECCE11, European Conference on Cognitive
+Ergonomics 1. Rome: Consiglio Nazionale delle Ricerche (CNR), 2002: 311–317.
+
+Davis, P. ‘New Museologies and the Ecomuseum’. In The Ashgate Research Companion to Heritage
+
+and Identity, edited by B. Graham and P. Howard. Burlington, VT: Ashgate, 2008: 397–414.
+
+Dourish, P. ‘Re-space-ing Place: “Place” and “Space” Ten Years On’. In Proceedings of CSCW 2006,
+ACM  Conference  on  Computer  Supported  Cooperative  Work.  New  York:  ACM  Press,  2006:
+299–308.
+
+Dourish,  P.  and  G.  Bell.  ‘The  Experience  of  Infrastructure  and  the  Infrastructure  of  Experience:
+Meaning  and  Structure  in  Everyday  Encounters  with  Space’.  Environment  and  Planning  B:
+Planning and Design 34, no. 3 (2007): 414–30.
+
+Erickson, T. ‘From Interface to Interplace: The Spatial Environment as a Medium for Interaction’. In
+Proceedings of COSIT 93, 5th European Conference on Spatial Information Theory. Heidelberg:
+Springer-Verlag, 1993: 391–405.
+
+Fischer,  G.  ‘Distances  and  Diversity:  Sources  for  Social  Creativity’.  In  Proceedings  of  the  5th
+
+Conference on Creativity & Cognition. New York: ACM Press, 2005: 128–36.
+
+Giaccardi,  E.  ‘Collective  Storytelling  and  Social  Creativity  in  the  Virtual  Museum:  A  Case  Study’.
+
+Design Issues 22, no. 3 (2006): 29–41.
+
+———.  ‘Cross-media  Interaction  for  the  Virtual  Museum:  Reconnecting  to  Natural  Heritage  in
+Boulder, Colorado’. In New Heritage: New Media and Cultural Heritage, edited by Yehuda Kalay,
+Thomas Kvan and Janice Affleck. London: Routledge, 2007: 112–31.
+
+Hall, S. Representation: Cultural Representations and Signifying Practices. London: Sage, 1997.
+Harrison,  S.  and  P.  Dourish.  ‘Re-Place-Ing  Space:  The  Roles  of  Space  and  Place  in  Collaborative
+Systems’. In Proceedings of CSCW 1996, ACM Conference on Computer Supported Cooperative
+Work. New York: ACM Press, 1996: 67–76.
+
+Heath, C., P. Luff, D. vom Lehn, J. Hindmarsh and J. Cleverly. ‘Crafting Participation: Designing
+
+Ecologies, Configuring Experience’. Visual Communication 1, no. 1 (2002): 9–34.
+
+Kalay,  Y.,  T.  Kvan  and  J.  Affleck.  New  Heritage:  New  Media  and  Cultural  Heritage.  London:
+
+Routledge, 2007.
+
+Kato,  K.  ‘Community,  Connection  and  Conservation:  Intangible  Cultural  Values  in  Natural
+Heritage—The  Case  of  Shirakami-sanchi  World  Heritage  Area’.  International  Journal  of
+Heritage Studies 12, no. 5 (2006): 458–73.
+
+Kirshenblatt-Gimblett, B. ‘Intangible Heritage as Metacultural Production’. Museum International
+
+56, no. 1–2 (2004): 52–65.
+
+Lowenthal,  D.  ‘Natural  and  Cultural  Heritage’.  International  Journal  of  Heritage  Studies  11,  no.  1
+
+(2005): 81–92.
+
+Malpas, J. Place and Experience. Cambridge: Cambridge University Press, 1999.
+
+International Journal of Heritage Studies
+
+297
+
+McCarthy,  J.  and  P.  Wright.  ‘Technology  in  Place:  Dialogics  of  Technology,  Place  and  Self’.  In
+
+Proceedings of Interact 2005. Heidelberg: Springer-Verlag, 2005: 914–26.
+
+McCullough,  M.  Digital  Ground:  Architecture,  Pervasive  Computing,  and  Environmental  Knowing.
+
+Cambridge, MA: MIT Press, 2004.
+
+Moore,  G.  T.  and  R.  G.  Golledge,  eds.  Environmental  Knowing:  Theories,  Research,  and  Methods.
+
+Stroudsburg, PA: Dowden, Hutchinson & Ross, 1976.
+
+Munjeri,  D.  ‘Tangible  and  Intangible  Heritage:  From  Difference  to  Convergence’.  Museum
+
+International 56, no. 1–2 (2004): 12–20.
+
+Parkes,  D.  and  N.  Thrift.  Times,  Spaces,  and  Places:  A  Chronogeographic  Perspective.  Chichester:
+
+Wiley, 1980.
+
+Plumwood, V. Environmental Culture: The Ecological Crisis of Reason. London: Routledge, 2002.
+Rodman,  M.  C.  ‘Empowering  Place:  Multilocality  and  Multivocality’.  In  The  Anthropology  of
+Space  and  Place:  Locating  Culture,  edited  by  S.  Low  and  L.  Laurence-Zuniga.  Malden,  MA:
+Blackwell, 2003.
+
+Schech, S. and S. Haggis. Culture and Development: A Critical Introduction. Oxford: Blackwell, 2000.
+Setten, G. ‘Farming the Heritage: On the Production and Construction of a Personal and Practised
+
+Landscape Heritage’. International Journal of Heritage Studies 11, no. 1 (2005): 67–79.
+
+vom Lehn, D., C. Heath, J. Hindmarsh and P. Luff. ‘Engaging Constable: Revealing Art with New
+Technology’. In Proceedings of CHI 2007, SICHI Conference on Human Factors in Computing
+Systems. New York: ACM Press, 2007: 1485–94.
+
+

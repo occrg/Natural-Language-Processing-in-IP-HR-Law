@@ -1,0 +1,2589 @@
+792
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 11
+
+Football Dataco v Yahoo! Implications of the ECJ
+judgment
+David Rose and Nina O’Sullivan*
+
+The development of the law relating to the protection
+of databases in the EU has been driven, to a consider-
+able extent, by a line of cases relating to sporting data
+held in ‘sole source databases’, such as football ﬁxture
+lists and horseracing data. Some eight years after its
+landmark judgments
+in British Horseracing Board
+(BHB)1 and Fixtures Marketing Limited (FML),2 where
+it held that the sui generis database right in the Data-
+base Directive 96/9 did not protect the investment in
+‘creating’ data, the Court of Justice of the European
+Union (ECJ) has now considered, in Football Dataco v
+Yahoo!,3 whether, database copyright will protect foot-
+ball ﬁxture lists and comparable databases either.
+
+Aside from the implications for sports governing
+bodies (which have enjoyed considerable revenues by li-
+censing their sporting ﬁxtures lists and similar data),
+Yahoo also forces the English common lawyer to con-
+sider whether, and to what extent,
+the originality
+threshold he has been familiar with for so many years
+is undergoing a fundamental re-appraisal. This is espe-
+cially so when this decision is considered against the
+backdrop of a number of recent ECJ decisions concern-
+ing the threshold requirement of originality, notably in
+Infopaq,4 BSA,5 Painer,6 FAPL7 and more recently in
+SAS v WPL.8
+
+Protection of databases pre-Database
+Directive
+Prior to the implementation of the Directive in UK
+law, football ﬁxture lists (and other such lists) had long
+been held protectable by copyright. Indeed, as Floyd J
+observed at ﬁrst instance in Football Dataco v Yahoo!,9
+this question had been regarded as settled following the
+
+Email: david.rose@sjberwin.com; nina.osullivan@sjberwin.com.
+
+*
+1 C-203/02 The British Horseracing Board Ltd and others v William Hill
+
+Organisation Ltd.
+
+2 C-46/02 Fixtures Marketing Ltd v Oy Veikkaus AB (Finland); C-338/02
+Fixtures Marketing Ltd v Svenska Spel AB (Sweden); C-444/02 Fixtures
+Marketing Ltd v Organismos prognostikon agonon podosfairou AE (OPAP)
+(Greece).
+
+3 C-604/10 Football Dataco Ltd and others v Yahoo! UK Ltd.
+4 Case C-5/08 Infopaq International A/S v Danske Dagblades Forening.
+
+The authors
+† David Rose is a Partner of SJ Berwin LLP and
+the Head of the ﬁrm’s Intellectual Property De-
+partment. Nina O’Sullivan is a Professional
+Support Lawyer in the Intellectual Property De-
+partment at SJ Berwin LLP.
+
+This article
+† This article considers the European Court of Jus-
+tice’s (ECJ) decision in Football Dataco v Yahoo! on
+whether football ﬁxture lists are protected by ‘data-
+base copyright’ under the Database Directive (fol-
+lowing earlier ECJ decisions holding that such lists
+are not protected by the sui generis database right).
+† A ‘database’ will only qualify for copyright pro-
+tection under the Directive where the selection or
+arrangement of
+the data which it contains
+amounts to an original expression of the author’s
+creative freedom. Accordingly, the ECJ has con-
+ﬁrmed that any intellectual effort and skill in cre-
+ating the data are irrelevant.
+
+† Further, the originality requirement will not be
+satisﬁed when the setting up of the database is
+dictated by technical considerations, rules or con-
+straints leaving no room for creative freedom.
+
+† The decision is also a further example, in a line
+of cases starting with Infopaq, of the ECJ’s em-
+phasis on creative endeavour, with potential
+implications for copyright subsistence beyond
+the speciﬁc species of copyright that are the
+subject of harmonized rules (such as database
+rights and software copyright).
+
+5 C-393/09 Bezpecˇnostnı´ softwarova´ asociace—Svaz softwarove´ ochrany
+
+v Ministry of Culture of the Czech Republic.
+
+6 C-145/10 Painer v Standard Verlags GmbH and others.
+7 C-403/08 and C-429/08 Football Association Premier League Ltd and others
+
+v QC Leisure and others.
+
+8 C-406/10 SAS Institute Inc v World Programming Ltd.
+9
+
+Football Dataco Ltd and others v Brittens Pools Ltd and others [2010]
+EWHC 841 (Ch).
+
+# The Authors (2012). Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jps163
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+1
+1
+7
+9
+2
+9
+3
+1
+0
+3
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+David Rose and Nina O’Sullivan . Implications of the ECJ judgment
+
+ARTICLE
+
+793
+
+1959 decision in Football League Ltd v Littlewoods Pools
+Ltd.10
+
+In Littlewoods Pools, Upjohn J held:
+
+Copyright for such a compilation [ie a ﬁxture list] can be
+claimed successfully if it be shown that some labour, skill,
+judgment or ingenuity has been brought to bear upon the
+compilation. The amount of labour, skill, judgement or in-
+genuity required to support successfully a claim for copy-
+right is a question of fact and degree in every case.11
+
+Upjohn J rejected Littlewoods’s submission that the
+skill and labour expended by the Football League was
+focused on creating a programme of football games and
+not to reducing that information to a material form. In
+assessing the amount of skill,
+labour and judgement
+which went into a compilation the court had to have
+‘regard to the whole history, including any work done
+to bring the data into existence in the ﬁrst place’.12
+
+Although Littlewoods was decided under the Copy-
+right Act 1956, the successor statute, the Copyright,
+Designs and Patents Act 1988 (CDPA), continued to
+protect compilations (including ﬁxture lists) as literary
+works.
+
+The test for originality of a database as a compil-
+ation pre-Database Directive under English law was the
+same as for all other copyright works: it had to be ori-
+ginal in the sense that it had not been copied and it
+had to be the subject of some labour, skill or judge-
+ment. This relatively low threshold for originality had
+been conﬁrmed in Ladbroke (Football) Ltd v William
+Hill (Football) Ltd13 (concerning a ﬁxed odds betting
+coupon), the House of Lords holding originality was a
+‘matter of degree depending on the amount of skill,
+judgement or labour that has been involved in making
+the compilation’.14
+
+The Database Directive
+The Directive introduced two forms of protection for
+databases which are considered below: sui generis data-
+base right and database copyright. The Directive
+deﬁnes ‘database’ for both the sui generis right and
+copyright at Article 1(2) as ‘ . . . a collection of inde-
+pendent works, data or other materials arranged in a
+systematic or methodical way and individually access-
+
+ible by electronic or other means’. This broad deﬁnition
+will include most databases, including, for example, a
+street or telephone directory and a customer list.
+
+As the ECJ conﬁrmed in FML, the deﬁnition is
+broad enough to include football ﬁxture lists. In that
+case the ECJ held that the compilation of dates, times,
+and names of football teams relating to various differ-
+ent football ﬁxtures in the form of a ﬁxture list was a
+collection of independent materials and met the condi-
+tions as to systematic or methodical arrangement and
+individual accessibility.15
+
+The protection afforded under
+
+the Directive,
+whether by copyright or database right,
+is only for
+‘databases’ which meet the deﬁnition in Article 1(2). In
+Football Dataco v Yahoo!, no doubt given the ﬁnding in
+FML, the defendants accepted that football ﬁxture lists
+were databases within the meaning of Article 1(2).16
+
+Two-tier protection
+The sui generis database right and database copyright
+are independent of each other (although both may
+subsist in respect of the same database), with different
+conditions for subsistence, duration and infringement.
+A database in which copyright subsists will enjoy pro-
+tection for the life of the author plus 70 years.17 The
+term of protection for the sui generis database right is
+15 years from the end of the calendar year in which the
+database was completed (unless it was made available
+to the public before the end of this period, in which
+case it will last for 15 years from the end of the year in
+which it was made available to the public).18
+
+The sui generis database right protects the invest-
+ment employed in obtaining, verifying and presenting
+the contents of a database. Database copyright protects
+the intellectual creation involved in the selection and
+arrangement of the data within the database, ie the
+structure of the database and not the individual con-
+tents (although they may be the subject of separate
+copyright protection).
+
+This
+
+structure/contents dichotomy follows
+
+from
+Recitals 15 and 58, and Article 3(2) which provide:
+† Recital 15—‘Whereas the criteria used to determine
+whether a database should be protected by copyright
+
+10 Football League Ltd v Littlewoods Pools Ltd [1959] Ch 637.
+11 Ibid, p 651.
+12 Football Dataco v Brittens Pools, above, n 9, para 48.
+13 [1964] 1 WLR 273.
+14 Ibid, p 278.
+15 See C-444/02 FML, paras 33 –36.
+16 C-173/11 Football Dataco Ltd and others v Sportradar GmbH and another.
+17 Provided that the author is a qualifying person.
+
+18 Although a regularly updated database probably enjoys a rolling 15-year
+
+period of protection: Art 10(3) of the Directive provides that
+
+Any substantial change, evaluated qualitatively or quantitatively, to the
+contents of a database, including any substantial change resulting from
+the accumulation of successive additions, deletions or alterations,
+which would result in the database being considered to be a substantial
+new investment, evaluated qualitatively or quantitatively, shall qualify
+the database resulting from that
+for its own term of
+protection.
+
+investment
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+1
+1
+7
+9
+2
+9
+3
+1
+0
+3
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+794
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 11
+
+should be deﬁned to the fact that the selection or ar-
+rangement of the contents of the database is the
+author’s own intellectual creation; whereas such pro-
+tection should cover the structure of the database.’
+† Recital 58—‘Whereas, in addition to the protection
+given under this Directive to the structure of the
+database by copyright, and to its contents against
+unauthorised extraction and/or re-utilisation under
+the sui generis right. . . .’
+† Article 3(2)—‘The copyright protection of databases
+provided for by this Directive shall not extend to
+their contents and shall be without prejudice to any
+rights subsisting in those contents themselves.’
+
+However, as noted in Laddie, Prescott & Vitoria,19 the
+‘precise ambit of the matter which is properly the
+subject of copyright in a database is not clear’, and
+the content/structure division is perhaps not as obvious
+as often suggested. While arrangement of the contents of
+a database is part of its structure, selection of the con-
+tents may, if constituting the author’s own intellectual
+creation, be the subject of copyright protection. This,
+they note, extends to the contents as a body regardless
+of the structure of the database (arguing that Article
+3(2) prohibits database copyright for the contents indi-
+vidually, as opposed to the contents as a whole body).
+
+Database copyright: Article 3
+Article 3(1) provides that ‘databases which, by reason
+of the selection or arrangement of their contents, con-
+stitute the author’s own intellectual creation shall be
+protected as such by copyright. No other criteria shall
+be applied to determine their eligibility for protection.’
+In the UK, a new s 3A was introduced into the
+CDPA by the Copyright and Rights in Databases Regu-
+lations 1997. Section 3A(2) provides that ‘ . . . a literary
+work consisting of a database is original if, and only if,
+by reason of the selection or arrangement of the con-
+tents of
+the database the database constitutes the
+author’s own intellectual creation’.
+
+The key phrase is ‘the author’s own intellectual cre-
+ation’. While this phrase was used in UK legislation for
+the ﬁrst time in this provision, it had already featured
+in other European legislation as a condition for copy-
+
+right protection. The wording derives from Article 2(5)
+of the Berne Convention20 and also appears in Article
+10(2) of TRIPS in relation to computer programs and
+compilations of data.21 It has long been a feature of
+copyright subsistence in civil law jurisdictions.
+
+‘a
+
+that
+
+Aside from the Directive, ‘author’s own intellectual
+creation’ has been used in the context of subsistence of
+copyright in computer programs, Article 1(3) of the
+Software Directive22 providing
+computer
+program shall be protected if it is original in the sense
+that it is the author’s own intellectual creation. No
+other criteria shall be applied to determine its eligibility
+for protection.’ It is also used in relation to photo-
+graphs, in Article 6 of the Term Directive,23 which pro-
+vides that ‘photographs which are original in the sense
+that they are the author’s own intellectual creation shall
+be protected . . . ’.
+
+The concept of ‘author’s own intellectual creation’
+does not, however, get an explicit mention in the Infor-
+mation Society Directive24 (also known as ‘the Copy-
+right Directive’). A key purpose of
+the Copyright
+Directive was to harmonize the scope of the copyright
+owner’s rights rather than to establish threshold levels
+of protection. However, questions of subsistence and
+infringement are
+inevitably intertwined. This was
+acknowledged in the ECJ’s decision in Infopaq,
+in
+which it was required to consider Article 2 of the
+Copyright Directive which provides
+‘Member
+States shall provide for the exclusive right to authorise
+or prohibit direct or indirect, temporary or permanent
+reproduction by any means and in any form, in whole
+or in part for authors, of their works.’
+
+that
+
+The ECJ held that it was apparent from the general
+scheme of the Berne Convention, in particular Article
+2(5) and (8), that the protection of certain subject
+matters as artistic or literary works presupposed that
+they were intellectual creations (as noted, this position
+is supported by the Directives protecting computer pro-
+grams, databases and photographs). Since the Copyright
+Directive had established a harmonized legal framework
+for copyright, a literary work would only be protected
+by copyright under Article 2(a) if it was original in the
+sense that it was its author’s own intellectual creation.25
+In the context of newspaper articles (the subject matter
+
+19 H Laddie, P Prescott and M Vitoria The Modern Law of Copyright
+
+(4th edn, Lexis Nexis, London, 2011), paragraph 32.20.
+
+selection or arrangement of their contents constitute intellectual
+creations, shall be protected as such . . ..’
+
+20 Article 2(5) Berne Convention provides: ‘Collections of literary or artistic
+
+22 Directive 91/250 on the legal protection of computer programs (replaced
+
+works such as encyclopaedias and anthologies which, by reason of the
+selection and arrangement of their contents, constitute intellectual
+creations, shall be protected as such, without prejudice to the copyright
+in each of the works forming part of such collections.’
+
+21 Article 10(2) TRIPS provides: ‘Compilations of data or other material,
+
+whether in machine readable or other form, which by reason of the
+
+by codiﬁed Directive 2009/24).
+
+23 Directive 93/98 harmonising the term of protection of copyright and
+
+certain related rights.
+
+24 Directive 2001/29 on the harmonisation of certain aspects of copyright
+
+and related rights in the information society.
+
+25 Infopaq, above, n 4, paras 34 –37.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+1
+1
+7
+9
+2
+9
+3
+1
+0
+3
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+David Rose and Nina O’Sullivan . Implications of the ECJ judgment
+
+ARTICLE
+
+795
+
+in dispute in Infopaq), the ECJ held that the author’s
+own intellectual creation would be evidenced clearly
+from the form, the manner in which the subject was pre-
+sented and in the linguistic expression. The words them-
+selves,
+in isolation, were not as such an intellectual
+creation of the author; ‘it was only through the choice,
+sequence and combination of those words that the
+author may express his creativity in an original manner
+and achieve a result which is an intellectual creation’.26
+As a result, the ECJ held, it was possible that certain iso-
+lated sentences or parts of sentences (including 11-word
+extracts) could constitute an element which was,
+in
+itself, an expression of the author’s intellectual creation.
+The ECJ considered ‘author’s own intellectual cre-
+ation’ further in BSA, which concerned a graphic user
+interface (GUI). The ECJ held that the GUI did not
+constitute a form of expression of a computer program
+within Article 1(2) of the Software Directive. However,
+following Infopaq, a GUI could be protected by
+copyright under the Copyright Directive if it was its
+author’s own intellectual creation. The national court
+was required to take into account the speciﬁc arrange-
+ment or conﬁguration of all the components which
+formed part of the GUI in order to determine whether
+they met the criterion of originality. In particular, com-
+ponents which were ‘differentiated only by their tech-
+nical function’ had to be excluded as they did ‘not
+permit the author to express his creativity in an origin-
+al manner and achieve a result which is an intellectual
+creation of that author’.27
+
+In contrast, in Football Association Premier
+League, the ECJ held, applying Infopaq, that
+there was no copyright in a sporting event such as
+
+a football match
+
+The ECJ considered Article 6 of the Term Directive in
+Painer, a case concerning portrait photographs. It re-
+ferred to Recital 17 of that Directive, which provides
+that a photographic work will be considered original ‘if
+it is the author’s own intellectual creation reﬂecting his
+personality, no other criteria such as merit or purpose
+being taken into account’. The ECJ decided that a
+photograph would reﬂect the author’s personality if the
+
+26 Ibid, paras 44 –45.
+27 BSA, above, n 5, paras 46 – 51.
+28 Painer, above, n 6, para 89.
+29 Ibid, para 92.
+
+author ‘was able to express his creative abilities in the
+production of the work by making free and creative
+choices’,28 eg in the context of a portrait photograph in
+choosing the background, the subject’s pose and the
+lighting, as well as the framing, angle of view and at-
+mosphere, and in adopting a choice of developing tech-
+nique. In making those various choices, the author of a
+portrait photograph was able to ‘stamp the work
+created with his “personal touch”’.29
+
+In contrast, in Football Association Premier League,
+the ECJ held, applying Infopaq, that there was no copy-
+right in a sporting event such as a football match.
+Given its origin in rules, there was no room for creative
+freedom for the purposes of establishing intellectual
+creation.30
+
+Subsequent
+
+to its decision in Football Dataco v
+Yahoo!, in SAS v WPL, the ECJ held that the functional-
+ity of a computer program, its programming language
+and the format of data ﬁles did not constitute a ‘form
+of expression’ of that program under Article 1(2) of the
+Software Directive. However, following BSA, the SAS
+programming language and format of
+its data ﬁles
+could enjoy protection under Article 2(a) of the Copy-
+right Directive if they amounted to the author’s own
+intellectual creation.31
+
+Football Dataco v Yahoo! presented the ﬁrst oppor-
+tunity for the courts to interpret Article 3 of the Dir-
+ective. In deﬁning the requirement of originality by
+reference to the author’s own intellectual creation, it
+had generally been accepted that Article 3(1) had
+clearly ‘raised the bar’32 in respect of copyright protec-
+tion of databases in the UK. As Laddie, Prescott &
+Vitoria put it, however, it did not just impose a higher
+standard for protection:
+
+The new requirement is not just a raising of the threshold.
+It imposes a requirement which is fundamentally different
+in kind. First it restricts consideration only to the arrange-
+ment or selection of the contents. So the skill and labour
+in gathering (as opposed to any selection) or verifying is
+not relevant. More fundamentally the database must, when
+these two factors are considered, constitute its author’s
+own intellectual creation. This imposes a signiﬁcant quali-
+tative factor on the test. . . . It is submitted that there must
+be something which has had the author’s creativity
+stamped upon it. By this we mean that it must be some-
+thing which could not be something which could fairly be
+said to be something which could have been created by
+
+30 FAPL, above, n 7, para 98.
+31 SAS v WPL, above, n 8, para 45.
+32 Football Dataco v Brittens [2010] EWHC 841 (Ch), para 53.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+1
+1
+7
+9
+2
+9
+3
+1
+0
+3
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+796
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 11
+
+many others. There must be some ‘subjective’ contribu-
+tion. A ‘sweat of the brow’ collection will not do.33
+
+The ‘suigeneris’ database right: Article 7
+The ECJ had already had occasion to interpret
+the
+proper scope of the sui generis database right in four
+landmark decisions in November 2004, all of which con-
+cerned sporting data—BHB, a reference from the English
+Court of Appeal concerning pre-race horse riding data;
+and FML, three references respectively from Finland,
+Sweden and Greece, concerning football ﬁxture lists.
+
+Article 7 provides that the sui generis database right
+gives protection to the maker of a database where ‘ . . .
+there has been qualitatively and/or quantitatively a sub-
+stantial investment in either the obtaining, veriﬁcation
+or presentation of the contents to prevent extraction
+and/or re-utilisation of the whole or of a substantial
+part, evaluated qualitatively and/or quantitatively, of
+the contents of that database’.
+
+The BHB, as the ofﬁcial governing body of
+
+the
+British horseracing industry, compiled and maintained
+pre-race horse racing data (‘the runners and riders
+database’). It brought proceedings against William Hill
+for infringement of sui generis database right arising
+from William Hill’s unauthorized use of the data (but
+did not include a claim for database copyright infringe-
+ment).
+
+At trial, William Hill did not dispute that the sui
+generis database right protected the BHB database.
+Instead, it submitted, inter alia, that the scope of pro-
+tection was narrow and there had to be the taking of
+some unfair advantage of the ‘databaseness’ of the data-
+base, ie the manner in which the contents of the data-
+base were arranged. The Court of Appeal thought that
+the scope of protection was not clear and referred nu-
+merous questions to the ECJ, although it effectively
+assumed that the database qualiﬁed for protection.
+
+The ECJ held that the ‘runners and riders’ database
+was not protected by the sui generis database right. It
+drew a clear distinction between investment in the cre-
+ation of the underlying information and investment in
+storing and processing information in a database. Only
+the latter type of investment attracted protection under
+the sui generis right. Of central importance to its reason-
+ing was the purpose of the Directive, as set out in Reci-
+tals 9, 10 and 12, ie promotion and protection of the
+investment in data ‘storage’ and ‘processing’ systems.
+
+In a key passage, it held that Article 7
+
+33 Para 32.29.
+34 BHB, above, n 1, para 31.
+35 See C-444/02 FML, para 49.
+
+. . . must . . . be understood to refer to the resources used
+to seek out existing independent materials and collect
+them in the database, and not to the resources used for the
+creation as such of independent materials. The purpose of
+the protection by the sui generis right . . . is to promote the
+establishment of storage and processing systems for exist-
+ing information and not the creation of materials capable
+of being collected subsequently in a database.34
+
+In FML, the claimant (a company connected with Foot-
+ball Dataco, responsible for exploitation of ﬁxture lists
+outside of the UK) brought actions in Finland, Sweden
+and Greece for infringement of database right in football
+ﬁxture lists. The ECJ held that the investment was again
+of the ‘wrong sort’ in that the resources deployed by
+FML in determining ﬁxtures, dates and times, was done
+in the context of arranging the ﬁxtures and represented
+investment
+themselves.
+Further, ﬁnding and collecting the data making up foot-
+ball ﬁxture lists did not require any particular effort on
+behalf of the Leagues and were activities which were ‘ . . .
+indivisibly linked to the creation of those data’.35
+
+in the creation of
+
+the lists
+
+Both BHB and FML were decisions of the Grand
+Chamber of the ECJ. They were highly controversial
+decisions, given the strict dividing line the ECJ had
+drawn between investment in the creation of data and
+investment in collection of existing independent data.
+As Laddie, Prescott & Vitoria suggested, the decisions
+were based ﬁrmly in policy, ie promotion of the estab-
+lishment of storage and processing systems comprising
+existing information and not the creation of a new
+property right in the data themselves.36
+
+The effect of the ECJ’s decisions was to reduce dra-
+matically the protection available to those involved in
+creating data such as the BHB and FML. Doubts were
+widely expressed as to the value of the sui generis right
+as a form of protection for databases, given the ECJ’s
+narrow interpretation, with database creators looking
+to adopt different processes to ensure there was inde-
+pendent and substantial investment in veriﬁcation and
+presentation of data as opposed to their creation.
+
+right protection, others have
+
+However, while such collections of data have been
+found not to satisfy the requirements for sui generis
+database
+shown the
+‘correct’ type of investment. In BSkyB v Digital War-
+ranty,37 Arnold J distinguished BHB and FML in a case
+concerning a Sky TV customer database. The key infor-
+mation in BHB and FML had been created by or on
+behalf of the claimants, the lists being created using pre-
+
+36 Laddie, Prescott and Vitoria, above, n 19, para 32.47.
+37 British Sky Broadcasting Group plc v Digital Satellite Warranty Cover Ltd
+
+[2011] EWHC 2662 (Ch).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+1
+1
+7
+9
+2
+9
+3
+1
+0
+3
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+David Rose and Nina O’Sullivan . Implications of the ECJ judgment
+
+ARTICLE
+
+797
+
+existing information—but what resulted was new infor-
+mation. Sky, however, did not create new information
+when it entered a customer’s details into its database but
+simply recorded pre-existing information in a systematic
+way. Similarly, in Football Dataco v Sportradar, Floyd J,
+in holding that ‘Football Live’ was protected by database
+right, gave the following explanation:
+
+. . . . Data which is created by an individual or organisa-
+tion is, in most cases at least, not available to others until
+it is created. There is, accordingly, no alternative source for
+such data. If one allows a database right to attach to data
+which is created by the maker of the database, the creator
+obtains a true monopoly in that data. Such a result would
+be inconsistent with the objectives of the Directive. The
+Directive should not be construed in a way which gives a
+party a monopoly in facts, such as the runners and riders
+or the ﬁxture lists. On the other hand where a database
+consists of data obtained from sources available to the
+public, such as existing published data, the balance of
+policy considerations is different. There is (or should be)
+nothing to prevent the public from investing in obtaining
+those data themselves. The owner of a database right in
+data which is obtained in this way does not achieve a
+stranglehold on the facts. The objectives of the Directive
+are therefore furthered by encouraging investment in the
+obtaining, veriﬁcation and presentation of data, without
+creating monopolies in fact.38
+
+FootballDatacovYahoo!
+Given the rejection of the sui generis database right as a
+method of protection, the focus subsequently moved to
+database copyright
+football
+ﬁxture lists. In March 2010, Floyd J delivered judgment
+on a preliminary issue as to which rights, if any, sub-
+sisted in the ﬁxture lists for the English and Scottish
+Premier Leagues and football leagues.
+
+for databases
+
+such as
+
+Football Dataco, which exploits data and rights in
+connection with those leagues and together with them,
+brought proceedings against a number of betting com-
+panies and Yahoo!, relying upon database copyright,
+the sui generis database right and also on copyright in
+the lists as a table or compilation other than a database.
+They submitted detailed evidence as to the annual pro-
+duction of the ﬁxture lists, the process comprising
+various stages including preparation of an initial sched-
+ule, sending out and analysis of ﬁxture questionnaires
+to clubs, acts of sequencing and pairing to produce
+draft lists and reviewing of those lists. This process was
+subject throughout to the so-called ‘golden rules’:
+
+38 Football Dataco Ltd and others v Sportradar GmbH and others [2012]
+
+EWHC 1185 (Ch), para 19. The case is under appeal and will be heard in
+December 2012.
+
+matches (ie no HHH or AAA);
+
+four home matches or
+AAHAA is not permissible);
+
+† No club shall have three consecutive home or away
+† In any ﬁve consecutive matches, no club shall have
+four away matches (eg
+† As far as possible, each club should have played an
+equal number of home and away matches at all
+times during the season; and
+† All clubs should have as near as possible an equal
+
+number of home and away mid-week matches.
+
+The individual responsible for producing the lists on
+behalf of Football Dataco and the Leagues described the
+process in his evidence as a ‘mixture of science and art’.
+
+Floyd J made the following ﬁndings of fact:
+
+1. The process involved ‘ . . . very signiﬁcant labour and
+skill in satisfying the multitude of often competing
+requirements’ and was ‘ . . . not entirely deterministic’.
+2. The process was not one where everyone would come
+up with the same answer. Some solutions accommo-
+dated clubs’ requirements more than others.
+
+3. The work was ‘ . . . not mere “sweat of the brow”’, in-
+volving ‘application of rigid criteria to the processing
+of data’. A telephone directory would involve mere
+application of rigid criteria but here, there was, at
+each stage, scope for the application of judgement
+and skill. Unlike a sweat of the brow compilation,
+some solutions would work better, others would not
+work at all. The quality of the solution depended in
+part upon the skill of those involved.
+
+4. To the extent
+
+that computers were used in the
+process, they did not eliminate the use of judgement
+and discretion.
+
+Applying FML, Floyd J held that the ﬁxture lists were
+not protected by the sui generis database right. He also
+rejected the claim to copyright infringement irrespect-
+ive of the Directive.
+
+In relation to database copyright, however, Floyd J
+held that ‘selection or arrangement’ for the purposes of
+Article 3 did not exclude selection or arrangement deci-
+sions taken during the creation of the data. He distin-
+guished BHB and FML, stressing that care should be
+taken before applying the ECJ’s reasoning to a case
+under Article 3. The purpose of the two rights was differ-
+ent, the purpose of copyright being to encourage creative
+endeavour, whereas the sui generis right was designed to
+promote investment in particular types of data gather-
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+1
+1
+7
+9
+2
+9
+3
+1
+0
+3
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+798
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 11
+
+ing. He noted that the process of selection and arrange-
+ment of the contents of a database often began before all
+the data are created: ‘to cut out from consideration these
+selection decisions, merely because they occur whilst the
+database is being created, seems to me to be arbitrary,
+and conceptually fraught with difﬁculty . . . ’.39
+
+Floyd J next considered whether that selection or ar-
+rangement of the data constituted the author’s own in-
+tellectual creation. He referred to the compilation CD
+example in Recital 19 of the Directive40 and suggested
+that it implied that such a selection did not have
+‘ . . . How much is good
+enough of
+enough is not made clear, and will no doubt vary from
+case to case. The quality in question is the author’s in-
+dividual creativity.’41
+
+some quality:
+
+Citing with approval the statement in Laddie, Prescott
+& Vitoria that there had to be ‘something which has had
+the author’s creativity stamped upon it’, Floyd J
+concluded that database copyright did subsist in the
+lists. There was relevant selection and arrangement in
+the choice of dates and the decisions as to which match
+was played on which date which did, in his judgement,
+constitute the author’s own intellectual creation. There
+were numerous stages through the process of allocating
+matches to dates and in selecting the dates themselves
+where the producer of the lists had to exercise judge-
+ment and discretion. The work done was quantitatively
+sufﬁcient (no two ﬁxtures could be freely changed
+without affecting another) and was more substantial
+than that involved in Recital 19’s CD example.
+
+On appeal, the Court of Appeal (for which Jacob LJ
+gave the judgment) held42 that the question of copy-
+right subsistence under Article 3 was not acte clair (it
+upheld Floyd J’s decision on sui generis database right)
+and decided to refer the following questions to the
+ECJ:
+
+What is meant by ‘databases which, by reason of the selec-
+tion or arrangement of
+their contents, constitute the
+author’s own intellectual creation’ and in particular:
+
+(a) Should the intellectual effort and skill of creating
+
+data be excluded?
+
+(b) Does ‘selection or arrangement’ include adding im-
+portant signiﬁcance to a pre-existing item of data (as in
+ﬁxing the date of a football match)?
+
+(c) Does ‘author’s own intellectual creation’ require
+more than signiﬁcant labour and skill from the author, if
+so what?
+
+Unusually, Jacob LJ expressed no view as to which of the
+rival contentions was correct in relation to (a), ﬁnding
+merit in both. If the claimants’ arguments were adopted,
+the BHB and FML rulings would be ineffective—the
+‘lesser’ form of protection in the form of database right
+would not be available but copyright would, with conse-
+quences for other databases containing created data
+which involved a ‘great deal of time, energy and skill’
+such as TV listings. However, there was considerable
+skill and judgement in creating the ﬁxture lists which
+was arguably ‘arranging or
+(ie the
+matches to be played) as well as creating data (ﬁxing the
+dates).
+
+selecting data’
+
+the work of
+
+Jacob LJ also expressed doubts as to interpretation
+of ‘the author’s own intellectual creation’: Article 3 did
+not include a criterion of ‘artistic skill’ but required
+that
+selecting and arranging be the
+‘author’s own intellectual creation’. While this would
+exclude mere mechanistic ‘sweat of brow’ databases, it
+was ‘far from self-evident that other, truly creative but
+not artistic, work is excluded. Quite what the meaning
+and limits of “author’s own intellectual creation” is
+also . . . a question calling for an answer.’43
+
+Finally, there was enough of a ‘lingering doubt’ to
+refer a question on the issue of whether, post the Dir-
+ective, national laws as to copyright subsistence in data-
+bases were preserved.
+
+The ECJ’s judgment
+The ECJ ruled on 1 March 2012 that the Directive
+precluded reliance on pre-Directive national
+legisla-
+copyright protection. The whole
+tion affording
+the Directive was to remove disparities
+purpose of
+between national
+legislation in relation to the
+scope and conditions of copyright protection for
+databases.
+
+The ECJ emphasized that, as Article 3(2) and Recital
+15 made clear, Article 3(1) afforded copyright protec-
+tion to the ‘structure’ of the database and not to its
+‘contents’. The intellectual effort and skill of creating
+data were not relevant under Article 3(1) as the con-
+cepts of ‘selection’ and of ‘arrangement’ referred re-
+spectively to the selection and arrangement of data,
+through which the author of the database gave it its
+structure. Those concepts did not extend to the cre-
+ation of the data contained in the database.44 Accord-
+
+39 Football Dataco v Brittens Pools n 9, para 82.
+40 ‘Whereas, as a rule, the compilation of several recordings of musical
+
+41 Football Dataco v Brittens Pools, n 9, para 84.
+42 Football Dataco Ltd and others v Yahoo! UK Ltd and others [2012] EWCA
+
+performances on a CD does not come within the scope of this Directive,
+both because, as a compilation, it does not meet the conditions for
+copyright protection and because it does not represent a substantial
+enough investment to be eligible under the sui generis right.’
+
+Civ 1380. Brittens were no longer a party.
+
+43 Ibid, para 21.
+44 Football Dataco v Yahoo!, n 3, paras 30 –33.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+1
+1
+7
+9
+2
+9
+3
+1
+0
+3
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+David Rose and Nina O’Sullivan . Implications of the ECJ judgment
+
+ARTICLE
+
+799
+
+ingly, the intellectual effort and skill in creating the
+data in Football Dataco’s ﬁxture lists were irrelevant to
+the assessment of database copyright protection.
+
+The ECJ said that its analysis was conﬁrmed by the
+Directive’s purpose, following BHB and FML. As stated
+in Recitals 9, 10 and 12, this was to stimulate the cre-
+ation of data storage and processing systems, not to
+protect the creation of materials capable of being col-
+lected in a database. Football Dataco’s
+intellectual
+resources were deployed in arranging the leagues for
+determining the relevant ﬁxtures, in accordance with a
+set of rules, parameters, and organisational constraints,
+as well as the speciﬁc requests of the clubs concerned.
+As such, they related to the creation of the same data
+which were in the database and were of no relevance.45
+This effectively resolved the issue of database copy-
+right protection, but the ECJ then gave guidance as to
+‘author’s own intellectual creation’. It referred to Recital
+16 which provides: ‘Whereas no criterion other than ori-
+ginality in the sense of the author’s own intellectual cre-
+ation should be applied to determine the eligibility of
+the database for copyright protection, and in particular
+no aesthetic or qualitative criteria should be applied.’
+It then applied its interpretation of the originality re-
+quirement as developed in Infopaq, BSA, FAPL and
+Painer, to the setting up of a database. It held that the
+originality criterion would be satisﬁed in the setting up
+of a database where ‘ . . . through the selection or ar-
+rangement of the data which it contains, its author
+expresses his creative ability in an original manner by
+making free and creative choices . . . and thus stamps his
+“personal touch”’.46 However, as in BSA and FAPL, it
+would not be satisﬁed where the setting up of the database
+was ‘ . . . dictated by technical considerations, rules or con-
+straints which leave no room for creative freedom’.47
+
+Accordingly, the ECJ concluded that signiﬁcant labour
+and skill in setting up a database (irrespective of the data
+which it contains) would only qualify a database for
+copyright protection if it expressed originality in the se-
+lection or arrangement of the data. Whilst the Court of
+Appeal had to determine whether Football Dataco’s
+ﬁxture lists are protected by copyright,48 the ECJ did not
+give it much scope for manoeuvre, expressing the clear
+view that its procedures for creating the lists would not
+sufﬁce, unless they were supplemented by elements that
+did reﬂect originality in the selection or arrangement of
+the data.49
+
+independent data. Recent examples
+
+A ﬁnal resolution
+The position as to what database copyright and the sui
+generis database right protect appears to have been
+ﬁnally resolved:
+† The individual contents of a database may be pro-
+tected by copyright if they meet the relevant require-
+ments e.g. in a list of poems, the individual poems
+will be protected by copyright. However, the con-
+tents of a ﬁxture list or other similar list of informa-
+tion will not be protected by copyright.
+† The contents of a database may be protected by the
+sui generis database right if there is sufﬁcient invest-
+ment in obtaining, verifying or presenting pre-exist-
+ing,
+include
+customer databases (BSkyB v Digital Warranty), a
+list of 1100 German poems (Directmedia Publishing
+GmbH v Albert-Ludwigs-Universita¨t Freiburg),50 a
+database of individuals associated with a GP practice
+(Beechwood House Publishing Ltd v Guardian Pro-
+ducts Ltd)51 and a list of ‘PM Abs’ or permanent
+memory absolute addresses
+for mobile phones
+(Forensic Telecommunications Services Ltd v Chief
+Constable of West Yorkshire Police).52
+† The structure of a database may be protected by data-
+base copyright if it can be shown that, in the setting
+up of the database and through the selection or ar-
+rangement of
+its author
+expressed his creative ability in an original manner by
+making free and creative choices, thereby stamping
+his ‘personal touch’. Database copyright will not be
+available where the setting up of the database is dic-
+tated by technical considerations, rules or constraints
+which leave no room for creative freedom. An
+example of a list that may qualify could be a list of
+‘Europe’s 50 Most Brilliant Lawyers’—such a list
+would require the author to exercise creative freedom
+in identifying the individuals to include in the list.
+† A work which falls outside the deﬁnition of a data-
+base in Article 1(2) may still be protected in copy-
+right under the CDPA as a compilation.
+† There appears to be little remaining scope for pro-
+tection of ‘sole source databases’ such as football
+ﬁxture lists or TV listings.
+
+the data it contains,
+
+The ECJ’s speciﬁc conclusions in relation to database
+copyright may perhaps be of limited signiﬁcance, with
+
+45 Ibid, paras 34 –36.
+46 Ibid, para 38.
+47 Ibid, para 39.
+48 The Court of Appeal will hear the case further in November 2012.
+49 Ibid, paras 41 –43.
+
+50 C-304/07 Directmedia Publishing GmbH v Albert-Ludwigs-Universita¨t
+
+Freiburg.
+
+51 Beechwood House Publishing Ltd v Guardian Products Ltd [2010] EWPCC 12.
+52 Forensic Telecommunications Services Ltd v Chief Constable of West
+
+Yorkshire Police [2011] EWHC 2892 (Ch).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+1
+1
+7
+9
+2
+9
+3
+1
+0
+3
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+800
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2012, Vol. 7, No. 11
+
+greater interest attaching to the ECJ’s ongoing and con-
+sistent promotion of a test for originality focussed on
+the concept of creativity. This has potential to lead to a
+re-shaping of the traditional common law approach to
+the question of originality, an argument that was made
+in Newspaper Licensing Agency Ltd v Meltwater Holding
+BV and others.53 At ﬁrst instance, Proudman J applied
+Infopaq in holding that certain newspaper headlines
+were independent literary works, and that text extracts
+from newspaper articles reproduced by the defendants
+amounted to a reproduction of a copyright work,
+because they expressed the author’s intellectual cre-
+ation. The defendants argued that Infopaq had over-
+ruled or at least ‘overtaken’ the test in Ladbroke v
+William Hill by introducing the concept of creativity—
+it was not merely a different means of expressing the
+test of skill,
+judgement and labour but required a
+higher degree of originality. Proudman J suggested that
+the test of quality had been ‘re-stated but for present
+purposes not signiﬁcantly altered by Infopaq’,54 albeit
+she acknowledged that the decision sat awkwardly with
+certain provisions of English law and that its full impli-
+cations had not yet been worked out.
+
+The Court of Appeal upheld Proudman J’s ﬁndings.
+In relation to subsistence of copyright in headlines, the
+Chancellor, giving the judgment of the court, held that
+in Infopaq, the ECJ had clearly related the question of
+‘intellectual creation’ to the question of origin and not
+to novelty or merit. Accordingly, the Court of Appeal
+held,
+Infopaq did not qualify the long standing
+common law test that the work had to be original in
+
+the sense of originating from the author.55 Meltwater
+has been appealed to the Supreme Court, which will
+hear the case next year. However, the authors under-
+stood that the appeal does not cover the test for ‘ori-
+ginality’ but focuses on the temporary copies exception
+to infringement.
+
+Of course, in many cases, both the skill and labour
+test and the ‘author’s own intellectual creation’ test, to
+the extent that they are in any event different, will
+produce the same result. An example is Temple Island
+Collections Ltd v New England Teas Ltd,56 where Judge
+Birss QC held that copyright subsisted in a black and
+white photograph of a red bus travelling across West-
+minster Bridge. The judge held that the work was ori-
+ginal as it was the result of the photographer’s own
+intellectual creation both in terms of his choices relat-
+ing to the photograph itself and also in terms of work
+done after to manipulate the image. As the judge put
+it: ‘These elements . . . derive from and are the expres-
+sion of skill and labour exercised by Mr Fielder, or in
+Infopaq terms, they are his intellectual creation.’57 This
+approach by the judge bears an uncanny resemblance
+to that taken by judges of the Patents Court in recent
+years where, when assessing whether a claimed inven-
+tion is obvious (ie lacks an inventive step), the court
+has cross-checked the question by considering both the
+traditional ‘historical’ approach of the English courts
+and also the EPO’s ‘problem-solution’ analysis.58 To the
+best of the authors’ knowledge, in no case where this
+dual assessment has been undertaken has there been a
+divergence of outcome.
+
+53 Newspaper Licensing Agency Ltd and others v Meltwater Holding BV and
+
+others [2010] EWHC 3099 (Ch); [2011] EWCA Civ 890.
+
+54 Newspaper Licensing Agency [2010] EWHC 3099 (Ch), para 81.
+55 Newspaper Licensing Agency [2011] EWCA Civ 890, para 20.
+
+56 Temple Island Collections Ltd v New England Teas Ltd [2012] EWPCC 1.
+57 Ibid, para 53.
+58 For example, in Intervet UK Ltd v Merial The Queen’s University of
+
+Belfast, The University of Saskatchewan [2010] EWHC 294 (Pat).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+7
+1
+1
+7
+9
+2
+9
+3
+1
+0
+3
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+2
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+

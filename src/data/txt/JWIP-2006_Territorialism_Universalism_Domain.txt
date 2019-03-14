@@ -1,0 +1,1538 @@
+The Journal of World Intellectual Property (2006) Vol. 9, no. 1, pp. 1–24
+
+Territorialism versus Universalism:
+International Intellectual Property Law in
+the Internationalized Domain Name System
+
+Hong Xue
+
+University of Hong Kong
+
+This paper explores how the present international intellectual property law can be applied to
+resolve the new conﬂicts arising from the internationalized domain name system (DNS), in
+which non-Latin characters are permissible for direct use in domain names. It also analyzes
+the two approaches to address this issue: one approach that territorializes the rights and
+disputes on the borderless Internet, and another that universalizes the rights on the global
+medium. By presenting a comprehensive study with respect to the relevant international
+intellectual property law and practices, this paper attempts to research whether a balanced
+solution to the conﬂict between the legal system and the technical system could be sought out
+through maintaining the principle of territoriality of intellectual property protection, and it
+also examines the alternative procedure built in the DNS for the resolution of intellectual
+property controversies, namely the Uniform Domain Name Dispute Resolution Policy, and
+assesses whether the alternative procedure that actually supersedes the principle of territori-
+ality is consistent with the existing international intellectual property law and interoperable
+with the internationalized DNS.
+
+Keywords internationalized domain names; territorialism; Uniform Domain Name Dispute
+Resolution Policy
+
+Introduction
+
+The Internet, which is the basic global information infrastructure, was ﬁrst started
+and developed from ARPANET in the United States. Naturally, the Internet
+acquired its primary language from its ‘‘homeland’’. However, English dominance
+results in language barriers in non-English speaking countries and for non-English
+speaking users. This has contributed to a digital divide between English and non-
+English speaking countries or communities. In turn, in some non-English speaking
+countries or communities this has limited the ability to fully maximize the Internet
+for information access and economic growth.
+
+A variety of technologies have been deployed to overcome the language barriers
+on the Internet. The widespread use of the World Wide Web makes non-English
+content available online. By the end of March 31, 2005, the number of the world
+Internet users reached 888,681,131, and Asia has become the continent with the
+largest Internet population.1 Not surprisingly, the culture of the Internet has
+changed. By the end of March 2005, the top 10 languages used on the Internet
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+1
+
+Hong Xue
+
+Intellectual Property Law in the Internationalized DNS
+
+the diversity of
+
+were English, Chinese, Japanese, Spanish, German, French, Korean, Italian,
+Portuguese and Dutch.2 Since only 32.8% of the total Internet users are now using
+English for online communication, other uprising languages are threatening the
+predominant position of English on the Internet. As the Internet usage comes to
+reﬂect
+the world’s population, 92% of which speaks a
+primary language other than English, so will the proportion of non-English
+substance on the Internet. With the technological
+the Internet
+content may now be expressed in 6,700 languages spoken in 228 countries around
+the world. Multilingualism and internationalization are the irresistible trend of the
+Internet.
+
+support,
+
+The Internet naming system, which is only based upon Latin scripts, has
+become the ‘‘last digital kilometer’’ that hinders non-English speaking users from
+conducting Internet business in their native languages.
+
+The domain name system (DNS) serves to facilitate users to navigate the
+Internet by mapping the user-friendly domain name to its corresponding numeric
+Internet Protocol Number. So far, the DNS mapping technology has been
+functioning only in Latin (Roman) scripts, namely ASCII, which, ironically, stands
+for ‘‘American Standard Code for Information Interchange’’. This functional
+limitation is not consistent with the global nature of the Internet. Several technical
+solutions, such as internationalized domain names, Internet keyword system, search
+engines and directory services, have been developed and tested to explore the means
+of internationalization of the DNS.3
+
+The conﬂict between intellectual property rights and DNS is one of the most
+controversial issues that emerges from the explosion of the Internet as a commercial
+entity. Most prominently, intellectual property owners who attempt to extend their
+exclusive right onto the Internet encounter the resistance of the Internet name
+holders who ﬁrmly support the ‘‘ﬁrst-come, ﬁrst-served’’ basis of registry. Inter-
+nationalization of the DNS introduces added dimensions to the conﬂict between
+intellectual property and the DNS, i.e. whether the owner of a trademark in Latin
+terms or scripts may exclude a non-ASCII Internet name that is alleged to be a
+translation or transliteration of the trademark.
+
+This paper brieﬂy goes through the mainstream techniques to internationalize
+the DNS, and then explores how the present international intellectual property
+law can be applied to resolve the new conﬂict arising from the internationalized
+DNS. This paper attempts to research whether a balanced solution to the conﬂict
+between the legal system and the technical system could be sought out through
+maintaining the principle of territoriality of intellectual property protection and
+also examines the alternative procedure built in the DNS for the resolution
+of
+intellectual property controversies, namely the Uniform Domain Name
+Dispute Resolution Policy (UDRP), and assesses whether the alternative procedure
+that actually supersedes the principle of territoriality is consistent with the
+existing international intellectual property law and interoperable with the inter-
+nationalized DNS.
+
+2
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+Intellectual Property Law in the Internationalized DNS
+
+Hong Xue
+
+Internationalization of the DNS
+
+The mainstream methods to realize multilingual access to the Internet content
+currently available are internationalized domain names (IDNs), keyword system,
+search engines, and directory services.
+
+IDNs
+IDNs are the domain names in character sets other than ASCII.4 As the direct and
+signiﬁcant development of the DNS, IDNs are believed to be the most fundamental
+solution to internationalization. Currently, an IDN has the structure of ‘‘name in
+language’’ + ‘‘dot’’ + ‘‘Latin top-level domain’’ (e.g.,
+local
+.kr’’ or
+‘‘
+.cn’’). IDNs are now available in more than 350 languages, such as Chinese,
+Korean, Greek, Japanese, Russian, etc.5
+
+‘‘
+
+IDN service started ambitiously, but the market reaction was not positive, as
+had been expected. The growth of IDNs is still considerably slower than Latin-
+script domain names.6
+
+The resolution for IDNs is through the client program installed on every
+individual’s personal computer for the necessary function of converting the non-
+ASCII code into ASCII code. The reliance on client programs constitutes to a
+certain degree obstacles for ﬂourishing the service.7 In addition, the structure of
+IDNs is not fully internationalized, because a Latin top-level domain has to be
+added at the end. This forces the users to change the character-input method, which
+results in another inconvenience of IDNs.8
+
+Through the effort of many sectors of the Internet community, the technical
+coordination and standard-making regarding IDNs are underway within the
+structures of the Internet Corporation for Assigned Names and Numbers (ICANN)
+and the Internet Engineering Task Force (IETF).9
+
+Internet keyword system
+The internet keyword system is a kind of website address service that directs users to
+an appropriate website when a keyword is typed into the Internet browser’s address
+bar. This system is capable of handling characters written in various native
+languages. Internet keywords can be in the format of the ‘‘name in local language’’
+(e.g. ‘‘
+’’). The keyword system was ﬁrst commercialized in
+Korea in 1999, and shortly after in China and Japan.
+
+’’±or ‘‘
+
+Technically, there are two types of keyword services. One requires a plug-in
+program installed on the Internet browser software, while another modiﬁes the
+functions of the DNS system through the Internet service providers (ISPs).10
+
+The market acceptance of keyword services in some countries is quite impress-
+ive, but the system’s international standard is yet to be developed. Leading
+companies in each country are determining their own service concepts indepen-
+dently. Past failure presents us with the importance of an accountable, international
+and multilateral organization with regard to the Internet naming services.11
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+3
+
+Hong Xue
+
+Intellectual Property Law in the Internationalized DNS
+
+Directories and search engines
+Both directories and search engines are the services enabled by various online
+searching programs. The former utilizes pre-registered databases and the latter
+utilizes dynamic databases that accumulate website contents. As far as DNS
+internationalization is concerned, these technologies are not as inﬂuential as IDNs
+and the Internet keyword system.
+
+Applying international intellectual property law to the internationalized
+DNS
+
+New legal issues arise when internationalization of the DNS is not limited to
+intellectual property controversies. For instance, the experts on network security
+have raised concerns regarding phishing through IDNs. In the computer industry,
+phishing is the act of attempting to fraudulently acquire sensitive information, such
+as passwords and credit card details, by masquerading as a trustworthy person or
+business with a real need for such information in a seemingly ofﬁcial electronic
+notiﬁcation or message (most often an e-mail or an instant message). It is a form of
+social engineering attack.12 Certain browsers that support standardized IDNs
+would allow companies to register domain names that appear to be the same in
+different languages. That encoding scheme could enable an attacker to create a fake
+website for a phishing scam. A spoofed link would seem to be a legitimate URL in
+the address bar of affected browsers—Opera, Apple Computer’s Safari, and the
+Mozilla and Firefox browsers from the Mozilla Foundation. But instead of taking
+the victim to the trusted site, the link would lead to a phony website with a domain
+rendered as the same address under the IDN process. There are now many ways to
+display any domain name on a browser, as there are a huge number of character sets
+that look very similar to Latin characters.13 In the case of IDN phishing, the civil
+actions against trademark infringement or passing off seem trivial. Only criminal
+sanctions can safeguard the public interest and thus effectively address the Internet
+users’ serious concern of being phished. In the United States, the Anti-Phishing Act
+of 2005 was introduced to the Senate on March 1, 2005. The Bill proposes that those
+criminals who create fake websites and spam bogus e-mails in order to defraud
+consumers could be ﬁned up to US$250,000 and subject to up to 5-year imprison-
+ment.
+
+This paper, however, will limit its coverage to intellectual property issues,
+most particularly to the conﬂict between trademark right and the names
+registered with the internationalized DNS (hereafter ‘‘non-ASCII Internet names’’),
+such as IDNs and Internet keywords.14 Given that most cross-languages/scripts
+disputes inherently have a cross-border nature,
+is interesting to explore
+how domestic laws interact with the international rules and how a trademark
+right that is characteristic of territoriality ﬁghts with the names on the borderless
+Internet.
+
+it
+
+4
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+Intellectual Property Law in the Internationalized DNS
+
+Hong Xue
+
+Global medium, territorial right
+The recent trend towards globalization and the increase in world trade has
+accelerated the internationalization of the intellectual property system and heigh-
+tened the importance of
+trademarks and other identiﬁers. The advent of
+e-commerce in an online environment furthers this trend, due to the role that such
+identiﬁers play in developing consumer awareness and trust towards brands that are
+newly emerging and lack the conventional bricks and mortar foundations.
+
+However, when optimistic intellectual property owners attempt to extend their
+exclusive rights onto the global medium—the Internet—they encounter an insur-
+mountable barrier in the intellectual property system, i.e. territoriality.
+
+Intellectual property rights are strictly territorial. So are the intellectual
+property laws. The international intellectual property laws impose the principle
+of national treatment supplemented by minimum rights, as well as the principle of
+the independence of rights. That is, foreign treaty claimants enjoy the same rights as
+nationals of a treaty country, unless they are entitled to more extensive minimum
+rights, and the rights in one state do not depend on those in others.15
+
+The history of intellectual property law reﬂects the development of the
+territorialist approach. This approach is based on the idea that some common
+ground should be found among nations with diverse approaches to the content and
+societal purposes implicated by the particular issue under scrutiny.16 One of the
+earliest examples is the rejection of the suggestion by the German delegates to the
+1883 intergovernmental meeting to form the Berne Convention that a uniform
+international copyright law be established to substitute the principle of national
+treatment. In the subsequent draft, the universalist approach dropped away in favor
+of the territorialist approach that would allow more countries to accede to the
+Convention.17
+
+Therefore, a global intellectual property right across all different jurisdictions is
+merely in the imagination of the right owner. Canadian trademark law governs
+distribution of trademarked products in Canada, even where infringement litigation
+was initiated in a US court by a US plaintiff. Infringement of an architectural
+copyright by unauthorized construction of a building in Rotterdam implicated
+Dutch copyright law, even where plaintiff and defendant were English residents and
+original plans were drawn in London.18
+
+Although territorial intellectual property laws are not in harmony with the
+global network, the principle of territoriality has neither been broken through nor
+abandoned.19 In the context of the internationalized DNS, the laws’ territorial
+characteristic becomes even more prominent. Given that both non-ASCII domain
+names and keywords are registered in native languages other than English so as to
+target speciﬁc language communities in certain countries, whether their registra-
+tions would be conﬂicting with the pre-existing intellectual property rights can
+hardly be duly assessed unless in the context of those languages and in the territories
+in which those languages are used.
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+5
+
+Hong Xue
+
+Intellectual Property Law in the Internationalized DNS
+
+International laws and practices under the principle of territoriality
+The international intellectual property system has traditionally provided for the
+protection of rights across different languages and different character scripts, most
+particularly in the ﬁeld of trademark law, as part of the wider concept of protection
+against unfair competition.
+
+The principal
+
+international agreements and instruments that address the
+protection of trademarks are the Paris Convention for the Protection of Industrial
+Property (Paris Convention), the Agreement on Trade-Related Aspects of Intellec-
+tual Property Rights (TRIPS Agreement), the Trademark Law Treaty (TLT) and
+the Madrid Agreement Concerning the International Registration of Marks and
+related Protocol. In addition, the World Intellectual Property Organization (WIPO)
+‘‘Joint Recommendation Concerning Provision on the Protection of Well-Known
+Marks’’ and ‘‘Joint Recommendation Concerning Provisions on the Protection of
+Marks and Other Industrial Property Rights in Signs on the Internet’’ provide
+guidelines for the protection of marks (particularly well-known marks) at an
+international level or on the Internet.20 These provisions have the purpose of
+avoiding conﬂicts between trade and service marks across different languages, and
+to provide speciﬁcally for registration and protection of marks in their translations
+and transliterations.21 All through these provisions, the principle of territoriality is
+strictly observed.
+
+Recognition of well-known marks
+In accordance with the Paris Convention, Article 6bis, ‘‘the countries of the Union
+undertake, ex ofﬁcio if their legislation so permits, or at the request of an interested
+party, to refuse or to cancel the registration, and to prohibit the use of a trademark
+which constitutes a reproduction, an imitation, or a translation, liable to create
+confusion, of a mark considered by the competent authority of the country of
+registration or use to be well known in that country as being already the mark of a
+person entitled to the beneﬁts of this Convention and used for identical or similar
+goods’’.
+
+Therefore, under the Paris Convention, only if a mark is considered by the
+competent authority of the country to be well known is it a well-known mark in that
+country, and should the issue of translations and transliterations be considered.
+
+The TRIPS Agreement incorporates and extends the protection granted to well-
+known marks under Article 6bis of the Paris Convention to service marks and, in
+line with the dilution protection principle, against use in relation to goods and
+services that are not similar to those in respect of which the mark is registered.22
+Since it provides the add-on protection for well-known marks on the basis of
+the Paris Convention, the TRIPS Agreement does not deviate from the principle of
+territoriality. In accordance with the TRIPS Agreement, Article 16(2), ‘‘in deter-
+mining whether a trademark is well known, Member shall take account of the
+knowledge in the Member concerned which has been obtained as a result of the
+promotion of the trademark’’.
+
+6
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+Intellectual Property Law in the Internationalized DNS
+
+Hong Xue
+
+The TRIPS Agreement contains no deﬁnition or guidance as to what is meant
+by the term ‘‘well known’’. The WIPO ‘‘Joint Recommendation Concerning
+Provision on the Protection of Well-Known Marks’’, however, lists a number of
+factors determining whether marks fall into that category: the degree of knowledge
+or recognition of the mark in the relevant sector of the public; the duration, extent
+and geographical area of any use of the mark; the duration, extent and geographical
+area of any promotion of the mark, including advertising or publicity and the
+presentation, at fairs or exhibitions, of the goods and/or services to which the mark
+applies; the duration and geographical area of any registrations, and/or any
+applications for registration, of the mark, to the extent that they reﬂect use or
+recognition of the mark; the record of successful enforcement of rights in the mark,
+in particular, the extent to which the mark was recognized as well known by
+competent authorities; and, the value associated with the mark. The Joint Recom-
+mendation is not legally binding, but provides authoritative reference to the
+competent authority of the relevant country.
+
+Among the factors listed by the Joint Recommendation, relevance to speciﬁc
+‘‘geographical area’’ is repeatedly highlighted for the recognition of a well-known
+mark. With respect to the issue of translations or transliterations, relevance to
+geographical area becomes even more prominent. In China, for example, consumers
+in particular go mainly by Chinese character trademarks in making their purchasing
+decisions. Therefore, a top priority task for foreign companies is to translate their
+trademark into Chinese. This is well worth the effort needed to develop an
+appropriate name the ﬁrst time.23 A couple of cases show that despite the reputation
+of the Chinese translations or transliterations among the Chinese consumers, the
+foreign companies’ ‘‘original’’ marks can actually be unknown in the Chinese
+market. In an interesting case, Pﬁzer Inc. v Shenzhen Wanyong Information Network
+Ltd, the court held that the plaintiff’s registered trademark ‘‘VIAGRA’’ was not
+well known among Chinese people, even though the plaintiff’s medicine was well
+known by its informal Chinese name ‘‘
+’’(phonetically ‘‘WEI GE’’, meaning ‘‘a
+strong brother’’ in Chinese). The court noted that the plaintiff had never promoted
+in the Chinese market, while the formal Chinese
+its trademark ‘‘VIAGRA’’
+’’ (Wan Ai Ke) was widely publicized instead.24
+translation of the trademark ‘‘
+
+Translations or transliterations of well-known marks
+Whenever an IDN or a non-Latin keyword is believed to be the translation or
+transliteration of a trademark in Latin terms or scripts, the trademark owner may
+attempt to challenge that domain name or keyword registration in the context of the
+international
+intellectual property law. However, whether a sign constitutes a
+translation or transliteration of a well-known mark and whether the translation
+or transliteration is liable to create confusion or indicate a connection with the well-
+known mark will depend upon the situation in the relevant territory.
+
+A transliteration means to phonetically transform the trademark into another
+set of characters with a pronunciation that represents the sound of the original, or
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+7
+
+Hong Xue
+
+Intellectual Property Law in the Internationalized DNS
+
+its Latinized version; and, a translation means to literally or conceptually transform
+the mark into another script or language with a meaning that represents that of the
+original.
+
+Internationally, a set of rules has been established with respect to the legal
+protection of the marks in translated or transliterated forms. In accordance with the
+Madrid Agreement Concerning the International Registration of Marks and the
+Protocol Relating to that Agreement, where the mark consists of or contains matter
+in characters other than Latin characters or numbers expressed in numerals other
+than Arabic or Roman numerals, a transliteration of that matter in Latin characters
+and Arabic numerals shall be submitted; the transliteration into Latin characters
+shall follow the phonetics of the language of the international application. English
+and French translations or transliterations will be recorded and published.25
+
+The TLT, which aims to simplify and harmonize procedures of national and
+regional trademark registration systems, also goes some way toward harmonizing
+trademark ofﬁce practice in dealing with multilingual trademark applications. In
+accordance with the TLT, any contracting party may require that an application
+contain a transliteration and/or translation of the mark or of certain parts of the
+mark.26
+
+Many domestic trademark ofﬁces now require that the trademark be translated
+or transliterated in trademark administration. In Australia, where a trademark
+includes words in a language other than English and/or characters other than Latin
+characters, the applicant must ﬁle an English translation and/or transliteration in
+support of the trademark application.27 Canadian trademark administration has a
+similar requirement.28 The Ofﬁce of the European Union also provides, where an
+application is not in one of the ofﬁcial languages, that its contents, to the extent that
+translation is required, should be sent to the Translation Center of the Bodies of the
+Union as early as possible.29 In the United States, an application to register a mark
+that comprises non-English wording should include a statement translating the non-
+English wording; similarly, an application for a mark that comprises non-Latin
+characters should include a statement transliterating such characters. The mark will
+then be examined in line with the doctrine of foreign equivalents.30Appropriate
+translations and/or transliterations approved by the examining attorney may be
+printed on the trademark certiﬁcates.31
+
+All above administrative measures implemented internationally, regionally or
+nationally address the issue of translations and transliterations of foreign marks.
+Regrettably, these administrative measures cannot resolve the problem the other way
+around. Where a trademark in Latin terms or characters is challenging a non-ASCII
+Internet name, the trademark owner will have to bear the burden of proof that the
+non-ASCII Internet name contains the translation or transliteration of its mark,
+unless the translation or transliteration of the mark in the native language has been
+registered in that country. This is because the use of different languages may
+distinguish the two forms of the trademark, so that the use of the original trademark
+in non-Latin characters will not be deemed an infringement of the original owner’s
+
+8
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+Intellectual Property Law in the Internationalized DNS
+
+Hong Xue
+
+rights. For example, the Chinese scripts are completely different from Latin char-
+acters; thus, a trademark in Latin characters may not be protected against its use in
+Chinese scripts, unless the Chinese-script mark is also registered. If the trademark has
+been translated or transliterated in the process of trademark registration, the
+translation or transliteration may be used as the prime facie proof.32
+
+However, a trademark in Latin terms or scripts may not be eligible for
+registration and/or protection in its directly translated or transliterated form accord-
+ing to the national trademark law or procedure.33 For example, those generic English
+terms, such as ‘‘BOSS’’ and ‘‘VOGUE’’, have been registered as trademarks in China.
+However, the direct Chinese translations of these marks—‘‘
+’’ for ‘‘BOSS’’ and
+‘‘
+’’ for ‘‘VOGUE’’—are apparently not acceptable for registration under the
+Trademark Registration Examination Rules of the Chinese Trademark Ofﬁce.34 In
+these cases, it would be extremely unfair if the English trademark owners were
+allowed to be deprived of non-ASCII Internet names, which are actually beyond the
+control of the trademark rights. Therefore, trademark protection does have the
+limitation, but the limitation well serves the purpose of striking the balance between
+the private interest of trademark owners and the public interest at large.
+
+Confusion
+Another hurdle that prevents the English trademark owners from exercising their
+power against the non-ASCII Internet names is the core concept of trademark
+infringement—confusion or more ﬂexibility for well-known marks, indication of
+connection.35 In these circumstances, local language and culture must be taken into
+account. For example, over 90% of the population speaks Cantonese—a dialect of
+Chinese—in Hong Kong, a Special Administrative Region of China. The trademark
+‘‘Haagen-Dazs’’ is transliterated into Cantonese as ‘‘
+’’. A Chinese domain
+name ‘‘
+.com’’ would create confusion with that Cantonese transliteration
+among Cantonese-speaking people in Hong Kong. However, such a domain name
+would not have the same effect in mainland China, where Mandarin—another
+dialect—is
+is
+‘‘
+
+spoken and the phonetic transliteration of
+
+‘‘Haagen-Dazs’’
+
+’’.
+
+In the multilingual context, the degree of comprehension of a foreign language
+or script in the relevant market of the marks is closely related to the public’s
+likelihood of confusion. Thus, the owner of a mark that comprises English terms or
+Latin scripts may not be able to prove the confusion created by the non-ASCII
+Internet name that allegedly constitutes the translation or transliteration of the
+mark in a native language in a certain territory, where the native people neither
+understand nor know that mark in the original form. Furthermore, even if the
+trademark owner takes the action against the holder of the non-ASCII Internet
+name in an English-speaking country for the reason that the Internet name is
+accessible in that country, the confusion, still, may not be established because it is
+highly likely that those English-speaking people do not understand the Internet
+name in non-English terms or scripts. All these issues have to be assessed territory
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+9
+
+Hong Xue
+
+Intellectual Property Law in the Internationalized DNS
+
+by territory and cannot be settled uniformly. For example, the trademark admin-
+istration in the United Kingdom believes that a reasonable number of UK residents
+know French, German, Italian and Spanish, but languages such as Dutch, Swedish,
+Portuguese, Czech, Russian and Japanese are less well known in the country.36 In
+Canada, where both English and French are the ofﬁcial languages, an Internet
+name in Hebrew or Yiddish words or scripts may not be understood by the local
+people.37 In Australia, if the foreign word is in a language that is not likely to be
+known by a signiﬁcant proportion of the Australian population, then there is no
+ground for rejecting the application for trademark registration.38 By the same
+token, an Internet name in the scripts that are not likely to be known by a signiﬁcant
+proportion of the Australian population should not be challenged by the trademark
+in English equivalence.
+
+Character variants
+Deployment of non-ASCII Internet names is complicated, moreover, by the
+complex ways in which language is employed throughout the world. In the multi-
+lingual context, the same script or character set may be shared by many different
+languages. Even in one language, the same script or character may have variants
+that are either visually or phonetically different from one other.
+
+Taking Chinese as an example, most Chinese-speaking populations are in the
+mainland, Taiwan, Hong Kong, and Macao of China. Ofﬁcially, simpliﬁed Chinese
+characters are used in mainland China (encoded as GB 18030); in Taiwan, Hong
+Kong and Macao, the ofﬁcial written scripts are traditional Chinese characters
+(encoded as BIG5). In mainland China, the government endeavors to generalize the
+use of simpliﬁed characters, whereas traditional characters are still used widely as
+company names, signboards and calligraphic works. Most Chinese people can
+recognize both sets of scripts for most simpliﬁed characters come from traditional
+characters. To Chinese people, traditional and simpliﬁed characters are actually two
+forms of calligraphy. A domain name in traditional character would be regarded as
+equivalent to its corresponding simpliﬁed character version, and vice versa. There-
+fore, the conversion between the traditional characters and the simpliﬁed characters
+has to be prioritized in the deployment of Chinese-character domain names.39
+Otherwise, a trademark owner would have to register in all the variant forms to
+prevent confusion among the public. This problem, however, has been resolved
+through technical measures. In CNNIC’s system, a simpliﬁed-character domain
+name and its corresponding traditional-character domain name are treated as one
+domain name. Thus, the registration of a simpliﬁed-character domain name would
+automatically result in the registration of the corresponding traditional-character
+domain name.40
+
+These measures have now been accepted in the whole Chinese language
+community.41 Given that Chinese, Japanese and Korean (CJK) languages share
+many scripts or characters, technical measures have been developed to resolve the
+CJK issue.42 ICANN highly praised the CJK model and urged other language
+
+10
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+Intellectual Property Law in the Internationalized DNS
+
+Hong Xue
+
+communities to follow the CJK step.43 In the ‘‘Guidelines for the Implementation of
+Internationalized Domain Names’’ published on June 20, 2003, ICANN requires
+that top-level domain registries,
+in implementing the IDN standards, employ
+language-speciﬁc registration and administration rules that are documented and
+publicly available, such as the reservation of all domain names with equivalent
+character variants in the languages associated with the registered domain name,
+and, where the registry ﬁnds that the registration and administration rules for a
+given language would beneﬁt from a character variants table, allow registrations in
+that language only when an appropriate table is available.44 Although character
+variants in the same or different languages could be liable to create confusion
+between non-ASCII Internet names and trademarks, the risk has been minimized
+through the implementation of the technical measures.
+
+Trademarks on the Internet
+The WIPO ‘‘Joint Recommendation Concerning Provisions on the Protection of
+Marks and Other Industrial Property Rights in Signs on the Internet’’ adopted in
+March 2001 is the only ‘‘soft law’’ that provides guidelines on the application of
+existing laws to legal problems resulting from the use of a sign on the Internet.45 The
+Joint Recommendation is not legally binding but inﬂuential as the persuasive
+authority.
+
+The Joint Recommendation is aimed at providing a clear legal framework for
+trademark owners who wish to use or protect their marks on the Internet and to
+participate in the development of electronic commerce. It, of course, covers the
+conﬂict between trademarks and Internet names, including non-ASCII Internet
+names.
+
+These provisions are, among those things, intended to determine whether,
+under the applicable law, use of a sign on the Internet has contributed to the
+acquisition, maintenance or infringement of a mark or other industrial property
+right in the sign, or whether such use constitutes an act of unfair competition.46
+
+The basic idea behind the Joint Recommendation is that online industrial
+property issues be treated in consistency with the ofﬂine issues, so that it would not
+lead to a split of law between online uses and ofﬂine uses. Therefore, the principle of
+territoriality should be applied to the technically borderless Internet.
+
+Under the Joint Recommendation, not each and every use of a sign on the
+Internet should be treated as taking place in the member state concerned, even
+though the use might be accessible to Internet users based in that state; instead, only
+use that has a commercial effect in that member state can be treated as having taken
+place in that state and thus subject to the applicable law of that state.47
+
+In accordance with the Joint Recommendation, the competent authority, in
+determining whether use of a sign on the Internet has a commercial effect in a
+member state, shall take into account, inter alia, the manner of use of the sign on the
+Internet with the member state, including:
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+11
+
+Hong Xue
+
+Intellectual Property Law in the Internationalized DNS
+
+(i)
+
+whether the sign is used in conjunction with means of interactive contact,
+which are accessible to Internet users in the member state;
+
+(ii) whether the user has indicated, in conjunction with the use of the sign, an
+
+address, telephone number or other means of contact in the member state;
+
+(iii) whether the sign is used in connection with a domain name, which is registered
+under the ISO standard country code 3166 top-level domain referring to the
+member state;
+
+(iv) whether the text used in conjunction with the use of the sign is in a language
+
+predominantly used in the member state;
+
+(v) whether the sign is used in conjunction with an Internet location that has
+
+actually been visited by Internet users located in the member state.48
+
+In accordance with the Joint Recommendation, only if the use of a sign on the
+Internet has a commercial effect in a member state shall the use be taken into
+consideration for determining whether a right under the applicable law of that
+member state has been infringed, or whether the use amounts to an act of unfair
+competition under the law of that member state.49 The relevant provisions on the
+liabilities and exceptions or limitations to the rights in that state should also be
+applied.50
+
+These guidelines provided by the Joint Recommendation to territorialize the
+online uses of signs are very helpful in resolving the conﬂict between trademarks
+and non-ASCII Internet names. In particular, the factors for determining commer-
+cial effect in a member state incorporate the language consideration, i.e. whether the
+text used in conjunction with the use of the sign is in a language predominantly used
+in the member state. Thus, a domain name in Chinese characters could, prima facie,
+indicate its connection with China in which Chinese language is predominantly
+used, and possibly imply the commercial effect of the use in China. Whether the sign
+is used in connection with a domain name registered under a country-code top-level
+domain referring to a member state is also under the consideration for the territorial
+commercial effect. Given that an IDN can be registered both under a generic top-
+level domain (e.g. .com, .net or .org) and under a country-code top-level domain
+(e.g. .cn, .jp or .kr), the preference to register under a country-code top-level domain
+referring to a member state could also contribute to the recognition of the
+commercial effect in that state.
+
+In addition to the practical value, the theoretical value of the Joint Recom-
+mendation is that even on the borderless Internet, industrial property rights—
+particularly trademark rights—still exist territorially instead of globally. It clariﬁes
+that a sign protected in one single country in the world would not essentially grant
+the right owner a global monopoly on the Internet.51 The Joint Recommendation
+consistently adopts the territorialist approach, as other international intellectual
+property laws do, indicating a correct direction to the resolution of the conﬂict
+between trademark and non-ASCII Internet names. Unfortunately, such a well-
+balanced and thoughtful document has so far attracted little serious analysis, let
+
+12
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+Intellectual Property Law in the Internationalized DNS
+
+Hong Xue
+
+alone being implemented nationally.52 On the contrary, the universalist approach is
+popularized, especially through the widespread use of the UDRP.
+
+Superseding territoriality?
+The UDRP that derives its force from ICANN’s de facto control of the DNS is
+implemented through the contracts between domain name registrants and regis-
+trars.53 Anyone who wishes to have a domain name must acquire it from a registrar
+who has the right to inscribe names in an ICANN-approved domain name registry
+and agree to submit to ICANN’s UDRP upon the request of any aggrieved third
+party who claims a superior trademark right against the registrant’s domain name.
+The UDRP is a mandatory third-party beneﬁciary system applied to all the domain
+names registered under any generic top-level domains (gTLDs).54 IDNs registered
+under the gTLDs are also subject to the governance of the UDRP.
+
+The UDRP proceeding is limited to the resolution of the disputes between a
+trademark owner and a domain name holder. In accordance with the UDRP, to
+secure a name transfer, a complainant must prove each of the following three
+elements: (i) the respondent’s domain name is identical or confusingly similar to a
+trademark or service mark in which the complainant has rights; (ii) the respondent
+has no rights or legitimate interests in respect of the domain name; and (iii) the
+respondent’s domain name has been registered and is being used in bad faith.55
+
+Up to December 2004, 6,957 UDRP cases involving 11,536 domain names have
+been ﬁled before those ICANN-approved dispute-resolution service providers.56
+Given that a large number of domain name disputes are resolved through the
+UDRP procedure, the UDRP has been praised as an efﬁcient,
+inexpensive
+procedure for the resolution of disputes.57 On the other hand, the UDRP is strongly
+criticized by domain name holders and many academics for undemocratic processe,
+pro-corporation bias or ﬂawed procedures.58
+
+Despite the praises or criticisms, if the UDRP is merely considered as the policy
+of the ICANN, a non-proﬁt corporation registered in California and supervised by
+the US Department of the Commerce, it would have very little importance to
+international intellectual property law. In particular, the enforcement of the UDRP
+is based entirely on private contracts, instead of law enforcement, and the UDRP
+does not eliminate the availability of court proceedings for domain name disputes.59
+However, if international intellectual property law were going to follow the UDRP
+model, it would be worth serious concern. For instance, scholars have pointed out
+that the UDRP may be signalizing that the classic, consensus-based model of
+international intellectual property law making has been superseded on a number of
+fronts. The developments are motivated by the need to allow the international
+intellectual property law to respond more rapidly to technological and other
+challenges.60
+
+Apparently, the UDRP represents a substantial departure from traditional
+international trademark law, which predominantly follows the principle of terri-
+toriality.61 Traditionally, a trademark, even if well known, does not give its owner
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+13
+
+Hong Xue
+
+Intellectual Property Law in the Internationalized DNS
+
+exclusive rights over every possible commercial use and in every country. The
+sectoral and territorial principle backs up the idea that trademark protection best
+achieves its purpose by limiting the reservation of rights in a name to the type of
+goods and location where those goods are sold.62 The UDRP deviated from these
+principles and thus literally abolished those limitations that serve to balance the
+interests of different parties in the trademark system. In a UDRP proceeding, as far
+as the complainant owns a registered trademark in any country, it satisﬁes the
+threshold requirement of having trademark rights. The location of the registered
+trademark and the goods and/or services it is registered for are irrelevant when
+ﬁnding rights in a mark. Therefore, ownership of a registered trademark to which
+the domain name is confusingly similar automatically satisﬁes the requirements
+under paragraph 4(a)(i).63
+
+Whether other requirements of the UDRP—in particular the requirement
+concerning the respondent’s bad faith64—should be territorialized is also ambig-
+uous and subject to extremely different interpretations.65 Take paragraph 4(b)(iv) of
+the UDRP as an example, which seems like a typical trademark prohibition against
+using a mark in domain name in a way that caused commercial confusion.
+However,
+it is highly suspicious how the ‘‘likelihood of confusion’’ could be
+assessed in a global context. Not unexpectedly, this paragraph has spawned
+inconsistent and idiosyncratic decisions.66
+
+Would the UDRP apply to protect a trademark owner in a claim involving a
+domain name containing the foreign script that has not been registered by the
+trademark owner? Procedurally, the answer is ‘‘yes’’; but, substantively, the answer
+is uncertain. Where an IDN is claimed to be a translation or transliteration of a
+trademark, solution is subtly related to the language, culture and other extremely
+territorial
+issues. It is dubious whether the UDRP that attempts to globalize
+trademark rights can satisfactorily fulﬁll this task.67
+
+According to the statistics published by the WIPO, 47 cases involving ‘‘non-
+ASCII script’’ domain names in nine different languages have been decided.68
+Interestingly, in all these cases, the critical issue of translations or transliterations of
+trademarks has never emerged. All the trademarks involved are in the native terms
+or scripts in which the domain names are registered (e.g.
+the trademark
+‘‘
+.com’’), or the same
+scripts shared by different languages (e.g. the trademarks ‘‘
+’’ and
+‘‘
+’’ in scripts shared in both Japanese and Chinese). Therefore, whether the
+UDRP can resolve the problem of translations or transliterations of trademarks has
+not actually been tested.
+
+’’ versus the domain name ‘‘
+
+’’, ‘‘
+
+Even in these cases, whether the disputes were territorialized is very unclear.
+For example, in the case ‘‘
+.com’’, the complainant was the registrant of the
+trademark ‘‘
+’’, but the panel ruled against the complainant because the Chinese
+term ‘‘
+’’ has the meaning of ‘‘pre-history times’’, which should not be mono-
+polized by the complainant.69 Obviously, the sole panelist, who made the decision in
+Chinese, consciously/subconsciously used knowledge of the Chinese language and
+
+14
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+Intellectual Property Law in the Internationalized DNS
+
+Hong Xue
+
+culture to localize the dispute in the Chinese-speaking community, although the
+UDRP does not contain any clear guidance on this issue.70
+
+Conclusion
+
+International intellectual property law features the principle of territoriality while
+the Internet is inherently borderless. The tension of the two regimes is reﬂected in
+the conﬂict between international trademark law and the DNS. The internationa-
+lization of the DNS calls for the harmony between the two separate and conﬂicting
+regimes. The measures to harmonize the two regimes can roughly be categorized
+into two streams: (i) applying traditional legal principles through territorializing the
+conﬂicts on the Internet, or (ii) privatizing and internationalizing trademark law by
+blurring or even abolishing the territorial limit of trademark protection. These two
+streams should have equal opportunity to be examined and experimented. How-
+ever, the ﬁrst stream, to a large extent, is pre-emptively presumed controversial with
+the nature of the Internet. On the contrary, the second stream, which has been
+popularized through the UDRP, becomes gradually prevailing.
+
+This paper, from the prospective of the non-ASCII Internet names, clariﬁes
+that the territorial
+limit to trademark protection is not only applicable but
+appropriate to the resolution of the relevant conﬂicts. Disputes arising from the
+non-ASCII Internet names can and should be territorialized in the international
+trademark law system. On the other hand, whether the universalist approach of the
+UDRP is interoperable with international trademark law, and thus suitable to
+resolve the disputes arising from IDNs, deserves careful and thoughtful scrutiny.
+
+About the Author
+
+Hong Xue, Ph.D., University of Hong Kong and Member, ICANN President’s
+Advisory Committee on IDN, 4/F KK Leung Building, Faculty of Law, University
+of Hong Kong, Pokfulam Road, Hong Kong; e-mail: hongxueipr@gmail.com
+
+Notes
+
+1 By the end of March 31, 2005, the number of Internet users in Asia rose to 302,257,003,
+which is 34% of the world Internet population; North America is in second place with
+221,437,647 users, which is 24.9% of the world Internet population; Europe has
+259,653,144 users, which takes up 29.2% of the total Internet population. See ‘‘World
+Internet Usage and Population Statistics’’, at hhttp://www.internetworldstats.com/
+stats.htmi.
+
+2 See ‘‘Internet Users by Language’’, at hhttp://www.internetworldstats.com/stats7.htmi.
+3 See the Asia Paciﬁc Regional Internet Conference on Operational Technologies
+
+(APRICOT), at hhttp://www.iak.ne.kr/nativename/2005/kyoto3.htmi.
+
+4 See ‘‘Background of ICANN IDN Committee’’, at hhttp://www.icann.org/committees/
+idn/i. ‘‘IDN’’ is a term created by ICANN and gradually accepted by the global Internet
+community. Nonetheless, it has been criticized for deviating from its original meaning and
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+15
+
+Hong Xue
+
+Intellectual Property Law in the Internationalized DNS
+
+function. Given that current Latin-script domain names have already been used
+‘‘internationally’’, and non-ASCII domain names actually purport to serve the local
+Internet communities whose native languages are not English, it might be more precise to
+call these non-ASCII domain names ‘‘localized’’ domain names than ‘‘internationalized’’
+domain names. See H. Xue, The Voice of China: A Story of Chinese-Character Domain
+Names, Cardozo Journal of International and Comparative Law, 12 (Fall 2004).
+
+5 The leading IDN provider Verisign introduced a ‘‘testbed’’ for IDN registrations in
+
+November 2000 using the ‘‘RACE’’ encoding standard and has registered over a million
+IDNs under this testbed. Since the Internet Engineering Task Force ﬁnalized a set of
+standards for IDNs, Verisign has been in the process of converting all IDNs to the
+Punycode standard to meet IDN RFCs. In December 2003, the IDN testbed went live
+with the addition of over 350,000 Punycode IDNs to the .com and .net live registry
+system, allowing them to resolve properly around the globe. At the end of April 2004,
+Verisign will only support Punycode registrations, thus moving away from RACE
+altogether. More information about IDNs can be found at hhttp://www.verisign.com/
+nds/naming/idn/i.
+
+6 In December 2003, the testing phase of the IDNs went live with the addition of over
+
+350,000 multilingual domains to the .com and .net registries. As of January 1, 2004, the
+.com registry contained 300,409 IDNs, whereas the .net registry had 79,630 IDNs,
+representing around 1.25% of the total .com and .net domains. Data show that more than
+78% of IDN domains are registered by companies in only three countries—Korea, United
+States and Japan. Korea alone accounts for 141,447 domains, followed by the United
+States with 84,402 domains and Japan with 72,193 domains. See ‘‘Special Report:
+Distribution Analysis of Multilingual Domain Names (IDNs)’’, at hhttp://
+www.hostlibrary.com/pdfview/view/178i.
+
+7 To alleviate this problem, many people proposed to have a built-in IDN client program in
+
+every browser that could contribute and assist to the deployment of the IDN service.
+However, major browser companies, such as Microsoft, have not yet put up a clear
+schedule for such an update, although there is wide expectation that it will be included in
+the next version of the operating system.
+
+8 In some countries, this inconvenience has been overcome. In China, the input methods
+
+allow people to type out IDNs without shifting the input method. For example, press
+‘‘Spacebar’’for Chinese characters and ‘‘Enter’’for ASCII letters. Through this method,
+both ‘‘ ’’ (dot in Chinese language) and ‘‘.’’are recognizable in the Chinese-character
+domain name system.
+
+9 In October 2002, IETF approved the publication of the three documents that together
+
+deﬁne internationalizing domain names in applications (IDNA), a standards-track
+protocol. These documents are ‘‘IDNA (RFC 3490)’’, ‘‘Nameprep (RFC 3491)’’ and
+‘‘Punycode (RFC 3492)’’. These standards convert foreign language characters into
+Unicode, a computer industry standard, and then encode these characters in ASCII for
+transmission over the Internet’s DNS. During the discussion phase of the IDN protocol’s
+development, there were some competing ASCII-compatible encoding (ACE) schemes
+proposed, but an agreement was reached eventually to standardize on the type of ACE
+called ‘‘Punycode’’. On June 20, 2003, ICANN published ‘‘Guidelines for the
+Implementation of Internationalized Domain Names’’. From March 2001, ICANN
+started the consultation with respect to the policies regarding conﬁrmation of the
+
+16
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+Intellectual Property Law in the Internationalized DNS
+
+Hong Xue
+
+language code table, the decision to support multilingual top-level domains and
+registration for script variants, etc. Currently, China, Japan, Korea, Hong Kong and
+Middle East countries are actively participating in such activities. See H. Xue, The Voice
+of China: A Story of Chinese-Character Domain Names, Cardozo Journal of International
+and Comparative Law, 12 (Fall 2004).
+
+10 For example, Netpia Inc. (Korea), providing keyword service entitled ‘‘Native Language
+Internet Address (NLIA)’’, adopts the ISP technology. There are other keyword services,
+such as JWord in Japan and CNNIC Internet Keywords in China, implemented through
+browser plug-in software.
+
+11 In the past, a company called RealNames had launched keyword service on a global scale
+
+under the support of Microsoft. Microsoft then allowed built-in client function of
+keyword service to the Internet Explorer browser. But the service was suddenly
+discontinued due to partnership breakoff between RealNames and Microsoft.
+Termination of the service created unaccountable losses to a number of innocent
+customers and users.
+
+12 The term was coined in the mid-1990s by hackers attempting to steal AOL accounts.
+An attacker would pose as an AOL staff member and send an instant message to a
+potential victim. The message would ask the victim to reveal his or her password, for
+instance to ‘‘verify your account’’ or to ‘‘conﬁrm billing information’’. Once the victim
+gave over the password, the attacker could access the victim’s account and use it for
+criminal purposes, such as spamming. E-Bay, Microsoft and many banks offering online
+services have been typical targets. See Wikipedia, at hhttp://en.wikipedia.org/wiki/
+Phishingi.
+
+13 An example from the Schmoo Group makes this clear. It began by registering a domain
+called ‘‘p?ypal.com’’. That ampersand-hash-number string in the middle deﬁnes a non-
+Latin character, a Cyrillic ‘‘a’’, that appears in the IDN-enabled browser almost exactly
+like a Latin ‘‘a’’, though very slightly wider and taller. Schmoo was able to obtain an
+authentic Verisign certiﬁcate for ‘‘p?ypal.com’’. Your computer knows it as
+‘‘p?ypal.com’’, Verisign certiﬁes that it is ‘‘p?ypal.com’’. But you read it as ‘‘paypal.com’’.
+See ‘‘Gone Phishing’’, at hhttp://www.pcplus.co.uk/opinion/default.asp?pagetypeid=2&
+articleid=36198&subsectionid=381&subsubsectionid=77i.
+
+14 There are other technologies that internationalize the DNS based on search engines,
+
+instead of registration. Although search engine services do have implications for
+intellectual property rights, and there have been many reported cases concerning the
+conﬂicts between trademark rights and search engines’ advertising practices, such as
+American Blind v Google, or Louis Vuitton v Google, the issues involved are not speciﬁc to
+the internationalized DNS. Thus, this paper will only examine the stream of technologies
+based on registration.
+
+15 P.E. Geller, International Intellectual Property, Conﬂicts of Laws, and Internet Remedies.
+
+In M. Bender, International Copyright Law and Practice (Looseleaf).
+
+16 G.W. Austin, Valuing ‘‘Domestic Self-Determination’’ in International Intellectual
+
+Property Jurisprudence, Chicago-Kent Law Review, 77 (2002).
+
+17 S. Ricketson, The Berne Convention for the Protection of Literary and Artistic Works:
+
+1886–1986, Center for Commercial Law Studies, Kluwer, 1987.
+
+18 See G.W. Austin, Valuing ‘‘Domestic Self-Determination’’ in International Intellectual
+Property Jurisprudence, Chicago-Kent Law Review, 77 (2002), which cited the cases of
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+17
+
+Hong Xue
+
+Intellectual Property Law in the Internationalized DNS
+
+Vanity Fair Mills, Inc. v T. Eaton Co., 234 F. 2d 633 (2d Cir. 1956) and Pearce v Ove Arup
+P’ship, [1999] 1 All E.R. 769 (C.A.).
+
+19 Many commentators have pointed out the conﬂict between the territorial rights and the
+global medium. See R.T. Nimmer, Licensing on the Global Information Infrastructure:
+Disharmony in Cyberspace, Northwestern Journal of International Law & Business, 16
+(1995); P.E. Geller, Intellectual Property in the Global Marketplace: Impact of Trips
+Dispute Settlement, International Law, 29 (1995).
+
+20 The WIPO ‘‘Joint Recommendation Concerning Provisions on the Protection of Well-
+
+Known Marks’’ was adopted at the Assembly of the Paris Union and the General
+Assembly of the WIPO on September 20–29, 1999. The WIPO ‘‘Joint Recommendation
+Concerning Provisions on the Protection of Marks and Other Industrial Property Rights
+in Signs on the Internet’’ was adopted at the Assembly of the Paris Union and the General
+Assembly of the WIPO on September 24–October 3, 2001. Both documents provide a set
+of guidelines for the protection of trademarks and have the status of soft law.
+
+21 S.P. Ladas, Patents, Trademarks and Related Rights: National and International
+
+Protection, Harvard University Press, 1975.
+
+22 See the TRIPS Agreement, Articles 2, 16.
+23 Examples of successful translations or transliterations are ‘‘
+
+’’ (baishi) for ‘‘Pepsi’’,
+
+’’ (duoleshi) for ‘‘Dulux’’, ‘‘
+
+‘‘
+(kekoukele) for ‘‘Coca-Cola’’.
+
+’’ (ximengsi) for ‘‘Siemens’’ and ‘‘
+
+’’
+
+24 See Pﬁzer Inc. v Shenzhen Wanyong Information Network Ltd, Beijing Second
+
+Intermediary Court, December 13, 2000, Beijing High Court, November 15, 2001 (Pﬁzer
+Inc. withdrew its appeal against ‘‘viagra.com.cn’’ during the second instance proceeding,
+thus the case was closed). See H. Xue, Domain Name Dispute Resolution in China: A
+Comprehensive Review, Temple International and Comparative Law Journal, 18 (Spring
+2004).
+
+25 The Madrid Agreement Concerning the International Registration of Marks (1891) and
+
+the Protocol Relating to the Madrid Agreement (1989) are governing the system of
+international registration of marks.
+
+26 See the TLT, Article 3(1)(a).
+27 See IP Australia’s Trade Mark Ofﬁce Manual of Practice and Procedure at hhttp://
+
+xeno.ipaustralia.gov.au/D:/Exmanual/cnts-num.htmi.
+
+28 See Canadian Trademark Rules, Article 29, where if the trademark contains matter
+
+expressed in characters other than Latin characters or in numerals other than Arabic or
+Roman numerals, a transliteration of the matter in Latin characters and Arabic numerals
+shall be furnished to the Canadian Intellectual Property Ofﬁce. It is available at hhttp://
+www.trademark-law-canada.com/rules.htmli.
+
+29 See the Ofﬁce for Harmonization in the Internal Market Examination Guidelines at
+
+hhttp://oami.eu.int/EN/marque/directives/exam.htm#Heading2i.
+
+30 See the United States Patent and Trademark Ofﬁce, the Trademark Manual of Examining
+
+Procedure, at hhttp://www.uspto.gov/web/ofﬁces/tac/tmep/0800.htmi. In a case
+involving the lollipop ‘‘Chupa Chups’’, the seller of Chupa Chups sued the Spanish
+seller of ‘‘Chupa Gerts’’ for trademark infringement. The court found that the key term in
+the mark ‘‘Chupa’’ is a generic Spanish word for lollipop or sucker, and therefore not
+eligible for protection. The court then held that there was no trademark infringement,
+because the arbitrary and minor term ‘‘Chups’’ or ‘‘Gerts’’ was found not to create a
+
+18
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+Intellectual Property Law in the Internationalized DNS
+
+Hong Xue
+
+likelihood of confusion. See Enrique Bernat F., S. A. v Guadalajara, Inc., 21-F.3d 439 (5th
+Cir., 2000).
+
+31 See the United States Patent and Trademark Ofﬁce, the Trademark Manual of Examining
+
+Procedure, at hhttp://www.uspto.gov/web/ofﬁces/tac/tmep/0800.htmi.
+
+32 In China, trademarks in English, French or other foreign languages shall be translated
+’’, ‘‘DEUTSCHE
+
+into Chinese. For example, AMI is ‘‘
+TELEKOM’’ is ‘‘
+Trademark Ofﬁce, ‘‘Trademark Registration Examination Rules’’, at hhttp://www.cha-
+tm.com/NewSbShenChaZZ/ViewInfo.asp?id=5i.
+
+’’ or ‘‘NETHOTEL’’ is ‘‘
+
+’’, ‘‘SILVERSEA’’ is ‘‘
+
+’’. See Chinese
+
+33 The WIPO Manual ‘‘Introduction to Trademark Law & Practice’’ (1993) provides that, in
+the case where a trademark is in foreign scripts, the registry may request a translation (as
+is the practice in Switzerland) and/or transliteration (as is the practice in Thailand) of the
+trademark in local scripts. The registration may then examine the foreign script marks by
+applying the general standards.
+
+34 Both ‘‘BOSS’’ and ‘‘VOGUE’’ have registered on the goods of clothes. When the mark
+‘‘VOGUE’’ was examined in China, the Trademark Administration of China ruled that
+the English term ‘‘VOGUE’’ was little known among Chinese people, while the mark had
+been recognized by the public through consistent promotion and use. See the WIPO
+UDRP case at hhttp://arbiter.wipo.int/domains/decisions/html/2004/d2004-0111.htmli.
+However, their direct Chinese translations, if applied for registration, must be rejected for
+deceptiveness and descriptiveness for the use on the goods of clothes. In China, the
+character marks referring to speciﬁc consumers (such as ‘‘Baby’’ on baby foods or
+‘‘Women’’ on women’s clothes) or other characteristic of the goods (such as ‘‘Natural’’ on
+cosmetics or ‘‘Three in the One’’ on shampoo) are not eligible for registration. See
+Chinese Trademark Ofﬁce, ‘‘Trademark Registration Examination Rules’’, at hhttp://
+www.cha-tm.com/NewSbShenChaZZ/ViewInfo.asp?id=5i.
+
+35 See TRIPS Agreement, Article 16(3). Well-known marks are protected against their use in
+
+connection with any goods or services if their use in that context would indicate a
+connection with the trademark owner and would be likely to damage the trademark
+owner’s interest.
+
+36 See United Kingdom Patent Ofﬁce, ‘‘Trade Marks Registry Work Registry’’, at hhttp://
+www.patent.gov.uk/tm/reference/workman/index.htmi. In a UK case, Burgoyne’s Trade
+Mark, 6 RPC 227, the word OOMOO, subject of an application for wines and spirits, was
+held to designated ‘‘choice’’ in an Australian Aboriginal language. Nevertheless, the court
+ruled that the trademark signiﬁed nothing to the ordinary Englishman.
+
+37 See Gula v Manischewitz Co. (1947) 8 C.P.R. 103 (it was held that even though the word
+
+‘‘TAM’’ was a Hebrew or Yiddish word, it was a good subject of a trademark being
+neither in the English nor French languages).
+
+38 See IP Australia’s TMO Manual of Practice and Procedure at hhttp://xeno.ipaustralia.
+
+gov.au/D:/Exmanual/cnts-num.htmi.
+
+39 For example, ‘‘
+
+’’ (simpliﬁed form) is equivalent to ‘‘
+
+’’ (traditional form);
+
+‘‘
+‘‘
+and ‘‘
+
+’’ (simpliﬁed form) is equivalent to ‘‘
+
+’’ (simpliﬁed form) is equivalent to ‘‘
+
+’’ and ‘‘
+’’, ‘‘
+
+’’ (traditional form); or,
+
+’’, ‘‘
+
+’’, ‘‘
+
+’’
+
+’’ (traditional forms).
+
+40 See China Internet Network Information Center (CNNIC), ‘‘Registration of Chinese-
+Character Domain Names’’, at hhttp://www.cnnic.cn/index/0B/index.htmi. CNNIC is
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+19
+
+Hong Xue
+
+Intellectual Property Law in the Internationalized DNS
+
+the registry of CN and Chinese-character domain names in China. See H. Xue, The Voice
+of China: A Story of Chinese-Character Domain Names, Cardozo Journal of International
+and Comparative Law, 12 (Fall 2004).
+
+41 On May 19, 2000, the four ccTLD registries around the Taiwan Strait, which are CNNIC
+(Beijing), TWNIC (Taipei), HKNIC (Hong Kong) and MONIC (Macau), established the
+Chinese Domain Name Consortium.
+
+42 ‘‘Internationalized Domain Names Registration and Administration Guideline for
+
+Chinese, Japanese and Korean’’ (CJK Guidelines) was published as a working document
+of the Internet Engineering Task Force (IETF). It focuses on a standards track
+speciﬁcation for access to domain names in a broader range of scripts than the original
+ASCII, but there could be great potential for confusion and difﬁculties in deployment and
+transition due to characters with similar appearances or interpretations. Nonetheless,
+these issues could best be addressed administratively, rather than through restrictions
+embedded in the protocols. See the document at hhttp://www.icann.org/riodejaneiro/
+draft-jseng-idn-admin-02.txti.
+
+43 See the ‘‘Standards for ICANN Authorization of Internationalized Domain Name
+
+Registrations in Registries with Agreements’’, at ICANN Rio de Janeiro Meeting Topic:
+Internationalized Domain Names, March 13, 2003, at hhttp://www.icann.org/
+riodejaneiro/idn-topic.htmi. (‘‘Ideally, a guidelines document should be developed and
+published for each language in which a DNS registry wishes to accept IDNA
+registrations.’’)
+
+44 See the ‘‘Standards for ICANN Authorization of Internationalized Domain Name
+
+Registrations in Registries with Agreements’’, at hhttp://www.icann.org/riodejaneiro/idn-
+topic.htmi.
+
+45 Soft law is the body of international instruments, which per se do not make law but still
+possess variable regulatory force. See U. Meoth, Soft Law in Governance and Regulation,
+Edward Elgar Publishing Ltd, 2004.
+
+46 See the Preamble of ‘‘Joint Recommendation Concerning Provisions on the Protection of
+
+Marks and Other Industrial Property Rights in Signs on the Internet’’, at hhttp://
+www.wipo.int/about-ip/en/development_iplaw/pub845.htm#TopOfPagei. The Joint
+Recommendation is also intended to enable owners of conﬂicting rights in identical or
+similar signs to use these signs concurrently on the Internet and determine remedies.
+
+47 See the ‘‘Joint Recommendation Concerning Provisions on the Protection of Marks and
+
+Other Industrial Property Rights in Signs on the Internet’’, Article 2, at hhttp://
+www.wipo.int/about-ip/en/development_iplaw/pub845-04.htm#P134_6837i. The Joint
+Recommendation is primarily to be effected at the level of substantive law, and therefore
+deliberately excludes the issues of conﬂict of laws and jurisdiction.
+
+48 See the ‘‘Joint Recommendation Concerning Provisions on the Protection of Marks and
+
+Other Industrial Property Rights in Signs on the Internet’’, Article 3(1)(d), at hhttp://
+www.wipo.int/about-ip/en/development_iplaw/pub845-04.htm#P134_6837i.
+
+49 See the ‘‘Joint Recommendation Concerning Provisions on the Protection of Marks and
+
+Other Industrial Property Rights in Signs on the Internet’’, Article 6, at hhttp://
+www.wipo.int/about-ip/en/development_iplaw/pub845-06.htm#TopOfPagei.
+
+50 See the ‘‘Joint Recommendation Concerning Provisions on the Protection of Marks and
+Other Industrial Property Rights in Signs on the Internet’’, Articles 7 and 8, at hhttp://
+www.wipo.int/about-ip/en/development_iplaw/pub845-06.htm#TopOfPagei.
+
+20
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+Intellectual Property Law in the Internationalized DNS
+
+Hong Xue
+
+51 See T. Bettinger and D. Thum, Territorial Trademark Rights in the Global Village—
+
+International Jurisdiction, Choice of Law and Substantive Law for Trademark Disputes
+on the Internet, International Review of Industrial Property and Copyright Law (IIC), 31
+(2000). It is available at hhttp://www.bettinger.de/publik/PDF/Territorial%
+20Trademark%20Law %20in%20the%20Global%20Village%20(IIC).pdfi.
+
+52 See T. Bettinger, Joint Recommendation Concerning Provisions on the Protection of
+
+Marks and Other Industrial Property Rights in Signs on the Internet, Domain Name Law
+and Practice—An International Handbook, Oxford University Press, New York. 2005.
+
+53 The original design of the DNS assumed that there would be one hierarchically organized
+
+set of domain names and that every domain name in it would be unique. So long as
+everyone relies on the same family of hierarchically organized databases, whoever
+controls the root ﬁle enjoys the power to determine which top-level domains are accessible
+to the entire Internet (see A.M. Froomkin, ‘‘ICANN and Antitrust’’, University of Illinois
+Law Review, 2003). ICANN was formed to manage the legacy domain name system to
+ensure that every address is unique and that all users of the Internet can ﬁnd all valid
+addresses (see ‘‘What is ICANN’’, at hhttp://www.icann.org/faq/#WhatisICANNi).
+
+54 All registrars in the .biz, .com, .info, .name, .net and .org top-level domains follow the
+
+UDRP. See ‘‘Uniform Domain-Name Dispute-Resolution Policy’’, at hhttp://
+www.icann.org/udrp/udrp.htmi.
+
+55 See the UDRP, paragraph 4 (a). It is available at hhttp://www.icann.org/udrp/udrp-
+
+policy-24oct99.htmi.
+
+56 See the Uniform Domain Name Dispute Resolution Database at hhttp://udrp.lii.info/
+
+udrp/stats.phpi. ICANN approved four UDRP dispute-resolution service providers, i.e.
+Asian Domain Name Dispute Resolution Center (ADNDRC), International Institute for
+Conﬂict Prevention Resolution, the National Arbitration Forum (NAF) and the WIPO
+Arbitration and Mediation Center. Up to June 2005, 7, 304 UDRP cases were ﬁled before
+the WIPO (see ‘‘Statistics on WIPO UDRP Domain Name Cases’’, at hhttp://
+arbiter.wipo.int/domains/statistics/index.htmli); up to June 2005, 96 cases were ﬁled
+before the ADNDRC (at hhttp://www.adndrc.org/adndrc/hk_statistics.htmli). Statistics
+of the cases ﬁled before the other two service providers are not available.
+
+57 See US Department of Commerce, ‘‘National Telecommunications and Information
+
+Administration Annual Report 2000’’, at hhttp://www.nia.doc.gov/nitahome/annualrpt/
+2001/2000annrpt.htmi; ‘‘WIPO ccTLD Best Practices for the Prevention and Resolution
+of Intellectual Property Disputes’’, at hhttp://ecommerce.wipo.int/domains/cctlds/
+bestpractices/bestpractices.htmli.
+
+58 See B.G. Davis, The UDRP is an International Scam, Mississippi Law Journal, 72 (Winter
+
+2002); A.M. Froomkin, ICANN’s ‘‘Uniform Dispute Resolution Policy’’—Causes and
+(Partial) Cures, Brooklyn Law Review 67 (Spring 2002); A.M. Froomkin, ICANN 2.0:
+Meet the New Boss, Loyola Los Angeles Law Review, 36 (Spring 2003) (‘‘The claim that
+the UDRP is ‘the closest thing that ICANN has to a consensus policy’ risks romanticizing
+its past’’).
+
+59 See the UDRP, paragraph 4(k). The mandatory administrative proceeding requirements
+set forth in paragraph 4 shall not prevent either the respondent or the complainant from
+submitting the dispute to a court of competent jurisdiction for independent resolution
+before such mandatory administrative proceeding is commenced or after such proceeding
+is concluded. It is available at hhttp://www.icann.org/udrp/udrp-policy-24oct99.htmi.
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+21
+
+Hong Xue
+
+Intellectual Property Law in the Internationalized DNS
+
+60 See G.W. Austin, Valuing ‘‘Domestic Self-Determination’’ in International Intellectual
+
+Property Jurisprudence, Chicago-Kent Law Review, 77 (2002) (As a result, the UDRP has,
+for most practical purposes, taken important disputes touching on the regulation of
+trademark rights out of the hands of domestic tribunals, replacing them with arbitration-
+like processes, regulated by the UDRP code and the private institution of contract.) Also,
+see A.M. Froomkin, ICANN’s ‘‘Uniform Dispute Resolution Policy’’—Causes and
+(Partial) Cures, Brooklyn Law Review, 67 (Spring 2002) (the drafters both in WIPO and
+ICANN attempted to model the substantive parts of the UDRP on an emerging
+international consensus against cybersquatting).
+
+61 Despite the ‘‘private’’ nature of the UDRP, the WIPO had the substantial involvement in
+
+its formation. During 1998–1999, WIPO, in response to the request of the US
+Government, launched the ‘‘WIPO Internet Domain Name Process’’. The ﬁnal report
+that was submitted to the Board of the ICANN constituted the basis of the UDRP (see
+Final Report of the WIPO Internet Domain Name Process, ‘‘The Management of
+Internet Names and Addresses: Intellectual Property Issues’’, at hhttp://arbiter.wipo.int/
+processes/process1/report/ﬁnalreport.htmli). The contrast between the UDRP and the
+‘‘Joint Recommendation Concerning Provisions on the Protection of Marks and Other
+Industrial Property Rights in Signs on the Internet’’ is surprising. So is the attitude change
+of the WIPO over the 4 years (1998–2001).
+
+62 See A.M. Froomkin, ICANN’s ‘‘Uniform Dispute Resolution Policy’’—Causes and
+
+(Partial) Cures, Brooklyn Law Review, 67 (Spring 2002).
+
+63 See ‘‘WIPO Overview of WIPO Panel Views on Selected UDRP Questions’’, at hhttp://
+
+arbiter.wipo.int/domains/search/overview/index.html#13i.
+
+64 In accordance with the UDRP, paragraph 4(b), the following circumstances, in particular,
+
+but without limitation, if found by the panel to be present, shall be evidence of the
+registration and use of a domain name in bad faith: (i) circumstances indicating that you
+have registered or you have acquired the domain name primarily for the purpose of
+selling, renting, or otherwise transferring the domain name registration to the
+complainant who is the owner of the trademark or service mark or to a competitor of that
+complainant, for valuable consideration in excess of your documented out-of-pocket
+costs directly related to the domain name; or (ii) you have registered the domain name in
+order to prevent the owner of the trademark or service mark from reﬂecting the mark in a
+corresponding domain name, provided that you have engaged in a pattern of such
+conduct; or (iii) you have registered the domain name primarily for the purpose of
+disrupting the business of a competitor; or (iv) by using the domain name, you have
+intentionally attempted to attract, for commercial gain, Internet users to your website or
+other on-line location, by creating a likelihood of confusion with the complainant’s mark
+as to the source, sponsorship, afﬁliation, or endorsement of your website or location or of
+a product or service on your website or location. In terms of the analysis of the UDRP
+decisions, 39.3% of the total cases show evidence of the bad faith in paragraph 4(b)(iv),
+30% of the cases in paragraph 4(b)(i), 14.1% of the cases in paragraph 4(b)(ii), 9.1% of
+the cases in paragraph 4(b)(iii), and 15.1% have other evidence of bad faith; only in
+13.9% of the cases was bad faith not found. See Uniform Domain Name Dispute
+Resolution Database Statistics, at hhttp://udrp.law.cornell.edu/udrp/stats.phpi.
+
+65 See the UDRP Opinion Guide, Division 3, ‘‘Bad Faith’’, at hhttp://cyber.law.harvard.edu/
+
+udrp/opinion/btext.htmli. Understandably, in the UDRP proceeding, complainants
+
+22
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+Intellectual Property Law in the Internationalized DNS
+
+Hong Xue
+
+eventually prevailed in most cases. In line with the statistics from the WIPO, the rate of
+transfer decisions rendered by the WIPO panels has increased over the last 5 years from
+81% to 86%. In 2004, the rate reached 86.3%. See ‘‘WIPO Arbitration and Mediation
+Center New Generic Top-Level Domains: Intellectual Property Considerations’’, at
+hhttp://arbiter.wipo.int/domains/reports/newgtld-ip/i.
+
+66 In accordance with the UDRP Opinion Guide, the following circumstances may be used
+to satisfy paragraph 4(b)(iv) of the policy: the domain was used to link to another website;
+respondent, a competitor of the complainant, registered a domain name containing
+complainant’s mark; respondent registered complainant’s mark in a different top-level
+domain; respondent registered a domain name similar to complainant’s mark; respondent
+registered a domain name containing complainant’s mark plus a generic or descriptive
+term; respondent registered a misspelling of complainant’s mark; or, non-use of the
+domain name, plus additional circumstances. The list above is not intended to be
+exhaustive. The document is available at hhttp://cyber.law.harvard.edu/udrp/opinion/
+btext.htmli.
+
+67 With new gTLDs approved by ICANN, the so-called ‘‘sunrise measures’’ were introduced
+
+to prevent the conﬂict between the trademarks and domain names. Apparently, these
+restrictive measures cannot resolve the problem of translations or transliterations of
+trademarks. With respect to ‘‘.info’’, the registry Aﬁlias provided trademark owners with
+an option to register domain names before the general public during a ‘‘Sunrise
+Registration Period’’, which lasted from July 25 to August 27, 2001. Pursuant to the
+Sunrise Registration Conditions (‘‘Conditions’’), such Sunrise domain names had to be
+identical to the textual elements of a current trademark registration of national effect that
+was issued prior to October 2, 2000. Pursuant to the new gTLDs report, Aﬁlias received
+80,951 Sunrise applications, which resulted in 51,764 domain names. Sunrise registration
+may then be challenged during the Sunrise Challenge Period. See Aﬁlias Sunrise
+Challenge Policy (Revised), at hhttp://www.aﬁlias.info/register/dispute_resolution/
+sunrise_challenge_policy_revisedi. With respect to ‘‘.biz’’, the registry did not provide
+trademark owners with a preferential registration option, but attributed all domain names
+on a randomized basis during its start-up phase, which lasted from June 25 to September
+21, 2001. But .biz offered trademark owners the possibility to purchase ‘‘IP Claims’’,
+which, in essence, provided an automated ‘‘watch service’’ combined with a (potential)
+priority in enforcing their rights against abusive registrants in an administrative
+procedure under the ‘‘Start-up Trademark Opposition Policy’’ (STOP) (at hhttp://
+arbiter.wipo.int/domains/reports/biz-stop/index.htmli).
+
+68 See ‘‘Index of WIPO UDRP Panel Decisions’’, at hhttp://arbiter.wipo.int/cgi-bin/
+
+domains/search/legalindex?lang=engi. Among these cases, nine cases involve Chinese-
+character domain names (
+.com;
+.com;
+. com), one case
+for Danish-character domain name, two cases for French-character domain names, ﬁve
+cases for German-character domain names, 12 cases for Japanese-character domain
+names (e.g.
+
+.com;
+.com;
+
+. com;
+
+. com;
+
+. com;
+
+. com;
+
+.com;
+
+.com;
+
+.com;
+
+.net;
+
+.com;
+
+. com), 12 cases for Korean-character domain names
+(e.g.
+.com), two cases for Spainish-character domain
+names, two cases for Swedish-character domain names and two cases for Norwegian-
+character domain names.
+
+.com;
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+23
+
+Hong Xue
+
+Intellectual Property Law in the Internationalized DNS
+
+69 See John Swire & Sons Limited v Lily Zhu, WIPO D2001-1025, at hhttp://arbiter.wipo.int/
+
+domains/decisions/html/2001/d2001-1025.htmli.
+
+70 In accordance with the Rules for Uniform Domain Name Dispute Resolution Policy,
+paragraph 15(a), a panel shall decide a complaint in accordance with the policy, these
+rules and any rules and principles of law that it deems applicable. See the rules at hhttp://
+www.icann.org/dndr/udrp/uniform-rules.htmi.
+
+24
+
+r 2006 The Author
+Journal Compilation r 2006 Blackwell Publishing Ltd
+
+

@@ -1,0 +1,1479 @@
+644
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2018, Vol. 13, No. 8
+
+General damages and an account of profits—an
+Irish innovation?
+David Brodsky*
+
+Since Neilson v Betts,1 the ‘orthodox’ view has been that
+damages and an account of proﬁts are mutually exclu-
+sive remedies in intellectual property litigation.2,3 A re-
+cent, and little-commented upon decision of the Irish
+High Court,4 however, would appear to open the door
+in Ireland, and perhaps elsewhere, for the granting of
+both damages and an account of proﬁts. The decision
+was based on an apparently novel argument, at least in
+the judicial arena, to explain why the simultaneous ap-
+plication of the two remedies, in the appropriate cir-
+cumstances, would not be excessive.
+
+The initial section of this article will brieﬂy review the
+background and historical development of the ‘ortho-
+dox’ view of the non-cumulative nature of the two reme-
+dies. The second section will then present the speciﬁc
+judicial arguments forming the basis of the recent Irish
+court decision. Following this, the issue will be examined
+from a law and economics perspective, with speciﬁc ref-
+erence to the underlying logic of the Irish judgment and
+a consideration of several pertinent examples.
+
+The ‘orthodox’ view
+
+The ‘orthodox’ view that damages and an account of
+proﬁts cannot be cumulated, and that an election must
+therefore be made between the two, originates from the
+linked cases of Neilson v Betts (1871)5 and De Vitre v
+Betts (1873).6 The unchallenged nature of the orthodox
+position has been such that, as observed nearly 50 years
+ago, it is ‘now trite’.7
+
+Perhaps somewhat surprisingly, in the decade and a
+half preceding Neilson v Betts there had been a number
+of cases in which both inquiries into damages and an
+account of proﬁts were ordered.8 The possibility of
+such ‘double’ awards had arisen as a result of judicial
+
+The author
+ David Brodsky is an economist, registered Irish
+trade mark agent, and European trade mark and
+design attorney.
+
+This article
+ This article considers the ‘orthodox’ rule requiring
+an election between damages or an account of
+proﬁts in light of a recent Irish court decision that
+would appear to open the door for the granting of
+both remedies.
+
+ Following a brief review of the background and his-
+torical development of the ‘orthodox’ view, the spe-
+ciﬁc judicial arguments underlying the decision are
+presented. The crux of the judge’s reasoning centred
+on the distinction between special and general dam-
+ages. Interpreting these terms in the manner set
+forth by the Irish Supreme Court for trade mark/
+passing off cases, the judge concluded that the ‘rule’
+requiring a plaintiff to make an election between
+the two remedies refers to an election between spe-
+cial damages and an account of proﬁts, so that
+nothing precludes a plaintiff from making a claim
+for general damages and an account of proﬁts.
+
+ This article shows that the legal and economic
+logic underlying the judgment is not easily refuted.
+Moreover, at least in certain situations the ‘ortho-
+dox’ position can be seen to send a clear, albeit
+unintended, signal to potential infringers that they
+need not worry unduly about the quality of their
+workmanship, or tarnishing the victim’s trade
+mark or reputation.
+
+*
+1
+2
+
+3
+
+france888@yahoo.com.
+(1871) LR 5 HL 1.
+For a detailed discussion on how this orthodoxy arose, see S. Watterson,
+‘An Account of Proﬁts or Damages? The History of Orthodoxy’ (2004)
+24 OJLS 471–94.
+This has to a certain extent been called into question by the EU IP
+Enforcement Directive (2004/48/EC) whose ‘ambiguous wording’ can be
+interpreted as permitting, or indeed perhaps requiring, cumulative reme-
+dies for ‘lost proﬁts’ and ‘unfair proﬁts’. See P. Johnson, “‘Damages” in
+European Law and the Traditional Accounts of Proﬁt’ (2013), 3 Queen
+
+Mary Journal of Intellectual Property 296–306. UK courts have consis-
+tently held that the ‘orthodox’ position is consistent with the Directive, a
+recent example being Absolute Lofts South West London Ltd v Artisan
+Home Improvements Ltd & Anor [2015] EWHC 2608 (IPEC) at 52.
+Aldi Stores (Ireland) Limited v Dunnes Stores (No. 3) [2016] IEHC 256.
+Above, n 1.
+(1873) LR 6 HL 319.
+Colbeam Palmer Ltd v Stock Afﬁliates Pty Ltd (1968) 122 CLR 25 at 32.
+
+4
+5
+6
+7
+8 Watterson, above n 2, 478–84.
+
+VC The Author(s) 2018. Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jpx234
+Advance Access Publication 7 March 2018
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+3
+8
+6
+4
+4
+4
+9
+2
+4
+4
+0
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+David Brodsky  General damages and an account of proﬁts
+
+ARTICLE
+
+645
+
+reforms in which common law courts had been given
+the possibility to order an account of proﬁts in patents
+cases (18529) and courts of equity the power to award
+damages in all appropriate cases (185810). The reason-
+ing underlying such ‘double’ awards was explained by
+Lord Chelmsford in Betts v Neilson (1868) in terms
+which, as we shall see, foreshadow the reasoning of
+Cregan J in the Irish case that is the principal subject of
+this article:
+
+Before Lord Cairns’ Act, 21 & 22 Vict. c. 27, damages could
+only be obtained at law, and where a Plaintiff in a case of
+the present description prayed for an account, but after-
+wards desired to proceed at law for damages, he was not al-
+lowed to do so except upon the terms of waiving his claim
+to an account.. . . There is nothing in the Act to prohibit
+the Court from awarding damages as well as directing an
+account.. . . It is so obvious to me that in many cases the
+account alone will not satisfy the entire equity of a Plaintiff,
+that there being nothing against principle, nor contrary to
+the enactment of the statute, in granting the double relief, I
+shall hold the Vice-Chancellor’s decree to be right in this
+respect.11
+
+The award of double damages in Betts v Neilson was
+reversed, however, by the House of Lords in Neilson v
+Betts,12 thus laying the grounds for the orthodox policy
+which has continued to the present day.
+
+There are two basic, and fundamentally differing, expla-
+nations for why the two reliefs cannot be combined. The
+ﬁrst,
+‘original’, one—known variously as ‘condonement
+theory’,13 ‘ratiﬁcation principle’14 or ‘waiver of tort’—goes
+back to Lord Westbury’s explanation in Neilson v Betts
+that ‘the two things are hardly reconcilable, for if you take
+an account of proﬁts you condone the infringement’.15 In
+effect, the defendant acts as the plaintiff’s agent (or li-
+censee), so it would be logically inconsistent for the plain-
+tiff
+to plead for damages once the tort has been
+‘condoned’16—or more concisely put, ‘a party cannot be
+permitted to approbate and reprobate’.17 The second
+
+explanation, simpler and more ‘modern’,18 is to ensure
+that ‘overlapping is prevented’,19 that is, that the plaintiff/
+claimant20 is not effectively compensated twice for the
+same loss.
+
+Aldi Stores (Ireland) Limited v Dunnes
+Stores (No. 3)21
+This was the third decision issued by Cregan J in the
+dispute involving these two parties. In the ﬁrst,22 he
+had ruled that the defendant’s advertising infringed the
+regulations on comparative advertising,23 as well as the
+plaintiff’s trade marks. In the second,24 he had con-
+cluded that the court should exercise its discretion to
+grant an injunction,25 and that preliminary matters
+(only) should go forward with regard to the damages
+module of the trial, in view of the defendant’s stated in-
+tention to appeal the issue of liability to the Court of
+Appeal.26 The present case (while the liability issue was
+still on appeal) concerned the defendant’s application
+to the court for an order requiring the plaintiff to make
+an election between (i) an inquiry into damages or (ii)
+an account of proﬁts. The decision of the court, an-
+nounced in March 2016, has elicited little follow-up
+comment, and what little there has been has largely fo-
+cused on the issue of the timing of the election, rather
+than the potentially paradigm-changing ruling on the
+fundamental nature of the election.
+
+After reviewing the relevant UK and Irish authorities,
+Cregan J turned to an analysis of fundamental princi-
+ples.27 He ﬁrst noted that:
+
+It is clear from the authorities that there is a rule of law in
+trademark and patent infringement cases that a plaintiff
+who has established an infringement must make an election
+between an inquiry into damages or an account of proﬁts.
+However the scope of this rule, the operation of this rule
+and the underlying principles or rationale for the rule are
+not so clear.
+
+9
+
+As well as the ‘equitable’ remedy of granting injunctions; Patent Law
+Amendment Act 1852 (15 & 16 Vict. c. 83), s 42.
+
+18
+
+See Watterson, above, n 2 at 485–6 for an extended discussion of the in-
+adequacy of the condonement theory.
+
+10 Chancery Amendment Act 1858 (21 & 22 Vict. c. 27) [Lord Cairns’ Act],
+
+19 Watson, Laidlaw & Co Ltd v Pott, Cassels & Williamson (1914) 31 RPC
+
+s 2.
+(1868) LR 3 Ch App 429 at 440–1 (italics added).
+
+11
+12 Above, n 1.
+13 Watterson, above, n 2.
+14
+
+J. Marshall and W. Lister,‘Compensatory Damages and Account of
+Proﬁt: Separate Elections for Separate Causes of Action—Trade Mark
+Infringement and Passing Off’ (2016) 11 JIPLP 291.
+
+15 Above n 1 at 22 (italics added).
+16
+
+‘[A] patentee who elects to take an account of proﬁts stands in the shoes
+of the infringer and condones his wrong-doing, and is entitled only to
+the proﬁts made by the infringer.’ Saccharin Corpn v Chemicals and
+Drugs Co [1900] 2 Ch 556 at 558.
+
+17 Personal Representatives of Tang Man Sit v Capacious Investments Ltd
+
+[1996] AC 514 at 516.
+
+104 at 119.
+In Ireland, ‘claimaints’ are still ‘plaintiffs’.
+
+20
+21 Above, n 4.
+22 Aldi Stores (Ireland) Ltd v Dunnes Stores [2015] IEHC 495.
+23
+
+S.I. No. 774/2007 - European Communities (Misleading and
+Comparative Marketing Communications) Regulations 2007.
+
+24 Aldi Stores (Ireland) Ltd v Dunnes Stores (No. 2) [2015] IEHC 551.
+25 One factor being the defendant’s ‘cavalier attitude toward a breach of a
+competitor’s trade marks’, which did not inspire the judge with conﬁ-
+dence that the situation would not recur.
+
+26 Established in 2014, the Irish Court of Appeal now handles the large ma-
+jority of cases that previously were appealed from the High Court to the
+Supreme Court.
+27 At paras 32–44.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+3
+8
+6
+4
+4
+4
+9
+2
+4
+4
+0
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+646
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2018, Vol. 13, No. 8
+
+In his view,
+election was
+overcompensated:
+
+the ‘underlying reason’
+to ensure that
+
+for such an
+the plaintiff was not
+
+Therefore if a plaintiff could recover damages for his loss
+of proﬁts on his loss of sales and also obtain an award of
+the defendant’s proﬁts on his sales he would enjoy an
+unmerited windfall. He would, in effect, recover ‘on the
+double’. This would mean that a plaintiff would be ‘over-
+compensated’ and a defendant would be ‘over-penalised’.
+
+However, courts should not apply this rule (for an
+election) in a ‘mechanistic’ way; rather they should seek
+to:
+
+understand the rationale for the rule and to apply it in
+each case in an appropriate manner to ensure justice is
+done to the plaintiff for the infringement whilst also ensur-
+ing that the plaintiff is not over-compensated in a manner
+which would do an injustice to the defendant.
+
+Special versus general damages
+
+The judge then turned to what for him was the crux of
+the issue—the distinction between special and general
+damages.28 While these terms have not always been in-
+terpreted in a uniform manner,29 in the context of trade
+mark infringement and passing off they have been de-
+ﬁned by the Irish Supreme Court as follows:30
+
+special damages: ‘pecuniary loss’, speciﬁcally ‘all ﬁnancial
+loss such as loss of business proﬁts or expenses incurred’
+general damages: ‘non-pecuniary loss’, speciﬁcally ‘damage
+to reputation or goodwill’
+
+Cregan J then observed that a plaintiff was clearly enti-
+tled to recover both special damages and general dam-
+ages, so deﬁned, and that in such case it was clear there
+would be no overcompensation. But ‘if that be so, then
+it cannot be argued that a plaintiff who is seeking general
+damages and an account of proﬁts is being over-com-
+pensated’ since one pecuniary measure (special damages)
+is effectively being substituted by another (account of
+proﬁts).31 Not surprisingly, the defendant objected stren-
+uously to this radical reformulation of the ‘election’ be-
+tween damages and an account of proﬁts, and cited
+numerous judicial authorities in support. However,
+
+28 At paras 45–59.
+29 With regard to special damages, a difﬁculty noted judicially at least as
+
+early as 1892: ‘Lest we should be led astray in such a matter by mere
+words, it is desirable to recollect that the term “special damage”, which is
+found for centuries in the books, is not always used with reference to
+similar subject-matter, nor in the same context’; Ratcliffe v Evans [1892]
+2 QB 524 CA at 528, per Bowen LJ.
+
+30 Tommy Hilﬁger Europe v McGarry & ors [2008] IESC 36.
+31
+
+See further discussion below in the section ‘A law and economics
+perspective’.
+
+[T]he defendant ... accepted that it was not able to point to
+a single case which clearly stated the proposition that a
+plaintiff must make an election between a right of general
+damages or an account of proﬁts.
+
+The judge’s view was that ‘the case law, when properly
+analysed, in fact refers to an election between the plain-
+tiff’s right to special damages (not general damages) or
+an account of the defendant’s proﬁts’.
+
+Thus, he concluded that:
+
+the rule of law which requires a plaintiff to make an elec-
+tion between an inquiry as to damages or an account of
+proﬁts must mean an election between the plaintiff’s in-
+quiry as to special damages or an account of the defen-
+dant’s proﬁts.
+
+Hence the plaintiff’s claim to general damages (in addi-
+tion to an account of proﬁts) remained ‘intact’.
+
+In April 2017, the decision in the original case32 was
+reversed by the Court of Appeal,33 thus converting the
+radical reformulation of the orthodox doctrine set forth
+by Cregan J into an obiter dicta. It remains to be seen
+whether this radical reformulation will be followed in fu-
+ture trade mark infringement/passing off cases in Ireland.
+
+A law and economics perspective
+
+The key to the judicial reasoning set forth by Cregan J
+is the inherent substitutability of special damages and
+an account of proﬁts. This inherent substitutability also
+emerges directly from an economic analysis of the na-
+ture of damages themselves. In relation to the economic
+torts, the classic deﬁnition of damages is that provided
+by Lord Wilberforce in General Tire and Rubber Co v
+Firestone Tyre and Rubber Co Ltd:34 ‘that sum of money
+which will put the injured party in the same position as
+he would have been in if he had not sustained the
+wrong’.
+
+From the point of view of the ﬁrm that has suffered
+infringement (or passing off), the economic value of
+damages, so deﬁned, can be decomposed into two basic
+elements: (a) those that have already occurred (ie back-
+ward-looking) and are ‘precisely quantiﬁable’; and (b)
+those that will occur, or at least are foreseeable (ie for-
+ward-looking) and can only be estimated.35 The former
+
+32 Above, n 22.
+33 Aldi Stores (Ireland) Ltd & Anor v Dunnes Stores [2017] IECA 116.
+34
+
+[1976] RPC 197 at 212. In Ireland this deﬁnition of damages was cited by
+the Irish Supreme Court in connection with trade mark infringement/
+passing off in Tommy Hilﬁger Europe v McGarry & ors (above n 30).
+
+35 Cf. the discussion of ‘general and special damages’ in S. Deakin, A.
+
+Johnston and B. Markesinis, Markesinis and Deakin’s Tort Law, 7th edn
+(OUP, Oxford, 2012), 794.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+3
+8
+6
+4
+4
+4
+9
+2
+4
+4
+0
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+David Brodsky  General damages and an account of proﬁts
+
+ARTICLE
+
+647
+
+can be calculated as the loss of proﬁts suffered in the pe-
+riod from the start of infringement to the present. The
+latter, on the other hand, can be estimated as the de-
+crease in the present value of the anticipated stream of fu-
+ture proﬁts. As the italicized term is effectively the
+economic/ﬁnancial deﬁnition of ‘goodwill’,36 forward-
+looking damages can thus be seen to compensate for
+damages to goodwill.
+
+Hence the dichotomy backward- versus forward-
+looking damages essentially reduces to the deﬁnition
+adopted by the Irish Supreme Court37 for special and
+general damages that was used by Cregan J as the basic
+starting point for his legal argument. Viewed in this
+context, it is clear that an account of proﬁts, which is
+entirely backward-looking, can properly be viewed as a
+substitute only for special damages, and is completely
+independent of forward-looking general damages.
+
+A practical illustration
+
+By way of example, in a trade mark/passing off context,
+assume that Firms A and B produce essentially identical
+goods in a ‘branded’ market where consumers select
+based on personal brand preferences (beer, breakfast ce-
+reals, etc). Now assume that Firm B commits trade
+mark infringement and/or passing off by marketing its
+goods under Firm A’s brand-name. Firm B’s ‘illicit’
+sales are £20 million, with proﬁts of £10 million, so that
+an award to Firm A of an account of proﬁts would pro-
+vide compensation of £10 million. In this case ‘special’
+damages—speciﬁcally,
+‘the loss of business proﬁts’—
+can be calculated as the additional proﬁts that Firm A
+would have earned if it had been able to produce and
+sell the ‘illicit’ goods in place of Firm B.38
+
+Relationship between an account of proﬁts
+and special damages
+
+The relationship between an account of proﬁts and cal-
+culated (‘special’) damages will depend on a number of
+factors. In the above example, ceteris paribus, it will be
+a function of the relative costs of production of the two
+ﬁrms and the extent to which, if any, Firm A has capac-
+ity limitations that would have restricted its ability to
+recapture the sales ‘stolen’ by Firm B. This is illustrated
+in the table below, where a capacity constraint of 50%
+
+means that Firm A could have produced only 50% of
+the ‘stolen’ sales, and 100% means it had no capacity to
+increase production.
+
+CALCULATED (‘SPECIAL’) DAMAGES
+
+A’s costs relative to B
+
+equal
+
+lower (20%)
+
+higher (20%)
+
+Capacity constraint
+
+none
+50%
+100%
+
+10 [normal]
+5
+0
+
+12
+6
+0
+
+8
+4
+0
+
+case
+
+Thus,
+
+in the
+
+‘normal’
+
+(italicized)—equal
+production costs and no binding capacity constraint—
+special damages and an account of proﬁts are both £10
+million, so that the two remedies truly are reverse sides
+of the coin. In the other cases, there will generally be a
+divergence between the two,39 and it will obviously be
+in Firm A’s interest to elect the remedy offering larger
+recompense. Where in certain cases it might thus ap-
+pear to be in Firm A’s interest to turn a ‘blind eye’ to
+the infringement/passing off, and later reclaim all of
+Firm B’s proﬁts (which would exceed Firm A’s calcu-
+lated damages), the court in such cases will likely refuse
+to order an account of proﬁts, or will limit the account
+to the period before the plaintiff/claimant became
+aware of the infringement/passing off.40
+
+Note that, to this point, the issue of general damages
+does not arise: there is no damage to reputation or
+goodwill, or other non-pecuniary loss. In other words,
+using the terminology employed earlier, there are no
+‘forward-looking’ damages. Of course, during the pe-
+riod of the infringement/passing off, there is a real ‘con-
+fusion’ as to source (and a ‘dilution’ of Firm A’s mark),
+but this disappears the moment the offending action
+ceases, leaving (special) damages to be calculated pre-
+cisely as above.
+
+General damages
+
+Let us take as our ‘base’ case the one above in which
+Firm A has a 50% supply constraint and equal costs to
+Firm B. Then calculated (special) damages, according
+to the table, will be £5 million, and Firm A will clearly
+elect an account of proﬁts which will compensate it
+with £10 million.
+
+36
+
+‘Using the present value of future income method, goodwill may be esti-
+mated as the present value of the future income to be earned from pro-
+viding future goods or services to future, unidentiﬁed, customers.’ R. F.
+Reilly and R. P. Schweihs, Guide to Intangible Asset Valuation, 2nd edn
+(AICPA, New York, 2014), 709.
+
+37 Above, n 30.
+38 Plus any additional expenses incurred to date as a result of the infringe-
+
+ment, assumed to be zero.
+
+39 The remedies will also turn out to be equal if Firm A’s capacity limitation
+is precisely compensated for by its lower cost of production. Thus, in the
+above example, if Firm A can produce 80% of ‘stolen’ sales and has a
+25% cost advantage, it would have had increased sales of £16 million and
+increased costs of only £6 million, leaving it with ‘special’ damages of £10
+million.
+
+40 Or from the date of the letter before action. For case references, see J.
+Mellor et al., Kerly’s Law of Trade Marks and Trade Names, 15th edn
+(Sweet & Maxwell, London, 2011) para. 20-156.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+3
+8
+6
+4
+4
+4
+9
+2
+4
+4
+0
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+648
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2018, Vol. 13, No. 8
+
+Now, let us assume that Firm B produces an inferior
+product, but everything else remains the same. In addi-
+tion to the special damages that can be calculated as £5
+million, there will now be general damages resulting
+from the damage to Firm A’s goodwill/reputation aris-
+ing from its association with an inferior product—con-
+sumers will of course hold Firm A responsible for Firm
+B’s shoddy workmanship. Let us further assume that
+this damage to goodwill/reputation can be valued at £3
+million; this might represent, for example, the projected
+future cost of an advertising campaign informing the
+public that Firm A was the ‘innocent’ party and not to
+be held responsible for the temporary decline in quality.
+Under the ‘orthodox’ approach, Firm A would be given
+the following choice:
+
+case, Firm B pays an explicit price for the (additional)
+damage to goodwill/reputation.
+
+This example clearly illustrates that, at least in cer-
+tain circumstances,42 the orthodox approach effec-
+tively sends an all-too-clear message to potential
+infringers that they are free to produce shoddy mer-
+chandise (within limits43) or otherwise ‘tarnish’ the
+trade mark or reputation of the ﬁrm: should they
+eventually be called to account for their transgression,
+the amount they will have to pay will be independent
+of the quality of the goods they produce44 or the re-
+sulting tarnishment of the mark/reputation. This is
+clearly an undesirable result however one looks at it,
+and it is perhaps the single strongest argument for al-
+lowing the simultaneous award of general damages
+and an account of proﬁts.
+
+Total Damages
+¼ £8 million
+Special¼ £5 million
+General¼ £3 million
+
+or
+
+Account of Proﬁts
+¼ £10 million
+
+Conclusion
+
+Obviously in this case, it would once again elect the
+account of proﬁts of £10 million. Comparing this out-
+come with the previous case (no general damages), it is
+clear that Firm B will effectively escape liability for the
+additional damage to goodwill/reputation that it has
+caused.41
+
+On the other hand,
+
+if the ‘Irish’ approach were
+adopted, Firm A would have the possibility of opting
+for general damages plus an account of proﬁts, thus
+providing total compensation of £13 million. In this
+
+The decision in Aldi Stores v Dunnes Stores (3), al-
+though now rendered obiter dicta, merits further con-
+sideration. The legal and economic logic underlying the
+judgment—allowing the cumulative remedy of general
+damages plus an account of proﬁts in trade mark and
+passing off cases45—is not easily refuted. Moreover,
+from a law and economics perspective, it can easily be
+conﬁrmed that, at least in certain situations, the ‘ortho-
+dox’ position sends a clear, albeit unintended, signal to
+potential infringers that they need not worry unduly
+about the quality of their workmanship, or tarnishing
+the victim’s trade mark or reputation.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+3
+8
+6
+4
+4
+4
+9
+2
+4
+4
+0
+3
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+41 Thus representing one of the ‘many cases’ noted by Lord Chelmsford in
+Betts v Neilson where ‘the account alone will not satisfy the entire equity
+of a Plaintiff’ (above, n 11).
+
+42 Namely, when the ‘victim’ ﬁrm has limited capacity and/or when the po-
+
+43
+
+tential infringer is a low-cost producer.
+In this example, if Firm B were to ‘overdo’ the shoddiness to the extent
+that general damages rose above £5 million, it would face a potential
+compensation bill in excess of £10 million.
+
+44 Note that if the reduction in quality is due to reduced costs, Firm A will
+
+receive additional compensation since the account of proﬁts will increase.
+So for the purposes of the example it is assumed that the inferior quality
+is due simply to shoddy workmanship arising from the lack of
+accountability.
+
+45 And, by extension, in other intellectual property disputes.
+
+

@@ -1,0 +1,754 @@
+Developments in Encryption Export Controls 
+
+Liberalization at Lust? 
+
+Jeffi-ey L. SNYDER* and James W. REED** 
+
+As  rapidly  as  technology  has  developed  in  the  field  of  high-performance 
+computers,  encryption  software  and  commodities,  and  the  world  of  electronic 
+commerce-“e-commerce” 
+have 
+consistently found themselves strugghng to keep pace with developments in the market- 
+place. In the latest round of efforts to affect, if not control, developments in this arena, 
+on 16 September 1999 the Clinton Administration announced steps designed to relax 
+sigdkantly U.S. export controls on encryption software. To many in the community, 
+the announcement was as startling as it was stark: 
+
+as  it  has  come  to  be  known-policy-makers 
+
+“Today, the Clinton Administration announced a new approach to encryption policy . . . Any 
+encryption commodity or software of any key length can now be exported under a license 
+exception  (i.e.  without  a license) after a technical review, to commercial firms and other 
+non-governmental  end-users  in  any  country  except  for  the  seven  State  supporters  of 
+terrorism.”‘ 
+Whde welcome, h s  change is nonetheless perhaps best perceived as a reaction to 
+events that have been proceeding largely beyond the control of Administration policy- 
+makers. 
+
+The  Clinton  Administration’s efforts  to  balance  the  national  security  and  law 
+enforcement  concerns  raised  by  encryption  with 
+the  privacy,  security  and 
+authentication needs of the new electronic society have, in the eyes of its critics, been 
+inadequate. Congress and the courts have become determined participants in this debate 
+as  well. While previous efforts in  Congress have yielded little in the way of tangible 
+results, the latest version of encryption legislation-the  Security and Freedom through 
+Encryption  (SAFE) Act-introduced 
+in this session  of Congress, has  drawn significant 
+bipartisan support.2 And opponents of existing policy have been celebrating the Ninth 
+Circuit’s recent  decision in  Bernstein  v.  United  Stater3  in  which  the  Appellate Court 
+affirmed a lower court’s ruling that the Export Administration Regulations R EAR)^ are 
+unconstitutional as they relate to export controls on encryption commodities. 
+
+*  Partner at the law firm of Sonnenschein Nath & Rosenthal, Washington, D.C. 
+** Associate at the law firm of Sonnenschein Nath & Rosenthal, Washington, D.C. 
+’ The White House, Office of the Press Secretary, Administration  Updater Ennyption Exptl Policy, Fact Sheet, 
+2  H.R. 850.106th Cone. (1999). 
+3 176 F.3d 1132 (9th CG. i999): 
+4  15 C.F.R. §§ 730 et seq. 
+
+16 September 1999. 
+
+978 
+
+THE JOURNAL  OF WORLD INTELLECTUAL PROPERTY 
+
+This article reviews these latest changes in export regulations on encryption as well 
+
+as the recently published Bernstein decision. 
+
+I.  DEVELOPMENTS 
+
+ON THE REGULATORY TRACK: A NEW POLICY APPROACH 
+
+To understand why this latest announcement from the Clinton Adrmnistration was 
+surprising to many, it is  helpful to  review briefly  some of the latest developments in 
+export controls on encryption. While the courts have wrestled with First Amendment 
+challenges  to  export  controls  on  encryption  products,  policy-makers  have 
+simultaneously struggled  to  maintain  a  delicate  balance  between  other  competing 
+interests in this arena-privacy 
+and free trade on the one hand, national security and law 
+enforcement concerns on the other.  Developments over the past  year have  seen that 
+balance shift increasingly in the direction of free traders, in part because of the growing 
+availability of strong encryption products from foreign sources.5 
+
+Responding to these pressures from industry sources, the Administration had, up 
+until this most recent change, incrementally liberalized export controls on encryption 
+products.  While  this  path  toward  liberahzation did  not  always  follow  a  consistent 
+approach, two trends in particular were apparent: first, a gradual raising of the threshold 
+above  which  encryption  products  have  been  captured  by  export  constraints; and, 
+second, an increase in the scope and availabllity of export license exceptions applicable 
+to encryption products. 
+
+The  starting point  for  this  trend  toward  liberalized  controls  is  traceable  to  a 
+November  1996 decision by  the White  House  to  transfer  control  of all commercial 
+cryptography from the State Department to the Commerce Department, a move that 
+recogruzed that not all encryption is  “specially designed for military applications”.6 In 
+1997, the Commerce Department published regulations designed to give effect to t h s  
+new policy, setting a 56-bit  key length as the threshold for controls and establishing a 
+new,  multi-faced  EAR category,  labelled  “EI”,  for  export  controls  on  encryption 
+commod1ties.7 A prominent theme in these new regulations was official encouragement 
+for the  development of  “recoverable products”  that  would  grant federal authorities, 
+acting  under  appropriate legal  authorization,  access  to  the  plain  text  of  encrypted 
+communications through a “key” held in self-escrow or by a third-party  agent.8 
+
+A June  1999 study  by  the  Cyberspace  Policy  Institute  at  George Washington University has  noted  a 
+22  percent  increase  in  foreign-produced  encryption  products  since December  1997.  See Michael Ebert,  Suit 
+Threatens U S .  Computer Dominunre, editorial, Journal of Commerce,  16 September 1999, at 8. 
+
+See Executive Order No. 13026, Administration OfExport  Controls on Ennyption Products, 61 Fed. Reg. 58767 
+(1996). 
+7  In establishing this new “EI” category of controls, the EAR explained that encryption software and hardware 
+are “controlled because of this functional capacity to encrypt information on a computer system, and not because 
+of any informational or theoretical value that such [commodities] may reflect . . .” 15 C.F.R. 742.15. But some have 
+noted that the Bureau  of Export Adminismtion  has  extended encryption controls even to items displaying only 
+“dormant encryption” capabitities rather than any true functional capacity. See Chris Epstein, Ewyption’s Regulatory 
+Ttdight Zune, 13 The Export Practitioner 13, September 1999. 
+
+For 3 description of the 1997 changes to the Commerce Department regulations governing export controls 
+on encryption commodities see Jeffkey L. Snyder, US. Export Controls on Encryption Sofhvre, 1 J.W.I.P. 1, January 
+1998, p. 37. 
+
+DEVELOPMENTS IN ENCRYPTION EXPORT CONTROLS 
+
+979 
+
+A significant step in this trend toward relaxation came in September  1998 when 
+the White House announced an “updated” policy approach toward export controls on 
+encryption.9 In addition to continuing the 56-bit threshold for control on cryptographic 
+products, the Administration announced an expansion of the so-called “trusted-sector” 
+approach to encryption controls. The White House Press Secretary stated that: 
+
+“The Administration was  strengthening its support for electronic commerce by permitting 
+the export of strong encryption when used to protect sensitive financial, health, medical, 
+and business proprietary information in electronic form . . . Very strong encryption with any 
+key length (with or without key recovery) will  . . . be permitted for export under license 
+exception to several industry sectors.”lO 
+This revised policy envisioned the creation of a new license exception under which 
+strong encryption  products could be exported, following a one-time  technical review 
+by  the  Commerce  Department,  to  parties  within  several  defined  sectors-U.S. 
+subsidaries, banks and financial institutions, insurance companies, health and mehcal 
+institutions  and  on-line  merchants-located  within  a  list  of  forty-six  countries.  In 
+adhtion,  the  Admmistration  was  scaling back  its  earlier  emphasis on  key  recovery 
+products  and was  drecting that  regulatory requirements requiring  the naming of key 
+recovery agents for exports of key recoverable products be deleted. 
+
+In  rolling  out  this  updated  policy,  statements by  senior Administration officials 
+made  clear  that  policy-makers  were  keenly  sensitive  to  the  need  to  balance  the 
+seemingly irreconcilable competing interests of privacy and trade versus security and law 
+enforcement. Vice President Gore commented that: 
+
+“Beginning today, American companies will be able to use encryption programs of unlimited 
+strength when  communicating between  most  countries.  Health, medical,  and  insurance 
+companies will be  able to use  far  stronger electronic protection for personal records and 
+information. Law enforcement will sdll have access to criminally related information under 
+strict  and  appropriate  legal  procedures.  And  we  will  maintain  our  111  ability  to  fight 
+terrorism and monitor terrorist activity that poses a grave danger to American citizens.”ll 
+
+The Commerce Department was presented the unenviable task  of translating this 
+revised policy into workable regulatory guidance for use by the exporting community. 
+In December  1998, the Bureau  of Export Administration responded to ths challenge 
+by publishing revised regulations that created a new export license exception-called 
+an 
+ENc--de&cated  exclusively to encryption commo&ties.12 As defined in the December 
+1998 regulations, this  new license exception  was  the  sort of tool  that  perhaps could 
+appeal  only  to  lawyers;  that  is,  it  was  complex,  confusing,  and  often  inconsistent. 
+Broadly  speaking, the  ENC license  exception  was  divided  into  two  parts,  a  global 
+
+9  The Whlte House, Office of the Press Secretary, Administration  Updates Enrrypfion Policy, 16 September 1998. 
+10 Id. 
+i1  The White House, Statement  by the  Vice Presidenf, 16 September 1998. 
+l2  15 C.F.R. 740.17 (1999). See 63 Fed. Reg. 72156, 31  December 1998. The new ENC license exception 
+supplemented other  exceptions  for  encryption commodities  that  had  been  created  previously, e.g. KMI (Key 
+Management Infhstmcture) and Tsu (Technology and Software Unrestricted). 
+
+980 
+
+THE JOURNAL OF  WORLD INTELLECTUAL. PROPERTY 
+
+category and a country-specific  category, and each part was  further sub-divided into 
+several compartments, each with its own set of restrictions. 
+
+Under  this  license exception,  encryption  products  in  the  global  category were 
+eligible for  export  to  any  country,  except  the  seven  designated terrorist-supporting 
+States  (Cuba, Iran, Iraq, Libya, North Korea, Sudan and Syria). This global category 
+included non-mass-market  software up to 56-bit key length and software of unlimited 
+strength for use by U.S. subsidiaries overseas. As mentioned earlier, the country-specific 
+category allowed exports of udmited strength encryption products to forty-six selected 
+countries for use within several trusted sectors, which were defined to include banks and 
+financial institutions (including insurance companies), health and medical end-users and 
+on-line  merchants.  In  every  case,  eligibility to  use  this  new  license exception  was 
+contingent upon submitting the encryption product to the Commerce Department for 
+a one-time  technical review. 
+
+Despite  this  relaxation  of  controls,  criticism  of  the  Ahnistration’s  approach 
+continued  to  grow  both  within  industry and  the  Congress.  To  many,  these  revised 
+controls on encryption, though relaxed, remained frustratingly complex, cumbersome, 
+and  inconsistent  in  their  application.13 The  expanded  trusted-sector  approach  still 
+omitted segments of the industry, most notably telecommunications, that were essential 
+to  a  vibrant  electronic commerce.  In  addition,  each  application  of the  new  license 
+exception for encryption had certain end-use or retransfer restrictions associated with it, 
+some of which produced outcomes that seemed arbitrary or nonsensical. For example, 
+under the country-specific use of the license exception, banks and financial institutions 
+are permitted to export strong encryption products only to other financial institutions 
+in forty-six selected countries. However, they can also export or re-export such strong 
+encryption to subsidiaries of those financial institutions in virtually any country (except 
+the designated terrorist States).l4 Given this latitude to export or re-export to affiliated 
+financial institutions located in any country, many were hard pressed  to understand the 
+rationale for initially restricting use  of the license exception to only the forty-six pre- 
+approved countries. 
+
+In addition to the restrictions on its use, the new license exception also carried with 
+it rather burdensome post-export reporting requirements that for many exporters served 
+as a hsincentive  to make use  of it.’5  Stating that “reporting requirements are &fficult, 
+and in some cases impossible, for industry to comply with”, in a report released on 25 
+August 1999, the President’s Export Council Subcommittee on Encryption (PECSENC), 
+
+‘3  See,  e.g., Aaron  Pressman,  Computer  Industry  Cheers  Relared  Encryption  Rules,  Washington  Post,  16 
+September 1999; and John Simons, White House  to Relax  Restrictioris  on  Encryption-Technology Exports.  The Wall 
+Street Journal, 16 September 1999. 
+
+l4  15 C.F.R. 740.17(b)(l)(iii)  (1999). 
+l i   15 C.F.R. 740.17(d) (1999). Critics also noted that December 1998 changes to the Wassenaar Arrangement 
+
+on encryption controls eliminated all reporting requirements for encryption exports. 
+
+DEVELOPMENTS  IN ENCRYPTION EXPORT  CONTROLS 
+
+981 
+
+a private sector advisory committee to the White House, urged the elimination of all 
+reporting requirements for encryption exports not requiring a license.16 
+
+The PECSENC was not reticent about pointing out other aspects of the December 
+1998  regulatory  changes  that  it  believed  required  further  improvements.  The 
+Committee argued, for example, that the use  of the new license exception should be 
+expanded  beyond  the  financial,  medical  and  on-line  merchant  sectors,  and  should 
+include critical infiastructure industries, fnendy governments and intergovernmental 
+organizations such as  the North  Atlantic Treaty Organization (NATO), the European 
+Union and the United Nations. Further, the Committee urged a broadening of the list 
+of countries to which strong encryption products could be exported under the license 
+exception as  well  as  the removal of certain restrictions on encryption use  by  on-line 
+merchants .I7 
+
+It was against this backdrop that the Administration presented its September 1999 
+proposals  to  amend  existing  regulations  governing  encryption  exports.  The  policy 
+announced by the Admmistration represented not  merely an incremental updating of 
+the  regulations  released  in  December  1998;  rather,  it  seemingly  constituted  an 
+altogether  new  approach  to  export  controls  on  encryption  products,  one  that 
+abandoned entirely the trusted-sector approach adopted only a year earlier. As presented 
+by the White House, the new policy contained several new elements:18 
+
+- 
+
+-  Any encryption commodity or software of any key length may be exported 
+under  license  exception  (i.e. without  a  license), afier  a  technical review to 
+individuals, commercial firms, and other non-governmental end-users in any 
+country except for the seven States, supporters of terrorism. 
+Any  r e t d  encryption commodities and  s o h a r e  of any key length may  be 
+exported under license exception, after a technical review, to any end-user in 
+any country, except for the seven States, supporters of terrorism. 
+Post-export reporting requirements will be streadned and revised to reflect 
+industry business models and distribution channels. 
+Industry sector definitions and country-specific lists are eliminated. 
+
+- 
+
+- 
+
+Although  a  comprehensive evaluation necessarily  must  await  publication of the 
+Commerce  Department’s implementing regulations, which  are  not  promised before 
+15 December  1999, several key points are apparent in this new approach to controls 
+on  encryption  commodities.  Gone  are  restrictions based  upon  the  strength  of  the 
+encryption algorithm. Gone are narrowly defined industry sectors in which encryption 
+products  may  be  exported  without  a  license.  Gone,  too,  are  lists  of  pre-approved 
+countries  in  which  non-governmental  end-users  are  eligible  to  receive  strong 
+
+l 6   See  Liberalization  2000: Recommendations for  Revising  Encryption  Regulations,  President’s  Export  Council 
+Subcommittee on Encryption (PECSENC), 25 August 1999. See also Industry Council IDS Encryption  Priorities,  13 The 
+Export Practitioner 10, September 1999. 
+Liberalization  2000, PECSENC, ibid. 
+The White House, Administration  Announces New Approach  to Enrryption,  Statement by  the Press Secretary, 
+
+16 September 1999. 
+
+982 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPERTY 
+
+encryption without a license. Absent entirely are any controls based upon key recovery 
+or  recoverable products. Clearly, the  Administration’s new  policy  represented more 
+than simply a  lineal extension of the liberalizing trends that had become apparent in 
+recent years. 
+
+The Administration, however, remained sensitive to the competing demands of the 
+law-enforcement  community  which  had  argued  strenuously  to  preserve  its  court- 
+monitored access to the plain-text  of encrypted communications. In response to these 
+pressures  and  in  conjunction  with  the  September  1999 liberalization  of  encryption 
+controls, the  Administration also  announced  that it would  submit new  legislation to 
+Congress, the Cyberspace Electronic Security Act of 1999, that would, in the words of 
+the White House: 
+
+“ - Ensure that law enforcement maintains its ability to access decryption information stored 
+
+with third parties, while protecting such information from inappropriate release. 
+
+- Authorize  US$  80  million  over  four  years  to  fund  the  FBI’s  (Federal  Bureau  of 
+Investigation) Technical Support Center [to respond] to the increasing use of encryption 
+by criminals. 
+
+- Protect  sensitive investigative techniques  and  industry  trade  secrets from  unnecessary 
+
+disclosure in litigation or criminal trials involving encryption . . .”I9 
+
+Initial reaction from both  industry and Capitol Hill to the Administration’s new 
+approach, not  surprisingly, was  positive.20  Representative Bob  Goodlatte, a  Virginia 
+Republican and a principal co-sponsor  of the SAFE Bill to eliminate export controls on 
+encryption, was effusive in his reaction: 
+
+“This is  huge  _.. a  tremendous  victory  for  everybody who  has  been  proposing that  the 
+Administration change its export policy on encryption so that we can make it more widely 
+available and U.S. companies can compete overseas.”21 
+“It’s certainly a heck of a marketing opportunity for us,” commented Art Coviello, 
+head  of RSA Security, a company that publishes  a widely used form of encryption.22 
+Citing the need to wait for the implementing regulations to be published, others were 
+more circumspect in their reaction. “With encryption regulations, the devil is always in 
+the details,” noted one privacy-rights group spokesperson.23 
+
+What  prompted  this  “reversal” in  the  Administration’s approach to  encryption 
+controls? Several developments undoubtedly forced the  Adrmnistration’s hand.  First, 
+domestic political pressures,  emanating principally from  industries in  Silicon Valley, 
+clearly played a role, and those voices have grown stronger as it has become increasingly 
+
+l9  Id. 
+2o  See  Jen  Clausing,  In  a  Reversal,  White  House  Will  End  Data-Enqption  Export  Curbs,  N.Y.  Times, 
+17  September  at  C1;  and  Mark  Wigfield,  Administration  Encryption  Plan  Praised  on  Capital  Hill,  Dow Jones 
+Newswires,  16 September 1999. 
+
+21  Clausing, ibid. 
+22  Peter  S.  Goodman  and John  Schwartz,  Curbs  on  Export  .f Senecy  Codes  Ending,  Washington Post,  17 
+23  See High-Tech’s Advocates Applaud  O&al’s  Enqption Reversal, The Wall Street Journal, 16 September 1999. 
+
+September 1999, p. Al. 
+
+DEVELOPMENTS IN ENCRYPTION EXPORT CONTROLS 
+
+983 
+
+apparent that foreign sources of encryption code are coming to dominate the market. 
+Second, law enforcement and national security agencies simply may have acknowledged 
+the  emerging reality:  in  an  e-commerce  world  where  transactions  are  increasingly 
+secured through encryption software, it would be better that software be based on U.S.- 
+origin codes (especially ones to which the agencies wdl continue to have familiarity with 
+through  the one-time review process) rather than foreign-produced codes. Lastly, the 
+Administration may simply have bowed gracefully to the inevitable, as Representative 
+Goodlatte’s SAFE encryption  bill  already  had  garnered two  hundred  and  fifty-eight 
+co-sponsors  in  the  House  of  representative^.^^  “The Adrmnistration clearly saw  the 
+train coming down the track, and rather than lie down in front of it decided to jump 
+on board,” commented one key legislator.25 
+
+Those  who  urge  patience  in  evaluating the  Administration’s new  approach  to 
+
+export controls on encryption products are wise; the devil-if  he is to be found at all- 
+undoubtedly will be in the details of the implementing regulations. And many details 
+remain to be resolved. What restrictions, for example, will remain attached to the use 
+of this newly broadened license exception for encryption commodties? How exactly 
+will  “retail  encryption  products”  be  defined?  Will  the  “streamlined”  reporting 
+requirements really be less burdensome than in the past? However these questions may 
+ultimately be answered, it seems clear that the Administration has signalled an intent to 
+move in a different drection with respect to controls on encryption products. 
+
+Unfortunately  for  the  Administration,  developments  in  export  controls  on 
+encryption have moved along at least two parallel tracks, and the other track is one over 
+which the Administration has decidedly less control. 
+
+11.  DEVELOPMENTS 
+
+ON THE JUDICIAL TRACK: BERNSTEIN  IV 
+
+The  Ninth  Circuit’s  invalidation  of  the  Export  Administration  Regulations’ 
+controls  on  encryption  software  occurred  in June  1999, months  before  the  recent 
+liberahation. While many aspects of this latest policy announcement remain unclear, 
+one point  is  clear:  controls on the  export of encryption source codes have not  been 
+eliminated entirely. 
+
+Bernstein is but one of at least three lawsuits challenging the constitutionality of the 
+encryption controls.26 The basic theory in each case is the same: encryption software is 
+a form of speech, and under the First Amendment to the U.S. Constitution, “Congress 
+shall make no law abridging the freedom of speech.” The courts have split on t h s  issue, 
+creating a number of important legal issues. 
+
+24  See Administration  Reversa Encryption Policy, Washington Trade Daily, 17 September 1999. 
+25  Ibid., at 8, quoting Rep. Richard h e y  (R-Tex.). 
+2h  The three cses all  involve challenges to the  constitutionality of the  export controls on  encryption. See 
+generally Thinh Nguyen, Note: Cryptography, Export Controls, and the First Amendment in Bernstein  v. U.S. Department 
+$State,  10 Haw. J. Law & Tech. 667,  1997; Laura  Pilkington,  Comment: First and  F$h  Amendment  Challenges to 
+Export  Controls: Bernstein  and  Karn, 37 Santa Clara L. Rev.  159, 1996; M. Froomkin, The Metaphor  is  the  Key: 
+Cryptography, the  Clipper Chip, and the  Constitution, 143 U. Penn., L. Rev. 709, 1995. 
+
+984 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPERTY 
+
+A.  The Origin of 
+
+the Bernstein Case 
+
+When Daniel Bernstein initiated his  challenge to the controls on encryption, he 
+was a graduate student in the mathematics department at the University of California at 
+Berkeley, working in the field of cryptography. He is now a professor at the University 
+of  Illinois at  Chicago. Professor Bernstein  developed  an  encryption algorithm called 
+“snuffle”,  which  he  describes  as  a  “zero-delay  private-key  encryption  system”.27 
+Bernstein  has  also  published  a  paper,  “The  Snuffle  Encryption  System”,  and  has 
+generated  source  code  in  the  C  programming  language,  for  both  encryption  and 
+decryption, with English-language instructions for the source code. Desiring to transfer 
+some of his  encryption source code overseas, Mr Bernstein sought clarification of the 
+export control status of his work from the U.S. government. In response to Bernstein’s 
+inquiry, the Department of State determined that the source code was  controlled as a 
+“defense  article”  and,  therefore,  the  export  of  that  code  was  restricted  under  the 
+International Traffic in Arms Regulations (ITAR).~~ 
+
+Mr Bernstein then  sued the Department  of State, arguing that  the  ITAR’S export 
+controls violated his rights under the First Amendment because they limited his ability 
+to  teach, publish  and share his  theories  on  cryptography.29  In April  1996, the  Court 
+determined that  encryption  source  code  was,  in  fact,  speech protected  by  the  First 
+Amendment.30 On 9 December 1996, the Court found that the ITAR did indeed violate 
+Bernstein’s First Amendment rights31 because the ITAR’S 
+licensing requirements imposed 
+an unconstitutional prior restraint on free speech.32 
+
+On  31  December  1996,  shortly  after  the  Court’s  decision, jurisdiction  over 
+encryption shifted from the Department of State to the Commerce Department.33 The 
+Court was then asked to consider whether, in the light of the transfer and in the way in 
+which  encryption  was  controlled  under  the  Commerce  Department’s  Export 
+Administration  Regulations,  the  controls remained  unconstitutional. On 25  August 
+1997, Judge Patel concluded that the EAR controls on encryption did, in fact, impose 
+an unconstitutional prior restraint on free speech in violation of the First Amendment.34 
+Judge Patel declared: 
+
+“The Export Administration Regulations,  15 C.F.R. Part 730 et  seq.  (1997) and all rules, 
+policies and practices promulgated or pursued thereunder insofar as they apply to or require 
+licensing for encryption and decryption software and related devices and technology are in 
+violation of  the  First  Amendment  on  the  grounds  of prior  restraint and  are,  therefore, 
+unconstitutional . . . and shall not be applied to plaintiffs publishing of such items, including 
+scientific papers, algorithms or computer programs.”35 
+
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+
+974 F. Supp. 1288 (N.D. Ca  1997); affd, 176 F.3d  1132 (9th Cir. 1999). 
+974 F.  Supp., at 1293. 
+Bernstein I,  922 F. Supp. 1426 (N.D. Ca. 1996). 
+Id. 
+Bernstein v.  United States  (Bernstein rr),  945 F. Supp. 1279 (N.D. Ca. 1996). 
+Ibid., at 1292. 
+61 Fed. Reg. 68572 (1996). 
+Bernstein v. United States (Bernstein rrr), 974 F. Supp. 1288, 1310 (N.D. Ca. 
+Ibid.. at 1310. 
+
+1997). 
+
+DEVELOPMENTS IN ENCRYPTION EXPORT CONTROLS 
+
+985 
+
+The Court then enjoined enforcement of the Export Administration Act against 
+Bernstein or anyone using, discussing, or publishing Bernstein’s “snuffle” source code. 
+Enforcement of Judge Patel’s order findmg the law unconstitutional currently is stayed 
+on  an  emergency  basis.36  During  the  Court  proceedings,  the  parties  entered  into  a 
+stipulation permitting Professor Bernstein to teach his course at the University of Illinois 
+under controlled conditions.37 
+
+B.  The Ninth  Circuit 
+
+On appeal, a divided panel of the Ninth Circuit affirmed the lower court’s ruling.38 
+
+The Appellate Court held that the: 
+
+“EAR regulations (1) operate as  a pre-publication  licensing scheme that  burdens scientific 
+expression; (2) vest  boundless discretion  in  government  officials; and  (3) lack  adequate 
+procedural safeguards. ”39 
+The Justice Department has sought rehearing in the case, so no mandate has issued. 
+Accordingly, the  injunction  issued  by  the District  Court, which was  stayed pendmg 
+appeal, remains in that status pendmg the Ninth Circuit’s decision on the government’s 
+petition for a rehearing.40 As  a practical matter, therefore, the E m  remain in place and 
+the hll panoply of encryption controls apply.41 
+
+The  Ninth  Circuit  Opinion  was  written  by Judge  Fletcher  with Judge  Bright 
+concurring and Judge Nelson dissenting. The split in the Panel arose because the judges 
+differed over the appropriate First Amendment analysis to apply to the issue at hand and 
+from  a  fundamental dfference  of  opinion  over  the  nature  of  source code.42 Judge 
+Nelson, in dissent, argued that the majority failed to recognize that “the basic function 
+of encryption source code is to act as a method for controlling computers.’’43 In contrast, 
+the majority framed the issue  as  “whether  encryption source code is  ‘expression’ for 
+First  Amendment  purposes.”44  Based  on  a  number  of  observations,  the  majority 
+concluded that encryption software, in its source code form and as employed by those 
+
+- 
+
+34  The District Court granted a stay on 9 September 1997, and the Ninth Circuit on 22 September 1997. The 
+Ninth Circuit established an expedted briefing and argument schedule, indicating that extensions would only be 
+manted for “extraordinarv and comoekne circumstances”. Order No. 97-16686.  22 SeDtember 1997. 
+
+37  Stipulationfor TeaLhing During the $ring  Semester, No. 95-0582, 13 Janua;  1997.’ 
+38  176 F.3d 1132 (9th Cir. 1999). 
+39  Id., at 1135. 
+4c  When the Ninth Circuit’s Opinion was handed down in the Bernstein case, the Commerce Department was 
+quick to point out to the exporting community that  the injunction had been stayed and that the ruling did not 
+extend beyond the Ninth Circuit: see U.S. Department of Commerce, BM  Stafement on Court Decision  in Bernstein 
+Case, 1 June 1999. 
+41  The stay prevents the Court’s order from taking effect. One complex side-issue  in the case is how to grant 
+Bemstein the relief he seeks because the encryption controls are intertwined with other controls on software. On 
+appeal, the Ninth Circuit found that the encryption controls were not severable and, therefore, the entire set of 
+export control regulations was unconstitutional. It is for this reason, as well as the disappointment with the decision 
+on the merits, that the Department ofJustice has sought a rehearing. 
+
+42  At issue in the litigation is only the application of the EAR to Bernstein’s source code and instructions, not 
+
+to object code. 
+
+43  176 F.3d, at 1147. 
+44  Ibid., at  1139. 
+
+986 
+
+THE JOURNAL OF WORLD  INTELLECTUAL PROPERTY 
+
+in the field of cryptography, must be viewed as expressive speech for First Amendment 
+purposes, and thus is  entitled to the protections of the prior-restraint doctrine.45 The 
+Court noted that although only trained programmers can understand source code, such 
+code  does  express  “cryptographic  ideas  and  algorithms”.  The  Court  continued: 
+“Cryptographers use source code to express their scientific ideas in much the same way 
+that  mathematicians  use  equations  or  economists use  graphs.”46  It  is  precisely  this 
+conclusion that split the Panel. The dissent argued that source code is not expression, 
+but  instead is  more  “like conduct than  speech”.47  In  his  dmenting  Opinion, Judge 
+Nelson  continued  “While encryption source code  may  occasionally be  used  in  an 
+expressive manner, it is inherently a functional device.”48 
+
+The concurring Opinion  of Judge Bright, who  cast  the decidmg vote, is  worth 
+
+quoting in its entirety, because it illustrates this basic split: 
+
+“I join Judge Fletcher’s Opinion.  I  do so because the speech aspects  of encryption source 
+code represent communication between computer programmers. I do, however, recognize 
+the validity of Judge  Nelson’s view  that encryption  source code also have the functional 
+purpose of controlling computers and in that regard do not command protection under the 
+First Amendment.  The importance .f this case suggests that it may be appropriate for review by the 
+United States Supreme Court.”  (emphasis added) .49 
+Given  this  split  on  such  crucial  and  fundamental  issues  affecting  controls  on 
+encryption  source  code,  the Justice  Department  sought  a  rehearing  by  the  Ninth 
+Circuit, arguing that there is  a  basic  “regulatory distinction between products  that  can 
+encrypt data and information about encryption.”  (emphasis in original) .SO  The Ninth Circuit 
+Panel  considered  and  rejected  the  government’s  view  of  source  code  as  purely 
+functional for two reasons. First, the Court noted that source code, uncompiled, does 
+not have the functionality ascribed to it by the government. Second, the Panel rejected 
+the government’s assertion that “even one drop of ‘direct functionality’ overwhelms any 
+constitutional protections that expression might otherwise enjoy.”51 
+
+Having thus decided that source code is speech for purposes of First Amendment 
+analysis,  the  majority  then  applied the  Freedman  v.  Maryland52  test  for  determining 
+whether a prior restraint on speech is permissible. The Freedman test requires that: 
+
+“(1) any restraint must be for a specified brief period of time; (2) there must be expeditious 
+jucficial review; and (3) the censor must bear the burden  of going to court to suppress the 
+speech in question and must bear the burden of prooC”53 
+
+45 Ibid., at  1141. 
+46  Id. 
+47  Ibid., at 1148. 
+48  Id. 
+49  Ibid., at 1147, Bright, J., concumng. 
+50 Appellant’s Reply to Appellee’s Response to Petition for Panel Rehearing and Rehearing En Banc, at  1. 
+51  Ibid., at 1142. 
+52  380 U.S.  51 (1965). 
+53  176 F.3d, at  1144, citing Freedman,  380 U.S., at 58-60. 
+
+DEVELOPMENTS  IN ENCRYPTION  EXPORT CONTROLS 
+
+987 
+
+The Court ready determined that the export regulations do not meet even one of 
+
+these factors. The Court observed that: 
+
+“Bernstein and other scientists have been effectively chilled &om engaging in valuable sciendic 
+expression. Bemstein’s experience itself demonstrates the enormous uncertainty that exists 
+over the scope of the regulations and the potential for chding of scientific expre~sion.”~~ 
+
+This led the Court to the conclusion that: 
+
+“. . . because the challenge regulations grant boundless discretion to government officials, and 
+because  they  lack the required procedural protection ... we  find that  they  operate as  an 
+unconstitutional prior restraint on speech.”55 
+
+Although dicta, the Court also commented on two important issues presented by 
+the case.  First, the Court expressed the view that government, in its efforts to restrict 
+encryption, “is intentionally retardlng the flourishing science of cryptography.“56 If so, 
+and if these efforts are aimed at ideas, then  “these efforts would appear to strike deep 
+into the heartland of the First Amendment.”  Second, the Court noted that the EAR not 
+only  intiinge the rights  of cryptographers but  also implicate the Fourth  Amendment 
+privacy right of all citizens.57  The Court’s Fourth Amendment concerns echo many of 
+those seeking to relax encryption export controls for the development of the Internet 
+and other communication technologies. The role that encryption plays today has been 
+likened to that of an envelope: who wants to send private messages on a postcard? Of 
+course,  people  prefer  the  protection  of  a  sealed  envelope,  and  encryption  aims  to 
+safeguard, or at least enhance, the privacy of citizens. 
+
+O n  30 September 1999, the Ninth Circuit agreed to the government’s request for 
+a rehearing before an eleven-judge panel of the Circuit C0urt.58 As  the Ninth Circuit 
+prepares to  rehear the  case  the  issues  that are presented necessarily will be  addressed 
+against the  backdrop  of the latest  liberalization of  export  controls  on  encryption.  It 
+seems clear, however,  that  the  central issue in  Bernstein-xport 
+controls  on source 
+code-is 
+not  affected by  the  most  recent  announcement  from  the  White  House. 
+Statements  issued  by  the  Commerce  Department  designed  to  explain  the  newly 
+announced policy support this conclusion: 
+
+“Source code will continue to be reviewed under a case-by-case  basis. This update will allow 
+the global export of object code encryption software under a license exception.” (emphasis 
+added) .59 
+Whatever relief the recent liberahation eventually may offer to exporters, it offers 
+nothing  to  Bernstein.  Thus,  it  appears that  whatever  may be  the  result  of the  Ninth 
+
+54  Ibid., at  1145. 
+55  Id. 
+56  Id. 
+57 Ibid., at  1145-1146. 
+58 Bob  Egelko,  Court  to  Reconsider  Encryption  Rule,  1  October  1999,  available  at  whttp://www. 
+59  U.S. Department  of Commerce,  Update  to  Encryption  Policy, September  1999, Questions and  Answers,  16 
+September  1999. The question to which this  statement responded  was: “Is source code allowed to be exported 
+under a license exception or does this policy only authorize the export of encryption object code?” 
+
+washingtonpost.com/~-srv/aponline/l999lOOl/aponlineOZ534 1-000.htmn. 
+
+988 
+
+THE JOURNAL OF WORLD  INTELLECTUAL PROPERTY 
+
+Circuit’s rehearing, the  Supreme Court appears destined to have  the  opportunity to 
+review the First Amendment issues raised by Mr Bemstein. 
+
+C.  Other Cases 
+
+Those  watching  Bernstein  are  likewise  following  other  related  cases  in  which 
+
+judicial challenges to the export controls on encryption have been raised. 
+
+In  Kurn  t~. Department  of  Stute,60  contrary to  the  Bernstein  decision,  the  Court 
+granted  the  government’s  motion  for  summary  judgment,  finchng  that,  while 
+encryption  software  is  in  fact  speech,  the  export  controls  do  not  represent 
+unconstitutional prior restraint, but instead are permissible because (1) they hrther the 
+“significant  government  interest  of  preventing  the  proliferation  of  cryptographic 
+products”, and (2) they are narrowly tadored to meet that interest.61 At issue in Kurn is 
+an uncomfortable dichotomy for the U.S. government: printed versus electronic source 
+code. In 1994, Bruce Schneier published a book entitled, Applied Cryptography,62 which 
+contains source code for cryptographic algorithms. The author also  published those 
+same source codes in electronic form in two diskettes that were to be sold as an insert 
+with the book. Philip Karn later sought a determination of the export control status of 
+the encryption source code in both printed and diskette fom.63 In a  ruling that was 
+surprising and perplexing to many, the State Department found that the printed form of 
+the code was  not  controlled, but the  code in dskette form was.64  Karn  then sought 
+judicial review of the State Department’s decision. 
+
+In decidmg Kurn, Judge h c h e y  applied the O’Brien65 test under First Amendment 
+jurisprudence and determined first that the export controls were “content neutral”, and 
+hrther  that  the  controls  “further  an  important  governmental  interest”,  and  are 
+“narrowly tailored to the  governmental interest”.66 Based  on this test, Judge Richey 
+evaluated the claimed interest: 
+
+“. . . the proliferation of cryptographic products will make it easier for foreign intelligence 
+targets  to  deny  the  US. Government  access  to  information  vital  to  national  security 
+interests.”67 
+The decision also  is  coloured sipficantly by Judge Richey’s view that the case 
+presents  a  “political  question”  that  is  better  resolved  by  the  other  branches  of 
+
+925 F.  Supp. 1  (D.D.C. 1996). 
+
+61  Ibid., at  10 and  12. 
+62  The book has since been revised and updated and is now in a second edition. 
+63  925 F.  Supp., at 3 and 4. 
+64  Ibid., at 4. This decision was called “utterly moronic”. John Schwartz, Wordsfor  Exports-But  Not Electrons: 
+Critics Question  U.S. Restridom on Diskjom Cryptography Book, Washington Post, 15 October 1994, quoting David 
+Banisar, Electronic Privacy Information Center. 
+
+65  O’Brien v. United States, 391 U.S. 367 (1968). 
+66  Karn, 925 F. Supp., at 10-12. 
+6’  Ibid.. at 10. 
+
+DEVELOPMENTS IN ENCRYPTION EXPORT CONTROLS 
+
+989 
+
+government.68 The decision was appealed to the U.S. Circuit Court of Appeals for the 
+District  of  Columbia,  but  following  the  transfer  of  jurisdiction  &om  the  State 
+Department  to  Commerce  Department,  was  remanded for consideration of the  new 
+law.69  On 22 August  1997, the  Commerce Department  issued  its determination that 
+under  the  EAR’S new  EI  controls on  encryption  commodities, the  diskette remains 
+subject to export controls.70 The case is now pending again at the District Court and, 
+following the  death  of Judge  Ritchey, Judge  Oberdorfer  has  recently  scheduled an 
+evidentiary hearing in the case. 
+
+Injunger v. Duley,71 a Federal District Court in Ohio barred the plaintiff, Professor 
+Peter Junger, a law professor at Case Western Reserve University in Cleveland, from 
+posting  course  materials  containing  encryption  source  code  on  the  Internet.  In 
+addressing virtually the  same legal issue that confi-onted the Court in Bernstein, Judge 
+James Gwin reached the opposite conclusion. Holdmg that encryption source code was 
+not entitled to protection under the First Amendment, the Court noted: 
+
+“Among computer sofhvare programs, encryption  software is  especially  functional rather 
+than  expressive. Like  much  computer  sofhvare,  encryption  source  code  is  inherently 
+functional; it is designed to enable a computer to do a designated task. Encryption source 
+code does not merely explain cryptographic theory or describe how the software functions. 
+More than describing encryption, the software carries out the hnction of encryption . . . In 
+doing this function, the encryption software is indistinguishable &om dedicated computer 
+hardware that does en~ryption.”’~ 
+Not  surprisingly, Judge  Nelson’s dissent in  the  Bernstein  Appellate ruling,  cited 
+Junger  extensively. Professor Junger has  appealed the lower court’s judgment, and the 
+case is currently pendmg before the Sixth Circuit Court of Appeals. 
+
+Most  observers  believe  that  the  Courts  in  Bernstein,  Kurn  and Junger  have 
+adequately fiamed the issues and that once the Appellate process has run its course, the 
+First Amendment issues presented in those cases will be ripe for review by the Supreme 
+Court. However the Appellate Courts may ultimately decide, clearly these cases present 
+a novel and complex legal question that warrants juhcial review at the highest level. 
+m.  CONCLUSION 
+
+As  the  market  continues  to  drive  advances  in  e-commerce  technology,  both 
+policy-makers  and the courts will struggle to keep pace. Given the hndamental  nature 
+
+68  “This case presents a classic example of how the courts today, particularly the federal courts, can become 
+needlessly invoked, whether in the national interest or not, in litigation involving policy decisions made within the 
+power of the President or another branch of the government. The plaintiff, in an effort to export a computer disk 
+for profit, raises administrative law and meritless constitutional claims because he and others have not been able to 
+persuade Congress and the Executive Branch that the technology at issue does not endanger the national security.”: 
+ibid., at 2. 
+
+69  U.S. Court of Appeals for the District of Columbia Circuit, Judgment No. 965121.21 January 1997. 
+70  Letter &om James A.  Lewis, Director, Office of Strategic Trade and Foreign Policy Controls, Bureau of 
+Export Administration, U.S. Depamnent of Commerce, to Kenneth J. Bass, counsel for Mr Karn, 22 August 1997. 
+71  8 F.  Supp. 2d 708 (N.D. Ohio 1998). 
+72  Ibid., at 716. 
+
+990 
+
+THE JOURNAL OF WORLD INTELLECTUAL PROPERTY 
+
+and  law 
+of  the  interests that  are  affected  by  encryption  export  controls-privacy 
+enforcement; free trade and national security-it 
+is apparent that the search to find the 
+appropriate balance  will  continue.  If  the  past  is  any  guide,  it  seems  clear  that  the 
+September 1999 announcement from the White House will not  be  the last word in 
+export controls on encryption. Nor have the legal issues presented by encryption export 
+controls been finally laid to rest in the courts. As the debate continues, both in the courts 
+and in the policy-making arena, interested observers are well advised to  be  alert for 
+further developments that will affect the future of export controls on encryption. 
+
+

@@ -1,0 +1,1432 @@
+DOI: 10.1111/jwip.12072
+
+ORIGINAL ARTICLE
+
+Intellectual property and
+development—narratives and their
+empirical validity
+
+Alexander Peukert
+
+Goethe-Universität Frankfurt am Main −
+Exzellenzcluster Normative Ordnungen,
+Frankfurt am Main, Germany
+
+Correspondence
+Prof. Dr. Alexander Peukert, Goethe-
+Universität Frankfurt am Main –
+Exzellenzcluster Normative OrdnungenMax-
+Horkheimer-Str. 2, Postfach EXC-12, D-60323
+Frankfurt am Main, Germany.
+Email: a.peukert@jur.uni-frankfurt.de
+URLs: Available online at
+http://www.jura.uni-frankfurt.de/peukert/,
+http://ssrn.com/author=1244916
+
+The article gives an overview of the relationship between
+intellectual property (IP) and development. The first section
+shows that the dominant assumption in the history of IP was that
+IP rights are generally favorable to socio-economic progress. The
+second section explains that economic and historical research has
+proven this linear expansionist narrative to be untenable. In doing
+so, the article compares the arguments of IP optimists with
+counterarguments of IP pessimists in the light of empirical studies.
+The final section addresses the consequences of these findings for
+the future of the international IP system.
+
+K E Y W O R D S
+colonialism, development, history, industrialization
+
+1 |
+
+INTRODUCTION
+
+What significance do intellectual property (IP) rights have in terms of the development of individual economies and
+the global information society? Before pursuing this question, we must further define the two rather generic terms
+“intellectual property” and “development”.
+
+Intellectual property rights include exclusive rights in innovations in a broad sense, in particular works of literature,
+science and art (copyright) and inventions in the field of technology (patents). This protection of innovation is to be
+distinguished from trade marks and other rights in signs that do not concern innovative products as such, but their
+designation by brands (“Coca Cola”) and other signs. Trade mark rights are intended primarily to allow consumers to
+distinguish products and their origins and prevent confusion that could distort competition.
+
+The term “development” does not lend itself to a definition with sharp distinctions. For the most part, it is understood
+to be both a process and at the same time an objective with economic, social, political, cultural and ecological dimensions.
+The objective is the “advancement of all peoples” (Myrdal, 1974; Payne & Phillips, 2010).1 Its central goal remains to fight
+poverty by means of sustainable economic growth. Related values include “freedom, peace and security, respect for all
+human rights, . . . the rule of law, gender equality and an overall commitment to just and democratic societies”.2
+
+© 2017 The Author. The Journal of World Intellectual Property © 2017 John Wiley & Sons Ltd
+
+2 | wileyonlinelibrary.com/journal/jwip
+
+J World Intellect Prop. 2017;20:2–23.
+
+PEUKERT
+
+| 3
+
+Placing these two multi-layered generic terms in relation to one another, we arrive at the more concrete
+question of whether IP rights, which have come to be acknowledged practically worldwide, do in fact, as
+proclaimed by article 7 Trade-Related Aspects of Intellectual Property Rights (TRIPS),3 “contribute to the
+promotion of technological
+innovation and to the transfer and dissemination of technology, to the mutual
+advantage of producers and users of technological knowledge and in a manner conducive to social and economic
+welfare, and to a balance of rights and obligations”. More specifically, three assumptions that are ancillary to each
+other can be distinguished: (1) IP rights promote innovation; (2) innovations are meaningful instruments to combat
+poverty and achieve further goals (public health, climate change) and (3) these improvements contribute to overall
+development.
+
+The presupposition that there is a positive correlation between technological progress and development has a
+long history. As early as 1949, it was a central theme in US President Truman’s inaugural speech, which is widely
+considered to mark the birth of the development paradigm in politics.4 Taken together, steps (1) through
+(3) mentioned above yield the further conclusion that IP rights are also conducive to development. This assumption is
+consistent with the expansion narrative, which dominated the discourse for many years and is still today widespread.
+According to this narrative, ever-increasing legal protection will result in ever more innovations and, with them,
+greater achievements in development.
+
+2 | THE IP EXPANSION NARRATIVE IN HISTORICAL PERSPECTIVE
+
+2.1 | Content of the expansion narrative
+
+Proponents of a “logic of property” or “IP maximalism”5 presume, as mentioned, that there is a positive, linear
+relationship between IP rights and innovation and/or development (Dreier, 2001: pp. 70 et sequentes, pp. 76
+et sequentes [“property logic”]). Causality progresses from legal protection to technological and other progress. As
+progress is good, IP rights are good. Consequently, IP appears to be worthy of protection for its own sake (Peukert,
+2011).
+
+This logic pervades, for example, EU policy in this area (for a US perspective see Halbert, 2011, pp. 81
+et sequentes). The Enforcement Directive of 2004 states: “The protection of intellectual property is important
+not only for promoting innovation and creativity, but also for developing employment and improving
+competitiveness”.6 The European Commission proclaims: “The virtuous IPR circle relies on an IPR policy that
+incentivizes innovation, which in turn attracts investment, thereby resulting in new products and services for
+new consumer demand which enhances growth and employment”.7 This wondrous upward dynamism—which
+the casual reader must not confuse with the devilish vicious circle—informs the overall development policy of
+the EU. In this context as well, we read: “Protection and enforcement of intellectual property rights in line with
+international obligations and taking into account development levels and needs can play an important role to
+support innovation”.8
+
+The expansion narrative is, however, not limited to the EU. It is championed as a universal programme,
+especially by the G8: “Given the importance of intellectual property rights (IPR) to stimulating job and economic
+growth, we affirm the significance of high standards for IPR protection and enforcement,
+including through
+international legal instruments and mutual assistance agreements . . .”.9 This outlook is shared— naturally—by
+private market players whose assets and market position depend crucially on effectively enforceable intellectual
+property rights (International Chamber of Commerce, 2005). Last not least legal scholars have emphasized the
+positive effects of the international IP system, not least for developing countries (Straus & Klunker, 2007, pp. 91
+et sequentes).
+
+A cursory look at the history of IP rights shows how doggedly the expansion narrative has stood its ground against
+
+manifold challenges. In this history, five periods can be made out.
+
+4 |
+
+PEUKERT
+
+2.2 | Establishment of the idea of modern intellectual property law (1624–1883)
+
+Current IP law is characterized by the exclusive rights that patent, copyright and trade mark holders can acquire
+according to statutory schemes that also define the scope of protection and the limits of these rights. This is a
+specifically modern concept of regulation that took the place of early-modern privileges granted in individual cases. It
+took hold first in England. There, patent law dates back to 1624 and the Statute of Monopolies, which granted to the
+“first and true inventor” of a “new Manufacture” a patent for a limited time. The world’s first copyright law is
+considered to be England’s Statute of Anne of 1710, an “Act for the Encouragement of Learning” (on the Venetian
+Patent Act of 1474 see Kurz, 2000, pp. 52 et sequentes). The very title of this law shows that English legislation deemed
+the new rights to be instruments with which to convert the basic rule for dealing with knowledge from one of
+absolutist control to one of access organized in terms of a market economy.
+
+This fundamental change initially succeeded without recourse to what is at its core a natural-law narrative of
+“intellectual property”. This line of thought only developed its influence toward the end of the eighteenth century, in
+particular in the form of the French Revolutionary laws on patents and author’s rights of 1791 and 1793. In the course
+of the nineteenth century, IP legislation spread to ever more parts of Europe. The crowning act of this first phase of
+expansion was a double one: the conclusion of two multilateral international-law agreements, the Paris Convention
+for the Protection of Industrial Property (PC) in 1883 and the Bern Convention for the Protection of Literary and
+Artistic Works (BC) in 1886 (Hesse, 2002). The conventions are based on two principles. First, they set certain
+minimum rights, and second, the nationals of any country of these IP Unions are guaranteed in all other countries of
+the Union the advantages that their respective laws grant to their nationals (national treatment).10
+
+Admittedly, this mainly European consensus came nowhere near today’s global level of protection. The nation-
+states of the nineteenth century used their IP policy in order to secure their competitive position in the international
+arena, or to catch up with other countries technologically. The propertization logic was operating, but it had not yet
+displaced an instrumental understanding of IP rights.11
+
+2.3 | Global expansion during the colonial period (1800–1960)
+
+The next phase of expansion was of an imperial-territorial character. As the Western European colonial powers
+widened their sphere of influence, they extended their IP laws and the international conventions to which they were
+bound to their colonies. This geographical expansion took place in two ways (see Kongolo, 2013, pp. 105 et sequentes;
+Kongolo, 2014, pp. 163 et sequentes; Peukert, 2012).
+
+The purely national way consisted of amending the domestic copyright and patent legislation so as to give these
+rights validity not only in the metropoles, but also in the colonies. The territorial reach of British copyright law, for
+instance, was extended between 1801 and 1911 in a whole series of laws to the constantly growing Empire. France
+followed suit in 1857, Germany, in 1901 and, later, Belgium, in 1948. In addition, the colonial territories were
+integrated into the system of international conventions. Formally independent protectorates (Tunisia, Morocco) and
+de facto dependent states (Haiti, Liberia) were among the first members of the Paris and Berne Conventions. In this
+respect, special clauses on in the IP conventions on the status of “certain territories” took on crucial significance. For
+example, article 31(1) BC still states:
+
+“Any country may declare in its instrument of ratification or accession, or may inform the Director General
+by written notification at any time thereafter, that this Convention shall be applicable to all or part of those
+territories, designated in the declaration or notification, for the external relations of which it is
+responsible”.12
+
+All the colonial powers made exhaustive use of this option, ensuring that, at the dawn of the twentieth century,
+the scope of application of the IP conventions covered practically the entire planet (Kongolo, 2013, pp. 115
+et sequentes; Kongolo, 2014, pp. 163 et sequentes). And yet this was only true in geographical terms, for the sole
+
+PEUKERT
+
+| 5
+
+purpose of including the colonies was to protect the citizens of the colonial powers, for instance book publishers
+based in London or Paris. These were to enjoy the same protection of their rights in the conquered markets as in the
+home metropole (Bently, 2011, p. 198; Drahos & Braithwaite, 2002, p. 74; Seville, 2006, pp. 41 et sequentes). The
+colonized people, on the other hand, were barred from obtaining copyrights or patents, whether de iure (Lüders, 1914,
+pp. 37 et sequentes)—as in the case of “natives” in the German colonial law—or de facto, through requirements such as
+first publication in the United Kingdom, or restrictions on access to the courts (Peukert, 2012). If the age of IP
+colonialism was about progress, then only as regarded the metropoles and the enterprises established there.
+
+2.4 | Decolonization and integration of developing countries (1945–1990)
+
+After World War II, colonies became independent states and simultaneously developing countries. Thus, the
+entire topic of development is inseparably connected to (de-)colonization. This is the point of departure for
+postcolonial criticism, which raises the claim that the development discourse merely re-names an “other” that
+despite the new name still is perceived as the “other”, as something yet to develop (see Lepenies, 2008, pp. 202
+et sequentes).
+
+Such a strictly superficial integration can indeed be observed in the special subject under analysis here. When the
+trend toward decolonizing became clear, the Bureaux Internationaux Reunis pour la Protection de la Propiete
+Intellectuelle (BIRPI, the predecessor of WIPO), the administrator of the Paris and Berne conventions, feared an
+exodus of newly independent states and consequently a drastic shrinking of the global IP territory (Masouyé, 1962,
+p. 86; critical Lazar, 1969, pp. 17 et sequentes [“neo-colonialism”]). In the 1960s, India, in particular, in fact raised the
+claim that the BC’s high level of protection stood in opposition to the developing countries’ primary interest in gaining
+access to available knowledge in order to promote education and technological progress (Chagla, 1967, p. x).
+
+And yet the system did not implode. On the contrary, only a handful of developing countries cancelled their
+membership in the BC (Kongolo, 2014, pp. 170 et sequentes; Ricketson & Ginsburg, 2006, paragraph 17.59). Today the
+World Intellectual Property Organisation (WIPO) has 188 members, all of whom have committed “to promote the
+protection of intellectual property throughout the world”.13 Of the least-developed countries (LDCs) only East Timor
+is not yet a member; only 5 of the 31 World Trade Organisation (WTO) Members listed as LDCs had not already been
+signatories of an international or regional IP agreement when the TRIPS Agreement entered into force on
+1 January 1995.14 The reasons for this stability and the slow but constant expansion of the IP law system in the
+postcolonial era are complex (see Peukert, 2012 with further references).
+
+First, the development discourse was quite soon fueled into the IP realm, which proved the responsiveness of the
+IP system. In copyright law, the Stockholm conference to revise the BC in 1967 was dominated by the dispute over the
+needs of developing countries (Johnson, 1970, pp. 158 et sequentes). Consensus was reached, initially, on a “separate”
+protocol that allowed the developing countries to limit the rights in translations and the grant of compulsory licences
+for the local production of books not otherwise available. This protocol, however, never entered into force, as it was
+rejected by the United Kingdom and other industrial nations as being too far-reaching (Ricketson & Ginsburg, 2006,
+paragraph 14.16 et sequentes). The breakthrough was finally achieved in 1971, at a further revision conference held in
+Paris. On the one hand the “special provisions regarding developing countries” were integrated into the Convention,
+thereby formally raising their status. On the other hand, several material concessions were withdrawn. Since then,
+developing countries are only allowed to grant compulsory licences in individual cases in order to provide for
+translations in the official language and for the copying and dissemination of works for educational and research
+purposes (Olian, 1974, p. 104).15 However, the formal and material requirements for such a case are so high as to
+render this system of compulsory licensing practically irrelevant (Lewinski, 2008, paragraph 5.233; Ricketson &
+Ginsburg, 2006, paragraph 14.106).
+
+In international patent law, there are likewise traces of the development discourse to be found as early as the
+Patent Cooperation Treaty (PCT) of 1970. In its desire “to foster and accelerate the economic development of
+developing countries”, WIPO pledges to furnish developing countries at net cost with “technical and any other
+
+6 |
+
+PEUKERT
+
+pertinent information available to it on the basis of published documents”. And yet this goal is only sought in
+conformity with the IP system, by improving the effectiveness of the international patent system and its information
+services.16 The true effect of the PCT consists in the simplifying of multinational patent registrations. In substantive
+patent law, everything remained the same.
+
+Second, the integration of the development discourse was accompanied by various system-stabilizing
+measures on the part of BIRPI, WIPO, UNESCO, the former colonial powers and the representatives of the right
+holders. Starting in the 1960s, seminars and workshops were held in Africa, Asia and South America in which the
+expansion paradigm was presented as being advantageous to the newly independent countries. At this occasion, a
+local IP elite was generated whose members were more concerned with the development of the international IP
+system as such than with the development of their home countries (Okediji, 2003). Furthermore, accession to the
+key conventions, of which both the Western and the Eastern bloc were a part, held out the promise of
+international recognition. After all, this was the only way to ensure that the citizens of the developing countries
+would be granted legal protection in the former metropoles (via the principle of national treatment). Critical voices
+like that of India therefore remained an exception, to quickly fade altogether at the end of the 1960s. At least as
+marginal were the topic of “innovation” and the question of the significance of IPRs in the general development
+discourse (see International Bank for Reconstruction and Development/The World Bank, 1990; International
+Labour Office, 1976, pp. 144 et sequentes).
+
+2.5 | Washington consensus 1990–2000
+
+The expansion paradigm experienced another upswing with the fall of the East bloc and the victory march of the
+Washington Consensus, which propagated a universally valid version of the open market economy and set this
+liberalization in tandem with the instrument of unequivocally defined and effectively protected titles of property
+(Williamson, 1990/2002 [“there is general acceptance that property rights do indeed matter”]). This standpoint, which
+temporarily dominated the scene, forms the backdrop to the establishment of WTO and in particular the Agreement
+on TRIPS as a component of WTO law (Gervais, 2014; Netanel, 2009, p. 3).
+
+On the one hand, WTO law on the whole professes the need “for positive efforts designed to ensure that
+developing countries, and especially the least developed among them, secure a share in the growth in international
+trade commensurate with the needs of their economic development”.17 For this purpose, developing countries are
+granted “special and differential treatment” in all respects. They especially enjoy a greater substantial and temporal
+flexibility in the implementation of world trade law (for an overview see Berman & Mavroidis, 2007).18 The preamble
+of the TRIPS Agreement also refers to “developmental and technological objectives” as well as the “special needs of
+the least-developed country Members in respect of maximum flexibility in the domestic implementation of laws and
+regulations in order to enable them to create a sound and viable technological base”.
+
+These aims are reflected in additional transitional periods for implementing the Agreement, during which,
+however, the general national-treatment and most-favored-nation principles must be observed.19 In addition,
+developed countries are to promote private technology transfer for the benefit of least-developed countries and to
+cooperate with all developing countries in technical and financial matters in order to support the implementation of
+the Agreement and the erecting of an IP infrastructure.20
+
+On the other hand, these avowals and concessions should not blind us to the fact that the TRIPS Agreement
+continues to advance the expansion paradigm. TRIPS goes far beyond the scope of protection of the PC and the BC,
+for instance regarding the patentability of pharmaceuticals and plant varieties and the scope of exclusivity a patent
+holder enjoys. These obligations are to be fulfilled, post-transitional phase, by all of the 161 WTO members equally.
+TRIPS grants no substantial flexibilities (as, e.g. in the area of tariff and subsidies regulation) to the developing
+countries. As to the effectiveness of the promised technology transfer, we will return to this below. Just how
+marginalized critical approaches to the relationship between IP law and development were at the apex of the
+Washington Consensus era is demonstrated by the two WIPO Copyright Treaties of 1996, which extend the reach of
+
+PEUKERT
+
+| 7
+
+copyright into the digital world. In these documents, developing countries are only mentioned to the extent that
+WIPO promises to reimburse the travel expenses of their delegates.21
+
+2.6 | Conflicting tendencies since 2000
+
+The globalization agenda, with its goals of opening and liberalizing markets, found itself in a crisis in the late 1990s.
+This was manifested in the failure of the Third WTO Ministerial Conference in Seattle in December 1999. At this point
+criticism of the orthodox IP paradigm and in particular of the TRIPS Agreement also began to be voiced. The event that
+triggered this protest was the attempt of pharmaceutical companies together with the United States and the EU to
+topple a South African law intended to secure better provision of affordable HIV/AIDS medicine through parallel
+imports and compulsory licences. An international campaign raised the claim that patents hindered access to vital
+medicines. This was effective: as a result, US President Clinton expressly ordered in May of 2000 that pressure on
+South Africa be dropped (Fisher & Rigamonti, 2005). These events, and the rise of the Internet suddenly focused the
+spotlight on IP rights. As a consequence we can observe a convergence of the development discourse and the IPR
+discourse, two previously unrelated debates.
+
+For one thing, general development policy increasingly reflects the significance of innovation and the protection
+of IP rights. In the United Nations’ Millennium Development Goals (MDGs) the category “access”—whether to water,
+food, health care, education or information and communication technologies—plays a central role. Under the
+impression of the South African HIV/AIDS case, the pharmaceuticals sector is expressly expected to make essential
+medicines available and affordable for all people in developing countries.22 Later resolutions on the MDGs emphasize
+“that science, technology and innovation, including information and communications technologies, are vital for the
+achievement of the internationally agreed development goals . . ., and for the full participation of developing countries
+in the global economy” (see also van Genugten & Meijknecht, 2011).23 At this occasion, the UN General Assembly
+recognized also “the importance of the creation of a conducive environment that attracts and supports private
+investment, entrepreneurship and corporate social responsibility, including an efficient and effective intellectual
+property framework”.24 Eventually, the aim to foster innovation features prominently as one of the 17 goals of the
+post-2015 UN development agenda.25
+
+At the same time, the issue of development has penetrated the multilateral IP discourse. The WTO
+responded to the globalization criticism with the “Doha Development Agenda”, begun in 2001 and not yet
+successfully concluded, which is supposed to center on the needs and interests of the developing countries (see
+van Dijck & Faber, 2006).26 How strong an impression was made by the controversy on patents and HIV/AIDS,
+in particular, can be seen in the fact that the Ministers’ Conference of 2001 released a special declaration on
+TRIPS and public health.27 This document clarifies that the Agreement does not prevent Members from taking
+measures to protect public health. Rather, it is to be interpreted and applied flexibly so as to promote access to
+medicines for all. Moreover, a number of formal decisions were taken. First, the transitional phase for
+introducing patent protection for pharmaceutical products was extended to 1 January 2016 in favor of the
+least-developed countries.28 Second, the obligations of an exporting WTO Member under article 31(f) of the
+TRIPS Agreement were waived so as to allow exports to countries that cannot manufacture pharmaceuticals
+themselves.29 In the year 2005, it was agreed to codify this “Doha Waiver” in the form of a new article 31bis and
+an annex to the TRIPS Agreement.30
+
+This development is remarkable in that it represents the only amendment ever made to WTO law. And yet, even
+10 years after their adoption, the provisions concerned have not entered into force due to an insufficient number of
+ratifications.31 In addition, there has so far only been one documented case of a compulsory export licence under this
+regime, namely, for delivery of a medicine from Canada to Rwanda (Dutfield, 2008, pp. 1 et sequentes).32 The
+extension of the transitional phase for least-developed countries, also resolved in 2005, has proven to be similarly
+ambivalent. At first sight, it means that these countries are not required to implement any minimum rights pursuant to
+TRIPS until 1 July 2021.33 At the same time, however, LDCs agreed in 2005 to a no-roll-back clause, according to
+
+8 |
+
+PEUKERT
+
+which they promised to ensure that any changes in their laws would “not result in a lesser degree of consistency with
+the provisions of the TRIPS Agreement”.34 Since many LDCs, particularly in Africa, have already established a post-
+colonial standard of protection that surpasses that of TRIPS (see above), the extended transition period in most cases
+runs idle.
+
+WIPO, the second multilateral actor on the scene of international IP law, is practically bound by its founding
+document to the expansionist narrative, as it is supposed to “promote the protection of intellectual property
+throughout the world”.35 As late as 2003 its Director General was still touting IPRs as a “power tool” for economic
+development and welfare (see Netanel, 2009, p. 2 with further references). Somewhat of a change came only in
+2004 with the demand from Argentina and Brazil that, as a UN organization, WIPO should also promote the
+universal developmental goals. IPRs, they argued, are not an end in and of themselves; the effects of WIPO’s policy
+to push for an expansion of IP protection on developing countries must also be examined. The petitioners stressed
+the need for a balanced approach that gives equal consideration to both the advantages and the disadvantages of
+IPRs.36 Since then, these questions have been discussed regularly in the framework of the WIPO’s “Development
+Agenda” (on similar and eventually failed attempts to introduce a development aspect to WIPO’s agenda in the
+1970s and early 1980s see Sell, 2011, pp. 17 et sequentes).37 Besides a series of commissioned studies, WIPO
+adopted no fewer than 45 recommendations that are intended to contribute to a greater coherence between IP
+policy and development policy.38 Among these is a re-orientation of technical assistance and capacity building
+programs that shall no longer be committed solely to the universal expansion narrative (critical Deere Birkbeck &
+Roca, 2011; more optimistic Pederson, 2014, p. 202 [“WIPO has already distanced itself considerably from the
+“maximalist rights culture” that was said to have dominated the organization when the Agenda was first
+adopted”.]).
+
+In sum, both within the WTO and WIPO, critical voices have begun to be raised against the expansion narrative.
+These critics strongly relied on concepts of development. The resulting conflict has led to a near-total blockade of the
+multilateral IP system. However, this has by no means caused the development of international IP law to come to a
+standstill. The proponents of a high level of protection have merely changed their forum, and are now pursuing their
+goals on the plurilateral and bilateral level (Helfer, 2004). The anti-piracy agreement ACTA was agreed among a select
+group of nations sympathetic to the cause but failed eventually when submitted to the European Parliament.39
+Bilateral agreements on a TRIPS-plus level, however, continue to proliferate. The external IP policy of the EU can again
+exemplify this observation.
+
+The EU is, on the one hand, obligated to take account of the objectives of development cooperation in the
+policies that it implements which are likely to affect developing countries.40 And indeed, the option to grant
+compulsory export licences for medicines, in accordance with the WTO’s Doha Declaration, was implemented in
+EU law.41 On the other hand, the European Commission conceives of a “balanced IPR policy toward developing
+countries” as one that aims at enhancing respect of IPR standards and “stronger” IPR protection, in particular for
+middle-income countries.42 This policy corresponds to the 2011 IPR strategy of the Commission, which states
+that “IPR constitute a major asset for the EU’s competitiveness on emerging markets”.43 Accordingly, the
+Commission will continue to aim at “improving protection and enforcement of IPR at global level”, though
+conscious of the obligation to provide for coherence between IP policy and DC.44 What this means concretely
+becomes apparent in the example of the “Economic Partnership Agreement” concluded by the EU with a
+number of developing countries in the Caribbean (CARIFORUM). The relevant commitments, especially those
+regarding enforcement, go far beyond the level of TRIPS. In general, also, the parties to the agreement
+recognize “that the protection and enforcement of intellectual property plays a key role in fostering creativity,
+innovation and competitiveness, and are determined to ensure increasing levels of protection appropriate to
+their levels of development”.45 EU Commissioner Malmström goes so far as to attribute the fact that trade
+between the EU and the CARIFORUM countries has not increased significantly since the conclusion of the
+Agreement in 2008 inter alia to the fact that some Caribbean countries have not yet implemented the IP rules of
+the Agreement (Malmström, 2015, p. 3).
+
+PEUKERT
+
+| 9
+
+3 | THE UNTENABILITY OF THE EXPANSION PARADIGM
+
+The expansion paradigm, then, is still alive and well. This is a vexing conclusion, because the hypothesis that increasing
+legal protection fosters economic development can now be considered refuted.
+
+3.1 | Arguments of IP optimists with regard to developing countries
+
+IP optimists hold the opinion that a high, globally harmonized level of protection is advantageous even—and
+particularly—for developing countries (see Beier, 1979, pp. 227 et sequentes; Straus, 2012). The reasons put forward in
+support of this opinion have long been criticized because empirically they stand on shaky ground.
+
+The central, effects-based argument in favor of IPRs is that they provide incentives for investing in R&D, and thus
+indirectly for innovation, by protecting the respective investments and facilitating a market-compliant use of the
+results of the research. Even if one presumes that every patent application maps this logic (more on this below),
+statistics reveal a mixed result (World Intellectual Property Organization, 2014, p. 14, p. 23): the most significant
+change in patent applications by country income group between 2003 and 2013 concerned the share of 52 high-
+income and 39 upper middle-income countries, where applications in China rose sevenfold, while those in Japan fell
+by a fifth, which resulted in an increase of the share of upper middle-income group countries in the worldwide patent
+applications from 11.9% to 36.4%, whereas the share of high-income countries fell from 85.7% to 60.3%. But without
+China, the share of the remaining upper middle-income countries would have dropped from 5% to 4%. The 31 lower
+middle-income countries accounted for a marginal share in patent applications of 1.9% in 2003 and of 2.9% in 2013,
+the 17 low-income countries for 0.5% and 0.4%, respectively. In addition, the lion’s share (c. 85%) of applications in
+African, Latin American and Caribbean, and Oceanian offices was constantly filed by non-residents (World Intellectual
+Property Organization, 2014, p. 24).
+
+More important than the sheer numbers is the insight that the basic assumptions of the IP optimist are
+contradicted by research findings. First,
+it is meanwhile acknowledged among economists that patents, and
+particularly mere patent applications, must not be equated with innovations, as the technological quality of patents
+(applications) is highly diverse (e.g. Mann & Underweiser, 2010). In many empirical studies on individual rights,
+branches and countries, a positive correlation between IP protection on the one hand and R&D expenditures and
+innovations on the other, could not be confirmed (Bessen & Meurer, 2008, pp. 73 et sequentes; Landes & Posner, 2003,
+pp. 326 et sequentes; Branstetter et al., 2010, pp. 93 et sequentes, all with further references; Maskus, 2008, p. 497,
+p. 507); this regards even the pharmaceuticals sector, which is supposed to be the prime example of the necessity of
+patent law (Qian, 2009, pp. 191 et sequentes). Though IP protection has expanded world-wide between 1981 and
+2011, the percentage of R&D spending in the gross national product in the United States and in Germany has
+increased only slightly (2.34–2.88%), and in the United Kingdom even decreased clearly (2.35–1.77%). Only in certain
+Asian countries such as Japan (2.26–3.39%) and China (0.73–1.84%) can a significant increase be made out—although
+Chinese IP law has been considered inadequate for most of this period (National Science Foundation 2014). The
+empirical basis for the incentive theory is even weaker with respect to developing countries. The evidence for patents
+as drivers of local innovation activity has been anecdotal (Odagiri, Goto, & Sunami, 2010a, p. 412, p. 418, p. 427 [“little
+support for this claim”]). The phenomenon of neglected diseases refutes the assumption that global IP law generates
+innovations that are especially tailored to the needs of developing countries (Chang, 2001, pp. 27 et sequentes;
+Maskus, 2008, p. 515). HIV/AIDS, tuberculosis and malaria are still primarily combated using the classic tools of
+development cooperation (United Nations, 2011, p. 47).
+
+That patent rights alone do not trigger technological catch-up processes is something many IP optimists will
+readily admit. Instead, they argue, technology has to be transferred from the industrial to the developing countries.
+And for such transfers, IP law is again considered to be an incentive and a legal basis (Islam, 2010, pp. 7 et sequentes;
+World Trade Organization, 2010: paragraph 6). Yet doubts abound as to the tenability of this argument. First of all,
+increasing patenting rates of foreign enterprises in developing countries must not be equated with technology
+
+10 |
+
+PEUKERT
+
+transfer (Moser, Bilir, & Talis, 2011). For a patent need not be worked nor licensed locally, but can be held strategically
+as a defensive position. Technology agreements with firms in least-developed countries have not been documented
+(Beattie, 2007, pp. 6, 19 et sequentes with further references; Chang, 2001, p. 27; Michaels, 2009, p. 223, p. 224
+[“implementation of article 66.2 thus far has been moderately successful at best”]; World Trade Organization, 2010,
+paragraph 38). Senegal, for instance, has complained to the WTO that although many high-tech products are imported
+for use, only an “extremely limited” amount of technology is transferred for purposes of production.46 Several reasons
+have been cited for this. In many developing countries there are no local actors who are capable of absorbing complex
+technologies for production purposes (Claessens, 2009, pp. 539 et sequentes; Greenhalgh & Rogers, 2010, p. 253;
+Odagiri, Goto, Sunami, & Nelson, 2010a, p. 415). From the perspective of potential licensors, developing countries are
+attractive merely as retail markets for goods produced elsewhere. For this purpose, all that is needed is well-
+functioning trade mark protection to prevent piracy (Maskus, 2008, p. 506). Finally, the public authorities who
+promised technology transfer have only very limited influence on the considerations of individual patent holders
+(Cottier, 2006, p. 779, p. 789).
+
+Even if an IPR-based transfer of technology should fail to materialize, IPRs are, in the view of the IP optimists, still
+advantageous to developing countries because they offer legal security for foreign direct investment (FDI) by
+multinational corporations (MNCs). Indeed it has been shown in economic models as well as empirically that without
+legal protection there is less inclination on the part of MNCs to set up technology-intensive production operations in
+developing countries (Branstetter, Foley, & Saggi, 2010, pp. 93 et sequentes with further references; Comune,
+Naghavi, & Prarolo, 2012). However, this consideration seems not to be of the highest priority, as high direct
+investments are documented in large emerging economies—specifically, China and India—who are accused at the
+same time of not combating local IPR infringement effectively enough (Ganea & Haijun, 2009, p. 17, pp. 43
+et sequentes with further references; regarding India see Nandkumar & Srikanth, 2011). For less-developed countries
+with small retail markets, moreover, no reliable data are available (Beattie, 2007, p. 6, pp. 16 et sequentes with further
+references; Branstetter et al., 2010, p. 93, p. 98; Chang, 2001, p. 27; Commission on Intellectual Property Rights,
+2002, p. 24; Maskus, 2008, pp. 507 et sequentes). It is even argued that the effects of stronger IPR protection are
+generally negative and not significantly correlated to FDI (as a percentage of GDP) for countries with relatively large
+shadow economies (Canavire, Saravia, & Rios-Avila, 2012).
+
+As a final point, the advocates of a high international standard of protection argue that the disadvantages this
+might have for the developing countries (more on that below) would be compensated for by an improved access to the
+global market for their own products and thus greater participation in the globalization process. Admittedly, the TRIPS
+Agreement must not be regarded in isolation. It is one of a whole bundle of agreements within the WTO framework.
+Bilateral free-trade agreements also give developing countries benefits,
+in return for which they accept the
+concessions of a potentially detrimental IP chapter. However, this package-deal argument, which by the way is hardly
+quantifiable, likewise meets with strong reservations (Maskus, 2008, p. 514). For one thing, tariffs and export
+subsidies are still particularly high in the agricultural sector, causing harm to poor rural producers by eroding their
+competitiveness and affecting international prices (Bartley et al., 2015, p. 31, p. 44). Over and over again, the UN
+General Assembly recognized “the need to address market access for developing countries, including in the sectors of
+agriculture, services and non-agricultural products, in particular those of interest to developing countries”.47
+
+3.2 | Arguments of the IP pessimists with respect to developing countries
+
+In light of these findings and the costs of IP protection, IP pessimists are of the view that a protection of IPRs that is
+introduced too early on too high a level would have the potential to prevent a country from catching up over a long
+term (e.g. Islam (2010) with further references; Maskus, 2008, pp. 508 et sequentes with further references). They
+argue that a low level, or even total lack, of protection in developing countries has hardly any negative effects on
+worldwide innovativeness, provided there is effective protection in the industrial and upper middle-income countries
+as the key production markets. On the global scale, then, it does no harm if the least-developed countries in particular
+
+PEUKERT
+
+| 11
+
+enjoy greater leeway (Grossman & Lai, 2004, pp. 1635 et sequentes). These countries often lack the basic prerequisites
+for the absorption and further improvement of existing technologies, especially skilled workers and legal certainty for
+enterprises operating in the formal sector of the economy (for Central America see Rodríguez-Clare (2005)).
+
+However, it does not follow from these relativizing observations that the IP policy in general, and the politically
+dominant IP maximalism in particular, are insignificant. Sceptics put forward a number of empirically supported
+arguments that make the negative potential of this agenda clear.
+
+First, it is undisputed among economists that exclusive IPRs limit the dissemination of explicit knowledge, which is
+not rivalrous in its use and therefore not scarce, and therefore lead to a lower degree of satisfaction of needs
+(summary in Boldrin & Levine, 2008, pp. 1 et sequentes). This becomes evident when the right holder does not work her
+invention or otherwise limits access to it. For example, the highly restrictive licensing policy of James Watt with
+respect to his steam engine patents is alleged to have slowed down the entire industrialization process for several
+years (Kurz, 2000, pp. 302 et sequentes, p. 306 [one of the few cases where it is pretty sure that patents slowed down
+technological progress]). And even if the proprietor allows the use of an innovation in exchange for remuneration, this
+leads to inefficient underuse since not everyone is willing or able to pay the price asked. That IPRs, as their purpose
+dictates, significantly raise the price of products is proven, for example regarding patent-protected medicines as
+compared to generics (European Commission, 2009, p. 9 [generics on average 25% cheaper than the patented
+original; 2 years after market entry, prices for generics are on average 40% lower than the price of the patented
+product]) and in the book sector.48 This effect results in high trade deficits of innovation importing countries with
+regard to license fees (Commission on Intellectual Property Rights, 2002, p. 21 [“Between 1991 and 2001, the net US
+surplus of royalties and fees (which mainly relate to IP transactions) increased from $14 billion to over $22 billion. In
+1999, figures from the World Bank indicate a deficit for developing countries for which figures are available of $7.5
+billion on royalties and licence fees”.]). Furthermore, the combating of “piracy” in developing countries leads to the
+repression of locally existing production (see the country reports in Karaganis (2011)).
+
+Second, it is a recognized fact that IPRs limit not only the mere consumption of existing knowledge, but also its
+further development. Here one must keep in mind that no one creates ex nihilo. Every innovation builds on previous
+achievements (Boldrin & Levine, 2008, pp. 124 et sequentes), which are learned by the anthropological constant of
+imitation (Boldrin & Levine, 2008, p. 145; locus classicus: Tarde, 1962 [1890] [imitation is human]). The higher the
+number of people who have an intensively cultivated access to the state of the art in a certain field of knowledge, the
+higher the probability that this knowledge will be used innovatively and creatively.
+
+Third, the establishment and administration of a functioning IP system causes considerable costs, for instance for
+a patent office, the education of judges or the enforcement of laws. It is estimated that a developing country has to
+spend at least one million US dollars per year to cover these costs (Commission on Intellectual Property Rights, 2002,
+p. 145). The question arises whether these sums would be better invested elsewhere.
+
+Fourth, it is pointed out that an effectively enforced IP system can additionally increase the oftentimes already
+considerable market power of multinational enterprises in developing countries. Formal technology transfer and
+foreign direct investments can force out local production (“piracy”) and impede the market entry of domestic
+companies (Greenhalgh & Rogers, 2010, p. 337; Saikia, 2015, p. 521 [rising market share of MNCs on the Indian
+pharmaceutical market]). Such limited competition in turn leads to welfare losses. Japan, after all, chose a different
+strategy to effect its technological catching-up process: up until the late 1960s, most foreign direct investments were
+limited by regulation, and instead competition among domestic industries was promoted (Odagiri et al., 2010, p. 95,
+pp. 113 et sequentes).
+
+Fifth, a trade policy that gives away market access to textiles or agrarian products, for instance, in return for high
+IPR protection levels threatens to peg developing countries to the comparative advantage they have today over a long
+term. This advantage consists of labor-intensive but not very innovative activities that have a lesser added value than
+high-tech products. If an economy is not able to generate this added value and thus rise to the ranks of the technology
+exporters, at a certain point the catch-up process will begin to stall (Llewelyn, 2010, p. 285 [“competing on price alone
+is a business strategy with a limited shelf-life”]; Ostergard, 2014, pp. 3 et sequentes, p. 40). The innovation gap will
+
+12 |
+
+PEUKERT
+
+remain, and could even grow wider. In his famous report on the industrial policy of the then technologically backwards,
+predominantly agrarian USA, Alexander Hamilton formulated this idea in 1791: “In such a position of things, the United
+States cannot exchange with Europe on equal terms; and the want of reciprocity would render them the victim of a
+system, which should induce them to confine their views to agriculture, and refrain from manufactures” (Hamilton,
+1791/1901, p. 25).
+
+3.3 | In particular: IPRs in the process of industrialization of developed countries
+
+Hamilton’s warning shows plainly that today’s developed countries, which export knowledge commodities and
+advocate for a high global level of IP protection, at one time had yet to reach their stage of development. Each of these
+countries began with what from today’s perspective was an extremely low level of innovation, technologically and
+otherwise. In most cases (e.g. United States, Germany, Japan) these countries lagged behind in international
+comparison and first had to catch up. Economic history can thus provide us with important insights on the framework
+conditions that promote such a catch-up (Gerschenkron, 1962/1979; International Labour Office, 1976, p. 141;
+Payne & Phillips, 2010, pp. 33 et sequentes; Rostow, 1987; with regard to IPRs Greenhalgh & Rogers, 2010, pp. 250
+et sequentes with further references). In this respect, there is consensus that technological progress and thus
+innovation policy, including IPRs, play a central role (Chang, 2002, p. 126). Turning to these questions, it quickly
+becomes clear that today’s proponents of IP maximalism followed a completely different policy during their own
+catch-up phase.
+
+First of all, it is striking that the first states to have modern patent laws, such as (temporarily) the city-state of
+Venice in the fifteenth century and England, from the seventeenth century, assumed a leading role in economy and
+technology at the time (Lerner, 2000, p. 15; on the United Kingdom see Chang, 2002, pp. 19 et sequentes). The
+Venetian laws, furthermore, primarily served to promote the influx of professionals and the local practice of new
+trades (Kurz, 2000, pp. 41 et sequentes; MacLeod & Nuvolari, 2010, p. 5). Not until the informal transfer of knowledge
+by means of the immigration of people skilled in the art no longer sufficed, due to the complexity of technology, did
+patent law become relevant (Chang, 2002, p. 56). And even then only very few patents were granted; in Great Britain,
+from 1760 c. 20 patents, around 1840 c. 450 patents per year. Besides, wide areas of the British industrialization
+process, such as the set-up of modern infrastructure and transportation, took place entirely without patenting activity
+(Kurz, 2000, pp. 178 et sequentes; MacLeod & Nuvolari, 2010; p. 577; Moser, 2013, pp. 25–28). Incidentally, the
+history of economics presents not a single case in which a high level of IP protection was intentionally established that
+was then followed by a catch-up process. On the contrary, the states that today are developed all followed strategies
+that were characterized by a thoroughly conservative, instrumental IP policy (Chang, 2001, pp. 3 et sequentes;
+Ostergard, 2014, p. 3, p. 39).
+
+Many countries only introduced patents for technical inventions when their economic development was already
+advanced and thus a foundation was laid for innovative activity (Lerner, 2000, pp. 14 et sequentes). In Germany, for
+instance, patent law was up against not only the lack of a central state but also the anti-patent movement, borne on
+the wave of the free-trade idea. It was not until the 1870s that protectionist tendencies in the wake of that era’s
+financial crisis prepared the ground for the Patent Act of 1877, which exempted precisely those two branches from
+patent protection—medicines and chemical products—in which Germany was already an international leader of the
+time (Kurz, 2000, pp. 332 et sequentes, pp. 372 et sequentes). Switzerland introduced a Patent Act only in 1888, under
+massive international pressure, but granted no protection for methods and for chemical products until 1907. This
+allowed the Swiss chemical and pharmaceutical industry to copy products patented in France and other places
+without hindrance; at the same time, the late nineteenth and early twentieth century are seen as the golden age of the
+Swiss pharmaceutical and chemical industry (Kurz, 2000, pp. 393 et sequentes; Schiff, 1971, pp. 85 et sequentes). In
+1869, the Netherlands completely revoked their patent law, which up until that point had been used predominantly by
+foreign registrants, and did not re-instate it until 1912. Here again, this period in fact marks the high point of the
+industrialization of the Netherlands. Dutch companies remained innovative in international comparison, registering
+
+PEUKERT
+
+| 13
+
+patents in foreign countries, while a shift took place toward branches, such as construction of complex instruments,
+that operated more intensively with trade secrets (Moser, 2005, p. 1214, p. 1223 [patents channel innovative activity
+to certain industries but do not influence the overall level of innovation]). New on the scene were large companies
+whose business models were based on unlawful imitation (“piracy”). Thus the Lever Brothers (Unilever) produced
+margarine in disregard of the patent protection that existed in several European countries; Philips manufactured light
+bulbs without paying licensing fees to Edison (Kurz, 2000, pp. 388 et sequentes; MacLeod & Nuvolari, 2010, p. 23;
+Schiff, 1971, pp. 19 et sequentes, pp. 124 et sequentes). India pursued a similar strategy in doing away with product
+patents in the pharmaceutical and food sector in 1972. This gap in protection, which under the maximum transition
+period for TRIPS was valid until 2005, is said to be partly responsible for the creation of the Indian generics sector
+(Chaudhuri, 2009, pp. 265 et sequentes; on the comparable development of the Israeli pharmaceutical industry see
+Odagiri, Goto, Sunami, & Nelson, 2010b, pp. 361 et sequentes). Japan, to name one last example, has had a patent law
+since as far back as 1885. But up until the late 1990s, the scope of protection of a patent was construed so narrowly
+that Japanese companies had an easy time of circumventing this protection by means of slight changes in the drafting
+of the claims (Ganea & Nagaoka, 2009, p. 87, p. 140; Odagiri et al., 2010, p. 122. On the comparable situation of the
+Republic of Korea see Lee & Kim, 2010, p. 133, p. 142, p. 165 [reduction of the patent term in 1961 and expansion of
+IP protection since the late 1980s]).
+
+Moreover, many patent laws of the nineteenth and early twentieth century contain elements that aim at
+formal and informal importing of technology (Khan & Sokoloff, 2009, p. 215, pp. 232 et sequentes). One common
+scheme (e.g. in England, France and the German state of Württemberg) was the granting of a patent for the first
+person to introduce an innovation to the country. The patent holder—who as a rule was not a foreigner—was thus
+not rewarded for bringing about an innovation in the first place, but for introducing it to the local market without
+the permission of the inventor (Kurz, 2000, p. 338, p. 577 [patents on imported technology as the “true” root of
+modern industrial property law]; Chang, 2001, p. 7). In addition, there was often a legal duty to work a patented
+technology within the country. If this requirement was not met, the patent could be revoked or a compulsory
+license granted to competitors (for France see Khan & Sokoloff, 2009, pp. 222 et sequentes).49 Last but not least,
+up until the late nineteenth century it was common policy for a country to grant patents only to its nationals. Such
+a discrimination against foreigners was practiced for instance in Prussia (Kurz, 2000, pp. 332 et sequentes), in
+Japan, until 1899 (Ganea & Nagaoka, 2009, pp. 134 et sequentes), and finally, in the United States, the nation held
+up as the poster-child of patenting (on the US Patent Act of 1790 see Kurz, 2000, pp. 251 et sequentes). Here,
+foreign applicants were not able to obtain patent protection until 1836, and even then, until 1861, only at
+additional costs. While US citizens had to pay a mere 30-dollar registration fee, foreigners were charged 300 US$,
+and citizens of the United Kingdom as much as 500 US$ (Mowery, 2010, p. 31, p. 36).50 This policy of
+discrimination contributed to there being only very few foreign patents documented in the United States up until
+the early twentieth century, when the country finally caught up technologically to Europe (Khan & Sokoloff, 2009,
+pp. 226 et sequentes).
+
+In the area of copyright as well, up until the late nineteenth century there existed several European “copying hubs”
+(Hofmeister, 1987, pp. 173 et sequentes). The US Supreme Court calls the nineteenth century United States in
+retrospect a “Barbary coast of literature”, where “buccaneers of books” had an easy time.51 And indeed, from 1791 to
+1891, works by foreign authors that were not first published in the United States enjoyed no protection whatsoever.
+Until 1976, US law required that certain formalities be met in order to obtain copyright protection; predictably, it was
+foreigners above all who failed to meet them. Finally, up until 1986 a so-called manufacturing clause was in place
+which required that a book must be printed in the United States in order to enjoy protection by law. These regulations
+had the purpose of promoting the national publishing and paper industries and to provide the public in the settler
+colonies with the cheapest and widest access possible to all sorts of information (Hamilton, 1791/1901, pp. 83
+et sequentes; Patry, 2003, p. 749, p. 750).52 They were only dropped in the year 1989, when the United States acceded
+to the Berne Convention, at which point the United States had already become the world’s largest exporter of
+entertainment and other information commodities. Since then, the United States has been among the most vehement
+
+14 |
+
+PEUKERT
+
+proponents of IP maximalism. The goal of this policy is to help the nation’s own companies attain legal protection all
+over the world.
+
+All in all, it is clear that today’s developed countries had established a much lower level of IP protection during
+their technological catch-up phase than that demanded of the developing countries by today’s multilateral and
+bilateral treaties. Their IP system was only expanded step by step when a certain potential for innovation—and the
+corresponding need for protection within a country’s own industry—was present. This instrumental policy is now
+blocked off for the most part (Beattie, 2007, p. 6, pp. 24 et sequentes; Kurz, 2000, p. 578; Maskus, 2008, pp. 502
+et sequentes; on discrimination of foreigners see Qian, 2009, p. 207 with further references; Commission on
+Intellectual Property Rights, 2002, p. 20). In particular, it is not allowed to wholly exclude foreigners or certain areas of
+technology, such as pharmaceuticals, from legal protection or to provide that formalities must be fulfilled in order to
+secure a copyright.53
+
+It is this background against which we must see China’s example. China joined the key intellectual property
+conventions quite soon (PC 1985, BC 1992) after the gradual opening of its economy, and finally, in 2001, the WTO.
+On paper, the Chinese IP law conforms to the international standards. In reality, however, the enforcement of rights is
+still considered lacking, so that informal technology and knowledge transfer is taking place on a large scale (Ganea &
+Haijun, 2009, pp. 17 et sequentes). Whether the accelerated patenting activity of Chinese enterprises truly signals that
+the hurdle from a mere supplier to an innovator has already been taken is doubtful. An alternative reading sees in this a
+strategy with the intention of hindering both foreign access to the Chinese market and the exodus of MNCs producing
+in China (e.g. Apple), since these cannot simply transfer the incremental improvements of their Chinese suppliers to a
+different place of production (Eberhardt, Helmers, & Yu, 2011; contra Straus & Klunker, 2007, p. 91, pp. 99
+et sequentes [patent law decisive for the Chinese success story]).
+
+4 | CONCLUSIONS
+
+4.1 | From the perspective of social sciences
+
+Based on this state of research, economists and economic historians have come to the unanimous conclusion that the
+expansionist paradigm, which holds that IP protection is good, and more protection is better, is untenable (Beattie,
+2007, p. 6, p. 29 [“One can still argue that it will have net positive effects on developing economies . . ., but one cannot
+in good faith argue that it is the ideal regime for the developing world to adopt”.]; Cimoli, Dosi, & Stiglitz, 2009, p. 1,
+p. 10 [effects irrelevant or negative]; Commission on Intellectual Property Rights, 2002, p. 22; Greenhalgh & Rogers,
+2010, p. 331 [“it is difficult to find a consistent, positive association between the strength of IPRs and economic
+growth”]; Kurz, 2000, p. 389 [“untenable”]; Machlup, 1958; Moser, 2013, p. 40 [“Overall, the weight of the existing
+historical evidence suggests that patent policies, which grant strong intellectual property rights to early generations of
+inventors, may discourage innovation”.]; Netanel, 2009, pp. 4 et sequentes with further references; Odagiri et al.,
+2010a, p. 430; Ostergard, 2014, p. 3, p. 39 [at best an argument on shaky ground]). IP optimists, meanwhile, have
+dropped their consequentialist argument in favor of the legal-philosophical concept that it is right to accord to
+inventors and authors the rights in the fruits of their labor (see Merges, 2011; Spinello & Bottis, 2009, pp. 177
+et sequentes). In the final analysis, then, the question is one of orthodoxy.
+
+Of course it would be foolish to draw the opposite conclusion from the refutation of the expansion narrative: that
+IPRs always have negative effects on technological and other developments. In the model, the correlation between IP
+and innovation or welfare is represented not as a straight line, but as a converted U-curve. If legal protection is
+altogether lacking or too slight, certain economic activities such as costly film productions will not take place. If IP law
+expands beyond a certain point, however, innovations and creativity will decline, since too many rights must be
+respected. Examples of this are patent thickets in the ICT sector,54 or the practical impossibility of legally creating
+mash-ups of music videos (Gangopadhyay & Mondal, 2012; Maskus, 2008, p. 505; Park, 2008, p. 289, p. 323). With
+
+PEUKERT
+
+| 15
+
+regard to developing countries, mono-causal conclusions are likewise a dead end. IP law is neither the sole
+requirement for nor the sole or even the most significant impediment to closing the development gap (generally
+Gerschenkron, 1962/1979, p. 360; regarding IPRs Bessen & Meurer, 2008, p. 92; Maskus, 2008, p. 515; Odagiri et al.,
+2010a, p. 420; Qian, 2009, pp. 191 et sequentes).
+
+Instead, a rule of differentiation is formulated: equal chances for development55 require unequal regulations of
+innovation, including the option to provide for no or only minimal IP protection. Instead of a universal standard,
+individual states should pursue innovation policies that are tailored to their actual needs (Gervais, 2014, p. 86, pp. 100
+et sequentes; Khan & Sokoloff, 2009, p. 241; Commission on Intellectual Property Rights, 2002, p. 20; generally Cimoli
+et al., 2009, p. 3 [Ricardo vs. List]). While knowledge exporters profit from a high level of IP protection and threshold
+countries have to strike a tricky balance between legal protection and access, the least-developed countries are
+suffering negative effects from the current system (Adusei, 2013; Maskus, 2008, pp. 512 et sequentes; Park, 2008,
+p. 290). A globally uniform IP law contributes to cementing these relative advantages and disadvantages. The small
+group of technologically leading countries and companies is protected from imitators; the great number of latecomers
+is not allowed to learn at the lowest possible cost. The overall effect of this regime on global economic development is
+judged to be chiefly negative (Claessens, 2009, pp. 598 et sequentes; Commission on Intellectual Property Rights,
+2002, p. 20; Greenhalgh & Rogers, 2010, p. 333; Maskus, 2008, pp. 497 et sequentes; Moser, 2005, p. 1232; Odagiri
+et al., 2010a, pp. 418 et sequentes; contra Straus & Klunker, 2007, p. 91, pp. 101 et sequentes [further harmonization of
+patent law necessary]).
+
+Another idea that must be rejected is one that some commentators prefer not to state openly: that many
+developing countries are so backward that IP law cannot hurt them either. Not only are there are no right holders who
+would be interested in these markets, but the local population is not even capable of infringing the rights. Such a
+degree of cynicism makes a mockery not only of the demand for global protection that is made at the same time.
+Precisely in the situation described here, it is preferable to save the costs of this manifestly superfluous system
+altogether. Furthermore, history has taught us that “piracy” can prepare the field for economic development. Let us
+remember Unilever, Philips or the American publishing companies. A more recent lesson is the Nigerian film industry,
+which likewise has its roots in the industrial-scale production of unlawful video copies, and yet now is one of the most
+productive locations in the world for producing films, and is itself afflicted with mass infringement of rights (Pager,
+2012). The further formalization and professionalization of Nollywood, however, is also deterred by the dubious status
+of the companies involved. Unlike Unilever or Philips in their day, the Nigerian video pirates violated copyright laws
+from the very beginning, since Nigeria had a valid copyright law in place. Today, when these same producers make
+films and take action against right infringements, the accusation of piracy falls back on them. Whereas the nineteenth-
+century imitators, who were operating completely legal, had to adjust ex nunc to a newly introduced IP regime, the
+infringers from today’s developing countries bear the “pirate” stigma, and this by itself makes it harder for them to
+leave the informal system for the formal structure that would offer them better long-term planning and investments
+opportunities (Bartley Johns, Brenton, Cali, Hoppe, & Piermartini, 2015, p. 34 [“Research provides evidence of a
+strong correlation between poverty and informality”.]; de Beer et al., 2014, p. 52 [fear of IP infringement may be
+a disincentive for players in the informal economy to innovate and expand the reach of their innovations]). This is a
+further important and yet subtle level on which IP protection introduced too early harbours the potential for negative
+consequences.
+
+All these considerations lead back to the question of causality: do IPRs generate economic development, or is the
+opposite true? Admittedly, the very complexity of the problem makes it difficult to give an unequivocal answer
+(Maskus, 2008, p. 504). However, the presumption underlying the expansion narrative, is hardly advanced anymore in
+view of the historic-empirical evidence, and when it is, then strangely enough by members of the IP elite from the
+southern hemisphere (Waziri, 2011). The overwhelmingly prevailing opinion, instead, assumes the opposite, quite
+compelling causality. According to this argument, an economic-technological development leads to a private need for
+legal protection. The governments of the industrialized states have gradually met this need and then exported their
+system telle quelle (Lerner, 2000; MacLeod & Nuvolari, 2010, p. 28 [“Industrialization promoted the patent system”];
+
+16 |
+
+PEUKERT
+
+Bessen & Meurer, 2008, p. 84 [causality unclear], p. 92; Ganea & Nagaoka, 2009, p.143 [higher spending on R&D leads
+to more patenting]; Chang, 2010, p. 1, p. 5; Greenhalgh & Rogers, 2010, pp. 332 et sequentes; Mowery, 2010, pp. 58
+et sequentes [patenting per capita during industrial catch-up between 1870 and 1910 decreased]; Olwan, 2013,
+p. 361; Commission on Intellectual Property Rights, 2002, p. 22).
+
+4.2 | With regard to international IP law and innovation policy
+
+These observations have prompted a discussion about reforms of the international IP system and about alternative
+ways to foster technological catch-up. Some commentators call for a formal amendment of the global IP regime, for
+instance by adding flexibility to the TRIPS Agreement in the interest of the developing countries. Specifically, the
+proposals suggest expanding the limitations to protection and introducing definite ceilings to exclusivity (Hugenholtz
+& Okediji, 2009, pp. 473 et sequentes; Kur & Levin, 2011, pp. 455 et sequentes). Another approach would make the
+duty to respect TRIPS provisions dependent on a country having reached a certain state of development in terms of
+economic, social and other indicators. Accordingly, patent protection for medicines, for instance, could only be
+introduced when a state has its own production capacities and is able to shoulder the additional health costs that
+patents entail (Cottier, 2006, p. 779, pp. 794 et sequentes; Ghidini, 2014, pp. 132 et sequentes). A final topic of the
+current debate are international treaties that specifically aim at improving and safeguarding rules that provide access
+to knowledge, for example in the area of copyright limitations and exceptions.56
+
+Such proposals, however, presuppose a broad consensus in the international arena, which at the moment is not in
+evidence. As explained, IP maximalism still enjoys wide support. There exists a structural asymmetry between the
+powerful, concentrated interests in legal protection and the diffuse and not always congruent interests in access to
+information (Commission on Intellectual Property Rights, 2002, p. 7). A paradigm shift in international IP law is
+therefore just as improbable as the radical step of one or more countries leaving the IP system, and thus the WTO. The
+latter option of taking a separate path does furthermore not seem advisable, because this rule-based, multilateral
+system of global trade does make a significant, if unevenly distributed, contribution towards combating poverty
+globally (Bartley et al., 2015, p. 7 [“there is no doubt that the integration of global markets through trade openness has
+made a critical contribution to poverty reduction”]).
+
+More promising, at least on the middle term, are thus strategies that operate without amending international
+IP law. Here I refer, for one thing, to classic instruments of development cooperation such as the global fund to fight
+HIV/AIDS. Second, there exist a whole series of alternative innovation concepts to allow greater access. For example,
+the so-called Health Impact Fund is intended to persuade the pharmaceutical industry, even without exclusive patent
+protection, to develop medicines for hitherto neglected diseases and sell them at low prices.57 In the creative
+industries and in academia, concepts like Free/Open Source Software, Open Access and Creative Commons hold the
+promise of greater freedom for users while reserving some rights to authors.
+
+At the same time, further expansions of the multilateral or bilateral IP system are and indeed should be considered
+with great caution. The UN General Assembly expressly demanded, in the interest of an effective combating of HIV/
+AIDS, that the level of protection prescribed by TRIPS must not be raised to a “TRIPS-plus” level within the framework
+of bilateral free-trade agreements.58 Developing countries are recommended to fully exploit the leeway that is in fact
+provided by the IP treaties in the interest of a national innovation policy and thus to create an appropriate balance
+between exclusivity and access (Gervais, 2014, pp. 96 et sequentes; Odagiri et al., 2010a, pp. 420 et sequentes; Turk,
+2010, p. 981).59 In this context, the least-developed countries should also be allowed to use an extended
+implementation deadline pursuant to article 66(1) TRIPS to reduce their existing level of protection.
+
+Leaving aside these possible solutions for better coordinating IPRs and development, in the end the question
+remains whether the level of protection existing today, which unlike in the past is universally high, represents a historical
+injustice (Chang, 2001, pp. 31 et sequentes; Chaudhuri, 2009, p. 289). Critics invoke the German economist Friedrich List,
+who in 1841 wrote: “It is a very common clever device that when anyone has attained the summit of greatness, he kicks
+away the ladder by which he has climbed up, in order to deprive others of the means of climbing up after him”. (List, 1841:
+
+PEUKERT
+
+| 17
+
+371, cited in Chang (2002)). As demonstrated above, IPRs are not the ladder which helps one to reach the technological
+summit, but rather a means to secure the head-start one has already gained on those who joined the race late. The
+technologically leading nations in Europe and North America must take all the more care not to fall behind: for if they do,
+the spirits they themselves have conjured up will not be inclined to let them take the lead again (on the growing
+importance of China and other Asian countries also in the context of the IP system see Llewelyn (2010)).
+
+ABOUT THE AUTHOR
+
+Alexander Peukert, born in 1973, studied law and obtained his Dr. iur. (s.c.l.) at the University of Freiburg (1993–9).
+After his second state examination (2001), he practiced law in a Berlin law firm specializing in copyright and media law.
+From 2002 to 2009, he was senior research fellow and head of the US department at the Max Planck Institute for
+Intellectual Property and Competition Law in Munich. In 2008, he was awarded the qualification of university lecturer
+(Habilitation) by Ludwig Maximilians University, Munich. After refusing offers for professorships at the Universities of
+Bonn, Siegen and Linz, Austria, he has since 2009 been professor of civil law and commercial law with a specific focus
+on international intellectual property law at Goethe University Frankfurt am Main, Cluster of Excellence “The
+Formation of Normative Orders”. His main research interest is in intellectual property and unfair competition law. He
+teaches international IP law at the universities of Strasbourg (Intellectual Property Law and Management) and Lyon III
+(LL.M. International and European Business Law); email: a.peukert@jur.uni-frankfurt.de
+
+ENDNOTES
+1 See UN Resolution 69/181, The right to development, 18 December 2014, preamble no. 1.
+2 See UN Resolution 65/1, Keeping the promise: united to achieve the Millennium Development Goals, 19 October 2010,
+paragraph 3, 43; Joint statement by the Council and the representatives of the governments of the Member States meeting
+within the Council, the European Parliament and the Commission on European Union Development Policy: “The European
+Consensus”, OJ C 46/1, 24 February 2006, paragraph 5, 7.
+
+3 Trade-Related Aspects of Intellectual Property Rights, annexure 1C of the Marrakesh Agreement Establishing the World
+
+Trade Organization, signed in Marrakesh, Morocco on 15 April 1994.
+
+4 Truman’s Inaugural Address (20 January 1949) available online at: www.trumanlibrary.org/whistlestop/50yr_archive/
+inagural20jan1949.htm [accessed on 9 November 2015] (“Greater production is the key to prosperity and peace. And the
+key to greater production is a wider and more vigorous application of modern scientific and technical knowledge”.); see also
+United Nations, Measures for the economic development of under-developed countries (1951), pp. 28 et sequentes.
+
+5 See Washington Declaration on Intellectual Property and the Public Interest (25–27 August 2011), available online at:
+
+http://infojustice.org/wp-content/uploads/2011/09/Washington-Declaration.pdf [accessed on 9 November 2015].
+
+6 Recital 1 s. 3 European Parliament and Council Directive 2004/48 of 29 April 2004 on the enforcement of intellectual
+property rights, O.J. L 157, pp. 45–86; CJEU Huawei Technologies (C-170/13) [2015], paragraphs 57–58 (need for a high
+level of protection for intellectual-property rights).
+
+7 Communication from the European Commission, A Single Market for Intellectual Property Rights. Boosting creativity and
+innovation to provide economic growth, high quality jobs and first class products and services in Europe, COM (2011) 287
+final, p. 4.
+
+8 European Commission, Green Paper EU development policy in support of inclusive growth and sustainable development.
+
+Increasing the impact of EU development policy, COM (2010) 629 final, p. 15.
+
+9 G8 Camp David Declaration, paragraph 9, available online at: https://www.g7germany.de/Content/DE/_Anlagen/
+G8_G20/g8-camp-david-eng.pdf?__blob=publicationFile&v=2 [accessed on 9 November 2015]; for US law see Golan v.
+Holder 132 S. Ct. 873 [2012].
+
+10 See article 2 Paris Convention for the Protection of Industrial Property (PC), article 5 Berne Convention for the Protection
+
+of Literary and Artistic Works (BC).
+
+11 See infra.
+12 Article 31(1) BC; see also artcile 24 PC, artcile XIII Universal Copyright Convention, article 27(1) Rome Convention for the
+Protection of Performers, Producers of Phonograms and Broadcasting Organizations; article 16bis(1)-(2) Paris Convention,
+London Act of 1934 and Lisbon Act of 1958.
+
+18 |
+
+PEUKERT
+
+13 Article 3 i, 4 i Convention Establishing the World Intellectual Property Organization of 14 July 1967.
+14 These are the Portuguese colonies Angola and Mozambique, the French colony Djibouti in East Africa and the British
+colonies Burma and Solomon Islands in Asia. Sources: List of contracting parties, available online at: www.wipo.int/treaties/
+en/ [accessed on 9 November 2015] and also www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm [accessed on 9
+November 2015]; further the information concerning the status of national legislation on intellectual property rights,
+available online at: www.wipo.int/wipolex/en/ [accessed on 9 November 2015] and http://copyright-watch.org/
+[accessed on 9 November 2015].
+
+15 See article 21 BC and appendix BC.
+16 See recital and article 50 Patent Cooperation Treaty (PCT).
+17 Recital 2 Marrakesh Agreement Establishing the World Trade Organization.
+18 See article 15 Agreement on Agriculture, 12 Agreement on Technical Barriers to Trade (TBT), 27 Agreement on Subsidies
+and Countervailing Measures; 4 Agreement on Trade-Related Investment Measures, 15 Agreement on Implementation of
+Article VI of the General Agreement on Tariffs and Trade 1994 (Anti-dumping), IV General Agreement on Trade in Services
+(GATS).
+
+19 See article 65, 66.1 TRIPS.
+20 Article 66.2, 67 TRIPS.
+21 Article 15(1)(c) WIPO Copyright Treaty (WCT), 24(1)(c) WIPO Performances and Phonograms Treaty (WPPT).
+22 UN Resolution 55/2, United Nations Millennium Declaration, 8 September 2000, paragraph 20.
+23 UN Resolution 68/220, Science, technology and innovation for development, 20 December 2013, paragraph 4; UN
+Resolution 69/235, Industrial development cooperation, 19 December 2014, preamble (“Underscoring the importance of
+using science, technology and innovation to . . . achieve inclusive and sustainable industrial development”); UN Resolution
+69/204, Information and communications technologies for development, 19 December 2014 (“freedom of expression and
+the free flow of information,
+ideas and knowledge are essential for the information society and are beneficial to
+development”).
+
+24 UN Resolution 68/220, Science, technology and innovation for development, 20 December 2013, preamble.
+25 See goal no. 9, Draft outcome document of the United Nations summit for the adoption of the post-2015 development
+
+agenda, Transforming our world: the 2030 Agenda for Sustainable Development, 12 August 2015, A/69/L.85.
+
+26 WTO Ministerial Declaration, 14 November 2001, WT/MIN(01)/DEC/1, paragraphs 2, 17.
+27 WTO Ministerial Declaration, Declaration on the TRIPS Agreement and Public Health, 14 November 2001, WT/MIN(01)/
+
+DEC/2.
+
+28 Council for TRIPS, IP/C/25, 1 July 2002.
+29 WTO General Council, Implementation of paragraph 6 of the Doha Declaration on the TRIPS Agreement and public health,
+
+1 September 2003, WT/L/540.
+
+30 WTO General Council, WT/L/641, 8 December 2005; Ministerial Declaration, Doha Work Programme, 22
+
+December 2005, WT/MIN(05)/DEC.
+
+31 Available online at: www.wto.org/english/tratop_e/trips_e/amendment_e.htm [accessed on 9 November 2015].
+32 See https://www.wto.org/english/tratop_e/trips_e/public_health_notif_export_e.htm [accessed on 9 November 2015].
+33 Decision of Council for TRIPS, Extension of the Transition Period Under Article 66.1 for Least-Developed Country
+
+Members, 29 November 2005, IP/C/40, paragraph 1.
+
+34 Decision of the Council for TRIPS (n 36), paragraph 5; see also Decision of the Council for TRIPS, Extension of the Transition
+
+Period Under Article 66.1 for Least Developed Country Members, 11 June 2013, IP/C/64, paragraph 2.
+
+35 See preamble no. 2, Convention Establishing the World Intellectual Property Organization, signed at Stockholm on 14
+
+July 1967 and as amended on 28 September 1979.
+
+36 Proposal by Argentina and Brazil for the Establishment of a Development Agenda for WIPO, 27 August 2004, WIPO
+
+Document WO/GA/31/11.
+
+37 Available online at: www.wipo.int/ip-development/en/agenda/ [accessed on 9 November 2015].
+38 The 45 Adopted Recommendations under the WIPO Development Agenda, available online at: www.wipo.int/ip-
+
+development/en/agenda/recommendations.html [accessed on 9 November 2015].
+
+39 See European Parliament rejects ACTA, 4 July 2012, available online at http://www.europarl.europa.eu/news/en/news-
+
+room/content/20120703IPR48247/html/European-Parliament-rejects-ACTA [accessed on 9 November 2015].
+
+PEUKERT
+
+| 19
+
+40 Article 208(1) Treaty on the Functioning of the European Union, OJ C 326/1 of 26 October 2012; see also “The European
+
+Consensus” (n 2), paragraph 9.
+
+41 European Commission, Policy Coherence for Development. Accelerating progress toward attaining the Millennium
+
+Development Goals, 12 April 2005, COM (2005) 134 final.
+
+42 European Commission, EU 2013 Report on Policy Coherence for Development, 31 October 2013, SWD (2013) 456 final,
+
+pp. 64–66.
+
+43 European Commission, A Single Market for Intellectual Property Rights. Boosting creativity and innovation to provide
+economic growth, high quality jobs and first class products and services in Europe, 24 May 2011, COM (2011) 287
+final, p. 6.
+44 Ibid., p. 20.
+45 See article 131(2), 139, 151 et sequentes Economic Partnership Agreement between the CARIFORUM States, of the one
+
+part, and the European Community and its Member States, of the other part, OJ L 289/I/3 of 30 October 2008.
+
+46 See WTO TRIPS-Council, “Communication from Senegal”, 27 June 2011, IP/C/W/555.
+47 Cf. UN Resolution 60/157, The right to development, 16 December 2005, no. 18 with UN Resolution 69/181, The right to
+
+development, 18 December 2014, no. 26.
+
+48 Donaldson v. Becket [1774] Hansard, 1st ser., 17 (1774), 953, 1,000, also available in Bently and Kretschmer; German
+Federal Constitutional Court, case 1 BvR 1143/90, 29 July 1998 (1999) GRUR, 226 (broad access to governmental
+publication for a small fee).
+
+49 See also article 5A PC.
+50 Section 9 Patent Act of 1836, Ch. 357, 5 Stat. 117, 4.7.1836.
+51 See Golan v. Holder [2012] 132 S.Ct. 873, 879.
+52 Golan v. Holder [2012] 132 S.Ct. 873, 879.
+53 See article 3, 27.1, 66.1 TRIPS; article 2 et sequentes PC; article 5 BC.
+54 Cf. CJEU Huawei Technologies (C-170/13) [2015], paragraph 62 and Opinion of Mr Advocate General Wathelet Huawei
+Technologies (C-170/13), 20 November 2014, paragraph 81 (more than 4.700 patents have been notified to the European
+Telecommunications Standards Institute as essential for the “Long-Term Evolution (LTE)” standard, and “a large proportion
+of those may not be valid or essential to the standard”).
+
+55 UN Resolution 69/181, The right to development, 18 December 2014, preamble.
+56 See www.wipo.int/copyright/en/limitations/index.html [accessed on 9 November 2015]; Treaty on Access to Knowledge
+
+(2005), available online at: www.cptech.org/a2k/a2k_treaty_may9.pdf [accessed on 9 November 2015].
+
+57 Available online at: http://healthimpactfund.org/
+58 UN-Resolution 65/277, Political Declaration on HIV/AIDS: Intensifying our Efforts to Eliminate HIV/AIDS, 10 June 2011,
+
+paragraphs 35, 71(a) and (b), 72.
+
+59 UN-Resolution (n 2), paragraph 36.
+
+REFERENCES
+
+Adusei, P. (2013). Patenting of pharmaceuticals and development in sub-Saharan Africa. Berlin: Springer-Verlag.
+
+Bartley Johns, M., Brenton, P., Cali, M., Hoppe, M., & Piermartini, R. (2015). The role of trade in ending poverty [online], World
+Trade Organization, Geneva. Available online at: http://documents.worldbank.org/curated/en/2015/06/24708511/
+role-trade-ending-poverty [Accessed on 9 November 2015].
+
+Beattie, P. M. (2007). The (intellectual property law and) economics of innocent fraud − the IP and development debate.
+
+International Review of Intellectual Property and Competition Law, 48(1), 6–30.
+
+Beier, F.-K. (1979). Die Bedeutung des Patentschutzes für den technischen, wirtschaftlichen und sozialen Fortschritt.
+
+Gewerblicher Rechtsschutz und Urheberrecht International, 28(5), 227–235.
+
+Bently, L. (2011). The ‘extraordinary multiplicity’ of intellectual property laws in the British colonies in the Nineteenth century.
+
+Theoretical Inquiries in Law, 12(1), 161–200.
+
+Bently, L., & Kretschmer, M., Primary Sources on Copyright (1450–1900) [online]. Available online at: http://www.
+
+copyrighthistory.org/cam/index.php [Accessed on 9 November 2015].
+
+Berman, G. A., & Mavroidis, P. C. (Eds.). (2007). WTO law and developing countries (1st ed.). Cambridge, MA: Cambridge
+
+University Press.
+
+20 |
+
+PEUKERT
+
+Bessen, J., & Meurer, M. J. (2008). Patent failure. Princeton, NJ: Princeton University Press.
+
+Boldrin, M., & Levine, D. K. (2008). Against intellectual monopoly. Cambridge, MA: Cambridge University Press.
+
+Branstetter, L., Foley, C. F., & Saggi, K.(2010). Has the Shift to Stronger Intellectual Property Rights Promoted Technology
+
+Transfer, FDI, and Industrial Development? WIPO Journal, 2(1), 93–98.
+
+Canavire, G., Saravia, A., & Rios-Avila, F. (2012) Intellectual property rights, foreign direct investment and the shadow economy
+[online]. Available online at: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2647096 [Accessed on 9
+November 2015].
+
+Chagla, S. (1967). Address. In Indian Copyright Office (Ed.), International copyright. Needs of developing countries (p. x). New
+
+Delhi: Ministry of Education, Copyright Office.
+
+Chang, H. (2001). Intellectual property rights and economic development − historical lessons and emerging issues. Penang: Third
+
+World Network, Intellectual Property Rights Series 3.
+
+Chang, H. (2002). Kicking away the ladder: Development strategy in historical perspective. London: Anthem Press.
+
+Chang, H. (2010). Institutions and economic development: Theory, policy and history. Journal of Institutional Economics, 7(4),
+
+473–498.
+
+Chaudhuri, S. (2009). Is product patent protection necessary to spur innovation in developing countries? In N. W. Netanel
+
+(Ed.), The development agenda (pp. 265–288). Oxford: Oxford University Press.
+
+Cimoli, M., Dosi, G., & Stiglitz, J. E. (2009). The political economy of capabilities accumulation. In M. Cimoli, G. Dosi, & J. E.
+
+Stiglitz (Eds.), Industrial policy and development (pp. 1–24). New York: Oxford University Press.
+
+Claessens, F. (2009). Intellectual property and developing countries. Nijmegen: Wolf Legal Publishers.
+
+Commission on Intellectual Property Rights. (2002). Integrating Intellectual Property Rights and Development Policy [online].
+Available online at: www.iprcommission.org/papers/pdfs/final_report/ciprfullfinal.pdf [Accessed on 9 November 2015].
+
+Comune, M., Naghavi, A., & Prarolo, G. (2012). Intellectual Property Rights and South-North Formation of Global Innovation
+Networks [online]. Quaderni − Working Paper DSE No. 764. Available online at: http://ssrn.com/abstract=1873264
+[Accessed on 9 November 2015].
+
+Cottier, T. (2006). From progressive liberalization to progressive regulation in WTO law. Journal of International Economic Law,
+
+9(4), 779–821.
+
+de Beer, J., Sowa, I., & Holman, K. (2014). Frameworks for analysing African innovation: Entrepreneurship, the informal
+economy and intellectual property. In J. de Beer, C. Armstrong, C. Oguamanam, & T. Schonwetter (Eds.), Innovation &
+intellectual property. Collaborative dynamics in Africa (pp. 32–58). Cape Town: UCT Press.
+
+Deere Birkbeck, C., & Roca, S. (2011). An External Review of WIPO Technical Assistance in the Area of Cooperation for
+Development [online]. World Intellectual Property Organization. Available online at: www.wipo.int/edocs/mdocs/mdocs/
+en/cdip_8/cdip_8_inf_1-annex1.pdf [Accessed on 9 November 2015].
+
+Drahos, P., & Braithwaite, J.(2002). Information feudalism: Who owns the knowledge economy? London: Routledge.
+
+Dreier, T. (2001). Primär-und Folgemärkte. In G. Schricker, T. Dreier, & A. Kur (Eds.), Geistiges Eigentum im Dienst der Innovation
+
+(pp. 51–81). Baden-Baden: Nomos Verlag.
+
+Dutfield, G. (2008). Delivering drugs to the poor: Will the TRIPS amendment help? American Journal of Law & Medicine, 34(2–
+
+3), 107–124.
+
+Eberhardt, M., Helmers, C., & Yu, Z. (2011). Is the Dragon Learning to Fly? An Analysis of the Chinese Patent Explosion [online].
+CSAE Working Paper WPS/2011-15. Available online at: http://www.csae.ox.ac.uk/workingpapers/pdfs/csae-wps-
+2011-15.pdf [Accessed on 9 November 2015].
+
+European Commission. (2009). Executive Summary of the Pharmaceutical Sector Inquiry Report [online]. European Commission.
+[Accessed on 9
+
+Available online at: http://ec.europa.eu/competition/sectors/pharmaceuticals/inquiry/index.html
+November 2015].
+
+Fisher III, W., & Rigamonti, C. P. (2005). The South Africa AIDS Controversy. A Case Study in Patent Law and Policy [online].
+Harvard University. Available online at: http://cyber.law.harvard.edu/people/tfisher/South%20Africa.pdf [Accessed on 9
+November 2015].
+
+Ganea, P., & Haijun, J. (2009). China. In P. Goldstein & J. Straus (Eds.), Intellectual property in Asia (pp. 34–54). Berlin: Springer.
+Ganea, P., & Nagaoka, S. (2009). Japan. In P. Goldstein & J. Straus (Eds.), Intellectual property in Asia (pp. 129–54). Berlin:
+
+Springer.
+
+Gangopadhyay, K., & Mondal, D. (2012). Does stronger protection of intellectual property stimulate innovation? Economic
+
+Letters, 116(1), 80–82.
+
+PEUKERT
+
+| 21
+
+Gerschenkron, A. (1962/1979). Economic backwardness in historical perspective. Cambridge, MA: Belknap Press.
+Gervais, D. (2014). IP calibration. In D. Gervais (Ed.), Intellectual property, trade, and development (2nd ed., pp. 86–114). Oxford:
+
+Oxford University Press.
+
+Ghidini, G. (2014). On TRIPS’ impact on ‘least developed countries’: The effects of a ‘double standards’ approach. In G. Ghidini,
+R. J. R. Peritz, & M. Ricolfi (Eds.), TRIPS and developing countries. Towards a new IP world order? (pp. 132–141). Cheltenham:
+Edward Elgar Publishing.
+
+Greenhalgh, C., & Rogers, M.(2010). Innovation, intellectual property, and economic growth. Princeton, NJ: Princeton University
+
+Press.
+
+Grossman, G. M., & Lai, E. L.-C.(2004). International Protection of Intellectual Property. American Economic Review, 94(5),
+
+1635–1653.
+
+Halbert, D. (2011). The Politics of IP Maximalism. WIPO Journal, 3(1), 74–92.
+
+Hamilton, A. (1791/1901). Report on the subject of manufactures. Washington, DC: Department of the Treasury.
+
+Helfer, L. R. (2004). Regime shifting: The TRIPS agreement and new dynamics of international intellectual property lawmaking.
+
+Yale Journal of International Law, 29, 1–83.
+
+Hesse, C. (2002). The rise of intellectual property, 700 B.C.-A.D. 2000: An idea in the balance. Daedalus, 131(2), 26–45.
+Hofmeister, H. (1987). Bemerkungen zur Geschichte des österreichischen Urheberrechts. Ufita, 106, 173–187.
+
+Hugenholtz, P. B., & Okediji, R. L. (2009). Contours of an international instrument on limitations and exceptions. In N. W.
+
+Netanel (Ed.), The development agenda (pp. 473–497). New York: Oxford University Press.
+
+International Bank for Reconstruction and Development/The World Bank. (1990). World Development Report.
+
+International Chamber of Commerce. (2005). Intellectual Property: Source of innovation, creativity, growth and progress [online].
+Available online at: http://www.iccwbo.org/advocacy-codes-and-rules/bascap/value-of-ip/innovation,-creativity,-
+growth-and-progress/ [Accessed on 9 November 2015].
+
+International Labour Office. (1976). Employment, Growth and Basic Needs: A One-World Problem.
+
+Islam, M. T. (2010). TRIPS agreement and economic development: implications and challenges for least-developed countries
+like Bangladesh. Nordic Journal of Commercial Law [online], 8(2), 1–48. Available online at: http://ssrn.com/
+abstract=1745450 [Accessed on 9 November 2015].
+
+Johnson, C. F. (1970). The origins of the Stockholm protocol. Bulletin of the Copyright Society of the USA, 18(2), 91–181.
+
+Karaganis, J. (2011). Media piracy in emerging economies. New York: Social Science Research Council.
+
+Khan, Z., & Sokoloff, K. L. (2009). Historical perspectives on patent systems in economic development. In N. W. Netanel (Ed.),
+
+The development agenda (pp. 215–243). New York: Oxford University Press.
+
+Kongolo, T. (2013). Historical developments of industrial property laws in Africa. WIPO Journal, 5(1), 105–117.
+Kongolo, T. (2014). Historical evolution of copyright legislation in Africa. WIPO Journal, 5(2), 163–175.
+
+Kur, A., & Levin, M. (2011). Intellectual property rights in a fair world trade system. Cheltenham: Edward Elgar.
+
+Kurz, P. (2000). Weltgeschichte des Erfindungsschutzes. Köln: Carl Heymanns Verlag.
+
+Landes, W. M., & Posner, R. A. (2003). The economic structure of intellectual property law. Cambridge, MA: Belknap Press.
+Lazar, A. H. (1969). Developing countries and authors’ rights in international copyright. Copyright Law Symposium, 19, 1–42.
+
+Lee, K., & Kim, Y. K. (2010). IPR and technological catch-up in Korea. In H. Odagiri, A. Goto, A. Sunami, & R. Nelson (Eds.),
+
+Intellectual property rights, development, and catch-up (pp. 133–62). Oxford: Oxford University Press.
+
+Lepenies, P. H. (2008). An inquiry into the roots of the modern concept of development. Contributions to the History of
+
+Concepts, 4(2), 202–225.
+
+Lerner, J. (2000). 150 Years of Patent Protection [online]. NBER Working Paper Series No. 7478. Available online at: http://
+
+ssrn.com/abstract=179188 [Accessed on 9 November 2015].
+
+Lewinski, S. v. (2008). International copyright law and policy. Oxford: Oxford University Press.
+List, F. (1841). Das Nationale System der politischen Ökonomie. Stuttgart: J.G. Cotta’scher Verlag.
+
+Llewelyn, D. (2010). Invisible gold in Asia. Singapore: Marshall Cavendish Business.
+
+Lüders, E. (1914). Die Anwendung des deutschen Urheber-und Erfinderrechts in den Schutzgebieten. Hamburg: Gräfe & Sillem
+
+[Komm.].
+
+Machlup, F. (1958). An economic review of the patent system. Washington, D.C.: US Government Printing Office.
+
+22 |
+
+PEUKERT
+
+MacLeod, C., & Nuvolari, A. (2010). Patents and Industrialization. An Historical Overview of the British Case, 1624–1907 [online].
+Intellectual Property Office. Available online at: http://www.lem.sssup.it/WPLem/files/2010-04.pdf [Accessed on 27
+March 2017].
+
+Malmström, C. (2015). The way ahead for the EU-Cariforum Economic Partnership Agreement, 16 July 2015 [online]. Available
+
+online at: http://trade.ec.europa.eu/doclib/docs/2015/july/tradoc_153649.pdf [Accessed on 9 November 2015].
+
+Mann, R. J., & Underweiser, M. (2010). A New Look at Patent Quality: Relating Patent Prosecution to Validity [online]. Columbia
+Law and Economics Working Paper No. 381. Available online at http://ssrn.com/abstract=1671784 [Accessed on 9
+November 2015].
+
+Maskus, K. (2008). Incorporating a globalized intellectual property rights regime into an economic development strategy. In K.
+
+Maskus (Ed.), Intellectual property, growth and trade (vol. 2, pp. 497–524). Amsterdam: Elsevier.
+
+Masouyé, C. (1962). Decolonization, independence and copyright. Revue International du Droit d’Auteur, 36, 85–145.
+
+Merges, R. P. (2011). Justifying intellectual property. Cambridge, MA: Harvard University Press.
+
+Michaels, A. C. (2009). International technology transfer and TRIPS article 66.2: Can global administrative law help least-
+
+developed countries get what they bargained for? Georgetown Journal of International Law, 41(1), 223–261.
+
+Moser, P. (2005). How do patent laws influence innovation? Evidence from nineteenth-century world’s fairs. The American
+
+Economic Review, 95(4), 1214–1236.
+
+Moser, P. (2013). Patents and innovation − evidence from economic history. Journal of Economic Perspectives, 27(1), 23–44.
+
+Moser, P., Bilir, K., & Talis, I. (2011). Do Treaties Encourage Technology Transfer? Evidence from the Paris Convention [online].
+
+Available online at http://ssrn.com/abstract=1893052 [Accessed on 9 November 2015].
+
+Mowery, D. (2010). IPR and US economic catch-up. In H. Odagiri, A. Goto, A. Sunami, & R. Nelson (Eds.), Intellectual property
+
+rights, development, and catch-up (pp. 31–62). Oxford: Oxford University Press.
+Myrdal, G. (1974). What is development? Journal of Economic Issues, 8(4), 729–736.
+
+Nandkumar, A., & Srikanth, K. (2011). Patently different? How does the strength of patents influence globalization of R&D?
+Empirical evidence from the 2004 Indian Patent Reforms [online]. Available online at: http://ssrn.com/abstract=1885246
+[Accessed on 9 November 2015].
+
+National Science Foundation, National Science Board. (2014). Gross expenditures for R&D and expenditures for R&D as share of
+gross domestic product, for selected countries: 1981–2011 [online], in: Science and Engineering Indicators 2014, Chapter 4,
+Appendix Table 4–13. Available online at: http://www.nsf.gov/statistics/seind14/content/chapter-4/at04-13.pdf
+[Accessed on 9 November 2015].
+
+Netanel, N. W. (2009). Introduction. In N. W. Netanel (Ed.), The development agenda (pp. 1–32). New York: Oxford University
+
+Press.
+
+Odagiri, H., Goto, A., & Sunami, A. (2010). IPR and catch-up process in Japan. In H. Odagiri, A. Goto, A. Sunami, & R. Nelson
+
+(Eds.), Intellectual property rights, development, and catch-up (pp. 95–132). Oxford: Oxford University Press.
+
+Odagiri, H., Goto, A., Sunami, A., & Nelson, R. (2010a). Conclusion. In H. Odagiri, A. Goto, A. Sunami, & R. Nelson (Eds.),
+
+Intellectual property rights, development, and catch-up (pp. 412–430). Oxford: Oxford University Press.
+
+Odagiri, H., Goto, A., Sunami, A., & Nelson, R. (2010b). Introduction. In H. Odagiri, A. Goto, A. Sunami, & R. Nelson (Eds.),
+
+Intellectual property rights, development, and catch-up (pp. 1–30), Oxford: Oxford University Press.
+
+Okediji, R. L. (2003). The international relations of intellectual property: Narratives of developing country participation in the
+
+global intellectual property system. Singapore Journal of International & Comparative Law, 7(2), 315–385.
+
+Olian Jr., I. A. (1974). International copyright and the needs of developing countries. Cornell International Law Journal, 7(2),
+
+81–112.
+
+Olwan, R. M. (2013). Intellectual property and development: theory and practice. Berlin: Springer Verlag.
+
+Ostergard Jr., R. L. (2014). Economic growth and intellectual property rights protection: A reassessment of the conventional
+wisdom. In D. J. Gervais (Ed.), Intellectual property, trade, and development (2nd ed., pp. 3–40). Oxford: Oxford University
+Press.
+
+Pager, S. A. (2012). Accentuating the positive: Building capacity for creative industries into the development agenda for global
+
+intellectual property law. American University International Law Review, 28(1), 223–294.
+
+Park, W. G. (2008). Intellectual property rights and international innovation. In K. E. Maskus (Ed.), Intellectual property, growth
+
+and trade (vol. 2, pp. 289–327). Amsterdam: Elsevier.
+
+Patry, W. (2003). The United States and International Copyright Law. Houston Law Review, 40(3), 749–762.
+
+PEUKERT
+
+| 23
+
+Payne, A., & Phillips, N. (2010). Development. Cambridge, MA: Polity Press.
+
+Pederson, R. (2014). Progress on the implementation of the WIPO development agenda: Coordination, core development
+
+programs and budget allocations. WIPO Journal, 5(2), 189–203.
+
+Peukert, A. (2011). Intellectual property as an end in itself? European Intellectual Property Review, 33, 67–71.
+
+Peukert A. (2012). The Colonial Legacy of the International Copyright System [online]. Available online at: http://papers.ssrn.
+
+com/sol3/papers.cfm?abstract_id=2057796 [Accessed on 9 November 2015].
+
+Qian, Y. (2009). Are national patent laws the blossoming rains? In N. W. Netanel (Ed.), The development agenda (pp. 191–213).
+
+New York: Oxford University Press.
+
+Ricketson, S., & Ginsburg, J. C. (2006). International copyright and neighbouring rights (vol. II). Oxford: Oxford University Press.
+
+Rodríguez-Clare, A. (2005) Innovation and Technology Adoption in Central America [online]. Inter-American Development Bank,
+Working Paper No. 525. Available online at: http://www.iadb.org/res/publications/pubfiles/pubwp-525.pdf [Accessed
+on 9 November 2015].
+
+Rostow, W. W. (1987). The stages of economic growth (2nd ed.). Cambridge, MA: Cambridge University Press.
+
+Saikia, M. (2015). Impact of the TRIPs agreement on the Indian pharmaceutical industry: An assessment from 1995 to 2011-
+
+12. European Intellectual Property Review, 37(8), 515–522.
+
+Schiff, E. (1971). Industrialization without national patents. Princeton, NJ: Princeton University Press.
+Sell, S. K. (2011). Everything old is new again: The development agenda then and now. WIPO Journal, 3(1), 17–23.
+
+Seville, C. (2006). The internationalisation of copyright law. Cambridge, MA: Cambridge University Press.
+
+Spinello, R. A., & Bottis, M. (2009). A defense of intellectual property rights. Cheltenham: Edward Elgar Publishing.
+
+Straus, J. (2012). A marriage of convenience: World economy and intellectual property from 1990 to 2012. AIPLA Quarterly
+
+Journal, 40(4), 633–683.
+
+Straus, J., & Klunker, N. S.
+
+(2007). Harmonisierung des internationalen Patentrechts. Gewerblicher Rechtsschutz und
+
+Urheberrecht International, 56(2), 91–104.
+
+Tarde, G. (1962) [1890]. The laws of imitation. New York: Henry Holt and Company.
+
+Turk, M. C. (2010). Bargaining and intellectual property treaties: The case for a pro-development interpretation of TRIPS but
+
+not TRIPS-plus. NYU Journal of International Law and Politics, 42(3), 981–1029.
+
+van Dijck, P., & Faber, G. (2006). Developing countries and the doha development agenda of the WTO. London: Routledge.
+
+van Genugten, W., & Meijknecht, A. (Eds.) (2011). Harnessing intellectual property rights for development objectives. The double
+
+role of IPRs in the context of facilitating MDGs nos. 1 and 6. Nijmegen: Wolf Legal Publishers.
+
+United Nations.
+
+(2011). The Millennium Development Goals Report [online]. Available online at: http://www.un.org/
+
+millenniumgoals/pdf/(2011_E)%20MDG%20Report%202011_Book%20LR.pdf [Accessed on 9 November 2015].
+
+Waziri, K. M. (2011). The Legal Regime of Patents and Designs Law and Its Effect on National Development [online]. Available
+
+online at: http://ssrn.com/abstract=1875725 [Accessed on 9 November 2015].
+
+Williamson, J. (1990/2002). What Washington Means by Policy Reform [online]. Available online at: www.iie.com/publications/
+
+papers/paper.cfm?ResearchID=486 Speeches and Papers [Accessed on 9 November 2015].
+
+World Intellectual Property Organization. (2014). World Intellectual Property Indicators [online]. Available online at: http://
+
+www.wipo.int/edocs/pubdocs/en/wipo_pub_941_2014.pdf [Accessed on 9 November 2015].
+
+World Trade Organization. (2010). ‘Report of the Working Group on Trade and Transfer of Technology to the General
+
+Council’, WT/WGTTT/12.
+
+How to cite this article: Peukert A. Intellectual property and development—narratives and their empirical
+validity. J World Intellect Prop. 2017;20:2–23. https://doi.org/10.1111/jwip.12072
+
+

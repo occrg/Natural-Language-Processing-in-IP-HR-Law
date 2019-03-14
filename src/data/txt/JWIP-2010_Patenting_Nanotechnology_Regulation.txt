@@ -1,0 +1,1752 @@
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1, pp. 47–76
+
+doi: 10.1111/j.1747-1796.2009.00388.x
+
+Patenting Nanotechnology in Europe:
+Making a Good Start? An Analysis of Issues
+in Law and Regulation
+
+Maurice Schellekens
+Tilburg University
+
+Nanotechnology is the technology that concerns itself with the smallest units of matter and
+promises manipulation of matter on the level of individual molecules. It is expected that
+vastly improved quality of many kinds of products will be the result. The patenting of
+nanotech inventions is well under way in Europe, but going down to the most elemental level
+raises new and important questions. For example, how does patenting at the nano level relate
+to similar technology on the super-nano level? Also fundamental questions can be asked, such
+as: should matter at all be patentable at the most elemental level? This article seeks to give a
+ﬁrst overview of questions of law and regulation concerning the patentability of inventions in
+the ﬁeld of nanotechnology under the European Patent Convention.
+
+Keywords Europe; nanotechnology; patentability
+
+Nanotechnology—the technology of the smallest objects—is slowly but surely
+progressing. The ﬁrst products making use of nanotechnology are appearing on
+the market, among others tennis racquets, ski wax and sun cream (The Project on
+Emerging Technologies, 2009). Many developments are, however, still
+in the
+laboratory stage. Although many developments have some way to go before
+abutting into marketable products, the patenting of nanotechnology is well under
+way. Using a wide deﬁnition of nanotechnology, the European Patent Ofﬁce (EPO)
+identiﬁed about 108,000 patent documents relating to inventions in the ﬁeld of
+nanotechnology (Kallinger, 2007). Nanotechnology is a relevant development in
+patent law. Hitherto, European academic literature has given hardly any attention
+to the patenting of nanotechnology. This is remarkable in view of the fact that
+nanotechnology raises new and important questions of law, as well as questions
+relevant for the development of the nanotechnology industry in Europe.
+
+Patenting at the molecular level raises questions about the ‘‘ownership’’ of
+matter at the molecular level. Is a composition of matter at the molecular level
+different from matter at macro level and thus basically patentable ‘‘again’’? Should
+the most basic substances be the ‘‘property’’ of anybody? Apart from these
+fundamental questions, there is the question of how to patent nanotechnology.
+Should the patent ofﬁce and courts steer towards broad or narrow patents in the
+ﬁeld of nanotechnology? Should the patent ofﬁce and courts attribute extra
+attention to the way nanotech patents are being disclosed? The answers to such
+questions may prove to be of eminent importance to the innovation in this ﬁeld.
+
+r 2009 Blackwell Publishing Ltd
+
+47
+
+Maurice Schellekens
+
+Patenting Nanotechnology in Europe
+
+Which inventors will get which rights? Should the patent ofﬁce grant broad rights to
+a few pioneering innovators or should the patent ofﬁce grant narrower patents both
+to pioneers and follow-on innovators (Barton, 1997; Scotchmer, 1996)? Is there a
+risk for a patent thicket through fragmentation of rights among many patentees or
+through overlapping rights?
+
+This article cannot deal in great depth with the panoply of questions raised by
+the patenting of nanotechnology (Tullis, 2008). In order to give a ﬁrst exploration of
+relevant questions, this article is structured as follows. After a short introduction
+into nanotechnology, the patentability of nanotechnology inventions will be
+discussed with reference to the requirements for patentability as found in the
+European Patent Convention (EPC). This analysis gives a ﬁrst impression of the
+possible discussion areas with respect to nanotechnology. The third section of the
+article addresses the relation between nanotechnology, patents and innovation. The
+fourth section will indicate some avenues for addressing the issues identiﬁed in the
+third section.
+
+What is Nanotechnology?
+
+A nanometre is one billionth of a metre. Nanotechnology is the technology that
+deals with the control of matter on a very small scale, typically less than 100 nm.
+This implies that manipulation of individual molecules and atoms comes within
+reach. A complete description of what nanotechnology is is not possible within the
+conﬁnes of this article. Therefore, a few examples of speciﬁc nanomaterials will be
+described hereinafter. In nanotechnology, there are a number of what have been
+called nanomaterial platforms (Lux Research, 2005). They can be seen as examples
+of building blocks of nanotechnology. Examples of nanomaterial platforms are,
+inter alia, carbon nanotubes (CNTs), buckyballs or fullerenes and quantum dots.
+Buckyballs and CNTs consist solely of carbon atoms that are arranged in
+pentagonal or hexagonal rings. These ‘‘pentagons’’ and ‘‘hexagons’’ form spherical
+(in case of buckyballs) or cylindrical (in case of CNTs) structures with a diameter of
+only a few nanometres. By functionalizing them they can be made ﬁt for certain
+applications. Functionalization of a platform material is the modiﬁcation of its
+basic structure or the addition to it of atoms that make the molecule suitable for
+speciﬁc purposes. Buckyballs can, for example, be functionalized for targeted drug
+delivery within the human body. A ‘‘medicine’’ is enclosed in the buckyball and the
+buckyball is functionalized in such a way that it releases the medicine only when
+certain exterior conditions are encountered. The obvious advantage is that only the
+part of the body where the medicine is needed receives it. Nanomaterials often have
+novel properties based on quantum effects, for example in the ﬁeld of heat and
+electric conductivity and strength. Because of their small scale they have a relatively
+large outer surface that allows for greater chemical reactivity. Applications of
+buckyballs and CNTs are in the ﬁelds of new materials, electrical engineering, for
+example, for making transistors and photovoltaic cells, and in medicine, as a vessel
+
+48
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+Patenting Nanotechnology in Europe
+
+Maurice Schellekens
+
+for drug delivery. Quantum dots are nanocrystals that function as electrical
+semiconductors and ﬁnd application in electrical engineering. Quantum dots can
+also be used as markers because of the ﬂuorescence they emit. They can be used as
+biomarkers that, for example, signal the presence of cancer cells. For a more
+complete and in-depth understanding of nanotechnology, the reader is referred to
+specialist literature. The following handbooks may be useful: Borisenko and
+Ossicini (2008), Pradeep (2007) and Schmid (2008).
+
+The EPO deﬁnes nanotechnology as follows:
+
+The term nanotechnology covers entities with a controlled geometrical
+size of at least one functional component below 100 nanometres in one
+or more dimensions susceptible to make physical, chemical or biological
+effects available which are intrinsic to that size. It covers equipment and
+methods for controlled analysis, manipulation, processing, fabrication
+or measurement with a precision below 100 nanometres (EPO, 2009).
+
+From the above, a number of characteristics of nanotechnology can be
+deduced. First of all, nanotechnology concerns the smallest objects. As said before,
+a nanometre is one billionth of a metre, or to put it differently: 100 nm is one ten-
+thousandth of a millimetre, or 500 times thinner than a human hair. The
+manipulation of matter on this level is not the prerogative of one single technolo-
+gical discipline. Nanotechnology is thoroughly interdisciplinary and its applications
+often are the result of a convergence of pre-existing technologies. Disciplines
+involved in nanotechnology are, inter alia, chemistry, physics, biology and electro-
+nics. New nanotechnological developments are often relevant across a number of
+industries.
+
+Going down to the nano scale is not just done in the interest of further
+miniaturization of devices. Materials at nano scale often display characteristics that
+fundamentally differ from those found in the ‘‘same’’ material at macro scale.
+Although certain quantum size effects have been known to exist for about a
+century, only now has it become possible to exploit them. It is a relatively recent
+development that, for example, CNTs can be made and that their extraordinary
+characteristics can be used. CNTs can, for example, carry much higher electrical
+currents than traditional metals at macroscopic level (Letham, 2005). Nanotech-
+nology holds the promise of novel products that constitute a leap forward compared
+with traditional products in terms of their characteristics.
+
+Nanotechnology is a technology that is in its infancy and is still very much the
+subject of fundamental research, much of which is performed by universities and
+research institutes (Sabety, 2005). In Europe, two-thirds of the research into
+nanotechnology is publicly funded, compared with only 45% in the United States
+(Hullmann, 2006, p. 15). This can be attributed to the huge private investment in the
+United States in nanotech research. The large investments in nanotech research are
+spurred on by great expectations about the beneﬁts that nanotechnology can yield.
+Yet, it has hitherto proven difﬁcult to translate theoretical results into marketable
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+49
+
+Maurice Schellekens
+
+Patenting Nanotechnology in Europe
+
+products. Only a few products have appeared on the market. In this respect, Europe
+is lagging behind the United States (European Commission, 2004, p. 7). As with
+many early technologies, there exists much uncertainty, not just about the technol-
+ogy and the direction technical developments will take, but also with respect to the
+regulatory context. This concerns not only patent law, but also and especially other
+domains of law, such as safety regulations. Because of its small scale, nanotechnol-
+ogy may pose new risks to health and the environment. For example, there are
+questions with respect to the toxicity of certain nanotechnological applications. At
+the same time, nanotechnology also does not readily ﬁt in with existing safety
+regulations. Safety regulations for cosmetics may, for example, not take into
+account that particles are so small that they can penetrate the skin. It is also
+unclear how the public will perceive products with nanomaterials. Will the public be
+concerned with the potential risks,
+just as has been the case with genetically
+modiﬁed organisms and nuclear energy? The new properties of nanomaterials,
+the potential risks and the complications of applying existing regulations create
+uncertainty and possibly a slowdown of innovation through longer lead times
+before products reach the market. The uncertainty and possible delays enlarge the
+costs of nanotechnological innovations and may thus enlarge the dependency of
+companies on their nanotech patent portfolio that must help them recoup these
+costs. Furthermore, the drag on the time to market makes it more difﬁcult to exploit
+a technological lead and, in turn, enlarges the dependency on patents.
+
+Despite the risks and uncertainties, the promise of nanotechnology has led
+some of the largest research and development companies in Europe to enter the
+nanotechnology arena, including Bayer, BASF, Carl Zeiss, Agfa-Gevaert, General
+Electrics and Philips. Among the research institutes the Fraunhoferinstitut is one of
+the larger centres in nanotechnology in Europe.
+
+In order to enhance access to the growing pool of nanotechnology patents in its
+patent database, the EPO has added a new tag in its patent classiﬁcation system:
+‘‘Y01N’’ for ‘‘Nanotechnology’’. The tag is actually a pointer towards existing
+subclasses that belong to several technology domains. Under the Y01N tag already
+about 108,000 documents have been classiﬁed (Kallinger, 2007; Scheu, 2004; 2005).
+The classiﬁcation is based on an expert evaluation of the patents and thus gives a
+rather accurate indication of the quantitative state of nanotechnology patenting. An
+alternative would have been to classify based on keywords, but this would have
+given rise to less precise results.
+
+Is Nanotechnology Patentable?
+
+Even though many patents on nanotechnological inventions have been granted,
+patenting of nanotechnology has its own problems and peculiarities. These will be
+discussed hereinafter when dealing with the requirements for the patentability of
+nanotechnology. The analysis of nanotechnology patenting is a necessary input to
+the more fundamental questions concerning the patenting of nanotechnology.
+
+50
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+Patenting Nanotechnology in Europe
+
+Maurice Schellekens
+
+Hereinafter, the three well-known requirements for patentability—novelty, inven-
+tive step and industrial applicability—are discussed. Sufﬁciency of disclosure—a
+requirement for patent applications—is dealt with as well. At the end of this section,
+it will be investigated whether the exceptions to patentable subject matter could be
+applicable to certain nanotechnological inventions.
+
+Novelty
+As is well known, an invention is novel if it is not part of the state of the art. Also,
+nanotechnology inventions must be new to be patentable. Since nanotechnology is
+mainly characterized by its size, a number of size-related questions arise: how do
+nano-scale inventions relate to prior art that does not speciﬁcally relate to a nano
+size? Could such prior art anticipate a nano-scale invention? Could prior art that
+refers to micro or larger scale defeat the novelty of a nano-scale invention? Is size
+alone enough to confer novelty upon an invention? What happens if size ranges
+mentioned in a prior art document and a nano-scale patent application overlap?
+
+An invention is only anticipated if it has been described completely—that is
+with all its elements—in the prior art. If the prior art refers only to the micro or
+larger scale, the nano-scale equivalent is generally not anticipated. In Orica
+Australia/BASF (T0547/99), the Technical Board of Appeal (TBA) addressed the
+issue of size. Orica’s patent concerned (addition polymer) particles of less than
+100 nm that because of their core-sheath structure can be stably dispersed in liquids.
+The ability to disperse very small particles is especially useful in the production of
+surface coatings: the smaller the particle size of the ﬁlm-former the better the
+penetration into porous substrates and the higher the gloss. BASF sought revoca-
+tion of the patent, inter alia, on the basis of lack of novelty. It adduced a prior US
+patent (D3) about dispersions for the preparation of high gloss coatings. The
+teachings of this patent were limited to a minimum particle size of 111 nm.1 The
+TBA found no implicit disclosure of particle sizes of between 10 and 100 nm and
+upheld Orica’s patent. This decision is, however, not completely decisive on the size
+issue: apart from size there was another essential feature of Orica’s patent, a
+polymerization initiation temperature of under 40 1C, needed for the preparation of
+the particles, that was also not disclosed in the prior art. Although the decision in
+Orica Australia/BASF is thus not completely conclusive on the issue of size, little or
+no problems are to be expected, if the ranges mentioned in a patent and the prior art
+are disjunctive. More interesting is the question what happens if there is an overlap
+between the ranges mentioned in a patent about a nano-scale invention and those
+mentioned in the existing prior art. The issue of overlapping ranges was addressed
+in Smithkline Beecham Biologicals/Wyeth (T552/00).2 The invention in this case
+concerned the adjuvant qualities of a lipid (3-O-deacylated monophosphoryl lipid A
+[3D-MPL]) in a vaccine. An adjuvant substance in a vaccine is in itself not effective,
+but if it is combined with an effective substance it reinforces the latter’s effective-
+ness. The adjuvant effect of 3D-MPL can, according to the patent, be improved by
+reducing its particle size. The patent in question describes experiments that
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+51
+
+Maurice Schellekens
+
+Patenting Nanotechnology in Europe
+
+empirically demonstrate the improvement in effectiveness at smaller particle sizes;
+the reason why this effect occurs is not given. The patent indicates a range for the
+particle size (60–120 nm) that partially overlaps with a range mentioned in prior art
+documents (80–500 nm). Did this prior art document destroy the novelty of the
+invention? The TBA formulated as its criterion whether a person skilled in the art
+would seriously contemplate applying the technical teaching of the prior art
+document in the range of overlap. The TBA found this not to be the case. It
+mentioned a number of circumstances that directed it to this ﬁnding: the overlap
+situates itself at an extremity of the ‘‘prior art’’ range and represents only 10% of
+this broad range; the prior art does not provide the person skilled in the art with any
+guidance for preparing particles with a speciﬁc size within the range; it does not
+indicate any preferred sub-range; applying the teachings of the prior art, the person
+skilled in the art would probably end up with particles with a mean size of 375 nm
+and he would know that the size distribution of the particles follows a Gauss-curve.
+For these reasons, the overlap was not considered novelty defeating. The circum-
+stances of this case do not seem to be unusual for situations of overlapping ranges
+and may therefore apply in many more cases.
+
+Another example is the decision in Celanese Acetate/Rhodia Acetow (T0006/02)
+about the degradable agent in cigarette ﬁlters (titanium dioxide).3 A prior document
+mentioned TiO2 particle size of 10–1,000 nm, whereas the patent under investiga-
+tion mentioned particle size of less than 100 nm. The TBA did not hold the overlap
+to be novelty destroying. In its reasoning, it held that the particle sizes in the prior art
+document indicated a particle size distribution, not an average particle size.
+Furthermore, the document only speciﬁcally disclosed an example of an average
+particle size of 300 nm and that was outside the claimed range. So, the claimed
+invention was not anticipated although there was an overlap in the ranges. The
+patent ofﬁce does not purely look quantitatively at the outer edges of a range, but
+assesses what relevance different parts of the range have in the prior art documents
+at hand. If the prior art document does not seriously contemplate the application of
+the invention in the overlapping part of the range, there seems to be no problem in
+claiming an overlapping range. At the same time, this raises the question whether
+this practice does lay the foundation for a patent thicket, a dense web of overlapping
+patents that obliges licensees to take licences from multiple patentees. A thicket is
+especially ‘‘thorny’’ if there is a risk of hold-ups (Shapiro, 2001). That risk could
+materialize in nanotechnology given its cross-industry character, as described below
+in ‘‘The uneasy relation between nanotechnology and the patent system’’.
+
+Hitherto, we have looked at prior art that explicitly refers to size. If, however,
+the prior art does not refer to size, could a nano-scale invention be anticipated? Is
+the novelty of the nano-scale invention destroyed simply because it is covered by the
+terms of a prior art document? This is not necessarily the case. In the ﬁrst place, the
+prior art is only novelty destroying if it contains an enabling disclosure. Even
+though a nano-scale invention is covered by the terms of a prior art document, it
+may still be novel if the person skilled in the art cannot practise the invention at the
+
+52
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+Patenting Nanotechnology in Europe
+
+Maurice Schellekens
+
+nano scale without knowledge of the claimed invention or engaging in inventive
+activity. If it is not clear to the person skilled in the art how to manufacture a nano-
+scale variant of the prior art invention, this could well be enough to preserve the
+novelty of the nano-scale invention. An analogy can be made with patents on
+chemical compounds. The TBA held in ICI (T206/83) that:4
+
+It is the view of the Board that a document does not effectively disclose a
+chemical compound, even though it states the structure and the steps by
+which it is produced, if the skilled person is unable to ﬁnd out from the
+document or from common general knowledge how to obtain the
+required starting materials or intermediates. Information, which can
+only be obtained after a comprehensive search is not to be regarded as
+part of common general knowledge.
+
+If it is unclear how to arrive at the nano-scale invention, the ‘‘chemical’’
+analogy suggests that the invention may still be novel. This ﬁnding is also consistent
+with US patent law. ‘‘In re Kumar’’ concerned an invention about the use of
+‘‘Aluminium oxide particles’’ for polishing surfaces. In the Kumar case, which is
+claimed to be the Court of Appeals for the Federal Circuit’s (CAFC) ﬁrst nanotech
+case, the CAFC approved that prior art only takes away the patentability of an
+invention if the prior disclosure was enabling. This is consistent with decisions by
+the EPO on European patents, be it that the ﬁnding of the CAFC related to the
+patentability requirement of non-obviousness, and not to novelty (Baluch et al.,
+2005). The knowledge about how to arrive at nano-scale inventions will develop
+with the years. In the coming years, non-size-related prior art may become ever
+more enabling prior art.
+
+Perhaps a more fundamental question with respect to nanotechnology concerns
+inherency (Axford, 2006, p. 306). Under the theory of inherency, a substance known
+in the prior art cannot become novel again by the simple fact that a new, useable
+property of the substance has been found.5 The idea is that the property has always
+been inherently present and thus cannot confer novelty upon the known substance.
+Nanotechnology challenges our understanding of inherency. If a substance is
+manipulated at molecular level, does it become another substance that may be
+novel again or is it still the same substance of which now some hitherto unknown
+property has been uncovered but that always has been inherently present? This
+raises the question under what conditions two materials can be said to be identical:
+how many properties must they share and in how many properties may they differ?
+I can imagine that if many properties differ there comes a point at which you no
+longer say that ‘‘it is the same substance with many unexpected properties’’. At that
+point the substances will have become different substances. Does nanotechnology
+reach this point? In literature, it has been contended that if a substance exhibits
+properties at the nano scale that fundamentally differ from the properties that occur
+at the macro scale, novelty defeating inherency cannot exist (Germinario, 2006).
+However, even if there is a point beyond which substances are different enough at
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+53
+
+Maurice Schellekens
+
+Patenting Nanotechnology in Europe
+
+the nano and macro level, this does not tell us how to ﬁnd this transition point: what is
+a fundamental difference? There remains a substantial grey area, including whether a
+nano-scale invention is patentable even if characteristics are improved over, but not
+completely absent from, the same substance before nano-level manipulation.
+
+Finally, there may be rare situations in which nano manipulation takes place
+without the craftsman knowing, or having known, that what he does is actually
+nano-manipulation. If a substance exhibits certain properties, while in hindsight
+those properties are the result of effects that take place at nano level and the person
+skilled in the art knows how to arrive at the substance, the substance exhibiting the
+‘‘nano level-speciﬁc’’ properties is part of the prior art and cannot be patented
+‘‘again’’. An example may be Damascus steel, which was used for swordmaking in
+the Middle East. It is very strong and particularly good at holding an edge. Recent
+research suggests that its extraordinary properties are caused by CNTs (Sanderson,
+2006). Damascus steel does not become novel again because we now know why it so
+strong6 or because we now perhaps have other ways of making it. As a consequence,
+new patents on nano-manipulated substances must steer clear from well-known
+substances that—unknown to their creators—exhibit properties that are based on
+nano-effects.
+
+In conclusion, although patentability of nanotechnology invention can be
+questioned in certain cases, the existing patent law framework gives enough inroads
+to confer novelty upon most nano-scale inventions. This mainly derives from
+applying well-known patent principles to nano-scale inventions.
+
+Inventive Step
+In order to be patentable, an invention must involve an inventive step, that is, it
+must not be obvious to the person skilled in the art, having regard to the state of the
+art. Even if a nano-scale invention is novel over the prior art, the inventive step
+requirement must be met. A ﬁrst question to ask in relation to nanotech inventions
+is whether downsizing in itself is not an obvious step for the person skilled in the art
+to take. For example, such reasoning can be raised with microelectromechanical
+systems (MEMS) and nanoelectromechanical systems (NEMS). The top-down
+approach to manufacturing MEMS and NEMS can be used iteratively to produce
+ever-smaller structures, from millimetre structures to micro- and nanostructures.
+From the decision of the TBA in Trustees of the University of Pennsylvania/
+Affymetrix (T0070/99) about micro-scale analytical devices, it can, however, be
+derived that mere downscaling does not give rise to an inventive step.7 The
+invention in this case concerned a micro-scale device for analysing a ﬂuid, cell-
+containing sample. The claimed device had ﬂow passages with dimensions between
+0.1 and to 500 mm, which was smaller than the existing devices had. There were,
+however, various known reasons for further miniaturization, such as savings on the
+sample volume and reagent costs. The TBA held that:
+
+. . . miniaturisation was something like a trend in the ﬁeld of devices
+for the (bio)chemical analysis of samples and of devices for the
+
+54
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+Patenting Nanotechnology in Europe
+
+Maurice Schellekens
+
+manipulation of cells. Even before the priority dates of the contested
+patent, a skilled person was thus incited to ‘‘pack’’ known methods into
+smaller devices such that they become suitable for handling small sample
+volumes.
+
+Miniaturization was in the ﬁeld of analysis equipment an obvious measure to
+take and I assume that this holds for many more ﬁelds. Purely based on their small
+scale, nanotech inventions may therefore not be inventive. What then are ways to
+confer inventiveness on a nano-scale invention? An inventive step may reside in the
+fact that other processes have to be used to arrive at the nano-scale products than is
+the case with bigger products. The other processes must of course not be obvious to
+the person skilled in the art, confronted with the problem of producing at the nano
+scale (Scott Roe, 2006). An example is the invention dealt with in AT&T (T0268/
+96). The invention in this case concerned the fabrication of a semiconductor so
+small that the conventional patterning techniques using photoresist layers were at
+the limits of their performance.8 The closest prior art described a patterning and
+etching process that required a mask layer that was epitaxially deposited. The
+invention under consideration in AT&T solved the problem of ﬁnding an alternative
+mask layer. The solution was found to be inventive in that it not only contained an
+alternative material for the mask layer, viz. native oxide, but also an etching agent
+suitable for the new material of the mask. This combination did not follow in an
+obvious way from the state of the art. The patent under consideration in AT&T was
+thus found to be inventive.9
+
+Apart from speciﬁc processes for arriving at a nano-scale invention, inventiveness
+can be derived from other sources as well. If there is a new unexpected function at the
+nano scale, this may give rise to an inventive step. The unexpected function must solve
+a problem stated in the patent. Such unexpected results have been known to occur in
+nanotechnology. CNTs can—dependent on their construction—carry a much bigger
+current per surface unit than traditional metal conductors (Letham, 2005). The
+unexpected function must, however, not be a mere side or bonus effect. If there are
+good reasons for a person skilled in the art to go down the road of the invention, then
+the occurrence of an ‘‘unexpected’’ bonus effect does not contribute towards
+inventiveness. The aforementioned case Smithkline Beecham Biologicals/Wyeth
+provides an example of an unexpected function that was not a mere bonus effect
+but did help establish the inventiveness. The problem the invention in Smithkline
+Beecham Biologicals/Wyeth solved was to improve the adjuvant qualities of 3D-MPL
+(a lipid) in a vaccine. The solution brought forward by the invention was to reduce the
+particle size of the 3D-MPL to below 120 nm (claim 1), to between 60 and 120 nm
+(claim 2) or even below 100 nm (claim 3). None of the identiﬁed prior art documents
+suggested that a reduction of the particle size would be of any advantage. Hence, the
+prior art did not lead in an obvious manner to the claimed invention.
+
+A prior art document did, however, mention particle sizes and the ranges
+mentioned slightly overlapped with those in the newly claimed invention. But the
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+55
+
+Maurice Schellekens
+
+Patenting Nanotechnology in Europe
+
+small overlap did not take away the inventiveness that lay in the improvement of the
+adjuvant qualities by reducing the particle size. The TBA remarked that the size of
+the particles mentioned in the prior art followed a certain distribution, the
+extremities of which were 100 and 400 nm, hence centred around a mean size of
+250 nm. As we saw when dealing with novelty, an overlap at one extremity of a
+range is not per se considered damaging for the patentability of a new invention.
+Are there still other ways for nano-scale inventions to acquire inventiveness?
+One way is that a prejudice has to be overcome in order to arrive at a nano-scale
+invention. A prejudice is ‘‘a widely held but incorrect opinion of a technical fact’’
+(EPO, 2006, p. 134). Such prejudice could be that the technical difﬁculty to reduce
+dimension to the nano scale could not be overcome. The impossibility to overcome
+the difﬁculty must be the unanimous experience and notion of the experts in the
+ﬁeld. The idea of prejudice is thus very strictly applied and it will become more
+difﬁcult to use when knowledge of nanotechnology develops further and more
+insight is gained into what can be done and what cannot.
+
+The determination of inventiveness obviously depends on how the person
+skilled in the art is deﬁned. This will be dealt with below in ‘‘Person skilled in the
+art’’. In conclusion, based on long-standing EPO practice, there are many inroads
+to confer inventiveness upon nano-scale inventions.
+
+Industrial Applicability
+For an invention to be susceptible to industrial application, it must be possible that
+it is made or used in any kind of industry, including agriculture. This requirement
+may become relevant for inventions in the ﬁeld of nanotechnology in several ways.
+Nanotechnology is still in its infancy and many applications have not pro-
+gressed beyond the laboratory stage and lack a practical use. Patents may claim
+platform materials that now have no directly available application, but may have
+many in the future. A general indication of possible or future applications may make
+for a broad patent, covering a wide area, potentially hindering later developers of
+applications that are far removed from the platforms they are based on (Almeling,
+2004). In the context of biotechnology, the EPO has refused patents for substances
+without a concrete application (T0870/04, about MPI’s BDP1 polypeptide):
+
+. . . there must be a borderline between what can be accepted, and what
+can only be categorized as an interesting research result which per se
+does not yet allow a practical industrial application to be identiﬁed.
+Even though research results may be a scientiﬁc achievement of
+considerable merit, they are not necessarily an invention which can be
+applied industrially.
+
+This decision may be coloured by the fact that it concerned a substance found
+in
+in nature. That is not always the case in nanotechnology. Nevertheless,
+nanotechnology, it has proven difﬁcult to translate laboratory results into market-
+able products. A cautionary approach towards too rosy projections of patentees
+
+56
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+Patenting Nanotechnology in Europe
+
+Maurice Schellekens
+
+about the possibilities of turning nano-structured materials into industrially pro-
+ducible products seems in order. This is also in line with US patent law. In Brenner v
+Manson, the US Supreme court—dealing with an invention in the ﬁeld of chem-
+istry—held:10
+
+. . . a process patent in the chemical ﬁeld, which has not been developed
+and pointed to the degree of speciﬁc utility, creates a monopoly of
+knowledge which should be granted only if clearly commanded by the
+statute. Until the process claim has been reduced to production of a
+product shown to be useful, the metes and bounds of that monopoly are
+not capable of precise delineation. It may engross a vast, unknown, and
+perhaps unknowable area. Such a patent may confer power to block off
+whole areas of scientiﬁc development, without compensating beneﬁt to
+the public.
+
+It has been pointed out that industrial applicability need not consist in the
+ability to make a product for the public at large. Basic materials may have a use as
+research tools and they may through this route ﬁnd application in industry
+(Forman, 2002). The TBA addressed this issue in its MPI case (T0870/04):
+
+No doubt exists that a BDP1 polypeptide could be ‘‘made and used’’ as a
+further tool, in addition to the many already available in the art (cf.
+document D12), for exploring the complex cellular signal transduction
+pathways and their implications in the regulation of cellular processes
+and, possibly, disease states. But the whole burden is left to the reader to
+guess or ﬁnd a way to exploit it in industry by carrying out work in
+search for some practical application geared to ﬁnancial gain, without
+any conﬁdence that any practical application exists.
+
+It appears that a research tool only has industrial application if it has a concrete
+use as a research instrument without the necessity to engage in further research. For
+example, concrete laboratory techniques can be patented. In the context of
+nanotechnology, the following invention may be mentioned: Gold nano stoves
+for microsecond DNA melting analysis; this invention allows for faster and large-
+scale analysis of DNA (Stehr et al., 2008). If, however, an invention is merely an
+interesting and potentially useful object for further research, there is no industrial
+applicability.
+
+A related issue could be that it is sometimes not yet possible to produce nano-
+scale substances in large amounts. The production of CNT at an industrial scale is
+still not completely solved (Wang et al., 2002). The various ways of producing
+graphene—single atom thick sheets of carbon—are still hampered by drawbacks
+that impede large scale production (Baluch et al., 2008, pp. 291–2). The limited
+production of materials may cast doubt over the industrial applicability of a patent
+on a nano-scale substance. It is difﬁcult to build an industry on tiny quantities of a
+substance.
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+57
+
+Maurice Schellekens
+
+Patenting Nanotechnology in Europe
+
+Another element that may become relevant under industrial applicability is the
+effectiveness of nanotech inventions. Do they produce the results that patentees
+claim they do? Although nanotechnology is somewhat less of an uncertain science
+than biotechnology, it is still difﬁcult to verify that nanotech inventions work as
+claimed by the patentee. Because of the small scale, instruments to measure effects
+on a nano scale and even metrologies are often lacking. If nanotech effects are
+claimed that go against mainstream scientiﬁc wisdom, the disclosure of the invention
+must be elaborate enough for the person skilled in the art to see that it does indeed
+work. An invention that does not work has generally no practical use and therefore
+does not meet the requirement of industrial applicability. The invention could also
+be refused on the basis of insufﬁciency of disclosure. In fact, the TBA seems to prefer
+inventions to be refused on the latter ground because it speciﬁcally sees to the
+performability of inventions (T718/96). In the section on sufﬁciency of disclosure,
+the issue of a failure to yield results as claimed is addressed as well.
+
+Sufﬁciency of Disclosure
+Sufﬁciency of disclosure encompasses two requirements: (1) that the invention is
+disclosed in a way that allows the person skilled in the art to practice it and (2) that
+the (teaching of the) invention must be reproducible. The ﬁrst requirement
+‘‘practicability’’ means that the person skilled in the art on the basis of the
+disclosure can rework the invention without undue burden. Reproducibility means
+that the result of the invention can be reached over and again and not just on the
+basis of chance or only with a smaller or larger degree of predictability.
+
+What issues does the disclosure of nanotechnological inventions raise? Above
+we saw that patents in the nanotech domain often mention size ranges. Case law
+relating to non-nanotechnology has addressed the relation between ranges and the
+practicability of an invention: practicability requires that if a general principle has
+been disclosed according to which the inventive teaching is applicable to an entire
+class there must not exist serious doubt as to the effectiveness of the principle across
+the class. In Exxon (T0409/91), it was decided that the application as ﬁled must
+contain sufﬁcient information to allow a person skilled in the art, using his common
+general knowledge, to carry out the invention within the whole area that is
+claimed.11
+
+Likewise, if a nanotechnology patent has been deﬁned by a range, the invention
+must be practicable in the entire range. With nanotechnology, however, it may be
+difﬁcult to ascertain this fact due to the small scale at which the invention must be
+practised. This gives extra weight to the question who carries the burden of proof of
+the practicability of the invention. The general rule with respect to the burden of
+proof has been formulated in PALM Microlaser-Technologie/Leica Microsystems
+(T0487/03). The following quotation is an unofﬁcial translation of the original
+German text:12
+
+The sentence in directive D V 4.3. mentioned by the opponent states that
+the patentee carries the burden of proof of the practicability of the
+
+58
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+Patenting Nanotechnology in Europe
+
+Maurice Schellekens
+
+invention, in case the Opposition Division seriously doubts it [e.g. when
+the opponent supports the doubts with trials].13
+
+If the examining or opposition division has no way of knowing or inferring the
+practicability of a nanotechnology invention, let alone its practicability across an
+entire range, it may very well require the patent applicant or patentee to beef up its
+disclosure and provide more detailed instructions for the reworking of the inven-
+tion. The patent ofﬁce may require the applicant to show how it established that the
+invention is practicable in the entire range.
+
+Also the determination that the invention produces the claimed results in a
+repeatable way may pose problems for nanotech inventors. In nanotechnology,
+being a new technology, analytical methods, tools and metrologies are often not
+available to the person skilled in the art. Without these, the reproducibility of an
+invention may be difﬁcult to ascertain. Hence, an inventor in the nanotech ﬁeld may
+be obliged to disclose these in the patent in order to make his claims veriﬁable
+(Almeling, 2004, p.14). Also in the United States, it is advocated that a strong
+presumption of compliance with the written description requirement should not be
+applied to nanotechnology (Paredes, 2006). The reason to do so is the prevention of
+a possible patent thicket.
+
+Non-Patentable Inventions
+The EPC excludes certain inventions from patentability. Computer programs and
+methods for doing business are ‘‘as such’’ excluded from patentability. Inventions
+concerning diagnosis and therapy of the human body are not patentable, as are
+inventions the publication or exploitation of which offends against morality or
+ordre public. It has been claimed that nanotechnology is much less affected by such
+exclusions than other technologies, such as computer software and biotechnology
+(Dixon, 2004, p. 103). It is, however, questionable whether that will prove to be true
+for nanotechnology in general. Convergence of technologies will make it increas-
+ingly difﬁcult to differentiate between technologies. For example, nanotechnology is
+an important instrument for medicine and life sciences: nano-scale drug delivery
+systems are but one example. Scientometric research shows that the ﬁeld of
+nanotechnology is heavily involved in convergence: medicine and life sciences are
+placed third and fourth on the list of ﬁelds in which most nanotech patent
+applications were ﬁled (Kanama, 2006). An example of the problems that the
+convergence may give rise to is provided by the European Group on Ethics (EGE).
+It draws attention to the problem that applications of nanomedicine may be both
+treatment and product, casting doubt about the applicability of the exclusion from
+patentability of the therapeutic treatment of the human body as given in article
+53(c) of the EPC, which replaces the former article 52(4) of the EPC (EGE, 2007,
+p.47). The EGE does alas not spin out the problem it observes, but it could be
+imagined that a drug delivery system could both be seen as a treatment (delivery of
+medicine in the part of the body where it needs to be) and as a product (a dendrimer
+carrying the medicine). Nevertheless, it is questionable whether this will make many
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+59
+
+Maurice Schellekens
+
+Patenting Nanotechnology in Europe
+
+inventions unpatentable. In practice, the perceived unpatentability may be easily
+avoided by an adequate formulation of the claims. If the dendrimer is claimed as a
+product, article 53(c) of the EPC does not stand in the way of patentability. If it is
+part of a method claim, the claim may indeed run afoul of article 53(c) of the EPC
+but only if the other conditions of the article are also met, for example if the method
+involves treatment of the human body and not just acts that can be performed in a
+test tube. It would require a particular set of circumstances to have a nanomedicine
+invention that is not patentable at all.
+
+Apart from the exclusion of article 53(c) of the EPC, the exclusion of article 52
+of the EPC may also be relevant. According to article 52(2) of the EPC, for example,
+discoveries are not to be regarded as inventions within the meaning of the EPC. This
+exclusion from patentability may be relevant with respect to (nano-ordered)
+substances occurring in nature. Merely ﬁnding such a substance that was previously
+unrecognized is a discovery (Guidelines C-IV 2.3). Some nanomaterials, such as
+buckyballs, are naturally occurring (Gerhardt et al., 1987). Hence, they may not be
+patentable. However, it has to be kept in mind that only discoveries as such are not
+patentable (article 52(3) of the EPC). The ‘‘as such’’ clause opens many avenues to
+patent invention that intuitively may seem discoveries. Substances occurring in
+nature could beneﬁt from the opening provided by the ‘‘as such’’ clause and may be
+patentable. Obviously, to be patentable an invention has to be built around the
+natural substance. An invention could, for example, reside in the fact that a
+property of the natural substance can be put to practical use, for example a nano
+substance occurring in nature that has superconductive properties could be used to
+make more efﬁcient electrically conducting components. The natural substance
+could then be patented as part of this invention. The invention could also exist in
+the isolation of the substance from its natural environment, assuming that such
+isolation did not yet belong to the state of the art. In the context of nano materials,
+the use of materials found in nature may, however, not be the only issue. It may be
+the case that a substance is synthesized that is equal to a natural occurrence of the
+substance. These synthesized substances may be patentable as well. By describing
+how the synthetic substance can be arrived at, a technical teaching is already
+provided, although that is not enough to get a product patent on a substance that
+can also be extracted from nature. In addition to the synthesis itself, an invention
+justifying a product claim could, for example, exist in the fact that the synthesized
+substance is available in a purer form than its natural counterpart. The invention
+could also be found in any of the above-mentioned ways.
+
+In the nano-context, a speciﬁc complication could arise because there are
+synthesized substances of which it is unknown whether they have a counterpart
+occurring in nature. This is, for example, the case with CNTs (Dunens et al., 2008).
+Given their physical properties, the existence of CNTs in nature is theoretically not
+unlikely, but it has never been shown that they actually exist (Dunens et al., 2008).
+In the absence of proof of a natural occurrence, these substances could for the time
+being be patented without the use of the invention-inducing strategies mentioned
+
+60
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+Patenting Nanotechnology in Europe
+
+Maurice Schellekens
+
+above. Whether that is a wise strategy for a patentee is of course a different
+question.
+
+If a substance is proven to occur in nature only after its synthesized counterpart
+has been patented, the question could arise whether this would mean that in
+hindsight the patent is invalid assuming that the patentee has not taken steps to
+distance the patented substance form its natural counterpart. Literature seems to
+tend towards allowing such patents (Benkard and Asendorf, 2006, p. 112), the
+argument being that the synthesized substance was new, given that the naturally
+occurring variety was not proven to exist at the priority or application date and not
+available to the person skilled in the art. An objection to this line of arguing could
+be that allowing these patents leads to a further erosion of the unpatentability of
+discoveries. This may hold especially in nanotechnology where the proof of a
+natural occurrence is sometimes very difﬁcult. On the other hand, it can be reasoned
+that if a natural occurrence cannot be proven to exist, let alone be used by the
+person skilled in the art, what is then the actual relevance of the naturally occurring
+substance for industry? The ratio of the exclusion of discoveries is that nobody
+should receive a legal monopoly for something that is already available to society.
+That is here obviously not the case (if the priority or application date is taken as the
+determinative date). This may, however, still leave open the possibility to invalidate
+the patent once the natural occurrence has been proven, just like a patent can be
+invalidated on the basis of novelty destroying documents that are only found after
+the grant. In my view, the certainty required for the patent system to work resists
+this. The later proof of natural occurrence can be distinguished from the situation
+where novelty destroying publications are found after the grant. The publications
+could have been brought to light before the grant of the patent, had the search to
+uncover them been thorough enough. The proof of a natural existence on the other
+hand is not something that could have been uncovered. It is an addition to the body
+of knowledge. I would therefore take the stance that the patentee need not expect
+that its patent be invalidated on something that is purely speculative at the moment
+of the ﬁrst application.
+
+Furthermore, by allowing patents on synthesized varieties two desirable
+incentives may be created. In the ﬁrst place, there is of course the incentive to
+create the synthesized substance. But also for other actors, an incentive is created,
+namely to show the existence of a natural occurrence. Competitors or non-
+commercial entities such as universities may be spurred to prove the natural
+existence as soon as possible in order to force potential patent applicants to modify
+their applications accordingly.
+
+The Uneasy Relation Between Nanotechnology and the Patent System
+
+The patent system is designed to spur innovation. Nanotechnology has, however,
+some characteristics that hinder the patent system in stimulating innovation
+(compare Boldrin and Levine, 2002). I will consider here three such characteristics
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+61
+
+Maurice Schellekens
+
+Patenting Nanotechnology in Europe
+
+in particular. In the ﬁrst place nanotechnology is science based. Second, it is
+interdisciplinary. Finally, it crosses the borders of industries. I will ﬁrst deal with
+the scientiﬁc nature of nanotechnology.
+
+The Scientiﬁc Nature of Nanotechnology
+The scientiﬁc character of nanotechnology has a number of implications for the
+application of patent law. Some of these implications nanotechnology shares with
+biotechnology also was and is very much science based. I discern the following
+implications: universities are relatively over represented among the patentees. What
+is patented may lie close to results of fundamental research and have great blocking
+power. The transfer into marketable products often still requires non-obvious steps.
+The patentability of inventions can only be adequately ascertained by somebody
+having good knowledge of the academic discussion and literature in the ﬁeld of
+nanotechnology. Hereinafter, I will elaborate these implications of the science-
+based character of nanotechnology.
+
+Nanotechnology is a technology that is still very much the subject of funda-
+mental research, much of which is performed by universities and research institutes.
+As we saw above both in Europe and the United States, a substantial percentage of
+the research into nanotechnology is publicly funded (Hullmann, 2006, p. 15).
+Universities appear to be particularly avid patentees. They are also in a relatively
+strong position when negotiating licences on their patent portfolio. Since they are
+not in the business of manufacturing goods their need to obtain licences from other
+patentees are relatively low. That makes them much less vulnerable for an
+accusation of patent infringement and that,
+in turn, gives them leeway when
+negotiating the conditions for licences on their own patent portfolio (Lemley,
+2008). In reality, the situation at the negotiation table is a bit more nuanced.
+Universities may feel that it is their moral duty to make sure that their research
+results ﬁnd wide application in society and this may ring through in their licensing
+policies. Universities are also for other reasons than selling patent licences depen-
+dent upon commercial companies. They will want to maintain good relations with
+commercial companies for purposes such as the acquisition of contract research
+and access to expensive equipment. This circumstance may also make for a more
+balanced situation in the negotiation room. Nevertheless, there will be great
+differences between the licensing policies of universities and, for a university, not
+every company may be as important as those with which it maintains close ties.
+These multifaceted situations will translate into a wide variety of constellations for
+licence negotiations. In the end, licences on patents held by universities may not be
+as easy to obtain as may be thought in the ﬁrst instance.
+
+Since research with respect to nanotechnology is to a large extent performed by
+universities, much of it bears a fundamental character. Basic ideas, substances and
+processes are being developed. Just as with biotechnology, fears exist that the
+building blocks of the technology will end up being patented and that the patents
+complicate further research. Although these fears may not always be justiﬁed
+
+62
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+Patenting Nanotechnology in Europe
+
+Maurice Schellekens
+
+(Walsh et al., 2003), according to US patent law expert Lemley, these fears are
+justiﬁed in the ﬁeld of nanotechnology (Lemley, 2005). In other technical ﬁelds,
+such as computers, software,
+the internet and—surprisingly—biotechnology,
+patenting allegedly started only after development of the technology was in full
+swing. In nanotechnology, patents were granted directly from the start of the
+scientiﬁc development. As a consequence, in the nanotech industry, patents on the
+basic ideas—the building blocks—of the technology are much more prevalent. This
+could burden downstream innovators as it is practically impossible to invent around
+basic ideas and elements of a discipline. However, it must be kept in mind that
+nanotechnology cannot be treated as one homogeneous technology. For example,
+the situation between the various nanomaterial platforms—basic molecules—can be
+very different. Examples of nanomaterial platforms are, inter alia, CNTs, bucky-
+balls or fullerenes and quantum dots. From platform to platform there are
+differences between the density of the patent landscape and the degree in which
+patents are entangled. This becomes all too evident when comparing the patent
+landscapes for buckyballs and CNTs. There are no broad patents claiming bucky-
+balls per se (Lemley, 2005, p. 614). A reason may be that buckyballs spontaneously
+occur in nature (Gerhardt et al., 1987). At the same time, CNTs per se are being
+claimed in a number of patents. Three patents are often named because of their
+broad scope: US5747161 a patent of NEC, US5424054 a patent of IBM and
+US6683783, a patent of Carbon Nanotechnologies (Action Group on Erosion,
+Technology and Concentration [ETC Group], 2005; Harris and Bawa, 2007;
+Lemley, 2005). A fourth patent could be mentioned in this respect as well:
+US4663230, a patent of Hyperion. This concerns a composition of matter using
+CNTs. Its ﬁrst claim reads:
+
+An essentially cylindrical discrete carbon ﬁbril characterized by a
+substantially constant diameter between about 3.5 and about 70
+nanometers,
+length greater than about 102 times the diameter, an
+outer region of multiple essentially continuous layers of ordered
+carbon atoms and a distinct inner core region, each of the layers and
+core disposed substantially concentrically about the cylindrical axis of
+the ﬁbril.
+
+This is a broad claim and applications using CNTs must closely guard that they
+do not infringe this patent. The patent has also been ﬁled in Europe (EP0205556).
+The European patent’s ﬁrst claim is, however, narrowed down somewhat by the
+inclusion of an extra qualiﬁcation: ‘‘said ﬁbril is substantially free from pyrolytically
+deposited thermal carbon’’. In the European patent, a purer form is claimed. When
+considering CNTs and buckyballs as building blocks, it appears that the former are
+the object of broad patent claims, whereas the latter not or at least much less so.
+It could be asked whether these differences have predictive value for the level of
+innovation. Starting from traditional concerns about the effects of patents on
+building blocks, one would expect that innovation in CNTs would suffer. However,
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+63
+
+Maurice Schellekens
+
+Patenting Nanotechnology in Europe
+
+the opposite seems to be the case. When looking at the number of patent
+applications, it appears that there are ﬁve times as many applications about CNTs
+than there are about buckyballs (Michalitsch et al., 2008, p. 86). The buckyball
+patent landscape also shows many abandoned patents (Lux Research, 2005). These
+patent-based indications are in accordance with the trend signalled in literature:
+expectations for CNTs are high (Harris and Bawa, 2007). Buckyballs have
+disappointed in not living up to the high expectations that existed when they were
+ﬁrst discovered (Ball, 2005; Michalitsch et al., 2008, p. 86).
+
+So perhaps the potential for technical and commercial success is more
+important indicators for innovation than the existence of patents on building
+blocks. That does, however, not take away that innovation might have been higher
+if patents on building blocks would not have existed in the ﬁrst place. The building
+block patents may very well create uncertainty because it may be unclear whether
+innovative activities are covered by the patents and, if so, it may be unclear whether
+the patents are valid. Especially, the uncertainty may have adverse effects on
+innovation. Concerns about patents on building blocks can therefore not be
+discarded and may need to be addressed.
+
+The building blocks of nanotechnology must ultimately lead to concrete
+products and services so that the great expectations about the beneﬁts that
+nanotechnology can yield are met. Yet, it has hitherto proven difﬁcult to translate
+theoretical results into marketable products. Only a few products have appeared on
+the market. In this respect, Europe is lagging behind the United States (European
+Commission, 2004, p. 7). This may indicate that patents are being granted on
+inventions that have no or at least a very thin industrial applicability. This
+reinforces the fear expressed above that patents may be granted on basic ideas in
+nanotechnology.
+
+According to research by Meyer, nano patents tend to cite only other patents
+and to a much smaller degree scientiﬁc research papers (Meyer, 2001, p. 298). This is
+remarkable in view of the fact that nanotechnology is very much a science-based
+discipline. This raises the question whether relevant prior art escapes the patent
+examiners’ attention. If this is the case, patents are being granted on inventions that
+are not novel or lack inventiveness.
+
+The Interdisciplinary and Cross-Industry Character of Nanotechnology
+Above we have seen how the scientiﬁc character of nanotechnology sits uneasily
+with the patent system. Here, I investigate how the patent system relates to the
+interdisciplinary and cross-industry character of nanotechnology. I will start with
+the former. The manipulation of matter on the nanometre level
+is not the
+prerogative of one single technological discipline. Nanotechnology is thoroughly
+interdisciplinary and its applications often are the result of a convergence of pre-
+existing technologies. Disciplines involved in nanotechnology are, inter alia, chem-
+istry, physics, biology and electronics. The interdisciplinary character may mean
+that nanotech patent applications sometimes end up with examiners having
+
+64
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+Patenting Nanotechnology in Europe
+
+Maurice Schellekens
+
+expertise X while other applications end up with examiners having expertise Y. The
+divisions between examiners with different expertises holds a certain risk for
+overlooking prior art.14 Also the lack of a uniform terminology in nanotechnology
+may magnify the risk of prior art remaining undetected.
+
+The interdisciplinary character goes hand in hand with the cross-industry
+character of nanotechnology. The cross-industry character is, however, mainly
+important for the manufacturing stage of nanotechnology. It exposes innovators to
+a greater risk of being accused of patent infringement. On the one hand, this is due
+to patentees from other industrial sectors who may feel less inhibited to enforce
+their patents against innovators outside their own industrial sector. On the other
+hand, this problem is exacerbated by the added complexity of compliance checking.
+A company becoming active in the ﬁeld of nanotechnology cannot limit its
+compliance checks to the industrial sector where it is active. A company will need
+to check patents in other industries as well, since these patents may read on its
+activities. Given the size of patent databases, the search for relevant patents may
+amount to a gigantean task. Missing a relevant patent may prove to be very
+expensive. Especially if a company has already heavily invested in a technology or a
+product, there is a distinct risk of a hold-up. As we saw above, the risk of hold-ups is
+exacerbated by the occurrence of overlapping patents.
+
+Interim Conclusion
+From the described characteristics of nanotechnology, a certain risk for over-
+patenting can theoretically be deduced. Of course, this does not amount to
+empirical evidence supporting a claim of overpatenting. The EPO and the Organi-
+zation for Economic Cooperation and Development (OECD) are working on
+monitoring instruments for nanotechnology patents (Hullmann and Frycek,
+2007a, pp. 11–12). These may begin to enlighten us on the empirical aspects of
+patenting in the ﬁeld of nanotechnology. Nevertheless, the risk of overpatenting in
+the context of nanotechnology is signiﬁcant enough to contemplate measures to
+address the situation.
+
+Addressing the Friction Between Nanotechnology and the Patent System
+
+Above we have seen that there are multiple reasons for fearing that frictions
+between nanotechnology and the patent system prevent the former from realizing
+its full potential. Hereinafter, a number of avenues are investigated for redressing
+this situation.
+
+Person Skilled in the Art
+The deﬁnition of the person skilled in the art is highly relevant for the determination
+of novelty, inventive step and sufﬁciency of disclosure. If the person skilled in the
+art is taken to be highly qualiﬁed it is more difﬁcult to meet the inventive step
+requirement, but the disclosure of the invention can be somewhat less encompass-
+ing. The person skilled in the art can be assumed to be more adept in applying the
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+65
+
+Maurice Schellekens
+
+Patenting Nanotechnology in Europe
+
+technical teaching of the patent. The opposite also holds: deﬁning the person skilled
+in the art as less highly qualiﬁed makes it easier to meet the inventive step hurdle,
+but obliges a more encompassing enabling disclosure. In a new ﬁeld, such as
+nanotechnology, it is unclear how the person skilled in the art of nanotechnology is
+to be deﬁned.
+
+The interdisciplinary character of nanotechnology has a bearing on the deﬁni-
+tion of person skilled in the art of nanotechnology. For example, the inter-
+disciplinary character may mean that the person skilled in the art should be a
+master of many disciplines. This leaves open the question what disciplines he should
+master. The function of the concept points the way: with the help of the ﬁctitious
+person skilled in the art, it must be possible to determine what activity would be
+considered normal progress in the art and what would be considered to be a major
+step in the pertinent technology. So, the person skilled in art should reﬂect the
+realities in the relevant industry, in this case, the pertinent branch in the nanotech
+industry. This indeed means that multidisciplinary talents must be attributed to the
+person skilled in the art. Apart from the abstract question of how to deﬁne the
+person skilled in the art, there is the practical issue that the concrete capabilities of
+patent examiners may rub off on their perception of the person skilled in the art. In
+other words, the monodisciplinary restrictions in the capabilities of examiners may
+inﬂuence their perception of the person skilled in the art. Thus, a tendency towards
+a lightly qualiﬁed person skilled in the art may result, where even the lightness of
+qualiﬁcation may be different between patent examiners. An examiner may be more
+inclined to view aspects of an invention as inventive if they are in technology
+domains with which he is less familiar. Being less adept in reading a patent in such
+technology domains an examiner may also require a further elaborated disclosure.
+This effectively comes down to having a less highly qualiﬁed person skilled in the art
+as the criterion. It could be objected that it is not the patent examiner, but the
+courts, that have the last say on what constitutes a person skilled in the art.
+Nevertheless, the determinations of a patent examiner are relevant, since most
+patents are never litigated. Nanotechnology litigation is still sparse. It will probably
+only take off when products are placed on the market on a large scale. Where
+patents are litigated, the patent examiner sets the scene for the judgements of the
+court. For the time being, there will be variation in the actual standards used in
+nanotechnology patenting.
+
+Patent applicants may try to use the interdisciplinary character of nano-
+technology to their own advantage by engaging in what I call ‘‘technology shopping’’.
+A nanotech patent may, for example, concern a biological switch. The invention
+could arguably be dealt with as an electronics invention, but alternatively as a
+biotechnological invention. By adequately formulating the claims in terms of a
+certain ‘‘participating’’ discipline the patent applicant may try to steer the patent
+examiner away from relevant prior art. In the same way, it may also be possible
+to select the standards applicable to the determination of the person skilled in the
+art, and, in its wake, novelty, inventive step or sufﬁciency of disclosure, since those
+
+66
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+Patenting Nanotechnology in Europe
+
+Maurice Schellekens
+
+differ to a larger or smaller extent between disciplines. For inventions in the ﬁeld of
+biotechnology, research is usually done by postdoctoral researchers. The person
+skilled in biotechnology is accordingly more highly qualiﬁed than in most other
+arts (Hacon and Pagenberg, 2008, p. 51). The TBA has deﬁned the person skilled in
+the art rather wide (T0387/94, Max-Planck-Gesellschaft/Monsanto):
+‘‘His/Her
+attitude is considered to be conservative. ‘‘He/She would never go against an
+established prejudice, nor try to enter unpredictable areas nor take uncalculable
+risks’’ ’’. If an invention lends itself to a choice of art, a patent attorney in the above
+example may arguably be able to choose between the lower threshold for inven-
+tiveness in electronics or a more succinct disclosure in biotechnology. Therefore, it
+is worthwhile for patent attorneys to select conscientiously a—favourable—base
+discipline.
+
+A team approach to a person skilled in the art may solve some of the inherent
+problems associated with the interdisciplinary nature of nanotech inventions.
+Dependent upon the implementation of a team approach, there are different effects.
+The selection of an implementation therefore calls for a balancing of the effects.
+One of the implementation decisions to be made involves the qualiﬁcation of the
+team skilled in the art, which may be chosen higher or lower. If the imaginary team
+is chosen to be a very well qualiﬁed team, this may raise the bar of inventiveness for
+nanotech inventions and may make the disclosures difﬁcult to comprehend for any
+individual trying to make sense of a nanotechnology patent. After all, the drafter of
+the patent (probably a real life team) may presuppose all the knowledge available in
+the imaginary team. It may be contended that this is of limited relevance because
+any actor involved in nanotechnology works within multidisciplinary teams.
+However, with a view to openness and accountability to the ‘‘outside world’’,
+better readability of patents is relevant and requiring that an individual be able to
+read and understand a patent does not seem to be a too exaggerated demand.
+Therefore, I tend to think that the imaginary individual partaking in the team
+should be chosen as being somewhat less qualiﬁed than the person skilled in the art
+relevant for monodisciplinary inventions. This will force somewhat more elaborate
+disclosures in interdisciplinary inventions.
+
+Another way to get ‘‘better’’ disclosures would be to decouple the inventive-
+ness–person skilled in the art from the sufﬁcient-disclosure–person skilled in the art.
+This would be a more principled intervention in patent law that would require
+further research and for the time being nanotechnology does not present us with the
+necessity to do so.15
+
+Deﬁning the person skilled in the art as a team, and backing this up by making
+real life interdisciplinary teams, comes quite some way in resolving a possible
+technology shopping problem. A team of examiners is harder to fool than an
+individual examiner. At the same time, it must be admitted that a multidisciplinary
+team of examiners does not solve all problems. After all, it is still unclear how to
+determine the default discipline of an invention, or, to say it in other words, what
+standards to use when examining nanotech patents.
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+67
+
+Maurice Schellekens
+
+Patenting Nanotechnology in Europe
+
+Novelty and Inventive Step
+As a new technological ﬁeld, there is relatively little prior art and even less prior art
+explicitly relating to nanotechnology (Zekos, 2006a, p. 366). A small reservoir of
+prior art may have the effect of lowering the actual novelty threshold because
+novelty is easy to establish. Possibly, this gives rise to broad patents because the
+formulation of the claims does not have to steer clear from much prior art. The
+issue of the broadness of nanotechnology patents gains extra weight in view of the
+fact that nanotechnology is in its formative stages of development. The progress
+made in this stage may yield building blocks on which many later applications will
+be founded. On the one hand, the broadness of patents now granted may affect
+follow-on innovators negatively. On the other hand, broad patents may be
+necessary to recoup the large investment needed for developing laboratory ﬁndings
+into marketable products (Lemley, 2005, pp. 628–9). Whether broad patents in
+nanotechnology are at the moment a good or a bad thing is open for discussion.
+Nevertheless, there can be little discussion that overbroad patents caused by
+lacking quality of the work of patent examiners must be avoided. An adequate
+determination of the state of the art is central to the quality of a patent examiner’s
+work. Although it is the patent applicant that must indicate what the nearest state
+of the art is, it is up to the patent ofﬁce to detect any deﬁciencies. This may be an
+extra heavy burden in the case of nanotechnology, since it is an emergent
+technology and patent ofﬁces struggle to ﬁnd qualiﬁed examiners. The workload
+of the present examiners is already very high (Barraclough, 2007; Krempl, 2006). In
+order to ease their workload, patent ofﬁces could invest in qualiﬁed examiners and
+in optimizing the availability of prior art information, such as technical informa-
+tion in academic journals and other non-patent information. Another avenue
+through which progress could be booked is by working on a standard terminology
+and metrology in nanotechnology. This is, of course, not the task of patent ofﬁces
+but that of standard-setting organizations, such as the International Organization
+for Standardization (ISO) and the American Society for Testing and Materials
+(ASTM International). First standards on nanotech terminology have already been
+adopted (ASTM International, 2006; ISO, 2008) or are in the process of being
+developed (ASTM International, 2009). ISO standard TS 27687:2008 on terminol-
+ogy and deﬁnitions for nano-objects was adopted in 2005 and is the ﬁrst in a
+planned series of ISO standards covering terminology and deﬁnitions for various
+aspects of nanotechnology. In 2007, the OECD set up a Working Party on
+Nanotechnology. It explicitly addresses the issue of standardization in nano-
+technology (OECD, 2008). However, the work of standard-setting organizations
+often progresses slowly. A technology may not be developed enough to know what
+standards concerning semantics, measurement and testing are needed. This seems
+to be the case with respect to nanotechnology. Terminology in nanotechnology
+literature is extremely dynamic (Hullmann and Frycek, 2007b, p. 396). Obviously,
+it is desirable for patent ofﬁces to work with standards that have been set by
+standard-setting organizations, especially if they are adopted globally. That makes
+
+68
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+Patenting Nanotechnology in Europe
+
+Maurice Schellekens
+
+communication with patent applicants easier. Internal communication between the
+various divisions within a patent ofﬁce would beneﬁt as well. It makes it also easier
+to detect prior art in patent databases and other literature sources. It may help in
+clarifying ambiguities in patent claims, making the scope of patents clearer, both
+for patentees and third parties such as competitors and licensees. Given the interest
+that standards on terminology and metrology represent for the patent system, it
+seems to me that an argument could be made for active participation of patent
+ofﬁces in standard-setting procedures. On the one hand, patent ofﬁces have an
+important role in the patent system as gatekeepers for the patentability of
+nanotechnology inventions. In fulﬁlling this role, they are highly dependent on a
+uniform terminology and metrology in nanotechnology. Differences in terminol-
+ogy and metrology can have far-reaching implications, ultimately that patents are
+granted that should not have been granted in the ﬁrst place. Patent ofﬁces should
+therefore make sure that their standardization needs are taken into consideration.
+On the other hand, patent ofﬁces, being in the unique position they are in, see many
+applications from various domains of nanotechnology and, thus, could deliver an
+important contribution to the standardization process. In short, there is good
+reason to have patent ofﬁces participating in standard-setting processes concerning
+terminology and metrology.
+
+Industrial Applicability
+In situations of technological change, such as with emerging technologies, there is a
+certain risk that broad patents are being granted on enabling technology. This has
+possibly been the case in biotechnology where patents have been granted on
+upstream research results (Heller and Eisenberg, 1998; Zekos, 2006b). Theoreti-
+cally, the requirement of industrial applicability could be used as a brake on
+overbroad, upstream research patents that are far removed from a product that
+could be placed on the market. Given their abstract character, they may have no
+‘‘practical’’ application. In reality, however, the EPO hardly uses the industrial
+applicability requirement for this purpose (EPO, 2006, pp. 170–1).
+
+In the ﬁeld of biotechnology, efforts have been made to use industrial
+applicability for just that purpose. The European directive on biotechnological
+inventions (directive 98/44/EC), article 5(3) indicates that the industrial application
+of a sequence or a partial sequence of a gene must be disclosed in the patent
+application. It is not quite clear how this provision must be interpreted. One option
+is to see it as a mere repetition of the general patentability requirement of industrial
+applicability. This interpretation does at ﬁrst seem less likely since it would be
+non-sensical: it does not add anything to the normal application of the require-
+ment of industrial applicability. The other interpretation implies that a gene patent
+should be a purpose-bound patent, that is, it only confers an exclusive right to
+use the gene for the purpose stated in the patent claims. The latter interpre-
+tation would make for speciﬁc law for gene patents. In 2005, the European
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+69
+
+Maurice Schellekens
+
+Patenting Nanotechnology in Europe
+
+Commission evaluated the effect of article 5(3) of the directive.16 The commission
+indicated that:
+
+as a speciﬁc ﬁeld of technology becomes mature, the application of the
+normal patent criteria of novelty, inventive step and industrial applicability
+means that future patents are necessarily limited in scope because the
+invention claimed has to be distinguished from the vast array of what
+is already known in the ﬁeld[11]. As it is now seventeen years since a
+Directive was ﬁrst proposed, it may be questionable whether attempting to
+further reﬁne the scope of protection of gene sequence patents in the light
+of divergences between national legislations will have any signiﬁcant effect
+on actors in the ﬁeld (European Commission, 2005).
+
+The Commission indicates that in relatively short time this piece of special
+legislation—if at least it is to be interpreted as such—has made itself superﬂuous.
+Apparently, purpose-bound patents do not give patentees an effective protection.
+Patents would become too narrow. What implications does this have for the
+desirability of speciﬁc rules for the industrial applicability of nanotechnology
+patents? It is likely that also in the case of nanotechnology patents the issuing of
+overbroad patents—if at all—is a problem associated with the initial stages of
+development of the technology. The lack of scientiﬁc knowledge and prior art in
+general makes it difﬁcult to draw a line between broad and overbroad protection.
+Any attempt at a solution of what seems to be a recurring problem with any new
+technology will be handicapped by the same lack of scientiﬁc insight in the nascent
+technology and therefore difﬁcult to implement. The slowly growing scientiﬁc insight
+in the technology seems rather to point to a solution later in the technology life cycle.
+Opening up possibilities for revocation of an overbroad patent ‘‘later on’’ would be a
+more natural intervention. Opposition against a ‘‘European patent’’ is, however,
+limited to just 9 months after the grant. In this respect, the advent of a centralized
+court system would be a welcome development. The European Commission has only
+in March 2009 requested a mandate from the European Council to negotiate a treaty
+on the so-called Uniﬁed Patent Litigation System which would create such a court
+(European Commission, 2009). The actual establishment of the court will probably
+only take place after many years. Lack of industrial applicability is, however, an
+unlikely ground for invalidating patents later on. Often upstream research results
+can be very close to practical applications. With the passing of time, only more
+applications for the invention will become apparent. Lack of novelty and inventive-
+ness seem more likely candidates. With time, the understanding of a technology will
+grow, the technical terminology will become more harmonized, and accessibility and
+overview of the technical literature will become better. These circumstances may
+cause a different assessment of novelty and inventiveness ex post and be a ground for
+invalidating patents that should not have been granted in the ﬁrst place. Invalida-
+tions later in a patent’s lifecycle do, however, run the risk of lessening legal certainty
+with respect to the validity of granted patents and must therefore be used with care.
+
+70
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+Patenting Nanotechnology in Europe
+
+Maurice Schellekens
+
+In conclusion,
+
+industrial applicability does not seem to be a particularly
+suitable candidate for keeping patents in nanotechnology at bay. Many patents
+concern matter that can be used to build practical applications and are often
+industrially applicable by their nature.
+
+Conclusion
+
+According to the European Commission, Europe is not good at transforming
+nanotechnology research into marketable applications (European Commission,
+2004, p. 7). Thus, while the numbers show that nanotechnology-based patents have
+not reached the high volumes some would have hoped for, patent law is not to
+blame (Kinsler, 2006). It offers enough room to patent nanotechnological inven-
+tions. The possibilities for patenting nanotech inventions should be considered
+positive.
+
+At the same time, nanotechnology has a number of characteristics that raise the
+risk of over-patenting, such as patents on building blocks of the technology and
+overlapping patents through inconsistent use of terminology. In this article, it is
+argued that such concerns should be addressed. A number of avenues have been
+identiﬁed for improving the application of the patent law, speciﬁcally as it relates to
+the inherent nuances of nanotechnology inventions. A person skilled in the art of
+nanotechnology should be chosen, for example, as a team of not too highly qualiﬁed
+workers in the partaking technologies. Furthermore, patent ofﬁces should closely
+follow work in standardization of terminology and metrology in nanotechnology
+and, if possible, they should participate in standard-setting processes. For now, a
+focus on the quality of issued patents as a means to address over-patenting is timely.
+Nanotechnology is still at an early stage of research and patenting. Products
+are only trickling onto the market. At a later stage when applications of nano-
+technology are being developed, ways of facilitating the licensing of nanotechnology
+will also become a relevant instrument for dealing with innovation in a ﬁeld where
+many and broad patents exist.
+
+About the Author
+
+Maurice H. M. Schellekens, M.Sc., J.D., LL.M., Tilburg Institute for Laws
+Technology and Society, Tilburg University; e-mail: m.h.m.schellekens@uvt.nl
+
+Notes
+
+1 T0547/99—Orica Australia/BASF [online]. Available at hhttp://legal.european-patent-
+
+ofﬁce.org/dg3/pdf/t990547eu1.pdfi [Accessed September 2008].
+
+2 T0552/00—Smithkline Beecham Biologicals/Wyeth, Reason 20 [online]. Available at hhttp://
+
+legal.european-patent-ofﬁce.org/dg3/pdf/t000552eu1.pdfi [Accessed September 2008].
+
+3 T0006/02—Celanese Acetate/Rhodia Acetow [online]. Available at
+
+european-patent-ofﬁce.org/dg3/pdf/t020006eu1.pdfi [Accessed September 2008].
+
+hhttp://legal.
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+71
+
+Maurice Schellekens
+
+Patenting Nanotechnology in Europe
+
+4 T0206/83, ICI, EPO Ofﬁcial Journal, 1987, 005. For US Patent law, see 158 USPQ 596
+
+(CCPA 1968) In re Hoeksema.
+
+5 An exception to this is of course the ﬁrst medical indication (see article 54(5) of the
+EPC) where a purpose-bound product claim based on a novel medical use is allowed,
+even though the product (substance) itself is not novel anymore. This exception
+is widened in the EPC 2000 to second medical indications. Where previously a Swiss-
+type claim was needed, under EPC 2000 a narrow purpose-bound product claim can
+be used.
+
+6 See also decision T12/81 BAYER/Diastereomers (1979–85) EPOR Vol B 308 (at 312).
+7 T0070/99—Trustees of the University of Pennsylvania/Affymetrix [online]. Available at
+hhttp://legal.european-patent-ofﬁce.org/dg3/pdf/t990070eu1.pdfi [Accessed September
+2008].
+
+8 T0268/96—AT&T [online]. Available at hhttp://legal.european-patent-ofﬁce.org/dg3/
+
+pdf/t960268eu1.pdfi [Accessed September 2008].
+
+9 According to the patent under consideration, an oxide layer is formed by simply
+exposing the substrate to air. This native oxide is at most 10 nm thick, that is, several
+tens of atom layers thick. The patterning of the native oxide layer is carried out using
+irradiating ions on selected areas of the oxide. The irradiated areas are damaged which
+make them more susceptible to etching. After the etching step, only the native oxide that
+was not irradiated remains and the substrate is exposed in the selected areas.
+
+10 Brenner v Manson 383 US 519 (1966).
+11 T0409/91—Exxon [online]. Available at hhttp://legal.european-patent-ofﬁce.org/dg3/
+
+pdf/t910409ex1.pdfi [Accessed September 2008].
+
+12 T0487/03—PALM Microlaser-Technologie/Leica Microsystems, Entscheidungsgrund
+
+2.3 [online]. Available at hhttp://legal.european-patent-ofﬁce.org/dg3/pdf/
+t030487du1.pdfi [Accessed September 2008].
+
+13 The original German text: Die von der Beschwerdef ¨uhrerin genannte Stelle in den
+
+Richtlinien D V 4.3. besagt, da der Patentinhaberin die Beweislast f ¨ur die
+Ausf ¨uhrbarkeit der Erﬁndung obliegt, falls die Einspruchsabteilung ernsthaft an ihr
+zweifelt [z. B. wenn die Einsprechende sie mit Versuchen belegt].
+
+14 The EPO has taken measures to prevent this from happening.
+15 See T60/89, Ofﬁcial Journal 1992, 268, T694/92, T187/93 and T412/93.
+16 See article 16b of directive 98/44/EC.
+
+References
+
+Action Group on Erosion, Technology and Concentration (2005) Nanotech’s ‘Second Nature’
+
+Patents: Implications for the Global South [online]. Action Group on Erosion,
+Technology and Concentration. Available at hhttp://www.etcgroup.org/en/materials/
+publications.html?pub_id=54i [Accessed May 2008].
+
+Almeling, D. S. (2004) ‘Note: Patenting Nanotechnology: Problems with the Utility
+
+Requirement’, Stanford Technology Law Review, N1.
+
+American Society for Testing and Materials (2006) ASTM E2456-06 Standard terminology
+
+Relating to Nanotechnology. Doi 10.1520/E2456-06.
+
+72
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+Patenting Nanotechnology in Europe
+
+Maurice Schellekens
+
+American Society for Testing and Materials (2009) ASTM WK8051—New Standard
+
+Terminology for Nanotechnology [online]. Available at hhttp://www.astm.org/
+DATABASE.CART/WORKITEMS/WK8051.htmi [Accessed April 2009].
+
+Axford, L. A. (2006) ‘Patent Drafting Considerations for Nanotechnology Inventions’,
+
+Nanotechnology Law and Business, 3(3), 305–8.
+
+Ball, Ph. (2005) ‘Putting the Nano into Nanochemistry’, Chemistry World [online]. Available
+
+at hhttp://www.rsc.org/chemistryworld/Issues/2005/December/nano.aspi [Accessed
+January 2009].
+
+Baluch, A. S., Radomsky, L. and Maebius, S. B. (2005) ‘In Re Kumar: The First Nanotech
+
+Patent Case in the Federal Circuit’, Nanotechnology Law and Business, 2(4), 342–6.
+
+Baluch, A. S., Wilson, B. and Miller, J. C. (2008) ‘Patenting Graphene: Opportunities and
+
+Challenges’, Nanotechnology Law and Business, 5(3), 289–300.
+
+Barraclough, E. (2007) ‘Examiners Issue Patent Quality Warning’, Managing Intellectual
+Property [online]. Available at hhttp://new.managingip.com/Article.aspx?ArticleID=
+1329577i [Accessed April 2009].
+
+Barton, J. H. (1997) ‘Patents and Antitrust: A Rethinking in Light of Patent Breadth and
+
+Sequential Innovation’, Antitrust Law Journal, 65(2), 449–66.
+
+Benkard, G. and Asendorf, C. D. (2006) Patentgesetz, Gebrauchsmustergesetz. Beck’sche
+
+Kurz-Kommentare, M ¨unchen.
+
+Boldrin, M. and Levine, D. (2002) ‘The Case Against Intellectual Property’, American
+
+Economic Association Papers and Proceedings, 92, 209–12.
+
+Borisenko, V. E. and Ossicini, S. (2008) What is What in the Nanoworld. A Handbook on
+
+Nanoscience and Nanotechnology. Wiley-VCH, Weinheim.
+
+Dixon, M. (2004) ‘European Patent Review’, Nanotechnology Law and Business, 1(1), 100–3.
+Dunens, O. M., MacKenzie, K. J., See, C. H. and Harris, A. T. (2008) ‘Inconsistencies in the
+
+Carbon Nanotube Patent Space: A Scientiﬁc Perspective’, Nanotechnology Law and
+Business, 1, 25–40.
+
+European Commission (2004) Towards an European Strategy for Nanotechnology [online].
+
+Ofﬁce for Ofﬁcial Publications of the European Communities, Luxembourg. Available
+at hhttp://ec.europa.eu/research/industrial_technologies/pdf/nanotechnology_
+communication_en.pdfi [Accessed May 2008].
+
+European Commission (2005) Report from the Commission to the Council and the European
+Parliament—Development and Implications of Patent Law in the Field of Biotechnology
+and Genetic Engineering [online], SEC (2005) 943, COM/2005/0312 ﬁnal, Ofﬁcial Journal
+C211 of 30 August. Available at hhttp://europa.eu/scadplus/leg/en/lvb/l26026b.htmi
+[Accessed May 2008].
+
+European Commission (2009) Recommendation from the Commission to the Council to
+Authorise the Commission to Open Negotiations for the Adoption of an Agreement
+Creating a Uniﬁed Patent Litigation System [online], SEC (2009) 330 ﬁnal, 20 March.
+Available at hhttp://ec.europa.eu/internal_market/indprop/docs/patent/recommendation_
+sec09-330_en.pdfi [Accessed April 2009].
+
+European Group on Ethics (2007) Opinion on the Ethical Aspects of Nanomedicine [online],
+
+Opinion No. 21, 17 January [online]. Available at hhttp://ec.europa.eu/
+european_group_ethics/activities/docs/opinion_21_nano_en.pdfi [Accessed May 2008].
+
+European Patent Ofﬁce (2006) Case Law of the Boards of Appeal of the European Patent
+
+Ofﬁce [online], 5th edition, December 2006. Available at hhttp://www.epo.org/about-us/
+publications/procedure/case-law.htmli [Accessed May 2008].
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+73
+
+Maurice Schellekens
+
+Patenting Nanotechnology in Europe
+
+European Patent Ofﬁce (2009) Nanotechnology in European Patents—Challenge and
+
+Opportunity [online]. Available at hhttp://www.epo.org/focus/issues/nanotechnology.
+htmli [Accessed May 2008].
+
+Forman, J. A. (2002) ‘A Timing Perspective on the Utility Requirement in Biotechnology
+
+Patent Applications’, Albany Law Journal of Science and Technology, 12, 647–82.
+
+Gerhardt, P., L ¨ofﬂer, S. and Homann, K. H. (1987) ‘Polyhedral Carbon Ions in
+
+Hydrocarbon Flames’, Chemical Physics Letters, 137(4), 306–10.
+
+Germinario, C. (2006) ‘From Biotech to Nanotech Inventions—Effective Patenting
+
+Strategies’, Bioprocessing and Biopartnering, 54–8.
+
+Hacon, R. and Pagenberg, J. (eds) (2008) Concise European Patent Law, 2nd edition. Kluwer
+
+Law International, Dordrecht.
+
+Harris, D. L. and Bawa, R. (2007) ‘The Carbon Nanotube Patent Landscape in
+
+Nanomedicine: An Expert Opinion’, Expert Opinion on Therapeutic Patents, 17(9),
+1165–74.
+
+Heller, M. A. and Eisenberg, R. (1998) ‘Can Patents Deter Innovation? The Anticommons in
+
+Biomedical Research’, Science, 280(5364), 698–701.
+
+Hullmann, A. (2006) The Economic Development of Nanotechnology—An Indicators Based
+
+Analysis [online]. European Commission, DG Research, 28 November. Available at
+hftp://ftp.cordis.europa.eu/pub/nanotechnology/docs/nanoarticle_hullmann_nov2006.
+pdfi [Accessed September 2008].
+
+Hullmann, A. and Frycek, R. (2007a) ‘IPR in Nanotechnology—Lessons from Experiences
+Worldwide’ [online]. Proceedings of the workshop in the frame of the INC3 conference
+of 16 April, version 2 May. Available at hftp://ftp.cordis.europa.eu/pub/
+nanotechnology/docs/iprworkshop_proceedings_02052007en.pdfi [Accessed May
+2008].
+
+Hullmann, A. and Frycek, R. (2007b) Results from the International Workshop ‘IPR in
+
+Nanotechnology—Lessons from Experiences Worldwide’ [online]. World Patent
+Information 29, 395–398. Available at hhttp://dx.doi.org/10.1016/j.wpi.2007.07.006i
+[Accessed April 2009].
+
+International Organization for Standardization (2008) ISO/TS 27687:2008, ‘Nano-
+technologies —Terminology and Deﬁnitions for Nano-Objects—Nanoparticle,
+Nanoﬁbre and Nanoplate.’
+
+Kallinger, Chr. (2007) ‘Nanotechnology patents at the European Patent Ofﬁce’, in ‘IPR in
+Nanotechnology: Lessons from Experiences Worldwide’, proceedings of a conference
+held in Brussels, 16 April [online]. Available at hftp://ftp.cordis.europa.eu/pub/
+nanotechnology/docs/iprworkshop_kallinger_en.pdfi [Accessed September 2008].
+
+Kanama, D. (2006) ‘Patent Application Trends in the Field of Nanotechnology’, NISTEP’s
+Science & Technology Trends—Quarterly Review [online], 21, 77–88. Available at hhttp://
+www.nistep.go.jp/achiev/ftx/eng/stfc/stt021e/qr21pdf/STTqr2105.pdfi [Accessed July
+2007].
+
+Kinsler, M. (2006) ‘Is Europe up to Speed on Nanotechnology?’, Electronicsweekly.com
+
+[online], 13 November. Available at hhttp://www.electronicsweekly.com/Articles/2006/
+11/13/40124/Is+Europe+up+to+speed+on+nanotechnology.htmi [Accessed May
+2008].
+
+Krempl, S. (2006) ‘Neue Streikwelle beim Europaischen Patentamt’, HeiseOnline [online].
+Available at hhttp://www.heise.de/newsticker/meldung/79999i [Accessed April 2009].
+
+74
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+Patenting Nanotechnology in Europe
+
+Maurice Schellekens
+
+Lemley, M. A. (2005) ‘Patenting Nanotechnology’, Stanford Law Review, 58(2), 601–30.
+Lemley, M. A. (2008) ‘Are Universities Patent Trolls?’, Fordham Intellectual Property, Media
+
+and Entertainment Law Journal, 18(3), 611–31.
+
+Letham, L. (2005) ‘Legal and Technology Issues Associated with Nanotechnology’, News
+
+from the Bottom, 1–14.
+
+Lux Research (2005) The Nanotech Intellectual Property Landscape [online], Abstract.
+Available at hhttp://www.foley.com/ﬁles/tbl_s31Publications/FileUpload137/2655/
+SOF_NTS-R-05-002.pdfi [Accessed January 2009].
+
+Meyer, M. (2001) ‘Socio-Economic Research on Nanoscale Science and Technology: A
+
+European Overview and Illustration’, in M. C. Roco and W. S. Bainbridge (eds),
+Societal Implications of Nanoscience and Nanotechnology, National Science Found.
+Kluwer, Dordrecht, pp. 278–311.
+
+Michalitsch, R., Kallinger, Chr., Verbandt, Y., Veefkind, V. and Huebner, S. R. (2008) ‘The
+Fullerene Patent Landscape in Europe’, Nanotechnology Law and Business, 5(1), 85–92.
+
+Organization on Economic Cooperation and Development (2008) ‘Final report’, in ‘ISO,
+
+IEC, NIST and OECD International Workshop on Documentary Standards for
+Measurement and Characterization for Nanotechnologies NIST’ [online], proceedings
+of a conference held at Gaithersburg, MD, USA, 26–28 February. Available at hhttp://
+www.standardsinfo.net/info/livelink/fetch/2000/148478/7746082/assets/ﬁnal_report.
+pdfi [Accessed April 2009].
+
+Paredes, J. P. (2006) ‘Written Description Requirement in Nanotechnology: Clearing a
+
+Patent Thicket?’, Journal of the Patent and Trademark Ofﬁce Society, 88(6), 489–512.
+
+Pradeep, T. (2007) NANO: The Essentials. Understanding Nanoscience and Nanotechnology.
+
+McGraw-Hill, New York.
+
+Project on Emerging Technologies, The (2009) Consumer Products. An Inventory of
+
+Nanotechnology-Based Consumer Products Currently on the Market [online]. Available at
+hhttp://www.nanotechproject.org/inventories/consumer/i [Accessed May 2008].
+
+Sabety, T. (2005) ‘Nanotechnology Innovation and the Patent Thicket: Which IP Policies
+
+Promote Growth?’, Albany Law Journal of Science and Technology, 15, 477–516.
+
+Sanderson, K. (2006) ‘Sharpest Cut from Nanotube Sword: Carbon Nanotech may have
+Given Swords of Damascus Their Edge’, NatureNews [online]. Available at hhttp://
+www.nature.com/news/2006/061113/full/news061113-11.htmli [Accessed September
+2008].
+
+Scheu, M. (2004) ‘Nanotechnology Patents at the EPO’, in ‘International Symposium on
+
+Nanotechnology and Patenting, European Patent Ofﬁce’ [online], proceedings of a
+symposium held at The Hague, 9–10 November. Available at hhttp://academy.epo.org/
+schedule/2004/_pdf/scheu.pdfi [Accessed on May 2008].
+
+Scheu, M. (2005) Nanotechnology—Interdisciplinary Searching [online], EPO-presentation.
+Available at hhttp://www.european-patent-ofﬁce.org/epidos/conf/epic2005/workshops/
+pdf/workshop_c_extra_presentation.pdfi [Accessed July 2007].
+
+Schmid, G. (2008) Nanotechnology. Vol. 1: Principles and Fundamentals. Wiley-VCH,
+
+Weinheim.
+
+Scotchmer, S. (1996) ‘Protecting Early Innovators: Should Second Generation Products Be
+
+Patentable?’, Rand Journal of Economics, 27(2), 322–31.
+
+Scott Roe, R. (2006) ‘Nanotechnology: When Making Something Smaller is Non-Obvious’,
+
+Boston University Journal of Science and Technology Law, 12(1), 127–58.
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+75
+
+Maurice Schellekens
+
+Patenting Nanotechnology in Europe
+
+Shapiro, C. (2001) ‘Navigating the Patent Thicket: Cross Licenses, Patent Pools and
+
+Standard Setting’, in A. B. Jaffe, J. Lerner and S. Stern (eds), Innovation Policy and the
+Economy. MIT Press, Cambridge, MA, pp. 119–50.
+
+Stehr, J., Hrelescu, C., Sperling, R. A., Raschke, G., Wunderlich, M., Nichtl, A., Heindl, D.,
+K ¨urzinger, K., Parak, W. J., Klar, T. A. and Feldmann, J. (2008) ‘675-Pos Gold Nano-
+Stoves for Microsecond DNA Melting Analysis’, Biophysical Journal, 94(2), 568.
+
+Tullis, T. K. (2008) ‘Current Intellectual Property Issues in Nanotechnology’, Nanoletters,
+
+8(2), 619–23.
+
+Walsh, J. P., Arora, A. and Cohen, W. M. (2003) ‘Research Tool Patenting and Licensing
+
+and Biomedical Innovation’, in W. M. Cohen and S. A. Merrill (eds), Patents in the
+Knowledge-Based Economy. The National Academies Press, Washington, DC,
+pp. 285–340.
+
+Wang, Y., Wei, F., Luo, G., Yu, H. and Gu, G. (2002) ‘The Large-Scale Production of
+
+Carbon Nanotubes in a Nano-Agglomerate Fluidized-Bed Reactor’, Chemical Physics
+Letters [online] 364(5), 568–72. Available at hhttp://www.chemeng.tsinghua.edu.cn/
+scholars/wangyao/publication%20and%20patent/The%20large-
+scale%20production%20of% 20carbon%20nanotubes%20in%20a%20nano-
+agglomerate%20ﬂuidized-bed% 20reactor%20(CPL).pdfi [Accessed April 2009].
+
+Zekos, G. I. (2006a) ‘Nanotechnology and Biotechnology Patents’, International Journal of
+
+Law and Information Technology, 14(3), 310–69.
+
+Zekos, G. I. (2006b) ‘Patenting Abstract Ideas in Nanotechnology’, The Journal of World
+
+Intellectual Property, 9(1), 113–36.
+
+76
+
+r 2009 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 1
+
+

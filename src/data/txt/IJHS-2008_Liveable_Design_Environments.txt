@@ -1,0 +1,819 @@
+International Journal of Heritage Studies
+
+ISSN: 1352-7258 (Print) 1470-3610 (Online) Journal homepage: https://www.tandfonline.com/loi/rjhs20
+
+Making a Liveable ‘Place’: Content Design in Virtual
+Environments
+
+Xiaolei Chen & Yehuda Kalay
+
+To cite this article: Xiaolei Chen & Yehuda Kalay (2008) Making a Liveable ‘Place’: Content
+Design in Virtual Environments, International Journal of Heritage Studies, 14:3, 229-246, DOI:
+10.1080/13527250801953710
+To link to this article:  https://doi.org/10.1080/13527250801953710
+
+Published online: 25 Apr 2008.
+
+Submit your article to this journal 
+
+Article views: 508
+
+Citing articles: 5 View citing articles 
+
+Full Terms & Conditions of access and use can be found at
+
+https://www.tandfonline.com/action/journalInformation?journalCode=rjhs20
+
+International Journal of Heritage Studies
+Vol. 14, No. 3, May 2008, pp. 229–246
+
+Making a Liveable ‘Place’: Content 
+Design in Virtual Environments
+Xiaolei Chen & Yehuda Kalay
+
+143000000May 2008
+XiaoleiChen
+Taylor and Francis
+RJHS_A_295537.sgm
+10.1080/13527250801953710
+International Journal of Heritage Studies
+1352-7258 (print)/1470-3610 (online)
+Original Article
+2008Taylor & Francis
+
+lilyxlchen@gmail.comThis paper argues that designers of virtual environments must not only design the context
+of their worlds (as architects do) but also assume at least partial responsibility for designing
+the content (as filmmakers do). The design of a virtual environment is, therefore, a unique
+task that combines the traits of both architects and filmmakers, a fact that has often been
+overlooked  by  designers  of  virtual  environments.  Only  by  taking  responsibility  for  both
+context and content, and being cognisant of the affordances and limitations of the medium
+used, can virtual environment designers create a sense of place, which will be comparable,
+if different, to the sense of place engendered by physical environments.
+
+Keywords: Content; Context; Place; Architecture; Film
+
+Rethinking the Design of Virtual Environments
+
+Virtual heritage reconstructions are becoming more prevalent, as modelling technolo-
+gies and the Internet make their development easier and more accessible. Their design
+must contend not only with the gathering of data and their faithful translation into 3D
+models but also with a myriad of technical, cultural, ethical, and social issues: What to
+depict? What not? When to depict it? According to whose interpretation? Who is the
+audience  the  recreation  is  intended  to  serve?  Is  the  model  appropriate  for  this  age
+group? How do we know? These issues and others have been the subject of numerous
+conferences, papers, and books.1
+
+This paper focuses on yet another issue, one that is often ignored, or is less recog-
+nised, in the design of virtual heritage reconstructions. It is the issue of designing the
+activities  that  visitors  to  the  virtual  reconstruction  will  engage  in.  We  refer  to  it  as
+designing the content of the reconstruction, in addition to designing its context. This
+issue  arises  because  the  new  representational  media  transform  a  cultural  heritage
+
+Xiaolei Chen & Yehuda Kalay, University of California, Berkeley. Correspondence to: lilyxlchen@gmail.com
+
+ISSN 1352–7258 (print)/ISSN 1470–3610 (online) © 2008 Taylor & Francis
+DOI: 10.1080/13527250801953710
+
+230 X. Chen & Y. Kalay
+
+reconstruction from a means of communication to an environment that affords a vari-
+ety  of  online  activities.  As  such,  their  design  merits  a  closer  look  at  the  difference
+between a digital model and virtual environment: a digital model depicts the build-
+ing, the monuments and the artefacts of a cultural heritage site, and sometimes the
+depiction  of  the  people  who  lived  and  worked  at  that  site.  A  virtual  environment
+adds the ability to ‘visit’ the site in the form of an avatar—an embodied representa-
+tion  of  the  visitor.  This  ability  transforms  the  model  from  an  abstraction  into  a
+‘lived’ place. Our argument is that this important fact is not often recognised by the
+designers  of  virtual  cultural  heritage  projects,  nor  do  they  have  the  competencies
+needed to address the issue when it is recognised. By extension, this issue applies also
+to other kinds of virtual environments—those that do not necessarily depict cultural
+heritage.
+
+The essential function of any environment is to offer both content (activity) and
+context (physical and socio-cultural setting) for the embodiment of individuals who
+engage in the activity. Such embodiment—that is, interacting with both the context
+and the content—creates a sense of place.2 Therefore, any environmental design—both
+physical and virtual—is a combination of both context/setting design, and content/
+activity design.
+
+Content, in particular, plays a key role in making a place, because places are settings
+for complex and rich events since they provide a reason and a purpose for being there.3
+A variety of events such as shopping, entertainment, learning and conferencing occur
+in both physical and virtual environments, which activate otherwise ‘dead’ spaces and
+turn lifeless settings into inviting places.
+
+The role of content/activity in place making involves: 
+
+● Motivating and enforcing the individual’s engagement with the environment, serving
+as the reason and purpose for the individual’s being in the place and returning to the
+place later. Visiting a museum, or a ball game, are examples of such events. Through
+activities, especially some symbolic activities, people become intimately involved in
+interactions with the world, not only physically but also socially and culturally. These
+interactions ground the achievement of a profound place experience.
+
+● Helping  to  establish  the  event  by  promoting  the  inherent  context  of  a  place  and
+arousing a transactional context, thus playing a key role in ‘activating’ and ‘nurtur-
+ing’ a sense of place. If the content (e.g. worship) conforms to the inherent context
+of the environment (e.g. a church), it will resonate with individuals who participate
+in this event and thus will significantly promote the sense of place (e.g. a sacred, ritu-
+alistic  environment).  On  the  other  hand,  if  the  content  contradicts  the  inherent
+context (e.g. playing a game of cards in the church’s sanctuary), the clash between
+the content and the inherent or perceived context will cause a dissonance between
+the occupants and the place, and thereby diminish their sense of place.
+
+Therefore, activity is a significant component of an environment and is essential to the
+achievement of a live environment.
+
+Architects generally do not design content directly. Instead, they design a physical
+setting (space) within given contexts (physical, cultural, social, legal, economic, etc.).
+
+International Journal of Heritage Studies
+
+231
+
+The settings they design imply certain contents (activities) through spatial clues that
+have  certain  physical  affordances,  sequences  of  traversal  and  aesthetic  moods.  For
+example,  a  corridor  can  be  designed  to  afford  transition  from  space  to  space,  or  to
+encourage  serendipitous  encounters  between  the  people  who  travel  through  it;  an
+open space can be designed to attract passers-by and promote social gatherings, or to
+be  formal  and  forbidding,  to  be  used  only  on  special,  official  occasions;  the  colour
+scheme in a clinic can be designed to calm the patients, or to elicit activity. Architects
+are  also  experienced  in  designing  assemblies  of  spaces  that  encourage  certain
+sequences of events. For example, the spatial sequence of galleries in a museum plays
+a  key  role  in  structuring  the  experience  of  visiting  the  exhibits.  Furthermore,  the
+shape, size, colour, lighting and texture of a space strongly impacts the cultivation of
+certain  moods  for  the  activity.  Therefore,  content,  in  physical  environments,  is
+achieved through the design of the physical space, within a larger context that is typi-
+cally  taken  to  be  outside  the  architect’s  responsibility.  Content  is  implied  or
+suggested, rather than defined explicitly. Much like the larger context of the environ-
+ment,  the  content  is  often  pre-defined  (such  as  by  the  client,  the  society,  the  legal
+code, etc.).
+
+In cinema and video games, on the other hand, the situation is reversed. Filmmakers
+and game designers control not only the context but more importantly the actions and
+scenarios (plots). The settings (the ‘stage’) are designed as corresponding backdrops
+that  support  the  occurrence  and  development  of  those  activities.  Thus,  in  cinema,
+activities play a dominant role, while settings are viewed only as a passive background,
+serving the activity and changing dynamically with it. Therefore, unlike architects who
+focus on the design of settings and spaces, filmmakers start from and concentrate on
+storyboards: the direct creator of various activities and events.
+
+The case of designing virtual environments, however, is different from both physical
+architecture and filmmaking. Unlike physical environments, there is no pre-defined
+‘larger’ context into which the designed environment must fit, nor does the designer
+have full control over the activities of the inhabitants. The design of virtual environ-
+ments resembles, metaphorically, landing on a vast, new, unoccupied continent. The
+newcomers have no or very few pre-defined socio-cultural practices to follow,4 and do
+not know what to do there or how to behave. They have much freedom to do as they
+please. To achieve some sense of coherence (i.e. make a place that can support social
+activities), virtual environment designers must not only design the context but also
+assume at least partial responsibility for designing the content. Designing virtual envi-
+ronments is, in this respect, closer to the activity of filmmakers than to the activity of
+architects. Yet, unlike passive movie audiences, the users of virtual environments are
+active participants in the action, much like the users of physical environments. Hence,
+the design of a virtual environment is a unique task, which combines the traits of both
+architecture  and  filmmaking,  a  fact  that  has  often  been  overlooked  by  designers  of
+virtual environments.
+
+Many virtual environment designers tend to spend much time on ‘environmental
+design’, working as ‘digital’ architects on the creation of virtual ‘bricks and mortar’
+settings, while ignoring the fact that in architecture there is usually clearly pre-defined
+
+232 X. Chen & Y. Kalay
+
+content whereas in a virtual environment there is none or very little. Therefore, their
+efforts often result in many ‘dead’ containers, devoid of live content, as evident in many
+deserted  digital  ‘worlds’.  Guided  by  this  working  philosophy,  a  virtual  heritage  site
+devoid of content (i.e. activity) may have no significant difference from a lifeless phys-
+ical model.
+
+Where Does the Content Come From?
+
+Since  in  virtual  environments  there  are  no  pre-defined  socio-cultural  practices  to
+follow, the ‘content’ (i.e. the activity) must be invented, or artificially imported from
+other, known socio-cultural contexts. That has been the case in Alpha World5 and in
+SecondLife,6 which are virtual environments that resemble everyday physical contexts
+in  most  respects:  they  are  filled  with  buildings,  trees  and  people  (or  rather  their
+avatars), who are expected to behave as they would in similar physical settings.
+
+Figure 1 Alpha World. (Pictures from www.activeworlds.com)
+Figure 2 SecondLife. (Pictures from www.secondlife.com)
+
+But  when  such  importation  is  used,  it  is  necessary  to  ask  whether  the  imports
+really do match the new socio-cultural context and its new affordances for activities.
+Alpha World’s and SecondLife’s virtual environments clearly do not represent such
+combinations  because  the  activities  they  afford  are  vastly  different  from  those
+afforded by the borrowed environments. Even virtual environments where the activi-
+ties  are  more  abstract,  such  as  e-banking  and  e-learning,  are  sufficiently  dissimilar
+from  their  physical-world  counterparts  to  require  rethinking  the  context/content
+relationships.
+
+Compared with those in physical environments (PE), the contents of virtual envi-
+ronments  must  differentiate  themselves  from  their  physical  counterparts  in  several
+ways.
+
+Firstly, the contents in virtual environments must take the affordance and limitation
+of this new medium into account. Although most of the contents in virtual environ-
+ments  can  be  contextualised  to  their  physical  counterparts  (such  as  e-transaction
+versus  physical  transaction;  online  forum  versus  physical  community),  they  are  not
+exactly mirrored images of physical contents: in many cases, powered or constrained
+by the new medium, people conduct the same activities in a different way in virtual
+environments than in physical environments. Examples include immediate conversa-
+tion  between  strangers  in  a  chatroom  or  virtual  worlds;  argumentation  in  a  direct,
+harsh  style  without  euphemistic  periphrasis  in  online  forums;  online  dating  across
+geographic  boundaries;  and  navigation  in  a  historical  site  along  both  spatial  and
+temporal  paths.  These  variances,  caused  by  the  variance  between  the  new  and  old
+medium  people  inhabit,  cause  the  emergence  of  many  new  social  situations  and
+cultural phenomena, which necessarily give birth to new behavioural patterns and rules
+to guide embodiment in the new environment. Thus content composition in virtual
+environments is not the process of copying physical behaviours into a virtual environ-
+ment, a process that was seen in the design of many virtual worlds, but rather the inven-
+tion of new forms of behaviour generated by the interplay between expectations and
+assumptions imported from the physical-social world and the alternation of the expec-
+tations due to the new environment.
+
+International Journal of Heritage Studies
+
+233
+
+Figure 1 Alpha World. (Pictures from www.activeworlds.com)
+
+Secondly,  the  imports  or  composition  of  content  for  virtual  environments  must
+conform to the larger social and cultural context within which its users actually reside,
+and  from  which  they  derive  their  metaphors,  and  social  and  cultural  conventions.
+A good example is the sequential characteristic of activities.
+
+In  the  physical  world,  activities  and  events  are  generally  ordered  by  an  inherent,
+chronological sequence, which date back to different origins. In some cases, an activity
+has an inherent or default sequence as a result of socio-cultural customs. For example,
+a  wedding  comprises  a  set  of  sequential  events:  initiating  music,  parade,  testimony,
+ring-exchange  and  feast.  This  sequence  is  inherent  to  many  Western-style  weddings
+
+234 X. Chen & Y. Kalay
+
+Figure 2
+
+SecondLife. (Pictures from www.secondlife.com)
+
+because  it  is  ‘approved’  and  ‘maintained’  by  long-established  social  and  cultural
+customs, and hence becomes a cultural default order in such activities. In the case of a
+museum visit, however, the sequence is determined more by functional factors, such as
+the spatial configuration of the building, the arrangement of collections, etc. Rather
+than  being  cultivated  through  long-term  social  and  cultural  interactions  and  being
+inherently rooted in the navigation activities, these sequences are defined more arbi-
+trarily. As a result, when constraints are taken away, these types of sequences can be
+shuffled and rearranged.
+
+In virtual environments, owing to the shared author-right of an activity scenario,
+users gain partial control of the scenario, and gain partial control of the development
+of  the  activity:  the  new  medium  allows  the  scenario  to  be  ordered  according  to  the
+
+International Journal of Heritage Studies
+
+235
+
+user’s needs, resulting in a customised sequence. Thus, in virtual environments, the
+order of activities is no longer a fixed, pre-defined constant as in physical environments:
+it has become a variable in the formula that people can play with.
+
+The ‘shuffling’ or rearrangement of activities is more often seen in cases where the
+inherent  sequence  is  imposed  arbitrarily  as  a  result  of  various  functional,  practical
+reasons, such as in the case of a museum visit, in which it is very common for visitors
+to customise the navigation sequence according to their preference. In contrast, in the
+case of an online wedding,7 many of the original sequences are faithfully preserved,
+although this preservation might be metaphorical, e.g. the new-couple parade might be
+replaced by an animated parade walked by two roses or two cute puppies along a red
+path. This fidelity shows that socio-culturally inherent sequences are deeply rooted in
+people’s minds and play a hugely important role in facilitating perception and actions,
+and that even when it is technically feasible to eliminate them it is not psychologically
+appropriate to do so.
+
+Therefore, as argued above, the sequential development of an activity is powered by
+two  kinds  of  factors—physical,  functional  factors  and  socio-cultural  factors.  The
+virtual environment, as a powerful digital medium, in many cases can release its users
+from  the  constraints  of  the  first  kind,  but  it  remains  conservative  in  modifying  the
+constraints of the second kind, because of the profound association formed through
+long-standing interactions between people and the social, cultural environment within
+which they grow and live. Therefore, the ways in which people behave in the virtual
+world are often a complex and subtle reconfiguration of action in the physical world.
+As a result, the imports or composition of content for the virtual world must take the
+affordance and limitation of the medium used, and at the same time conform to the
+larger  social  and  cultural  context  within  which  its  users  live,  and  from  which  they
+borrow the social and cultural conventions.
+
+Content Design—Learning from Filmmakers and Architects
+
+Although many activities are initiated by the users of virtual environments, designers
+of such environments have to take partial responsibility for content composition, e.g.
+offer a framework for the occurrence of the activities, indicating paths/tracks for the
+development of the activities, etc. In contrast to the design of context (the space and
+the  objects  that  populate  it),  the  content  is  often  intentionally  designed  to  form  a
+scenario or narrative: the arrangement of a sequence of activities. Because an activity
+always occurs in a certain context, the scenario also defines a relationship between the
+content  and  the  context.  For  instance,  a  cinematic  screenplay  usually  defines  actor/
+event as well as the setting, including both the larger socio-cultural context and the
+immediate physical setting, such as the room in which the event occurs.
+
+Among  all  the  traditional  media  designers  (architecture,  cinema,  literature,  etc.),
+filmmakers  are  most  proficient  in  content  design:  their  primary  task  is  to  design
+‘content’ for a cinematic place. Thus they start from a storyboard and concentrate on
+how a series of activities unfolds. Unlike architects, for whom the design of the physical
+context is the primary concern, for filmmakers the activity has a dominant role in their
+
+236 X. Chen & Y. Kalay
+
+place making. Physical context—what they call ‘backdrop’ or ‘stage setting’—is viewed
+only as a passive ‘shell’ of the activity.
+
+The  absence  of  pre-defined  content,  as  discussed  above,  makes  the  design  of  the
+virtual environment, in many cases, more akin to the activity of filmmakers than the
+activity of architects. A game designer usually starts from a storyboard rather than from
+a 3D model of the virtual world, and a Web designer usually starts with a user’s activity
+scenario rather than with the design of the interface. However, virtual environment
+designers differ from filmmakers and game/Web designers in that they take on only
+partially the task of content design: instead of dictating a scenario for activities with a
+linear, detailed storyboard, the virtual environment generally offers a framework for
+the story to unfold and leaves plenty of room for its users to explore. The scenario of
+the virtual environment turns out to be a scripted yet editable one that allows for more
+interactivity than a cinematic scenario does.
+
+On the other hand, unlike movie audiences who are usually involved in the cine-
+matic place only passively, the users of virtual environments are active participants in
+the action, like the users of physical environments. They navigate among sites, watch
+scenes,  participate  in  activities,  talk  to  others,  etc.  They  take  active  roles  in  the
+performance, and their perception changes along with their active ‘movement’ in the
+space—an  experience  that  is  very  similar  to  architectural  experience.  Therefore,  a
+virtual  scenario  might  exhibit  similarities  to  an  architectural  scenario,  to  some
+degree.
+
+Hence, the design of a virtual environment is a unique task, which combines the
+traits  of  both  filmmakers  and  architects.  In  the  following  we  will  pursue  a  detailed
+discussion about what could be learned from the two media indicated above.
+
+Learning from the Filmmaker—Narrative Model and Presentation
+
+In  traditional  Hollywood  cinema,  narrative  plays  a  dominant  role  in  place  making.
+It integrates a series of settings and events into a framework in which a ‘place’ is born
+and nurtured. It dominates the audience’s emotional interaction with the ‘place’.
+
+How is narrative made in cinema?8
+Firstly, there is a story for each film. A typical cinematic story usually has a few key
+elements, such as a high concept (something in the story that catches the audience’s
+attention, arouses tremendous public appeal and keeps the audience interested during
+the flow of the story); a theme (which reveals what the narrative/story is really about,
+such as the philosophical idea behind the story); a backstory (a story within the story,
+for example to reveal the experiences of a character that occurred prior to the main
+action, which contributes to the character’s motivations).
+
+Secondly, the story unfolds. The process is called narrative making. This is where the
+structure of the story, or its ‘formula’, help to guide the filmmaker through the process
+of developing the story (e.g. three-act plot structure, a monomyth, etc.).
+
+Thirdly, the story is told to the audience via the screenplay, which serves to visualise
+the story and regulate what the audience actually sees on screen. The settings and events
+are displayed through backdrop design, shooting skills (establishing shots, wide shots,
+
+International Journal of Heritage Studies
+
+237
+
+etc.), and shot transitions (jump-cut, fade, dissolve, etc.). In addition to visual story-
+telling, the film also incorporates a set of audio storytelling traditions, such as dialogue,
+voiceover narration, music, sound effects, etc. These storytelling methods have been
+demonstrated to be as important as the story itself: they can significantly change the
+audience’s perception of the cinematic story.
+
+Therefore, in cinema, narrative is not built through a singular framework. Rather,
+the narrative model and the screenplay together achieve a narrative and present it to
+the audience.
+
+Learning from the Architect—Spatial Narrative: Integrating Space with Activity
+
+Many people believe that there is no active narrative making and storytelling in archi-
+tectural  design,  because  architects  do  not  design  ‘content/story’.  Indeed,  architects
+generally take over a pre-defined content scenario from the clients, legal codes, estab-
+lished  customs,  etc.  For  example,  the  ‘story’  of  a  school  may  be:  students  come  to
+school, learn, exercise, play, etc. Teachers come to school, prepare for teaching, lecture,
+meet,  grade  student  work,  etc.  The  architect  designs  a  set  of  associated  spaces  to
+support these functions and the workflow of the occupants.
+
+But architecture does include narratives within itself. The configuration of a series of
+spaces  indicates  certain  narratives.  A  small  atrium  between  the  classrooms  and  the
+teachers’ lounge may create opportunities for interactions between students and teach-
+ers. A long corridor varying in direction and width may cause changing behavioural
+patterns in walking-through activities. Moreover, different types of architecture may
+differ  in  the  strength  of  the  narrative  they  offer.  A  museum  usually  has  a  stronger
+narrative than a regular office building.
+
+Thus, there exist latent ‘stories’ in architecture. If we compare an architectural story
+with a cinematic story, we find the latter is more dramatic, full of high concept, hook,
+conflicts, etc. An architectural story is more about a sequence of activities.
+
+Moreover,  architects  do  perform  storytelling  activities:  their  storytelling  (screen-
+play) is achieved through what they call ‘design’—the configuration of the forms and
+spaces.  There  are  generally  two  attitudes  to  architectural  storytelling.  One  is  very
+passive:  designers  make  settings  according  to  the  original  script.  For  instance,  they
+design an office building according to functional requirements, work flows, etc. Some
+architects try to be more active by superimposing their own scenarios on the original
+scenario,  or  even  rewriting  the  original  scenario,  thereby  making  a  more  ‘dramatic’
+spatial narrative. For instance, by adding a huge atrium to the hotel, Portman made a
+significant change to the traditional hotel scenario: instead of staying in guest rooms,
+people now spend much more time in the indoor open space for viewing and for social
+interactions.  In  Villa  Savoye  (1928),  Le  Corbusier  composed  ‘a  true  architectural
+promenade’  made  of  views  that  are  constantly  changing,  unexpected  and  at  times
+surprising.9 In Parc De La Villette (1982), Bernard Tshumi constructed a ‘cinematic
+promenade’  by  shaping  architectural  spaces  into  a  montage  of  spectacular  move-
+ments.10 In these two examples, the architectural spaces are shaped into a particular
+‘housescape’ or ‘parkscape’, a scenarised space, and the individual, as both a navigator
+
+238 X. Chen & Y. Kalay
+
+and a viewer of the space, experiences a particular spatial narrative composed by the
+architect.
+
+Figure 3 Portman’s atrium. (Pictures from http://homepage.newschool.edu/ ∼quigleyt/vcs/jameson/portman.gif)
+Figure 4 Villa Savoye. (Picture from http://www.scottf.com/Europe99/citypics/villa)
+Figure 5 Parc De La Villette. (Pictures from http://www.diplomatie.gouv.fr/fr/IMG/gif/LF28_dossier3_0.gif and http://www.galinsky.com/buildings/villette/LAVILLETTE-A0049-1.jpg)
+
+The architectural narrative is thus achieved through the creation of a narrative of
+spaces.  Firstly,  space  becomes  the  main  actor/theme  in  the  architectural  narrative,
+through  which  certain  activities  are  implied/suggested,  and  through  which  certain
+emotions are aroused/suppressed. If we compare cinema to architecture, we may find
+that  in  cinema  people  ‘consume  a  story’,  and  in  architecture  people  ‘consume  a
+space’.
+
+Secondly, space often works as clues for the evolvement of the narrative. An architect
+may use certain configurations of spatial features (transition, lighting, shape, colour,
+size, contrast, viewing arrangement, etc.) to foreshadow the events, to shift the focus of
+attention,  to  suspend  disbelief,  or  to  create  surprise  at  certain  moments  during  the
+users’ navigation process.
+
+Adding narrative models into space configuration brings along different environ-
+mental experiences. A strong architectural narrative, such as that in Portman’s Hyatt
+hotels  and  Tshumi’s  Parc  De  La  Villette,  have  much  more  intensive  impacts  on
+users’  activity  and  may  stamp  their  environmental  experience  with  an  outstanding
+
+Figure  3 Portman’s  atrium.  (Pictures  from  http://homepage.newschool.edu/∼quigleyt/
+vcs/jameson/portman.gif)
+
+International Journal of Heritage Studies
+
+239
+
+Figure  4 Villa  Savoye.  (Pictures  from  http://www.abbs.com.cn/bbs/post/view?bid=18
+&id=1080678&sty=1&tpg=12&age=-1)
+
+‘narrative’ feature. A weak architectural narrative, on the other hand, generally leaves
+users more freedom in their navigation: they do not adhere strongly to a narrative,
+hence  may  interact  with  the  setting  in  more  flexible  ways.  Therefore,  the  role  of
+narrative models in spatial navigation, which is often thought to be a ‘self-initialised/
+self-organised’  activity,  is  to  impose  a  force  to  the  flow  of  navigation,  guiding  both
+the  navigation  action  and  the  perception  and  emotion  along  a  designed  path,  and
+
+240 X. Chen & Y. Kalay
+
+Figure 5 Parc De La Villette. (Pictures from http://www.diplomatie.gouv.fr/fr/IMG/gif/
+LF28_dossier3_0.gif 
+http://www.galinsky.com/buildings/villette/LAVILLETTE-
+A0049-1.jpg)
+
+and 
+
+finally reach a destination where a ‘sense of place’ that is expected by the designer is
+achieved.
+
+Figure 6 Spatial navigation with and without the narrative model.
+
+Narrative Making in Virtual Environments
+
+Narratives differ significantly in different types of virtual environment. For instance, like
+cinema, many games and entertainment virtual environments have a strong narrative,
+which unfolds along with the users’ activities. However, many other virtual environ-
+
+International Journal of Heritage Studies
+
+241
+
+Figure 6
+
+Spatial navigation with and without the narrative model.
+
+ments, such as some virtual reality environments, 3D online worlds, virtual cultural
+heritage sites, and most of the frequently seen commercial and personal sites, do not
+bear a strong, linearly unfolding narrative. Users of these virtual environments are more
+like architectural users, spending most of their time exploring the environment.
+
+It is not necessary to impose a dramatic narrative on all virtual environments, just as
+an office building does not have to be designed like the Louvre museum which bears a
+very strong narrative in its spatial configuration. However, a narrative can play a role
+in  shaping  users’  place  experience:  it  offers  attraction,  intensifies  engagement  and
+significantly colours the place experience. A trip to a place with unexpected, dramatic
+events may cause a place to be memorable, in contrast to a smooth yet boring trip. If
+virtual  environment  designers  could  apply  narrative  features  in  their  designs  to  a
+certain degree (depending on needs), their products might become more attractive and
+therefore more engaging to the users.
+
+Use of the narrative model—from sequence to narrative.   Much  like  architects  have
+been using cinematic narrative models in their works, intentionally applying a narra-
+tive model into a virtual environment may significantly enhance a user’s engagement
+and help create an impressive ‘place’ in his or her mind.
+
+Below we propose a few examples of how to apply a narrative model in virtual envi-
+ronments, including, in particular, virtual environments intended for the purpose of
+communicating cultural heritage. We believe that the application of these features will
+help to enhance the virtual user–environment interaction and benefit place making in
+the virtual environment. 
+
+● Hook/high concept: a hook is the core of a narrative. It keeps users/audience interested
+in the story flow. All successful games have hooks, from treasure finding and monster
+fighting, to dating. Many virtual environments, such as SecondLife, fail in that they
+offer an environment with an arid narrative—no attractive hook/high concept at all.
+Without a hook as a strong motivation for exploration, users quickly lose interest in
+the environment. But such hooks can be applied to virtual environments. Examples
+
+242 X. Chen & Y. Kalay
+
+might involve inserting a myth-discovery story in a virtual heritage site for tourists,
+offering a dating story in a virtual club for youngsters, introducing an atom-world
+adventure in an e-chemistry classroom for students, etc.
+Plot/story development: cinema has provided many strategies that we can borrow for
+developing a story in virtual environments. For example, a virtual scientific adven-
+ture  story  might  be  designed  with  the  three-step  narrative  structure:  exposition,
+complication and resolution. A myth discovery in a virtual heritage site might be
+designed in a structure resembling a monomyth which bears a specific story pattern.
+Furthermore, we can use conflicts, suspension of disbelief, event-foreshadowing, etc. as
+‘seasoning’ to the story and make it more attractive and engaging.
+
+● Multi-thread narrative: a key difference between virtual environment and cinema is
+that the narrative in virtual environment is non-linear: users share the authoring
+rights  of  the  narrative  with  its  designers.  Indeed,  their  participation  in  narrative
+making has given rise to a special product, a multi-thread narrative, which may make
+it difficult to apply a linear narrative model (as it used to be in cinema) to virtual
+environments. However, we could solve this problem by breaking the scenario into
+a number of threads and then applying narrative models to each of the threads (if
+there are a limited number of them), or to several main threads (if there are too
+many). Furthermore, even if there are multiple possible narratives, a few of them
+could be highlighted/emphasised, such as a guided tour, designed with an impres-
+sive narrative model (e.g. with hooks, strong suspension of disbelief, etc.), compared
+to a ‘free’ exploration of a cultural heritage site.
+Presenting/visualising narrative: as we have discussed above, when referring to narra-
+tive making in a medium, there is more than one track. A narrative model (story,
+plot) and visualisation/presentation together achieve a narrative and present it to
+the audience. Therefore, when talking about narrative making in virtual environ-
+ments, we will also need to consider development on these tracks in parallel. As in
+cinema in which there is a particular script for the screenplay of the story (backdrop/
+stage  set  definition,  lighting,  shooting  strategies,  etc.),  it  is  necessary  to  have  a
+scenario for visualising the story in virtual environments, because what the users
+actually see on screen significantly impacts on their perception of the story. Imagine
+if the lighting could change between different scenes and with different events (light-
+ing  up  suddenly  when  reaching  a  new  site,  dimming  when  failures  occur);  if  the
+camera’s  shooting  angle  and  distance  could  automatically  vary  with  events  (an
+overall picture or a bird’s eye view is displayed when a user wonders where to go, an
+immediate close-up pops up when a user finds his or her target …). These designed
+features will significantly impact on the users’ perception and their following actions
+hence impact on the flow of the story. Unfortunately, most of the current virtual
+environments, even games that have strong narrative models, do not have a ‘visual-
+isation script’ that is as exquisite as those in cinema.
+
+Cinema choreographs the viewpoint of its audience with a variety of meaningful vocab-
+ulary  in  camera  movement,  editing,  etc.  Slow  fading  has  a  different  value  from  a
+straight cut; a panning shot and zooming shot reveal their target in different ways. The
+
+●
+●
+International Journal of Heritage Studies
+
+243
+speed of mobile framing is motivated by different narrative needs.11 In virtual environ-
+ments we can also expect many kinds of perceived and cognitive movements, and it is
+possible to facilitate them with these narration techniques. For example, we can use
+transitions  between  shots/sequences  to  organise  or  categorise  events  in  the  virtual
+environment,  or  to  adjust  storytelling  pace/speed,  etc.;  we  can  use  an  animated
+sequence of ‘see an object, wide shot (establishing shot)—capture the object’s detail,
+mentally  zoom  in  to  a  close-up—capture  its  context  from  another  perspective,
+mentally zoom out to medium/wide shot and pan to get a holistic view …’ to narrate an
+encounter. Since the design is in harmony with the users’ perceptional process, it easily
+ties the users into the narrative.
+
+We can learn from the mutual interaction between screen space and off-screen space
+in cinema. For instance, when an avatar on the screen looks to the left at an object that
+is outside the screen space, curious at what attracts him or her, a user may ‘move’ left-
+ward into the ‘off-screen space’ and find the target in his or her gaze. This scenario
+matches the perceptual process of spectators and thus binds the screen reality with the
+mental development into an ongoing, explorative narrative. By designing such plots,
+we allow content to unfold in a more ‘narratised’ style.
+
+Many virtual environments use a first-person view: a view through the user’s own
+eyes that changes in real time with the user’s kinetic movement. This view makes it
+difficult to pre-define a ‘screen script’ for the whole story flow in a virtual environment.
+However,  we  can  provide  a  partial  definition,  i.e.  by  inserting  certain  pre-defined
+scripts into the flow while still leaving much room for users. For instance, when a user
+logs into a virtual environment, the first view that pops up can be an ‘establishing shot’
+(a  frequently  adopted  cinematic  shot,  which  typically  occurs  at  the  beginning  or
+resolution of the story); a wide panning shot might be supplied before s/he takes some
+critical action, so that s/he gets an overall picture of the site; when s/he walks through
+a dark corridor that is full of danger, a few trembling, dolly shots may be inserted into
+a series of real-time first-person snapshots, along with intensive audio effects; a close-
+up shot may pop up when s/he stands and looks at an object for a long time; a straight
+cut can be used between immediate actions/scenes changes for rhythm tightening; and
+a dissolve, cross-cut can be used when focus shifts, etc. Clever use of these screen presen-
+tation techniques may significantly impact on the flow of the story and help narrate
+the story.
+
+However,  a  particularly  important  rule  is  that  the  scenario  definition  should  not
+interrupt the story flow. We certainly do not want the import of these imposed features
+to harm the interactive narrative making, which is finally completed by the user rather
+than the designer. Therefore, the degree of interference/design is both an opportunity
+and a challenge.
+
+Furthermore, in virtual environments, a variety of storytelling traditions are folded
+into the medium. It incorporates not only the visual storytelling tradition (which is
+utilised  in  many  of  today’s  visual  media—including  film,  TV,  etc.)  but  also  other
+storytelling  traditions,  such  as  music,  sound  effects,  voiceover  narration,  dialogue,
+player-to-player chat and on-screen text dialogue. Therefore, we have a rich vocabulary
+for displaying/presenting the story.
+
+244 X. Chen & Y. Kalay
+
+Integrating space with activity.   In cinema, spatial settings are viewed as passive back-
+drops for stories. In contrast, space has a major role in architectural narrative making:
+the story is formed/developed/received step by step, along with the unfolding of the
+space. Virtual environments resemble architecture in that many of the virtual worlds
+are spatial, and exploration of the spaces is sometimes one of the intentions of the users.
+Therefore,  in  these  virtual  environments  the  narrative  making  cannot  be  separated
+from the major element—space. Unlike cinema, in which space might be degraded or
+even ignored in narrative making, space in virtual environments has to be seriously
+incorporated into the narrative, as one of the major actors.
+
+This fact has been recognised by most virtual environment designers. Unfortunately,
+many of them go too far: they spend so much time on the creation of the digital setting,
+working exactly as an architect, while ignoring the fact that in architecture there is a
+pre-defined content while in virtual environments there is little of it. As a result, their
+designs  cause  the  emergence  of  many  deserted  containers  without  live  content.
+Another reason for the prevalence of ‘simulation’ in virtual environments is the literal
+understanding of the context–content/space–behaviour relationship. There are many
+behaviour patterns associated with a space, which have been part of our lives for a long
+time and hence cannot be forgotten easily. Therefore, if a space (e.g. a classroom) is
+recreated (even metaphorically) in a virtual environment, it is possible that the associ-
+ated content and behaviour patterns (lecture/discussion/keeping silence) are recalled
+so that similar ‘spatial patterns’ or ‘spatial narratives’ can be replayed in the virtual
+environment. If this occurs, designers can easily predict the use of their product and
+further  use  the  prediction  to  guide  the  design,  just  as  an  architect  does.  However,
+applying spatial patterns in a virtual environment may be somewhat risky, as argued
+above: the social and cultural conventions may change according to the affordances
+and limitations of the new medium used. Therefore, such imports should be justified
+carefully.
+
+The rule here is to design the space into the narrative rather than view it either as a
+backdrop for a narrative, as in cinema, or as the only dominant factor, as in architec-
+ture. Thus, in contrast to a cinematic narrative and an architectural narrative, a virtual
+environment narrative stands in between the two—it is indeed an integration of space
+and activity. And virtual environment designers may relate context design to content
+design much more closely than architects and filmmakers. As a result, the context and
+content may respond to, or be interactive with, each other more actively in a virtual
+environment than in either of the two other media. For example, space may be used as
+a theme in the narrative. In architecture as well as in the virtual environment, space is
+always a theme because both of the media are thought of as ‘built spaces’. Visitors tend
+to understand the structures in terms of the intentionalities of an assumed designer.
+Furthermore, for many virtual environments, spatial exploration is one of the themes
+in their narrative. Adding a spatial adventure to the activities in a heritage site may
+promote space to a key status in the narrative. In that case, the space becomes both an
+actor and a carrier of the narrative; context and content become part of each other.
+
+Space could be used as a clue for the evolvement of the narrative: to foreshadow
+future events, to nurture a variety of emotions (surprise, pleasure, oppression, etc.)
+
+International Journal of Heritage Studies
+
+245
+
+through the configuration of a series of spaces. For example, the openings on the wall
+of a corridor allow the corridor walkers to view an event occurring in the yard to which
+the corridor leads, hence ‘foreshadow’ the story/event that the user may soon encoun-
+ter. The shape/colour/size of a space might serve as hints for the emotions aroused by
+the events occurring within it.
+
+Finally, we can foster the creation of a responsive space. In the virtual environment,
+given  the  power  of  the  digital  medium,  context  could  be  more  interactive  with  the
+content  than  in  the  physical  world.  The  space  might  respond  to  different  activities
+actively, e.g. changing colours with the mood, changing sizes with the number of occu-
+pants, changing shapes/textures with the themes, changing lighting as cues to following
+events, etc.
+
+Therefore, space, rather than an exquisite backdrop as seen in many of the current
+spatialised  virtual  environments,  could  play  a  much  more  active  role  in  the  new
+medium.
+
+Conclusion
+
+To summarise, virtual environment designers must take responsibility for both content
+and context. By learning from cinema and architecture in content design, and being
+cognisant of the affordances and limitations of the medium used, virtual environment
+designers can create a more ‘live’ virtual world and hence turn a lifeless digital model
+into a true ‘environment’ or a meaningful ‘place’, which will be comparable, if differ-
+ent, to those that users have experienced in other media, such as in architecture and in
+cinema.
+
+Acknowledgements
+
+The authors would like to thank the Digital Design Group of the University of California
+at Berkeley for providing enlightenment and critique during the working process of this
+paper.
+
+Notes
+
+See, for example, Kalay et al., New Heritage.
+
+1 [1]
+2 [2] Many  researchers  from  different  disciplines  have  studied  place  and  sense  of  place,  such  as
+Alexander et al., A Pattern Language; Altman and Wohlwill, Human Behavior and Environment;
+Belk, Attachment to Possessions; Blumer, Symbolic Interactionism; Canter, The Psychology of Place;
+Cooper Marcus, ‘Environmental Memories’; Dovey, ‘Putting Geometry in its Place’; Fishwick
+and Vining, ‘Toward a Phenomenology of Recreation Place’; Harrison and Dourish, ‘Re-place-
+ing Space’; Jackson, A Sense of Place, a Sense of Time; Mugerauer, Interpretations on Behalf of Place;
+Norberg-Schulz, Genius Loci.
+
+3 [3] Kalay and Marx, ‘Architecture and the Internet’, 230–40.
+4 [4] There are different types of virtual environments. Some, such as video games, may be linked
+to user expectations and hence have more rules to follow. However, many other virtual envi-
+ronments, such as some virtual reality environments and 3D online worlds, do not have much
+
+246 X. Chen & Y. Kalay
+
+socio-cultural practice to follow. In this paper we discuss virtual environments in general but
+with a focus on the latter. In contrast to physical environments, they are really ‘a vast, new,
+unoccupied continent’.
+
+5 [5] www.activeworlds.com [accessed 6 September 2007].
+6 [6] www.secondlife.com [accessed 6 September 2007].
+7 [7]
+
+for 
+
+See, 
+[accessed 6 September 2007].
+
+example,  http://www.secondlifeherald.com/slh/2006/01/infamous_sl_gan.html
+
+8 [8] M.  Moreno,  Screenwriting  Basics  [accessed  15  September  2005],  available  from  http://
+
+www.screenwriting.info.
+9 [9] Bruno, Atlas of Emotion.
+10[10]
+11[11] Bordwell and Thompson, Film Art.
+
+Ibid.
+
+References
+
+Alexander, C. S., M. Ishikawa, M. Silverstein, M. Jacobsen, I. Fiksdahl-King and S. Angel. A Pattern
+
+Language. New York: Oxford University Press, 1977.
+
+Altman, I. and J. F. Wohlwill. Human Behavior and Environment. Vol. 1. New York: Plenum Press,
+
+1976.
+
+Belk, R. W. ‘Attachment to Possessions’. In Place Attachment, edited by I. Altman and S. M. Low.
+
+New York: Plenum Press, 1992.
+
+Blumer,  H.  Symbolic  Interactionism:  Perspective  and  Method.  Englewood  Cliffs,  NJ:  Prentice  Hall,
+
+1969.
+
+Bordwell, D. and K. Thompson, Film Art: An Introduction. New York: McGraw-Hill, 2001.
+Bruno, G. Atlas of Emotion: Journeys in Art, Architecture, and Film. New York: Verso, 2002.
+Canter, D. The Psychology of Place. London: Architecture Press, 1977.
+Cooper Marcus, C. ‘Environmental Memories’. In Place Attachment, edited by I. Altman and S. M.
+
+Low. New York: Plenum Press, 1992.
+
+Dovey,  K.  ‘Putting  Geometry  in  its  Place:  Toward  a  Phenomenology  of  the  Design  Process’.  In
+Dwelling,  Seeing  and  Designing:  Toward  a  Phenomenological  Ecology,  edited  by  D.  Seamon.
+Albany, NY: SUNY Press, 1993.
+
+Fishwick, L. and J. Vining. ‘Toward a Phenomenology of Recreation Place’. Journal of Environmental
+
+Psychology 12 (1992): 57–63.
+
+Harrison,  S.  and  P.  Dourish.  ‘Re-place-ing  Space:  The  Roles  of  Place  and  Space  in  Collaborative
+Systems’. In Proceedings of the ACM CSCW ‘96 Conference on Computer-supported Cooperative
+Work. Cambridge, MA: ACM Press, 1996.
+
+Jackson, J. B. A Sense of Place, a Sense of Time. New Haven: Yale University Press, 1984.
+Kalay, Y., T. Kvan and J. Affleck, eds. New Heritage: New Media and Cultural Heritage. London and
+
+New York: Routledge, 2007.
+
+Kalay,  Y.  and  J.  Marx.  ‘Architecture  and  the  Internet:  Designing  Places  in  Cyberspace’.  ACADIA
+
+(2001): 230–40.
+
+Mugerauer,  R.  Interpretations  on  Behalf  of  Place:  Environmental  Displacements  and  Alternative
+
+Responses. Albany, NY: SUNY Press, 1994.
+
+Norberg-Schulz, C. Genius Loci. New York: Rizzoli, 1979.
+
+

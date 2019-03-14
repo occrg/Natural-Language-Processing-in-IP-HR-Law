@@ -1,0 +1,1173 @@
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6, pp. 419–437
+
+doi: 10.1111/j.1747-1796.2007.00329.x
+
+Patenting Human DNA: What Flexibilities
+Does the TRIPS Agreement Allow?
+
+Carlos M. Correa
+University of Buenos Aires
+
+The Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS Agree-
+ment) requires World Trade Organization (WTO) members to grant patents in all ﬁelds of
+technology. A large number of patents covering genes, including of human origin, have been
+issued in developed countries. In some cases, patents granted cover any possible use of the
+gene, even if not disclosed in the application. However, WTO members enjoy a signiﬁcant
+ﬂexibility to determine their policy regarding gene patents. The TRIPS Agreement does not
+deﬁne what an ‘‘invention’’ is; it does not determine either how the novelty and other
+patentability requirements are to be applied. Hence, national laws may exclude genes, even if
+claimed as isolated, altogether from patent protection. If gene patents were issued, they may
+nonetheless apply limitations to the scope of claims, such as circumscribing protection to the
+uses speciﬁcally claimed by the applicant. An exception based on moral considerations is also
+viable, particularly in the case of human genes. In view of this ﬂexibility, countries may adopt
+the policies on this subject that best suit their cultural and moral values and their
+technological or industrial policies.
+
+Keywords patents; human DNA; invention; TRIPS Agreement ﬂexibilities
+
+The Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS
+Agreement) deﬁned, for the ﬁrst time in a multilateral treaty, certain requirements
+regarding the subject matter eligible for patent protection.1 Article 27.1 stipulated
+that ‘‘patents shall be available for any inventions, whether products or processes, in
+all ﬁelds of technology, provided that they are new, involve an inventive step and are
+capable of industrial application’’. While this provision was an outstanding victory
+for the established pharmaceutical industry (see, e.g., Perez Pugatch, 2004), as long as
+it ensured an almost worldwide protection for pharmaceutical products2 by January
+2005,3 the rules of relevance to the emerging biotechnology industry were more
+limited and provided a less clear legal framework. This was a reﬂection, to a great
+extent, of the divergences existing among developed countries about the protection of
+biotechnological inventions (see, e.g., United Nations Conference on Trade and
+Development—International Centre for Trade and Sustainable Development [UN-
+CTAD-ICTSD], 2005, p. 388). These divergences have persisted. In a report issued in
+2002, the World Health Organization (WHO) noted that ‘‘[C]urrently, the situation
+regarding the patenting of discoveries arising from genomics is little less than chaotic
+and has come under ﬁerce criticism from many quarters’’ (WHO, 2002, p. 135).
+
+Article 27.1 of the TRIPS Agreement obligates members to protect ‘‘inven-
+tions’’ provided that they meet the requirements of novelty, inventive step (or
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+
+419
+
+Carlos M. Correa
+
+Patenting Human DNA
+
+non-obviousness) and industrial applicability (or utility). As examined below, in
+many jurisdictions genes, including human genes, can be patented. The key issue for
+the purposes of this article is whether the TRIPS Agreement can be interpreted as
+obligating member countries to grant patents over genes, particularly human genes,
+or whether members have the freedom to do so or not. A further question is
+whether, in cases where a member grants such patents, what type of limitations with
+regard to the scope of protection could be applied.
+
+This paper examines the concept of ‘‘invention’’, particularly as applied to
+genes and ‘‘micro-organisms’’ in the context of the TRIPS Agreement. It also
+explores the ﬂexibilities allowed by the Agreement in relation to the application of
+the novelty requirement and the exception grounded on morality grounds, and the
+implications of the possible extension of a patented process to the product directly
+obtained with it. Finally, the article discusses possible ways of limiting the scope of
+gene patents.
+
+TRIPS Requirements
+
+What is an ‘‘Invention’’?
+Article 27.1 of the TRIPS Agreement prescribes, as mentioned, that patents shall be
+available for any inventions ‘‘provided that they are new, involve an inventive step
+and are capable of industrial application’’.
+
+One possible interpretation of article 27.1 is that, in line with the current
+practice of many patent ofﬁces in the world, DNA sequences claimed in patents
+should be deemed as ‘‘inventions’’, and not as natural phenomena, to the extent that
+claims do not relate to genes as they occur naturally, but rather to isolated or
+puriﬁed genes.
+
+In fact, in some countries any subject matter that is novel and meets the
+inventive-step and industrial applicability (utility) standards may be patentable.
+Under this approach,
+it is not relevant whether the subject matter has been
+merely discovered or created. Thus,
+in Japan the Enforcement Standards for
+Substance Patents stipulates that patents can be granted on chemical substances
+artiﬁcially isolated from natural materials, when the presence of the substance could
+not be detected without prior isolation with the aid of physical or chemical
+methods.
+
+Although in the United States it is recognized that to be patentable, a substance
+cannot be claimed as it exists in nature,4 an isolated or puriﬁed form thereof is
+patentable (Chisum and Jacobs, 1992, pp. 2–23). Hence, only a very thin line
+separates invention from discovery, and many patents have been granted on
+puriﬁed or crystallized products obtained from a natural source of impure material.
+They have included, for instance, puriﬁed dextrose, pure carbon in the form of
+porous pellets, synthetically produced vitamin B12, prostangladin compounds,
+interferon and strawberry ﬂavoring compositions. The US Court of Appeals for
+the Federal Circuit has afﬁrmed the validity of claims to full-length DNA or
+
+420
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+Patenting Human DNA
+
+Carlos M. Correa
+
+genomic DNA molecules in the pharmaceutical ﬁeld. Patents may relate to genomic
+DNA, a natural substance, or cDNA, that is, a DNA copy of mRNA that does not
+exist as such in nature (see, e.g., Ducor, 1998).
+
+Under European law a patent may be granted when a substance found in
+nature can be characterized by its structure, by its process of obtention or by other
+criteria, if it is new in the sense that it was not previously available to the public. The
+European Directive on Biotechnological Inventions (No. 96/9/EC of 11 March
+1996) stipulates that ‘‘biological material which is isolated from its natural
+environment or processed by means of a technical process may be the subject of
+an invention even if it already occurred in nature’’ (article 3.2).
+
+Under EU law the distinction between discovery (not patentable) and invention
+(patentable) has generally been considered of a purely technical nature. However,
+the Group of Advisers on the Ethical Implications of Biotechnology to the
+European Commission (GAEIB) has taken the view in its Opinion on the Ethical
+Aspects of Patenting Inventions Involving Elements of Human Origin of 25
+September 1996, that such distinction involves, in the ﬁeld of biotechnology, a
+particular ethical dimension (Van Overwalle, 2001, p. 54). According to the GAIEB,
+patents for inventions issued from the knowledge of a human gene or a partial
+human gene sequence are acceptable ‘‘only if, on the one hand, the identiﬁcation of
+the function attached to a human gene, or a partial human gene sequence allows
+new possibilities (for instance the production of new drugs), and, on the other hand,
+if the intended use of the patent is sufﬁciently speciﬁc and identiﬁed’’.5 The ethical
+dimension referred to is not perceived, hence, as a barrier to the patenting of
+human genes.
+
+This view, however, has not been unanimous in the European context. Con-
+troversies continued after the approval of the Directive on Biotechnological
+Inventions, which was challenged at the European Court of Justice by the govern-
+ments of the Netherlands, Italy and Norway.6 As mentioned below, changes in
+legislation were later introduced in some European countries in order to limit the
+scope of patentability of human genes. Moreover, in the view of many European
+experts, patents for elements from human origin are only justiﬁed if the element has
+been essentially changed, which is not the case if its structure is identical to an
+element to be found in the human body.7
+
+As a result of the permissive policies of patent ofﬁces with regard to the
+patenting of human genes, patent claims may assert rights over DNA in various
+ways, as indicated, for example, in Box 1.
+
+Moreover, a report found that nearly 20% of the human genome, or 4,382 of
+the known 23,688 human genes, have been patented, with over half owned by
+private companies. Around 63% of the patents are assigned to private ﬁrms, with
+one ﬁrm, Incyte Pharmaceuticals/Incyte Genomics, holding patents covering 2,000
+human genes. Some human genes, such as BRCA1, the gene linked to breast cancer,
+are claimed by more than one company, with as many as 20 patents asserting rights
+to various uses (Ravilious, 2005).
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+421
+
+Carlos M. Correa
+
+Patenting Human DNA
+
+Box 1: How Genes can be Claimed
+
+Patents over genes may cover one or more of the following:
+ the DNA sequence, whether comprising a complete or partial gene
+ promoters
+ enhancers
+ individual exons
+ expressed sequences as expressed sequence tags (ESTs) or cDNAs
+ whole transcribed genes as cDNAs
+ individual mutations known to cause disease
+ variation between people not associated with disease (polymorphisms)
+ cloning vectors, formed from bacterial DNA, which are used to replicate DNA sequences
+ expression vectors, also formed from bacterial DNA, which are used to express proteins in
+replicated DNA sequences
+ isolated host cells transformed with expression vectors, which are cells that have been
+created to express particular proteins
+ amino acid sequences (proteins)
+ the use of such proteins as medicines
+ antibodies, which are used as markers
+ nucleic acid probes, which are fragments of DNA that are used to locate particular parts of
+DNA sequences
+ methods of identifying the existence of a DNA sequence or a mutation or deletion in an
+individual
+ testing kits for detecting genetic mutations
+
+Source: based on Nufﬁeld Council on Bioethics (2002, p. 25).
+
+In the last instance, the prohibition against patenting products of nature in the
+United States and other jurisdictions can be overcome through appropriate drafting
+of the patent claims. All what is needed is to avoid claims on DNA sequences—or
+other matters—in a naturally occurring form, by including claim language limiting
+protection to isolated or puriﬁed forms.
+
+In the light of these developments, an argument could be made that article 27.1
+of the TRIPS Agreement is to be interpreted in accordance with the patenting
+practices followed in major jurisdictions, as obligating members to grant patents
+over genes, including human genes. Although subsequent state practices may be
+taken into account, under some circumstances, for the interpretation of an inter-
+national treaty, the main interpretive rule is based on the literal meaning of the
+treaty provision.8 There are two important points in this regard.
+
+First, like most patent laws in the world, the Agreement does not deﬁne
+‘‘invention’’.9 The plain wording of article 27.1 suggests that members have been
+left room to deﬁne it within their legal systems, in good faith, subject only to the
+application of the method of interpretation set out by the Vienna Convention.10 If
+the intention of the drafters of the TRIPS Agreement had been to require the
+patenting of any subject matter that met the patentability criteria, they could have
+
+422
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+Patenting Human DNA
+
+Carlos M. Correa
+
+alluded to any ‘‘subject matter that is new, involves an inventive step and is
+capable of industrial application’’ rather than to the more substantive notion of
+‘‘invention’’.
+
+Moreover, the ordinary meaning of ‘‘invention’’ suggests the output of an
+intellectual activity in the form of new knowledge of a technical nature. To invent is
+‘‘to create by thought, originate (new method, instrument, etc.)’’.11 It also suggests a
+distinction between creations and mere discoveries and, more generally, between
+inventions and other subject matter that does not qualify as such.12 Generating
+knowledge about a gene essentially is a scientiﬁc discovery.13 As indicated by the
+Nufﬁeld Council on Bioethics:
+
+genes are naturally-occurring entities that are there to be discovered, like
+new species or new planets. They are not invented. In our common usage
+of the term, a ‘‘discovery’’ is the acquisition of knowledge of a new but
+already existing fact about the world. An ‘‘invention,’’ on the other
+hand, is something that someone creates or develops which did not
+previously exist. Thus, on the usual interpretation of the words, it seems
+apparent that the identiﬁcation of a gene is a discovery, since genes exist
+in the world, in our bodies (Nufﬁeld Council on Bioethics, 2002, p. 23).
+
+This is consistent with the position according to which the process of isolation
+or puriﬁcation may not be deemed as sufﬁcient to transform an existing substance
+into something ‘‘invented’’. A report published by the WHO observed in this
+regard:
+
+It is argued that a normal or abnormal gene sequence is, in effect,
+naturally occurring information which cannot therefore be patentable.
+The counter-argument which has been used widely by patent lawyers,
+that DNA sequence identiﬁcation is a form of puriﬁcation ‘‘outside the
+body,’’ and therefore analogous to the puriﬁcation of naturally
+occurring pharmacological agents, is specious; the DNA molecule is
+not, in this context, important as a substance and its value resides in its
+information content. Similar arguments have been used for patenting
+complementary DNA sequences (cDNAs), that is DNA synthesized on a
+messenger RNA template, which has no introns (i.e. sequences of DNA
+that are not ultimately translated into the ﬁnal protein . . .). This is based
+on the notion that a ‘‘natural’’ gene contains introns, and therefore
+synthesizing complementary DNA is an ‘‘alteration’’ of nature and as
+such amounts to a human invention. However . . . messenger RNA exists
+in nature, and cDNA is just a translation of this sequence. In other
+words it is rather like saying that the same invention could be repatented
+if translated into a different language (WHO, 2002, p. 136).
+
+Second, subsequent state practice may only be considered as an element for
+treaty interpretation together with the context—as provided for by article 31.3(b) of
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+423
+
+Carlos M. Correa
+
+Patenting Human DNA
+
+the Vienna Convention14—if ‘‘the practice is consistent, and is common to, or
+accepted by, all the parties’’ (Aust, 2000, p. 194). Quite clearly, there is no such
+common and accepted practice with regard to the concept of invention as applied to
+genes.
+
+While, as mentioned, genes are deemed patentable in some jurisdictions, many
+countries have explicitly excluded them from patentability. Signiﬁcantly, no World
+Trade Organization (WTO) member has raised any complaint so far under the
+Dispute Settlement Understanding for this reason. Thus, Decision 486 of the
+Andean Community considers non-patentable substances that pre-exist in nature.15
+Similarly, the Mexican and Argentine laws exclude the patentability of substances
+existing in nature, though it is unclear the extent to which isolated materials may be
+deemed patentable in the case of Mexico. The 1996 Brazilian Industrial Property
+Code (No. 9.279, 14 May 1996) is more precise in this respect. It excludes the
+patentability of living beings or ‘‘biological materials found in nature’’, even if
+isolated, including the ‘‘genome or germplasm’’ of any living being (article 10.IX).
+The Biodiversity Law of Costa Rica (1998) establishes the non-patentability of
+sequences of DNA per se.
+
+In sum, WTO members may, consistently with the TRIPS Agreement, deter-
+mine when an invention is deemed to exist as well as exclude patents for discoveries.
+The extension of the concept of invention to genes and other matters found in
+nature cannot be deemed universally accepted or incorporated into the TRIPS
+Agreement. WTO members may, hence, legitimately exclude the patentability of
+genes claimed in various forms, including human genes, as found in nature, even if
+isolated or puriﬁed. In cases where genes were modiﬁed, and an invention be
+deemed to exist, the patenting of genes may be excluded on other grounds, such as
+morality grounds, as examined below.
+
+The above conclusion is not altered if, as it is current practice in the United
+States,16 DNA molecules are considered chemical substances and, hence, subject to
+the general criteria of patentability of such substances. This approach is not only
+conceptually questionable—as it overlooks that it is the informational content of
+DNA molecules which makes them relevant for patent purposes—but it does not
+overcome the basic objection to the patenting of substances merely found, not
+invented.
+
+A ﬁnal important question is whether a WTO panel or the Appellate Body
+could, if a case were brought under the Dispute Settlement Understanding (DSU),
+decide to provide their own interpretation of what an ‘‘invention’’ is and overrule a
+domestically adopted concept thereon. If this were the case, such bodies would
+exceed their authority, which is limited to the clariﬁcation of WTO rules.17 They are
+not permitted to resolve ambiguities deliberately left in the text by the drafters of the
+agreements and alter the delicate balance reached and the various compromises
+made as an outcome of difﬁcult negotiations.18 The existence of gaps and ambi-
+guities in the TRIPS Agreement indicates that members retained a certain amount
+of room for maneuver at the national
+level, which should not be limited by
+
+424
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+Patenting Human DNA
+
+Carlos M. Correa
+
+interpretations that may eventually be provided by panels or the Appellate Body
+(Jackson, 2000, pp. 184 and 186).
+
+Micro-Organisms
+Article 27.3(b) of the TRIPS Agreement (also known as the ‘‘biotechnological
+clause’’) allows members to exclude from patent protection ‘‘plants and animals
+other than micro-organisms, and essentially biological processes for the production
+of plants or animals other than non-biological and microbiological processes’’.
+However, the agreement requires members to provide for the protection of plant
+varieties either by patents or by an effective sui generis system or by any combina-
+tion thereof.19
+
+The expression ‘‘plants and animals other than micro-organisms’’ creates an
+obligation to provide patent protection for the latter. The agreement does not deﬁne
+what ‘‘micro-organisms’’ are. Can this obligation be construed as requiring the
+granting of patents on genes, including human genes?
+
+It has been held that the concept of micro-organisms would encompass all
+kinds of microscopic biological materials. So deﬁned, they would include, for
+instance, cells and genes.20 This expansive interpretation, however, does not
+correspond to the ordinary meaning of the word. Like in the case of ‘‘invention’’
+the interpretation of article 27.3(b) must proceed on the basis of the method set out
+in the Vienna Convention, that is, in accordance with the ordinary meaning of the
+words used in their context, taking into account the object and purpose of the
+treaty.21 A ‘‘micro-organism’’ cannot be any biological matter; it must be an
+‘‘organism’’, that is, an organized body with connected interdependent parts
+sharing common life,22 which, in addition, is not visible to the naked eye.23 As
+noted by Adcock and Llewelyn:
+
+in the
+
+The deﬁning property of micro-organisms is the microscopic size of the
+individual. Their small dimension may have provided researchers with
+the original motive for categorizing micro-organisms in a special group
+separate from the plant and animal kingdoms. However, of equal
+importance
+their
+morphology, activity, diversity, ﬂexibility of metabolism, ecological
+distribution, and even their manipulation in the laboratory. Therefore,
+the term ‘‘micro-organism’’ includes organisms that differ widely from
+one another in form, life cycle and mode of life. This has meant that
+there is no single deﬁnitive term that deﬁnes a ‘‘micro-organism’’ . . .
+(Adcock and Llewelyn, 2000, p. 6).
+
+classiﬁcation of micro-organisms
+
+is
+
+No complaint has been submitted to the WTO dispute settlement mechanism in
+order to clarify, as provided for under the DSU, what the concept of micro-
+organism is. The United States initiated a case against Argentina in 2000 arguing,
+among other things, that Argentina was not duly implementing its obligation to
+protect micro-organisms.24 The case was settled, however, at the consultation stage,
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+425
+
+Carlos M. Correa
+
+Patenting Human DNA
+
+as the United States was satisﬁed with the implementation of Argentina’s obliga-
+tions through Resolution No. 633/2001 of the Instituto Nacional de Propiedad
+Industrial (INPI).25 This resolution recognized that patents would be conferred
+over micro-organisms if they meet the patentability requirements, for instance
+modiﬁed micro-organisms that are not part of the biological and genetic materials
+‘‘as they exist in nature’’ (article 2). This resolution, however, did not mention at all
+the patentability of genes.
+
+In the light of the previous discussion about the concept of ‘‘invention’’, it is
+clear that members may opt to comply with article 27.3(b) by providing a restricted
+deﬁnition of ‘‘micro-organisms’’ and, eventually, by conﬁning patentability to
+micro-organisms that have been modiﬁed. There is no obligation to grant patents
+over micro-organisms found in nature or isolated therefrom, as they may be deemed
+as a discovery and not an ‘‘invention’’. If a particular new use for such a micro-
+organism were found, depending on national law, a patent may be granted on the
+process for using the micro-organism, if inventive, but not necessarily on the micro-
+organism as such.
+
+Likewise, WTO members are not bound to protect genes as ‘‘micro-organims’’
+or to apply a concept beyond the scientiﬁc meaning of the word.26 In the absence of
+any clear deﬁnition, WTO members seem to have a considerable degree of freedom
+to deﬁne micro-organisms in a reasonable way, as long as this can be defended
+before a WTO dispute panel (Watal, 2001, p. 132).
+
+Novelty
+In addition to the just described ﬂexibilities, the TRIPS Agreement does not
+determine how the ‘‘novelty’’ standard should be deﬁned for an invention to be
+eligible for patent protection. This has permitted, for instance, the United States to
+keep a relative novelty standard,27 despite the outcry of developing countries
+against the patenting of genetic resources and associated traditional knowledge
+(‘‘bio-piracy’’).28
+
+In the case of Europe, it is considered that the concept of ‘‘new’’ under the
+novelty requirement does not mean ‘‘not preexisting’’ but ‘‘novel’’ in a prior art
+sense, so that the unknown but natural existence of a product does not preclude the
+product from the category of statutory subject matter.29 However, gene sequences
+that code for a known protein are generally regarded as prima facie obvious,
+although such was not the case in the earliest days of molecular biology. In the
+United States, a ‘‘venerable line of cases holds that if a product is known in the art
+already, an inventor cannot obtain a patent on the product merely by putting it to a
+new use, ‘‘even if the result had not before been comtemplated’’ ’’ (Merges et al.,
+1997, p. 174). However, the ﬂexibility of the novelty requirement has also permitted
+the application of this requirement to DNA claims in a lax form. Thus, the doctrine
+elaborated by a US court in Re Deuel (1995) paved the way for the patenting of
+DNA in that country even when encoding known proteins, on the grounds that—
+
+426
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+Patenting Human DNA
+
+Carlos M. Correa
+
+due to the degeneracy of the genetic code—their structure could not have been
+predicted (Baldock, 1999, p. 21).
+
+There is nothing in the TRIPS Agreement requiring member countries to follow
+a particular approach in the application of the novelty standard. They may consider
+that it is not ‘‘novel’’ and is, therefore, unpatentable, since it preexisted and was
+known, such as known DNA sequences for which speciﬁc uses are found. In the
+case of products existing in nature, the researcher’s only contribution (however
+important it may be from a scientiﬁc point of view) can be deemed their disclosure,
+isolation and description; novelty should not be confused with invention so as to
+make of a discovery an invention (Pollaud-Dulian, 1997, p. 189).
+
+Moral Exception
+
+As mentioned, WTO members may refuse to grant patents over genes as such, based
+on lack of compliance with conventional patentability requirements. In cases where
+genes were admitted as patentable inventions, governments may still subject the
+approval of patent applications to ethical considerations. Article 27.2 of the TRIPS
+Agreement stipulates that:
+
+Members may exclude from patentability inventions, the prevention
+within their territory of
+the commercial exploitation of which is
+necessary to protect ordre public or morality,
+including to protect
+human, animal or plant life or health or to avoid serious prejudice to
+the environment, provided that such exclusion is not made merely
+because the exploitation is prohibited by domestic law.30
+
+The concept of ‘‘morality’’ is relative to the values prevailing in a society at a
+particular moment. Such values differ amongst cultures and countries, and change
+over time. For instance, while the patenting of life forms, including plants and
+animals, is not perceived as raising ethical concerns in United States or Europe, it
+seems unacceptable in other cultural contexts. The African Group, for instance,
+rejects such patenting of life forms as being unethical and contrary to basic cultural
+values. It has actually proposed in the WTO a complete banning of patents over such
+forms through an amendment to article 27.3(b) of the TRIPS Agreement.31
+
+One important limitation for the application of article 27.2 is that a patent can
+only be refused on moral grounds if the commercial exploitation of the invention
+needs to be prevented to protect it. However, patent ofﬁces generally lack powers to
+decide on the commercialization of a product; a decision by another competent
+authority would seem necessary. In addition, the ﬁnal proviso (‘‘provided that such
+exclusion is not made merely because the exploitation is prohibited by domestic
+law’’) indicates that a legal prohibition would not be sufﬁcient per se for the refusal
+of a patent, which should be effectively based on moral considerations (or any of the
+other grounds referred to in article 27.2).
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+427
+
+Carlos M. Correa
+
+Patenting Human DNA
+
+Morality as an impediment to the grant of a patent has rarely been applied to
+refuse a patent. In the Relaxine case,32 for instance, the European Patent Ofﬁce
+(EPO) held that there was nothing immoral with the isolation of mRNA from the
+tissue of pregnant women, and that the majority of the public accepts and desires
+the research on the use of human materials for therapeutic applications. It added
+that the patent in question did not give control over the human being and concluded
+that DNA is not equal to ‘‘life’’. According to European law, in order to refuse a
+patent on moral grounds, the ofﬁce has to establish whether an invention would be
+so abhorrent for the public that its patenting would be inconceivable (Pollaud-
+Dulian, 1997, pp. 173–4).
+
+There are also more extreme views, arguing that ‘‘patenting, as such, is neither
+wrong nor right, but could be classed as ‘‘ethically neutral’’. To refuse a patent
+would be a futile gesture that would not by itself stop the invention being put to
+practical use’’ (Crespi, 1997, p. 124).
+
+However, the moral concerns about the patenting of DNA have received broad
+international support. Thus, the International Bioethics Committee of UNESCO
+(IBC) adopted by consensus on 14 September 2001 an ‘‘Advice on the patentability
+of the human genome’’, indicating that ‘‘there are strong ethical grounds for
+excluding the human genome from patentability’’. It recommended that:
+
+the World Trade Organization (WTO), in its review of the TRIPS
+Agreement, clarify that, in accordance with the provision of Article
+27(2), the human genome is not patentable on the basis of the public
+interest considerations set out therein,
+in particular, ordre public,
+morality and the protection of human life and health.
+
+Likewise, the European Parliament issued a resolution on 4 October 2001 on
+the Patenting of BRCA1 and BRCA2 (‘‘Breast Cancer’’) Genes calling on the EPO
+‘‘to ensure that all . . . patent applications in Europe do not violate the principle of
+non-patentability of humans, their genes or cells in their natural environment’’
+(quoted in Van Overwalle, 2001, p. 56). It is to be noted that the EPO revoked on 18
+May 2004, Myriad Genetics’ patent EP 699754 in response to an opposition by
+Institut Curie and other entities, on the grounds of failure to comply with the
+European Patent Convention.33
+
+Process Protection
+Countries that opt to restrict the patentability of genes and other biological
+materials on the basis of a strict interpretation of article 27.1 and 27.3(b) of the
+TRIPS Agreement may face a perhaps unexpected constraint: such a protection
+may be indirectly obtained through the patenting of a process that permits, for
+instance, an isolated gene to be obtained.
+
+This issue is particularly relevant in the biotechnological ﬁeld, because in some
+jurisdictions claims relating to products obtained with recombinant DNA technol-
+ogy are deemed product-by-process claims. This has been, for example, the case of
+
+428
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+Patenting Human DNA
+
+Carlos M. Correa
+
+the United Kingdom, where Lord Hoffmann stated in Biogen v Medeva that
+‘‘recombinant’’ indicated the process by which the product was obtained (War-
+ren-Jones, 2001, p. 80).
+
+Process patents may be aggressively used to discourage or suppress competitors.
+One illustration is offered by the legal actions brought about by Genetics Institute, a
+US ﬁrm, in some Latin American countries. Genetics Institute was defeated in the
+United States and Europe by Amgen in administrative and court cases with regard to
+the rights over the gene that codiﬁes erythropoietin (Ca´ rdenas y Espinosa, 1997, pp.
+61–4). Despite this, it has attempted to block the production and commercialization
+of erythropoeitin by local companies based on a patent on a general method of
+genetic engineering for the production, on a pre-industrial scale, of such product. The
+revocation of that patent has been judicially requested at least in Argentina and Chile.
+In accordance with article 28.1(b) of the TRIPS Agreement, the owner of a
+process patent has the exclusive right to prevent third parties ‘‘from the acts of:
+using, offering for sale, selling, or importing for these purposes at least the product
+obtained directly by that process’’.
+
+This provision would not apply when a product is obtainable by a patented
+process; it must have been directly obtained by the use of such process. At least two
+conditions should be met for this extended protection to arise:
+
+(1)
+
+(2)
+
+there should be no material or important steps outside the scope of the patent
+claims that intervene between the process and the product in question (see,
+e.g., Bentley and Sherman, 2001, p. 493); and
+the product must be the result of applying all the steps covered in the patent
+(see, e.g., Hansen and Hirsch, 1997, p. 357).
+
+If these conditions were met and it could be proven a direct relationship between
+the application of the patented process and the product, exclusive rights could also be
+exercised, in principle, with regard to the latter. Questions may arise, however, as to
+whether this extension would apply when the patentability of the obtained product is
+banned by law (e.g. in those cases where patents on genes are speciﬁcally excluded),
+because if that were the case, the prohibition could be overridden, in practice, if the
+product could only be obtained through the patented process.
+
+Limiting the Scope of Genes’ Claims
+
+As mentioned, the TRIPS Agreement allows members to decide whether to allow or
+not patents over genes, including of human origin, on the basis of public policy
+considerations. The legal treatment of genes is, in the last instance, an issue of
+relevance to the design of scientiﬁc policies for the advancement of public health
+and other national objectives. The value of scientiﬁc works
+
+appears to the full with its further application by many minds and with
+its free communications to other minds. Here any secrecy or any rights
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+429
+
+Carlos M. Correa
+
+Patenting Human DNA
+
+of property possession will naturally have the effect of making
+people off or preempted ﬁeld of work. In so doing,
+they will
+actually delay the intrinsic consequences of a discovery (Wiener, 1994,
+p. 153).
+
+This is particularly true in the case of gene patents. According to the already
+
+mentioned WHO report:
+
+DNA patenting is retarding rather than stimulating both scientiﬁc and
+economic progress. The monopolies awarded by patents on genes as
+novel chemicals are not therefore in the public interest and . . . this
+unsatisfactory situation has important implications for the health of the
+developing countries. In essence, it weakens the contribution of the
+global research community to the creation and application of medical
+technology for these countries, and, in the long-term, may complicate
+the granting of concessional prices for therapeutic agents. In addition,
+there are already signs that the position regarding the patenting of
+proteins, more important products for generating these agents,
+is
+becoming even more chaotic than DNA patenting [quotations in the
+text omitted ] (WHO, 2000, 137).
+
+Developed countries have opted to grant gene patents as a means to promote
+investment in research and development in this ﬁeld rather than invention. However,
+given the deep North–South asymmetry in the capacity to exploit modern biotech-
+nology, a narrow scope of patentability—rather than protection based on an
+expansive interpretation of existing obligations under the TRIPS Agreement—
+would be more suitable to the local economic and technological conditions of the
+majority of developing countries. Although in most cases companies do not bother
+to take out patents on DNA sequences in developing countries (WHO, 2005, p. 21)
+the availability of patents on scientiﬁc discoveries or research tools my create an
+additional hurdle for undertaking research in neglected areas, such as the diseases
+prevailing among the poor.34
+
+However,
+
+if a country decides to protect genes,
+
+it may establish speciﬁc
+conditions and limitations for the granting of patents thereon in order to avoid
+or reduce negative impacts. It may also seek to ensure that exceptions to the
+exclusive rights, such as for experimentation purposes (see, e.g., Correa, 2005a;
+2005b), are available.
+
+Possible ways of limiting the scope of gene patents include conﬁning them to
+modiﬁed genes, and to limit the claims to the functions effectively disclosed by the
+applicant. For instance, in the view of a European expert:
+
+industrial
+a patent can be granted on an innovation capable of
+like an
+application, which relates to an element of human origin,
+isolated gene, if this element has been essentially changed. It is not
+essentially changed if the structure of the element is identical to an
+
+430
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+Patenting Human DNA
+
+Carlos M. Correa
+
+element (gene) to be found in the human body or if the genetic
+information is identical to the information of a human gene inside the
+human body. The granting of a patent is justiﬁed for an innovation that
+shows a new therapeutic application or use of a gene or a partial se-
+quence of an even unchanged gene. In these cases—patent on process
+and patent on product—the need to encourage European research and
+the use of its results may outweigh other aspects. The patent must not
+cover the gene itself, but the speciﬁc identiﬁed use of the gene.35
+
+According to the conventional patent law approach, the inventor of a new
+molecule can claim it in a way that covers possible future uses of the molecule, even
+if unknown to him, if, in this case, such broad coverage may be justiﬁed to a certain
+extent by the fact that a new substance has been created. When the same approach is
+applied to patents over genes—which have not been invented but discovered—the
+rationale for such solution seems clearly inappropriate. In addition,
+it seems
+ethically objectionable that the patent owner obtains rights beyond what he has
+found and disclosed in the patent application.36
+
+National laws can limit the protection to the speciﬁc use disclosed in the patent
+application (‘‘purpose-bound protection’’), rather than extending it to a gene as
+such (including functions not yet discovered). This kind of limitation to the patent
+scope has been implemented for inventions concerning material isolated from the
+human body in France and for human/primate gene sequences in Germany. There
+is no apparent reason, however, to circumscribe this solution to genes of human
+origin, because the same grounds would justify it for any other discoveries relating
+to genes and other materials found in nature.
+
+A ‘‘purpose-bound protection’’ does not limit research on non-disclosed
+functions of a patented gene, by the same patent owner or third parties. Although
+the adequateness of this approach, particularly in the light of articles 8, 9, 10 and 11
+of the European Directive on Biotechnological Inventions, has been questioned by
+the European Commission (European Commission, 2005, pp. 4–5) there is no
+compelling reason, nor an obligation under the TRIPS Agreement, as reviewed
+above, to legislate that the protection conferred by a patent extends to all possible
+functions of a biological material, including those unknown to the patent applicant.
+
+Conclusions
+
+The TRIPS Agreement only obliges WTO members to protect subject matter,
+including micro-organisms, that qualify as an ‘‘invention’’ under the domestic law of
+the country of grant. Members are free to adopt their own notion of invention, subject
+to the sole condition of compatibility with a good faith interpretation of the agree-
+ment’s provision in accordance with the Vienna Convention on the Law of Treaties.
+WTO members may exclude the patenting of genes. They are the building
+blocks of nature and should remain free for use by the scientiﬁc community and for
+any productive application. WTO members may also limit the scope of claims to the
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+431
+
+Carlos M. Correa
+
+Patenting Human DNA
+
+uses or functions that have been actually identiﬁed and disclosed by the patent
+applicant.
+
+Given this broad room for maneuver, countries need to deﬁne what policy best
+suits their current situation and development objectives.37 Those with a signiﬁcant
+development in biotechnology38 may opt for some form of patent protection in this
+area although, as noted above, such protection would not guarantee more and
+better domestic research on the subject. Countries with scarce local research
+capabilities or countries prioritizing medicine affordability and access may prefer
+to impose restrictions on the patentability of substances existing in nature, including
+genes. Other countries may deem patentability of living forms contrary to basic
+cultural and ethical values, particularly in the case of human genes. All these
+options are available to WTO members, if implemented consistently with the
+general obligations (such as national treatment and the most-favored nation clause)
+of the TRIPS Agreement.
+
+About the Author
+
+Carlos M. Correa is Director of the Center for Interdisciplinary Studies of Industrial
+Property Law and Economics and of the Post-Graduate Courses on Intellectual
+Property, University of Buenos Aires, Vicente Lopez, Buenos Aires, Argentina;
+e-mail: ceidie@derecho.ubo.an
+
+Notes
+
+1 The Paris Convention for the Protection of Industrial Property, established in 1883 and
+
+revised several times thereafter, left full freedom to contracting parties in this regard.
+Rules on patentable subject matter could be found, in contrast, in the European Patent
+Convention 1973.
+
+2 At the inception of the Uruguay Round of the General Agreement on Tariffs and Trade
+
+(GATT) in 1986, around 50 countries did not recognize product patents for
+pharmaceuticals.
+
+3 Developing countries and economies in transition were given transitional periods to
+
+implement the new rules. The transitional period for least-developed countries,
+originally provided for 2006, was extended to 2016. See Decision of the Council for
+TRIPS on the Extension of the Transition Period under article 66.1 of the TRIPS
+Agreement for least-developed country members for certain obligations with respect to
+pharmaceutical products, WTO document IP/C/25 of 27 June 2002.
+
+4 See, e.g., US Communication to the Council of TRIPS, IP/C/W/209, 3 October 2000
+
+[online]. Available at hhttp://www.wto.orgi [Accessed on April 2007].
+
+5 GAIEB, Opinion on Ethical Aspects of Patenting Inventions Involving Elements of
+
+Human Origin, 25 September 1996 (Opinion 81).
+
+6 The court dismissed the complaint. It held that the protection envisaged by the directive
+covers only the result of inventive, scientiﬁc or technical work, and extends to biological
+data existing in their natural state in human beings only where necessary for the
+achievement and exploitation of a particular industrial application. The court concluded
+
+432
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+Patenting Human DNA
+
+Carlos M. Correa
+
+that it was clear that, as regards to living matter of human origin, the directive framed
+the law on patents in a manner sufﬁciently rigorous to ensure that the human body
+effectively remains unavailable and inalienable and that human dignity is thus
+safeguarded (Van Overwalle, 2001, p. 55).
+
+7 See, e.g., Van Overwalle (2001, p. 54).
+8 See articles 31 and 32 of the Vienna Convention on the Law of Treaties 1969.
+9 Some patent laws include a deﬁnition of ‘‘invention’’, but this is rather exceptional. For
+
+instance, the Mexican patent law considers as an invention all human creation that
+permits the transformation of matter or energy that exists in nature, for the beneﬁt of
+man and to satisfy his concrete needs (article 15). The same concept is contained in the
+Argentine patent law (article 4(a)).
+
+10 Articles 31 and 32 of this Convention have been systematically applied in GATT and
+WTO case law to interpret the provisions of the multilateral agreements, including the
+TRIPS Agreement (see, e.g., Correa, 2005a; 2005b; Mengozzi, 1999).
+
+11 The Concise Oxford Dictionary, Oxford University Press, Oxford, 1989, p. 527.
+12 Many patent laws make such a distinction. For instance, article 52(2) of the European
+Patent Convention stipulates that ‘‘[T]he following in particular shall not be regarded as
+inventions within the meaning of paragraph 1: (a) discoveries, scientiﬁc theories and
+mathematical methods; (b) aesthetic creations; (c) schemes, rules and methods for
+performing mental acts, playing games or doing business, and programs for computers;
+(d) presentations of information’’.
+
+13 See a discussion on this issue in Eisenberg (2000, p. 783).
+14 In US-Section 110(5) of the US Copyright Act, for instance, a WTO panel referred to
+
+examples of ‘‘state practice’’ of members of the Berne Union and the WTO, but it
+warned that it ‘‘did not wish to express a view on whether these are sufﬁcient to
+constitute ‘‘subsequent practice’’ within the meaning of article 31(3)(b) of the Vienna
+Convention’’ (US-Section 110(5) of the US Copyright Act, WT/DS160/R (2000), at
+paragraph 6.65, n. 68.
+
+15 Article 15 of Decision 486: ‘‘The following shall not be considered inventions: . . . Any
+living thing, either complete or partial, as found in nature, natural biological processes,
+and biological material, as existing in nature, or able to be separated, including the
+genome or germplasm of any living thing’’.
+
+16 The US Patent and Trademark Ofﬁce considers DNA claims as relating to ‘‘composition
+
+of matter’’ (see, e.g., WHO, 2000, p. 137).
+
+17 Article 3.2 of the DSU expressly prevents panels and the Appellate Body from adding
+
+rights and obligations when adjudicating disputes.
+
+18 In Canada-Patent Protection for Pharmaceutical Products, the panel alerted against
+interpretation that ‘‘would be equivalent to a renegotiation of the basic balance of the
+Agreement’’ (WT/DS114/R, 2000, at section 7.26).
+
+19 The provisions of article 27.3(b) were subject to review four years after the date of entry
+into force of the WTO Agreement. This review, though initiated, was never concluded,
+due to major differences between developed and developing countries on its mandated
+scope. Given the lack of progress on the matter, the Doha Ministerial Declaration
+included the following mandate in paragraph 19: ‘‘We instruct the Council for TRIPS, in
+pursuing its work programme including under the review of Article 27.3(b), the review of
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+433
+
+Carlos M. Correa
+
+Patenting Human DNA
+
+the implementation of the TRIPS Agreement under Article 71.1 and the work foreseen
+pursuant to paragraph 12 of this declaration, to examine, inter alia, the relationship
+between the TRIPS Agreement and the Convention on Biological Diversity, the
+protection of traditional knowledge and folklore, and other relevant new developments
+raised by members pursuant to Article 71.1. In undertaking this work, the TRIPS
+Council shall be guided by the objectives and principles set out in Articles 7 and 8 of the
+TRIPS Agreement and shall take fully into account the development dimension’’.
+
+20 See, e.g., Watal (2001, p. 132), noting that under the practice of the EPO cells and parts
+
+thereof are treated as micro-organisms (see also Adcock and Llewelyn, 2000, p. 10).
+
+21 See article 31.1 of the Vienna Convention on the Law of Treaties.
+22 Supra, n. 11, p. 719.
+23 Ibid., p. 639.
+24 With regard to the patentability of micro-organisms and other matter, the United States
+
+sought consultations referring to the patentability of: (a) micro-organisms per se (e.g.
+yeasts, bacteria, unicellular organisms); (b) a composition that includes as one element a
+micro-organism (e.g. a culture containing a yeast, bacterium, etc.); (c) a chemical
+compound per se (i.e. the chemical compound not in combination with other materials);
+(d) a composition containing a chemical compound that had an industrial application
+other than use as a pharmaceutical composition; (e) a chemical compound or a puriﬁed
+composition containing a chemical compound (in the form of a nucleic acid comprising
+a speciﬁed sequence of nucleoside [i.e. a nucleotide sequence]; a peptide, polypeptide or
+protein [i.e. an amino acid sequence]; a lipid; or a polysaccharide); (f) a chemical
+compound having a structure identical to a chemical compound isolated from a plant,
+animal, micro-organism or other naturally occurring sources; (g) a puriﬁed composition
+containing a chemical compound having a structure identical to a chemical compound
+isolated from a plant, animal, micro-organism or other naturally occurring source, such
+that the composition is not identical to a composition containing the chemical
+compound as it would be found in its natural state; and (h) a chemical compound or a
+composition containing that compound where the composition does not have a
+predominantly pharmaceutical application. See WT/DS171/3, WT/DS196/4, IP/D/18/
+Add.1, IP/D/22/Add.1, 20 June 2002.
+
+25 Ofﬁcial Gazette, 22 October 2001.
+26 The scientiﬁc notion of micro-organism encompasses a member of one of the following
+
+classes: bacteria, fungi, algae, protozoa or viruses (Coombs, 1986, p. 198).
+
+27 Section 102: ‘‘A person shall be entitled to a patent unless the invention was known or
+used by others in this country, or patented or described in a printed publication in this or
+a foreign country, before the invention thereof by the applicant for patent, or the
+invention was patented or described in a printed publication in this or a foreign country
+or in public use or on sale in this country, more than one year prior to the date of the
+application for patent in the United States . . .’’ (35 US Code).
+
+28 For instance, US patent No. 5.401.504 was awarded to the University of Mississippi
+Medical Center, in March 1995, over the ‘‘Use of Turmeric in Wound Healing’’, which
+covered ‘‘a method of promoting healing of a wound by administering turmeric to a
+patient afﬂicted with the wound’’. The powder of the turmeric plant was, however, a
+classic ‘‘grandmother’s remedy’’ in India. It had been applied to the scrapes and cuts of
+
+434
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+Patenting Human DNA
+
+Carlos M. Correa
+
+generations of children. Upon request of the India’s Council for Scientiﬁc and Industrial
+Research (CSIR), the US Patent and Trademark Ofﬁce invalidated the patent on 14
+August 1997 after ascertaining that there was no novelty. The lack of novelty was held on
+the basis of a 1953 article in the Journal of the Indian Medical Association and on
+Ayurvedic texts. On the contrary, in 1986, after research in Ecuadorian Amazonia, a US
+scientist was granted US plant patent No. 5.751 relating to a variety of the ayahuasca vine
+(Banisteriopsis caapi). Ayahuasca is a plant used for many medicinal and ritual purposes
+and is a sacred plant for many indigenous peoples of Amazonia. The patent was
+challenged by several non-governmental organizations, re-examined and revoked in 1999,
+but it was re-instated by the US Patent and Trademark Ofﬁce in 2001 as it was found that
+novelty had not been destroyed prior to the application (see, e.g., Correa, 2002).
+
+29 In accordance with the Guidelines of Examination of the EPO, ‘‘To ﬁnd a substance
+freely occurring in nature is also mere discovery and therefore unpatentable. However, if
+a substance found in nature has ﬁrst to be isolated from its surroundings and a process
+for obtaining it is developed, that process is patentable. Moreover, if the substance can
+be properly characterised either by its structure, by the process by which it is obtained or
+by other parameters . . . and it is ‘‘new’’ in the absolute sense of having no previously
+recognised existence, then the substance per se may be patentable . . . An example of
+such a case is that of a new substance which is discovered as being produced by a
+microorganism’’ (Part C [IV], 2.1).
+
+30 For an interpretation of this article, see UNCTAD-ICTSD (2005, pp. 375–83).
+31 See WTO document IP/C/W/163, 8 November 1999 [online]. Available at hhttp://
+
+www.wto.orgi [Accessed on April 2007].
+
+32 See the Interlocutory Decision of the Technical Board of Appeal 3.3.4 dated 15 April
+
+1999, T 272/95—3.3.4.
+
+33 An opposition division of the EPO also ruled that Myriad Genetics’ patent EP705902,
+could only be maintained in an amended form. This patent protects a DNA testing kit
+for the detection of mutations in the BRCA1 gene for the diagnosis of breast cancers.
+The amended patent claims no longer include claims for therapeutic and diagnostic
+methods (Thompson Current Patents Gazzette, Issue 0504, 28 January 2005, available at
+hhttp://scientiﬁc.thomson.com/media/cdjournals/gazettenews/2005/CPG_News_
+0504.pdfi [Accessed on April 2007]). Other patents of Myriad Genetics’ relating to the
+BRCA2-gene (EP 705903 and EP 785216) were also maintained, after review, in an
+amended form (EPO Press releases of 25 January 2005 and 29 July 2005, available at
+hhttp://www.european-patent-ofﬁce.org/news/pressrel/index.htmi[Accessed on April
+2007]).
+
+34 There is a growing body of literature on the issue of research tools. For a discussion that
+takes the development dimension into account, see Commission on Intellectual Property
+Rights (2002).
+
+35 Opinion by Dietmar Mieth, GAIEB, Opinion on Ethical Aspects of Patenting
+
+Inventions Involving Elements of Human Origin, 25 September, 1996 (Opinion 81)
+(quoted in Van Overwalle, 2001, p. 54).
+
+36 The application of copyright has been suggested by many scholars as a less restrictive
+mode of protecting genetic creations (see, e.g., Clavier, 1998, p. 283). Under copyright,
+only the expression of ideas, and not the latter as such, are protected.
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+435
+
+Carlos M. Correa
+
+Patenting Human DNA
+
+37 See the ‘‘Development Agenda’’ submitted to the World Intellectual Property
+
+Organization by Argentina and Brazil, and supported by the group ‘‘Friends of
+Development’’ in WIPO document WO/GA/31/11, 27 August 2004 [online]. Available
+at hhttp://www.wipo.inti [Accessed on April 2007].
+
+38 For a review of the situation of medical biotechnology in some developing countries, see
+
+Nature Biotechnology (2004) and Sasson (2005).
+
+References
+
+Adcock, M. and Llewelyn, M. (2000) Micro-organisms, Deﬁnitions and Options Under TRIPS
+
+and Micro-organisms, Deﬁnitions and Options under TRIPS: Supplementary Thoughts,
+QUNO, Occasional Paper 2, Geneva.
+
+Aust, A. (2000) Modern Treaty Law and Practice. Cambrige University Press, Cambridge.
+Baldock, C. (1999) ‘Patenting of ESTs’, Patent World, March.
+Bentley, L. and Sherman, B. (2001) Intellectual Property Law. Oxford University Press, New
+
+York.
+
+Ca´ rdenas y Espinosa (1997) Aspectos Tecnol ´ogicos de las Patentes. Ediciones del Equilibista,
+
+M ´exico.
+
+Chisum, D. and Jacobs, M. (1992) Understanding Intellectual Property Law. Matthew
+
+Bender, New York.
+
+Clavier, J.-M. (1998) Les cat ´egories de la propri ´et ´e intellectuelle a l’ ´epreuve des cr ´eations
+
+g ´en ´etiques. L’Harmattan, Paris.
+
+Commission on Intellectual Property Rights (2002) Integrating Intellectual Property Rights
+
+and Development Policy: Report of the Commission on Intellectual Property Rights,
+London [online]. Available at hhttp://www.iprcommission.org/graphic/documents/
+ﬁnal_report.htmi [Accessed on March 2007].
+
+Coombs, J. (1986) Macmillan Dictionary of Biotechnology. Macmillan, London, p. 198.
+Correa, C. (2002) Protection and Promotion of Traditional Medicine. Implications for Public
+
+Health in Developing Countries, South Centre, Geneva.
+
+Correa, C. (2005a) International Dimension of the Research Exception [online]. SIPPI Project,
+
+AAAS, Washington, DC. Available at hhttp://sippi.aaas.org/intlexemption
+paper.shtmli [Accessed on March 2007].
+
+Correa, C. (2005b) ‘The TRIPS Agreement from the Perspective of Developing Countries’, in
+P. Macrory, A. Appleton and M. Plummer (eds), The World Trade Organization: Legal,
+Economic and Political Analysis. Springer, New York.
+
+Crespi, S. (1997), ‘Biotechnology Patents and Morality’, Trends in Biotechnology, 15(4),
+
+123–9.
+
+Ducor, P. (1998) Patenting the Recombinant Products of Biotechnology and Other Molecules.
+
+Kluwer Law International, London.
+
+Eisenberg, R. (2000) ‘Re-Examining the Role of Patents in Appropriating the Value of DNA
+
+Sequences’, Emory Law Journal, 49, 783.
+
+European Commission (2005) Report from the Commission to the Council and the European
+Parliament. Development and Implications of Patent Law in the Field of Biotechnology and
+Genetic Engineering (SEC(2005) 943), COM(2005) 312 ﬁnal, Brussels, 14 July.
+
+436
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+Patenting Human DNA
+
+Carlos M. Correa
+
+Hansen, B. and Hirsch, F. (1997) Protecting Inventions in Chemistry. Commentary on
+
+Chemical Case Law Under the European Patent Convention and the German Patent Law.
+WILEY-VCH, Weinheim.
+
+Jackson, J. (2000) The Jurisprudence of GATT and the WTO. Cambrige University Press,
+
+Cambridge.
+
+Mengozzi, P. (1999) ‘The World Trade Organization Law: An Analysis of Its First Practice’.
+International Trade Law on the 50th Anniversary of the Multilateral Trade System 26
+Giuffre` , Milan, pp. 271–315.
+
+Merges, R., Menell, P., Lemley, M. and Jorde, T. (1997) Intellectual Property in the New
+
+Technological Age. Aspen Law & Business, New York.
+
+Nature Biotechnology (2004) Health Biotechnology Innovation in Developing Countries
+
+[online], December, 22 (supplement). Available at hhttp://www.utoronto.ca/jcb/home/
+news_nature.htmi [Accessed on March 2007].
+
+Nufﬁeld Council on Bioethics (2002) ‘The Ethics of Patenting DNA’. A Discussion Paper,
+
+London.
+
+Perez Pugatch, M. (2004) The International Political Economy of Intellectual Property Rights.
+
+Edward Elgar, Cheltenham.
+
+Pollaud-Dulian, F. (1997) ‘La Brevetabilit ´e des inventions. Etude comparative de
+
+jurisprudence’, France-OEB, Le Droit des Affaires, No. 16, Paris.
+
+Ravilious, K. (2005) ‘Private Companies Own Human Gene Patents’. The Guardian, 14
+
+October.
+
+Sasson, A. (2005) Medical Biotechnology. United Nations University Press, Tokyo.
+United Nations Conference on Trade and Development—International Centre for Trade and
+Sustainable Development (2005) Resource Book on TRIPS and Development. Cambridge
+University Press, New York.
+
+Van Overwalle, G. (2001) European Group on Ethics in Science and New Technologies to the
+
+European Commission, Study on the Patenting of Inventions Related to Human Cell
+Research. European Commission, Brussels.
+
+Warren-Jones, A. (2001) Patenting rDNA. Human and Animal Biotechnology in the United
+
+Kingdom and Europe. Lawtext Publishing, Witney.
+
+Watal, J. (2001) Intellectual Property Rights in the WTO and Developing Countries. Kluwer
+
+Law International, The Hague.
+
+Wiener, N. (1994) Invention. The Care and Feeding of Ideas. The MIT Press, Cambridge, MA.
+World Health Organization (2002) ‘Genomics and World Health’. Report of the Advisory
+
+Committee on Health Research, Geneva.
+
+World Health Organization (2005) ‘Genetics, Genomics and the Patenting of DNA’. Review of
+
+Potential Implications for Health in Developing Countries. WHO, Geneva.
+
+r 2008 The Author. Journal Compilation r 2008 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2007) Vol. 10, no. 6
+
+437
+
+

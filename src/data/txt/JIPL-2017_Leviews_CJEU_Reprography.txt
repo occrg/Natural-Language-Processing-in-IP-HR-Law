@@ -1,0 +1,3023 @@
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 7
+
+ARTICLE
+
+591
+
+Levies in EU copyright law: an overview of the
+CJEU’s judgments on the fair compensation of
+private copying and reprography
+Alexandre L. Dias Pereira*
+
+Introduction
+
+legally acquired content’ (n 2),
+
+On 27 February 2014 the European Parliament adopted
+a Resolution on private copying levies,1 calling on the
+Commission to submit a proposal of revision of
+Directive 2001/29 to set up a ‘virtuous system’ of pri-
+vate copying levies.2 Considering that ‘all European
+consumers should have the right to make private copies
+of
+the European
+Parliament found it necessary to harmonize the essen-
+tial elements of the levy system, notably the concept of
+fair compensation and the concept of harm to authors
+resulting from private copying (Recital G). In reply, the
+European Commission stated that it would ‘assess the
+need for action to ensure that, when Member States
+impose levies for private copying and reprography to
+compensate right holders, their different systems work
+well in the single market and do not raise barriers to the
+free movement of goods and services’.3
+
+The Commission had already received recommenda-
+tions concerning the revision of
+the levy system,
+including a ‘uniform’ deﬁnition of harm by reference to
+the value for consumers of private copying as ‘lost
+proﬁt’ (n 1).4 An active NGO on this sector has also
+advocated a ‘comprehensive reform’ of compensation
+
+The author
+ Alexandre Pereira is Assistant Professor at the
+Faculty of Law, University of Coimbra, Portugal.
+
+This article
+ The European Parliament has called for a ‘virtu-
+
+ous system’ of levies for private copying.
+
+ The Court of Justice of
+
+the European Union
+(CJEU) is developing a model of ‘fair compensa-
+tion’, based upon the notion of harm to right
+holders.
+
+ This contribution provides an overview of the sys-
+tem of copyright levies in EU law as interpreted
+by the CJEU, and suggests enhancement via a tax-
+like measure upon the consumption of reproduc-
+tion equipment and media.
+
+for private copying based upon the notion of ‘actual
+and demonstrable harm’.5 Meanwhile, the Court of
+Justice of the European Union (CJEU) has also issued a
+number of judgments on this topic.6
+
+*
+
+1
+2
+
+3
+
+4
+
+The author is grateful for the anonymous referee’s comments and sug-
+gestions, which were useful in revising this contribution. Nevertheless,
+any mistakes or errors are solely mine. FCT Fellowship (SFRH/BSAB/
+113592/2015), Email: aldp@fd.uc.pt.
+P7_TA(2014)0179.
+Directive 2001/29/EC of the European Parliament and of the Council of
+22 May 2001 on the harmonization of certain aspects of copyright and
+related rights in the information society, OJ L, L 167, 10–19.
+‘Towards a Modern, More European Copyright Framework’, COM
+(2015) 626 ﬁnal, at 9. The Proposal for a Directive of the European
+Parliament and of the Council on Copyright in the Digital Single Market
+(COM (2016) 593 ﬁnal, 14 September 2016) provides for a mandatory
+exception concerning the use, under certain conditions, of works and
+other subject matter in digital and cross-border teaching activities, and
+allows Member States to provide for fair compensation for the harm
+incurred by rightholders due to the use of their works or other subject
+matter pursuant to such exception—Article 4(1) and (4).
+A. Vitorino, ‘Recommendations Resulting from the Mediation on Private
+Copying and Reprography Levies’ (Brussels, 31 January 2013). Other
+interesting recommendations by Vitorino are, eg: (1) to place more levy
+
+5
+
+6
+
+emphasis on operator than on hardware; (2) no payment of compensa-
+tion for licensed copied; or (3) to simplify the system and shift the liabil-
+ity for payment of levies from manufacturer/importer’s level to the
+retailer’s level.
+Digital Europe, ‘Private Copying: Assessing Actual Harm and
+Implementing Alternative Systems to Device- Alternative Systems to
+Device-Based Copyright Levies Based Copyright Levies’ (Brussels, 22
+June 2015). In scholarship see notably P. B. Hugenholtz, L. Guibault and
+G. van Sjoerd, The Future of Levies in a Digital Environment (Final
+Report) (IVIR, Amsterdam, 2003), p. 46, holding the phasing out of levies
+‘not in function of actual use, but of availability of technical measures on
+the market place’.
+Padawan, C-467/08, EU:C:2010:620; Stichting de Thuiskopie, C-462/09,
+EU:C:2011:397; Luksan, C-277/10, EU:C:2012:65; VG Wort, C-457/11 to
+C-460/11, EU:C:2013:426; Amazon.com International Sales, C-521/11,
+EU:C:2013:515; ACI Adam, C-435/12, EU:C:2014:254; Copydan
+Ba˚ndkopi, C-463/12, EU:C:2015:144; Hewlett-Packard Belgium, C-572/13,
+EU:C:2015:750; Austro-Mechana, C-572/14, EU:C:2016:286; EGEDA, C-
+470/14, EU:C:2016:418; Microsoft, C-110/15, EU:C:2016:717; and SAWP,
+C-37/16, EU:C:2017:22.
+
+VC The Author(s) 2017. Published by Oxford University Press. All rights reserved.
+
+doi:10.1093/jiplp/jpx060
+Advance Access Publication 5 May 2017
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+7
+5
+9
+1
+3
+7
+9
+8
+6
+1
+1
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+592
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 7
+
+I. From the ‘German Levy Saga’
+fair compensation in EU
+copyright law
+
+A. The ‘German Levy Saga’
+
+judgments
+
+The ‘virtuous system’ provided by Directive 2001/29,
+as interpreted by the CJEU, ﬁnds its roots in the so-
+called ‘German levy saga’.7 The German Federal Court
+(BGH) held in its
+in Tonband (BGH,
+18.05.1955 – I ZR 8/54, NJW (1955) 1276) and
+Personalausweise (BGH, 29.05.1964 – Ib ZR 4/63, NJW
+(1964) 2157) that, despite private copying being con-
+trary to the right of reproduction, copyright enforce-
+ment in this area would be not only unfeasible, but also
+invasive of users’ privacy. The BGH suggested
+introducing statutory provision of compensation for
+private copying. This eventually occurred under the
+German Copyright Act of 1965, by means of a levy sys-
+tem on recording equipment and devices. Subsequently,
+a similar mechanism was set up for reprography, fol-
+in Kopierl€aden (BGH,
+lowing the BGH judgment
+09.06.1983 – I ZR 70/81, NJW (1984) 1106).
+
+The reproduction by natural persons for their private
+use became an accepted exception to the exclusive right
+of reproduction under the three-step test provided for
+by Article 9(2) of the Berne Convention as introduced
+by the Stockholm Act (1967), and later adopted by
+other
+(TRIPS Agreement
+1994, WIPO Internet Treaties 1996).
+It does not
+expressly incorporate the requirement of fair compen-
+sation, but reference to it ‘as an element of the third
+step’ is found ‘into the ﬁnal report of the [Stockholm]
+Conference’.8
+
+international
+
+instruments
+
+Nowadays, copyright levies exist not only in several
+EU Member States,9 but also in third countries,
+
+7
+
+P. B. Hugenholtz, ‘The Story of the Tape Recorder and the History of
+Copyright Levies’, in: B. Sherman and L. Wiseman (eds), Copyright and
+the Challenge of the New (Wolters Kluwer, Alphen aan den Rijn, 2012),
+pp. 179–96, at p. 180.
+
+9
+
+8 Hugenholtz supra n 7 at p. 191, referring to the WIPO Conference and
+pointing out at 188 that ‘The idea of a levy can actually be traced to the
+voluntary scheme developed by GEMA in the early 1950s, under which
+tape recorder manufacturers and importers were offered blanket licences
+for a one-time licence fee per recorder.’
+In Portugal a levy system was introduced in the Copyright Act of 1985
+and implemented by Law No. 62/98. However, several provisions of this
+Law have been declared unconstitutional by the Portuguese
+Constitutional Court: Judgment No 616/2003 of 16 December 2003, case
+340/99, (2004) 62 Diario da Republica I-A, due to failure to comply with
+tax-law principles, as copyright levies would be a tax-like measure as
+argued by J.O. Ascens~ao, ‘A «compensac¸~ao»’ (1990) 31 RFDUL 211–38.
+Law No. 50/2004 has established a ﬁxed percentage on the price of sale to
+the public of reproduction equipment and a list of levied media and tar-
+iffs. However, it has been argued that Law No 50/2004 did not comply
+with Directive 2001/29 notably because it did not provide a reimburse-
+ment scheme—D. M. Vicente, ‘Copia privada e compensac¸~ao equitativa:
+
+including, for example, Canada, Japan and Russia. They
+amounted to e804 million in 2014—Germany alone
+contributing e281 million.10
+
+and
+
+reproduction
+
+devices, media
+
+According to the CJEU, the fair compensation for
+private copying established by Directive 2001/29 is
+mandatory in consideration of the (above de minimis)
+private copy exception and its rationale is to repair the
+harm to rightholders presumably caused by consumers
+services.11
+of
+Notwithstanding this, practical difﬁculties justify that
+those making such devices, media or services available
+to the public have to discharge a levy on the price of
+sale of their goods or services, which presumably they
+can pass on to consumers. Inasmuch as the levy system
+exempts copies made for purposes other than private
+use (ex ante exemptions) and provides mechanisms of
+reimbursement of such undue levies (ex post reim-
+bursement), it ensures a fair balance between righthold-
+ers and users of protected content.
+
+The CJEU rulings raise the question of whether only
+a harm-based model of compensation is possible. The
+system relies upon a mandatory presumption of harm,
+as if the cause of damage was the private copy exception
+itself. Linking the system to a presumed (and somewhat
+ﬁctitious12) harm, the source of which is legislation
+itself, then Member States should have broader discre-
+tion to set up funding schemes, including a tax or tax-
+like model. In such an alternative or supplementary
+mechanism the fair compensation could apply to any
+private reproduction and be funded by the state budget,
+at least as part of the VAT on such equipment and
+media, or by means of a broadcasting-like cultural
+fee.13 Authors and other rightholders could receive
+more funding for their creative and cultural activities,
+thus contributing to a high level of IP protection in the
+EU, while at the same time safeguarding consumers
+
+reﬂex~oes sobre o Acord~ao Padawan’, 36 CDP (2011), 22–35, at 30. In
+order to ﬁx this, Law No 48/2015 has extended the levy to digital equip-
+ment and other media and expressly linked the compensation to the cri-
+terion of harm.
+
+10 WIPO, International Survey on Private Copying Law & Practice (Geneva,
+
+WIPO, 2015), p. 22.
+
+11 M. Leistner, ‘Europe’s Copyright Law Decade: Recent Case Law of the
+European Court of Justice and Policy Perspectives’, 51 CMLR (2014),
+559–600, at 586–7.
+
+12 K. J. Koelman, ‘The Levitation of Copyright: An Economic View of
+
+Digital Home Copying, Levies and DRM’, in: E. Huizer, C. Alberdingk,
+P. B. Hugenholtz and K. J. Koelman, De toekomst van het auteursrecht -
+Bijdragen Symposium 15.10.2004 (XS4ALL Bits of Freedom, Amsterdam,
+2004), pp. 39–59, at pp. 42–4 (pointing out economic ﬂaws of such an
+approach); J. Poort and J. P. Quintais, ‘The Levy Runs Dry. A Legal and
+Economic Analysis of EU Private Copying Levies’, 4(3) JIPITEC (2013),
+205–24, at 214 (‘lacking the relevant data, it becomes nearly impossible
+to establish a realistic baseline from which to calculate harm’).
+See Digital Europe, ‘Private Copying’, para 2.3.
+
+13
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+7
+5
+9
+1
+3
+7
+9
+8
+6
+1
+1
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Alexandre L Dias Pereira  Levies in EU copyright law
+
+ARTICLE
+
+593
+
+from the risk of liability. In copyright scholarship, an
+alternative system of ‘compensation without control’
+has been considered, particularly in the ﬁeld of
+non-commercial ﬁle-sharing, as one of ‘the most prom-
+ising approaches to take advantage of this new technol-
+ogy for authors and society at large’.14
+
+B. The fair compensation requirement in EU
+legislation
+
+Directive 2001/29/EC ‘concerns the legal protection of
+copyright and related rights in the framework of the
+internal market, with particular emphasis on the infor-
+mation society’.15 Among other things, it has harmon-
+ized the exclusive right of reproduction for authors,
+performers, phonogram and ﬁlm producers and broad-
+casters, and done so upon a ‘broad deﬁnition’ of this
+right.16 In addition, it has provided ‘for an exhaustive
+enumeration of exceptions and limitations to the repro-
+duction right’.17
+
+To begin with, ‘certain acts of temporary reproduc-
+tion, which are transient or incidental reproductions’
+(including routing, browsing and caching), are manda-
+torily exempted from the right of reproduction.18 Then,
+as exceptions and limitations to the reproduction right,
+it provides the reprography exception19 and the private
+copying exception.20 The private copy exception—or
+limitation, according to some commentators21—is pos-
+sible ‘on condition that the rightholders receive “fair
+compensation”
+them
+adequately for the use made of their protected works or
+other subject-matter’.22 Recital 35 of Directive 2001/29
+puts forward a ‘valuable criterion’ to assess these cir-
+cumstances (‘the possible harm to the rightholders
+resulting from the act in question’), and provides a set
+of guidelines for the implementation of the fair com-
+pensation,
+including: (1) whether ‘rightholders have
+already received payment
+for
+instance as part of a licence fee’, because in that case
+‘no speciﬁc or separate payment may be due’; (2) ‘the
+degree of use of technological protection measures’;
+
+in some other form,
+
+compensate
+
+order
+
+‘to
+
+in
+
+14 A. Peukert, ‘A Bipolar Copyright System for the Digital Network
+Environment’, in: A. Strowel (ed), Peer-to-Peer File Sharing and
+Secondary Liability in Copyright Law (Cheltenham, Edward Elgar, 2009),
+pp. 148–95, at p. 193 (quoting Lessig); see also A. Stazi, ‘Digital
+Copyright and Consumer/User Protection: Moving Toward a New
+framework’, 2(2) QMJIP (2012), 158–74.
+
+15 Article 1(1) of Directive 2001/29.
+16 Article 2 and Recital 21 of Directive 2001/29.
+17 Recital 32 of Directive 2001/29.
+18 Recital 33 and Article 5(1) of Directive 2001/29. For the notion of ‘transi-
+
+ent act’ see the CJEU’s judgments in Infopaq International, C-5/08,
+EU:C:2009:465, paras 61, 64, 65 and 74, and PRCA, C-360/13,
+EU:C:2014:1195, para 63: ‘the on-screen copies and the cached copies
+made by an end-user in the course of viewing a website’.
+
+and (3) certain situations of minimal prejudice to the
+right holder in which ‘no obligation for payment may
+arise’.
+
+Recital 38 points out that ‘Digital private copying is
+likely to be more widespread and have a greater eco-
+nomic impact’, but it is not clear what ‘greater eco-
+nomic impact’ means. Moreover, the ‘form, detailed
+arrangements and possible level’ of the fair compensa-
+tion is a matter for each Member State. However, in
+several judgments, the CJEU has limited the national
+discretion in setting up the relevant systems.
+
+II. The CJEU judgments
+
+The CJEU has answered a number of questions con-
+cerning the conformity of national laws with the provi-
+sions of Directive 2001/29. Fair compensation is
+attached to both its rationale and the level of harm pre-
+sumably caused to right holders by the use by consum-
+ers of copying equipment and media.
+
+A. The rationale of fair compensation
+
+In its landmark judgment in Padawan, the CJEU clari-
+ﬁed the rationale of the fair compensation requirement
+and the criteria to follow in national legislation. Fair
+compensation is deemed to be ‘an autonomous notion
+of European Union law’,23 the rationale of which is to
+repair harm which private copying does to right-
+holders.24 Referring to Recitals 35 and 38 in the pream-
+ble to Directive 2001/29, the CJEU stated that: ‘It is
+clear from those provisions that the notion and level of
+fair compensation are linked to the harm resulting for
+the author from the reproduction for private use of his
+protected work without his authorisation. From that
+perspective, fair compensation must be regarded as rec-
+ompense for the harm suffered by the author,’25 which
+consumers have to remedy.26
+
+However, practical reasons of enforcement and the
+fact that each single private copy is per se a minimal
+harm for which no payment is due,27 justify a mecha-
+nism of indirect payment by means of charging a levy
+
+19 Article 5(2)(a) of Directive 2001/29.
+20 Article 5(2)(b) of Directive 2001/29.
+21
+
+J. Reinbothe and S. von Lewinski, The WIPO Treaties on Copyright: A
+Commentary on the WCT, the WPPT, and the BTAP, 2nd edn (Oxford
+University Press, Oxford, 2015), p. 158.
+
+22 Recital 35 of Directive 2001/29.
+23 Padawan, paras 29, 33, 35, 37 and conclusion 1.
+24
+25
+26
+27
+
+Ibid, para 39.
+Ibid, para 40 (emphasis added).
+Ibid, paras 44 and 45.
+Ibid, para 46.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+7
+5
+9
+1
+3
+7
+9
+8
+6
+1
+1
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+594
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 7
+
+on the sale of equipment, devices and media to be dis-
+charged by those who make them available to end users.
+The rationale is that producers of blank media can pass
+on the levy in the charged price, and therefore, ‘the bur-
+den of the levy will ultimately be borne by the private
+user who pays that price’.28 Such levy system is deemed
+to meet the requirement of a ‘fair balance’ between the
+interests of rightholders and of those who use protected
+subject-matter,29 ‘inasmuch as [producers of blank
+media] are able to pass on to private users the actual
+burden of ﬁnancing it’.30
+
+A presumed harm is the normative criterion of the
+fair compensation. A ‘necessary link’ between the levy
+and the use of devices and media for purposes of pri-
+vate copying is therefore required, as levies cannot
+charge devices and media regardless of their use,31 in
+particular where they are ‘acquired by persons other
+than natural persons for purposes clearly unrelated to
+private copying’.32 However,
+it is irrelevant whether
+private copies have actually been made because harm is
+deemed to occur merely by making available reproduc-
+tion equipment, media and services to consumers as
+these ‘are rightly presumed to beneﬁt fully from the
+making available of that equipment’.33 The presumed
+harm lies merely in the possibility of making use of the
+private copying exception:
+
+It follows that the fact that that equipment or devices are
+able to make copies is sufﬁcient in itself to justify the appli-
+cation of the private copying levy, provided that the equip-
+ment or devices have been made available to natural
+persons as private users.34 [. . .] Such an interpretation is
+supported by the wording of recital 35 in the preamble to
+Directive 2001/29. That recital mentions, as a valuable cri-
+terion for the determination of the level of fair compensa-
+tion, not only the ‘harm’ as such but also the ‘possible’
+harm. The ‘possibility’ of causing harm to the author of
+the protected work depends on the fulﬁlment of the neces-
+sary pre-condition that equipment or devices which allow
+copying have been made available to natural persons,
+which need not necessarily be followed by the actual pro-
+duction of private copies.35
+
+28
+29
+30
+31
+32
+
+33
+
+Ibid, para 48.
+Ibid, para 49.
+Ibid, para 50 and conclusion 2.
+Ibid, para 52.
+Ibid, para 53 (Spanish legislation charging devices and media manifestly
+used for purposes other than private copying was found incompatible
+with Directive 2001/29—para 59).
+Ibid, paras 54 and 55. Fair compensation may also apply to the printing
+out of works on paper or their storage on a USB stick, carried out by
+users from dedicated terminals installed in publicly accessible libraries,
+provided that such acts meet the conditions to fall within the exceptions
+in Article 5(2)(a) or (b)—judgment of 11 September 2014, case C-117/
+13, Eugen Ulmer, ECLI:EU:C:2014:2196, conclusion 3, and paras 50–7.
+
+34 Padawan, para 56.
+
+In short, the system relies upon a double presumption:
+(1) natural persons use such equipment and media to
+make copies of copyright works and (2) these copies
+harm the legitimate interests of the author.
+
+B. The discharger of fair compensation
+
+In Stichting de Thuiskopie, the CJEU reafﬁrmed that, for
+practical reasons, Member States may charge a levy on
+devices and media to be discharged by those who pro-
+duce them ‘since they are able to pass on the amount of
+that levy in the price paid by the ﬁnal user for that serv-
+ice’.36 Member States have to ensure the effective recov-
+ery of
+fair compensation for the harm suffered by
+rightholders on their territory, even where consumers
+acquire equipment and media at a distance from sellers
+established in a different Member State.37 Harm occurs
+in the territory of residence of the ﬁnal user, because he
+reproduces for his private use protected works without
+prior authorization from rightholders.38 Nevertheless,
+Member States may ‘establish a private copying levy
+chargeable to the persons who make reproduction
+equipment (. . .) available to that ﬁnal user, since they
+are able to pass on the amount of that levy in the price
+paid by the ﬁnal user for that service’.39
+
+Later on, in Amazon.com International Sales, the CJEU
+refused an exemption of levies where a comparable levy
+has already been paid in another Member State,40 holding
+that the place of establishment of the seller is irrelevant
+and that harm can be presumed to occur in the territory
+of the Member State in which the consumer resides.41
+Therefore, the fact that the levy has already been dis-
+charged in one Member State does not preclude payment
+in the Member State of the consumer’s residence, but a
+mechanism of reimbursement must be available.42
+
+C. Authorship of cinematographic works and
+ownership of fair compensation
+
+In Luksan the CJEU asserted the principle of authorship
+of droit d’auteur jurisdictions and held that, under EU
+law, the economic rights in a cinematographic work
+
+35
+
+Ibid, para 57. See also Hewlett-Packard Belgium (Reprobel), paras 69 and
+71, in which the CJEU ruled that the fair compensation is, in principle,
+intended to compensate for the harm suffered resulting from the copies
+actually produced (‘the criterion of actual harm suffered’), but neverthe-
+less ‘the amount of a levy of that kind which is ﬁxed in advance cannot
+be ﬁxed on the basis of the criterion of actual harm suffered’.
+Stichting de Thuiskopie, para 29 and conclusion 1.
+Ibid, paras 31–41 and conclusion 2
+Ibid, paras 26 and 29.
+Ibid, para 29.
+
+36
+37
+38
+39
+40 Amazon.com International Sales, para 66 and conclusion 4.
+41
+42
+
+Ibid, paras 57–61.
+Ibid, para 62–5.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+7
+5
+9
+1
+3
+7
+9
+8
+6
+1
+1
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Alexandre L Dias Pereira  Levies in EU copyright law
+
+ARTICLE
+
+595
+
+belong to the principal director, because s/he is manda-
+torily the or one of the authors of such works. Member
+States cannot exclusively allocate the economic rights to
+the producer, but they can provide a rebuttable pre-
+sumption of transfer of such rights, insofar as the prin-
+cipal director is able to agree otherwise.43 However,
+national legislation cannot provide a rebuttable or non-
+rebuttable presumption of transfer of the right to equi-
+table compensation to the producer44—by analogy with
+the prohibition to waive the right to receive equitable
+remuneration for the rental of copyright works45—as it
+would be contrary to the obligation to ensure effective
+recovery of the fair compensation.46
+
+D. Effects of authorizations given by the
+rightholder for acts covered by an exception
+or limitation and of the use of technological
+protection measures
+
+In VG Wort the CJEU ruled that, where national legisla-
+tion provides the private copying exception, the author-
+ization given by the rightholder to make private copies
+is ‘devoid of legal effects’47 for purposes of the harm
+caused to him/her and therefore has no impact upon
+the need for a fair compensation. It appears that, if
+there is no private copying exception, the harm which
+fair compensation aims to repair does not take place.48
+In short, the harm caused by the private copying excep-
+tion is presumed and independent from any authoriza-
+tion given by the rightholder, which therefore has ‘no
+bearing on the fair compensation payable for reproduc-
+tions made in accordance with Article 5(2)(b)’.49
+
+It could give rise to double payment where private
+copies are directly licensed by the right holder.50 It is
+questionable whether Recital 35 of Directive 2001/29 has
+been taken into account, in particular where it reads that
+
+if ‘rightholders have already received payment in some
+other form, for instance as part of a licence fee’, then ‘no
+speciﬁc or separate payment may be due’. However, it
+means that where a Member State provides for a private
+copying exception then the licensing of such copies is
+‘devoid of legal effects’ (VG Wort para. 37, Copydan
+Ba˚ndkopi para. 66) and therefore cannot justify a remu-
+neration for such licensing. In order to facilitate digital
+licensing business models, such as the pricing-in model,
+copies of works lawfully made available online could be
+excluded from the scope of application of the private
+copying exception, so that they are licensed and remuner-
+ated by means of the license instead of by means of levies.
+Article 6(4) of Directive 2001/29 appears to facilitate
+licensing business models based upon conditional access,
+concerning ‘works or other subject-matter made available
+to the public on agreed contractual terms in such a way
+that members of the public may access them from a place
+and at a time individually chosen by them’.
+
+Notwithstanding this, with regard to the use of tech-
+nological protection measures, as such use is voluntary
+and cannot prevent effective application of the private
+copy exception where it is provided by the Member
+State,51 the CJEU found that it ‘cannot render inappli-
+cable the condition relating to fair compensation’.52
+However, as per Recital 35 (per. 5, of Directive 2001/
+29), the level of fair compensation should take into
+account ‘the degree of use of technological protection
+measures’.
+
+E. Criterion to level the compensation where
+a copying involves the use of several devices
+
+In VG Wort, the CJEU held that ‘mediums which do
+not have comparable and equivalent qualities to those
+of paper do not come within the scope of
+the
+
+43
+44
+45
+
+46
+
+Luksan, conclusions 1 and 2.
+Ibid, conclusions 3 and 4.
+Ibid, paras 100–2. Despite different terminology, according to the CJEU
+the equitable remuneration for the rental of copyright works ‘is also
+designed to establish recompense for authors, since it arises in order to
+compensate for harm to the latter’—Luksan, para 103 (with reference to
+VEWA, C271/10). Article 13(1)(b) of Directive 2004/48/EC of the
+European Parliament and of the Council of 29 April 2004 on the enforce-
+ment of intellectual property rights (IPRED), provides criteria to set up
+damages, including ‘as a lump sum on the basis of elements such as at
+least the amount of royalties or fees which would have been due if the
+infringer had requested authorisation to use the intellectual property
+right in question’. However, private copying is not an infringement to
+the right of reproduction, but rather a lawful use under national legisla-
+tion. So, the fair compensation could be regarded as a remuneration for
+a statutory licence, and give it a meaning autonomous from the concept
+of damages provided by the IPRED. See also P. Johnson, ‘Damages in
+European Law and the Traditional Accounts of Proﬁt’, 3(4) QMJIP
+(2013), 296–306, at 300.
+Luksan, paras 106–9.
+
+47 VG Wort para 37. See also Copydan Ba˚ndkopi, para 66 (‘such authorisa-
+
+tion is devoid of legal effects’).
+
+48 VG Wort, paras 37, 39 and 40, and conclusion 2.
+49 Copydan Ba˚ndkopi, para 67.
+50
+
+See, eg, Poort and Quintais, ‘The Levy Runs Dry’, 219, holding that
+‘charging levies for copies that are licenced by rightholders would lead to
+double payment’; Digital Europe, ‘Private Copying’, para 2.1 in ﬁne (in
+streaming subscription services the ability to private copying ‘is already
+included in the purchase price’ and therefore ‘does not cause any addi-
+tional harm to rightholders’). The UK has amended its copyright act
+(Copyright, Designs and Patents Act 1988) to provide a narrow copying
+exception in terms of a pricing-in solution, and since only minimal dam-
+age would occur, it has not adopted a levy system: The Copyright and
+Rights in Performance (Personal Copies for Private Use) Regulations of
+26 August 2014. However, without appropriate evidence being provided
+by UK Government to justify the absence of a compensation mechanism,
+the High Court of England and Wales ruled on 19 June 2015 the excep-
+tion unlawful: [2015] EWHC 1723, Case No. CO/5444/2014.
+
+51 VG Wort, paras 52–4.
+52
+
+Ibid, paras 57, 59 and conclusion 3.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+7
+5
+9
+1
+3
+7
+9
+8
+6
+1
+1
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+596
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 7
+
+[reprography] exception’,53 which covers the photo-
+graphic technique and ‘some other process having simi-
+lar effects’, that is, ‘the analogue representation of a
+protected work or other subject-matter’.54 The reprog-
+raphy exception does not exclude the use of ‘several
+devices, including those with a digital function’,55 pro-
+vided, however, that ‘the various elements or non-
+autonomous stages of that single process act or are car-
+ried out under the control of the same person and are
+all intended to reproduce the protected work or other
+subject-matter on paper or a similar medium’.56
+
+Moreover, the court found that it is open to each
+Member State to put in place a system in which the fair
+compensation is paid by the persons in possession of a
+device contributing, in a non-autonomous manner, to
+the single process of reproduction of the protected
+work or other subject matter on the given medium,
+insofar as: (1) they can pass on the cost of the levy to
+their customers; and (2) the overall amount of the fair
+compensation owed as recompense for the harm suf-
+fered by the author at the end of that single process is
+not ‘substantially different from the amount ﬁxed for a
+reproduction obtained by means of a single device’.57
+
+It appears that fair compensation concerns the out-
+come of the copying process rather than the number of
+devices involved, as a multi-device process does not
+necessarily result in more copies than a single device,
+and therefore the levy does not have to apply to all the
+devices in a copying chain.
+
+F. Reimbursement of levies charged at the ﬁrst
+introduction in the market in the territory of
+a Member State regardless of the purpose of
+acquisition of recording media and the
+exemption of levies for sales to business users
+
+In Amazon.com International Sales, the CJEU accepted
+the imposition of levies regardless of the purpose of
+acquisition, on condition that, in particular, ‘practical
+difﬁculties justify such a system of ﬁnancing fair com-
+pensation and the right to reimbursement is effective
+and does not make repayment of the levies paid exces-
+sively difﬁcult’.58 The validity of a rebuttable presump-
+tion of private use of recording media where such
+media is sold to natural persons is conﬁrmed, but on
+
+condition that ‘the presumption established does not
+result in the imposition of the private copying levy in
+cases where the ﬁnal use of those media clearly does not
+fall within’ the private copying exception.59
+
+Accordingly, an effective and not too burdensome
+ex post reimbursement mechanism is required as well
+as an ex ante exemption concerning devices used by
+businesses, that is, persons other than natural persons
+for purposes clearly unrelated to private copying,60
+thus exempting importers from imposing the levy
+where the devices are clearly to be used by business
+users.61
+
+In Copydan Ba˚ndkopi, the CJEU concluded that the
+levy system can apply to producers and importers who
+sell mobile telephone memory cards to business cus-
+tomers and are aware that those cards will be sold on
+by those customers but do not know whether the ﬁnal
+purchasers of the cards will be individuals or business
+customers, on condition that: (1) the introduction of
+such a system is justiﬁed by practical difﬁculties; (2) the
+persons responsible for payment are exempt
+from
+the levy if they can establish that they have supplied the
+mobile telephone memory cards to persons other than
+natural persons for purposes clearly unrelated to copy-
+ing for private use, it being understood that the exemp-
+tion cannot be restricted to the supply of business
+customers registered with the organization responsible
+for administering the levy; (3) the system provides for a
+right to reimbursement of the private copying levy
+which is effective and does not make it excessively difﬁ-
+cult to repay the levy paid and only the ﬁnal purchaser
+of such a memory card may obtain reimbursement,
+by submitting an appropriate application to that
+organization.62
+
+Later on, in Microsoft, the CJEU found that: (1) the
+exemption from payment of the private copying levy
+for producers and importers of devices and media
+intended for use clearly unrelated to private copying
+cannot be subject to the conclusion of agreements
+between an entity which has a legal monopoly on the
+representation of the interests of authors of works, and
+those liable to pay compensation, or their trade associa-
+tions; and (2) the reimbursement of such a levy, where
+it has been unduly paid, cannot be requested only by
+the ﬁnal user of those devices and media.63
+
+Ibid, para 66.
+Ibid, para 68.
+Ibid, para 72.
+Ibid, para 70.
+Ibid, para 80 and conclusion 4.
+
+53
+54
+55
+56
+57
+58 Amazon.com International Sales, para 37 and conclusion 1.
+
+Ibid, conclusion 2.
+See, eg, Padawan, para 52, and Amazon.com International Sales, para 28.
+See also Copydan Ba˚ndkopi, para 50.
+Ibid, para 55 and conclusion 3.
+
+59
+60
+61
+62
+63 Microsoft, paras 55–6 and conclusion.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+7
+5
+9
+1
+3
+7
+9
+8
+6
+1
+1
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Alexandre L Dias Pereira  Levies in EU copyright law
+
+ARTICLE
+
+597
+
+G. Attribution of half of the revenue to social
+and cultural institutions set up for the beneﬁt
+of authors and other rightholders
+
+The statutory attribution of half of the levy revenue to
+social and cultural institutions set up for the beneﬁt of
+authors and other rightholders is accepted by the
+Court, but on the condition that ‘those social and cul-
+tural establishments actually beneﬁt those entitled and
+the detailed arrangements for the operation of such
+establishments are not discriminatory’ (notably for rea-
+sons of nationality64).65
+
+The statutory attribution of half of such revenue to
+third parties is questionable. In principle, it is up to the
+person awarded damages to decide if and how she
+wants to assign the revenue to third parties. As the
+CJEU accepts to have half of the revenue given by the
+national legislator to third parties, the fair compensa-
+tion can hardly be only a tool to repair harm suffered
+by individual rightholders.
+
+H. Lawfulness of the source of private copies
+and reprography
+
+In ACI Adam,
+
+This issue concerns the scope of application of the pri-
+vate copying exception.
+the CJEU
+recalled the principle of restrictive interpretation of
+exceptions and limitations to the exclusive rights and
+found that the private copying exception does not apply
+to copies made from an unlawful source.66 According
+to the court, ‘the objective of proper support for the
+dissemination of culture must not be achieved by sacri-
+ﬁcing strict protection of rights or by tolerating illegal
+forms of distribution of counterfeited or pirated
+works’.67 An undifferentiated system would be contrary
+to the ‘fair balance’ between rightholders and users, as
+it would overcharge with a ‘non-negligible cost’ pur-
+chasers of such equipment, devices and media.68
+
+This judgment is in line with the opinion of several
+scholars.69 It has been argued that the exclusion of cop-
+ies made from unlawful sources would ‘narrow the
+scope of the [private copying] exception’ and ‘provide
+
+Ibid, para 55 and conclusion 3.
+
+64 Amazon.com International Sales, para 54.
+65
+66 ACI Adam, paras 37 and 58 and conclusion 1.
+67
+
+Ibid, para 36 (adding that the circulation of pirated works adversely
+affects their normal exploitation works and unreasonably prejudices
+copyright holders—paras 39 and 40).
+Ibid, para 56.
+See, eg, Hugenholtz, Guibault and van Sjoerd, The Future of Levies, p. 46.
+Considering that, otherwise it would lead to the ‘levitation of copyright’
+as an exclusive right, Koelman, ‘The Levitation of Copyright’, 53–5.
+
+68
+69
+
+70 Poort and Quintais, ‘The Levy Runs Dry’, 219.
+71
+
+J. P. Quintais, ‘Private Copying and Downloading from Unlawful
+Sources’, 46(1) IIC (2015), 66–92, at 74 (referring to ‘some circularity’ in
+
+an increasingly weaker economic case for levies in the
+digital age’.70 Apparently taking for granted a ‘substitu-
+tion effect’71 between lawful and unlawful copies, the
+CJEU excluded the latter from the private copying
+exception, while leaving unclear which method levy-set-
+ting bodies will use for this purpose. A can of worms
+might have been opened as far as consumers’ privacy72
+and possible criminal enforcement of copyright against
+them under the rule of ‘copyright is watching you’ is
+concerned.
+
+However, this ruling has a relevant economic effect:
+overall damages allegedly due to piracy, notably online
+piracy, and claimed by the copyright industries are, as
+such, not eligible for fair compensation.
+
+The CJEU has also dealt with this issue in other deci-
+sions.73 On the one hand, it found that a system which
+applies fair compensation to the copying of sheet music
+cannot be accepted because sheet music is excluded
+from the reprography exception and by extension from
+the private copying exception, without prejudice of
+‘limited and isolated situations’ of unauthorized repro-
+duction of sheet music where the prejudice to right
+holders is minimal.74 On the other hand, the court
+ruled that fair compensation does not cover reproduc-
+tions made from an unlawful source, including those in
+the reprography sector.75
+
+I. Multifunctional media (eg mobile telephone
+memory cards) irrespective of their main
+function
+
+In Copydan Ba˚ndkopi the CJEU ruled that multifunc-
+tional media (eg mobile telephone memory cards) are
+subject to the fair compensation requirement, but on
+the condition that ‘one of the functions of the media,
+be it merely an ancillary function, enables the operator
+[reproduction] purpose’.76
+to use
+However, for the purpose of determining the amount
+of payable compensation, it is necessary to consider
+‘whether the function is a main or an ancillary one and
+the relative importance of the medium’s capacity to
+make copies’, so that in case of minimal prejudice, ‘the
+
+them for
+
+that
+
+the argument that unlawful copies would unreasonably prejudice the
+legitimate interests of right holders, as if the fair compensation was not
+designed to compensate them for such prejudice).
+See, eg, ibid, 81 (pointing out ‘the Court’s failure to consider the impact
+of the fundamental right of privacy in the interpretation of the three-step
+test’, at 89).
+
+72
+
+73 Copydan, paras 74–9, Hewlett-Packard Belgium (Reprobel), paras 50–64.
+74 Hewlett-Packard Belgium, paras 50–6.
+75
+76 Copydan Ba˚ndkopi, paras 26–9 and conclusion 1. With a different opin-
+
+Ibid, paras 57–61 and 62–3.
+
+ion, Hugenholtz, Guibault and van Sjoerd, The Future of Levies, p. 47.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+7
+5
+9
+1
+3
+7
+9
+8
+6
+1
+1
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+598
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 7
+
+fair
+
+making available of such a function need not give rise
+compensation’.77
+to an obligation to pay
+Determination of what amounts to ‘minimal prejudice’
+is a matter for Member States to decide—in respect of
+the principle of equal treatment.78 Once again the func-
+tion of fair compensation justiﬁes the application (and
+the level) of the levy, and its exclusion concerning
+reproduction equipment and media which cause only
+minimum harm.
+
+J. Exemption of supply of components
+designed primarily to store copies for private
+use (eg internal memory of MP3 players)
+
+The CJEU has not allowed the exemption of compo-
+nents designed primarily to store copies for private
+use.79 The fact that a memory card is detachable is not
+deemed sufﬁcient objective justiﬁcation, but the court
+has given national courts the option of assessing other
+circumstances capable of providing such justiﬁcation,
+such as, for example, where ‘rightholders receive fair
+compensation in another form’.80 The court may have
+considered that in order to store copies in the internal
+memory of an MP3 reader, other devices and media
+(notably a PC or a smartphone) have to be used and
+therefore levying these devices would already allow
+rightholders to receive the fair compensation for such
+copies.
+
+K. Copies made by or with the aid of a device
+belonging to third persons
+
+To determine the scope of the private copy exception,
+only the medium of reproduction is relevant—not the
+‘legal nature’ of the connection between the natural
+person doing the reproduction and the device used.81
+The silence of the Directive on this point would mean
+that private copies can be done ‘by a natural person by
+or with the aid of a device which belongs to a third
+party’.82 Therefore, unless copies made with the aid of
+such device are excluded from the scope of the private
+copying exception, they would be also covered by the
+levy.83
+
+77 Copydan Ba˚ndkopi, para 29 and conclusion 1, 2nd per.
+78
+79
+80
+81
+82
+83 The Spanish Copyright Reform of 2014 has expressly exempted ‘time-
+
+Ibid, paras 61–2 and conclusion 4.
+Ibid, paras 32–3.
+Ibid, paras 40–1 and conclusion 2
+Ibid, paras 81, 84–90.
+Ibid, para 91 and conclusion 8.
+
+shifting’ from the fair compensation—Article 25(5) of the Ley de
+Propiedad Intelectual, enacted by Real Decreto Legislativo No 1/1996 of 12
+April, as amended by Ley No 21/2014 of 4 November.
+
+L. Beneﬁciaries of the reprography exception
+
+The reprography exception concerns reproductions in
+paper or similar medium by means of photography or
+comparable techinques.84 In Hewlett-Packard, the CJEU
+ruled that it beneﬁts both categories of persons (busi-
+nesses and consumers), while the private copying
+exception only applies to natural persons acting with-
+out direct or indirect commercial purposes.85 The con-
+ceptual autonomy as well as the rationale of the fair
+compensation apply also to the reprography exception
+for reasons of coherence in interpreting exceptions.86
+Nevertheless, because the harm suffered by rightholders
+is not identical, one must draw a distinction between
+the reprographic reproduction on paper carried out by
+any user, and the reproduction by a natural person for
+private use and without direct or indirect commercial
+purposes.87 In other words, the reprography exception
+beneﬁts any user, including legal persons acting for pur-
+poses other than private use, and therefore it causes
+more harm to rightholders than if it would beneﬁt con-
+sumers only.
+
+M. Publishers as unlikely beneﬁciaries of fair
+compensation
+
+The fair compensation requirement is meant to redress
+authors of the harm caused by the private copying
+exception, and cannot be waived by rightholders in
+favour of third parties.88 Publishers are not holders of
+the right of reproduction under Directive 2001/29. If
+publishers have no obligation to beneﬁt authors from a
+substantial share of the compensation from which they
+are deprived, then they should not be entitled to receive
+a signiﬁcant share of the fair compensation.89
+
+N. Levy on technical speciﬁcations (copying
+device speed) and/or number of copies?
+
+Is it possible to set a levy based merely on the technical
+speciﬁcations of the device (in this case, the speed of
+copying), or should it rather be combined with a levy
+ﬁxed after the reproduction by reference to the number
+of copies produced?90
+
+84 Article 5(2)(a) of Directive 2001/29.
+85 Hewlett-Packard Belgium, paras 29–34.
+86
+87
+88
+89 Hewlett-Packard Belgium, paras 44–9 and conclusion 2.
+90
+
+Ibid, paras 37–9.
+Ibid, para 43 and conclusion 1.
+Luksan, paras 106–9.
+
+Ibid, para 66.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+7
+5
+9
+1
+3
+7
+9
+8
+6
+1
+1
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+Alexandre L Dias Pereira  Levies in EU copyright law
+
+ARTICLE
+
+599
+
+The CJEU held that levies ‘must necessarily be set as
+a lump sum’, on the sole basis of the reproduction
+function of the device, because they ‘cannot be ﬁxed on
+the basis of the criterion of actual harm suffered, as the
+extent of that harm remains unknown at the moment
+at which the devices concerned are put into circulation
+on national territory’.91 However, the court added that
+it cannot be assumed that users will dedicate the devices
+to their full capacity to making copies.92 Considering
+that the use of a reproduction device for private copy-
+ing is different from its use for commercial or other
+purposes, a lump-sum remuneration ﬁxed solely by
+reference to the technical copying speed of the device
+cannot be accepted.93 Arguably, if it is not possible to
+assess levies based only upon the speed of a printer,
+then the same should apply to the storage capacity of a
+PC or a mobile phone.
+
+Notwithstanding this, a levy ﬁxed prior to the mak-
+ing of copies may be justiﬁed only due to practical difﬁ-
+culties in identifying users and assessing the actual use
+of the devices.94 Then, a system which combines the
+proportional remuneration for copies produced with
+the lump-sum remuneration ﬁxed in advance is not
+incompatible, a priori, with fair compensation, provided
+that it enables the amount of levies to correspond, in
+essence, to the actual harm suffered by the rightholders.95
+This means that such a system has to provide, notably, a
+mechanism for reimbursement designed to correct any
+occurring ‘overcompensation’ detrimental to particular
+categories of users,96 and to safeguard a fair balance
+between the rightholders and the users of protected sub-
+ject-matter.97 Therefore, it appears that when operator
+fees are implementable, these should fund the compensa-
+tion, and levies should not apply.98
+
+O. For jurisdiction purposes, the payment
+of fair compensation is a matter of tort or
+delict
+
+In Austro-Mechana, the CJEU recalled that the scope of
+application of the special rule of jurisdiction in matters
+
+91
+92
+93
+94
+95
+96
+97
+98
+
+Ibid, paras 71–2.
+Ibid, para 73.
+Ibid, para 77.
+Ibid, para 82.
+Ibid, para 84.
+Ibid, para 85 (referring by analogy to Amazon.com International Sales).
+Ibid, para 86.
+See A. Vitorino’s recommendations and the Belgian Act of 22 December
+2016, amending inter alia Article XI.236 (remuneration for reprography)
+of the Code de droit e´conomique.
+
+99 Article 5 of Council Regulation (EC) No 44/2001 of 22 December 2000
+
+on jurisdiction and the recognition and enforcement of judgments in
+civil and commercial matters, replaced by Regulation (EU) No 1215/
+
+relating to tort, delict or quasi-delict (formerly Article
+5(3) of Brussels I, and currently Article 7(2) of Brussels
+I recast99) is deﬁned in negative terms, as covering any
+action of civil liability in matters not relating to a con-
+tract.100 Matters relating to a contract do not necessa-
+rily require the conclusion of a contract, but they do
+not cover ‘a situation in which there is no obligation
+freely assumed by one party towards another’.101 The
+payment of fair compensation is not a matter related to
+contract because it does not arise from an agreement
+freely consented by the debtor, but rather its source is a
+statutory provision concerning the distribution with
+commercial purposes of
+reproduction devices and
+media.102 On the other hand, concerning the link of
+causality, the non-payment of the levy imposed to fund
+fair compensation is the relevant cause of harm, even if
+payment is due to a copyright collecting society and not
+directly to right holders.103
+
+There is not much elaboration to this ﬁnding, but it
+probably means that the levy system concerns primarily
+intermediaries, despite rightholders and consumers
+being—respectively—the (virtual) main creditors and
+debtors of the fair compensation.
+
+P. Funding fair compensation through the
+State budget
+
+In EGEDA, the CJEU accepted that, as a matter of prin-
+ciple, the funding of fair compensation can take place
+through the general state budget of a Member State,
+instead of by a system of levies.104 However, the ration-
+ale of fair compensation is to repair the harm presum-
+ably caused by the beneﬁciaries of the private copy
+exception (consumers), who are therefore the indirect
+debtors of levies, and the beneﬁciaries of the private
+copying exception are only natural persons acting for
+private purposes
+legal persons being
+therefore exempted from the levies.105 For these reasons
+the court did not accept that there is no ‘deﬁnite alloca-
+tion of revenue—such as revenue from a speciﬁc levy—
+to particular expenditure’,106 nor a particular measure
+allowing tax payers
+exemption from
+
+(consumers),
+
+to request
+
+2012 of the European Parliament and of the Council of 12 December
+2012 as from 10 January 2015 (Brussels I Regulation recast).
+
+100 Austro-Mechana, para 32.
+101 Ibid, para 35 (with reference to Ceska sporitelna, C419/11,
+
+EU:C:2013:165, para 46).
+
+102 Austro-Mechana, paras 37–8.
+103 Ibid, paras 39–46.
+104 EGEDA, paras 24–5. Besides Spain, other countries like Finland and
+
+Norway have established funding of fair compensation by means of their
+state budget. See Digital Europe, ‘Private Copying’, para 2.2.
+
+105 EGEDA, paras 26–36.
+106 Ibid, para 39.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+7
+5
+9
+1
+3
+7
+9
+8
+6
+1
+1
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+600
+
+ARTICLE
+
+Journal of Intellectual Property Law & Practice, 2017, Vol. 12, No. 7
+
+contributing to the ﬁnancing of the compensation or,
+at least, to seek reimbursement.107
+
+Such alternative schemes cannot ‘ensure that the cost
+of that compensation is borne by the users of private
+copies’ (only)108 and therefore cannot be accepted.
+Nevertheless, this ruling appears to pave the way to a
+tax on consumption of reproduction equipment and
+media (eg a percentage of VAT over such goods).
+
+Q. VAT does not apply to fair compensation
+for private copying
+
+added tax for purposes of
+
+In SAWP the CJEU decided whether the fee on devices
+and media for recording or reproducing copyright
+works or the subject matter of related rights is subject
+to value
+the VAT
+Directive.109 The court found that fair compensation
+concerns the harm suffered by rightholders due to pri-
+vate copying, and therefore the payment of levies to
+collecting societies does not remunerate the supply of a
+service.110 Accordingly, VAT does not apply to fair
+compensation. It follows that: (1) collecting societies can-
+not apply VAT in the invoices sent to manufacturers/
+importers of devices subject to levies; and (2) VAT can-
+not charge the fair compensation when levies are passed
+on through the distribution chain to consumers. This
+does not mean, however, that Member States cannot
+fund fair compensation for private copying by means of
+a consumer tax on reproduction equipment and media
+(eg, a percentage of VAT over such goods).
+
+Conclusion
+
+A ‘virtuous system’ of private copying levies called for
+by the European Parliament is ‘under construction’ by
+the CJEU based upon the relevant provisions
+in
+Directive 2001/29.
+
+compensation is
+
+substantially mandatory
+
+Since Padawan, the CJEU has consistently held that
+fair
+for
+Member States that envisage the (optional) private copy-
+ing exception. The rationale of the fair compensation is
+to repair the harm presumably caused to rightholders by
+consumers who acquire copying devices and media or
+services based thereupon. However, harm caused by each
+consumer is probably minimal and therefore irrelevant,
+and it would be intrusive to the consumers’ privacy as
+
+well as unfeasible to seek damages by means of court
+enforcement of copyright against each individual con-
+sumer. Harm is presumed (it is not necessary to prove
+that consumers make copies), but levies must be based
+on the actual criterion of harm (devices subject to levies
+and the applicable rates must be based on a prior assess-
+ment of harm). As the CJEU recognized, ‘the extent of
+that harm remains unknown at the moment at which
+the devices concerned are put into circulation’.111
+
+Due to practical difﬁculties, fair compensation can
+be set up as a levy scheme: national legislation may
+charge levies from persons making reproduction devices
+and media available to consumers upon the price of
+sale to the public of such equipment and media.
+Another presumption takes place: businesses can pass
+on the levy to consumers, who remain the actual—yet
+indirect—subject responsible for payment of fair com-
+pensation. For this reason, the levy system has to pro-
+vide ex ante exemptions of levies on devices available to
+non-consumers and, additionally, provide ex post reim-
+bursement of levies paid by them where such ex ante
+exemption did not apply. At the same time, the author-
+ization given by the rightholder to making private cop-
+ies does not exclude fair compensation, and the same
+applies to the use of technological protection measures.
+Finally, the CJEU has not denied the possibility to
+fund fair compensation through the state budget,
+if
+there is ‘deﬁnite allocation of revenue to particular
+expenditure’ and exemption and/or reimbursement
+provisions.112 The criterion, however,
+the
+same: to compensate the harm presumably due to law-
+ful private copying. Harm caused by and passed on to
+consumers, assuming a substitution effect.
+
+remains
+
+This said, the economic effect of ‘margin compression’
+for sellers of copying equipment and media appears
+neglected, especially in a market also governed by Moore’s
+law, and which along with the business models of licens-
+ing, streaming and cloud computing may end-up ‘phasing
+out’ the levy system. The revision of the system might
+combine the levy scheme with a tax-like special contribu-
+tion allocated to fund activities of cultural creation. Fair
+compensation would then have two equally valuable
+rationales and operating systems: to compensate harm,
+possibly by means of a levy scheme; and to promote cul-
+tural production through a tax-like instrument.
+
+107 Ibid, paras 39 and 40.
+108 Ibid, paras 41–2 and conclusion.
+109 Council Directive 2006/112/EC of 28 November 2006 on the common
+
+system of value added tax (OJ 2006 L 347, p. 1), as amended by Council
+Directive 2010/45/EU of 13 July 2010 (OJ 2010 L 189, p. 1).
+
+110 SAWP, para 33 and conclusion (‘holders of reproduction rights do not
+
+make a supply of services [. . .] to producers and importers of blank
+
+media and of recording and reproduction devices on whom organisa-
+tions collectively managing copyright and related rights levy on behalf of
+those rightholders, but in their own name, fees in respect of the sale of
+those devices and media’).
+
+111 Hewlett-Packard Belgium, paras 71–2.
+112 EGEDA, paras 39–40.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+s
+:
+/
+/
+
+i
+
+a
+c
+a
+d
+e
+m
+c
+.
+o
+u
+p
+.
+c
+o
+m
+
+/
+j
+i
+
+l
+
+l
+
+/
+
+p
+p
+a
+r
+t
+i
+c
+e
+-
+a
+b
+s
+t
+r
+a
+c
+t
+/
+
+/
+
+/
+
+/
+
+1
+2
+7
+5
+9
+1
+3
+7
+9
+8
+6
+1
+1
+b
+y
+ 
+U
+n
+v
+e
+r
+s
+i
+t
+y
+ 
+o
+
+ 
+
+i
+
+f
+ 
+
+B
+
+r
+i
+s
+t
+o
+
+l
+ 
+
+i
+
+ 
+
+L
+b
+r
+a
+r
+y
+ 
+u
+s
+e
+r
+ 
+o
+n
+1
+3
+M
+a
+r
+c
+h
+2
+0
+1
+9
+
+ 
+
+ 
+
+

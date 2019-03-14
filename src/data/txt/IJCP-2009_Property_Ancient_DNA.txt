@@ -1,0 +1,1509 @@
+International Journal of Cultural Property (2009) 16:103–129. Printed in the USA.
+Copyright © 2009 International Cultural Property Society
+doi:10.1017/S0940739109090183
+
+Property Rights of Ancient DNA:
+The Impact of Cultural Importance on
+the Ownership of Genetic Information
+Lisa M. Elliott*
+
+Abstract: This article examines the way property rights can be applied to DNA
+from ancient sources. In particular, it examines the ways in which the legal
+classification of a source as a “cultural artifact” can influence the assignment
+of property rights over genetic information. I explore the discrepancy between
+the legal ability to own ancient dead bodies but not nonancient dead bodies,
+illustrating how dead bodies with a perceived cultural value are legally distinct
+from those which are not considered to have cultural value. Second, I address
+the way such cultural preservation laws fail to influence ownership rights over
+genetic information. Finally, I propose a model for the best way to deal with
+genetic information from ancient sources, based on the policies of the
+International Ancient Egyptian Mummy Tissue Bank.
+
+I. INTRODUCTION
+
+A. Background
+
+In 1985, when Svante Pääbo extracted and analyzed a short segment of DNA from
+a 2400-year-old mummy, he demonstrated that DNA analysis could be systemat-
+ically applied to archaeological samples, and the cloning of mitochondrial DNA
+sequences could allow diachronic studies of genes in the Egyptian population since
+Neolithic times. Pääbo removed samples from 23 mummies and mummy frag-
+
+*School of Law, Western New England College. Email: elliottlm1@gmail.com
+
+ACKNOWLEDGMENT: I would like to thank Professor Barbara Noah for her multiple reviews,
+insightful comments, and for encouraging creativity.
+
+103
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+104
+
+LISA M. ELLIOTT
+
+ments from the Sixth Dynasty (circa 2370–2160 BC) to the late Roman period.
+One sample contained DNA that could be molecularly cloned in a plasmid vec-
+tor. He found that it is feasible to clone substantial pieces of genomic DNA from
+ancient biological remains.1 Since Pääbo’s discovery, DNA analysis has been used
+on ancient remains to establish everything from familial lines and identity to the
+paleoepidemiology of disease.2 With an increasing interest in tissue analysis of
+ancient remains, the Manchester Museum in Manchester, England, created the
+International Ancient Egyptian Mummy Tissue Bank to act as a repository and
+custodian of mummy tissue for scientific research.3 The bank ensures that tissue
+is made available for studies, including DNA analysis, and stores the results of
+those studies in the bank’s records.4
+
+Historically, mummies such as those with deposits in the International Ancient
+Egyptian Mummy Tissue Bank have been treated as cultural artifacts and there-
+fore fall within the property laws of that category, though generally, there are no
+property rights in dead human bodies. However, with the increasing desire to se-
+quence DNA from the tissue samples of ancient remains and the development of
+ancient tissue banks, it is timely to discuss how ancient samples and the DNA
+chains extracted from them will be controlled under the law. Although most dis-
+cussions of property rights of DNA center their attention on samples collected
+from living (or recently deceased) donors, perhaps examining these rights in a
+framework of antiquity will shed new light on the conversation.
+
+Paradise and Andrews recognized the unique legal and ethical problems of
+extracting and analyzing DNA from ancient (or otherwise culturally important)
+artifacts in their 2007 article, “Tales from the Crypt.” Paradise and Andrews ex-
+amined current biological research being performed on the remains of historical
+figures, like the Medicis, Abraham Lincoln, Billy the Kid, Albert Einstein, and the
+like.5 (In this article, I often address ancient DNA or ancient bodies as being
+culturally important or culturally relevant. By cultural importance, I mean that
+within a particular culture, there is a significance assigned to the artifact that
+makes it particularly valuable to that culture above any other.) Paradise and An-
+drews examined current biological research being performed on the remains of
+historical figures, like the Medicis, Abraham Lincoln, Billy the Kid, Albert Ein-
+stein, and the like. They analyzed potentially applicable federal statues, case law,
+and codes and guidelines from 26 professional organizations and societies infor-
+mative to the field of biohistory (an area that combines historical and biological
+research).6 They used the legal and ethical precedents to propose ways to avert
+abuses in five areas they identified as important: (1) promotion of research, (2)
+access to samples or artifacts, (3) scientific integrity and dissemination of results,
+(4) informed consent and rights of participants, and (5) avoidance of conflicts
+of interests.7 In all, though their summaries of various codes of ethics provide
+excellent professional guidance in the field of biohistory, there have been little to
+no binding legal precedents for dealing with ancient DNA.8 Little scholarship
+has been written with such a unique perspective in mind. In this article, I have
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+PROPERTY RIGHTS OF ANCIENT DNA
+
+105
+
+taken up part of the problem revealed by Paradise and Andrews’s work, and I
+explore how concepts of property and ownership influence the legal policies gov-
+erning DNA analysis of artifacts that have a perceived cultural value.
+
+B. Defining the Problem
+
+Commonly, tissue to be used for research purposes is taken from a living donor
+and stored in a tissue bank. The ability for researchers to return to those samples
+for further data collection often requires informed consent from the donor, or in
+cases where the donor has recently died, the next of kin must provide informed
+consent.9 Similarly, museum and universities often house tissue samples such as
+bones, preserved skin, and hair samples from archeological excavations and an-
+thropological studies. Yet, in most circumstances, genetic (and other) research can
+be performed on these remains without seeking the informed consent of the dead
+person’s descendants.10 This is because the identities of the remains are likely un-
+known, descendants are unknown, and even cultural affiliation is difficult to es-
+tablish because ancient ancestral groups often give rise to a number of different
+descendent groups.11 When researchers do not know anything about the donor or
+their culture, then it is difficult to attribute any preference with regard to the treat-
+ment of their tissue or of their body, which is compounded by the broader issue
+that researchers working with these samples generally have no legal obligation to
+report how they treat the samples, especially with regard to ancient remains and
+their possible descendents.12 But, when a descendent can be traced, or a body has
+a distinguishable cultural affiliation, the descendent or representatives of the cul-
+ture often become a proxy decision maker for the deceased.13 In this capacity, they
+may proscribe scientific research. Effectively, when the identity of the body is es-
+tablished, genetic research can only be performed on samples taken from the body
+when the proxy decision maker consents to the testing.
+
+When a proxy decision maker cannot be established and remains may be tested
+without any informed consent, or when a proxy decision maker grants consent
+for genetic testing, the proxy’s custodianship of the remains does not equate to
+ownership of the DNA sequence extracted from those samples. It would be a mis-
+take to assume that DNA from these samples automatically follows the custodi-
+anship of the body and thus becomes the property of the proxy decision maker,
+because DNA sequences obtained from living donors are currently considered by
+the law to be something between private property and common heritage.14
+
+The purpose of this article is to analyze the legal and ethical issues of applying
+property rights to ancient DNA when the DNA was extracted from samples of
+cultural artifacts, like those from Egyptian mummies housed in the International
+Ancient Egyptian Mummy Tissue Bank. In other words, when DNA sequences are
+extracted from ancient remains, who should control rights to those sequences for
+research, preservation, and commercial purposes?15 First, this article will trace the
+interests of property rights in the human body, both of nonancient and ancient
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+106
+
+LISA M. ELLIOTT
+
+remains. Part of this includes analyzing whether proxy decision making over re-
+search samples (by an individual or by a cultural representative) implies a proxy
+ownership over the remains. Second, it will look at whether assigning property
+rights over the DNA sequence of ancient remains to proxy decision makers is in
+the best interest of the deceased themselves, their descendant communities, and
+humanity as a whole.
+
+II. THE BODY
+
+A. Property Interests in Dead Bodies
+
+The legal status of dead bodies first developed in the common law of seventeenth-
+century England when grave robbing threatened the dignity of the deceased. The
+value in grave robbing prior to the introduction of anatomical studies in medi-
+cine, was not in the body itself. Rather, grave robbers would loot graves for the
+burial clothing or other items interred with the deceased.16 Grave robbers would
+exhume a recently interred body to sell to medical colleges, anatomists, and sur-
+geons for use in medical training. Prior to anatomical study as a part of medical
+training, dead bodies had little (if any) commercial value.17 With no value in a
+dead body, English law historically saw no point in recognizing a property right in
+a human corpse.18
+
+But the definition of property is dynamic. What was not property in the past is
+capable of becoming property in the future. Before the development of travel by
+air, a landowner’s right to use the airspace above his property extended to what
+would be ordinary use and enjoyment of his land.19 In 1997, the English court
+reconsidered the no-property principle in Dobson v. North Tyneside Health Au-
+thority.20 A deceased’s next of kin brought suit against (1) the North Tyneside
+Health Authority for failing to diagnose the brain tumor of the deceased and (2)
+the Newcastle Area Health Authority for failing to preserve the brain of the de-
+ceased. The coroner in the matter requested a postmortem examination. and dur-
+ing the autopsy, the deceased’s brain was removed and fixed in paraffin, to later
+potentially be used for research purposes. Although English common law main-
+tained a no-property rule in human bodies, the plaintiff sought relief for conver-
+sion.21 When the court of appeal reviewed the case, the court recognized two
+exceptions to the historic no-property rule: First, there was a right to possession
+of a body for the purpose of burial or disposition. Second, “the lawful exercise of
+work or skill so dealt with a human body or part of a human body in a person’s
+lawful possession such that it has acquired some attributes differentiating it from
+a mere corpse awaiting burial” possibly creates a property right in the body.22 So
+although English common law still finds no proprietary rights in the human body,
+if the brain has been removed from the body and prepared on slides, those slides
+and the brain matter they contain are capable of becoming property.23
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+PROPERTY RIGHTS OF ANCIENT DNA
+
+107
+
+The development of anthropological institutes and cultural museums also re-
+flects the changing conception of property rights of bodies. Museums all over the
+world that house collections of mummies and biological material are now facing
+requests (if not lawsuits) to return these collections to their country of origin (or
+to a representative of their cultural affiliation) who believe they have an intrinsic
+proprietary interest in the material.24 So how does the law treat ancient dead bod-
+ies with respect to proprietary rights? Is there a fundamental difference in the pro-
+prietary right of ancient dead bodies versus nonancient dead bodies? Jurisdictions
+differ when answering these questions.
+
+English law’s recognition of property rights created through the application of
+the work or skill exception (established in Dobson and reaffirmed in Kelly) does
+not directly state how ancient dead bodies can become property. But, it is evident
+from those cases that the courts were not hesitant to create a property interest in
+a body. Their creation of the work or skill exception meant that the dissection or
+preservation of dead bodies for exhibition or teaching purposes was a sufficient
+investment of the scientists’ time, energy, and knowledge deserving of a legal right
+in the body itself.25 Then, in 2004 the Human Tissue Act (HTA 2004) codified the
+work or skill exception of the common law and gave special attention to ancient
+dead bodies. Under the HTA 2004, consent is the fundamental principle govern-
+ing the storage and use of any material that contains human cells.26 Appropriate
+consent must be obtained to both store and use this material, with several excep-
+tions, the foremost being that consent is not required to store and use material
+where the body or bodily material comes from a person who died 100 years or
+more before the HTA 2004 became effective.27 The specific language in the HTA
+2004 exception indicates the English legislature had a conscious desire to distin-
+guish between a mere (nonancient) dead body and what could be considered an
+ancient dead body, for the purpose of establishing legal interests in the body.
+
+American jurisprudence, in contrast, is more willing to find an interest in a
+dead body, though the reality of this right is that it only exists as a quasi-property
+right to facilitate burial. It will not support a claim of conversion. In this sense, it
+is similar to the English no-property principle. In Ritter v. Couch, descendants of
+those buried in a town burial place brought suit to prohibit the removal of their
+ancestors from their graves. The Ritter court tried to distinguish American juris-
+prudence from its English counterpart by articulating that although old English
+law does not recognize the body as property, American courts do recognize a quasi-
+property right over which the relatives of the deceased have rights.28 Yet, we find
+from other common law cases, the courts are only willing to extend that right for
+the limited purpose of seeing that the body is decently interred or disposed of.29
+In Culpepper v. Pearl Street Building, Inc., parents brought an action for conver-
+sion when their son’s body was mistakenly cremated.30 On review, the Supreme
+Court of Colorado explicitly held that a property right did not exist in a dead
+body that would support an action for conversion. Because the quasi-property
+right arose to facilitate recovery for the desecration of a dead body, the plaintiff
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+108
+
+LISA M. ELLIOTT
+
+avoided needing to prove emotional distress. In reality, the primary concern of the
+right was not injury to the dead body itself, but to the emotional pain suffered by
+surviving family members. Thus, the courts created a nonproprietary right in dead
+bodies to ease the burden of family members who would otherwise have to ap-
+pear in court to prove emotional distress.31 The American possessory interest for
+burial is clearly a limited legal interest, distorted by an American court system
+applying the term quasi-property. Even under health code laws, next of kin are
+prevented from exhuming of bodies without legal approval from the state or an-
+other state-regulated health authority.32 As such, it is evident that “property” rights
+in the body exist only as illusory rights.
+
+The differences between English and American law is really only one of lan-
+guage. English law, in essence, finds no property rights in a body unless there has
+been an application of work or skill. American law, on the other hand, finds a
+quasi-property right in the body but only for the purposes of burial. This quasi-
+property right is a legal fiction and toys with language to give an impression of
+ownership where none actually exists. The resistance in American law to conform
+to English law and mimic the language of the no-property principle (even ac-
+knowledging of the right to possession for burial) is puzzling. Nonetheless, Amer-
+ican law may have distinguished itself from English law in characterization but
+not entirely in principle. The question then remains, do exceptions exist in Amer-
+ican jurisprudence, like those in the English common law, that create a nonfictional
+proprietary right in dead bodies or materials removed from the dead body similar
+to the work or skill exception? There appears to be a gap in both case law and
+scholarship on this point. The primary case that addresses the question of pro-
+prietary rights of human tissue samples is Moore v. Regents of the University of
+California, though Moore was a living supplier of tissue rather than a dead body.
+John Moore underwent treatment for hairy-cell leukemia at the University of
+California’s Medical Center. On October 20, 1976, Moore’s physician removed
+Moore’s spleen. Thereafter, Moore’s physician conducted extensive research on
+Moore’s cells, from which they were able to establish a cell line and applied for a
+patent of the cell line. Moore’s physician then negotiated agreements for the com-
+mercial development of the cell line and products to be derived from it. Moore
+brought suit for conversion, claiming a property right in his excised cells, but the
+court refused to find a proprietary interest in his cells due to a lack of precedent
+establishing a proprietary right in human cells and policy concerns that hold sci-
+entific research as a socially useful activity.33
+
+Because Moore explicitly found there was no property right in excised tissue
+from living suppliers, it is easy to assume that there also is no property right in
+excised tissue from dead bodies. However, this would be a mistake. Although Amer-
+ican case law does not distinguish between tissue samples of living suppliers and
+tissue samples of dead bodies in the application of proprietary interest, the law
+does discriminate between dead bodies with cultural value and dead bodies with-
+out cultural value. Thus, tissues excised from culturally relevant bodies may be
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+PROPERTY RIGHTS OF ANCIENT DNA
+
+109
+
+capable of becoming property, whereas tissues excised from nonculturally rele-
+vant dead bodies cannot.
+
+In State v. Redd, the Utah Supreme Court discussed Utah Code Ann. § 76–
+
+704(1)(a)(1995), which provided:
+
+A person is guilty of abuse or desecration of a dead human body if the
+person intentionally and unlawfully:
+
+Removes, conceals, fails to report the finding of a dead body to a local
+
+law enforcement agency, or destroys a dead body or any part of it.
+
+The court found that the legislature intended the statute to “protect partial re-
+mains of many people buried long ago in crude graves such as pioneers, war dead,
+or victims of horrendous accidents or crimes” whether those crimes or accidents
+occurred in the near or far past.34 In other words, there is no distinction based on
+the age of remains. Under this law, remains from the far past and remains from
+the near past have equal protection from desecration.
+
+In 2004 the U.S. Supreme Court decided Bonnichsen v. U.S., also known as the
+Kennewick Man case, which relied, in part, on the Native American Graves Pro-
+tection and Reparation Act (NAGPRA) and the Archaeological Resources Protec-
+tion Act (ARPA).35 ARPA was created in 1979 after a century of congressional
+concern for the protection of archaeological resources.36 It attempted to make
+“abundantly clear” statutory language prohibiting the trafficking of valuable ar-
+chaeological resources and to preserve these resources, so that through the coop-
+eration of government authorities, the archaeological community, and private
+individuals valuable information could be exchanged.37 However, the ARPA granted
+no property rights over these resources. For example, in Matter of Shivers, Shivers
+sought the return of 50 metal tokens which he found in the Angelina National
+Forest. They had been seized by the government under warrant suggesting he had
+violated federal law by removing archaeological resources from a national forest.38
+In 1990, the U.S. government enacted the NAGPRA, which explicitly classified Na-
+tive American human remains as cultural objects and vested control over those
+remains in the descendants of the Native Americans.39 The Bonnichsen Court held
+that in order to fall under the protection of NAGPRA, human remains must bear
+some relationship to a presently existing tribe, people, or culture to be “Native
+American” and in the present case, 9000-year-old remains found off the waters of
+Kennewick, Washington, could not be classified as such. The cultural group to
+which he belonged either died out or was “unknowable.”40 This case exemplifies
+that though the U.S. Code does not differentiate between ancient dead bodies and
+nonancient dead bodies, the courts are willing to recognize a proprietary interest
+in dead bodies that are culturally important.41 However, often the very fact that
+the remains are ancient renders them culturally important.
+
+English and U.S. courts use different terms to discuss interests of dead bodies and
+biological samples taken from those bodies, and rights to possession in both juris-
+dictions vary in degree from a mere duty to bury through complete dominion and
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+110
+
+LISA M. ELLIOTT
+
+control. Nevertheless, each regulation, statute, act, or case attempts to allocate pro-
+prietary and nonproprietary rights that ensure the dignity of the deceased and are
+allocated to those who generally best represent that interest. Yet, who has the best
+representative interest when the dispute is between religious tenets and scientific
+inquiry? The United Kingdom has developed a proprietary right that protects the
+work (or application of skill) created by scientists, researchers, or preservationists
+over the religious beliefs of the nation or culture associated with particular re-
+mains, regardless of whether those remains are ancient or not. For example, when
+scientists apply their “skills” to tissue, such as creating slides of tissue samples, the
+U.K. courts have routinely found that those scientists own those slides and like-
+wise own the tissue on those slides. Yet, the individual from whom the tissue orig-
+inated has no right of ownership over that excised tissue even though it is their
+biological matter. The United States, likewise, protects scientific inquiry into nonan-
+cient remains by (1) refusing to give property rights to living donors of excised
+tissue, (2) allowing the commercialization of information extracted from that tis-
+sue, and (3) repeatedly affirming that only a nonproprietary right of custody for
+burial purposes only exist for the next of kin of a recently deceased body. How-
+ever, when the remains are ancient (as opposed to a recently deceased dead body),
+the United States’ model, NAGPRA, promotes religious sanctity above scientific
+value, but only if the remains are Native American. If a Native American descen-
+dent can be located, the remains become the property of that descendent, but when
+a descendent cannot be located, tribal or cultural affiliation is treated as a descen-
+dent and becomes the proxy owner of the remains.
+
+I think the reason why science is given a paramount right probably has to do
+with social norms. As a whole, society is seeking answers about their origins and
+their future, which they feel can be answered by scientific inquiry. Yet, NAGPRA is
+an exception to that desire to drive forward scientific inquiry. Why? Perhaps it
+represents a legacy of guilt based on the actions of our colonist ancestors. In other
+words, the positions in NAGPRA suggest that no profound leap in our under-
+standing of our biological origin (as humans) gained through the study of these
+remains can justify the disrespect of cultural values of Native American tribes,
+who have endured near annihilation through the writing of this country’s history.
+Because any ancient remains discovered in the borders of the United States are
+likely to be the ancestor of a Native American tribe, NAGPRA serves to preserve
+the values of a minority class who occupy a unique place in our country’s past.
+
+B. Assignment of Property Rights Over the Body
+
+The establishment of cultural affiliation is a complex issue. In the Kennewick Man
+case, the remains were over 9000 years old and the right to proxy decision making
+was contested. Native American tribes claimed ownership of the remains under
+NAGPRA, while scientists argued NAGPRA did not apply. The court examined
+both historical records and genetic analysis to establish the final claim of right to
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+PROPERTY RIGHTS OF ANCIENT DNA
+
+111
+
+Kennewick Man’s remains and found that the remains were so old, and the infor-
+mation about his era was so limited, that they could not reasonably conclude Ken-
+newick Man “shared any special and significant genetic or cultural features with
+presently existing indigenous tribes, people, or cultures.”42 Thus, legally Ken-
+newick Man’s remains were not Native American and therefore did not fall within
+the meaning of NAGPRA. Because NAGPRA is the only act in American jurispru-
+dence that bestows a clear proprietary right in dead bodies, Kennewick Man’s re-
+mains by default fell within ARPA and were protected as an item of national heritage
+though they do not belong to any particular person.43 In essence, the U.S. govern-
+ment became the proxy decision maker of Kennewick Man’s remains under 16
+U.S.C.A. §470dd, which allowed the U.S. government to control the future of the
+remains.44 Establishing a property right based on nationality became the default
+for a failure to unearth a better cultural identity or lineal descendant who could
+become a proxy decision maker for the remains.
+
+Yet, even national identity is not a bright-line category. The issue becomes more
+complex when the remains are found close to national borders. In the Kennewick
+Man case, the court observed a limitation in NAGPRA, finding that the term “Na-
+tive American” could not equate to any remains that predate European settlers but
+only to remains that relate to a “tribe, people or culture that is indigenous to the
+United States” (emphasis retained).45 Further, the court found that the “United
+States” is a political entity that dates back to 1789, and the use of the present tense
+(“that is indigenous”) referred to tribes, peoples, and cultures that exist in modern
+time but not those that may have existed thousands of years ago but do not exist
+now.46 In contrast to the statutory definition of “Native American,” the statutory
+definition of “Native Hawaiian” under NAGPRA means “any individual who is a
+descendant of the aboriginal people who, prior to 1778, occupied an exercised
+sovereignty in the area that now constitutes the State of Hawaii” (emphasis added).47
+Thus, Congress has consciously chosen to define Native American as it relates to
+the borders of a political entity rather than a geographic location as they do when
+defining Native Hawaiian.
+
+This is a common position taken by nations after World War II, and it is one of
+cultural nationalism; objects belong within the physical boundaries of the nations
+within which they are found or with which they are historically associated (i.e.,
+Egyptian mummies belong in Egypt, Greek marble statues belong in Greece, etc.).48
+This has been the guiding principle behind the development of international leg-
+islation affecting cultural property, including UNESCO and UNIDROIT.49 Yet, na-
+tionalism is limited by political stability. When borders change, nations change.
+Nationality becomes a fluid term that appeals to the emotions, while the epithet
+of nationality overshadows other forms of heritage (such as religious heritage).
+The Egyptian mummy stirs images of the pyramids and pharaohs who began to
+expand the borders of the nation we now know as Egypt, a country that we be-
+lieve to have unchanging geographic borders and that will, in 50 years, remain just
+as we left it on the map in 2009. Yet, Egyptian mummy means so much more. It
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+112
+
+LISA M. ELLIOTT
+
+represents the religious past of pharaonic Egypt, where preservation of the dead
+ensured a chance in the afterlife. Does present-day Egypt—a geographic region
+inhabited first by Rmt Kmt (the people of Kemet); invaded by the Greeks, Ro-
+mans, and then a succession of Islamic rulers; also experienced a French occupa-
+tion and a British occupation; and is now 90% Muslim—have the best right to a
+pharaonic mummy?50 In other words, does national identity represent the best
+means for establishing cultural heritage? This is not to say nationality and cultural
+identity should be mutually exclusive. Each serves an important function in the
+development of the other. It is surely pragmatic to use nationality as a default
+when a better cultural identity is impossible to ascertain. And, using nationality
+has its benefits. When artifacts are culturally unidentifiable but nonetheless have
+historical value, using nationality generates historical pride and unity among those
+who live within the borders of the nation. Although it is doubtful that many Egyp-
+tians want to be identified exclusively as “the county with all the pyramids and
+mummies,” there is a sense of honor in the recognition of the marvels of ancient
+Egyptian ingenuity.
+
+The case of Otzi (also known as the Iceman) reveals the danger of using na-
+tionality as a default tool for assigning property rights. Otzi’s remains were found
+100 meters from the border between Austria and Italy in 1991, and the contro-
+versy over the ownership of his remains became an international dispute as dis-
+cussed by Brenda Fowler in her book, Iceman. Otzi (named after the region in
+which he was found) was approximately 5200 years old when he was discovered.
+This means he had lived during the late Neolithic or early Copper Age, before the
+nations of today were established. Historically, Tyrol (the area where Otzi was found)
+had been part of the Austro-Hungarian Empire.51 But after the empire’s defeat in
+World War I, Austria ceded the portion of Tyrol south of the main Alpine ridge to
+Italy, and the 1919 Treaty of Saint-Germain established the new border between
+Austria and Italy along the watershed of the Austrian river Inn and the Italian
+river Adige.52 Mussolini sponsored the settlement of thousands of ethnic Italians
+in the region in 1935, but in 1939, on the eve of World War II, Hitler (who re-
+spected Mussolini’s desire to hold onto the region) allowed the population to ac-
+cept German citizenship and emigrate to Germany or keep Italian citizenship. At
+least 70% of the population voted to leave. In 1969 Austria and Italy agreed on a
+set of terms for a largely autonomous province called Sudtirol (South Tyrol) in
+German and Alto Adige (High Adige) in Italian. By 1991, the 440,000 people liv-
+ing in the province were 65% German, 26% Italian, and 4% Ladin. When the dis-
+covery of Iceman occurred, both Austria and Italy sought ownership, and the
+governor of Austrian Tyrol stressed that either way one looked at it, the discovery
+had been made in Tyrol. In other words, although Austria and Italy argued for
+their own proprietary rights, Otzi was most likely the cultural heritage of neither,
+but rather a nation that did not exist at the time he was discovered.53
+
+The issue was resolved when both Austrian and Italian officials agreed to survey
+the land where Otzi was discovered make a final determination whether the land
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+PROPERTY RIGHTS OF ANCIENT DNA
+
+113
+
+belonged to Austria or Italy. Though the 1919 Treaty of Saint-Germain had de-
+fined the border between Austria and Italy, it had done so only in language. Be-
+tween 1921 and 1923, an international team mapped out the watershed between
+the Inn and the Adige rivers and set the border stones. However, because the moun-
+tains were covered in part by glaciers, the commission directed that where the
+land was concealed by ice, a straight line would be drawn between the two closest
+identifiable border points. In 1990, the surveyors determined the site where Otzi
+was discovered indeed lay on the Italian side of the border by 101 yards. However,
+much to everyone’s surprise, the glacier melt in the preceding 70 years had shown
+more of the true watershed, which swung out more than 100 meters to the west of
+the actual border and around the site of the find. Otzi had actually lain inside the
+Austrian river Inn’s watershed. Had the original surveyors seen the present view,
+the border would have been marked accordingly, and Otzi would now be the prop-
+erty of Austria.54
+
+The battle for Otzi demonstrates the potential for controversy when using na-
+tionality to establish property rights, but is there a better way when a lineal de-
+scendant or cultural representative cannot be found? Probably not. If rights were
+not based on nationality but through a system that only found rights in individ-
+uals, only the next of kin (or in the case of ancient remains, a lineal descendant)
+would have a right. Because the courts have established that a lineal descendant or
+cultural representative already has the best right, nationality only becomes proxy
+when either of the two cannot be located. If a descendent or tribe (or cultural) is
+unknowable from the remains, and the nation in which the discovery was made is
+eliminated from eligibility, then who remains to make decisions with regard to the
+future of the remains? I offer no better solution to the problem, but challenge
+academic and legal community to devise a methodology that accounts for the flu-
+idity of international or even interstate borders in a more appropriate and just
+manner than measuring how far valuable ancient remains lie from a series of boul-
+ders or GPS markers.
+
+III. GENETIC INFORMATION
+
+A. Property Interests in DNA
+
+Establishment of proprietary rights of dead bodies, ancient dead bodies, and bio-
+logical tissue samples from both demonstrates the fluidity of state, federal, and
+even international law. Cultural importance transforms a dead body that is not
+capable of becoming property into a cultural artifact that is capable of becoming
+property in any number of ways. Yet a new wrinkle in the fight for property rights
+over dead bodies has emerged, DNA. Deoxyribonucleic acid (DNA) is found in
+the nuclei of cells, where it stores the blueprint for the human body. However, a
+small amount of DNA can also be found in the mitochondria, where it is called
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+114
+
+LISA M. ELLIOTT
+
+mitochondrial DNA, or mtDNA.55 Each strand of DNA or mtDNA contains a
+sequence that differs among individuals. By analyzing these sequences, it is pos-
+sible to trace paternity, determine predisposition to disease, or even establish phys-
+ical traits of an individual. Thus, DNA can be scrutinized in two forms: physical
+and informational. The genetic information (made visual by a computer printout
+of the base pair sequences) is distinct and separate from the genetic samples them-
+selves (i.e., blood, cheek swabs, etc.)56 Because it is probably legitimate to analo-
+gize genes in their physical form to other physical parts of the body, property rights
+might follow the same pathways.57 But can someone have a property right to ge-
+netic information? Maybe.
+
+Currently American courts seem to prefer using terms like privacy and confi-
+dentiality as opposed to property when considering the legal rights in connection
+with DNA.58 However, with the increasing commercial value of genetic informa-
+tion, two models have emerged as proposals for finding legal rights: the common
+heritage model and private property model. Generally speaking, DNA sequences
+have been extracted from tissue supplied by living and willing donors, but does
+the treatment of property rights change when the sequences are extracted from
+tissue of ancient remains, specifically cultural artifacts? Should the proxy decision
+makers of ancient remains, like those of Kennewick Man or of an Egyptian mummy,
+“own” not only the remains and any samples taken from them but also the genetic
+sequence extracted from them? Or, in contrast to the American and British law on
+bodies, should cultural relevancy have no bearing on DNA ownership?
+1. Common Heritage
+
+The common heritage of mankind is an international legal concept that conveys equal
+property interests to all people.59 It includes four characteristics: (1) No country can
+appropriate for itself the territory in question; (2) all states share responsibility for
+managing the territory; (3) all states share in the benefits from exploitation of the
+territory or its resources; and (4) all countries must use the territory for exclusively
+peaceful purposes.60 The United Nations has applied the common heritage doc-
+trine to deep seabeds, Antarctica, the Moon, other celestial bodies, and certain world-
+wide historical sites.61
+
+Proponents argue that the human genome is also within the common heritage
+of mankind, like other natural resources. There are two reasons for regarding the
+human genome as common heritage: We all share a common ancestry through
+the genome, and human beings have almost all of their genes in common (hu-
+mans share over 99% of their genes with one another).62 UNESCO stated, “The
+human genome underlies that fundamental unity of all members of the human
+family . . . in a symbolic sense, it (the human genome) is the heritage of human-
+ity.”63 Although there would be no property right in a particular person or insti-
+tution, any individual, company, or country could benefit from it, provided each
+abided by a moral obligation vis-à-vis that resource. For example, anyone is able
+to conduct research on the ocean’s seabeds, yet each person has a moral obligation
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+PROPERTY RIGHTS OF ANCIENT DNA
+
+115
+
+to use the oceans fairly and wisely, and to protect them for future use.64 In this
+sense, benefits are shared throughout the world.65
+
+However, there are fundamental problems with the common heritage doctrine
+reasoning. First, the common part of the common heritage reasoning is ambigu-
+ous. There is no single, identifiable thing that constitutes the human genome. Al-
+though humans share most of their DNA, SNPs (single nucleotide polymorphisms)
+vary from person to person.66 Also, there is not a single identifiable set of people
+who inherit the human genome. Although human beings share 99% of their genes
+with each other, they also share 98.5% of their genes with chimpanzees, 95% with
+other primates, and a great deal with other species, including fruit flies and yeast.67
+Thus, if only 1.5% of the human genome is actually common to humans, could
+the remaining 98.5% also be considered the common heritage of chimpanzees? It
+makes little sense to say a nonhuman species has any property interest in DNA.
+Second, it may be misleading to label the human genome as heritage. To say
+something is inherited in a legal sense, there must be (1) an identifiable thing (or
+set of things) to be inherited, (2) an identifiable person (or set of persons) to
+inherit, and (3) an identifiable person (or group of people) from which the thing
+is handed down (whether by intention or default).68 I have already discussed con-
+cerns of what constitutes the human genome. Yet, if the genome can be identified
+as a particular thing, then DNA patenting would be, for all practical purposes,
+illegal without the consent from every human being, because every human being
+would have a property interest in the genome.69
+
+In connection with (but distinguished from) the common heritage model, pro-
+ponents of a family property standard argue that DNA by its nature carries a sig-
+nificant amount of a family’s genetic secret, and it is reasonable to regard a family’s
+genetic makeup as a shared property interest (though not necessarily with all of
+humanity).70 A person acquires his or her genetic profile because of the biological
+membership in a given family. If any exclusionary right were given to any partic-
+ular family member with respect to his or her genetic data, it would have the ef-
+fect of converting what was part of the commons of the family’s property into
+“private” property.71 In essence, no one person could have an exclusive right to
+their genes, because it is only by virtue of their membership within a particular
+family that their particular gene sequence exists. Yet, this does not bar granting a
+type of property right to families exclusive of the rest of humanity, because within
+each family there are patterns shared by the members, yet unique to the rest of
+humanity.72
+
+In either the common heritage model or the family property model, DNA se-
+quences (extracted from modern sources) are not and cannot be owned by an
+individual. So, does a DNA sequence that has been extracted from an ancient cul-
+tural artifact qualify it for an exception to that rule? Both American and British
+laws have exceptions to the no-property principle in the human body when the
+body is ancient because of its cultural importance. But will the cultural impor-
+tance of ancient DNA sequences save it from the common heritage doctrine and
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+116
+
+LISA M. ELLIOTT
+
+create an exception that would allow culturally important DNA to be the subject
+of property rights?
+
+Interestingly, the common heritage language was actually first codified in rela-
+tion to the protection of cultural property. Formulated during the Hague Con-
+vention for the Protection of Cultural Property in the Event of Armed Conflict,
+the preamble of the UNESCO treaty states that “damage to cultural property be-
+longing to any people whatsoever means damage to the cultural heritage of all
+mankind, since each people makes its contribution to the culture of the world.”73
+Although the treaty does not recognize an explicit property right in other’s cul-
+tural heritage, it articulates an interest of all people in protecting and preserving
+the cultural heritage of others.
+
+In essence, the cultural property of any culture impacts the cultural (common)
+heritage of us all, and therefore each person has an interest (though a nonpropri-
+etary one) in ensuring that property survives. It seems, therefore, that ancient DNA
+sequences (along with the ancient samples themselves) represent a cultural prop-
+erty that has contributed to the cultural heritage of humankind and thus should
+be protected under the common heritage doctrine in the same manner that DNA
+sequences from living donors would be protected. Consequently, culturally im-
+portant DNA is not saved from the no-property principle of the common heri-
+tage doctrine. Yet, under the common heritage reasoning, even culturally important
+bodies could not be the subject of property rights, because we all have an interest
+in preserving all artifacts of the past; but this is not fully in harmony with Amer-
+ican and British law, which does allow bodies to become the subject of (some)
+property rights.
+
+By using cultural importance to test each of these theories, it is easy to see a
+disconnection between the treatment of DNA and the treatment of bodies. Why
+would the legal, scientific, and academic communities create policies for the treat-
+ment of genetic information in a way that differs so greatly from the policies for
+the treatment of bodies, when both the samples and bodies are culturally impor-
+tant? Specifically, why should cultural importance protect a property right in the
+body, but not the blueprint to the body? Perhaps the law has simply not yet evolved
+to answer questions about genetic information. Without a solid foundation of legal
+precedent over nonancient DNA, it is difficult to imagine how the cultural impor-
+tance of ancient DNA could impact the assignment of property rights over it. Per-
+haps asking questions like these before a clear legal standard has been established
+will help inform the development of legislation over nonancient DNA, which in
+turn will make property rights over ancient DNA apparent.
+
+The case for applying the common heritage doctrine is substantial considering
+the variety of uses of ancient DNA in current research. The use of genetic data has
+greatly increased the world’s knowledge of evolution and, in some instances, has
+helped to reconstruct history by confirming migratory patterns, the spread of dis-
+ease, or by showing the effect of diet on human populations.74 These data are not
+limited to information extracted from DNA sequences in the modern population.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+PROPERTY RIGHTS OF ANCIENT DNA
+
+117
+
+The International Ancient Egyptian Mummy Tissue Bank has studied the genetic
+markers of Egyptian mummies to understand the origins and migration patterns
+of ancient populations.75 Individual familial memberships are being tested with a
+range of markers to derive the genetic fingerprints of supposedly related individ-
+uals.76 Paleoepidemiology of parasitic diseases like schistosomiasis (caused by a
+species of Schistosoma, which is also known as Bilharzia), which affects 200–300
+million people worldwide today, and the human immune system’s response to it
+were analyzed using DNA.77
+
+In the case of Otzi the Iceman, a battery of tests were run to discover more
+about his origin, including the isotope composition of his bones, intestinal con-
+tents, and mtDNA analysis.78 Mitochondrial DNA is inherited from the mother
+and is extremely useful in tracking ancestry through the female line. Researchers
+extracted molecules from Otzi’s surviving tissue, and although most of the DNA
+was degraded, the researchers were able to amplify some mtDNA. The sequence
+showed that the mitochondrial type of Otzi fits into the genetic variation of con-
+temporary Europeans, and it was most closely related to mitochondrial types de-
+termined from central and northern European populations.79 When this sequence
+was combined with other information obtained by examining his tools and bone
+fragments, it was determined that Otzi lived within the Alpine valleys of central
+Europe, roughly 60 kilometers from the site where he was found.80
+
+In 2007, the Supreme Council of Antiquities in Egypt, lead by Dr. Zahi Hawass,
+extracted usable nuclear DNA from KV60A, a mummy thought to be Hatshepsut.
+The Council sought genetic confirmation that this was indeed the pharaoh queen
+through the comparison with two other sources, Thutmose I and Ahmose Nefer-
+tari (Hatshepsut’s maternal grandmother.)81 It turned out that the nuclear DNA
+extracted from Thutmose I was unusable, but the mtDNA from Ahmose Nefertari
+had remained relatively intact. The lab is still completing its work, but initial re-
+ports indicate that the mtDNA being sequenced from KV60A is most likely that of
+Hatshepsut.
+
+The DNA sequences extracted from Otzi, Hatshepsut, and the other Egyptian
+mummies may be a part of the cultural heritage of the world that all people are
+morally obligated to protect, in the same manner that they are obligated to pro-
+tect DNA sequences from modern sources (according to the common heritage
+doctrine). Yet, the moral obligation proposed in the doctrine does not have the
+power of legal obligation. It is reasonable to assume that, without a controlling
+authority (international laws, treaties, or agreements), the ability for a person or
+entity to misuse genetic information is at least a moderate threat. Likewise, a moral
+obligation (rather than a legal obligation) fails to ensure protection against the
+areas of abuse identified by Paradise and Andrews (described earlier), namely, fair
+access to samples, informed consent and rights of participants, and the avoidance
+of conflicts of interests. We see this problem today with the protection of cultur-
+ally important bodies under the doctrine. Though the bodies represent a valuable
+resource that should be shared among all peoples, their value has actually made
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+118
+
+LISA M. ELLIOTT
+
+them a commodity, which has led to concealment by research institutions and
+governments. This hinders proper research and fails to provide rights for the par-
+ticipants. It would be difficult to imagine the treatment of ancient DNA would
+follow any other pattern.
+
+If international courts adopt the common heritage doctrine to protect DNA
+sequences, it will likely apply without discrimination based on the age of the se-
+quence, just as it applies to bodies. Moreover, similar to the treatment of bodies,
+genetic information will likely be unfairly distributed among researchers and gov-
+ernments. The protection of ancient DNA has no greater or lesser interest to the
+cultural heritage to humankind than does the protection of DNA from modern
+sources, because the kind of information that can be extracted from DNA is equal
+across the age of the DNA. The only limitation for mining useful information
+from any kind of DNA is the physical sample size of the DNA. In the case of an-
+cient sources, obtaining a sample size large enough to sequence may be problem-
+atic because of degradation over time; yet modern sources also can face the problem
+of adequacy due to a variety of circumstances, including problems with contam-
+ination or collection. Accordingly, ancient DNA would have no special protection
+under the doctrine. Rather, DNA sequences (both ancient and nonancient) could
+be the property of none, but the resource of all. One can only hope that this in-
+formation will be used for the benefit of humanity rather than being exploited as
+it has with bodies.
+2. Private Property
+
+In contrast to the common heritage model, proponents of the private ownership
+model argue for a property right in genetic information that follows other models
+of property rights including the ability to buy, sell, and transfer the right.82 This is
+usually accomplished through a patent.83 As of 2008, over 4000 human genes were
+patented, totaling almost 20% of the roughly 24,000 genes shared among hu-
+mans.84 The current policy in the United States, as set forth by Congress, the Pat-
+ent and Trademark Office, and the federal court system, allows the patenting of
+human genes as similar to any other chemical found in nature. Patents can be
+issued for “anything under the sun that is made by man” but not for “laws of
+nature, physical phenomena, and abstract ideas.”85 The isolation and purification
+of DNA sequences means that a generally nonpatentable phenomenon (DNA) is
+turned into a patentable one. Yet, this method only creates a property right in the
+DNA sequence for the patent owner, who does not necessarily coincide with the
+DNA supplier. Thus, only those who have the technical ability to isolate and pu-
+rify DNA have the ability to transform the sequence into property. But this may
+not entirely roadblock DNA ownership by the individual.
+
+Private property rights in genetic information may be established two ways:
+(1) Property rights of genetic information follow similar rights over other kinds
+of research and discovery and are associated with intellectual property (as with
+patent protection), or (2) property rights over genetic information follow rights
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+PROPERTY RIGHTS OF ANCIENT DNA
+
+119
+
+assigned to tissue ownership because the genetic information is sourced from
+the tissue. But, these two paths do not have to be mutually exclusive. If intellec-
+tual property rights are merged with tissue ownership, individuals (and not just
+research entities) may establish a claim of right over DNA sequences. Although
+this may add to the complexity of the system (though not unduly), I believe it is
+necessary to create the most appropriate and just result for both the individual
+and society as a whole.
+
+Ownership of a purified and isolated gene, such as BRCA1 (also known as “the
+breast cancer gene”), was established through a patent protection following the
+research and discovery of that gene.86 Yet, humans are composed of thousands of
+genes. Naysayers believe that institutions and research facilities will eventually eat
+up the patent rights for every human gene, and though this may be true, it does
+not mean that there will be no self-ownership over the contents in the individuals’
+own cells. What we are really talking about when we discuss the private property
+right of our DNA is not the individual genes themselves, but the unique pattern
+in which they exist in our bodies. As I stated earlier, DNA as a whole shares 99%
+of its components with other species, and of the 1% remaining that all humans
+share, only a tiny bit distinguishes each person as an individual. It stands to rea-
+son that people should not be able to own the entire code, given that it is so vastly
+shared, but why should an individual not be able to have a property interest in the
+sequence or mutations that is unique to him or her?
+
+Genes like BRCA1, or those for eye and hair color, height, and so on, are not
+unique. They are common genes in the portion of DNA unique to humans. Yet,
+it is the combination of those genes that are unique to the individual. This is the
+pattern the individual should have a right to protect. In other words, individuals
+do not have the right to protect individual genes themselves, but they do have an
+interest in the protection of the particular order of those genes and their unique
+genetic variations. This may eventually translate into an individual’s right to own
+his or her genetic fingerprint and thus prevent the duplication of that particular
+sequence of genes by any other entity. The value (which will be different for
+every person and may be economic, scientific, etc.) would then be protected by
+the same laws as those that govern personal property.87 The individual parts of
+shared DNA would belong to the common, but the whole sequence (composed
+of unique variations alongside the standard shared genes) could belong to the
+individual.
+
+Researchers, however, have an interest in protecting their scientific work. This
+includes methods of isolation, purification, and modification, but should not in-
+clude the naturally occurring gene sequence itself.88 So far, the courts have been
+unwilling to apply property rights over naturally occurring DNA sequences for
+the individual. Rather, they have imagined a property model based only on patent
+law and intellectual property, and have ignored claims by individuals who believe
+they are entitled to some right over the sequence derived from their tissue sample.
+But through their reasoning, it is evident that the courts support some kind of
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+120
+
+LISA M. ELLIOTT
+
+right to property over the DNA code. Though the courts seem to draw a bright
+line against the patent protection argument for the individual (and patent protec-
+tion of naturally occurring DNA coding), they have not yet stated a bright-line
+conclusion prohibiting an individual’s right to ownership of his or her DNA se-
+quence. Because there is no case precedent on an individual’s right to own his or
+her naturally occurring DNA sequence, it is difficult to theorize how ancient DNA
+would measure up against the standard. Thus, the only comparison that can be
+made at this time is against the intellectual property standard.
+
+So, will the design of the intellectual property–based standard be appropriate
+for classifying property rights in ancient DNA? Because analyzing any DNA trans-
+forms it (through the isolation and purification requirement of patent law) into
+something that can become property according the current U.S. case precedents,
+ancient DNA would easily fall into this model. Genes from ancient DNA would
+become the property of any institution or research facility that makes a unique
+gene discovery and seeks a patent on that gene. An individual’s attempt (or like-
+wise a cultural representative’s or proxy decision maker’s attempt) to establish a
+proprietary right over the sequence is still probably in vain unless in-home isola-
+tion and purification kits are developed. Accordingly, the DNA sequence extracted
+from Egyptian mummies or from Kennewick Man will not be protected as the
+personal or private property of Egypt or a lineal descendent, but rather as patent
+or intellectual property for institutions and researchers.
+
+The intellectual property model for DNA ownership, as it currently stands, al-
+lows for genetic ownership but weights the scales heavily in favor of research insti-
+tutions and large (well-funded) companies at the sacrifice of individuals’ autonomy.
+Yet, there is more than the symbolic value of autonomy at stake. The value of human
+genetic codes (particularly ones of desirable mutations) is real and can be quanti-
+fied. When research institutions begin to patent genetic mutations that are unique
+to a particular individual, then there is a threat that the institution may own or con-
+trol parts of the individual. If, sometime in the future, the courts and Congress allow
+a property right in genetic sequences that are accessible by individuals, then indi-
+viduals could protect themselves against what could essentially be genetic slavery by
+research institutions who control the use of, experimentation with, and commer-
+cialization of any genetic code contained in a tissue sample they posses, regardless
+of the individuals’ wishes.
+
+The application of the common heritage model or the private property model
+works equally as well with respect to ancient and nonancient DNA. Under the
+common heritage model, there can be no particular owner. Under the private prop-
+erty model, as it currently stands, anyone can theoretically be an owner, though
+the reality is that only well-funded research entities are able to meet the patent
+qualifications. Accordingly, cultural importance would have little legal impact on
+the application of property rights over DNA. Although this model would allow
+for descendants, tribes, or nations to establish a proprietary right over the genetic
+information, the road to acquiring this proprietary right raises the spectrum of
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+PROPERTY RIGHTS OF ANCIENT DNA
+
+121
+
+concerns of Paradise and Andrews. If a system is set up that is exceedingly un-
+equal in the manner in which property rights are assigned, then concerns will re-
+main about the integrity and dissemination of the results, as well as the consent
+and rights of participants. A free-for-all pool of genetic information, from which
+anyone can obtain a property right if they have isolated and purified a gene, ne-
+glects to recognize a descendant’s birthright to that genetic information or a tribe’s
+shield for religious reasons. In other words, the intellectual property approach fails
+in nearly the same manner that the common heritage doctrine fails. Under both
+doctrines, the individual’s preference is lost, usually to the wealthy and resourceful
+nation or research institution.
+
+B. Assignment of Property Rights: A Model
+
+The International Ancient Egyptian Mummy Tissue Bank of the Manchester Mu-
+seum bridges the channels between the special treatment of cultural artifacts and
+the rights over genetic information. Depositors to the bank must verify that they
+possess legal title in the remains and thus are the legal proxy decision makers re-
+garding the possession and control of the body.89 The museum agrees that the
+samples remain the property of the depositor, and in turn, the depositor grants
+the museum license to use the samples in the bank.90 However, the agreement
+notes:
+
+If commercially useful developments result from any use of the sam-
+ple(s) of mummy tissue in the Bank, the Parties agree to notify each
+other promptly negotiate on fair and reasonable terms and conditions
+independent of this Agreement.
+
+Through this agreement, the property interest created by being a proxy decision
+maker over a piece of cultural heritage may be transferred to the genetic informa-
+tion extracted from the item. It appears that proxy decision makers have, at min-
+imum, a future property interest in any commercially useful (genetic) development
+based on their interest in the ancient remains. Thus, if researchers using tissue
+from the bank purify and isolate a gene or sequence of genes, they do not have a
+sole right to commercialization from that research. The proxy decision makers (or
+individuals) have, in essence, a property right in genetic information because they
+have a property right in cultural property.
+
+This model allows for research that benefits modern populations (e.g., re-
+search regarding Bilharzia), it provides a benefit or compensation to the DNA
+supplier (or proxy) in addition to the researcher, and it preserves the dignity of
+dead bodies. Thus, this model addresses the policy concerns for proprietary rights
+of ancient DNA in a workable and fair form. Rights over ancient DNA are not
+be limited to a single person, but rather are weighed by a scale accounting for a
+variety of legal and ethical rights. Returning to the original problems posed by
+Paradise and Andrews, the model of the International Ancient Egyptian Mummy
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+122
+
+LISA M. ELLIOTT
+
+Tissue Bank averts the abuses facing professional organizations in this field.
+The model promotes research, allows scientists access to samples, promotes sci-
+entific integrity and dissemination of results, accounts for the rights of all par-
+ticipants, and attempts to avoid conflicts of interest. The one obstacle the bank’s
+model does not address is how to best establish the property rights over the
+remains.
+
+Any future legislation mirroring this model should account for a property right
+over the body before addressing any rights over DNA. Accordingly, if a claimant is
+found to have no right to the body, then they would be barred from establishing
+a claim to the genetic information within that body. Only when a property right
+to the body is recognized could a claimant pursue a right over the genetic infor-
+mation. However, the rights are not concurrent but rather sequential; the right
+over genetic information must be given separate consideration after a finding of a
+right over the body. In the case of DNA supplied by a living donor, the donor’s
+right to possess or control his own body is sufficient to establish a right over his
+body, and therefore the donor could pursue a claim over his own genetic infor-
+mation. In the case of DNA that was taken from an already deceased person (or a
+taken from person who was living but now is deceased), there must be a right to
+possess, control, or own the dead body under current law before a claim of right
+over the genetic information from that body could be found.
+
+This model combines the idealism of both the common heritage doctrine and
+the private property model by ensuring equal access for all but also recognizing
+that an investment in the genetic analysis of remains should not be without com-
+pensation. More importantly, though, it preserves the autonomy of the individual
+who retains a voice in the use of the remains.
+
+IV. CONCLUSION
+
+This article has confirmed that a proprietary interest can exist in ancient DNA
+when the DNA was extracted from a cultural artifact, just as property rights may
+exist in DNA extracted from modern sources. However, because the current law
+is in flux regarding the application of property rights over modern supplied DNA,
+establishing who has the best right of property over ancient DNA remains tricky.
+Although there is a general no-property principle for dead bodies, the cultural
+importance of ancient dead bodies establishes a proprietary right over the re-
+mains. This right may go to a descendent, or an entire nation. However, because
+DNA is from an ancient source does not grant it an exception to the property
+rules based on its cultural importance alone. Under the common heritage doc-
+trine, all DNA is subject to a no-property principle, whether it is ancient or not.
+Under the intellectual property model, DNA can be the subject of property only
+once it is in a nonnaturally occurring form. In other words, neither ancient DNA
+nor modern DNA can be property until it has been subjected to purification and
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+PROPERTY RIGHTS OF ANCIENT DNA
+
+123
+
+isolation, which by its nature limits the pool of people who are capable of trans-
+forming body tissue and its DNA into property. Thus, these theories recognize
+no distinction or special needs of ancient DNA. This is where the theories are
+incomplete. As a new science, policies and theories concerning genetic analysis
+are shortsighted and limited in scope. They have failed to account for variety in
+the forms of DNA and instead have created generic policies that do not address
+peculiarities in the various disciplines. However, models like those of the Inter-
+national Ancient Egyptian Mummy Tissue Bank provide a more useful proto-
+type for how ancient DNA should be treated to protect against as many abuses
+as possible. As a consequence of the inconsistencies in the law, the dispute of
+who has the best interest to any DNA has yet to be resolved. Whether the best
+interest in ancient DNA (like that of ancient bodies) rests in the nation or in the
+culture, I leave to be answered by another.
+
+Although the scope of this article was to be limited to the property rights of
+ancient DNA, it is impossible to achieve a thorough analysis while current policy
+for controlling DNA from nonancient sources remains ambiguous. Models like
+the donor agreement for the International Ancient Egyptian Mummy Tissue Bank
+show that research, preservation, and commercialization of ancient DNA do not
+have to be sacrificed. Society may derive the maximum benefit, while the dignity
+of the remains can be preserved. Thus, this model serves as an excellent place to
+begin a discussion of ways in which the individual’s right can be protected with-
+out abandoning the interests of mankind as a whole.
+
+ENDNOTES
+
+1. Pääbo, “Molecular cloning.”
+2. See, generally, Lambert-Zazulak et al., “Mummy Tissue Bank”; Miller et al., “Palaeoepidemi-
+ology of Schistosoma Infection”; Handt et al., “Molecular Genetic Analyses”; David, “Disease in Egyp-
+tian Mummies”; “Is she or isn’t she? Mummy lab working to ID pharaoh queen,” CNN. 具http://
+edition.cnn.com/2007/TECH/science/12/24/mummies.dna.ap/index.html典 (December 24, 2007)
+accessed November 11, 2008.
+
+3. Lambert-Zazulak,“Mummy Tissue Bank”; Manchester Museum Committee,“Policy Document.”
+4. Lambert-Zazulak, “Mummy Tissue Bank,”44–; Manchester Museum Committee, “Policy Doc-
+
+ument,” 21.
+
+5. Paradise and Andrews, “Tales from the Crypt,” 223–299.
+6. Paradise and Andrews, “Tales from the Crypt s,” 225.
+7. Paradise and Andrews, “Tales from the Crypt,” 225.
+8. Paradise and Andrews, “Tales from the Crypt,” 226.
+9. See, e.g., Nwabueze, Biotechnology and the Challenge of Property.
+10. Holm, “Privacy of Tutankhamen,” 447.
+11. Holm, “Privacy of Tutankhamen,” 442. “If we for instance considered the cultural affiliation
+of a Viking warrior buried on the west coast of Norway there are several present-day cultures that
+may claim affiliation (present-day Norway, Iceland, Faero Islands, but also Orkney, Shetland, Northum-
+berland, Yorkshire, Normandy and general British culture.) All of these could lay a reasonable claim
+to have a culture which in a significant way has a link to Viking age culture on the west coast of
+Norway. There seems to be no principled way of deciding who has the best claim.”
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+124
+
+LISA M. ELLIOTT
+
+12. Holm, “Privacy of Tutankhamen,” 446; Bahn, “Do Not Disturb?.”
+13. Holm, “Privacy of Tutankhamen,”441. “This is the idea behind the American legislation gov-
+erning ‘repatriation’ of Native American remains and cultural artifacts from American museums,”
+through the Native American Graves Protection and Repatriation Act (NAGPRA).
+
+14. Hardcastle, Law and the Human Body, 17.
+15. I specifically am limiting my argument here to a Western legal model as opposed to a more
+encompassing and complex matrix of Western and non-Western systems. I have assumed away most
+of the substantial complexities involving the question of how direct or strong a link need be between
+the remains and the cultural representative for brevity. Rather, for this argument, I presume a link
+between the two is relevant to the question, and the relationship is defined by a western understand-
+ing as demonstrated by our legal codes, statutes, and case law.
+16. See generally Hardcastle, Law and the Human Body, 25.
+17. See generally, Nwabueze, Biotechnology and the Challenge of Property, 17.
+18. The no property principle has been affirmed as recently as 1999 in R v Kelly, [1999] Q.B. 621
+(defendant was charged with the theft of approximately 35 human body parts from the Royal Col-
+lege of Surgeons. The court found that while there historically has been no property rights in corpses,
+when a corpse has undergone the application of work or skill it acquires value and becomes prop-
+erty. The implication is that a corpse which has not undergone such an application, still falls under
+the no-property principle.) See Hardcastle, Law and the Human Body, 25.
+
+19. Nwabueze, Biotechnology and the Challenge of Property, 13.
+20. Dobson v. North Tyneside Health Authority, [1997] 1 WLR 596.
+21. Dobson v. North Tyneside Health Authority, 602.
+22. Dobson v. North Tyneside Health Authority, 600; Hardcastle, Law and the Human Body, 29, 46,
+40. The second exception also applies to biological materials when they have been separated from
+the body by work or skill. Australia follows a similar model in the application of property rights, but
+the United States are split in the Circuits. Some courts have grated constitutional protection for the
+next of kin, but the majority have declined to find that property rights exist in biological materials
+separated from a dead body. The U.S. decision to recognize property rights to protect dead bodies
+and the biological materials separated from them is not dependent on the work or skill exception.
+Rather, it stems from the Due Process Claus of the 14th amendment of the U.S. Constitution. The
+Dobson work or skill exception was also reaffirmed in Kelly.
+
+23. In 2004, the U.K. court heard In re Organ Retention Group Litigation, [2004] EWHC 644(Q.B.)
+103. (claim of action for wrongful interference with a body brought by a group of parents with
+children who had died while at Alder Hey Children’s Hospital in Liverpool, England. The children
+had their organs or tissues removed and retained after a postmortem examination, unbeknownst to
+the parents.) The court reviewed the facts of the case against Kelly and Dobson and found that while
+tissue removed during a postmortem examination is capable of being subject to the rights of pos-
+session through the ‘work or skill’ exception, and while parents have a right to possession of a body
+for burial, the parents “have no right of burial and possession of organs lawfully removed at post
+mortem and retained.”
+24. Mayhood, “Owning up to History,” The Columbus Dispatch. 具http://www.dispatch.com/live/
+content/science/stories/2008/04/22/sci_whose_bones.ART_ART_04-22-08_B6_9A9UMP7.html?
+sid⫽101典 (April 22, 2008). accessed November 17, 2008.
+
+25. Hardcastle, Law and the Human Body, 32.
+26. Human Tissue Act, 2004, c.30, § 53. “Relevant material” (1) In this Act, “relevant material”
+means material, other than gametes, which consists of or includes human cells. (2) In this Act, ref-
+erences to relevant material from a human body do not include—(a) embryos outside the human
+body, or (b) hair and nail from the body of a living person.
+
+27. Human Tissue Act, 2004, c.30, § 45 (2)(a) Bodily material is excepted if—(a) it is material
+which has come from the body of a person who died before the day on which this section comes
+into force and at least one hundred years have elapsed since the date of the person’s death.
+
+28. Ritter v. Couch, 76 S.E. 428 (W.Va. 1912), 430.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+PROPERTY RIGHTS OF ANCIENT DNA
+
+125
+
+29. Whitehair v Highland Memorial Gardens, 327 S.E. 2d 438 (W.Va. 1985), 441.
+30. Culpepper v. Pearl Street BLGD Inc. 877 P. 2d 877 (Colo. 1994).
+31. Culpepper v. Pearl Street BLGD Inc.
+32. Dougherty v Mercantile Safe Deposit and Trust Company, 387 A.2d 244 (Ct.App. 1978). “The
+dead are to rest where they have been lain unless reason of substance is brought forward for dis-
+turbing their repose;” Franklin Foer Exhumation, Slate http://www.slate.com/id/1093 (May 10, 1998)
+accessed November 17, 2008. “Generally, citizens can apply to their state’s attorney general for per-
+mission to exhume family members for any reason, and requests for reburial are usually automati-
+cally granted. And the state can exhume a body when it deems a death suspicious and improperly
+investigated.” For example, the Alabama Code 1975 § 22–9A-16 Authorization for final disposition
+states, “Authorization for disinterment and reinterment shall be required prior to disinterment of a
+dead body or fetus as prescribed by rules of the board.” This authorization is addressed in the Ala-
+bama Administrative Code, Alabama State Board of Health Department of Public Health AL ADC
+420–7–1–13 which states, “(2) Authorization for disinterment as required in Ala. Code 1975, § 22-
+9A-16(g), shall be handled as follows: (a) The funeral director, or person acting as such, who intends
+to disinter a body must file a notice of disinterment with the State Registrar or the local registrar in
+the county in which the body is buried to indicate that he or she will abide by the Rules and Reg-
+ulations of the State Board of Health which govern the disinterment, transportation, and disposi-
+tion of dead human bodies. (b) The State Registrar or local registrar shall provide a statement to the
+funeral director, or person acting as such, that the required notice has been filed. The acceptance of
+the notice by the State Registrar or local registrar does not establish a legal right to disinter a body,
+but only indicates that the appropriate notice to follow the Rules and Regulations of the State Board
+of Health has been filed by the person carrying out the disinterment.”
+
+33. Moore v Regents of the University of California 793 P. 2d 479 (Cal. 1990), 489–493. “. . . the laws
+governing such things as . . . dead bodies deal with human biological materials as objects sui generis,
+regulating their disposition to achieve policy goals rather than abandoning them to the general law
+of personal property.”
+
+34. State v. Redd 992 P. 2d 986 (Utah 1999), 1165. (Defendants were charged with abuse or des-
+ecration of a dead human body for allegedly disinterring human bones from an ancient Native Amer-
+ican burial site near Bluff, Utah. Defendants were charged under §76–704(1)(a) of the 1995 Utah Code.)
+35. The 9000-year-old remains, designated Kennewick Man, were found near Kennewick, Wash-
+ington. The man lived in a period that not only predates recorded history, but the community in
+which he lived has not been identified with any singular present-day Native American tribe. Native
+Americans who currently inhabit Washington, Idaho, and Oregon now claim rights to the remains
+and seek to prevent scientists from examining the remains so that they may be immediately buried
+because of religious and social traditions. Prior to Bonnichsen v. U.S. 367 F.3d 864 (9thCir. 2004) the
+Na Iwi O Na Kupuna O Mokapu v. Dalton court held that human remains are explicitly classified as
+cultural items under NAGPRA. 894 F.Suppl. 1397 (D.Haw. 1995), 1406. (Native Hawaiians sued the
+Secretary of the Navy under NAGPRA for the return of remains recovered and inventoried by a
+museum at the Secretary’s request.)
+
+36. Ades, “The Archaeological Resources Protection Act.”
+37. 16 U.S.C.A. § 470aa(b).“The purpose of this chapter is to secure, for the present and future ben-
+efit of the American people, the protection of archaeological resources and sites which are on public
+lands and Indian lands, and to foster increased cooperation and exchange of information between gov-
+ernmental authorities, the professional archaeological community, and private individuals having col-
+lections of archaeological resources and data which were obtained before October 31, 1979.”
+
+38. Matter of Shivers, 900 F. Supp. 60 (E.D.Tex. 1995).
+39. 25 U.S.C.A. § 3002a1. “(a) Native American human remains and objects: The ownership or
+control of Native American cultural items which are excavated or discovered on Federal or tribal
+lands after November 16, 1990, shall be (with priority given in the order listed)—(1) in the case of
+Native American human remains and associated funerary objects, in the lineal descendants of the
+Native American. . . .”
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+126
+
+LISA M. ELLIOTT
+
+40. Bonnichsen v. U.S.
+41. For the United States, it appears that cultural relevancy extends only to Native American bod-
+ies. This is likely due to the deficit of any other type of ancient artifact left by a thriving civilization
+before the colonization by the Europeans, while cultural relevant items are abundant in European,
+African, and Asian countries. (i.e., Egypt, Greece, Italy, etc.)
+
+42. Bonnichsen v. U.S., 882
+43. Bonnichsen v. U.S., 882; See generally, Ray,“Native American Identity,”89–154; Harry and Kanehe,
+“Asserting Tribal Sovereignty,” 27–55; Willie, “Kennewick Man—Mission Accomplished?” 301–322.
+
+44. 16 U.S.C.A. § 470dd.
+45. Bonnichsen v. U.S., 878 referencing Native American Grave Protection and Repatriation Act
+
+(NAGPRA) 25 U.S.C.A. § 3001(9)
+
+46. Bonnichsen v. U.S., 878
+47. NAGPRA § 3001(10)
+48. Merryman, Thinking About the Elgin Marbles, 162; 4,500-Year-Old Mummies Discovered in
+Chile, Sify 具http://sify.com/news/fullstory.php?id⫽14704621典 (June 28, 2008) accessed November 17,
+2008. The remains uncovered are believed to be those of a 4500-year-old member of the Chinchorro
+culture. The Council of National Monuments of Chile seeks to have the mummies declared as ar-
+chaeological patrimony of humanity by UNESCO. Row over mystery mummy, BBC News 具http://
+news.bbc.co.uk/1/hi/world/south_asia/997588.stm典 (October 29, 2000) accessed November 17, 2008;
+mummy found by Pakistani police is believed to be that of 2500-year-old royalty. Iran has demanded
+the mummy from Pakistan based on a claim from the Iranian Cultural Heritage Organization, which
+says it will take legal action under UNESCO to get the mummy back.
+
+49. United Nations Educational, Scientific and Cultural Organization (UNESCO) was founded in
+1945 and serves as a laboratory for ideas as well as a standard setter to forge universal agreements on
+emerging ethical issues. About UNESCO. 具http://portal.unesco.org/en/ev.php-URL_ID⫽3328&URL_
+DO⫽DO_TOPIC&URL_SECTION⫽201.html典 accessed November 17, 2008. The International In-
+stitute for the Unification of Private Law (UNIDROIT) examines needs and methods for modernizing,
+harmonizing and coordinating private and in particular commercial law between states and groups
+of states. UNIDROIT, 具http://www.unidroit.org/dynasite.cfm?dsmid⫽84219典 accessed November 17,
+2008; These organization have combined efforts to prevent illicit traffic in cultural objects through
+several conventions: UNIDROIT Convention on Stolen or Illegally Exported Cultural Objects and
+the 1970 UNESCO Convention. See Prott, “UNESCO and UNIDROIT.”
+
+50. During Pharaonic Egypt, the natives would refer to their land as Kemet (spelled Kmt) and
+thus would refer to themselves as the people of Kemet (Rmt Kmt). Cheikh Anta Diop, Origin of the
+Ancient Egyptians. 具http://www.africawithin.com/diop/origin_egyptians.htm典 accessed November 17,
+2008.
+
+51. Fowler, Iceman, 58.
+52. Fowler, Iceman, 58.
+53. Fowler, Iceman, 61.
+54. Fowler, Iceman, 61.
+55. Mitochondria are structures within cells that convert the energy from food into a form that
+cells can use. Small amounts of DNA, known as mitochondrial DNA or mtDNA is found in mito-
+chondria. mtDNA only spans about 16,500 DNA base pairs, which is a fraction of the total DNA
+found in cells.
+
+56. Nwabueze, Biotechnology and the Challenge of Property, 180.
+57. Nwabueze, Biotechnology and the Challenge of Property, 172.
+58. Nwabueze, Biotechnology and the Challenge of Property, 171.
+59. See, generally, Tenenbaum, “A World Park in Antarctica,” 112.
+60. Tenenbaum, “A World Park in Antarctica,” 114.
+61. Sturges, “Who Should Hold Property Rights,” 247.
+62. Resnik, The Human Genome.
+63. UNESCO, Universal declaration on the human genome
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+PROPERTY RIGHTS OF ANCIENT DNA
+
+127
+
+64. Resnik, The Human Genome, 201.
+65. For more information on benefit sharing and genetics, see Knoppers, “Population Genetics
+
+and Benefit Sharing,” 212–214.
+
+66. Resnik, The Human Genome, 200.
+67. Resnik, The Human Genome, 201.
+68. Resnik, The Human Genome, 200; See also Ossorio, “Human Genome as Common Heritage,”
+
+425–439.
+
+69. Resnik, The Human Genome, 200.
+70. Nwabueze, Biotechnology, 178.
+71. Nwabueze, Biotechnology, 178–79.
+72. I have yet to find a pragmatic approach to application of this theory.
+73. UNESCO, Convention for the Protection of Cultural Property.
+74. See, generally, Rollo et al., “Microbial Ancient DNA,” 111–119; Wayne et al., “Full of Sound
+
+and Fury,” 457–477.
+
+75. David, “Disease in Egyptian Mummies,” 1760–1763.
+76. David, “Disease in Egyptian Mummies,” 1760–1763.
+77. Lambert-Zazulak, “Mummy Tissue Bank.”
+78. Handt et al., “Molecular Genetic Analyses,” 1775–1778; Muller et al., “Origin and Migration
+
+of the Alpine Iceman,” 862–866.
+
+accessed November 17, 2008
+
+79. Handt, “Molecular Genetic Analyses,” 75.
+80. Muller et al., “Origin and Migration of the Alpine Iceman,” 75.
+81. Johnson Lewis, Hatshepsut DNA evidence, About.com 具http://womenshistory.about.com/od/
+hatshepsut/a/dna_evidence.htm典 accessed November 17, 2008; Is she or isn’t she? CNN. So far the
+results have not been published in a reputable peer reviewed scientific journal.
+82. See, generally, Navigenics, Gene Patents, 具http://www.navigenics.com/policies/GenePatents/典
+83. U.S. Patent and Trademark Office, Patents, 具http://www.uspto.gov/go/pac/doc/general/#patent典
+accessed November 17, 2008. “A patent for an invention is the grant of a property right to the
+inventor, issued by the United States Patent and Trademark Office. Generally, the term of a new
+patent is 20 years from the date on which the application for the patent was filed in the United
+States or, in special cases, from the date an earlier related application was filed, subject to the
+payment of maintenance fees. U.S. patent grants are effective only within the United States, U.S.
+territories, and U.S. possessions. Under certain circumstances, patent term extensions or adjust-
+ments may be available.
+
+“The right conferred by the patent grant is, in the language of the statute and of the grant itself,
+‘the right to exclude others from making, using, offering for sale, or selling’ the invention in the
+United States or ‘importing’ the invention into the United States. What is granted is not the right
+to make, use, offer for sale, sell or import, but the right to exclude others from making, using,
+offering for sale, selling or importing the invention. Once a patent is issued, the patentee must
+enforce the patent without aid of the USPTO.”
+
+84. Malinowski, “Legal Limitations on Genetic Research,” 47.
+85. Diamond v Chakrabarty, 447 US 303 (1980), 309. (Chakrabarty filed a patent application re-
+lating to the invention of a bacterium that was a human made, genetically engineered bacterium.
+The court concluded it was not a product of nature and therefore permitted the patent.)
+
+86. See, generally, Murray, “Owning Genes,” 231–257.
+87. I believe the full value in owning our own genetic code is yet to be realized. However, with the
+ongoing research in cloning, reprogenetics, medical treatments, and the like, the value of ownership
+by the individual will become more obvious with time. Of course, aside from a monetary value,
+individuals may begin to see their genetic makeup has having spiritual or psychological value as
+well. As our genes become more and more associated with our identity (just as our names, our
+social security numbers, or even our email addresses), there most likely be a demand that they are
+protected, secure, and inaccessible to anyone but the individual.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+128
+
+LISA M. ELLIOTT
+
+88. This is why the patent office of the United States has limited patent protection over the ge-
+nome (it is a naturally occurring phenomenon). See note 78. Isolation of BRCA1 and BRCA2 (also
+known as the breast cancer genes) led to a court battle between two groups of researchers, Myriad
+Genetics and OncorMed. OncorMed had been granted a patent covering a BRCA1 allele, which while
+similar to the sequence used by Myriad was also slightly different because of differences in naturally
+occurring polymorphisms of the normal BRCA1 gene. Thus, naturally occurring differences be-
+tween the DNA of individuals result in many minor differences in the DNA sequence of a given
+gene. See Murray, “Owning Genes,” 235.
+
+89. Manchester Museum Committee, “Policy Document,” 21. “At the time of transfer of sam-
+ple(s) of mummy tissue to the Museum, the Depositor shall verify to the Museum by documentary
+evidence that legal title to the sample(s) vests in the Depositor and that the transfer has been duly
+authorized.”
+
+90. Manchester Museum Committee, “Policy Document,” 21. “The Museum acknowledges that
+the sample(s) of mummy tissue shall remain the property of the Depositor unless otherwise agreed
+in writing. The Depositor agrees to grant the Museum a royalty free, non-exclusive, world-wide li-
+cense to use the sample(s) of mummy tissue for the maintenance of the Bank.”
+
+BIBLIOGRAPHY
+
+Ades, Stephanie Ann. “The Archaeological Resources Protection Act: A New Application in the Pri-
+vate Property Context.” Catholic University Law Review 44 (1995): 599–630.
+
+Bahn, Paul. “Do Not Disturb? Archaeology and the Rights of the Dead.” Journal of Applied Philoso-
+phy 1, no. 2 (1984): 213–225.
+
+David, A. R. “Disease in Egyptian Mummies: The Contribution of New Technologies.” Lancet 349
+(1997): 1760–1763.
+
+Fowler, Brenda. Iceman. Chicago: University of Chicago Press, 2000.
+
+Handt, O. et al. “Molecular Genetic Analysis of the Tyrolean Ice Man.” Science 264 (1994): 1775–1778.
+
+Hardcastle, Ron. Law and the Human Body: Property Rights, Ownership and Control. Portland, OR:
+Hart, 2007.
+
+Harry, Debra, and Le’a Malia Kanehe. “Asserting Tribal Sovereignty Over Cultural Property: Moving
+Towards Protection of Genetic Material and Indigenous Knowledge.” Seattle Journal for Social Jus-
+tice, 2006: 27–55.
+
+Holm, Soren. “The Privacy of Tutankhamen—Utilising the Genetic Information in Stored Tissue
+Samples.” Theoretical Medicine 22 (2001): 437–499.
+
+Knoppers, Bartha. “Population Genetics and Benefit Sharing.” Community Genetics 3 (2000): 212–214.
+
+Lambert-Zazulak, Patricia. “The International Ancient Egyptian Mummy Tissue Bank at the Manches-
+ter Museum.” Antiquity 74, no. 283 (March 2000): 44–48.
+
+Lambert-Zazulak, Patricia I., Patricia Rutherford, and A Rosalie David. “The International Ancient
+Egyptian Mummy Tissue Bank at the Manchester Museum as a Resource for the Palaeoepidemio-
+logical Study of Schistosomiasis.” World Archaeology 35, no. 2 (2003): 223–240.
+
+Malinowski, Michael. “Legal Limitations on Genetic Research and the Commercialization of Its Re-
+sults.” American Journal of Comparative Law 54 (2006): 45–65.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+PROPERTY RIGHTS OF ANCIENT DNA
+
+129
+
+Manchester Museum Committee. “Policy Document for the Strategic Development of the Manches-
+ter Museum.” The Manchester Museum Reports and Policies. http://www.museum.manchester.ac.uk/
+aboutus/reportspolicies/ (June 2004) accessed September 24, 2008.
+
+Merryman, John Henry. Thinking About the Elgin Marbles: Critical Essays on Cultural Property, Art
+and Law. Cambridge, England: Kluwer Law International, 2000.
+
+Miller, R. L., et al. “Palaeoepidemiology of Schistosoma Infection in Mummies.” British Medical Jour-
+nal 304 (1992): 555–556.
+
+Muller, Wolfgang, et al. “Origin and Migration of the Alpine Iceman.” Science 302 (2003): 862–866.
+
+Murray, John. “Owning Genes: Disputes Involving DNA Sequence Patents.” Chicago: Kent Law Re-
+view 75 (1999): 231–257.
+
+Nwabueze, Remingius. Biotechnology and the Challenge of Property: Property Rights in Dead Bodies,
+Body Parts, and Genetic Information. Burlington, United Kingdom: Ashgate, 2007.
+
+Ossorio, Pilar. “The Human Genome as Common Heritage: Common Sense or Legal Nonsense?”
+The Journal of Law, Medicine and Ethics 35, no. 3 (2007): 425–439.
+
+Pääbo, Svante. “Molecular cloning of ancient Egyptian mummy DNA.” Nature, April 1985: 644–645.
+
+Paradise, Jordan, and Lori Andrews. “Tales from the Crypt: Scientific, Ethical, and Legal Consider-
+ations for Biohistorical Analysis of Deceased Historical Figures.” Temple Journal of Science, Technol-
+ogy and Environmental Law 26 (2007): 223–299.
+
+Prott, Lyndel V. “UNESCO and UNIDROIT: A partnership against trafficking in cultural objects,
+UNESCO Uniform L R, 1996–1.” Uniform Law Review 1 (1996): 59–71. 具http://unesdoc.unesco.org/
+images/0010/001050/105002E.pdf典 accessed on April 30, 2009.
+
+Ray, S. Alan. “Native American Identity and the Challenge of Kennewick Man.” Temple Law Review
+79 (2006): 89–154.
+
+Resnik, D. “The Human Genome: Common Resource but not Common Heritage.” Proceedings of the
+Frontis Workshop on Ethics for Life Scientists. Wageningen, The Netherlands, 2003. 197–210.
+
+Rollo, Franco, Isoline Marota, M. Spigelman, and R.P. Ambler. “How Microbial Ancient DNA, Found
+in Association with Human Remains, Can Be Interpreted.” Philosophical Transactions of the Royal
+Society Biological Sciences 354 (1999): 111–119.
+
+Sturges, Melissa. “Who Should Hold Property Rights to the Human Genome: An Application of the
+Common Heritage of Mankind.” American University Law Review 13 (1997): 219–261.
+
+Tenenbaum, Ellen. “A World Park in Antarctica: The Common Heritage of Mankind.” Virginia En-
+vironmental Law Journal 10 (1990): 109–136.
+
+United Nations Educational, Scientific and Cultural Organization. Convention for the Protection of
+Cultural Property in the Event of Armed Conflict. Paris: UNESCO, 1954.
+
+———. Universal declaration on the human genome and human rights. Paris: UNESCO, 1997.
+
+Wayne, Robert, Jennifer Leonard, and Alan Cooper. “Full of Sound and Fury: The recent history of
+ancient DNA.” Annual Review of Ecology, Evolution, and Systematics 30 (1999): 457–477.
+
+Willie, Burt. “Kennewick Man—Mission Accomplished?” Idaho Law Review 43 (2006): 301–322.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:59:45, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739109090183
+
+

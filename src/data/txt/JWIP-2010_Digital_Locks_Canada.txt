@@ -1,0 +1,2409 @@
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4, pp. 503–539
+
+doi: 10.1111/j.1747-1796.2009.00394.x
+
+Digital Locks and the Fate of Fair Dealing in
+Canada: In Pursuit of ‘‘Prescriptive Parallelism’’
+
+Carys J. Craig
+Osgoode Hall Law School, York University
+
+The enactment of anti-circumvention laws in Canada appears imminent and all but inevitable. This article
+considers the threats posed by technical protection measures and anti-circumvention laws to fair dealing and
+other lawful uses of protected works, and so to the copyright system more generally. The argument adopts, as
+its normative starting point, the principle of ‘‘prescriptive parallelism’’ according to which the traditional
+copyright balance of rights and exceptions should be preserved in the digital environment. Looking to the
+experiences of other nations, the article explores potential routes towards reconciling technical protection
+measures with copyright limits, and maintaining a substantive continuity in Canada’s copyright balance.
+
+Keywords anti-circumvention; public domain; copyright balance; Canada
+
+Digital technologies have dramatically changed the dynamics of cultural exchange in Canada.
+Content and information resources can be accessed, shared, reproduced and re-used with more
+ease and efﬁciency than ever before. Consumption and creation intertwine and merge in the
+cultural space that the internet offers up. At the same time, content providers faced with the new
+realities of networked society have an unprecedented capacity to control the access to and use of
+cultural materials beyond the moment of their distribution, by employing technical protection
+measures (TPMs) or so-called ‘‘digital locks’’. Within this new cultural space, efforts to retain
+control over the products of creative expression have taken on a renewed urgency for owners and a
+heightened practical signiﬁcance for the general public.
+
+A TPM is ‘‘a technological method intended to promote the authorized use of digital works’’
+(Kerr et al., 2002–3, p. 13). As Kerr et al. (2002–3) explain in their excellent report on TPM
+protection:
+
+This is accomplished by controlling access to such works or various uses of such works,
+including copying, distribution, performance and display. TPMs can operate as safeguard
+or ‘‘virtual fences’’ around digitized content, whether or not the content enjoys copyright
+protection. Two common examples of TPMs are passwords and cryptography (p. 13).
+
+As this description suggests, TPMs can be classiﬁed by their function, which may be to control
+access or to control use.1 In the former case, a TPM operates as a ‘‘virtual lock’’ that excludes
+outsiders from the digital content; in the latter case, the TPM controls the uses that can be made of
+that content even once accessed—most commonly, although not necessarily, preventing the
+making of copies (Kerr et al., 2002–3, pp. 19–20).
+
+The use and legal protection of TPMs may appear at ﬁrst glance to be a peripheral issue at
+the margins of copyright policy, of interest to a limited number of technophiles—or indeed
+hackers—with a working knowledge of circumvention technologies, and a few intellectual
+property (IP) lawyers and academics. The issue, however, is far more sweeping. In our networked
+society, our culture is digitized; our information, news, research and educational resources and
+
+r 2010 Blackwell Publishing Ltd
+
+503
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+entertainment all come to us in digital packets. Increasingly, the way in which consumers access,
+use and consume digital content is the way in which we, as citizens, explore, experience and engage
+with our cultural environment. When it comes to technical and legal controls over intellectual works,
+the ability of the public to actively and meaningfully participate in our culture is at stake.
+
+This article considers the impact of TPMs on content users and the wider public interest. In
+particular, it is concerned with the tension between the impending legal protection of TPMs and
+the user rights that are part of Canada’s copyright system. TPMs, and the laws that prevent their
+circumvention, have the capacity to undermine the exceptions and limitations found in traditional
+copyright law, and thereby disrupt the ‘‘copyright balance’’ that the law is expected to strike. As a
+signatory to the World Intellectual Property Organization (WIPO) Internet Treaties, it seems all
+but inevitable that Canada will enact anti-circumvention provisions in the near future. Canadians
+have already seen two failed efforts in this regard, in the course of an ongoing and increasingly
+hard fought digital copyright reform process. While we anticipate the next iteration of an
+amendment to the Copyright Act intended to ‘‘respond to the challenges and opportunities of
+the digital age’’ (Government of Canada, 2008b), we have a ﬂeeting opportunity to critically assess
+the values and vulnerabilities at play in the legal protection of TPMs.
+
+My argument adopts, as its normative starting point, the principle of ‘‘prescriptive paralle-
+lism’’ according to which ‘‘the traditional copyright balance of rights and exceptions should be
+preserved in the digital environment’’ (Reichman et al., 2007, p. 1042). I suggest that the anti-
+circumvention provisions of the earlier reform bills did not meet the demands of prescriptive
+parallelism because they failed to protect the role of fair dealing and copyright exceptions that the
+Supreme Court of Canada has recognized as integral to the copyright system. Accepting (albeit
+reluctantly) the likelihood of new protections for digital locks in Canada’s revised Copyright Act,
+this article considers whether and how a substantive continuity in the existing ‘‘copyright balance’’
+can be achieved. It may still be possible to construct this new layer of legal protection around the
+existing corner-stones of copyright policy, limiting the impact of digital locks on our cultural
+environment, and saving fair dealing from its impending fate—but Canada risks passing up the
+opportunity.
+
+The article begins by providing some brief background on the role of TPMs in the
+distribution of digital content, and how they came to be entwined with copyright policy. It
+goes on to describe the ways in which TPMs and anti-circumvention laws threaten to upset the
+copyright balance by supplanting the traditional boundaries of the copyright interest and
+undermining the central role of fair dealing and the public domain within the Canadian
+copyright system. It then explores the interaction of anti-circumvention laws and copyright
+limitations in various international and foreign domestic laws, as well as speciﬁc measures that
+have been taken in other jurisdictions in the attempt to vindicate user rights and preserve the
+traditional balance of interests. The discussion then turns to the Canadian context, assessing
+Canada’s two ‘‘false starts’’ in the race to implement anti-circumvention laws, identifying best
+practices and proposing some preferred solutions for Canada. The article concludes with a
+general cautionary note about the potential impact of TPMs and their protection on the
+Canadian cultural landscape.
+
+The Background: TPMs and Copyright Law
+
+The Promise and Threat of Digital Technologies
+If it is generally agreed that the copyright system is aimed (at least in part)2 at maximizing creative
+opportunities, furthering the exchange of knowledge and preserving a vibrant public domain, then
+
+504
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+the potential of networked technologies to further the objectives of copyright is undeniable. These
+technologies have created previously unimagined opportunities for easy and affordable creative
+play, the potential for virtually unlimited and instantaneous communication across cultural and
+geographic boundaries, and an unparalleled space for discursive engagement. Viewed in this light,
+it seems almost surprising, and certainly disappointing, that the recent focus of IP policymakers
+has been predominantly on the threats rather than the promises of digital technology. This focus is
+born of fear. The emergence of the digital world has rapidly generated a new public idea of
+discourse, participation and production—one that values networking over singularity, and
+relationships over individuation. Most importantly, however, this new public idea favours a
+collaborative model of shared and cumulative cultural dialogue over a proprietary model of
+cultural production. In the very same way, and for the very same reasons, that digital technologies
+promise to advance the overarching aims of copyright policy, they threaten to undermine or unseat
+the underlying methods and mechanisms of the copyright system.
+
+At a more practical level, this paradox translates into a digital dilemma for IP owners and
+traditional content providers, which is manifested in their often reluctant or ambivalent forays into
+the online environment. While they may indeed stand to beneﬁt from more efﬁcient production and
+distribution of information products, rightholders and industry actors are typically more con-
+cerned that any such beneﬁts will be undercut by the increased threat of reproduction and
+unauthorized dissemination that new technologies entail. Of course, much has been made of the
+threat posed by the internet to traditional content industries and their intellectual properties. As
+individual consumers acquire the ability to circulate perfect, costless copies, the anxiety is well-
+founded: conventional business models are jeopardized, existing markets evaporate and long-time
+industry actors are effectively supplanted. Loss of control over distribution can translate into lost
+sales, and potentially the loss of a viable market for digital content.
+
+Many rightholders and industry actors therefore opt to resist the full implications of the digital
+shift, strongly asserting their proprietary interests and employing TPMs to control the digital
+distribution and use of content. By providing a practical means to ensure excludability and control,
+TPMs are viewed by many as the key to ensuring a viable market for digital products and services
+in the online environment. Just as the promises of digital technologies for rightholders are
+tempered by the threat of uncontrolled reproduction, the promises of digital technologies for
+content users are thus tempered by the threat of increased control made possible by TPMs. While
+owners develop and employ TPMs to protect content, however, users develop new technologies to
+circumvent them, resulting in what has been described as a technical ‘‘arms race’’ that is destined
+never to be won. Turning to the law, demands are made for more regulation to support owners’
+efforts to maintain control in the face of the ‘‘Internet Threat’’. The assumption is that the moving
+target of perfect control can be struck only through the perfect interplay of technical architecture
+and legal force.3
+
+It is understandable that certain copyright owners welcome TPMs to assist them in the
+proﬁtable distribution of digital content—but it is less clear what TPMs have to do with the law of
+copyright as such. Of course, TPMs can be added to the copyright owner’s arsenal against
+unauthorized users, complementing the rights granted by law. But arguably, technology and IP are
+best viewed as separate and distinct sources of empowerment, just as traditional property and IP
+law have always been. The scarcity of the physical embodiment of a work (a painting, say) may
+contribute to a rightholder’s capacity to control the work’s distribution, but copyright is not
+concerned with the ownership of the physical thing; if that painting is stolen, for example,
+copyright law is simply not implicated. Similarly, the application of TPMs to a digital embodiment
+of a work may practically aid in limiting distribution of that work—but traditional copyright law
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+505
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+has no necessary stake in whether or how that TPM is applied or respected. Technical controls
+enable owners to side-step some of the costs and practicalities associated with the enforcement of
+legal rights (providing an effective second layer of protection), but it does not naturally follow that
+legal rights should be expanded to protect the application of TPMs (thereby effectively establishing
+a third layer of protection).
+
+The Emergence of Anti-Circumvention Laws
+It may require a logical leap to assume TPMs within the copyright system, but it is a leap that has
+been taken at the international level, and consequently, by domestic legislatures around the world.
+This development traces back to a 1995 US government White Paper (1995), which recommended
+outlawing technologies whose primary purpose or effect is to bypass TPMs. The White Paper
+explained that, in the digital environment, copyright owners would increasingly turn to technology
+to protect their rights, but that technology would be found wanting in the absence of new laws to
+protect it.4 The suggested prohibition on TPM-circumventing devices was thus ‘‘intended to assist
+copyright owners in the protection of their works’’ (White Paper, 1995, p. 231) and, rationalized in
+these terms, it was proposed as an amendment to the US Copyright Act. While the White Paper
+recommendations stalled in the face of domestic opposition (see Litman, 2001, pp. 122–9), a draft
+treaty mirroring its proposals was distributed for consideration at the WIPO international
+diplomatic conference in Geneva in 1996.
+
+WIPO negotiations culminated in the WIPO Copyright Treaty (WCT) and the WIPO
+Performances and Phonograms Treaty (WPPT).5 The adopted treaty texts rejected or diluted
+some of the most highly protectionist provisions of the White Paper (Litman, 2001, pp. 129–30),6
+including the proposed prohibitions relating to circumvention devices or services. But key
+provisions introduced new protection for digital works in the form of legal protection against
+the circumvention of TPMs.7 The ﬁnal text of the anti-circumvention provision in the WCT—
+which is paralleled in article 18 of the WPPT8—diverges signiﬁcantly from the original US
+proposal, however, and instead reﬂects an international compromise:
+
+Contracting Parties shall provide adequate legal protection and effective legal remedies
+against the circumvention of effective technological measures that are used by authors
+in connection with the exercise of their rights under this Treaty or the Berne
+Convention and that restrict acts, in respect of their works, which are not authorized
+by the authors concerned or permitted by law (WCT, article 11).
+
+legal remedies,
+
+Article 11 of the WCT leaves member states with signiﬁcant latitude when it comes to
+implementing the treaty obligation in domestic law. First, the Treaty requires only ‘‘adequate’’
+legal protection and ‘‘effective’’
+leaving room for domestic legislatures to
+determine what is required of their laws in order to meet this subjective standard. Indeed, the
+treaty does not require anti-circumvention provisions to be included in copyright legislation at all;
+if ‘‘adequate’’ protection and remedies are available through other legal routes, then article 11 will
+be satisﬁed (Samuelson, 1996).9 As Michael Geist explains, ‘‘any national legislation will be
+measured against an adequacy criterion such that the legal protections must provide some
+measure of protection that a reasonable person would perceive as evidencing effectiveness’’
+(Geist, 2005, p. 223). In this way, the language of article 11 reﬂects the ambivalence or uncertainty
+that surrounded the creation of legal protection for TPMs in the international arena, and
+evidences the level of generality that was necessary to garner sufﬁcient support for its inclusion
+in the Internet Treaties.
+
+506
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+Furthermore, as Kerr and his co-authors explain, pursuant to this section, ‘‘the only TPMs
+subject to legal protection against circumvention are those that: (1) are effective; (2) are used by
+authors to exercise copyrights; and (3) restrict acts not authorized by authors or permitted by law’’
+(Kerr et al., 2002–3, p. 34; citing Koelman and Helberger, 2000, p. 171). The meaning of ‘‘effective’’
+in this context is unclear. It is widely understood to mean that ineffective TPMs (presumably those
+that can be easily and cheaply circumvented) may not demand the beneﬁt of the legal protections
+guaranteed by the Treaty. What this means in practice is murkier still, as most if not all TPMs can
+be circumvented—indeed this is the assumption behind the creation of additional legal protection.
+The only clear conclusion is that ‘‘not every TPM is subject to legal protection’’ under the WCT
+(Kerr et al., 2002–3, p. 35).
+
+More important for our purposes, however, are restrictions (2) and (3), which, taken together,
+appear to mean that member states are obligated to provide protection only in respect of TPMs
+that are used by authors in connection with the exercise of their copyright—and only to the extent
+that a TPM is used to restrict unauthorized acts that the law does not permit in relation to their
+protected works. Simply put, the protection afforded to TPMs under the treaties seem to coincide
+with the scope of copyright proper (Koelman, 2000); the treaties are concerned speciﬁcally with
+circumvention activities that facilitate copyright infringements (Wiese, 2002, p. 150). If TPMs must
+restrict acts protected by copyright law in order to beneﬁt from protection pursuant to article 11,
+then it would seem to follow that there is no obligation, under the WCT, for a member state to
+prohibit circumvention activities that do not result in copyright infringement. According to this
+reading of article 11, circumvention of TPMs for lawfully permitted purposes such as fair dealing is
+beyond the scope of the protection that the Treaty requires.10
+
+With the WIPO Internet Treaties, TPM protection became part of an international strategy for
+tackling the challenges to copyright law presented by digital technologies. Consequently, anti-
+circumvention legislation has emerged as a prominent component of the domestic copyright reform
+agenda. As a signatory to the WIPO internet Treaties, Canada is now faced with the prospect of
+ratifying the treaties and bringing its laws into compliance with them. It is important to stress,
+however, that Canada has not yet assumed any international legal obligation by virtue of signing
+the treaties. As Howard Knopf has evocatively explained, signing a treaty is to ratiﬁcation about
+the same as what dating is to marriage (Knopf, 2008).11 Whether or not Canada ought to ratify the
+treaties is primarily a political question, which puts into play a myriad of practical and pragmatic
+considerations that reach far beyond Canadian copyright policy. But it is clear enough at this time
+that all political indicators are pointing in the direction of ratiﬁcation, with the government actively
+working towards amendments to the Copyright Act that ‘‘would implement the rights and
+protections found in the treaties’’.12
+
+Before we consider preferred approaches to the legal protection of TPMs in Canada, the
+potential signiﬁcance of anti-circumvention provisions should be situated against the backdrop
+of Canadian copyright policy in general, and our fair dealing defence in particular. The
+following section aims to articulate the problems posed by TPMs, and the potential of anti-
+circumvention laws to tip Canada’s copyright balance in favour of owners at the expense of users
+and the public.
+
+The Problem with TPMs: Tipping the Copyright Balance
+
+The Copyright Balance in Canada
+Copyright law is continuously challenged by its own ‘‘paradox’’: the interminable challenge is to
+construct a system that uses exclusivity to stimulate the creation and dissemination of works for the
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+507
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+beneﬁt of the public without unduly harming the public interest by restricting the ability to access
+and use the works that are thus created. Fundamentally, the incentive-based approach to copyright
+policy assumes that the restriction of the public’s use of works through the creation of private
+rights can further the public’s interest in the widespread creation and distribution of works. The
+limits to these private rights, deﬁned by fair dealing and other exceptions—and circumscribed by
+the boundaries of the public domain—are therefore essential to ensure that the copyright system
+does not inadvertently undermine its own ends.
+
+In recent years, the Supreme Court of Canada has articulated the purposes of Canadian
+copyright law, and has acknowledged the inherent tensions that these purposes present. It has also
+explained the vital role that fair dealing and the public domain play in alleviating these tensions. In
+Th ´eberge v Galerie D’Art du Petit Champlain Inc. (Th ´eberge), the Supreme Court identiﬁed
+copyright’s purpose as ‘‘a balance between promoting the public interest in the encouragement
+and dissemination of works of the arts and intellect and obtaining a just reward for the creator’’.
+The Court went on to explain, ‘‘[t]he proper balance among these and other public policy objectives
+lies not only in recognizing the creator’s rights but in giving due weight to their limited nature. In
+crassly economic terms it would be as inefﬁcient to overcompensate artists and authors for the
+right of reproduction as it would be self-defeating to undercompensate them’’ (Th ´eberge, per
+Binnie J, paragraphs 30–1).
+
+As copyright law struggles to adjust to the proliferation of digital technologies, owners
+demand ever-increasing protection, and legislative reform looms large, these important pronounce-
+ments on the nature of the Canadian copyright system have come at a critical time. The Th ´eberge
+decision represented a crucial moment in Canadian copyright policy, cementing a vision of
+copyright as a system intended not only to protect the rights of authors and their assignees, but
+also (and equally) to further the wider public interest. In describing how the metaphorical balance
+might be struck, it brought into the equation and attributed ‘‘due weight’’ to the limits of the rights
+that the system protects. Regarded in this way, the boundaries and limitations of the copyright
+interest are not external to copyright policy; they are a central part of how the system works.
+
+With this in mind, the overarching problem associated with the widespread use of TPMs in the
+dissemination of digital content is simple enough to state: TPMs do not—and generally cannot—
+distinguish between lawful and unlawful uses and users. There is no necessary (and, typically, no
+practical) correlation between the limits imposed on would-be users by TPMs and the rights
+granted to copyright owners under the law; the scope of protection afforded by technology just
+does not map onto the protection afforded by law. While the law attempts to achieve balance
+between owners and users through careful circumscription of the copyright interest that it creates,
+technology effectively supplants the law’s solution, usurping its power to effectuate this delicate
+balance. The mismatch between technical control and the boundaries of the copyright interest is
+easily discerned with regard to both the kinds of activities that owners can prevent or control, and
+the extent of the protected work that can be subject to such control.
+
+The Power to Control Access
+First, simply by blocking access to content, TPMs provide protection beyond that granted to
+copyright owners by law. Activities such as reading, listening and viewing have always been
+perfectly lawful—and of course desirable from a cultural policy perspective—in the analogue
+world. Nothing in the law of copyright would prohibit someone from ﬂipping through a magazine
+in the doctor’s ofﬁce, borrowing a novel from a friend, listening to a roommate’s music collection,
+or watching a movie on a home video machine. With the application of TPMs to the digital
+
+508
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+embodiments of such works, however, the ability to read, listen to or view them can be made
+subject to the possession of a ‘‘digital key’’.
+
+In the Th ´eberge decision, the Supreme Court stated that ‘‘once an authorized copy of a work is
+sold to a member of the public, it is generally for the purchaser, not the author, to determine what
+happens to it’’ (paragraph 31). TPMs thoroughly disrupt this premise (deBeer and Geist, 2008, p.
+173). In the analogue world, a person can re-read a favourite novel until it is in tatters, listen
+obsessively to a favourite record, devotedly watch and re-watch a favourite movie, and then sell or
+give away the novels, records and videos with which they ﬁnally grow bored. In the world of
+technical controls, reading, listening or viewing can be limited by the number of plays, the number
+(or even brand) of machines on which content can be played, the time during which the content is
+available and/or the identity of the would-be listener or viewer. This new reality, largely made
+possible by the operation of TPMs, has raised concerns about the social implications of eroding
+free use in the shift to a ‘‘pay-per-use’’ culture (see Secor, 1997).13
+
+By affording owners the power to control pure access to works, TPMs go further than
+copyright protection ever has. And to the extent that access controls are themselves protected by
+anti-circumvention laws, these laws effectively establish a legal right to control access (an ‘‘access
+right’’ if you will; see Ginsburg, 1999, pp. 140–3, 147–8; Koelman, 2000) heretofore alien to
+copyright law. The implications of such control for copyright policy are incredibly signiﬁcant. As
+Jane Ginsburg explains, ‘‘[e]very act of perception or of materialization of a digital copy requires a
+prior act of access. And if the copyright owner can control access, she can condition how a user
+apprehends the work . . . ’’ (2001, p. 41).
+
+Ginsburg (2001) has famously argued that, with the arrival of the digital age, the exploitation
+of works has shifted from possessing copies to ‘‘experiencing’’ a work’s content—and this new
+end-user reality calls for a new balancing of rights, which may entail an access-right for authors
+(p. 42).14 Certainly, Ginsburg is right to remind us that the very metaphor of balance signiﬁes the
+need for constant monitoring and adjustment to maintain normative consistency in changing
+circumstances. I would suggest, however, that a new right against unauthorized access does not
+regain copyright’s equilibrium, but rather tips the balance in favour of owners, to the detriment of
+users and the public; access to cultural resources and freedom to engage in basic consumptive
+activities may be radically restricted by such a right.
+
+TPMs create the power to control access far beyond that which has been offered by copyright.
+Anti-circumvention laws therefore establish a ‘‘new rights structure’’, legally restricting public uses
+that have long been viewed as both acceptable and desirable (Heide, 2001, p. 14). As access control
+mechanisms come to regulate the use of creative works, this puts at stake the integrity of the
+copyright system (Heide, 2001, p. 18).
+
+Power over the Public Domain
+The mismatch between copyright’s boundaries and the constraints imposed by TPMs is further
+exempliﬁed in the case of public domain materials kept behind digital locks. In addition to the
+legal, economic and transactional obstacles of traditional copyright law, the value of the public
+domain is now subject to technological barriers that can prevent access to even IP-free information
+resources. An obvious concern here is the technical protection of works for which copyright
+protection has lapsed. While the copyright interest in a work exists for a limited (if long) period of
+time, TPMs can continue to erect a barrier around works after their legal entrance to the public
+domain, thereby undermining a crucial aspect of copyright policy: the limited duration of private
+rights has been a fundamental characteristic of copyright from its inception, and reﬂects the ‘‘deal’’
+that copyright strikes between the public and the author. To grant legal protection over TPMs that
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+509
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+protect public domain content is to supplant copyright’s time-limited protection with a conceivably
+perpetual legal right to control access and restrict use of cultural resources.
+
+One response, consistent with WIPO treaty obligations, may be to limit the protection of
+TPMs to those that control copyright-protected content, but this offers no solution where the
+content behind the digital lock includes both protected and public domain works. And while it may
+be argued that many or most public domain works will also be available from other TPM-free
+sources, to require members of the public to ﬁnd and use unencrypted versions may deprive them
+of the beneﬁts (including accessibility, quality and manipulability) of digitized or technologically
+superior versions. Not only does this argument accept an impoverished public domain, but it may
+also prove short-sighted as more and more of our culture is recorded, stored and archived in digital
+form.
+
+The public domain objection to TPMs is even more signiﬁcant when we recall that the divide in
+copyright law between public and private traverses the protected work; while copyright vests in the
+overall work, the ideas, information, systems, methods, mergers and unoriginal elements within it
+continue to reside in the public domain (Samuelson, 2003, p. 151). As explained by the Supreme
+Court of Canada, such limits on the author’s right leave room for the production of ‘‘new works by
+building on the ideas and information contained in the works of others’’ (CCH Canadian Ltd. v
+Law Society of Upper Canada [CCH], paragraph 23),15 which in turn allows ‘‘the public domain to
+ﬂourish’’ (CCH, paragraph 23). Or, as Jessica Litman famously described it: ‘‘The public domain
+should be understood not as the realm of materials that is undeserving of protection, but as a
+device that permits the rest of the system to work by leaving the raw material of authorship
+available for authors to use’’ (Litman, 1990, p. 967). The copyright balance thus demands that
+public domain elements of the protected work remain free for lawful and unauthorized public use.
+TPMs can make these public domain elements practically unavailable, while anti-circumvention
+laws can make access to and use of these public domain elements unlawful. We would do well to
+heed Binnie’s J warning in this regard: ‘‘Excessive control by holders of copyrights and other forms
+of IP may unduly limit the ability of the public domain to incorporate and embellish creative
+innovation in the long-term interests of society as a whole, or create practical obstacles to proper
+utilization’’ (Th ´eberge, paragraph 32).
+
+In order to occupy its central role in cultural practices, the public domain must be accessible to
+creative actors; but rather than protecting the rights of the public to access and use resources in the
+public domain, anti-circumvention laws protect the right to lock-up these resources. Technological
+protection erects a fence around the entirety of a work without discriminating between protectable
+and unprotectable elements; to electrify these fences with the force of the law is essentially to
+reinforce privately drawn boundaries around public resources.
+
+Displacing Fair Dealing
+Finally, the clash between copyright policy and TPMs reveals itself in the predicament of fair
+dealing and other copyright exceptions.16 The fair dealing defence permits fair dealings with
+copyright protected works for the purposes of research or private study, criticism or review, or
+news reporting (Copyright Act, sections 29–29.2).17 Acts undertaken for these purposes that would
+prima facie constitute infringement are nonetheless lawful if found to be fair, and if—in the case of
+criticism, review or news reporting—there is sufﬁcient acknowledgement of the source and author
+of the protected work.18 Further speciﬁc exceptions are found in the act, for example, educational
+institutions, libraries, archives and museums (sections 29.3–30.9).
+
+In order to appreciate the signiﬁcance of the clash between digital locks and fair dealing, it is
+important to understand the role that fair dealing and other exceptions play in the copyright
+
+510
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+system. In CCH, the Supreme Court reafﬁrmed the concept of a copyright balance,19 and its
+signiﬁcance in relation to copyright exceptions:
+
+interests,
+
+[T]he fair dealing exception, like other exceptions in the Copyright Act, is a user’s right.
+In order to maintain the proper balance between the rights of a copyright owner and
+users’
+it must not be interpreted restrictively. As Professor Vaver has
+explained, ‘‘User rights are not just loopholes. Both owner rights and user rights
+should therefore be given the fair and balanced reading that beﬁts remedial legislation’’
+(CCH, paragraph 48).
+
+In the name of balance, the court generously interpreted the fair dealing provisions in order
+‘‘to ensure that users’ rights are not unduly constrained’’ (CCH, paragraph 51).20 Against the
+backdrop of copyright’s public purpose, fair dealing was recognized to be integral—not excep-
+tional—to the system. McLachlin CJ wrote: ‘‘the fair dealing exception is perhaps more properly
+understood as an integral part of the Copyright Act than simply a defence. Any act falling within
+the fair dealing exception will not be an infringement of copyright’’ (CCH, paragraph 48). Put
+otherwise, fair dealing does not merely excuse infringement, but rather deﬁnes it; the owner’s rights
+end where the user’s rights begin. Following the CCH decision, it should be clear that, rather than a
+marginal exception to the norms of Canadian copyright law, the fair dealing defence is an
+instantiation of the public–author balance; one that is necessary to support the normative claims
+so often made on behalf on the system. As Drassinower (2005) explains: ‘‘the defence of fair
+dealing . . . is to be understood and deployed not negatively, as a mere exception, but rather
+positively, as a user right integral to copyright law’’ (p. 467).
+
+It is also important to underscore, at this juncture, the potential signiﬁcance of the term ‘‘users’
+rights’’ employed by the Supreme Court. Much has been made of this terminology and the equality
+it brings to the balancing of authorial and public claims (see Craig, 2005, pp. 454–5). For the
+purposes of my argument, however, its importance lies primarily in the positive nature of a ‘‘user
+right’’, in contrast to the negative nature of mere defences, justiﬁcations, exemptions or even
+privileges. A basic Hohfeldian analysis (Hohfeld, 1946) reveals that, when conceptualized as a
+privilege, fair dealing establishes only the liberty or freedom to act: the owner has no right to
+prevent the privileged activity, and the user owes no duty to refrain from the activity. But
+conceptualized as a right, fair dealing establishes a corresponding duty on behalf of the owner to
+honour the user’s right: in this analysis, the user has a positive claim-right against the copyright
+owner to be permitted to deal fairly with the work. Where fair dealing is recognized as a ‘‘user
+right’’, it can be argued that copyright owners have a correlative obligation to permit users’ fair
+dealings with their works, TPMs notwithstanding.
+
+It is also signiﬁcant that the scope of a user’s right cannot be clearly delineated or universally
+applied. The legal analysis necessary to determine whether a particular use can be considered fair
+dealing in a particular instance is a complex one that involves a contextual examination of the use
+and user, and the balancing of multiple factors from the economic impact of the use to the
+alternatives available to the user.21 TPMs are not capable of performing such an analysis, and as
+such, are not capable of permitting individual access for fair dealing purposes or permitting fair
+dealings per se (even in the unlikely event that such a result were sought).
+
+The effect of a TPM is thus to prevent the kinds of activities that are recognized, in the realm of
+copyright policy, to be deserving of protection from private owner interests, and to be central to
+the balance that copyright must strike. Simply put, TPMs deny users the ability to exercise their
+rights and thereby tip the balance away from users and the public interest. Here, again, it may be
+argued that a TPM-free version of a protected work will typically be available for anyone who
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+511
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+wishes to deal fairly with it. And so it is worth re-emphasizing that, from a policy perspective, it is
+not satisfactory to restrict fair dealings to technologically inferior versions of copyright works
+(Bechtold, 2004, p. 363). Beneﬁciaries of copyright exceptions, like rightholders, should be able to
+enjoy the opportunities presented by digital technologies, and should be free to engage with
+cultural resources in the technological environment in which they are encountered.
+
+While IP policymakers, courts and commentators struggle to deﬁne and defend the fair dealing
+doctrine, their efforts are increasingly undercut by technological capabilities that leave such
+deliberations all but moot. Acts permitted in relation to owned content—users’ rights to read,
+listen, research, study, criticize, transform—can be prevented by the use of TPMs, and would be
+effectively rendered unlawful by proposed anti-circumvention provisions. To extend legal protec-
+tion to TPMs in a manner that fails to guard the contours of fair dealing from technological
+encroachment is thus to undermine the social goals of the copyright system and to relinquish the
+policy-balancing act performed in their name.
+
+In Pursuit of Prescriptive Parallelism
+
+Preserving the Copyright Balance
+The principle of ‘‘prescriptive parallelism’’ was articulated in a 2007 article by US commentators
+Jerome Reichman, Graeme Dinwoodie and Pamela Samuelson, to ‘‘convey the notion that the
+traditional copyright balance of rights and exceptions should be preserved in the digital environ-
+ment’’ (Reichman et al., 2007, p. 1042). The principle captures the general normative position that
+‘‘a technological adaptation, namely, the application of TPMs, should not alter the balance that
+existed under default rules of copyright law with respect to the enjoyment of exceptions and
+limitations’’ (Reichman et al., 2007, pp. 1041–2). The intuitive appeal of this position is quite
+evident, and nicely captured in the following words of Henning Wiese (2002):
+
+[W]hilst on the one hand copyright holders will have a justiﬁed interest in regaining
+control over the publication/dissemination of their works, users will have an equal
+interest in retaining in the digital environment roughly the same fair use defences. In
+essence, society as a whole—including copyright owners and copyright work users—
+will wish to retain roughly the same copyright balance in virtual reality that has served
+all parties involved so well in the past, the ‘‘real reality’’ (p. 147).
+
+The problem, of course, is that the principle of prescriptive parallelism presents us with a
+challenge that, while conceptually clear, will be exceptionally hard to meet on a practical level. As
+Kerr and his co-authors rightly warn, ‘‘[t]he ensuing policy issue is not merely a question of
+copyright’s ability to balance but also one of technology’s power to control’’ (Kerr et al., 2002–3,
+p. 38). This is the challenge that now presents itself to policymakers and the Canadian copyright
+system: how can copyright’s complicated balancing act continue to be performed in any mean-
+ingful way when the technological environment is increasingly one of absolutes—absolute freedom
+versus absolute control? More fundamentally, how can the law maintain its role as the guardian of
+this metaphorical balance when its prescriptions are increasingly extraneous to the actions and
+actors that it purports to inﬂuence?
+
+Admittedly, a commitment to the principle of prescriptive parallelism presents at least as many
+questions as answers. Nonetheless, in the context of digital copyright reform, the principle could
+prove exceptionally useful: it offers a jumping-off point (a normative claim), it provides a sense of
+direction (a guidepost by which to chart progress), and it establishes an ideal (a goal against which
+to measure purported success). It is also difﬁcult to refute, unless one is willing to openly take issue
+
+512
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+with the foundational principles that underlie our existing institutional structures. In this sense, the
+principle wields some political clout. It may be that genuine prescriptive parallelism is an
+unattainable aspiration, but to admit as much is not to undermine its normative signiﬁcance; it
+is a goal at which we should aim, and one that we should be determined to achieve to the greatest
+extent possible.
+
+Retaining the Balance through Inaction?
+One route towards maintaining copyright’s traditional balance may be to simply leave the law as it
+is, for now at least; we can continue to apply and enforce traditional copyright norms while
+technology and the marketplace evolve on their own terms. In this way, the law will perform its
+traditional balancing act within its shrinking domain of inﬂuence. There are many commentators
+and stakeholders who adhere to this vision, and I am tempted to count myself among them. When
+it comes to the law, after all, there are worse things than irrelevance. As Jessica Litman has argued,
+there is simply no reason for us to assume that copyright laws should determine the most basic
+‘‘rules of the game’’ in cyberspace (Litman, 2001, p. 28). Indeed, their complexity, inaccessibility
+and limited focus make them quite inapposite to the task:
+
+Copyright law has a narrow focus. It has never paid attention to a whole host of
+important interests that have traditionally informed our information policy, and
+copyright analysis turns out to have very little room in it to do so.
+
+In addition to free speech concerns, information policy takes account of issues related
+to equity, competition, ensuring a diversity of viewpoints, securing ready and
+affordable access to important sources of information privacy—all issues that are at
+best tangential to copyright law and in some cases wholly alien (Litman, 2001, p. 30).
+
+As Litman argues, the signiﬁcance of these limitations is far greater in a context where
+copyright law is expected to govern, not just the activities of commercial and institutional entities
+as it has traditionally done, but the everyday behaviour and interactions of members of the general
+public.
+
+Litman further cautions that the structure and involvement of the copyright community in the
+copyright reform process make it ‘‘difﬁcult to prevent foolish approaches to new technology’’
+(Litman, 2001, p. 22). Reforms in response to technological advances are typically fought out by
+industry stakeholders determined to regain old beneﬁts enjoyed before the technological advance,
+while retaining any new beneﬁts that the technology may afford (Litman, 2001, p. 22). Notably,
+among such ‘‘foolish’’ approaches, Litman appears to include the enactment of anti-circumvention
+laws in the US Digital Millennium Copyright Act (DMCA).22
+
+In a similar vein, Laura Murray has observed ‘‘the near-perfect match between the rhetoric of
+wonder and panic at digital technologies and the hyperbole and hysteria that greeted the telegraph,
+the telephone, the television, and the photocopier’’ (Murray, 2005b, p. 26). Citing Litman, Murray
+agrees that such historical precedents sound a cautionary note about the swift implementation of
+new laws in response to new technologies. History reveals that rapid legal responses risk becoming
+dated and ‘‘loophole-ridden’’ legal regimes, failing to reﬂect our evolving understanding of the new
+technology and the role that it will come to occupy in our market place and society (Murray,
+2005b, p. 26). Kerr and his co-authors issue a similar exhortation, urging:
+
+[U]ntil the market for digital content and the norms surrounding the use and
+circumvention of TPMs (and their implications for that market) become better
+known, it is simply premature to try to ascertain what the appropriate practical legal
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+513
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+response should be . . . [M]aking policy decisions without such knowledge could result
+in great harm to the public interest (Kerr et al., 2002–3, p. 76).23
+
+This position is consistent with the general principle of technological neutrality, which stands
+against the implementation of technology-speciﬁc norms that are unlikely to maintain their
+relevance and applicability as technologies inevitably evolve (Kerr et al., 2002–03, p. 81).24 Indeed,
+some argue that the evolution of technology has already rendered the TPM-protection debate out-
+dated. As consumers become increasingly cognizant of, and resistant to, the limitations imposed by
+digital locks and other rights management technologies, the argument goes, market forces should
+gradually increase demand for free as opposed to controlled content, with content providers
+necessarily reacting to such market dictates. Apple’s decision to sell Digital Rights Management
+(DRM)-free music through the iTunes store is commonly cited in support of this thesis (see Apple
+Inc., 2009). The problem is that it assumes a well-functioning competitive market for DRM-
+protected and DRM-free content, and minimizes the impact of network and lock-in effects,
+information asymmetries and other causes of market failure (Bechtold, 2004, p. 362). Whatever
+degree of faith we are willing to place in such market forces over time, we can likely agree that
+TPMs and DRM technologies look set to stay with us for a while.
+
+While inaction may preserve the internal coherence and ‘‘balance’’ of the copyright system, its
+capacity to achieve an actual balance in our overall information system is undermined when its
+prescriptions become divorced from common practice. Inaction could thus result in the margin-
+alization of copyright and its normative signiﬁcance as technology and technological self-help
+establish the norms of behaviour online.
+
+Regaining the Balance through Legislative Reform
+If we assume that copyright should play a signiﬁcant role in regulating cultural practices in the
+digital environment—and we accept that this is good policy as opposed to an act of hubris on the
+part of copyright lawyers (compare with Litman, 2001, p. 30)—then it seems reasonable to assert
+that some degree of legal reform is necessary. Technological changes have undoubtedly rendered
+certain traditional copyright assumptions outmoded. This suggests an alternative route towards
+maintaining copyright’s balance while also striving to preserve its relevance: namely, amending
+existing laws to better regulate the use of technology and the digital marketplace for creative
+content in a way that can achieve prescriptive parallelism in practice.
+
+When anti-circumvention laws are rationalized as ‘‘enhanced legal protection for copyright
+owners in light of enhanced copying capacity’’ (Reichman et al., 2007, p. 1042), the implicit
+assumption is that a further layer of protection is necessary to reinstate copyright’s balance in the
+face of new technologies.25 In pursuit of this balance, however, adjustments may also be needed to
+the legal rights of copyright users in light of the availability, application and legal protection of
+TPMs (Wiese, 2002, p. 147). If, as a matter of substantive principle, ‘‘the application of TPMs
+should not alter the balance of rights between copyright owners and users’’, then it ought to follow
+that ‘‘all uses privileged under traditional copyright principles should continue to be privileged in
+an era of digital rights management’’ (Reichman et al., 2007, p. 1045). This assertion is consistent
+with (and arguably mandated by) the recognition of exceptions to authors’ rights as integral to the
+copyright system. As such, any new digital copyright regime that is rationalized in terms of
+reinstating copyright’s balance in the digital era should offer a comprehensive regulatory
+approach—one that establishes a ‘‘symmetric’’ environment in which the legitimate interests of
+both rightholders and users are protected (Bechtold, 2004, p. 363).
+
+514
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+Reichman and his co-authors argue that, if the principle of prescriptive parallelism is to be
+respected in the face of TPM protections, ‘‘users need a mechanism by which to vindicate their
+rights and to secure the certainty required to engage in creative activity privileged under traditional
+copyright principles’’ (Reichman et al., 2007, p. 1045). In pursuit of prescriptive parallelism in
+Canada,
+it is suggested that any new anti-circumvention provisions must also establish a
+mechanism by which users can vindicate their rights, exercise their privileges, and feel safe in
+the knowledge that they will not incur liability for doing so. Admittedly, such a mechanism could
+prove complex and costly to implement, but we must be willing to assume these costs and tackle
+these complexities if we go down the path of prohibiting circumvention while maintaining a
+genuine commitment to copyright’s balance. (And if such mechanisms seem too complex or costly,
+we should reconsider the wisdom of taking that path.)
+
+Legislative Measures and Mechanisms to Vindicate User Rights
+With a view to identifying the possibilities, promises and potential pitfalls of a new Canadian TPM
+protection regime, this section will canvas some approaches taken in other jurisdictions towards
+the reconciliation of TPM protection and copyright limitations, and the extent to which these
+approaches have been able to meet the principled demands of prescriptive parallelism. This will
+provide the comparative perspective necessary for us to proceed, in the next section, towards
+recommendations for Canadian reform.
+
+Looking to the United States: The DMCA
+Perhaps the weakest approach to safeguarding the traditional privileges of users and the public in
+the face of TPM protection is found in the now infamous US DMCA.26 The controversial anti-
+circumvention provisions in this act offer a level of protection for TPMs signiﬁcantly beyond that
+required by the WIPO treaties. The DMCA prohibits the circumvention of TPMs that control
+access to a protected work (regardless of whether such access results in copyright infringement)
+(section 1201 (a)(1)(A)), and forbids the manufacture, distribution, and importation of circumven-
+tion tools (including tools that circumvent both ‘‘access-contol’’ measures and use- or ‘‘rights-
+control’’ measures) (section 1201 (a)(2) and section 1201 (b)).27 Because protection does not attach
+to use-control measures, it has been suggested that fair use is not per se affected by the anti-
+circumvention measures. Indeed, section 1201(c)(1) explicitly states that, ‘‘[n]othing in this section
+shall affect rights, remedies, limitations, or defenses to copyright infringement, including fair use,
+in this title’’. Of course, the reality is that access to a work is a prerequisite of fair use, and access to
+a circumvention tool may be a prerequisite of access to a TPM-protected work. The effect of the
+access-control circumvention prohibition and circumvention device prohibitions is the practical
+restriction of otherwise lawful fair use activities in relation to TPM-protected content.
+
+The DMCA anti-circumvention rules are subject to a set of seven narrow and hard-fought
+exceptions28 that shield circumvention activities from liability in speciﬁc circumstances, including,
+for example: non-proﬁt libraries making acquisition decisions (section 1201 (d)); governmental
+actors conducting national security activities (section 1201 (e)); and encryption researchers
+identifying vulnerabilities in encryption technologies (section 1201 (g)).29 Litman has rightly
+accused these exceptions of being ‘‘cast in prose so crabbed and so encumbered with conditions
+as to be of little use to anyone who doesn’t have a copyright lawyer around to explain which hoops
+to jump through’’ (Litman, 2001, p. 31).
+
+In addition to the speciﬁed exemptions, the DMCA authorizes the Librarian of Congress, in
+consultation with the Register of Copyright, to assess the impact of the circumvention ban on
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+515
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+traditional fair use practices and, if necessary, to issue rules exempting certain users of certain
+categories of works from the ban (section 1201 (a)(1)(B)-(D)). The 2006 round of this triennial rule-
+making proceeding yielded temporary exemptions for six narrowly deﬁned classes of works.30
+However, such exemptions are not permitted to extend to the prohibition on circumvention
+technologies (device controls), with the consequence that,
+. . . any
+exemptions ultimately declared will have very limited utility; self-evidently, most users will be
+unable to exercise their circumvention rights unless they are provided with the tools to do so’’
+(Burk and Cohen, 2001, pp. 49–50). Moreover, by granting such power to an administrative
+agency, this procedure has the clear and apparently intended effect of reducing the role of the
+courts and the relevance of fair use in the digital age (see Herman and Gandy Jr., 2006).31 The
+prospective creation of exemptions based on ‘‘classes of works’’ turns on its head the traditionally
+purposive, use-based and post hoc application of fair use by the courts (Herman and Gandy Jr.,
+2006, pp. 143–4). The clear impoverishment of fair use effectuated by the DMCA led David
+Nimmer to suggest that the act was ‘‘a conscious contraction of user rights’’ (Nimmer, 2000, p. 675;
+cited in Herman and Gandy Jr., 2006, p. 187).
+
+‘‘[a]s a practical matter,
+
+Since the enactment of the DMCA, a number of incidents and cases have revealed that this
+apparent threat to fair use activities is more than hypothetical.32 Perhaps most notable is the
+case of Universal City Studios v Remeirdes,33 which concerned a software program, DeCSS,
+posted online by the defendant, which could be used to crack the Content Scramble System
+(CSS) on commercial DVDs, allowing users to copy and manipulate a DVD’s content. In an
+amicus brief, Professors Benkler and Lessig described CSS as ‘‘a device that makes fair and
+otherwise privileged uses of digitized materials practically impossible’’ (Benkler and Lessig,
+2001). The defendant challenged the constitutionality of the DMCA, arguing inter alia that it
+unduly obstructs the ‘‘fair use’’ of copyright materials. The US District Court held that fair use
+was not a defence to violations of the DMCA and issued injunctions. Upholding this decision,
+the US Court of Appeals dismissed the appellant’s constitutional claim as ‘‘extravagant’’.34
+The appellant was not personally engaged in any fair use of copyright materials, and the court
+was unimpressed by the argument that the devices were necessary for others to make fair uses
+of CSS protected content. Indeed, the Court was not persuaded that CSS prevents fair uses,
+not least because ‘‘[f]air use has never been held to be a guarantee of access to copyrighted
+material in order to copy it by the fair user’s preferred technique or in the format of the
+original’’.35
+
+Notably, the CSS has proved to be ‘‘the single most controversial TPM scheme considered in
+the triennial rulemaking proceedings’’ under the regulatory powers granted to the Librarian of
+Congress (Herman and Gandy Jr., 2006, pp. 187–8.). Despite hundreds of calls for exemptions and
+many documented harms to fair use, ‘‘it remains illegal to circumvent the access controls on a
+legally purchased DVD, even for purposes such as playing it on one’s home machine or using
+ﬁfteen seconds of footage for scholarly commentary’’ (Herman and Gandy Jr., 2006, p. 188). An
+exemption added after the 2006 rulemaking proceeding was limited to:
+
+audiovisual works included in the educational library of a college or university’s ﬁlm or
+media studies department, when circumvention is accomplished for the purpose of
+making compilations of portions of those works for educational use in the classroom by
+media studies or ﬁlm professors.36
+
+Such a limited exemption serves only to underscore the inadequacies of the rulemaking
+procedure, and to reveal the virtually insurmountable burden imposed on those who seek
+exemptions from the circumvention prohibitions under the DMCA.
+
+516
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+Looking to Europe: The EU Copyright Directive
+The European Union followed the United States’ lead when it issued its Copyright Directive of
+2001, requiring member states to enact broad anti-circumvention prohibitions against all acts of
+circumvention and the trafﬁcking of circumvention devices and services, and thereby far exceeding
+the scope of TPM protection demanded by the WIPO treaties.37 The directive does not contain
+built-in exceptions such as those in the DMCA, but instead addresses the interaction between TPM
+protection and user exceptions in article 6(4), which states: ‘‘in the absence of voluntary measures
+taken by right holders . . . Member States shall take appropriate measures to ensure that right
+holders make available to the beneﬁciary of an exception or limitation provided for in national law
+. . . the means of beneﬁting from that exception or limitation’’.
+
+Article 6(4) is signiﬁcant—perhaps even ‘‘rather revolutionary’’ (Dusollier, 2003a, p. 52)—to
+the extent that it attributes a positive dimension to copyright exceptions, recognizing the need to
+facilitate (as opposed to merely permit) the exercise of exceptions to owners’ rights. Reichman and
+his co-authors identify, within this provision, an important ‘‘normative commitment to ensuring
+that certain public interest uses can be made of technically protected works’’ (Reichman et al.,
+2007, p. 984). As an apparent attempt to maintain the balance of copyright in the face of TPM
+protection, article 6(4) seems premised to some degree on the principle of prescriptive parallelism
+(Reichman et al., 2007, p. 1042).38 However, as these authors and many others have noted, its
+actual prescriptions fall well short of realizing this ostensible principle (see Dusollier, 2003a;
+Hugenholtz, 2000; Reichman et al., 2007, pp. 1041–4).
+
+The provision employs a ‘‘fair use by mandate’’ approach39 by leaving it to copyright owners,
+in the ﬁrst instance, to ﬁnd a solution to the tension between TPMs and copyright exceptions. Only
+in the absence of ‘‘voluntary measures’’ (the nature and scope of which is left undeﬁned) does the
+State’s obligation arise.40 This approach actually reinforces the primacy of the private ordering
+model supported by TPMs, which is further evidenced by the decision to exclude from the
+application of article 6(4) ‘‘works made available to the public on agreed contractual terms in such
+a way that members of the public may access them from a place and at a time individually chosen
+by them’’.41 This effectively exempts on-demand services from the obligation to safeguard user
+exceptions; rightholders who make their works available online on agreed contractual terms
+(obviously an important and growing digital distribution model) can presumably continue to
+prevent users from beneﬁting from copyright exceptions (Akester, 2009, p. 17).42
+
+The impact of article 6(4) is further lessened by its restriction to beneﬁciaries with ‘‘legal access
+to the protected work’’. Only users with prior lawful access to the work are empowered to exercise
+exceptions, but there is apparently no obligation for owners to grant access to such users.
+Consequently, the safeguard provision does not appear to shield lawful uses from the effects of
+access-control TPMs.
+
+Finally, but crucially, article 6(4) applies only to seven speciﬁed (and seemingly arbitrary)
+exceptions out of the 23 permitted exceptions listed in article 5 of the directive.43 Notably excluded
+from the application of article 6(4) are exceptions for parody and news reporting—both activities
+that we may typically associate with fair use rights, and both exceptions that are widely understood
+to reﬂect a concern with fundamental freedoms of speech and the press (Dusollier, 2003a, p. 53).
+Indeed, even with regard to the seven exceptions that are listed, article 6(4) operates only to safeguard
+the beneﬁt of exceptions that are ‘‘provided for in national law’’. Member states are permitted, but
+not required, to enact the enumerated exceptions, with the result that article 6(4) ‘‘make[s] mandatory
+the safeguarding of exceptions but not their enactment’’ (Dusollier, 2003a, p. 53).44
+
+While, conceptually speaking, article 6(4) of the EU Copyright Directive was both novel and
+laudable, its potential to achieve prescriptive parallelism has been signiﬁcantly undermined by
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+517
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+these various textual and practical limitations. To the extent that it purports to protect the public
+values embraced by copyright limitations, it is a ‘‘toothless tiger’’ (Bechtold, 2004, p. 379). Beneath
+the apparent promise of balance, the EU copyright regime supports private ordering by right-
+holders through the use of TPMs that restrict otherwise lawful uses of digital content.45
+Predictably, then, national implementations of the directive have produced a wide variety of
+different approaches to the problem of TPM protection and copyright exceptions, which have
+largely failed to adequately safeguard public uses of TPM-protected content or to achieve a parallel
+balance of interests in the digital realm (Reichman et al., 2007, p. 984).
+
+The directive permits member states to pursue a ‘‘wait-and-see’’ strategy, taking no immediate
+steps to ensure that the beneﬁciaries of exceptions can actually enjoy them (Gasser, 2006, p. 77).
+Austria, for example, has enacted no exceptions to its broad anti-circumvention provisions, opting
+instead to assume that voluntary and market-driven measures will adequately enable the exercise of
+existing exceptions, and empowering the Minister of Justice and a government department to
+report to Parliament recommending legislative measures if such proves not to be the case. The
+Czech Republic and the Netherlands have similarly left it to the executive power to take
+appropriate measures to safeguard user exceptions only if and when necessary (Commission of
+the European Community, 2007; see also Gasser, 2006, p. 77). Other member states (including
+Finland, Denmark, Estonia, Greece, Lithuania, Slovenia and Hungary) have opted to introduce
+mediation or arbitration proceedings for the beneﬁciaries of exceptions where private negotiations
+fail to facilitate permitted uses. A third approach, taken by Germany, Ireland, Spain, Luxembourg
+and Belgium, has been to establish a right of recourse to the courts for would-be users denied the
+means of beneﬁting from exceptions.46 Finally, a few member states have established an admin-
+istrative complaints procedure.
+
+In the United Kingdom, the new section 296ZE47 allows persons who are prevented by TPMs
+from performing an otherwise permitted act to ﬁle a complaint with the Secretary of State. The
+Secretary of State, acting through the Patent Ofﬁce, will investigate whether any voluntary measure
+or agreement exists in relation to the work and, in the absence of such, may issue a written direction
+requiring the copyright owner to ensure that the complainant can beneﬁt from the permitted act.
+Failure to comply is an actionable breach of statutory duty.
+
+In France, the slow transposition process ultimately saw the establishment, in 2007, of an
+entirely new administrative body, the Autorit ´e de r ´egulation des mesures techniques de protection,
+or ARMTP.48 This independent regulatory agency represents a novel governance structure
+speciﬁcally designed to address the challenges of TPMs in the information economy (Winn and
+Jondet, 2009). In the absence of voluntary measures, cases may be submitted to the ARMPTP by
+consumers, the beneﬁciaries of exceptions, or their representatives. The agency will decide the
+legality of the use of a TPM in the speciﬁc case, subject to appeal, and may order rightholders to
+take necessary steps to allow the exception to be exercised and impose ﬁnancial penalties for failure
+to comply.
+
+On the basis of this brief summary, it is evident that the directive has failed to produce
+signiﬁcant harmonization in this area, but also that it has thus far failed to achieve prescriptive
+parallelism to any signiﬁcant degree. Even in those member states that did opt to enact legislative
+safeguards for user exceptions, the execution of the exception regime is typically cumbersome and
+impractical for the would-be beneﬁciaries (Wang, 2006, p. 243; citing Midgley, 2002). Where
+beneﬁciaries are empowered to seek injunctive relief from the courts, or even to initiate mediation,
+they are invited to embark upon a potentially costly, prolonged and onerous course of action that
+is unlikely to make sense for the average user. Mediation solutions reduce the exercise of permitted
+acts to a matter for negotiation or rightholder authorization not dissimilar to that required in
+
+518
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+respect of restricted acts (Dusollier, 2003b, p. 73). Administrative solutions may be even more
+burdensome: in the United Kingdom, for example, rightholders have no pre-existing obligation to
+facilitate the exercise of permitted acts; the Secretary of State has no obligation to order the
+rightholder to do so; the complainant has no right to appeal the Secretary’s decision; and failure to
+comply with an order merely establishes a right of action, making the pre-requisite complaint
+process little more than an additional administrative hurdle for the would-be beneﬁciary. While the
+enforcement powers of the French ARMPTP, together with the right to appeal its decisions, make
+it perhaps the most interesting initiative, the administrative burden imposed on users may
+nonetheless represent a signiﬁcant barrier to the exercise of permitted acts. In the absence of
+efﬁcient, effective and readily accessible enforcement structures throughout the EU member states,
+the apparent promise of article 6(4) is far from being fulﬁlled.
+
+Beyond Europe: New Zealand’s Example
+Beyond Europe, New Zealand offers an interesting example of a novel solution to the problematic
+interaction of TPM-protection and copyright exceptions. The Copyright (New Technologies)
+Amendment Act 200849 prohibits the distribution of circumvention devices, services and informa-
+tion where it is known that such will, or is likely to, be used to infringe copyright (section 226A).
+Notably, the prohibitions do not extend to acts of circumvention per se, and nor do they protect
+pure access-control TPMs. In addition to the careful circumscription of anti-circumvention rights,
+the act includes positive measures to protect beneﬁciaries of copyright exceptions. First, it explicitly
+states that the rights granted to the issuer of a TPM work ‘‘do not prevent or restrict the exercise of
+a permitted act’’ (section 226D(1)) and that ‘‘[n]othing in this Act prevents any person from using a
+TPM circumvention device to exercise a permitted act’’ (section 226E(1)). Secondly, it introduces
+new provisions enabling a person who wishes to carry out a permitted act to seek assistance from
+the copyright owner and/or a qualiﬁed person in order to circumvent a TPM (section 226E(2)).50 A
+‘‘qualiﬁed person’’ means a librarian of a prescribed library, an archivist of an archive, an
+educational establishment, or any person speciﬁed by the Governor-General by Order in Council
+under a new regulation-making power (section 226D(3)). By empowering certain people to offer
+circumvention services, and by enabling these people to be lawfully supplied with circumvention
+devices, the approach taken by New Zealand goes some way towards ensuring that non-infringing
+activities in respect of TPM-protected works are not merely permitted, but also practicable.51 How
+the system will work in practice remains to be seen.
+
+Anti-Circumvention and the Fate of Fair Dealing in Canada: Problems and Proposals
+
+As countries around the world develop and implement new legislative and regulatory schemes for
+protecting TPMs, the practical and political implications of TPM protection, and the challenges of
+integrating user and public interest exceptions into these protective schemes, become increasingly
+clear. The good news, however, is that Canada is now in an excellent position to beneﬁt from the
+lessons that have been learned elsewhere, and to choose its path into the digital future with the
+beneﬁt of other nations’ hindsight. In this section, I will provide a brief overview of the two ‘‘false
+starts’’ that Canada has made in the race to introduce anti-circumvention protection. I will go on
+to suggest possible solutions to the current impasse—which will also serve as a critique of Canada’s
+previous attempts to introduce TPM protection—and canvas some available means by which we
+may yet achieve prescriptive parallelism, to a greater or lesser degree.
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+519
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Two False Starts
+In a law reform process that began back in 2001, Canadian Heritage and Industry Canada are
+currently formulating what will be the third iteration of proposed anti-circumvention legislation,
+which will follow on the heels of two previous Bills—and two starkly different approaches to the
+protection of TPMs. Bill C-60, which represented the ﬁrst attempt to introduce anti-circumvention
+provisions, was developed under and swept aside with Canada’s Liberal government. Section
+34.02(1) of Bill C-60 sought to establish legal protection for TPMs:52
+
+34.02 (1) An owner of copyright in a work, a performer’s performance ﬁxed in a sound
+recording or a sound recording . . . are, subject to this Act, entitled to all remedies . . .
+that are or may be conferred by law for the infringement of a right against a person
+who, without the consent of the copyright owner . . ., circumvents, removes or in any
+way renders ineffective a technological measure protecting any material form of the
+work, the performer’s performance or the sound recording for the purpose of an act that
+is an infringement of the copyright in it or the moral rights in respect of it or for the
+purpose of making a copy referred to in subsection 80(1) [Emphasis added].
+
+The effect of this provision would have been to make it an infringement to circumvent a TPM,
+but only if this were done for the purpose of an act constituting infringement of the copyright in the
+underlying work.53 This suggests that circumvention for the purposes of fair dealing would have
+remained lawful (Geist, 2005, p. 242). Section 34.02 also contained, in subsection (2), a provision
+establishing the same remedies against a person who ‘‘offers or provides a service to circumvent,
+remove or render ineffective a technological measure protecting a material form of the work’’,
+where that person ‘‘knows or ought to know that providing the service will result in an
+infringement of the copyright or moral rights’’. Although this section would have left some
+uncertainty with regard to the degree of knowledge required,54 the legislative intent was clearly to
+tie liability for the provision of circumvention services to actual acts of copyright infringement.
+Moreover, the bill established no legal limitation on circumvention devices or technologies (Geist,
+2005, p. 242).
+
+Bill C-60 was thus compliant with the WCT, but in a way that recognized—and generally took
+advantage of—the limits and ﬂexibility of article 11 to minimize the potential impact of anti-
+circumvention laws beyond that of existing copyright norms. By linking circumvention liability to
+copyright infringement liability, it proposed an additional level of protection for rightholders
+without substantially widening the net of liability to catch activities that would have been lawful in
+the absence of these additional protections. In doing so, the bill was apparently intended to
+maintain the balance between owners and users struck by traditional copyright norms, and to
+avoid increasing the scope of rights connected to copyright ownership.
+
+It should be noted that Bill C-60 was nonetheless vulnerable to the criticism that traditional
+copyright limits and exceptions were not explicitly protected or positively safe-guarded against the
+operation of the anti-circumvention provisions, never mind the operation of TPMs themselves. To
+the existing fears of copyright infringement suits and the curtailments effected by the proliferation
+of TPMs, Bill C-60 would have added the risk of liability for TPM circumvention—a further threat
+with which to chill uses of protected content. Bill C-60 did not offer to protect users and the public
+from the effects of TPMs and anti-circumvention liability (Geist, 2005, pp. 248–9).55 In this sense,
+the bill offered nothing to proactively maintain the copyright balance against the disruptive impact
+of the widespread use of TPMs.
+
+While the fate of C-60 was sealed with the fall of the Liberal government, the drive towards
+new legislation continued under the new Conservative government. Whereas Bill C-60 tread a
+
+520
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+moderate path with regard to new anti-circumvention provisions, Bill C-61, tabled in 2008, was
+designed to offer ‘‘stronger legal protection for T[P]Ms or digital locks applied by rights owners to
+digital works’’ (Government of Canada, 2008a). While this bill was also destined to die on the
+order paper when a federal election was called in September 2008, it may be a harbinger of what we
+can expect in any future copyright reform bill brought under the re-instated Conservative minority
+government, which continues to proclaim its commitment to new legislation ‘‘to modernize
+Canada’s copyright laws and ensure stronger protection for intellectual property’’ (Government
+of Canada, 2008c).
+
+In contrast to the relatively succinct TPM provisions of Bill C-60 (which amounted to one
+section with three subsections), C-61 contained 13 complex sections with innumerable subsections
+prescribing the broad protection of TPMs and the narrow limits thereto. Notably, Bill C-61 offered
+pure access-control TPMs the same protection as TPMs that restrict protected uses of underlying
+works.56 The bill crossed another important line by prohibiting, in addition to circumvention
+activities and services, devices or technologies that permit the circumvention of TPMs.57 Whether a
+particular technology would be caught by this prohibition was to be determined in light of its
+primary purpose,58 commercial signiﬁcance59 or the manner in which it is marketed.60
+
+Bill C-61 set out speciﬁc exceptions to circumvention liability—as well as numerous exceptions
+to these exceptions—relating to law enforcement or national security (section 41.11), computer
+program interoperability (section 41.12), encryption research (section 41.13), the collection/
+communication of personal information (section 41.14), the security of computer systems/net-
+works (section 41.15), persons with perceptual disabilities (section 41.16), and ephemeral record-
+ings by broadcast undertakings (section 41.17). Thus, for example, a person circumventing a TPM
+for the purpose of encryption research would escape liability only if: it would not have been
+practical to carry out the research without circumventing the TPM; s/he lawfully obtained the
+protected work; s/he informed the copyright owner who applied the TPM (presumably, that s/he
+would be circumventing the TPM for research purposes); and s/he did nothing in relation to the
+underlying work that would constitute an infringement of copyright (section 41.13).
+
+The bill sought to establish the power for the Governor in Council to make additional
+regulations to create further speciﬁc exceptions where technological measures ‘‘would unduly
+restrict competition in the aftermarket sector in which the technological measure is used’’ (section
+41.2(1)). It envisaged the possibility of further regulations restricting liability for acts of
+circumvention (but, notably, not for liability relating to circumvention services or technologies)
+to be made in consideration of an open list of factors, including: whether the prohibition against
+acts of circumvention could adversely affect authorized uses; whether it would adversely affect
+criticism, review, news reporting, commentary, teaching, scholarship or research that could be
+made or done in respect of the work; whether it could adversely affect the market for the
+underlying work; and the work’s commercial availability (section 41.2(2)(a)). An interesting
+provision contemplated the possibility of a positive claim against copyright owners, empowering
+the Governor in Council to make regulations requiring owners to provide access to a protected
+work to persons entitled to beneﬁt from any limitations established in light of these factors (section
+41.2(2)(b)).61
+
+Overall, Bill C-61 failed to reﬂect the lessons readily drawn from the experiences of the United
+States and Europe: it sought to establish broad anti-circumvention rights covering devices and
+services, access- and use-control measures, and to do so without tying these rights to copyright
+infringement; it set out numerous complex exceptions with no general ‘‘fair circumvention’’
+exception; it neglected even to offer lip-service to the preservation of fair dealing rights comparable
+to statements found in article 6(4) of the EU Directive or section 1201(a) of the DMCA; it
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+521
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+ofﬂoaded the responsibility for carving out any more exceptions on the Governor in Council,
+without making clear on what basis such exceptions would be regulated, on whose request, and
+subject to what evidentiary burden;62 and it established no positive obligations for content
+providers, leaving any such obligations to be created through regulation, and only in respect of
+any new exceptions made under this regulatory power. It is also signiﬁcant that ‘‘new’’ exceptions
+that were included in the bill—exceptions for format and time shifting, for example—were made
+subject to non-circumvention provisos that would render them redundant in the face of TPMs,63
+thereby privileging TPMs over the public policy goals that the exceptions were ostensibly designed
+to serve.
+
+Bills C-60 and C-61 thus took practically polemic approaches to the enactment of anti-
+circumvention provisions. While the former bill would have established a new level of protection
+for copyright owners and thereby more than satisﬁed the requirements of the WIPO Treaties, it
+would have done so at a relatively minimalist level, essentially duplicating the scope (if not the
+basis) of liability under existing copyright norms. In contrast, Bill C-61 went signiﬁcantly beyond
+the protections required by the treaties. While C-61 included limitations not articulated in C-60,
+these did not amount to a broad or principled restriction of the scope of anti-circumvention rights;
+rather, the complexity and rigidity of these narrowly constructed exceptions suggested only a
+grudging willingness to make minimal carve-outs to far-reaching prohibitions. In this way, Bill C-
+61 failed to reﬂect the centrality of fair dealing and the public domain in copyright policy, treating
+them instead as marginal elements of the existing system that could be reduced or eliminated to
+better protect owner interests in the digital environment. In doing so, it threatened to signiﬁcantly
+upset the copyright balance established in Canada and articulated by our Supreme Court.
+
+In choosing its approach to the legal regulation of TPMs, Parliament is not constitutionally
+bound to follow the conclusions of the Supreme Court or to pursue the goals of the copyright
+system as deﬁned by the Court—but one might expect that Parliament would be duly inﬂuenced by
+the reasoning of the highest court of the land, and would share its commitment to achieving a
+balanced copyright system (Murray, 2005a, p. 652). As Geist explains, ‘‘[b]y sending a clear
+message about its support for a fair copyright balance [in Th ´eberge], the Supreme Court has
+indirectly provided the most important submission on the current digital copyright reform
+consultations’’ (Geist, 2002; cited in Kerr et al., 2002–3, p. 41). Since 2002, the Court has
+reiterated, expanded on and applied its vision of balance—making further indirect submissions
+to a consultation process that continues today.64 And, indeed, the government claims to have been
+guided, in the copyright reform process, by the principle that ‘‘the rights of those who hold
+copyright must be balanced with the needs of users to access copyright works’’ (Government of
+Canada, 2008b). But Bill C-61 did not reﬂect this principle in any meaningful way: to take the
+principle of balance seriously would be to embrace the goal of prescriptive parallelism, and to
+ensure that fair and lawful dealings are permitted, encouraged and actively facilitated under any
+digital amendments to the copyright regime.
+
+Proposals for Canada: In Pursuit of Prescriptive Parallelism
+In designing Canada’s digital copyright policy, the ﬁrst and fundamental question to ask is whether
+prescriptive parallelism is an appropriate substantive goal of reform: is the overarching aim of
+copyright reform to achieve roughly the same balance of interests in the digital realm as copyright
+has traditionally maintained in the analogue world? The digital shift alters the practical and
+pragmatic considerations at play, but does it alter the normative objectives of our copyright
+system, or the social values that inform it? If we can agree on the validity of prescriptive parallelism
+
+522
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+as a goal, we can approach speciﬁc reforms with a view to achieving this goal to the greatest
+possible extent.
+
+The simplest solution—and in my opinion, the best solution, at least for now—would be to
+resist the pressure to enact anti-circumvention legislation. As Kerr and his co-authors advised in
+2002, the ‘‘[b]est strategy for maintaining a balanced copyright law is to take an approach that best
+preserves the status quo . . . ’’ (Kerr et al., 2002–3, p. 82). While owners and distributors would
+continue to use TPMs to erect fences around content, these fences would not be actively
+encouraged—or ‘‘electriﬁed’’ (Dusollier, 1999)—by the creation of legal prohibitions.
+
+In those jurisdictions that have already enacted anti-circumvention laws, the swift and frequent
+calls for further amendments to correct these new regimes give credence to the claim that such laws
+may still be premature and rife with unintended consequences. The United States has seen several
+attempts to amend the DMCA to better reﬂect the limits of control consistent with traditional
+copyright policy and the Constitution.65 Recent reports in Europe have identiﬁed serious concerns
+with the EU Copyright Directive and its implementation by member states (Akester, 2009; Gowers,
+2006; Guibault et al., 2007). As other legislatures come under increasing pressure to correct
+perceived mistakes in their digital copyright laws, Canadians should take some comfort in the
+possibility that inaction may yet be proved to have been the best course of action. In Israel, which,
+like Canada, has signed but not ratiﬁed the WIPO Treaties, a ‘‘wait-and-see’’ approach has
+apparently found favour; recent amendments to the copyright legislation simply did not include the
+introduction of anticipated TPM protection measures (see deBeer, 2009, p. 6).66 An ofﬁcial
+statement by the Government of Israel explained this inaction with reference to the widespread
+criticism of TPMs and doubts as to their continued commercial relevance (The State of Israel,
+2009; cited in deBeer, 2009, p. 7, n. 22). The Government of Israel was correct to assert that, absent
+an international obligation to enact legal protections for TPM, other nations have no legitimate
+basis for complaint against a nation that opts to ‘‘wait and see’’ (The State of Israel, 2009, pp. 8–9).
+Even this approach, however, leaves unanswered the question of how to actively accommodate
+fair and lawful uses of protected works to ensure the appropriate balance between owners’ rights
+and the public interest. The protection of TPMs may be unnecessary, but it may still be that the
+public needs legal protection from TPMs (Kerr et al., 2002–3, p. 79). In this sense, the absence of
+anti-circumvention laws is not a genuine ‘‘solution’’ to the problem of reconciling TPMs and user
+rights; a balanced copyright system may require appropriate steps to be taken to protect permitted
+acts. But from a political perspective, the government is less likely to face pressure to create a
+system to safeguard lawful uses of protected content if it simply declines to enter the fray. Rather
+than buttressing the interests of either owners or users, the use and abuse of technological measures
+would be left to run their course subject to existing legal norms. Particularly in light of the costs
+and complexities of the alternatives canvassed below, this approach surely has much to recommend
+it.
+
+If the Canadian government chooses to include anti-circumvention provisions in the next
+reform bill, the foregoing discussion suggests some insights into the shape that these provisions
+should take. Most fundamentally, TPM protection should be carefully circumscribed to ensure
+minimum disruption to the existing copyright balance. Particularly if motivated by a primarily
+political desire to ratify the WIPO treaties, this means that Parliament should proceed in a way that
+minimally satisﬁes these treaties’ requirements (Kerr et al., 2002–3, p. 77; Murray and Trosow,
+2007, p. 205).
+
+One option that has received little consideration is the possibility of making the legal
+protection of TPMs subject to certain formalities. By establishing a new TPM registry at the
+Canadian Intellectual Property Ofﬁce (CIPO), for example, it would be possible to subject TPM
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+523
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+protection to appropriate requirements, which could relate to the effectiveness and/or restrictive-
+ness of the TPM for which protection is sought, and/or condition protection on the deposit of a
+TPM-free digital copy, or a ‘‘digital key’’ or decryption code (or even a guarantee that such will be
+made available to facilitate lawful uses on request). CIPO or the registrar would then be well placed
+to act as an independent intermediary in the resolution of access disputes.67
+
+If Parliament prefers to proceed with automatic protection for TPMs, the original bill C-60
+provides a decent example of what a minimalist approach might look like. In application, this
+approach would produce TPM protections that closely align with the existing rights of copyright
+owners, essentially reinforcing copyright proper by limiting unlawful circumvention to acts
+undertaken for purposes of copyright infringement. Consistent with this minimalist approach,
+protection would be afforded only to use-control TPMs. This could be achieved by deﬁning
+technical measures in terms of their ability to inhibit or prevent infringing acts, as was done in Bill
+C-60, and ideally with the explicit exclusion of measures that control access to works for non-
+infringing purposes, as seen in the New Zealand legislation.68
+
+Furthermore, a minimalist approach to TPM protection would not include device prohibi-
+tions. While a prohibition on the manufacturing and distribution of circumvention technologies
+would increase the ease and efﬁciency with which content providers could prevent circumventions,
+such technologies must be available to those who wish to access and use protected works in non-
+infringing ways. In CCH, the Supreme Court denied the plaintiff copyright owners the easiest route
+towards preventing a widespread, potentially infringing activity because the result would have been
+to shift the copyright balance too far in favour of owners’ rights, and to interfere with ‘‘the proper
+use of copyrighted works for the good of society as a whole’’ (CCH, paragraph 41). The same
+considerations and commitment to balance ought to warn us away from the enactment of
+circumvention device prohibitions as a shortcut to restricting circumvention activities. Where a
+distributor of circumvention technologies ought to be liable for subsequent infringement by third
+parties, that person will incur liability for ‘‘authorizing infringement’’ under existing copyright
+norms.69
+
+Should Parliament choose to take the alternative route of restricting circumvention devices, a
+reasonably balanced system would require a restrictive deﬁnition of technologies caught by the
+prohibition, which would not unduly impede the development and availability of dual-use
+technologies or technologies with substantial non-infringing uses. Certainly, any anti-device
+provision must apply only to those devices designed primarily for the purpose of circumventing
+TPMs, or those with no (or limited) commercial purpose beyond the circumvention of TPMs. It
+should also be stressed that device prohibitions would make even more pressing the need for an
+adequate mechanism or infrastructure to facilitate fair uses by making available to the public the
+means by which such uses could be carried out.70
+
+Finally, any anti-circumvention provisions in Canada should operate ‘‘without prejudice’’ to
+the exceptions contained in the Copyright Act. Tying circumvention liability to copyright
+infringement goes part way to achieving this goal by implicitly permitting the lawful circumvention
+of TPMs for the purposes of fair dealing and other permitted acts. However, it would be preferable
+to see an explicit statement that circumvention is not prohibited when undertaken for lawful
+purposes including fair dealings.
+
+In order to ensure that fair dealings and other permitted acts are not only lawful on the books
+but also possible in practice, a revised Copyright Act should establish positive obligations for
+rightholders to facilitate fair and lawful dealings with TPM-protected works.71 This could take the
+form of a basic requirement—similar to that found in the German law72—that owners facilitate
+lawful acts in relation to TPM-protected works. Reichman and his co-authors suggest a ‘‘reverse
+
+524
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+notice-and-takedown’’ regime which operates on a similar premise: ‘‘users would be able to give
+copyright owners notice of their desire to make public interest uses of technically protected
+copyrighted works, and right holders would have the responsibility to take down the TPMs or
+otherwise enable these lawful uses’’ (Reichman et al., 2007, p. 985).73 Such a system must make
+provision for situations where owners do not take adequate steps to make the work available
+within a reasonable time, or where users have privacy or other concerns that make it unreasonable
+to expect them to request assistance from the copyright owner. There are various options at this
+stage, none of which is, admittedly, ideal. It may not be sufﬁcient to permit a would-be user to
+initiate a legal action before the court, or to instigate formal arbitration or mediation proceedings,
+particularly if relief is limited to the speciﬁc party seeking it. A less onerous or costly route should
+be found if the goal is to prevent TPMs from unduly inhibiting lawful uses.
+
+An appropriate mechanism for the enforcement of exceptions may require the identiﬁcation of
+an intermediary body or bodies to facilitate fair dealings and permitted acts. One approach would
+be simply to require unencrypted copies of works to be lodged at certain public institutions
+(libraries, educational institutions, etc.) either on request or by legal mandate. Under such a
+scheme, notice requirements on protected copies could indicate the sources of TPM-free versions.74
+Alternatively, an intermediary could be entrusted with providing circumvention services or devices
+on request, which would yield traceable copies of protected works. In one version of this model, the
+assigned body would perform a gatekeeper role with the responsibility of making initial
+determinations as to the merit of applicants’ claims; another version would reduce this role to a
+merely ministerial one whereby circumvention services and devices would be automatically
+distributed in response to recorded requests (Besek, 2004, pp. 494–5). In this vein, Dan Burk
+and Julie Cohen have proposed a ‘‘key escrow’’ system in which an independent third party
+institution would be responsible for providing digital keys to beneﬁciaries of copyright limitations
+(Burk and Cohen, 2001). In order to best replicate traditional fair use practices, Burk and Cohen
+envisage a simple online application procedure, with keys being provided on request without
+assessment of the lawfulness of dealings, and with any records being subject to strict privacy
+conditions. A middle road could see the intermediary charged with responsibility for obtaining
+declarations of lawful use from applicants, and ensuring only that such declarations meet
+applicable statutory requirements. The declaration could be required to contain, for example,
+the applicant’s identity, a statement of qualiﬁed status, and the speciﬁc exemptions of which the
+applicant intends to take advantage (Besek, 2004, pp. 495–6).75
+
+The development of an appropriate lawful use infrastructure is a complicated proposition
+fraught with problems of both practicality and principle. Difﬁcult questions would surround the
+identiﬁcation of appropriate intermediaries or ‘‘qualiﬁed’’ persons or institutions to take on the
+‘‘gatekeeper’’ function. To encumber existing public institutions such as libraries, archives or
+educational establishments with this additional responsibility may not be appropriate or viable,
+particularly if the intermediary function is to demand some degree of legal and/or technical
+expertise. It may require the creation of a new administrative agency, such as that recently
+constituted in France, or the assignation of new powers and responsibilities to an existing body
+such as the Copyright Board, for example. In any case, the initial and ongoing operational costs
+could be substantial. There is also the very real risk that such infrastructural costs could prove
+unwarranted, either because the system fails to adequately stem the ﬂow of unauthorized copies, or
+because changes in market practices quickly render it redundant.
+
+From a principled perspective, the identiﬁcation of too few or the wrong intermediaries could
+result in a ‘‘centralization of copyright limitations where only a few actors determine who beneﬁts
+from such limitations, and for what purpose’’ (Bechtold, 2004, p. 376). In addition, a system that
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+525
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+requires users to identify themselves and their intended activities in order to beneﬁt from
+exceptions inevitably raises signiﬁcant privacy concerns that would have to be overcome (Burk
+and Cohen, 2001, pp. 63–5). Perhaps most fundamentally, however, it is all but impossible to
+conceive of a lawful use mechanism that does not have a chilling effect on fair dealing practices by
+increasing user transaction costs and inhibiting spontaneous uses. Traditionally, users have been
+able to ‘‘use now, litigate later’’; TPM protection offers pre-emptive control to owners, forcing
+would-be users to ‘‘stop now, establish the right-to-use later’’. The prior restraints imposed by
+technical barriers undercut the agency and autonomy of users (Gillepsie, 2007, pp. 255–61),
+ensuring that even the best examples of anti-circumvention legislation fail to give effect to the
+subtleties and ﬂuidities of creative practices.
+
+In light of these concerns, any new anti-circumvention regime must incorporate tools to permit
+continuous monitoring of its application and effects on user practices. Procedures should be put in
+place to ensure the systematic identiﬁcation and assessment of the impact of TPM protection
+(Gasser, 2006, pp. 104–5). These should include, in addition to periodic and frequent adminis-
+trative review, a simple, accessible and affordable mechanism for members of the public to raise
+concerns about restrictions on lawful uses. Particularly if the anti-circumvention regime operates
+with a system of enumerated narrow exemptions, it will be crucial to offer an efﬁcient and impartial
+process to allow the prompt regulation of new exceptions in response to public concerns.
+
+Digital Locks and the Limits of Prescriptive Parallelism
+Whatever legal framework emerges from the digital copyright reform process, the problems and
+implications of TPMs are likely to be more far-reaching and intractable than these proposed
+legislative ‘‘solutions’’ may intimate. After all, simply to accept the logic of additional legal
+protection for TPMs is to accept that the use of TPMs should be supported (both encouraged and
+strengthened), and so to concede a role for digital locks in our copyright system. And so it would be
+remiss to conclude without highlighting a few ‘‘bigger picture’’ considerations that underscore the
+risks and potential impact of such a concession.
+
+First, we should be aware of the risk that legal protection for TPMs will shore up the rights of
+existing owners and generally maintain the status quo for many of the powerful industry actors
+presently pushing for legislative reform. The creation of anti-circumvention rights responds to the
+perceived threats posed by networked technologies, with stronger entitlements intended to
+guarantee a foothold for existing stakeholders in emergent markets (Ganley, 2004, p. 331; citing
+Samuelson, 2003, p. 169). Anti-circumvention laws may therefore have an entrenchment effect,
+with the possible consequence of prematurely foreclosing the emergence of new industry actors and
+the evolution of new models or avenues of dissemination.76 While it is obvious that existing
+industry stakeholders would hope to achieve such entrenchment, it is by no means clear that
+policymakers should share this goal. To the extent that policymakers adopt the defensive posture
+of rightholders and established industry actors, they risk circumscribing the creative, democratic
+and participatory opportunities that these technologies present for society at large.
+
+And if TPM protection appears necessary to strengthen the control offered by existing
+copyright law, we should consider the further risk that the creation of new rights will only
+obfuscate the more fundamental failings of copyright in our networked society. Proponents of anti-
+circumvention legislation frequently point to the massive increase and pervasiveness of copyright
+infringing activities among members of the general public as a reason to support TPM protection.
+We must, however, take care not to bandage over wounds that are in need of proper attention. The
+pervasiveness of end-user infringements points to a growing disconnect between social norms (old
+and emerging) and legal norms (traditional and proposed). This increasingly chasmic divide
+
+526
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+suggests an even greater cause for concern: namely, the changing role and relevance of copyright
+law in everyday cultural exchange and creative play, and the way in which this challenges the
+normative foundations of the copyright system. Strengthening existing laws and enacting new ones
+is a quick but probably ﬂeeting ﬁx to a larger socio-normative quandary. Where established and
+emerging user practices challenge the coherence of social and legal norms, the latter become
+increasingly costly and difﬁcult to enforce. The imposition of legal norms that are not sufﬁciently
+internalized by many or most citizens could threaten the perceived legitimacy of the copyright
+system, and compromise the rule of law more generally (Gervais, 2005, pp. 48–53).77
+
+We should also appreciate the extent to which TPMs and their protection threaten to change the
+established rules of the game. Leaks, limits and the tough practicalities of enforcement have always
+been an important part of the architecture of the copyright system and the way that it achieves its so-
+called balance. To the extent that TPMs are lauded as practical means by which to ameliorate these
+problems, we should ask whether they are problems that need solving. If copyright were to operate in
+practice in perfect harmony with copyright law as it exists on the book, the system would be far from
+perfect: perfect control is a fallacious ideal because copyright as a system works better when it
+‘‘leaks’’.78 Similarly, the ambiguity of legal doctrines such as fair dealing is not a ﬂaw but a vital
+feature of the system. The boundaries of fair dealing are ﬂuid, its application context-speciﬁc, and its
+scope subject to interpretation: as a result, many uses will be routinely undertaken and remain un-
+litigated because they belong in the penumbra of doubt that makes them possibly fair—and possibly
+infringing (see Gillepsie, 2007, p. 59). Broad TPM protections will permit the indeterminacy of legal
+doctrine—which has been so central to the preservation of breathing space for fair dealing practices—
+to be supplanted by the determinacy of technology.
+
+Although better control does not necessarily make a better system, the quest for perfect
+control ﬁnds legitimation in the proprietary rhetoric of IP. Thus, for example, protected content is
+cast as private property, and the circumvention of TPMs is equated with breaking and entering: it
+is no more permissible, according to some proponents of anti-circumvention law, to circumvent a
+TPM to exercise a permitted act, than it is to break into a car to make fair use of a manuscript left
+inside. With every such analogy, a counter-analogy can be found: it is no more permissible, one
+might say, to employ TPMs to prohibit access to lawful users than it is to erect fences around
+public land. The inappropriate extension and use of such metaphors can obscure questionable
+assumptions and unsubstantiated claims, as can reliance on purported parallels without drawing
+adequate distinctions.79 And so, ﬁnally, there is the risk that added protection for TPMs will
+further entrench the misleading proprietary rhetoric that has pervaded the TPM debate, and lend
+weight to the perception of IP as absolute dominion (see Ganley, 2004, pp. 331–2). It is crucial
+that we identify and challenge the expansion (and frequent misapplication) of property-based
+rhetoric that has and will accompany new claims to right, and avoid the muddied moralistic
+reasoning that such rhetoric is intended to evoke. The validity of claims and their policy rationales
+should be assessed on their own terms and with the public policy goals of the copyright system
+clearly in view.
+
+Conclusion
+
+Canadian policymakers continue to contemplate the appropriate design for a new layer of rights
+that will afford greater protection to owners in the digital environment. In my opinion, the clearest
+route towards retaining roughly the same balance between copyright owners and users in this new
+environment would be, ﬁrst, to refrain from creating anti-circumvention rights, and second, to
+establish an effective system to facilitate lawful acts in relation to TPM-protected works. The latter
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+527
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+would require the enactment of a positive obligation for rightholders to provide the necessary
+means for users to take advantage of recognized exceptions, and would beneﬁt from the creation of
+an intermediary body to receive user requests and distribute circumvention devices or services or
+TPM-free copies. Under such a model, owners would continue to enjoy the advantages of technical
+measures to reinforce their control over legally protected works, while users would be both
+practically able and legally entitled to make lawful uses of these works.
+
+If anti-circumvention rights are to be created, however, I have suggested that it may be possible
+to substantially meet the principled demands of prescriptive parallelism by carefully constructing
+such rights around the existing corner-stones of Canadian copyright policy. These rights could and
+should be made contingent on certain formalities or guarantees; directly tied to copyright
+infringing activities so that circumvention for non-infringing purposes remains lawful; restricted
+to circumvention activities so that circumvention technologies are not per se restricted; made
+subject to broad and explicit fair and lawful use exceptions; and conditional on accessible
+mechanisms to ensure the practical availability of these exceptions. To the extent that such
+proposals sound unwieldy, this should be heard as a cautionary note not against the requirements
+and limits described, but rather against any legislative intervention to reinforce TPMs through the
+copyright system.
+
+While an ideal solution to the challenge of preserving the copyright balance remains elusive,
+canvassing these possibilities reveals one thing with certainty: the anti-circumvention provisions of
+Bill C-61 were far from an ideal solution. Canada’s copyright balance of rights and exceptions will
+be preserved in the digital environment only by resisting external pressures, by identifying and
+learning from best and worst practices in other jurisdictions, and most importantly, by taking
+seriously the centrality of fair dealing and the public domain within copyright law.
+
+Whatever broad principles and policies may ultimately inform the shape of anti-circumvention
+regulations, it should be borne in mind that, fundamentally, TPMs confer primacy to private
+ordering. While proponents of anti-circumvention laws have ‘‘taken cover under the umbrella of
+copyright rhetoric’’ (Gillepsie, 2007, p. 274), the legal protection of TPMs will privilege private
+efforts to control access, distribution, use and consumption of digital content, marginalizing the
+public interest and social welfare considerations that have informed the development of the
+copyright system and its delicate balance. The proliferation of TPMs is altering the way in which
+we experience and engage with cultural resources in our networked society—but a new layer of
+legal entitlement attached to TPMs would alter the role that copyright plays in regulating our
+cultural life.
+
+From a socio-cultural perspective, the larger threat so readily obscured by practical pleas and
+political arguments is that, through a combination of technical pragmatism and misguided policy,
+we fail to realize the full beneﬁts and potential (fulﬁll the promise, if you will) of the digital era. In
+Robertson v Thomson Corp.,80 Abella J considered copyright’s capacity to ‘‘keep pace with
+technological developments to foster intellectual, artistic and cultural creativity’’, and stated that,
+when considering how to regulate the internet and new technologies, ‘‘the public beneﬁts of this
+digital universe should be kept prominently in view’’.81 Citing Geist (2006, p. 9), the minority
+judgement continues: ‘‘The Internet and new technologies have unleashed a remarkable array of
+new creativity, empowering millions of individuals to do more than just consume our culture,
+instead enabling them to actively and meaningfully participate in it’’.82 Such statements seem to
+hold promise of a copyright system that respects and reﬂects the transformative possibilities of new
+technologies rather than resisting and constraining the emerging cultural practices that these
+technologies permit.83 As we consider reforming our copyright laws in response to the digital shift,
+we should be committed to realizing this promise.
+
+528
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+About the Author
+
+Carys J. Craig, LL.B.(Hons), LL.M., S.J.D., is an Associate Professor of law at Osgoode Hall Law
+School, York University, in Toronto, Canada, where she teaches in the ﬁeld of IP; e-mail:
+ccraig@osgoode.yorku.ca
+
+Notes
+
+The author wishes to thank the organizers of the University of Toronto 2009 Copyright Symposium (part of
+the Centre for Innovation Law & Policy’s Microsoft Information Society Project). In particular, thanks go to
+Abraham Drassinower and Andrea Slane for the opportunity to participate, and to Richard Owens for his
+challenging counter-arguments. A debt of gratitude is also owed to Tamsin Thomas for her research and
+editorial assistance.
+
+1 This is an important conceptual distinction, if not always a practical one. As Kerr et al. (2002–3, p. 13)
+
+explain, in reality, TPMs often display use control and access control characteristics, making the
+distinction difﬁcult to maintain, and complicating any effort to legislate activities in relation to one kind
+of TPM and not the other.
+
+2 Notably, the Canadian copyright balance, as articulated by the Supreme Court of Canada in Th ´eberge v
+
+Galerie d’Art du Petit Champlain Inc. 2002 SCC 34 (Th ´eberge), preserves, as an equal and distinct
+objective, providing a just reward for authors. I have argued elsewhere that the provision of individual
+reward can and should be subsumed within the general public goal of encouraging the creation and
+dissemination of intellectual works (see Craig, 2002), but such a conclusion is not necessary to support
+the argument advanced here.
+
+3 The teleological argument that underlies the demands for stronger legal rights is neatly articulated by
+James Boyle (2008): ‘‘[T]he strength of intellectual property rights must vary inversely with the cost of
+copying’’, from which it appears to follow that ‘‘as copying costs approach zero, intellectual property
+rights must approach perfect control’’ (pp. 60–1).
+
+4 The Working Group reasoned:
+
+[L]egal protection alone will not be adequate to provide incentive to authors to create and
+to disseminate works to the public. Similarly, technological protection likely will not be
+effective unless the law also provides some protection for the technological processes
+and systems used to prevent or restrict unauthorized uses of copyrighted works. The
+Working Group ﬁnds that prohibition of devices, products, components and services that
+defeat technological methods of preventing unauthorized use is in the public interest and
+furthers the Constitutional purpose of copyright laws (White Paper, 1995, p. 230, emphasis
+added).
+
+5 The WCT and WPPT are known together as the WIPO Internet Treaties.
+6 A striking example is the elimination of a draft article that would have recognized a right of copyright
+
+owners to control temporary reproductions of their work in a computer’s RAM.
+
+7 For a detailed account of the US agenda at WIPO and its impact on the resulting treaties, see Samuelson
+(1997). With regard to the regulation of circumvention technologies speciﬁcally, see Litman (2001, pp.
+129–33).
+
+8 Article 18 of the WPPT, supra n. 5, reads:
+
+Contracting Parties shall provide adequate legal protection and effective legal remedies
+against the circumvention of effective technological measures that are used by performers
+or producers of phonograms in connection with the exercise of their rights under this Treaty
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+529
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+and that restrict acts, in respect of their performances or phonograms, which are not
+authorized by the performers or the producers of phonograms concerned or permitted by law.
+
+9 Samuelson argues that US law would have satisﬁed article 11 obligations without the enactment of the
+
+Digital Millenium Copyright Act.
+
+10 This interpretation of the text of article 11 is not without its critics. As Kerr et al. (2002–3) acknowledge,
+
+the article could be read to mean that protected TPMs include those which restrict acts in relation to
+works that are not authorized by authors (i.e. as well as those restricting acts that are not permitted by
+law) (p. 36).
+
+11 Howard Knopf (2008) cites in support J. Craig Barker:
+
+The effect of signature is not, as one might expect, to bind a state to the terms of a treaty.
+. . . A state that has signed, but not yet ratiﬁed, a treaty is bound not to do anything
+contrary to the objects and purposes of that treaty before ratiﬁcation or withdrawal of
+signature. However, a state is not bound to follow the terms of a treaty in their entirety
+until ratiﬁcation (2002).
+
+12 The text continues: ‘‘the ratiﬁcation process would only be considered after further work has been
+
+completed’’. See Government of Canada (2008a).
+
+13 However, not everyone is a critic of such a development. See, e.g. Bell (1998).
+14 See Ginsburg (2001):
+
+The ‘‘copyright balance’’ is hardly immutable . . . It is far from apparent why the ‘‘balance’’ in
+force from the advent of [mass market copying] devices should be more normative and less
+contingent that the prior ‘‘balance’’, or than the now emerging balance (p. 46).
+
+Notably, Ginsburg does not present the access-right as a wholly new creation of the digital era, but rather
+suggests that it was implicit in the reproduction and distribution rights in the days before mass copying
+devices. See also Heide (2001) and Olswang (1995).
+
+15 2004 SCC 13 (2004) 1 S.C.R. 339 (CCH, cited to S.C.R.).
+16 I should note that fair dealing is best understood as part of the public domain, and has been recognized
+by the Supreme Court of Canada as such. In Th ´eberge, supra n. 2, Binnie J opined that the exceptions to
+copyright infringement enumerated in the Copyright Act ‘‘seek to protect the public domain in
+traditional ways such as fair dealing for the purpose of criticism or review and to add new protections to
+reﬂect new technology, such as limited computer program reproduction and ‘‘ephemeral recordings’’ in
+connection with live performances’’ (paragraph 32).
+
+17 Copyright Act, R.S.C. 1985, c. C-42 [online]. Available at hhttp://laws.justice.gc.ca/en/C-42/i [Accessed
+
+October 2009].
+
+18 There are therefore three hurdles to be met by a defendant who claims to have dealt fairly with a work:
+
+ﬁrst, the purpose must be one of those listed in the act; second, the dealing must be fair; and ﬁnally,
+sufﬁcient acknowledgement must have been given where statutorily required.
+
+19 ‘‘[T]he purpose of copyright law was to balance the public interest in promoting the encouragement and
+dissemination of works of the arts and intellect and obtaining a just reward for the creator’’ (CCH, supra
+n. 15, paragraph 23).
+
+20 The Court allowed the defendant Library to claim a ‘‘research’’ purpose in the provision of copying
+services to its patrons. In recognition of the public purposes of the Copyright Act, the Court opined that a
+more inclusive approach to applying the fair dealing defence was necessary.
+
+21 In order to be fair, a dealing must be for the purpose of research, private study, news reporting, criticism
+
+or review; and it must be ‘‘fair’’, which is ‘‘a question of fact and depends on the facts of each case’’
+
+530
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+(CCH, supra n. 15, paragraph 52). Although there is no ‘‘set test’’, determinations of fairness involve
+consideration of several factors, which may include (1) the purpose of the dealing, (2) the character of the
+dealing, (3) the amount of the dealing, (4) alternatives to the dealing, (5) the nature of the work, and (6)
+the effect of the dealing on the work (ibid., paragraph 53).
+
+22 Digital Millennium Copyright Act, Pub.L. No. 105–304, Title I, 112 Sta. 2860 (1998), codiﬁed at 17
+U.S.C. section 1201(a)-(b) (1999) (DMCA) [online]. Available at hhttp://www.copyright.gov/legislation/
+dmca.pdfi [Accessed October 2009]. Litman (2001) comments:
+
+Copyright owners who want to ensure that they control—and can charge money for—any
+appearance of their works in any computer anywhere . . . were able to persuade Congress to
+pass the Digital Millennium Copyright Act, which encourages the use of technological
+protections to facilitate a pay-per-view, pay-per-use system (p. 27).
+
+23 Ultimately, in recognition of all that is currently unknown and unforeseeable, Kerr and colleagues’ report
+advised against the implementation of any new legal measures in Canada to protect TPMs for the time
+being.
+
+24 Kerr et al. (2002–3) note that legal protection for TPMs is inherently contrary to the principle of media or
+
+technology neutrality.
+
+25 In its Copyright Reform ‘‘Backgrounder’’, the Government of Canada (2008b) states:
+
+The Internet has threatened the ability of rights holders to prevent the unauthorized use of
+works and other protected subject matter. People around the world have taken advantage
+of the Internet to access content that is available in user-friendly forms. This access is often
+made through new legitimate services and platforms, and also via free alternatives, both
+legitimate and illegitimate, to the traditional channels of distribution of copyright material.
+
+See also Barry B. Sookman (2005): ‘‘TPMs are essential to limiting the ease of carrying out copyright
+infringement in the digital environment. Without adequate legal protection and effective legal remedies
+against the circumvention of TPMs, [the] goals [of Canadian copyright policy] will be undermined’’ (p. 26).
+
+26 See, e.g., Pamela Samuelson (1999):
+
+Clinton Administration ofﬁcials, bowing to the wishes of Hollywood and its allies, opted
+. . . to support an unpredictable, overbroad, and maximalist set of anti-circumvention
+regulations . . . . It was, in short, not the needs of the digital economy that drove adoption
+of the anti-circumvention provisions in the DMCA. Rather, what drove the debate was
+high rhetoric, exaggerated claims, and power politics from representatives of certain
+established but frightened copyright industries (p. 533).
+
+27 While 1201(a)(2) prohibits trafﬁcking in devices that circumvent access controls, 1201(b) prohibits
+trafﬁcking in circumvention devices designed or produced to circumvent TPMs that protect the exclusive
+rights of copyright holders in the Copyright Act (e.g. those measures that copyright owners employ to
+prevent unauthorized reproduction of the work).
+
+28 Samuelson (1999) argues that ‘‘the enumerated exceptions in the act-of-circumvention ban are unduly
+
+narrow and inconsistent with framework principles’’ (pp. 537–46).
+
+29 The list also includes: circumvention to achieve interoperability of computer programs (section 1201(f));
+circumvention to prevent minors from accessing material on the internet (section 1201(h)); circumvention
+when either the technical measure or the work collect or disseminate personally identifying information
+about the user’s online activities (section 1201(i)); circumvention to test the security of a computer,
+computer system or network (section 1201(j)). Note that only three of these exceptions apply to one or
+both of the anti-device rules: the exception for reverse engineering may, subject to limitations, permit a
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+531
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+person to develop and make available the means of circumventing both access- and rights-control TPMs
+to achieve interoperability; encryption research and security testing exceptions are, subject to limitations,
+available for the development and distribution of devices necessary to circumvent access-control
+measures only.
+
+30 For example, an exemption exists for ‘‘[c]omputer programs in the form of ﬁrmware that enable wireless
+telephone handsets to connect to a wireless telephone communication network, when circumvention is
+accomplished for the sole purpose of lawfully connecting to a wireless telephone communication
+network’’. All six exemptions can be found online. Available online at hhttp://www.copyright.gov/1201/
+2006/index.htmli [Accessed November 2009]. The fourth anti-circumvention rulemaking proceeding
+(2009) is in progress at the time of this writing.
+
+31 Herman and Gandy Jr. (2006) provide a fascinating account of the emergence and implementation of this
+procedure, criticizing the scheme for ‘‘taking the responsibility for ensuring fair use away from the courts
+and giving it to an obscure, relatively toothless rulemaking process’’, and ‘‘leaving wider fair use concerns
+without a venue’’ (p. 188).
+
+32 For a number of illustrative examples of restrictions imposed by the DMCA, see Kerr et al. (2002–3, pp.
+69–74). A full list of DMCA cases that have presented fair use, free speech and privacy concerns can be
+found online. Available at hhttp://www.eff.org/issues/dmcai [Accessed November 2009].
+
+33 111 F. Supp. 2d 294 (Southern District of New York 2000).
+34 Sub. nom. Universal City Studios, Inc. v Eric Corley, 273 F.3d 429 (2nd Cir. 2001) (Corley).
+35 Ibid., p. 429.
+36 71 Fed. Reg. 68472, 68473 (27 November 2006).
+37 Directive 2001/29/EC on the Harmonisation of Certain Aspects of Copyright and Related Rights in the
+Information Society, art.6 2001 O.J. (L 167) 10 (Copyright Directive) [online]. Available at hhttp://eur-lex.
+europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2001:167:0010:0019:EN:PDFi [Accessed October 2009].
+In accordance with article 6(3), the protection encompasses the act of circumvention and trafﬁcking in
+devices and services in relation to both copyright control measures and access control measures.
+
+38 Reichman et al. identify article 6(4) as ‘‘one dimension of parallelism in the EU Directive’’. Reichman
+cites Hugenholtz (2000): ‘‘[Article 6(4)] is presumably intended to reconcile the interests of right owners
+employing technical protection measures with the interests of users wishing to beneﬁt from copyright
+limitations’’ (p. 501).
+
+39 ‘‘‘Fair use by mandate’ describes circumstances in which rightholders are directed to enable non-infringing
+uses but not necessarily given speciﬁc instructions as to how that should be done’’ (Besek, 2004, p. 492).
+40 See Dusollier (2003a): ‘‘Would any measure, even a minimal one, free the State from its legislative duty to
+safeguard the public interest? If it did, too much unrestrained power would go to authors and other rights
+holder of copyrighted works’’ (p. 53).
+
+41 Article 6(4), Copyright Directive, supra n. 38.
+42 The intended scope of this carve-out is not entirely clear. For example, does an online music store qualify
+
+as an interactive on-demand service? See Gasser and Girsberger (2004, p. 25) and Brown and Bohm
+(2003) (describing this as ‘‘a dramatic reduction of copyright users’ rights that needs urgent revision in the
+review of the Directive’’ [p. 21]); and Dusollier (2003a, p. 54).
+
+43 Included are exceptions concerning: speciﬁc reproductive acts by libraries, educational establishments,
+
+museums or archives without commercial advantage; certain acts in respect of ephemeral recordings;
+reproductions of broadcasts by social institutions for non-commercial purposes; certain illustrative uses
+in teaching or scientiﬁc research; certain uses for the beneﬁt of persons with a disability; and certain uses
+for the purpose of public security. On the apparently arbitrary nature of this selection (see Guibault et al.,
+2007, p. 110; cited in Reichman et al., 2007, at n. 312; see also Dusollier, 2003a, p. 53).
+
+532
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+44 See also Reichman et al. (2007): ‘‘[T]he failure to mandate the adoption of a wide range of exceptions
+
+undermines the effectiveness of Article 6(4) in achieving its general goal of prescriptive parallelism’’
+(p. 1043).
+
+45 Compare with Dusollier (2003a): ‘‘Behind a balanced, publicly oriented exterior . . . lies a private-
+orderings model in which author interests are privileged and preserved’’ (p. 55). See also Wiese (2002):
+
+[T]he Directive permits a scenario where there is virtually nothing left of the traditional
+copyright balance: a world where fair use rights are dead since most circumvention acts and
+all circumvention devices are prohibited; a world where copyright law would be replaced by
+technological monopolies and electronic contracts (p. 151).
+
+46 Pursuant to Section 374 of the Irish Copyright and Related Rights Act (2000) beneﬁciaries of exceptions
+‘‘may apply to the High Court for an order requiring a person to do or to refrain from doing anything the
+doing or refraining from doing of which is necessary to ensure compliance with the provisions of this
+section’’ (Gasser, 2006, p. 79). The act is available online at hhttp://www.irishstatutebook.ie/2000/en/act/
+pub/0028/index.htmli [Accessed November 2009]. Section 95b(2) of the German Law for the Regulation
+of Copyright in the Information Society similarly provides right to claim from rightholders the necessary
+means to beneﬁt from exceptions [online]. Available at hhttp://www.urheberrecht.org/topic/Info-RiLi/
+ent/Bundesrat_Drucksache_271_03.pdfi [Accessed November 2009]. Section 71 quinquies(2) of
+Luxemburg’s revised Law on Copyright, Neighbouring Rights and Databases entitles beneﬁciaries to
+take injunction proceedings [online]. Available at hhttp://www.wipo.int/clea/en/
+text_pdf.jsp?lang=FR&id=2933i [Accessed November 2009].
+
+47 Added to the Copyright, Designs and Patents Act 1988 by the Copyright and Related Rights Regulations
+
+2003, S.I. 2003/2498 (UK). For further information see Shah (2004).
+
+48 Created by the Loi sur le Droit d’Auteur et les Droits Voisins dans la Soci ´et ´e de l’Information
+(DADVSI). The body consists of six members appointed for a six-year term after designation by their
+respective bodies: see Decree of 4 April 2008 concerning the Regulatory Authority on technical protective
+devices created by article L. 331–17 of the Intellectual Property Code, published in the Journal Ofﬁciel of
+5 April 2008; see also Berbinau (2007) and Blocman (2007).
+
+49 Copyright
+
+(New Technologies) Amendment Act 2008 No. 27 [online]. Available at
+
+www.legislation.govt.nz/act/public/2008/0027/latest/whole.html#dlm1122502i [Accessed February
+2010].
+
+50 Pursuant to subsection 226E(2)(b), the user may engage a qualiﬁed person to exercise the permitted act
+on his or her behalf only if the copyright owner or the exclusive licensee has refused the user’s request for
+assistance or has failed to respond to it within a reasonable time.
+
+51 In its original enactment of anti-circumvention laws, Australia also included means by which lawful users
+could obtain circumvention devices or services from ‘‘qualiﬁed persons’’ to enable or facilitate permitted
+uses: Copyright Amendment (Digital Agenda) Act 2000 No. 110, 2000 (Cth), section 116A(3). However,
+following the coming into force of the Australia–United States Free Trade Agreement 2005 (AUSFTA),
+available at hwww.dfat.gov.au/trade/negotiations/us_fta/ﬁnal-text/i [Accessed November 2009],
+Australia has enacted revised anti-circumvention provisions that more closely align with the approach
+taken in the DMCA. Revised Copyright Act 1968 available online at hhttp://www.austlii.edu.au/au/legis/
+cth/consol_act/ca1968133.txti [Accessed November 2009]. See also, Weatherall (2004–5).
+
+52 Technological measures were deﬁned in the bill as ‘‘any technology, device or component that, in the
+ordinary course of its operation, restricts the doing 1/4 of any act that is mentioned in section 3, 15, or 18
+or that could constitute an infringement of any applicable moral rights’’. In other words, a protected
+TPM is one that ordinarily restricts infringing activities. Bill C-60, An Act to Amend the Copyright
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+533
+
+hhttp://
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Act, section 1(2) [online]. Available at hhttp://www2.parl.gc.ca/HousePublications/Publication.aspx?
+pub=bill&doc=c-60&parl=38&ses=1&language=Ei [Accessed November 2009].
+
+53 Subsection 80(1) provides that, subject to certain limitations, it does not infringe copyright to make an
+
+audio-recording of a musical work for private use. As such, section 32.02 of the bill did extend
+circumvention liability beyond existing copyright liability with regard to private copies of sound
+recordings that would have beneﬁted from subsection 80(1) but for the use of TPMs to protect the
+material embodiment of the musical work.
+
+54 Geist asks whether, for example, distributing software that is frequently used for infringing purposes
+might be caught (i.e. knowledge that the service is likely to be used to infringe copyright), or whether the
+section would require direct knowledge of a speciﬁc infringing purpose (Geist, 2005, p. 242).
+
+55 See also Kerr (2005): ‘‘[T]he proposed anti-circumvention laws protect these [DRM] technologies without
+
+protecting people from excessive or illegitimate uses of them’’ (p. 210).
+
+56 ‘‘Technological measures’’ were deﬁned to include ‘‘any effective’’ technology that ‘‘in the ordinary
+course of its operation’’ either ‘‘controls access’’ to a work or ‘‘restricts the doing’’ of any infringing acts.
+Bill C-61 (An Act to Amend the Copyright Act), section 41 [online]. Available at hhttp://
+www2.parl.gc.ca/HousePublications/Publication.aspx?DocId=3570473&Mode=1&Language=Ei
+[Accessed November 2009].
+
+57 Pursuant to section 41.1(1)(c), no person shall ‘‘manufacture, import, provide—including by selling or
+
+renting—offer for sale or rental or distribute’’ circumvention technologies, devices or components.
+
+58 Under section 41.1(1)(c)(i), the prohibition applies if ‘‘the technology, device or component is designed or
+
+produced primarily for the purposes of circumventing a technological measure’’.
+
+59 Under section 41.1(1)(c)(ii), the prohibition applies if ‘‘the uses or purposes of the technology, device or
+component are not commercially signiﬁcant other than when it is used for the purposes of circumventing
+a technological measure’’.
+
+60 Section 41.1(1)(c)(iii): the prohibition applies if ‘‘the person markets the technology, device or component
+as being for the purposes of circumventing a technological measure or acts in concert with another person
+in order to market the technology, device or component as being for those purposes’’. The same factors
+are applied to determine whether services are caught by the prohibition in section 41.1(1)(b).
+
+61 Section 41.2(2)(b) states: ‘‘The regulations may prescribe the manner in which, and the time within
+which, access is to be provided, as well as any conditions that the owner of the copyright is to comply
+with’’.
+
+62 As Geist (2008) observed on his blogsite, ‘‘Bill C-61 establishes the criteria for the introduction of new
+
+circumvention rights but fails to implement an administrative structure to conduct the reviews’’.
+
+63 Section 29.21 creates an exception for ‘‘an individual to reproduce a work or other subject-matter that is a
+photograph or is contained in a book, newspaper, periodical or videocassette, or any substantial part of
+such a work or other subject-matter, onto another medium or device’’ but subject to certain conditions,
+which include ‘‘(c) the individual, in order to make the reproduction, did not circumvent a technological
+measure or cause one to be circumvented’’. This exception is an illustrative example of the narrow precision
+with which the bill sought to carve out permitted acts. See also sections 29.22(1)(c) (which similarly limits
+the exception for an individual who reproduces ‘‘onto a medium or device a musical work embodied in a
+sound recording), and section 29.23(1)(b) (which similarly limits the exception created for the ﬁxing of
+communication signals to record a program for the purpose of listening to or watching it later)’’.
+
+64 See especially CCH supra n. 16. Society of Composers, Authors and Music Publishers v Canadian
+
+Association of Internet Providers, 2004 SCC 45 [SOCAN].
+
+65 The Digital Media Consumers’ Rights Act bill was introduced to the US House of Representatives
+
+in January 2003 (H.R. 107) and reintroduced in March 2005 (H.R. 1201). The ‘‘Freedom and
+
+534
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+Innovation Revitalizing U.S. Entrepreneurship’’ (or FAIR USE) Act was introduced in February 2007
+(H.R. 1201).
+
+66 Copyright Act 2007 (Israel) (unofﬁcial translation by Israeli Ministry of Justice) [online]. Available at
+
+hhttp://www.tau.ac.il/law/members/birnhack/IsraeliCopyrightAct2007.pdfi [Accessed October 2009].
+
+67 See Ganley (2004, p. 330) discussing the potential advantages of conditioning anti-circumvention
+
+provisions on a set of positive steps taken by rightholders.
+
+68 New Zealand’s Copyright (New Technologies) Amendment Act 2008, section 226,
+
+includes in its
+
+deﬁnition of TPM the following clariﬁcation:
+
+(b) for the avoidance of doubt, [TPM] does not include a process, treatment, mechanism,
+device, or system to the extent that, in the normal course of operation, it only controls any
+access to a work for non-infringing purposes (for example, it does not include a process,
+treatment, mechanism, device, or system to the extent that it controls geographic market
+segmentation by preventing the playback in New Zealand of a non-infringing copy of a
+work).
+
+69 The Copyright Act makes it unlawful to authorize an infringing act: ss. 3, 27(1). The Supreme Court
+
+explained in SOCAN at paragraph 127:
+
+The knowledge that someone might be using neutral technology to violate copyright (as
+with the photocopier in the CCH case) is not necessarily sufﬁcient
+to constitute
+authorization, which requires a demonstration that the defendant did ‘‘(g)ive approval
+to; sanction, permit; favour, encourage’’ the infringing conduct (citing CCH, supra n. 15,
+paragraph 38).
+
+70 For further discussion, see infra.
+71 Compare with Kerr et al. (2002–3) where they propose a possible ‘‘access-to-works right’’ that could
+
+impose upon copyright owners a ‘‘positive obligation to provide access-to-a-work when persons or
+institutions fall within an exception or limitation set out in the Copyright Act’’ (p. 78).
+
+72 Section 95b(1) of the German Copyright Act (UrhG), added by the Law for the Regulation of Copyright
+
+in the Information Society 2003, requires rightholders to provide necessary means for users to beneﬁt
+from recognized exemptions.
+
+73 For a detailed description of how such a system may be effectively implemented through judicial or
+
+administrative measures, see Reichman et al. (2007, pp. 1045–60).
+
+74 If lawful users are not to be unduly disadvantaged, these versions should be digital and not merely
+
+‘‘analogue’’ or hard copies. However, such a system is likely to raise objections on the basis that the
+availability of TPM-free digital copies could quickly render the use of technical protections redundant.
+Perhaps a combination of record keeping and digital marking (together with strict privacy controls) could
+minimize such objections.
+
+75 Compare with Australia’s Copyright Amendment (Digital Agenda) Act 2000, section 116A(3), discussed
+
+supra n. 52, under which the supplier of circumvention devices and services performed this limited
+intermediary role. The declaration required could be similar in type to the declaration of lawful purpose
+obtained by the Great Library from its patrons under the access policy approved by the Supreme Court
+in CCH. See CCH, supra n. 15 at paragraph 61.
+
+76 But compare with Sookman (2005) arguing that protection for TPMs will stimulate investment in
+innovative business models, support the development of e-commerce, and thereby serve the public interest.
+77 Gervais (2005) warns: ‘‘If policy makers insist on making illegal socially-acceptable conduct, technology
+will adapt to the legal environment either by circumventing the legal norm or by making enforcement
+either impossible or too costly’’(p. 52).
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+535
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+78 Much of what strikes the layperson or law student as counter-intuitive or even nonsensical about
+copyright law is also largely irrelevant in light of market realities and basic practicalities. Many common
+user practices may not be legal, but are overlooked by owners because they are not readily identiﬁed, they
+are recognized as potentially beneﬁcial, or the ﬁnancial or public relation costs of pursuing them are not
+worth assuming (see Gillepsie, 2007, pp. 59–60).
+
+79 For an interesting discussion of metaphor in the context of the TPM debate, see Herman (2008).
+80 2006 SCC 43, 2 S.C.R. 363, paragraph 79 (Robertson).
+81 Ibid.
+82 Ibid.
+83 Tempering this optimism somewhat, it should be noted that these statements were made by Abella J in the
+context of a minority judgement. The majority appeared less concerned with ensuring that copyright not
+interfere with the advantages offered by new technologies: ‘‘Media neutrality is not a licence to override
+the rights of authors—it exists to protect the rights of authors and others as technology evolves’’ (Ibid.,
+paragraph 49).
+
+References
+
+Akester, P. (2009) Technological Accommodation of Conﬂicts between Freedom of Expression and DRM: The
+
+First Empirical Assessment. The Selected Works of Patricia Akester [online]. The Berkeley Electronic
+Press. Available at hhttp://www.law.cam.ac.uk/faculty-resources/download/technological-
+accommodation-of-conﬂicts-between-freedom-of-expression-and-drm-the-ﬁrst-empirical-assessment/
+6286/pdfi [Accessed October 2009].
+
+Apple Inc. (2009) Changes Coming to the iTunes Store [online]. Apple Inc. Available at hhttp://
+
+www.apple.com/pr/library/2009/01/06itunes.htmli [Accessed October 2009].
+
+Barker, J. C. (2002) ‘Mechanisms to Create and Support Treaties, Conventions and other Responses’,
+
+UNESCO Encyclopaedia of Life-Support Systems [online]. EoLss Publishers, Paris. Available at
+hhttp://www.eolss.net/EolssSampleChapters/C14/E1-44-01/E1-44-01-TXT-02.aspxi [Accessed October
+2009].
+
+Bechtold, S. (2004) ‘Digital Rights Management in the United States and Europe’, American Journal of
+
+Comparative Law, 52, 323–82.
+
+Bell, T. W. (1998) ‘Fair Use vs. Fared Use: The Impact of Automated Rights Management on Copyright’s
+
+Fair Use Doctrine’, North Carolina Law Review, 76(2), 557–620.
+
+Benkler, Y. and Lessig, L. (2001) ‘Profs. Benkler and Lessig Amici Brief in ‘‘MPAA v. 2600’’ Case’ [online].
+
+Available at hhttp://w2.eff.org/IP/Video/MPAA_DVD_cases/20010126_ny_2profs_amicus.htmli
+[Accessed October 2009].
+
+Berbinau, J. (2007) ‘Copyright in Cyberspace: Towards a Workable Balance: Setting up a Regulatory
+
+Authority’ [online]. Available at hhttp://www.armt.fr/IMG/doc/IPO2007.doci [Accessed October 2009].
+Besek, J. M. (2004) ‘Anti-Circumvention Laws and Copyright: A Report from the Kernochan Center for Law,
+
+Media and the Arts’, Columbia Journal of Law and the Arts, 27, 385–517.
+
+Blocman, A. (2007) ‘Setting up of the Regulatory Authority on Technical Protection Measures’, IRIS 2007-
+5:9/13 [online]. Available at hhttp://merlin.obs.coe.int/iris/2007/5/article13.en.htmli [Accessed October
+2009].
+
+Boyle, J. (2008) The Public Domain: Enclosing the Commons of the Mind. Yale University Press, New Haven,
+
+CT.
+
+Brown, I. and Bohm, N. (2003) Implementing the EU Copyright Directive [online]. Foundation for
+
+Information Policy Research. Available at hhttp://www.ﬁpr.org/copyright/guide/eucd-guide.pdfi
+[Accessed October 2009].
+
+536
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+Burk, D. L. and Cohen, J. E. (2001) ‘Fair Use Infrastructure for Rights Management Systems’, Harvard
+
+Journal of Law and Technology, 15(1), 41–83.
+
+Commission of the European Community (2007) Report to the Council, the European Parliament and the
+Economic and Social Committee on the Application of Directive 2001/29/EC on the Harmonisation of
+Certain Aspects of Copyright and Related Rights in the Information Society, Commission Staff Working
+Document, SEC(2007) 1556, 30 November 2007 [online]. Available at hhttp://www.ipex.eu/ipex/webdav/
+site/myjahiasite/groups/CentralSupport/public/2007/SEC_2007_1556/COM_SEC(2007)1556_EN.doci
+[Accessed October 2009].
+
+Craig, C. (2002) ‘Locke, Labour and Limiting the Author’s Right: A Warning Against a Lockean Approach
+
+to Copyright Law’, Queen’s Law Journal, 28(1), 1–60.
+
+Craig, C. (2005) ‘The Changing Face of Fair Dealing in Canadian Copyright Law: A Proposal for Legislative
+
+Reform’, in M. Geist (ed.), In the Public Interest: The Future of Canadian Copyright Law. Irwin Law,
+Toronto, pp. 437–61.
+
+deBeer, J. (2009) Copyright and Innovation in the Networked Information Economy, Working Paper, Social
+Science Research Network [online]. Available at hhttp://ssrn.com/abstract=1410158i [Accessed October
+2009].
+
+deBeer, J. and Geist, M. (2008) ‘Developing Canada’s IP Agenda’, in J. Daudelin and Daniel Schwanen (eds),
+Canada Among Nations 2007: What Room for Manoeuvre? McGill-Queen’s University Press, Montreal,
+pp. 157–80.
+
+Drassinower, A. (2005) ‘Taking User Rights Seriously’, in M. Geist (ed.), In the Public Interest: The Future of
+
+Canadian Copyright Law. Irwin Law, Toronto, pp. 462–79.
+
+Dusollier, S. (1999) ‘Electrifying the Fence: The Legal Protection of Technological Measures for Protecting
+
+Copyright’, European Intellectual Property Review, 21(6), 285–97.
+
+Dusollier, S. (2003a) ‘Fair Use by Design in the European Copyright Directive of 2001’, Communications of
+
+the ACM, 46(4), 51–5.
+
+Dusollier, S. (2003b) ‘Exceptions and Technological Measures in the European Copyright Directive of 2001 –
+
+An Empty Promise’, International Review of Industrial Property & Copyright Law, 34(1), 62–75.
+
+Ganley, P. (2004) ‘Digital Copyright and the New Creative Dynamics’, International Journal of Literature of
+
+Law and Information Technology, 12(3), 282–332.
+
+Gasser, U. (2006) ‘Legal Frameworks and Technological Protection of Digital Content: Moving Forward
+
+towards a Best Practice Model’, Fordham Intellectual Property, Media and Entertainment Law Journal,
+17(1), 39–113.
+
+Gasser, U. and Girsberger, M. (2004) Transposing the Copyright Directive: Legal Protection of Technological
+
+Measures in EU-Member States, A Genie Stuck in a Bottle?, Berkman Publication Series, No. 2004-10
+(November) [online]. Available at hhttp://papers.ssrn.com/sol3/papers.cfm?abstract_id=628007i
+[Accessed October 2009].
+
+Geist, M. (2002) ‘Key Case Restores Copyright Balance, The Globe and Mail, 18 April, p. B16.
+Geist, M. (2005) ‘Anti-circumvention Legislation and Competition Policy: Deﬁning a Canadian Way?’, in M.
+Geist (ed.), In the Public Interest: The Future of Canadian Copyright Law. Irwin Law, Toronto, pp. 211–50.
+
+Geist, M. (2006) Our Own Creative Land: Cultural Monopoly & The Trouble With Copyright. Hart House
+
+Lecture Committee, University of Toronto, 30 March.
+
+Geist, M. (2008) 61 Reforms to C-61, Day 40: TPMs—No Regular Review Process [online]. Available at
+
+hhttp://www.michaelgeist.ca/content/view/3297/99999/i[Accessed October 2009].
+
+Gervais, D. (2005) ‘The Price of Social Norms: Towards a Liability Regime for File-Sharing’, Journal of
+
+Intellectual Property Law, 12(1), 39–74. [online]. Available at hhttp://ssrn.com/abstract=525083i
+[Accessed October 2009].
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+537
+
+Carys J. Craig
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Gillepsie, T. (2007) Wired Shut: Copyright and the Shape of Digital Culture. MIT Press, Cambridge, MA.
+Ginsburg, J. C. (1999) ‘Copyright Legislation for the ‘‘Digital Millenium’’’, Columbia Journal of Law and the
+
+Arts, 23(2), 137–79.
+
+Ginsburg, J. C. (2001) ‘From Having Copies to Experiencing Works: The Development of an Access Right in
+
+U.S. Copyright Law’, in H. Hansen (ed.), U.S. Intellectual Property Law and Policy. Edward Elgar,
+Northampton, MA, pp. 39–58 [online]. Available at hhttp://papers.ssrn.com/
+paper.taf?ABSTRACT_ID=222493i [Accessed October 2009].
+
+Government of Canada (2008a) Canada’s Bill C-61: Questions and Answers [online]. Available at hhttp://
+
+www.ic.gc.ca/eic/site/crp-prda.nsf/eng/h_rp01153.htmli [Accessed October 2009].
+
+Government of Canada (2008b) Reforming the Copyright Act—Backgrounder [online]. Available at hhttp://
+
+www.ic.gc.ca/eic/site/crp-prda.nsf/eng/h_rp01151.htmli [Accessed October 2009].
+
+Government of Canada (2008c) Speech from the Throne 2008: Protecting Canada’s Future [online]. Available
+
+at hhttp://www.sft-ddt.gc.ca/eng/media.asp?id=1383i [Accessed October 2009].
+
+Gowers, A. (2006) Gowers Review of Intellectual Property [online]. HM Treasury. Available at hhttp://
+
+ec.europa.eu/internal_market/copyright/docs/links/gowers_report_en.pdfi [Accessed November 2009].
+Guibault, L., Westcamp, G., Rieber-Mohn, T., Hugenholtz, B., van Eechoud, M., Helberger, N., Steijger, L.,
+Rossini, M., Dufft, N. and Bohn, P. (2007) Study on the Implementation and Effect in Member States’
+Laws of Directive 2001/29/EC on the Harmonisation of Certain Aspects of Copyright and Related Rights in
+the Information Society, Final Report [online]. Institute for Information Law. Available at hhttp://
+www.ivir.nl/publications/guibault/Infosoc_report_2007.pdfi [Accessed October 2009].
+
+Heide, T. (2001) ‘Copyright in the EU and U.S.: What Access Right?’, Journal of the Copyright Society of the
+USA, 48(3), 363–82 [online]. Available at hhttp://papers.ssrn.com/sol3/papers.cfm?abstract_id=270861i
+[Accessed October 2009].
+
+Herman, B. D. and Gandy Jr., O. H. (2006) ‘Catch 1201: A Legislative History and Content Analysis of the
+
+DMCA Exemption Proceedings’, Cardozo Arts and Entertainment Law Journal, 24(1), 121–90.
+
+Herman, B. H. (2008) ‘Breaking and Entering My Own Computer: The Contest of Copyright Metaphors’,
+
+Communication Law and Policy, 13(2), 231–74.
+
+Hohfeld, W. N. (1946) Fundamental Legal Conceptions as Applied in Judicial Reasoning. Yale University Press,
+
+New Haven, CT.
+
+Hugenholtz, P. B. (2000) ‘Why the Copyright Directive is Unimportant, and Possibly Invalid’, European
+
+Intellectual Property Review, 22(11), 501–2.
+
+Kerr, I. R. (2005) ‘If Left to Their Own Devices: How DRM and Anti-Circumvention Laws Can Be Used to
+
+Hack Privacy’, in M. Geist (ed.), In the Public Interest: The Future of Canadian Copyright Law. Irwin
+Law, Toronto, pp. 167–210.
+
+Kerr, I. R., Maurushat, A. and Tacit, C. S. (2002–3) ‘Technical Protection Measures: Tilting at Copyright’s
+
+Windmill’, Ottawa Law Review, 34(1), 7–82.
+
+Knopf, H. (2008) ‘Canada, WIPO, and certain ‘‘obligations’’’ [online]. Available at hhttp://excesscopy
+right.blogspot.com/2008/02/canada-wipo-and-certian-obligations.htmli [Accessed October 2009].
+
+Koelman, K. (2000) ‘A Hard Nut to Crack: The Protection of Technological Measures’, European Intellectual
+
+Property Review, 22(6), 272–88.
+
+Koelman, K. and Helberger, N. (2000) ‘Protection of Technological Measures’, in P. Bernt Hugenholtz (ed.),
+
+Copyright and Electronic Commerce: Legal Aspects of Electronic Copyright Management. Kluwer Law
+International, The Hague, pp. 165–227.
+
+Litman, J. (1990) ‘The Public Domain’, Emory Law Journal, 39(4), 965–1023.
+Litman, J. (2001) Digital Copyright. Prometheus Books, New York.
+Midgley, J. (2002) Critique of the Proposed UK Implementation of the EU Copyright Directive [online]. Available
+
+at hhttp://www.cfdr.eu.org/issues/eucd/ukimpl/critique_uk_impl.pdfi [Accessed November 2009].
+
+538
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+Digital Locks and the Fate of Fair Dealing in Canada
+
+Carys J. Craig
+
+Murray, L. (2005a) ‘Bill C-60 and Copyright in Canada: Opportunities Lost and Found’, Canadian Journal of
+
+Communication, 30(4), 649–54.
+
+Murray, L. (2005b) ‘Copyright Talk: Patterns and Pitfalls in Canadian Policy Discourses’, in M. Geist (ed.), In
+
+the Public Interest: The Future of Canadian Copyright Law. Irwin Law, Toronto, pp. 15–40.
+
+Murray, L. and Trosow, S. E. (2007) Canadian Copyright: A Citizen’s Guide. Between the Lines Press, Toronto.
+Nimmer, D. (2000) ‘A Riff on Fair Use in the Digital Millennium Copyright Act’, University of Pennsylvania
+
+Law Review, 148(3), 673–742.
+
+Olswang, S. (1995) ‘Accessright: An Evolutionary Path for Copyright into the Digital Era?’, European
+
+Intellectual Property Review, 17(5), 215–8.
+
+Reichman, J. H., Dinwoodie, G. B. and Samuelson, P. (2007) ‘A Reverse Notice and Takedown Regime to
+
+Enable Public Interest Uses of Technically Protected Copyrighted Works’, Berkeley Technology Law
+Journal, 22(3), 981–1060.
+
+Samuelson, P. (1996) ‘Regulating Technologies to Protect Copyrighted Works’, Communications of the ACM,
+
+39(7), 17–22.
+
+Samuelson, P. (1997) ‘The U.S. Digital Agenda at WIPO’, Virginia Journal of International Law, 37(2),
+
+369–439.
+
+Samuelson, P. (1999) ‘Intellectual Property and the Digital Economy: Why the Anti-Circumvention
+
+Regulations Need to be Revised’, Berkeley Technology Law Journal, 14(2), 519–66.
+
+Samuelson, P. (2003) ‘Mapping the Digital Public Domain: Threats and Opportunities’, Law and
+
+Contemporary Problems, 66(1 & 2), 147–71.
+
+Secor, G. (1997) ‘Fair Use in a Pay-Per-Use World’, Practice and Theory, 21(1), 53–9.
+Shah, A. (2004) ‘UK’s Implementation of the Anti-Circumvention Provisions of the EU Copyright Direction:
+
+An Analysis’, Duke Law and Technology Review, 3 (January) [online]. Available at hhttp://
+www.law.duke.edu/journals/dltr/articles/2004dltr0003.htmli [Accessed November 2009].
+
+Sookman, B. B. (2005) ‘‘‘TPMs’’: A Perfect Storm for Consumers: Replies to Professor Geist’, Canadian
+
+Journal of Law and Technology, 4(1), 23–43.
+
+The State of Israel—Ministry of Justice (2009) Intellectual Property Law Submission of the Government of
+
+Israel to the United States Free Trade Representative with Respect to the 2009 ‘‘Special 301 Review’’
+[online]. Available at hhttp://www.justice.gov.il/NR/rdonlyres/BD753811-E87A-4AB2-8ADD-
+DC9423DFC794/13684/2009special301submission.pdfi [Accessed October 2009].
+
+Wang, R. L. (2006) ‘DMCA Anti-Circumvention Provisions in a Different Light: Perspectives from
+
+Transnational Observation of Five Jurisdictions’, AIPLA Quarterly Journal, 34(2), 217–50.
+
+Weatherall, K. (2004–5) ‘Locked In: Australia Gets a Bad Intellectual Property Deal’, Policy: A Journal of
+
+Public Policy and Ideas, 20(4), 18–24.
+
+White Paper: Intellectual Property and the National Information Infrastructure (1995) The Report of the
+
+Working Group on Intellectual Property Rights [online]. Available at hhttp://www.uspto.gov/web/ofﬁces/
+com/doc/ipnii/ipnii.pdfi [Accessed October 2009].
+
+Wiese, H. (2002) ‘Anti-Circumvention Laws: A ‘Circumvention’ of the Copyright Balance in the Digital Age?’,
+
+Tolley’s Communications Law, 7(5), 146–54.
+
+Winn, J. K. and Jondet, N. A. (2009) ‘A ‘‘New Deal’’ for End Users? Lessons from a French Innovation in the
+
+Regulation of Interoperability’, William and Mary Law Review, 51(2), 547–76 [online]. Available at
+hhttp://ssrn.com/abstract=1419750i [Accessed October 2009].
+
+WIPO Copyright Treaty (adopted in Geneva on 20 December 1996) [online]. Available at hhttp://
+
+www.wipo.int/treaties/en/ip/wct/trtdocs_wo033.htmli [Accessed February 2010].
+
+WIPO Performances and Phonograms Treaty (adopted in Geneva on 20 December 1996) [online]. Available
+
+at hhttp://www.wipo.int/treaties/en/ip/wppt/trtdocs_wo034.htmli [Accessed February 2010].
+
+r 2010 Blackwell Publishing Ltd
+The Journal of World Intellectual Property (2010) Vol. 13, no. 4
+
+539
+
+

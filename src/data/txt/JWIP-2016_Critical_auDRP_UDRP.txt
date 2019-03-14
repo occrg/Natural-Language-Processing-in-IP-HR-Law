@@ -1,0 +1,2208 @@
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6, pp. 203–237
+
+doi: 10.1111/jwip.12059
+
+A Critical and Comparative Review of auDRP and
+UDRP Domain Name Decisions
+
+Alpana Roy
+Western Sydney University
+
+Althaf Marsoof
+Kings College London
+
+Domain names are simpliﬁed internet addresses which provide a shorthand way to connect to webpages on the
+internet. The exponential increase in the use of the internet has led to a growing number of disputes relating to the
+registration and use of domain names. This has also led to the development of legal and quasi-legal rules relating to the
+management of domain names and domain name disputes. The Uniform Domain Name Dispute Resolution Policy
+(“UDRP”), which was implemented in 1999, provides the international legal framework for the resolution of domain
+name disputes concerning generic top-level domains (“gTLDs”), such as “.com”. National authorities provide
+corresponding policies for the resolution of domain name disputes concerning country code top-level domains
+(“ccTLDs”), such as “.au”. The relevant national policy governing .au domain name disputes is the .au Dispute
+Resolution Policy (“auDRP”), which came into force in 2002. Both the auDRP and UDRP have proven to be an
+effective mechanism for the quicker and cheaper resolution of domain name disputes. While there has been
+considerable academic discourse on the UDRP, there has been very little commentary written on the auDRP. The aim
+of this paper is to ﬁll the gap in knowledge on the auDRP by providing a critical and comparative review of key
+decisions under both the international and Australian domain name policies.
+
+Keywords domain names; auDRP; UDRP; elements under Paragraph 4(a)
+
+Despite the internet’s omnipresence, online content is stored in the physical environment—in computer
+devices located all over the globe. These devices that are connected to the internet have a unique
+address, known as the Internet Protocol Address (“IP Address”), which is used to establish connections
+between them. Typically, IP Addresses take a numeric format (e.g. 203.2.218.214, which is the IP
+Address for the Australia Broadcasting Corporation’s website at http://www.abc.net.au/). Domain
+names are essentially a human friendly substitute for IP Addresses. Thus, the importance of domain
+names becomes visibly clear, as it would be extremely difﬁcult for most humans to remember the IP
+Addresses for every single online location (or website) they wish to locate. When IP Addresses are
+converted to human friendly alphanumeric strings, such as “abc.net.au”, it becomes easier to remember
+(Armon, 2003, pp.101–102). However, the translation of IP Addresses to their alphanumeric format (or
+domain names) has given rise to legal disputes. This is because individuals derive rights and/or
+legitimate interests in respect of trademarks, as well as personal, corporate and business names, all of
+which could be represented in the form of domain names taking the same alphanumeric format. In
+short, the negative consequence of establishing domain names is the rise of cybersquatting (Badgley,
+2001, pp.345–346).
+
+In order to resolve domain name disputes, the Internet Corporation for Assigned Names and
+Numbers (“ICANN”), the international authority established for the administration of the internet, has
+adopted a dispute resolution policy known as the Uniform Domain Name Dispute Resolution Policy
+(“UDRP”). The UDRP applies to disputes concerning generic top-level domains (“gTLDs”),1 and has
+been adapted in various jurisdictions for the resolution of domain name disputes involving country code
+
+© 2016 John Wiley & Sons Ltd
+
+203
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+top-level domains (“ccTLDs”). In Australia, the relevant local policy for .au domain name disputes is
+the .au Dispute Resolution Policy (“auDRP”), which is administered by the .au Domain Administration
+Ltd (“auDA”) (Bender, 2007). The auDA is the policy and industry regulatory body for .au domain names.
+Among its functions, auDA accredits and licenses registrars to make domain name registrations, develops
+and administers policy, and represents .au domain names at ICANN.
+
+Although the auDRP is derived from the UDRP, there are some notable points of divergence, which
+have consequentially resulted in panels constituted under the auDRP deviating from their UDRP
+counterparts in their approach to resolving similar disputes. This paper undertakes a critical and
+comparative analysis of these notable differences in the two policies and the key domain name decisions
+awarded by panels under the two policies.
+
+To date, any attempt to compare UDRP and auDRP decisions has been limited to the auDRP Overview
+1.0,2 which is based on the corresponding overview of UDRP decisions formulated by the Arbitration and
+Mediation Center of the World Intellectual Property Organization (“WIPO”).3 Despite the auDRP Overview
+1.0 being a “compendium of consensus views of panels on key legal and procedural issues under the
+auDRP”, it is arguably not exhaustive. This paper seeks to contribute to the discussion commenced by the
+auDRP Overview 1.0 by comparing panel decisions under a key provision of both policies: paragraph 4(a). It
+is under this provision that a complainant is required to establish three distinct elements (which are
+considered below) in order to be successful in domain name dispute resolution proceedings.
+
+The First Element
+
+There are no limitations to what domain names could comprise. When generic phrases such as “cars” or
+“computers” are used to form a domain name, such as “cars.com” or “computers.com”, there is unlikely to
+be any dispute. In contrast, when a domain name closely resembles a registered trademark4 (as well as a
+“name”, in the case of the auDRP), and someone other than the owner of the trademark (or bearer of a
+name) had registered that domain name, there is a greater likelihood that a dispute might spur. It is for this
+reason that both the policies incorporate a requirement that a domain name subject to a dispute must be
+identical or confusingly similar to a trademark (and/or name, in the case of the auDRP) in which the
+complainant has rights, if the complainant is to succeed.
+
+Thus, in terms of paragraph 4(a)(i) of the UDRP, a domain name registrant must submit to a
+mandatory administrative proceeding if a complainant establishes inter alia that the domain name is
+identical or confusingly similar to a trademark or service mark in which the complainant has rights. This is
+the ﬁrst element that any complainant must satisfy. The corresponding provision in the auDRP replicates
+UDRP’s paragraph 4(a)(i) with a minor, yet signiﬁcant, change. Under the auDRP, in addition to stating
+that a registered domain name is identical or confusingly similar to a trademark or service mark,
+complainants may also assert similarity to a “name” in which they have rights.5 The footnote attached to
+that provision provides the following clariﬁcation:
+
+For the purposes of this policy, auDA has determined that a “name . . . in which the
+complainant has rights” refers to: a) the complainant’s company, business or other legal or
+trading name, as registered with the relevant Australian government authority; or b) the
+complainant’s personal name.
+
+In order to satisfy this element under both the policies, a complainant must establish two things—ﬁrst,
+that the complainant has a “right” in respect of a trademark or service mark (or a name in the case of the
+auDRP) and second, that the domain name concerned is identical or confusingly similar to the trademark,
+service mark or name, as the case may be.
+
+204
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+Establishing a Complainant’s “Rights”
+Rights in Respect of Registered Trademarks
+Under the UDRP,6 as well as the auDRP,7 a complainant having a registered trademark easily satisﬁes the
+ﬁrst element, although a mere application to register a trademark is not sufﬁcient to confer any “rights” on a
+claimant.8 In the case of the UDRP, a complainant could establish rights in a trademark irrespective of
+where it is registered.9 Whereas, under the auDRP there has been some uncertainty whether rights arising
+from trademark registrations outside of Australia could satisfy this requirement, as there have been two
+strands of authority. Some panels have expressly opted for a more restrictive view in holding that only
+trademark registrations in Australia are capable of establishing rights for the purpose of the ﬁrst element.10
+Whereas, the more common view has been that even foreign trademark registrations would sufﬁce.11 The
+consensus view is reﬂected in the auDRP Overview 1.0—“The auDRP does not restrict a complainant’s
+trademark rights to a trademark registered with the Australian trademark authority”.12 Notably, when this
+issue arose in Marshmallow Skins v Piipiinoo, the panel considered these two lines of authority and
+expressly decided to take the liberal approach in allowing foreign trademark registrations to supply the
+necessary rights for the purposes of this element under the auDRP. The panel observed that it “does not
+seek to insert a nationality requirement in the Policy, which does not exist in the text of the Policy”.13
+Although the panel was concerned that a literal interpretation of the policy would open ﬂoodgates allowing
+“complainant[s] with no connection to Australia to satisfy the ﬁrst element of the Policy and thereby
+acquire a “.au” domain name”,14 this concern was negated in view of the following:
+
+(1) It is unlikely that a complainant would expend legal resources preparing a complaint under the auDRP
+
+if it had no connection to, or interest in, Australia.15
+
+(2) The lack of a connection to Australia would be an obstacle in satisfying the other elements of the
+
+auDRP.16
+
+(3) The Domain Name Eligibility and Allocation Policy Rules for the Open 2LDs (2012–04) require some
+connection to Australia, before a domain name is allowed registration. Thus, “[t]he Domain Name
+Eligibility and Allocation Policy Rules operate to prevent a complainant who relies solely on a foreign
+registered trade mark and has with (sic) no connection with Australia from taking possession of a
+domain name in the “.au” space that it is not entitled to, even if it obtained an order for transfer under
+the Policy”.17
+
+Rights in Respect of Unregistered Trademarks
+Rights may also be established with regards to unregistered trademarks where such marks are
+inherently distinctive,18 as well as in circumstances where they are less distinctive but have acquired a
+“secondary meaning”.19 However, there is a notable difference between the UDRP and auDRP in
+relation to unregistered marks—in that, under the latter, unregistered trademarks used only within
+Australia are considered for the purposes of establishing a complainant’s rights in relation to a
+trademark.20 The auDRP Overview 1.0 reﬂects this position: “evidence that [a complainant] has
+unregistered trademark rights outside of Australia is insufﬁcient”.21 Thus, in We Buy Any Car v
+Highway Auto Mart, the panel rejected the complaint on the basis that the complainant had never traded
+in Australia, despite it having established a reputation, and thereby common law trademark rights, in
+the United Kingdom.22 Taking into account the nature of business to which the domain name related in
+that dispute, the panel observed that “it seems [. . .] inherently unlikely that an Australian consumer
+would sell a motor vehicle in Australia through a United Kingdom based website and business that does
+not purport to offer services in Australia”.23 Yet, whether such a consideration should be part of the
+analysis in determining whether the ﬁrst element of the auDRP is satisﬁed is questionable. This is so,
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+205
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+because all that is required is to determine whether the claimant has rights in a name or mark, and
+whether there is identity or confusing similarity. This was precisely the approach in Marshmallow Skins
+v Piipiinoo when the panel in that case allowed the complainant to rely on rights arising out of a foreign
+trademark registration. Moreover, if the consideration whether a claimant had a connection with
+Australia, e.g. by trading in Australia, was relevant under auDRP’s ﬁrst element, it is not logical to
+apply that consideration only in respect of unregistered trademarks. Thus, in terms of the current
+approach adopted by auDRP panels, if the facts of We Buy Any Car v Highway Auto Mart was slightly
+altered allowing reliance to be placed on a registered trademark in the United Kingdom, instead of a
+common law trademark, the outcome would have been the exact opposite under the ﬁrst element. In
+effect, this approach discriminates between registered and unregistered marks. In fact, it is unfortunate
+that the panel in We Buy Any Car v Highway Auto Mart failed to refer to PayBurst Financial
+Technologies v Virgin Blue Airlines,24 where the claimant’s common law trademark rights in the United
+States was regarded as sufﬁcient for the purposes of the ﬁrst element.
+
+In contrast, and in view of the global application of the UDRP,25 a complainant may establish
+rights in an unregistered mark through use in any jurisdiction. However, since trademark rights are
+strictly territorial in nature,26 whether a complainant enjoys rights in an unregistered mark would
+depend on whether such a category of rights is recognized in a particular jurisdiction under
+consideration. This may mean that complaints originating in some civil law countries, where trademark
+rights are acquired purely through a process of registration, may fail in view of the inability to establish
+“rights” in respect of an unregistered mark—an obstacle not prevalent in common law countries. UDRP
+panels have been sensitive to this disparity, seeking to give true meaning to the universality of the
+policy:
+
+The word “Uniform” in the name of the UDRP is primarily a reference to uniformity across the
+gTLDs. At a minimum, implicit in the introduction and scope of the UDRP is its global
+application. The Panel takes the view that the Policy needs to be applied as uniformly as
+possible across the globe, particularly when dealing with a domain name in one of the gTLDs
+(which can be obtained and accessed around the world, irrespective of jurisdiction). Were it
+otherwise, on an issue such as this complainants from many civil law jurisdictions would in
+certain scenarios be at a disadvantage when compared to their counterparts from common
+law jurisdictions and those civil law jurisdictions, such as Germany, which make special
+statutory provision for unregistered trade mark rights.27
+
+Thus, for instance, UDRP panels have gone to the extent of recognizing common law “equivalent”
+rights in unregistered trademarks on the basis that in certain civil law countries, such as France, the remedy
+of unfair competition provides the equivalent common law remedy for passing off—thereby implicitly
+vesting a “right” to an unregistered mark.28 The WIPO Overview 2.0 summarizes the position in the
+following terms: “For a number of reasons, including the nature of the Internet, the availability of
+trademark-like protection under passing off laws, and considerations of parity, unregistered rights can
+arise for the purposes of the UDRP even when the complainant is based in a civil law jurisdiction”.29
+
+Rights in Respect of a Name
+Complainants under the auDRP, in addition to establishing rights in relation to trademarks or service
+marks, may also seek to establish rights in respect of a “name”.30 This possibility allows claims to be
+brought in respect of a company, business or other legal or trading name registered with an Australian
+authority or a personal name, even in circumstances where no common law rights subsist31—thus,
+signiﬁcantly expanding the scope of the auDRP vis-a-vis the UDRP.32
+
+206
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+Under the UDRP, although celebrities such as Tom Cruise,33 Jim Carrey,34 Jay Leno35 and
+Beyonce36 were able to establish rights in their personal names, that was on the basis that the name was
+made use in actual trade attracting common law trademark rights. Whereas, when no evidence established
+the use of a personal name in connection with the sale of goods or services, UDRP panels have denied
+complaints on the basis that no rights were established to satisfy the ﬁrst element.37 In contrast, the wider
+scope of the auDRP, has allowed auDRP panels to recognize rights not just in relation to conventional
+names, but also in respect of nicknames, such as “Warnie” attaching to the world famous Australian
+cricketer, even without evidence that the complainant had engaged in actual trade in goods or services
+under a particular name.38
+
+Rights in respect of company and business names are dealt with in a similar manner to personal names,
+although at times rights in respect of a smaller part of a company or business name have also been
+recognized.39 The possibility of establishing rights in relation to a complainant’s “other legal or trading
+name” has also resulted in unusual formats—such as phone words or smart numbers—being considered
+for the purposes of the ﬁrst element. Thus, in John Kolenda v 1300 Phonewords Pty Ltd, a panel found that
+the complainant had rights in the phone word “1300homeloan”, even though it neither constituted the
+complainant’s company or business name, nor his personal name.40 However, in later decisions, whether a
+phone word could really constitute a “name” has been doubted,41 although there is a possibility that phone
+words may attract registered or common law trademark rights. Thus, the position in relation to phone
+words or smart numbers is rather uncertain under the auDRP.42
+
+Establishing Identity or Confusing Similarity
+Once a complainant establishes rights in respect of a trademark (or name in the case of the auDRP), the
+panel then must consider the extent to which that trademark (or name) is identical or confusingly similar to
+the domain name sought to be canceled or transferred through the administrative proceeding. The
+approach towards this aspect of the ﬁrst element has been similar under both the UDRP and auDRP.43
+All domain names must be preﬁxed and sufﬁxed by “www.” and the relevant domain (e.g. “.com”, “.
+com.au” etc), respectively, given the way in which domain names operate within the internet’s
+technological architecture. However, in assessing similarity, both UDRP and auDRP panels have ignored
+the technical preﬁx and sufﬁx attached to a domain name.44 The approach to the assessment of similarity
+was succinctly set out, in the context of the UDRP, in Advance Magazine Publishers v. MSA:
+
+Panels have routinely held that the question under paragraph 4(a)(i) of the Policy is simply
+whether the alphanumeric string comprising the challenged domain name is identical to the
+Complainant’s mark or sufﬁciently approximates it, visually or phonetically, so that the
+domain name on its face is ‘confusingly similar’ to the mark.45
+
+Thus, in cases where the name or mark is identical to the disputed domain name (given that a domain
+name’s preﬁx and sufﬁx are ignored in the analysis) the assessment should be fairly straightforward and the
+complainant’s burden of proof should be easily met. In GlobalCenter v Global Domain Housing, a panel
+constituted under the auDRP seeking to apply the stance under the UDRP observed that “[a]s is the case
+under the UDRP, essential or virtual identity is sufﬁcient for the purposes of the Policy”.46 The auDRP
+panel cited four UDRP decisions in support of this view: The Stanley Works v Camp Creek,47 Toyota v S&S
+Enterprises,48 Nokia v Nokiagirls.com49 and Blue Sky Software v Digital Sierra.50
+
+However, surprisingly, except in Toyota v S&S Enterprises, the panels in the other three decisions
+made no reference to either essential or virtual identity. In fact, those cases were decided on the basis that
+either the complainant’s trademarks and the disputed domain names were a 100% match or confusingly
+similar (disregarding the relevant preﬁxes and sufﬁxes of the domain names). It was only in Toyota v S&S
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+207
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+Enterprises that the panel concluded that “[e]ach of the domain names itoyota.com and itoyotas.com is
+virtually identical to the complainant’s registered trade mark TOYOTA”.51 Notably, the panel only
+referred to virtual identity and not essential identity in coming to its conclusion, although it did refer to a
+trademark infringement case where a court in the United States had held that “planned-parenthood.com”
+was essentially identical (the only addition being a hyphen) to the “Planned Parenthood” trademark.52
+However, at a later point in the decision the panel observed:
+
+Virtual or essential identity is sufﬁcient for the purposes of paragraph 4(a)(i) of the Policy. The
+panel ﬁnds the complainant has established both sufﬁcient identity and confusing similarity.53
+
+Thus, the UDRP panel’s overall treatment of the concepts of essential and virtual identity on the one
+hand and confusing similarity on the other hand is far from clear. It is not clear whether virtual identity and
+essential identity signify different standards of identity or in the alternative, whether they simply mean
+confusing similarity with a lower threshold of proof. Unfortunately, the WIPO Overview 2.0 does not
+provide any guidance in this regard.
+
+Nevertheless, in view of GlobalCenter v Global Domain Housing, the concept of essential or virtual
+identity has seeped into the auDRP, although the panel in that instance ultimately held in favor of the
+complainant only on the basis that the complainant’s name “GLOBALCENTER” was confusingly similar
+to the disputed domain names “globalcenter.com.au” and “globalcenter.net.au”. GlobalCenter v Global
+Domain Housing is the second oldest auDRP decision and is the very ﬁrst to introduce the concept of
+essential or virtual identity. Since then, however, auDRP panels have utilized this concept in subsequent
+decisions,54 although panels have not provided any clariﬁcation as to what essential or virtual identity
+actually means. Panels have also been inconsistent as to when they apply the concept. For instance,
+although in Tourism Tasmania v Gordon James Craven the panel found “DISCOVER TASMANIA” to be
+essentially identical to “discover-tasmania.com.au” (the only addition being the hyphen),55 in Camper
+Trailers v Off Road Equipment the panel found “Camper Trailers WA Pty Ltd” to be virtually identical to
+“campertrailerswa.com.au” (“Pty Ltd” of the company name being omitted from the domain name).56 This
+may indicate that essential and virtual identity dictates different levels of identity. Yet, in typical typo-
+squatting disputes where the disputed domain name and the name or trademark in which the complainant
+established rights were the same apart from a single letter being added, omitted or replaced (e.g.
+“ARGILETS”/argilitz.com.au), panels have not referred to the concept of essential or virtual identity and
+have instead gone on to decide the dispute based on confusing similarity.57 In contrast, most UDRP panels
+in corresponding typo-squatting disputes have sought to analyze the facts using the “virtual identity”
+standard,58 although in some instances they have not done so.59 Thus, although both UDRP and auDRP
+panels share the view that complaints alleging typo-squatting would normally satisfy the ﬁrst element of
+either policy,60 there is uncertainty as to whether the element could be satisﬁed on the basis of “virtual” or
+“essential” identity on the one hand, or “confusing similarity” on the other.
+
+What the discussion hitherto illustrates is that to-date, just as under the UDRP, under the auDRP there
+is uncertainty as to where in the scale between “100% identity” and “confusing similarity” that “essential”
+or “virtual” identity lies. Any guidance in this regard in the auDRP Overview 1.0 is limited to the following
+statement: “The test for identity is that there is “essential or virtual identity” between the domain name and
+the trademark or name in which the complainant has rights”.61 This uncertainty is however not a cause for
+concern, because when a trademark or name is essentially or virtually identical to a disputed domain name,
+the threshold for confusing similarity is easily achieved.62
+
+In contrast to the assessment of essential or virtual identity, the assessment for confusing similarity is
+more uniform between the UDRP and auDRP policies. The assessment for confusing similarity has been
+set out by a UDRP panel as follows:
+
+208
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+The issue is not whether confusion is likely in the trade mark sense (that is, confusion as to
+source based on the domain name and its use in connection with a website), but rather, whether
+the domain name, standing alone, is sufﬁciently similar to the trade mark to justify moving on
+to other elements of a claim for cybersquatting.63
+
+This approach to assessing “confusing similarity” has been followed by auDRP panels. For example,
+in GlobalCenter v Global Domain Housing, the panel observed (citing relevant UDRP decisions) that
+“[l]ikewise, the test of confusing similarity under the Policy is conﬁned to a comparison of the disputed
+domain name and the name or trademark alone, independent of the other marketing and use factors usually
+considered in trademark infringement or unfair competition cases”.64 Since then, auDRP panels have
+applied this “confusing similarity” test.65 Thus, in making the comparison, whether the name/mark and the
+disputed domain name are descriptive,66 the nature of the goods or services in relation to which the domain
+name is being used,67 or the contents of the website to which the domain name resolves68 are all irrelevant
+considerations. Similarly, where the trademarks in which rights are asserted contain design elements,
+both UDRP and auDRP panels have tended to ignore the design elements focusing on the textual
+elements alone.69
+
+There is also consistency between the approaches under the two policies in relation to the assessment
+of confusing similarity between a trademark (or name) and a disputed domain name which copies the
+trademark (or name) along with an added descriptive, generic or geographic element. The auDRP
+Overview 1.0 provides that the general position under the auDRP is the same to that of the UDRP,70 the
+general consensus under the latter being that an added element is insufﬁcient to avoid a ﬁnding of
+confusing similarity.71
+
+In the UDRP’s context, this approach has been adopted by some panels even where the added generic
+term is of a negative or pejorative nature—e.g. by incorporating the word “sucks” after a famous trademark
+to form “[trademark]sucks.com”. Thus, in Air France v MSA, the panel found “airfrancesucks.com” to be
+confusingly similar to the “AIR FRANCE” mark:
+
+The present Panel accepts that an ordinary user, familiar with the English language, is unlikely
+to expect that a domain name comprising the word “suck” or “sucks” appended to a familiar
+trademark would be operated by the trademark owner. However, that does not mean that
+the composite domain name can never be “confusingly similar” to the trademark at issue [. . .]
+The Complainant has pointed out that not all users are familiar with English. In this case, the
+Complainant is a French business. It is conceivable that a user from France or some other
+country unfamiliar with English might assume that “suck” had a different meaning or was
+perhaps an acronym for a type of business (like “GmBH”, or “S.A.”, for example) and that
+others might even perceive the Domain Name as “Air Frances Uck”.72
+
+The ﬁnding of the panel in Airfrance v MSA is justiﬁed, since a majority of Air France customers were
+not native English speakers and would have found the addition of “sucks” relatively insigniﬁcant when it
+appeared next to the famous “Air France” mark. Yet when a famous trademark is sufﬁxed by “sucks” in
+circumstances where a signiﬁcant majority of the complainant’s customers are English speaking, it is
+reasonable to assume that the outcome would be different. Thus, in Asda v. Mr Paul Kilgour, ASDA being a
+popular supermarket chain in the United Kingdom, the panel concluded, “Internet users will be well aware
+that a domain name with a “-sucks” sufﬁx does not have the approval of the relevant trade mark owner”.73
+However, UDRP panels have not been consistent in this regard. Thus, in Wal-Mart v Richard MacLeod, a
+dispute concerning the famous American supermarket chain “Wal-Mart”, the panel observed that “[n]o
+reasonable speaker of modern English would ﬁnd it likely that Wal-Mart would identify itself using wal-
+martsucks.com”.74 Despite coming to that ﬁnding, however, the panel concluded as follows:
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+209
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+. . .the Panel concludes that a domain name is “identical or confusingly similar” to a trademark
+for purposes of the Policy when the domain name includes the trademark, or a confusingly
+similar approximation, regardless of the other terms in the domain name. In other words, the
+issue under the ﬁrst factor is not whether the domain name causes confusion as to source (a
+factor more appropriately considered in connection with the legitimacy of interest and bad
+faith factors), but instead whether the mark and domain name, when directly compared, have
+confusing similarity.75
+
+Thus, the position under the UDRP in relation to “sucks” cases has not been consistent, although a
+majority of panels have concluded that the addition of “sucks” to the end of a trademark is not sufﬁcient to
+avoid a ﬁnding of confusing similarity.76
+
+To-date, a panel constituted under the auDRP has not had the opportunity to determine a “sucks”
+dispute. On this issue the auDRP Overview 1.0 states that the position is unknown.77 Unfortunately, it is
+going to be difﬁcult to predict a possible outcome of a “sucks” dispute. Although auDRP panels are
+unanimous in their views that the test for confusing similarity is a side-by-side comparison of the disputed
+domain name and the trademark or name concerned, confusion in relation to something cannot exist in the
+abstract. Thus, it is still necessary to address the question: in relation to what are internet users confused? In
+a 2004 decision, a panel having reiterated the side-by-side test for confusing similarity, observed:
+
+In particular, it is not clear what is contemplated to be “confusing” in circumstances where
+similar domain names and other names are registered or used by different persons. It could be
+that the test of “confusing similarity” is to be applied in much the same way as the test of
+“deceptive similarity” in trade mark infringement cases, where the concept of “deception”
+contemplates consumers who may be deceived or “caused to wonder” about the source or
+origin of goods or services.78
+
+Some panels have suggested that confusion arises where a domain name is capable of being associated
+with the complainant. For example, in Dorset Council v Mr Damian von Samorzewski, the panel observed:
+
+. . .so there is a possibility that an ordinary internet user could be confused into associating the
+disputed domains with the Complainant’s domain, and into believing that there is a real
+connection between the disputed domains and the Complainant’s activities.79
+
+Thus, auDRP panels in determining whether internet users are confused, when they come across a
+domain name that is similar to a trademark or name, have often considered whether an objective internet
+user would associate the domain name with the complainant. If this line of reasoning is adopted, it is likely
+that auDRP panels may differ from the majority UDRP decisions in determining corresponding “sucks”
+cases under the auDRP. This is because an average Australian internet user would not ﬁnd that a domain
+name comprising a trademark and the word “sucks” (or any other equally negative or pejorative term) is in
+any way associated with the owner of that trademark. Absent such an association, it would be difﬁcult to
+ﬁnd confusing similarity.
+
+The Second Element
+
+Even though a complainant satisﬁes a panel that a third party’s registered domain name is identical or
+confusingly similar to the complainant’s trademark (or name), that does not necessarily mean that the domain
+name must be transferred to the complainant. This is because, just as in assessing a third party’s unauthorized
+use of a trademark in typical trademark infringement suits,80 the use of a domain name is context speciﬁc.
+
+210
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+Thus, in some contexts, the third party registrant of a domain name may have a right or legitimate interest
+in using that domain name despite its identity or similarity to a trademark or name. Therefore, both the
+UDRP and auDRP recognize the context speciﬁc nature of the use made of domain names by requiring
+a complainant to establish that the domain name subject to a dispute was registered by a third party
+who lacks the requisite rights or legitimate interests.81 This is the second element that a complainant must
+satisfy.
+
+The Difficulty of Proving a Negative
+The complainant bears the burden of proof under both the UDRP and auDRP. This is because under both the
+policies, it is a requirement that the complainant must prove the existence of each of the three elements upon
+which a transfer or cancelation of a domain name will be ordered.82 In the context of the second element, an
+early UDRP panel had recognised that this would require a complainant “to prove a negative, a difﬁcult, if
+not impossible task”.83 Paragraph 4(c) of both policies provides a non-exhaustive list of instances, which if
+found could demonstrate that a respondent had rights or legitimate interests in respect of a domain name.
+The language of paragraph 4(c) suggests that it is the respondent that must demonstrate the existence of
+rights or legitimate interests. In view of this contradiction, early UDRP panels were split in their approach as
+to the burden of proof under the second limb of paragraph 4(a). While some panels have held that the
+respondents have no burden whatsoever to establish any rights or legitimate interests, unless a complainant
+furnishes afﬁrmative proof of the respondent’s lack of such rights or legitimate interests,84 some others have
+held that, although the burden is on the complainant to establish a lack of rights or legitimate interests on the
+part of the respondent, that burden is a relatively light one.85 On the other hand, a few UDRP panels have
+held that where the respondent had failed to demonstrate that at least one of the instances envisaged by
+paragraph 4(c) applies —which establishes rights or legitimate interests on the part of a respondent—that
+“can assist the Panel in deciding whether on consideration of all the evidence a Complainant has discharged
+the onus of proof”.86 Despite this disagreement on the complainant’s burden of proof under the second
+element, a majority of UDRP panels have held that once a complainant had made out a prima facie (or
+credible) case that the respondent lacks any rights or legitimate interests in the disputed domain name, then
+the burden shifts to the respondent to refute that position.87 The respondent’s rebuttal must be supported by
+concrete evidence, that is to say “more than mere personal assertions”.88 This position is reﬂected in the
+WIPO Overview 2.0,89 which is also mirrored in the auDRP Overview 1.0.90
+
+Panels under the auDRP have consistently followed the approach adopted by the majority of UDRP
+panels. Although not apparent in the ﬁrst auDRP decision,91 from the second decision onwards, panels
+have in most instances applied the prima facie standard of proof in relation to the second element. To
+illustrate, in GlobalCenter v Global Domain Housing, the panel referred to the UDRP decision in Do The
+Hustle v Tropic Web in holding that:
+
+These circumstances are sufﬁcient to constitute a prima facie showing by the Complainant of
+absence of rights or legitimate interest in the disputed domain name on the part of the
+Respondent. The evidentiary burden therefore shifts to the Respondent to show by concrete
+evidence that it does have rights or legitimate interests in that name.92
+
+This approach has been followed in later decisions,93 although there have been a few instances where
+panels have deviated from this approach. Thus, for instance, in Find Marketing v Troy Holland,94 Private
+Real Estate v Chris Papas,95 Dorset Council v Mr Damian von Samorzewski96 and Andrea Chick v
+Countrynet Software,97 the panels determined the dispute under the second element without any reference
+to the complainant’s capacity to establish a prima facie case, instead relying on the respondent’s ability to
+establish rights or legitimate interests in respect of the disputed domain names. However, what was
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+211
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+common in all those instances was that the respondents were represented and had furnished material for the
+panel to consider in making a determination under the second limb. Thus, it may be posited that the prima
+facie standard in respect of the complainant’s case under the second element becomes important in
+circumstances where the respondent remains legally unrepresented.
+
+Establishing Rights or Legitimate Interests Under Paragraph 4(c)
+As outlined above, both the UDRP and auDRP provide a non-exhaustive list of instances, which if
+established by a respondent, could demonstrate rights or legitimate interests in a domain name. These
+instances are:
+
+(1) Use of, or demonstrable preparations to use, the domain name or a name corresponding to the domain
+name in connection with a bona ﬁde offering of goods or services, before any notice of the dispute.98
+(2) The Respondent (as an individual, business or other organization) being commonly known by the
+
+domain name, even if no trademark mark rights have been acquired.
+
+(3) A legitimate non-commercial or fair use being made of the domain name, without intent for
+
+commercial gain to misleadingly divert consumers or to tarnish the trademark at issue.99
+
+These speciﬁc defences (or safe harbors) are considered next.
+
+Bona Fide Use of a Domain Name Before Notice
+Although the second and third defences in paragraph 4(c) of both the UDRP and auDRP are identical, the
+scope of the ﬁrst defence slightly differs. If a respondent sets up this defence, depending on the applicable
+policy, a panel must be conscious as to the timing of such bona ﬁde use. Thus, while UDRP panels must
+ensure that the domain name was put to bona ﬁde use prior to the respondent being notiﬁed of the
+“dispute”, the defence under the auDRP only applies in circumstances where a respondent made bona ﬁde
+use of the domain name prior to being notiﬁed of the “subject matter” of the dispute. Although this
+distinction between the UDRP and auDRP has not been highlighted in the auDRP Overview 1.0, auDRP
+panels have done so on numerous occasions. The panel in Global Center v Global Domain Housing100 was
+one of the earliest to recognize this distinction, although it did not specify the consequence of it. However,
+later panels have sought to do this. Thus, for instance, in Allianz Australia v Throne Ventures, citing
+Shanahan’s Australian Law of Trade Marks and Passing Off (4th ed, 2008), the panel observed as follows:
+
+In order to rely on this [paragraph 4(c)(i) of the auDRP], the registrant needs to demonstrate its
+use or preparations to use the domain name prior to being aware of the subject matter of the
+dispute, rather than simply prior to notice of the dispute itself. This slight variation from the
+UDRP prevents a registrant from using or preparing to use the domain name after knowing that
+there may be a dispute but before dispute proceedings are commenced.101
+
+Accordingly, under the auDRP, what becomes relevant is not the date of commencement of
+proceedings, but the date on which the respondent became aware of a dispute pertaining to the domain
+name.102 This means that any evidence of intended use of a disputed domain name for the bona ﬁde sale of
+goods or services that is derived from material prepared after the respondent becomes aware of the subject
+matter of the dispute is irrelevant for the purposes of this defence under the auDRP.103
+
+Both UDRP and auDRP panels have considered numerous instances where the question as to whether
+a respondent’s use of a domain name attracted sufﬁcient good faith in order to justify the domain name
+registration to remain in favor of the respondent. Among them, decisions where panels have had to
+consider the legitimacy in the use of domain names by those who resell, distribute or repair the
+complainant’s trademarked products are noteworthy and warrant discussion.
+
+212
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+A person that resells, distributes or repairs genuine trademarked products should be permitted to use
+the relevant trademark to describe this activity. This is an accepted exception to trademark rights
+recognized under trademark law and is necessary to maintain fair competition. By the same logic, when a
+domain name incorporates a trademark, which resolves to a webpage owned by a person that resells,
+distributes or repairs the products bearing that trademark, such use ought to be permitted as well.
+
+Under domain name law, this scenario comes squarely within the ﬁrst defence of bona ﬁde use.
+However, UDRP panels have set out strict criteria before this defence can be used by a domain name
+registrant (or respondent). In Oki Data v ASD 104 the Panel, having referred to previous UDRP decisions,
+formulated the following criteria that must be met by a respondent in order to establish bona ﬁde use of a
+disputed domain name on the basis that it was an authorized reseller of, and a repair center for, the
+complainant’s products:
+
+(1) The respondent must as a matter of fact be offering the goods or services at issue.105
+(2) The respondent must use the website (to which the domain name resolves) to sell only the
+
+complainant’s trademarked goods.106
+
+(3) The site must accurately disclose the registrant’s relationship with the trademark owner.107
+(4) The Respondent must not try to corner the market in all domain names, thus depriving the trademark
+
+owner of reﬂecting its own mark in a domain name.108
+
+Subsequent UDRP panels have followed the criteria set out in Oki Data v ASD, often referring to them
+as the “Oki Data principles”,109 which now represents the criteria in determining whether resellers,
+distributors and suppliers of repair services qualify for the defence.110 The Oki Data principles have later
+been extended to circumstances where a respondent had no express or implied authority to use the
+complainant’s trademark or deal with its products, but nevertheless was using the domain name to
+maintain a website in connection with the resale or repair of the complainant’s products.111
+
+Following Oki Data v ASD, auDRP panels have embraced the Oki Data principles as a means of
+balancing the competing interests between the parties to domain name disputes. Accordingly, the auDRP
+Overview 1.0 reﬂects the position under the auDRP in the following terms: “The more recent decisions of
+auDRP panels have adopted the principles set out in the UDRP case Oki Data Americas, Inc. v. ASD, Inc.,
+WIPO Case No. D20010903”.112 The rationale for accepting the Oki Data principles in the auDRP’s
+context was succinctly set out by the panel in Clark Equipment v AllJap:
+
+The consensus of panelists’ views on the fairest way of balancing the competing interests of
+the parties in such cases has been authoritatively dealt with in the Oki-Data decision, which in
+turn has been followed many times since.113
+
+In terms of the scope of the Oki Data principles, it is noteworthy that auDRP panels have extended the
+applicability of these principles beyond the realm of resellers,114 distributors115 and repair service
+providers.116 Thus, in Holden v Publishing Australia,117 the panel was required to consider whether the
+principles applied to a respondent that acted “as an agent for car purchasers—that is, the Respondent
+negotiates with authorized car retailers to secure the sale of a car to the client of its car-buying service”.118
+It was quite clear that the respondent did not engage in the resale, distribution or repair of the complainant’s
+branded vehicles. Applying the Oki Data principles to the respondent the panel observed:
+
+Although these services are not “reselling” services, they are, in the Panel’s opinion,
+sufﬁciently analogous to reselling services to make the principles established under the UDRP
+in respect of paragraph 4(c)(i) applicable to them. That is to say, the use of a domain name by a
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+213
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+buying agent can in certain circumstances be a bona ﬁde offering of services under that domain
+name. Thus, the Panel considers that the Respondent will have demonstrated a legitimate right
+or interest in the disputed domain name if its use of the disputed domain name complies with
+the four requirements of Oki Data and is otherwise bona ﬁde.119
+
+The decision in Holden v Publishing Australia was followed in BMW v Publishing Australia,120 where
+the Oki Data principles were applied to a buying agent. However, in Google v. Q Interactive,121 the
+respondent’s attempt to argue that the Oki Data principles should apply to an entity that maintained an
+online store that sold apps compatible (interoperable) with the complainant’s Android Operating System
+(“OS”) was rejected. In this case, the respondent had registered the domain name—“androidappsstore.
+com.au”—which resolved to a website that exclusively sold apps that were compatible with the Android
+OS. The panel was required to decide whether the respondent’s conduct came within the purview of
+paragraph 4(c)(i) of the auDRP and in particular the Oki Data principles. The panel observed that “[t]he
+Respondent is neither reselling or distributing goods or services supplied by the Complainant under the
+ANDROID trademark, nor providing services that are sufﬁciently analogous thereto”. Moreover, the panel
+sought to distinguish the dispute before it from Holden v Australia Publishing. The panel’s reasoning for
+its approach was explained in the following terms:
+
+. . .the role of the Respondent in this case is not one of reselling or distributing goods or
+services bearing the Complainant’s trademark; rather, it is one of distributing goods or
+services (in this case, apps) that are interoperable with other goods or services (in this case,
+the Android platform) that bear the Complainant’s trademark. In this Panel’s view, the
+provision of a second product that interoperates with a ﬁrst product is a scenario different
+from the reselling or distribution of a ﬁrst product, and so the Oki Data principles are not the
+ones most appropriate to the circumstances of this case.122
+
+This approach by the panel in Google v Q Interactive is not without issues. Holding that the Oki Data
+criteria did not apply to the respondent on the basis that it did not resell or distribute goods or services
+bearing the complainant’s trademark cannot be justiﬁed in view of the third category of entities to which
+the Oki Data principles have been incessantly applied in the past: that is, to persons involved in repairing or
+servicing products bearing a complainant’s trademark.123 For instance, a panel constituted under the
+UDRP, commenting speciﬁcally on the second Oki Data criteria, observed, “the Panel sees no difference
+between selling products or offering repair services for such products as far as this second element is
+concerned”.124 Thus, the Oki Data principles are not restricted to resellers and distributors. Second, the
+panel’s ﬁnding that the respondent’s services were not sufﬁciently analogous to “reselling services” is
+questionable. While it is true that the operations of the respondents in Holden v Publishing Australia and
+BMW v Publishing Australia were sufﬁciently analogous to reselling services, in that they were providing
+assistance to those interested in purchasing vehicles bearing the complainants’ trademarks, the same
+cannot be said about the provision of repair services. Arguably, if previous panels have applied the Oki
+Data principles to respondents providing repair services, it is difﬁcult to explain why the said principles
+should not apply to the respondent in Google v. Q Interactive. Nevertheless, this approach is not a cause for
+concern as the panel in Google v. Q Interactive recognized that the “interoperability” scenario will be
+caught up under the descriptive fair use defence available under paragraph 4(c)(ii) of the policy.
+
+In terms of the substance of the Oki Data principles, auDRP panels have generally followed their
+UDRP counterparts. In particular, the second (of the four) Oki Data principles—that the website to which
+the domain name resolves must be used only for the purpose of reselling or otherwise dealing with the
+complainant’s trademarked products—has been applied strictly to the Australian context.125 Notably,
+
+214
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+panels have held that the second criteria would not be satisﬁed if the resolving website made any reference
+to other websites (e.g. through hyperlinks) that offer products that compete with the complainant’s
+trademarked products,126 further ensuring that a fair balance is reached between the competing parties.
+This, however, does not mean that for the second Oki Data criteria to be satisﬁed a respondent must only
+engage in the resale of, or otherwise deal with, the complainant’s products alone, provided that the
+particular website to which the disputed domain name resolves is devoted entirely to promote the
+complainant’s products.127 Of course, in applying the second Oki Data criteria, a certain degree of restraint
+has been exercised by auDRP panels:
+
+. . . it is not necessary that the disputed Domain Name be devoted entirely to the sale of the
+trade marked goods, provided that the sale of other goods or services is peripheral and
+provided that those goods or services were not competitive with the trade marked goods.128
+
+It should be noted that UDRP panels have supported this approach. For example, when a panel ignored
+a single hyperlink to another website offering a brand of products that were non-competing with the
+complainant’s trademarked products in holding that the respondent satisﬁed the second Oki Data criteria,
+that reasoning was justiﬁed on the ground that the website to which the disputed domain name resolved
+was regarded “as one concerned overwhelmingly with (the complainant’s) products”.129 This permitted
+the panel to regard the single hyperlink as de minimis. However, if the panel was faced with a situation
+where hyperlinks contained in the website to which a disputed domain name resolved were more than de
+minimis, the outcome may have been different, even if the products promoted in those other websites were
+non-competing.
+
+Panels constituted under the auDRP have also expressed similar reservations in respect of the third
+
+Oki Data criteria:
+
+This Panel is not convinced that the Oki Data criteria should be accepted verbatim as
+authoritative under the Policy, especially the requirement that there be disclosure of the
+registrant’s relationship with the trademark owner. Here the active websites to which
+the domain names led did not falsely suggest that the registrant is the trademark owner nor that
+the website is the ofﬁcial website of the trademark owner. This Panel does not consider that,
+under these circumstances, any such disclosure is required in order to establish legitimacy.130
+
+Thus, although auDRP panels have fully recognized the need for the Oki Data principles in relation to
+the auDRP, they have applied them to the Australian context with caution ensuring that their application
+does not detract in any way from reaching a fair balance between the rights a complainant may have in
+relation to a trademark or name and the interests of a respondent to utilize a domain name for the bona ﬁde
+offering of goods or services.
+
+The Respondent Being Commonly Known by the Domain Name
+The second defence (safe harbor) that a respondent could rely on reﬂects a common defence that is also
+made available under trademark law: that is, the own name defence.131 This allows a domain name to be
+registered by a person or entity that is commonly known by that domain name.
+
+One of the key issues that this defence gives rise to is as to when a respondent could be regarded as
+being “commonly known” by the domain name. Thus, in circumstances where a domain name reﬂected the
+respondent’s real name,132 stage name,133 nickname134 or corporate name,135 UDRP panels have held that
+the respondent was commonly known by the domain name provided there was sufﬁcient evidence to that
+effect through the external use of that name, prior to registering the disputed domain name.136 In the case
+of a real name, establishing this defence should be straightforward since a real name is probably the name
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+215
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+by which a person is most commonly known. In relation to other types of names, including stage names,
+nicknames and corporate names, panels have been more cautious in evaluating the evidence in order to
+“guard against the opportunistic adoption of a name purely for the purpose of establishing rights or interest
+in a famous mark”.137 Thus, in Royal Bank of Canada v R.B.C. Bank, the panel was unable to hold that the
+respondent was commonly known by the domain name, because the corporate name from which the
+domain name was derived was not put into any form of use after the corporate name was registered. 138 In
+Sting v Urvan the panel held that the respondent was not commonly known by the name “STING”, as the
+only use of that name was as a username for an online gaming platform.139 The panel observed that the
+username, in fact, provided anonymity to the online gamer (respondent), rather than other online gamers
+being able to associate the username with the respondent.140 These examples demonstrate that UDRP
+panels have focused on the nature and extent of the use of the respondent’s name in circumstances where
+the name relied upon is not a real name in order to determine whether it is reasonable to conclude that the
+respondent is commonly known by that name. Thus, a mere assertion that a respondent is commonly
+known by a particular name is insufﬁcient to sustain this defence, in the absence of actual evidence of the
+name being externally used (as opposed to mere internal use).141 The standard of proof required to sustain
+this defence is a balance of probabilities.142
+
+Based on the manner in which this defence is framed, although it may be thought that panels should
+uphold the defence once respondents establish that they are commonly known by the domain name, there
+have been circumstances where the defence was denied. Thus, in Kraft Foods v The Pez Kiosk, the panel
+observed “[e]ven assuming that (‘SUGUS’) is indeed the familiar name by which many friends and
+collectors know [the respondent], it is noteworthy that the way in which “SUGUS” is used most
+prominently on his website in no way points to this personal connection”.143 In essence, the position under
+the UDRP is that even if the requirements under paragraph 4(c)(ii) of the Policy are met, the defence will
+fail if the domain name is used in a manner that takes unfair advantage of the reputation of the
+complainant’s name or trademark.
+
+Unlike under the UDRP, there have been only a very few instances where auDRP panels have had the
+opportunity to consider the second defence under auDRP’s paragraph 4(c).144 However, based on the few
+disputes decided under the auDRP, it may be posited that panels have followed the general approach under
+the UDRP in this regard. Thus, in the auDRP’s context, for panels to be satisﬁed that a respondent is
+commonly known by a disputed domain name, there must be substantial evidence145 to that effect. Such
+evidence is to be derived from events or conduct prior to the domain name being registered. Following the
+approach adopted by UDRP panels, the panel in Bernard v Bubenicek observed that:
+
+The common meaning of “rights or legitimate interests” does not, in the Panel’s view, admit a
+circumstance where a respondent becomes commonly known by a disputed domain name that
+it has registered with an intent to appropriate another’s trademark.146
+
+Ideally, evidence derived from “advertising, media recognition, or the extent of. . . sales under (a
+particular) name” may be capable of demonstrating that a respondent was commonly known by the
+name.147 Such advertisements and media campaigns must, however, bear the name a respondent seeks to
+rely on—e.g. the sale and distribution of “Lullaby Concepts Baby Monitors” would not allow a respondent
+to claim that it was commonly known by the name “Lullaby Conceptions”, especially when the
+complainant’s name was “Lullaby Conceptions Pty Ltd”.148 Thus, auDRP panels have often denied the
+defence where the name by which a respondent claims to be commonly known does not correspondent
+with the disputed domain name. The decision in Constable Care v The Big Bamboo149 is an apposite
+example. Here, the disputed domain name was “constablecare.com.au”. Although the respondent’s
+corporate name was not reﬂected in the domain name, it was in evidence that the respondent was the
+
+216
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+proprietor of the registered business name “Constable Care’s Safety Books”. There was sufﬁcient evidence
+that the respondent was commonly known by its business name “Constable Care’s Safety Books”. Thus,
+the panel had to decide whether the defence under paragraph 4(c)(ii) applied to the respondent. In this
+regard, the panel cited three UDRP decisions,150 of which it preferred to adopt the approach in John Hayes
+v Vaughan Enterprises and Kronopol v Lamwood, where the UDRP panels had placed emphasis on the
+distinctive elements common to both the domain name and the name claimed to be commonly used to
+identify the respondent.
+
+In addition, auDRP panels have also considered information in the WHOIS database (that establishes
+the registrant’s details of a given domain name) to determine whether or not the paragraph 4(c)(ii) defence
+could be sustained. Following their UDRP counterparts,151 auDRP panels have utilized WHOIS information
+to deny the defence to respondents. Thus, in ALDI Stores v Peter Gerard Colless,152 the disputed domain
+name was “aldionline.com.au”, whereas the WHOIS information indicated that the registrant was one Peter
+Gerard Colless. In the absence of any other evidence, the panel was satisﬁed that there was nothing to support
+the ﬁnding that the respondent might be commonly known by the disputed domain name.153
+
+At times, respondents have argued that they are commonly known by the abbreviation or acronym of a
+longer name. The approach adopted by auDRP panels in handling such claims has been consistent with the
+approach of their UDRP counterparts. Thus, in The Institute of Arbitrators & Mediators Australia (IAMA)
+v Adjudicate Today Pty Limited,154 an auDRP panel left open the possibility for a respondent to be
+commonly known by an acronym provided there was substantial evidence to that effect. In this case, the
+disputed domain name was “iama.com.au” and the respondent argued that it was commonly known as
+“IAMA” the abbreviated form of its business registration. The panel denied the defence on the lack of
+sufﬁcient evidence:
+
+Apart from the appearance of the business name registered in New South Wales,
+“Investigation, Adjudication, Mediation Australia”, as a headline on the website to which
+the disputed domain name has resolved since June this year, none of the extracts from the
+websites put in evidence by the Respondent appear to make any use of either of the registered
+business names on which the Respondent relies or of the acronym IAMA155
+
+However, the auDRP panel in MGM Home Entertainment and others v McIlroy Group Management
+Pty Ltd decided in favor of the respondent on the basis that they had a legitimate interest in using the
+disputed domain name “mgm.com.au” as it was the abbreviation of its corporate name ‘McIlroy Group
+Management Pty Ltd’.156 The panel came to this conclusion despite the respondent not ﬁling a response,
+failing to use the disputed domain name in relation to any online content, and also requesting the domain
+name could be transferred for a fee of AUD 100,000. However, in view of subsequent auDRP decisions,157
+the approach in MGM v McIlroy cannot be taken to represent the correct view under paragraph 4(c)(ii) of
+the auDRP.
+
+Legitimate Non-Commercial or Fair Use of the Domain Name
+The third defence incorporated in to paragraph 4(c) of both the policies seeks to recognize “the importance
+of non-commercial considerations, in that it is aimed at balancing trade mark rights against other non-
+commercial rights and interests, including ‘fair use’ rights and rights to (or interests in) freedom of
+expression”.158 In this regard, some of the most common, yet controversial, disputes that both UDRP and
+auDRP panels have had to deal with have involved criticism, information and fan websites.
+
+In the context of the UDRP, a key question that panels have had to address is whether the use of a
+domain name that is identical or confusingly similar to a complainant’s trademark for the purpose of
+maintaining a criticism, information or fan website could be regarded as legitimate non-commercial or fair
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+217
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+use. UDRP panels have been divided in their approach. Thus, some panels have taken the view that free
+speech rights, including the right to criticize, does not extend to cases where the domain name directing
+users to the relevant content are identical or confusingly similar to a trademark.159 In one UDRP decision
+the panel observed:
+
+The Panel acknowledges that a person is entitled to express his views in a wide variety of
+different ways and to various audiences. . . Furthermore, the Panel acknowledges that a person
+may make use of a domain name for this purpose, provided that. . . the domain name in
+question does not cause confusion or mislead the public.160
+
+On the other hand, some other panels have taken a more liberal approach. Thus, in Bridgestone v
+Myers,161 the panel held that a respondent was making legitimate use of “bridgestone-ﬁrestone.net” for a
+criticism site in circumstances where the complainant had trademark rights for both “Bridgestone” and
+“Firestone”. The panel observed:
+
+In this case, the Respondent’s principal purpose in using the domain name appears not to be for
+commercial gain, but rather to exercise his First Amendment right
+to criticize the
+Complainants. The use of the <trademark.net> domain name appears to be for the
+communicative purpose of identifying the companies, which are the subject of his complaints.
+He is not misleadingly diverting users to his website, as he has not utilized the <.com>
+domain and has posted adequate disclaimers as to the source of the website. It does not appear
+that his actions are intended to tarnish, or have tarnished, the Complainants’ marks.162
+
+Thus, where the domain name comprises a trademark in its entirety, the fact that the landing page is
+devoted to criticizing or providing information to consumers about the trademark at issue should sufﬁce for
+the defence to be allowed. This approach has been followed in subsequent decisions.163 The decision in
+HJTA v McCauley is important in this regard as it sought to draw a distinction between disputes where
+parties (or the panelists) were based in the United States, where free speech rights have greater protection,
+and disputes where parties (or panelists) were based in other countries guaranteeing a lesser extent of free
+speech rights.164 Referring to prior UDRP decisions, the panel observed that “[i]ndeed, many of the cases
+in which trademark.TLD domain names have been transferred, despite claims that the sites were being
+used for legitimate criticism, involved non-US parties or panelists”.165 The panel further observed that
+“[i]n cases involving US parties and/or panelists, on the other hand, a number of panels have ruled that the
+First Amendment does protect trademark.TLD domain names when they are used for legitimate criticism
+sites”.166 This panel, analyzing the decisions where panels have transferred domain names to complainants
+(despite being used for criticism websites) even where the parties were based in the United States,
+observed that in these disputes “criticism was not the respondent’s primary motive”.167 In summarizing the
+panel’s view as to what ought to be the position under the UDRP, the panel held:
+
+the weight of authority suggests that a consensus is emerging that trademark. TLD domain
+names, when used for U.S.-based criticism sites, can constitute a legitimate interest, especially
+if there are [no] other indicia of bad faith.168
+
+Unlike in the case of the UDRP, there have been much fewer auDRP disputes in which respondents
+have made the argument that the disputed domain name was being used for a legitimate non-commercial
+purpose divorced from any commercial activity.169 Yet, of these disputes, not one was decided in favor of a
+respondent on the basis that the domain name was being used for a legitimate non-commercial purpose.
+The auDRP Overview 1.0 states that the position under the auDRP is “unknown” and that:
+
+218
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+Thus, it is not clear whether  and, if so, in what circumstances   a respondent will be found to
+have rights or legitimate interests in a domain name by virtue of a noncommercial or fair use
+of it.170
+
+The auDRP Overview 1.0 expresses similar sentiments in respect of criticism and fan websites as
+well.171 Therefore, it is difﬁcult to determine as to which of the two UDRP approaches that auDRP panels
+are likely to follow in determining whether the use of a domain name in respect of a criticism, information
+or fan site amounts to legitimate non-commercial use. In Google v Rytsk, the panel acknowledged the
+divergence in the opinion expressed by UDRP panels in relation to this defence, although ultimately the
+panel did not have to decide the dispute on the basis of this defence.172 However, the panel shed some light
+as to what may be regarded as important in the Australian context in the following terms:
+
+What is fundamental, however, to all such considerations is whether the Respondent is
+conducting a criticism site as a matter of fact. In other words, if a respondent wishes to rely on
+the criticism site and free speech grounds, he must prove on the balance of probabilities that on
+the facts of the individual case it really is a criticism site that is being conducted and also that it
+is being conducted in the pursuit of free speech and not as a guise for an essentially commercial
+or other improper purpose.173
+
+In Google v Rytsk,174 the disputed domain name was “googlebay.com.au”, an instance where the
+complainant’s trademark was incorporated as part of the domain name. What if the respondent’s site was a
+genuine criticism site? Upon considering the panel’s language in this decision: “It is here that the
+Respondent’s case falls down. That is so because the Panel is not satisﬁed that the Respondent has
+established a genuine criticism site”, one might speculate that the panel may have decided in favor of the
+respondent had the site genuinely resolved to a criticism site. This raises the further question: what if the
+disputed domain name was “google.com.au”,175 thus leading to <Trademark>.<Tld>?
+
+Since UDRP panels themselves have drawn the distinction between disputes involving parties in the
+United States and others,176 it might be reasonable to posit that auDRP panels are likely to adopt the
+narrower approach, where free speech rights do not extend to the use of a domain name that is identical or
+confusingly similar to a trademark or name. After all, the Australian Constitution does not expressly
+guarantee any free speech rights, unlike the First Amendment to the Constitution of the United States,
+although the High Court has inferred its existence in a limited capacity.177 However, a perusal of the
+decisions thus far does not conﬁrm this supposition with accuracy.
+
+To illustrate, in UEIP v Fincar,178 the disputed domain name was “unitedenergy.com.au”, whereas
+the complainant had rights in the “United Energy” trademark. Thus, the domain name fully incorporated a
+trademark. In relation to the respondent’s defence under paragraph 4(c)(iii) of the auDRP, the panel
+observed: “The website of the domain name, as it currently stands, offers extensive information with
+respect to energy related issues. It also provides links to other energy related sites. If that were all that the
+website showed there may have been a showing of legitimate non-commercial or fair use of the domain
+name”.179 Thus, had the respondent not linked the website to other commercial sites, the paragraph 4(c)
+(iii) defence may have succeeded, despite the domain name being identical to the complainant’s mark.
+Similarly, in SKYCITY v Trellian, had the respondent actually ﬁled a response, the panel would have
+dismissed the complaint because:
+
+With even a very modest amount of effort the Respondent could have made out a legitimate
+interest in respect of the Disputed Domain Name by arguing in support of its right to operate a
+site warning of the dangers of gambling addiction and providing assistance to those adversely
+affected by an inability to control their gambling habits.180
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+219
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+Notably, the complainant’s business name in which it had rights and the disputed domain name were
+
+identical—“Adelaide Casino/adelaidecasino.com.au”.
+
+There are instances where panels have taken a different view. For example, in DEST v Blogger,181 the
+domain name “questacon.com.au”, and “QUESTACON” being the name of an educational institute under
+the complainant, the respondent argued that the site to which the domain name resolved was entirely about
+Questacon, which made use of the domain name legitimate. However, the panel held: “Internet users
+familiar with the name Questacon would expect the disputed domain name to lead to a website operated by
+the complainant”.182 Despite the respondent’s site being a non-commercial information website, the panel
+denied the defence under paragraph 4(c)(iii) to the respondent.
+
+Thus, it is unclear what approach auDRP panels will adopt in respect of a criticism, information or fan
+website that makes a non-commercial legitimate fair use of a domain name that is identical or confusingly
+similar to a name or trademark in which a complainant has rights. It seems that auDRP panels are as
+divided in their views as their UDRP counterparts.
+
+The Third Element
+
+Even though a complainant succeeds in establishing that a domain name, which is identical or confusingly
+similar to a trademark (or name in the auDRP’s context), is being used by a third party having no rights or
+legitimate interests to do so, a complaint would only ultimately succeed if one ﬁnal element were
+established. That is, the complainant must establish that the respondent also acted in bad faith—as required
+by paragraph 4(a)(iii) of both the UDRP and the auDRP.
+
+Paragraph 4(b) of both policies provide a non-exhaustive list of circumstances,183 which if found to
+
+exist is evidence of bad faith. The UDRP sets out these circumstances in the following terms:
+
+(1) Circumstances indicating that a domain name was registered or acquired primarily for the purpose of
+selling, renting, or otherwise transferring the domain name registration to the complainant who is the
+owner of the trademark or service mark or to a competitor of that complainant, for valuable
+consideration.
+
+(2) Registration of a domain name in order to prevent the owner of a trademark or service mark from
+reﬂecting that mark in a corresponding domain name, provided that the respondent had engaged in a
+pattern of such conduct.
+
+(3) The domain name was registered primarily for the purpose of disrupting the business of a competitor.
+(4) The use of the domain name, intentionally attempted to attract, for commercial gain, Internet users to
+the respondent’s website or other on-line location, by creating a likelihood of confusion with the
+complainant’s mark as to the source, sponsorship, afﬁliation or endorsement of your web site or
+location or of a product or service on your web site or location.184
+
+In contrast, the auDRP’s corresponding provision is much broader. Accordingly, the circumstances
+
+indicating bad faith under the auDRP are as follows:
+
+(1) Circumstances indicating that the domain name was registered or acquired primarily for the purpose of
+selling, renting or otherwise transferring the domain name registration to another person for valuable
+consideration.
+
+(2) Registration of a domain name in order to prevent the owner of a name, trademark or service mark
+
+from reﬂecting that name or mark in a corresponding domain name.
+
+(3) The domain name was registered primarily for the purpose of disrupting the business or activities of
+
+another person.
+
+220
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+(4) The use of the domain name intentionally attempted to attract, for commercial gain, Internet users to a
+web site or other online location, by creating a likelihood of confusion with the complainant’s name or
+mark as to the source, sponsorship, afﬁliation or endorsement of that web site or location or of a
+product or service on that web site or location.
+
+Dealing with the scope of the auDRP, the panel in Statoil v Creative Domain observed:
+
+. . .there are some signiﬁcant differences between paragraphs 4(b) of the two Policies, with the
+auDRP being somewhat less restrictive in relation to sub-paragraphs 4(b)(i) (may be sale, etc
+to “another person” rather than just to the Complainant), 4(b)(ii) (no need to show a “pattern of
+such conduct”) and 4(b)(iv)
+[the Respondent’s]
+website. . .”).185
+
+(“a website. . .” rather
+
+then “your
+
+In addition, although not mentioned by the panel in Statoil v Creative Domain, paragraph 4(b)(iii) of
+the auDRP is also broader as it has replaced the term “competitor” in the UDRP with “another person”.
+Thus, paragraph 4(b) of the auDRP is more favorable to complainants than its UDRP counterpart.
+
+However, upon an analysis of the various circumstances set out in paragraph 4(b) of both the policies,
+it may be reasonable to suggest that establishing bad faith on the part of a respondent is a superﬂuous
+exercise in circumstances where the complainant has demonstrated a lack of rights or legitimate interests
+on the part of the respondent in using the disputed domain name—for a lack of, at least, a legitimate interest
+should be sufﬁcient to dispel good faith on the part of a respondent. However, upon a closer consideration
+of the manner in which the “bad faith” element has been framed and worded under paragraph 4(a)(iii) in the
+respective policies, it is not surprising that auDRP panels have diverged signiﬁcantly from their UDRP
+counterparts in their analysis of the relationship between the “right and legitimate interests” and “bad
+faith” elements under the respective policies.
+
+The “and”/“or” Issue
+The third element as framed under the UDRP requires a complainant to establish that the disputed domain
+name “has been registered and is being used in bad faith”.186 Thus, the bad faith element in the UDRP
+imposes a conjunctive requirement. In contrast, under the auDRP the “and” has been replaced with “or”—
+thus, requiring a complainant to establish either bad faith registration of a domain name by the respondent
+or its bad faith use, but not both.
+
+The conjunctive language incorporated into the UDRP’s bad faith element resulted (and still does) in
+some problematic outcomes. For instance, when UDRP panels were initially faced with disputes involving
+domain names that were registered in bad faith, but were being passively held (i.e. without being used in
+relation to any active website), panels have had to overcome the difﬁculty imposed by the conjunctive
+requirement through innovative interpretation. Thus, in Telstra Corporation v Nuclear Marshmallows, in
+circumstances where the disputed domain name neither resolved to, nor was publicly advertized in relation
+to, any website or online location and where there was no evidence that the respondent had offered to
+transfer the domain name for valuable consideration, the panel observed:
+
+The signiﬁcance of the distinction is that the concept of a domain name “being used in bad
+faith” is not limited to positive action; inaction is within the concept. That is to say, it is
+possible, in certain circumstances, for inactivity by the Respondent to amount to the domain
+name being used in bad faith.187
+
+Similarly, in WWF v Bosman,188 even though the disputed domain name did not resolve to any active
+website, the respondent’s post-registration conduct in offering to sell the domain name to the complainant
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+221
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+was regarded as sufﬁcient
+to establish both bad faith registration and use for the purposes of
+UDRP’s paragraph 4(a)(iii). The general position in respect of non-use is reﬂected in the WIPO
+Overview 2.0:
+
+...panels have found that the apparent lack of so-called active use (e.g., to resolve to a website)
+of the domain name without any active attempt to sell or to contact the trademark holder
+(passive holding), does not as such prevent a ﬁnding of bad faith.189
+
+If not for this expansive interpretation by UDRP panels, circumstances in which a respondent
+registered a domain name in bad faith, but made no use of it in relation to any online content, could have
+resulted in disputes being decided in favor of the respondent, despite the respondent’s obvious bad faith.
+In contrast, auDRP panels have avoided this problematic outcome in view of the disjunctive language
+found in the policy’s paragraph 4(a)(iii). Thus, non-use of a domain name (passive holding) is immaterial if
+the domain name was registered in bad faith, as “the auDRP does not require a complainant to prove both that
+the disputed domain name has been registered and used in bad faith. Proof of either limb is enough to satisfy
+the requirements of Schedule A, paragraph 4(a)(iii)”.190 Nevertheless, auDRP panels have followed the
+approach adopted by their UDRP counterparts in holding that circumstances where the respondent offers to
+sell the domain name for valuable consideration is sufﬁcient to indicate bad faith use.191
+
+However, where the real problem lies is not with “non-use” situations, but rather with “subsequent”
+bad faith use situations. In view of the conjunctive language in the UDRP, there have been a signiﬁcant
+number of instances where panels have had to deny complaints despite there being very clear evidence of
+bad faith use of the disputed domain names at the time the complaints were lodged. Thus, in Telaxis
+Communications Corp v William E. Minkle192 the respondent registered the disputed domain name at a
+time when the complainant had not obtained trademark rights in the phrase comprising the domain name.
+However, notwithstanding the acquisition of trademark rights on the part of the complainant, the
+respondent refused to transfer the domain name to the complainant despite several requests and instead
+directed the domain name to competing and pornographic sites. Clearly, the use to which the respondent
+put the domain name was in bad faith. Yet, the panel denied the complaint on the basis that the original
+registration of the domain name was not in bad faith and hence the conjunctive requirement resulted in the
+complaint being denied. Similarly, in Miele v AACP193 the disputed domain name was registered when the
+respondent was an authorized distributor of the complainant’s goods. Later, even after the distributorship
+agreement was revoked, the respondent having refused to transfer the domain name to the complainant,
+directed the domain name to the website of a non-proﬁt organization. Despite evidence of bad faith use of
+the domain name, the panel denied the complaint as the original registration of the domain name was not in
+bad faith. The more recent decision of Cosmetic Research Group v John Miller,194 which shared a factual
+similarity with Miele v AACP, was decided in the exact same manner. Similarly, in Leipa Pack v Ulrich
+Brunhuber195 the domain name was registered with the complainant’s consent when the respondent was a
+shareholder of the complainant company. Despite the status quo subsequently changing, the panel denied
+the complaint on the basis of the conjunctive language in UDRP’s paragraph 4(a)(iii).
+
+What the above decisions demonstrate is that despite there being clear evidence of bad faith use at the
+time a complaint being ﬁled, if the domain name was originally registered in good faith, the complaint
+would be denied notwithstanding the obvious hardships caused to the complainant.196 This is a direct
+consequence of the conjunctive language used in the UDRP.197
+
+Since the auDRP utilizes disjunctive language in its corresponding bad faith provision,
+
+the
+problematic outcome surrounding cases of “subsequent” bad faith use prevailing under the UDRP does not
+persist under the auDRP. The general position under the auDRP has been summarized in the auDRP
+Overview 1.0 in the following terms:
+
+222
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+In any event, paragraph 4(a)(iii) of the auDRP requires that the domain name has been
+registered or subsequently used in bad faith for the third requirement to be satisﬁed. Unlike the
+equivalent provision in the UDRP, the word “and” is not used; thus, the issue of whether a
+complainant must establish both bad faith registration and bad faith use does not arise. As a
+result, registration  even one that is demonstrably in good faith  of the domain name prior to
+the complainant acquiring rights in its mark or name will not protect a respondent from a
+ﬁnding that the third requirement is satisﬁed where it is established that the respondent
+subsequently used the domain name in bad faith.198
+
+In Sterling Marine v The Trustee of the Costa Family Trust,199 which had similar facts to the UDRP
+decisions Miele v AACP and Leipa Pack v Ulrich Brunhuber, the panel decided in favor of the
+complainant, although the initial registration of the disputed domain name was not in bad faith. A similar
+outcome was reached in Cobb International v Cobb Australia, in which case although the respondent was
+permitted to register and use a domain name bearing the complainant’s trademark and business name
+during the existence of a distributorship agreement, this entitlement ceased when the distributorship
+agreement was terminated. In these circumstances, the panel observed in relation to the registration of the
+domain name:
+
+It is plain that the disputed domain name was registered and was being used in connection with
+the Distribution Agreement with the Complainant’s knowledge and consent. The registration
+of the disputed domain name, therefore, was not in bad faith.200
+
+The panel then considered the situation after the distributorship was terminated:
+
+The Panel considers that this passive retention of the disputed domain name to assist in
+negotiating a resolution of the commercial dispute between the parties qualiﬁes in the totality
+of the circumstances as use in bad faith under the Policy.201
+
+Thus, what these decisions demonstrate is that unlike in the case of the UDRP, in circumstances where
+only subsequent bad faith use of a domain name is claimed, a complaint would succeed irrespective of
+whether the respondent registered the domain name in good faith.
+
+The Relationship Between the “Bad Faith” and “Rights or Legitimate Interests” Elements
+The conjunctive language in the UDRP’s bad faith element, and the disjunctive language in the auDRP’s
+corresponding provision, has impacted the relationship between the bad faith element and the rights and
+legitimate interests element in the respective policies. Neither the WIPO nor the auDRP Overviews
+consider this issue.
+
+Both policies require that the complainant must establish all three elements in paragraph 4(a). The
+failure to establish even one element would result in the complaint being denied. Thus, in instances where a
+complainant fails to establish a lack of rights or legitimate interests to the domain name on the part of the
+respondent, panels have often denied the complaint on that basis alone, there being no necessity to consult
+the bad faith element under the policy.202 In any case, where a respondent does have a legitimate interest in
+using a disputed domain name, it is unlikely that the domain name is being used in bad faith.
+
+In circumstances where a complainant succeeds under the rights and legitimate interests element, the
+bearing that ﬁnding has on the panel’s ﬁnding under the bad faith limb depends on the policy applicable to
+the dispute. To illustrate this point, two similar disputes under both the policies may be compared: that is
+Miele v AACP (a dispute under the UDRP) and Cobb International v Cobb Australia (under the auDRP). In
+Miele v ACCP, the panel denied the complaint on the basis that the initial registration of the disputed
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+223
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+domain name was not in bad faith.203 However, in respect of the rights and legitimate interests element, the
+panel observed:
+
+The Panel ﬁnds that, as an authorized dealer of Miele vacuum cleaners, the Respondent
+initially had a legitimate interest in the domain name. The Panel notes that the Complainant
+has not alleged that the Respondent violated a dealership contract or agreement between them
+that limited the Respondent’s ability to use the MIELE mark. In the absence of a dealership
+contract or agreement between the parties that limited the Respondent’s interest in using the
+MIELE mark to bring attention to his authorized business selling Miele products, the Panel
+ﬁnds that the Respondent initially had a legitimate interest in the domain name.
+
+However, to the extent Respondent had such an interest, it was an interest derived from his
+dealership relationship with Complainant. Once the Respondent lost its status as an authorized
+dealer, the derivation of its interest terminated and it lost that legitimate interest in the domain
+name.204
+
+Thus, although at the time of the dispute the respondent clearly had no legitimate interests, let alone
+any rights, in using the domain name, the complaint was denied on the basis that the domain name was
+registered in good faith. In effect, a ﬁnding of a lack of rights or legitimate interests on the part of the
+respondent at the time of the dispute had no bearing whatsoever on the ﬁnding under the bad faith element
+and therefore the outcome of the decision.
+
+On the other hand, in Cobb International v Cobb Australia, although the auDRP panel found that the
+domain name was initially registered in good faith, it found that there was subsequent bad faith use. In
+these circumstances, the panel observed the following with respect to rights and legitimate interests:
+
+While Halcyon would appear to have been using the disputed domain name legitimately when
+the Distribution Agreement was on foot, it now says it has sold off all remaining stock on hand
+so, at present, it would not appear to have any rights or legitimate interests in the disputed
+domain name.205
+
+Thus, a ﬁnding that a respondent had no rights or legitimate interests in using the domain name at
+the time of the complaint was ﬁled would also lead to a ﬁnding that the domain name was being used
+in bad faith. Since, unlike in the case of the UDRP, the auDRP’s bad faith element does not entail a
+conjunctive requirement, it may be posited that there is a distinct relationship between the bad faith and
+rights and legitimate interests elements of the auDRP. In that, in every case where a complainant had
+succeeded under the rights and legitimate interests element of the auDRP, the complainant would have also
+succeeded under the bad faith element.206 However, as illustrated above, this is not the same situation
+under the UDRP.
+
+Conclusion
+
+The key objective of this paper was to perform a comparative and critical analysis of the key UDRP and
+auDRP decisions that have been considered over the period of time since the two dispute resolution
+policies came into existence. Although the auDRP has been derived from the UDRP, incorporating similar
+principles, there are some notable instances of divergence. While the divergence in the approaches of
+auDRP panels from their UDRP counterparts may be primarily attributed to the difference in the
+phraseology adopted under the two policies, there are also instances where panels have diverged despite
+identical language being used.
+
+224
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+First, the paper considered paragraph 4(a)(i) of both policies, which in the case of the UDRP requires a
+complainant to satisfy that the disputed domain name is identical or confusingly similar to a trademark or
+service mark in which the complainant has rights. The auDRP has broadened the scope for complainants
+by also allowing complainants to satisfy rights in respect of a name, in addition to a trademark or service
+mark. Decisions under the auDRP have given effect to this distinction. It was also noted that complainants
+under either policy may establish rights in registered trademarks irrespective of where they are registered.
+Despite the auDRP being applicable exclusively to Australian domain names (e.g. .com.au and .net.au), a
+majority of auDRP panels have allowed foreign trademark registrations to satisfy this criteria. However, in
+respect of unregistered trademarks, although UDRP panels have allowed complainants to set up rights
+through use of trademarks in any jurisdiction, auDRP panels have generally insisted that rights must
+emanate from within Australia. In effect, auDRP panels seem to discriminate between registered and
+unregistered marks. In respect of the establishment of identical or confusing similarity, it was noted that
+auDRP panels have tended to follow their UDRP counterparts, which has resulted in some of the
+uncertainties under the UDRP seeping into auDRP decisions.
+
+Second, the paper considered paragraph 4(a)(ii) of both policies, which deals with rights or legitimate
+interests of the respondent in respect of a dispute domain name. It was noted that auDRP panels have
+consistently followed the approach under the UDRP in respect of the burden of proof and have recognized
+the difﬁculty in proving a negative. The common approach under both the auDRP and UDRP is to require
+the complainant to establish a prima facie case that the respondent lacks any rights or legitimate interests in
+the disputed domain name, upon which the burden shifts to the respondent. Paragraph 4(c) in both policies
+sets out a non-exhaustive list of defences, which if did exist would exhibit rights or legitimate interests on
+the part of respondents.
+
+The ﬁrst of those defences (paragraph 4(c)(i)) under the UDRP deals with instances where a
+respondent had made bona ﬁde use of the domain name before notice of the dispute. The corresponding
+defence in the auDRP is worded differently, in that a respondent must establish bona ﬁde use before notice
+of the subject matter of the dispute. This has resulted in panels constituted under both the policies analysing
+the timing of facts claimed by parties to a dispute in different ways, resulting in a greater burden for
+respondents under the auDRP. However, in applying this defence to entities that have registered and used a
+disputed domain name for the resale, distribution and repair of a complainant’s trademarked products,
+auDRP panels have followed, albeit with some restraint, the “Oki Data” principles that were laid down in
+Oki Data v ASD, a decision under the UDRP.
+
+It was also noted that auDRP panels have followed the approach adopted under the UDRP in respect of
+the second defence (paragraph 4(c)(ii)) dealing with instances where a respondent is commonly known by
+the disputed domain name. Perhaps the only odd decision under the auDRP is MGM v McIlroy, which
+seems to have ignored prior decisions under both the policies and therefore cannot be regarded as setting
+out the correct view.
+
+The defence incorporated in paragraph 4(c)(iii) of both the policies refer to instances where a
+respondent demonstrates a legitimate non-commercial or fair use. This defence has been used to justify the
+use of domain names for criticism, information and fan websites on the basis of free speech doctrine.
+UDRP panels have been divided as to whether free speech rights extend to domain names themselves,
+especially where domain names are identical or confusingly similar to protected trademarks. Panels
+constituted under the auDRP have recognized this division, although since there have been only a few
+decisions where this defence has been considered, it is difﬁcult to ascertain which line of UDRP decisions
+would be preferred in the Australian context.
+
+Third, and lastly, the paper considered paragraph 4(a)(iii) of both policies, which deals with bad faith.
+On this issue reference was ﬁrst made to paragraph 4(b) of both policies, which sets out a non-exhaustive
+list of instances that could demonstrate bad faith on the part of respondents. It was noted that there are
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+225
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+aspects of paragraph 4(b) of the auDRP which are broader than the corresponding paragraph in the UDRP,
+resulting in the auDRP being more favorable to complainants.
+
+Paragraph 4(a)(iii) itself contains a key difference. While under the UDRP a complainant must satisfy
+that a respondent had both registered and used the disputed domain name in bad faith, under the auDRP it is
+sufﬁcient to satisfy either bad faith registration or subsequent bad faith use of the domain name. This has
+resulted in auDRP panels deciding in favor of complainants in instances where domain names were being
+used in bad faith at the time of the complaints being ﬁled, although respondents may have registered those
+domain names in good faith. In contrast, UDRP panels have generally denied complaints even if the
+disputed domain name was being used in bad faith at the time the complaint was ﬁled in the event it was
+shown that the original registration of the domain name was in good faith. It was noted that this aspect of
+paragraph 4(a)(iii) in the auDRP signiﬁcantly favors complainants, whereas the corresponding provision
+in the UDRP tends to lead to unjustiﬁable outcomes.
+
+Both the UDRP and auDRP have now entered their second decade, and have proven to be successful
+dispute resolution mechanisms given that the vast majority of domain name disputes are not decided in the
+courts, but are settled under the respective policies. As domain name jurisprudence continues to grow
+internationally, it will be important to undertake further critical and comparative studies in this area in
+order to develop a sophisticated understanding of the subtle differences (and similarities) in domain
+name law(s).
+
+About the Authors
+Dr. Alpana Roy, Associate Professor, School of Law, Western Sydney University, Australia; e-mail:
+alpana.roy@westernsydney.edu.au
+
+Althaf Marsoof, Doctoral candidate, Dickson Poon School of Law, King’s College London, United
+
+Kingdom; e-mail: althaf.marsoof@kcl.ac.uk
+
+Notes
+
+1. They are domain names ending with: .biz, .com, .info, .mobi, .name, .net, .org.
+2. This is an informal overview of auDRP panel positions on key procedural and substantive issues
+published by auDA. See auDA Overview of Panel Views on Selected auDRP Questions First Edition
+(July 2014) (“auDRP Overview 1.0”), auDA: <http://www.auda.org.a/assets/Policies/auDRP/
+auDRP-Overview/auDRP-Overview-2014b.pdf> at 27 October 2015.
+
+3. See WIPO Overview of WIPO Panel Views on Selected UDRP Questions, Second Edition (“WIPO Overview
+
+2.0”), WIPO: <http://www.wipo.int/amc/en/domains/search/overview/> at 27 October 2015.
+
+4. Service marks are essentially trademarks that are used in respect of services. The functions of service marks are
+precisely the same as trademarks, and therefore in this paper reference is only made to trademarks, unless the
+particular context requires otherwise.
+
+5. auDRP, Schedule A, paragraph 4(a)(i) (hereinafter, a reference to paragraph 4 of the auDRP refers to the
+
+paragraph in Schedule A of the policy).
+
+6. See e.g. RapidShare AG and Christian Schmid v majeed randi, WIPO Case No D2010-1089 (17 August 2010).
+7. See e.g. TrueLocal Inc., Geosign Technologies Inc. and True Local Limited v. News Limited, WIPO Case No
+
+DAU2006-0003 (29.5.2006) (“TrueLocal Inc. v News Ltd.”).
+
+8. Under the UDRP, see e.g. Aspen Grove, Inc. v Aspen Grove, WIPO Case No. D2001-0798 (5 October 2001);
+Spencer Douglass MGA v Absolute Bonding Corporation, WIPO Case No D2001-0904 (5 September 2001).
+Under the auDRP, see e.g. Marshmallow Skins, Inc. v Piipiinoo Australia Pty Limited WIPO Case No
+
+226
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+DAU2013-0015 (24 June 2013) (“Marshmallow Skins v Piipiinoo”); Avid Life Media Inc v Melody Carstairs,
+WIPO Case No DAU2011-0001 (9 March 2011).
+
+9. WIPO Overview 2.0, Question 1.1. See e.g. Drugstore.com, Inc. v. Nurhul Chee/Robert Murry, WIPO Case No
+
+D2008-0230 (9 May 2008):
+
+. . .it is consensus view among Panelists that if a complainant owns a registered trademark it
+satisfies the threshold requirement of having trademark rights. A decision on whether the
+Complainant can also claim rights in the Common-Law Mark is not necessary, as the
+Complainant undisputedly owns the Registered Mark, and the strength of such mark is not
+relevant in this regard either.
+
+10. See e.g. Brilliance Publishing, Inc. v My Brilliance Pty Ltd/Ceinwen Schneider, WIPO Case No. DAU2013-
+0007 (28 May 2013); We Buy Any Car Limited v Highway Auto Mart and Jason Collings, WIPO Case No.
+DAU2012-0004 (11 April 2012).
+
+11. See e.g. Rainbow Sandals, Inc. v. Malua Point Holdings Pty Limited, Anthony Brown/Malua Point Holdings Pty
+Limited a/k/a Malua Point Merchants, WIPO Case No DAU2013-0014 (7 July 2013); Smart Voucher Ltd T/A
+Ukash v Chowdhury, MD Abu Russel and Sydney Business & Technology Group Pty Ltd, WIPO Case No.
+DAU2013-0006 (8 May 2013); TeamViewer GmbH v Nigel Burke, WIPO Case No. DAU2012-0027 (19
+December 2012); Hutchinson Wines v Amphora Wine Group Pty Ltd, William Howard, WIPO Case No
+DAU2011-0008 (21 April 2011); TrueLocal Inc. v News Ltd. (n7).
+
+12. auDRP Overview 1.0, Question 1.1A.
+13. Marshmallow Skins v Piipiinoo (n8).
+14. Ibid.
+15. Ibid.
+16. Ibid.
+17. Ibid. But see, TrueLocal Inc. v News Ltd. (n7), where the panel disagreed with the decision in GE Capital
+Finance Australasia Pty Ltd v Dental Financial Services Pty Ltd, WIPO Case No DAU2004-0007 (7
+January 2005) (“GE Capital v Dental Financial”). In GE Capital v Dental Financial, the panel utilized
+the Domain Name Eligibility and Allocation Rules to hold that rights in relation to a trademark may even
+accrue where only an application for trademark registration has been submitted. However, in TrueLocal Inc. v
+News Ltd., the panel held that “[h]owever the basis on which a domain name is granted to a respondent is not the
+same as the basis on which a complainant may assert its rights under the Policy”. Thus, if TrueLocal Inc. v News
+Ltd. is the right approach, then the third reasoning supplied by the panel in Marshmallow Skins v Piipiinoo is
+doubtful.
+
+18. See e.g. La Mafafa, Inc. dba Cultura Profetica v Domains Real Estate, WIPO Case No D2009-0534 (1
+
+July 2009) (panel found “CULTURA PROFETICA” inherently distinctive).
+
+19. See e.g. Spanton Media Group Pty Limited v. Lion Global Pty Limited, WIPO Cases Nos DAU2007-0007 and
+DAU2007-0008 (2 January 2008) (panel found common law rights in respect of the words “BAR AWARDS”).
+Contrast, Alpine Entertainment Group, Inc. v Walter Alvarez, WIPO Case No D2006-1392 (22 January 2007)
+(panel found “Real Spankings” to be descriptive and there was no evidence of secondary meaning); WOW Audio
+Visual Superstores Pty Ltd v. Comonoz Pty Ltd, WIPO Case No DAU2007-0003 (24 July 2007) (panel found no
+common law trademark rights in the generic word “wow”).
+
+20. See e.g. GE Capital v Dental Financial (n17); We Buy Any Car Limited v Highway Auto Mart and Jason
+
+Collings, WIPO Case No DAU2012-0004 (11 April 2012) (“We Buy Any Car v Highway Auto Mart”).
+
+21. auDRP Overview 1.0, Question 1.1B.
+22. We Buy Any Car v Highway Auto Mart (n20).
+23. Ibid.
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+227
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+24. PayBurst Financial Technologies and Gregory Fx Iannacci v Virgin Blue Airlines Pty Ltd, WIPO Case No
+
+DAU2006-0001 (16 March 2006) (“PayBurst Financial Technologies v Virgin Blue Airlines”).
+
+25. See, SNC Jesta Fontainebleau v Po Ser, WIPO Case No D2009-1394 (21 November 2009) (“SNC Jesta v Po
+
+Ser”).
+
+26. See generally, H. W. Wertheimer, “The Principle of territoriality in trademark law of the common market
+
+countries” (1967)16 International and Comparative Law Quarterly 630.
+
+27. SNC Jesta v Po Ser (n25) (emphasis added).
+28. Ibid.
+29. See, WIPO Overview 2.0, Question 1.7.
+30. See, auDRP Overview 1.0, Question 1.6.
+31. Adjudicate Today Pty Limited v The Institute of Arbitrators and Mediators, WIPO Case No DAU2012-0033 (13
+
+March 2013).
+
+32. Ibid:
+
+The Policy therefore contemplates a potentially wider range of rights providing the foundation
+for a complaint than under the [UDRP].
+
+33. Tom Cruise v Network Operations Center/Alberta Hot Rods, WIPO Case No D2006-0560 (5 July 2006).
+34. Jim Carrey v BWI Domains, WIPO Case No D2009-0563 (16 June 2009).
+35. Jay Leno v Garrison Hintz, WIPO Case No D2009-0569 (26 June 2009).
+36. Beyonce Knowles v Sonny Ahuja, WIPO Case No D2010-1431 (15 October 2010).
+37. See e.g. Vanisha Mittal v. info@setrillonario.com, WIPO Case No D2010-0810 (8 August 2010); Margaret C.
+
+Whitman v. Domains For Sale, WIPO Case No D2008-1534 (1 December 2008).
+
+38. Shane Keith Warne v Sure Thing Services Pty Ltd, LEADR Case No auDRP10/08 (26 May 2010). In this case,
+the panel recognized rights on the part of the claimant in respect of his nickname, despite “WARNEY” and
+“WARNIE” being granted trademark registration to Flipper Underground Pty Ltd, to which the complainant
+had given his consent. Once the complainant had authorized a third party to register a trademark corresponding to
+his nickname, the panel doubted whether he could continue to enjoy common law trademark rights to his
+nickname:
+
+Whether that registration would deprive the Complainant of the corresponding common law
+trademarks that he claims is a potential problem for the Complainant as the Panel inclines to the
+view that it might, since the consent given by the Complainant in practical terms allows Flipper
+Underground Pty Ltd to appropriate the goodwill in those marks that formerly belonged to the
+Complainant.
+
+Nevertheless, the panel recognized the complainant’s right to his nickname on the basis that “[u]nlike
+the UDRP, which requires a complainant to establish rights in trademarks, the auDRP offers an
+additional ground to a complainant that can establish rights in a name. In this case the Panel is entirely
+satisﬁed that the Complainant is very well known as “Warne-y” or “Warney” or “Warnie” or any
+other phonetically equivalent spelling”.
+
+39. KJ Aldridge Investments Pty Ltd v Aldridge Electrical Industries Pty Ltd, LEADR Case No auDRP04/12 (25
+May 2012). Here, although the complainant’s company name was “KJ Aldridge Investments Pty Ltd.”, the panel
+recognized the complainant’s rights in respect of “Aldridge” as forming the most distinctive part of the name.
+
+40. WIPO Case No DAU2009-0001 (18 May 2009).
+41. See e.g. Multi-National Concepts Pty Ltd v 1300 Directory Pty Ltd, WIPO Case No DAU2009-0002 (7
+June 2009); Inbound Telecommunications Pty Ltd, Phonename Marketing Australia Pty Ltd v. 1300 Directory
+
+228
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+Pty Ltd, Demetrio Padilla, WIPO Case No DAU2009-0018 (21 April 2010) (although in this case there was a
+dissent).
+
+42. See, auDRP Overview 1.0, Question 1.1D.
+43. See, auDRP Overview 1.0, Question 1.2.
+44. See e.g. Arthur Guinness Son & Co. (Dublin) Limited v Dejan Macesic, WIPO Case No D2000-1698 (25
+
+January 2001).
+
+45. Advance Magazine Publishers Inc. d/b/a Conde Nast Publications v MSA, Inc. and Moniker Privacy Services,
+
+WIPO Case No D2010-2011 (7 February 2011) (“Advance Magazine Publishers v. MSA”).
+
+46. GlobalCenter Pty Ltd v Global Domain Hosting Pty Ltd, WIPO Case No DAU2002-0001 (5 March 2003)
+
+(“GlobalCenter v Global Domain Housing”).
+
+47. The Stanley Works and Stanley Logistics, Inc. v Camp Creek Co., Inc., WIPO Case No D2000-0113 (13
+
+April 2000) (“The Stanley Works v Camp Creek”).
+
+48. Toyota Jidosha Kabushiki Kaisha d/b/a Toyota Motor Corporation v S&S Enterprises Ltd., WIPO Case No.
+
+D2000-0802 (9 September 2000) (“Toyota v S&S Enterprises”).
+
+49. Nokia Corporation v Nokiagirls.com a.k.a IBCC, WIPO Case No D2000-0102 (18 April 2000) (“Nokia v
+
+Nokiagirls.com”).
+
+50. Blue Sky Software Corp. v Digital Sierra Inc. and Abdullah Khan, WIPO Case No D2000-0165 (27 April 2000)
+
+(“Blue Sky Software v Digital Sierra”).
+
+51. Toyota v S&S Enterprises (n48).
+52. Planned Parenthood Federation of America, Inc. v Bucci, 1997 U.S. Dist. LEXIS 3338, No. 97–0629 (S.D.N.Y.
+
+Mar. 24, 1997).
+
+53. Toyota v S&S Enterprises (n48).
+54. See e.g. Sterling Marine Pty Ltd v The Trustee for The Costa Family Trust Case No. LEADR-auDRP02/13 (23
+April 2013); Camper Trailers WA Pty Ltd v Off Road Equipment Pty Ltd, LEADR Case No auDRP06/04 (12
+November 2004) (“Camper Trailers v Off Road Equipment”); BlueChip InfoTech Pty Limited v Roslyn Jan and
+Blue Chip Software Development Pty Ltd, LEADR Case No auDRP06/03 (23 December 2003); The Crown in
+Right of the State of Tasmania trading as “Tourism Tasmania” v Gordon James Craven, WIPO Case No
+DAU2003-0001 (16 April 2003) (“Tourism Tasmania v Gordon James Craven”).
+
+55. Ibid.
+56. Camper Trailers v Off Road Equipment (n54).
+57. See e.g. Jean Heitz v Ghidella, Rosalia, WIPO Case No DAU2011-0023 (18 October 2011), Telstra Corporation
+Limited v Mikhail Doubinski and Yury Sharafutdinov trading as AAA Marketing World, WIPO Case No
+DAU2006-0008 (5 October 2006); Productreviews.com.au Pty Ltd v Job Search Business Systems Pty Ltd,
+IAMA Case No 3763 (18 June 2013); Macquarie Group Limited v McQuarie Group Pty Ltd / Roland Storti,
+WIPO Case No DAU2012-0028 (8 March 2013); Kelly’s Distributors Pty Ltd v Name of Respondent: Rybu Pty
+Ltd., LEADR Case No auDRP11/10 (29 June 2010) (panel noted that the domain name was “substantially
+identical and confusingly similar” to the complainant’s mark); Tigerdirect Inc. v Jim Sun, Sun’s Sons Pty Ltd,
+WIPO Case No DAU2010-0005 (5 May 2010); Google Inc. v Jan Jeltes, WIPO Case No DAU2008-0012 (20
+October 2008).
+
+58. See e.g. Wachovia Corporation v Peter Carrington, WIPO Case No D2002-0775 (2 October 2002); Humana
+Inc. v Cayman Trademark Trust, WIPO Case No D2006-0073 (7 March 2006); Edmunds.com, Inc. v Digi Real
+Estate Foundation, WIPO Case No D2006-1043 (6 October 2006).
+
+59. See e.g. Express Scripts, Inc. v Whois Privacy Protection Service, Inc./Domaindeals, Domain Administrator,
+WIPO Case No D2008-1302 (1 December 2008) (panel found “EXPRESS SCRIPTS” confusingly similar to
+“expresscripts.com” with no reference to essential or virtual identity); Mejeriforeningen Danish Dairy Board v
+Cykon Technology Limited, WIPO Case No D2010-0776 (14 July 2010) (panel found “LURPAK” confusingly
+similar to ‘lurpa.com” with no reference to essential or virtual identity).
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+229
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+60. See, auDRP Overview 1.0, Question 1.10, which indicates that the general position is the same as under the
+
+UDRP.
+
+61. See, auDRP Overview 1.0, Question 1.2.
+62. This conclusion could be reached in view of the panel’s approach in GlobalCenter v Global Domain Housing.
+63. Nikon, Inc. and Nikon Corporation v Technilab, WIPO Case No D2000-1774 (26 February 2001).
+64. GlobalCenter v Global Domain Housing (n46).
+65. One of the most recent cases to do so is Liposonix, Inc. v Robert Fam, Cosmedix Pty Ltd, WIPO Case No
+DAU2015-0019 (15 July 2015) where the panel cited Tourism Tasmania v Gordon James Craven (n54) where it
+was observed:
+
+. . .the test of confusing similarity under the Policy is confined to a comparison of the disputed
+domain name and the name or trademark alone, independent of the other marketing and use
+factors usually considered in trademark infringement or unfair competition cases.
+
+66. See e.g. Confo Pty Ltd v Meridian Project Consulting Pty Ltd, LEARD Case No auDRP05/11 (16 May 2011);
+Marketstorm Australia Pty Limited v ACN 140 859 892 Pty Ltd (t/a Recoup Debt Recovery), WIPO Case No
+DAU2011-0026 (28 December 2011); Pelican Products, Inc. v Terri Curyer, WIPO Case No DAU2011-0021
+(26 October 2011); 1SaleADay L.L.C. and Benyamin Federman v LivinWireless, Simon Mochkin and Eli
+Feiglin, WIPO Case No DAU2010-0016 (27 September 2010). However, some panels have found in favor of the
+respondent on the basis that the complainant’s mark and the disputed domain name are highly descriptive and
+therefore one entity ought not to be allowed exclusive use of that term (see e.g. Find Marketing Pty Ltd v Troy
+Holland and Taryn Green, LEADR Case No auDRP09/11 (22 July 2011) (“Find Marketing v Troy Holland”);
+Objective Ware Pty Ltd v Select Software Telecommunications Pty Ltd, IAMA Case No 2757 (28 April 2005)).
+In fact, since this type of reasoning is irrelevant to the analysis under the ﬁrst limb, a subsequent panel in Leaders
+Computers Pty Ltd v Australian Flourish Pty Ltd, LEADR Case No auDRP05/12 (13 June 2012), preferred not to
+follow the reasoning in Find Marketing v Troy Holland).
+
+67. See e.g. OASE Asia Paciﬁc Ltd v Wiﬁtech Ltd, LEADR Case No auDRP13/11 (10 January 2012).
+68. See e.g. Clark Equipment Company v AllJap Machinery Pty Ltd, WIPO Case No DAU2011-0042 (5
+March 2012); Telstra Corporation Limited v CQ Media Group Pty Ltd, WIPO Case No DAU2008-0023 (3
+March 2009); Woolworths Limited v Cracka IP Pty Ltd, WIPO Case No DAU2011-0028 (18 October 2011).
+69. See e.g. RUGGEDCOM, Inc. v James Krachenfels, WIPO Case No D2009-0130 (7 April 2009). For an example
+from the auDRP context, see, Cambridge Nutritional Foods Limited and Cambridge Manufacturing Company
+Limited v Cambridge Diet Pty Ltd, WIPO Case No DAU2010-0021 (16 February 2011).
+
+70. See, auDRP Overview 1.0, Question 1.9.
+71. See, WIPO Overview 2.0, Question 1.9. See e.g. Nintendo of America Inc. v Fernando Sascha Gutierrez, WIPO
+Case No D2009-0434 (8 June 2009) (the panel found that the addition of the terms “download” and “unlimited”
+to the “WII’ trademark in forming the disputed domain name resulted in a confusing similarity). In the auDRP’s
+context, see e.g. Clark Equipment Company v R & R Equipment Pty Ltd, WIPO Case No DAU2012-0011 (4
+June 2012) (the panel found that the addition of the term “sales” to the complainant’s mark “BOBCAT” did not
+avoid a confusing similarity).
+
+72. Societe Air France v MSA, Inc, WIPO Case No D2007-0143 (19 April 2007) (“Air France v MSA”). See also,
+
+Societe Air France v Virtual Dates, Inc, WIPO Case No D2005-0168 (24 May 2005).
+
+73. Asda Group Limited v Mr Paul Kilgour, WIPO Case No D2002-0857 (11 November 2002) (“Asda v Mr. Paul
+Kilgour”). See also, Joseph Dello Russo M.D. v Michelle Guillaumin, WIPO Case No D2006-1627 (27
+April 2007).
+
+74. Wal-Mart Stores, Inc. v Richard MacLeod d/b/a For Sale, WIPO Case No D2000-0662 (19 September 2000)
+
+(“Wal-Mart v Richard MacLeod”).
+
+230
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+75. Ibid. See also, Bakers Delight Holdings Ltd v Andrew Austin, WIPO Case No D2008-0006 (25 February 2008);
+Sermo, Inc. v CatalystMD, LLC, WIPO Case No D2008-0647 (2 July 2008); The Royal Bank of Scotland Group
+plc, National Westminster Bank plc A/K/A NatWest Bank v Personal and Pedro Lopez, WIPO Case No D2003-
+0166 (9 May 2003); Deutsche Telekom AG v AdImagination, WIPO Case No DWS2006-0001 (4 January 2007).
+76. See, Chubb Security Australia PTY Limited v Mr. Shahim Tahmasebi, WIPO Case No D2007-0769 (13
+
+August 2007).
+
+77. See, auDRP Overview 1.0, Question 1.3.
+78. Camper Trailers v Off Road Equipment (n54).
+79. LEADR Case No auDRP 15/04 (15 June 2015). See also, example Messages on Hold Australia Pty Ltd v Media
+Group Pty Ltd, LEADR Case No auDRP14/14 (5 January 2015); Adultshop.com Pty Ltd v Josh Marsden,
+Importa Pty Ltd, WIPO Case No. DAU2015-0002 (13 March 2015); Tooling Australia Inc v Austool Ltd (In
+Liquidation), IAMA Case No 3045 (6 April 2007). A Similar view has been expressed by UDRP panels as well
+(see e.g. America Online, Inc v Jonathan Investments Inc, and AOLNEWS.COM, WIPO Case No. D2001-0918
+(14 September 2001)).
+
+80. See generally, Mark P. McKenna, “Trademark Use and The Problem of Source” (2009) University of Illinois
+
+Law Review 773.
+
+81. See, UDRP and auDRP, paragraph 4(a)(ii).
+82. See, paragraph 4(a) of both the UDRP and auDRP. The phraseology adopted in the opening sentence of
+paragraph 4(a) of both policies, which compels a respondent to submit to a mandatory administrative proceeding
+where a complainant establishes the three elements in paragraph 4(a)(i)-(iii), implies a general evidentiary
+burden on the part of complainants.
+
+83. Do The Hustle, LLC v Tropic Web, WIPO Case No D2000-0624 (21 August 2000) (“Do The Hustle v Tropic
+
+Web”).
+
+84. See e.g. VeriSign Inc., v VeneSign C.A., WIPO Case No D2000-0303 (28 June 2000) (the panel found that the
+complainant had failed under the second limb, even though the respondent had failed to participate in the
+proceedings); Beijing Pernot Ricard Winery Co. Ltd. v Capital Enterprises Group, Inc., eResolution Case No
+AF-0177 (18 June 2000) (the panel observed that “[a]lthough [Paragraph 4(c)] is couched in terms of the
+respondent ‘demonstrating’ its rights or legitimate interest, it is for the complainant to establish their absence”.);
+Gassen Diamonds B.V. v Van Etten Bernardus Joacbus, eResolution Case No AF-0149a; AF-0149b (25
+May 2000) (the panel observed “[a]s far requirement under point (ii) above (illegitimacy) is concerned,
+Complainant did not submit any evidence that Respondent had no rights or legitimate interests in respect of the
+domain name”.).
+
+85. Educational Testing Service v Netkorea Co., WIPO Case No D2000-0087 (4 April 2000) (the panel observed
+that “[i]t is relatively difﬁcult for any complainant to prove beyond a shadow of a doubt that a respondent has no
+rights or legitimate interests in a domain name. By and large, such information is known to and within the control
+of the respondent. Accordingly, the burden on a complainant in respect of this element must, by necessity, be
+relatively light”.). See also, Europay International S.A. v Eurocard.com, Inc., EuroCard.org, and Chad
+Folkening, WIPO Case No D2000-0173 (22 May 2000).
+
+86. See, Wal-Mart Stores, Inc. v Walmarket Canada, WIPO Case No D2000-0150 (2 May 2000).
+87. See e.g. Do The Hustle, LLC v Tropic Web, WIPO Case No D2000-0624 (21 August 2000) (“Do The Hustle v
+Tropic Web”); Document Technologies, Inc. v International Electronic Communications, Inc., WIPO Case No.
+D2000-0270 (6 June 2000); Inter-Continental Hotel Corporation v Khaled Ali Soussi, WIPO Case No D2000-
+0252 (29 January 2001); Neusiedler Aktiengesellschaft v Vinayak Kulkarni, WIPO Case No D2000-1769 (5
+February 2001).
+
+88. See, Do The Hustle v Tropic Web (ibid).
+89. See, WIPO Overview 2.0, Question 2.1.
+90. See, auDRP Overview 1.0, Question 2.1.
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+231
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+91. Australian Drivers Rights Association v Australian Dust Removalists Association, IAMA Case No 2351 (3
+
+January 2003).
+
+92. This was the second decision to be awarded under the auDRP (see n46).
+93. See Minespec Services Pty Ltd v MINESPEC.COM, Cleanrite Australia Pty Ltd, Minespec Compliance Pty Ltd,
+WIPO Case No DAU2012-0019 (6 August 2012) (“The Panel ﬁnds that the Complainant has made out a
+prima facie case, but that the Respondent has provided substantial evidence to rebut it. As such, the
+Complaint cannot succeed”.). See also, e.g., Banque Pictet & Cie SA v Alan Meltzer, WIPO Case No DAU2015-
+0017 (18 June 2015); Liposonix, Inc. v Robert Fam, Cosmedix Pty Ltd., WIPO Case No DAU2015-0019 (15
+July 2015).
+
+94. Find Marketing Pty Ltd v Troy Holland and Taryn Green, LEADR Case No auDRP 09/11 (22 July 2011) (“Find
+
+Marketing v Troy Holland”).
+
+95. Private Real Estate Pty Limited v Chris Papas, IAMA Case No 3665 (18 February 2013) (“Private Real Estate v
+
+Chris Papas”).
+
+96. See, n79.
+97. Andrea Chick v Countrynet Software Pty Ltd, LEADR Case No auDRP05/15 (16 July 2015) (“Andrea Chick v
+
+Countrynet Software”)
+
+98. Under the corresponding paragraph in the auDRP, the respondent’s use or preparations to use the domain name
+or name corresponding to the domain name in connection with the bona ﬁde offering of goods or services must
+have been made before any notice of the “subject matter” of the dispute.
+
+99. See, UDRP, paragraph 4(c)(i–iii). Note that the auDRP contains the identical provision with minor variations.
+100. See, n36.
+101. Allianz Australia Insurance Limited and Allianz Australia Limited v Throne Ventures Pty Limited, WIPO Case
+No DAU2010-0012 (20 July 2010) (“Allianz Australia v Throne Ventures”). UDRP panels have also given a
+fairly broad interpretation to the phrase “notice of a dispute”. See e.g. R.T. Quaife Engineering v Luton, WIPO
+Case No D2000-1201 (14 November 2000) (“R.T. Quaife v Luton”):
+
+When the Policy refers to the “dispute”, that cannot mean solely the filing of a Complaint under
+the Policy. Otherwise it would create a disincentive for complainants to contact cybersquatters in
+an effort to resolve a dispute short of initiating a formal proceeding. Rather, the reference to
+“dispute” must be read more broadly to include any disagreement between the parties concerning
+the domain name or trademark at issue. . .
+
+102. See, United Parcel Service of America, Inc. v Wesley Bryant, WIPO Case No DAU2009-0012 (11
+
+February 2009) and Blurb Inc. v Rethink IT Pty Ltd., WIPO Case No DAU2009-0008 (28 October 2009).
+
+103. See e.g. Tina Arena v Enigmatic Minds Pty Ltd, LEADR Case No auDRP01/07 (17 March 2007), Princess
+Yachts International Plc v Graham Stephens, LEADR Case No auDRP08/07 (3 August 2007), Zillow Inc. v
+Felix-Hoffman Anne-Simone, WIPO Case No DAU2006-0015 (1 March 2007) (here the Panel held that the
+Respondent’s Australian trademark application relating to the word “ZILLOW”, which comprised the domain
+name, was made after the Respondent became aware of the dispute), Premier Fire Protection Services (NSW)
+Pty Ltd and Premier Fire v Nixon Safety Pty Ltd, LEADR Case No auDRP07/05 (17 August 2005) and Overture
+Services, Inc. v Overture Search, WIPO Case No. DAU2004-0002 (28 September 2004).
+
+104. Oki Data Americas, Inc. v. ASD, Inc., WIPO Case No D2001-0903 (6 November 2001) (“Oki Data v ASD”).
+105. See e.g. World Wrestling Federation Entertainment, Inc. v Ringside Collectibles, WIPO Case No D2000-1306
+
+(24 January 2001).
+
+106. See e.g. Nikon, Inc. v Technilab, WIPO Case No D2000-1774 (26 February 2001); Kanao v J.W. Roberts Co.,
+WIPO Case No 0109 (25 July 2001). But in Weber-Stephen Products Co. v Armitage Hardware, WIPO Case No
+D2000-0187 (11 March 2000) and Freni Brembo S.p.A. v Webs We Weave, WIPO Case No D2000-1717 (19
+
+232
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+March 2001), the panels have ignored the use of the respondent’s website to sell competing products on the basis
+that those “instances appear to be minor”.
+
+107. See e.g. Houghton Mifﬂin Co. v Weatherman, Inc., WIPO Case No D2001-0211 (25 April 2001); Easy Heat, Inc.
+
+v Shelter Prods., WIPO Case No D2001-0344 (14 June 2001); R.T. Quaife v Luton (n101).
+
+108. See e.g. Magnum Piering, Inc. v Mudjackers, WIPO Case No D2000-1525 (29 January 2001).
+109. See e.g. Xtralis Technologies Limited v Secusense BV, WIPO Case No DNL2014-0055 (26 February 2015).
+110. See, WIPO Overview 2.0, Question 2.3.
+111. Philip Morris Incorporated v Alex Tsypkin, WIPO Case No D2002-0946 (13 February 2003). This approach has
+been followed in subsequent decisions including LINBIT Information Technologies GmbH v Technical Support,
+WIPO Case No D2014-1528 (14 October 2014).
+
+112. See, auDRP Overview 1.0, Question 2.3.
+113. Clark Equipment Company v AllJap Machinery Pty Ltd WIPO Case No DAU2011-0042 (5 March 2012) (“Clark
+
+Equipment v AllJap”).
+
+114. See e.g. Pangaea Laboratories Ltd., Paciﬁc Direct Intertrading Pty Ltd. v Astrix Pty Ltd., WIPO Case No
+DAU2015-0013 (3 June 2015); Aastra Telecom Inc. v Spring Mountain Enterprises Pty Ltd., WIPO Case No
+DAU2008-0003 (9 April 2008).
+
+115. See e.g. Topﬁeld Co. Ltd v Jai Kemp and Digital Products Group Pty Ltd, t/a Topﬁeld Australia, formerly Paige
+Communications Pty Ltd, WIPO Case No DAU2008-0002 (21 April 2008) (“Topﬁeld v Jai Kemp”); Terra Plana
+International Ltd. v The Summer House Australia Pty Ltd / Tanya Greenwood, WIPO Case No DAU2012-0025
+(22 November 2012).
+
+116. See e.g. GM Holden Ltd. v Bradley John Lawless, WIPO Case No DAU2010-0010 (23 May 2010).
+117. GM Holden Ltd. v Publishing Australia Pty Ltd., WIPO Case No DAU2011-0002 (7 March 2011) (“Holden v
+
+Publishing Australia”).
+
+118. Ibid.
+119. Ibid.
+120. Bayerische Motoren Werke Aktiengesellschaft v Publishing Australia Pty Ltd, WIPO Case No DAU2011-0024
+
+(24 November 2011) (“BMW v Publishing Australia”).
+
+121. Google Inc. v Q Interactive Pty Ltd/Mr. Victor Quinteros, WIPO Case No. DAU2012-0026 (14 January 2013)
+
+(“Google v Q Interactive”).
+
+122. Ibid (emphasis added).
+123. See, n116.
+124. AB Electrolux v Nguyen van su Ong, WIPO Case No D2012-1852 (18 December 2012) (emphasis added).
+125. See e.g. Clark Equipment Company v R & R Equipment Pty Ltd., WIPO Case No DAU2012-0011 (4 June 2012);
+Veneziano Coffee Pty Ltd. v Rick Caspersen, WIPO Case No DAU2012-0009 (22 May 2012); Illycaffe S.p.A. v
+John Frisco & Associates Pty Ltd trading as Illycafe/CEW Pty Ltd., WIPO Case No DAU2015-0009 (23
+April 2015).
+
+126. See e.g. Giorgio Armani S.p.A. v Essential Mall Pty Ltd., WIPO Case No DAU2011-0011 (13 May 2011);
+Proxxon S.A. v Woodworking Machinery Specialists Pty Ltd., WIPO Case No DAU2009-0017 (19
+February 2010).
+
+127. See e.g. Holden v Publishing Australia (n117).
+128. Aston Martin Lagonda Limited v Frenbray Pty Ltd, LEADR Case No auDRP09/06 (3 March 2006).
+129. ITT Manufacturing Enterprises, Inc., ITT Corporation v Douglas Nicoll, Differential Pressure Instruments, Inc.,
+
+WIPO Case No D2008-0936 (7 November 2008).
+
+130. Topﬁeld v Jai Kemp (n115).
+131. See e.g. Trade Marks Act 1995 (Cth), s120 which allows third parties to use a registered trademark when the use
+
+amounts to a good faith use of a personal name or name of a business.
+
+132. See e.g. G.A. Modeﬁne SA v A.R. Mani, WIPO Case No D2001-0537 (20 July 2001).
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+233
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+133. See e.g. A.S.T. Sportswear, Inc. v Steven R. Hyken, WIPO Case No D2001-1324 (26 March 2002); Toyota Motor
+
+Sales USA Inc. v J. Alexis Productions, WIPO Case No D2003-0624 (16 October 2003).
+
+134. See e.g. Penguin Books Limited. v The Katz Family, WIPO Case No D2000-0204 (20 May 2000).
+135. See e.g. I.K.B. Deutsche Industriebank AG v Bob Larkin, WIPO Case No D2002-0420 (23 July 2002); CITGO
+
+Petroleum Corporation v Mathew S. Tercsak, WIPO Case No D2003-0003 (28 February 2003).
+
+136. Thus, a respondent cannot rely on the registration and subsequent use of the disputed domain name to make avail
+of this defence. The respondent must have been commonly known by the name (which is reﬂected in the disputed
+domain name) before the domain name was registered. See e.g. Yakka Pty Ltd v Mr. Paul Steinberg, WIPO Case
+No D2004-0502 (3 September 2004); Madonna Ciccone, p/k/a Madonna v Dan Parisi and “Madonna.com”,
+WIPO Case No D2000-0847 (12 October 2000).
+
+137. See, Lindsay (2007, p.319). This approach has been adopted under the auDRP as well. The auDRP Overview (at
+
+Question 2.7B) thus provides that:
+
+The fact that a respondent has registered a business name or a company name does not, of itself,
+establish that
+the respondent has rights or legitimate interests in the domain name that
+corresponds to the business name or the company name.
+
+138. WIPO Case No D2002-0672 (20 November 2002).
+139. Gordon Summer, p/k/a Sting v Michael Urvan, WIPO Case No D2000-0596 (19 July 2000) (“Sting v Urvan”).
+140. Ibid.
+141. See Lindsay The Clorox Company v Marble Solutions, WIPO Case No D2001-0923 (20 November 2001); E.
+
+Remy Martin v Ramy Fahel, WIPO Case No D2001-1026 (11 October 2001).
+
+142. See, Playboy Enterprises International, Inc. v Michael Ross, WIPO Case No D2014-2077 (21 January 2015).
+143. Kraft Foods North America Inc. v The Pez Kiosk, WIPO Case No D2001-1191 (8 November 2001) (“Kraft
+
+Foods v The Pez Kiosk”).
+
+144. Although the auDRP Overview 1.0 provides that “[i]t appears that no auDRP case has yet found that a respondent
+is “commonly known” by a domain name” (see, response to Question 2.1B), there have been a few instances
+where panels have in fact considered this defence.
+
+145. Bernard Janes v L.J. Bubenicek & A. J. Main, A&L Technologies, WIPO Case No DAU2010-0014 (6
+
+September 2010) (“Bernard v Bubenicek”).
+
+146. Ibid, citing two UDRP cases (see, n136 and cases cited therein).
+147. Ibid.
+148. Lullaby Conceptions Pty Ltd v Neverscope Pty Ltd, IAMA Case No 3064 (5 July 2007).
+149. Constable Care Child Safety Foundation Inc. v The Big Bamboo Production Co. Pty Limited, WIPO Case No
+
+DAU2013-0001 (8 March 2013) (“Constable Care v The Big Bamboo”).
+
+150. Banco Espırito Santo S.A. v Bancovic, WIPO Case No D2004-0890 (16 December 2004); John Hayes v Vaughan
+Enterprises, WIPO Case No D2004-0531 (27 August 2004) and Kronopol Sp. z o.o v Lamwood Products (1990)
+Limited, Levana Schwartz, WIPO Case No D2007-1596 (“Kronopol v Lamwood”) (26 December 2007).
+
+151. UDRP panels have consistently held that the mere appearance of the respondent’s name in an entry relating to
+a disputed domain name in the WHOIS database does not without more entitle a respondent to claim that he/
+she is commonly known by that name. See e.g. Paule Ka v Paula Korenek, WIPO Case No D2003-0453 (24
+July 2003); The American Automobile Association Inc. v AAA-Vacationsunlimeted, WIPO Case No D2009-
+0373 (3 May 2009); The American Automobile Association, Inc. v AAA Auto Find, WIPO Case No D2012-
+2042 (21 December 2012). Similarly, some UDRP panels have denied the defence to respondents on the basis
+that the WHOIS information does not support a ﬁnding that the respondent was commonly known by the
+domain name. See e.g. LK International AG v Fundacion Private Whois, WIPO Case No D2013-0135 (4
+March 2013).
+
+234
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+152. WIPO Case No DAU2012-0032 (1 February 2013).
+153. Ibid.
+154. WIPO Case No DAU2012-0021 (13 September 2012) (“IAMA v Adjudicate Today”).
+155. Ibid.
+156. WIPO Case No DAU2003-0006 (29 December 2003) (“MGM v McIlroy”).
+157. Such as IAMA v Adjudicate Today and Bendigo Community Telco Ltd v IT Company Pty Ltd, LEADR Case No
+
+auDRP14/04 (30 May 2014).
+
+158. Lindsey (n137), 322.
+159. See e.g. Monty and Pat Roberts, Inc. v J. Bartell, WIPO Case No D2000-0300 (13 June 2000); Skattedirektoratet
+v Eivind Nag, WIPO Case No D2000-1314 (18 December 2000); Myer Stores Limited v Mr. David John Singh,
+WIPO Case No D2001-0763 (10 July 2001).
+
+160. Anastasia International Inc. v Domains by Proxy Inc./rumen kadiev, WIPO Case No D2009-1416 (18
+
+January 2010) (emphasis added).
+
+161. Bridgestone Firestone, Inc., Bridgestone/Firestone Research, Inc., and Bridgestone Corporation v Jack Myers,
+
+WIPO Case No D2000-0190 (6 July 2000) (“Bridgestone v Myers”).
+
+162. Ibid (emphasis added).
+163. See e.g. TMP Worldwide Inc. v Jennifer L. Potter, WIPO Case No D2000-0536 (5 August 2000).
+164. Howard Jarvis Taxpayers Association v Paul McCauley, WIPO Case No D2004-0014 (22 April 2004) (“HJTA v
+
+McCauley”).
+
+165. Ibid.
+166. Ibid.
+167. Ibid.
+168. Ibid.
+169. See e.g. Arena Entertainment Pty Ltd v Alex Haddad, LEADR Case No auDRP05/05 (27 June 2005); Tina Arena
+v Enigmatic Minds Pty Ltd, LEADR Case No auDRP01/07 (17 March 2007); Australian Government
+Department of Education, Science and Technology v Blogger Pty Ltd, IAMA Case No 3058 (2 June 2007)
+(“DEST v Blogger”); Google Inc. v Dmitri Rytsk, WIPO Case No DAU2007-0004 (8 August 2007) (“Google v
+Rytsk”); UEIP Pty Ltd v Fincar Pty Ltd, WIPO Case No DAU2007-0010 (13 December 2007) (“UEIP v
+Fincar”); Google Inc. v Jan Jeltes, WIPO Case No DAU2008-0012 (20 October 2008); SKYCITY Adelaide Pty
+Ltd v Trellian Pty Ltd, IAMA Case No 3353 (24 October 2009).
+
+170. auDRP Overview 1.0, Question 2.1C.
+171. auDRP Overview 1.0, Questions 2.4 and 2.5.
+172. Google v Rytsk (n169).
+173. Ibid.
+174. Google v Rytsk (n169).
+175. This is merely for illustrative purposes. “Google.com.au” is registered by Google Inc.
+176. See, n164–168 and accompanying text.
+177. See, Lange v Australian Broadcasting Corporation (1997) 189 CLR 520.
+178. UEIP v Fincar (n169).
+179. Ibid (emphasis added).
+180. SKYCITY v Trellian (n169).
+181. DEST v Blogger (n169).
+182. Ibid.
+183. See e.g. Telstra Corporation Limited v Nuclear Marshmallows, WIPO Case No D2000-0003 (18
+February 2000); Jupiters Limited v Aaron Hall, WIPO Case No D2000-0574 (3 August 2000) both of which
+are cases under the UDRP. These UDRP cases have been cited in the auDRP’s context in Birchbox, Inc. v Nabil
+Sabet, WIPO Case No DAU2012-0035 (18 February 2013).
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+235
+
+Alpana Roy and Althaf Marsoof
+
+auDRP and UDRP Domain Name Decisions
+
+184. UDRP, paragraph 4(b)(i–iv)
+185. Statoil ASA v Creative Domain Pty Ltd./Christine K. Hoyer, WIPO Case No DAU2013-0012 (18 June 2013)
+
+(“Statoil v Creative Domain”).
+
+186. UDRP, paragraph 4(a)(iii).
+187. WIPO Case No D2000-0003 (18 February 2000). See also, the following literature that addresses this point:
+
+Moreira (2004, pp.153–154); Badgley (2001, p.384).
+
+188. World Wrestling Federation Entertainment, Inc. v Michael Bosman, WIPO Case No D99-0001 (14
+
+January 2000) (“WWF v Bosman”).
+
+189. See, WIPO Pverview 2.0, Question 3.2.
+190. Bathox Australia Pty Ltd v Haresh Bhojwani, WIPO Case No DAU2011-0040 (20 February 2013).
+191. See, auDRP Overview 1.0, Question 3.2. See also, e.g. Sterling Marine Pty Ltd v Etolin Pty Ltd, LEADR Case
+
+No auDRP03/13 (16 April 2013).
+
+192. WIPO Case No D2000-0005 (5 March 2000).
+193. Miele Inc v Absolute Air Cleaners and Puriﬁers, WIPO Case No D2000-0756 (11 September 2000) (“Miele v
+
+AACP”).
+
+194. WIPO Case No D2012-0014 (11 May 2012).
+195. Leipa Pack Srl v Ulrich Brunhuber and SC Health Care Packaging SRL WIPO Case No D2005-0920 (8
+
+November 2005) (“Leipa Pack v Ulrich Brunhuber”).
+
+196. There have been a few instances where UDRP panels have attempted to overcome the conjunctive language. See
+
+example Jappy GmbH v Satoshi Shimoshita, WIPO Case No D2010-1001 (28 September 2010):
+
+Accordingly, in our view the requirement that the domain name “has been registered and is being
+used in bad faith” can, in certain circumstances, be satisfied in the absence of bad faith intent
+upon initial registration where such registered domain name is being used in bad faith.
+
+Yet, more recent panel decisions (e.g. Networks Limited, Extreme Drinks Limited v Ex Drinks LLC, WIPO Case
+No D2013-0197 (18 March 2013)) have preferred to give full effect to the conjunctive language, which seems to
+be the view of most UDRP panels.
+
+197. Notably, in e-Duction, Inc. v John Zuccarini, d/b/a The Cupcake Party and Cupcake Movies, a panel constituted
+under the UDRP observed “the Policy is deliberately limited in scope and, accordingly, unable to address all
+instances of domain name misuse. Any changes, whether to the conjunctive ‘registration and use’ requirement
+[. . .] would have to be publicly debated and formally adopted by ICANN”. Unfortunately, and despite the
+problematic outcome of the conjunctive language in the UDRP’s bad faith limb, ICANN has not reconsidered its
+approach. This is evidenced by the continued use of the conjunctive language in ICANN’s latest introduction, the
+Uniform Rapid Suspension System (“URS”), which aims to offer lower-cost and faster relief for right-holders
+experiencing the most clear-cut cases of infringement.
+
+198. auDRP Overview 1.0, Question 3.1.
+199. LEADR Case No auDRP13/02 (24 April 2013).
+200. Cobb International Limited v Cobb Australia & New Zealand (Pty) Ltd, WIPO Case No DAU2013-0005 (23
+
+April 2013) (“Cobb International v Cobb Australia”).
+
+201. Ibid.
+202. For an example under the UDRP, see, Mr. A.C.S. Pinedo v Marvyn Josefa, WIPO Case No. D2011-0152 (11
+March 2011). For an example under the auDRP, see, Michael Sweep v Douglas Berry, WIPO Case No
+DAU2012-0008 (23 May 2012).
+
+203. See, n193 and accompanying text.
+204. Ibid.
+205. Cobb International v Cobb Australia (n200).
+
+236
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+auDRP and UDRP Domain Name Decisions
+
+Alpana Roy and Althaf Marsoof
+
+206. See e.g. Pelican Products, Inc. v Terri Curyer, WIPO Case No DAU2011-0021 (26 October 2011), Bayerische
+Motoren Werke Aktiengesellschaft v Gregory James Talifero, WIPO Case No DAU2011-0009 (25 April 2011),
+Mothercare Plc v Arthur Jason Bobrow, LEADR Case No auDRP01/10 (18 February 2010). The only exception
+to this is Sharp Corporation of Australia Pty Ltd v Sharp Computing Services Pty Ltd, LEADR Case No
+auDRP11/09 (11 February 2010), where the panel denied the complaint despite there being clear evidence of bad
+faith use at the time of the complaint and the respondent not making legitimate use of the domain name for almost
+ﬁve years preceding the complaint. This decision has been criticised elsewhere by these authors (Roy and
+Marsoof, 2015).
+
+References
+
+Armon, O. (2003) ‘Is This as Good as it Gets? An Appraisal of ICANN’s Uniform Domian Name Dispute Resolution
+
+Policy (UDRP) Three Years After Implementation’, Review of Litigation 22, 99–141.
+
+Badgley, R. (2001) ‘Internet Domain Names and ICANN Arbitration: The Emerging “Law”’, Texas Review Law &
+
+Politics 5, 343–392.
+
+Bender, M. (2007) ‘What’s in Name: Domain Name Disputes Involving Trademarks in Australia’, Monash Business
+
+Review 3, 1–15.
+
+Lindsay, D. (2007) International Domain Name Law. Hart Publishing, Oxford.
+Moreira, J. (2004) ‘Making an Informed Choice Between Arbitration or Litigation: The Uniform Domain-Name
+Roy, A. and Marsoof, A. (2015) ‘“Bad Faith” and “Rights or Legitimate Interest” Under Domain Name Law  
+
+Dispute Resolution Policy vs the Anti-Cybersquatting Act’, IDEA 44, 147–166.
+
+Emerging Themes From the UDRP and auDRP’, Media and Arts Law Review 20, 282–305.
+
+© 2016 John Wiley & Sons Ltd
+The Journal of World Intellectual Property (2016) Vol. 19, no. 5–6
+
+237
+
+

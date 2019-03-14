@@ -1,0 +1,4313 @@
+DOI: 10.1111/jwip.12092
+
+ORIGINAL ARTICLE
+
+Do formal and informal protection methods
+affect firms' productivity and financial
+performance?
+
+Naqeeb Ur Rehman1
+
+| Fei Yu2
+
+1 Faculty of Economics and Administrative
+Sciences, Epoka University, Tirana, Albania
+
+2 Tsinghua University, Tsinghua, China
+
+Correspondence
+Naqeeb Ur Rehman, Faculty of Economics
+and Administrative Sciences, Epoka
+University, Tirana, Albania.
+Email: nrehman@epoka.edu.al
+
+The main objective of this paper is to investigate the direct
+relationship between formal and informal protection meth-
+ods and firms' productivity and financial performance. This
+study used Chilean firms' level data. The principal findings
+are that micro, small and medium-sized enterprises (MSMEs)
+with informal protection methods positively influence
+productivity and financial performance. Moreover, the
+results show that formal and informal protection methods
+are interconnected. Their joint effect accelerates firms'
+productivity and makes financial performance stronger as
+compared to using a single protection method. This outcome
+is robust across SMEs and large firms. Thus, this finding
+suggests that using a combination of formal and informal
+protection method benefits firms' productivity and financial
+performance. The managerial
+implications of this study
+suggest that business managers/owners could use multiple
+protection methods (a mix of formal and informal) to
+increase their
+In
+addition, to support innovation in Chilean firms, economic
+policies must encourage innovation in small businesses
+through subsidies (tax credits) and R&D grants, as well as
+awareness of the use of protection methods.
+
+firms' productivity and profitability.
+
+K E Y W O R D S
+productivity and financial performance, protection methods
+
+© 2018 The Authors. The Journal of World Intellectual Property © 2018 John Wiley & Sons Ltd
+
+270 | wileyonlinelibrary.com/journal/jwip
+
+J World Intellect Prop. 2018;21:270–288.
+
+REHMAN
+
+1 |
+
+INTRODUCTION
+
+| 271
+
+Intellectual property rights (IPRs) are effective tools for protecting firms' innovation output from imitation. These IPRs
+are also known as protection methods in the innovation literature. Protections methods not only generate additional
+revenues for firms but also provide them with strategic competitive advantage (see, Spithoven, Vanhaverbeke, &
+Roijakkers, 2013). This study focuses on firm's formal (requiring legal measures with registration costs) and informal
+(based on trust and relationship and not requiring registration costs) protection methods and their association with
+firm's productivity and financial performance. In order to protect innovation, firms use different combinations of
+formal (patents, copyrights, and trademarks) and informal (secrecy and confidentiality agreements) methods (Hall,
+Helmers, Rogers, & Sena, 2014). However, for a firm, the choice between formal and informal protection methods
+depends on the innovation output. For instance, many firms prefer to use patents for product innovation and secrecy
+for process innovation. Similarly, firms' adoption of formal and informal protection methods may also depend on the
+degree of novelty of the innovation. A firm can use patents for a radical innovation (new to the world) and secrecy for
+incremental type of innovations (new to the business) (see Hanel, 2008). However, both formal and informal methods
+require costs: patents are usually expensive, and for secrecy or confidentiality agreements firms may require active
+knowledge management in the form of internal secrecy policy (see Hall et al., 2014).
+
+Regarding the benefits of protection methods, these methods (patents, trademark, copyrights, utility model,
+secrecy etc.) reduce information asymmetry and it is easy for small firms to secure external credit backed by IPRs
+(Rossenfosse, 2012); increase firms' revenue through monopoly power and could help domestic economy in securing
+foreign direct investment (Yang, Huang, & Lin, 2014). Moreover, protection methods discourage imitation and
+increase employees' loyalty through the reputational incentives (Thoma & Zimmermann, 2013). Further, Hagedoorn
+and Zobel (2015) empirical study of 101 manufacturing firms concludes that firms with strong protection methods
+(patents, copy rights, brands, and trade secrecy) are more likely to engage in open innovation activities with customers,
+suppliers and competitors. Such protection methods not only protect knowledge but also encourage open firms to
+exchange that knowledge with external partners in order to value their innovation output.
+
+In short, the aim of this empirical study is to examine the direct relationship between protection methods (formal
+and informal) and firms' productivity and financial performance. Based on Chilean micro level data, these formal
+(patents, utility models, branding, and plant variety methods etc.) and informal
+(secrecy and confidentiality
+agreements) protection methods represent the importance of property rights to firms, as measured on a Likert scale.
+This study is novel and contributes to the existing knowledge in several ways. First, previous studies (Jensen &
+Webster, 2006; Passi & Valkokari, 2010; Thoma & Bizer, 2013) neglected to make a direct estimation of the relation
+between protection methods (both formal and informal) and Chilean firms' performance. Second, past studies reveal a
+research gap in terms of empirical analysis of the interrelation between formal and informal protection methods and
+their joint effect on Chilean firms' performance. To measure the firms' performance, two proxies have been used; first,
+productivity (total factor productivity) and second, financial performance (net profit margin). Profitability ratio is
+crucial for firms' long term existence and it is regarded as a major source of small firms' capital when considering their
+external constraint. Further, protection methods are connected to firms' output, that is, increasing their productivity
+and thus profiting from their innovation. To analyze the impact of protection methods on firms' performance, the data
+were split into four size categories, that is, micro, small, medium (MSMEs), and large enterprises. This strategy
+investigates the link between protection methods and firms' performance more appropriately than taking a single size
+of firm'. Overall, the research paper formulated the following research questions: Do formal and informal protection
+methods affect firms' productivity and financial performance? and, How the interrelation between formal and
+informal protection affect firms' productivity and financial performance?
+
+Concerning the empirical approach, this paper uses a Tobit regression model (based on censored data) to analyze
+the relationship between protection methods and firms' productivity and financial performance. The principal
+outcome of the Tobit regression analysis suggests that informal protection methods positively affect SMEs'
+productivity and financial performance more than they do more those of large firms. However, no association is found
+
+272 |
+
+REHMAN
+
+between formal protection methods and MSMEs productivity and financial performance. Interestingly, use of
+interactive variables of formal and informal protection methods further accelerates the productivity and financial
+performance of SME and large firms. This outcome indicates that the joint effect of formal and informal protection
+method on productivity and financial performance is stronger than that of a single protection method. This paper is
+structured as follows: Section 2 provides a review of the literature and Section 3 presents the methodology and
+research context of the paper. Section 4 discusses the obstacles to firms' innovation and Section 5 provides the
+empirical results. Lastly, Section 6 concludes the study and presents policy implications.
+
+2 | THEORETICAL BACKGROUND
+
+Several studies (Huggins & Weir, 2012; Jensen & Webster, 2006; Naqshbandi & Kaur, 2015; Spithoven et al., 2013)
+stressed the importance of protection methods in determining small firms' innovation performance. Past studies
+corroborate that innovation alone is not sufficient to maximize firms' profits, but that a simultaneous protection
+mechanism is essential to monetize their innovations using formal and informal protection methods. Jensen and
+Webster (2006) panel study of Australian manufacturing and services SMEs asserted that the use of formal protection
+methods (patents, trademarks, and designs) is a key factor in SMEs innovation performance. Based on a panel study of
+open innovation practices in 1427 Belgian SMEs, Spithoven et al. (2013) concluded that innovation performance of
+SMEs is strongly driven by protection methods. In support of Spithoven et al. (2013), Eppinger and Vladova (2013) also
+stressed the importance of protection methods (patents, trademarks, copyright, and secrecy) in three German
+pharmaceutical SMEs to profit from their innovation output. Similarly, Naqshbandi and Kaur (2015) conducted a cross-
+sectional survey of 339 High-Tech manufacturing firms (pharmaceutical, electronics, and aerospace) from Malaysia.
+They found that formal (patent) and informal (secrecy) protection methods are effective innovation mechanisms for
+Malaysian firms. Comparatively, Huggins and Weir (2012) paper on small knowledge-intensive business services (KIBS)
+found that low innovation in small firms' leads to high cost of protection methods (e.g., cost of patent application and
+renewal and the litigation cost). The aforementioned studies apparently indicate that protection methods (formal and
+informal) encourage innovation in SMEs and thus accelerate productivity and profitability.
+
+In contrast, a number of researchers (Boldrin & Levin, 2013; Frietsch, Neuhausler, & Rothengatter, 2013; Kitching
+& Blackburn, 1998; Olander, Hurmelinna-Laukkanen, & Mohnen, 2009) argued that formal protection methods are
+costly for SMEs due to their resource constraint. Previous studies (see Frietsch et al., 2013) provided two major
+reasons for the low level of formal protection methods in SMEs. First, there is a lack of R&D expenditure in small firms
+which results in low innovation output, and this discourages small firms from protecting their innovation output.
+Second, the cost of patent application and renewal is high, and litigation and defending patents fees is often high
+(Thoma & Zimmermann, 2013). Thus, when cost exceeds benefits, SMEs rely less on formal protection methods. On
+the other hand, Passi and Valkokari (2010) study on 40 Finnish and Dutch public firms' argued that informal protection
+methods (confidentiality contracts) are important to protect the loss of firms' tacit knowledge and convert it to explicit
+knowledge. Similarly, empirical evidence is provided by Kitching and Blackburn (1998) regarding the use of informal
+methods (customer-supplier relationship, trade secrets) in British SMEs. A study based on Italian manufacturing firms
+by Bolisani, Paiola and Scarso (2013) found that small firms prefer to use informal methods to protect their innovation
+output.
+
+Concerning the link between protection methods and SMEs performance, numerous studies (e.g., Agostini,
+Caviggioli, & Filippini, 2015; Agostini, Filippini, & Nosella, 2016; Fischer, Volckner, & Sattler, 2010; Paallysaho &
+Kuusisto, 2011) analyzed the relationship between protection methods (both formal and informal) and SMEs
+performance. Ghapar, Brooks, and Smuth (2014) found that patent activity in Malaysian SMEs significantly influenced
+their net profit margin. Thoma and Zimmermann (2013) study on 1257 German SMEs found that protection methods
+such as utility models (petty patents), trademarks, and retaining employees over the long term positively affected
+(2010) argued that branding products increases the
+SMEs innovation performance. Similarly, Fischer et al.
+
+REHMAN
+
+| 273
+
+productivity of SMEs because brand-loyal customers are willing to pay a higher price. Another study by Paallysaho and
+Kuusisto (2011) examined the formal and informal protection methods in small businesses in the UK and Finish service
+sector. They showed that informal practices such as secrecy, restricted access to information, technical protection,
+and staff rotation were more prevalent in the UK and Finnish small businesses compared to formal protection
+methods (patents) and that these informal practices significantly improved their performance. In addition, Hanel
+(2008) investigated the IPR methods in Canadian manufacturing firms. Based on a logit regression analysis, Hanel
+found that the use of IPRs significantly improved firm's innovation and profitability performance. In sum, to the best of
+this author's knowledge, there no empirical study has been conducted to examine the impact of protection methods
+on Chilean firms' productivity and financial performance. Based on previous findings, this study has extracted four
+hypotheses, as follows:
+
+H1: Formal protection methods positively influence SMEs' productivity.
+H2: Informal protection methods positively influence SMEs productivity.
+H3: Formal protection methods have a positive impact on SMEs' financial performance.
+H4: Informal protection methods have a positive impact on SMEs' financial performance.
+
+2.1 | Interrelatedness of protection methods
+
+SMEs use various types of protection methods. Paallysaho and Kuusisto (2011) stated that UK and Finnish SMEs
+utilized formal (patents) and informal (secrecy) protection methods to accelerate business performance. Spithoven
+et al. (2013) study of Belgium SMEs suggested that SMEs use of diverse protection methods significantly improves
+their innovative product sales. While Hall et al. (2014) qualitative study implied that the choice of protection method
+(formal or informal) depends on the innovation output. According to Hall et al. (2014), secrecy is effective for process
+innovation and patents are useful for product innovation. Similarly, Olander, Vanhala, and Hurmelinna-Laukkanen
+(2014) pointed out the interconnectedness between formal (patents, copyrights, and trademarks) and informal
+(secrecy and employees contracts) protection methods analyzing 209 Finnish firms'. They argued that the choice of
+formal and informal protection mechanism depend on the firms' invention. For instance, a firm' with an original idea
+(technological innovation) can protect it from imitation by legal means, that is, using a patent, copyright or trademark,
+while protecting the tacit knowledge embodied in employee' does not require costly protection methods. For
+example, using HR practices (informal) such as reducing employees' turnover, increasing staff commitment and
+providing training could protect knowledge flows between firms. Moreover, Graham and Somaya (2006) investigated
+the interrelationship between protection methods in US software firms. Using seemingly unrelated regression, they
+found that complementary link exist between copyrights and trademarks from common inputs of organizational
+resources (managerial attentiveness to protection methods). To conclude, previous studies indicate that firm use
+simultaneously diverse protection methods to protect their inventions. However, these studies failed to address the
+interconnectedness between formal and information protection methods and their joint effect on the Chilean firms'
+productivity and financial performance. To examine the statistical
+link of interrelatedness between these two
+protection methods and firms' performance, an additional hypothesis is developed, as follows:
+
+H5: The interrelatedness of formal and informal protection methods positively influence firms' productivity
+and financial performance.
+
+3 | DATA SOURCE
+
+Chilean firm level data was accessed from the Ministerio de Economia de Chile and were initially gathered by the
+National Institute of Statistics (INE) in 2015. Regarding the number of observations, 4057 firms responded to the
+
+274 |
+
+REHMAN
+
+survey. However, only 2,304 (56.7% of the total) provided financial information (sales). Further, the sample size
+dropped to 1,568 (39%) due to missing information on variables such as capital and materials. The postal survey was
+mainly targeted at registered firms (tax payers). The data provided information on key variables such as R&D,
+protection methods (IPRs), financial performance (sales and assets) and obstacles to innovation. In addition, the survey
+covered 15 regions of Chile including the capital Santiago (67.37%), as well as Valparaiso (6.29%), Del Biobio (5.20%),
+Los Lagos (2.59%), La Araucania (2.59%), Antofagasta (2.34%) and so forth. Table 1 presents information on the survey
+data which covered the different sectors of the economy. Predominantly, the data were collected from firms in
+defence and social security (33.3%), manufacturing (almost 15%) and so forth (see Table 1 for details). This paper has
+included firms from all sectors of the economy for two reasons: First, this strategy can generalize the results for all
+sectors; second, splitting the data in terms of manufacturing or services sector reduces the sample size significantly,
+resulting in insignificant estimates.
+
+In addition, Table 2 presents information on the firms' size categories. In Chile, firms' sales are used as proxy to
+define micro, small and medium enterprises (MSMEs), based on the Unidad de Fominto (UF) valuation. Through this
+method, the exchange rate between the Chilean peso (the national currency of Chile) and the UF is constantly
+adjusted for inflation so that the UF value remains unchanged on a daily basis. In the survey, the initial financial
+information was provided in Chilean pesos. However, to deflate the financial information, the Chilean peso is
+converted into UF valuation. According to the official Chilean definition of MSMEs, of the total sample 2,304 (the
+remaining firms did not provide financial information), 244 firms are micro enterprises and 427 and 415 were classified
+as small and medium-sized enterprises respectively in the sample, while in the total sample, larger-sized firms are
+predominant (n = 1218).
+
+3.1 | An overview of intellectual property rights in Chile
+
+Chile is a strong, middle-income country in South America in terms of GDP per capita (nearly US$ 15000), with low
+inflation and unemployment rates. Chile exports mainly copper, wine, and salmon-related products to the rest part of
+the world. Chile spends 0.4% of GDP on research and development (R&D) and has a low level of usage of IPRs. This
+indicates that the Chilean economy has a low investment in knowledge-based resources (low R&D and human capital
+
+TABLE 1 Sample distribution by sector
+
+Sector
+
+Defence, social security etc.
+
+Manufacturing (food & chemical products)
+
+Financial, real estates and consultancy services
+
+R&D and scientific research activities
+
+Wholesale and retail sector
+
+Information and communication technology (ICT)
+
+Agriculture, fishery, and hunting
+
+Transportation and accommodation
+
+Health
+
+Construction and maintenance etc.
+
+Electricity, water distribution and waste management
+
+Mining and quarrying
+
+Other sectors
+
+Total
+
+Observations
+
+1352
+
+599
+
+464
+
+421
+
+303
+
+226
+
+218
+
+109
+
+103
+
+80
+
+72
+
+52
+
+58
+
+4057
+
+Percent
+
+33.33
+
+14.76
+
+11.44
+
+10.38
+
+7.47
+
+5.57
+
+5.37
+
+2.69
+
+2.54
+
+1.97
+
+1.77
+
+1.28
+
+1.43
+
+100
+
+REHMAN
+
+TABLE 2 Definition of SMEs in Chile (annual sales)
+
+Size categories
+
+Micro enterprises
+
+Small enterprises
+
+Medium enterprises
+
+Large enterprises
+
+Sales
+
+Less than UF 2400
+
+From UF 2400 to UF 25000
+
+From UF 25000 to UF 100,000
+
+More than UF 100,000
+
+| 275
+
+N =2304*
+
+244
+
+427
+
+415
+
+1218
+
+The UF (Unidad de Fominto) is a unit of account that is adjusted to inflation. The real value remains constant. The UF of
+December 31st, 2014 was equal to CLP 23,957.82 (taken as average).
+*Firms' size categories are reported as dummy variables (e.g., micro size is coded 1 if a firm has sales under UF 2400, otherwise 0).
+
+and poor university-industry linkages). Interestingly, the Chilean economy is mainly comprised of small and medium-
+sized enterprises (99%) and 60% of the total workforce is employed in the small business sector. However, Chilean
+SMEs have high unit costs of R&D (or patents), face difficulty in securing external finance and have low purchasing
+power in the domestic market (see, Benavente & Goya, 2012). Concerning the innovative support programs in Chile,
+two institutions, FONTEC (National Productivity and Technological Development Fund) and FONDEF (Science and
+Technology Development Fund), provide R&D subsidies, training and development to SMEs' entrepreneurs. To
+protect firms' innovation output, Chile has signed various treaties, for example, TRIPS (Agreement on Trade-related
+aspects of Intellectual Property Rights); CUP (Paris Convention for the Protection of Industrial Property); UPOV
+(International Union for the Protection of New Plant Varieties) and so forth. Specifically, FONTEC rules consist of a
+clause which states that firms with patent results can reimburse the public funds of a FONTEC funded-research
+project. Further, FONDEF encourages IPR agreements between firms and research organizations.
+
+industrial
+
+Benavente and Goya (2012) stated that despite the efficient legal system in Chile, Chilean firms' use of IPRs is low.
+They argued that the size of the Chilean domestic market and the purchasing power is exogenous to IPRs, resulting in a
+high unit cost of patents. Nevertheless, Chilean enterprises use several protection methods to protect their innovation
+outputs such as patents, utility models, copyrights, trademark, trade secrecy,
+law, confidentiality
+agreements, and plant variety protection methods. These protection methods (formal and informal) protect product
+innovations in the manufacturing, services and agriculture sector. However, the cost of each protection method is
+different and patents/utility models are relatively expensive. It is estimated that it costs nearly US$ 1500 to file a
+patent (including examination fee) and over and above that, the cost of litigation (when infringement take place) is high
+for Chilean MSMEs. Moreover, small Chilean innovative enterprises face several barriers to protecting their
+innovations. For example, small business entrepreneurs perceive that high learning and legal cost of applying for
+patents and inefficiency in the legal system are the major obstacles (see De León & Fernandez Donoso, 2016). De León
+and Donoso's (2016) case study on small businesses from Latin America revealed that in many South American
+countries including Chile, lack of awareness and knowledge and the cognitive bias related to the IP system reduce the
+business performance. Overall, this study seeks to investigate the impact of protection methods (formal and informal)
+on firm's productivity and financial performance.
+
+3.2 | Importance of protection methods for firms
+
+In order to measure the importance of protection methods for firms, initially firms were ask to respond to a list of
+protection methods on a scale of 1 = high importance; 2 = medium importance; 3 = low importance; 4 = no
+importance. These rank statements were based on nine protection methods: i) brand name; ii) patent; iii) utility model
+(petty patents); iv) industrial law; v) copyright; vi) plant variety methods (related to new breeding of a plant); vii)
+business secrecy; viii) methods of confidentiality clauses for employees; and ix) method of confidentiality contracts for
+suppliers and/or customers. Table 3 shows information related to the protection methods in terms of their
+importance. Overall, Chilean firms have a low tendency to adopt protection methods. Of the total of 4,057, only
+
+276 |
+
+REHMAN
+
+TABLE 3 Descriptive statistics of protection methods (%)
+
+High
+importance
+
+Medium
+importance
+
+N
+
+Low
+importance
+
+No
+importance
+
+Protection methods
+
+Brand protection methods
+
+Patent protection methods
+
+Utility model protection
+
+Industrial law protection
+
+Copyright protection
+
+Plant variety protection
+
+Business secrecy
+
+4057
+
+13.29
+
+4057
+
+11.95
+
+4057
+
+4057
+
+4057
+
+4057
+
+4.68
+
+4.07
+
+8.92
+
+3.03
+
+2304
+
+13.98
+
+Employees' confidentiality contracts
+
+2304
+
+19.44
+
+Confidentiality contracts suppliers/
+
+2304
+
+19.10
+
+customer
+
+7.72
+
+6.98
+
+7.39
+
+5.62
+
+7.12
+
+3.38
+
+8.51
+
+10.16
+
+10.03
+
+6.09
+
+5.92
+
+6.19
+
+5.99
+
+7.42
+
+4.07
+
+6.60
+
+7.42
+
+7.07
+
+72.91
+
+75.15
+
+81.74
+
+84.32
+
+76.53
+
+89.52
+
+70.92
+
+62.98
+
+63.80
+
+13.29% and 11.95% firms opted for brand and patent methods, respectively, as being highly important in protecting
+their innovations. However, majority of the firms have low (<10%) tendency to utilize protection methods.
+Interestingly, the last three methods, business secrecy, employees' confidentiality contracts, and confidentiality
+contracts for suppliers and/or customers, had a high response rate as compared to other protection methods (see
+Table 3). This indicates that Chilean firms are more at ease while using these protection methods.
+
+4 | OBSTACLES TO FIRMS' INNOVATION
+
+A number of studies (e.g., Abor & Biekpe, 2007) have argued that SMEs are more financially constrained as compared to
+large firms. The lack of financial resources for SMEs results in low investment in R&D projects. Not surprisingly, R&D is a
+key input to a firm's innovation output. For example, the panel study of Artz, Norman, Hatfield, and Cardinal (2010) on US
+firms' found that firms undertaking R&D were more likely to introduce patents. However, due to a lack of financial
+resources, SMEs can receive R&D support programs such as R&D subsidies, R&D grants or tax credit to accelerate their
+firm's performance (see, Hottenrott & Lopes-Bento, 2012). Further, Benavente and Goya (2012) conducted a micro-
+level qualitative study on Chilean firms' and found that the high unit cost of R&D, no tax incentives and the lack of R&D
+support programs are the major obstacles to Chilean SMEs. According to the statistics of Chile 9th Innovation Business
+Survey which was conducted in 2014, only 6.41% of Chilean SMEs introduced product innovation and majority of these
+firms (74.38%) generated an incremental type of innovation (new to the business). Regarding process innovation, nearly
+23% of 5,620 firms introduced process innovations. Moreover, only 6% of firms were engaged in internal R&D and
+approximately 3% of firms (N = 5,620) were engaged in external R&D. The statistics concerning low innovation activities
+in Chilean firms suggest that small firms would prefer to use informal protection methods (business secrecy and
+confidentiality agreements) to avoid the high cost of formal protection methods. Overall, these finding from the
+innovation survey shows that Chilean SMEs face constraints in terms of investment in innovation activities. In sum, this
+study included four additional dummy variables (codified 1 if firm reported yes to the obstacle or otherwise 0) such as the
+lack of qualified staff, lack of financial resources, no or inadequate tax incentives and the lack of R&D support programs.
+These dummy variables would investigate the impact of innovation obstacles on the firm's productivity and financial
+performance and could help in policy implications concerning protection methods implementation.
+
+Figure 1 shows the innovation obstacles by firm size. In the figure, it can be seen that firms have reported the lack
+of qualified staff as their least important obstacle. However, the lack of financial resources (over 25%) is higher for
+micro and small enterprises than medium or large firms. Similarly, SMEs have fewer tax incentives as compared to
+
+REHMAN
+
+| 277
+
+FIGURE 1 Obstacles by firms' size (in percent)
+
+large firms. On the other hand, the majority of the firms reported the lack of R&D support as their major obstacle to
+innovation activities (see Figure 1). Overall, no or fewer tax incentives and the lack of R&D support programs are the
+major barriers for firms in all size categories. This study introduced an additional hypothesis to investigate the impact
+of obstacles on firms' productivity and financial performance. This hypothesis can provide a deeper understanding of
+obstacles to Chileans firms' performance.
+
+H6: Obstacles negatively affect the firms' productivity and financial performance.
+
+5 | EMPIRICAL ANALYSIS
+
+The firm's importance towards protection methods were initially measured on ordinal scale (i.e., 1 = High importance to
+4 = No importance). This indicates that data on protection methods have violated the parametric assumption (non-
+normally distributed data). Therefore, Spearman's rank correlation method, a non-parametric method, is an appropriate
+technique to examine the correlation between protection methods (Field, 2005, p. 129). Table 4 reports the correlation
+coefficients of protection methods. These positive correlation coefficients are statistically significant at 5%. This implies
+that firms' protection methods positively influence each other in terms of protecting their innovation outputs. In other
+words, firms may use different combinations of protection methods. This outcome also suggest that using such firms'
+perceived protection methods directly in the regression analysis would result in a severe multi-collinearity problem. In
+order to remove this multi-collinearity problem, principal component factor analysis (PCFA) is used (see, Table 5). PCFA
+minimizes the variable numbers and provide the structural link between these variables. Factors are derived from the
+Kaiser Criterion (see Kaiser, 1960), which indicates that those factors should be obtained with an Eigen value equal or
+greater than one. To remove the collinearity between variables, variance maximizing orthogonal method is used.
+
+Table 5 presents information on the factor analysis of protection methods. Overall, two factor are extracted: factor 1 is
+linked with formal protection methods and factor 2 is connected with informal protection methods. In columns 2 and 3, high
+factor loadings (bold italic values) are provided, showing the correlation between a variable and the factor. To interpret,
+brand protection with a factor loading of 0.5717 shows that nearly 57% of brand is positively correlated to a formal
+protection method. The remaining protection methods such as patent, utility model, industrial law and copyrights are
+positively correlated to formal protection methods. The last three protection methods, that is, business secrecy and
+confidentiality agreements, are positively correlated to informal protection methods. The factor loading for informal
+protection methods is found to be higher than formal protection methods. In addition, the column labelled “uniqueness”
+quantifies the variance of each variable that is not shared with other variables in the factor models. A variable with high
+
+278 |
+
+REHMAN
+
+)
+
+4
+0
+3
+2
+
+(
+
+0
+0
+1
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+2
+1
+1
+8
+0
+
+.
+
+0
+0
+1
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+7
+7
+9
+6
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+3
+7
+4
+6
+0
+
+.
+
+0
+0
+1
+
+.
+
+)
+
+7
+5
+0
+4
+
+(
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+5
+4
+5
+4
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+0
+4
+8
+3
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+4
+0
+6
+3
+0
+
+.
+
+0
+0
+1
+
+.
+
+)
+
+7
+5
+0
+4
+
+(
+
+)
+
+7
+5
+0
+4
+
+(
+
+*
+4
+9
+9
+4
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+9
+9
+4
+5
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+9
+3
+2
+5
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+3
+9
+0
+5
+0
+
+.
+
+0
+0
+1
+
+.
+
+)
+
+7
+5
+0
+4
+
+(
+
+)
+
+7
+5
+0
+4
+
+(
+
+*
+7
+5
+4
+6
+0
+
+.
+
+)
+
+7
+5
+0
+4
+
+(
+
+*
+1
+8
+3
+6
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+8
+1
+0
+6
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+3
+9
+3
+5
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+9
+5
+2
+5
+0
+
+.
+
+0
+0
+1
+
+.
+
+)
+
+7
+5
+0
+4
+
+(
+
+)
+
+7
+5
+0
+4
+
+(
+
+*
+8
+6
+0
+8
+0
+
+.
+
+)
+
+7
+5
+0
+4
+
+(
+
+*
+9
+0
+1
+6
+0
+
+.
+
+)
+
+7
+5
+0
+4
+
+(
+
+*
+1
+8
+0
+6
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+1
+1
+9
+5
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+9
+6
+1
+5
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+7
+4
+1
+5
+0
+
+.
+
+0
+0
+1
+
+.
+
+)
+
+7
+5
+0
+4
+
+(
+
+)
+
+7
+5
+0
+4
+
+(
+
+*
+8
+1
+5
+6
+0
+
+.
+
+)
+
+7
+5
+0
+4
+
+(
+
+*
+5
+7
+6
+6
+0
+
+.
+
+)
+
+7
+5
+0
+4
+
+(
+
+*
+8
+0
+6
+5
+0
+
+.
+
+)
+
+7
+5
+0
+4
+
+(
+
+*
+3
+7
+7
+4
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+9
+2
+5
+5
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+3
+2
+5
+5
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+2
+0
+3
+5
+0
+
+.
+
+0
+0
+1
+
+.
+
+.
+
+9
+
+.
+
+8
+
+.
+
+7
+
+.
+
+6
+
+.
+
+5
+
+.
+
+4
+
+.
+
+3
+
+.
+
+2
+
+s
+d
+o
+h
+t
+e
+m
+n
+o
+i
+t
+c
+e
+t
+o
+r
+p
+
+n
+e
+e
+w
+t
+e
+b
+
+l
+
+n
+o
+i
+t
+a
+e
+r
+r
+o
+c
+
+o
+h
+R
+n
+a
+m
+r
+a
+e
+p
+S
+
+4
+
+E
+L
+B
+A
+T
+
+)
+
+7
+5
+0
+4
+
+(
+
+*
+2
+1
+1
+7
+0
+
+.
+
+)
+
+7
+5
+0
+4
+
+(
+
+*
+9
+5
+0
+6
+0
+
+.
+
+)
+
+7
+5
+0
+4
+
+(
+
+*
+5
+2
+2
+6
+0
+
+.
+
+)
+
+7
+5
+0
+4
+
+(
+
+*
+4
+7
+9
+4
+0
+
+.
+
+)
+
+7
+5
+0
+4
+
+(
+
+*
+4
+3
+4
+4
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+1
+9
+3
+5
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+7
+2
+8
+5
+0
+
+.
+
+)
+
+4
+0
+3
+2
+
+(
+
+*
+9
+2
+3
+5
+0
+
+.
+
+0
+0
+1
+
+.
+
+.
+
+1
+
+d
+o
+h
+t
+e
+m
+n
+o
+i
+t
+c
+e
+t
+o
+r
+p
+
+s
+e
+i
+t
+e
+i
+r
+a
+v
+
+t
+n
+a
+P
+
+l
+
+d
+o
+h
+t
+e
+m
+n
+o
+i
+t
+c
+e
+t
+o
+r
+p
+
+t
+e
+r
+c
+e
+s
+
+s
+s
+e
+n
+i
+s
+u
+B
+
+r
+o
+f
+
+s
+e
+s
+u
+a
+c
+
+l
+
+y
+t
+i
+l
+
+a
+i
+t
+n
+e
+d
+i
+f
+n
+o
+c
+
+g
+n
+i
+t
+c
+e
+t
+o
+r
+P
+
+s
+e
+e
+y
+o
+p
+m
+e
+
+l
+
+r
+o
+f
+
+s
+t
+c
+a
+r
+t
+n
+o
+c
+
+y
+t
+i
+l
+
+a
+i
+t
+n
+e
+d
+i
+f
+n
+o
+c
+
+g
+n
+i
+t
+c
+e
+t
+o
+r
+P
+
+s
+r
+e
+m
+o
+t
+s
+u
+c
+/
+s
+r
+e
+
+i
+l
+
+p
+p
+u
+s
+
+d
+o
+h
+t
+e
+m
+n
+o
+i
+t
+c
+e
+t
+o
+r
+p
+
+d
+n
+a
+r
+B
+
+d
+o
+h
+t
+e
+m
+n
+o
+i
+t
+c
+e
+t
+o
+r
+p
+
+t
+n
+e
+t
+a
+P
+
+n
+o
+i
+t
+c
+e
+t
+o
+r
+p
+
+l
+
+e
+d
+o
+m
+y
+t
+i
+l
+i
+t
+
+U
+
+n
+o
+i
+t
+c
+e
+t
+o
+r
+p
+w
+a
+
+l
+
+l
+
+a
+i
+r
+t
+s
+u
+d
+n
+I
+
+n
+o
+i
+t
+c
+e
+t
+o
+r
+p
+
+t
+h
+g
+i
+r
+y
+p
+o
+C
+
+.
+
+1
+
+.
+
+2
+
+.
+
+3
+
+.
+
+4
+
+.
+
+5
+
+.
+
+6
+
+.
+
+7
+
+.
+
+8
+
+.
+
+9
+
+s
+d
+o
+h
+t
+e
+M
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+
+.
+
+o
+n
+S
+
+.
+
+.
+s
+e
+s
+e
+h
+t
+n
+e
+r
+a
+p
+
+n
+
+i
+
+d
+e
+t
+r
+o
+p
+e
+r
+
+s
+i
+
+s
+m
+
+r
+i
+f
+
+f
+o
+
+r
+e
+b
+m
+u
+n
+
+e
+
+l
+i
+
+h
+w
+
+,
+l
+
+e
+v
+e
+
+l
+
+e
+c
+n
+a
+c
+i
+f
+i
+n
+g
+i
+s
+%
+5
+
+s
+e
+t
+a
+c
+i
+d
+n
+I
+*
+
+REHMAN
+
+TABLE 5 Principal component factor analysis of protection methods
+
+Protection methods
+
+Brand protection method
+
+Patent protection method
+
+Utility model protection
+
+Industrial law protection
+
+Copyright protection
+
+Plant varieties protection method
+
+Business secret protection method
+
+Factor
+1
+
+Factor
+2
+
+Uniqueness
+
+0.5714
+
+0.4844
+
+0.4389
+
+0.6034
+
+0.4935
+
+0.3924
+
+0.7895
+
+0.3352
+
+0.2642
+
+0.8244
+
+0.3549
+
+0.1944
+
+0.7842
+
+0.3340
+
+0.2735
+
+0.7380
+
+0.0992
+
+0.4455
+
+0.4026
+
+0.7173
+
+0.3233
+
+Protecting confidentiality clauses of employees
+
+0.2309
+
+0.8924
+
+0.1525
+
+Protecting confidentiality contracts for suppliers/
+
+0.1980
+
+0.8824
+
+0.1822
+
+customers
+
+Interpretation
+
+Scale Reliability Coefficient (Cronbach's alpha) = 0.9124.
+Bold values are higher values and for interpretation reason.
+
+Formal
+
+Informal
+
+Overall
+
+KMO = 0.9008
+
+| 279
+
+KMO
+
+0.9200
+
+0.9212
+
+0.9218
+
+0.8817
+
+0.9148
+
+0.9492
+
+0.9425
+
+0.8373
+
+0.8530
+
+uniqueness value suggest that it has weak correlation with other variables. Concerning the factor model appropriateness,
+two tests have been carried out. First, the Kaiser-Meyer-Olkin (KMO) test, the value of which is 0.90 and second, the scale
+reliability coefficient, which is 0.91, suggesting that the use of the factor model is highly satisfactory.
+
+5.1 | Regression strategy
+
+In order to estimate the prior expectations, this study split the productivity (see Appendix 1.a) and financial
+performance (see Appendix 1.b) data into micro, small, medium, and large size categories. To obtain estimate for each
+firms' size category, productivity and net profit margin are multiplied by the firms' size categories (e.g., TFP × micro,
+NPM × micro, TFP × small, NPM × small and so forth). This strategy results in limiting the dependent variable values to
+zero. In other words, a substantial number of observations take the value of zero. Having censored data, the use of
+least squares would result in biased and inconsistent parameters. Since the dependent variable is censored, the Tobit
+regression model is an appropriate regression strategy. This estimation procedure uses the maximum likelihood
+procedure based on two sorts of a data, that is, the limit observations (y = 0) and the non-limit observations (y > 0) in
+the dependent variable (Hill, Griffiths, & Lim, 2007).
+
+The equation for Tobit model is
+
+¼ Xiα þ εi
+
+y*
+i
+
+ 
+
+where εi ∼ N 0; σ2
+
+
+
+y*
+i is a latent variable and censored. The model assumes that errors are normally distributed. The observed value of y is
+defined by the following equation;
+
+(
+yi ¼ y*
+
+if y* > 0
+0 if y* ≤ 0
+
+In the Tobit model, it is assumed that the data are censored at 0. Similarly, the firms' formal and informal
+protection methods are also multiplied by firms' size categories. This empirical approach investigates their statistical
+link more appropriately.
+
+280 |
+
+5.2 | Regression results
+
+REHMAN
+
+Table 6 reports the findings of the Tobit regression analysis of the relationship between protection methods and firms'
+productivity performance.1 In the first column of Table 6, explanatory variables are presented. The coefficient of the
+formal protection method is 0.026 which is positively signed and shows that with a 1% increase in the formal
+protection methods (e.g., brand, patent, utility model, etc.), the productivity of micro-sized firms' rises by 2.6%.
+However, no statistical association is found between the formal protection method and the productivity of micro-
+sized firms. In comparison, informal protection methods (e.g., business secrecy and confidentiality agreements) with
+positively signed parameter (i.e., β = 0.240) shows that a 1% rise in the informal protection methods would be likely to
+increase the productivity of micro-sized firms' by 24%. Further, informal protection methods present a statistical link
+(significance at 5%) with micro-sized firms' productivity.
+
+In addition, the estimate value of formal protection method becomes negative (β = −0.013) and shows no
+statistical relationship with small size firms' productivity. However, the parameter of informal protection methods
+presents a statistical association with small firms' productivity. Similarly, the estimated value of informal methods
+provides positive association with the medium-sized firms' productivity. Overall, the regression analysis identified that
+the coefficients of informal protection methods for MSMEs are strong and present statistical association with
+productivity. Interestingly, both formal and informal protection methods in larger firms' show positive association with
+the productivity of large-sized firms' (see Table 6). Overall, the outcome between protection methods (formal and
+informal) and productivity across firms' size categories supports the initial expectations (H2). Protection methods
+positively influence the firms' productivity. However, this relationship is found to be stronger for larger firms than for
+
+TABLE 6 Tobit regression analysis of protection methods in MSME—TFP as dependent variable
+
+Explanatory variables
+
+TFPMicro
+
+Formal protection methods (micro)
+
+0.026 (0.07)
+
+Informal protection methods (micro)
+
+0.240** (0.09)
+
+TFPSmall
+–
+
+–
+
+Formal protection methods (small)
+
+Informal protection methods (small)
+
+Formal protection methods
+
+(medium)
+
+Informal protection methods
+
+(medium)
+
+Formal protection methods (large)
+
+Informal protection methods (large)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+−0.013 (0.14)
+
+0.720*** (0.16)
+
+–
+
+–
+
+–
+
+–
+
+TFPMedium
+–
+
+TFPLarge
+–
+
+–
+
+–
+
+–
+
+0.434 (0.64)
+
+0.972*** (0.06)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+0.808*** (0.33)
+
+1.462*** (0.27)
+
+−0.022 (0.015)
+
+Lack of qualified staff
+
+0.359 (0.58)
+
+0.925 (0.12)
+
+0.120 (0.08)
+
+Lack of financial resources
+
+No or deficient tax incentives
+
+0.007 (0.01)
+
+0.013 (0.02)
+
+−0.182*** (0.05)
+
+−1.084** (0.46)
+
+−0.821*** (0.04)
+
+−0.140 ***(0.07)
+
+−1.563*** (0.58)
+
+−0.065 (0.57)
+
+Lack of public support for R&D
+
+−0.035* (0.01)
+
+−0.007 (0.06)
+
+0.466 (0.56)
+
+0.276 (0.47)
+
+Age (Log)
+
+Intercept
+
+Pseudo R2
+
+Log likelihood
+
+Left censored observations
+
+Uncensored observations
+
+Total number of observations
+
+−0.032*** (0.01)
+
+−0.265*** (0.03)
+
+−0.249 (0.23)
+
+0.257*** (0.01)
+
+0.143*** (0.03)
+
+1.045*** (0.11)
+
+−4.326*** (0.7)
+
+−2.744*** (0.29)
+
+0.07
+
+−98.78
+
+105
+
+1463
+
+1568
+
+0.03
+
+0.01
+
+0.14
+
+−1808.37
+
+−1730.11
+
+−3019.76
+
+225
+
+1343
+
+1568
+
+1243
+
+325
+
+1568
+
+746
+
+819
+
+1568
+
+***/**/* indicates 1%, 5%, 10% significance level. Robust standard errors are reported in parentheses.
+
+REHMAN
+
+| 281
+
+those in any other size category. In sum, this finding supports the empirical findings of Paallysaho and Kuusisto (2011),
+Spithoven et al. (2013), and Fischer et al. (2010).
+
+The link between informal protection methods and MSMEs productivity suggest two possibilities. First, Chilean
+MSMEs have a low tendency to use formal protection methods due to their lack of awareness of these methods.
+Second, the high cost of formal protection methods (e.g., patents application/renewal or litigation), low innovation
+output and the uncertainty related to patenting discourages small firms from undertaking formal protection methods.
+Another reason is small firms have less bargaining power in negotiating formal protection methods with competitors
+and in particular when the patent is declared invalid, it is a major risk for MSMEs (see Pajak, 2015). On the other hand,
+large firms prefer to use both formal and informal protection methods to accelerate their productivity performance.
+This implies that large firms have a resource advantage over small firms. Regarding obstacles to innovation, the lack of
+financial resources and no or inadequate tax incentives negatively affect the productivity of SMEs. This result
+suggests that Chilean SMEs are financially constrained. This outcome confirmed our prior expectation (H6). Firm age is
+used as control variable and most of the firms are young (the average age is 3 years). The estimate of age is negatively
+associated with micro-sized firms' productivity and this may indicate that younger firms have lower productivity than
+older firms because of their inexperience in technology and innovation.
+
+Table 7 provides information on the relationship between protection methods (formal and informal) and firms'
+financial performance. The parameters of formal protection methods show no association with the MSMEs' financial
+performance. However, the coefficient (β = 0.240) of informal protection method indicates that a 1% rise in informal
+
+TABLE 7 Tobit analysis of protection methods in MSME-Net Profit Margin (NPM) as dependent variable
+
+Explanatory variables
+
+NPMMicro
+
+Formal protection methods (micro)
+
+0.323 (0.713)
+
+Informal protection methods (micro)
+
+0.348*** (0.03)
+
+Formal protection methods (small)
+
+Informal protection methods (small)
+
+Formal protection methods
+
+(medium)
+
+Informal protection methods
+
+(medium)
+
+Formal protection methods (large)
+
+Informal protection methods (large)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+NPMSmall
+–
+
+–
+
+−0.069 (0.15)
+
+0.933*** (0.17)
+
+–
+
+–
+
+–
+
+–
+
+NPMMedium
+–
+
+NPMLarge
+–
+
+–
+
+–
+
+–
+
+0.105 (0.14)
+
+0.750*** (0.17)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+0.092*** (0.03)
+
+0.231*** (0.03)
+
+Lack of qualified staff
+
+−0.298 (0.34)
+
+0.119 (0.16)
+
+0.206 (0.15)
+
+−0.038 (0.07)
+
+Lack of financial resources
+
+−0.142 (0.18)
+
+−0.446*** (0.10)
+
+−0.264** (0.11)
+
+−0.332*** (0.05)
+
+No or deficient tax incentives
+
+0.324 (0.29)
+
+−0.354** (0.18)
+
+−0.404*** (0.14)
+
+−0.019 (0.07)
+
+Lack of R&D support
+
+−0.481 (0.36)
+
+−1.139*** (0.29)
+
+−0.600 (0.45)
+
+0.476 (0.377)
+
+Age (Log)
+
+Intercept
+
+Pseudo R2
+
+Log likelihood
+
+Left censored observations
+
+Uncensored observations
+
+Total number of observations
+
+−0.708*** (0.14)
+
+−0.694*** (0.06)
+
+−0.086 (0.06)
+
+0.437*** (0.03)
+
+0.164*** (0.05)
+
+0.729*** (0.21)
+
+−0.997*** (0.20)
+
+−0.964*** (0.10)
+
+0.07
+
+−331.10
+
+93
+
+1438
+
+1531
+
+0.07
+
+−857.46
+
+1237
+
+294
+
+1531
+
+0.01
+
+0.08
+
+−1003.90
+
+−1425.72
+
+1206
+
+325
+
+1531
+
+712
+
+819
+
+1531
+
+***/**/* indicates 1%, 5%, 10% significance level. Robust standard errors are reported in parentheses.
+
+282 |
+
+REHMAN
+
+protection methods (secrecy and confidentiality agreements) would be likely to increase the financial performance of
+micro-sized firms by 34%. Similarly, the estimated values of informal protection methods become stronger for SMEs
+and present positive association with financial performance. Overall, the results are in line with the previous findings
+in the Table 6 and supported the prior expectations. To conclude, Chilean MSMEs are more likely to utilize informal
+protection methods to accelerate their financial performance.
+
+The parameter value of the lack of financial resources shows a negative association with firms' financial
+performance. Specifically, no (or inadequate) tax incentives has a negative impact on the SMEs' financial performance.
+In sum, obstacles such as the lack of financial resources and no tax incentives negatively affect the firm's productivity
+and financial performance. The coefficients of age show a negative relationship with micro and small firms' financial
+performance. This suggests that younger firms are less likely to experience high profitability as compared to older and
+large firms.
+
+5.3 | Estimation—interrelatedness of protection methods (H5)
+
+To analyze the interrelation between formal and informal protection methods, interactive variables were introduced.
+Their joint and positive effects suggest their complementary relationship. In Table 8, the coefficient of interactive
+variables of protection methods for micro sized firms is negatively signed but fails to show the statistical link with
+productivity. The remaining parameters of interactive variables for SMEs and large firms present a positive and
+significant association with productivity. This outcome has confirmed the prior expectation (H5).
+
+Further, Table 9 provides information on the interactive variables (formal × informal) of protection methods and
+firms' profitability. The estimates of interactive variables are positively signed and show a statistical association with
+profitability. Overall, the coefficients of these interactive variables indicate that formal and informal protection
+methods complement each other. This outcome suggests that firms' using one mechanism of protection would
+increase the probability of value of the other. Use of interactive variables of protection methods has stronger
+
+TABLE 8 Tobit regression analysis of complementary link between protection methods—TFP as dependent
+
+Explanatory variables
+
+Formal × informal (micro)
+
+Formal × informal (small)
+
+Formal × informal (medium)
+
+Formal × informal (large)
+
+TFPMicro
+−0.029 (0.250)
+–
+
+TFPSmall
+–
+
+TFPMedium
+–
+
+0.220*** (0.05)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+0.830*** (0.390)
+
+–
+
+TFPLarge
+–
+
+–
+
+–
+
+0.343** (0.167)
+
+Lack of qualified staff
+
+−0.131 (0.130)
+
+0.253 (0.336)
+
+−1.189 (1.029)
+
+0.067 (0.042)
+
+Lack of financial resources
+
+−0.000 (0.01)
+
+−0.179*** (0.04)
+
+1.382*** (0.436)
+
+−2.751*** (0.386)
+
+No or deficient tax incentives
+
+−0.213 (0.200)
+
+−0.005 (0.06)
+
+0.251 (0.552)
+
+−0.240 (0.464)
+
+Lack of public support for R&D
+
+−0.029 (0.023)
+
+−0.107 (0.073)
+
+0.954 (0.632)
+
+−0.005 (0.558)
+
+Age (Log)
+
+Intercept
+
+Pseudo R2
+
+−0.040*** (0.00)
+
+−0.282*** (0.030)
+
+−0.285 (0.283)
+
+−3.370*** (0.244)
+
+0.154*** (0.029)
+
+1.115*** (0.089)
+
+−4.044*** (0.87)
+
+−7.343*** (0.75)
+
+0.07
+
+0.03
+
+0.01
+
+0.14
+
+Log likelihood
+
+−141.055
+
+−1896.37
+
+−1502.828
+
+−3084.42
+
+Left censored observations
+
+Uncensored observations
+
+Total number of observations
+
+105
+
+1463
+
+1568
+
+225
+
+1343
+
+1568
+
+1243
+
+325
+
+1568
+
+746
+
+819
+
+1568
+
+***/**/* indicates 1%, 5%, 10% significance level. Robust standard errors are reported in parentheses.
+
+REHMAN
+
+| 283
+
+TABLE 9 Tobit regression analysis of complementary link between protection methods—NPM as dependent
+
+Explanatory variables
+
+NPMMicro
+
+Formal × informal (micro)
+
+0.631*** (0.262)
+
+Formal × informal (small)
+
+Formal × informal (medium)
+
+Formal × informal (large)
+
+–
+
+–
+
+–
+
+NPMSmall
+–
+
+NPMMedium
+–
+
+0.315*** (0.091)
+
+–
+
+–
+
+–
+
+0.213*** (0.099)
+
+–
+
+NPMLarge
+–
+
+–
+
+–
+
+0.0777*** (0.03)
+
+Lack of qualified staff
+
+0.1927 (0.224)
+
+−0.032 (0.308)
+
+−0.347** (0.112)
+
+−0.386*** (0.005)
+
+Lack of financial resources
+
+−1.215** (0.507)
+
+0.070 (0.162)
+
+0.215 (0.162)
+
+−0.010 (0.07)
+
+No or deficient tax incentives
+
+0.456 (0.620)
+
+0.044 (0.146)
+
+0.164 (0.296)
+
+−0.134 (0.149)
+
+Lack of public support for R&D
+
+−0.263 (0.311)
+
+0.044 (0.140)
+
+0.051 (0.142)
+
+0.007 (0.06)
+
+Age (Log)
+
+Intercept
+
+Pseudo R2
+
+−0.933*** (0.15)
+
+−0.741*** (0.079)
+
+−0.100 (0.073)
+
+0.451*** (0.03)
+
+−0.358*** (0.37)
+
+0.721*** (0.204)
+
+−0.924*** (0.22)
+
+−0.916*** (0.105)
+
+0.07
+
+0.07
+
+0.01
+
+0.08
+
+Log likelihood
+
+−403.281
+
+−922.854
+
+−1053.768
+
+−1487.76
+
+Left censored observations
+
+Uncensored observations
+
+Total number of observations
+
+93
+
+1438
+
+1531
+
+1237
+
+294
+
+1531
+
+1206
+
+325
+
+1531
+
+712
+
+819
+
+1531
+
+***/**/* indicates 1%, 5%, 10% significance level. Robust standard errors are reported in parentheses.
+
+coefficient values than use of a single method (see Tables 6 and 7). This finding indicates that the use of a combination
+of formal and informal protection methods strongly influences the Chilean firms' productivity and financial
+performance.
+
+6 | CONCLUSION AND POLICY IMPLICATIONS
+
+This empirical study answered the research questions regarding the link between protection methods and firms'
+performance. The Tobit regression analysis results revealed that informal protection methods positively influence
+MSMEs productivity and financial performance. Furthermore, the principal outcome of this study indicates that firms'
+using multiple protection methods (a combination of formal and informal methods) experience higher productivity and
+financial performance than do those using single protection mechanism. This outcome is also robust across SMEs and
+large firms.
+
+These findings support two managerial implications: first, if SMEs owners face financial constraint (low R&D
+investment) then informal protection methods are relatively cheaper, as they require no registration or litigation cost,
+specifically when infringement takes place. Specifically, small firms can keep secret information related to
+manufacturing process, marketing and distribution strategies etc. without patenting them because small firms deem
+such secret information to be their primary knowledge resource and are reluctant to share it with competitors.
+Similarly, confidentiality contracts of small firms with customers and suppliers may accelerate their financial
+performance through collaborations despite their lack of resources (see Brito, Brito, & Hashiba, 2014). This
+collaborative strategy would provide SMEs with access to complementary resources. Second, the interconnectedness
+between formal and informal protection methods further increases firms' productivity and financial performance.
+Business managers could patent their innovation output and at the same time, firms' may protect key knowledge
+through confidentiality agreements (e.g., signing agreement with key employees who are most closely engaged in the
+process of developing the innovation). Such confidentiality contracts would protect information leakage for a limited
+
+284 |
+
+REHMAN
+
+time. Thus, firms could experience high productivity and profitability while using a combination of protection
+mechanisms. Concerning public policies, this empirical study identified that Chilean firms' have a low tendency to use
+protection methods, mainly due to low innovation output. Therefore, government policies at micro level should
+subsidize R&D projects (tax credits) to support innovation culture in small businesses and then create awareness in
+small firms relating to the use of protection methods.
+
+This study has used Cobb–Douglas production (with OLS) method for measuring the productivity due to the non-
+availability of longitudinal data. Future studies could use Levinsohn and Petrin (2003) productivity estimation
+procedure which addresses the endogeneity between factor inputs. Moreover, the reverse causality between
+protection methods could also be resolved using the instrumental variables approach. Currently, the dataset has failed
+to provide exogenous instruments. Further, in future, firms' direct measures of protection methods such as number of
+patent counts, utility models, trademarks etc. could examine their link with firms' productivity and financial
+performance more accurately.
+
+ACKNOWLEDGMENT
+
+I am thankful to the valuable comments of Mr. Keith Maskus, Chief Economist, US State Department, Washington,
+DC. Mr. Keith provided constructive feedback on this research work. I am also grateful to the anonymous discussants
+of the “The Journal of World Intellectual Property” for their comments.
+
+ABOUT THE AUTHOR
+
+Naqeeb Ur Rehman, is currently working as a lecturer in economics at Epoka University, Tirana, Albania. Dr. Naqeeb is
+a researcher in the area of economics of innovation. Previously, he presented his research work in various
+international conferences related to the impact of innovation in small firms' growth. Very recently, Dr. Naqeeb is
+invited for talk on the role of intellectual property rights on firms' performance at US Patent office (USPTO),
+Alexanderia, Virginia.
+
+Fei Yu, received his PhD from University of Western Australia, Research Fellow of Research Center for
+
+Technological Innovation, Tsinghua University, China.
+
+ENDNOTE
+
+1 Before estimation, the correlation matrix shows that multicollinearity is not a problem in the regression model (see Appendix
+
+A2). To remove the hetroskedasticity, robust standard errors method is used.
+
+ORCID
+
+Naqeeb Ur Rehman
+
+http://orcid.org/0000-0003-1015-2588
+
+REFERENCES
+
+Abor, J., & Biekpe, N. (2007). Small business reliance on bank financing to Ghana. Emerging Markets Finance and Trade, 43(4),
+
+93–102. https://doi.org/10.2753/REE1540-496×430405
+
+Agostini, L., Caviggioli, F., & Filippini, R. (2015). Does patenting influence SME sales performance? A quantity and quality
+analysis of patents in Northern Italy. European Journal of Innovation Management, 18(2), 238–257. https://doi.org/
+10.1108/EJIM-07-2013-0071
+
+Agostini, L., Filippini, R., & Nosella, A. (2016). Protecting intellectual property to enhance firm performance: Does it work for
+
+SMEs? Knowledge Management Research and Practice, 14, 96–105. https://doi.org/10.1057/kmrp.2014.20
+
+REHMAN
+
+| 285
+
+Artz, W., Norman, M., Hatfield, E., & Cardinal, L. (2010). A Longitudinal study of the impact of R&D, patents, and product
+innovation on firm Performance. Journal of Product Innovation Management, 27, 725–740. https://doi.org/10.1111/
+j.1540-5885.2010.00747.x
+
+Benavente, M. J., & Goya, D. (2012). The economics of IP in the context of a middle income country, Departmento de
+
+Economia, Santiago, WP. No. 350.
+
+Boldrin, M., & Levin, K. D. (2013). What is intellectual property good for?. Revue Economique, 64(1), 29–53. https://doi.org/
+
+10.3917/reco.641.0029
+
+Bolisani, E., Paiola, M., & Scarso, E. (2013). Knowledge protection in knowledge-intensive business services. Journal of
+
+Intellectual Capital, 14(2), 192–211. https://doi.org/10.1108/14691931311323841
+
+Brito, L., Brito, E., & Hashiba, L. (2014). What type of cooperation with suppliers and customers leads to superior
+
+performance? Journal of Business Research, 67, 952–959. https://doi.org/10.1016/j.jbusres.2013.07.015
+
+De León, I. L., & Fernandez Donoso, J. (2016). The cost of using formal intellectual property rights: A survey on small
+
+innovative enterprises in Latin America, Universidad del Dessarrollo, Santiago, WP No. 37.
+
+Eppinger, E., & Vladova, G. (2013). Intellectual property management practices at small and medium-sized enterprises.
+
+International Journal of Technology Management, 61(1), 64–81. https://doi.org/10.1108/EUM0000000006797
+
+Field, A. (2005). Discovering statistics using SPSS. London: Sage Publications.
+Fischer, M., Volckner, F., & Sattler, H. (2010). How important are brands? A cross country study? Journal of Marketing Research,
+
+47(5), 823–839. https://doi.org/10.1509/jmkr.47.5.823
+
+Frietsch, R., Neuhausler, P., & Rothengatter, O. (2013). SME patenting—An empirical analysis in nine countries, Discuss paper No. 36.
+Ghapar, F., Brooks, R., & Smuth, R. (2014). The impact of patent activity on the financial performance of Malaysian firms.
+
+Journal of the Asia Pacific Economy, 19(3), 445–463. https://doi.org/10.1080/13547860.2014.908536
+
+Graham, S. J. H., & Somaya, D. (2006). Vermeers and rembrandts in the same attic: Complementary between copyright and
+
+trademark leveraging strategies in software, Discussion Paper, 1–33.
+
+Hagedoorn, J., & Zobel, A.-K. (2015). The role of contracts and intellectual property rights in open innovation. Technology
+
+Analysis and Strategic Management, 27(9), 1050–1067. https://doi.org/10.1080/09537325.2015.1056134
+
+Hall, B., Helmers, C., Rogers, M., & Sena, V. (2014). The choice between formal and informal intellectual property: A review.
+
+Journal of Economic Literature, 52(2), 375–423. https://doi.org/10.1257/jel.52.2.375
+
+Hanel, P. (2008). The use of intellectual property rights and innovation by manufacturing firms in Canada. Economics of
+
+Innovation and New Technology, 17(4), 285–309. https://doi.org/10.1080/10438590701581481
+
+Harris, H. (2005). Economics of the workplace: Special issue editorial. Scottish Journal of Political Economy, 52(3), 323–343.
+
+https://doi.org/10.1111/j.0036-9292.2005.00347.x
+
+Harris, H., & Li, Q. (2008). Evaluating the contribution of exporting to UK productivity growth: Some microeconomic evidence.
+
+The World Economy, 31(2), 212–235. https://doi.org/10.1111/j.1467-9701.2007.01087.x
+
+Hill, R. C., Griffiths, E. W., & Lim, C. G. (2007). Principles of Econometrics. USA: John Wiley & Sons, (pp. 442–445).
+Hottenrott, H., & Lopes-Bento, C. (2012). Quantity or quality? Collaboration strategies in research and development. WP. No.
+
+2012–29. Luxembourg.
+
+Huggins, R., & Weir, M. (2012). Intellectual assets and small knowledge-intensive business service firms. Journal of Small
+
+Business and Enterprise Development, 19(1), 92–113. https://doi.org/10.1108/14626001211196424
+
+Jensen, H. P., & Webster, E. (2006). Firm size and the use of intellectual property rights. The Economic Record, 82(256), 44–55.
+
+https://doi.org/10.1111/j.1475-4932.2006.00292.x
+
+Kaiser, H. F. (1960). The application of electronic computers to factor analysis. Educational and Psychological Measurement, 20,
+
+141–151. https://doi.org/10.1177/001316446002000116
+
+Kitching, J., & Blackburn, R. (1998). Intellectual property management in the small and medium enterprises (SME). Journal of
+
+Small Business and Enterprise Development, 5(4), 327–335. https://doi.org/10.1108/EUM0000000006797
+
+Levinsohn, J., & Petrin, A. (2003). Estimating production function using inputs to control for unobservables. Review of
+
+Economic Studies, 70, 317–341.
+
+Naqshbandi, M. M., & Kaur, S. (2015). Effectiveness of innovation protection mechanism in Malaysian high-tech sector.
+
+Management Research Review, 38(9), 952–969. https://doi.org/10.1108/MRR-01-2014-0002
+
+Olander, H., Hurmelinna-Laukkanen, P., & Mohnen, J. (2009). What's small size got to do with it? Protection of intellectual
+Innovation Management, 13(3), 349–370. https://doi.org/10.1142/
+
+International
+
+Journal of
+
+in SMEs.
+
+assets
+S1363919609002339
+
+Olander, H., Vanhala, M., & Hurmelinna-Laukkanen, P. (2014). Reasons for choosing mechanism to protect knowledge and
+
+innovation. Management Decision, 52(2), 207–229. https://doi.org/10.1108/MD-11-2012-0791
+
+Paallysaho, S., & Kuusisto, J. (2011). Informal ways to protect intellectual property in KIBS businesses. Innovation Management
+
+Policy and Practice, 13(1), 62–76. https://doi.org/10.5172/impp.2011.13.1.62
+
+Pajak, S. (2015). Do firms rely on big secrets? An analysis of IP protection strategies with CIS 4 survey. Economics of Innovation
+
+and New Technology, 25(5), 516–532. https://doi.org/10.1080/10438599.2015.1080902
+
+286 |
+
+REHMAN
+
+Passi, J., & Valkokari, K. (2010). Intellectual property in inter-organisational relationships- Findings from an interview study.
+
+International Journal of Innovation Management, 14(3), 399–414. https://doi.org/10.1142/S1363919610002702
+
+Rossenfosse, D. G. (2012). How SMEs exploit their intellectual property assets: Evidence from Survey data. Small Business
+
+Economics, 39(2), 437–452. https://doi.org/10.1007/s11187-010-9313-4
+
+Spithoven, A., Vanhaverbeke, W., & Roijakkers, N. (2013). Open innovation practices in SMEs and large enterprises. Small
+
+Business Economics, 41(3), 537–562. https://doi.org/10.1007/s11187-012-9453-9
+
+Thoma, J., & Bizer, K. (2013). To protect or not to protect? Modes of appropriability in the small enterprise sector. Research
+
+Policy, 42, 35–49. https://doi.org/10.S004873331200128X
+
+Thoma, J., & Zimmermann, V. (2013). Knowledge protection practices in innovating SMEs. Journal of Economic Statistics,
+
+233(5/6), 691–717.
+
+Yang, C.-H., Huang, Y., & Lin, H.-Y. (2014). Do stronger intellectual property rights induce more innovations? A cross country
+
+analysis. Hitotsubashi Journal of Economics, 55(2), 167–188.
+
+How to cite this article: Rehman NU, Yu F. Do formal and informal protection methods affect firms'
+productivity and financial performance? J World Intellect Prop. 2018;21:270–288.
+https://doi.org/10.1111/jwip.12092
+
+APPENDIX A
+
+Total Factor Productivity
+
+To measure the firms' productivity, total factor productivity (TFP) is used. First, TFP is measured through Cobb–
+
+Douglas production function. The mathematical expression for Cobb–Douglas production equation is;
+
+y ¼ f l; k; m
+Þ
+
+ð
+
+ð1Þ
+
+Y represents firms' gross output (sales) which is the function of labor, capital, and materials. To deflate the
+financial information (initially the data were given in Chilean pesos), sales, capital and materials are converted
+into UF (Unidad de Fomento). One unit of UF equals 23,957.82 Chilean pesos (CLP), which is taken as average
+value in the year 2015. The following accounts of sales, capital, and material are deflated by using formulas as
+follows:
+
+Sales ¼ðSalesiÞ=23; 957:82
+
+Capital ¼ Σn
+
+ð
+
+i¼1 land; building; office equipment
+
+Þ=23; 957:82
+
+Materials ¼Σn
+
+ð
+
+i¼1 office supplies; laboratories equipment; chemicals
+
+Þ=23; 957:82
+
+Thus the final values are obtained in UF. Regarding the measurement of TFP, this study used the empirical
+approach of Harris (2005); Harris and Li (2008). To obtain the total factor productivity (TFP), first augmented
+production is estimated as follows:
+
+yi ¼ γ0 þ γ1li þ γ2ki þ γ3mi þ ϵi
+
+ð2Þ
+
+Equation (2) measures the TFP (in logarithmic forms). These determinants (labor, capital, and materials) are
+
+included directly in the model. Consequently, TFP is defined as (removing the subscripts):
+
+REHMAN
+
+lnTFP^≡y   γ^
+
+1l   γ^
+
+2k   γ^
+
+3m
+
+| 287
+
+ð3Þ
+
+However, measuring TFP based on equation (3) would result in (i) biased estimates by omitting variable from
+equation (2) that determines output and (ii) provide inefficient estimates (potentially inconsistent standard errors and t
+values). Thus, the preferred approach is to directly include these factors of output (TFP) into equation (2). This
+estimation method avoids the problem of inefficiency and omitted variable bias. In sum, TFP is defined as any change
+in output not due to changes in the input factors.
+
+Net Profit Margin
+The net profit margin (NPM) is used to measure the firms' financial performance. This study has used profitability
+
+ratio (NPM) which shows the efficiency of the business in terms of profitability. The formula is;
+
+Net Profit Margin ¼ Net Income=Sales
+
+The net income account represents the sales minus all other expenses of the business such as salaries of R&D and
+technical support staff members, leasing expenses, consultancy fees payment, security, intellectual property rights
+and transportation costs, etc. Then 22% corporate tax is applied on sales to obtain the net income. Finally, the figures
+were converted into UF units of account to obtain deflated values.
+
+288 |
+
+REHMAN
+
+3
+1
+
+2
+1
+
+1
+1
+
+0
+1
+
+9
+
+8
+
+7
+
+6
+
+5
+
+1
+
+3
+0
+0
+
+.
+
+1
+
+5
+1
+0
+
+.
+
+7
+1
+0
+
+.
+
+1
+
+2
+1
+0
+
+.
+
+0
+2
+0
+
+.
+
+7
+1
+0
+
+.
+
+1
+
+1
+1
+0
+−
+
+.
+
+0
+0
+0
+
+.
+
+1
+0
+0
+−
+
+.
+
+4
+2
+0
+
+.
+
+1
+
+7
+0
+0
+−
+
+.
+
+3
+0
+0
+−
+
+.
+
+8
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+1
+
+1
+2
+0
+
+.
+
+2
+0
+0
+−
+
+.
+
+3
+0
+0
+−
+
+.
+
+8
+0
+0
+−
+
+.
+
+1
+0
+0
+−
+
+.
+
+6
+0
+0
+−
+
+.
+
+1
+
+0
+0
+0
+−
+
+.
+
+2
+0
+0
+−
+
+.
+
+4
+0
+0
+−
+
+.
+
+9
+0
+0
+−
+
+.
+
+5
+0
+0
+−
+
+.
+
+5
+0
+0
+
+.
+
+2
+0
+0
+−
+
+.
+
+1
+
+7
+1
+0
+
+.
+
+0
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+0
+0
+0
+
+.
+
+0
+0
+0
+−
+
+.
+
+4
+0
+0
+−
+
+.
+
+2
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+1
+
+4
+
+1
+
+0
+0
+0
+−
+
+.
+
+2
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+2
+0
+0
+−
+
+.
+
+1
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+7
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+3
+
+1
+
+9
+0
+0
+
+.
+
+0
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+2
+0
+0
+
+.
+
+3
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+3
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+4
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+3
+0
+0
+−
+
+.
+
+4
+0
+0
+
+.
+
+6
+0
+0
+−
+
+.
+
+4
+0
+0
+−
+
+.
+
+6
+0
+0
+−
+
+.
+
+6
+0
+0
+−
+
+.
+
+2
+
+1
+
+2
+1
+0
+
+.
+
+0
+0
+0
+−
+
+.
+
+1
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+1
+0
+0
+−
+
+.
+
+0
+0
+0
+−
+
+.
+
+5
+0
+0
+−
+
+.
+
+1
+0
+0
+
+.
+
+5
+0
+0
+−
+
+.
+
+2
+0
+0
+−
+
+.
+
+5
+0
+0
+−
+
+.
+
+1
+0
+0
+−
+
+.
+
+1
+
+1
+
+l
+
+s
+e
+b
+a
+i
+r
+a
+v
+
+l
+l
+
+a
+
+f
+o
+
+x
+i
+r
+t
+a
+m
+n
+o
+i
+t
+a
+e
+r
+r
+o
+C
+
+l
+
+.
+
+2
+A
+
+l
+
+s
+e
+b
+a
+i
+r
+a
+V
+
+.
+
+o
+n
+.
+s
+
+i
+
+B
+x
+d
+n
+e
+p
+p
+A
+
+)
+
+o
+r
+c
+i
+M
+
+(
+
+s
+
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+
+l
+
+a
+m
+r
+o
+f
+n
+I
+
+)
+
+o
+r
+c
+i
+M
+
+(
+
+s
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+
+l
+
+a
+m
+r
+o
+F
+
+)
+l
+l
+
+a
+m
+S
+(
+
+s
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+
+l
+
+a
+m
+r
+o
+F
+
+)
+l
+l
+
+a
+m
+S
+(
+
+s
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+
+l
+
+a
+m
+r
+o
+f
+n
+I
+
+)
+
+i
+
+m
+u
+d
+e
+M
+
+(
+
+s
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+
+l
+
+a
+m
+r
+o
+F
+
+)
+
+i
+
+m
+u
+d
+e
+M
+
+(
+
+s
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+
+l
+
+a
+m
+r
+o
+f
+n
+I
+
+)
+e
+g
+r
+a
+L
+(
+
+s
+
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+
+l
+
+a
+m
+r
+o
+f
+n
+I
+
+)
+e
+g
+r
+a
+L
+(
+
+s
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+
+l
+
+a
+m
+r
+o
+F
+
+s
+e
+c
+r
+u
+o
+s
+e
+R
+
+l
+
+a
+i
+c
+n
+a
+n
+F
+
+i
+
+f
+o
+
+k
+c
+a
+L
+
+f
+f
+a
+t
+S
+
+d
+e
+i
+f
+i
+l
+
+a
+u
+Q
+
+f
+o
+
+k
+c
+a
+L
+
+s
+e
+v
+i
+t
+n
+e
+c
+n
+I
+
+x
+a
+T
+
+t
+n
+e
+i
+c
+i
+f
+e
+D
+
+t
+r
+o
+p
+p
+u
+S
+D
+&
+R
+
+f
+o
+
+k
+c
+a
+L
+
+)
+g
+o
+L
+(
+
+e
+g
+A
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+0
+1
+
+1
+1
+
+2
+1
+
+3
+1
+
+

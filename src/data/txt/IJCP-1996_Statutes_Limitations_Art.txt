@@ -1,0 +1,2320 @@
+The Case Against Statutes
+of Limitations for  Stolen Art*
+Stephanos Bibas**
+
+Summary
+
+When a thief steals a work  of art and resells  it to a bona fide pur-
+chaser, most commentators favor protecting the buyer's title against
+a claim by the original owner. American law on this issue has been
+in flux,  and today  most  American  States  resolve  these  disputes by
+balancing  the  buyer's  blameworthiness  against  the  owner's  delay
+and fault. Such ad hoc statutes of limitations are misguided because
+they encourage art theft,  reward morally culpable buyers, and leave
+the law unclear and unpredictable. Instead, the law should award title
+automatically to theft victims who immediately report their losses to
+the police  and an international  computerized  database of  art thefts.
+Doing  so  would  create  clear  incentives  for owners  to  report  thefts
+and for buyers and art merchants to check the database, thus drying
+up the market for stolen art.
+
+Introduction
+
+In the mid-1960's, a mailroom clerk at the Guggenheim  Museum in
+New  York City stole a Marc Chagall watercolor entitled  The  Cattle
+Dealer. Museum officials did not notify the police, the FBI, Interpol,
+or other museums or galleries of the theft. In 1967, Jules and Rachel
+Lubell bought  The  Cattle Dealer from a reputable New York gallery
+and displayed  it in their home for over two decades.  After  learning
+of  the  painting's  location  in  1985,  museum  officials  demanded  its
+return. When Mrs. Lubell refused, the museum began a lawsuit that
+dragged on for years.1 Mrs. Lubell claimed ownership as an adverse
+possessor  and  under  the  statute  of  limitations.2  In  1991,  the  New
+
+••  Associate, Covington & Burling, Washington, D. C. B. A., Columbia Univer-
+sity,  1989;  Honours  B. A.,  University  of  Oxford,  1991;  J. D.,  Yale  Law
+School,  1994.  The author would  like  to  thank  Ray  Dobson,  Fall  Ferguson,
+Bill  Hohengarten, Constance  Lowenthal,  Renee Lettow,  Elizabeth Reynolds,
+Carol  Rose, Phil Wagman, and Caroline Wakeford for their assistance.
+
+73
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos  Bibas
+
+York  Court  of  Appeals  sent  the  case  back  to  the  trial  court  for  a
+determination  of the relative blameworthiness  of the parties,  further
+prolonging  the  litigation.3
+
+The  balancing-test  approach  adopted  by  the  New  York  Court  of
+Appeals  in  Guggenheim exemplifies  one of several  tangled  threads
+in the law of stolen  chattels.4  Many of the commentators  who have
+written  about  statutes  of  limitations  for  personal  property  advocate
+adverse  possession,  a doctrine  borrowed  from  land  law.5  Other  au-
+thors endorse  a multi-factor  balancing  of the equities called  the dis-
+covery rule, an approach similar to the one adopted in Guggenheim*
+Related  doctrines,  such  as  the due  diligence  and  laches  rules,  also
+balance the relative equities of the parties.7
+
+All of these approaches are flawed. Adverse possession, a doctrine
+that  works  well  for  real  estate,  is  not  suited  to  the  very  different
+realm of movable, concealable personal property. Because it ignores
+an  owner's  diligence,  adverse  possession  doctrine  hurts  diligent
+owners who have reported thefts but are unable to find their property.
+Since  multi-factor  balancing  tests  do  not  automatically  award  title
+to  theft  victims,  they  do  not  adequately  deter  trafficking  in  stolen
+goods. Adverse possession  law and balancing tests do not automati-
+cally reward theft  reporting, nor does either doctrine routinely penal-
+ize  the  purchase  of  stolen  property.  Thus, neither  approach  creates
+adequate  incentives  to  report  thefts  and  deter  the  buying  of  stolen
+art.8 Judges and  academics have been too preoccupied  with ex post
+dispute resolution to see the ex ante impact of their rules upon  future
+behavior.  Therefore,  current  approaches  fuel  the  market  for  stolen
+goods and encourage more  thefts.
+
+This  Note's  thesis  is  simple:  victims  of  art  thefts  who  promptly
+report  the thefts  to  the  police  and  to  a computerized  theft  database
+should  never  be  legally  barred  from  recovering  their  property.  In
+other  words,  statutes  of  limitations  should  not  apply  to  actions
+brought  by  owners  who  have  promptly  taken  two  simple  steps  to
+protect their legal titles. Often, a so-called bona fide purchaser (BFP)
+is negligent when investigating title to an artwork. Now that an inter-
+national  computerized  art-theft  registry  is  available,  buyers  should
+be encouraged to check  the registry and should be held liable if they
+fail  to do so.
+
+Part  1  of this Note surveys the arguments commentators have mar-
+shalled  in support of statutes of limitations for personal property and
+considers  the judicial  trend  toward  restricting  protection  of  BFP's.
+Courts  have  gradually  offered  more  protection  to  owners  but  have
+done so ad hoc, suggesting that the time is ripe for  wholesale legis-
+lative  reform.  Part  2  criticizes  the  arguments  for  protecting  BFP's
+from  diligent  owners'  claims.  Part  3  outlines  an  alternative  legal
+regime  that  would  protect  a  BFP  if  and  only  if  the  owner  had  not
+reported  the  theft.  This  Note  concludes  that  protecting  owners  by
+abolishing  limitation  periods  for  many  types  of  personal  property
+would  be both economically  efficient  and morally just.
+
+74
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of  Limitations for Stolen Art
+
+1  Limitation  Periods  for Chattels: Commentators  and
+
+Courts
+
+To understand why the current law is unsatisfactory, one must under-
+stand  what  the  law  is  and  how  it  arose.  Adverse  possession,  for
+instance, is a land  law doctrine  that  courts first imported  into cases
+involving stolen animals. Adverse possession may have suited stolen
+horses in the late  nineteenth  century,  but  it works  poorly  for  small,
+concealable  objects  (such  as  artworks)  in  a  highly  mobile  society.
+Recognizing that this real-property doctrine is inappropriate for most
+personal  property,  courts  and  commentators  have  moved  toward
+case-by-case  balancing  of  the  relative  diligence  and  blameworthi-
+ness of each theft  victim and each buyer. Judges and academics have
+gradually recognized that theft  victims often  deserve to recover their
+art from buyers of  stolen  goods.  But because  no one  has  advocated
+bright-line  rules,  the  law  has  perpetuated  perverse  incentives  for
+buyers not to investigate title and has failed  to encourage  victims to
+report thefts,  as Part 2 argues.
+
+Section  1 lays out  the common  law  rule that protects  an  original
+owner's  title  to  stolen  goods.  More  than  a  century  ago,  American
+courts  and  commentators  began  supporting  adverse  possession  of
+chattels,  a  doctrine  that  favors  buyers.  Section  2  explores  this  ap-
+proach. More recently, courts have drifted  away from protecting buy-
+ers by tempering  limitation  periods  in various circumstances.  In art
+theft  cases  in particular, they have been  less willing to find for pos-
+sessors  than  most  academics  would  be.  Sections  3  and  4  consider
+doctrines  the  courts  have  used  to  curtail  protection  for  buyers  of
+stolen art: the demand-and-refusal  rule, the laches rule, the due dili-
+gence doctrine, and the discovery  rule. Section  5 considers  the rea-
+sons behind  the gradual  erosion  of protection  for  possessors. When
+courts face  real cases  involving  real  people, judges and juries  intui-
+tively  blame  the  possessor  because  he9  is  usually  the  least  cost
+avoider  and  is at  least  as negligent  as the theft  victim.  Courts  have
+increasingly  favored  owners,  but  they  have  done  so  in  an  ad  hoc
+fashion.  As  Part  III  argues,  Congress  should  replace  this  ad  hoc
+judicial  approach  with an  explicit,  bright-line  rule  that  would  deter
+art  theft.
+
+1.1  The Common  Law of  Stolen  Property
+At  common  law,  a  thief's  title  is  void.10  The  thief  cannot  give  a
+buyer, even  a BFP, good  title."  Thus, a buyer  does  not take title  if
+somewhere back in the buyer's chain of title a claim rests on  theft.12
+Over  the  past  century,  the  various  doctrines  of  limitation  periods
+described  below  have  carved  out  exceptions  to this  rule. Neverthe-
+less,  the  Uniform  Commercial  Code  perpetuates  the  common  law
+rule:  unless  one of  the  limitation  doctrines  applies, title  remains  in
+the original  owner.13
+
+75
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos Bibas
+
+1.2  Adverse Possession  of Chattels
+1.2.1  Academic Literature
+Under adverse possession doctrine, a possessor who has actual, ex-
+clusive, open, notorious, continuous, and hostile possession  of land
+under a claim  of right for  the  statutory  period can  take good  title
+and  thereby  defeat  the  original  owner's  claim.14  Academics  have
+long argued that adverse possession  of chattels is desirable for pre-
+cisely the same reasons that adverse possession of land is: namely, to
+punish the original owner's delay, to protect the possessor's  settled
+expectations, and to avoid the evidentiary problems caused by stale
+claims.15
+
+Some authors have recognized differences between realty and per-
+sonalty but have nonetheless supported adverse possession for both.
+John Dawson, for instance, noted that the usual requirement of open
+and notorious possession  does not fit chattels well  because chattels
+are movable  and often  inconspicuous.16  Nonetheless,  he  supported
+adverse  possession  of  chattels  as  a way  of  protecting  a  BFP's re-
+liance  interest.17  Similarly,  Patty  Gerstenblith  notes  that even  if a
+possessor uses personal property openly, notoriously,  and visibly, a
+diligent  owner  may  still  have  no  notice  of  her  property's  where-
+abouts.18 Thus, Gerstenblith  says, courts face  a difficult  choice  be-
+tween  two  innocent  parties.19  Nevertheless,  she  supports  adverse
+possession  of  chattels  because  it  protects  commercial  expectations
+and  rewards  possessors'  good  faith.20  In  her  opinion,  an  adverse
+possession  rule that relies on possessors' good faith is a clear, pre-
+dictable,  fair  substitute  for  the  requirement  of  open  and notorious
+possession.21
+
+1.2.2  Case Law on Adverse Possession
+
+By barring untimely suits by owners to recover property, statutes of
+limitations indirectly defeat the common law rule that a thief cannot
+pass  title.  Though  most  statutes  of  limitations  for  recovering  per-
+sonal  property  do  not  mention  the  requirements  for  adverse  pos-
+session  of land, courts have read such standards into the statutes.22
+This approach was firmly  settled by the first quarter of this century.
+The  majority  of  reported  cases  on  adverse  possession  of  chattels
+between  1870 and  1930 involved horses, cattle, sheep, and mules.23
+This case law, crafted to fit stolen animals that remained in one state,
+did not work nearly as well  when it was later extrapolated to cover
+smaller, concealable  goods (such  as artworks) that had been trans-
+ported to a different  state or nation. Because adverse possession  of
+chattels unfairly penalizes theft victims who cannot find their goods,
+many jurisdictions have replaced adverse possession  law with vari-
+ous balancing-test doctrines.24
+
+In the seminal case of Dragoo v. Cooper,25 Cooper sued to recover
+a stolen horse from Dragoo, a BFP who had held the horse for four
+
+76
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes  of  Limitations  for Stolen Art
+
+years.  The  court  held  for  Dragoo.  "[W]e  perceive  no  valid  reason
+why the rule of construction adopted in suits relating to realty  [i. e.,
+adverse possession] shall  not be applied in actions for the recovery
+of personalty."26 The court claimed that the policies of quieting titles
+and  preventing  lawsuits  apply  equally  to  chattels  and  land.27  The
+Dragoo scenario recurred in different  states, with different  animals,
+over the next six decades. Courts gradually imported more and more
+of the land law tests into the law of chattels. One court, for example,
+stressed that a possessor had held openly and notoriously.28
+
+Animals are mobile and thus hard to find. To address this problem,
+some  courts  interpreted  the  open-and-notorious  test  to  require that
+the possessor hold the property openly and notoriously in the vicin-
+ity of  the  theft: "[I]t has been uniformly held that the two-year stat-
+ute of limitation is applicable to an action for the recovery of stolen
+property,  where  the  property  is  held  in  open  and  notorious  pos-
+session  and  within the jurisdiction  of  the  court."29  Likewise,  the
+Dragoo  court  declared  that  "departing  from  the  state"  would  toll
+the  statute  of  limitations.30  This  doctrine  guaranteed  the  owner  a
+reasonable  chance  to  find  her animal  and bring  suit.31  In contrast,
+where a possessor held a mare openly and notoriously in the locale
+of the theft,  he deserved title because of the owner's  "utter lack  of
+diligence" in finding  and recovering the mare.32
+
+With this refinement of the open-and-notorious  test, adverse pos-
+session  may  have  worked well  for  livestock  in  the  late  nineteenth
+century. Animals, like land, are durable, valuable, and responsive to
+investment,  such  as  feeding  and medical  care.  The  requirement  of
+open and notorious possession  in the jurisdiction  insured locational
+stability. Animals grazed on open land and were visible to the public.
+Many  animals  bore  brands  or  distinguishing  marks  that  uniquely
+identified  them from a distance.33 Communities were much smaller
+and word of  mouth  much more  potent.  If a stolen  horse stayed in
+the owner's community for several years without being found, it was
+relatively likely that the owner had neither actively looked for it nor
+alerted  her  neighbors.  Punishing  an  owner's  laziness  might  have
+made  sense  in  small  rural  communities—adverse  possession  law
+barred stale claims and rewarded the possessor for feeding  and car-
+ing for the animal.34
+
+But this reasoning was plausible only when one could blame delay
+on an owner's laches (i. e., lack of diligence). Over time, communi-
+ties grew larger, people grew more mobile, and courts extended ad-
+verse  possession  to  less  noticeable  goods.  Furthermore,  the  tolling
+of statutes of limitations for property outside the jurisdiction disap-
+peared from the case law.35 These changes made it increasingly im-
+plausible to blame owners for not bringing suit sooner.
+
+Courts that had to assign the loss to one of two innocent parties
+split in their approaches. Most interpreted open and notorious use to
+mean using  property  as openly  as an ordinary  owner would; these
+courts usually sided with possessors. For example, one case held that
+
+77
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos Bibas
+
+using a typewriter in plain view  in a business counted as open and
+notorious  possession.36  Another  case  treated  use  of  a  violin  in  a
+possessor's  house and at music  lessons as sufficiently  open and no-
+torious.37 In a third case, having a piano in one's house sufficed  as
+"public" use, even though  two witnesses testified  that they had not
+known about the piano.38 Another court treated the use of bonds for
+loan collateral  as sufficient  because the possessor "h[e]ld the bonds
+as  openly  and  notoriously  as  the  nature  of  the  property  would
+permit."39
+
+A small minority of courts read "open and notorious" as requiring
+use that an owner was likely to discover; these courts usually sided
+with  owners.  The  Supreme  Court  of  California  held  that  using  a
+piano in one's house "was not open and notorious, but clandestine,
+and  the  owner  was  without  the  means  of  knowing  in whose  pos-
+session  it  actually  was."40  An  Oklahoma  court  asked  whether  the
+possessor  held  a diamond ring "openly  and notoriously  ...  within
+plaintiff's  vicinity  so  that plaintiff  had a reasonable  opportunity  of
+knowing the ring's whereabouts."41  Utah law went even further and
+tolled the statute until an owner had actual  knowledge of facts that
+should have put her on notice.42 These cases began the trend toward
+insuring  fairness  to owners.  This  focus  on  the  owner's  knowledge
+and culpability  presaged  the  laches  and  discovery  rules,  discussed
+below in Part 1.4. As a result of these concerns, such major jurisdic-
+tions  as  New  York  and  New  Jersey  have  abandoned  adverse  pos-
+session  law in favor of balancing-test doctrines.43
+
+1.3  The Demand-and-Refusal  Rule
+
+One  line  of  cases  holds  that  an owner's  cause  of  action  against a
+BFP does not  accrue until  the owner demands that the BFP return
+her property  and the  BFP  refuses.44  In contrast,  a cause  of  action
+arises at once against a thief or other wrongdoer, and so no demand
+is necessary.45 For example, the demand requirement protects a BFP
+from  criminal  prosecution  for  possession  of  a  stolen  car until  the
+owner has demanded its return and the BFP has refused. The ration-
+ale for demand and refusal, in contexts other than limitation periods,
+is that the BFP, unlike the thief, does no intentional wrong by hold-
+ing the property and therefore should not be liable until made aware
+of the owner's claim.46 The requirement fosters private dispute resol-
+ution and immunizes a BFP from civil  and criminal  liability for the
+taking (though he must still  return the property).47  In other words,
+the rule  is  supposed  to protect  a  BFP by postponing  liability  until
+after he learns of the theft  victim's claim and refuses to honor it.
+
+Without  examining  the  policies  behind  the  rule,  several  courts
+have applied the demand-and-refusal  requirement to toll  statutes of
+limitations  until  the owner makes a demand  and the possessor re-
+fuses to return the property.48 Though this version of the rule extends
+to all types of chattels, a number of these cases have involved stolen
+
+78
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of Limitations  for Stolen Art
+
+art or artifacts.49  Since  this  rule  allows  the owner to  bring  suit no
+matter  how  much  time  has  elapsed  between  the  theft  and  her de-
+mand, courts that sympathize with owners use the rule "as a bulwark
+against the handiwork  of evil, to guard to rightful  owners the fruits
+of their labors."50
+
+Though sympathy for theft victims is understandable, the method
+chosen to protect these victims is not. The pure demand-and-refusal
+requirement  eviscerates  limitation  periods  by  allowing  owners  to
+postpone making a demand indefinitely.  It helps thieves, for whom
+the statute of limitations runs at once,51 while harming innocent buy-
+ers. And far from serving its original goal of protecting a BFP from
+lawsuits, it makes him perpetually  vulnerable to suit.
+
+Because of these problems, most courts have abandoned the pure
+form of the rule. Some cases have addressed these problems by run-
+ning the limitation period from the time when an owner first gained
+the right to  make  a demand  (i. e.,  the  time of  the  theft  or conver-
+sion).52  This change  effectively  abolishes  the demand requirement.
+Other cases,  as the  next  Section  shows,  have  used  laches  and due
+diligence doctrines to soften the demand-and-refusal  requirement.
+
+1.4  Laches, Due Diligence,  and the Discovery Rule
+
+Courts  in  chattel  replevin  cases  have  adopted  doctrines  variously
+labeled as laches, due diligence, and the discovery rule, all of which
+rest on ad hoc  balancing  of  myriad relevant factors.  Cases  such as
+Guggenheim  have  applied  the  doctrine  of  laches  to  insure  that an
+owner  does  not  delay  in  locating  the  possessor  and  making  a de-
+mand.53  This approach  involves  a multi-factor  balancing  of  all  the
+equities, including  the owner's diligence,  the buyer's behavior, and
+prejudice to the buyer.54 For instance, though the Guggenheim Mu-
+seum never reported the theft, the court left open the possibility that
+the  museum  could  recover  if  other  factors  weighed  in  its  favor.55
+This  balancing  method  resembles  the  discovery  rule  discussed
+below.
+
+One Second Circuit case, DeWeerth v. Baldinger, interpreted New
+York law as requiring an owner to use reasonable diligence to locate
+and demand the return of stolen property.56 The court laid down no
+guidelines  for  how  much diligence  would  suffice,  saying  only  that
+diligence "depends upon the circumstances  of the case."57  Because
+the owner had neither publicized the theft  nor used post-World War
+II mechanisms for recovering stolen art, the Second Circuit reversed
+the district court's finding  of diligence  as erroneous.58 As a federal
+court  sitting  in  a diversity  action, the  Second  Circuit  purported  to
+predict  how  New  York courts  would  rule.59  But  shortly  thereafter,
+the New  York Court  of  Appeals,  in  Guggenheim,  rejected  the due
+diligence  rule  as  a  misunderstanding  of  New  York  law.60  Indeed,
+because the facts of each case differ, the Guggenheim court rejected
+
+79
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos Bibas
+
+the  very  idea  of  codifying  what  actions  constitute  laches  or  dili-
+gence.61
+
+Several  courts have explicitly  adopted a so-called discovery  rule
+for the recovery of chattels, usually  in cases involving  stolen art.62
+Under the rule, courts balance all the equities of the case,63 including
+when a diligent  owner would  have  located  the chattel,  in deciding
+whether it would be fair to toll the statute of limitations. In O 'Keeffe
+v. Snyder, for example, Georgia  O'Keeffe  sued a BFP for replevin
+of three  stolen  paintings.64 The  intermediate  court applied  adverse
+possession law and held that a possessor could not gain title without
+displaying art openly and notoriously in a museum.65 The New Jer-
+sey Supreme Court eschewed adverse possession  law because it ig-
+nores an owner's actions and because the test for open and notorious
+use of  land does not  fit  most  chattels.66  Instead, the court  adopted
+an equitable  discovery  rule,  focusing  on the owner's  diligence  but
+also  considering  "the equitable  claims of all  parties."67  Unlike  ad-
+verse possession, the discovery rule places the burden on owners to
+justify  deferring  the  limitation  period.68  The  court  refused  to  lay
+down  rules  about  how  diligent  theft  victims  should  be.69  The  two
+other art cases applying the discovery rule have likewise interpreted
+the rule as requiring a fact-specific  inquiry into the equities and the
+amount of diligence required.70
+
+Despite the profusion of labels, the laches, due diligence, and dis-
+covery  rules are similar if  not equivalent.  These flexible balancing
+tests  weigh the owner's diligence  and delay, the buyer's  innocence
+and reliance, the existence of prejudice, and other equitable factors.
+For instance, the discovery  rule  looks  at when the owner knew  or
+should have known of the art's location. One cannot, however, assess
+when an owner should have known without first  asking what steps
+a diligent owner should have taken, and so the discovery rule is akin
+to due diligence.
+
+Two commentators  advocate  a due diligence  approach based on
+guidelines  for  what  buyers  and  owners  must  do  to  preserve  their
+rights.71  They claim that the law cannot set out definitive  standards
+for evaluating  due diligence  in all circumstances.72  Instead, courts
+should  develop  "rebuttable  presumptionfs]"  based  on  a  buyer's
+checking  theft  registries  and  buying  from  established  dealers.73
+These rules of thumb would also  require theft  victims to publicize
+searches, check catalogues of an artist's work, and notify  the police.
+Neither author, however, proposes any bright-line standards.74 Like-
+wise,  the  discovery  rule  is  quite flexible. Three commentators  en-
+dorse the discovery rule because of its equitable, flexible multi-fac-
+tor balancing test.75
+
+Note that the laches, diligence, and discovery doctrines are much
+more  favorable  to  theft  victims  than  is  adverse  possession.  These
+new rules give victims some power over when they lose their  rights
+to  sue.  The  increasing  prevalence  of  these  rules  is  evidence  of  a
+
+80
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes  of  Limitations  for Stolen Art
+
+trend toward protecting many theft victims at the expense of BFP's.
+The next  Section  speculates  about  why  courts  have  moved  in this
+direction.
+
+1.5  Why Courts Have Gradually Restricted Protection for Buyers
+
+Interestingly, though most academics endorse  limitation periods for
+chattels, courts  have been  much less enthusiastic.  As noted, courts
+have increasingly  tempered statutes of limitations  in ways  favoring
+owners. In the ten reported cases involving art or artifacts in which
+possessors invoked the statute of limitations, the only two that held
+for  the  possessor  relied  on  the  owner's  utter  lack  of  diligence  in
+locating  the art.76 Five of  the cases  ruled for the owner outright.77
+Three other cases proceeded for further factfinding,  despite evidence
+of the  owner's lack of diligence  in two of them.78
+
+This judicial  drift  favors  diligent  owners and even  some not-so-
+diligent  owners out of  sympathy  for theft  victims.  Courts have be-
+come  increasingly  uncomfortable  with  awarding  title  to  possessors
+because possessors  often  buy under suspicious  circumstances with-
+out investigating title.  For instance, one buyer bought two priceless
+fifteenth-century  Diirer paintings for $450 from a former soldier who
+showed  up  at  the  buyer's  home  and  claimed  to  have  bought  the
+paintings in Germany.79  In another case, an art dealer purported to
+believe  a  seller's  story  that  an  unnamed  ailing  archaeologist  had
+suddenly  decided  to  sell  rare Byzantine  mosaics.  Though  the mo-
+saics were in Munich, the American dealer rushed to close the trans-
+action in Switzerland, a country to which buyers of stolen art flock
+in  order  to  claim  Swiss  law's  protection  of  buyers.80  Even  when
+there are no affirmative hints of theft, buyers often do little to inves-
+tigate title, relying solely on a seller's word.81
+
+Some courts have given owners leeway even when they have not
+been  diligent.  Although  the  O'Keeffe court  backed  away  from  an
+extreme pro-victim doctrine,  it left  open the possibility  of recovery
+despite the owner's  failure to search for the paintings until  twenty-
+six  years  after  the  theft.82  In  the  Guggenheim case,  the  museum
+had not notified  law enforcement  agencies, nor had it notified other
+museums,  galleries,  or artistic  organizations.83  On the  other hand,
+the buyers could have discovered Guggenheim's ownership by con-
+sulting a catalogue of Chagall's work,  but they had neglected to do
+so.84  Noting  that  the  equities  did  not  favor  either party,  the court
+decided  not  to bar the  owner's  claim  despite  its  lack  of  diligence.
+Giving  too  much  protection  to  buyers,  and  placing  the  burden  of
+locating stolen art on owners, "would, [the court] believe[d], encour-
+age illicit trafficking  in stolen art."85 The court cited Governor Cuo-
+mo's fears that crafting  a rule too favorable to buyers would make
+New York a haven for stolen art.86 Accordingly, the court "place[d]
+the burden of investigating  the provenance of a work of  art  on the
+
+81
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos  Bibas
+
+potential  purchaser"  and  remanded  the case  for  an  equitable  balan-
+cing of the parties'  claims.87
+
+The  Guggenheim case  is revealing.  Even  where the owner  could
+have done much  more to recover the art, the court  refused  to  favor
+the  buyer  for  fear  of  encouraging  theft.  The  court  recognized  that
+buyers  have the power  to  investigate  provenance  and, by doing  so,
+can curtail the market for stolen art. It therefore  saw no moral reason
+to  favor  buyers and treated  both  parties  as equally  guilty. Note  that
+the  gallery  that  sold  the  painting  to  the  Lubells  bought  it  from  a
+dealer who had bought  it from the suspected thief.88 Evidently,  nei-
+ther the dealer nor the gallery had thoroughly verified  the art's title.
+If the  law placed the loss on buyers, a buyer could  still  recover  the
+value of the art from the gallery  by suing  for breach of warranty  of
+title.89  Art  dealers, as  repeat  players,  are  well-suited  to  investigate
+title and to spread the risk of loss, which suggests that the law should
+ultimately  place  losses  on  dealers.  Part  2  develops  these  ideas
+further.
+
+Judges  and juries  have  felt  the  need  for  change,  but  they  still
+operate  within  a framework of  outmoded  doctrines.  The  next  Part
+explores the themes of  fairness  and ability to investigate and  shows
+how they undermine the arguments for favoring buyers over diligent
+owners under any circumstances. Because courts have chipped  away
+at statutes of limitations for buyers, the law is in flux and thus breeds
+litigation.  The  flaws  exposed  in  the  next  Part  support  a  wholesale
+retreat from statutes of limitations. It is time to crystallize the courts'
+vague  intuitions  into  a  rule  clear  enough  to  provide  guidance  to
+buyers and theft  victims.
+
+2  The Case Against  Protecting  Buyers of Stolen Art
+
+The gradual judicial  shift  in favor  of theft  victims suggests that cur-
+rent rules protecting  buyers of  art and other chattels are  unsatisfac-
+tory. Proponents of statutes of limitations rely on three related  argu-
+ments:  limitation  periods  increase  the  marketability  of  chattels  by
+obviating  burdensome  title  investigation;  they  protect  morally
+blameless possessors; and they prevent courts from becoming  mired
+in  evidentiary  problems  raised  by  very  old,  so-called  stale  claims.
+First,  this  Part  rebuts  these  three  arguments.  Section  1 argues  that,
+though  limitation  periods  are  touted  as  fostering  marketability  of
+chattels,  maximum  marketability  is not  a  virtue  but a  vice  because
+it facilitates art theft.  Section 2 refutes  the moral arguments for pro-
+tecting buyers. Section  3 contends that values of justice,  efficiency,
+and  international  comity  outweigh  the  problems  raised  by  stale
+claims  and  that,  in  any  event,  old  claims  do  not  cause  many  evi-
+dentiary problems. In addition to rebutting the three arguments listed
+above, this Part raises one independent objection  to the current law.
+
+82
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of Limitations for Stolen Art
+
+Section  4  criticizes  the  discovery  rule,  laches,  and  due  diligence
+doctrines as too vague and thus too unpredictable to generate proper
+incentives.
+
+2.1  Facilitating Art Sales Encourages Theft
+
+Many commentators argue for limitation periods by noting that they
+increase marketability of chattels by quieting title.90 In other words,
+statutes of limitations foster commerce by limiting or obviating any
+title  search that a buyer must undertake before  buying  an artwork.
+This  argument  rests  on  the  unstated,  flawed  premise  that  the  law
+should always maximize marketability. But the law's goal should not
+be to maximize marketability per se, but rather to achieve optimum
+marketability by inducing buyers to weigh the costs of investigation
+against its benefits.91  If art has a readily discernible, honorable prov-
+enance,  there  is  no  impediment  to  its  sale.  The  cloud  over  an art-
+work's  title  arises  when  its  provenance  is  unclear or questionable.
+But  this  is  precisely  where  the  law  should  make  buyers  cautious
+and encourage them to investigate. In some cases, buyers buy under
+suspicious  circumstances.92  Buyers  often  rely  on  a gallery's repu-
+tation without requesting any other evidence of title.93 "'[I]n an in-
+dustry whose transactions cry out for verification  of  ...  title  ...  it is
+deemed poor practice to probe ,..'"94 Even reputable auction houses
+such as Sotheby's have been known not to investigate title.95
+
+Statutes of limitations may have been necessary to achieve opti-
+mum marketability in a bygone era when investigation was difficult,
+costly, time-consuming, and incomplete. But today, buyers and mer-
+chants  can  readily  investigate  title.  They  can  consult  a catalogue
+raisonne of an  artist's work to determine the lineage and most recent
+ownership of each work.96 And, since  1991, they have been able to
+consult an international  computerized database of stolen art.97
+
+Because  statutes  of  limitations  promote  maximum  marketability
+rather than optimum marketability, they  increase the profitability of
+art theft  and thus encourage  more thefts.  As of  1990, art theft  was
+second  only  to  drug  smuggling  as  the  most  lucrative  crime  in the
+world,98 involving two to six billion dollars worth of art  each year.99
+One quarter of these  thefts  happen  in America.100  Thieves  operate
+according to the law of  supply and demand; the demand for stolen
+art fuels  thefts.101  Logic  and anecdotal  evidence  suggest  that  laws
+protecting buyers have encouraged theft and created havens for laun-
+dering  stolen art.102  Because  buyers presently  bear the costs of in-
+vestigating title but do not internalize the costs of failing to investi-
+gate, they do too little title searching and buy too much stolen art.
+Instead  of  maximizing  marketability  by  protecting  buyers  of
+stolen goods, the law should create incentives for buyers to investi-
+gate provenance.103  But adverse possession  law, by focusing  solely
+on a possessor's  acts of possession  after purchase, maximizes mar-
+ketability at the cost of failing to create incentives to investigate. And
+
+83
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos Bibas
+
+the discovery rule, laches, and due diligence tests are so unclear that,
+as Part 2.4 argues, they do not guide behavior.  Because these rules
+do not strongly  encourage  investigation,  they  also create too much
+marketability.  By facilitating art sales, the law facilitates art theft.
+
+2.2  Buyers Do Not Merit Repose Because Owners Who Report
+
+Thefts Have Morally Stronger Claims
+
+Some authors argue that limitation periods for chattels are good be-
+cause they protect possessors' repose.'04 These commentators seem
+to  be  arguing that a possessor  morally  deserves repose.  This argu-
+ment rests on the fallacious premise that a possessor has a stronger
+moral claim than an owner who has reported a theft.
+
+First,  because  a buyer can  easily  investigate  an artwork's prov-
+enance,  he  is  negligent  if  he  fails  to  investigate frilly. When  the
+owner has notified  authorities and theft  databases, a buyer is more
+culpable even if this blame does not amount to bad faith. Commen-
+tators oversimplify  the situation by talking about two innocent par-
+ties;  a buyer  is  likely  to  be  several  shades  more  culpable  than an
+owner who has reported the theft.
+
+Buyers often  buy through art dealers and galleries. Those buyers
+claim  to be  innocent  because  they  rely  on  the  advice  of reputable
+professionals.  This, however,  is an insufficient  reason  to exonerate
+buyers. The  issue  is  not only  whether buyers  in fact  rely  on mer-
+chants, but also whether we  think  that buyers should rely on mer-
+chants without seeing evidence of a title search. In other words, the
+efficiency  and practicality of title investigation should influence the
+law's  assessment  of  innocence.  Current  law does not give  a buyer
+enough incentive to make sure that his seller has verified title. Fur-
+thermore, in deciding where to place the loss, one must consider the
+actual  incidence  of the  loss: who will  actually wind up paying the
+bill? If the loss falls on the buyer, the buyer can recover an indem-
+nity from the vendor for breach of warranty of title under the Uni-
+form Commercial Code.105 Thus, the real choice is between placing
+responsibility on the theft victim and placing it on the merchant (or
+the buyer if there is no solvent merchant).106 As knowledgeable re-
+peat players, merchants can spread the risk of loss, insure against it,
+and develop  routine title  search procedures.  In addition, merchants
+are more blameworthy than theft  victims because they have bought
+(directly or indirectly) from a thief. When buying art from a nonmer-
+chant, a buyer could  spread the risk of  loss by purchasing title in-
+surance.107 The cost of such insurance would be proportional to the
+size of the cloud around the title, thus making stolen artworks much
+less marketable. These factors all suggest that the law ought to place
+the loss on the buyer in order to encourage merchants to verify title
+and to encourage art buyers to buy from reputable, solvent merchants
+who investigate.
+
+84
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of  Limitations  for Stolen Art
+
+As  Part 2.4  argues, case-by-case  determination  is  unreliable and
+costly, inadequately deters thefts, and creates collective action prob-
+lems.  Thus, the  law  should  place  the risk of  loss  on  that  class  of
+persons  more  likely  to be blameworthy,  namely  possessors.  Doing
+so  would  create the  certain,  predictable,  ex  ante  incentives  needed
+to deter carelessness.108
+
+Finally,  one  can draw  an  analogy  between  an  innocent  owner's
+ignorance  and  disabilities  such  as  infancy,  insanity,  and  imprison-
+ment, all of which toll the running of adverse possession of land.109
+In  these  cases,  the  law  subordinates  a  possessor's  repose  to  an
+owner's  fair chance  to bring an action.  Likewise,  where  an owner
+cannot bring suit out of blameless ignorance of who has her chattel,
+the  law  should  treat  her  ignorance  as  a  disability  and  so  toll  the
+limitation period.
+
+It  is  important  to  distinguish  owners  who  report  thefts  from
+owners who do not. The latter, by sleeping on their rights, may have
+induced  detrimental  reliance  by  an  innocent  purchaser.  They  may
+have less than honorable motives for not reporting, such as trying to
+evade state,  inheritance, and capital  gains taxes upon recovery and
+trying  not  to  provoke  a tax  audit.110  Even  honest  motives  for not
+reporting are often  selfish,  such as a desire  to avoid drying up the
+market  for  a  stolen  artwork  and  thereby  driving  it  further  under-
+ground.111  As Part 2.4 argues, this motive is rational for individuals
+but collectively encourages art theft because not publicizing has the
+ex ante effect of encouraging future thefts. The law should solve this
+collective  action  problem  by  pressuring  all  theft  victims  to report
+thefts and by rewarding them for doing so.
+
+2.3  Stale Claims
+
+Limitation  periods are often justified  as a way  of  foreclosing  stale
+claims.112 According to this argument, old claims present thorny evi-
+dentiary problems. Witnesses die;  memories fade; receipts disappear.
+Rather than allowing a theft victim to sue a BFP's heir who has no
+knowledge  about the deceased  BFP's  purchase, or trying to recon-
+struct  missing  evidence,  the  law  should  avoid  these  vexing  ques-
+tions. By refusing to hear suits brought after the statute of limitations
+has run, the law promotes judicial economy, insures fairness to pos-
+sessors, and deters delay in bringing suit.
+
+Even  if  abolishing  limitation  periods  would  induce  more  old
+claims, other values outweigh the costs of staleness. First, abolishing
+limitation periods would abolish  the perverse  incentive  to drive art
+underground for the statutory period.  Second, we have  increasingly
+accepted  problems  of  staleness  as  the  price  of justice.  Many  tort
+victims cannot discover their injuries or the causes of those injuries
+for many years. In such cases, fairness to innocent victims and deter-
+rence of tortfeasors support relaxation of statutes of limitations. For
+example,  asbestosis  and  medical  malpractice  cases  that  arise  fifty
+
+85
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos Bibas
+
+years  after  the  alleged  torts present  proof  problems,  but  competing
+values (such  as fairness  and  deterrence) require us to tolerate stale-
+ness.113  Likewise,  in  adverse  possession  of  land,  we  tolerate  stale
+claims  brought  by  an  owner  suffering  a  disability  against  a  pos-
+sessor;  fairness  to the  disabled  trumps  staleness.114  An owner's  in-
+ability  to  find  her  stolen  art  is  analogous  to  a  disability.  When  an
+owner  has  reported  a  theft,  staleness  is  a  price  worth  paying  for
+justice."5
+
+Furthermore, very stale claims are not a large problem  for the law
+of  replevin.  Even  without  limitation  periods,  an  owner  would  not
+bring  a  century-old  claim,  since  her  evidence  would  have  decayed
+to  the point  that  she  would  be  unable  to bear  her burden  of  going
+forward  with  the  evidence.116  Thus, even  without  a doctrine  of  de
+jure  limitation  periods  for  chattels, proof problems would often  re-
+sult  in de  facto  limitation  periods. In those  cases  in which  a victim
+can satisfy  her burden of proof, however, statutes of limitations arbi-
+trarily  foreclose  suits  that  are  not  truly  stale.  Additionally,  an
+owner's  desire to get  art  back  as  soon  as she  locates  it, before  her
+evidence  decays,  should  discourage  delay.117  To  protect  a  BFP
+whose  evidence  has decayed,  a court  could  take  these  proof  prob-
+lems  into  account  in  its  decision  on  the  merits,  instead  of  using
+a  statute  of  limitations  to  foreclose  the  suit  as  a  threshold  matter.
+Furthermore,  if  all  thefts  were  reported  to a  computerized  art-theft
+database, the database would serve a recordkeeping function  by pre-
+serving theft reports and evidence of title investigations by BFP's.118
+Finally, clear rules  requiring  immediate  reporting  of thefts  and  im-
+mediate  suit  upon  discovery  of  an  artwork's  location  (as  proposed
+in Part 3) would  further  deter delay by theft  victims.
+
+2.4  Discovery  Rules, Laches, and  Diligence Tests Are Too Unclear
+
+Courts that  use the discovery  rule for recovery  of chattels have ad-
+opted  a  flexible  version  that  relies  on  a  multi-factor  balancing  of
+the equities and culpabilities of the parties.1|(> Likewise, courts have
+softened  the demand-and-refusal  rule by importing a laches  inquiry
+that balances the relative blameworthiness of the parties.120 Several
+commentators endorse multi-factor balancing instead of adverse pos-
+session  because  the  former  is  more  flexible.121  One  court  that  ap-
+plied  a due  diligence  test  refused  to  lay  out  standards.122  Even  the
+two commentators who favor  clearer versions of due  diligence like-
+wise  shy  away  from  bright-line  rules.  Under  Charles  Webb's  and
+Leah  Eisen's approaches, the law would  require art theft  victims to
+use "the  best  help available" but  would  give no definitive  guidance
+as to what methods are best.123
+
+Flexibility is intuitively appealing. Supple guidelines allow judges
+and jurors  to  take  account  of  the  equities  in  individual  cases,  en-
+abling courts to mete out individuated justice. Furthermore, for many
+years there was no single best way of reporting thefts  and  investiga-
+
+86
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of  Limitations  for  Stolen  Art
+
+ting title, so the law was unable to prescribe a hard-and-fast  rule  for
+all cases.
+
+Nevertheless, the  flexibility  of these tests  is a  liability, not an as-
+set,  because  they  are too  vague.  Under  laches  and  discovery  rules,
+courts must gaze at the entire set of facts  and pick the more deserv-
+ing  party.  This  approach  gives  parties  no  guidance  ex  ante  about
+what they  are supposed  to do. For instance, the  Guggenheim court,
+in  the  name  of  flexibility,  refused  to  set  out  any  "common  stan-
+dard^]" of diligence  for  owners to follow.124  Vague balancing  tests
+fail  to create clear  incentives  for an owner to track  down  her goods
+and  for  a  possessor  to  investigate  an  artwork's  provenance  before
+buying.  For  deterrence  to  work,  sanctions  must  be  predictable  and
+certain. These  muddy  rules  do  not  assure  that  a  possessor  will  pay
+for  his neglect,  and  therefore  do not  deter  a possessor's  negligence
+in investigating  title. The murkiness  of these rules breeds  litigation.
+It  makes  settlement  less  likely  and  summary judgment  impossible
+because of  the need  for  a  full  trial  on  the equities  upon  remand.125
+And vagueness can breed subjectivity  and arbitrariness.
+
+Even  the  clearest  proposals  that  have  been  offered  are  not  clear
+enough.  Webb's  and  Eisen's  proposals  for  rebuttable  presumptions
+and  guidelines  would be  an  improvement  over  current  standardless
+doctrines.  However,  Webb and  Eisen  still  insist that  "no  exhaustive
+standards for what constitutes due diligence could be set out to cover
+every situation."126 By requiring victims to "seek the best help avail-
+able" while  refusing  to  specify  which  methods  would  be  necessary
+and sufficient,127  these proposals are vulnerable to the same unclear-
+ness  objections  made  above.128  Because  of  the  advent  of  a  com-
+puterized  art-theft  database,  it  is  now  possible  to  spell  out  exactly
+what steps theft  victims and art buyers should take. As Part 3 argues,
+the law should craft  a clear rule that relies on this new  technology.
+It might seem that trial courts would appropriately penalize a pos-
+sessor's  negligence  and  reward  an  owner's  relative  innocence  in
+most  cases.  But  this  argument  ignores  the  problems  with  ex  post
+adjudication.  Balancing tests are unreliable because they force courts
+to  rely  on  a  possessor's  self-serving  testimony  about  his  state  of
+mind and the steps he took  to investigate.
+
+Furthermore, and most  important of all, theft  victims suffer  from
+a collective  action  problem.  For each  individual  owner,  it may  be a
+rational  "tactical  decision"  not  to  publicize  the  theft  and  thereby
+avoid  driving  the  stolen  art  "further  underground."129  According  to
+this reasoning, publicizing a theft  makes a stolen artwork  dangerous
+to  try  to  sell.  This  danger  keeps  the  art  in  the  thief's  hands  for  a
+long time until the "hot" art cools down, thus delaying  the  owner's
+recovery.130  The  Guggenheim  court,  looking  at  an  isolated  case,
+made the  mistake  of using this ex  post  perspective  in  its  balancing
+test.131  But the calculus changes when  we move from  ex post, indi-
+vidual, tactical decisions to ex ante, societal, strategic choices. From
+the  societal  point  of  view,  it  makes  sense  to  require  publicity  and
+
+87
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos  Bibas
+
+theft reporting in one case so that future thefts become less lucrative
+and thus less likely to occur.132 The situation is analogous to ransom:
+though paying ransom may benefit an individual owner, it winds up
+harming  future  owners  because  the  expectation  of  ransom encour-
+ages more thefts.133  But judges miss this point because they act ex
+post and case by case, as the Guggenheim court's misguided reason-
+ing exemplifies. Therefore, we cannot count on case-by-case inquiry
+to generate an optimal amount of deterrence.
+
+In  sum,  flexibility  is  a  liability  when  one  is  trying  to  generate
+predictable  incentives  and  deterrence.  Instead  of  flexibility  and
+vague admonitions to be diligent, we need bright-line rules. Because
+buyers are, as a class, better able to avoid  losses and more blame-
+worthy than owners who have reported thefts, the law should place
+the burden of investigation on possessors.
+
+We have almost come full circle. In the nineteenth century, courts
+abandoned the common  law's absolute protection of owners by ad-
+opting  adverse  possession  of  chattels.  That  rule  has  eroded  ever
+since,  as courts have  become  increasingly  concerned  with  fairness
+to theft victims and discouraging theft. The current doctrinal muddle,
+however, is unsatisfactory.  It is time to return to a rule as clear and
+simple as the common law, but one that creates strong incentives for
+buyers and owners to use modern information technology.  The next
+Part sets out such a rule.
+
+3  Abolishing  Protection  for Buyers of Reported  Stolen
+
+Art
+
+Congress should clean up the muddled state of the  law by adopting
+a bright-line rule.134 Though state legislatures or courts could adopt
+reforms, congressional  legislation would assure clarity and uniform-
+ity.135  This  Note's  proposal  is  simple:  If  an  owner  has  promptly
+notified  the  police  and  the  art-theft  database,  she  should  face  no
+legal  bars to recovering  her art.  If an owner has not  done  so, her
+claim  should  be  barred against  a  BFP but  not  against  a bad  faith
+holder.  These  two  rules  are prospective  ones designed  to generate
+incentives. For  thefts that have occurred before these rules are adopt-
+ed,  diligent owners should be able to recover.
+
+3.1  Owners Who Report Thefts to Police and the Database Should
+
+Automatically Win
+
+Owners who report thefts to the police and the theft database should
+face no legal  bars to recovery.136 The law's prescription  for owners
+would be clear and simple, as opposed to an imprecise command to
+be  diligent.  This  rule  would  strongly  encourage  owners  to  report
+thefts  to  the  police  and  the  database.  It would  strongly  encourage
+buyers to investigate an artwork's provenance, since an owner could
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of  Limitations  for Stolen Art
+
+always reclaim her art if the  art had been reported stolen, regardless
+of the buyer's  good  faith.  In addition, the clarity  of the  law would
+reduce litigation costs by enabling owners to get summary judgment
+and by encouraging possessors to settle out of court.137
+
+This proposal would work because a possessor can protect himself
+by  checking  the theft  registry  and an owner can  report her loss  to
+the registry.  Good  registry  systems  obviate  the  need  for  limitation
+periods.  For instance,  the  Torrens  system  of  land title  registration
+abolishes  adverse  possession.138  Ideally,  one  would  want  a  title
+registration system for all  art, not just stolen art.139 But that system
+would  require  passing  legislation140  and  negotiating  international
+treaties. It would require potential  victims to register their artworks
+before thefts, which many are reluctant to do.141  It would also incur
+huge startup costs, anathema in this era of fiscal  frugality.  The Tor-
+rens  system  has  not  taken  root  because  of  its  cost  and  incon-
+venience.142 There is little reason to think that a Torrens system for
+art would succeed either. Granted, artworks, unlike land, are created
+every  day  and  could  be  registered  by  their  artists  without  having
+proceedings to adjudicate the rights of third parties.  But registering
+art already  in circulation  would require giving worldwide notice to
+all  potential  third party claimants  and holding judicial  proceedings
+to protect  those  claimants. Thus, a title registry  for art would  face
+the same costs and inertia that have stalled the Torrens scheme.
+
+In contrast  to  a  title  registry,  a  theft  registry  requires  only  that
+theft victims report art thefts. The advent of computer networks and
+high-quality digitized color images has made possible the recent cre-
+ation of an  international theft registry.143 A major international com-
+puterized  database,  The  Art  Loss  Register,  has  been  operating  for
+three years.144 The database stores descriptions and photographs of
+thousands of stolen items in a central  computer.145 For a small  fee,
+buyers  can  search  the  registry.146  The  Art Loss  Register automati-
+cally searches auction catalogues for Sotheby's, Christie's, and Phil-
+lips,147  thus  protecting  those  who  buy  from  these  auction  houses.
+Likewise, galleries could offer this service to their buyers as part of
+closing the sale. The existence of a theft registry will enable insurers
+to assess risk and thus offer inexpensive title insurance.
+
+Under the Uniform Commercial Code, a sales contract includes a
+warranty of good title.148 If an  owner reclaims her stolen art, a buyer
+can use this warranty to recover  his loss,  i. e.,  the market value  of
+the  art,  from  the  merchant.149  Thus,  once  the  law  guaranteed  the
+owner's recovery of her  art and the buyer's receipt of an  indemnity,
+galleries and auction houses would investigate title for buyers.150 As
+noted, merchants  are well-placed  to  investigate,  spread  losses, and
+insure against  losses.151  Therefore, the law should place  the risk of
+loss on buyers because the actual  incidence of that loss will  fall on
+merchants and because doing so will encourage buyers to buy from
+reputable, solvent merchants who investigate.152
+
+89
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos  Bibas
+
+One might argue that checking title in all circumstances would be
+unduly  burdensome  and  costly.  However,  there  is  little  reason  to
+believe  that this  is true, given  that The Art  Loss Register  automati-
+cally checks every  item offered  for  sale at major  galleries  and  auc-
+tion houses. Moreover, the law would not directly require buyers (or
+merchants) to investigate; but, by imposing strict liability upon them,
+it  would  give  them  extremely  strong  incentives  to  investigate.153
+Buyers  (or  merchants)  could  then  weigh  the  costs  and  benefits  of
+searching  through  databases.  If  a  painting  had  come  directly  from
+the artist, and the artist verified  its title, the costs of checking would
+outweigh  the benefits  and so merchants would not check  databases.
+In  most  circumstances,  however,  provenance  is  sufficiently  impro-
+vable to justify  a merchant's  adopting a prophylactic  rule  requiring
+a  search  for virtually  every  piece of art sold.
+
+Indeed, this Note's proposal  would be cheaper than those that  do
+not  specify  what  steps  theft  victims  must take.  Webb, for  instance,
+says that theft  victims should have to "seek the best help available,"
+suggesting  that  they  should  avail  themselves  of  a  plethora  of  me-
+thods.154  In contrast, this Note's proposal, by  laying out two neces-
+sary  and  sufficient  steps  for  owners  to  take, would  avoid  needless
+duplication of reporting. By concentrating data in one or two reposi-
+tories, this proposal  would  tell buyers and owners exactly  where to
+share  information  and so would  minimize the costs of  investigating
+and  reporting.
+
+The  Guggenheim case155  highlights  one  problem  that  registries
+would  face.  In that  case, the  museum  was  uncertain  of  the  date  of
+the theft  because the painting was stolen from  storage.156 Large mu-
+seums, which may have millions of artworks, display only about one
+tenth  of  their  collections  at  any  one  time.  The  rest  often  stays  in
+storage for years, where thefts  may go unnoticed.157 Thus, before an
+inventory  revealed  a theft,  a thief could  resell  a  stolen artwork  to a
+BFP,  who  would  be  unable  to  find  out  about  the  theft  (unless  a
+catalogue raisonne noted  the museum's ownership).
+
+The blameless  BFP  seems  to deserve  protection  in  this case, es-
+pecially  if  no  catalogue  raisonne  lists  the  painting.  Nevertheless,
+sound  policy  reasons  favor  giving  theft  victims  a  grace  period  in
+which  to  discover  and  report  a  theft.  First,  if  the  law  protected  a
+BFP, 
+it  would  create  an  incentive  for  thieves  to  set  up  collusive
+transfers  to launder art quickly before  an owner could report a  theft.
+It  might  be  difficult  ex  post  to  distinguish  blameless  buyers  from
+opportunistic  fencers.  A grace  period,  on  the  contrary,  would  chill
+hasty  and  suspicious  purchases.  Second,  art  merchants  could  carry
+insurance, protecting  buyers against  the possibility  of a recent  theft
+and spreading the costs of theft.  Giving owners a short grace period
+would create incentives  for them to inventory collections  frequently
+and  report  thefts  promptly.  Given  the  advent  of  bar  code  systems
+that  facilitate  computer-aided  inventories,  a  six-month  or  one-year
+grace period  for  museums  might  be reasonable.158 (A better way to
+
+90
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of  Limitations for Stolen Art
+
+solve this problem would be to computerize museum catalogues and
+link  them  to  theft  databases, effectively  creating  a  title  registry  for
+museums. One company, the International  Registry of Antiques  and
+Fine Arts, is trying  to catalogue  museum  collections.159  As  argued,
+however,  such  title  registries  may not  be  practicable  or  widespread
+in the near  future.)160
+
+In short, theft  registries allow  an owner  to publicize  her  loss and
+enable a buyer to check the title to his purchase. Placing  liability on
+buyers  and  thus  effectively  on  merchants  would  encourage  mer-
+chants,  the  least  cost  avoiders,  to  stop  trafficking  in  stolen  art.161
+And by depressing demand for stolen art, this Note's proposal would
+diminish  the  incentives to  steal and  hence reduce  art  thefts.
+
+3.2  Owners Who Do Not  Report Thefts  to Police  and the  Database
+
+There  are  three  possible  scenarios  in  which  owners  do  not  report
+thefts.  In the  first,  the  BFP  has  checked  theft  databases,  found  no
+listing of the  theft,  and so went ahead and bought  the art. The buyer
+should  win  in  this  situation.  He  has  detrimentally  relied  on  the
+owner's  failure  to report the theft  and has acted prudently  in check-
+ing  the  database.  In  contrast,  the  theft  victim  has  been  too  slothful
+even  to take  two  simple  steps to  notify  buyers. Thus, the  owner  in
+this situation is more culpable and is the least cost avoider. To make
+a  registry  system  effective,  the  law  must  punish  those  who  fail  to
+file.162
+
+The  second  possible  scenario  is one  in  which  the  possessor  is a
+thief,  fencer  of  stolen  goods, or  other  bad  faith  holder.  For  reasons
+of morality  and discouraging  theft,  bad  faith  holders  should  not  be
+able to assert the  statute  of  limitations  as a defense.163  Thieves de-
+serve no repose from the rightful owner's  claim.
+
+The  third,  toughest  case  is  the  one  in  Guggenheim,  where  an
+owner who did not report a theft  sued a BFP who did not investigate
+title.  Because  both  parties  are  equally  guilty  of  not  taking  action,
+and  because  the  owner's  failure  to  report  did  not  induce  the  pur-
+chase,  fairness  does  not  lean  one  way  or  the  other.  In  the  case  of
+two  lazy  parties,  Webb  advocates  penalizing  the  buyer  because  he
+lacks good faith  and probably has not detrimentally  relied on having
+the  chattel.164  But  the  lazy  buyer  seems  no  less  culpable  than  the
+lazy owner.  Furthermore, the buyer may well  have relied  on  having
+the chattel.  This line of reasoning does  not distinguish  lazy  owners
+from lazy buyers.
+
+Favoring lazy owners would undercut this Note's policy of  forcing
+owners to register thefts.  Purely by chance, some lazy owners would
+recover their chattels while others would not. Because of the collec-
+tive  action  problem  discussed  above,165  owners  might  take  their
+chances and not report thefts  in the hopes that doing so would  keep
+the artwork from being driven underground.  If a significant  number
+of  owners  did  so,  the  incentives  for  buyers  to  investigate  would
+
+91
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos  Bibas
+
+diminish.  Because  buyers'  incentives  hinge  on  owners'  reports,
+strengthening  the  incentive  for  owners  to  report  would  encourage
+both parties to take appropriate  steps.  In other words, the situation
+is asymmetric: Placing losses on buyers would discourage reporting
+by  owners.  In contrast,  placing  losses  on owners would encourage
+owner reporting. And because owners who report losses would auto-
+matically  win against  buyers, placing  losses on owners who fail  to
+register  would  encourage  buyer 
+investigation.  Therefore,  to
+strengthen  incentives  for  both  parties,  the  law  should  place  losses
+on owners by foreclosing  a suit by a lazy owner against a lazy BFP.
+
+3.3  Dealing with Art That Was Stolen in the Past
+
+The  impetus  behind the  clear rules described  above  is  to  generate
+strong incentives to investigate and report thefts.  One cannot, how-
+ever, influence  transactions that have already taken place. Thus, the
+ex  ante  focus  of  this  Note  is  inappropriate  for  dealing  with  past
+thefts.
+
+It is, however, important to clarify  the future duties of victims of
+past  thefts.  To  put  future  buyers  on  notice,  victims  who  wish  to
+retain their rights to recover should be required to register their thefts
+with  the police and the  database within one  year of  the enactment
+of this proposal.166
+
+Next, one must ask who should win as between a victim of a past
+
+theft and a BFP who has bought stolen art before the enactment of
+this  proposal.167  For  reasons  of  morality  and  efficiency,  victims
+should  usually  win.  As a class, buyers  are at  least  as negligent  as
+owners,  since  they  often  buy  under  suspicious  circumstances  and
+neglect  to  investigate.168  Letting  owners recover  is consistent  with
+the law's deeply rooted protection of property rights and its refusal
+to  treat a theft  as  a legal  transfer  of  title.169  Buyers  will  often  be
+able  to  recoup  their  losses  from  the  merchant  who  sold  them  the
+artwork.170 Merchants of stolen art are both blameworthy (since they
+are in the  best  position  to  investigate  title) and capable  of bearing
+and spreading  losses  via  insurance.  Merchants may in turn be able
+to pass their losses up the chain of title until the loss eventually rests
+on  the  one  who  bought  directly  from  the  thief71  and  so  is  most
+culpable.  Finally,  international  comity  also  favors  protection  of
+victims.172
+
+Clear rules are less important when they cannot generate ex ante
+incentives,  though  they  still  serve  to  reduce  litigation  costs. Thus,
+the  law could  temper this pro-owner rule  with a somewhat  clearer
+version of laches.173 To reduce litigation costs, courts should eschew
+Guggenheim's  vague balancing and should announce what steps by
+an owner automatically defeat a laches defense.174  If an  owner took
+no significant  steps to report a theft (such as notifying the police or
+a catalogue raisonne)  and this silence prejudiced the buyer, laches
+
+92
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of  Limitations for Stolen Art
+
+should bar recovery.  Where a buyer has taken  pains to  investigate
+and found nothing because of an  owner's laziness, the owner should
+pay for her sloth.
+
+4  Conclusion: Other Types of Chattels
+
+Does  the  foregoing  reasoning  apply  to  other  types  of  chattels?  It
+would  be  a  mistake  to  lump  all  chattels  together  without  further
+thought, just as it was a mistake to lump real and personal property
+together for purposes of  adverse possession  doctrine. Nevertheless,
+many of the arguments set out above apply with great force to goods
+besides art.
+
+Chattels for which there are already title registries, such as motor
+vehicles and thoroughbred and pedigreed  animals, are most similar
+to art. Dealers could check title just as galleries and auction houses
+would check  for art buyers.  Because  of  the existence  of  registries,
+buyers of these goods are the least cost avoiders.
+
+The argument against protecting buyers is  somewhat  weaker for
+other valuable,  unique  goods,  such  as  expensive jewelry,  antiques,
+and electronic  items bearing serial numbers. It is quite possible that
+abolishing  buyer  protection  for  these  goods  would  encourage  the
+creation of a theft registry. Furthermore, there is already a theft regis-
+try of sorts in the interstate computer networks of law  enforcement
+agencies such as the FBI. By reporting a theft to the authorities, an
+owner could effectively  put buyers on notice, especially  if the  com-
+puter networks communicated with vendors.
+
+Tough cases include fungible and inexpensive goods, for which a
+registry  would  be  more  hassle  than it  is  worth.  The reasoning ad-
+vanced in this Note hinges on the availability, or at least  feasibility,
+of registries, which enable buyers to protect themselves. Where there
+are no registries  and investigating title would be costly  or imposs-
+ible,  this Note's  reasoning  is  largely  inapplicable.  But the question
+may be moot. The law may not matter much for fungible and inex-
+pensive goods, because an owner will face insurmountable problems
+in  identifying  and  recovering  such  goods.  Search  costs  may  be
+higher than the good's  value,  deterring an owner  from  looking  for
+it.  Even  if  she  does  search,  the  owner  will  be  unlikely  to  sue  to
+recover inexpensive  goods  after  several  years.  Therefore,  even  if
+there is no de jure limitation period, there will  be de facto  adverse
+possession.
+
+The  answers  to  the  foregoing  questions  are  less  important  than
+asking  the questions  in the  first  place.  Commentators have  repeat-
+edly  stressed buyer protection while  ignoring the  importance of in-
+centives to investigate and report thefts.  Perhaps the foregoing  case
+study  of  art will  spark  debate  about who  is  best  placed  to prevent
+the  sale  of  stolen  goods  and  who  is  most  blameworthy.  Only  by
+focusing  on  these  questions  can  we  dry  up  the  market  for  stolen
+goods and so reduce the incentives to steal.
+
+93
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos  Bibas
+
+Notes
+
+•  Reprinted with permission from 103 Yale L. J. 2437 (1994). Copyright  1994
+
+Stephanos Bibas and the  Yale Law Journal.  All rights reserved.
+
+1  See  Solomon  R. Guggenheim  Found,  v.  Lubell,  569  N. E.2d  426,  427-28
+(N. Y.  1991)  (noting that lawsuit  began on Sept. 28,  1987); Richard Perez-
+Pefia,  Suit Over Chagall  Watercolor Is Settled Day After Trial Starts, N. Y.
+TIMES,  Dec.  29,  1993,  at  B3  (noting  that  lawsuit  was  settled  on  Dec.  28,
+1993).
+
+2  Solomon  R. Guggenheim  Found, v. Lubell, 550 N. Y. S. 2d 618,  619 (App.
+Div.  1990), certified question answered and aff'd, 569  N. E.2d 426  (N. Y.
+1991).
+
+3  Guggenheim, 569 N. E.2d at 431. After the trial on remand began, the parties
+finally  settled the lawsuit on December 28,  1993. Under the settlement, Mrs.
+Lubell  will  keep  the  painting,  but  she  and  the  two  dealers  who  sold  the
+painting  will  pay the Guggenheim  Museum an undisclosed  sum  of money.
+Perez-Pefia, supra note 1.
+
+4  Though  the term "chattel" technically  does not include intangible  personal
+property,  for the  sake  of readability  this  Note  uses "chattel" and "personal
+property" interchangeably  because  the  distinction  is  not  important  for  this
+Note's purposes.
+
+5  See infra Part  1.2.  Each author stresses a different justification  for adverse
+possession  of  chattels.  See  Patty  Gerstenblith,  The Adverse Possession  of
+Personal  Property, 37  BUFF.  L. REV.  119,  163  (1988)  (underscoring  need
+to protect good  faith  and commercial  certainty); R. H.  Helmholz,  Wrongful
+Possession of  Chattels: Hornbook Law and  Case Law, 80  Nw.  U. L.  REV.
+1221,  1235-36  (1986)  (stressing  importance  of  quieting  title);  Nicholas
+D. Ward, The Georgia Grind: Can the Common Law Accommodate the Prob-
+lems of  Title in the Art  World,  Observations on a  Recent Case,  8  J. C.  &
+U. L. 533, 554 (1981 -1982)  (relying on "the need for repose"); Comment,
+14  RUTGERS  L. REV. 443, 444-45  (1960)  (stressing  need to quiet  titles and
+bar stale  claims).  These  recent  articles  have  not  moved  beyond  the  older
+literature,  which  relied on similar reasons  in support of adverse  possession
+of chattels. See J. B. Ames, The Disseisin of Chattels (pt. 2), 3 HARV.  L. REV.
+313(1890) (assimilating adverse possession of chattels to adverse possession
+of  land); John  P. Dawson,  Fraudulent Concealment and  Statutes of Limi-
+tation,  31  MICH.  L. REV.  875,  897-901  (1933)  (favoring  protection  of re-
+liance  interests);  William  F. Walsh,  Title  by Adverse Possession (pt.  1),  16
+N. Y. U. L. Q.  REV. 532, 536 (1939) (emphasizing need to bar stale claims).
+infra  Part  1.4;  see  also  Paula  A. Franzese,  "Georgia  on  My
+Mind"-Reflections  on O'Keeffe  v. Snyder,  19 SETON HALL L. REV.  1  (1989)
+(implicitly endorsing discovery  rule); John G. Petrovich, Comment,  The Re-
+covery  of Stolen Art: Of Paintings, Statues, and Statutes of Limitations, 27
+UCLA  L. REV.  1122,  1151  (1980)  (advocating  discovery  rule  that  would
+balance  defendant's  interest  in  repose,  plaintiffs  interest  in  meritorious
+claim, problems of proof, and hardship to faultless  plaintiff).
+
+6  See 
+
+7  Laches and due diligence  doctrines temper statutes of limitations by taking
+into account the owner's diligence and other factors relevant to the fairness
+of returning the chattel. See infra Part 1.4; see also Sydney M. Drum, Com-
+ment, DeWeerth v. Baldinger: Making New York a Haven for  Stolen Art?, 64
+N. Y.  U.  L. REV.  909,  942  (1989)  (endorsing  demand-and-refusal  rule  as
+qualified by laches); Leah E. Eisen, Commentary,  The Missing Piece: A Dis-
+
+94
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of  Limitations  for Stolen Art
+
+cussion of Theft,  Statutes of Limitations, ami Title Disputes in the Art  World,
+81  J. CRIM.  L. &  CRIMINOLOGY  1067,  1100-01  (1991) (endorsing  version
+of due diligence rule); Stephen  L. Foutty, Recent  Development,  Autocepha-
+lous Greek-Orthodox  Church  of  Cyprus  v. Goldberg  &  Feldman  Fine Arts,
+Inc.:  Entrenchment  of the Due  Diligence  Requirement in Replevin Actions
+for  Stolen Art, 43  VAND.  L. REV.  1839,1841  (1990) (endorsing due diligence
+rule);  Andrea  E. Hayworth,  Note,  Stolen Artwork:  Deciding  Ownership Is
+No Pretty Picture, 43  DUKE  L. J. 337,  374-83  (1993)  (endorsing  demand-
+and-refusal  rule as qualified  by laches); Charles  D. Webb, Jr., Note, Whose
+Art Is It Anyway?  Title Disputes  and Resolutions in Art  Theft Cases,  79 K.Y.
+LJ.  883,  895  (1990-1991)  (endorsing  version  of  due  diligence  rule).
+Though  these  commentators  treat  the  differences  between  laches  and  due
+diligence as significant.  Part  1.4 notes similarities between the two and Part
+2.4  argues  that both  rules  are  far too  vague.  Thus, neither  rule  adequately
+deters the buying of stolen art.
+
+8  The Cultural Property Implementation Act already covers cultural, archaeol-
+ogical,  or  ethnological  property  stolen  from  another  country's  museums,
+monuments,  or public  institutions.  19  U. S.  C.  §§ 2601,  2607  (1988).  See
+generally  Paige  L. Margules,  Note,  International Art  Theft  and  the Illegal
+Import and Export of Cultural Property: A Study of Relevant  Values,  Legis-
+lation, and Solutions, 15  SUFFOLK  TRANSNAT'L  L. J. 609 (1992). Therefore,
+this Note does not deal with works that fall  under that Act.
+
+9  This  Note  uses  male  pronouns  for  buyers  and possessors  and  female  pro-
+
+nouns for owners and theft  victims.
+
+10  See  3  WILLIAM  BLACKSTONE,  COMMENTARIES  *145  (describing  rationale
+underlying actions for replevin and detinue: "For there must be an end of all
+social  commerce  between  man and man,  unless  private  possessions  be  se-
+cured from unjust  invasions: and, if an acquisition of goods by either  force
+or  fraud  were  allowed  to  be  a  sufficient  title,  all  property  would  soon  be
+confined  to the most strong, or the most cunning; and the weak and simple-
+minded part of mankind (which is by far the most numerous division) could
+never be secure of their possessions.").
+
+11  Kunstsammlungen  zu  Weimar  v.  Elicofon,  678  F.2d  1150,  1160  (2d  Cir.
+
+1982); Ward, supra note  5, at 549 & n.94.
+
+12  Suburban  Motors v.  State  Farm  Mut. Auto.  Ins., 268  Cal.  Rptr.  16,  19 (Ct.
+
+App.  1990);  Schrier  v.  Home  Indem.  Co.,  273  A.2d  248,  250-51  (D.C.
+1971); Inmi-Etti  v. Aluisi, 492 A.2d 917, 923  (Md. Ct. Spec. App. 1985).
+
+13  See  U. C. C. §§  1-103  (stating that pre-U. C. C. common  law still  applies
+except where displaced by particular U. C. C. provisions),  1 -201(32),  (33)
+(defining  purchase and purchaser  in terms of passage  of title  via voluntary
+transactions),  2-403(1)  (stating  that  purchaser acquires all  title  that trans-
+feror had) (1988); see also  Webb, supra note 7, at 884 & n.12  (citing these
+U. C. C. sections). The U. C. C. does protect a BFP who buys from a seller
+with voidable title.  U. C. C. § 2-403(1)  (1988).  But a voidable title, which
+arises,  for  instance,  when  a check  is  dishonored,  is  very  different  from  a
+thief's  void title.  Ward, supra  note  5, at 549-50.  Since a thief  has no title
+to  transfer,  not even  a  voidable  title,  a purchaser from a thief  acquires  no
+title.
+
+14  See  JESSE DUKEMINIER  &  JAMES E.  KRIER,  PROPERTY  100  (2d  ed.  1988).  See
+generally  CHARLES  C. CALLAHAN,  ADVERSE  POSSESSION  (1961).  Note  one
+important  difference  between  land  and chattels:  Many jurisdictions  require
+that an adverse possessor have color of title, i. e., title resting on a document.
+See  DUKEMINIER &  KRIER, supra, at  104. Title deeds exist for land, making
+
+95
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos Bibas
+
+the color of title requirement  useful  for weeding out undocumented  claims.
+In contrast, because there are no standard documents of title for most chat-
+tels,  it is impossible to apply the color of title test to chattels.
+
+15  See, e.g., Ames, supra note 5, at 323-25;  Walsh, supra note 5, at  535-36.
+Several works treat adverse possession of chattels only briefly  and make the
+analogy between  land and chattels in passing,  taking  it for granted that the
+two  deserve  like  treatment.  See,  e.g.,  3  AMERICAN  LAW  OF  PROPERTY
+§  15.16,  at  837  (A. James  Casner  ed.,  1952);  Comment,  supra  note  5,  at
+444-45.
+
+16  Dawson, supra note 5, at 898-99.
+17  Id. at 897-901.
+18  Gerstenblith, supra note 5, at 124.
+19  See id.
+20  Id. at 163.
+21  Id. at  162-63.
+22  O'Keeffe  v.  Snyder,  405  A.2d  840,  847  (N. J.  Super.  Ct.  App.  Div.  1979),
+
+rev'd and remanded on other grounds, 416  A.2d 862 (N. J.  1980).
+
+23  Another recurring  case  involved  fixtures  of which  former  owners  or occu-
+pants of land retained ownership, but which they left behind and only belat-
+edly  returned to  claim.  Courts recognized  that  such  fixtures  were  personal
+property  but  nonetheless  applied  adverse  possession  doctrines.  See,  e.g.,
+Isham v. Cudlip,  179 N. E.2d 25 (111. App. Ct.  1962) (applying adverse pos-
+session  to  house  sold  as  chattel);  Chapin  v.  Freeland,  8  N. E.  128 (Mass.
+1886) (applying adverse possession to counters in general  store); Preston v.
+Briggs,  16 Vt.  124 (1844) (applying adverse possession  to barn).  Applying
+adverse  possession  to fixtures makes  sense,  because  fixtures  share  many
+characteristics of land: durability, high  value, responsiveness to investment,
+and locational  stability. The owners could  have returned to claim  their  fix-
+tures at any time; their delay was thus blameworthy.
+
+24  See infra Part  1.3-4.
+25  72 Ky. (9 Bush) 629 (1873).
+26  Id. at 632.
+27  See id.
+28  Dee  v.  Hyland, 3  P. 388,  388  (Utah  1883)  (awarding title to  BFP of horse
+even though owner had notified sheriff, ranchers, and cattle drovers of theft).
+Another court  noted  that a  BFP had been  "claiming  and holding  [a mare]
+notoriously  and  adversely."  Hull  v.  Davidson,  25  S. W.  1047,  1047  (Tex.
+Civ. App.  1894). One case stressed a BFP's "open, notorious, and undisputed
+possession  [of  a  stolen  mare]  under  an  honest  claim  of right." Leavirt  v.
+Shook,  83  P.  391,  391  (Or.  1905).  Another  case  rested  its  decision  on  a
+possessor's having held openly, notoriously, peaceably, and exclusively. Ad-
+ams v. Coon, 129 P. 851,852 (Okla.  1913). Several cases expressly permitted
+tacking.  E.g.,  Gaillard  v.  Hudson,  8  S. E.  534,  534  (Ga.  1889);  Gatlin  v.
+Vaut, 91  S. W. 38. 40 (Indian Ten.  1905), aff'd sub nom. Vaught  v. Gatlin,
+120  P. 273  (Okla.  1911). Tacking  is  a doctrine that permits a possessor  to
+add the length of time his seller possessed a piece of property to the length
+of his own possession  in computing whether the adverse possession period
+has run.
+
+29  Torrcy v. Campbell,  175 P. 524, 525 (Okla.  1918) (emphasis added).
+30  Dragoo v. Cooper, 72 Ky. (9 Bush) 629, 631  (1873).
+31  Gatlin, 91  S. W. at 40.
+32  Luter v. Hutchinson, 70 S. W.  1013,  1014 (Tex. Civ. App. 1902).
+33  See  Torrey, 175  P. at  525  (noting  that  cow  had  distinguishing  marks,  so
+
+anyone looking for her could have identified her).
+
+96
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of  Limitations  for Stolen Art
+
+34  Note  that  rewarding  possessors  for  caring  for  animals  is  analogous  to re-
+warding  maritime  salvagers  for  salvaging  the  property  of  another.  See
+GRANT  GILMORE  &  CHARLES  L.  BLACK,  JR.,  THE  LAW  OF  ADMIRALTY  532
+(2ded.  1975).
+
+35  This  author  has  found  no  cases  decided  after  1918  that tolled  a statute  of
+limitations because property was outside the jurisdiction (except where there
+had been affirmative  fraudulent concealment).
+
+36  Burroughs Adding Machine Co. v. Bivens-Corhn Co.,  119 P.2d 58, 59 (Okla.
+
+1941).
+
+37  Reynolds  v.  Bagwell,  198  P.2d 215,  217  (Okla.  1948); cf.  United  States v.
+One Stradivarius Kieserwetter Violin,  197 F.  157,  159 (2d Cir.  1912) (keep-
+ing  violin  on  table  at  home  and  showing  it  to  guests  prevented  tolling  of
+statute  of  limitations  for  concealment;  not  an  adverse  possession  case,
+however).
+
+38  Connor  v.  Hawkins,  9  S. W.  684,  685  (Tex.  1888).  The  reported  opinion
+sheds  no  light  on  who these  witnesses  were.  Presumably,  they  were  called
+to testify  because they were acquainted with the possessor.
+
+39  Joseph  v.  Lesnevich,  153  A.2d 349,  357  (N. J. Super.  Ct.  App.  Div.  1959).
+While  the paragraph  from  which  the quotation comes  discusses the lack  of
+fraudulent concealment, the preceding paragraph makes clear that possession
+need  only  be  open  and  notorious  enough  to  negate  a charge  of  fraudulent
+concealment,  regardless of an owner's  ignorance.
+
+40  San Francisco Credit Clearing  House v. Wells, 239  P. 319, 321  (Cal.  1925).
+41  Riesinger's  Jewelers,  Inc.  v.  Roberson,  582  P.2d  409,  413  (Okla.  Ct.
+App. 1978)  (holding  that  owner's  opportunity  to  know  ring's  whereabouts
+was substantial question of fact precluding summary judgment).
+
+42  Madsen v. Madsen, 269  P.  132,  134 (Utah  1928).
+43  See infra Part  1.3-4.
+44  See, e.g., Gillet v. Roberts, 57 N. Y. 28 (1874). Note that demand-and-refusal
+
+cases come primarily from New  York courts.
+
+45  See. e.g.,  O'Connell  v. Chicago  Park Dist.,  34 N. E.2d  836,  840 (III.  1941)
+(holding that, where possession  was tortious at outset,  limitation period be-
+gan running at once and  later demand did not  start it running again); Solo-
+mon  R. Guggenheim  Found,  v.  Lubell,  569  N. E.2d 426,  429  (N. Y.  1991);
+Gerstenblith, supra note  5, at  139 n.61.
+46  Gerstenblith, supra note  5, at  132-33.
+47  Id. at  133-34.
+48  E.g.,  Kunstsammlungen  zu  Weimar  v.  Elicofon,  678  F.2d  1150,  1161  (2d
+Cir.  1982)  (dealing  with  art  stolen  in  World  War  II); Goodbody  &  Co. v.
+McDowell,  530  F.2d  1149,  1151  (5th Cir.  1976) (shares of stock); Republic
+of  Turkey v.  Metropolitan  Museum  of  Art,  762  F. Supp. 44, 45  (S. D. N Y.
+1990)  (artifacts  stolen from Turkish burial  mounds);  Interstate  Mfg.  Co. v.
+Interstate Prods. Co., 408 P.2d 478,481  (Mont.  1965) (machinery and power
+wagon); Guggenheim. 569 N. E.2d at 429 (stolen Chagall watercolor); Men-
+zel  v.  List,  267  N. Y.  S. 2d  804,  809  (Sup.  Ct.  1966)  (Chagall  paintings
+plundered by Nazis), modified on other grounds, 279 N. Y. S. 2d 608 (App.
+Div.  1967), modification rev'd, 246 N. E.2d 742 (N. Y.  1969); see also Dur-
+yea v.  Andrews,  12 N. Y. S. 42, 43  (Sup. Ct.  1890) (holding  that statute  of
+limitations  began  to  run  upon  demand  for  return  of  stolen  horse,  but  not
+mentioning refusal).
+
+49  See, e.g., cases cited supra note 48.  Many of the cases cited in that footnote
+are from New  York. Because  New  York is an art mecca and many  museum
+plaintiffs are there, many stolen art cases fall within the demand-and-refusal
+rule.
+
+97
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos  Bibas
+
+50  Menzel, 267  N. Y. S. 2d at 820; see also Kunstsammlungen zu  Weimar,  678
+F.2d at  1156 (ruling on suit by plaintiff who made demand twenty-one years
+after theft).
+
+51  See supra note 45 and accompanying text.
+52  See.  e.g.,  Al-Roc  Prods.  Corp.  v.  Union  Dime  Sav.  Bank,  425  N. Y.  S. 2d
+525,  526  (App.  Div.  1980);  Federal  Ins. Co.  v.  Fries,  355  N. Y. S. 2d 741,
+747  (Civ.  Ct.  1974);  see  also  Stroganoff-Scherbatoff  v.  Weldon,  420
+F. Supp. 18, 22 n.5 (S. D. N Y.  1976) (dictum).
+
+53  See.  e.g..  Republic  of  Turkey  v.  Metropolitan  Museum  of  Art,  762
+F. Supp. 44,  46-47  (S. D. N  Y.  1990);  Solomon  R. Guggenheim  Found, v.
+Lubell, 569 N. E.2d 426,431  (N. Y. 1991). Two commentators advocate this
+approach. See Drum, supra note  7, at 942-43;  Hayworth, supra note  7, at
+373.
+
+54  See. e.g., Guggenheim,  569  N. E.2d at 431.
+55  See id. at 431.
+56  836  F.2d  103,  108-09  (2d Cir.  1987), cert, denied, 486  U. S.  1056 (1988).
+Several  commentators  endorse  this  approach.  See  Eisen,  supra  note  7,  at
+1100;  Foutty, supra note 7, at  1860; Webb, supra note 7, at 895.
+
+57  DeWeerth,  836  F.2d at  110; see also  Foutty, supra note 7, at  1860 ("[Deter-
+mination of due diligence  is fact  sensitive and must be made on a case-by-
+case basis  ...").
+
+58  DeWeerth,  836  F.2d at  109-12.
+59  Id. at  106,  108.
+60  Solomon  R. Guggenheim  Found, v. Lubell, 569 N. E.2d 426, 429-30  (N. Y.
+
+1991).
+
+61  Id. at 430-31.
+62  Autocephalous  Greek-Orthodox  Church of  Cyprus  v. Goldberg  & Feldman
+Fine  Arts,  Inc., 917  F.2d 278, 288-89  (7th Cir.  1990) (applying  discovery
+rule to stolen mosaics), cert, denied,  112 S. Ct. 377 (1991); Senfeld  v. Bank
+of Nova Scotia  Trust Co. (Cayman)  Ltd., 450 So. 2d  1157,  1162 (Fla.  Dist.
+Ct.  App.  1984)  (applying  discovery  rule  to  stolen  money);  0'K.eeffe  v.
+Snyder,  416  A.2d  862,  870  (N. J.  1980) (applying  discovery  rule  to action
+for  replevin  of  stolen  paintings); see  also  Mucha  v.  King,  792  F.2d  602,
+611-12  (7th  Cir.  1986)  ("Although  the tide  in  Illinois  is  running  strongly
+in  favor  of  the  discovery  rule  ...  it  must  remain  a  matter  of  speculation
+whether an  Illinois  court  would  apply  it  in  a case  such  as  this  ..."); CAL.
+CIV.  PROC.  CODE  § 338(c)  (West  Supp. 1993)  (adopting  discovery  rule  for
+stolen artworks and scientific  and historical  artifacts);  PRELIMINARY  DRAFT
+UNIDROIT  CONVENTION  ON  STOLEN  OR  ILLEGALLY  EXPORTED  CULTURAL
+OBJECTS art. 3(3) (Int'l  Inst. for the Unification  of Private Law  1993) (Uni-
+droit  Study  LXX-Doc.  40)  (proposing  harmonization  of  countries'  laws,
+under which statute of limitations for cultural objects would run from when
+owner knew (or, alternatively, should have known) of object's whereabouts).
+63  This rule's vagueness is the fault of the  courts, which have never enumerated
+lists of  what  factors  matter  in  this  inquiry  or how  heavily  to  weight  each
+one.  They merely  tell  the finder of fact to determine what would be fair in
+all the circumstances, including the circumstance of when a reasonably dili-
+gent owner would  have found her art.
+
+64  416 A.2d at 864-65.
+65  O'Keeffe  v.  Snyder,  405  A.2d  840,  845-46  (N. J.  Super.  Ct.  App.  Div.
+
+1979), rev 'd and remanded, 416 A.2d 862, 863 (N. J. 1980).
+
+66  416  A.2dat871-72.
+67  Id. at 872.
+
+98
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of  Limitations  for Stolen Art
+
+68  Id. at 873.
+69  See id.
+70  See Autocephalous Greek-Orthodox  Church of Cyprus  v. Goldberg & Feld-
+man Fine Arts, Inc., 917  F.2d 278, 289 (7th Cir.  1990) ("[T]he due diligence
+determination is  ...  highly  'fact-sensitive and must be decided on a case-by-
+case basis."') (quoting Autocephalous Greek-Orthodox  Church of Cyprus v.
+Goldberg  &  Feldman  Fine  Arts,  Inc.,  717  F. Supp. 1374,  1389  (S. D.  Ind.
+1989)),  cert,  denied,  112  S. Ct.  377  (1991);  Mucha  v.  King,  792  F.2d 602,
+611  (7th  Cir.  1986)  (noting  that  courts  will  not  apply  discovery  rule  "if
+problems of proof created  by the passage  of time outweigh  the hardship to
+a plaintiff who could not as a practical matter have sued any earlier than he
+did").
+
+71  See Webb, supra note  7, at 896-98;  Eisen, supra  note  7, at  1092.
+72  See Webb, supra note 7, at 897 ("[N]o exhaustive standards for what consti-
+tutes  due  diligence  could  be  set  out  to  cover  every  situation....");  Eisen,
+supra note 7,  at 1092.
+
+73  Webb, supra note  7, at 897.
+74  Id.; Eisen, supra note 7, at 1092.
+75  See Petrovich, supra note 6, at 1156-57; see also Franzese, supra note 5, at
+22 (obliquely praising discovery rule); Ward, supra note 5, at 541 (endorsing
+discovery  rule  in  passing).  Because  the  discovery  rule  sometimes  subordi-
+nates a possessor's repose to a diligent owner's rights, the leading proponent
+of adverse possession  for chattels criticizes this rule. In Gerstenblith's view,
+O'Keeffe "significantly  undermines the policy  of the statute of  limitations"
+favoring  repose and unfairly  assimilates  an innocent  possessor  to a wrong-
+doer. Gerstenblith, supra note  5, at  144. She prefers adverse possession be-
+cause  it  focuses  on  the  possessor's  acts  and  good  faith  rather  than  the
+owner's diligence.  Id. at  145.
+
+76  DeWeerth v. Baldinger,  836  F.2d  103,  111-12  (2d Cir.  1987), cert, denied,
+486  U. S.  1056  (1988);  Desiderio  v.  D'Ambrosio,  463  A.2d  986,  988-89
+(N.J.  Super. Ct. Ch. Div.  1983).
+
+77  Autocephalous  Greek-Orthodox  Church  of  Cyprus  v. Goldberg  & Feldman
+Fine  Arts,  Inc., 917  F.2d  278  (7th  Cir.  1990), cert,  denied,  112  S.Ct.  377
+(1991); Mucha v.  King, 792  F.2d 602 (7th Cir.  1986); Kunstsammlungen zu
+Weimar v. Elicofon, 678  F.2d  1150 (2d Cir.  1982); Redmond v. New Jersey
+Historical  Soc'y,  28  A.2d  189 (N. J.  1942); Menzel  v.  List, 267  N. Y. S. 2d
+804 (Sup. Ct.  1966), modified on other grounds, 279  N. Y. S. 2d 608 (App.
+Div.  1967), modification rev'd, 246 N. E.2d 742 (N. Y.  1969).
+
+78  Republic of Turkey v. Metropolitan Museum of Art, 762 F. Supp. 44 (S. D. N.
+Y.  1990); O'Keeffe  v.  Snyder, 416  A.2d  862  (N. J.  1980)  (noting  evidence
+of  owner's  lack  of  diligence);  Solomon  R. Guggenheim  Found,  v.  Lubell,
+569 N. E.2d 426 (N. Y.  1991) (same).
+
+79  See Kunstsammlungen zu  Weimar,  678  F.2d at  1155-56.
+80  See  Stanley  Meisler, Art & Avarice, L. A.  TIMES,  NOV.  12,  1989, Magazine,
+at 8,  10-11.  The  facts described  in the text gave rise to the Autocephalous
+Greek-Orthodox Church  case. 917  F.2d at 279-84.
+
+Even  Pablo Picasso was guilty  of  ignoring  hints of theft.  When a friend
+sold him stolen Iberian sculptures that Picasso had seen in the Louvre, "deny
+it though  he  might,  Picasso  must have realized  exactly  what  he was  being
+offered."  John  Richardson,  Picasso  Among  Thieves,  VANITY  FAIR,  Dec.
+1993, at  198, 204. Nevertheless, because "he had to possess these objects,"
+Picasso "delud[ed] himself  into accepting the thief's  story. Id. at 204, 224.
+
+99
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos Bibas
+
+81  E.g., Porter v. Wertz, 416 N. Y. S. 2d 254, 257, 259 (App. Div.  1979) (noting
+that buyer did not inquire about seller's reputability nor his title to painting,
+in  keeping  with  custom  among buyers  that  "it  is  deemed  poor practice  to
+probe" into title).
+
+82  O'Keeffe  v. Snyder, 416 A.2d  862, 866 (N. J.  1980).
+83  Solomon  R. Guggenheim  Found,  v.  Lubell,  569  N. E.2d  426,  428  (N. Y.
+
+1991).
+
+84  Solomon  R. Guggenheim  Found, v.  Lubell,  550 N. Y. S. 2d 618, 623 (App.
+Div.  1990), certified  question answered and aff'd,  569  N. E.2d 426  (N. Y.
+1991).
+
+85  Guggenheim,  569 N. E.2d at 431.
+86  Id. at 430.
+87  Id. at 431.
+88  See id. at 428; Perez-Pefta,  supra note 1.
+89  See, e.g.,  Menzel  v.  List, 267  N. Y. S. 2d 804,  808  (Sup. Ct.  1966) (noting
+that  buyer who  had to  return painting  to  owner recouped  its  market  value
+from gallery  that  sold  painting  to  buyer),  modified, 279  N. Y.  S. 2d  608
+(App.  Div.  1967), modification revd,  246 N. E.2d 742 (N. Y. 1969).
+
+90  See, e.g., Gerstenblith, supra note 5, at  160-61,  163; Helmholz, supra note
+
+5, at  1235-36; Comment, supra note 5, at 444-45.
+
+91  Courts should not, however, employ vague, case-by-case  balancing tests to
+weigh these costs and benefits. See infra Part 2.4. A bright-line rule placing
+liability on buyers would make buyers internalize the costs of searching and
+the costs  of  not  searching,  producing  an  optimal  amount  of  investigation.
+See infra text accompanying note 153.
+
+92  See supra  notes  79-80  and  accompanying  text.  The  inquiry  into  a  pos-
+sessor's  good  faith  necessarily  relies  on  his  testimony  and  version  of  the
+events.  As  Part 2.4  argues,  this  makes  it difficult  in many cases  for courts
+to discern  ex  post  when a  possessor could  and  should  have done  more  to
+investigate. Therefore,  it is better to create incentives by placing the risk of
+loss on possessors ex ante.
+
+93  See. e.g., Menzel  v. List, 246 N. E.2d 742, 743 (N. Y.  1969) ("The  [defend-
+ants] knew  nothing of  the  painting's previous  history and made no inquiry
+concerning  it,  being content  to rely  on the reputability  of the  Paris gallery
+as to authenticity and title.").
+
+94  Porter v. Wertz, 416 N. Y. S. 2d 254, 259 (App.  Div.  1979) (quoting district
+court opinion)  (noting that buyer did not  investigate  seller's  reputability or
+verify  claim of ownership); see also O'Keeffe  v. Snyder, 416 A.2d 862, 872
+(N. J.  1980) ("[PJaintings  worth vast  sums of money  sometimes  are bought
+without  inquiry  about their provenance."); James  Walsh, It's a  Steal, TIME,
+Nov.  25,  1991,  at  86,  87  (stating  that,  according  to  New  York  Police  art
+detective  Richard  Volpe,  art  thieves  succeed  only  through  negligence  or
+complicity  of galleries and collectors).
+
+95  See Grace Glueck,  Who Owns Stolen Artifact? College Confronts a Museum,
+
+N. Y. TIMES, Apr. 30,  1991, at A I, B3 (implying that, though Sotheby's sold
+artifact  and checked  for  possible  illegal  exportation,  it  did  not  investigate
+possibility  of  theft);  Carol  Vogel,  Museum Keeps  Stolen Artifact, College
+Gets Cash, N. Y.  TIMES, Apr.  11,  1992, at AI4  (same); see also  Menzel  v.
+List, 267 N. Y. S. 2d 804, 808 (Sup. Ct.  1966) ("Art galleries of such stand-
+ing assume, without the necessity of inquiry, that an offer of sale constitutes
+a representation of authenticity and good title."), modified on other grounds,
+279  N. Y. S. 2d 608 (App. Div.  1967), modification rev'd, 246  N. E.2d  742
+(N. Y. 1969).
+
+100
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of  Limitations  for Stolen Art
+
+96  A  catalogue  raisonne  is  a  definitive  listing  (usually  by  a  prominent  art
+expert)  of every known  artwork  by  a particular artist.  For each  work, the
+catalogue usually contains a physical description (including an illustration),
+a history of exhibitions of the  work, the work's provenance, and published
+references to the work. Usually, one catalogue becomes the definitive refer-
+ence work on which scholars and merchants rely when discussing an artist's
+works. See DeWeerth v. Baldinger, 836 F.2d  103, 112 (2d Cir.  1987); Mary
+McKenna, Comment, Problematic Provenance:  Toward a  Coherent  United
+States  Policy  on  the  International  Trade in  Cultural  Property,  12  U. PA.
+J.  INT'L  Bus.  L.  83,  104  n.89  (1991).
+
+97  International Art Loss Register Opens for  Business, ARTNEWSLETTER (Int'l
+Found,  for  Art  Research,  New  York,  N. Y.),  Feb.  5,  1991,  at  I;  see  also
+infra Part 3 (advocating  solution based on international  databases).
+
+98  Don  L  Boroughs  et  al.,  The Hidden Art of  Theft,  U. S.  NEWS  &  WORLD
+
+REP., Apr. 2,  1990, at 13.
+
+99  Walsh, supra note 94, at  86-87.
+100  Maria Puente, Art Thefts:  Bold Strokes Turn a Profit: FBI Cracks Down as
+
+Crimes Rise, USA  TODAY, June 29,  1993, at 8A.
+
+101  Id. ("[Bjecause art still fetches good money,...  '[tjheft  is increasing for one
+reason: greed' 
+") (quoting Donald Mason, ex-FBI art theft investigator);
+Picassos  and Braques Stolen from Museum,  N. Y. TIMES,  NOV.  9,  1993, at
+C20 ("[A]s the price of masterpieces has soared, the black-market demand
+has  kept  pace,  inspiring  thefts  ...");  Walsh,  supra  note  94,  at  86  ("[In-
+satiable demand  for artworks and antiquities" has raised prices and so en-
+couraged  theft); see  Meisler, supra  note  80,  at 37  ("'If  someone  wants to
+own [pre-Columbian art] in the United States, people will bring [the art] to
+the United States.'") (quoting Mexican official  Marentes).
+
+102  For instance, Switzerland harbors "notorious auctions  ...  whose  main pur-
+pose  is  to  establish  credentials  for  a  dubious  work"  of  art.  BONNIE
+BURNHAM,  THE  ART  CRISIS 45  (1975).  In the  case  of  the  stolen  Cypriot
+Byzantine mosaics discussed above, the sale took place in a Geneva airport,
+presumably  because  of  Switzerland's  lax  laws.  Meisler, supra  note  80, at
+11.  Britain's anachronistic  protection of those who buy  stolen  goods  from
+a  few  statutorily  designated  "marches  ouverts"  has  made  those  markets
+"clearing  houses  for  stolen  goods.  So  blatant  is  this  abuse  that  a  Danish
+tour  company  advertises  coach  trips  to  Bermondsey  [in  London]  in  the
+early hours,  to buy  stolen  goods."  Harriet Crawley,  Forget the  Video, It s
+Your Paintings They're After, DAILY  TELEGRAPH  (London), June  16,  1992,
+at 16. Many other countries have lax laws that protect buyers and so encour-
+age  art  laundering.  See  Boroughs  et  al.,  supra  note  98,  at  13  (decrying
+Japan's lax laws); Constance  Lowenthal,  The Japanese Connection, WALL
+ST.  J., Mar. 23,  1990, at  Al3  (same); Walsh, supra note  94, at 87 (noting
+laxity of laws in Switzerland, Liechtenstein, and Cayman  Islands); cf. Irvin
+Molotsky,  3  V. S. Agencies  Urge  Veto of Art-Claim Bill, N. Y.  TIMES, July
+23,  1986, at C15 (reporting that State Department, Justice Department, and
+United  States  Information  Agency  urged Gov.  Mario Cuomo to veto short
+statute  of  limitations  for  recovering  art  for  fear  of  making  New  York a
+haven for stolen art and encouraging  theft).
+
+103  The law should also  increase incentives  for owners to report thefts  so that
+
+buyers can find out about stolen artworks. See infra Part  3.1-2.
+
+104  See  Dawson, supra  note  5,  at  897  & n.63; Gerstenblith,  supra  note  5, at
+160-61,  163; Ward, supra  note 5, at 554, 558; see  also  Helmholz, supra
+note 5, at  1236-37  (endorsing security of possessor's title).
+
+101
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos Bibas
+
+105  SeeV.C.C.  § 2-312( 1 Xa) (1988) (stating that every salecontract includes
+warranty of title); Deborah D. Hoover, Note,  Title Disputes in the Art Mar-
+ket: An Emerging Duty of Care for  Art Merchants,  51  GEO.  WASH.  L. REV.
+443,449-50(1983).
+
+106  One  might  ask  why  the  law  should  place  losses  on  buyers  if  the  law's
+ultimate aim  is to make  losses  rest on merchants. There are good  reasons
+to place liability on buyers even though they will usually recover indemnit-
+ies from merchants. If only merchants were held liable, buyers would have
+an incentive  to bypass art dealers, because dealers would have to increase
+purchase  prices to reflect  the risk of being held liable. In contrast, placing
+liability  on  buyers  would  encourage  them  to  deal  with  reputable,  solvent
+merchants who investigate. Buyers would have strong incentives not to buy
+from fly-by-night or insolvent merchants because, if they did so, they might
+be unable to recover indemnities.  By serving as self-insurers  or taking out
+title insurance on behalf of all their customers, merchants would perform a
+risk-spreading function.  To protect themselves  from liability and disrepute,
+these merchants would investigate  artworks' provenance.  In short, placing
+liability  on  merchants to the exclusion  of  buyers  would  drive  buyers into
+shady back-alley  transactions; placing liability on buyers but providing for
+indemnities from'merchants would bring art sales aboveground, facilitating
+the  kind  of  scrutiny  that  would  make  the  sale  of  stolen  art  difficult  and
+unprofitable.
+
+107  Title insurance may not have arisen yet because international art-theft data-
+bases are a very recent phenomenon. See Gregory Jensen,  Worldwide Regi-
+sters  Battle Art Theft Epidemic, WASH.  TIMES, June  14,  1990, at  E3. Now
+that they exist, it should be possible to use these databases to estimate  risk
+and set a premium.
+108  See infra Part 2.4.
+109  CALLAHAN, supra note  14, at 75.
+110  See Judd Tully, Hot Art, Cold Cash, I. ART,  NOV.  1990, at  1,4  (suggesting
+that  art  theft  victims,  to  avoid  scrutiny  by  tax  collectors,  do  not  report
+thefts).
+
+111  See Solomon R. Guggenheim Found, v. Lubell, 569 N. E.2d 426,431  (N. Y.
+
+1991).
+
+112  See supra note  15, sources cited therein, and accompanying text.
+113  See. e.g.,  Femandi  v.  Strully,  173  A.2d 277  (N. J.  1961)  (extending  limi-
+tation  period  out of  fairness  to patient  who did not  immediately  discover
+wing nut that surgeon had left in her abdomen).
+
+114  See supra text accompanying note  109.
+115  For example, the values of justice and international comity should outweigh
+the  problems  of  stale  claims  in  suits  by  foreign  nations  to  recover  their
+national  treasures.  Many  plaintiffs  in  U. S.  art  cases  have  been  nations
+seeking  to  recover  treasures  plundered  from  their  museums,  graves,  and
+churches.  See.  e.g.,  Autocephalous  Greek-Orthodox  Church  of  Cyprus v.
+Goldberg & Feldman Fine Arts, Inc., 917 F.2d 278 (7th Cir. 1990) (allowing
+Republic  of  Cyprus  and  church  to  recover  mosaics  stolen  from  church),
+cert, denied, 112 S. Ct. 377 (1991); Kunstsammlungen zu Weimar v. Elico-
+fon,  678  F.2d  1150 (2d Cir.  1982) (allowing  Federal Republic of Germany
+to recover paintings apparently stolen by American GI from museum during
+World  War II); Republic  of  Turkey  v.  Metropolitan  Museum  of  Art,  762
+F. Supp. 44  (S. D. N  Y.  1990) (allowing Turkey to sue  to recover artifacts
+excavated  from  burial  mounds);  William  H. Honan,  It's Finally  Agreed:
+Germany To  Regain a  Stolen  Trove,  N. Y.  TIMES,  Feb.  26,  1992,  at C15;
+
+102
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of  Limitations for Stolen Art
+
+Mark  Rose,  Greece Sues for  Mycenaean Gold,  ARCHAEOLOGY,  Sept.-Oct.
+1993, at 26; see  also  DeWeerth  v.  Baldinger,  836  F.2d  103 (2d Cir.  1987)
+(holding untimely  suit by West German national to recover painting stolen
+from  home  by  American  Gl  during  World  War  II),  cert,  denied,  486
+U. S.  1056  (1988);  John  Darnton,  Repatriating  the  Inventory of  History,
+N. Y. TIMES, Sept.  19,  1993, § 4  (Week  in  Review), at 1.
+
+Limits on plundered nations' rights to recover might harm relations with
+these countries.  For example, New York considered enacting a short statute
+of  limitations  for  art  in  museums  to  replace  its  demand-and-refusal  rule.
+Molotsky, supra note  102, at C15.  But the U. S. State  Department, Justice
+Department, and United States Information Agency all strongly urged Gov-
+ernor  Mario Cuomo  to  veto  the  bill.  Id.  He  did  veto  the  measure,  citing
+inadequate  notice  to other countries and the  State  Department's  fears that
+New  York would become  a haven  for looted art. The strenuous  objections
+of  the  three  federal  agencies  suggests  that  restricting  foreign  countries'
+rights  to recover stolen art would strain diplomatic relations.  Cf.  LEONARD
+D. DUBOFF,  THE  DESKBOOK  OF  ART  LAW  120  (1977)  (notify  that nations
+"feel  obligated  to aid a  friendly  nation  in recovering  one  of  its  displaced
+national treasures").
+
+For similar reasons, Congress refused to pass the Cultural  Property Re-
+pose  Act,  which  would  have  established  a  five-year  statute  of  limitations
+for foreign governments. S.  1523, 99th Cong.,  1st Sess. (1985);  131  CONG.
+REC.  E2249  (daily  ed.  May  16,  1985)  (statement  of  Rep.  Gephardt,  dis-
+cussing H. R. 2389); see  Drum, supra note 7, at 919. The Cultural Property
+Implementation Act already protects other nations' rights to recover stolen
+cultural,  archaeological,  and ethnological  property. See supra note  8. Pro-
+tecting  nations' right to  recover stolen  art would  further  the comity  con-
+cerns that the Act partially addresses.
+
+While a longer  statute of  limitations  would  ameliorate  these problems,
+it would not completely  solve them. Any artificial  limitation  period would
+cut off a nation's right to recover after an arbitrary number of years (except
+for a balancing test, which would be subject to the objections in Part 2.4).
+As the cases cited above show,  decades often  elapse  before  nations  locate
+stolen  artworks.  Thus,  limitation  periods  would  unfairly  penalize  nations
+that diligently  attempt to recover their art, resulting  in diplomatic  friction.
+Compared  to the twin  values  of  fairness  and comity,  stateness  is a minor
+concern.
+
+116  Granted, old  suits  would  still  have  some  nuisance  value; plaintiffs  might
+therefore  seek  lucrative  settlements  by  bringing  meritless  strike  suits.
+Courts could  alleviate  this  problem  by  using  summary judgment  aggress-
+ively to weed out suits lacking evidentiary support.
+
+117  One could  argue that  a  fraudulent  claimant  ("pseudo-owner")  might  wait
+many years and then come forward after a purchaser's evidence of owner-
+ship  had  decayed.  But  there  is  little  reason  to  think  that  many  pseudo-
+owners would come forward. Even if pseudo-owners did make claims, they
+would face  multiple  legal  obstacles under the rule advocated  in this Note.
+Most importantly, a theft  victim's recovery of property  from a BFP would
+be barred if the victim  had not  immediately  reported the loss to registries
+and to the  police,  who could  investigate  claimed  losses.  Second, pseudo-
+owners  would  need  to adduce  other evidence  of  ownership,  such as a re-
+ceipt,  testimony  of  others, or an insurance  company  listing.  These  pieces
+of evidence would be subject to adversarial testing, which should weed out
+perjury and forgery. Third, art changes hands periodically, and at each sale
+
+103
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos Bibas
+
+buyers would  check  theft  registries  under this Note's  plan. See infra Part
+3.1.  Thus, the issue of theft  is likely to be resolved within a decade or two
+of  a theft  listing.  The one exception  is  for art held by museums,  but mu-
+seums  keep  good  records  and  should  therefore  be  able to  refute  spurious
+allegations.  Fourth, the  law  could  impose  civil  and criminal  penalties  for
+fraudulent claims.
+
+118  The Art Loss Register, a computerized art-theft database, keeps a record of
+all searches.  See infra note  146. This record would allow  a BFP to  verify
+that he had used the database to investigate title.
+
+119  See supra text accompanying  notes  62-70.
+120  See supra text accompanying  notes  53-54.
+121  See supra note 75 and accompanying text.
+122  DeWeerth  v.  Baldinger,  836  F.2d  103,  110 (2d  Cir.  1987)  ("The  question
+of  what  constitutes  unreasonable  delay  in  making  a demand  ...  depends
+upon the circumstances of the case."), cert, denied, 486 U. S.  1056 (1988).
+
+123  Webb, supra note 7, at 897; see also  Eisen, supra note 7, at 1092.
+124  See Solomon R. Guggenheim Found, v. Lubell, 569 N. E.2d 426,431  (N. Y.
+1991)  (holding  that  during  further  proceedings,  trial court  would  have to
+balance  all  equities  and circumstances,  but  refusing  to  lay  out  guidelines
+as to how diligent owner must be).
+
+125  See id.
+126  Webb, supra note 7, at 897; see also  Eisen, supra note 7, at 1092.
+127  Webb, supra note 7, at 897. A charitable reading of Webb's argument might
+stress  that  because  information  technology  will  evolve, judges  should  be
+able periodically  to update the steps owners and buyers should take. Even
+so,  this  Note's  approach  would  work  better.  First,  updating  of  reporting
+duties  should  occur  through  clear  legislation  rather than  ad hoc  cases  so
+that owners and buyers have adequate notice. Consider an analogy  to land
+registration: if the law told buyers to register in "the best systems available"
+rather  than  in  the  county  clerk's  office,  the  unclearness  would  breed
+confusion-even  if courts had the power to make ad hoc determinations of
+which system would be best. Second, even if registries improve technologi-
+cally, an owner's duty to report specified information will  remain the same.
+Data from old registries could presumably be imported into new ones. Even
+if better methods  come along,  the basic  databases  will  remain  serviceable
+and solve the problems of information exchange.
+
+128  A  note  by  Deborah  Hoover  suggests  that,  to  qualify  as  good  faith  pur-
+chasers, art merchants should be required to investigate title "whenever the
+circumstances of a transaction call for further inquiry." Hoover, supra note
+105, at 464. This remedy suffers from three flaws. First, it places no explicit
+obligation  on  theft  victims to report losses.  If reporting is  not  required or
+strongly encouraged, a buyer's inquiry may be useless. Second, the remedy
+apparently  applies only  to merchants.  See id.  at 463. This proposal  could
+create  a perverse  incentive  that  would  drive art sales  out of the hands  of
+reputable  dealers  and  into  back-alley  transactions.  Instead  of  being  lax
+about private transactions, the law  should encourage  scrutiny by reputable
+dealers. Third, this unclear proposal would require investigation "whenever
+the circumstances of a transaction  call  for further  inquiry." As argued, the
+law needs bright-line  standards to deter theft,  reduce  litigation, and create
+clear incentives for both victims and buyers. This vague formula is subject
+to all the objections to unclear doctrines made above.
+
+129  Solomon  R.Guggenheim  Found,  v.  Lubell,  569  N. E.2d  426,  428,  431
+
+(N. Y. 1991).
+
+104
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of  Limitations  for Stolen Art
+
+130  Steven F. Grover, Note, The Need for  Civil-Law Nations To Adopt Discovery
+Rules in Art Replevin Actions: A Comparative Study, 70 TEX. L. REV. 1431,
+1436 (1992) ("[M]ost  owners  fear that by reporting the thefts  they  would
+eliminate  the  thief's  market  for  the  stolen  art and  thereby  force  their art
+underground.").
+
+131  See Guggenheim, 569 N. E.2d at 431.
+132  See Franklin Feldman & Bonnie Bumham, An Art Theft Archive:  Principles
+
+and  Realization,  10  CONN.  L  REV.  702,  723  (1978)  (arguing  that,  once
+word  gets  out  that  a large  computerized  database  exists  and that  victims
+are using it, the database's existence  will  deter art theft); see  also Grover,
+supra note  130, at  1439 (noting that one  major reason that theft databases
+might not deter art theft  is that many victims do not report thefts).
+
+Art dealers  face an analogous collective action problem under a regime
+that does not  penalize  sellers  of  stolen  art.  If an  individual  art dealer  in-
+quires  about  the provenance  of  an artwork  that  he  wants to  buy, he  must
+bear the  cost of  investigation.  If  he discovers  that the artwork  was  stolen
+and refuses  to buy  it, the seller may just  sell  it to another,  less  scrupulous
+dealer. Thus, investigation is unprofitable  and honest merchants labor under
+a competitive  disadvantage.  To overcome this disincentive,  the law should
+impose liability on sellers of stolen art. See supra text accompanying notes
+105-07.
+
+133  See  3  LYNDEL  V.  PROTT &  P.  J.  O'KEEFE,  LAW  AND  THE CULTURAL  HERI-
+
+TAGE MOVEMENT 382  (1989).
+
+134  See supra Part 2.4  for an explanation of the need for clear rules.
+135  Legislative  action  is  preferable  to judicial  action  because  of  the  need  to
+modify  federal  and state statutes of limitations. Also, a legislature is better
+able to hold  hearings  for all  interested  parties and to announce  a detailed
+prospective rule applicable to all cases, rather than just a retrospective rule
+for  the  case  at  hand.  Federal  action  is  preferable  to  state  action  because
+trafficking  in  stolen  art  is  interstate  and  international.  Without  a  federal
+law, disparate state laws might induce forum shopping and might encourage
+art buyers to flock  to the state with the most lax  laws. Furthermore, diver-
+gent  state  laws  might  affect  diplomatic  relations  with  plundered  nations
+seeking to recover their national  treasures from American buyers.
+
+136  An owner, however, would still be subject to the statute of limitations after
+she discovered the artwork's possessor and its whereabouts. This proposal
+does not  license  delay  in bringing  suit  once  an owner actually  has all  the
+facts needed to sue.
+
+137  Compare  this  proposal  to the  current  cloudiness  of  the  law,  under  which
+many  adverse  possession  cases  have  been  litigated  for  years.  See.  e.g.,
+Kunstsammlungen  zu  Weimar  v.  Elicofon,  678  F.2d  1150.  1153  (2d  Cir.
+1982) (deciding in favor of owner in  1982 in suit filed in  1969); DeWeerth
+v.  Baldinger,  836  F.2d  103,  106,  112  (2d  Cir.  1987)  (ruling  in  favor  of
+possessor in  1987 in suit filed in  1983), cert, denied, 486 U. S.  1056 (1988);
+O'Keeffe  v.  Snyder, 416  A.2d  862,  864,  867 (N. J.  1980) (remanding suit
+filed in  1976 for additional  fact-finding  in  1980); Solomon R. Guggenheim
+Found,  v.  Lubell,  569  N. E.2d 426,  428-29  (N. Y.  1991) (remanding  suit
+filed in  1987 for additional  fact-finding  in  1991); Perez-Pena, supra note 1
+(noting  that  Guggenheim case  went  back  for trial  and was  settled  in  De-
+cember  1993).
+
+138  See Myres S. McDougal  & John W. Brabner-Smith, Land Title Transfer:  A
+Regression, 48  YALE L. J.  1125,  1130 (1939).  Under the Torrens system, a
+proceeding analogous to a quiet title action  is used to require all who may
+
+105
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos Bibas
+
+have claims to a piece of land to assert their claims. After this proceeding,
+the registry  issues a conclusive certificate  of title  listing all  interests in the
+parcel  of land. All  later claims must be registered,  whereupon  the registry
+issues an updated certificate. The law does not recognize unregistered inter-
+ests,  such as adverse  possession  that begins aAer the quiet title action. To
+sell  a registered piece  of  land, the seller must surrender the old  certificate
+of title, and a new one is then issued to the buyer. See id. at  1129-31.
+
+139  See Hoover, supra note  105, at 458-59.
+140  See id. In contrast, states without limitation period statutes could adopt this
+Note's proposal via common  law development, because theft  registries are
+already in place.
+
+141  Many art owners try to hide their assets to avoid estate taxes, for example.
+Thus, a title registry would be incomplete and would fail. Telephone Inter-
+view  with  Dr.  Constance  Lowenthal,  Executive  Director,  Int'l  Found,  for
+Art Research  (Jan. 24,  1994) [hereinafter  Lowenthal  Interview]. Museums
+and governments,  however, are tax-exempt  and usually do not try to hide
+their assets, so a title registry might work  for those entities.
+
+142  See  DUKEMINIER  &  KRIER,  supra  note  14, at  769.  For an explanation  of
+
+the Torrens system, see supra note  138.
+
+143  See Telephone Interview with Rayburn B. Dobson, Chief Executive Officer,
+Int'l  Registry of Antiques & Fine Arts (Jan. 26,  1994) [hereinafter  Dobson
+Interview] (explaining  that registries were  not feasible  until  recent advent
+of optical  storage systems on computers).
+
+144  See ARTNEWSLETTER, supra note 97, at  1. In addition, certain law enforce-
+ment  agencies  keep databases of stolen art. The  FBI maintains a National
+Stolen Arts File, Interpol keeps a database called Art Program, Italy's Cara-
+binieri  (the  equivalent  of  the  FBI)  has a  large  database,  Canada  runs the
+Canadian  Heritage  Information  Network  (CHIN)  for art in Canadian  mu-
+seums, and the German Bundeskriminalamt police unit at Wiesbaden keeps
+a  database. Grover, supra  note  130, at  M40  (discussing  FBI); Telephone
+Interview  with  Caroline  Wakeford,  The  Art  Loss  Register  (Feb. 4,  1994)
+[hereinafter Wakeford  Interview] (discussing  Bundeskriminalamt); Lowen-
+thal  Interview, supra note  141  (discussing  FBI, Interpol, and Carabinieri).
+None  of  these  law  enforcement  databases  is  accessible  to  the  public.  Id.
+Another private art-theft database called Lasernet Theftline began operation
+in  1990, Jensen, supra note  107, but went out of business in August,  1992,
+Wakeford  Interview, supra.
+
+The  Art Loss  Register is a for-profit  enterprise run by the  International
+Foundation  for  Art Research,  Lloyd's of  London,  and the  British  Institute
+for the  Protection  of Cultural  Property.  ARTNEWSLETTER,  supra  note  97.
+Other backers of the database include Christie's, Sotheby's, the British An-
+tique Dealers Association, and the venture capital company 3i. Id. There is
+no reason to supplant  this private  database with a public one, given  fiscal
+constraints  and  the  responsiveness  of  private  enterprises  to  their clients'
+needs.  Cf. Dobson  Interview, supra note  143 (advocating private registries
+as  way  of  heading  off  government  regulation  of  the  art  market,  which
+could be cumbersome and costly and might even open door for government
+real location of art).
+
+Because  the  law  would require victims to use the registries, one might
+worry about controlling excessive  fees.  One approach  would be to  have a
+public  board  regulate  fees,  much  as commissions  regulate  utilities'  fees.
+This approach, however, is only necessary when there is no competition to
+regulate  prices.  Even  competition  between  two  databases  is  sufficient  to
+
+106
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of  Limitations  for Stolen Art
+
+regulate prices and terms of service.  Lexis and Westlaw,  for instance, hold
+a  duopoly  over  on-line  databases  for  legal  research  and  yet  have  strong
+incentives to compete  for market share by innovating and offering  free use
+to students. Another approach  would  require The  Art Loss  Register to ac-
+cept  theft  listings  for  a modest  set  fee,  but  would  allow  it  to  set its  own
+prices and terms of service for searches by buyers. To generate competition,
+the FBI would expand its network  into a full-service  database accessible to
+the public.  Because  theft  victims would have to report their losses to both
+databases, the price of reporting thefts  would require regulation.  But since
+thefts  would  be  listed  with  both  registries,  buyers  would  need  to  check
+only  one registry, and thus competition  would  regulate  the price of buyer
+searches.
+
+145  Lowenthal  Interview,  supra  note  141  (stating  that  The  Art  Loss  Register
+has  50,000  records,  including  many  color  images;  each  record  contains
+victim's  name  and  address,  insurer,  police  report  number,  date  of  theft,
+location  of theft,  value (which  must be greater than $1000),  artist, date of
+creation, medium  of the artwork, measurements,  and any  inscriptions).  If,
+as  this  Note  urges, the  law  required  registration  of  thefts  and  encouraged
+buyers to consult the registries,  insurers  would  have  a strong incentive  to
+require  the  insured  owner  to  file  photographs  and  descriptions  with  the
+insurer.  Cf.  Russ  Banham,  Here  Today,  Gone  Tomorrow:  Fine Art Losses
+Can  Be  Mitigated  by  Upgrading  Security  and  Recording  the  Identity of
+Each Piece,  INS.  REV., Oct.  1990, at 53, 58  (citing  Dr. Constance Lowen-
+thal, who argues that good  recordkeeping '"would  so  improve the chances
+of  recovery  that  insurance  companies  could  consider  giving  discounts  to
+those who do it'").  Indeed, insurance companies  could  go  further and de-
+mand color photographs of all  insured items.
+
+146  ARTNEWSLETTER, supra note 97, at  1. Individual  theft victims can register
+thefts  in  The  Art Loss  Register  for  $40  per  item.  Prospective  buyers can
+request  searches for $50 per item. Insurance companies negotiate contracts
+providing for unlimited use of the database for $4000 to $40,000 per year.
+The auction houses of Sotheby's, Christie's, and Phillips pay an undisclosed
+fee  for  automatic  searching  of  their auction  catalogues  for  paintings  and
+drawings. Lowenthal Interview, supra note 141. Note that the registry keeps
+track of "when, why, and by whom any inquiry is made. Tracking a stolen
+artwork  even through people who refuse to handle  it  for sale  is key  to its
+recovery...."  ARTNEWSLETTER,  supra note 97, at 1.
+
+147  Lowenthal  Interview, supra note  141.
+148  U. C. C.  § 2-312(lXa)  (1988); see  Hoover, supra note  105, at 449-50.
+149  E.g.,  Menzel  v.  List,  267  N. Y.  S. 2d  804,  807-08,  820  (Sup.  Ct.  1966)
+(announcing  jury  verdict  awarding  possessor  $22,500  market  value,  not
+$4000  purchase  price,  from  gallery  that  sold  painting  to  him),  modified,
+279 N. Y. S. 2d 608 (App. Div.  1967), modification rev'd, 246 N. E.2d 742
+(N. Y. 1969). Statutes of limitations should not impede such claims, as long
+as the limitation period does not begin running until discovery of the defect
+in  title.  Currently,  Section  2-725  of  the  Uniform  Commercial  Code  im-
+poses  a  four-year  Statute  of  limitations  on actions  for breach  of  warranty
+of title. To implement this Note's proposal, it would be necessary to modify
+this provision so that the Statute of limitations would not begin to run until
+the buyer discovered the defect in his title. Cf. DUKEMINIER & KJUER, supra
+note  14, at 649  (noting  that,  in  contract  for  sale  of  land,  statute  of  limi-
+tations  for  covenants  of  general  warranty  and  quiet  enjoyment  does  not
+
+107
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Stephanos Bibas
+
+begin to run until  some  future  act,  such as assertion  of superior title, dis-
+turbs buyer's ownership).
+
+150  See generally Hoover, supra note  105.
+151  See supra text accompanying notes  105-07.  One might argue that placing
+liability on buyers who will get indemnities from merchants would drive a
+wedge between the two, souring their relationship. This fear is unfounded.
+Both  buyers  and  merchants  would  want  to  insure  that  art  has  not  been
+stolen.  Merchants, by making title searches a routine part of closing sales,
+would safeguard both themselves and their customers.  It would be in mer-
+chants' economic  interests to keep their customers happy and to avoid the
+liability that would attach to selling stolen art.
+
+152  See supra notes  105-07  and accompanying text.
+153  In practice, as the rest of the paragraph in the main text argues, the distinc-
+tion  would  not  be  terribly  important.  My  point  is  that  buyers  would  be
+free to undertake an economically efficient  level of investigation, which in
+practice would generally amount to routine investigation. Note also that the
+liability is not perfectly strict; as Part 3.2 argues, buyers who do not investi-
+gate should prevail over victims who do not report their losses.
+
+154  See Webb, supra note 7, at 897.
+155  Solomon  R. Guggenheim  Found, v. Lubell, 569 N. E.2d 426 (N. Y.  1991).
+156  See id. at 428. While the theft must have occurred between  1965 and  1967,
+the museum claimed that it did not know of the theft  until it completed  its
+decennial  inventory  in  1970. Id.
+
+157  Telephone  Interview  with  Elizabeth  Reynolds,  Chief  Registrar,  Brooklyn
+Museum  (Jan.  20,  1994)  [hereinafter  Reynolds  Interview].  It is, however,
+reasonable  to expect  individual  theft  victims  to report thefts  within a  few
+weeks.  Likewise,  once a victim has learned that a theft has occurred, that
+victim  needs only  a very  short  time, perhaps  one  or two  weeks, to report
+the theft.  The only problem is guaranteeing  that institutional  victims have
+enough time to discover their losses before the limitation period expires.
+
+158  Large  museums  currently  inventory  their  collections  at  most  once  every
+five to ten years. Lowenthal  Interview, supra note  14. However, technology
+exists that would permit inventories far more frequently. Computerized bar
+code inventory  systems are widely available that make it possible for even
+the largest  museums to inventory  their collections  once every  six months.
+The  systems  are simple enough that night  guards could inventory  objects
+each  night  as  they  made  their  rounds.  One  system  on  the  market  uses
+tamper-proof,  forgery-proof  bar codes  that  frustrate  attempts  to remove a
+bar code  and  place  it  on  another  object.  Bar  code  tape  that  contains  a
+hologram of the picture being coded will  soon be available.  Dobson Inter-
+view, supra note  143. Only a minority of museums currently use bar code
+inventory systems.  Reynolds  Interview, supra note  157. Because such sys-
+tems are available  and could solve  the problem of delayed  notification  of
+buyers, the law should encourage  their use by imposing a grace period as
+short as is  feasible, namely  six  months to one year for museums. Alterna-
+tively, museums could set up their own title registries and link them to the
+databases, obviating the need for constant  inventories.
+
+159  Dobson  Interview,  supra  note  143  (stating  that  International  Registry  of
+Antiques  & Fine  Arts  is setting  up catalogues  for the Clark  Art Museum,
+the  Museum of  American  Indian Art, and the  Brandywine  Museum and is
+negotiating  with  other  museums;  however,  that  company's  focus  is  on
+Europe, where  European Union law  will  soon require national  registration
+of art).
+
+108
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+Statutes of  Limitations  for Stolen Art
+
+160  See supra note  141 and accompanying text (noting problems that title regis-
+tries face but also noting that tax-exempt  museums may  have fewer disin-
+centives to register than tax-dodging private  individuals have).
+
+161  Note  that  merchants  are  only  the  least  cost  avoiders  when  an  owner has
+already  reported  a  theft  or  the  merchant  buys  under  suspicious  circum-
+stances. When an owner has reported a theft,  it becomes  relatively  simple
+for a merchant or buyer to investigate and avoid buying that stolen artwork;
+hence  merchants  (or buyers  in sales  without  merchants)  are the  least  cost
+avoiders. When a merchant buys in good  faith, an owner's failure to report
+a  theft  is just  as  much  a  factor  in  promoting  stolen  art  as  a  buyer's  or
+merchant's failure to investigate.
+
+162  U. C.  C.  § 9-301  cmt.  9  (1988)  (noting  that  U. C.  C.'s  subordination  of
+unperfected security interests has "a purpose-in common with similar rules
+in all  filing  and  recording  systems-to  impose  sanctions  for  not  adhering
+to filing or recording requirements," for otherwise  registry  systems  would
+be  ineffective).
+
+163  See supra  Part  1.1  (discussing  common  law  rule  that thieves  do  not  take
+good  title).  For  these  purposes,  bad  faith  must  mean  more  than  a  mere
+failure  to  check  theft  databases  or  other  acts  of  simple  negligence.  Bad
+faith must embrace reckless and willfully  blind acts, for otherwise the law
+would  protect  collusive  transactions  designed  to  fence  stolen  goods.  To
+determine bad faith, then, courts should look at a series of objective  factors
+that  suggest  affirmative  blindness  to  suspicious  circumstances,  such  as:
+whether a painting has been cut out of its frame; whether the buyer bought
+at a price so far below  market value as to be suspicious; whether the buyer
+took  no  steps  whatsoever  to  investigate  title;  whether  the  seller's  story
+about title was implausible; whether the seller was an established  art mer-
+chant; and whether the  sale  was  hurried  or took  place  in a  suspicious lo-
+cation (such as the Geneva  airport,  which  was  used to gain  the protection
+of lax Swiss laws in a sale of Byzantine mosaics, supra text accompanying
+note 80).
+
+164  See  Webb, supra  note  7,  at  896  (arguing  that  persons  lacking  good  faith
+deserve no protection, and stipulatively defining buyers who fail to investi-
+gate title as persons  lacking good faith).
+
+165  See supra text accompanying notes  129-33.
+166  One year is an arbitrary  period. Any short time period would  suffice,  pro-
+vided  it gave victims enough notice  yet  was not so  long as to leave  future
+buyers needlessly  uninformed.
+
+167  As  argued,  bad  faith  holders  should  never  win.  See  supra  text  ac-
+
+companying  note  163.
+
+168  See supra notes 92-97  and accompanying text.
+169  See Eisen, supra note 7, at  1098-99;  Hayworth, supra note 7, at  375-76.
+170  See supra text accompanying  note  105 (discussing  merchant's  liability  for
+
+breach of warranty of title).
+
+171  In theory, this person could recover from the thief, but in practice the thief
+
+is nowhere to be found.
+
+172  See supra note  115.
+173  See supra Part  1.4 (describing current doctrine of laches).
+174  See Solomon R. Guggenheim Found, v. Lubell, 569 N. E.2d 426, 431 (N. Y.
+1991) (declining  to set  forth clear due diligence  reporting requirement  for
+art theft victims).
+
+109
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 21:10:31, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739196000227
+
+

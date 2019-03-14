@@ -1,0 +1,1109 @@
+ 
+
+Armed Non-State Actors and Cultural 
+Heritage in Armed Conflict
+Marina Lostal*
+
+Kristin Hausler†
+
+Pascal Bongard††
+
+ 
+
+Abstract: This article presents the preliminary findings of a scoping study that 
+Geneva Call is conducting to understand the existing dynamics between armed 
+non-state actors (ANSAs) and cultural heritage. Geneva Call is a Swiss-based non-
+governmental organization dedicated to promoting the respect of international 
+humanitarian law by ANSAs. The study centres on three case studies—Syria, Iraq, 
+and Mali—on which information has been obtained through desk and field research, 
+interviews with ANSAs operating in those countries, and with leading organizations 
+committed to the protection of cultural heritage, globally or regionally. The article 
+first maps the various attitudes of ANSAs toward cultural heritage, highlighting both 
+positive and negative examples from current practices. Then it analyzes the response 
+of specialized organizations to the impact of ANSAs on cultural heritage and 
+their level of engagement with these actors on cultural heritage issues. Finally, 
+the conclusion offers some tentative recommendations to enhance the respect of 
+cultural heritage by ANSAs in non-international armed conflicts.
+
+Keywords: cultural heritage, armed non-state actors, non-international armed 
+conflicts, Geneva Call
+
+INTRODUCTION
+
+Over the past few years, the damage and destruction of cultural heritage in armed 
+conflicts have made front-page news on many occasions. For example, in Syria, 
+
+*Lecturer in International Law at the Hague University of Applied Sciences, Netherlands; 
+Email: marina.lostal@cantab.net
+†Dorset Senior Research Fellow, British Institute of International and Comparative Law, London, 
+United Kingdom; Email: k.hausler@biicl.org
+††Head of the Policy and Legal Unit at Geneva Call, Switzerland; Email: pbongard@genevacall.org
+
+407
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+International Journal of Cultural Property (2017) 24:407–427. Printed in the USA.Copyright © 2017 International Cultural Property Societydoi:10.1017/S0940739117000200408 
+
+MARINA LOSTAL ET AL
+
+the old city of Aleppo (a United Nations Education, Scientific and Cultural Orga-
+nization [UNESCO] world heritage site) has been on the frontline of the battle 
+between the government forces and armed non-state actors (ANSAs), with its 
+cultural heritage having been damaged or destroyed as a result of the fighting. 
+Its medieval market (the Souq al-Madina) was burned to the ground; the outer 
+wall of its citadel extensively affected; the main gate of the Umayyad Mosque 
+(often known as the Great Mosque), also destroyed; and its library consumed by 
+flames.1 The world heritage site of Palmyra was attacked twice by the Islamic State 
+group, leading to the destruction of the Bel and Baalshamin temples and to the 
+extensive damage of its Roman amphitheater.
+
+In Iraq, the shrine of the Prophet Yunus and the Mosul Museum, among others, 
+were the object of deliberate attacks by the Islamic State group, which filmed their 
+devastation.2 Prior to losing the city of Mosul, the Islamic State group dynamited 
+the Al Nuri mosque—the place from where al-Baghdadi declared the Islamic State 
+caliphate and himself to be its caliph in June 2014.3 The Islamic State group has 
+also put in place a systematic looting plan through its “Antiquities Division,” 
+which raises funds through the issuing of licenses and the collection of taxes for the 
+digging and trafficking of Iraqi and Syrian artifacts.4 Khaled al-Assad, the head of 
+antiquities in Palmyra, was even assassinated in 2015 after refusing to cooperate 
+with the Islamic State group and to disclose the whereabouts of some of the site’s 
+antiquities.5
+
+In Mali in 2012, Islamist ANSAs attacked the world heritage town of Timbuktu, 
+destroying more than 4,000 manuscripts, 14 mausoleums, and the door of the Sidi 
+Yahia mosque. The use of these sites of worship was deemed “idolatrous” and 
+heretical within their interpretation of Sharia law. In September 2016, the Inter-
+national Criminal Court (ICC) sentenced Ahmad Al Faqi Al Mahdi, a member 
+of the Islamist group Ansar Dine and head of its morality brigade, to nine years of 
+
+1Syrian Directorate General of Museums and Antiquities, “State Party Report: State of Conservation 
+of the Syrian Cultural Heritage Sites,” 2014, 1–28; see also Silvia Perini and Emma Cunliffe, “Towards 
+a Protection of the Syrian Cultural Heritage: A Summary of the International Responses (March 
+2011–March 2014),” April 2014. One recent examination of 210 locations in the world heritage site of 
+Aleppo found that “22 had been destroyed, 48 were severely damaged, 33 were moderately damaged, 
+and a further 32 had sustained possible damage.” See Cunliffe, Muhesen and Lostal 2016, 6.
+2Ironically, a group of archaeologists found an undiscovered palace dating back to 600 bc under the 
+debris of the Prophet of Yunus’ shrine. See Sarah Pruitt, “In Mosul, Archaeologists Find Hidden 
+Palace under Shrine Destroyed by ISIS,” 7 March 2017.
+3Martin Chulov and Kareem Shaheen, “Destroying Great Mosque of al-Nuri: Is ISIS Declaring 
+Defeat,” The Guardian, 22 June 2017.
+4United States Government Accountability Office (US GAO), “Report to Congressional Requesters: 
+Cultural Property—Protection of Iraqi and Syrian Antiquities,” August 2016, 9, http://www.gao.gov/
+products/GAO-16-673.
+5Kareem Shaheen and Ian Black, “Beheaded Syrian Scholar Refused to Lead ISIS to Hidden Palmyra 
+Antiquities,” The Guardian, 19 August 2015.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+ARMED NON-STATE ACTORS AND CULTURAL HERITAGE IN ARMED CONFLICT 
+
+409
+
+imprisonment for having intentionally directed attacks against the mosque and 
+nine of the mausoleums, a charge to which he pled guilty.6
+
+Historical monuments, religious buildings, and other cultural sites have also been 
+damaged as a result of military use. The changed dynamics of warfare brought about 
+by intra-state conflict between ANSAs and state-armed forces have increasingly 
+turned urban areas into battlegrounds. For example, in Syria Crac des Chevaliers—
+a medieval crusader castle and a declared world heritage site, which is located near 
+the city of Homs—was allegedly being used by ANSAs before it was air raided by 
+government forces in July 2013.7 As mentioned above, the city of Aleppo has with-
+stood substantial damage (for example, its Souq and the Great Mosque) as a result 
+of armed clashes and military occupation.
+
+While the scale of looting and the destruction of cultural heritage during recent 
+armed conflicts has been described as unprecedented, one of the key differences 
+between past and present-day armed conflicts is that, today, most armed conflicts 
+taking place in the world are non-international in character.8 A non-international 
+armed conflict is defined as “protracted armed violence between governmental 
+authorities and organized armed groups or between such groups within a State.”9 
+The level of violence must reach a certain level of intensity to exclude mere inter-
+nal disturbances, and “non-governmental groups involved in the conflict must be 
+considered as ‘parties to the conflict’, meaning that they possess organized armed 
+forces.”10 Thus, most armed conflicts taking place in the world now involve ANSAs, 
+which, in turn, may be present in territories that are rich in cultural heritage. There 
+is therefore a need to better understand how these groups view cultural heritage 
+and, when appropriate and feasible, engage such groups toward compliance with 
+international standards applicable in armed conflicts for its protection.
+
+This is the approach adopted by Geneva Call, a neutral and impartial non-
+governmental organization (NGO) dedicated to promoting the respect of inter-
+national humanitarian law (IHL) by ANSAs. IHL is a branch of international law 
+that regulates the conduct of warfare by seeking to limit its effects and protect the 
+
+6ICC,  Prosecutor  v.  Ahmad  Al  Faqi  Al  Mahdi,  Case  no.  ICC-01/12-01/15,  27  September  2016 
+(Prosecutor v. Al Mahdi). See also Kristin Hausler, “Some Justice for Timbuktu,” Lawyer Issue,  
+5 October 2016, http://www.lawyerissue.com/some-justice-for-timbuktu/ (accessed 19 November  
+2017); “A Landmark Case for the ICC,” Global Legal Post, 4 October 2016, http://www.globallegalpost.
+com/blogs/global-view/a-landmark-case-for-the-icc-84068027/ (accessed 19 November 2017).
+7For a lengthier description, see Lostal 2017, 95–96.
+8In reference to Syria, see the Common Statement by UN Secretary-General Ban Ki-Moon, UN 
+Education, Scientific and Cultural Organization (UNESCO) Director-General Irina Bokova and 
+UN and League of Arab States Joint Special Representative for Syria Lakhdar Brahimi: The Destruction 
+of Syria’s Cultural Heritage Must Stop, 2014, 1.
+9ICTY, Prosecutor v. Dusko Tadic a/k/a “Dule,” Decision on the Defence Motion for Interlocutory 
+Appeal on Jurisdiction, 2 October 1995, para. 70.
+10International Committee of the Red Cross, “How Is the Term ‘Armed Conflict’ Defined in Interna-
+tional Humanitarian Law?,” opinion paper, March 2008, 3.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+410 
+
+MARINA LOSTAL ET AL
+
+persons who are not, or no longer, taking part in hostilities and the civilian objects 
+that may be affected by armed conflicts. IHL offers cultural heritage a regime 
+of protection in armed conflict that goes beyond that afforded to civilian objects. 
+The two most important treaties in this regard are the 1954 Hague Convention 
+for the Protection of Cultural Property in the Event of Armed Conflict (Hague 
+Convention) and its 1999 Second Protocol.11
+
+ANSAs refer to armed entities that are not under state control. They include 
+a variety of actors, including opposition and insurgent movements, de facto author-
+ities, paramilitary groups, and self-defense militia. The general rules of IHL apply 
+to all parties involved in an armed conflict, whether they are state armed forces or 
+ANSAs. Since the majority of IHL treaties that touch upon cultural heritage were 
+drafted taking inter-state wars as a model, very little attention has been paid to their 
+application in non-international armed conflicts or to the obligations and role of 
+ANSAs.12 This runs counter to the current state of affairs where non-international 
+armed conflicts are the norm and to the trend in general academic literature (outside 
+the scope of cultural heritage) that in the past few years has seen the appearance 
+of a number of publications that center on ANSAs and non-international armed 
+conflicts, given their increasing relevance.13 However, none of these works tackle 
+cultural heritage specifically.
+
+In  this  context,  Geneva  Call  embarked  in  late  2015  in  a  pioneer  study  to:  
+(1) examine the international legal framework relating to cultural heritage appli-
+cable to ANSAs; (2) identify and analyze the attitudes of ANSAs toward cultural 
+heritage, highlighting both positive and negative examples from current practices; 
+(3) assess the status, risks, and opportunities of engaging ANSAs toward the pro-
+tection of cultural heritage in armed conflict; and (4) recommend various forms 
+of action that could be undertaken to enhance those efforts. The study revolves 
+around three case studies: Iraq, Mali, and Syria. The armed conflicts in such coun-
+tries share some common aspects: there has been a sectarian turn to some extent; 
+they have all involved a number of ANSAs, including Islamist groups; and the level 
+of destruction, damage, and looting of cultural heritage has been significant. The 
+study has gathered information through field visits and qualitative research based 
+
+11Convention for the Protection of Cultural Property in the Event of Armed Conflict, 14 May 
+1954, 249 UNTS 240 (Hague Convention); Second Protocol to the Convention for the Protection 
+of Cultural Property in the Event of Armed Conflict, 26 March 1999, 2253 UNTS 172 (Second 
+Convention).
+12Hausler 2015; Henckaerts 2010; Howe 2012.
+13E.g.,  Geneva  Academy  of  International  Humanitarian  Law  and  Human  Rights,  “Rules  of  
+Engagement: Protecting Civilians through Dialogue with Armed Non-State Actors,” October 2011; 
+“Understanding  Armed  Groups  and  the  Applicable  Law,”  no.  882, International  Review  of  the 
+Red  Cross,  30  June  2011;  “Engaging  Armed  Groups,”  no.  883, International  Review  of  the  Red 
+Cross, September 2011; Sivakumaran 2012; Geneva Academy of International Humanitarian Law 
+and Human Rights, “Reactions to Norms: Armed Groups and the Protection of Civilians,” Policy 
+Briefing no. 1, 2014.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+ARMED NON-STATE ACTORS AND CULTURAL HERITAGE IN ARMED CONFLICT 
+
+411
+
+on interviews carried out either in person or through written questionnaires with 
+representatives of ANSAs and international organizations and institutions that 
+deal with the protection of cultural heritage globally or in the selected countries.14
+This article summarizes the preliminary findings of the forthcoming two-year 
+study. It first acknowledges that the attitudes of ANSAs toward cultural heritage  
+are diverse and can be broadly divided into two major trends: a destructive attitude, 
+according to which ANSAs conduct deliberate attacks and/or plunder, and what can 
+be described as “the other trend,” where ANSAs do not seek to intentionally damage 
+or destroy cultural heritage but, rather, recognize the importance of safeguarding 
+and respecting cultural heritage, even if their military tactics may expose it to inci-
+dental, collateral damage. The article also provides a general insight into the way 
+specialized organizations that deal with cultural heritage either globally or regionally 
+have addressed the impact (both positive and negative) of ANSAs on cultural heritage. 
+Then, it identifies first-hand accounts concerning the behavior of ANSAs operating 
+in Iraq, Mali, and Syria. The conclusion offers some tentative recommendations to 
+enhance the protection of cultural heritage in non-international armed conflicts.
+
+ANSAS’ ATTITUDES TOWARD CULTURAL HERITAGE
+
+The attitudes of ANSAs toward cultural heritage during armed conflict can be divided 
+into two main categories. On the one hand, there are ANSAs that, as a matter of 
+policy, deliberately target cultural heritage in the conduct of warfare because of 
+what it represents. On the other hand, there are ANSAs that do not adopt such a 
+policy and tend to respect cultural heritage during their military operations, with 
+some of them even having taken concrete measures to safeguard cultural heritage 
+from the possible adverse effects of an armed conflict.
+
+The Deliberate Targeting Trend
+
+Over the past few years, cultural heritage has increasingly become the direct target 
+of systematic and deliberate attacks by ANSAs. A notorious example is the Islamic 
+State group, which since 2014 has intentionally damaged or destroyed cultural her-
+itage in Iraq and Syria under the pretext that it regards it as heretical to Islam, 
+even calling the targeted statues and shrines “false idols.”15 Its targets have included 
+artifacts, religious sites, and ancient monuments, with some even being listed as 
+world heritage sites. The Islamic State group has destroyed Byzantine mosaics and 
+
+14As the interviews and questionnaire shared the same structure and questions, all ANSAs were 
+assessed against the same standard. When the interviews were conducted in person, in addition 
+to the common structure, a more open-ended approach was adopted and follow-up questions 
+were included.
+15Graciela Gestoso Singer, “ISIS’s War on Cultural Heritage and Memory,” UK Blue Shield, 2015, 2, 
+http://ukblueshield.org.uk/wp-content/uploads/2015/06/Singer-Isis_Against_World_Heritage.pdf 
+(accessed 19 November 2017), 2.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+412 
+
+MARINA LOSTAL ET AL
+
+Assyrian statues as well as Sufi and Shia shrines in the region of Raqqa in Syria.16  
+It has also destroyed several mosques, churches, and Sufi and Shia shrines and tombs 
+in Mosul in northern Iraq, the site of the ancient Assyrian capital of Nineveh.17 
+The video of the destruction of the Mosul Museum that went viral in February 
+2015 shows a representative of the group recalling how the Prophet Muhammad 
+destroyed the idols in Mecca and adding: “These statues and idols, these artefacts, 
+if God has ordered [their] removal, they [are] worthless to us even if they are worth 
+billions of dollars.”18 In addition, the Islamic State group has been involved in the 
+looting of several archaeological sites and even established an “Antiquities Depart-
+ment” to authorize their plunder and collect their proceeds methodically.19 However, 
+its attacks on cultural heritage have not been limited to objects that have a religious 
+meaning. Following its capture of the ancient city of Palmyra in May 2015, the 
+Islamic State group dynamited several of its temples, including the Temple of Bel 
+and the Temple of Baal Shamin, its Arch of Triumph, as well as its tetrapylon and 
+part of its Roman theatre after recapturing the city in January 2017.20
+
+In Mali, Islamist ANSAs aimed to enforce their interpretation of Sharia law in the 
+territories that were under their control in the north in 2012–13, which eventually led to 
+the infamous attacks against the world heritage town of Timbuktu.21 In June 2012, 
+Ansar Dine decided to destroy mausoleums of Sufi Muslim saints, which were used 
+
+16Patrick Cockburn, “The Destruction of the Idols: Syria’s Patrimony at Risk from Extremists,” 
+The Independent, 11 February 2014, http://www.independent.co.uk/news/science/archaeology/news/ 
+the-destruction-ofthe-idols-syrias-patrimony-at-risk-from-extremists-91222  75.html  (accessed 
+19 November 2017).
+17Graham Bowley, “Antiquities Lost, Casualties of War,” New York Times, 3 October 2014, http://
+www.nytimes.com/2014/10/05/arts/design/in-syria-and-iraq-trying-to-protect-a-heritage-at-risk.
+html (accessed 19 November 2017); see also Marina Lostal, “The Systematic Destruction of Cul-
+tural Heritage at the Hands of the Islamic State,” Global Policy Forum, 9 March 2015, https://www.
+globalpolicy.org/component/content/article/144-bibliographies/52745-the-systematic-destruc-
+tion-of-cultural-heritage-at-the-hands-of-the-islamic-state.html (accessed 19 November 2017).
+18“ISIS Fighters Destroy Ancient Artefacts at Mosul Museum,” The Guardian, 26 February 2015, https:// 
+www.theguardian.com/world/2015/feb/26/isis-fighters-destroy-ancient-artefacts-mosul-museum-iraq 
+(accessed 19 November 2017).
+19See, e.g., Kohn David, “ISIS’S Looting Campaign,” The New Yorker, 14 October 2014, http://www.
+newyorker.com/tech/elements/isis-looting-campaign-iraq-syria;  FSC  Majority  and  Minority 
+Staff, “Task Force to Investigate Terrorism Financing Hearing Titled “Preventing Cultural Geno-
+cide: Countering the Plunder and Sale of Priceless Cultural Antiquities by ISIS,” Memorandum,  
+15 April 2016, 7–8, http://financialservices.house.gov/uploadedfiles/041916_tf_supplemental_hearing_
+memo.pdf (accessed 19 November 2017).
+20See, e.g., “ISIS Destruction of Palmyra’s Temple of Bel Revealed in Satellite Images,” The Guardian, 
+1 September 2015, http://www.theguardian.com/world/2015/sep/01/satellite-images-reveal-isis-
+destruction-of-palmyras-temple-of-bel (accessed 19 November 2017); Kareem Shaheen, “Isis Destroys 
+Tetrapylon Monument in Palmyra,” The Guardian, 20 January 2017.
+21Human Rights Watch, “Collapse, Conflict and Atrocity in Mali: Human Rights Watch Reporting 
+on the 2012-2013 Armed Conflict and Its Aftermath,” 2014, 51, https://www.hrw.org/sites/default/
+files/related_material/mali0514_ForUpload.pdf (accessed 19 November 2017).
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+ARMED NON-STATE ACTORS AND CULTURAL HERITAGE IN ARMED CONFLICT 
+
+413
+
+by the local population for prayers and as places of pilgrimage.22 This decision was 
+taken in consultation with members of Al-Qaeda in the Islamic Magreb (AQIM). 
+Ahmad Al Faqi Al Mahdi, who was at that time the head of the “Hesbah,” the 
+morality brigade established by Ansar Dine, had confirmed that, under Islamic 
+law, there should not be any construction over a tomb.23 He agreed to conduct 
+the attacks, which were carried out between 30 June 2012 and 11 July 2012 against 
+10 of the most important religious and historic sites in Timbuktu.24 A spokesperson 
+of Ansar Dine allegedly declared that “[t]here is no world heritage. It does not exist. 
+Infidels must not get involved in our business.”25
+
+The ANSAs abiding by this destructive policy have regularly targeted world heri-
+tage sites, which are regulated by the World Heritage Convention and include mon-
+uments, sites, and groups of buildings of outstanding universal value—that is, of 
+cultural “significance which is so exceptional as to transcend national boundaries and 
+to be of common importance for present and future generations of all humanity.”26 
+Conscious of their importance, these ANSAs try to send a message of defiance to 
+the rest of the world by attacking such recognizable sites. By the same token, the 
+fact that a monument has been listed as a world heritage site seems to have also 
+been taken into account by the Office of the Prosecutor of the ICC in selecting and 
+pursuing the case against Al Mahdi.27 The Office of the Prosecutor largely relied on 
+the world heritage status of the city of Timbuktu when arguing that the event met 
+the gravity threshold required by the ICC Statute.28 In its discussion on aggravating 
+circumstances, the Trial Chamber took into account that all sites destroyed but one 
+(the Sheikh Mohamed Mahmoud Al Arawani Mausoleum) “were UNESCO World 
+Heritage Sites and, as such, their attack appears to be of particular gravity as their 
+destruction does not only affect the direct victims of the crimes, namely the faithful 
+and inhabitants of Timbuktu, but also people throughout Mali and the international  
+
+22Prosecutor v. Al Mahdi, para. 34.
+23Prosecutor v. Al Mahdi, para. 36. Also, according to Al Mahdi, the way that the faithful prayed was 
+judged to be impious. See his interview in the UNESCO Courier, October–December 2017, https://
+en.unesco.org/courier/2017-october-december/ahmad-al-faqi-al-mahdi-i-plead-guilty  (accessed  
+19 November 2017).
+24Prosecutor v. Al Mahdi, paras. 37–38.
+25Cited in Irina Bokova, “Culture in the Cross Hairs,” New York Times, 2 December 2012, http://
+www.nytimes.com/2012/12/03/opinion/global/cultural-sites-must-be-protected.html  (accessed 
+19 November 2017).
+26World Heritage Committee, “Operational Guidelines for the Implementation of the World Heritage 
+Convention,” UNESCO Doc. WHC 16/01, 26 October 2016, para. 49. Convention Concerning the 
+Protection of the World Heritage and Natural Heritage, 16 November 1972, 1037 UNTS 151.
+27Prosecutor v. Al Mahdi is the only case in the history of international criminal law that has revolved 
+solely around the destruction of cultural heritage. This could change the attention that states dedicate to 
+the issue since, until now, cultural heritage crimes have been seldom prosecuted at the national level.
+28See International Criminal Court, “Situation in Mali: Article 53(1) Report,” Office of the Prosecutor 
+report, 16 January 2013, paras. 154–60. Rome Statute on the International Criminal Court, 17 July 
+1998, 2187 UNTS 90.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+414 
+
+MARINA LOSTAL ET AL
+
+community.”29 More than 10 years before, in the trial against Pavle Strugar and 
+Miodrag Jokić at the International Criminal Tribunal for the former Yugoslavia, 
+which involved the shelling of the Old Town of Dubrovnik—also a world heritage 
+site—the Trial Chamber already stated that “the Old Town [of Dubrovnik] is also 
+legally distinct from the rest of the wider city because the Old Town … enjoys a 
+World Heritage listing and the protections and immunities that are consequent on 
+that listing.”30
+
+The common denominator to all of these ANSAs that have been directly involved in 
+the intentional destruction of cultural heritage is that they have sought to deny 
+existing beliefs and have imposed their own ideology and interpretation of religion. 
+In the words of Karima Bennoune, the UN special rapporteur in the field of cul-
+tural rights, “fundamentalists often seek to erase the culture of others and the syn-
+cretic nature of culture and religion and stamp out cultural diversity. Such efforts 
+represent the misuse of what is claimed to be culture against cultural rights.”31 
+The intentional destruction of cultural heritage may be related to a strategy of 
+“cultural cleansing,” a term that was used by UNESCO Director-General Irina 
+Bokova in relation to the situation in Iraq in 2014 to signify the tactic of erasing 
+the unwanted history of a territory and the identity of its people by destroying 
+its cultural heritage and, thus, any physical evidence of it. Cultural cleansing 
+aims to eradicate cultural diversity and replace it with a single, homogeneous 
+cultural and religious perspective.
+
+The Other Trend
+
+In contrast to the adoption of a clearly destructive policy, many ANSAs recognize 
+and appreciate the value of cultural heritage, thus having a more positive attitude 
+toward it. A number of ANSAs worldwide have bound themselves to respect cul-
+tural objects in their internal regulations and codes of conduct.32 For example, 
+when  it  was  a  rebel  group,  the  Sudan  People’s  Liberation  Movement/Army 
+(SPLM/A) stated, in its 1983 manifesto, that “cultural objects which include reli-
+gious monuments, buildings such as mosques and churches and various icons are 
+respected by the SPLM/A.”33 As another example, the Colombian Ejército de 
+
+29Prosecutor v. Al Mahdi, para. 80.
+30ICTY, Prosecutor v. Strugar, Case no. IT-01-42, Judgment, 31 January 2005, para. 279; see also 
+ICTY, Prosecutor v. Miodrag Jokić, Case no. IT-01-42/1, Judgment, 18 March 2004, §51; Hausler 
+2014, 380–81; for a discussion on the value of the Mostar Bridge, see ICTY, Prosecutor v. Jadranko 
+Prlić, Case no. IT-04-74, Judgment, 29 May 2013, 3
+31“Report of the Special Rapporteur in the Field of Cultural Rights,” UN Doc. A/HRC/34/56, 16 January 
+2017, para. 5.
+32For more examples, see Hausler 2014, 133–34; Geneva Call’s online directory of ANSA humanitarian 
+commitments, “Their Words,” http://theirwords.org/pages/home (accessed 19 November 2017).
+33Henckaerts and Doswald-Beck 2004, 778, citing “Report on SPLM/A Practice,” 1998, ch. 4.2.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+ARMED NON-STATE ACTORS AND CULTURAL HERITAGE IN ARMED CONFLICT 
+
+415
+
+Liberación Nacional (ELN) stated in its Code of War that religious sites or cultural 
+objects shall not be attacked.34 Also in Colombia, a guerrilla commander of the 
+Fuerzas Armadas Revolucionarias de Colombia-Ejército del Pueblo (FARC-EP) 
+dedicated himself to building a museum in the mountains of the department of 
+Cauca. The museum, called “La Cristalina,” was allegedly created to protect cultural 
+heritage from looters and, nowadays, houses more than 3,000 pieces.35
+
+Geneva Call’s study has nevertheless found that, while the interviewed ANSAs 
+are willing to respect and even protect cultural heritage, they lack any knowledge 
+whatsoever of the international legal standards for the protection of cultural heritage 
+and, in many cases, capacity building to ensure its protection to the maximum 
+extent feasible. According to Article 1 of the Hague Convention, cultural prop-
+erty refers to “movable or immovable property of great importance to the cultural 
+heritage of every people.” This may include monuments of architecture, art, or 
+history, whether religious or secular, archaeological sites, groups of buildings, and 
+works of art or manuscripts. The Convention also extends protection to buildings 
+whose main and effective purpose is to preserve or exhibit the movable cultural 
+property, such as museums, libraries, and centers containing monuments. When 
+Geneva Call enquired about the concept of cultural heritage, all of the ANSAs 
+interviewed demonstrated an instinctively broad and sound understanding of the 
+term. For example, the Partiya Karkerên Kurdistanê (PKK) responded that “culture 
+comprises all of the products of thought and action throughout human history. 
+Heritage is what is handed down to us and what we hand on to posterity.”36 The  
+answer from the representative in Europe of the Mouvement National de Libération 
+de l’Azawad (MNLA), a Malian Tuareg ANSA, went on to include intangible heritage. 
+He defined cultural heritage as “what remains: material constructions but also 
+morality, artisanship, and immaterial practices, such as proverbs, riddles, poesy, 
+prose, songs, and language itself.”37
+
+As evinced by the Hague Convention, the IHL framework protecting cultural 
+heritage in armed conflict has, to date, mostly focused on tangible cultural heritage,  
+including monuments, archaeological sites, works of arts, and so on.38 Nevertheless, 
+access to (or enjoyment of) all forms of cultural heritage, including its intangible 
+manifestations, is also protected through the human right to participate in cultural 
+
+34Ejército de Liberación Nacional (ELN), “El Codigo de Guerra,” 15 July 1995, http://theirwords.org/ 
+media/transfer/doc/ut_co_eln_1995_01_eng-07e5677b22c4cf06bdfc9f02eff206ef.pdf  (accessed 
+19 November 2017); see also ELN, “Accuerdo de Puerta de Cielo,” 15 July 1998, para. 14, which lists 
+cultural centers as protected objects under international humanitarian law.
+35See TeleSur, “Comandante de FARC crea museo arqueológico en medio de la guerra,” 16 February 
+2017, https://www.youtube.com/watch?v=b30sFC2k0XQ (accessed 30 March 2017).
+36Response from PKK to Geneva Call, January 2016.
+37Interview with Moussa Ag Assarid, MNLA representative in Europe, Paris, France, 11 December 2015.
+38The protection of tangible heritage in armed conflict also protects its intangible manifestations. 
+E.g., protecting Timbuktu’s mausoleums allows their worshipers to exercise their right to freedom 
+of religion.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+416 
+
+MARINA LOSTAL ET AL
+
+life which states party to the relevant treaties must realize (Article 15 of the Inter-
+national Covenant on Economic, Social and Cultural Rights and Article 27 of the 
+International Covenant on Civil and Political Rights).39 One must also take into 
+consideration the 2003 UNESCO Convention for the Safeguarding of the Intan-
+gible Cultural Heritage, which encompasses heritage such as traditions, language, 
+songs, instruments, and the like “that communities, groups and, in some cases, 
+individuals recognize as part of their cultural heritage.”40 This Convention seeks 
+the safeguarding and respect of such heritage as well as raising awareness of its 
+importance.41  Although  the  international  obligations  enshrined  in  this  Con-
+vention are directed at states, they can provide guidelines for those ANSAs that are 
+willing to implement international standards, particularly with regard to some of 
+the safeguarding measures contained therein, such as the need to adopt a general 
+policy aimed at promoting the function of intangible cultural heritage in society; 
+to designate or establish one or more competent bodies for the safeguarding of the 
+intangible cultural heritage present in its territory; or to establish documentation 
+institutions for the intangible cultural heritage and facilitating access to them.42 
+As the focus of this article is on the protection of tangible heritage, these instruments 
+will not be considered further. However, they are worth noting given that ANSAs 
+often refer to intangible cultural heritage when asked to define “cultural heritage.”
+In some specific instances, the interviewed ANSAs had doubts as to what qual-
+ified as cultural heritage. For example, the MNLA representative admitted that it 
+was unsure whether a fortress built by the French near Kidal qualified as cultural 
+heritage because it perceived this building as a symbol of colonialism. The most 
+concerning aspect that Geneva Call noted is that none of the interviewed ANSAs 
+knew about, had seen, or had heard about the blue shield emblem, which is pro-
+vided for in Article 16 of the Hague Convention and allows state parties to use it to 
+signal the presence of cultural property falling under its protection. Some ANSAs 
+recognized, and were even able to draw, the symbol used for world heritage sites, 
+but these were very few in comparison with the wide range of objects that constitute 
+cultural heritage and deserve protection under international law.
+
+The Hague Convention further enunciates four basic obligations applicable 
+to ANSAs: (1) the prohibition of the use of cultural property and its immediate 
+surroundings or of the appliances in use for its protection for purposes that are 
+likely to expose it to destruction or damage in the event of armed conflict (except  
+in cases of imperative military necessity); (2) the prohibition of acts of hostility  
+directed  against  cultural  property  (this  obligation  may  also  be  waived  where 
+
+39International Covenant on Economic, Social and Cultural Rights, 16 December 1966, 993 UNTS 3; 
+International Covenant on Civil and Political Rights, 16 December 1966, 999 UNTS 171.
+40Convention for the Safeguarding of Intangible Cultural Heritage, 17 October 2003, 2368 UNTS 3, 
+Art. 2 (Intangible Heritage Convention); 2003 Declaration Concerning the Intentional Destruction 
+of Cultural Heritage.
+41Intangible Heritage Convention, Art. 1.
+42Intangible Heritage Convention, Art. 13.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+ARMED NON-STATE ACTORS AND CULTURAL HERITAGE IN ARMED CONFLICT 
+
+417
+
+required by imperative military necessity); (3) the obligation “to prohibit, prevent 
+and, if necessary, put a stop to any form of theft, pillage or misappropriation of, and 
+any acts of vandalism directed against cultural property”;43 and (4) the absolute 
+prohibition of acts of reprisal directed against cultural property. At the time the 
+interviews were conducted, none of the ANSAs had any specific knowledge of these 
+rules or had received any training pertaining to them. As put by a commander of a 
+Free Syrian Army (FSA) brigade: “We know the rules in general but not in detail. 
+We are aware there is an international law but no idea about how it applies in 
+details. However, these sites are part of the Syrian identity—everyone is eager to 
+protect them.”44
+
+Despite their general lack of technical knowledge, some ANSAs have adopted 
+measures, on a policy and/or practical level, to safeguard and respect cultural her-
+itage in conformity with the obligation to prohibit, prevent, and put a stop to any 
+form of theft, pillage, misappropriation, or vandalism. For example, in the Kurdish-
+populated areas of Syria, which are controlled by the People’s Protection Units (YPG)/
+Women’s Protection Units (YPJ), the de facto autonomous administration of 
+Rojava has established an Antiquities Authority and, in 2015, passed an act on the 
+protection of cultural heritage that prohibits destruction and damage of antiquities 
+and archaeological sites and provides for sanctions in case of non-compliance.45 
+There have been many cultural sites under YPG/YPJ control where looting has 
+increased dramatically since the outbreak of the war.46 The Asayish, the police 
+force  of  the  Rojava  administration,  has  a  special  unit  that  deals  with  organized 
+crime, including illicit trafficking and excavations, and it claims to have arrested 
+122 persons and confiscated many cultural objects (such as ancient statues, tablets, 
+or coins, some dating back to 3,000 bc) (Figure 1).47 It has also deployed mobile 
+patrols to inspect the main archaeological sites. Similarly, the YPG/YPJ have report-
+edly issued a command order to respect cultural property, though in some cases 
+they have established military positions in the vicinity of cultural sites.48
+
+FSA brigade commanders interviewed in the context of Geneva Call’s study claimed 
+to have taken measures to protect archaeological sites from plunder and theft, 
+
+43It is unclear whether the obligation to stop “any form of theft, pillage” and so on extends only to the 
+members of one’s armed forces or if it encompasses the civilian population as well. See, e.g., Gerstenblith 
+2009, 693; O’Keefe, 2006, 131.
+44Interview with Free Syrian Army (FSA) brigade commanders, Geneva, Switzerland, 18 December 2015.
+45Copy on file with Geneva Call.
+46According to Saad Ismail, the local archaeologist working with the Asayish police, thousands of 
+items have been looted. See “Saad Ismail Message in Marburg Conference,” https://www.youtube.
+com/watch?v=nZR-NN5dZ4Y&feature=youtu.be (accessed 3 September 2017).
+47Interview  with  Luqman  Ahme,  director  of  the  Antiquities  Authority,  Rojava  administration, 
+Qamishli, Syria, 7 November 2015; Interview with Mihemmad Omar, Asayish commander, Qamishli, 
+Syria, 8 November 2015. Geneva Call was allowed to see the artifacts guarded by the Asayish in a 
+special storage. Interview with Saad Ismail, Qamishli, Syria, 31 July 2017.
+48Interview with Redur Xelil, People’s Protection Units commander and spokesperson, and Nasrin 
+Abdallah, Women’s Protection Units commander and spokesperson, Amuda, Syria, 7 November 2015.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+418 
+
+MARINA LOSTAL ET AL
+
+Figure 1.  Cultural artifacts guarded by the Asayish, the police force of the Rojava 
+administration, in a special storage in Syria. Photograph courtesy of Geneva Call.
+
+deploying guards to watch over sites in the areas under their control and to have 
+arrested a gang involved in the theft of manuscripts in Aleppo.49 Geneva Call con-
+ducted two pilot trainings on the protection of cultural heritage with FSA commanders 
+in December 2015 and June 2017 in Geneva. Following the first one, one brigade 
+reportedly increased the protection of the Umayyad Mosque of Aleppo, especially of its 
+sundial, also protecting the Zachariah’s mausoleum with sandbags and bricks.50 After 
+learning that they could not use archaeological sites as military bases during their first 
+pilot training, some FSA commanders, upon their return, began to raise awareness 
+among the civilian population of the need to preserve Syrian heritage and gave advice 
+on this subject to its chief of staff and his advisers.51 In northern Iraq, the various 
+militias active in Mount Sinjar have posted guards to protect Yazidi temples from 
+attacks from the Islamic State group.52 Several fighters of the Sinjar Resistance Units 
+were reportedly killed in 2015 while defending the shrine of Sheikh Hassan in Gabara.53
+
+49Interview with FSA brigade commanders, 18 December 2015.
+50See also Diana Darke, “Saving Syria’s Cultural Heritage: How to Help,” 14 July 2014, https://
+dianadarke.com/tag/zachariahs-tomb/ (accessed 3 September 2017).
+51Interview with FSA brigade commanders, Geneva, Switzerland, 29 June 2017.
+52Geneva Call’s trip to Mount Sinjar, Iraq, 9–10 February 2017.
+53Interview  with  Zeki  Shengal,  Khanasor,  Sinjar,  Iraq,  9  February  2017.  See  also  Sam  Hardy, 
+“Islamic State Destroyed Yezidi Shrine, Gabara, Sinjar, Iraq, 12th July 2015,” Conflict Antiquities blog, 
+https://conflictantiquities.wordpress.com/2015/07/14/iraq-sinjar-gabara-yezidi-shrine-islamic-
+state-destruction/ (accessed 19 November 2017).
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+ARMED NON-STATE ACTORS AND CULTURAL HERITAGE IN ARMED CONFLICT 
+
+419
+
+In Mali, the MNLA established a department in charge of culture, handcraft, and 
+tourism, led by Ambéïry Ag Rhissa, which reportedly worked to raise awareness on 
+the importance of protecting cultural heritage, including among MNLA fighters.54 
+The group was also involved in the protection of the Tomb of Askia in Gao in 2012, 
+when it was in control of the town.55 In February 2013, during clashes with Islamist 
+groups near Tessalit, the MNLA captured three boxes containing more than 1,000 
+ancient manuscripts. In a letter dated 22 March 2013, Ag Rhissa informed UNESCO 
+about the seizure, providing a comprehensive list of the manuscripts and requesting 
+support to return them to their owner (assumed to be the Ahmed Baba Institute of 
+Higher Learning and Islamic Research in Timbuktu).56 According to Ag Rhissa, the 
+manuscripts were ultimately recovered and destroyed by Islamist groups.57
+
+This episode highlights one of the major deficiencies of the Hague Convention 
+in non-international armed conflicts: the structural deficit that plays against the 
+technical assistance of ANSAs. According to Article 19(3), UNESCO may offer its 
+services to all parties in a non-international armed conflict, including ANSAs. 
+Yet, while the state parties may directly call upon UNESCO “for technical assistance 
+in organizing the protection of their cultural property, or in connexion with any 
+other problem arising out of the application of the … Convention,” the Hague 
+Convention does not envisage the same possibility for ANSAs.58 The available 
+means of communication between UNESCO and ANSAs is thus unidirectional, 
+which is a problem in situations where ANSAs are in need of specialized advice or 
+have requested assistance with regard to the protection of cultural property, which 
+may be situated in the territory they control, as was the case with the ancient man-
+uscripts in Mali. Similarly, the Rojava Antiquities Authority has reportedly tried to 
+obtain technical support and equipment for conserving cultural and archeological 
+sites, but their requests have remained unsuccessful to date.
+
+In addition, lists of protected heritage or maps indicating their location are 
+usually in the hands of the state’s central administration. This is the case in Syria 
+where, at least during the first years of the conflict, the inventories of movable and 
+immovable cultural property were housed in archives controlled by the Ministry of 
+Culture.59 While all parties to the conflict must respect cultural property, knowing 
+its location is a prerequisite for this to happen. However, the Hague Convention 
+
+54Interview with Moussa Ag Assarid, 11 December 2015; phone conversation with Ambéïry Ag 
+Rhissa, 5 January 2017.
+55Interview with Moussa Ag Assarid, 11 December 2015; phone conversation with Ambéïry Ag 
+Rhissa, 5 January 2017.
+56Letter on file with Geneva Call. UNESCO confirmed it had received the letter. Interview with 
+UNESCO, Paris, France, 6 November 2017.
+57Phone conversation with Ambéïry Ag Rhissa, 24 March 2017.
+58Hague Convention, Art. 23.
+59Syrian Directorate General of Museums and Antiquities, “Periodic Report on Implementation of 
+the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict 
+and Its Two (1954-1999) Protocols for the Period 2005–2010,” 2010, 5.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+420 
+
+MARINA LOSTAL ET AL
+
+does not envisage the exchange of relevant information between warring parties. 
+ANSAs are thus at a disadvantage when it comes to specialized capacity and access 
+to readily available information and risk-preparedness protocols, which the state 
+armed forces may have put in place. Although Article 19(2) encourages all parties 
+to a conflict “to bring into force, by means of special agreements, all or part of 
+the other provisions of the present Convention,” to date there is no record of an 
+agreement of this sort ever being made.60
+
+The Second Protocol was drafted to update and improve the Hague Convention, 
+and, while it did so in many respects, it maintains the structural deficit described 
+above.61 According to Article 8(a) of the Second Protocol, ANSAs have a positive duty 
+to remove, as far as possible, cultural property from the vicinity of military objectives 
+in order to avoid its incidental damage. If this is not possible, ANSAs are requested to 
+take in situ measures of protection to the maximum of their capacity. Nevertheless, the 
+maximum extent feasible to which an ANSA may implement these precautions against 
+the effect of hostilities may be compromised because only the state parties may call 
+upon UNESCO for technical assistance. By contrast, it has been demonstrated that pro-
+viding capacity building can yield very positive results. For example, the Smithsonian  
+and other organizations trained heritage professionals in the use of sandbags and other 
+in situ measures to safeguard ancient mosaics of the Ma’arra Museum in the Idlib Prov-
+ince, an area under the control of a Syrian ANSA. When the museum was bombarded 
+by government forces in 2015 and 2016, most of the mosaics were left intact.62
+
+The attitude of ANSAs toward cultural heritage is more ambivalent when it 
+comes to its use for military purposes, which could be a consequence of their lack 
+of knowledge of legal standards. For example, the MNLA representative in Europe 
+interviewed by Geneva Call suggested that the MNLA had used the French colonial 
+fortress mentioned above because its location on the top of a hill amounted to a 
+privileged military position and because it was unsure that the fortress constituted 
+cultural heritage for the purposes of international law. He also admitted that the 
+MNLA would attack cultural sites if there was no military alternative or if it was 
+ignorant of its protected status.63
+
+During a Geneva Call meeting with FSA commanders, a commander, speaking 
+for his own brigade in response to the question: “have your brigades used cultural 
+sites in its military operations?” replied: “No, for example we have freed the Temple 
+in the Harem District (within the Idlib Governorate), and now we protect and 
+guard it. We have never occupied a historical site.”64 However, with respect to the 
+targeting of cultural sites used by the enemy, the response was more ambiguous:
+
+60This must be read together with Art. 24(2) of the Hague Convention, according to which “[n]o 
+special agreement may be concluded which would diminish the protection afforded by the present 
+Convention to cultural property and to the personnel engaged in its protection.”
+61Second Protocol, Arts. 1(a), 33.
+62US GAO, “Report to Congressional Requesters,” 27–28.
+63Interview with Moussa Ag Assarid, 11 December 2015.
+64Interview with FSA brigade commanders, 18 December 2015.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+ARMED NON-STATE ACTORS AND CULTURAL HERITAGE IN ARMED CONFLICT 
+
+421
+
+As far as Aleppo is concerned, it is a sensitive situation as the whole city 
+is a historical site where we are face-to-face with the regime to protect it. 
+Because of its importance, we have refrained from attacking it. … The 
+Citadel of Aleppo [a world heritage site] has been used as a shelter for the 
+soldiers of the regime. The FSA has attacked the site in order to establish 
+authority on it. If we go inside this area, the regime might then bombard 
+the whole area. As we recognise this risk, we avoid going into the Citadel 
+so that the regime does not use this as an excuse to destroy and kill us all.65
+
+At Geneva Call’s 2017 meeting, a FSA brigade commander recounted that, toward 
+the end of 2012, the government armed forces had placed snipers in a castle in 
+Harem (Idlib) that was situated on the top of a hill. The commander affirmed that 
+they had no alternative than to attack it but that they did so giving advance warning 
+and without using heavy artillery.66
+
+Granted,  these  statements  must  be  placed  in  contrast  with  independent 
+reports.67 As mentioned earlier, “[t]he continuing armed conflict in Syria between 
+the national armed forces and the Free Syrian Army (FSA) and the al-Nusra Front has 
+also led to significant damage to, or destruction of, cultural heritage.”68 For example, 
+in 2013, insurgents were reported to have established their headquarters near 
+Aleppo’s  Old  Souk,  turning  its  old  town  into  a  battleground.69  In  2014,  the 
+Umayyad Mosque in Aleppo was reportedly used by rebel snipers, which led to 
+its shelling and eventual collapse.70 However, caution must be applied in quali-
+fying such use or attack as a violation of IHL because, in some circumstances, the 
+use of cultural sites for military purposes may be justified by imperative military 
+necessity, which could have been the case with Aleppo’s Old Souk or its Umayyad 
+Mosque and Idlib Harem castle.
+
+THE RESPONSE OF SPECIALIZED ORGANIZATIONS
+
+It  appears  from  interviews  with  specialized  organizations  that  only  a  very  few 
+deal with ANSAs in order to strengthen the protection of cultural heritage in 
+armed conflict. One example is the Smithsonian Institution’s Cultural Rescue 
+Initiative, which has negotiated directly with ANSAs for access to heritage sites 
+
+65Interview with FSA brigade commanders, 18 December 2015.
+66Interview with FSA brigade commanders, 29 June 2017.
+67See, e.g., Michael D. Danti, “The Finance of Global Terrorism Through Cultural Property Crime in 
+Syria and Northern Iraq,” written statement submitted for testimony before the House Committee 
+on Foreign Affairs—Subcommittee on Terrorism, Nonproliferation and Trade, 17 November 2015, 1.
+68For more examples, see Hausler 2015, 133–34.
+69Anne Barnard and Hwaida Saad Sept, “In Syria’s Largest City, Fire Ravages Ancient Market,” New 
+York Times, 29 September 2012, http://www.nytimes.com/2012/09/30/world/middleeast/fire-sweeps-
+through-ancient-souk-of-aleppo-citys-soul.html?_r=1&pagewanted=all (accessed 19 November 2017).
+70“Heritage Sites Ravaged by Syria’s War,” Al Jazeera, 24 December 2014, http://www.aljazeera.com/
+news/middleeast/2014/12/syria-war-heritage-sites-201412232326597765.html (accessed 19 November 
+2017).
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+422 
+
+MARINA LOSTAL ET AL
+
+in opposition-controlled areas through its Safeguarding the Heritage of Syria 
+and Iraq Project.71 The Smithsonian, along with the US Committee of the Blue 
+Shield, has also created a pocket training manual known as the Guide to Mosul 
+Heritage,  which  has  been  distributed  to  the  Kurdish  Peshmerga,  among  other 
+armed forces, before the recapture of the city.72 However, the survey conducted 
+among specialized organizations identified a paradoxical situation. On the one 
+hand, well-established institutions whose mandate encompasses the protection 
+of cultural heritage appear not to engage with ANSAs on this issue at present 
+because of the restrictions within their mandate or political limitations. On the 
+other hand, a number of newly-established organizations, some of them created 
+as an ad hoc response to protect cultural heritage in current armed conflicts 
+(in particular in Iraq and Syria), lack funding or other resources to carry out 
+this mission.
+
+Representing  the  first  category,  UNESCO  has  been  caught  in  a  dilemma. 
+According  to  Article  I(3)  of  its  Constitution,  UNESCO  “is  prohibited  from  
+intervening in matters which are essentially within the Member States’ domestic 
+jurisdiction.” Establishing contact with ANSAs may be regarded as a breach of 
+this obligation insofar as it may be considered recognition of their authority and 
+legitimacy. By contrast, Article 19(3) of the Hague Convention grants UNESCO 
+the  possibility  to  “offer  its  services  to  the  parties  to  the  conflict”  (meaning 
+both state and non-state parties) in non-international armed conflicts. More-
+over, Article 19(4) of the Convention expressly states that establishing contact  
+with the parties “shall not affect the[ir] legal status.” No reservation was made 
+by  any  state  party  regarding  any  of  these  provisions.  Therefore,  it  may  be 
+argued that
+
+establishing contact, in the framework of the 1954 Hague Convention, 
+with a non-State actor during an armed conflict not of an international 
+character involving one or several High Contracting Party(ies) [to the 
+Convention] or taking place within the territory of one or several High 
+Contracting Party(ies) cannot be considered as a violation of the principle 
+of non-intervention in internal affairs.73
+
+Furthermore, Member States together with the Secretariat developed a Standard Plan 
+of Action to Protect Cultural Property in the Event of Armed Conflict that explicitly 
+states that one of the Secretariat’s possible actions is to “[e]stablish contacts with the 
+warring parties (including States and ANSAs as applicable) and send letters to them 
+signed by the Director-General regarding the protection of cultural property in the 
+
+71Response from the Smithsonian Cultural Rescue Initiative, 27 September 2016; interview with 
+Abdullah Khorsheed Qader, director of the Iraqi Institute for the Conservation of Antiquities and 
+Heritage, Erbil, Iraq, 12 February 2017.
+72Response from the Smithsonian Cultural Rescue Initiative, 27 September 2016; interview with 
+Abdullah Khorsheed Qader, 12 February 2017.
+73Interview with UNESCO, Paris, France, 15 November 2016.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+ARMED NON-STATE ACTORS AND CULTURAL HERITAGE IN ARMED CONFLICT 
+
+423
+
+event of armed conflict.”74 While this document has not been formally adopted by 
+the state parties to the Convention, they have taken note of it. In practice, however, 
+the situation is more complex since UNESCO has recently admitted that the “nature 
+of contemporary conflicts … presents a challenge, as they often involve non-State 
+actors, with whom intergovernmental organizations cannot establish relations.”75
+In the past, there have been two instances where UNESCO has decided to engage, 
+out of its own initiative, with ANSAs for the benefit of cultural and natural heritage, 
+respectively. In response to threats by the Taliban to destroy the Bâmiyan Buddhas 
+in Afghanistan in 2001, the then director-general of UNESCO, Koïchiro Matsuura, 
+made direct contact with Mullah Mohamed Omar, the leader of the Taliban, and 
+subsequently appointed Ambassador Pierre Lafrance as special envoy to meet with 
+Mullah Omar and dissuade him from destroying the site.76 Likewise, in the context 
+of the escalation of the conflict in the Democratic Republic of the Congo and the 
+ensuing threat to the country’s five world heritage properties, the director of the World 
+Heritage Centre undertook a mission there from 24 November to 3 December 2001, 
+on the occasion of which he met with a number of stakeholders and “senior decision-
+makers, including leaders of the rebel administration in Goma, Beni and Bunia.”77 In 
+addition, in 2004, the World Heritage Committee “[r]equest[ed] the Director General 
+of UNESCO to use UN and other appropriate diplomatic channels to influence high 
+level SPLA [Sudan People’s Liberation Army] officials, urging them to put a halt to 
+the poaching by their fighters as well as an immediate retreat of SPLA troops from the 
+vicinity of the Garamba National Park.”78 The following year, it “invite[d] the Direc-
+tor-General of UNESCO to use his good offices to sensitize all the parties concerned 
+about the real risk to the outstanding universal value of Garamba National Park and to 
+engage such parties in a dialogue leading to avoid the loss of such value.”79 However, 
+this sort of initiative does not represent standard procedure at UNESCO.
+
+UNESCO is currently considering the possibility of establishing “safe havens” 
+and “cultural protected zones” in conflict areas by means of Article 19(2) of the 
+
+74UNESCO, “Standard Plan of Action to Protect Cultural Property in the Event of Armed Conflict,” 
+Doc. CLT-11-CONF-209-INF12011, 12 December 2011, Annex. The plan was slightly revised in 
+2013 to reflect the experience of the armed conflicts in Syria and Mali. See UNESCO, “Standard 
+Plan of Action to Protect Cultural Property in the Event of Armed Conflict,” Doc. CLT-13/10HCP/
+CONF.201/INF.3, 21 November 2013.
+75Prosecutor v. Al Mahdi, UNESCO Amicus Curiae Observations, 2 December 2016, para. 7.
+76Ambassador Lafrance unfortunately did not succeed, and the Taliban destroyed the Buddhas in 
+March 2001. “UNESCO World Heritage Committee Item 4b of the Provisional Agenda: Acts Constituting 
+‘crimes against the Common Heritage of Humanity,” Doc. WHC-01/CONF.208/23, 22 November 2001, 
+http://whc.unesco.org/archive/2001/whc-01-conf208-23e.pdf (accessed 19 November 2017).
+77UNESCO World Heritage Committee, “World Heritage Sites of the Democratic Republic of the 
+Congo (DRC),” Decision no. CONF 208 VIII.12-28, 3 December 2001.
+78UNESCO World Heritage Committee, “World Heritage Properties of the Democratic Republic 
+of the Congo (DRC),” Decision 28 COM 15A.3, 29 October 2004.
+79UNESCO World Heritage Committee, “World Heritage Properties of the Democratic Republic of 
+the Congo (DRC),” Decision 29 COM 7A.4, 9 September 2005.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+424 
+
+MARINA LOSTAL ET AL
+
+Hague Convention, which encourages the parties to the conflict to endeavor to 
+bring into force, by means of special agreements, the other provisions of the Conven-
+tion, including those concerning transport of cultural property (Articles 12 and 18). 
+In addition, it acknowledges that, considering the current situation witnessed glob-
+ally, with ANSAs being increasingly involved in major conflicts, solutions need to be 
+identified, such as encouraging the ratification of the Hague Convention and the 
+Second Protocol and developing “cooperation with entities such as Geneva Call, 
+which  works  in  promoting  principles  inspired  from  international  humanitarian 
+law along armed non-State actors.”80
+
+At the other end of the spectrum, Heritage for Peace represents the experience of  
+newly-established organizations. Heritage for Peace is a NGO established in 2013 as a 
+response to the conflict in Syria. Its main mission is to “support the Syrian heritage 
+sector to safeguard their patrimony in any way they can.”81 Its activities include  
+providing training and capacity building to interested stakeholders in the effort  
+to  protect  cultural  heritage.  This  includes  educating  belligerent  forces  on  their  
+obligations to protect Syrian cultural heritage under international law. The NGO  
+has conducted “train-the-trainer” courses in Turkey for members of the Syrian  
+opposition—in particular, the so-called Interim Syrian Ministry of Culture (IMoC)—
+in 2014 and 2015. Through Heritage for Peace, the IMoC and the Syrian Direc-
+torate General of Antiquities and Museums attended a conference in Santander, 
+Spain,  in  April  2014 that led to the Santander Declaration on the Protection of 
+Syria’s Heritage.82 Although the overall result of these trainings has been positive, the 
+organization has faced certain difficulties such as funding, staffing-related issues, 
+inability to establish a comprehensive needs assessment, logistical challenges, and 
+so on.83 Specialized organizations concerned with the protection of cultural heritage 
+are thus not engaging with ANSAs on a systematic basis, while such cooperation 
+could make a difference in practice to the level of protection afforded to cultural 
+property in current armed conflicts.
+
+KEY FINDINGS
+
+  1.   Although ANSAs could be seen as being reluctant to accept the legitimacy of 
+international rules protecting cultural heritage since they lack the legal capacity to 
+negotiate international treaties or to become parties thereto, none of the ANSAs 
+interviewed as part of the study expressed disagreement with these rules.
+
+80Prosecutor v. Al Mahdi, UNESCO Amicus Curiae Observations, para. 7.
+81See “Who We Are,” Heritage for Peace, http://www.heritageforpeace.org/about-us/who-we-are/ 
+(accessed 9 August 2017).
+82Santander  Declaration  on  the  Protection  of  Syria’s  Heritage,  25  April  2014,  http://www. 
+heritageforpeace.org/wp-content/uploads/2014/05/Santander-Statement-and-Outcomes.pdf 
+(accessed 19 November 2017).
+83Response from Heritage for Peace, 7 December 2015.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+ARMED NON-STATE ACTORS AND CULTURAL HERITAGE IN ARMED CONFLICT 
+
+425
+
+  2.   All of the interviewed ANSAs have an instinctively holistic understanding of 
+the notion of “cultural heritage,” encompassing both a tangible and intan-
+gible dimension, but they are unaware of its definition under international 
+law as well as the existence of the blue shield emblem.
+
+  3.   All of the interviewed ANSAs admitted to a lack knowledge of the specificities 
+of  the  various  international  legal  rules  protecting  cultural  heritage  in  armed 
+conflict, having at best a basic awareness of the general rules of IHL, such as the 
+principle of distinction, which merely demands not targeting civilian property.
+  4.   All of the interviewed ANSAs expressed interest in obtaining training on the 
+international  legal  framework  protecting  cultural  heritage.  The  two  pilot 
+trainings conducted by Geneva Call with FSA brigade commanders further 
+supported the idea that training would be of benefit to such groups given the 
+number of practical and relevant questions posed by brigade commanders 
+and the subsequent measures undertaken following the first training.
+
+  5.   Many of the interviewed ANSAs have taken measures to safeguard and respect 
+cultural heritage, including world heritage sites. However, their attitude remains 
+ambivalent in some respects. For example, one group suggested having used a 
+historical fort, which is part of cultural heritage, in a situation that did not 
+appear to fall within the military necessity requirement as provided for in 
+international law. Of course, this may be due to a lack of awareness of the 
+international rules for the protection of cultural heritage.
+
+  6.   Although  they  have  some  level  of  internal  capacity,  many  ANSAs  have 
+expressed an interest to cooperate with specialized organizations and receive 
+technical assistance for protecting cultural and archaeological sites.
+
+  7.   The situation with specialized organizations remains a paradox: newly estab-
+lished organizations, such as Heritage for Peace, would be open to engage 
+further with ANSAs but face structural capacity challenges, whereas well-
+established institutions that would have the resources to engage with ANSAs, 
+such as UNESCO, face their own limitations.
+
+  8.   ANSAs do not necessarily know about the existence of newly established 
+NGOs concerned with the protection of cultural heritage and, instead, may 
+try to approach UNESCO when they need advice or technical assistance. 
+Some ANSAs have mentioned having tried getting in touch with special-
+ized institutions, but their requests have remained unanswered. As a result, 
+ANSAs do not know who to contact (successfully) to support their attempts 
+at safeguarding cultural heritage.
+
+CONCLUSION AND WAYS FORWARD
+
+Most armed conflicts nowadays are non-international in character. ANSAs involved in 
+such conflicts are active in (and sometimes even in control of) areas rich in cultural 
+heritage, including world heritage sites. Insofar as cultural heritage is of importance 
+for the whole of humanity, ensuring its preservation necessitates acknowledging 
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+426 
+
+MARINA LOSTAL ET AL
+
+the significant role that ANSAs play in this regard. This article has identified exam-
+ples of both negative and positive practices, where ANSAs have destroyed cultural 
+objects or, on the contrary, have taken measures to protect them. As demonstrated 
+through the interviews conducted so far, there are two main obstacles that prevent 
+ANSAs from protecting cultural heritage to the maximum extent feasible. First, 
+all of the ANSAs that Geneva Call interviewed on this issue were unfamiliar with 
+the international rules protecting cultural heritage in armed conflict, including the 
+blue shield emblem. There is no need to amend these rules, but, rather, it is imperative 
+to make them known and accessible to ANSAs.
+
+Second, while ANSAs need training and capacity building, they often operate 
+in isolation from organizations specialized in the protection of cultural heritage. 
+In light of this, Geneva Call recommends the following ways forward:
+ 
+  1.   Conduct sensitization and awareness-raising campaigns for both ANSAs 
+and  their  constituencies,  highlighting  the  significance  of  cultural  heri-
+tage, its need for protection, and its key role of post-conflict recovery and 
+reconciliation.
+
+  2.   Clarify the obligations that are applicable to ANSAs through existing author-
+ities, such as the supervisory bodies of the applicable conventions, the special 
+rapporteur  in  the  field  of  cultural  rights,  UNESCO,  and  other  relevant 
+organizations.
+
+  3.   Provide training to ANSAs on the international legal framework for cultural 
+heritage protection. Geneva Call has developed innovative dissemination tools 
+(such as videos and booklets as well as an application quiz) as part of its public 
+campaign “Fighter not Killer”84 and is currently developing a training module 
+on IHL rules related to cultural heritage specifically directed towards ANSAs.
+
+  4.   Provide training to ANSA relevant authorities and heritage professionals 
+operating in areas under their control on standards related to the preserva-
+tion  of  cultural  heritage,  such  as  how  to  build  an  inventory,  techniques  of 
+identification and protection from immediate dangers, standards of behavior 
+with regard to the safeguarding of cultural heritage, and so on. This should 
+be  accompanied  by  technical  assistance  and  capacity  building  so  that  such 
+individuals can effectively implement these measures to protect cultural and 
+archaeological sites and combat the illicit trafficking of cultural objects.
+
+  5.   Encourage ANSAs to commit to safeguard and respect cultural heritage through 
+the negotiation of special agreements (for example, on the establishment 
+of “cultural protected zones” around heritage sites located in conflict areas);85 
+
+84See “Fighter Not Killer,” http://fighternotkiller.org/ (accessed 19 November 2017).
+85There has been several attempts to create “cultural protected zones” with respect to the Syrian sites 
+of Bosra and Idlib. See “The Director-General of UNESCO Calls for All Syrians to Commit to 
+the Safeguarding of Cultural Heritage in Bosra and Idlib,” UNESCO News, http://en.unesco.org/
+news/director-general-unesco-calls-all-syrians-commit-safeguarding-cultural-heritage-bosra-and-
+idlib (accessed 19 November 2017).
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+ARMED NON-STATE ACTORS AND CULTURAL HERITAGE IN ARMED CONFLICT 
+
+427
+
+the adoption of other measures (such as unilateral declarations, codes of con-
+duct, command orders, bilateral agreements, and so on); and monitoring their 
+implementation.
+
+ 
+Even though the above ways forward are unlikely to influence those groups that 
+deliberately attack cultural heritage, it should not overshadow the considerable 
+room for improvement that exists with regard to ANSAs that do not follow the 
+same policy and that show interest for its protection. As this article tries to show, 
+some level of emergency heritage response is possible, even in times of war.
+
+BIBLIOGRAPHY
+
+Cunliffe, Emma, Nibal Muhesen, and Marina Lostal. 2016. “The Destruction of Cultural Property in 
+the Syrian Conflict: Legal Implications and Obligations.” International Journal of Cultural Property 
+23, no. 1: 1–31.
+
+Gerstenblith, Patty. 2009. “Protecting Cultural Heritage in Armed Conflict: Looking Back, Looking 
+Forward.” Cardozo Public Law, Policy and Ethics Journal 7: 677–708.
+
+Hausler, Kristin. 2014. “The Protection of Cultural Heritage in Armed Conflict.” In The War Report 
+2013, edited by Stuart Casey-Maslen, 361–87. Oxford: Oxford University Press.
+
+Hausler, Kristin. 2015. “Culture under Attack: The Destruction of Cultural Heritage by Non-State 
+Armed Groups.” Santander Art and Cultural Law Review 2: 117–46.
+
+Henckaerts, Jean-Marie. 2010. “The Protection of Cultural Property in Non-International Armed 
+Conflicts.” In An Insight into the 1999 Second Protocol to the Hague Convention of 1954 for the 
+Protection of Cultural Property in the Event of Armed Conflict, edited by Nout Woudenberg and 
+Liesbeth Lijnzaad, 81–93. Leiden: Martinus Nijhoff Publishers.
+
+Henckaerts, Jean-Marie, and Louise Doswald-Becks, 2004. Customary International Humanitarian 
+Law, vol. 2. Cambridge: Cambridge University Press.
+
+Howe, Zoe. 2012. “Can the 1954 Hague Convention Apply to Non-State Actors?: A Study of Iraq 
+and Libya.” Texas International Law Journal 47, no. 2: 403–25.
+
+Lostal, Marina. 2017. International Cultural Heritage Law in Armed Conflict: Case Studies of Syria, 
+Libya, Mali, the Invasion of Iraq, and the Buddhas of Bamiyan. New York: Cambridge University Press.
+
+O’Keefe, Roger. 2006. The Protection of Cultural Property in Armed Conflict. Cambridge: Cambridge 
+University Press.
+
+Sivakumaran, Sandesh. 2012. The Law of Non-International Armed Conflict. Oxford: Oxford University 
+Press.
+
+Downloaded from https://www.cambridge.org/core. University of Bristol Library, on 13 Mar 2019 at 22:37:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0940739117000200
+
+
