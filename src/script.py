@@ -19,12 +19,13 @@ import matplotlib.pyplot as plt
 
 from lib.convertpdf import pdfToString
 from lib.convertpdf import getPDFmetadata
+from lib.convertpdf import extractMetadataFromText
+from lib.convertpdf import removeMetadataFromText
 
 from lib.count import stringToWordCount
 
 from lib.tokenise import splitBySentence
-
-from lib.filter import removeSentencesWithoutPhrases
+from lib.tokenise import removeSentencesWithoutPhrases
 
 from lib.frequencies import tfidf
 
@@ -55,7 +56,8 @@ from lib.filesio import loadPhrases
 def convertingPDFs(areasOfLaw, documentDetails, scope):
     """
     Converts all PDFs in './data/pdf/${areasOfLaw}/' to plaintext and
-    stores in txt files in '/data/txt/'.
+    stores in txt files in '/data/txt/'. Then extracts metadata from
+    PDFs and stores relevant information in ${documentDetails}.
 
     Arguments:
     areasOfLaw       ([str])
@@ -82,14 +84,17 @@ def convertingPDFs(areasOfLaw, documentDetails, scope):
             destination = changeRootFolderAndExtRemoveArea(path, 'txt', 'txt')
             if destination not in alreadyConverted:
                 text = pdfToString(path)
-                date, title = getPDFmetadata(path)
                 stringToTXTfile(text, destination)
+                date, title = getPDFmetadata(path)
+                date, title, journal =                               \
+                    extractMetadataFromText(path, text, date, title)
+                text = removeMetadataFromText(text, journal)
                 if a == 'hr':
                     classLabel = 0
                 if a == 'ip':
                     classLabel = 1
 
-                details = {'title':title, 'pdfPath':path,                    \
+                details = {'title':title, 'journal': journal, 'pdfPath':path,\
                     'txtPath':destination, 'countPath':'',                   \
                     'frequencyPath':'', 'date':date, 'class':classLabel,     \
                     'test':0, 'hrProb':-1.0, 'ipProb':-1.0, 'userProb':-1.0, \
@@ -163,7 +168,13 @@ def frequencyWeighting(documentDetails):
 
 def userCreatorRatings(documentDetails):
     """
+    Gives each document a rule-based score for how much it favours the
+    user and how much it favours the creator.
 
+    Arguments:
+    documentDetails  ([{}])
+            -- a list of dictionaries with each dictionary giving the
+               attributes of a different document
     """
     creatorPhrases = loadPhrases('data/lists/Creator-keyPhrases.txt')
     userPhrases = loadPhrases('data/lists/User-keyPhrases.txt')
@@ -279,11 +290,11 @@ def main():
         documentDetails = []
     documentDetails = convertingPDFs(areasOfLaw, documentDetails, 'new')
     documentDetails = counting(documentDetails, 'new')
-    documentDetials = frequencyWeighting(documentDetails)
-    documentDetails = classifications(documentDetails)
-    documentDetails = userCreatorRatings(documentDetails)
+    # documentDetials = frequencyWeighting(documentDetails)
+    # documentDetails = classifications(documentDetails)
+    # documentDetails = userCreatorRatings(documentDetails)
     documentDetailsToCSVfile(documentDetails, path)
-    visualisations(documentDetails)
+    # visualisations(documentDetails)
 
 
 if __name__ == '__main__':

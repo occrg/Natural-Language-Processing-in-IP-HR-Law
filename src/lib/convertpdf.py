@@ -2,6 +2,7 @@
 Supplies functionality that converts a PDF to a string.
 """
 
+import re
 import os
 import datetime
 
@@ -55,8 +56,12 @@ def getPDFmetadata(path):
         title = doc.info[0]['Title']
         title = title.decode(encoding="utf-8", errors='ignore')
         title = title.replace(',', '')
+        if title == "No Job Name":
+            title = "-"
+        if '.' in title:
+            title = "-"
     else:
-        title = path
+        title = "-"
     return date, title
 
 def pdfToString(path, start=0, end=0):
@@ -107,4 +112,103 @@ def pdfToString(path, start=0, end=0):
     device.close()
     retstr.close()
 
+    return text
+
+def extractMetadataFromText(path, text, date, title):
+    """
+    Extracts metadata from the text itself when the metadata from the
+    PDF is innacurate.
+
+    Arguments:
+    path     (str)
+            -- the path of the PDF file that's information is to be
+               extracted. This is used to highlight which files have
+               not been categorised.
+    text     (str)
+            -- the text of the PDF file that's information is to be
+               extracted.
+    date     (datetime)
+            -- the date that the PDF file had in its metadata
+    title    (str)
+            -- the title that the PDF file had in its metadata
+
+    Returns:
+    date     (datetime)
+            -- if the argument ${date} appeared to be correct, then the
+               argument is returned as it is. If not, a year is
+               extracted from the text of the file and YEAR-01-01 is
+               returned
+    title    (str)
+            -- if the argument ${title} is not "-", then the
+               argument is returned as it is. If it is "-", a title is
+               extracted from the text of the file
+    journal  (str)
+            -- a journal is assigned to the document based on the
+               typical format of documents in each journal
+    """
+    journal = "-"
+    try:
+        if re.match(r'^International Journal of Heritage Studies', text):
+            journal = "International Journal of Heritage Studies"
+            titleSearch = re.search(r'To cite this article:[\w\W]+?\) (.+?),[\n ]*?International', text, flags=re.DOTALL)
+            title = titleSearch.group(1)
+            if date < datetime.datetime(2003, 1, 1).date():
+                dateSearch = re.search(r'To cite this article:[\w\W]*? \((\d{4})\)\s', text, flags=re.DOTALL)
+                dateString = dateSearch.group(1)
+                date = datetime.datetime(int(dateString), 1, 1).date()
+        elif re.search(r'International Cultural Property Society', text):
+            journal = "International Journal of Cultural Property"
+            if date < datetime.datetime(2005, 1, 1).date():
+                dateSearch = re.search(r'(\d{4}) International Cultural Property Society', text)
+                dateString = dateSearch.group(1)
+                date = datetime.datetime(int(dateString), 1, 1).date()
+        elif re.search(r'Downloaded from https://www.cambridge.org/core.[\w\W]+, subject to the Cambridge Core terms of', text) != None:
+            journal = "International Journal of Cultural Property"
+            date = "-"
+        elif re.search(r'JOURNAL OF WORLD INTELLECTUAL PROPERTY', text) != None:
+            journal = "Journal of World Intellectual Property"
+            date = "-"
+        elif re.search(r'The Journal of World Intellectual Property', text) != None:
+            journal = "Journal of World Intellectual Property"
+        elif re.search(r'Journal of Intellectual Property Law & Practice', text) != None:
+            journal = "Journal of Intellectual Property Law"
+            titleSearch = re.search(r'\n[\w\W]*?\d+\n\n(.+?\*)', text, flags=re.DOTALL)
+            title = titleSearch.group(1)
+    except AttributeError as error:
+        print('Path:', path)
+        print(error)
+
+
+    title = title.replace(',', '')
+    title = title.replace('\n ', ' ')
+    title = title.replace('\n', '')
+    return date, title, journal
+
+def removeMetadataFromText(text, journal):
+    """
+    Remvoes text from a document that is not part of the main body of
+    the text and that could give away what class the document is based
+    on the format of the document alone.
+
+    Arguments:
+    text     (str)
+            -- the text that is to have parts removed
+    journal  (str)
+            -- the journal that the text has come from. Used to
+               indicate what text should be removed
+
+    Returns:
+    text     (str)
+            -- the text with parts removed
+    """
+    if journal == "International Journal of Heritage Studies":
+        text = text
+    elif journal == "International Journal of Cultural Property":
+        text = text
+    elif journal == "Journal of World Intellectual Property":
+        text = text
+    elif journal == "Journal of Intellectual Property Law":
+        text = text
+    else:
+        text = text
     return text
