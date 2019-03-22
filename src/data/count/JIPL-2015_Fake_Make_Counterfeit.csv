@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,5
-intellectual,19
-property,21
-law,34
-practice,17
-vol,5
 fake,25
 til,5
 make,7
@@ -117,6 +111,7 @@ head,1
 international,21
 mark,16
 internet,4
+practice,12
 experience,2
 copyright,4
 anti-counterfeiting,22
@@ -131,6 +126,7 @@ matter,2
 stipelman,1
 intern,1
 former,1
+law,29
 ﬁrm,2
 every,7
 thing,1
@@ -429,6 +425,8 @@ main,2
 countermeasure,1
 combination,1
 protection,13
+intellectual,14
+property,16
 creates,1
 multiple,1
 layer,1

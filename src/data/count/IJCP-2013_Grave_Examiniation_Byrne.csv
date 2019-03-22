@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,16
-journal,15
-cultural,45
-property,56
 printed,1
 copyright,1
-society,2
 grave,20
 situation,2
 examination,7
@@ -20,7 +15,6 @@ irish,61
 giant,61
 thomas,3
 muinzer*,1
-abstract,1
 eighteenth-century,4
 celebrity,6
 requested,3
@@ -120,7 +114,7 @@ large,5
 height,4
 law,41
 queen,4
-university,35
+university,9
 belfast,8
 email,1
 grateful,1
@@ -146,16 +140,6 @@ peer,1
 reviewer,1
 editor,1
 suggestion,1
-downloaded,26
-bristol,27
-library,27
-mar,26
-subject,32
-cambridge,28
-core,26
-term,28
-use,28
-available,27
 complication,1
 resulted,1
 acromegaly,1
@@ -601,6 +585,7 @@ illuminated,1
 present,15
 argued,5
 british,12
+journal,8
 ought,12
 accordance,1
 position,9
@@ -839,6 +824,7 @@ acquire,1
 conventional,2
 protect,2
 easily,1
+society,1
 viewed,1
 aside,1
 heinous,1
@@ -1043,6 +1029,7 @@ conventionally,1
 owned,2
 chiefly,1
 classed,2
+property,48
 proprietary,1
 intruded,1
 classic,1
@@ -1128,6 +1115,7 @@ justification,2
 mummy,1
 unburied,2
 possessor,1
+subject,6
 better,1
 insistence,1
 locus,2
@@ -1314,6 +1302,7 @@ begin,1
 develop,1
 regardless,4
 extraction,2
+use,2
 valid,2
 analyze,2
 sample,1
@@ -1405,6 +1394,7 @@ date,1
 tenuous,1
 undermine,2
 extending,1
+cultural,37
 dimension,1
 development,10
 repatriation,23
@@ -1452,6 +1442,7 @@ firmly,1
 side,1
 border,3
 current,3
+term,2
 citizen,1
 identify,2
 unified,1
@@ -1497,6 +1488,7 @@ theory,1
 cover,2
 nonstatutory,1
 affect,1
+international,8
 standard,2
 lean,1
 retention,1
@@ -1887,7 +1879,6 @@ londonderry,3
 sheet,2
 ord,1
 nance,1
-bibliography,1
 volume,1
 placenames,1
 townlands,1
@@ -1987,6 +1978,7 @@ morphology,1
 sect,18
 transcription,1
 accessible,1
+library,1
 choose,1
 chaplain,1
 divine,1
@@ -2135,6 +2127,7 @@ no-property,1
 provincial,1
 ainsworth,1
 yearworth,1
+bristol,1
 trust,1
 civ,2
 tort,1
@@ -2258,6 +2251,7 @@ borrowed,1
 viscount,1
 dillon,1
 curtis,2
+available,1
 speaking,2
 mulvaney,2
 regained,2
@@ -2372,6 +2366,7 @@ harlow,1
 longman,1
 liverpool,1
 muireann,1
+cambridge,2
 facility,1
 crown,1
 ruth,1

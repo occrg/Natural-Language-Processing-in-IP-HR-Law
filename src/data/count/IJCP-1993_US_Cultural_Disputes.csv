@@ -7,7 +7,6 @@ property,99
 dispute,19
 judith,13
 church*,1
-introduction,1
 value,16
 illegally,12
 traded,1
@@ -141,17 +140,6 @@ smit,1
 columbia,1
 support,5
 encouragement,1
-downloaded,26
-university,27
-bristol,26
-library,26
-mar,26
-subject,31
-cambridge,26
-core,26
-term,35
-use,31
-available,26
 church,14
 discus,4
 enlargement,1
@@ -260,6 +248,7 @@ peabody,1
 archaeology,2
 ethnology,1
 harvard,1
+university,1
 documented,11
 photograph,1
 drawing,1
@@ -356,6 +345,7 @@ knowledge,6
 third,5
 provide,6
 definition,4
+term,9
 purpose,1
 used,4
 borrowed,1
@@ -517,6 +507,7 @@ historic,4
 protected,5
 privately,4
 alienated,1
+subject,5
 refusal,1
 determined,6
 amount,3
@@ -703,6 +694,7 @@ swetnam,8
 guard,1
 power,5
 regulate,1
+use,5
 disposition,4
 except,2
 police,1

@@ -1,16 +1,11 @@
 word/phrase,value,class
-journal,2
-intellectual,13
-property,14
-law,13
-practice,2
-vol,3
 exhaustion,25
 parallel,17
 importation,22
 copyright,43
 good,4
 turkish,18
+law,11
 burcak,2
 yildiz*,1
 accordance,2
@@ -22,6 +17,8 @@ turkey,24
 undertook,1
 align,1
 domestic,6
+intellectual,11
+property,12
 legislation,3
 european,5
 community,1
@@ -118,6 +115,7 @@ bakanligi,2
 ile,2
 barosu,3
 hukuk,2
+vol,1
 baskanligi,1
 kurultayi,2
 et,5
@@ -164,7 +162,6 @@ country,4
 enters,1
 remains,1
 outside,4
-introduction,1
 legal,1
 relating,4
 facilitated,1

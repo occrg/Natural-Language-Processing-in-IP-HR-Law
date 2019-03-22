@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,22
-journal,7
-cultural,39
-property,7
 printed,1
 copyright,1
-society,3
 illicit,61
 antiquity,275
 trade,90
@@ -15,10 +10,10 @@ network,105
 characterizing,2
 anticipating,14
 trafficking,78
+cultural,37
 heritage,8
 peter,15
 campbell*,1
-abstract,1
 composed,8
 diverse,5
 population,21
@@ -93,7 +88,7 @@ trafficked,4
 commodity,16
 narcotic,13
 estimate,8
-university,54
+university,13
 southampton,2
 avenue,1
 campus,1
@@ -167,16 +162,6 @@ elia,4
 gill,9
 simon,6
 name,4
-downloaded,41
-bristol,41
-library,41
-mar,41
-subject,42
-cambridge,44
-core,41
-term,46
-use,43
-available,51
 worth,6
 billion,2
 annually,1
@@ -552,6 +537,7 @@ placed,4
 due,12
 geography,1
 economics,2
+international,20
 legislation,6
 illustrating,1
 increase,6
@@ -660,6 +646,7 @@ american,10
 academy,1
 jonathan,1
 degree,2
+cambridge,3
 london,10
 christoph,1
 leon,1
@@ -758,6 +745,7 @@ looked,1
 determined,1
 feature,1
 lower,2
+subject,1
 monopoly,2
 long-term,4
 agreement,4
@@ -789,6 +777,7 @@ nino,1
 savoca,1
 light,1
 analysis,4
+term,5
 apparently,3
 familiar,3
 word,2
@@ -1137,6 +1126,7 @@ schøyen,1
 suppressed,1
 eventually,1
 cognizant,2
+available,10
 january,32
 council,2
 policy,2
@@ -1185,6 +1175,7 @@ aid,2
 georgi,1
 getov,1
 national,7
+property,5
 department,7
 collaborated,1
 ring,3
@@ -1777,6 +1768,7 @@ examining,3
 dependent,5
 church,2
 mosque,1
+use,2
 manual,1
 labor,1
 space,1
@@ -2011,6 +2003,7 @@ anticipate,1
 carried,1
 aimed,1
 continue,2
+society,2
 mobi,1
 relative,1
 representing,1
@@ -2335,7 +2328,6 @@ paying,3
 kunst,2
 terrorfinanzierung,2
 hijacker,3
-reference,1
 cindy,1
 ho,1
 quoted,1
@@ -2353,7 +2345,6 @@ whitlock,1
 pose,1
 washington,3
 sedra,3
-introduction,2
 andrea,1
 loebbecke,1
 battleaxe,1
@@ -2519,6 +2510,7 @@ stanford,1
 duncan,1
 memory,1
 mythology,1
+journal,6
 sociology,1
 attitude,1
 investigative,2

@@ -3,7 +3,6 @@ auction,39
 mauerbach,54
 treasure,26
 ignaz,12
-abstract,1
 describes,1
 history,4
 object,71
@@ -113,7 +112,7 @@ public,7
 private,3
 also,19
 allowed,1
-use,23
+use,3
 depot,7
 civilian,2
 prevented,3
@@ -122,17 +121,8 @@ ordered,1
 dr,12
 professor,1
 emeritus,1
-university,21
+university,1
 vienna,25
-downloaded,20
-bristol,20
-library,22
-mar,20
-subject,23
-cambridge,20
-core,20
-term,21
-available,21
 gauleiter,1
 pursuant,4
 march,4
@@ -445,6 +435,7 @@ fulfill,1
 passage,1
 tracing,5
 stolen,3
+subject,3
 diminishing,1
 pressure,2
 four,2
@@ -526,6 +517,7 @@ gradually,1
 opened,1
 new,3
 evidence,4
+available,1
 nonetheless,3
 administration,1
 dislike,1
@@ -702,6 +694,7 @@ granted,1
 example,5
 makarts,2
 decoration,1
+library,2
 instruction,1
 stay,1
 intact,1
@@ -767,6 +760,7 @@ exemption,1
 liability,1
 third,1
 deficiency,1
+term,1
 unencumbered,1
 depends,1
 conflict,1

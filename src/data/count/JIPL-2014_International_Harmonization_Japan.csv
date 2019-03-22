@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,9
-intellectual,33
-property,33
-law,16
-practice,12
-vol,8
 international,26
 harmonization,28
 grace,23
@@ -21,10 +15,13 @@ patent,147
 system,54
 started,4
 world,3
+intellectual,25
+property,25
 organization,4
 although,11
 harmonizing,1
 substantive,3
+law,8
 stagnant,1
 recent,2
 year,11
@@ -378,6 +375,7 @@ venlo,1
 yeosu,1
 milano,1
 ofﬁcial,1
+journal,1
 comparison,1
 inventorapplicant,1
 intention,4
@@ -396,6 +394,7 @@ prescribed,1
 procedure,3
 use,39
 rule,4
+practice,4
 code,1
 federal,1
 regulation,1

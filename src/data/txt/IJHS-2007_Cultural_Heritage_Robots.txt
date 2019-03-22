@@ -1,31 +1,4 @@
-International Journal of Heritage Studies
-
-ISSN: 1352-7258 (Print) 1470-3610 (Online) Journal homepage: https://www.tandfonline.com/loi/rjhs20
-
-On the Cultural Heritage of Robots
-
-Dirk H. R. Spennemann
-
-To cite this article: Dirk H. R. Spennemann (2007) On the Cultural Heritage of Robots,
-International Journal of Heritage Studies, 13:1, 4-21
-To link to this article:  https://doi.org/10.1080/13527250601010828
-
-Published online: 14 Dec 2006.
-
-Submit your article to this journal 
-
-Article views: 256
-
-Citing articles: 3 View citing articles 
-
-Full Terms & Conditions of access and use can be found at
-
-https://www.tandfonline.com/action/journalInformation?journalCode=rjhs20
-
-International Journal of Heritage Studies
-Vol. 13, No. 1, January 2007, pp. 4–21
-
-On the Cultural Heritage of Robots
+On the Cultural Heritage of Robots
 Dirk H. R. Spennemann
 
 DirkSpennemann
@@ -33,7 +6,7 @@ dspennemann@csu.edu.au
 Taylor and Francis Ltd
 RJHS_A_200977.sgm
 10.1080/13527250601010828
-International Journal of Heritage Studies
+
 1352-7258 (print)/1470-3610 (online)
 Original Article
 2006Taylor & Francis Ltd
@@ -47,9 +20,6 @@ opments in artificial intelligence, suggests that the creation of self-reflectiv
 of  semi-independent  thought  (processes)  is  not  too  far  away.  This  paper  explores  the
 conceptual and ethical issues that heritage managers face when dealing with the heritage
 such robots will create.
-
-Keywords: Cultural Heritage Management Theory; Artificial Intelligence; Robotics; Space 
-Heritage
 
 The aim of this paper is to generate some reflection on and discussion of the future of
 our  heritage.  This  paper  will  not  cover  familiar  ground  by  looking  at  the  abundant
@@ -72,10 +42,7 @@ assessment was not carried out.8
 
 Dirk H. R. Spennemann, Charles Sturt University. Correspondence to: dspennemann@csu.edu.au
 
-ISSN 1352–7258 (print)/ISSN 1470–3610 (online) © 2007 Taylor & Francis
-DOI: 10.1080/13527250601010828
-
-International Journal of Heritage Studies
+
 
 5
 
@@ -180,7 +147,7 @@ nology associated with the design, fabrication, theory, and application of robot
 Both  academic  and  popular  (science  fiction)  writing  quickly  took  to  the  term
 robotics, coined by Isaac Asimov in 1941 in the short story ‘Liar!’25 Asimov created a
 
-International Journal of Heritage Studies
+
 
 7
 
@@ -247,7 +214,7 @@ related to the cultural heritage places and items on the lunar surface.36 While 
 papers dealt with the traces left by humans, the issue of the management of traces left
 by remote-controlled and robotic probes arose. Let us look at the issues at hand.
 
-International Journal of Heritage Studies
+
 
 9
 
@@ -319,7 +286,7 @@ Images.  Online:  http://
 nssdc.gsfc.nasa.gov/planetary/mars_exploration_rovers/merb_images.html.  Accessed  26
 February 2004.
 
-International Journal of Heritage Studies
+
 
 11
 
@@ -423,7 +390,7 @@ One  could  argue  that,  after  all,  robots  and  the  programs  that  run  th
 constructions in the first place. Even with increasing AI capabilities, they are ultimately
 just machines, on which we can pull the plug at any time.
 
-International Journal of Heritage Studies
+
 
 13
 
@@ -528,7 +495,7 @@ these  rights  are  not  violated  when  we  are  dealing  with  robotic  herita
 artefacts. It is self-explanatory that these processes, at least in the first instance, will be
 based on human value sets and priorities.
 
-International Journal of Heritage Studies
+
 
 15
 
@@ -678,7 +645,7 @@ International Journal of Humanoid Robotics, 2004–; International Journal of Ro
 1982–;  Journal  of  Intelligent  &  Robotic  Systems,  1988–;  Journal  of  Robotic  Systems,  1984–;
 Laboratory  Robotics  and  Automation,  1989–;  Machine  Learning,  1966–;  Robotics  &  Autono-
 
-International Journal of Heritage Studies
+
 
 17
 
@@ -826,7 +793,7 @@ Interplanetary Society 55, nos. 5–6 (2002): 173–81.
 
 Bingham, M. Suddenly One Sunday. Sydney: HarperCollins, 2000.
 
-International Journal of Heritage Studies
+
 
 19
 
@@ -989,7 +956,7 @@ Pongid and Robotid Artefacts’. Journal of Material Culture (in preparation).
 
 ———. ‘Out of this World: Issues of Managing Tourism and Humanity’s Heritage on the Moon’.
 
-International Journal of Heritage Studies 12, no. 4 (2006): 356–71.
+ 12, no. 4 (2006): 356–71.
 
 ———. ‘Your Solution, their Problem. Their Solution, your Problem: The Gordian Knot of Cultural
 Heritage Planning and Management at the Local Government Level’. disP 42, no. 164 (2006):
@@ -1000,7 +967,7 @@ Spennemann, D. H. R. and L. Kosmer ‘Heritage Sites of the US Space Program in 
 Managing them Adequately?’ QUEST— The History of Spaceflight Quarterly 12, no. 2 (2005):
 52–64.
 
-International Journal of Heritage Studies
+
 
 21
 

@@ -1,12 +1,10 @@
 word/phrase,value,class
-journal,28
-world,36
-intellectual,244
-property,244
 vol,22
 pp,5
 doi,1
 jwip,1
+intellectual,220
+property,220
 preferential,27
 trade,116
 agreement,137
@@ -24,6 +22,7 @@ regulation,28
 paper,12
 analysis,12
 notiﬁed,11
+world,12
 organization,18
 identiﬁes,1
 among,15
@@ -100,7 +99,6 @@ percentage,1
 deal,2
 vague,3
 tangential,3
-reference,35
 rapidly,1
 decreasing,1
 number,31
@@ -300,6 +298,7 @@ given,3
 revolve,1
 around,2
 generality,4
+reference,25
 contained,2
 responds,2
 previous,3
@@ -987,7 +986,6 @@ intellectuelle,1
 schiller,1
 france,1
 e-mail,1
-acknowledgement,1
 funded,1
 department,1
 catalan,1
@@ -1280,6 +1278,7 @@ era,1
 assessment,1
 geometry,1
 multilateralism,1
+journal,4
 federal,1
 exporting,1
 controversy,1

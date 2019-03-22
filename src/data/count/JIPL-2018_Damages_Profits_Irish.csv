@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,4
-intellectual,6
-property,6
-law,17
-practice,3
-vol,3
 general,25
 damage,78
 account,47
@@ -22,6 +16,8 @@ proﬁts,49
 mutually,1
 exclusive,1
 remedy,11
+intellectual,3
+property,3
 litigation,1
 recent,4
 little-commented,1
@@ -69,9 +65,10 @@ basis,1
 following,3
 issue,6
 examined,1
+law,14
 economics,4
 perspective,4
-reference,3
+reference,2
 underlying,7
 logic,3
 judgment,3
@@ -197,6 +194,7 @@ traditional,1
 proﬁt,2
 queen,1
 mary,1
+journal,1
 consistently,1
 held,2
 consistent,1
@@ -225,11 +223,6 @@ university,1
 press,1
 right,4
 reserved,1
-doijiplpjpx,1
-advance,1
-access,1
-publication,1
-march,2
 reform,1
 common,1
 given,2
@@ -357,6 +350,7 @@ still,2
 concerned,1
 ii,1
 announced,1
+march,1
 elicited,1
 little,2
 follow-up,1

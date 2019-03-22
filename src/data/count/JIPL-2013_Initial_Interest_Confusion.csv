@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,6
-intellectual,6
-property,13
-law,22
-practice,9
-vol,5
 initial,55
 interest,51
 confusion,126
@@ -15,6 +9,7 @@ traditional,1
 model,3
 trade,55
 mark,59
+law,17
 purchasing,3
 choice,1
 consumer,50
@@ -152,6 +147,7 @@ relation,11
 passing,19
 subject,2
 previous,1
+journal,1
 see,11
 allgrove,2
 misrepresentation,9
@@ -287,6 +283,7 @@ agent,4
 operated,2
 premium,2
 end,11
+property,8
 market,5
 traded,2
 previously,1
@@ -825,7 +822,6 @@ neither,1
 proposition,2
 relevant,4
 criterion,1
-abstract,1
 kabushiki,1
 kaisha,1
 metro,1
@@ -1042,6 +1038,7 @@ describe,1
 unsettled,1
 eagle,1
 technology,1
+intellectual,1
 aspect,1
 designed,2
 implement,1
@@ -1205,6 +1202,7 @@ intention,1
 substituting,1
 classed,2
 commercial,4
+practice,4
 always,1
 annex,1
 business-to-consumer,1

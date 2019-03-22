@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,45
-world,38
-intellectual,51
-property,52
-vol,21
+vol,1
 pp,3
 doi,1
 j-x,1
@@ -87,6 +83,7 @@ quickly,1
 attracted,1
 proponent,7
 around,2
+world,17
 therefore,7
 timely,1
 consider,4
@@ -133,7 +130,6 @@ yet,9
 without,5
 agreement,28
 following,3
-introduction,5
 reviewed,1
 describing,1
 particular,5
@@ -159,10 +155,8 @@ debate,18
 locate,2
 broader,1
 author,23
+journal,24
 compilation,21
-blackwell,21
-publishing,21
-ltd,21
 contour,1
 argument,3
 strategic,1
@@ -291,6 +285,8 @@ history,3
 usage,1
 india,5
 commission,5
+intellectual,30
+property,31
 right,15
 dutﬁeld,7
 neither,1
@@ -494,7 +490,7 @@ arising,5
 recital,1
 denmark,10
 inclusion,1
-reference,2
+reference,1
 member,7
 due,5
 reservation,1

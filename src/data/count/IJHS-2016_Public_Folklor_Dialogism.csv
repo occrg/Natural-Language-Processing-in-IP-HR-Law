@@ -1,34 +1,12 @@
 word/phrase,value,class
-international,13
-journal,21
-heritage,141
-study,43
-print,1
-online,4
-homepage,1
-public,147
-folklore,172
-dialogism,18
-critical,37
-robert,11
-baron,28
-cite,1
-link,2
-published,3
-mar,1
-submit,1
-view,14
-crossmark,1
-data,1
-citing,4
-article,4
-full,1
-term,15
-condition,1
-access,3
-use,4
-found,2
-vol,1
+public,144
+folklore,169
+dialogism,15
+critical,34
+heritage,134
+study,37
+robert,9
+baron,26
 folk,38
 art,55
 program,21
@@ -36,11 +14,6 @@ new,39
 york,21
 state,46
 council,4
-received,2
-january,2
-accepted,4
-intangible,16
-cultural,97
 inevitably,3
 intervention,8
 dialogic,10
@@ -75,6 +48,7 @@ approach,27
 enable,3
 present,15
 culture,34
+term,14
 paper,1
 explores,1
 practice,41
@@ -87,6 +61,7 @@ funding,16
 promoting,3
 place,18
 local,30
+cultural,96
 significance,3
 provides,7
 example,6
@@ -105,6 +80,7 @@ potential,7
 model,4
 advisor,4
 researcher,7
+intangible,15
 initiative,12
 involved,5
 learn,4
@@ -126,7 +102,6 @@ recognition,4
 pitfall,1
 fostering,3
 economic,6
-introduction,7
 field,24
 rapidly,1
 expanding,2
@@ -179,6 +154,7 @@ bortolotto,11
 discus,5
 difficult,2
 position,3
+published,2
 license,1
 taylor,1
 francis,1
@@ -390,12 +366,14 @@ year,5
 theoretically,1
 brokerage,3
 meet,2
+international,10
 demand,1
 appropriate,3
 good,1
 unfortunately,2
 indicates,3
 intercontinental,1
+link,1
 previously,4
 encompassed,1
 institutional,3
@@ -435,6 +413,7 @@ bauman,2
 paredes,2
 shuman,2
 briggs,2
+view,11
 studied,3
 centred,1
 upon,9
@@ -466,6 +445,7 @@ layperson,1
 encompass,1
 domain,1
 remains,1
+accepted,3
 eponymous,1
 agency,23
 limited,3
@@ -723,6 +703,7 @@ structure,11
 provided,2
 technical,6
 direction,5
+use,3
 equipment,1
 enlisted,1
 formal,1
@@ -809,6 +790,7 @@ cyberspace,1
 electronic,2
 channel,1
 transmitting,1
+online,2
 distinct,1
 blank,3
 utilise,1
@@ -951,7 +933,7 @@ credentialed,2
 bendix,17
 eggert,10
 peselmann,10
-reference,3
+reference,2
 majority,1
 regard,5
 definition,2
@@ -1045,6 +1027,7 @@ elevation,1
 enhances,1
 quality,2
 performer,3
+introduction,1
 song,1
 sing,2
 sensorial,1
@@ -1065,6 +1048,7 @@ cross-cultural,1
 filipino,4
 homeland,2
 diasporic,2
+found,1
 similar,4
 major,3
 forum,4
@@ -1473,6 +1457,7 @@ complement,1
 parallel,1
 educator,1
 publishes,1
+journal,15
 reader,1
 operates,1
 gift,1
@@ -1525,6 +1510,7 @@ inquiry,1
 provide,4
 information,1
 advice,1
+access,2
 dual,2
 converge,1
 funder,1
@@ -1563,7 +1549,7 @@ validate,1
 productively,1
 replicated,1
 elsewhere,1
-acknowledgement,2
+acknowledgement,1
 amidst,1
 supra-local,1
 injustice,1
@@ -1606,6 +1592,7 @@ significant,2
 come,1
 system,1
 oppression,2
+citing,2
 archie,2
 statement,2
 handful,1
@@ -1702,6 +1689,7 @@ anothers,1
 intercultural,1
 noyes,9
 commenting,1
+article,2
 extensively,1
 facilitating,1
 artist-,1
@@ -1994,6 +1982,7 @@ fellow,2
 du,1
 bois,1
 harvard,2
+received,1
 benjamin,3
 botkin,1
 award,1

@@ -1,13 +1,9 @@
 word/phrase,value,class
-international,43
-journal,2
-cultural,40
-property,4
 printed,1
 copyright,1
-society,1
 babylon,11
 baghdad,26
+cultural,38
 heritage,67
 constitutional,10
 law,121
@@ -15,7 +11,6 @@ republic,13
 iraq,136
 te,1
 davis,1
-abstract,1
 constitution,86
 entered,3
 force,7
@@ -113,7 +108,7 @@ centre,1
 crime,5
 justice,7
 research,3
-university,25
+university,6
 glasgow,1
 email,1
 author,5
@@ -139,16 +134,6 @@ encouragement,1
 proved,3
 invaluable,1
 completing,1
-downloaded,19
-bristol,19
-library,19
-mar,19
-subject,19
-cambridge,21
-core,19
-term,20
-use,20
-available,26
 controlled,3
 aspect,2
 babylonian,1
@@ -187,6 +172,7 @@ past,5
 legal,31
 framework,3
 includes,8
+international,41
 treaty,8
 legislation,9
 criminalize,1
@@ -864,6 +850,7 @@ full,5
 regulated,2
 end,2
 prompt,1
+term,1
 uncertainty,2
 examine,1
 context,2
@@ -1064,6 +1051,7 @@ remove,1
 permission,2
 thief,1
 stolen,1
+property,2
 recover,2
 option,1
 reclaiming,1
@@ -1167,7 +1155,6 @@ lingering,1
 wonder,1
 beating,1
 referenced,1
-introduction,1
 credible,1
 emerge,1
 funding,1
@@ -1245,6 +1232,7 @@ intends,1
 consider,1
 nomination,1
 currently,1
+available,7
 nimrud,1
 nineveh,1
 fortress,1
@@ -1505,6 +1493,7 @@ governor,1
 derived,1
 root,1
 hafatha,1
+use,1
 association,1
 unit,1
 roman,1
@@ -1764,6 +1753,7 @@ september,1
 ashley,1
 matthew,1
 cornell,1
+journal,1
 winter,1
 james,1
 blind-into-baghdad,1
@@ -1801,3 +1791,4 @@ footnoted,1
 orgenwebfmsend,1
 ana,1
 filipa,1
+cambridge,2

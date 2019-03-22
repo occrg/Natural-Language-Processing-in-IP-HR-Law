@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,3
-intellectual,6
-property,11
-law,24
-practice,6
-vol,3
 copyright,80
 good,7
 music,51
@@ -135,6 +129,7 @@ solicitor,2
 wale,1
 senior,1
 lecturer,1
+law,21
 email,1
 based,1
 talk,2
@@ -142,6 +137,8 @@ conversazione,1
 within,2
 oxford,6
 international,2
+intellectual,3
+property,8
 moot,2
 st,1
 catherine,1
@@ -409,7 +406,6 @@ moving,1
 creature,1
 crystallization,1
 propertisation,1
-abstract,1
 legal,2
 concept,7
 physical,2
@@ -552,6 +548,7 @@ basic,1
 idea,3
 free,2
 riding,1
+practice,3
 essential,2
 aspect,1
 reason,1

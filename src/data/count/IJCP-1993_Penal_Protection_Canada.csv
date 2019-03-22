@@ -127,17 +127,6 @@ walsh,1
 micay,1
 co,1
 winnipeg,1
-downloaded,14
-university,15
-bristol,14
-library,15
-mar,14
-subject,25
-cambridge,14
-core,14
-term,19
-use,14
-available,14
 katz,7
 summarize,1
 legal,5
@@ -163,6 +152,7 @@ function,1
 item,2
 fall,2
 within,13
+subject,11
 must,16
 remain,1
 unless,1
@@ -310,6 +300,8 @@ museum,6
 gallery,1
 provincial,5
 archive,1
+university,1
+library,1
 instruction,1
 regarding,2
 responsibility,1
@@ -461,6 +453,7 @@ conviction,4
 fine,3
 exceeding,3
 imprisonment,2
+term,5
 twelve,1
 indictment,2
 twenty-five,1

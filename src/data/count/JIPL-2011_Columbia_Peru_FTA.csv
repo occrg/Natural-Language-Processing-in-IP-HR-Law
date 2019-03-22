@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,22
-intellectual,11
-property,14
-law,16
-practice,11
-vol,5
 free,11
 trade,26
 agreement,43
@@ -12,6 +6,7 @@ adjusting,1
 colombian,3
 peruvian,3
 national,17
+law,11
 patricia,6
 covarrubia*,1
 protection,64
@@ -65,6 +60,8 @@ background,1
 world,3
 organisation,1
 aspect,1
+intellectual,6
+property,9
 right,9
 provides,3
 level,20
@@ -202,6 +199,7 @@ therefore,9
 shown,1
 successfully,2
 registered,12
+practice,6
 far,2
 apart,1
 finally,3
@@ -473,6 +471,7 @@ example,12
 prosciutto,3
 di,3
 ofﬁcial,17
+journal,17
 contracting,1
 bulgaria,1
 czech,1

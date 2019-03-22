@@ -1,18 +1,13 @@
 word/phrase,value,class
-journal,14
-intellectual,34
-property,45
-law,43
-practice,13
-vol,9
 biobank-related,9
 research,169
+intellectual,26
+property,37
 right,92
 deconstructing,1
 obscurity,1
 rajam,8
 neethu*,1
-introduction,1
 biobanking,21
 big,17
 data,57
@@ -139,6 +134,7 @@ neethu,7
 london,6
 fellow,1
 faculty,3
+law,35
 university,8
 copenhagen,3
 concern,24
@@ -279,7 +275,6 @@ zhi,1
 age,1
 january,7
 english,2
-abstract,1
 herbert,1
 gottweis,1
 alan,1
@@ -292,11 +287,6 @@ published,2
 oxford,4
 press,5
 reserved,1
-doijiplpjpx,1
-advance,2
-access,6
-publication,5
-february,3
 enabled,2
 approach,12
 change,2
@@ -429,6 +419,7 @@ ples-experiencesmedical-researchbiobankingwhat-biobanking-andwhy-it-important,1
 december,11
 saving,1
 life,12
+february,2
 footnote,2
 involve,5
 variety,1
@@ -467,6 +458,7 @@ kaye,1
 mark,6
 stranger,1
 principle,10
+practice,5
 flavio,1
 jan,1
 schildmann,1
@@ -693,6 +685,7 @@ waldby,1
 singapore,1
 post-developmental,1
 experimental,1
+journal,6
 society,7
 black,1
 dictionary,1
@@ -776,6 +769,7 @@ organism,1
 contributed,4
 characterization,1
 important,9
+publication,4
 originated,1
 cervical,1
 cancer,5
@@ -802,6 +796,7 @@ cal,2
 rprt,1
 landry,1
 transcriptomic,1
+vol,1
 rebecca,1
 skloot,1
 immortal,1
@@ -966,6 +961,7 @@ facilitator,1
 pathmasiri,2
 phase,13
 ie,8
+access,5
 focal,1
 standalone,1
 independent,2
@@ -1556,6 +1552,7 @@ function,1
 biomarkers,1
 identiﬁed,1
 predisposed,1
+advance,1
 event,1
 earliest,1
 preventive,1

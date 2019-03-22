@@ -130,3 +130,8 @@ article
 nation
 paragraph
 date
+references
+bibliography
+acknowledgements
+abstract
+introduction

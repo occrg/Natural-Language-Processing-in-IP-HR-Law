@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,40
-world,34
-intellectual,33
-property,37
-vol,19
+vol,1
 pp,8
 doi,1
 j-x,1
@@ -18,8 +14,11 @@ university,9
 buenos,3
 aire,3
 aspect,6
+intellectual,14
+property,18
 right,18
 requires,2
+world,15
 trade,12
 organization,10
 member,30
@@ -171,11 +170,6 @@ quarter,1
 obligates,1
 protect,8
 meet,3
-author,20
-compilation,19
-blackwell,19
-publishing,20
-ltd,19
 non-obviousness,1
 applicability,2
 utility,2
@@ -1120,6 +1114,7 @@ restriction,1
 deem,1
 option,3
 most-favored,1
+author,1
 director,1
 center,2
 interdisciplinary,1
@@ -1290,6 +1285,7 @@ request,1
 invalidated,1
 august,2
 ascertaining,1
+journal,2
 indian,1
 association,1
 ayurvedic,1
@@ -1352,7 +1348,6 @@ brazil,1
 supported,1
 friend,1
 sasson,2
-reference,1
 deﬁnitions,2
 supplementary,1
 occasional,1
@@ -1435,6 +1430,7 @@ book,1
 science,1
 related,1
 lawtext,1
+publishing,1
 witney,1
 hague,1
 care,1

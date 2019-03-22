@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,41
-journal,15
-cultural,83
-property,41
 printed,1
 copyright,1
-society,5
 fate,2
 world,142
 heritage,219
@@ -15,7 +10,6 @@ council,21
 expert,17
 lynn,2
 meskell*,1
-abstract,1
 december,6
 forum,9
 held,5
@@ -50,6 +44,7 @@ plan,2
 protection,16
 knowledge,6
 tradition,6
+cultural,80
 value,15
 apply,2
 ancestral,5
@@ -58,6 +53,7 @@ within,23
 comprising,3
 site,47
 designated,2
+property,38
 trace,3
 proposal,5
 underline,1
@@ -86,7 +82,7 @@ party,35
 com,2
 anthropology,3
 stanford,1
-university,26
+university,6
 email,1
 research,2
 owes,1
@@ -182,16 +178,6 @@ reviewer,1
 provided,1
 helpful,1
 comment,5
-downloaded,20
-bristol,20
-library,21
-mar,20
-subject,20
-cambridge,20
-core,21
-term,26
-use,21
-available,20
 mittee,2
 mainly,1
 ambassador,6
@@ -390,6 +376,7 @@ inclusion,2
 management,18
 place,10
 number,4
+international,38
 integrate,1
 culture,9
 sec,1
@@ -618,6 +605,7 @@ conducive,1
 peaceful,1
 settlement,1
 problem,9
+library,1
 internationalism,1
 given,8
 reconciliation,1
@@ -716,6 +704,7 @@ general,3
 assembly,3
 serve,4
 four-year,1
+term,6
 must,2
 signatory,1
 state-appointed,1
@@ -724,6 +713,7 @@ professional,1
 actual,2
 responsible,1
 defines,1
+use,1
 allocates,1
 financial,3
 request,2
@@ -871,6 +861,7 @@ extent,1
 excavation,1
 drive,1
 revision,1
+core,1
 fleeting,2
 merely,2
 nationalistic,1
@@ -1332,6 +1323,7 @@ lie,1
 outside,3
 developing,1
 institution,3
+society,4
 open,1
 door,1
 auspex,1
@@ -1641,6 +1633,7 @@ pandora,2
 box,2
 ween,2
 disko,2
+journal,13
 globalisation,1
 edited,9
 long,1

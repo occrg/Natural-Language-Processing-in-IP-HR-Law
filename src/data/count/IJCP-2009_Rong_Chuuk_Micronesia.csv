@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,8
-journal,3
-cultural,34
-property,75
 printed,1
 copyright,24
-society,9
 keeping,1
 rong,13
 wrong,1
@@ -13,6 +8,7 @@ identification,3
 protection,36
 traditional,114
 intellectual,54
+property,73
 chuuk,13
 federated,22
 state,52
@@ -21,7 +17,6 @@ james,2
 nason*,1
 joakim,1
 peter**,1
-abstract,1
 discussion,8
 review,8
 difference,3
@@ -50,6 +45,7 @@ research,25
 activity,6
 compared,1
 recent,6
+international,6
 pacific,44
 island,37
 government,21
@@ -73,6 +69,7 @@ legislatively,2
 protect,23
 part,4
 significant,6
+cultural,32
 heritage,11
 system,14
 indigenous,33
@@ -87,22 +84,13 @@ developed,4
 nation,14
 provide,4
 museum,3
-university,23
+university,5
 washington,5
 email,3
 college,2
-downloaded,18
-bristol,18
-library,21
-mar,18
-subject,20
-cambridge,19
-core,18
-term,20
-use,37
-available,35
 derly,1
 regulation,2
+society,8
 right,56
 real,1
 although,1
@@ -126,6 +114,7 @@ remedy,1
 required,1
 prevent,1
 unauthorized,3
+use,19
 perspective,4
 draw,2
 worldwide,1
@@ -599,6 +588,7 @@ numerous,2
 climate,1
 suspect,1
 often,1
+subject,2
 ethic,5
 method,5
 even,5
@@ -827,7 +817,6 @@ compounded,1
 death,1
 apprentice,1
 out-migration,2
-introduction,1
 importance,2
 motorboat,1
 led,2
@@ -915,6 +904,7 @@ ideologically,1
 intended,1
 artistic,1
 literary,1
+available,17
 enrichment,1
 ultimately,1
 placing,1
@@ -1118,6 +1108,7 @@ diminishing,1
 applies,1
 particularly,1
 modern,3
+term,2
 sovereign,1
 entity,1
 deemed,1
@@ -1134,13 +1125,13 @@ restoration,1
 locate,1
 author,2
 bibliographic,1
-reference,1
 general,1
 note,1
 oceania,1
 net,1
 student,1
 search,1
+library,3
 archive,3
 independent,1
 voluntary,1
@@ -1309,6 +1300,7 @@ economic,3
 zealand,1
 pageaspx,1
 arizona,1
+journal,2
 robert,2
 tide,1
 twentieth,1
@@ -1340,6 +1332,7 @@ stanford,2
 palo,1
 alto,1
 mac,1
+cambridge,1
 westview,1
 modernization,1
 etal,1

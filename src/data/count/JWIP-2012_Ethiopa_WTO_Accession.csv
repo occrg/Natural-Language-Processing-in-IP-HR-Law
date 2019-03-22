@@ -1,19 +1,18 @@
 word/phrase,value,class
-journal,32
-world,70
-intellectual,60
-property,63
-vol,28
+vol,1
 pp,4
 doi,1
 j-x,1
 ethiopia,146
+world,42
 trade,38
 organization,35
 accession,60
 maintaining,29
 policy,51
 space,32
+intellectual,32
+property,35
 agreement,165
 aspect,4
 right,138
@@ -155,9 +154,6 @@ also,32
 made,21
 consolidate,2
 ccid,28
-blackwell,28
-publishing,29
-ltd,29
 taken,14
 level,10
 integrating,2
@@ -551,6 +547,7 @@ title,1
 literary,1
 artistic,1
 ownership,1
+publishing,1
 contract,1
 dealing,1
 assignment,2
@@ -560,7 +557,7 @@ offence,2
 penalty,2
 infringement,15
 work,7
-reference,7
+reference,5
 mention,2
 together,2
 element,3
@@ -1450,7 +1447,6 @@ foregoing,1
 paragraph,1
 citizen,1
 scarce,1
-introduction,1
 expressly,1
 presumably,1
 encompasses,1
@@ -1693,6 +1689,7 @@ london,4
 european,1
 zed,1
 book,2
+ltd,1
 commentary,1
 oxford,6
 versus,1
@@ -1721,6 +1718,7 @@ caulﬁeld,1
 vanuatu,1
 multilateral,1
 trading,1
+journal,4
 regulating,1
 osgoode,1
 hall,1

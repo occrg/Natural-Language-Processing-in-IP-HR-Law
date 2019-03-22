@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,8
-intellectual,15
-property,16
-law,44
-practice,12
-vol,6
 private,107
 copying,75
 need,10
@@ -52,6 +46,7 @@ limitation,22
 exception,20
 depending,1
 national,6
+law,38
 speciﬁc,7
 form,9
 exploitation,4
@@ -230,6 +225,8 @@ sound,11
 tape,5
 france,1
 introduced,1
+intellectual,9
+property,10
 code,2
 permitting,1
 without,14
@@ -438,6 +435,7 @@ reproducing,3
 otherwise,6
 capitalizing,1
 commercially,1
+practice,6
 common,1
 unrestrained,1
 producer,11
@@ -491,6 +489,7 @@ certain,8
 aspect,2
 related,7
 ofﬁcial,2
+journal,2
 recognized,7
 shall,5
 authorise,1
@@ -1218,7 +1217,7 @@ substantial,6
 noninfringing,2
 charge,2
 predicated,1
-access,2
+access,1
 necessarily,2
 implicated,1
 always,1
@@ -1527,10 +1526,6 @@ erase,1
 amend,1
 appropriately,1
 right-owners,1
-doijiplpjpm,1
-advance,1
-publication,1
-january,1
 referring,1
 assigned,1
 illicit,1

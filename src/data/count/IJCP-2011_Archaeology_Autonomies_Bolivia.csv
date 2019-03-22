@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,12
-journal,5
-cultural,25
-property,17
 printed,1
 copyright,1
-society,2
 archaeology,23
 autonomy,21
 legal,14
@@ -16,7 +11,6 @@ new,19
 bolivia,79
 donna,3
 yates*,1
-abstract,1
 bolivian,82
 constitution,25
 significantly,2
@@ -77,6 +71,8 @@ authority,5
 level,5
 june,8
 department,7
+cultural,23
+property,15
 advisory,4
 committee,4
 met,1
@@ -92,8 +88,8 @@ material,17
 referred,3
 place,6
 since,5
-university,20
-cambridge,19
+university,3
+cambridge,2
 email,1
 would,6
 like,4
@@ -115,15 +111,6 @@ reviewer,1
 feedback,1
 editor,1
 encouragement,1
-downloaded,17
-bristol,17
-library,17
-mar,17
-subject,19
-core,19
-term,23
-use,21
-available,18
 seen,6
 positive,3
 step,2
@@ -192,7 +179,6 @@ meeting,3
 differed,1
 previous,1
 negotiating,1
-introduction,1
 former,4
 republic,2
 reborn,1
@@ -250,6 +236,7 @@ making,1
 sole,2
 body,4
 negotiated,1
+international,10
 receiver,1
 repatriated,2
 responsibility,2
@@ -405,6 +392,7 @@ bolivianness,2
 regulatory,2
 document,2
 reflect,1
+use,4
 ministry,12
 education,2
 fine,1
@@ -491,6 +479,7 @@ unregistered,1
 taken,3
 care,3
 special,1
+subject,2
 appropriation,1
 privatization,4
 internationalism,1
@@ -580,6 +569,7 @@ conservation,5
 -meter-wide,1
 perimeter,1
 around,1
+core,2
 november,1
 finally,3
 although,6
@@ -622,6 +612,7 @@ sánchez,3
 lozada,2
 bustamante,1
 elected,1
+term,6
 election,10
 group,7
 commanded,2
@@ -1029,6 +1020,7 @@ government-set,1
 base,1
 sit,1
 sector,1
+society,1
 oppose,1
 regime,1
 versus,1
@@ -1052,6 +1044,7 @@ reason,1
 squabble,1
 autonomously,1
 managed,1
+available,1
 consultation,1
 gleaned,1
 apply,1
@@ -1128,6 +1121,7 @@ lyon,1
 expels,2
 wall,2
 street,2
+journal,4
 mean,2
 prohibiting,1
 consider,1

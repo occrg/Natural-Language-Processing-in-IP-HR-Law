@@ -83,12 +83,13 @@ def convertingPDFs(areasOfLaw, documentDetails, scope):
             pdfFilePaths.append(path)
             destination = changeRootFolderAndExtRemoveArea(path, 'txt', 'txt')
             if destination not in alreadyConverted:
+                print(path)
                 text = pdfToString(path)
-                stringToTXTfile(text, destination)
                 date, title = getPDFmetadata(path)
                 date, title, journal =                               \
                     extractMetadataFromText(path, text, date, title)
                 text = removeMetadataFromText(text, journal)
+                stringToTXTfile(text, destination)
                 if a == 'hr':
                     classLabel = 0
                 if a == 'ip':
@@ -101,6 +102,7 @@ def convertingPDFs(areasOfLaw, documentDetails, scope):
                     'creatorProb':-1.0}
 
                 documentDetails.append(details)
+                documentDetailsToCSVfile(documentDetails, 'data/documentDetails.csv')
 
     for details in documentDetails:
         if details['pdfPath'] not in pdfFilePaths:
@@ -288,13 +290,13 @@ def main():
         documentDetails = csvFileToDocumentDetails(path)
     else:
         documentDetails = []
-    documentDetails = convertingPDFs(areasOfLaw, documentDetails, 'new')
-    documentDetails = counting(documentDetails, 'new')
+    # documentDetails = convertingPDFs(areasOfLaw, documentDetails, 'new')
+    # documentDetails = counting(documentDetails, 'new')
     # documentDetials = frequencyWeighting(documentDetails)
     # documentDetails = classifications(documentDetails)
     # documentDetails = userCreatorRatings(documentDetails)
     documentDetailsToCSVfile(documentDetails, path)
-    # visualisations(documentDetails)
+    visualisations(documentDetails)
 
 
 if __name__ == '__main__':

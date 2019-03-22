@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,15
-journal,8
-cultural,80
-property,36
 printed,1
 copyright,1
-society,5
 protected,62
 object,113
 act,89
@@ -17,7 +12,6 @@ pier,2
 davies*,1
 paul,3
 myburgh**,1
-abstract,1
 amendment,17
 passed,2
 parliament,5
@@ -33,6 +27,8 @@ import,7
 export,35
 transfer,11
 ownership,26
+cultural,78
+property,34
 stolen,28
 illegally,6
 exported,21
@@ -63,7 +59,7 @@ august,2
 williams,8
 davy,3
 email,2
-university,32
+university,7
 auckland,15
 author,1
 would,15
@@ -110,16 +106,6 @@ referee,1
 usual,1
 disclaimer,1
 applies,1
-downloaded,25
-bristol,25
-library,25
-mar,25
-subject,29
-cambridge,25
-core,26
-term,28
-use,29
-available,40
 reason,5
 matter,6
 considerable,2
@@ -187,6 +173,7 @@ sending,1
 troop,1
 succession,1
 colonial,1
+international,13
 war,4
 reluctantly,1
 accepted,1
@@ -499,11 +486,14 @@ seat,1
 election,1
 lapsed,1
 second,7
+term,3
 labour,4
 eventually,5
 competing,1
 involved,4
 touch,1
+core,1
+society,4
 therefore,2
 going,1
 controversial,1
@@ -941,6 +931,7 @@ shelf,1
 likely,8
 limited,2
 historically,1
+use,4
 fixed,1
 cutoff,1
 arbitrary,2
@@ -1014,6 +1005,7 @@ judicial,4
 prohibit,1
 unclear,2
 report,10
+available,15
 course,1
 suggested,1
 transparent,1
@@ -1132,6 +1124,7 @@ cover,1
 cost,1
 delivery,1
 expressly,1
+subject,4
 involving,1
 forfeiture,4
 cause,3
@@ -1241,7 +1234,6 @@ allowed,2
 back,1
 started,1
 inserting,1
-reference,2
 compliance,3
 principle,6
 landmark,1
@@ -1709,6 +1701,7 @@ distributed,2
 visited,1
 voyage,1
 noted,1
+journal,7
 july,5
 admiralty,1
 causd,1

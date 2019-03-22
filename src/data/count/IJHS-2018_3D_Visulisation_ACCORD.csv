@@ -1,41 +1,8 @@
 word/phrase,value,class
-international,6
-journal,15
-heritage,102
-study,4
-print,2
-online,6
-homepage,1
-visualisation,81
-negotiation,10
-authenticity,96
-project,66
-siân,14
-jones,31
-stuart,10
-jeffrey,19
-mhairi,10
-maxwell,11
-alex,9
-hale,10
-cara,7
-cite,1
-link,1
-published,2
-oct,1
-submit,1
-view,7
-crossmark,1
-data,17
-citing,2
-article,2
-full,1
-term,11
-condition,3
-access,10
-use,11
-found,2
-vol,1
+heritage,97
+visualisation,78
+negotiation,8
+authenticity,93
 project*,1
 adivision,1
 history,21
@@ -53,14 +20,6 @@ scotland,21
 edinburgh,2
 earchaeology,1
 musselburgh,1
-received,2
-march,1
-accepted ,1
-august,3
-modelling,14
-digital,98
-co-production,28
-community,58
 examines,1
 question,14
 relation,23
@@ -71,6 +30,7 @@ much,10
 literature,2
 locates,1
 accuracy,8
+data,16
 andor,9
 realism,6
 resulting,9
@@ -82,13 +42,16 @@ undermine,1
 experience,26
 disrupting,2
 people,27
+access,9
 materiality,5
 biography,9
 aura,21
 counterpart,13
+project,64
 take,5
 new,25
 arena,3
+community,57
 practice,28
 us,1
 rapid,5
@@ -105,6 +68,7 @@ migration,7
 borrowing,2
 occur,1
 original,43
+digital,97
 creating,7
 associated,25
 likewise,2
@@ -131,7 +95,6 @@ theoretical,5
 debate,8
 important,14
 implication,5
-introduction,5
 medium,9
 constantly,1
 calling,1
@@ -172,6 +135,7 @@ origin,2
 provenance,3
 fabric,2
 cameron,17
+jones,27
 contrast,3
 physical,19
 replica,11
@@ -193,10 +157,19 @@ biographical,3
 trajectory,3
 value,33
 almost,2
+siân,12
 *the,1
 archived,5
 archaeology,35
 service,3
+stuart,8
+jeffrey,17
+mhairi,8
+maxwell,9
+alex,7
+hale,8
+cara,5
+published,1
 license,1
 informa,1
 limited,3
@@ -234,10 +207,12 @@ regime,1
 authorising,1
 institution,1
 gallery,1
+international,4
 market,1
 bruner,2
 holtorf,7
 lindholm,2
+term,10
 aging,1
 patina,3
 also,48
@@ -258,6 +233,7 @@ problematised,1
 inauthenticity,1
 various,5
 perspective,3
+study,2
 shown,1
 depending,2
 consumption,2
@@ -288,6 +264,7 @@ opportunity,2
 collaborative,5
 community-based,1
 recording,24
+modelling,13
 using,4
 technique,9
 photogrammetry,13
@@ -297,6 +274,7 @@ imaging,4
 methodology,9
 underpinning,1
 co-design,19
+co-production,27
 discussed,4
 detail,4
 elsewhere,2
@@ -304,6 +282,7 @@ another,7
 focus,17
 role,9
 prep,3
+use,10
 conducted,3
 alongside,4
 explore,3
@@ -320,6 +299,7 @@ proposition,1
 upheld,1
 show,6
 mistake,1
+view,4
 fixed,1
 attribute,1
 rather,1
@@ -343,6 +323,7 @@ see,25
 garstki,8
 equally,1
 challenge,4
+received,1
 assumption,1
 related,3
 philosophical,1
@@ -1138,6 +1119,7 @@ photogrammetric,4
 cloud,1
 falstaff,5
 camera,1
+print,1
 macfarlane,1
 courtesy,1
 preston,1
@@ -1243,6 +1225,7 @@ asserting,1
 exchange,1
 followed,1
 passionate,1
+condition,2
 bird,1
 song,1
 echo,2
@@ -1459,6 +1442,7 @@ undercut,1
 perhaps,1
 decisive,1
 authenticating,2
+found,1
 stand,1
 dismissed,1
 lend,1
@@ -1553,7 +1537,6 @@ unfolding,1
 sustained,1
 richer,1
 dialogue,1
-acknowledgement,1
 foremost,1
 thank,2
 thanks,2
@@ -1610,7 +1593,6 @@ jones ,1
 jeffrey ,1
 maxwell ,1
 hale ,1
-reference,1
 walter,1
 illumination,1
 edited,14
@@ -1671,6 +1653,7 @@ sensing,1
 spatial,1
 jacob,1
 ben,1
+journal,10
 cult,1
 replicant,1
 mervyn,1
@@ -1696,6 +1679,7 @@ drew,1
 baker,1
 denar,1
 accessed,2
+august,2
 bella,1
 cardiff,1
 wale,1
@@ -1703,6 +1687,7 @@ rachel,2
 john,5
 hughes,1
 thomas,4
+online,4
 doij,1
 culher,1
 helen,1

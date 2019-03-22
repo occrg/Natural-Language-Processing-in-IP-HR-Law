@@ -104,21 +104,10 @@ professor,1
 han,1
 smit,1
 columbia,2
-university,58
+university,4
 school,2
 law,120
-downloaded,54
-bristol,54
-library,56
-mar,57
-subject,73
-cambridge,54
-core,54
-term,77
-use,69
-available,67
 sidorsky,27
-introduction,1
 government,17
 france,9
 sent,4
@@ -147,6 +136,7 @@ young,2
 man,1
 seized,2
 opportunity,4
+use,15
 official,3
 status,3
 cover,2
@@ -232,6 +222,7 @@ argued,4
 rescuing,1
 allowed,5
 better,3
+available,13
 wider,2
 audience,1
 lost,3
@@ -460,6 +451,7 @@ compensation,22
 certificate,4
 must,21
 accompany,1
+subject,19
 upon,23
 origin,5
 emphasis,6
@@ -837,6 +829,7 @@ widely,2
 discussed,8
 diverging,1
 conception,2
+term,23
 overly,5
 favor,14
 deleting,1
@@ -983,7 +976,7 @@ allow,7
 resulting,2
 plead,2
 explicit,2
-reference,4
+reference,3
 possibility,6
 agree,9
 submit,7
@@ -1861,6 +1854,7 @@ traded,1
 illicitly,1
 jeannette,1
 greenfield,1
+mar,3
 voluntary,1
 notable,1
 ethiopia,1
@@ -2100,6 +2094,7 @@ falling,1
 differs,1
 form,4
 integral,1
+library,2
 interplay,1
 encompassed,1
 neither,3

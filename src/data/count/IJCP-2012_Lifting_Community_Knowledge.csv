@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,29
-journal,14
-cultural,142
-property,66
 printed,1
 copyright,12
-society,7
 lifting,4
 lid,5
 community,68
@@ -18,7 +13,6 @@ expression,20
 culture,59
 miranda,2
 forsyth*,1
-abstract,1
 explores,1
 key,3
 consideration,5
@@ -26,6 +20,7 @@ around,6
 determining,2
 benefit,21
 intangible,44
+cultural,139
 heritage,64
 highlight,4
 complexity,2
@@ -50,7 +45,7 @@ insight,2
 analysis,6
 problematize,1
 assumption,9
-use,50
+use,19
 concept,5
 legislation,33
 designed,2
@@ -68,6 +63,7 @@ convention,27
 global,19
 interest,18
 protecting,5
+property,63
 increasingly,4
 manifest,2
 pacific,47
@@ -111,17 +107,8 @@ diplomacy,1
 college,1
 asia,1
 australian,5
-university,40
+university,9
 email,2
-downloaded,31
-bristol,31
-library,31
-mar,31
-subject,34
-cambridge,33
-core,32
-term,37
-available,34
 loss,3
 result,13
 force,3
@@ -137,6 +124,7 @@ moreover,5
 primarily,2
 initiated,2
 driven,1
+international,26
 lesser,1
 degree,1
 level,5
@@ -311,7 +299,6 @@ tauschek,7
 demonstrated,4
 european,5
 festival,8
-introduction,5
 legal,13
 rule,6
 change,10
@@ -439,6 +426,7 @@ self-regulation,1
 likely,9
 entering,2
 already,4
+subject,3
 possibly,1
 source,8
 albeit,1
@@ -495,6 +483,7 @@ inhabitant,1
 basically,1
 racial,1
 unified,2
+society,6
 let,1
 alone,2
 thus,12
@@ -509,6 +498,7 @@ nation-states,1
 contain,3
 sense,4
 present,5
+term,6
 diversity,5
 balancing,4
 broader,6
@@ -628,6 +618,7 @@ describes,1
 elucidates,1
 explicitly,1
 create,8
+core,1
 negative,2
 exclude,1
 imitative,1
@@ -1245,7 +1236,6 @@ membership,1
 strictly,1
 hereditary,1
 consistent,1
-reference,2
 unnamed,1
 contested,3
 leading,1
@@ -1821,6 +1811,7 @@ aware,1
 space,1
 affect,1
 actor,1
+reference,1
 affected,1
 heard,1
 well-connected,1
@@ -1902,6 +1893,7 @@ giant,3
 cola,6
 gravina,3
 july,4
+available,3
 appendix,1
 web,1
 scope,1
@@ -2060,8 +2052,10 @@ valerie,1
 ask,1
 librarian,1
 michael,1
+cambridge,2
 harvard,1
 press,5
+journal,12
 katyal,1
 riley,1
 hilaire,1

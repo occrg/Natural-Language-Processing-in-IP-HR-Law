@@ -1,14 +1,10 @@
 word/phrase,value,class
-international,47
-journal,8
-cultural,39
-property,123
 printed,1
 copyright,87
-society,7
 historical,5
 thread,1
 intellectual,121
+property,121
 protection,94
 traditional,87
 textile,52
@@ -19,7 +15,6 @@ african,76
 perspective,13
 josephine,1
 asmah*,1
-abstract,1
 defining,3
 relationship,7
 folklore,179
@@ -64,10 +59,11 @@ law,95
 argues,7
 regional,27
 cooperation,8
+international,45
 strengthen,2
 individual,16
 national,27
-subject,30
+subject,4
 scholarly,1
 basic,2
 level,3
@@ -105,22 +101,13 @@ would,3
 thank,1
 kezia,2
 awadzi,2
-university,38
+university,12
 florida,2
 gainesville,2
 anonymous,1
 reviewer,1
 helpful,1
 comment,8
-downloaded,26
-bristol,26
-library,26
-mar,26
-cambridge,27
-core,27
-term,42
-use,49
-available,70
 tural,1
 conducting,1
 fact-finding,3
@@ -172,7 +159,6 @@ work,48
 former,7
 colony,6
 whose,6
-introduction,4
 colonial,2
 face,1
 numerous,1
@@ -313,8 +299,10 @@ resulting,3
 activity,3
 could,13
 defined,2
+cultural,37
 arguably,2
 omits,1
+term,16
 unquestioned,1
 universal,5
 acceptance,2
@@ -329,6 +317,7 @@ lower,1
 disadvantaged,1
 illiterate,1
 uncivilized,1
+society,6
 negative,1
 overtone,1
 attached,1
@@ -533,6 +522,7 @@ ceremonial,4
 originally,1
 royalty,2
 worn,3
+use,23
 spread,1
 nonroyals,1
 decreased,1
@@ -658,6 +648,7 @@ handmade,3
 expensive,1
 superior,1
 quality,1
+available,44
 foreign,2
 market,3
 deal,4
@@ -1557,6 +1548,7 @@ prior-consent,1
 privilege,1
 articlesphplng⫽en&pg⫽,1
 contains,1
+core,1
 commissioner,2
 everyone,3
 freely,1
@@ -1608,6 +1600,7 @@ discus,1
 teacher,1
 hall,1
 columbia,1
+journal,7
 environmental,1
 aldershot,1
 dartmouth,1
@@ -1617,6 +1610,7 @@ connecticut,1
 munzer,1
 essay,3
 york,2
+cambridge,1
 poor,1
 finger,1
 schuler,1

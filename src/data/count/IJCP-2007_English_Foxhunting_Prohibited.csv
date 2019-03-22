@@ -1,18 +1,12 @@
 word/phrase,value,class
-international,3
-journal,2
-cultural,23
-property,4
 printed,1
 copyright,1
-society,3
 english,8
 foxhunting,83
 prohibited,7
 practice,26
 garry,2
 marvin*,1
-abstract,1
 act,37
 parliament,4
 england,15
@@ -33,6 +27,7 @@ year,10
 explore,3
 complexity,2
 social,33
+cultural,20
 prior,6
 ban,21
 well,10
@@ -40,7 +35,7 @@ nature,5
 relates,2
 killing,28
 effect,2
-term,41
+term,19
 perspective,6
 supporter,12
 experienced,3
@@ -112,7 +107,7 @@ school,2
 business,3
 science,2
 roehampton,1
-university,31
+university,9
 email,1
 would,27
 like,6
@@ -134,15 +129,6 @@ unpick,1
 muddled,1
 thinking,1
 writing,3
-downloaded,22
-bristol,22
-library,22
-mar,22
-subject,23
-cambridge,24
-core,22
-use,33
-available,23
 intention,4
 discus,5
 multifaceted,1
@@ -394,7 +380,6 @@ twentieth,3
 sketchy,1
 remark,1
 past,8
-introduction,1
 follows,2
 made,4
 emphasize,2
@@ -960,6 +945,7 @@ mapping,1
 parish,1
 county,6
 boundary,5
+use,11
 name,4
 essex,1
 suffolk,1
@@ -1453,6 +1439,7 @@ evidence,2
 exaggerated,1
 humane,3
 method,1
+available,1
 inhumane,2
 morally,1
 objectionable,1
@@ -1476,6 +1463,7 @@ contributing,1
 positive,1
 individually,1
 strongly,1
+society,2
 pointed,2
 supported,1
 shifting,1
@@ -1666,6 +1654,7 @@ wide,1
 high,1
 profile,1
 defence,1
+subject,1
 enabling,1
 unusual,1
 fuller,1
@@ -1691,6 +1680,7 @@ allen,1
 co,1
 ltd,1
 protection,1
+property,1
 raymond,1
 weidenfeld,1
 nicolson,1
@@ -1710,6 +1700,7 @@ hassock,1
 sussex,1
 harvester,1
 spoil,1
+cambridge,2
 representing,1
 edited,2
 bronislaw,1

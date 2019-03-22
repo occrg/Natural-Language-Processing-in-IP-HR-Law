@@ -202,13 +202,25 @@ def removeMetadataFromText(text, journal):
             -- the text with parts removed
     """
     if journal == "International Journal of Heritage Studies":
-        text = text
+        text = re.sub(r'([\w\W]*?Full Terms[\w\W]*?https[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'(ISSN[\w\W]*?\n\n)', '', text)
+        text = re.sub(r'(International Journal of Heritage Studies[\n ,\d]*?Vol.[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'(International Journal of Heritage Studies)', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'(KEYWORDS[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'(ARTICLE HISTORY[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'([\w\W]*?IJHS[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
     elif journal == "International Journal of Cultural Property":
-        text = text
+        text = re.sub(r'(Downloaded from https://www.cambridge.org/core.[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'(International Journal of Cultural Property[\n ,\d]*?Vol.[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'(International Cultural Property Society[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'(International Journal of Cultural Property)', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'([\w\W]*?IJCP[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
     elif journal == "Journal of World Intellectual Property":
-        text = text
+        text = re.sub(r'(\d{4} The Author. Journal Compilation)', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'(\d{4} Blackwell Publishing Ltd[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'(JOURNAL OF WORLD INTELLECTUAL PROPERTY)', '', text, flags=re.IGNORECASE)
     elif journal == "Journal of Intellectual Property Law":
-        text = text
-    else:
-        text = text
+        text = re.sub(r'(\nl\n\nD\no\nw\nn[\w\W]+?[\n ]{7})', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'(Journal of Intellectual Property Law & Practice[\n ,\d]*?Vol.[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'(doi[\w\W]*?[\n]*?Advance Access Publication[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
     return text

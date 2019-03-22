@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,56
-world,49
-intellectual,61
-property,61
-vol,37
+vol,1
 pp,34
 doi,1
 j-x,1
@@ -192,6 +188,8 @@ hacker,1
 working,7
 knowledge,8
 circumvention,77
+intellectual,24
+property,24
 lawyer,3
 academic,1
 however,22
@@ -201,9 +199,6 @@ culture,6
 news,7
 research,15
 educational,8
-blackwell,37
-publishing,37
-ltd,38
 entertainment,3
 come,8
 u,7
@@ -237,6 +232,7 @@ disrupt,2
 expected,2
 strike,4
 signatory,2
+world,12
 organization,1
 treaty,39
 seems,4
@@ -1029,6 +1025,7 @@ leave,3
 building,1
 contained,5
 others,4
+ltd,1
 upper,1
 allows,2
 ﬂourish,1
@@ -2068,10 +2065,9 @@ comfort,1
 israel,8
 signed,2
 ratiﬁed,2
-introduction,2
 anticipated,1
 ofﬁcial,1
-reference,2
+reference,1
 doubt,3
 absent,1
 opts,1
@@ -2639,6 +2635,7 @@ decree,1
 april,3
 authority,3
 published,1
+journal,19
 ofﬁciel,1
 berbinau,2
 blocman,2

@@ -1,18 +1,12 @@
 word/phrase,value,class
-international,21
-journal,2
-cultural,63
-property,11
 printed,1
 copyright,1
-society,1
 thinking,13
 antiquity,16
 museum,77
 internationalism,4
 claire,1
 lyon,1
-abstract,1
 john,8
 henry,5
 merrymans,3
@@ -24,6 +18,7 @@ pole,1
 nationalism,2
 framed,1
 debate,2
+cultural,61
 patrimony,4
 three,5
 decade,3
@@ -77,6 +72,7 @@ getty,22
 experience,6
 implementing,1
 four,11
+international,19
 agreement,57
 illuminate,1
 work,26
@@ -100,6 +96,7 @@ among,6
 influential,2
 two,16
 way,9
+property,9
 point,5
 reference,1
 nearly,4
@@ -143,17 +140,6 @@ suite,1
 los,11
 angeles,11
 email,1
-downloaded,15
-university,31
-bristol,15
-library,16
-mar,15
-subject,16
-cambridge,17
-core,16
-term,20
-use,16
-available,20
 interest,9
 reinforce,1
 one,15
@@ -265,6 +251,7 @@ ethnographic,2
 frequent,2
 adopted,1
 define,1
+term,5
 reciprocal,4
 exchange,23
 lay,3
@@ -280,6 +267,7 @@ cleveland,7
 dallas,4
 well,9
 princeton,3
+university,16
 pennsylvania,3
 entered,1
 though,6
@@ -647,6 +635,7 @@ vast,1
 storeroom,1
 antiquarium,1
 comunale,1
+available,5
 student,1
 faculty,1
 missouri,1
@@ -1013,6 +1002,7 @@ malibu,4
 jointly,1
 organized,1
 root,1
+use,1
 political,8
 symbol,2
 renaissance,2
@@ -1448,6 +1438,7 @@ showcased,1
 enabled,1
 focused,2
 identifying,1
+subject,1
 meet,1
 need,2
 supported,1
@@ -1515,6 +1506,7 @@ global,1
 movement,1
 paradigm,2
 expanding,1
+core,1
 collecting,2
 cooperating,2
 commitment,1
@@ -1665,6 +1657,7 @@ exhibitionsgela,1
 issued,1
 june,1
 territory,1
+library,1
 aspeditid=,1
 laura,1
 anello,1
@@ -1735,6 +1728,7 @@ colloquium,1
 aracne,1
 editrice,1
 derek,1
+cambridge,2
 essay,1
 nd,2
 ed,3
@@ -1755,6 +1749,7 @@ bruning,1
 santa,1
 fe,1
 school,1
+journal,1
 albert,1
 elsen,1
 stephen,1

@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,5
-intellectual,11
-property,11
-law,16
-practice,16
-vol,5
 walking,4
 groundless,41
 threat,118
@@ -13,7 +7,6 @@ ewan,4
 nettleton,4
 brian,4
 cordery*,1
-introduction,3
 whether,2
 action,41
 could,9
@@ -62,6 +55,7 @@ section,28
 seek,4
 provide,4
 overview,2
+law,11
 relevant,6
 identify,1
 consider,3
@@ -70,6 +64,8 @@ sue,5
 another,3
 person,16
 infringing,7
+intellectual,6
+property,6
 result,2
 civil,4
 liability,4
@@ -450,7 +446,7 @@ rather,3
 august,1
 anticipated,1
 implemented,1
-october,2
+october,1
 although,3
 remove,2
 present,1
@@ -609,12 +605,13 @@ system,1
 pre-action,9
 protocol,12
 followed,3
-advance,2
+advance,1
 category,1
 associated,1
 adopted,2
 step,5
 dispute,5
+practice,11
 direction,3
 taking,1
 giving,1
@@ -792,6 +789,3 @@ foreseeable,1
 future,1
 trap,1
 unwary,1
-doijiplpjpi,1
-access,1
-publication,1

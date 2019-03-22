@@ -1,12 +1,7 @@
 word/phrase,value,class
-journal,6
-intellectual,8
-property,8
-law,28
-practice,7
-vol,6
 levy,106
 copyright,44
+law,22
 overview,2
 judgment,12
 fair,76
@@ -17,7 +12,6 @@ reprography,15
 alexandre,6
 dia,5
 pereira*,1
-introduction,3
 legally,1
 acquired,2
 content,2
@@ -142,7 +136,7 @@ mine,1
 fellowship,1
 email,1
 council,7
-may,14
+may,13
 harmonization,1
 certain,4
 aspect,1
@@ -229,10 +223,6 @@ published,1
 oxford,3
 press,2
 reserved,1
-doijiplpjpx,1
-advance,3
-access,3
-publication,1
 german,5
 saga,3
 provided,10
@@ -441,6 +431,7 @@ extended,1
 linked,2
 criterion,12
 survey,1
+practice,1
 geneva,1
 leistner,1
 decade,1
@@ -709,6 +700,7 @@ ruled,6
 intended,3
 produced,3
 kind,1
+advance,2
 basis,4
 belong,1
 principal,2
@@ -758,6 +750,7 @@ remunerated,1
 license,1
 instead,2
 conditional,1
+access,2
 agreed,1
 contractual,1
 term,3
@@ -778,6 +771,8 @@ designed,5
 arises,1
 latter,2
 april,2
+intellectual,2
+property,2
 lump,2
 sum,2
 royalty,1

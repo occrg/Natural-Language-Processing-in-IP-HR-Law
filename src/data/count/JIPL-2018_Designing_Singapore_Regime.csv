@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,5
-intellectual,13
-property,12
-law,9
-practice,12
-vol,5
 designing,4
 future,8
 reform,1
@@ -16,7 +10,6 @@ simon,5
 seow,5
 william,5
 kwek*,1
-introduction,2
 increasing,1
 recognition,2
 many,1
@@ -44,6 +37,8 @@ february,1
 report,6
 rely,3
 upon,1
+intellectual,8
+property,7
 protection,36
 capture,2
 value,3
@@ -62,6 +57,7 @@ modern,2
 reality,1
 mind,2
 ministry,3
+law,4
 ofﬁce,3
 embarked,1
 comprehensive,3
@@ -78,6 +74,7 @@ light,3
 trend,1
 technology,6
 business,5
+practice,7
 primary,1
 legislation,14
 protecting,2
@@ -476,7 +473,7 @@ make,2
 three,1
 remark,1
 includes,8
-reference,4
+reference,3
 nonphysical,6
 explicit,1
 present,2

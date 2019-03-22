@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,32
-world,44
-intellectual,65
-property,82
-vol,27
+vol,2
 pp,2
 doi,1
 j-x,1
@@ -18,6 +14,8 @@ trade,90
 policy,18
 jessica,27
 chiang,28
+intellectual,39
+property,56
 specialty,2
 group,5
 finnegan,2
@@ -75,6 +73,7 @@ effect,12
 ban,40
 country,41
 joined,1
+world,18
 organization,8
 concluded,3
 may,41
@@ -114,7 +113,7 @@ publication,3
 corporation,2
 prominent,1
 taiwanese,10
-publishing,30
+publishing,4
 company,7
 acquired,7
 exclusive,27
@@ -182,8 +181,6 @@ fell,1
 outside,5
 plaintiff,3
 result,13
-blackwell,26
-ltd,26
 could,15
 direct,3
 victim,3
@@ -1865,7 +1862,6 @@ para,1
 strongly,1
 gray,1
 bringing,1
-reference,1
 report,3
 presented,1
 committee,1
@@ -1889,6 +1885,7 @@ toronto,1
 science,1
 formosa,1
 transnational,1
+journal,6
 moon,1
 taming,1
 unilateralism,2

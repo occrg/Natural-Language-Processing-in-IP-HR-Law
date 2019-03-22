@@ -1,12 +1,8 @@
 word/phrase,value,class
-journal,5
-intellectual,44
-property,44
-law,27
-practice,7
-vol,4
 summary,42
 judgment,38
+intellectual,40
+property,40
 litigation,16
 three,15
 hart,21
@@ -57,6 +53,7 @@ estate,2
 negligence,1
 defamation,1
 company,3
+law,23
 defining,1
 characteristic,1
 mark,17
@@ -136,6 +133,8 @@ mary,1
 research,4
 institute,1
 editor,1
+journal,1
+practice,3
 weblog,1
 e-mail,1
 author,1
@@ -801,7 +800,7 @@ thought,1
 belong,1
 category,1
 featured,1
-publication,2
+publication,1
 permitted,1
 comparative,1
 arguing,1
@@ -813,7 +812,7 @@ needed,1
 identify,1
 added,2
 copying,1
-advance,2
+advance,1
 beiersdorf,1
 ramlort,1
 glaxo,1
@@ -927,7 +926,6 @@ market,1
 wm,1
 wrigley,1
 jr,1
-reference,1
 cited,1
 imagined,1
 feel,1
@@ -964,9 +962,6 @@ decision-making,2
 prevail,1
 predictability,1
 consistency,1
-doijiplpjpi,1
-access,1
-october,1
 misconceived,1
 several,1
 evidential,1

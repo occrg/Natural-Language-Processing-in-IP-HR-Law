@@ -1,8 +1,4 @@
 word/phrase,value,class
-journal,15
-world,17
-intellectual,18
-property,19
 vol,13
 pp,4
 doi,1
@@ -44,7 +40,6 @@ entail,1
 several,3
 challenge,15
 rationale,4
-introduction,2
 elaborated,1
 using,4
 case,18
@@ -299,6 +294,7 @@ bulk,1
 terrestrial,3
 tropical,1
 part,7
+world,3
 hence,4
 often,4
 low,1
@@ -525,6 +521,7 @@ cold,1
 biotype,1
 especially,1
 potentially,2
+property,5
 related,5
 adaption,1
 temperature,1
@@ -1206,6 +1203,7 @@ eventual,1
 contested,1
 governance,4
 balancing,1
+intellectual,4
 seek,1
 balance,1
 sense,1
@@ -1327,9 +1325,9 @@ letter,1
 april,1
 form,1
 marine-based,1
-reference,1
 trend,2
 microbial,2
+journal,1
 integrative,1
 holder,1
 ecology,1

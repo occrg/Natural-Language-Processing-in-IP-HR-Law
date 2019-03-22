@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,5
-intellectual,6
-property,7
-law,20
-practice,10
-vol,5
 stem,91
 cell,145
 patent,59
@@ -30,6 +24,7 @@ potential,11
 power,1
 lie,1
 two,1
+property,2
 make,8
 unique,1
 self,1
@@ -87,6 +82,7 @@ research,27
 able,2
 protect,5
 technology,29
+law,15
 controversial,4
 best,1
 time,7
@@ -421,6 +417,7 @@ patentability,24
 relevant,4
 agreement,2
 aspect,1
+intellectual,1
 convention,2
 directive,17
 biotech,11
@@ -646,6 +643,7 @@ across,2
 light,2
 involving,2
 reﬂected,1
+practice,5
 subsequently,1
 importantly,2
 ruling,6

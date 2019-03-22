@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,6
-intellectual,16
-property,20
-law,14
-practice,10
-vol,5
 new,48
 zealand,45
 wai,15
@@ -53,11 +47,15 @@ acknowledged,2
 protected,2
 recommended,5
 future,3
+law,9
 policy,8
+practice,5
 acknowledge,2
 respect,3
 implication,1
 owner,3
+intellectual,11
+property,15
 right,25
 particularly,1
 relevant,2
@@ -109,7 +107,7 @@ tenei,4
 available,13
 tribunalswaitangi-tribunalnewswai--ko-aotearoa-tenei-report-onthe-wai--claim-released,1
 accessed,12
-march,9
+march,8
 author,3
 principal,1
 henry,2
@@ -175,10 +173,6 @@ oxford,1
 university,5
 press,1
 reserved,1
-doijiplpjpu,1
-advance,2
-access,1
-publication,2
 established,4
 act,15
 copy,1
@@ -754,6 +748,7 @@ attribution,5
 clearly,1
 reasonably,1
 composer,1
+publication,1
 purpose,4
 communication,1
 ﬁlm,1
@@ -772,6 +767,7 @@ recover,1
 cost,1
 confer,1
 entitlement,1
+advance,1
 treatment,2
 entitle,1
 charge,1
@@ -926,6 +922,7 @@ tu¯,1
 hoe,1
 hemiphaga,1
 novaseelandiae,2
+journal,1
 ecology,1
 kahu,2
 bay,3

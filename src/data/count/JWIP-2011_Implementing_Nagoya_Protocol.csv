@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,23
-world,21
-intellectual,24
-property,29
-vol,20
+vol,1
 pp,5
 doi,1
 j-x,1
@@ -134,9 +130,6 @@ fulﬁlling,3
 analyse,2
 intention,1
 ccid,20
-blackwell,20
-publishing,20
-ltd,20
 take,18
 meet,6
 standard,8
@@ -713,10 +706,12 @@ website,1
 asked,4
 make,8
 industrial,2
+property,8
 board,2
 responded,1
 availability,2
 contact,8
+intellectual,3
 originating,3
 outside,2
 u,2
@@ -904,7 +899,7 @@ fall,1
 constituting,1
 possibly,1
 limiting,1
-reference,4
+reference,3
 decisive,1
 discussed,1
 resolve,5
@@ -1327,6 +1322,7 @@ democracy,1
 evolution,2
 interna,1
 tional,1
+journal,2
 people,1
 history,1
 biocultural,1

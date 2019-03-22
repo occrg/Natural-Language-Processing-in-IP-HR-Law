@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,6
-intellectual,28
-property,31
-law,47
-practice,7
-vol,6
 trade,98
 mark,90
 use,17
@@ -41,6 +35,8 @@ case,62
 received,1
 lukewarm,1
 welcome,1
+intellectual,23
+property,26
 right-holders,6
 since,5
 might,3
@@ -58,6 +54,7 @@ considers,1
 whether,16
 conflict,1
 established,3
+law,42
 similar,2
 matter,10
 ouverture,1
@@ -104,6 +101,7 @@ schneider,5
 ed,2
 border,8
 measure,12
+practice,2
 oxford,5
 university,3
 press,3
@@ -173,7 +171,6 @@ instrumental,1
 composition,2
 intended,3
 especially,1
-introduction,4
 extended,2
 work,2
 opera,1
@@ -559,7 +556,7 @@ operation,1
 direct,4
 regarding,3
 volvo,1
-october,5
+october,4
 winthrop,1
 roche,1
 loendersloot,1
@@ -897,6 +894,7 @@ reepinghen,2
 chronique,1
 droits,1
 intellectuels,1
+journal,1
 tribunaux,1
 delcorde,1
 la,1
@@ -918,6 +916,7 @@ annex,1
 instrument,1
 uruguay,1
 round,1
+vol,1
 intl,1
 material,1
 suggests,1
@@ -1008,10 +1007,6 @@ deciding,1
 otherwise,1
 consequence,1
 vary,1
-doijiplpjpi,1
-advance,1
-access,1
-publication,1
 deal,1
 burden,1
 likelihood,1

@@ -6,7 +6,6 @@ movement,16
 antiquity,29
 david,16
 murphy*,1
-introduction,2
 many,4
 collector,2
 dealer,7
@@ -131,7 +130,7 @@ sovereignty,1
 lecturer,1
 department,5
 law,87
-university,22
+university,8
 earlier,2
 version,2
 published,1
@@ -139,16 +138,6 @@ journal,13
 grateful,1
 acknowledgement,1
 given,2
-downloaded,14
-bristol,14
-library,14
-mar,14
-subject,18
-cambridge,14
-core,15
-term,15
-use,16
-available,16
 murphy,15
 long,1
 recognised,1
@@ -217,11 +206,13 @@ monument,4
 ordinance,6
 imported,1
 intended,1
+subject,4
 provision,14
 thought,2
 largest,2
 single,1
 class,2
+term,1
 monetary,1
 value,9
 historically,3
@@ -866,6 +857,7 @@ greater,1
 quite,1
 avenue,1
 potentially,1
+available,2
 prove,1
 worrisome,1
 arises,1
@@ -893,6 +885,7 @@ upon,3
 positive,1
 obligation,1
 forth,1
+use,2
 interference,1
 expressed,1
 broadly,1
@@ -1268,6 +1261,7 @@ kept,1
 manageable,1
 size,1
 sort,1
+core,1
 achieve,1
 stated,1
 better,1
@@ -1352,7 +1346,6 @@ andrew,1
 halkyard,1
 ed,4
 investment,1
-reference,1
 raymond,1
 wacks,1
 transition,1

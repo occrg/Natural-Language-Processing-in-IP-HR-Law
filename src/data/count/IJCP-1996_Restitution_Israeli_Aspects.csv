@@ -12,12 +12,12 @@ half,1
 last,4
 century,7
 public,26
-international,54
+international,53
 law,48
 developing,1
 rule,10
 regulating,1
-cultural,101
+cultural,100
 object,28
 removed,4
 occupied,24
@@ -34,7 +34,7 @@ protocol,17
 hague,30
 convention,72
 protection,12
-property,76
+property,75
 event,6
 mandate,3
 must,6
@@ -102,7 +102,7 @@ nevertheless,5
 preserved,3
 properly,3
 made,14
-available,22
+available,1
 purpose,2
 study,12
 research,4
@@ -117,7 +117,7 @@ seek,3
 enhance,2
 significance,3
 rather,14
-use,25
+use,4
 arbitrary,2
 sole,1
 criterion,1
@@ -133,7 +133,7 @@ business,1
 kiryat,1
 ono,1
 affiliated,1
-university,26
+university,5
 manchester,1
 indebted,1
 prof,1
@@ -158,14 +158,6 @@ foreign,2
 gesellschaft,1
 generously,1
 supporting,1
-downloaded,21
-bristol,21
-library,21
-mar,21
-subject,28
-cambridge,23
-core,21
-term,22
 einhorn,7
 king,2
 david,1
@@ -282,6 +274,7 @@ character,3
 historic,1
 monument,1
 work,2
+subject,7
 legal,5
 proceeding,2
 military,2
@@ -644,6 +637,7 @@ integral,1
 le,2
 detailed,2
 phrased,1
+term,1
 general,4
 adequate,3
 number,1
@@ -1226,7 +1220,7 @@ paper,1
 nahlik,5
 stanislaw,2
 hastings,2
-journal,12
+journal,11
 rudolf,2
 walter,1
 ober,1
@@ -1425,6 +1419,7 @@ muller,1
 seite,1
 connell,1
 municipal,2
+cambridge,2
 rosenne,1
 shabtai,1
 yearbook,1

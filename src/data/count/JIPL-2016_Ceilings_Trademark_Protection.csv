@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,6
-intellectual,14
-property,18
-law,18
-practice,6
-vol,5
 ceiling,5
 trade,128
 mark,160
@@ -12,7 +6,6 @@ protection,8
 thought,5
 mora,7
 gonzalez*,1
-introduction,1
 commission,7
 issued,1
 proposal,9
@@ -22,11 +15,14 @@ measure,3
 aimed,3
 ensuring,3
 enforcement,14
+intellectual,9
+property,13
 right,23
 reaction,1
 failed,2
 attempt,1
 introduce,1
+law,13
 penalty,2
 referred,1
 particularly,1
@@ -242,6 +238,7 @@ made,4
 fraudulent,1
 use,34
 arose,2
+practice,1
 proving,2
 intent,1
 point,7
@@ -577,6 +574,7 @@ afﬁrmatively,1
 lunney,1
 monopoly,1
 emory,1
+journal,1
 football,6
 club,6
 plc,5
@@ -676,7 +674,6 @@ electronics,1
 remington,1
 ltd,9
 examined,3
-abstract,1
 meaningless,1
 presumed,1
 iuris,4

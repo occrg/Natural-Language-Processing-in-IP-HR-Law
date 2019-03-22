@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,78
-world,44
-intellectual,99
-property,104
-vol,36
+vol,1
 pp,7
 optimal,44
 enforcement,317
@@ -33,7 +29,7 @@ within,46
 sub-continent,1
 ﬁlm,3
 book,6
-publishing,37
+publishing,1
 sector,10
 lack,14
 law,249
@@ -52,7 +48,7 @@ main,7
 purpose,5
 try,4
 conceptualize,1
-author,59
+author,23
 hope,2
 aid,1
 understanding,2
@@ -63,7 +59,6 @@ core,2
 system,43
 france,4
 instance,22
-introduction,2
 printing,4
 ﬁfteenth,1
 century,3
@@ -149,9 +144,6 @@ damage,31
 entail,4
 compensation,4
 holder,33
-compilation,36
-blackwell,36
-ltd,38
 whereby,3
 given,4
 custodial,12
@@ -192,6 +184,8 @@ one,25
 consequence,10
 non-conformity,6
 context,2
+intellectual,63
+property,68
 prevention,2
 infringement,79
 conferred,1
@@ -1014,6 +1008,7 @@ prevailing,5
 circumstance,4
 largely,4
 developed,4
+world,8
 thirdly,3
 contribution,2
 minimal,3
@@ -1359,7 +1354,6 @@ attempt,1
 curiously,1
 phonogram,5
 gave,1
-reference,4
 obliging,1
 abbot,3
 et,5
@@ -1609,6 +1603,7 @@ sale,2
 distribution,1
 instituted,1
 ﬁnding,1
+ltd,2
 reader,1
 complainant,2
 big,1
@@ -1703,7 +1698,6 @@ being,1
 motive,1
 setting,1
 motion,1
-abstract,1
 content,2
 beneﬁted,1
 assume,1
@@ -1711,6 +1705,7 @@ outdated,1
 ibid,2
 botswana,2
 criminalized,1
+reference,2
 positivist,1
 naturalist,1
 ﬁle,4
@@ -1972,6 +1967,7 @@ kluwer,1
 abuja,1
 stigler,1
 malfeasance,1
+journal,6
 constructing,1
 creativity,1
 stanford,1

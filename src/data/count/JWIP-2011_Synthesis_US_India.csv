@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,39
-world,39
-intellectual,48
-property,47
-vol,27
+vol,1
 pp,3
 doi,1
 j-x,1
@@ -87,6 +83,8 @@ unintended,5
 consequence,19
 generally,5
 effectiveness,2
+intellectual,21
+property,20
 vehicle,1
 indian,33
 perspective,12
@@ -202,9 +200,6 @@ allowing,4
 not-for-proﬁt,1
 agency,14
 title,8
-blackwell,27
-publishing,29
-ltd,27
 sponsored,6
 also,30
 given,8
@@ -230,6 +225,7 @@ nevertheless,4
 experiment,2
 encouraged,3
 across,9
+world,12
 replicate,4
 stimulate,3
 presently,3
@@ -454,7 +450,6 @@ infrastructure,4
 notwithstanding,3
 already,7
 stated,1
-introduction,5
 enormously,1
 heterogeneous,2
 register,1
@@ -1528,6 +1523,7 @@ side,3
 supply,1
 published,1
 peer-reviewed,1
+journal,12
 professor,3
 mentoring,1
 presentation,1
@@ -1543,6 +1539,7 @@ startling,1
 revelation,1
 population,1
 never,3
+publishing,2
 attempted,1
 perception,1
 summarized,1
@@ -2099,7 +2096,6 @@ rule,1
 cervantes,2
 undated,2
 charabarty,1
-reference,1
 patzelt,1
 brenner,1
 ed,3

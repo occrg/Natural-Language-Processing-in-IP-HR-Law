@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,29
-world,30
-intellectual,38
-property,37
-vol,32
+vol,8
 pp,14
 doi,1
 j-x,1
@@ -56,6 +52,8 @@ developed,10
 country,51
 agreement,57
 aspect,4
+intellectual,13
+property,12
 right,71
 interpretation,24
 open-ended,5
@@ -188,9 +186,6 @@ prevention,2
 abuse,3
 monopoly,2
 ccid,25
-blackwell,25
-publishing,32
-ltd,54
 mandate,4
 regarding,6
 left,2
@@ -239,6 +234,7 @@ indispensable,1
 part,8
 compromise,3
 second,19
+world,5
 war,1
 many,6
 colony,2
@@ -279,7 +275,6 @@ step,29
 stated,9
 however,14
 opposed,1
-introduction,2
 fearing,1
 seriously,1
 curtailed,1
@@ -495,7 +490,7 @@ free,4
 constraint,1
 incorporated,8
 condition,25
-reference,4
+reference,3
 speciﬁc,3
 allowing,8
 governs,3
@@ -922,6 +917,7 @@ intention,6
 defeating,1
 original,2
 tendency,3
+publishing,7
 industry,14
 collecting,3
 subject,6
@@ -1104,6 +1100,7 @@ company,7
 communicate,3
 recent,2
 judgement,2
+ltd,29
 super,5
 cassette,5
 held,2
@@ -1402,6 +1399,7 @@ prof,3
 gopalakrishnan,4
 trademark,1
 dilution,1
+journal,4
 institute,4
 patent,3
 road,1

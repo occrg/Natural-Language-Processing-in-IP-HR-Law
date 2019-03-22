@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,17
-journal,12
-cultural,70
-property,37
 printed,1
 copyright,1
-society,4
 coordinated,1
 legal,33
 policy,57
@@ -13,6 +8,7 @@ approach,23
 undiscovered,11
 antiquity,73
 adapting,1
+cultural,65
 heritage,51
 england,39
 wale,34
@@ -20,7 +16,6 @@ nation,39
 origin,25
 derek,2
 fincham*,1
-abstract,1
 blanket,3
 ownership,18
 law,39
@@ -122,17 +117,6 @@ economics,1
 forum,2
 london,8
 email,1
-downloaded,24
-university,36
-bristol,24
-library,25
-mar,24
-subject,27
-cambridge,26
-core,25
-term,24
-use,29
-available,39
 precise,2
 number,11
 found,22
@@ -260,6 +244,7 @@ despite,1
 reform,3
 increased,11
 awareness,4
+international,12
 regulation,3
 destruction,5
 thirty,1
@@ -309,6 +294,7 @@ scheduled,9
 ancient,14
 monument,19
 class,3
+property,32
 crown,15
 discovered,16
 government-funded,2
@@ -316,6 +302,7 @@ led,3
 begin,1
 revisiting,1
 protection,18
+use,5
 declaration,8
 next,1
 benefit,9
@@ -384,6 +371,7 @@ malibu,4
 fine,3
 boston,1
 princeton,1
+university,12
 collector,4
 shelby,1
 white,1
@@ -535,6 +523,7 @@ response,2
 punish,1
 buy,1
 real,1
+core,1
 imperfect,1
 damage,4
 already,1
@@ -734,6 +723,7 @@ definition,6
 excluded,2
 meant,1
 historically,1
+subject,3
 criticism,1
 existing,1
 valuing,1
@@ -980,6 +970,7 @@ helped,1
 educate,2
 managed,2
 umbrella,1
+library,1
 archive,1
 council,4
 publication,2
@@ -1021,6 +1012,7 @@ strengthen,1
 link,2
 user,2
 encourage,2
+available,15
 maintains,3
 web,1
 instructs,2
@@ -1173,6 +1165,7 @@ incorporated,1
 normally,1
 organizing,1
 talk,1
+society,3
 attracts,1
 visitor,1
 regular,1
@@ -1794,6 +1787,7 @@ side,1
 alexander,1
 critical,1
 fordham,1
+journal,8
 evolution,1
 progress,1
 david,3
@@ -1835,6 +1829,7 @@ vol,1
 samuel,1
 thorne,1
 trans,1
+cambridge,2
 mass,1
 belknap,1
 harvard,1

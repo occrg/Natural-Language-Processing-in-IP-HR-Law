@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,6
-intellectual,13
-property,13
-law,19
-practice,8
-vol,7
 cant,6
 get,8
 satisfaction,7
@@ -145,7 +139,9 @@ consideration,2
 view,7
 heisei,12
 gyo-ke,9
-january,4
+january,3
+intellectual,7
+property,7
 high,11
 court,25
 recording,4
@@ -240,6 +236,7 @@ howard,1
 ferstler,1
 encyclopedia,2
 sound,2
+vol,1
 richard,2
 daft,2
 david,3
@@ -269,10 +266,6 @@ oxford,1
 press,1
 right,8
 reserved,1
-doijiplpjpq,1
-advance,1
-access,2
-publication,1
 intensity,1
 legion,1
 screaming,1
@@ -466,6 +459,7 @@ accordingly,2
 refused,1
 section,12
 xv,11
+law,13
 prohibits,2
 relation,2
 another,4
@@ -1195,6 +1189,7 @@ believing,1
 elsewhere,1
 regime,3
 fundamental,1
+practice,2
 ﬂaw,1
 ex-parte,1
 opposer,2
@@ -1324,7 +1319,6 @@ behaviour,1
 newspaper,1
 literature,1
 survey,4
-reference,1
 magazine,1
 article,1
 relating,1
@@ -1391,6 +1385,7 @@ uniformly,1
 allow,1
 unfettered,1
 equal,1
+access,1
 judicial,1
 co-existing,1
 whereby,1

@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,106
-journal,8
-cultural,37
-property,126
 printed,1
 copyright,2
-society,7
 power,49
 relation,12
 traditional,186
@@ -17,7 +12,6 @@ forum,139
 charles,1
 kamau,1
 maina*,1
-abstract,1
 ongoing,7
 protection,98
 prompted,4
@@ -26,6 +20,7 @@ nation,62
 general,17
 assembly,10
 declaration,40
+international,104
 decade,4
 world,22
 indigenous,217
@@ -46,6 +41,7 @@ key,5
 multilateral,25
 debating,13
 intellectual,125
+property,124
 organization,46
 trade,19
 convention,55
@@ -87,7 +83,7 @@ declared,1
 challenging,2
 information,18
 medium,1
-university,52
+university,16
 western,3
 ontario,8
 canada,42
@@ -113,17 +109,8 @@ appreciate,1
 suggestion,2
 made,18
 anonymous,7
+journal,7
 reviewer,1
-downloaded,36
-bristol,36
-library,36
-mar,40
-subject,41
-cambridge,37
-core,36
-term,42
-use,55
-available,37
 ternational,1
 ensued,1
 various,21
@@ -153,6 +140,7 @@ blakeney,3
 observes,7
 result,3
 realization,1
+cultural,35
 expression,10
 depends,1
 upon,4
@@ -180,6 +168,7 @@ instance,1
 biopiracy,5
 created,1
 control,20
+use,19
 although,21
 preservation,6
 culture,14
@@ -341,6 +330,7 @@ certain,4
 age,1
 worth,1
 noting,3
+term,6
 different,5
 appear,1
 define,3
@@ -598,6 +588,7 @@ framed,1
 part,5
 divide,7
 traditionally,2
+subject,5
 disagreement,3
 south,21
 nutshell,1
@@ -787,7 +778,7 @@ stand,2
 formal,3
 illustrate,1
 suggest,3
-reference,2
+reference,1
 standard-setting,1
 began,3
 governing,3
@@ -1243,6 +1234,7 @@ complex,1
 limited,2
 tension,2
 share,1
+society,6
 incongruence,2
 voting,10
 mega,1
@@ -1528,6 +1520,7 @@ necessary,1
 solicit,1
 wish,1
 extensive,2
+available,1
 policymakers,1
 reaching,1
 concordance,1
@@ -1774,6 +1767,7 @@ sept,2
 respectively,1
 communication,6
 oct,2
+mar,4
 drahos,2
 braithwaite,2
 feudalism,2
@@ -1859,6 +1853,7 @@ sage,2
 software,1
 spleen,1
 construction,1
+cambridge,1
 harvard,1
 press,5
 washington,3

@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,8
-journal,1
-cultural,48
-property,10
 printed,1
 copyright,1
-society,2
 fighting,1
 archaeological,98
 looting,46
@@ -19,7 +14,6 @@ temiño,11
 antonio,1
 rom,6
 valdés,6
-abstract,1
 seventy,1
 land,9
 underwater,22
@@ -80,6 +74,7 @@ enforce,1
 hired,2
 archaeologist,8
 specializing,2
+cultural,46
 heritage,69
 management,3
 fight,7
@@ -137,17 +132,6 @@ prosecutor,9
 office,3
 ministry,2
 justice,2
-downloaded,20
-university,21
-bristol,20
-library,20
-mar,20
-subject,28
-cambridge,20
-core,20
-term,25
-use,42
-available,24
 remains,13
 object,25
 trace,2
@@ -231,6 +215,7 @@ something,2
 else,1
 entirely,1
 non-legal,1
+term,5
 defined,4
 associated,4
 information,4
@@ -265,6 +250,7 @@ omission,3
 prevents,2
 disrupts,1
 function,4
+property,8
 dealing,2
 referring,2
 intentional,1
@@ -279,6 +265,7 @@ heavy,1
 equipment,2
 type,17
 involves,1
+use,22
 metal,25
 detector,20
 devastation,3
@@ -564,6 +551,7 @@ suspicious,1
 lesser,3
 extent,3
 belongs,3
+university,1
 greater,4
 authority,16
 make,7
@@ -968,6 +956,7 @@ nearly,1
 stripped,1
 sussex,1
 team,2
+international,6
 célèbre,1
 thanks,1
 ruling,3
@@ -981,6 +970,7 @@ behavior,1
 signed,3
 related,6
 define,2
+subject,8
 national,5
 distinguishes,1
 quite,1
@@ -1092,7 +1082,6 @@ prevailing,1
 excavated,1
 replaces,1
 criterion,3
-introduction,1
 encompass,1
 already,1
 contained,3
@@ -1173,6 +1162,7 @@ monitoring,2
 duty,2
 auctioneer,1
 notify,1
+available,4
 enable,1
 preferential,1
 prohibited,1
@@ -1553,6 +1543,7 @@ goal,1
 governmental,1
 shift,1
 le,2
+society,1
 demand,1
 respect,1
 vestige,1

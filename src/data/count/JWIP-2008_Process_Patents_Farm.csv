@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,56
-world,31
-intellectual,44
-property,50
-vol,26
+vol,1
 pp,6
 doi,1
 j-x,1
@@ -105,6 +101,7 @@ regarding,33
 pending,2
 ofﬁces,1
 around,2
+world,4
 rothschild,2
 et,16
 al,16
@@ -130,6 +127,8 @@ biotechnological,26
 community,6
 agreement,62
 aspect,5
+intellectual,17
+property,23
 well,4
 international,8
 body,2
@@ -150,16 +149,13 @@ forum,1
 brought,2
 noted,6
 author,32
+journal,29
 compilation,26
-blackwell,26
-publishing,26
-ltd,26
 rapid,1
 development,11
 drawn,1
 relation,5
 event,1
-introduction,1
 transgenic,1
 technology,14
 agricultural,11
@@ -437,7 +433,7 @@ bently,18
 sherman,18
 often,4
 explained,1
-reference,2
+reference,1
 undermined,1
 made,6
 outside,1
@@ -881,7 +877,6 @@ evolving,2
 continuous,2
 reﬂected,1
 concretize,2
-abstract,1
 formulated,3
 valuable,1
 society,2

@@ -1,8 +1,4 @@
 word/phrase,value,class
-journal,1
-world,2
-intellectual,4
-property,4
 vol,1
 pp,1
 doi,1
@@ -39,6 +35,8 @@ regime,4
 comply,2
 trade,4
 related,3
+intellectual,3
+property,3
 right,6
 agreement,3
 theory,1
@@ -91,6 +89,7 @@ keywords,1
 r&d,1
 context,1
 aegis,1
+world,1
 organization,1
 ensuing,1
 change,1

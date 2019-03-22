@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,3
-journal,5
-cultural,40
-property,23
 printed,1
 copyright,1
-society,4
 protecting,7
 culture,45
 marine,39
@@ -14,7 +9,6 @@ law,48
 micronesia,73
 sam,2
 edwards*,1
-abstract,1
 traditional,33
 two,11
 important,16
@@ -48,6 +42,7 @@ advance,1
 new,14
 tort,4
 theory,16
+cultural,38
 compensate,10
 victim,7
 case,84
@@ -132,17 +127,6 @@ also,7
 colleague,1
 advice,1
 input,1
-downloaded,20
-university,23
-bristol,20
-library,21
-mar,20
-subject,20
-cambridge,20
-core,20
-term,21
-use,25
-available,22
 present,3
 following,6
 question,1
@@ -235,6 +219,7 @@ undercompensated,1
 discus,1
 various,2
 method,15
+available,2
 current,4
 inadequate,2
 fully,6
@@ -301,6 +286,7 @@ lagoon,11
 associated,1
 essential,1
 element,3
+property,21
 ownership,4
 extending,1
 submerged,3
@@ -411,6 +397,7 @@ normal,1
 tide,1
 rosokow,3
 bob,3
+use,5
 form,2
 read,1
 together,1
@@ -526,6 +513,7 @@ although,3
 entire,4
 grow,1
 short,2
+term,1
 comprehensive,1
 examination,1
 accordance,1
@@ -762,6 +750,7 @@ valdez,6
 wish,1
 treat,1
 manner,1
+society,3
 wrong,1
 abandon,1
 projection,1
@@ -1324,6 +1313,7 @@ south,3
 topic,1
 regional,1
 programme,1
+international,1
 perspective,1
 accessed,1
 june,1
@@ -1331,6 +1321,8 @@ commissioner,2
 justin,1
 revising,1
 conception,1
+journal,4
+library,1
 txtlne,1
 francis,1
 russell,1
@@ -1344,6 +1336,7 @@ ambio,1
 gretchen,1
 emerging,1
 illinois,1
+university,3
 biotoxins,1
 agriculture,1
 health,1

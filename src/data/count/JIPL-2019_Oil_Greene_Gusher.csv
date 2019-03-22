@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,7
-intellectual,7
-property,23
-law,38
-practice,18
-vol,6
 oil,55
 state,66
 greene,7
@@ -23,6 +17,7 @@ right,57
 correctly,1
 review,13
 case,58
+law,32
 concerning,4
 private,12
 distinction,2
@@ -54,6 +49,7 @@ impose,1
 administrative,14
 penalty,2
 unfair,1
+practice,12
 chief,5
 justice,61
 hughes,1
@@ -191,6 +187,7 @@ email,1
 slip,2
 april,4
 published,2
+journal,1
 previous,4
 development,2
 connection,2
@@ -227,11 +224,6 @@ oxford,1
 university,1
 press,1
 reserved,1
-doijiplpjpy,1
-advance,1
-access,1
-publication,1
-july,2
 provide,2
 integral,1
 part,1
@@ -392,6 +384,7 @@ mossinghoff,1
 orleans,1
 louisiana,2
 saint,1
+property,17
 dat,1
 waived,2
 presented,3
@@ -502,6 +495,7 @@ enumerating,1
 act,8
 ch,2
 stat,2
+july,1
 force,4
 superintend,1
 perform,1
@@ -738,6 +732,7 @@ attention,2
 owning,1
 idea,1
 history,4
+intellectual,1
 thesis,1
 harvard,1
 strongly,1

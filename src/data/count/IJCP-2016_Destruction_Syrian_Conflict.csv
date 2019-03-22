@@ -1,12 +1,9 @@
 word/phrase,value,class
-international,104
-journal,10
-cultural,164
-property,89
 printed,1
 copyright,1
-society,4
 destruction,63
+cultural,161
+property,86
 syrian,46
 conflict,88
 legal,31
@@ -18,7 +15,6 @@ nibal,1
 muhesen,1
 marina,3
 lostal,9
-abstract,1
 come,5
 syria,91
 entered,2
@@ -39,6 +35,7 @@ provide,8
 overview,5
 explanation,2
 national,22
+international,101
 framework,18
 protecting,5
 applies,5
@@ -81,7 +78,7 @@ east,1
 north,3
 africa,1
 institute,5
-university,42
+university,11
 oxford,8
 united,12
 kingdom,3
@@ -115,16 +112,6 @@ version,1
 roger,3
 military,53
 necessity,13
-downloaded,31
-bristol,31
-library,34
-mar,31
-subject,33
-cambridge,33
-core,34
-term,35
-use,45
-available,34
 protection,52
 armed,32
 feature,2
@@ -203,6 +190,7 @@ hostility,5
 bind,2
 respect,9
 promote,4
+core,3
 constitutes,2
 crime,30
 certain,3
@@ -343,6 +331,7 @@ cause,8
 prevention,3
 location,4
 political,4
+use,14
 accidental,1
 collateral,1
 clash,1
@@ -418,6 +407,7 @@ caused,4
 iconoclasm,6
 form,6
 seventeenthcentury,1
+term,4
 specifically,2
 mean,6
 breaking,1
@@ -599,6 +589,7 @@ aleppo,8
 citadel,5
 umayyad,3
 structural,2
+library,3
 minaret,4
 examination,2
 determined,2
@@ -784,6 +775,7 @@ responsibility,8
 nation,8
 territory,5
 avoid,2
+subject,2
 waiver,3
 member,8
 engaging,1
@@ -1047,6 +1039,7 @@ experience,2
 suggested,2
 similar,2
 material,2
+available,3
 market,3
 followed,1
 operational,1
@@ -1308,6 +1301,7 @@ operation,2
 libya,3
 enforce,2
 value,3
+society,3
 created,5
 attempting,1
 consequence,1
@@ -1960,6 +1954,7 @@ para,2
 maamoun,1
 annual,1
 cheikhmous,1
+journal,8
 eastern,4
 retrospective,1
 analysis,1
@@ -2094,6 +2089,7 @@ jacqueline,1
 humanitaeres,1
 voelkerrecht,1
 powys,1
+cambridge,2
 handbook,4
 fleck,1
 melborne,1

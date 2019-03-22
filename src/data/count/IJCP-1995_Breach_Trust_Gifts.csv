@@ -5,14 +5,13 @@ gift,121
 collection,256
 selby,33
 whittingham*,1
-introduction,2
 portrait,11
 outcome,2
 contest,1
 artist,24
 sitter,1
 museum,218
-subject,74
+subject,18
 tug-of-war,1
 donor,72
 recipient,4
@@ -132,16 +131,6 @@ general,15
 rule,4
 editor,1
 turner,106
-downloaded,56
-university,75
-bristol,56
-library,63
-mar,56
-cambridge,58
-core,57
-term,69
-use,61
-available,60
 whittingham,35
 little,9
 possible,11
@@ -332,6 +321,7 @@ wording,7
 deed,13
 difficulty,5
 readily,2
+available,4
 interpretation,4
 better,12
 understood,1
@@ -344,6 +334,7 @@ example,11
 acted,4
 precedent,5
 begin,3
+university,19
 consider,8
 large,12
 municipal,3
@@ -460,6 +451,7 @@ newly-created,1
 sunk,1
 court,26
 proposed,9
+use,5
 move,7
 basement,1
 store,7
@@ -651,6 +643,7 @@ modelled,1
 obtaining,1
 respect,7
 regard,14
+library,7
 george,9
 lord,14
 ashburton,1
@@ -844,6 +837,7 @@ irrelevant,1
 felt,1
 bound,4
 honour,2
+term,13
 inconvenient,2
 contrary,4
 left,27
@@ -1538,6 +1532,7 @@ generally,1
 wholly,2
 cease,1
 thereupon,1
+cambridge,2
 thereafter,1
 returned,3
 existed,2
@@ -2631,6 +2626,7 @@ prejudiced,1
 treatment,2
 class,2
 undisturbed,1
+core,1
 surely,2
 angry,1
 shadow,1
@@ -2708,7 +2704,6 @@ lifeblood,1
 pious,2
 obviously,1
 continues,1
-acknowledgement,1
 read,3
 draft,1
 susan,5

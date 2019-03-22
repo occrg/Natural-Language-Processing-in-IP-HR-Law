@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,10
-journal,6
-cultural,38
-property,7
 printed,1
 copyright,1
-society,3
 winning,4
 title,11
 land,106
@@ -16,10 +11,10 @@ site,35
 heritage,32
 shoshaunna,4
 parks*,1
-abstract,1
 struggle,16
 indigenous,66
 right,83
+cultural,35
 parallel,3
 belize,73
 belizean,30
@@ -30,6 +25,7 @@ activity,2
 older,2
 year,6
 age,3
+property,4
 state,17
 similarly,1
 inhabited,2
@@ -129,23 +125,13 @@ reservation,6
 settlement,3
 laboratory,1
 archaeology,39
-university,29
+university,10
 north,5
 carolina,1
 chapel,1
 hill,1
 email,1
 hotmailcom,1
-downloaded,19
-bristol,19
-library,19
-mar,19
-subject,21
-cambridge,20
-core,19
-term,21
-use,31
-available,23
 map,1
 lize,1
 grant,7
@@ -157,6 +143,7 @@ farmer,1
 natural,9
 resource,36
 precarious,1
+subject,2
 usurpation,1
 mean,4
 brought,1
@@ -362,6 +349,7 @@ location,2
 colonially,1
 conceived,1
 remain,6
+use,12
 today,1
 thus,6
 recourse,3
@@ -665,6 +653,7 @@ made,2
 concluded,1
 defendant,3
 bound,1
+international,7
 member,4
 hold,2
 occupy,1
@@ -902,6 +891,7 @@ situation,1
 disenfranchisement,1
 around,1
 world,3
+term,2
 establishes,1
 social,1
 religious,1
@@ -1027,6 +1017,7 @@ almost,1
 entirely,1
 carried,1
 researcher,1
+society,2
 alliance,3
 organizer,1
 released,1
@@ -1302,6 +1293,7 @@ lucas,2
 jr,1
 file,4
 reporter,2
+available,4
 leaders&match⫽,1
 accessed,4
 february,3
@@ -1375,6 +1367,7 @@ lenzerini,1
 oxford,3
 arturo,1
 postcolonialism,1
+journal,4
 latin,3
 study,3
 sonya,1
@@ -1414,6 +1407,7 @@ brodie,1
 doole,1
 colin,1
 renfrew,1
+cambridge,1
 monograph,1
 liza,1
 dispossession,1

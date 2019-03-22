@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,21
-world,25
-intellectual,19
-property,20
-vol,14
+vol,1
 pp,7
 doi,1
 jwip,1
@@ -164,9 +160,6 @@ proper,1
 learn,2
 less-inventive,1
 ccid,14
-blackwell,14
-publishing,14
-ltd,14
 local,6
 chen,2
 puttitanun,2
@@ -267,12 +260,15 @@ merit,2
 well,1
 recognized,3
 best,4
+world,11
 th,2
 international,8
 exhibition,1
 geneva,2
 won,4
 prestigious,1
+intellectual,5
+property,6
 organization,4
 award,8
 press,3
@@ -882,7 +878,6 @@ future,2
 relational,1
 psychological,1
 in-depth,1
-reference,1
 role,3
 canadian,1
 policy,10
@@ -895,6 +890,7 @@ risk,1
 seeking,1
 loving,1
 economic,4
+journal,7
 philossaint,1
 kijai,1
 bailey,1

@@ -13,7 +13,7 @@ def plot(Xs, Ys, Zs, Cs):
     Ys  ([date])  -- the date that each sample document was created.
     Cs  ([str])   -- the colour that each set should be.
     """
-    ZsScale = [(x - 0.06) * 9 for x in Zs]
+    ZsScale = [(x - 0.06) * 7 for x in Zs]
     fig = plt.figure()
     ax = Axes3D(fig)
     labels = ['Human Rights', 'Intellectual Property']

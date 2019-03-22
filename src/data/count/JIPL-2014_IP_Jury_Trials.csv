@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,3
-intellectual,3
-property,3
-law,23
-practice,6
-vol,3
 jury,57
 trial,48
 trouble,3
@@ -89,10 +83,12 @@ raise,2
 substantial,10
 issue,5
 constitutional,3
+law,20
 properly,1
 understood,1
 far-ranging,2
 implication,4
+practice,3
 general,3
 historical,1
 recognition,1
@@ -224,11 +220,6 @@ oxford,1
 university,1
 press,1
 reserved,1
-doijiplpjpu,1
-advance,1
-access,2
-publication,1
-april,2
 generally,2
 administrativelaw,1
 regulatory,1
@@ -346,6 +337,7 @@ automotive,1
 affected,1
 interest,4
 monopoly,3
+access,1
 free,4
 open,1
 market,1
@@ -696,6 +688,7 @@ opposite,1
 completed,1
 event,1
 tx,1
+april,1
 payne,1
 noteworthy,1
 precedental,1

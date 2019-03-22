@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,2
-intellectual,4
-property,4
-law,22
-practice,3
-vol,2
 patent,62
 damage,66
 european,10
@@ -27,6 +21,8 @@ recent,2
 statistic,2
 published,7
 world,1
+intellectual,2
+property,2
 organization,1
 suggest,1
 non-resident,2
@@ -123,6 +119,7 @@ netherlands,6
 italy,5
 historical,3
 difference,6
+law,20
 indicates,2
 may,13
 arise,2
@@ -154,6 +151,7 @@ director,1
 forensic,1
 dispute,2
 service,1
+practice,1
 focus,2
 provision,3
 expert,1
@@ -362,7 +360,7 @@ portuguese,1
 presidency,2
 working,2
 document,2
-july,2
+july,1
 followed,1
 slovenian,1
 january,1
@@ -565,8 +563,4 @@ regional,1
 affair,1
 detailed,1
 knowledge,1
-doijiplpjpn,1
-advance,1
-access,1
-publication,1
 november,1

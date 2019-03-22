@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,6
-intellectual,7
-property,7
-law,16
-practice,6
-vol,5
 ad,67
 text,18
 stupid,6
@@ -38,7 +32,7 @@ however,18
 disappointed,1
 march,7
 following,6
-reference,4
+reference,1
 french,7
 cour,2
 de,11
@@ -155,6 +149,7 @@ bavaria,1
 germany,2
 host,2
 linksandlawinfo,1
+law,11
 relating,2
 hyperlink,3
 search,70
@@ -357,6 +352,10 @@ bei,1
 ecolex,2
 clark,1
 decides,1
+journal,1
+intellectual,2
+property,2
+practice,1
 nochmals,1
 unter,1
 verwendung,2

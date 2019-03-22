@@ -1,8 +1,4 @@
 word/phrase,value,class
-journal,35
-world,41
-intellectual,36
-property,36
 vol,35
 pp,1
 doi,1
@@ -224,6 +220,9 @@ formulated,2
 arbitration,3
 mediation,2
 center,3
+world,6
+intellectual,1
+property,1
 organization,3
 compendium,1
 consensus,6
@@ -479,12 +478,11 @@ true,3
 universality,1
 word,15
 primarily,6
-reference,11
+reference,10
 uniformity,1
 across,3
 minimum,1
 implicit,1
-introduction,2
 scope,8
 need,4
 applied,11
@@ -837,7 +835,6 @@ unanimous,1
 side-by-side,2
 something,1
 cannot,8
-abstract,1
 still,2
 confused,3
 reiterated,1

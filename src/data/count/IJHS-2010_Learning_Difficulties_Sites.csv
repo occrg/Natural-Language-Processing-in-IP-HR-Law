@@ -1,40 +1,16 @@
 word/phrase,value,class
-international,15
-journal,19
-heritage,90
-study,16
-print,2
-online,4
-homepage,3
-including,5
-people,115
-learning,99
-difficulty,82
-cultural,44
-site,102
-jonathan,5
-rix,22
-ticky,5
-lowe,4
-forum,82
-cite,1
-link,3
-published,2
-apr,1
-submit,1
-view,17
-citing,2
-article,2
-full,5
-term,6
-condition,1
-access,41
-use,14
-found,5
-vol,1
-may,5
+including,3
+people,113
+learning,96
+difficulty,79
+cultural,41
+heritage,72
+site,99
+jonathan,3
 rixa*,1
+ticky,3
 loweb,1
+forum,80
 education,10
 open,3
 university,3
@@ -49,9 +25,10 @@ january,1
 final,4
 version,2
 december,7
-taylor,3
-francis,4
+taylor,2
+francis,3
 print-,1
+online,1
 original,5
 april,1
 paper,13
@@ -59,8 +36,8 @@ examines,1
 process,21
 involved,11
 participatory,2
-inclusive,17
-research,47
+inclusive,16
+research,46
 liverpool,13
 merseyside,5
 visiting,1
@@ -98,8 +75,6 @@ best,11
 include,4
 diverse,4
 population,7
-keywords,1
-introduction,1
 growing,2
 appreciation,1
 need,48
@@ -109,6 +84,7 @@ within,18
 rayner,5
 economou,2
 ruiz,5
+rix,20
 value,9
 practitioner,4
 work,21
@@ -128,6 +104,7 @@ remembering,2
 communicating,2
 development,7
 facilitated,2
+access,39
 based,4
 improving,1
 disabled,7
@@ -249,6 +226,7 @@ advised,1
 consult,1
 effectiveness,1
 planned,2
+published,1
 relates,1
 academic,12
 little,4
@@ -258,6 +236,7 @@ andor,7
 primary,1
 focus,8
 mind,2
+print,1
 discus,3
 took,5
 place,7
@@ -283,6 +262,7 @@ designed,4
 public,1
 includes,1
 available,19
+journal,4
 related,1
 evidence,4
 important,8
@@ -321,6 +301,7 @@ understanding,4
 note,8
 importance,7
 colour,4
+use,13
 highlight,3
 focussed,1
 upon,8
@@ -461,6 +442,7 @@ lead,2
 improved,2
 life,4
 represent,2
+view,15
 treated,1
 respect,3
 latter,3
@@ -527,6 +509,7 @@ pointed,1
 exist,1
 law,1
 broad-brush,1
+term,5
 facilitate,8
 funders,5
 described,2
@@ -558,6 +541,7 @@ day,3
 service,3
 varied,1
 four,3
+full,4
 depending,1
 twenty-five,1
 early,2
@@ -584,6 +568,7 @@ leader,4
 created,2
 funding,2
 partnership,2
+link,2
 local,2
 administrative,1
 network,1
@@ -640,6 +625,7 @@ continue,3
 evaluative,2
 decided,1
 wished,6
+found,4
 got,2
 happened,1
 welcome,5
@@ -893,6 +879,7 @@ motivation,1
 underpin,1
 usually,2
 wide,5
+may,4
 exploit,1
 potential,2
 literacy,2
@@ -1146,6 +1133,7 @@ delivered,1
 solution,4
 emphasised,1
 relevance,1
+study,3
 earlier,1
 shown,1
 met,1
@@ -1234,7 +1222,6 @@ assessed,1
 begin,1
 evaluating,1
 traditionally,1
-acknowledgement,2
 capital,1
 mersey,1
 knowsley,2
@@ -1289,6 +1276,7 @@ inclu,1
 sion,1
 capturing,1
 function,1
+lowe,2
 professional,2
 multisensory-interactive,1
 piece,1
@@ -1353,7 +1341,6 @@ eileen,1
 willshaw,1
 kate,1
 rodenhurst,1
-reference,1
 changeling,1
 citizen,1
 davy,1
@@ -1369,6 +1356,7 @@ soft,1
 trajectory,1
 ethnographic,1
 field,1
+international,2
 qualitative,2
 decade,1
 reflection,2
@@ -1445,6 +1433,7 @@ london,4
 david,1
 fulton,1
 library,1
+homepage,2
 avail,1
 able,1
 evaluate,1

@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,73
-world,63
-intellectual,52
-property,56
-vol,22
+vol,1
 pp,5
 doi,1
 j-x,1
@@ -13,6 +9,7 @@ literature,38
 review,39
 piracy,284
 around,33
+world,41
 nixon,23
 kariithi,23
 university,28
@@ -60,6 +57,8 @@ keywords,1
 copyright,38
 information,56
 good,36
+intellectual,30
+property,34
 right,30
 deﬁnition,7
 conceptual,9
@@ -215,9 +214,6 @@ conﬂuence,1
 capitalist,2
 dominant,3
 granstrand,4
-blackwell,22
-publishing,22
-ltd,22
 reasoning,1
 underpins,1
 common,8
@@ -265,7 +261,6 @@ parcel,1
 past,3
 medium,29
 revolution,1
-introduction,3
 printing,1
 press,4
 phonograph,1
@@ -1215,7 +1210,7 @@ depoorter,2
 parisi,2
 cook,2
 contain,1
-bibliography,2
+bibliography,1
 respective,1
 sub-ﬁelds,1
 hayes,2
@@ -1927,7 +1922,6 @@ course,1
 share,1
 deﬁnitely,1
 step,1
-reference,1
 ajzen,2
 kuhi,1
 beckmann,1
@@ -1935,6 +1929,7 @@ ed,3
 springer,1
 heidelberg,1
 evidence,6
+journal,51
 letter,4
 allocation,1
 invention,1

@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,23
-intellectual,36
-property,37
-law,54
-practice,29
-vol,13
 evidence,289
 policy,155
 thomas,14
@@ -19,7 +13,6 @@ prof,5
 sir,1
 robin,1
 jacob,1
-introduction,3
 examines,2
 nature,18
 context,8
@@ -31,6 +24,8 @@ aftermath,1
 digital,5
 opportunity,4
 review,156
+intellectual,24
+property,25
 growth,16
 report,20
 commissioned,4
@@ -366,6 +361,7 @@ exercise,3
 continued,2
 present,8
 day,3
+practice,17
 parliamentary,4
 person,9
 supposed,2
@@ -417,6 +413,7 @@ outcome,9
 least,9
 gathering,1
 ﬁeld,9
+law,42
 reform,11
 conditioned,1
 inclusiveness,1
@@ -766,6 +763,7 @@ alternative,2
 inaction,1
 face,3
 poor,2
+journal,11
 benjamin,1
 time,9
 ofﬁcial,5
@@ -1532,7 +1530,6 @@ reception,5
 century,1
 practitioner,2
 deﬁnition,6
-abstract,1
 english,7
 statute,3
 bentham,2
@@ -1554,6 +1551,7 @@ nonexistence,1
 per,8
 hunt,2
 clarke,2
+vol,1
 us,1
 commonly,1
 refers,1

@@ -1,7 +1,7 @@
 word/phrase,value,class
 armed,74
 actor,11
-cultural,183
+cultural,180
 heritage,171
 conflict,71
 marina,4
@@ -10,7 +10,6 @@ kristin,4
 hausler†,1
 pascal,1
 bongard††,1
-abstract,1
 present,8
 preliminary,2
 finding,2
@@ -29,7 +28,7 @@ organization,21
 dedicated,3
 promoting,4
 respect,16
-international,50
+international,47
 humanitarian,9
 law,27
 centre,2
@@ -87,7 +86,7 @@ news,2
 many,8
 occasion,2
 hague,21
-university,27
+university,6
 applied,2
 science,1
 netherlands,1
@@ -104,18 +103,6 @@ policy,11
 legal,11
 unit,7
 switzerland,3
-downloaded,21
-bristol,21
-library,23
-mar,21
-subject,22
-cambridge,26
-core,21
-term,24
-use,34
-available,23
-journal,4
-property,38
 printed,1
 old,7
 city,11
@@ -151,6 +138,7 @@ often,5
 known,3
 great,4
 also,30
+library,2
 consumed,1
 flame,1
 palmyra,6
@@ -221,6 +209,7 @@ mausoleum,6
 door,1
 sidi,1
 yahia,1
+use,13
 worship,1
 deemed,1
 idolatrous,1
@@ -289,6 +278,7 @@ accountability,1
 office,5
 congressional,2
 requester,2
+property,35
 august,3
 ian,1
 black,1
@@ -431,6 +421,7 @@ para,12
 committee,9
 red,3
 cross,4
+term,3
 opinion,1
 paper,1
 person,4
@@ -1198,6 +1189,7 @@ return,2
 began,1
 gave,1
 advice,3
+subject,1
 chief,1
 adviser,1
 active,2
@@ -1264,6 +1256,7 @@ problem,2
 arising,1
 envisage,2
 possibility,3
+available,2
 mean,4
 communication,1
 unidirectional,1
@@ -1691,6 +1684,7 @@ patty,1
 looking,2
 cardozo,1
 ethic,1
+journal,2
 edited,2
 stuart,1
 oxford,4
@@ -1706,6 +1700,7 @@ publisher,1
 louise,1
 customary,1
 vol,1
+cambridge,5
 zoe,1
 libya,2
 texas,1

@@ -28,8 +28,8 @@ fate,3
 wartime,3
 development,6
 concept,6
-cultural,25
-property,25
+cultural,23
+property,23
 owed,2
 much,16
 careful,3
@@ -121,11 +121,6 @@ architecture,2
 university,32
 california,6
 irvine,1
-international,11
-journal,4
-vol,3
-pp,1
-society,4
 august,2
 began,2
 forum,5
@@ -529,6 +524,7 @@ seventeenth,4
 treatise,6
 foundation,3
 modern,6
+international,9
 despoiled,1
 acting,1
 sent,5
@@ -740,7 +736,7 @@ faced,1
 deed,1
 relevant,2
 constant,3
-reference,3
+reference,2
 monument,4
 dwells,1
 length,2
@@ -1867,6 +1863,7 @@ patronage,2
 chiron,1
 leen,1
 american,3
+journal,3
 berkeley,5
 los,5
 angeles,5
@@ -1936,6 +1933,7 @@ ziolkowski,1
 urbs,1
 direpta,1
 sacked,1
+society,3
 rich,1
 shipley,1
 paton,1
@@ -2174,6 +2172,7 @@ gen,1
 dobbs,1
 ferry,1
 marshall,4
+vol,2
 launching,1
 impeachment,2
 cantor,1

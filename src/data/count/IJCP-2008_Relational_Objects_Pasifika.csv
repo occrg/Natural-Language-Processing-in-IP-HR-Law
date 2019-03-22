@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,3
-journal,1
-cultural,9
-property,5
 printed,1
 copyright,1
-society,3
 relational,4
 object,28
 connecting,1
@@ -17,6 +12,8 @@ anita,2
 herle*,1
 debate,5
 around,1
+cultural,7
+property,3
 tend,1
 focus,3
 law,1
@@ -30,7 +27,7 @@ producing,1
 stereotype,1
 reinforce,1
 polarize,1
-term,23
+term,2
 common,1
 typically,2
 polemical,1
@@ -102,8 +99,8 @@ unsettling,1
 drawing,2
 experience,1
 exhibition,15
-university,32
-cambridge,41
+university,11
+cambridge,20
 archaeology,5
 anthropology,5
 process,3
@@ -160,14 +157,6 @@ carine,1
 durand,1
 joshua,1
 bell,1
-downloaded,21
-bristol,21
-library,21
-mar,21
-subject,22
-core,21
-use,27
-available,22
 jason,2
 hall,3
 do-it-yourself,3
@@ -197,6 +186,7 @@ ornament,7
 sense,3
 consideration,1
 access,1
+use,6
 interpretation,2
 instance,1
 reconnected,1
@@ -408,6 +398,7 @@ creativity,1
 auckland-based,1
 islander,1
 dialogue,3
+international,1
 youth,1
 performing,1
 collective,2
@@ -778,6 +769,7 @@ tightly,1
 closed,1
 leg,1
 fictive,1
+subject,1
 male,2
 gaze,1
 directly,3
@@ -895,7 +887,6 @@ purple,2
 silk,2
 pillow,2
 golden,2
-reference,1
 foreshore,4
 seabed,3
 act,2
@@ -1459,6 +1450,7 @@ possession,2
 text,11
 web,3
 log,1
+available,1
 accessed,2
 febru,1
 ary,1
@@ -1489,6 +1481,7 @@ valued,1
 bennett,2
 birth,2
 disciplinary,2
+society,2
 wilsonmp,1
 tony,1
 theory,1

@@ -1,8 +1,4 @@
 word/phrase,value,class
-journal,26
-world,25
-intellectual,25
-property,23
 vol,21
 pp,2
 doi,1
@@ -23,6 +19,7 @@ christoph,23
 laub,34
 european,18
 ofﬁce,11
+world,4
 leading,3
 system,54
 annually,6
@@ -110,7 +107,6 @@ international,9
 executive,7
 econometric,1
 measurement,1
-introduction,3
 past,1
 ten,2
 year,5
@@ -364,6 +360,7 @@ detailed,6
 consideration,8
 carrying,1
 framework,6
+journal,5
 individual,12
 applicability,2
 assessment,17
@@ -882,6 +879,7 @@ perfect,5
 reached,1
 long,2
 predictable,2
+intellectual,4
 meet,3
 contrast,3
 pragmatic,8
@@ -1058,6 +1056,7 @@ effort,1
 justiﬁcation,1
 carried,3
 organization,4
+property,2
 germany,4
 two-instance,1
 particularly,1
@@ -1333,7 +1332,6 @@ draft,2
 revised,1
 presidency,1
 table,2
-reference,1
 american,1
 association,1
 quarterly,1

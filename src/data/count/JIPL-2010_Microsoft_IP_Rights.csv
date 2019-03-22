@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,10
-intellectual,36
-property,39
-law,59
-practice,11
-vol,8
 microsoft,106
 decision,61
 setback,1
@@ -108,6 +102,7 @@ issue,10
 explores,2
 potential,8
 conﬂict,5
+law,51
 author,2
 discus,2
 function,5
@@ -169,6 +164,7 @@ grant,5
 right-holder,9
 exclusive,3
 use,16
+intellectual,28
 asset,3
 lecturer,1
 department,1
@@ -232,6 +228,7 @@ cir,1
 trade,4
 related,7
 aspect,3
+property,31
 agreement,3
 state,12
 protection,8
@@ -325,6 +322,7 @@ publishing,3
 guidance,3
 undertaking,15
 consider,4
+practice,3
 priority,3
 relates,1
 objectively,6
@@ -1342,6 +1340,7 @@ interaction,2
 telecommunication,2
 sector,6
 raines,1
+journal,2
 celex,1
 november,4
 carley,1
@@ -1916,7 +1915,6 @@ airport,2
 airline,3
 ryanair,1
 connection,1
-introduction,1
 financing,1
 start-up,1
 departing,1

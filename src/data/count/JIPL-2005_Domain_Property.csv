@@ -1,12 +1,7 @@
 word/phrase,value,class
-journal,4
-intellectual,10
-property,57
-law,10
-practice,3
-vol,3
 domain,112
 name,115
+property,54
 sheldon,3
 burshtein*,1
 become,1
@@ -54,6 +49,7 @@ although,2
 appellate,6
 authority,5
 hold,4
+intellectual,7
 submitted,5
 better,4
 judicially,3
@@ -113,6 +109,7 @@ question,5
 kind,1
 support,3
 state,9
+law,7
 claim,4
 conversion,6
 certified,1
@@ -212,6 +209,7 @@ like,1
 cow,1
 john,1
 marshall,1
+journal,1
 computer,1
 ask,1
 company,3
@@ -604,11 +602,6 @@ despite,1
 value,1
 likely,1
 differently,1
-doijiplpjpi,1
-advance,1
-access,1
-publication,1
-october,1
 s,2
 paeffgen,1
 ad-acta,1

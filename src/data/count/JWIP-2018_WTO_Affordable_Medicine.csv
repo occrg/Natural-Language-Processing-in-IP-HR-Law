@@ -53,7 +53,7 @@ declaration,44
 rare,2
 win,2
 third,7
-world,29
+world,28
 paper,9
 endeavor,1
 apply,5
@@ -92,9 +92,6 @@ monopoly,4
 public,65
 health,82
 author,3
-journal,20
-intellectual,31
-property,32
 john,4
 wiley,1
 son,1
@@ -103,6 +100,8 @@ wileyonlinelibrarycomjournaljwip,1
 intellect,2
 prop,2
 aspect,4
+intellectual,30
+property,31
 right,36
 required,14
 protection,6
@@ -1402,7 +1401,6 @@ re-exportation,3
 territory,2
 imported,2
 arbitrary,1
-abstract,1
 expertise,1
 evidence,4
 financial,1
@@ -1485,6 +1483,7 @@ candidate,2
 assistant,2
 main,2
 peer-reviewed,1
+journal,19
 mainly,2
 includes,1
 pro,1
@@ -1718,7 +1717,6 @@ reaching,1
 endgame,1
 amicus,1
 book,1
-introduction,1
 sreedhar,1
 ligade,1
 udupa,1

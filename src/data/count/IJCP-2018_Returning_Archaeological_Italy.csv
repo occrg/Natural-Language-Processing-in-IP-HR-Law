@@ -5,7 +5,6 @@ object,68
 italy,78
 david,34
 gill*,1
-abstract,1
 year,8
 since,3
 raid,9
@@ -107,7 +106,7 @@ material,61
 handled,9
 business,4
 school,1
-university,113
+university,74
 suffolk,2
 ipswich,1
 united,5
@@ -131,8 +130,8 @@ suggested,2
 using,1
 social,2
 medium,4
-cultural,22
-property,21
+cultural,16
+property,15
 nathan,3
 elkins,4
 elizabeth,3
@@ -148,18 +147,6 @@ see,15
 gill,82
 reversed,1
 auctioning,1
-downloaded,39
-bristol,39
-library,39
-mar,39
-subject,39
-cambridge,44
-core,39
-term,45
-use,41
-available,39
-international,12
-journal,35
 printed,1
 individual,8
 associate,2
@@ -498,6 +485,8 @@ source,5
 voluntary,1
 addition,5
 mosaic,2
+use,2
+term,6
 refer,1
 way,3
 move,2
@@ -515,6 +504,7 @@ nuanced,1
 issue,9
 emory,4
 established,4
+international,6
 scheme,1
 encouraged,3
 funerary,4
@@ -924,6 +914,7 @@ thus,2
 army,1
 penknife,1
 fitzwilliam,2
+cambridge,5
 even,4
 previous,2
 viewing,1
@@ -1107,6 +1098,7 @@ alberge,1
 say,1
 pull,1
 street,1
+journal,30
 sardinian,5
 outcry,1
 politician,1

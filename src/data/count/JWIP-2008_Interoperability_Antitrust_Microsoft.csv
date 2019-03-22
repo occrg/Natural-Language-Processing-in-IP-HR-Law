@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,53
-world,29
-intellectual,49
-property,51
-vol,25
+vol,1
 pp,2
 doi,1
 j-x,1
@@ -50,6 +46,8 @@ interest,7
 encroach,3
 upon,9
 exclusivity,2
+intellectual,24
+property,26
 rights-holders,3
 requiring,4
 grant,11
@@ -123,11 +121,6 @@ health,20
 two,8
 finally,3
 different,8
-author,31
-compilation,25
-blackwell,25
-publishing,26
-ltd,25
 ﬁrms,5
 setting,1
 provided,4
@@ -797,6 +790,7 @@ literary,2
 artistic,1
 dealing,3
 recalled,1
+author,6
 including,7
 exclusive,10
 authorizing,1
@@ -1154,6 +1148,7 @@ eliminated,2
 perceived,2
 elaborated,1
 contradicted,1
+world,4
 request,1
 elapsed,1
 issued,1
@@ -1464,6 +1459,7 @@ originally,1
 commissioned,1
 government,1
 book,1
+journal,3
 institute,3
 associate,1
 chartered,1
@@ -1553,7 +1549,6 @@ circuit,1
 comment,2
 thomas,1
 barnett,1
-reference,1
 paradigm,1
 interchangeability,1
 deﬁning,2
@@ -1566,6 +1561,7 @@ nouvelles,1
 hit,1
 wall,1
 chandos,1
+publishing,1
 oxford,2
 pugatch,1
 ed,1

@@ -1,10 +1,8 @@
 word/phrase,value,class
-journal,84
-world,50
-intellectual,90
-property,89
-vol,33
+vol,3
 pp,6
+intellectual,58
+property,57
 system,81
 china,111
 study,39
@@ -124,6 +122,7 @@ enforces,1
 manner,1
 divergence,1
 practising,1
+world,18
 make,2
 area,3
 vital,1
@@ -161,11 +160,6 @@ silberston,2
 established,6
 almost,9
 country,46
-author,33
-compilation,31
-blackwell,32
-publishing,34
-ltd,32
 consequentially,1
 become,4
 heated,1
@@ -801,6 +795,7 @@ subsequent,2
 patent-focused,1
 triad-power,1
 concentrated,4
+author,2
 popp,7
 advanced,6
 geographically,1
@@ -858,7 +853,6 @@ delay,2
 type,1
 complexity,3
 width,1
-reference,2
 citation,1
 biotechnology,1
 computer,1
@@ -1186,6 +1180,7 @@ managerial,1
 e-mail,1
 timing,1
 disclosure,1
+journal,21
 reforming,1
 posed,1
 uruguay,1
@@ -1246,9 +1241,12 @@ us,1
 renewal,1
 look,3
 american,3
+publishing,3
 beijing,4
 studying,1
 vanderbilt,1
+blackwell,1
+ltd,1
 oxford,2
 cost,1
 current,2

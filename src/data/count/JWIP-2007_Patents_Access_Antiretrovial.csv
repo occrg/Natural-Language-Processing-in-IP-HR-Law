@@ -1,10 +1,6 @@
 word/phrase,value,class
-journal,53
-world,42
-intellectual,39
-property,44
-vol,24
-no,24
+vol,1
+no,1
 pp,5
 doi,1
 j-x,1
@@ -13,6 +9,7 @@ access,58
 antiretroviral,30
 medicine,80
 vietnam,115
+world,17
 trade,23
 organization,19
 accession,26
@@ -151,11 +148,6 @@ society,4
 face,2
 economic,5
 social,4
-author,25
-compilation,24
-blackwell,24
-publishing,24
-ltd,26
 pressure,5
 appropriate,9
 healthcare,4
@@ -290,6 +282,7 @@ four,1
 manufacturer,6
 licence,34
 company,31
+ltd,2
 actually,1
 producing,1
 currently,6
@@ -477,6 +470,8 @@ certain,4
 search,2
 documentation,1
 ofﬁce,2
+intellectual,14
+property,19
 found,4
 protection,29
 subject,10
@@ -634,7 +629,6 @@ chapter,4
 matter,4
 demanded,1
 vale,2
-introduction,2
 requirement,5
 utility,3
 solution,6
@@ -1352,6 +1346,7 @@ zidovudine+lamivudine+abacavir,1
 yes,38
 yes,2
 lopinavirritonavir,1
+author,1
 hons,1
 thai,1
 bar,1
@@ -1410,10 +1405,10 @@ negotiatorsprocurement,1
 trained,1
 help,1
 institution,1
-reference,1
 final,1
 committee,1
 association,1
+journal,4
 news,1
 conﬂicts,1
 innovation,1

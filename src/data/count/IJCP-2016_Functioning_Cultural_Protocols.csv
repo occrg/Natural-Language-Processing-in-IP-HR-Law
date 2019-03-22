@@ -1,13 +1,9 @@
 word/phrase,value,class
-international,12
-journal,9
-cultural,154
-property,21
 printed,1
 copyright,14
-society,10
 functioning,3
 indigenous,176
+cultural,150
 protocol,191
 australia,79
 contemporary,26
@@ -17,7 +13,6 @@ marianne,2
 riphagen,4
 gretchen,3
 stolte,6
-abstract,1
 recent,2
 decade,5
 emerged,3
@@ -50,7 +45,7 @@ operate,3
 conduit,2
 correcting,3
 unauthorized,3
-use,71
+use,45
 material,52
 yet,11
 disjunction,2
@@ -86,13 +81,14 @@ late,4
 twentieth,1
 century,2
 intellectual,13
+property,17
 right,31
 understood,2
 anthropology,7
 development,8
 study,25
 radboud,1
-university,36
+university,10
 nijmegen,1
 netherlands,1
 email,2
@@ -106,16 +102,9 @@ social,6
 science,1
 australian,68
 national,9
-downloaded,26
-bristol,26
-library,29
-mar,26
-subject,27
-cambridge,27
-core,26
-term,30
-available,26
+subject,1
 increasing,1
+international,8
 debate,7
 country,8
 like,5
@@ -163,6 +152,7 @@ form,9
 collected,1
 colonial,5
 era,2
+society,9
 across,1
 faced,1
 genocide,1
@@ -1104,6 +1094,7 @@ perpetuation,1
 problematic,1
 referenced,1
 personal,19
+term,4
 statement,2
 communicate,2
 publication,3
@@ -1296,6 +1287,7 @@ reflect,2
 sic,1
 system,3
 self-governing,3
+library,3
 demand,1
 client,1
 scholar,1
@@ -1723,6 +1715,7 @@ copyleft,1
 juridifications,1
 customary,1
 macquarie,1
+journal,6
 copyrighted,1
 current,1
 monthly,3
@@ -1832,6 +1825,7 @@ economy,1
 rishab,1
 aiyer,1
 ghosh,1
+cambridge,1
 decolonizing,1
 changing,1
 contract,1

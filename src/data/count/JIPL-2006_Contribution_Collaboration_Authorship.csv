@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,7
-intellectual,15
-property,23
-law,29
-practice,8
-vol,6
 contribution,112
 collaboration,18
 joint,107
@@ -13,7 +7,6 @@ many,4
 misconception,4
 lior,5
 zemer*,1
-introduction,2
 ownership,13
 authorial,5
 artistic,1
@@ -43,6 +36,7 @@ acknowledge,1
 existence,1
 grudgingly,1
 consequence,2
+practice,2
 include,1
 denial,1
 economic,2
@@ -58,6 +52,7 @@ concept,9
 destabilization,1
 incentive-based,1
 rationale,1
+intellectual,9
 also,12
 reinforces,1
 lone,1
@@ -112,6 +107,7 @@ affect,1
 court,49
 apply,4
 lecturer,1
+law,23
 university,5
 leicester,1
 visiting,1
@@ -131,6 +127,7 @@ carys,1
 craig,1
 comment,1
 marchese,2
+property,17
 jaszi,2
 effect,3
 contemporary,1
@@ -472,6 +469,7 @@ collaborate,1
 shall,1
 examine,2
 subsequent,1
+journal,1
 cescinsky,1
 george,2
 routledge,1
@@ -887,7 +885,7 @@ beginning,1
 creative-step,1
 feist,2
 demonstrated,1
-publication,2
+publication,1
 inc,1
 rural,1
 telephone,1
@@ -1331,8 +1329,3 @@ brick,1
 wall,1
 unbalanced,1
 solitary,1
-doi,1
-jiplpjpl,1
-advance,1
-access,1
-january,1

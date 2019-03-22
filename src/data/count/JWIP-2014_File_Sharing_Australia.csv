@@ -1,8 +1,4 @@
 word/phrase,value,class
-journal,27
-world,22
-intellectual,31
-property,31
 vol,16
 pp,5
 doi,2
@@ -72,7 +68,6 @@ male,3
 sharer,10
 keywords,1
 ﬁle-sharing,17
-introduction,1
 type,4
 crime,12
 infringement,38
@@ -221,6 +216,8 @@ mark,1
 all-time-high,1
 persistent,1
 controversy,1
+intellectual,16
+property,16
 owner,13
 user,15
 different,2
@@ -288,6 +285,7 @@ prominent,1
 reported,3
 medium,13
 highest,3
+world,7
 taylor,3
 according,2
 data,11
@@ -629,7 +627,7 @@ must,1
 expeditiously,1
 remove,2
 disable,1
-reference,3
+reference,2
 speciﬁed,1
 carriage,1
 protecting,2
@@ -1334,6 +1332,7 @@ los,1
 angeles,1
 february,1
 rethinking,1
+journal,12
 criminology,2
 battle,1
 weapon,1

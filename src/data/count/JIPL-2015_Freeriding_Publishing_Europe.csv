@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,11
-intellectual,18
-property,17
-law,69
-practice,10
-vol,11
 free-riding,9
 comparative,2
 analysis,8
@@ -95,6 +89,7 @@ mainly,1
 focused,2
 application,6
 copyright,83
+law,63
 conduct,8
 special,5
 attention,5
@@ -229,7 +224,11 @@ particular,21
 denicola,1
 may,21
 fordham,1
+intellectual,12
+property,11
 entertainment,2
+journal,5
+vol,5
 blog,4
 future,2
 cost,2
@@ -252,11 +251,6 @@ published,4
 oxford,1
 right,28
 reserved,1
-doijiplpjpv,1
-advance,1
-access,10
-publication,5
-april,4
 others,15
 without,12
 appropriate,5
@@ -296,6 +290,7 @@ regulate,1
 adequately,1
 incentive,3
 creativity,4
+access,9
 conceived,1
 supranational,2
 level,5
@@ -354,6 +349,7 @@ sometimes,1
 difﬁcult,2
 provide,3
 especially,4
+practice,4
 jurisdiction,3
 around,1
 drexl,1
@@ -491,6 +487,7 @@ project,1
 rise,1
 implication,2
 best,2
+publication,4
 calin,2
 dellarocas,3
 palme,1
@@ -1025,7 +1022,6 @@ du,1
 collected,1
 displayed,2
 sentence,1
-introduction,1
 concerning,3
 albeit,1
 view,1
@@ -1151,6 +1147,7 @@ ple´n,1
 index,2
 written,1
 supremo,3
+april,3
 flexible,2
 add,1
 actual,2

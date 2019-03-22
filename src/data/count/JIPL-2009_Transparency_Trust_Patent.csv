@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,5
-intellectual,8
-property,7
-law,6
-practice,5
-vol,4
 transparency,14
 trust,31
 patent,75
@@ -199,7 +193,7 @@ restricted,1
 monopoly,8
 return,3
 public,18
-access,10
+access,9
 encapsulates,1
 context,1
 implies,1
@@ -269,6 +263,7 @@ mind,2
 thing,1
 formerly,1
 accepted,1
+property,3
 uncommodiﬁable,1
 longer,2
 monopolistic,1
@@ -339,7 +334,7 @@ previously,3
 unimaginable,2
 risk,5
 beneﬁts,1
-advance,2
+advance,1
 acceptable,2
 others,2
 represent,1
@@ -371,6 +366,7 @@ boyle,3
 second,1
 movement,1
 construction,1
+law,2
 contemporary,1
 problem,8
 duke,1
@@ -542,6 +538,7 @@ confer,1
 practical,1
 excludability,1
 meet,1
+practice,1
 cover,1
 guellec,1
 van,2
@@ -768,6 +765,7 @@ limited,1
 emperor,1
 certain,2
 courtier,1
+journal,1
 philosophy,1
 cvetkovich,1
 lo¨fstedt,1
@@ -965,6 +963,7 @@ yoshida,1
 director,1
 japan,2
 chemical,1
+intellectual,4
 ﬁnding,1
 neglected,1
 disease,1
@@ -1171,6 +1170,3 @@ bear,1
 lubricates,2
 adapted,1
 twenty-ﬁrst,1
-doijiplpjpp,1
-publication,1
-september,1

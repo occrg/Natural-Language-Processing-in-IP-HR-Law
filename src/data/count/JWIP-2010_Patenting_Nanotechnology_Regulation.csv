@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,44
-world,34
-intellectual,36
-property,56
-vol,32
+vol,3
 pp,8
 doi,2
 j-x,1
@@ -123,6 +119,7 @@ thus,11
 basically,1
 basic,8
 substance,48
+property,26
 anybody,1
 apart,5
 court,9
@@ -139,9 +136,6 @@ prove,4
 eminent,1
 importance,1
 innovation,17
-blackwell,30
-publishing,30
-ltd,30
 inventor,3
 get,3
 right,5
@@ -170,9 +164,8 @@ exploration,1
 structured,1
 follows,3
 short,3
-introduction,1
 discussed,3
-reference,2
+reference,1
 requirement,19
 found,13
 impression,1
@@ -1516,7 +1509,6 @@ reﬂect,1
 branch,1
 multidisciplinary,3
 talent,1
-abstract,4
 deﬁne,1
 capability,2
 rub,1
@@ -1591,6 +1583,7 @@ real,2
 presuppose,1
 openness,1
 accountability,1
+world,4
 readability,1
 requiring,1
 understand,1
@@ -1638,6 +1631,7 @@ ease,1
 invest,1
 optimizing,1
 availability,1
+journal,14
 non-patent,1
 booked,1
 standard-setting,6
@@ -1840,6 +1834,7 @@ miller,1
 opportunity,2
 warning,1
 managing,1
+intellectual,6
 antitrust,2
 rethinking,1
 breadth,1

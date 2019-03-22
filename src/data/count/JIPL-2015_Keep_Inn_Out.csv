@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,4
-intellectual,6
-property,8
-law,8
-practice,4
-vol,4
 keep,3
 sachin,4
 bindal,4
@@ -21,6 +15,7 @@ include,3
 product,18
 ﬁeld,7
 pharmaceutical,23
+law,4
 domain,8
 kept,1
 alive,1
@@ -225,7 +220,7 @@ technology,3
 promotion,1
 division,1
 industryserviceslanding,1
-june,4
+june,3
 controller,1
 design,1
 trade,3
@@ -242,10 +237,6 @@ university,2
 press,1
 right,4
 reserved,1
-doijiplpjpv,1
-advance,1
-access,1
-publication,1
 table,13
 understanding,1
 indication,1
@@ -313,7 +304,6 @@ tetrahydronaphthalen,1
 thienyl,1
 tetrahydro,1
 naphthalenol,1
-abstract,7
 claim,7
 exclamation,1
 wildcard,1
@@ -424,6 +414,7 @@ clinical,1
 code,1
 systematic,1
 chemical,4
+abstract,1
 service,1
 registry,1
 etc,1
@@ -539,6 +530,7 @@ federal,1
 mexico,1
 regulation,2
 industrial,2
+property,4
 amendment,2
 imposed,1
 mexican,2
@@ -638,6 +630,7 @@ sa´nchez,1
 reform,1
 introduced,1
 managing,1
+intellectual,2
 no,1
 delhi,1
 judgement,1

@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,86
-world,44
-intellectual,48
-property,61
-vol,41
+vol,3
 pp,39
 doi,1
 j-x,1
@@ -48,6 +44,7 @@ convention,80
 protection,9
 literary,25
 artistic,9
+property,22
 established,8
 describe,3
 practice,18
@@ -166,11 +163,6 @@ period,5
 formation,5
 series,9
 evolved,1
-author,57
-compilation,39
-blackwell,40
-publishing,44
-ltd,39
 european,11
 prominent,7
 nervous,1
@@ -212,6 +204,7 @@ opposed,1
 north,8
 investment,5
 representation,2
+world,5
 would,16
 crucial,20
 became,15
@@ -220,6 +213,7 @@ naturally,2
 shared,3
 substantial,6
 number,2
+intellectual,9
 distinction,5
 grounded,3
 possibility,15
@@ -468,6 +462,7 @@ good,2
 exploring,1
 difﬁculties,5
 writing,4
+publishing,5
 automatically,2
 concluded,1
 free,3
@@ -599,7 +594,7 @@ citizenship,1
 publication,12
 alternative,2
 order,29
-reference,10
+reference,7
 applicability,2
 expert,2
 discussing,1
@@ -1373,7 +1368,6 @@ geared,1
 mediate,1
 search,1
 smooth,1
-introduction,1
 timely,1
 ﬁling,1
 included,3
@@ -1502,6 +1496,7 @@ augmented,1
 gentle,2
 endeavour,1
 sanitizing,1
+author,18
 attentive,1
 synchronize,1
 approach,3
@@ -1862,6 +1857,7 @@ promoted,1
 wider,1
 chronicle,3
 bibliographie,1
+journal,8
 ´en,2
 ´eral,1
 limprimerie,1
@@ -2597,7 +2593,6 @@ fragility,1
 normalization,1
 appreciation,1
 lends,1
-abstract,1
 inquiry,2
 ﬁve,1
 denounced,1
@@ -2856,6 +2851,7 @@ signos,1
 hispania,3
 breaking,1
 cooperative,1
+blackwell,1
 oxford,1
 idearium,1
 sn,2

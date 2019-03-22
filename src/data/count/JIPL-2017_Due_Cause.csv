@@ -1,15 +1,8 @@
 word/phrase,value,class
-journal,5
-intellectual,6
-property,6
-law,16
-practice,17
-vol,5
 due,117
 cause,117
 ilanah,6
 fhima*,1
-introduction,1
 trade,40
 mark,102
 directive,11
@@ -58,6 +51,7 @@ interpreted,9
 way,13
 preharmonization,1
 benelux,13
+law,11
 limited,16
 situation,12
 junior,89
@@ -159,6 +153,8 @@ press,1
 reserved,1
 fhima,5
 reader,1
+intellectual,1
+property,1
 co-director,1
 institute,1
 brand,6
@@ -205,6 +201,7 @@ alleviating,1
 strictness,1
 conjunction,1
 honest,12
+practice,12
 proviso,3
 general,7
 begin,1
@@ -235,11 +232,6 @@ vries,6
 red,8
 bull,8
 nederland,4
-doijiplpjpx,1
-advance,1
-access,1
-publication,1
-august,1
 proper,1
 pointer,1
 direction,1
@@ -438,7 +430,6 @@ matter,5
 instigation,1
 arise,4
 initially,2
-reference,2
 start,1
 come,3
 deﬁned,2
@@ -650,9 +641,9 @@ undertaken,1
 ordinarily,1
 expect,1
 speak,1
-abstract,2
 treaty,1
 functioning,1
+reference,1
 submitted,3
 tacit,1
 recognition,1

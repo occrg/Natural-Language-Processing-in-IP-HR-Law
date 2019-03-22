@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,24
-world,21
-intellectual,33
-property,49
-vol,20
+vol,1
 pp,7
 doi,1
 j-x,1
@@ -21,6 +17,8 @@ kunisawa,21
 max,2
 planck,2
 institute,8
+intellectual,13
+property,29
 competition,3
 tax,2
 law,61
@@ -164,9 +162,6 @@ used,17
 contrast,5
 describes,2
 indication,5
-blackwell,20
-publishing,21
-ltd,20
 third,2
 hereinafter,1
 simply,2
@@ -451,7 +446,6 @@ clariﬁcations,2
 almost,2
 year,3
 delay,2
-introduction,2
 evidencing,1
 capability,1
 deal,1
@@ -757,6 +751,7 @@ legitimacy,1
 doha,3
 declaration,3
 entitle,1
+world,1
 organization,2
 member,3
 adopt,2
@@ -939,7 +934,7 @@ derived,1
 analogous,1
 presenting,1
 vivo,1
-reference,2
+reference,1
 enough,1
 remember,1
 notwithstanding,1
@@ -1131,13 +1126,13 @@ model,1
 theory,1
 mathematical,1
 purely,1
-abstract,1
 concept,1
 scheme,1
 plan,1
 accounting,1
 ﬁnancial,1
 educational,1
+publishing,1
 lottery,1
 ﬁscal,1
 literary,1
@@ -1367,6 +1362,7 @@ lumen,1
 juris,1
 inconstitucionalidade,1
 revista,4
+journal,4
 perspective,1
 paper,1
 anvisa,1

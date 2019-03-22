@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,4
-journal,7
-cultural,7
-property,5
 printed,1
 copyright,1
-society,2
 boston,30
 rome,12
 reflection,1
@@ -15,7 +10,6 @@ david,4
 gill*,1
 christopher,2
 chippindale**,1
-abstract,1
 return,26
 classical,13
 museum,91
@@ -122,11 +116,11 @@ mediterranean,2
 archaeology,11
 school,1
 humanity,1
-university,43
+university,22
 wale,1
 swansea,1
 email,2
-cambridge,26
+cambridge,5
 anthropology,1
 author,1
 grateful,4
@@ -162,15 +156,6 @@ karol,2
 wight,2
 paul,16
 getty,32
-downloaded,21
-bristol,21
-library,25
-mar,21
-subject,23
-core,21
-term,21
-use,21
-available,22
 give,2
 cause,1
 reflect,1
@@ -446,6 +431,7 @@ three,2
 item,6
 watershed,1
 therefore,1
+subject,2
 suspicion,3
 include,4
 aristocratic,2
@@ -455,6 +441,7 @@ ring,5
 anonymous,1
 often,1
 catalog,4
+property,3
 gentleman,1
 appears,5
 archive,3
@@ -602,6 +589,7 @@ john,2
 ernestine,1
 payne,1
 alabastron,1
+available,1
 ashton,1
 sanborn,1
 march,6
@@ -700,6 +688,7 @@ exactly,1
 auction,10
 loan,9
 borchardt,3
+library,4
 dale,3
 great,2
 south,5
@@ -713,6 +702,7 @@ currently,1
 approved,1
 valuer,2
 australian,2
+cultural,5
 gift,11
 program,1
 termed,1
@@ -767,6 +757,7 @@ fact,2
 good,1
 client,1
 member,3
+international,2
 association,3
 code,3
 conduct,1
@@ -1189,7 +1180,6 @@ royal,1
 athena,1
 ex,1
 bonhams,1
-introduction,1
 butcher,2
 mischievous,2
 pastime,2
@@ -1267,6 +1257,7 @@ bollettino,1
 kevin,1
 historical,1
 science,2
+journal,6
 beith,1
 alan,2
 athenian,1
@@ -1312,6 +1303,7 @@ vasorum,1
 antiquorum,1
 fasc,1
 tokyo,1
+society,1
 promotion,1
 richard,1
 addition,1

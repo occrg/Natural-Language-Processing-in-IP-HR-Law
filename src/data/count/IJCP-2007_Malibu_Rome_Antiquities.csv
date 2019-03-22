@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,6
-journal,10
-cultural,14
-property,4
 printed,1
 copyright,1
-society,1
 malibu,47
 rome,11
 development,4
@@ -15,7 +10,6 @@ david,7
 gill*,1
 christopher,3
 chippindale**,1
-abstract,1
 three,15
 major,4
 north,11
@@ -100,7 +94,7 @@ draft,1
 ca,1
 cliatt,1
 princeton,37
-university,76
+university,43
 jordan,2
 rundgren,3
 public,12
@@ -119,7 +113,6 @@ keith,1
 padgham,1
 assisted,1
 checking,1
-reference,1
 centre,1
 egyptology,1
 mediterranean,1
@@ -129,17 +122,8 @@ humanity,1
 wale,1
 swansea,1
 email,4
-cambridge,37
+cambridge,4
 anthropology,3
-downloaded,33
-bristol,33
-library,33
-mar,33
-subject,36
-core,33
-term,37
-use,33
-available,35
 onesimos,9
 head,2
 roman,21
@@ -388,6 +372,7 @@ recovered,1
 adriatic,2
 acrolithic,3
 aphrodite,9
+subject,3
 request,6
 mask,4
 kantharos,4
@@ -710,6 +695,7 @@ remains,1
 restorer,3
 united,5
 member,10
+international,3
 association,5
 resigned,1
 organization,1
@@ -791,6 +777,7 @@ unable,4
 provide,4
 name,8
 lender,4
+term,4
 loan,6
 note,2
 quote,1
@@ -1137,6 +1124,7 @@ influence,3
 last,1
 praise,1
 transparency,1
+available,2
 restriction,1
 hoped,1
 openness,1
@@ -1409,6 +1397,7 @@ schultzs,1
 gerstenblith,2
 legal,2
 protection,2
+cultural,11
 heritage,5
 observes,1
 speed,1
@@ -1507,7 +1496,6 @@ drake,1
 edmond,1
 rothschild,1
 paris,1
-bibliography,1
 oliver,2
 wade,1
 annual,1
@@ -1627,6 +1615,7 @@ corpus,2
 vasorum,2
 antiquorum,2
 deborah,1
+journal,8
 heather,1
 ian,1
 australia,1
@@ -1760,6 +1749,7 @@ journey,1
 raider,1
 affair,1
 role,1
+property,1
 fitz,1
 gibbon,1
 brunswick,1

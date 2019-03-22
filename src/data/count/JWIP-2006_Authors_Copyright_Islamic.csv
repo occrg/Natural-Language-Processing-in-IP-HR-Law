@@ -1,11 +1,7 @@
 word/phrase,value,class
-journal,30
-world,24
-intellectual,15
-property,16
-vol,20
+vol,6
 pp,6
-author,135
+author,120
 copyright,55
 islamic,9
 perspective,1
@@ -107,7 +103,6 @@ regard,1
 divided,3
 following,5
 section,2
-introduction,2
 whether,4
 monetary,17
 compensation,20
@@ -176,10 +171,6 @@ today,4
 collect,4
 publish,4
 known,2
-compilation,15
-blackwell,15
-publishing,16
-ltd,15
 beginning,1
 started,2
 revelation,1
@@ -223,6 +214,7 @@ thman,1
 original,2
 copied,2
 distributed,1
+world,9
 individual,2
 burned,1
 third,1
@@ -597,6 +589,7 @@ category,4
 complete,1
 commit,1
 crime,2
+publishing,1
 well-known,2
 publicize,1
 particular,4
@@ -615,6 +608,7 @@ prohibited,1
 prohibition,1
 dont,1
 eat,1
+property,1
 wrongful,1
 eating,1
 inﬂicted,2
@@ -883,7 +877,6 @@ onward,1
 abdullah,1
 riyadh,1
 ibrahim,7
-reference,1
 mahir,1
 ibda,1
 sadah,1

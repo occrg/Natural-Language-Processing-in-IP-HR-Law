@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,18
-journal,14
-cultural,46
-property,88
 printed,1
 copyright,15
-society,6
 strategy,27
 support,48
 interest,63
@@ -24,7 +19,6 @@ kylie,2
 lingard,3
 paul,8
 martin,16
-abstract,1
 indigenous,87
 group,46
 individual,12
@@ -68,7 +62,7 @@ native,42
 centre,9
 agriculture,6
 law,82
-university,48
+university,10
 new,31
 england,1
 email,1
@@ -113,16 +107,6 @@ limited,9
 participant,1
 error,1
 omission,1
-downloaded,38
-bristol,38
-library,38
-mar,38
-subject,45
-cambridge,38
-core,38
-term,41
-use,103
-available,49
 map,8
 attempt,2
 show,1
@@ -165,6 +149,7 @@ family,1
 totem,1
 help,20
 organize,2
+subject,7
 matter,5
 traditional,56
 song,2
@@ -192,6 +177,7 @@ make,6
 decision,3
 responsibility,4
 ensure,8
+use,65
 accord,1
 contributed,2
 including,10
@@ -276,6 +262,7 @@ heritage,5
 original,1
 inhabitant,1
 eclectic,1
+society,5
 distinct,1
 within,4
 worldviews,1
@@ -296,6 +283,7 @@ enterprise,14
 partnership,5
 transfer,2
 maintenance,1
+cultural,44
 practice,21
 complement,2
 conflict,1
@@ -332,6 +320,7 @@ possible,16
 achieve,3
 goal,4
 synthesizes,1
+international,16
 domestic,6
 policy,17
 discussion,3
@@ -348,6 +337,7 @@ secret,23
 academic,2
 approach,10
 focused,2
+property,86
 paper,6
 document,5
 others,9
@@ -585,6 +575,7 @@ collection,4
 great,1
 deal,1
 freely,3
+available,11
 book,4
 practicality,1
 explain,1
@@ -1071,6 +1062,7 @@ devise,1
 technical,2
 affected,1
 broad,1
+term,3
 equity,1
 oblige,1
 received,1
@@ -1648,6 +1640,7 @@ sydney,6
 megan,1
 adapting,1
 yale,1
+journal,13
 jennifer,1
 handbook,2
 gather,1

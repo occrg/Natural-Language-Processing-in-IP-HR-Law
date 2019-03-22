@@ -1,6 +1,6 @@
 word/phrase,value,class
 restricting,4
-international,34
+international,32
 trade,22
 national,113
 artistic,36
@@ -114,12 +114,6 @@ trinity,2
 college,2
 dublin,2
 ireland,1
-journal,5
-cultural,33
-property,8
-vol,2
-pp,1
-society,9
 course,8
 country,63
 age,4
@@ -144,6 +138,7 @@ long,4
 contribute,3
 integral,1
 way,14
+cultural,31
 identity,35
 tradition,2
 region,3
@@ -281,7 +276,6 @@ literature,3
 relevant,1
 law,15
 area,4
-introduction,1
 much,20
 came,2
 collection,17
@@ -381,6 +375,7 @@ ascertaining,2
 value,20
 length,2
 earlier,6
+journal,4
 shown,1
 extent,3
 measured,1
@@ -546,6 +541,7 @@ captured,1
 neatly,1
 paul,1
 bator,6
+society,8
 manifestation,1
 culture,11
 awareness,2
@@ -931,6 +927,7 @@ surely,1
 let,2
 else,1
 interference,1
+property,6
 right,11
 asked,1
 belonged,1
@@ -1615,6 +1612,7 @@ galle,1
 report,1
 session,1
 prott,4
+vol,1
 butterworths,1
 edward,1
 elgar,1

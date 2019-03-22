@@ -1,33 +1,10 @@
 word/phrase,value,class
-international,9
-journal,11
-heritage,11
-study,12
-print,1
-online,3
-homepage,1
-islamism,28
-iran,34
-islamic,89
-period,13
-museum,61
-ali,6
-mozaffari,10
-cite,1
-link,2
-published,2
-mar,1
-submit,2
-view,7
-citing,2
-article,2
-full,1
-term,3
-condition,6
-access,1
-use,1
-found,2
-vol,1
+islamism,25
+iran,31
+islamic,86
+period,10
+museum,58
+ali,4
 mozaffari*,1
 centre,6
 muslim,15
@@ -57,7 +34,7 @@ year,1
 revolution,8
 addition,1
 previous,3
-national,7
+national,6
 building,6
 bastan,1
 ancient,1
@@ -84,8 +61,7 @@ traditionalist,10
 rhetoric,2
 regard,2
 religion,8
-identity,22
-keywords,1
+identity,21
 examines,1
 republic,9
 representation,4
@@ -162,6 +138,7 @@ emphasis,10
 primacy,2
 taylor,1
 francis,1
+mozaffari,8
 invoking,4
 traditional,11
 ritual,11
@@ -321,6 +298,7 @@ outlook,4
 exempliﬁed,3
 suﬁsm,2
 umbrella,1
+term,2
 ascetic,1
 movement,9
 within,11
@@ -348,6 +326,7 @@ thus,8
 certain,1
 measure,1
 revivalism,2
+condition,5
 militancy,1
 domination,2
 keddie,5
@@ -548,6 +527,7 @@ conversion,1
 expected,1
 voluntary,1
 contemporary,5
+view,5
 completely,1
 willingly,1
 immersed,1
@@ -602,6 +582,7 @@ relevance,2
 native,1
 formulate,1
 informed,1
+heritage,3
 practical,1
 outcome,1
 manifest,2
@@ -675,6 +656,7 @@ framed,2
 uncommon,1
 metal,2
 trellis,2
+found,1
 shrine,2
 scale,1
 invokes,2
@@ -792,7 +774,6 @@ miniature,1
 blue,1
 represent,1
 water,1
-abstract,1
 perhaps,1
 intended,1
 suggest,1
@@ -855,6 +836,7 @@ independence,1
 authority,1
 planning,1
 required,2
+submit,1
 autonomy,1
 circumambulating,1
 entering,1
@@ -1012,7 +994,7 @@ message,5
 remains,2
 competing,1
 mean,2
-reference,4
+reference,1
 similarly,1
 argued,1
 partially,1
@@ -1046,6 +1028,7 @@ appropriated,1
 memory,1
 mime,1
 conclusion,1
+link,1
 multiple,1
 ampliﬁed,1
 attribute,1
@@ -1093,7 +1076,6 @@ prolonged,1
 whether,1
 incurs,1
 transformation,2
-acknowledgement,1
 production,1
 publication,1
 grant,1
@@ -1112,6 +1094,7 @@ landscape,1
 michael,1
 pinch,1
 school,1
+study,4
 constructive,1
 research,3
 project,1
@@ -1157,6 +1140,7 @@ scripture,1
 regarded,1
 believer,1
 brochure,1
+published,1
 english,1
 orientalism,1
 representing,1
@@ -1189,6 +1173,7 @@ search,1
 inscribing,1
 imagination,1
 thesis,1
+online,1
 available,1
 accessed,1
 june,1
@@ -1205,7 +1190,9 @@ pioneer,1
 revival,1
 zed,1
 moozeha,1
+journal,1
 tehran,1
 fourteen,1
+international,1
 paris,1
 secret,1

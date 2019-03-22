@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,5
-journal,44
-cultural,5
-property,29
 printed,3
 copyright,16
-society,8
 recycling,4
 text,30
 stealing,6
@@ -16,7 +11,6 @@ credit,38
 science,53
 mario,5
 biagioli*,1
-abstract,5
 scientific,47
 sui,1
 generis,1
@@ -100,6 +94,7 @@ ancient,3
 modern,5
 determined,1
 principle,7
+property,27
 anonymous,4
 written,2
 early,4
@@ -129,22 +124,12 @@ berris,3
 charnley,3
 simon,3
 stern,1
+journal,43
 referee,5
 useful,4
 comment,3
 criticism,1
 suggestion,1
-downloaded,24
-university,38
-bristol,24
-library,24
-mar,25
-subject,28
-cambridge,26
-core,25
-term,28
-use,33
-available,27
 already,8
 clear,6
 little,7
@@ -282,6 +267,7 @@ plagiarist,44
 varies,1
 well,9
 depending,1
+subject,4
 matter,5
 changing,2
 protocol,4
@@ -295,6 +281,7 @@ language,12
 association,9
 american,6
 historical,5
+society,7
 take,10
 elusive,1
 shape,1
@@ -338,6 +325,7 @@ reliably,1
 applicable,2
 various,6
 us,1
+term,4
 unified,2
 extent,1
 action,3
@@ -378,6 +366,7 @@ attribution,5
 steal,2
 pas,1
 another,4
+use,9
 created,2
 crediting,1
 source,12
@@ -722,13 +711,13 @@ construes,3
 accrues,1
 pocket,1
 conference,4
+abstract,4
 claim,15
 public,9
 domain,1
 back,2
 recognition,3
 first,8
-bibliography,1
 collecting,2
 citation,13
 translate,2
@@ -779,6 +768,7 @@ generated,1
 categorically,1
 distinct,6
 granted,1
+core,1
 element,2
 reward,4
 grow,2
@@ -867,6 +857,7 @@ article,24
 commenting,1
 china,3
 peking,1
+university,14
 official,2
 reported,7
 chinese,6
@@ -897,7 +888,7 @@ simply,4
 help,2
 introduce,1
 seen,3
-introduction,3
+introduction,1
 entirely,1
 climate,1
 perish,2
@@ -1225,7 +1216,7 @@ contain,1
 short,1
 effectively,1
 content-free,1
-reference,2
+reference,1
 bothered,1
 modify,1
 title,3
@@ -1510,6 +1501,7 @@ graduate,1
 training,3
 recognize,1
 textbook,1
+available,3
 growing,1
 anchored,1
 institution,3
@@ -1529,6 +1521,7 @@ doubt,1
 prosecution,1
 consortium,1
 editor,7
+international,3
 medical,3
 fund,2
 ing,1
@@ -1862,6 +1855,7 @@ vries,3
 misbehavior,2
 arbitrary,1
 plagiaristpirate,1
+mar,1
 ginal,1
 poorly,2
 informed,1
@@ -2129,8 +2123,10 @@ titus,1
 miguel,2
 rupert,1
 quarrel,1
+cambridge,2
 christopher,1
 unmaking,2
+cultural,3
 perspective,4
 jaszi,2
 martha,3

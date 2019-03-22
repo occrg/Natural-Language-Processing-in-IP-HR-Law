@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,5
-intellectual,15
-property,15
-law,14
-practice,6
-vol,4
 sui,10
 generis,10
 answer,3
@@ -15,6 +9,8 @@ knowledge,76
 india,30
 deekshitha,5
 ganesan*,1
+intellectual,11
+property,11
 right,21
 still,2
 infancy,1
@@ -66,7 +62,7 @@ look,3
 history,3
 role,6
 defensive,11
-reference,7
+reference,2
 adopted,3
 key,2
 analysed,1
@@ -126,6 +122,7 @@ email,1
 author,2
 ganesan,4
 national,5
+law,10
 school,2
 university,2
 nagarbhavi,1
@@ -243,6 +240,7 @@ satisﬁed,3
 ancient,1
 scripture,1
 medical,1
+journal,1
 submitted,4
 evidence,2
 claimed,2
@@ -290,6 +288,7 @@ includes,2
 know-how,1
 skill,3
 innovation,2
+practice,2
 learning,1
 form,5
 part,6

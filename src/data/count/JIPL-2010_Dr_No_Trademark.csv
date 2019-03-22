@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,11
-intellectual,10
-property,10
-law,86
-practice,11
-vol,6
 dr,30
 trade,192
 mark,193
@@ -34,7 +28,7 @@ artistic,6
 origin,22
 commercial,9
 used,8
-reference,5
+reference,4
 descriptive,14
 good,5
 indicating,2
@@ -112,6 +106,7 @@ pop,1
 band,2
 indication,4
 kind,4
+law,80
 turn,1
 pose,1
 question,12
@@ -154,6 +149,7 @@ gele,2
 teken,2
 et,8
 al,14
+journal,5
 medium,2
 information,1
 annotated,1
@@ -175,6 +171,8 @@ bulletin,1
 february,3
 fa,3
 mulan,3
+intellectual,4
+property,4
 august,2
 teletubbies,25
 publicity,1
@@ -209,7 +207,7 @@ order,3
 remain,1
 true,3
 intention,1
-november,7
+november,6
 grotter,1
 note,17
 de,2
@@ -230,10 +228,6 @@ oxford,1
 university,1
 press,1
 reserved,1
-doijiplpjpp,1
-advance,1
-access,1
-publication,2
 titillating,1
 context,3
 cap,2
@@ -768,6 +762,7 @@ civil,1
 code,1
 protects,2
 unauthorized,4
+publication,1
 duplication,1
 dilution,3
 vice,2
@@ -851,6 +846,7 @@ useful,1
 back-up,1
 cover,1
 moreover,1
+practice,5
 complicated,2
 produce,1
 evidence,1

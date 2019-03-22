@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,7
-intellectual,8
-property,8
-law,21
-practice,17
-vol,7
 statute,15
 regulation,37
 implication,8
@@ -133,6 +127,7 @@ henderson,1
 farabow,1
 garrett,1
 dunner,1
+law,14
 ﬁrm,5
 specializing,1
 explores,1
@@ -192,11 +187,6 @@ published,2
 oxford,1
 press,1
 reserved,2
-doijiplpjps,1
-advance,3
-access,1
-publication,6
-march,11
 second,6
 focus,5
 might,4
@@ -274,6 +264,7 @@ fundamental,1
 conceived,3
 actually,2
 reduced,3
+practice,10
 primary,2
 application,33
 light,3
@@ -402,6 +393,7 @@ knowledge,3
 gained,2
 governmental,1
 create,5
+advance,2
 transform,1
 subsequent,1
 plaintiff,9
@@ -630,6 +622,7 @@ writing,3
 add,1
 form,4
 identify,6
+publication,5
 sale,3
 manuscript,2
 describing,1
@@ -652,6 +645,7 @@ referred,1
 pub,2
 stat,4
 effect,5
+march,10
 §n,1
 judicial,4
 interpretation,6
@@ -938,6 +932,7 @@ discovered,1
 course,2
 employment,3
 south,1
+property,1
 deleted,1
 category,1
 owned,14
@@ -1154,6 +1149,7 @@ silent,1
 co-party,1
 strike,1
 §j,1
+intellectual,1
 prop,1
 dev,1
 cablevision,1

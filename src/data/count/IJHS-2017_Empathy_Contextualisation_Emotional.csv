@@ -1,48 +1,15 @@
 word/phrase,value,class
-international,5
-journal,7
-heritage,20
-study,28
-print,1
-online,2
-homepage,1
-historical,97
-empathy,41
-museum,90
-uniting,3
-contextualisation,10
-emotional,33
-engagement,57
-geerte,6
-savenije,8
-pieter,5
-de,14
-bruijn,9
-cite,1
-link,2
-author,3
-published,3
-informa,2
-limited,5
-trading,2
-taylor,2
-francis,2
-group,9
-jun,1
-submit,1
-view,12
-crossmark,1
-data,4
-citing,2
-article,2
-full,1
-term,3
-condition,2
-access,2
-use,16
-found,2
-vol,2
+historical,94
+empathy,38
+museum,87
+uniting,1
+contextualisation,7
+emotional,30
+engagement,54
+geerte,4
 savenijea ,1
+pieter,3
+de,12
 bruijnb ,1
 aresearch,1
 institute,4
@@ -57,17 +24,13 @@ humanity,1
 law,1
 open,6
 heerlen,1
-received,2
-october,1
-accepted ,1
-may,19
-exhibition,73
-strategy,16
-learning,41
 memorial,5
 centre,4
+heritage,18
 institution,4
+use,15
 various,18
+strategy,15
 evoke,2
 response,12
 serf,2
@@ -75,6 +38,7 @@ elicit,3
 event,11
 actor,13
 portrayed,2
+exhibition,72
 increase,1
 understanding,21
 however,8
@@ -91,8 +55,10 @@ cognitive,14
 affective,21
 dimension,10
 history,46
+learning,40
 conducted,5
 case,21
+study,26
 museon,15
 hague,5
 studied,2
@@ -163,6 +129,7 @@ within,8
 field,2
 emphasised,4
 evoked,1
+may,18
 stimulate,4
 young,2
 bringing,1
@@ -176,6 +143,7 @@ hand,4
 strong,5
 also,17
 hinder,2
+term,2
 contextualising,1
 time,6
 place,5
@@ -197,6 +165,16 @@ critical,3
 insight,4
 smith,7
 thus,7
+savenije,6
+author,2
+published,1
+informa,1
+limited,4
+trading,1
+taylor,1
+francis,1
+group,8
+access,1
 distributed,1
 creative,1
 common,3
@@ -294,7 +272,6 @@ age,4
 beginning,2
 master,1
 necessary,2
-abstract,1
 form,4
 thought,5
 distanced,2
@@ -384,6 +361,7 @@ resource,5
 conceptualised,1
 phillips,2
 grever,7
+bruijn,7
 slave,3
 trade,2
 holocaust,2
@@ -432,6 +410,7 @@ level,2
 historiographical,1
 viewpoint,1
 point,7
+view,9
 different,17
 stradling,2
 lorenz,2
@@ -472,6 +451,7 @@ mnemonic,2
 bridging,7
 refers,1
 creation,1
+link,1
 creating,1
 analogy,6
 technique,8
@@ -724,6 +704,7 @@ pair,2
 investigate,2
 required,2
 worksheet,1
+received,1
 sheet,5
 chronological,1
 timeline,3
@@ -738,7 +719,6 @@ historian,1
 teacher,6
 offered,3
 task,7
-introduction,5
 closing,1
 sat,1
 circle,1
@@ -754,6 +734,7 @@ population,1
 reflects,1
 broad,1
 variety,1
+found,1
 urban,1
 area,3
 culturally,1
@@ -782,6 +763,7 @@ selected,1
 participate,1
 interview,11
 observed,1
+data,3
 collection,2
 collected,2
 mean,2
@@ -796,7 +778,6 @@ scheme,1
 previous,1
 stimulated,3
 focused,4
-reference,2
 interviewed,2
 recorded,1
 transcribed,1
@@ -825,7 +806,7 @@ expression,1
 indicator,1
 universal,3
 value,2
-acknowledgement,2
+acknowledgement,1
 integration,1
 ranged,1
 engaged,3
@@ -1016,6 +997,7 @@ parallel,1
 thread,1
 across,1
 creates,1
+condition,1
 impossible,1
 make,5
 clear,2
@@ -1430,6 +1412,7 @@ production,1
 contemporary,1
 visitability,1
 maidenhead,1
+journal,2
 updated,1
 theoretical,2
 practical,1
@@ -1526,6 +1509,7 @@ multicultural,1
 classroom,1
 pupil,1
 encounter,2
+international,3
 handbook,3
 big,1
 nelson,1
@@ -1555,6 +1539,7 @@ council,1
 europe,1
 analyzing,1
 dois---,1
+vol,1
 milton,1
 john,2
 wiley,2

@@ -1,8 +1,4 @@
 word/phrase,value,class
-journal,1
-world,4
-intellectual,3
-property,3
 vol,1
 pp,1
 doi,1
@@ -80,6 +76,8 @@ legal,1
 initiative,2
 currently,1
 instance,1
+intellectual,2
+property,2
 organization,3
 southern,1
 speciﬁc,1
@@ -139,6 +137,7 @@ borowiak,1
 statistical,1
 account,2
 rural,1
+world,3
 bank,1
 entire,1
 farmerpopulation,1

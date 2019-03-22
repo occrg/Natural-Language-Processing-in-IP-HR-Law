@@ -121,17 +121,6 @@ create,1
 stanford,2
 school,1
 california,3
-downloaded,16
-university,16
-bristol,16
-library,16
-mar,16
-subject,18
-cambridge,16
-core,16
-term,16
-use,19
-available,21
 merryman,11
 truism,1
 summed,2
@@ -171,6 +160,7 @@ modern,1
 order,6
 stolen,14
 owner,13
+subject,2
 period,3
 limitation,3
 right,4
@@ -253,6 +243,7 @@ act,5
 empirical,1
 indicia,1
 possession,2
+use,3
 disposal,1
 practice,3
 mere,2
@@ -498,6 +489,7 @@ fully,1
 revealed,2
 third,2
 readily,1
+available,5
 research,2
 contrasted,1
 cleveland,7
@@ -1090,7 +1082,6 @@ taste,1
 mine,1
 subsequent,2
 argue,1
-introduction,1
 recognizes,1
 legitimate,1
 museumcollectordealer,1

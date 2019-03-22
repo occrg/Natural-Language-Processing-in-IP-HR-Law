@@ -1,10 +1,6 @@
 word/phrase,value,class
-journal,86
-world,42
-intellectual,81
-property,144
-vol,36
-no,35
+vol,2
+no,1
 pp,38
 doi,1
 j-x,1
@@ -70,8 +66,9 @@ following,5
 commercial,26
 personal,2
 interest,31
-author,148
+author,113
 understood,3
+property,109
 andor,6
 liability,6
 rule,15
@@ -207,10 +204,6 @@ happy,4
 minimally,1
 unhappy,2
 possible,5
-compilation,35
-blackwell,35
-publishing,38
-ltd,37
 disagree,1
 declare,1
 sceptic,1
@@ -518,6 +511,7 @@ statement,2
 justiﬁes,3
 clearly,5
 manual,1
+intellectual,46
 consequently,2
 lockean,11
 foremost,1
@@ -753,7 +747,7 @@ pursuing,1
 submitted,1
 secure,2
 making,5
-reference,5
+reference,4
 revival,1
 emphasized,2
 effect,8
@@ -830,6 +824,7 @@ paper,5
 belong,3
 give,4
 licence,2
+world,7
 joint,1
 writer,6
 foreshadowed,1
@@ -1171,6 +1166,7 @@ du,2
 petit,2
 champlain,2
 inc,4
+ltd,2
 upper,3
 composer,3
 music,10
@@ -2005,6 +2001,7 @@ proposed,1
 aimed,1
 director,1
 entertainment,4
+journal,16
 prior,2
 joining,1
 acting,1
@@ -2414,7 +2411,6 @@ cit,1
 proceed,1
 primarily,1
 retrieval,1
-abstract,1
 inadequate,1
 june,1
 rooted,1
@@ -2617,6 +2613,7 @@ crack,1
 abstract=i,1
 hssrni,1
 august,1
+publishing,3
 politics,1
 mansell,1
 structuring,1

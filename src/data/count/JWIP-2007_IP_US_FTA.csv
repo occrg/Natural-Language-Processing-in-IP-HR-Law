@@ -1,12 +1,10 @@
 word/phrase,value,class
-journal,66
-world,48
-intellectual,66
-property,72
-vol,31
+vol,1
 pp,13
 doi,1
 j-x,1
+intellectual,35
+property,41
 right,41
 making,33
 evolution,9
@@ -30,7 +28,7 @@ examining,1
 present,8
 text,22
 analysis,15
-reference,2
+reference,1
 patent,188
 data,59
 protection,86
@@ -108,6 +106,7 @@ however,16
 fact,8
 go,9
 beyond,5
+world,17
 organization,8
 indisputable,1
 based,10
@@ -137,10 +136,8 @@ various,2
 international,29
 forum,6
 author,32
+journal,35
 compilation,31
-blackwell,31
-publishing,31
-ltd,31
 intergovernmental,1
 working,6
 group,2
@@ -1081,7 +1078,6 @@ proxy,2
 obtain,2
 relies,1
 bj,5
-introduction,4
 couple,2
 cast,1
 wider,1

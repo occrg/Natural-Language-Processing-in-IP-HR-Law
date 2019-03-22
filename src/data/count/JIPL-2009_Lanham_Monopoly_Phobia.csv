@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,15
-intellectual,13
-property,19
-law,49
-practice,6
-vol,6
 lanham,49
 act,78
 trade,69
@@ -26,6 +20,7 @@ may,7
 granted,1
 anything,1
 public,43
+property,13
 long,1
 adhere,1
 likelihood,22
@@ -178,6 +173,8 @@ camilla,1
 andersen,1
 hansen,1
 ed,1
+intellectual,7
+law,43
 policy,1
 edward,1
 elgar,1
@@ -200,6 +197,7 @@ compatible,2
 national,3
 oppenheim,1
 industrial,2
+journal,9
 patent,3
 ofﬁce,2
 society,1
@@ -332,7 +330,6 @@ also,14
 led,4
 require,2
 accord,2
-introduction,4
 hallmark,1
 claim,7
 concept,25
@@ -741,7 +738,7 @@ placed,3
 authorial,1
 associating,1
 creator,1
-access,2
+access,1
 namely,1
 cultural,2
 expressive,2
@@ -1313,10 +1310,6 @@ come,1
 re-evaluate,1
 fundamental,1
 built,1
-doijiplpjpp,1
-advance,1
-publication,1
-march,1
 cc,1
 ghosh,1
 norm,1

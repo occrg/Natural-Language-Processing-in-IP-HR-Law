@@ -7,7 +7,7 @@ marine,33
 archaeology,20
 threat,3
 underwater,40
-cultural,48
+cultural,45
 heritage,45
 treasure,17
 salvage,175
@@ -87,7 +87,7 @@ nearly,1
 four,3
 decade,1
 national,18
-international,51
+international,48
 front,2
 notwithstanding,11
 failure,14
@@ -123,14 +123,11 @@ lecturer,2
 university,7
 wolverhampton,2
 art,1
-property,62
+property,59
 member,7
 editorial,1
 board,3
-journal,18
-vol,1
-pp,2
-society,6
+journal,16
 conference,2
 however,47
 treaty,13
@@ -791,6 +788,7 @@ mean,14
 fewer,1
 artifact,19
 recovered,9
+society,5
 correct,5
 meaning,6
 encompassing,1
@@ -1024,7 +1022,6 @@ prominence,1
 saga,2
 referred,11
 brieﬂy,1
-introduction,1
 intended,4
 mount,1
 summer,1
@@ -3004,6 +3001,7 @@ vigorously,1
 amsterdam,1
 beach,1
 hastings,1
+pp,1
 lillington,1
 wreccum,1
 mari,1

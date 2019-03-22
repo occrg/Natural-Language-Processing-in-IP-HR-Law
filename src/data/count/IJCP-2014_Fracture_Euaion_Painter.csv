@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,6
-journal,19
-cultural,5
-property,7
 printed,1
 copyright,1
-society,1
 fracture,2
 time,9
 cup,48
@@ -18,7 +13,6 @@ christos,7
 tsirogiannis,10
 david,7
 gill,37
-abstract,1
 february,5
 linked,4
 fragmentary,13
@@ -51,7 +45,7 @@ hand,3
 san,7
 antonio,7
 princeton,29
-university,44
+university,28
 january,4
 announced,4
 would,9
@@ -125,16 +119,6 @@ framework,1
 programme,1
 grant,1
 agreement,2
-downloaded,16
-bristol,16
-library,16
-mar,16
-subject,16
-cambridge,19
-core,16
-term,17
-use,17
-available,18
 throughout,1
 career,1
 private,7
@@ -161,6 +145,7 @@ oxford,5
 universally,1
 recognized,3
 leading,1
+international,3
 scholar,1
 ancient,13
 rare,1
@@ -494,6 +479,8 @@ opening,1
 statement,2
 cunos,1
 major,3
+cultural,2
+property,4
 debate,2
 significant,2
 sculpture,1
@@ -545,6 +532,7 @@ representative,1
 case,5
 making,1
 readily,1
+available,2
 interested,1
 party,1
 donor,1
@@ -887,6 +875,7 @@ scholarship,2
 method,1
 october,1
 constructive,1
+use,1
 register,1
 dallas,2
 pl,3
@@ -895,6 +884,7 @@ confidential,3
 fragmented,8
 press,10
 misuse,1
+term,1
 attische,2
 vasenmaler,2
 de,13
@@ -1025,6 +1015,7 @@ ministerio,1
 educación,1
 cultura,1
 deporte,1
+journal,17
 archaeology,4
 muse,1
 trust,1
@@ -1124,6 +1115,7 @@ milleker,1
 lightfoot,1
 hemingway,1
 record,1
+cambridge,3
 davidson,1
 dictionary,1
 national,1

@@ -1,8 +1,4 @@
 word/phrase,value,class
-journal,17
-world,17
-intellectual,31
-property,33
 vol,13
 pp,17
 doi,1
@@ -22,6 +18,8 @@ university,2
 lucerne,2
 switzerland,2
 relationship,3
+intellectual,17
+property,19
 right,94
 used,16
 protect,16
@@ -86,7 +84,6 @@ standard,2
 registration,5
 extensive,1
 keywords,1
-introduction,2
 since,1
 mid-s,1
 ﬁre,1
@@ -951,6 +948,7 @@ note,1
 explained,1
 marrakesh,1
 establishing,1
+world,3
 organization,1
 annex,1
 adopted,4
@@ -1076,7 +1074,6 @@ minimum,2
 tree,1
 vine,1
 must,1
-reference,1
 australian,2
 reform,1
 commission,1
@@ -1100,6 +1097,7 @@ elgar,1
 cheltenham,1
 critical,1
 reﬂections,1
+journal,3
 philosophy,1
 crossroad,1
 monopolizing,1

@@ -1,11 +1,7 @@
 word/phrase,value,class
-international,10
-journal,6
-cultural,177
-property,48
 printed,1
 copyright,13
-society,2
+cultural,174
 heritage,199
 web,16
 applied,2
@@ -13,11 +9,11 @@ digital,154
 visual,6
 anthropology,21
 local,52
+property,45
 right,23
 discourse,28
 kate,8
 hennessy*,1
-abstract,1
 convention,26
 safeguarding,51
 intangible,87
@@ -65,7 +61,7 @@ art,8
 technology,19
 simon,1
 fraser,1
-university,32
+university,7
 surrey,1
 many,4
 people,25
@@ -158,16 +154,6 @@ expression,13
 edited,10
 et,1
 al,1
-downloaded,25
-bristol,25
-library,27
-mar,25
-subject,26
-cambridge,28
-core,25
-term,25
-use,44
-available,33
 becoming,1
 tangible,8
 object,29
@@ -175,6 +161,7 @@ collection,7
 rapidly,1
 photographed,2
 made,27
+available,8
 internet,4
 documentation,58
 launched,1
@@ -445,6 +432,7 @@ consideration,1
 given,3
 solely,1
 compatible,1
+international,7
 requirement,2
 mutual,1
 among,3
@@ -499,6 +487,7 @@ ancestral,1
 dance,7
 music,1
 integrated,1
+use,19
 mediated,3
 emerged,1
 along,2
@@ -1128,6 +1117,7 @@ sell,1
 creative,1
 rested,1
 researcher,1
+subject,1
 him-,1
 declared,1
 intention,1
@@ -1530,6 +1520,7 @@ existed,2
 physically,1
 instead,1
 worried,1
+library,2
 might,1
 thievery,1
 said,1
@@ -1650,7 +1641,6 @@ ontology,1
 appropriating,1
 sustained,1
 ito,2
-introduction,2
 peer,2
 torsen,2
 reconciling,1
@@ -1737,6 +1727,8 @@ deidre,1
 theorizing,2
 sarah,2
 kenderline,2
+cambridge,3
+journal,4
 beyond,1
 cult,1
 replicant,1
@@ -1782,6 +1774,7 @@ kazys,1
 varnelis,1
 proceeding,1
 philosophical,1
+society,1
 barbara,1
 exhibiting,1
 poetics,2

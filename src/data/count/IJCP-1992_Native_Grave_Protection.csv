@@ -5,7 +5,6 @@ graf,8
 protection,5
 repatriation,12
 act,34
-introduction,2
 linda,5
 pinkerton*,1
 november,5
@@ -47,7 +46,7 @@ higher,3
 learning,3
 receive,1
 fund,5
-university,13
+university,3
 inventory,8
 return,6
 human,19
@@ -131,16 +130,6 @@ trust,2
 counsel,1
 paul,1
 getty,1
-downloaded,10
-bristol,10
-library,10
-mar,10
-subject,11
-cambridge,10
-core,10
-term,17
-use,11
-available,10
 pinkerton,4
 complete,1
 study,3
@@ -194,6 +183,7 @@ criminalizes,1
 knowing,1
 sale,4
 purchase,1
+use,1
 profit,5
 transport,1
 possession,18
@@ -239,6 +229,7 @@ reasonable,3
 person,3
 numerous,1
 defined,5
+term,7
 noted,2
 first,1
 question,5
@@ -580,6 +571,7 @@ affect,2
 pay,1
 attention,1
 plethora,1
+subject,1
 discussed,1
 criminalize,1
 regulate,2

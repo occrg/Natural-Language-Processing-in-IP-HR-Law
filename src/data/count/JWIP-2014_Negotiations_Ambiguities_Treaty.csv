@@ -1,8 +1,4 @@
 word/phrase,value,class
-journal,33
-world,38
-intellectual,41
-property,47
 vol,31
 pp,4
 doi,1
@@ -81,10 +77,12 @@ continued,25
 processing,34
 reinstatement,10
 right,66
-introduction,2
 diplomatic,75
 conference,78
 held,8
+world,7
+intellectual,10
+property,16
 organization,22
 geneva,23
 switzerland,4
@@ -287,7 +285,7 @@ deﬁning,2
 differently,2
 decided,5
 incorporate,2
-reference,29
+reference,26
 provision,44
 regulation,60
 wherever,2
@@ -1188,6 +1186,7 @@ intention,2
 contraction,1
 synoptic,1
 presentation,1
+journal,2
 edition,1
 repeat,1
 alignment,2

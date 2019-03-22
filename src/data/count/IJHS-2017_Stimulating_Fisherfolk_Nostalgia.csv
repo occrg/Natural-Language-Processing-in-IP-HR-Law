@@ -1,46 +1,18 @@
 word/phrase,value,class
-international,3
-journal,6
-heritage,27
-study,6
-print,1
-online,2
-homepage,1
-simulating,4
-fisherfolk,4
-performing,3
-ritual,17
-history,20
-nostalgia,17
-luciana,6
-lang,6
-cite,1
-link,2
-published,2
-feb,1
-submit,1
-view,5
-crossmark,1
-data,1
-full,5
-term,6
-condition,5
-access,4
-use,2
-found,4
-vol,1
+simulating,2
+fisherfolk,2
+performing,1
+heritage,21
+ritual,14
+history,18
+nostalgia,14
+luciana,4
+lang,4
 department,7
 social,4
 anthropology,5
 university,7
 manchester,2
-received,2
-august,2
-accepted ,1
-december,1
-order,11
-morality,3
-chronotope,7
 drawing,5
 reputation,3
 first,15
@@ -75,6 +47,7 @@ people,49
 strived,1
 create,2
 space,12
+order,10
 offset,1
 perceived,3
 loss,1
@@ -169,7 +142,6 @@ place,28
 zé,15
 luiz,14
 referring,2
-introduction,1
 distinct,2
 response,3
 change,6
@@ -185,6 +157,7 @@ display,1
 patron,3
 saint,5
 fisher,8
+published,1
 licence,1
 informa,1
 limited,1
@@ -218,6 +191,7 @@ go,11
 explore,1
 notion,1
 concept,4
+chronotope,6
 shed,2
 light,2
 perceive,2
@@ -389,6 +363,7 @@ ethical,5
 moment,4
 jarrett,2
 zigons,1
+term,5
 upset,1
 normal,1
 unfolding,1
@@ -591,7 +566,6 @@ thirty,1
 ago,6
 transpiring,1
 metonymic,4
-reference,4
 somehow,1
 speaking,1
 write,1
@@ -613,6 +587,7 @@ made,9
 wood,3
 everyone,3
 clean,5
+full,4
 shellfish,9
 virgin,1
 carrying,2
@@ -712,6 +687,7 @@ resist,1
 trend,1
 suspension,1
 distinction,1
+found,3
 old,10
 map,3
 sixteenth,1
@@ -880,6 +856,7 @@ men,1
 defeated,1
 leader,2
 araribóia,3
+received,1
 martim,2
 afonso,2
 gratitude,2
@@ -1000,6 +977,7 @@ graveyard,1
 interestingly,1
 webpage,1
 support,1
+view,3
 priority,1
 item,1
 agenda,1
@@ -1321,6 +1299,7 @@ smaller,1
 number,5
 obligation,2
 ordinary,1
+access,3
 pact,1
 registry,1
 ficha,1
@@ -1619,6 +1598,7 @@ organising,1
 belief,1
 consequently,1
 weather,1
+condition,4
 sale,1
 wax,1
 static,1
@@ -1713,6 +1693,7 @@ conclusion,1
 multi-faceted,1
 iswas,1
 anchor,1
+link,1
 man-made,1
 imaginary,1
 enact,2
@@ -1725,6 +1706,7 @@ serf,1
 physical,1
 observe,2
 emphasis,1
+morality,2
 hard,1
 knowledge,1
 surroundings,1
@@ -1785,6 +1767,7 @@ praxis,1
 additional,1
 note,3
 july,1
+august,1
 specially,1
 requested,1
 pseudonym,1
@@ -1815,7 +1798,6 @@ signify,1
 armed,1
 citizen,1
 take,1
-acknowledgement,1
 heart-felt,1
 generously,1
 shared,1
@@ -1844,6 +1826,7 @@ cope,1
 socio-economic,2
 effect,1
 increasingly,1
+use,1
 management,1
 doctoral,1
 explored,1
@@ -1917,6 +1900,7 @@ cape,1
 basic,1
 book,1
 sustainable,1
+study,3
 gilles,1
 félix,1
 plateau,1

@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,5
-intellectual,52
-property,8
-law,14
-practice,6
-vol,5
 football,51
 dataco,21
 yahoo,12
@@ -14,6 +8,7 @@ david,6
 rose,6
 nina,6
 development,1
+law,9
 relating,4
 protection,46
 database,131
@@ -126,6 +121,8 @@ partner,1
 berwin,2
 head,1
 ﬁrms,1
+intellectual,47
+property,3
 department,2
 professional,1
 support,2
@@ -573,7 +570,7 @@ amounted,2
 opportunity,1
 interpret,2
 deﬁning,1
-reference,3
+reference,2
 generally,1
 raised,1
 bar,1
@@ -952,6 +949,7 @@ directmedia,2
 publishing,4
 freiburg,2
 associated,1
+practice,1
 beechwood,2
 guardian,2
 product,2

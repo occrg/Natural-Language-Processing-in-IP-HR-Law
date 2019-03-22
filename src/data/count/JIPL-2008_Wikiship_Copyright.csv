@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,7
-intellectual,21
-property,14
-law,50
-practice,13
-vol,8
 authorship,35
 ownership,12
 wikiship,6
@@ -17,6 +11,7 @@ roadmap,1
 start,1
 contrasting,1
 approach,4
+law,44
 driven,1
 contemplation,1
 generality,2
@@ -151,6 +146,7 @@ term,23
 light,1
 current,3
 market,6
+practice,7
 recent,3
 phenomenon,3
 examines,1
@@ -207,9 +203,12 @@ scarcely,1
 perceptible,1
 passage,1
 recorded,3
+intellectual,15
+property,8
 consultant,1
 olswang,1
 editor,3
+journal,1
 professorial,1
 fellow,1
 queen,1
@@ -1488,11 +1487,12 @@ suitable,1
 teilmann,1
 justiﬁcations,1
 le,1
+vol,2
 detail,2
 enforced,1
 excluded,1
 amending,1
-access,2
+access,1
 waiver,1
 distortion,2
 mutilation,2
@@ -1748,7 +1748,3 @@ alternative,1
 achieving,1
 stable,1
 imminent,1
-doijiplpjpn,1
-advance,1
-publication,1
-november,1

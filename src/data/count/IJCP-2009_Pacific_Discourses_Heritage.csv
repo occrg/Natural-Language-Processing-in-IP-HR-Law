@@ -1,16 +1,11 @@
 word/phrase,value,class
-international,6
-journal,3
-cultural,79
-property,81
 printed,1
 copyright,1
-society,21
 pacific,34
 discourse,15
+cultural,77
 heritage,22
 protection,28
-introduction,3
 toon,2
 van,3
 meijl*,1
@@ -25,7 +20,6 @@ something,1
 thompson,2
 long,2
 revolution,2
-abstract,1
 article,2
 collected,1
 special,11
@@ -33,7 +27,7 @@ issue,17
 aim,7
 addressing,1
 debate,13
-use,22
+use,10
 within,6
 context,10
 globalization,7
@@ -69,15 +63,16 @@ increase,1
 growth,2
 author,2
 approach,3
-subject,13
+subject,1
 intellectual,49
+property,79
 right,44
 specific,3
 attention,4
 ownership,20
 particularly,4
 relation,4
-university,21
+university,9
 nijmegen,1
 email,1
 developed,3
@@ -168,14 +163,6 @@ large,2
 comparative,2
 program,2
 set,2
-downloaded,12
-bristol,12
-library,12
-mar,12
-cambridge,22
-core,12
-term,18
-available,15
 knowledge,32
 potential,3
 benefit,3
@@ -187,6 +174,7 @@ misappropriation,10
 often,4
 associated,4
 freely,1
+available,3
 domain,2
 either,2
 form,12
@@ -281,6 +269,7 @@ local,7
 level,2
 paradoxically,1
 small-scale,3
+society,20
 disseminated,1
 around,6
 world,7
@@ -344,6 +333,7 @@ strategic,4
 misconstrued,1
 take,2
 place,5
+term,6
 legalization,1
 mystifies,1
 intricate,1
@@ -623,6 +613,7 @@ began,3
 safeguard,1
 receiving,1
 support,1
+international,4
 organization,3
 examined,1
 established,1
@@ -900,6 +891,7 @@ melanesian,1
 mode,1
 thinking,1
 participated,1
+cambridge,10
 marilyn,3
 strathern,7
 transaction,5
@@ -1140,6 +1132,7 @@ islander,1
 johannes,1
 ward,1
 evolution,1
+journal,2
 polynesian,1
 thomas,1
 valuing,1

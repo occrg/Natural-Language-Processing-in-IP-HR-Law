@@ -45,9 +45,9 @@ delegate,2
 negotiator,3
 nonprofit,3
 organization,39
-world,38
-intellectual,87
-property,86
+world,35
+intellectual,84
+property,83
 adopted,10
 june,14
 morocco,3
@@ -94,7 +94,6 @@ access,56
 author,33
 exception,69
 print,29
-journal,19
 john,1
 wiley,2
 son,1
@@ -311,6 +310,7 @@ reason,5
 inhibit,1
 accessing,2
 including,19
+journal,16
 mainly,7
 differ,1
 another,8
@@ -437,7 +437,6 @@ two,10
 sub-sections,1
 consider,5
 interest,9
-introduction,3
 conclusion,1
 early,2
 draft,3

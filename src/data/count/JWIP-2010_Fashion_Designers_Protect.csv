@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,56
-world,52
-intellectual,84
-property,83
-vol,52
+vol,2
 pp,46
 doi,1
 j-x,1
@@ -27,6 +23,8 @@ derclaye,61
 associate,2
 professor,3
 reader,3
+intellectual,33
+property,32
 show,26
 despite,2
 vast,2
@@ -118,9 +116,6 @@ complex,2
 jurisdiction,3
 furthermore,2
 reveals,1
-blackwell,51
-publishing,53
-ltd,65
 protect,10
 focus,3
 mainly,2
@@ -173,7 +168,7 @@ idiosyncrasy,2
 discussing,1
 statutory,14
 inspired,3
-reference,6
+reference,3
 made,23
 provision,14
 dissimilar,1
@@ -224,6 +219,7 @@ brieﬂy,2
 introduced,2
 beneﬁt,6
 many,10
+journal,5
 preliminary,2
 nutshell,1
 regulated,2
@@ -524,6 +520,7 @@ sanction,2
 idea,11
 like,10
 everywhere,1
+world,1
 agreement,4
 originality,22
 stated,18
@@ -1335,7 +1332,6 @@ string,1
 judge-made,2
 shortly,1
 overridden,1
-introduction,4
 document,4
 depicts,2
 depiction,1
@@ -1712,6 +1708,7 @@ pole,1
 ensemble,1
 suspended,1
 jacob,2
+ltd,14
 basically,1
 conﬁrmed,2
 skilled,1
@@ -2101,7 +2098,6 @@ focused,1
 triple,1
 survives,1
 carry,2
-abstract,1
 attribute,1
 inconsistent,1
 urgent,1
@@ -2156,6 +2152,7 @@ estelles,1
 database,2
 edward,4
 elgar,4
+publishing,2
 handbook,2
 co-author,1
 num,1

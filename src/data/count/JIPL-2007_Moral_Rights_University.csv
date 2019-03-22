@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,8
-intellectual,30
-property,25
-law,33
-practice,10
-vol,7
 moral,49
 right,126
 university,110
@@ -26,6 +20,7 @@ human,4
 command,1
 every,4
 author,85
+property,18
 reserved,2
 death,1
 well,4
@@ -55,6 +50,7 @@ discussed,3
 elsewhere,2
 validity,1
 enforceability,2
+intellectual,23
 policy,10
 adopted,5
 various,7
@@ -141,6 +137,7 @@ status,3
 within,5
 key,1
 issue,3
+law,26
 protects,2
 commercial,7
 interest,29
@@ -164,6 +161,7 @@ particular,8
 reference,1
 examining,1
 contract,8
+practice,3
 measuring,1
 norm,1
 conﬁdence,50
@@ -1506,7 +1504,6 @@ enabling,1
 circumscribed,1
 handling,1
 remedy,2
-introduction,1
 para,1
 ii,1
 gurry,1
@@ -1594,6 +1591,7 @@ inventorship,1
 avoiding,1
 litigation,1
 ohio,1
+journal,1
 condescending,1
 disrespect,1
 anonymous,2

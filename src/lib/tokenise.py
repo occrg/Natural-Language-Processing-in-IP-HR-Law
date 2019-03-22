@@ -64,6 +64,8 @@ def substituteKerning(text):
     text  (str) -- the text with the kerning characters replaced
     """
     text = text.replace('ﬁ ', 'fi')
+    text = text.replace('(cid:222)', 'fi')
+    text = text.replace('(cid:223)', 'fl')
     text = text.replace('ﬁ ', 'fi')
     text = text.replace('ﬂ ', 'fl')
     text = text.replace('ﬀ ', 'ff')
@@ -124,6 +126,16 @@ def removeStopstrings(words, stopstrings):
     """
     Removes all words that contain any elements of ${stopstrings} from
     ${words}.
+    Arguments:
+    words           ([str])
+            -- a list of words
+    stopstrings     ([str])
+            -- a list of strings that indicate a word should be removed
+               if the string is contained in that word
+
+    Returns:
+    wordsWOstops    ([str])
+            -- the first list with the appropriate words removed
     """
     wordsWOstops = []
     for w in words:

@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,38
-world,42
-intellectual,73
-property,72
-vol,23
+vol,1
 pp,10
 doi,1
 j-x,1
@@ -85,6 +81,8 @@ made,8
 proponent,3
 critic,4
 aspect,3
+intellectual,47
+property,46
 unsubstantiated,2
 author,3
 concludes,2
@@ -174,9 +172,6 @@ australia,7
 morocco,12
 bahrain,8
 oman,4
-blackwell,23
-publishing,23
-ltd,23
 peru,10
 colombia,7
 panama,7
@@ -345,6 +340,7 @@ perspective,3
 smallest,1
 economy,4
 among,4
+world,16
 organization,12
 member,13
 fact,4
@@ -1014,6 +1010,7 @@ published,2
 op-ed,1
 wall,2
 street,2
+journal,12
 concluding,3
 urge,1
 conﬁdently,1
@@ -1308,7 +1305,7 @@ onerous,1
 seven,1
 compliance,1
 undertaking,1
-reference,3
+reference,2
 undertake,1
 reasonable,1
 domestic,2

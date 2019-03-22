@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,91
-world,71
-intellectual,52
-property,54
-vol,42
+vol,1
 pp,4
 doi,1
 j-x,1
@@ -28,6 +24,7 @@ nomenclature,34
 pharmaceutical,113
 substance,68
 recommended,18
+world,29
 organization,31
 commonly,6
 known,6
@@ -83,7 +80,7 @@ relating,13
 different,25
 country,28
 speciﬁc,16
-reference,4
+reference,3
 identiﬁes,3
 deﬁciencies,4
 domestic,1
@@ -142,10 +139,8 @@ rule,42
 adopted,11
 recommends,5
 author,45
+journal,49
 compilation,42
-blackwell,42
-publishing,42
-ltd,70
 moreover,10
 pharmacologically,6
 developed,10
@@ -373,6 +368,8 @@ exclusive,6
 right,17
 part,46
 thereof,5
+intellectual,10
+property,12
 mandate,11
 traced,1
 constitutional,2
@@ -622,6 +619,7 @@ pril,4
 -cital,1
 aurobindo,2
 pharma,2
+ltd,28
 zidovudine,2
 us,7
 attempted,1
@@ -1719,7 +1717,6 @@ launched,1
 delay,1
 bypass,1
 changing,1
-introduction,2
 alone,1
 directory,1
 asked,1

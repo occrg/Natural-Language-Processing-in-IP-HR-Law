@@ -1,34 +1,10 @@
 word/phrase,value,class
-international,39
-journal,10
-heritage,117
-study,7
-print,2
-online,2
-homepage,1
-destruction,57
-mitigation,15
-reconciliation,38
-cultural,100
-harold,6
-kalman,7
-cite,1
-link,1
-published,5
-mar,1
-submit,1
-view,6
-crossmark,1
-data,2
-citing,3
-article,4
-full,1
-term,3
-condition,4
-access,1
-use,3
-found,1
-vol,1
+destruction,54
+mitigation,12
+reconciliation,35
+cultural,98
+heritage,111
+harold,4
 kalmanab,1
 aarchitectural,1
 conservation,22
@@ -43,15 +19,6 @@ victoria,4
 british,5
 columbia,4
 canada,11
-received,2
-august,7
-accepted ,1
-january,2
-identicide,6
-urbicide,5
-reconstruction,38
-world,47
-list,27
 attack,17
 built,6
 often,7
@@ -75,6 +42,8 @@ identity,16
 collective,6
 memory,14
 represent,2
+urbicide,4
+identicide,5
 victim,6
 typically,1
 attempt,3
@@ -89,6 +58,7 @@ thereby,1
 restoring,3
 tangible,3
 evidence,8
+reconstruction,37
 however,10
 ideological,1
 destructive,5
@@ -110,6 +80,8 @@ destroyed,13
 subsequently,2
 reconstructed,10
 inscribing,2
+world,46
+list,26
 although,1
 ensures,1
 perpetuation,1
@@ -223,6 +195,8 @@ spanning,1
 therefore,2
 extended,2
 reach,1
+kalman,5
+published,4
 license,1
 informa,1
 limited,2
@@ -333,6 +307,7 @@ offensive,1
 foundation,1
 bosnians,1
 encouraged,1
+international,36
 community,13
 determined,2
 restore,2
@@ -463,6 +438,7 @@ perpetrator,4
 returning,3
 building,22
 usable,1
+condition,3
 removing,3
 literature,1
 addressing,1
@@ -1067,6 +1043,7 @@ imprisoned,1
 deter,2
 option,1
 pursues,1
+view,3
 tribunal,3
 based,2
 hague,13
@@ -1440,6 +1417,7 @@ contracting,1
 prepare,1
 inventory,2
 refraining,1
+use,2
 immediate,1
 expose,1
 preamble,1
@@ -1569,6 +1547,7 @@ analysis,2
 prior,1
 software,1
 machine,1
+data,1
 milled,1
 polyurethane,1
 incurred,1
@@ -1654,6 +1633,7 @@ post-trauma,2
 theme,3
 colloquium,2
 multi-national,1
+study,4
 currently,1
 underway,1
 cambridge,1
@@ -1681,6 +1661,7 @@ guided,1
 tour,2
 dramatisation,1
 conventional,1
+print,1
 starting,1
 point,2
 route,1
@@ -1811,6 +1792,7 @@ report,5
 december,4
 defined,1
 coming,1
+term,2
 manner,3
 overcomes,1
 establishes,1
@@ -1968,6 +1950,7 @@ announced,1
 attracted,1
 attention,1
 obama,1
+citing,1
 bamyan,2
 documentary,1
 film,1
@@ -1985,7 +1968,7 @@ retarding,1
 deterioration,1
 accretion,1
 reassembling,1
-introduction,3
+article,2
 parallel,1
 september,3
 passionately,1
@@ -2009,9 +1992,10 @@ jordan,1
 participation,1
 erected,1
 role,1
+august,6
 jiefei,1
 kindly,1
-reference,2
+reference,1
 signed,1
 entered,1
 engaged,1
@@ -2020,6 +2004,7 @@ amending,1
 extensively,1
 anthology,1
 bajjaly,2
+journal,4
 arbour,3
 commissioner,1
 responsibility,3
@@ -2067,6 +2052,7 @@ routledge,6
 vols,1
 founding,1
 board,1
+received,1
 award,2
 gabrielle,1
 léger,1
@@ -2093,6 +2079,7 @@ independent,1
 london,6
 frédéric,1
 guardian,3
+january,1
 jason,1
 ruling,1
 christina,2

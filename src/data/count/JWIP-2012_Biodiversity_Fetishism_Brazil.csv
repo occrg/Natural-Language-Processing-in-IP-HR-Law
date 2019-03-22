@@ -1,9 +1,5 @@
 word/phrase,value,class
-journal,34
-world,32
-intellectual,40
-property,64
-vol,22
+vol,1
 pp,9
 doi,1
 j-x,1
@@ -191,8 +187,11 @@ party,7
 aubertin,12
 moretti,4
 chen,2
+intellectual,15
+property,39
 whether,10
 forum,2
+world,7
 organization,9
 trade,2
 refusal,2
@@ -214,9 +213,6 @@ number,19
 factor,1
 ethical,2
 ccid,22
-blackwell,22
-publishing,22
-ltd,22
 ground,4
 nature,12
 commodity,3
@@ -1718,6 +1714,7 @@ inovac,3
 tecnol´ogica,1
 lodge,3
 publish,1
+journal,9
 advice,1
 dissuading,1
 lodging,2
@@ -1934,7 +1931,6 @@ insufﬁciently,1
 ie,1
 trivial,1
 shadlen,2
-reference,1
 adeus,1
 ao,4
 para´ıso,1

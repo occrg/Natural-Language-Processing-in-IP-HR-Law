@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,5
-journal,2
-cultural,35
-property,2
 printed,1
 copyright,1
-society,1
 politics,14
 preservation,33
 privileging,4
@@ -14,7 +9,6 @@ heritage,80
 another,6
 jonathan,1
 bell,1
-abstract,1
 distinctly,1
 political,5
 often,16
@@ -108,6 +102,7 @@ john,3
 ruskin,4
 inherently,2
 archaeologist,5
+cultural,33
 resource,5
 manager,7
 conservator,1
@@ -135,17 +130,6 @@ box,1
 los,4
 angeles,4
 email,1
-downloaded,20
-university,26
-bristol,20
-library,21
-mar,20
-subject,21
-cambridge,25
-core,20
-term,22
-use,29
-available,22
 physical,18
 remains,11
 necessarily,1
@@ -384,11 +368,13 @@ understand,1
 assignation,3
 component,3
 including,5
+use,9
 admiration,2
 th-century,2
 alois,2
 reigl,2
 claimed,2
+term,2
 meant,1
 subjectively,1
 objectively,1
@@ -739,7 +725,6 @@ director,2
 louvre,1
 museum,6
 made,2
-reference,3
 called,2
 kurnu,1
 interaction,5
@@ -812,6 +797,7 @@ villa,1
 potential,1
 spot,1
 british,2
+subject,1
 manor-like,2
 residence,8
 egyptologist,1
@@ -836,6 +822,7 @@ sometimes,1
 detail,2
 panorama,2
 collection,1
+library,1
 brightly,1
 colored,2
 irregular,1
@@ -895,6 +882,7 @@ response,2
 using,1
 material,1
 readily,2
+available,2
 mud,2
 plaster,1
 usually,1
@@ -915,6 +903,7 @@ thousand,3
 testament,1
 strong,1
 visitation,2
+reference,2
 involvement,3
 endeavor,4
 sheikh,7
@@ -1204,7 +1193,6 @@ eminent,1
 domain,1
 dot,1
 justified,1
-introduction,2
 waste,1
 water,1
 exacerbated,1
@@ -1523,6 +1511,8 @@ london,9
 verso,1
 arjun,1
 commodity,1
+cambridge,5
+university,6
 press,9
 general,1
 bonaparte,1
@@ -1569,6 +1559,7 @@ january,1
 review,6
 methodology,1
 consequence,1
+international,3
 sociology,1
 philip,1
 nation,1
@@ -1650,6 +1641,7 @@ old,1
 stockdale,1
 doctrinal,1
 scientific,1
+journal,1
 reading,1
 commentary,1
 hearn,1

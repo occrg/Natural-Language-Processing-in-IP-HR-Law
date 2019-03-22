@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,24
-journal,7
-cultural,79
-property,47
 printed,1
 copyright,10
-society,6
 pattern,12
 recognition,7
 governmental,10
@@ -16,7 +11,6 @@ culture,20
 megan,1
 rae,1
 blakely,1
-abstract,1
 notoriously,1
 difficult,1
 design,44
@@ -25,6 +19,7 @@ suitable,1
 legal,15
 right,28
 intangible,24
+cultural,77
 heritage,47
 due,11
 nature,8
@@ -117,25 +112,16 @@ increased,2
 homogenization,1
 part,10
 centre,2
-university,23
+university,5
 glasgow,2
 email,1
-downloaded,18
-bristol,18
-library,18
-mar,18
-subject,20
-cambridge,20
-core,18
-term,22
-use,30
-available,22
 globalization,2
 accelerated,1
 technological,1
 development,8
 preservation,9
 increasingly,2
+international,22
 frequently,4
 divided,2
 two,4
@@ -232,6 +218,7 @@ program,1
 particularly,2
 intersecting,1
 intellectual,36
+property,45
 abundant,1
 hurdle,1
 ranging,2
@@ -373,6 +360,7 @@ preserving,8
 inexorably,1
 linked,1
 celtic,2
+use,12
 date,1
 back,2
 around,5
@@ -474,6 +462,7 @@ symbol,4
 normalized,1
 registry,11
 request,4
+society,5
 london,2
 sent,1
 leader,2
@@ -529,6 +518,7 @@ ancient,1
 muted,1
 configuration,1
 intensity,1
+available,4
 older,2
 offering,3
 le,5
@@ -566,6 +556,7 @@ contributor,1
 overall,1
 economy,5
 larger,1
+term,4
 suggested,1
 previous,4
 estimate,1
@@ -819,6 +810,7 @@ guarantee,1
 consistency,1
 reliability,1
 initiative,1
+subject,2
 change,5
 budget,1
 constraint,1
@@ -1666,6 +1658,7 @@ van,1
 nine,1
 plague,1
 commandment,1
+journal,6
 john,1
 jean,1
 ethnicity,1
@@ -1729,6 +1722,7 @@ european,1
 commission,1
 hobsbawn,1
 ranger,1
+cambridge,2
 workshop,1
 paris,1
 rio,1

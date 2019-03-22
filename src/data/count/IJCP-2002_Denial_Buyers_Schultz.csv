@@ -68,7 +68,7 @@ wrong,1
 base,1
 violation,10
 national,7
-property,25
+property,23
 act,17
 critic,2
 argued,18
@@ -88,7 +88,7 @@ away,1
 schultzs,23
 argument,22
 convention,6
-cultural,17
+cultural,15
 implementation,4
 restricts,1
 import,11
@@ -122,11 +122,6 @@ lincoln,1
 massachusetts,2
 correspondent,1
 newspaper,3
-international,9
-journal,4
-vol,1
-pp,1
-society,2
 mean,5
 changing,1
 reality,1
@@ -1061,6 +1056,7 @@ seq,4
 calling,1
 criticism,1
 essay,2
+international,7
 stanford,2
 review,2
 james,3
@@ -1070,6 +1066,7 @@ course,1
 lawless,1
 toward,1
 university,2
+journal,3
 politics,2
 effort,1
 successfully,1
@@ -1145,6 +1142,7 @@ original,1
 quoting,3
 institute,1
 anthropological,1
+society,1
 infra,1
 webster,1
 third,1

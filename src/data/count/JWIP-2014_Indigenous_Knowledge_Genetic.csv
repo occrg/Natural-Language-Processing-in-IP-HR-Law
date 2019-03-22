@@ -1,8 +1,4 @@
 word/phrase,value,class
-journal,19
-world,19
-intellectual,56
-property,54
 vol,15
 pp,11
 doi,1
@@ -35,6 +31,8 @@ relevant,17
 provision,48
 two,12
 chapter,46
+intellectual,40
+property,38
 environment,13
 shall,11
 included,5
@@ -174,6 +172,7 @@ encompasses,2
 material,13
 various,2
 kind,4
+world,3
 organization,3
 adopts,1
 deﬁnition,7
@@ -420,7 +419,6 @@ measure,13
 taken,6
 detail,2
 text,8
-reference,8
 mutually,4
 agreed,5
 annexure,9
@@ -444,6 +442,7 @@ obviously,1
 require,2
 farming,4
 inﬂuence,1
+reference,4
 saying,3
 population,6
 inventory,2
@@ -522,7 +521,6 @@ compulsory,1
 legitimate,2
 manner,4
 weakened,2
-introduction,2
 accordance,8
 domestic,6
 beyond,1
@@ -1039,6 +1037,7 @@ race,1
 farmland,1
 user,1
 harvard,1
+journal,3
 submitted,1
 indigenousfoundationsartsubccaid¼,1
 particular,1

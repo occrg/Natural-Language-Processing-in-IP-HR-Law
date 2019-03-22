@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,4
-intellectual,4
-property,4
-law,12
-practice,5
-vol,4
 shape,94
 lego,41
 brick,23
@@ -61,6 +55,7 @@ formerly,2
 patented,1
 invention,7
 guise,1
+law,8
 cancellation,6
 division,4
 grand,10
@@ -378,7 +373,7 @@ aim,2
 namely,1
 chosen,1
 fulﬁl,2
-may,4
+may,3
 used,3
 prevents,1
 indication,2
@@ -468,7 +463,7 @@ indicator,1
 unlawful,1
 fulﬁls,2
 sufﬁcient,3
-access,4
+access,3
 every,1
 word,4
 choose,2
@@ -491,6 +486,7 @@ return,1
 provide,1
 complete,1
 information,1
+practice,1
 expires,2
 true,2
 protect,1
@@ -739,9 +735,6 @@ learned,1
 par,1
 opportunity,1
 clarify,1
-doijiplpjpp,1
-advance,1
-publication,1
 bundesgerichtshof,1
 dictated,1
 supreme,1

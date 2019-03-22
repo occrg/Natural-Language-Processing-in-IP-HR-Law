@@ -1,14 +1,10 @@
 word/phrase,value,class
-international,13
-journal,28
-cultural,58
-property,3
 printed,1
 copyright,1
-society,10
 line,6
 sand,3
 exploration,2
+cultural,56
 heritage,84
 value,31
 hominid,25
@@ -17,7 +13,6 @@ robotid,11
 artifact,38
 dirk,2
 spennemann*,1
-abstract,3
 although,12
 management,21
 inherently,1
@@ -58,7 +53,7 @@ chimpanzee,53
 culture,82
 tradition,8
 tool,83
-use,86
+use,60
 recognize,1
 reference,3
 human,93
@@ -121,18 +116,9 @@ custom,2
 concerned,2
 land,1
 water,2
+society,9
 email,1
 e-mail,3
-downloaded,26
-university,37
-bristol,26
-library,27
-mar,28
-subject,27
-cambridge,31
-core,33
-term,38
-available,29
 aspect,7
 manager,3
 ass,2
@@ -378,6 +364,7 @@ application,5
 all-pervasive,1
 ever,1
 powerful,1
+term,12
 computing,7
 relationship,1
 power,1
@@ -473,6 +460,7 @@ algorithm,13
 evolutionary,11
 course,2
 continuing,5
+available,3
 evidence,8
 rest,4
 conversely,2
@@ -549,6 +537,7 @@ struck,1
 percussion,1
 flaking,2
 pebble,2
+core,7
 labeled,1
 oldowan,4
 industrial,2
@@ -810,6 +799,7 @@ endeavor,1
 collected,3
 ethnography,1
 art,5
+library,1
 live,1
 zoo,2
 history,15
@@ -841,6 +831,7 @@ requirement,2
 raise,1
 academic,4
 possession,1
+subject,1
 vagary,1
 domestic,1
 house,1
@@ -853,6 +844,7 @@ anticipated,1
 centre,1
 foundation,1
 indiana,1
+university,11
 underlying,2
 valued,4
 later,6
@@ -931,6 +923,7 @@ scientist,2
 sony,1
 honda,1
 reality,1
+property,1
 invention,1
 intermediate,2
 stage,1
@@ -948,6 +941,7 @@ matter,4
 commenced,1
 computer,2
 evidenced,2
+journal,27
 annals,2
 iteration,3
 software,9
@@ -1446,6 +1440,7 @@ neil,2
 armstrong,2
 footstep,2
 murphy,2
+mar,2
 young,2
 haynes,2
 archeological,3
@@ -1779,6 +1774,7 @@ vienna,1
 accessed,14
 garland,1
 press,4
+cambridge,5
 koobi,1
 forum,2
 kenya,1
@@ -1820,6 +1816,7 @@ heaven,1
 archaeoastronomy,1
 version,1
 original,1
+international,11
 guido,1
 ryszard,1
 michalski,1

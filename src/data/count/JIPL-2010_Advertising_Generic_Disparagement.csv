@@ -1,10 +1,4 @@
 word/phrase,value,class
-journal,10
-intellectual,9
-property,13
-law,45
-practice,15
-vol,7
 comparative,21
 advertising,31
 tort,44
@@ -55,6 +49,7 @@ paris,4
 convention,4
 protection,11
 industrial,5
+property,6
 requires,1
 state,3
 provide,2
@@ -64,6 +59,7 @@ competition,7
 act,8
 contrary,1
 honest,14
+practice,8
 commercial,29
 matter,3
 amount,7
@@ -164,6 +160,7 @@ frivolous,1
 among,1
 rival,19
 business,4
+law,38
 section,9
 allows,1
 registered,12
@@ -248,11 +245,6 @@ university,1
 press,1
 right,3
 reserved,1
-doijiplpjpq,1
-advance,1
-access,1
-publication,2
-august,1
 prevent,2
 tarnishment,7
 ie,3
@@ -431,6 +423,7 @@ hutchinson,4
 ch,1
 bently,1
 sherman,1
+intellectual,2
 rd,1
 nd,1
 entry,1
@@ -446,6 +439,7 @@ code,4
 civil,4
 modern,3
 american,1
+journal,3
 banerjee,5
 dishonest,2
 evaded,1
@@ -958,6 +952,7 @@ royal,1
 wright,1
 greers,1
 peerman,1
+publication,1
 cable,1
 wireless,1
 likelihood,1

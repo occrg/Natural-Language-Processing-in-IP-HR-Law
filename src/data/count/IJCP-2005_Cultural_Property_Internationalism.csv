@@ -1,16 +1,12 @@
 word/phrase,value,class
-international,107
-journal,7
-cultural,256
-property,165
 printed,1
 copyright,1
-society,3
+cultural,251
+property,160
 internationalism,18
 john,2
 henry,5
 merryman*,1
-abstract,1
 shorthand,2
 proposition,3
 everyone,2
@@ -27,6 +23,7 @@ describes,2
 historical,6
 development,4
 expression,8
+international,102
 law,82
 war,59
 work,50
@@ -122,17 +119,6 @@ urice,1
 thoughtful,1
 criticism,1
 suggestion,1
-downloaded,29
-university,35
-bristol,29
-library,31
-mar,29
-subject,31
-cambridge,32
-core,29
-term,32
-use,34
-available,31
 policy,8
 currently,1
 structured,2
@@ -528,6 +514,7 @@ ought,2
 spare,1
 edifice,2
 honor,2
+society,2
 contribute,4
 strength,1
 tomb,2
@@ -634,6 +621,7 @@ huge,1
 concession,2
 formalizing,1
 reparationsin,1
+term,3
 armistice,1
 treaty,16
 imposed,1
@@ -923,6 +911,7 @@ wheatons,1
 application,3
 authorizes,1
 u,3
+use,5
 degree,2
 violence,1
 secure,1
@@ -996,6 +985,7 @@ charitable,1
 foundation,2
 promotion,2
 knowledge,6
+university,6
 learning,1
 observatory,1
 scientific,11
@@ -1003,6 +993,7 @@ authorizing,1
 taxed,1
 used,2
 service,4
+library,2
 precious,1
 astronomical,1
 telescope,1
@@ -1977,6 +1968,7 @@ shown,1
 improperly,2
 potent,1
 broad,1
+subject,2
 review,4
 self-defined,1
 excessively,1
@@ -2254,6 +2246,7 @@ signifies,1
 admiralty,2
 doctorate,1
 oxford,6
+cambridge,3
 qualified,1
 ecclesiastical,2
 entry,1
@@ -2319,6 +2312,7 @@ direct,1
 function,1
 feasible,1
 alternative,1
+available,2
 obtain,1
 directing,1
 invoke,1
@@ -2431,6 +2425,7 @@ christopher,1
 david,1
 gill,1
 collecting,1
+journal,3
 daniel,1
 juristic,1
 innovation,1
@@ -2511,7 +2506,6 @@ trimestrielle,1
 paton,1
 harvard,1
 heinemann,1
-introduction,1
 édouard,1
 pommier,1
 macula,1

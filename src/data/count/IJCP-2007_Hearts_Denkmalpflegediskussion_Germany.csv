@@ -1,11 +1,6 @@
 word/phrase,value,class
-international,2
-journal,1
-cultural,37
-property,2
 printed,1
 copyright,2
-society,6
 move,4
 heart,12
 saved,3
@@ -13,7 +8,6 @@ denkmalpflegediskussion,7
 germany,29
 cornelius,5
 holtorf*,1
-abstract,1
 paper,5
 recent,4
 discussion,10
@@ -48,6 +42,7 @@ issue,10
 discussed,3
 therefore,4
 whether,6
+cultural,35
 decentralized,2
 entstaatlicht,5
 responsibility,10
@@ -101,7 +96,7 @@ democratized,4
 archaeology,2
 ancient,2
 history,9
-university,25
+university,2
 lund,2
 e-mail,1
 grateful,1
@@ -150,16 +145,6 @@ alexander,1
 bauer,1
 quick,1
 turnaround,1
-downloaded,23
-bristol,23
-library,23
-mar,23
-subject,26
-cambridge,23
-core,23
-term,29
-use,27
-available,24
 supposition,1
 culture,5
 end,3
@@ -195,6 +180,7 @@ hearing,4
 turned,1
 political,9
 bombshell,1
+subject,3
 held,1
 bundestag,1
 architectural,4
@@ -329,6 +315,7 @@ growing,2
 constantly,1
 authority,22
 argues,3
+use,4
 law,7
 regulation,3
 impose,2
@@ -459,6 +446,7 @@ disinterested,1
 assessor,1
 judge,1
 behalf,2
+society,5
 large,5
 listed,2
 part,10
@@ -571,6 +559,7 @@ analysis,4
 develops,1
 summarized,1
 follows,1
+term,6
 overstretched,1
 led,1
 reduced,1
@@ -813,7 +802,6 @@ oriel,2
 overall,1
 sentiment,1
 expressed,2
-reference,2
 rejection,1
 pseudo-historical,1
 express,2
@@ -1499,6 +1487,7 @@ häuser,1
 keine,1
 unpassenden,1
 undated,1
+available,1
 dokumentation,4
 print,1
 petra,3
