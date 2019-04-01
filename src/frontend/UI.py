@@ -1,6 +1,8 @@
 from tkinter import *
 from tkinter import ttk
 
+from frontend.tabs.Form import Form
+
 
 """
 
@@ -16,6 +18,7 @@ class UI:
         self._root.title(title)
         self._root.geometry("%dx%d+0+0" % (self._width, self._height))
         self._notebook = ttk.Notebook(self._root)
+        Form(self.__addTab('Documents'), documentList)
         self._root.mainloop()
 
 

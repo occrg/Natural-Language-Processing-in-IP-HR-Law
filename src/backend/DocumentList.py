@@ -17,7 +17,11 @@ class DocumentList:
         """
 
         """
-        self._documents = self.__processDocumentsFromRecords()
+        self._documents = []
+
+
+    def fillDocuments():
+        self.__processDocumentsFromRecords()
         self.__calculateDocumentFrequencies()
         self._classification = Classification(self)
         self._visualisations = Visualisations(self)
@@ -43,7 +47,8 @@ class DocumentList:
 
         """
         for document in self._documents:
-            document.getCount().calculateFrequency(document.getFilename(), self.__getDocumentsWordLists())
+            document.getCount().calculateFrequency(document.getFilename(),   \
+                self.__getDocumentsWordLists())
 
 
     def deduceAllWords(self):
