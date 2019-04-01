@@ -6,7 +6,7 @@ from tkinter import ttk
 
 """
 class ButtonFrame:
-    def __init__(self, master):
+    def __init__(self, master, notebook, documentList):
         """
 
         """
@@ -20,8 +20,13 @@ class ButtonFrame:
 
         addButton = Button(self._master, text="Add Document")
         testButton = Button(self._master, text="Change Test Data")
-        trainButton = Button(self._master, text="Train Data")
+        trainButton = Button(self._master, text="Train Data", command=lambda: self.__trainDataCall(documentList, notebook))
 
         addButton.grid(row=1, column=1, padx=15, sticky = "nse")
         testButton.grid(row=1, column=2, padx=15, sticky = "nse")
         trainButton.grid(row=1, column=3, padx=15, sticky = "nse")
+
+
+    def __trainDataCall(self, documentList, notebook):
+        documentList.fillDocuments()
+        notebook.select(1)

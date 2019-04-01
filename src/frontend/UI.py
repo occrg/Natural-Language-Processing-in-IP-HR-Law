@@ -2,6 +2,7 @@ from tkinter import *
 from tkinter import ttk
 
 from frontend.tabs.Form import Form
+from frontend.tabs.Visualisation import Visualisation
 
 
 """
@@ -18,7 +19,10 @@ class UI:
         self._root.title(title)
         self._root.geometry("%dx%d+0+0" % (self._width, self._height))
         self._notebook = ttk.Notebook(self._root)
-        Form(self.__addTab('Documents'), documentList)
+        self._formTab = self.__addTab('Documents')
+        self._visualisationTab = self.__addTab('Results')
+        Form(self._formTab, self._notebook, documentList)
+        Visualisation(self._visualisationTab)
         self._root.mainloop()
 
 

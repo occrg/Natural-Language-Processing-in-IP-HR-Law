@@ -17,15 +17,13 @@ class DocumentList:
         """
 
         """
-        self._documents = []
+        self._documents = self.__processDocumentsFromRecords()
 
 
-    def fillDocuments():
-        self.__processDocumentsFromRecords()
+    def fillDocuments(self):
         self.__calculateDocumentFrequencies()
         self._classification = Classification(self)
         self._visualisations = Visualisations(self)
-
 
     def getDocuments(self):
         """
