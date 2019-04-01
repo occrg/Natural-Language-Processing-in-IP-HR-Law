@@ -1,7 +1,7 @@
 import matplotlib.dates as mdates
-import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
+from matplotlib.figure import Figure
 
 
 """
@@ -10,14 +10,30 @@ import numpy as np
 class Visualisations:
 
 
-    def __init__(self, documentList):
+    def __init__(self):
         """
 
         """
-        self.__visualisations = []
+        self._figs = []
+        self._axs = []
+
+    def getFigs(self):
+        """
+
+        """
+        return self._figs
+
+
+    def getAxs(self):
+        """
+
+        """
+        return self._axs
+        
+
+    def generateVisualisations(self, documentList):
         Xs, Ys, Zs = self.__gatherData(documentList)
-        self.__visualisations.append(self.__3dGraph(Xs, Ys, Zs))
-
+        self._figs.append(self.__3dGraph(Xs, Ys, Zs))
 
     def __gatherData(self, documentList):
         """
@@ -54,14 +70,15 @@ class Visualisations:
         """
 
         """
-        fig = plt.figure()
+        fig = Figure()
         ax = Axes3D(fig)
+        self._axs.append(ax)
         Cs = ['Red', 'Blue']
         Ls = ['Human Rights', 'Intellectual Property']
         for i in range(len(Xs)):
             ax.scatter(Xs[i], Ys[i], Zs[i], s=40, marker='o', c=Cs[i], label=Ls[i])
 
-        plt.legend()
+        fig.legend()
         ax.set_ylim(-1, 1)
         # ax.set_zlim(-1, 1)
         ax.set_xlabel("Time", fontsize='large', fontweight='bold')
@@ -82,6 +99,6 @@ class Visualisations:
         ax.xaxis.label.set_color([0,0.733,0.839])
         ax.yaxis.label.set_color([0,0.733,0.839])
         ax.zaxis.label.set_color([0,0.733,0.839])
-        plt.ylim(-1,1)
+        # fig.ylim(-1,1)
         # plt.show()
         return fig

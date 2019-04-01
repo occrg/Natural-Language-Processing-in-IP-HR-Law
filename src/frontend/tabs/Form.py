@@ -8,7 +8,7 @@ from frontend.frames.ButtonFrame import ButtonFrame
 
 """
 class Form:
-    def __init__(self, master, notebook, documentList):
+    def __init__(self, master, notebook, visualisationObj, documentList):
         """
 
         """
@@ -24,4 +24,4 @@ class Form:
         self._buttonFrame = Frame(self._master, background="green")
         self._buttonFrame.grid(row=1, sticky="nesw")
 
-        ButtonFrame(self._buttonFrame, notebook, documentList)
+        ButtonFrame(self._buttonFrame, notebook, visualisationObj, documentList)

@@ -21,8 +21,8 @@ class UI:
         self._notebook = ttk.Notebook(self._root)
         self._formTab = self.__addTab('Documents')
         self._visualisationTab = self.__addTab('Results')
-        Form(self._formTab, self._notebook, documentList)
-        Visualisation(self._visualisationTab)
+        self._visualisationObj = Visualisation(self._visualisationTab)
+        self._formObj = Form(self._formTab, self._notebook, self._visualisationObj, documentList)
         self._root.mainloop()
 
 

@@ -18,18 +18,26 @@ class DocumentList:
 
         """
         self._documents = self.__processDocumentsFromRecords()
+        self._visualisations = Visualisations()
 
 
     def fillDocuments(self):
         self.__calculateDocumentFrequencies()
         self._classification = Classification(self)
-        self._visualisations = Visualisations(self)
+        self._visualisations.generateVisualisations(self)
+
 
     def getDocuments(self):
         """
 
         """
         return self._documents
+
+    def getVisualisations(self):
+        """
+
+        """
+        return self._visualisations
 
 
     def getTrainTestDocuments(self, test):
