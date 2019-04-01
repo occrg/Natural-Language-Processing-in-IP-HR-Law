@@ -34,7 +34,6 @@ class Visualisations:
         Zs = []
         testDocuments = documentList.getTrainTestDocuments(1)
         for document in testDocuments:
-            print(document.getPDFmetadata().getDate())
             if document.getClassInformation().getGt():
                 XsIp.append(mdates.date2num(document.getPDFmetadata().getDate()))
                 YsIp.append(document.getClassInformation().getIpRat() - document.getClassInformation().getHrRat())
@@ -84,5 +83,5 @@ class Visualisations:
         ax.yaxis.label.set_color([0,0.733,0.839])
         ax.zaxis.label.set_color([0,0.733,0.839])
         plt.ylim(-1,1)
-        plt.show()
+        # plt.show()
         return fig

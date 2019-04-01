@@ -11,7 +11,7 @@ class DocumentList:
 
     io = FilesIO()
     _dataFolder = 'data/'
-    _detailsFile = _dataFolder + 'documentDetails.csv'
+    _detailsFile = _dataFolder + 'documentDetails-subset.csv'
 
     def __init__(self):
         """
@@ -19,7 +19,7 @@ class DocumentList:
         """
         self._documents = self.__processDocumentsFromRecords()
         self.__calculateDocumentFrequencies()
-        # self._classification = Classification(self)
+        self._classification = Classification(self)
         self._visualisations = Visualisations(self)
 
 
@@ -44,13 +44,6 @@ class DocumentList:
         """
         for document in self._documents:
             document.getCount().calculateFrequency(document.getFilename(), self.__getDocumentsWordLists())
-
-
-    def produceVisualisations(self):
-        """
-
-        """
-        pass
 
 
     def deduceAllWords(self):
