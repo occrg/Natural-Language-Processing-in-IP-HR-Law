@@ -11,12 +11,12 @@ class HeaderFrame:
 
         """
         self._master = master
-        self._master.grid_columnconfigure(0, weight=3)
-        self._master.grid_columnconfigure(1, weight=3)
-        self._master.grid_columnconfigure(2, weight=2)
-        self._master.grid_columnconfigure(3, weight=1)
-        self._master.grid_columnconfigure(4, weight=4)
-        self._master.grid_columnconfigure(5, weight=3)
+        self._master.grid_columnconfigure(0, weight=18)
+        self._master.grid_columnconfigure(1, weight=17)
+        self._master.grid_columnconfigure(2, weight=4)
+        self._master.grid_columnconfigure(3, weight=2)
+        self._master.grid_columnconfigure(4, weight=20)
+        self._master.grid_columnconfigure(5, weight=20)
 
 
         self._titleLabel = Label(self._master, text="Title")
