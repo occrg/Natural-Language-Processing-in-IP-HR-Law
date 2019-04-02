@@ -1,8 +1,7 @@
 from tkinter import *
 from tkinter import ttk
 
-# from frontend.frames.HeaderFrame import HeaderFrame
-# from frontend.frames.EntryFrame import EntryFrame
+from frontend.frames.HeaderFrame import HeaderFrame
 
 
 """
@@ -27,5 +26,4 @@ class EntryHeaderFrame:
         self._entryFrame = Frame(self._master, background="red")
         self._entryFrame.grid(row=1, sticky="nsew")
 
-        # HeaderFrame(self._headerFrame)
-        # EntryFrame(self._entryFrame, documentList)
+        HeaderFrame(self._headerFrame)
