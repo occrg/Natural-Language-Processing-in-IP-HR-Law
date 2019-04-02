@@ -78,14 +78,14 @@ class Graph:
         fig = Figure()
         ax = Axes3D(fig)
         Cs = ['Red', 'Blue']
-        Ls = ['Human Rights', 'Intellectual Property']
+        Ls = ['Human Rights Journal Article', 'Intellectual Property Journal Article']
         for i in range(len(self._Xs)):
             ax.scatter(self._Xs[i], self._Ys[i], self._Zs[i], s=40, marker='o', c=Cs[i], label=Ls[i])
 
         fig.legend()
         ax.set_ylim(-1, 1)
         # ax.set_zlim(-1, 1)
-        ax.set_xlabel("Time", fontsize='large', fontweight='bold')
+        ax.set_xlabel("Date of Publication", fontsize='large', fontweight='bold')
         ax.set_ylabel("HR-IP scale", fontsize='large', fontweight='bold')
         ax.set_zlabel("Creator-User scale", fontsize='large', fontweight='bold')
         years = mdates.YearLocator()
@@ -116,13 +116,20 @@ class Graph:
         fig = plt.figure()
         ax = plt.axes()
         Cs = ['Red', 'Blue']
-        Ls = ['Human Rights', 'Intellectual Property']
+        Ls = ['Human Rights Journal Article', 'Intellectual Property Journal Article']
         for i in range(len(self._Xs)):
             ax.scatter(self._Xs[i], self._Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
 
+        ax.spines['left'].set_position(('axes', 0.0))
+        ax.spines['right'].set_color('none')
+        ax.yaxis.tick_left()
+        ax.spines['bottom'].set_position('zero')
+        ax.spines['top'].set_color('none')
+        ax.xaxis.tick_bottom()
+
         plt.legend()
         ax.set_ylim(-1, 1)
-        ax.set_xlabel("Time", fontsize='large', fontweight='bold')
+        ax.set_xlabel("Date of Publication", fontsize='large', fontweight='bold')
         ax.set_ylabel("HR-IP scale", fontsize='large', fontweight='bold')
         years = mdates.YearLocator()
         months = mdates.MonthLocator()
@@ -136,7 +143,6 @@ class Graph:
         ax.yaxis.labelpad = 18
         ax.xaxis.label.set_color([0,0.733,0.839])
         ax.yaxis.label.set_color([0,0.733,0.839])
-        # fig.ylim(-1,1)
         self._ax = ax
         self._fig = fig
 
@@ -148,13 +154,20 @@ class Graph:
         fig = plt.figure()
         ax = plt.axes()
         Cs = ['Red', 'Blue']
-        Ls = ['Human Rights', 'Intellectual Property']
+        Ls = ['Human Rights Journal Article', 'Intellectual Property Journal Article']
         for i in range(len(self._Xs)):
             ax.scatter(self._Xs[i], self._Zs[i], s=40, marker='o', c=Cs[i], label=Ls[i])
 
+        ax.spines['left'].set_position(('axes', 0.0))
+        ax.spines['right'].set_color('none')
+        ax.yaxis.tick_left()
+        ax.spines['bottom'].set_position('zero')
+        ax.spines['top'].set_color('none')
+        ax.xaxis.tick_bottom()
+
         plt.legend()
         ax.set_ylim(-1, 1)
-        ax.set_xlabel("Time", fontsize='large', fontweight='bold')
+        ax.set_xlabel("Date of Publication", fontsize='large', fontweight='bold')
         ax.set_ylabel("HR-IP scale", fontsize='large', fontweight='bold')
         years = mdates.YearLocator()
         months = mdates.MonthLocator()
@@ -180,26 +193,29 @@ class Graph:
         fig = plt.figure()
         ax = plt.axes()
         Cs = ['Red', 'Blue']
-        Ls = ['Human Rights', 'Intellectual Property']
+        Ls = ['Human Rights Journal Article', 'Intellectual Property Journal Article']
         for i in range(len(self._Xs)):
             ax.scatter(self._Ys[i], self._Zs[i], s=40, marker='o', c=Cs[i], label=Ls[i])
 
+        ax.spines['left'].set_position(('zero'))
+        ax.spines['right'].set_color('none')
+        ax.yaxis.tick_left()
+        ax.spines['bottom'].set_position('zero')
+        ax.spines['top'].set_color('none')
+        ax.xaxis.tick_bottom()
+
         plt.legend()
-        ax.set_ylim(-1, 1)
-        ax.set_xlabel("Time", fontsize='large', fontweight='bold')
-        ax.set_ylabel("HR-IP scale", fontsize='large', fontweight='bold')
+        # ax.set_ylim(-1, 1)
+        ax.set_xlabel("HR-IP scale", fontsize='large', fontweight='bold')
+        ax.set_ylabel("User-Creator scale", fontsize='large', fontweight='bold')
         years = mdates.YearLocator()
         months = mdates.MonthLocator()
         yearsFmt = mdates.DateFormatter('%Y')
-        ax.xaxis.set_major_locator(years)
-        ax.xaxis.set_major_formatter(yearsFmt)
-        ax.xaxis.set_minor_locator(months)
-        ax.tick_params(axis='x', labelrotation=90, which='major', pad=0)
+        ax.tick_params(axis='x', labelrotation=45, which='major', pad=0)
         ax.tick_params(axis='y', labelrotation=45, which='major', pad=0)
-        ax.xaxis.labelpad = 23
-        ax.yaxis.labelpad = 18
+        ax.xaxis.labelpad = 10
+        ax.yaxis.labelpad = 10
         ax.xaxis.label.set_color([0,0.733,0.839])
         ax.yaxis.label.set_color([0,0.733,0.839])
-        # fig.ylim(-1,1)
         self._ax = ax
         self._fig = fig
