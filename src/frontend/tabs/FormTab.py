@@ -8,7 +8,7 @@ from frontend.frames.ButtonFrame import ButtonFrame
 """
 
 """
-class Form:
+class FormTab:
     def __init__(self, master, notebook, visualisationObj, documentList):
         """
 

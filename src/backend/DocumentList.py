@@ -1,7 +1,7 @@
 from backend.FilesIO import FilesIO
 from backend.Document import Document
 from backend.Classification import Classification
-from backend.Visualisations import Visualisations
+from backend.Graph import Graph
 
 
 """
@@ -18,14 +18,28 @@ class DocumentList:
 
         """
         self._documents = self.__processDocumentsFromRecords()
-        self._visualisations = Visualisations()
+        self._graphs = []
+        # self.performVisualisations()
 
 
-    def fillDocuments(self):
+    def performClassifications(self):
+        self._graphs = []
         self.__calculateDocumentFrequencies()
         self._classification = Classification(self)
-        self._visualisations.generateVisualisations(self)
 
+    def performVisualisations(self):
+        graph3D = Graph('3D Graph', self)
+        graph3D.create3dGraph()
+        self._graphs.append(graph3D)
+        graphIPHR = Graph('IP-HR/Time', self)
+        graphIPHR.createIPHRgraph()
+        self._graphs.append(graphIPHR)
+        graphUserCreator = Graph('User-Creator/Time', self)
+        graphUserCreator.createUserCreatorGraph()
+        self._graphs.append(graphUserCreator)
+        graphIPHRUserCreatpr = Graph('User-Creator/IP-HR', self)
+        graphIPHRUserCreatpr.createIPHRUserCreatorGraph()
+        self._graphs.append(graphIPHRUserCreatpr)
 
     def getDocuments(self):
         """
@@ -33,11 +47,11 @@ class DocumentList:
         """
         return self._documents
 
-    def getVisualisations(self):
+    def getGraphs(self):
         """
 
         """
-        return self._visualisations
+        return self._graphs
 
 
     def getTrainTestDocuments(self, test):

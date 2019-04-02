@@ -26,7 +26,7 @@ class EntryFrame:
         self._canvasFrame = self._canvas.create_window((4,4), window=self._inFrame, anchor="nw")
 
         self._inFrame.bind("<Configure>", self.__onFrameConfigure)
-        self._canvas.bind("<Configure>", self.__FrameWidth)
+        self._canvas.bind("<Configure>", self.__frameWidth)
 
         self._inFrame.grid_columnconfigure(0, weight=1)
         self._inFrame.grid_columnconfigure(1, weight=1)
@@ -49,6 +49,6 @@ class EntryFrame:
         self._canvas.configure(scrollregion=self._canvas.bbox("all"))
 
 
-    def __FrameWidth(self, event):
+    def __frameWidth(self, event):
         canvas_width = event.width
         self._canvas.itemconfig(self._canvasFrame, width = canvas_width)

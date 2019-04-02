@@ -28,6 +28,7 @@ class ButtonFrame:
 
 
     def __trainDataCall(self, documentList, visualisationObj, notebook):
-        documentList.fillDocuments()
-        visualisationObj.showFigures(documentList.getVisualisations())
+        documentList.performClassifications()
+        documentList.performVisualisations()
+        visualisationObj.showFigures(documentList.getGraphs())
         notebook.select(1)

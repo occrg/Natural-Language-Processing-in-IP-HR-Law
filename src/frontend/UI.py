@@ -1,8 +1,8 @@
 from tkinter import *
 from tkinter import ttk
 
-from frontend.tabs.Form import Form
-from frontend.tabs.Visualisation import Visualisation
+from frontend.tabs.FormTab import FormTab
+from frontend.tabs.VisualisationTab import VisualisationTab
 
 
 """
@@ -21,8 +21,8 @@ class UI:
         self._notebook = ttk.Notebook(self._root)
         self._formTab = self.__addTab('Documents')
         self._visualisationTab = self.__addTab('Results')
-        self._visualisationObj = Visualisation(self._visualisationTab)
-        self._formObj = Form(self._formTab, self._notebook, self._visualisationObj, documentList)
+        self._visualisationObj = VisualisationTab(self._visualisationTab)
+        self._formObj = FormTab(self._formTab, self._notebook, self._visualisationObj, documentList)
         self._root.mainloop()
 
 
