@@ -9,7 +9,7 @@ from frontend.frames.ButtonFrame import ButtonFrame
 
 """
 class FormTab:
-    def __init__(self, master, notebook, visualisationObj, documentList):
+    def __init__(self, master, uiObj, documentList):
         """
 
         """
@@ -26,4 +26,4 @@ class FormTab:
         self._buttonFrame.grid(row=1, sticky="nesw")
 
         EntryHeaderFrame(self._entryHeaderFrame, documentList)
-        ButtonFrame(self._buttonFrame, notebook, visualisationObj, documentList)
+        ButtonFrame(self._buttonFrame, uiObj, documentList)

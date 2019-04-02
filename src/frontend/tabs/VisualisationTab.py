@@ -8,16 +8,13 @@ from frontend.frames.VisualisationFrame import VisualisationFrame
 
 """
 class VisualisationTab:
-    def __init__(self, master):
+    def __init__(self, master, graphs):
         """
 
         """
         self._master = master
         self._tabs = []
         self._objs = []
-
-
-    def showFigures(self, graphs):
         self._notebook = ttk.Notebook(self._master)
         for graph in graphs:
             tab = self.__addTab(graph.getTitle())

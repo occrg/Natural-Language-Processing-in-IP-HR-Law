@@ -19,14 +19,12 @@ class UI:
         self._root.title(title)
         self._root.geometry("%dx%d+0+0" % (self._width, self._height))
         self._notebook = ttk.Notebook(self._root)
-        self._formTab = self.__addTab('Documents')
-        self._visualisationTab = self.__addTab('Results')
-        self._visualisationObj = VisualisationTab(self._visualisationTab)
-        self._formObj = FormTab(self._formTab, self._notebook, self._visualisationObj, documentList)
+        self._visualisationObj = VisualisationTab(self.addTab('Visualisations'), documentList.getGraphs())
+        self._formObj = FormTab(self.addTab('Documents'), self, documentList)
         self._root.mainloop()
 
 
-    def __addTab(self, title):
+    def addTab(self, title):
         """
 
         """
@@ -34,3 +32,9 @@ class UI:
         self._notebook.add(tab, text=title)
         self._notebook.pack(expand=1, fill='both')
         return tab
+
+    def getNotebook(self):
+        """
+
+        """
+        return self._notebook

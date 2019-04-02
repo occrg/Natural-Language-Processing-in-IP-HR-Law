@@ -19,7 +19,7 @@ class DocumentList:
         """
         self._documents = self.__processDocumentsFromRecords()
         self._graphs = []
-        # self.performVisualisations()
+        self.performVisualisations()
 
 
     def performClassifications(self):

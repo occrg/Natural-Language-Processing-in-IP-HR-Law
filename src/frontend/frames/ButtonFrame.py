@@ -1,12 +1,14 @@
 from tkinter import *
 from tkinter import ttk
 
+from frontend.tabs.VisualisationTab import VisualisationTab
+
 
 """
 
 """
 class ButtonFrame:
-    def __init__(self, master, notebook, visualisationObj, documentList):
+    def __init__(self, master, uiObj, documentList):
         """
 
         """
@@ -20,15 +22,17 @@ class ButtonFrame:
 
         addButton = Button(self._master, text="Add Document")
         testButton = Button(self._master, text="Change Test Data")
-        trainButton = Button(self._master, text="Train Data", command=lambda: self.__trainDataCall(documentList, visualisationObj, notebook))
+        trainButton = Button(self._master, text="Train Data", command=lambda: self.__trainDataCall(documentList, uiObj))
 
         addButton.grid(row=1, column=1, padx=15, sticky = "nse")
         testButton.grid(row=1, column=2, padx=15, sticky = "nse")
         trainButton.grid(row=1, column=3, padx=15, sticky = "nse")
 
 
-    def __trainDataCall(self, documentList, visualisationObj, notebook):
+    def __trainDataCall(self, documentList, uiObj):
         documentList.performClassifications()
         documentList.performVisualisations()
-        visualisationObj.showFigures(documentList.getGraphs())
+        notebook = uiObj.getNotebook()
+        notebook.forget(0)
+        VisualisationTab(uiObj.addTab('Visualisations'), documentList.getGraphs())
         notebook.select(1)
