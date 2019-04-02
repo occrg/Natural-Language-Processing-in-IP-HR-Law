@@ -1,7 +1,5 @@
 src/.ipynb_checkpoints/
-src/__pycache__/
-src/backend/__pycache__/
-src/backend/__pycache__/
+__pycache__/
 *.synctex.gz
 *.log
 *.out

@@ -1,6 +1,7 @@
 from tkinter import *
 from tkinter import ttk
 
+from frontend.frames.EntryHeaderFrame import EntryHeaderFrame
 from frontend.frames.ButtonFrame import ButtonFrame
 
 
@@ -24,4 +25,5 @@ class Form:
         self._buttonFrame = Frame(self._master, background="green")
         self._buttonFrame.grid(row=1, sticky="nesw")
 
+        EntryHeaderFrame(self._entryHeaderFrame, documentList)
         ButtonFrame(self._buttonFrame, notebook, visualisationObj, documentList)
