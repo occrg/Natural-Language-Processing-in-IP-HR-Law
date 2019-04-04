@@ -35,7 +35,7 @@ class Classification:
         print("formulating Xtest")
         Xtest, Ytest = self.__formulateXY(testDocuments, documentList)
         print("testing data")
-        self._testCore = self.__testData(Xtest, Ytest, testDocuments)
+        self._testScore = self.__testData(Xtest, Ytest, testDocuments)
         print("assigning user-creator ratings")
         self.__userCreatorRatings(testDocuments)
         self._crossValScore =                                                \

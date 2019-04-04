@@ -7,7 +7,7 @@ import os
 class FilesIO:
 
     _dataFolder = 'data/'
-    _detailsFile = _dataFolder + 'documentDetails-subset.csv'
+    _detailsFile = _dataFolder + 'documentDetails.csv'
 
 
     def fillDocumentRecords(self, destination):

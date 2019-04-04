@@ -2,8 +2,11 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from mpl_toolkits.mplot3d import Axes3D
 from matplotlib.axes import Axes
-import numpy as np
 from matplotlib.figure import Figure
+import numpy as np
+from scipy import stats
+
+from backend.Trend import Trend
 
 
 """
@@ -120,6 +123,12 @@ class Graph:
         for i in range(len(self._Xs)):
             ax.scatter(self._Xs[i], self._Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
 
+        hrTrend = Trend(self._Xs[0], self._Ys[0])
+        ax.plot(hrTrend.getX(), hrTrend.getY(), '-r')
+
+        ipTrend = Trend(self._Xs[1], self._Ys[1])
+        ax.plot(ipTrend.getX(), ipTrend.getY(), '-b')
+
         ax.spines['left'].set_position(('axes', 0.0))
         ax.spines['right'].set_color('none')
         ax.yaxis.tick_left()
@@ -158,6 +167,12 @@ class Graph:
         for i in range(len(self._Xs)):
             ax.scatter(self._Xs[i], self._Zs[i], s=40, marker='o', c=Cs[i], label=Ls[i])
 
+        userTrend = Trend(self._Xs[0], self._Zs[0])
+        ax.plot(userTrend.getX(), userTrend.getY(), '-r')
+
+        creatorTrend = Trend(self._Xs[1], self._Zs[1])
+        ax.plot(creatorTrend.getX(), creatorTrend.getY(), '-b')
+
         ax.spines['left'].set_position(('axes', 0.0))
         ax.spines['right'].set_color('none')
         ax.yaxis.tick_left()
@@ -166,9 +181,8 @@ class Graph:
         ax.xaxis.tick_bottom()
 
         plt.legend()
-        ax.set_ylim(-1, 1)
         ax.set_xlabel("Date of Publication", fontsize='large', fontweight='bold')
-        ax.set_ylabel("HR-IP scale", fontsize='large', fontweight='bold')
+        ax.set_ylabel("User-Creator scale", fontsize='large', fontweight='bold')
         years = mdates.YearLocator()
         months = mdates.MonthLocator()
         yearsFmt = mdates.DateFormatter('%Y')
@@ -181,7 +195,7 @@ class Graph:
         ax.yaxis.labelpad = 18
         ax.xaxis.label.set_color([0,0.733,0.839])
         ax.yaxis.label.set_color([0,0.733,0.839])
-        # fig.ylim(-1,1)
+
         self._ax = ax
         self._fig = fig
 
