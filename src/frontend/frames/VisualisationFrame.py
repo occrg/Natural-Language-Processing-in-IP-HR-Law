@@ -17,17 +17,21 @@ class VisualisationFrame:
         """
         self._master = master
 
-        canvas = FigureCanvasTkAgg(graph.getFig(), master=self._master)
-        canvas.draw()
-        canvas.get_tk_widget().pack(side=TOP, fill=BOTH, expand=True)
+        self._canvas = FigureCanvasTkAgg(graph.getFig(), master=self._master)
+        self._canvas.draw()
+        self._canvas.get_tk_widget().pack(side=TOP, fill=BOTH, expand=True)
+
         if graph.getTitle().startswith('3D'):
             graph.getAx().mouse_init()
+        else:
+            pass
 
-        toolbar = NavigationToolbar2Tk(canvas, self._master)
-        toolbar.update()
-        canvas.mpl_connect("key_press_event", self.__on_key_press)
+        self._canvas.mpl_connect("button_press_event", lambda event, canvas=self._canvas : graph.hover(event, canvas))
+
+        self._toolbar = NavigationToolbar2Tk(self._canvas, self._master)
+        self._toolbar.update()
+        self._canvas.mpl_connect("key_press_event", self.__on_key_press)
 
 
     def __on_key_press(self, event):
-        print("you pressed {}".format(event.key))
-        key_press_handler(event, canvas, toolbar)
+        key_press_handler(event, self._canvas, self._toolbar)
