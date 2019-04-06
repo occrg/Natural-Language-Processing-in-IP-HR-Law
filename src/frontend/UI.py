@@ -3,6 +3,7 @@ from tkinter import ttk
 
 from frontend.tabs.FormTab import FormTab
 from frontend.tabs.VisualisationTab import VisualisationTab
+from frontend.tabs.ResultsTab import ResultsTab
 
 
 """
@@ -21,6 +22,7 @@ class UI:
         self._notebook = ttk.Notebook(self._root)
         self._visualisationObj = VisualisationTab(self.addTab('Visualisations'), documentList.getGraphs())
         self._formObj = FormTab(self.addTab('Documents'), self, documentList)
+        self._resultsObj = ResultsTab(self.addTab('Results'))
         self._root.mainloop()
 
 

@@ -74,12 +74,13 @@ class Classification:
 
         """
         allWords = documentList.deduceAllWords()
-        X = np.empty((len(documents), len(allWords)))
+        X = np.zeros((len(documents), len(allWords)))
         Y = []
         for (r, document) in enumerate(documents):
             for (w, f) in document.getCount().getWordsCountZip():
                 X[r][allWords.index(w)] = f
             Y.append(document.getClassInformation().getGt())
+        print(X)
         return X, Y
 
 

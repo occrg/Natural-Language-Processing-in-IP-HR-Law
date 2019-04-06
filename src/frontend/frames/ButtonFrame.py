@@ -2,6 +2,7 @@ from tkinter import *
 from tkinter import ttk
 
 from frontend.tabs.VisualisationTab import VisualisationTab
+from frontend.popups.TestDataOptionsFrame import TestDataOptionsFrame
 
 
 """
@@ -21,7 +22,7 @@ class ButtonFrame:
 
 
         addButton = Button(self._master, text="Add Document")
-        testButton = Button(self._master, text="Change Test Data")
+        testButton = Button(self._master, text="Change Test Data", command=lambda: TestDataOptionsFrame())
         trainButton = Button(self._master, text="Train Data", command=lambda: self.__trainDataCall(documentList, uiObj))
 
         addButton.grid(row=1, column=1, padx=15, sticky = "nse")
@@ -30,6 +31,9 @@ class ButtonFrame:
 
 
     def __trainDataCall(self, documentList, uiObj):
+        """
+
+        """
         documentList.performClassifications()
         documentList.performVisualisations()
         notebook = uiObj.getNotebook()

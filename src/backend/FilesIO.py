@@ -11,6 +11,9 @@ class FilesIO:
 
 
     def fillDocumentRecords(self, destination):
+        """
+
+        """
         table = []
         table.append("filename,title,journal,date,test,hrRat,ipRat,userRat,creatorRat")
         filePaths = self.__loadListOfFilePaths('data/pdf/')

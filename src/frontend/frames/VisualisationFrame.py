@@ -24,9 +24,7 @@ class VisualisationFrame:
         if graph.getTitle().startswith('3D'):
             graph.getAx().mouse_init()
         else:
-            pass
-
-        self._canvas.mpl_connect("button_press_event", lambda event, canvas=self._canvas : graph.hover(event, canvas))
+            self._canvas.mpl_connect("button_press_event", lambda event, canvas=self._canvas : graph.hover(event, canvas))
 
         self._toolbar = NavigationToolbar2Tk(self._canvas, self._master)
         self._toolbar.update()
@@ -34,4 +32,7 @@ class VisualisationFrame:
 
 
     def __on_key_press(self, event):
+        """
+
+        """
         key_press_handler(event, self._canvas, self._toolbar)
