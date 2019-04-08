@@ -23,11 +23,18 @@ class PDFmetadata:
         self._title = self.__initialiseTitle(filename, title, journal, period, pdfText.getPretext())
         self._date = self.__initialiseDate(filename, date, journal, period, pdfText.getPretext())
 
+
     def getJournal(self):
         """
 
         """
         return self._journal
+
+    def setJournal(self, journal):
+        """
+
+        """
+        self._journal = journal
 
 
     def getTitle(self):
@@ -36,6 +43,12 @@ class PDFmetadata:
         """
         return self._title
 
+    def setTitle(self, title):
+        """
+
+        """
+        self._title = title
+
 
     def getDate(self):
         """
@@ -43,13 +56,24 @@ class PDFmetadata:
         """
         return self._date
 
+    # def setDateFromString(self, dateString):
+    #     """
+    #
+    #     """
+    #     self._date = datetime.datetime.strptime(dateString, '%Y%m%d').date()
+    def setDate(self, date):
+        """
+
+        """
+        self._date = date
 
     def __initialiseJournal(self, filename, journal, pdfText):
         """
 
         """
         journal, period = self.converter.extractJournalFromText(pdfText.getPretext(), filename)
-        pdfText.cleanText(filename, journal)
+        if pdfText.getText == "-":
+            pdfText.cleanText(filename, journal)
         return journal, period
 
 

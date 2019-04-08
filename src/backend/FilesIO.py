@@ -37,7 +37,7 @@ class FilesIO:
                 filePaths.append(path)
         return filePaths
 
-    def outputDocumentData(self, filename, document):
+    def outputDocumentData(self, document):
         """
 
         """
@@ -46,10 +46,11 @@ class FilesIO:
         for line in file.readlines():
             line = line.replace('\n', '')
             lineFilename, rest = line.split(',', 1)
-            if lineFilename == filename:
+            if lineFilename == document.getFilename():
                 title, journal, date, test, hrRat, ipRat, userRat, creatorRat\
                     = rest.split(',')
-                line = '%s,%s,%s,%s,%s,%s,%s,%s,%s' % (filename,             \
+                line = '%s,%s,%s,%s,%s,%s,%s,%s,%s' % (                      \
+                    document.getFilename(),                                  \
                     document.getPDFmetadata().getTitle(),                    \
                     document.getPDFmetadata().getJournal(),                  \
                     document.getPDFmetadata().getDate(),                     \

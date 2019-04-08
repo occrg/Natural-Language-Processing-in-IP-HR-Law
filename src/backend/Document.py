@@ -32,7 +32,7 @@ class Document:
         self._count = Count(filename, self._pdfText.getText())
         self._classInformation = ClassInformation(test, hrRat, ipRat,        \
             userRat, creatorRat, self._pdfMetadata.getJournal())
-        self.io.outputDocumentData(filename, self)
+        self.io.outputDocumentData(self)
 
 
     def getFilename(self):
@@ -68,3 +68,16 @@ class Document:
 
         """
         return self._classInformation
+
+
+    def makeFormChanges(self, title, date, journal, test):
+        """
+
+        """
+        self._pdfMetadata.setTitle(title)
+        self._pdfMetadata.setDate(date)
+        self._classInformation.setTest(test)
+        if not journal == self.getPDFmetadata().getJournal():
+            self._pdfMetadata.setJournal(journal)
+            self._pdfText.cleanText(self._filename, journal)
+        self.io.outputDocumentData(self)

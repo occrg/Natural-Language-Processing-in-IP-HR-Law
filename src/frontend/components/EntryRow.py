@@ -8,6 +8,14 @@ import os
 
 """
 class EntryRow:
+
+    _journalOptions = { 'International Journal of Heritage Studies',          \
+        'International Journal of Cultural Property', 'Other: Human Rights', \
+        'Journal of Intellectual Property Law',                              \
+        'Journal of World Intellectual Property',                            \
+        'Other: Intellectual Property' }
+
+
     def __init__(self, master, r, document):
         """
 
@@ -15,23 +23,27 @@ class EntryRow:
         self._master = master
 
 
-        journalOptions = { 'International Journal of Heritage Studies',          \
-            'International Journal of Cultural Property', 'Other: Human Rights', \
-            'Journal of Intellectual Property Law',                              \
-            'Journal of World Intellectual Property',                            \
-            'Other: Intellectual Property' }
+        titleVar = StringVar(self._master)
+        titleVar.set(document.getPDFmetadata().getTitle())
+        titleEntry = Entry(self._master, width=50, textvariable=titleVar)
 
+        journalVar = StringVar(self._master)
+        journalVar.set(document.getPDFmetadata().getJournal())
+        journalEntry = OptionMenu(self._master, journalVar, *self._journalOptions)
 
-        titleEntry = Entry(self._master, width=50)
-        titleEntry.insert(0, "%s" % document.getPDFmetadata().getTitle())
-        journalsVar = StringVar(self._master, '%s' % document.getPDFmetadata().getJournal())
-        journalEntry = OptionMenu(self._master, journalsVar, *journalOptions)
-        dateEntry = Entry(self._master, width=10)
-        dateEntry.insert(0, '%s' % document.getPDFmetadata().getDate())
+        dateVar = StringVar(self._master)
+        dateVar.set(document.getPDFmetadata().getDate())
+        dateEntry = Entry(self._master, width=10, textvariable=dateVar)
+
         pathEntry = Label(self._master, text="%s" % document.getFilename())
-        testVar = IntVar(self._master, 1)
+
+        testVar = IntVar()
         testCheck = Checkbutton(self._master, var=testVar)
-        confirmButton = Button(self._master, text="Confirm Changes")
+        if document.getClassInformation().getTest():
+            testCheck.select()
+        testCheck.bind("<Button-1>", lambda event, testVar=testVar:self.__getInt(event, testVar))
+
+        confirmButton = Button(self._master, text="Confirm Changes", command=lambda: self.__confirmEntry(titleVar, dateVar, journalVar, testVar, document))
         removeButton = Button(self._master, text="Remove")
         openButton = Button(self._master, text="Open", command=lambda: self.__openPDF('data/pdf/' + document.getFilename() + '.pdf'))
 
@@ -44,6 +56,15 @@ class EntryRow:
         removeButton.grid(row=r, column=6, padx=15, pady=1)
         openButton.grid(row=r, column=7, padx=15, pady=1)
 
+
+    def __getInt(self, event, var):
+        return var.get()
+
+    def __confirmEntry(self, titleVar, dateVar, journalVar, testVar, document):
+        document.makeFormChanges(titleVar.get(), dateVar.get(), journalVar.get(), testVar.get())
+
+    def __removeEntry(self):
+        pass
 
     def __openPDF(self, pdfPath):
         os.system('xdg-open %s' % pdfPath)

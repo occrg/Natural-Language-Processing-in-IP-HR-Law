@@ -43,7 +43,7 @@ class Classification:
         print(self._crossValScore)
         print("saving")
         for document in documents:
-            self.io.outputDocumentData(document.getFilename(), document)
+            self.io.outputDocumentData(document)
 
 
 

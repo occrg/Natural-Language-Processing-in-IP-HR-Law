@@ -35,11 +35,10 @@ class PDFtext:
         """
 
         """
-        if self._text == "-":
-            text = self.converter.removeMetadataFromText(self._pretext, journal)
-            text = self.converter.substituteKerning(text)
-            self._text = text
-            self.io.stringToTXTfile(self._text, self._textFolder + filename + '.txt')
+        text = self.converter.removeMetadataFromText(self._pretext, journal)
+        text = self.converter.substituteKerning(text)
+        self._text = text
+        self.io.stringToTXTfile(self._text, self._textFolder + filename + '.txt')
 
 
     def getText(self):
