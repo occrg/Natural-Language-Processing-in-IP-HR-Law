@@ -12,13 +12,6 @@ class Document:
 
     io = FilesIO()
 
-    _dataFolder = 'data/'
-    _detailsFile = _dataFolder + 'documentDetails0.csv'
-    _pretextFolder = _dataFolder + 'text/before/'
-    _textFolder = _dataFolder + 'text/after/'
-    _wordsFolder = _dataFolder + 'word/list/'
-    _countFolder = _dataFolder + 'word/count/'
-    _frequenciesFolder = _dataFolder + 'word/frequency/'
 
     def __init__(self, filename, title, journal, date, test, hrRat, ipRat,   \
             userRat, creatorRat):
@@ -81,3 +74,7 @@ class Document:
             self._pdfMetadata.setJournal(journal)
             self._pdfText.cleanText(self._filename, journal)
         self.io.outputDocumentData(self)
+
+    def removeData(self):
+        self.io.removeDocumentData(self._filename)
+        self.io.removeAssociatedFiles(self._filename)

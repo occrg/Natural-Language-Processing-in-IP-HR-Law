@@ -27,5 +27,9 @@ class EntryHeaderFrame:
         self._entryFrame = Frame(self._master, background="red")
         self._entryFrame.grid(row=1, sticky="nsew")
 
-        HeaderFrame(self._headerFrame)
-        EntryFrame(self._entryFrame, documentList)
+        self._headerObject = HeaderFrame(self._headerFrame)
+        self._entryObject = EntryFrame(self._entryFrame, documentList)
+
+
+    def getEntryObject(self):
+        return self._entryObject

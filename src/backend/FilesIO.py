@@ -8,6 +8,12 @@ class FilesIO:
 
     _dataFolder = 'data/'
     _detailsFile = _dataFolder + 'documentDetails-subset.csv'
+    _pdfFolder = _dataFolder + 'pdf/'
+    _pretextFolder = _dataFolder + 'text/before/'
+    _textFolder = _dataFolder + 'text/after/'
+    _wordsFolder = _dataFolder + 'word/list/'
+    _countFolder = _dataFolder + 'word/count/'
+    _frequenciesFolder = _dataFolder + 'word/frequency/'
 
 
     def fillDocumentRecords(self, destination):
@@ -36,6 +42,34 @@ class FilesIO:
                 path = os.path.join(folder, file)
                 filePaths.append(path)
         return filePaths
+
+
+    def removeDocumentData(self, filename):
+        """
+
+        """
+        file = open(self._detailsFile, 'r')
+        table = []
+        for line in file.readlines():
+            line = line.replace('\n', '')
+            lineFilename, rest = line.split(',', 1)
+            if lineFilename != filename:
+                table.append(line)
+        newFile = open(self._detailsFile, 'w')
+        newFile.write("\n".join(table))
+        newFile.close()
+
+    def removeAssociatedFiles(self, filename):
+        """
+
+        """
+        os.remove(self._pdfFolder + filename + '.pdf')
+        os.remove(self._pretextFolder + filename + '.txt')
+        os.remove(self._textFolder + filename + '.txt')
+        os.remove(self._wordsFolder + filename + '.txt')
+        os.remove(self._countFolder + filename + '.txt')
+        os.remove(self._frequenciesFolder + filename + '.txt')
+
 
     def outputDocumentData(self, document):
         """

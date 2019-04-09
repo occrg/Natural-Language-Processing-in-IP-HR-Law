@@ -25,5 +25,6 @@ class FormTab:
         self._buttonFrame = Frame(self._master, background="green")
         self._buttonFrame.grid(row=1, sticky="nesw")
 
-        EntryHeaderFrame(self._entryHeaderFrame, documentList)
-        ButtonFrame(self._buttonFrame, uiObj, documentList)
+        self._entryHeaderObject = EntryHeaderFrame(self._entryHeaderFrame, documentList)
+        entryObj = self._entryHeaderObject.getEntryObject()
+        self._buttonFooterObject = ButtonFrame(self._buttonFrame, entryObj, uiObj, documentList)

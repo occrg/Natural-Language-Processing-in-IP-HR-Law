@@ -56,11 +56,6 @@ class PDFmetadata:
         """
         return self._date
 
-    # def setDateFromString(self, dateString):
-    #     """
-    #
-    #     """
-    #     self._date = datetime.datetime.strptime(dateString, '%Y%m%d').date()
     def setDate(self, date):
         """
 

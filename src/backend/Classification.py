@@ -80,7 +80,6 @@ class Classification:
             for (w, f) in document.getCount().getWordsCountZip():
                 X[r][allWords.index(w)] = f
             Y.append(document.getClassInformation().getGt())
-        print(X)
         return X, Y
 
 

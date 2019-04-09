@@ -47,12 +47,23 @@ class DocumentList:
         """
         return self._documents
 
+    def addDocument(self, document):
+        """
+
+        """
+        self._documents.append(document)
+
+    def removeDocument(self, document):
+        """
+
+        """
+        self._documents.remove(document)
+
     def getGraphs(self):
         """
 
         """
         return self._graphs
-
 
     def getTrainTestDocuments(self, test):
         documents = []
