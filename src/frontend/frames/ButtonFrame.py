@@ -31,7 +31,7 @@ class ButtonFrame:
 
 
         addButton = Button(self._master, text="Add Document", command=lambda: self.__addDocument(documentList, entryObj, uiObj))
-        testButton = Button(self._master, text="Change Test Data", command=lambda: TestDataOptionsFrame())
+        testButton = Button(self._master, text="Change Test Data", command=lambda: TestDataOptionsFrame(entryObj, documentList))
         trainButton = Button(self._master, text="Train Data", command=lambda: self.__trainDataCall(documentList, uiObj))
 
         addButton.grid(row=1, column=1, padx=15, sticky = "nse")

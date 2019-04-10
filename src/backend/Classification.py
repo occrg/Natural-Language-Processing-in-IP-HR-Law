@@ -45,25 +45,6 @@ class Classification:
             self.io.outputDocumentData(document)
 
 
-
-    def assignTestsRandomly(self, prop, documents):
-        """
-
-        """
-        for document in documents:
-            document.getClassInformation().setTest(0)
-            document.getClassInformation().setHrRat(-1)
-            document.getClassInformation().setIpRat(-1)
-            document.getClassInformation().setCreatorRat(-1)
-            document.getClassInformation().setUserRat(-1)
-
-        trainDocuments = documents.copy()
-        testDocuments = []
-        testNum = int(prop * len(documents))
-        for i in range(testNum):
-            document.getClassInformation().setTest(1)
-
-
     def __formulateXY(self, documents, documentList):
         """
 

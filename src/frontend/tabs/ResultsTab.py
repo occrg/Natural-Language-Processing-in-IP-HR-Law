@@ -33,7 +33,6 @@ class ResultsTab:
             self._hripEval = Label(self._hripFrame, text="This is evaluation data", font='Times 14', bg="white", justify=LEFT)
             self._linesEval = Label(self._linesEvalFrame, text="This is evaluation data", font='Times 14', bg="white", justify=LEFT)
         except AttributeError as err:
-            print(err)
             self._hripEval = Label(self._hripFrame, text="Please train model in document tab", font='Times 14', bg="white", justify=LEFT)
             self._linesEval = Label(self._linesEvalFrame, text="Please train model in document tab", font='Times 14', bg="white", justify=LEFT)
 

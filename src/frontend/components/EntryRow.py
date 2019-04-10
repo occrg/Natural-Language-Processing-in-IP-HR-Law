@@ -22,30 +22,32 @@ class EntryRow:
         """
         self._master = master
 
+        self._document = document
 
-        titleVar = StringVar(self._master)
-        titleVar.set(document.getPDFmetadata().getTitle())
-        titleEntry = Entry(self._master, width=50, textvariable=titleVar)
 
-        journalVar = StringVar(self._master)
-        journalVar.set(document.getPDFmetadata().getJournal())
-        journalEntry = OptionMenu(self._master, journalVar, *self._journalOptions)
+        self._titleVar = StringVar(self._master)
+        self._titleVar.set(self._document.getPDFmetadata().getTitle())
+        titleEntry = Entry(self._master, width=50, textvariable=self._titleVar)
 
-        dateVar = StringVar(self._master)
-        dateVar.set(document.getPDFmetadata().getDate())
-        dateEntry = Entry(self._master, width=10, textvariable=dateVar)
+        self._journalVar = StringVar(self._master)
+        self._journalVar.set(self._document.getPDFmetadata().getJournal())
+        journalEntry = OptionMenu(self._master, self._journalVar, *self._journalOptions)
 
-        pathEntry = Label(self._master, text="%s" % document.getFilename())
+        self._dateVar = StringVar(self._master)
+        self._dateVar.set(self._document.getPDFmetadata().getDate())
+        dateEntry = Entry(self._master, width=10, textvariable=self._dateVar)
 
-        testVar = IntVar()
-        testCheck = Checkbutton(self._master, var=testVar)
-        if document.getClassInformation().getTest():
+        pathEntry = Label(self._master, text="%s" % self._document.getFilename())
+
+        self._testVar = IntVar()
+        testCheck = Checkbutton(self._master, var=self._testVar)
+        if self._document.getClassInformation().getTest():
             testCheck.select()
-        testCheck.bind("<Button-1>", lambda event, testVar=testVar:self.__getInt(event, testVar))
+        testCheck.bind("<Button-1>", lambda event, testVar=self._testVar:self.__getInt(event, testVar))
 
-        confirmButton = Button(self._master, text="Confirm Changes", command=lambda: self.__confirmEntry(titleVar, dateVar, journalVar, testVar, document))
-        removeButton = Button(self._master, text="Remove", command=lambda: self.__removeEntry(entryObj, document, documentList))
-        openButton = Button(self._master, text="Open", command=lambda: self.__openPDF('data/pdf/' + document.getFilename() + '.pdf'))
+        confirmButton = Button(self._master, text="Confirm Changes", command=lambda: self.confirmEntry())
+        removeButton = Button(self._master, text="Remove", command=lambda: self.__removeEntry(entryObj, documentList))
+        openButton = Button(self._master, text="Open", command=lambda: self.__openPDF('data/pdf/' + self._document.getFilename() + '.pdf'))
 
         titleEntry.grid(row=0, column=0, padx=15, pady=1)
         journalEntry.grid(row=0, column=1, padx=15, pady=1)
@@ -56,18 +58,23 @@ class EntryRow:
         removeButton.grid(row=0, column=6, padx=15, pady=1)
         openButton.grid(row=0, column=7, padx=15, pady=1)
 
+    def setTestVar(self, val):
+        """
+
+        """
+        self._testVar.set(val)
 
     def __getInt(self, event, var):
         return var.get()
 
-    def __confirmEntry(self, titleVar, dateVar, journalVar, testVar, document):
-        document.makeFormChanges(titleVar.get(), dateVar.get(), journalVar.get(), testVar.get())
+    def confirmEntry(self):
+        self._document.makeFormChanges(self._titleVar.get(), self._dateVar.get(), self._journalVar.get(), self._testVar.get())
 
-    def __removeEntry(self, entryObj, document, documentList):
-        documentList.removeDocument(document)
-        document.removeData()
+    def __removeEntry(self, entryObj, documentList):
+        documentList.removeDocument(self._document)
+        self._document.removeData()
+        entryObj.removeRowFromList(self._master)
         self._master.destroy()
-        entryObj.decrementRows()
 
     def __openPDF(self, pdfPath):
         os.system('xdg-open %s' % pdfPath)

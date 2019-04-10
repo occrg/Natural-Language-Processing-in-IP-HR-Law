@@ -1,3 +1,5 @@
+import random
+
 from backend.FilesIO import FilesIO
 from backend.Document import Document
 from backend.Classification import Classification
