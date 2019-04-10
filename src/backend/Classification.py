@@ -27,22 +27,28 @@ class Classification:
         documents = documentList.getDocuments()
         trainDocuments = documentList.getTrainTestDocuments(0)
         testDocuments = documentList.getTrainTestDocuments(1)
-        print("formulating Xtrain")
         Xtrain, Ytrain = self.__formulateXY(trainDocuments, documentList)
-        print("training data")
         self._clf = self.__trainData(Xtrain, Ytrain)
-        print("formulating Xtest")
         Xtest, Ytest = self.__formulateXY(testDocuments, documentList)
-        print("testing data")
         self._testScore = self.__testData(Xtest, Ytest, testDocuments)
-        print("assigning user-creator ratings")
         self.__userCreatorRatings(testDocuments)
         self._crossValScore =                                                \
             self.__crossValidation(Xtrain, Xtest, Ytrain, Ytest)
-        print(self._crossValScore)
-        print("saving")
         for document in documents:
             self.io.outputDocumentData(document)
+
+
+    def getTestScore(self):
+        """
+
+        """
+        return self._testScore
+
+    def getCrossValScore(self):
+        """
+
+        """
+        return self._crossValScore
 
 
     def __formulateXY(self, documents, documentList):
@@ -79,7 +85,6 @@ class Classification:
 
 
     def __crossValidation(self, Xtrain, Xtest, Ytrain, Ytest):
-        print("formulating Xall and Yall")
         X = np.append(Xtrain, Xtest, axis=0)
         Y = Ytrain.copy()
         Y.extend(Ytest)
