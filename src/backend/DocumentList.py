@@ -65,6 +65,12 @@ class DocumentList:
         """
         return self._graphs
 
+    def getClassification(self):
+        """
+
+        """
+        return self._classification
+
     def getTrainTestDocuments(self, test):
         documents = []
         for document in self._documents:

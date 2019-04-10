@@ -25,9 +25,8 @@ class Classification:
 
         """
         documents = documentList.getDocuments()
-        print("assigning test documents")
-        trainDocuments, testDocuments =                                      \
-            self.assignTestsRandomly(0.25, documents)
+        trainDocuments = documentList.getTrainTestDocuments(0)
+        testDocuments = documentList.getTrainTestDocuments(1)
         print("formulating Xtrain")
         Xtrain, Ytrain = self.__formulateXY(trainDocuments, documentList)
         print("training data")
@@ -62,11 +61,7 @@ class Classification:
         testDocuments = []
         testNum = int(prop * len(documents))
         for i in range(testNum):
-            document = random.choice(trainDocuments)
-            testDocuments.append(document)
-            trainDocuments.remove(document)
             document.getClassInformation().setTest(1)
-        return trainDocuments, testDocuments
 
 
     def __formulateXY(self, documents, documentList):
