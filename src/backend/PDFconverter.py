@@ -191,6 +191,7 @@ class PDFconverter:
                 title = "-"
         else:
             title = "-"
+        fp.close()
         return title
 
     def extractDateFromText(self, journal, period, text):
@@ -247,4 +248,5 @@ class PDFconverter:
                 day = date[8:10]
                 stringDate = day + month + year
                 date = datetime.datetime.strptime(stringDate, '%d%m%Y').date()
+            fp.close()
         return date

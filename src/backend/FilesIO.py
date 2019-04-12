@@ -27,7 +27,7 @@ class FilesIO:
             root, filenameAndExt = path.rsplit('/', 1)
             filename, ext = filenameAndExt.split('.')
             table.append("%s,-,-,-,-,-,-,-,-" % filename)
-        newFile = open(destination, 'w')
+        newFile = open(destination, 'w', errors='replace')
         newFile.write("\n".join(table))
         newFile.close()
 
@@ -48,16 +48,14 @@ class FilesIO:
         """
 
         """
-        file = open(self._detailsFile, 'r')
+        file = open(self._detailsFile, 'r', errors='replace')
         table = []
         for line in file.readlines():
             line = line.replace('\n', '')
             lineFilename, rest = line.split(',', 1)
             if lineFilename != filename:
                 table.append(line)
-            else:
-                print("match, not placed in table")
-        newFile = open(self._detailsFile, 'w')
+        newFile = open(self._detailsFile, 'w', errors='replace')
         newFile.write("\n".join(table))
         newFile.close()
 
@@ -65,19 +63,37 @@ class FilesIO:
         """
 
         """
-        os.remove(self._pdfFolder + filename + '.pdf')
-        try { os.remove(self._pretextFolder + filename + '.txt') }
-        try { os.remove(self._textFolder + filename + '.txt') }
-        try { os.remove(self._wordsFolder + filename + '.txt') }
-        try { os.remove(self._countFolder + filename + '.txt') }
-        try { os.remove(self._frequenciesFolder + filename + '.txt') }
+        try:
+            os.remove(self._pdfFolder + filename + '.pdf')
+        except FileNotFoundError as err:
+            print(err)
+        try:
+            os.remove(self._pretextFolder + filename + '.txt')
+        except FileNotFoundError as err:
+            print(err)
+        try:
+            os.remove(self._textFolder + filename + '.txt')
+        except FileNotFoundError as err:
+            print(err)
+        try:
+            os.remove(self._wordsFolder + filename + '.txt')
+        except FileNotFoundError as err:
+            print(err)
+        try:
+            os.remove(self._countFolder + filename + '.txt')
+        except FileNotFoundError as err:
+            print(err)
+        try:
+            os.remove(self._frequenciesFolder + filename + '.txt')
+        except FileNotFoundError as err:
+            print(err)
 
 
     def outputDocumentData(self, document):
         """
 
         """
-        file = open(self._detailsFile, 'r')
+        file = open(self._detailsFile, 'r', errors='replace')
         table = []
         alreadyLogged = False
         for line in file.readlines():
@@ -110,7 +126,7 @@ class FilesIO:
                 document.getClassInformation().getUserRat(),             \
                 document.getClassInformation().getCreatorRat())
             table.append(line)
-        newFile = open(self._detailsFile, 'w')
+        newFile = open(self._detailsFile, 'w', errors='replace')
         newFile.write("\n".join(table))
         newFile.close()
 
@@ -120,7 +136,7 @@ class FilesIO:
 
         """
         try:
-            file = open('%s' % path, 'r')
+            file = open('%s' % path, 'r', errors='replace')
             lines = []
             for line in file.readlines():
                 lines.append(line)
@@ -135,7 +151,7 @@ class FilesIO:
 
         """
         try:
-            file = open(path, 'r')
+            file = open(path, 'r', errors='replace')
             phrases = []
             for line in file.readlines():
                 newline = line.replace('\n', '')
@@ -149,7 +165,7 @@ class FilesIO:
         """
 
         """
-        newFile = open(path, 'w')
+        newFile = open(path, 'w', errors='replace')
         phrases = list(map(str, phrases))
         newFile.write("\n".join(phrases))
         newFile.close()
@@ -158,7 +174,7 @@ class FilesIO:
         """
 
         """
-        newFile = open(path, 'w')
+        newFile = open(path, 'w', errors='replace')
         newFile.write(text + '\n')
         newFile.close()
 
@@ -167,7 +183,7 @@ class FilesIO:
         """
 
         """
-        file = open(self._detailsFile, 'r')
+        file = open(self._detailsFile, 'r', errors='replace')
         lines = []
         for line in file.readlines():
             line = line.replace('\n', '')
