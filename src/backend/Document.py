@@ -70,10 +70,13 @@ class Document:
         self._pdfMetadata.setTitle(title)
         self._pdfMetadata.setDate(date)
         self._classInformation.setTest(test)
+
         if not journal == self.getPDFmetadata().getJournal():
             self._pdfMetadata.setJournal(journal)
+            self._classInformation.deduceGt(journal)
             self._pdfText.cleanText(self._filename, journal)
         self.io.outputDocumentData(self)
+
 
     def removeData(self):
         self.io.removeDocumentData(self._filename)

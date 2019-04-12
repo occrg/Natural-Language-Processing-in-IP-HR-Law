@@ -37,25 +37,26 @@ class ResultsTab:
 
             self._hripEval1 = Label(self._hripFrame, text="Average success ratio across 5-fold cross validation: %f" % statistics.mean(documentList.getClassification().getCrossValScore()), font='Times 14', bg="white", justify=LEFT)
             self._hripEval1.grid(row=2, column=0, sticky = "nw")
-
-            self._linesEval = Label(self._linesEvalFrame, text="HR-IP/Time (HR) f-value: %f (with fp value: %f)" % (documentList.getGraphs()[1].getFvalue(), documentList.getGraphs()[1].getFpvalue()), font='Times 14', bg="white", justify=LEFT)
-            self._linesEval.grid(row=1, column=0, sticky = "nw")
-
-            self._linesEval1 = Label(self._linesEvalFrame, text="This is evaluation data", font='Times 14', bg="white", justify=LEFT)
-            self._linesEval1.grid(row=2, column=0, sticky = "nw")
-
-            self._linesEval2 = Label(self._linesEvalFrame, text="This is evaluation data", font='Times 14', bg="white", justify=LEFT)
-            self._linesEval2.grid(row=3, column=0, sticky = "nw")
-
-            self._linesEval3 = Label(self._linesEvalFrame, text="This is evaluation data", font='Times 14', bg="white", justify=LEFT)
-            self._linesEval3.grid(row=4, column=0, sticky = "nw")
-
-            self._linesEval4 = Label(self._linesEvalFrame, text="This is evaluation data", font='Times 14', bg="white", justify=LEFT)
-            self._linesEval4.grid(row=5, column=0, sticky = "nw")
-
-            self._linesEval5 = Label(self._linesEvalFrame, text="This is evaluation data", font='Times 14', bg="white", justify=LEFT)
-            self._linesEval5.grid(row=6, column=0, sticky = "nw")
+            # 
+            # self._linesEval = Label(self._linesEvalFrame, text="HR-IP/Time (HR) f-value: %f (with fp value: %f)" % (documentList.getGraphs()[1].getFvalue(), documentList.getGraphs()[1].getFpvalue()), font='Times 14', bg="white", justify=LEFT)
+            # self._linesEval.grid(row=1, column=0, sticky = "nw")
+            #
+            # self._linesEval1 = Label(self._linesEvalFrame, text="This is evaluation data", font='Times 14', bg="white", justify=LEFT)
+            # self._linesEval1.grid(row=2, column=0, sticky = "nw")
+            #
+            # self._linesEval2 = Label(self._linesEvalFrame, text="This is evaluation data", font='Times 14', bg="white", justify=LEFT)
+            # self._linesEval2.grid(row=3, column=0, sticky = "nw")
+            #
+            # self._linesEval3 = Label(self._linesEvalFrame, text="This is evaluation data", font='Times 14', bg="white", justify=LEFT)
+            # self._linesEval3.grid(row=4, column=0, sticky = "nw")
+            #
+            # self._linesEval4 = Label(self._linesEvalFrame, text="This is evaluation data", font='Times 14', bg="white", justify=LEFT)
+            # self._linesEval4.grid(row=5, column=0, sticky = "nw")
+            #
+            # self._linesEval5 = Label(self._linesEvalFrame, text="This is evaluation data", font='Times 14', bg="white", justify=LEFT)
+            # self._linesEval5.grid(row=6, column=0, sticky = "nw")
         except AttributeError as err:
+            print(err)
             self._hripEval = Label(self._hripFrame, text="Please train model in document tab", font='Times 14', bg="white", justify=LEFT)
             self._hripEval.grid(row=1, column=0, sticky = "nw")
 

@@ -7,7 +7,7 @@ import os
 class FilesIO:
 
     _dataFolder = 'data/'
-    _detailsFile = _dataFolder + 'documentDetails-subset.csv'
+    _detailsFile = _dataFolder + 'documentDetails.csv'
     _pdfFolder = _dataFolder + 'pdf/'
     _pretextFolder = _dataFolder + 'text/before/'
     _textFolder = _dataFolder + 'text/after/'
@@ -55,6 +55,8 @@ class FilesIO:
             lineFilename, rest = line.split(',', 1)
             if lineFilename != filename:
                 table.append(line)
+            else:
+                print("match, not placed in table")
         newFile = open(self._detailsFile, 'w')
         newFile.write("\n".join(table))
         newFile.close()
@@ -64,11 +66,11 @@ class FilesIO:
 
         """
         os.remove(self._pdfFolder + filename + '.pdf')
-        os.remove(self._pretextFolder + filename + '.txt')
-        os.remove(self._textFolder + filename + '.txt')
-        os.remove(self._wordsFolder + filename + '.txt')
-        os.remove(self._countFolder + filename + '.txt')
-        os.remove(self._frequenciesFolder + filename + '.txt')
+        try { os.remove(self._pretextFolder + filename + '.txt') }
+        try { os.remove(self._textFolder + filename + '.txt') }
+        try { os.remove(self._wordsFolder + filename + '.txt') }
+        try { os.remove(self._countFolder + filename + '.txt') }
+        try { os.remove(self._frequenciesFolder + filename + '.txt') }
 
 
     def outputDocumentData(self, document):
@@ -77,10 +79,12 @@ class FilesIO:
         """
         file = open(self._detailsFile, 'r')
         table = []
+        alreadyLogged = False
         for line in file.readlines():
             line = line.replace('\n', '')
             lineFilename, rest = line.split(',', 1)
             if lineFilename == document.getFilename():
+                alreadyLogged = True
                 title, journal, date, test, hrRat, ipRat, userRat, creatorRat\
                     = rest.split(',')
                 line = '%s,%s,%s,%s,%s,%s,%s,%s,%s' % (                      \
@@ -93,6 +97,18 @@ class FilesIO:
                     document.getClassInformation().getIpRat(),               \
                     document.getClassInformation().getUserRat(),             \
                     document.getClassInformation().getCreatorRat())
+            table.append(line)
+        if alreadyLogged == False:
+            line = '%s,%s,%s,%s,%s,%s,%s,%s,%s' % (                      \
+                document.getFilename(),                                  \
+                document.getPDFmetadata().getTitle(),                    \
+                document.getPDFmetadata().getJournal(),                  \
+                document.getPDFmetadata().getDate(),                     \
+                document.getClassInformation().getTest(),                \
+                document.getClassInformation().getHrRat(),               \
+                document.getClassInformation().getIpRat(),               \
+                document.getClassInformation().getUserRat(),             \
+                document.getClassInformation().getCreatorRat())
             table.append(line)
         newFile = open(self._detailsFile, 'w')
         newFile.write("\n".join(table))

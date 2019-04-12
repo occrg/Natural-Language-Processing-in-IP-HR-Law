@@ -96,7 +96,6 @@ class Graph:
             ax.scatter(self._Xs[i], self._Ys[i], self._Zs[i], s=40, marker='o', c=Cs[i], label=Ls[i])
 
         fig.legend()
-        ax.set_ylim(-1, 1)
 
         ax.set_xlabel("Date of Publication", fontsize='large', fontweight='bold')
         ax.set_ylabel("HR-IP scale", fontsize='large', fontweight='bold')
@@ -158,7 +157,7 @@ class Graph:
         ax.xaxis.tick_bottom()
 
         plt.legend()
-        ax.set_ylim(-1, 1)
+
         ax.set_xlabel("Date of Publication", fontsize='large', fontweight='bold')
         ax.set_ylabel("HR-IP scale", fontsize='large', fontweight='bold')
         years = mdates.YearLocator()

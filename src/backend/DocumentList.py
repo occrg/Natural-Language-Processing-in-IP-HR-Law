@@ -13,7 +13,7 @@ class DocumentList:
 
     io = FilesIO()
     _dataFolder = 'data/'
-    _detailsFile = _dataFolder + 'documentDetails-subset.csv'
+    _detailsFile = _dataFolder + 'documentDetails.csv'
 
     def __init__(self):
         """

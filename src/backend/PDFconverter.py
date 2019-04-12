@@ -94,41 +94,57 @@ class PDFconverter:
         return text
 
 
-    def extractJournalFromText(self, text, filename):
+    def extractJournalFromText(self, journal, text, filename):
         """
 
         """
-        if re.match(r'^International Journal of Heritage Studies', text):
-            journal = "International Journal of Heritage Studies"
-            period = "97-"
-        elif re.search(r'International Cultural Property Society', text):
-            journal = "International Journal of Cultural Property"
-            period = "98-"
-        elif re.search(r'Downloaded from https://www.cambridge.org/core.[\w\W]+, subject to the Cambridge Core terms of', text) != None:
-            journal = "International Journal of Cultural Property"
-            period = "92-97"
-        elif re.search(r'JOURNAL OF WORLD INTELLECTUAL PROPERTY', text) != None:
-            journal = "Journal of World Intellectual Property"
-            period = "98-05"
-        elif re.search(r'The Journal of World Intellectual Property', text) != None:
-            journal = "Journal of World Intellectual Property"
-            period = "06-"
-        elif re.search(r'Journal of Intellectual Property Law & Practice', text) != None:
-            journal = "Journal of Intellectual Property Law"
-            period = "05-"
-        else:
-            # Temporary
-            if filename.startswith("IJHS"):
+        if journal == "-":
+            if re.match(r'^International Journal of Heritage Studies', text):
                 journal = "International Journal of Heritage Studies"
-            elif filename.startswith("IJCP"):
+                period = "97-"
+            elif re.search(r'International Cultural Property Society', text):
                 journal = "International Journal of Cultural Property"
-            elif filename.startswith("JWIP"):
+                period = "98-"
+            elif re.search(r'Downloaded from https://www.cambridge.org/core.[\w\W]+, subject to the Cambridge Core terms of', text) != None:
+                journal = "International Journal of Cultural Property"
+                period = "92-97"
+            elif re.search(r'JOURNAL OF WORLD INTELLECTUAL PROPERTY', text) != None:
                 journal = "Journal of World Intellectual Property"
-            elif filename.startswith("JIPL"):
+                period = "98-05"
+            elif re.search(r'The Journal of World Intellectual Property', text) != None:
+                journal = "Journal of World Intellectual Property"
+                period = "06-"
+            elif re.search(r'Journal of Intellectual Property Law & Practice', text) != None:
                 journal = "Journal of Intellectual Property Law"
+                period = "05-"
             else:
-                print("none")
-            period = "-"
+                # Temporary
+                if filename.startswith("IJHS"):
+                    journal = "International Journal of Heritage Studies"
+                elif filename.startswith("IJCP"):
+                    journal = "International Journal of Cultural Property"
+                elif filename.startswith("JWIP"):
+                    journal = "Journal of World Intellectual Property"
+                elif filename.startswith("JIPL"):
+                    journal = "Journal of Intellectual Property Law"
+                else:
+                    journal = "-"
+                period = "-"
+        else:
+            if re.match(r'^International Journal of Heritage Studies', text):
+                period = "97-"
+            elif re.search(r'International Cultural Property Society', text):
+                period = "98-"
+            elif re.search(r'Downloaded from https://www.cambridge.org/core.[\w\W]+, subject to the Cambridge Core terms of', text) != None:
+                period = "92-97"
+            elif re.search(r'JOURNAL OF WORLD INTELLECTUAL PROPERTY', text) != None:
+                period = "98-05"
+            elif re.search(r'The Journal of World Intellectual Property', text) != None:
+                period = "06-"
+            elif re.search(r'Journal of Intellectual Property Law & Practice', text) != None:
+                period = "05-"
+            else:
+                period = "-"
         return journal, period
 
 

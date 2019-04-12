@@ -32,7 +32,7 @@ class Count:
         """
         self._frequency = self.io.lineSeparatedToList(self._frequencyFolder + filename + '.txt')
         if self._frequency == []:
-            wordCount = getWordsCountZip()
+            wordCount = self.getWordsCountZip()
             self._frequency = self.frequencyCalc.tfidf(wordCount, wordLists)
         self.io.listToLineSeparated(self._frequency, self._frequencyFolder + filename + '.txt')
 

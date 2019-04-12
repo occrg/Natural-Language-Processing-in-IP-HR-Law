@@ -13,7 +13,7 @@ class Trend:
 
         """
         XsO = sm.add_constant(Xs)
-        model = sm.RLM(Ys, XsO, M=sm.robust.norms.LeastSquares())
+        model = sm.RLM(Ys, XsO)
         results = model.fit()
         self._yintercept = results.params[0]
         self._gradient = results.params[1]

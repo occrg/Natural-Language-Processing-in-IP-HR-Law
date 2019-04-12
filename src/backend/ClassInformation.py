@@ -12,7 +12,7 @@ class ClassInformation:
         """
 
         """
-        self._gt = self.__deduceGt(journal)
+        self.deduceGt(journal)
         self._test = int(test)
         self._hrRat = float(hrRat)
         self._ipRat = float(ipRat)
@@ -98,7 +98,7 @@ class ClassInformation:
         self._test = test
 
 
-    def __deduceGt(self, journal):
+    def deduceGt(self, journal):
         """
 
         """
@@ -112,4 +112,4 @@ class ClassInformation:
             gt = 1
         else:
             gt = "-"
-        return gt
+        self._gt = gt

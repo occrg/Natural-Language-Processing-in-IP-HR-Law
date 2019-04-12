@@ -13,7 +13,7 @@ class EntryRow:
         'International Journal of Cultural Property', 'Other: Human Rights', \
         'Journal of Intellectual Property Law',                              \
         'Journal of World Intellectual Property',                            \
-        'Other: Intellectual Property' }
+        'Other: Intellectual Property', '-' }
 
 
     def __init__(self, master, entryObj, document, documentList):
