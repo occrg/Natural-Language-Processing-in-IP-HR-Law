@@ -23,6 +23,7 @@ class Graph:
         self._testDocuments = documentList.getTrainTestDocuments(1)
         self._date, self._hr_ip, self._user_creator = self.__gatherData()
         self._indexDict = self.__compileIndexDict()
+        self._trends = []
 
 
     def getTitle(self):
@@ -48,6 +49,24 @@ class Graph:
 
         """
         return self._annot
+
+    def getTrends(self):
+        """
+
+        """
+        return self._trends
+
+    def getIndependentVar(self):
+        """
+
+        """
+        return self._independentVar
+
+    def getDependentVar(self):
+        """
+
+        """
+        return self._dependentVar
 
 
     def __gatherData(self):
@@ -126,6 +145,9 @@ class Graph:
         """
         self._Xs = self._date
         self._Ys = self._hr_ip
+        self._independentVar = "Date of Publication"
+        self._dependentVar = "HR-IP Scale"
+
         fig = plt.figure()
         ax = plt.axes()
         Cs = ['Red', 'Blue']
@@ -135,11 +157,13 @@ class Graph:
             sc = ax.scatter(self._Xs[i], self._Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
             self._scs.append(sc)
 
-        hrTrend = Trend(self._Xs[0], self._Ys[0])
+        hrTrend = Trend(0, self._Xs[0], self._Ys[0])
         ax.plot(hrTrend.getX(), hrTrend.getY(), '-r')
+        self._trends.append(hrTrend)
 
-        ipTrend = Trend(self._Xs[1], self._Ys[1])
+        ipTrend = Trend(1, self._Xs[1], self._Ys[1])
         ax.plot(ipTrend.getX(), ipTrend.getY(), '-b')
+        self._trends.append(ipTrend)
 
 
         self._annot = ax.annotate("", xy=(0,0), xytext=(10,10),textcoords="offset points",
@@ -158,8 +182,8 @@ class Graph:
 
         plt.legend()
 
-        ax.set_xlabel("Date of Publication", fontsize='large', fontweight='bold')
-        ax.set_ylabel("HR-IP scale", fontsize='large', fontweight='bold')
+        ax.set_xlabel(self._independentVar, fontsize='large', fontweight='bold')
+        ax.set_ylabel(self._dependentVar, fontsize='large', fontweight='bold')
         years = mdates.YearLocator()
         months = mdates.MonthLocator()
         yearsFmt = mdates.DateFormatter('%Y')
@@ -182,6 +206,9 @@ class Graph:
         """
         self._Xs = self._date
         self._Ys = self._user_creator
+        self._independentVar = "Date of Publication"
+        self._dependentVar = "User-Creator Scale"
+
         fig = plt.figure()
         ax = plt.axes()
         Cs = ['Red', 'Blue']
@@ -193,11 +220,13 @@ class Graph:
             self._scs.append(sc)
 
 
-        userTrend = Trend(self._Xs[0], self._Ys[0])
-        ax.plot(userTrend.getX(), userTrend.getY(), '-r')
+        hrTrend = Trend(0, self._Xs[0], self._Ys[0])
+        ax.plot(hrTrend.getX(), hrTrend.getY(), '-r')
+        self._trends.append(hrTrend)
 
-        creatorTrend = Trend(self._Xs[1], self._Ys[1])
-        ax.plot(creatorTrend.getX(), creatorTrend.getY(), '-b')
+        ipTrend = Trend(1, self._Xs[1], self._Ys[1])
+        ax.plot(ipTrend.getX(), ipTrend.getY(), '-b')
+        self._trends.append(ipTrend)
 
 
         self._annot = ax.annotate("", xy=(0,0), xytext=(10,10),textcoords="offset points",
@@ -213,8 +242,8 @@ class Graph:
         ax.xaxis.tick_bottom()
 
         plt.legend()
-        ax.set_xlabel("Date of Publication", fontsize='large', fontweight='bold')
-        ax.set_ylabel("User-Creator scale", fontsize='large', fontweight='bold')
+        ax.set_xlabel(self._independentVar, fontsize='large', fontweight='bold')
+        ax.set_ylabel(self._dependentVar, fontsize='large', fontweight='bold')
         years = mdates.YearLocator()
         months = mdates.MonthLocator()
         yearsFmt = mdates.DateFormatter('%Y')
@@ -238,6 +267,9 @@ class Graph:
         """
         self._Xs = self._hr_ip
         self._Ys = self._user_creator
+        self._independentVar = "HR-IP Scale"
+        self._dependentVar = "User-Creator Scale"
+
         fig = plt.figure()
         ax = plt.axes()
         Cs = ['Red', 'Blue']
@@ -248,11 +280,13 @@ class Graph:
             sc = ax.scatter(self._Xs[i], self._Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
             self._scs.append(sc)
 
-        hrTrend = Trend(self._Xs[0], self._Ys[0])
+        hrTrend = Trend(0, self._Xs[0], self._Ys[0])
         ax.plot(hrTrend.getX(), hrTrend.getY(), '-r')
+        self._trends.append(hrTrend)
 
-        ipTrend = Trend(self._Xs[1], self._Ys[1])
+        ipTrend = Trend(1, self._Xs[1], self._Ys[1])
         ax.plot(ipTrend.getX(), ipTrend.getY(), '-b')
+        self._trends.append(ipTrend)
 
         self._annot = ax.annotate("", xy=(0,0), xytext=(10,10),textcoords="offset points",
                             bbox=dict(boxstyle="round", alpha=0.9,edgecolor=[0,0.733,0.839], fc="w"),
@@ -268,8 +302,8 @@ class Graph:
         ax.xaxis.tick_bottom()
 
         plt.legend()
-        ax.set_xlabel("HR-IP scale", fontsize='large', fontweight='bold')
-        ax.set_ylabel("User-Creator scale", fontsize='large', fontweight='bold')
+        ax.set_xlabel(self._independentVar, fontsize='large', fontweight='bold')
+        ax.set_ylabel(self._dependentVar, fontsize='large', fontweight='bold')
         years = mdates.YearLocator()
         months = mdates.MonthLocator()
         yearsFmt = mdates.DateFormatter('%Y')

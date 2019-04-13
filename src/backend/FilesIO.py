@@ -7,7 +7,7 @@ import os
 class FilesIO:
 
     _dataFolder = 'data/'
-    _detailsFile = _dataFolder + 'documentDetails.csv'
+    _detailsFile = _dataFolder + 'documentDetails-subset.csv'
     _pdfFolder = _dataFolder + 'pdf/'
     _pretextFolder = _dataFolder + 'text/before/'
     _textFolder = _dataFolder + 'text/after/'
