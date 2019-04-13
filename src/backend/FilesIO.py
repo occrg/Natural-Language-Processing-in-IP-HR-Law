@@ -7,7 +7,9 @@ import os
 class FilesIO:
 
     _dataFolder = 'data/'
-    _detailsFile = _dataFolder + 'documentDetails-subset.csv'
+    _storeFolder = _dataFolder + 'store/'
+    _detailsFile = _storeFolder + 'documentDetails-subset.csv'
+    _evaluationsFile = _storeFolder + 'evaluations.csv'
     _pdfFolder = _dataFolder + 'pdf/'
     _pretextFolder = _dataFolder + 'text/before/'
     _textFolder = _dataFolder + 'text/after/'
@@ -129,6 +131,34 @@ class FilesIO:
         newFile = open(self._detailsFile, 'w', errors='replace')
         newFile.write("\n".join(table))
         newFile.close()
+
+    def outputEvaluationData(self, classification):
+        """
+
+        """
+        testScore = classification.getTestScore()
+        crossValScore = classification.getCrossValScore()
+        table = []
+        table.append(str(testScore))
+        table.append(",".join(str(x) for x in crossValScore))
+        newFile = open(self._evaluationsFile, 'w', errors='replace')
+        newFile.write("\n".join(table))
+        newFile.close()
+
+    def retrieveEvaluationData(self):
+        """
+
+        """
+        crossValScore = []
+        file = open(self._evaluationsFile, 'r', errors='replace')
+        lines = file.readlines()
+        line0 = lines[0]
+        testScore = float(line0.replace('\n', ''))
+        line1 = lines[1]
+        line1 = line1.replace('\n', '')
+        for val in line1.split(','):
+            crossValScore.append(float(val))
+        return testScore, crossValScore
 
 
     def txtFileToString(self, path):

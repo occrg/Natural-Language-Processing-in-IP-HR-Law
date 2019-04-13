@@ -20,7 +20,14 @@ class Classification:
     _creatorPhrasesPath = _keyWordsFolder + 'Creator-keyPhrases.txt'
 
 
-    def __init__(self, documentList):
+    def __init__(self):
+        """
+
+        """
+        self._testScore, self._crossValScore = self.io.retrieveEvaluationData()
+
+
+    def classifyDocuments(self, documentList):
         """
 
         """
@@ -36,6 +43,7 @@ class Classification:
             self.__crossValidation(Xtrain, Xtest, Ytrain, Ytest)
         for document in documents:
             self.io.outputDocumentData(document)
+        self.io.outputEvaluationData(self)
 
 
     def getTestScore(self):

@@ -12,8 +12,7 @@ from backend.Graph import Graph
 class DocumentList:
 
     io = FilesIO()
-    _dataFolder = 'data/'
-    _detailsFile = _dataFolder + 'documentDetails-subset.csv'
+
 
     def __init__(self):
         """
@@ -21,13 +20,14 @@ class DocumentList:
         """
         self._documents = self.__processDocumentsFromRecords()
         self._graphs = []
+        self._classification = Classification()
         self.performVisualisations()
 
 
     def performClassifications(self):
         self._graphs = []
         self.__calculateDocumentFrequencies()
-        self._classification = Classification(self)
+        self._classification.classifyDocuments(self)
 
     def performVisualisations(self):
         graph3D = Graph('3D Graph', self)
