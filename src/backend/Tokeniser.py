@@ -12,6 +12,7 @@ class Tokeniser:
     io = FilesIO()
     stopwords = io.lineSeparatedToList('data/lists/stopwords.txt')
     stopstrings = io.lineSeparatedToList('data/lists/stopstrings.txt')
+    nltk.download('wordnet')
 
 
     def splitByWord(self, text):
@@ -66,7 +67,7 @@ class Tokeniser:
         """
 
         """
-        punctuation = re.compile(r'[.?…!,¸_/"º`\'‘“””’%:;()[\]<>{}0-9]')
+        punctuation = re.compile(r'[.?…!,¸_/"º`\'‘“””’%:;*()[\]<>{}0-9]')
         text = punctuation.sub("", text)
         return text
 

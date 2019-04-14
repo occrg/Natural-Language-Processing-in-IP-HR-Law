@@ -40,7 +40,7 @@ class FilesIO:
         for path in filePaths:
             root, filenameAndExt = path.rsplit('/', 1)
             filename, ext = filenameAndExt.split('.')
-            table.append("%s,-,-,-,-,-,-,-,-" % filename)
+            table.append("%s,-,-,-,0,0.0,0.0,0.0,0.0" % filename)
         newFile = open(destination, 'w', errors='replace')
         newFile.write("\n".join(table))
         newFile.close()
@@ -162,14 +162,19 @@ class FilesIO:
 
         """
         crossValScore = []
-        file = open(self._evaluationsFile, 'r', errors='replace')
-        lines = file.readlines()
-        line0 = lines[0]
-        testScore = float(line0.replace('\n', ''))
-        line1 = lines[1]
-        line1 = line1.replace('\n', '')
-        for val in line1.split(','):
-            crossValScore.append(float(val))
+        try:
+            file = open(self._evaluationsFile, 'r', errors='replace')
+            lines = file.readlines()
+            line0 = lines[0]
+            testScore = float(line0.replace('\n', ''))
+            line1 = lines[1]
+            line1 = line1.replace('\n', '')
+            for val in line1.split(','):
+                crossValScore.append(float(val))
+        except FileNotFoundError as err:
+            print(err)
+            testScore = 0
+            crossValScore.append(0.0)
         return testScore, crossValScore
 
 

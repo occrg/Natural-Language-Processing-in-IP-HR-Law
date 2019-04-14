@@ -18,7 +18,9 @@ class DocumentList:
         """
 
         """
-        self._documents = self.__processDocumentsFromRecords()
+        self._documents = []
+        self.__processDocumentsFromRecords()
+        self.__printStats()
         self._graphs = []
         self._classification = Classification()
         self.performVisualisations()
@@ -26,7 +28,6 @@ class DocumentList:
 
     def performClassifications(self):
         self._graphs = []
-        self.__calculateDocumentFrequencies()
         self._classification.classifyDocuments(self)
 
     def performVisualisations(self):
@@ -86,7 +87,7 @@ class DocumentList:
 
         """
         for document in self._documents:
-            document.getCount().calculateFrequency(document.getFilename(),   \
+            document.getCount().calculateTfidf(document.getFilename(),       \
                 self.__getDocumentsWordLists())
 
 
@@ -96,7 +97,7 @@ class DocumentList:
         """
         allWords = []
         for document in self._documents:
-            words = document.getCount().getWords()
+            words = document.getCount().getFeatures()
             for word in words:
                 if word not in allWords:
                     allWords.append(word)
@@ -107,14 +108,13 @@ class DocumentList:
         """
 
         """
-        documents = []
         for line in self.io.getFileLinesAsList()[1:]:
             filename, title, journal, date, test, hrRat, ipRat, userRat,     \
                 creatorRat = line.split(',')
             document = Document(filename, title, journal, date, test, hrRat, \
                 ipRat, userRat, creatorRat)
-            documents.append(document)
-        return documents
+            self._documents.append(document)
+        self.__calculateDocumentFrequencies()
 
 
     def __getDocumentsWordLists(self):
@@ -123,5 +123,5 @@ class DocumentList:
         """
         wordLists = []
         for document in self._documents:
-            wordLists.append(document.getCount().getWords())
+            wordLists.append(document.getCount().getFeatures())
         return wordLists

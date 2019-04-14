@@ -7,20 +7,18 @@ import math
 class FrequencyCalc:
 
 
-    def tfidf(self, wordCount, wordLists):
+    def tfidf(self, tf, idf):
         """
 
         """
         tfidf = []
-        tf = self.__termFrequency(wordCount)
-        idf = self.__inverseDocumentFrequency(wordCount, wordLists)
         for i in range(len(tf)):
             v = tf[i] * idf[i]
             tfidf.append(v)
         return tfidf
 
 
-    def __termFrequency(self, wordCount):
+    def tf(self, wordCount):
         """
 
         """
@@ -30,7 +28,7 @@ class FrequencyCalc:
             tf.append(int(n) / sum)
         return tf
 
-    def __inverseDocumentFrequency(self, wordCount, wordLists):
+    def idf(self, wordCount, wordLists):
         """
 
         """

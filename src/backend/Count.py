@@ -12,36 +12,47 @@ class Count:
     frequencyCalc = FrequencyCalc()
 
     _dataFolder = 'data/'
-    _wordFolder = _dataFolder + 'word/list/'
-    _countFolder = _dataFolder + 'word/count/'
-    _frequencyFolder = _dataFolder + 'word/frequency/'
+    _wordsFolder = _dataFolder + 'word/'
+    _featureFolder = _wordsFolder + 'feature/'
+    _countFolder = _wordsFolder + 'count/'
+    _tfFolder = _wordsFolder + 'tf/'
+    _idfFolder = _wordsFolder + 'idf/'
+    _tfidfFolder = _wordsFolder + 'tfidf/'
+
 
     def __init__(self, filename, text):
         """
 
         """
-        self._words = self.__initialiseWords(filename, text)
-        self._count = self.__initialiseCount(filename, text)
-        self.io.listToLineSeparated(self._words, self._wordFolder + filename + '.txt')
-        self.io.listToLineSeparated(self._count, self._countFolder + filename + '.txt')
+        self._textList = self.tokeniser.splitByWord(text)
+        self.__initialiseFeatures(filename)
+        self.__initialiseCount(filename)
+        self.__iniialiseTf(filename)
 
 
-    def calculateFrequency(self, filename, wordLists):
+    def calculateTfidf(self, filename, wordLists):
         """
 
         """
-        self._frequency = self.io.lineSeparatedToList(self._frequencyFolder + filename + '.txt')
-        if self._frequency == []:
-            wordCount = self.getWordsCountZip()
-            self._frequency = self.frequencyCalc.tfidf(wordCount, wordLists)
-        self.io.listToLineSeparated(self._frequency, self._frequencyFolder + filename + '.txt')
+        idfStrings = self.io.lineSeparatedToList(self._idfFolder + filename + '.txt')
+        if idfStrings == []:
+            self._idf = self.frequencyCalc.idf(self.getFeaturesCountZip(), wordLists)
+            self.io.listToLineSeparated(self._idf, self._idfFolder + filename + '.txt')
+        else:
+            self._idf = list(map(float, idfStrings))
+        tfidfStrings = self.io.lineSeparatedToList(self._tfidfFolder + filename + '.txt')
+        if tfidfStrings == []:
+            self._tfidf = self.frequencyCalc.tfidf(self._tf, self._idf)
+            self.io.listToLineSeparated(self._tfidf, self._tfidfFolder + filename + '.txt')
+        else:
+            self._tfidf = list(map(float, tfidfStrings))
 
 
-    def getWords(self):
+    def getFeatures(self):
         """
 
         """
-        return self._words
+        return self._features
 
     def getCount(self):
         """
@@ -49,42 +60,61 @@ class Count:
         """
         return self._count
 
-    def getWordsCountZip(self):
+    def getFeaturesCountZip(self):
         """
 
         """
-        return list(zip(self._words, self._count))
+        return list(zip(self._features, self._count))
 
-
-    def getWordsFrequencyZip(self):
+    def getFeaturesTfZip(self):
         """
 
         """
-        return list(zip(self._words, self._frequency))
+        return list(zip(self._features, self._tf))
+
+    def getFeaturesTfidfZip(self):
+        """
+
+        """
+        return list(zip(self._features, self._tfidf))
 
 
     def setFrequency(self, frequency):
         self._frequency = frequency
 
 
-    def __initialiseWords(self, filename, text):
+    def __initialiseFeatures(self, filename):
         """
 
         """
-        uniqueWords = self.io.lineSeparatedToList(self._wordFolder + filename + '.txt')
-        if uniqueWords == []:
-            for w in self.tokeniser.splitByWord(text):
-                if w not in uniqueWords:
-                    uniqueWords.append(w)
-        return uniqueWords
+        self._features = self.io.lineSeparatedToList(self._featureFolder + filename + '.txt')
+        if self._features == []:
+            for w in self._textList:
+                if w not in self._features:
+                    self._features.append(w)
+            self.io.listToLineSeparated(self._features, self._featureFolder + filename + '.txt')
 
 
-    def __initialiseCount(self, filename, text):
+    def __initialiseCount(self, filename):
         """
 
         """
-        wordCounts = self.io.lineSeparatedToList(self._countFolder + filename + '.txt')
-        if wordCounts == []:
-            for w in self._words:
-                wordCounts.append(self.tokeniser.splitByWord(text).count(w))
-        return wordCounts
+        countStrings = self.io.lineSeparatedToList(self._countFolder + filename + '.txt')
+        if countStrings == []:
+            for w in self._features:
+                self._count.append(self._textList.count(w))
+            self.io.listToLineSeparated(self._count, self._countFolder + filename + '.txt')
+        else:
+            self._count = list(map(int, countStrings))
+
+
+    def __iniialiseTf(self, filename):
+        """
+
+        """
+        tfStrings = self.io.lineSeparatedToList(self._tfFolder + filename + '.txt')
+        if tfStrings == []:
+            self._tf = self.frequencyCalc.tf(self.getFeaturesCountZip())
+            self.io.listToLineSeparated(self._tf, self._tfFolder + filename + '.txt')
+        else:
+            self._tf = list(map(float, tfStrings))

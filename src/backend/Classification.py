@@ -34,13 +34,20 @@ class Classification:
         documents = documentList.getDocuments()
         trainDocuments = documentList.getTrainTestDocuments(0)
         testDocuments = documentList.getTrainTestDocuments(1)
+        print("formulating XYTrain")
         Xtrain, Ytrain = self.__formulateXY(trainDocuments, documentList)
+        print("training")
         self._clf = self.__trainData(Xtrain, Ytrain)
+        print("formulating XYTest")
         Xtest, Ytest = self.__formulateXY(testDocuments, documentList)
+        print("testing")
         self._testScore = self.__testData(Xtest, Ytest, testDocuments)
+        print("user creator")
         self.__userCreatorRatings(testDocuments)
+        print("crossval")
         self._crossValScore =                                                \
             self.__crossValidation(Xtrain, Xtest, Ytrain, Ytest)
+        print("output")
         for document in documents:
             self.io.outputDocumentData(document)
         self.io.outputEvaluationData(self)
@@ -67,7 +74,7 @@ class Classification:
         X = np.zeros((len(documents), len(allWords)))
         Y = []
         for (r, document) in enumerate(documents):
-            for (w, f) in document.getCount().getWordsCountZip():
+            for (w, f) in document.getCount().getFeaturesTfZip():
                 X[r][allWords.index(w)] = f
             Y.append(document.getClassInformation().getGt())
         return X, Y

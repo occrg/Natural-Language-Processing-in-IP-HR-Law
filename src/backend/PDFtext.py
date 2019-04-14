@@ -23,7 +23,6 @@ class PDFtext:
         """
         self._pretext = self.__initialisePretext(filename)
         self._text = self.__initialiseText(filename)
-        self.io.stringToTXTfile(self._pretext, self._pretextFolder + filename + '.txt')
 
     def getPretext(self):
         """
@@ -52,6 +51,7 @@ class PDFtext:
         pretext = self.io.txtFileToString(self._pretextFolder + filename + '.txt')
         if pretext == "-":
             pretext = self.converter.pdfToString(filename)
+        self.io.stringToTXTfile(pretext, self._pretextFolder + filename + '.txt')
         return pretext
 
 
