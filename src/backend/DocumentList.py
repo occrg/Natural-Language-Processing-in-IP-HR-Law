@@ -20,7 +20,7 @@ class DocumentList:
         """
         self._documents = []
         self.__processDocumentsFromRecords()
-        self.__printStats()
+        self._allFeatures = self.__compileAllFeatures()
         self._graphs = []
         self._classification = Classification()
         self.performVisualisations()
@@ -74,6 +74,12 @@ class DocumentList:
         """
         return self._classification
 
+    def getAllFeatures(self):
+        """
+
+        """
+        return self._allFeatures
+
     def getTrainTestDocuments(self, test):
         documents = []
         for document in self._documents:
@@ -91,17 +97,17 @@ class DocumentList:
                 self.__getDocumentsWordLists())
 
 
-    def deduceAllWords(self):
+    def __compileAllFeatures(self):
         """
 
         """
-        allWords = []
+        allFeatures = []
         for document in self._documents:
             words = document.getCount().getFeatures()
             for word in words:
-                if word not in allWords:
-                    allWords.append(word)
-        return allWords
+                if word not in allFeatures:
+                    allFeatures.append(word)
+        return allFeatures
 
 
     def __processDocumentsFromRecords(self):

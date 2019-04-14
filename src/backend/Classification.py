@@ -70,12 +70,12 @@ class Classification:
         """
 
         """
-        allWords = documentList.deduceAllWords()
-        X = np.zeros((len(documents), len(allWords)))
+        allFeatures = documentList.getAllFeatures()
+        X = np.zeros((len(documents), len(allFeatures)))
         Y = []
         for (r, document) in enumerate(documents):
             for (w, f) in document.getCount().getFeaturesTfZip():
-                X[r][allWords.index(w)] = f
+                X[r][allFeatures.index(w)] = f
             Y.append(document.getClassInformation().getGt())
         return X, Y
 
