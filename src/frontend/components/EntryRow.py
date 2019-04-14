@@ -49,14 +49,14 @@ class EntryRow:
         removeButton = Button(self._master, text="Remove", command=lambda: self.__removeEntry(entryObj, documentList))
         openButton = Button(self._master, text="Open", command=lambda: self.__openPDF('data/pdf/' + self._document.getFilename() + '.pdf'))
 
-        titleEntry.grid(row=0, column=0, padx=15, pady=1)
-        journalEntry.grid(row=0, column=1, padx=15, pady=1)
-        dateEntry.grid(row=0, column=2, padx=15, pady=1)
-        testCheck.grid(row=0, column=3, padx=15, pady=1)
-        pathEntry.grid(row=0, column=4, padx=15, pady=1)
-        confirmButton.grid(row=0, column=5, padx=15, pady=1)
-        removeButton.grid(row=0, column=6, padx=15, pady=1)
-        openButton.grid(row=0, column=7, padx=15, pady=1)
+        titleEntry.grid(row=0, column=0, pady=1)
+        journalEntry.grid(row=0, column=1, pady=1)
+        dateEntry.grid(row=0, column=2, pady=1)
+        testCheck.grid(row=0, column=3, pady=1)
+        pathEntry.grid(row=0, column=4, pady=1)
+        confirmButton.grid(row=0, column=5, pady=1)
+        removeButton.grid(row=0, column=6, pady=1)
+        openButton.grid(row=0, column=7, pady=1)
 
     def setTestVar(self, val):
         """

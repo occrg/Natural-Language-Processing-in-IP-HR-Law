@@ -17,8 +17,9 @@ class EntryFrame:
         self._master = master
 
 
-        self._canvas = Canvas(self._master, borderwidth=0, background="blue")
+        self._canvas = Canvas(self._master, borderwidth=0)
         self._inFrame = Frame(self._canvas)
+        self._inFrame.grid_columnconfigure(0, w=1)
         vsb = Scrollbar(self._master, orient="vertical", command=self._canvas.yview)
         self._canvas.configure(yscrollcommand=vsb.set)
 
@@ -54,14 +55,14 @@ class EntryFrame:
         """
         row = Frame(self._inFrame)
         row.grid(row=len(self._rows), column=0, sticky="nesw")
-        row.grid_columnconfigure(0, weight=18)
-        row.grid_columnconfigure(1, weight=17)
-        row.grid_columnconfigure(2, weight=4)
+        row.grid_columnconfigure(0, weight=20)
+        row.grid_columnconfigure(1, weight=24)
+        row.grid_columnconfigure(2, weight=7)
         row.grid_columnconfigure(3, weight=2)
-        row.grid_columnconfigure(4, weight=20)
-        row.grid_columnconfigure(5, weight=7)
-        row.grid_columnconfigure(6, weight=7)
-        row.grid_columnconfigure(7, weight=7)
+        row.grid_columnconfigure(4, weight=18)
+        row.grid_columnconfigure(5, weight=9)
+        row.grid_columnconfigure(6, weight=9)
+        row.grid_columnconfigure(7, weight=9)
         entryRow = EntryRow(row, self, document, documentList)
         self._rows.append(row)
         self._rowObjs.append(entryRow)

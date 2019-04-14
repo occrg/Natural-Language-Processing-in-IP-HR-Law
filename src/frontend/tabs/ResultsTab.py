@@ -17,9 +17,9 @@ class ResultsTab:
 
         self._master.grid_columnconfigure(0, weight=1)
         self._master.grid_columnconfigure(1, weight=1)
-        self._master.grid_propagate(False)
+        self._master.grid_rowconfigure(0, weight=1)
 
-        self._hripEvalFrame = Frame(self._master, bg="grey", bd=10)
+        self._hripEvalFrame = Frame(self._master, bg="white", bd=10)
         self._hripEvalFrame.grid(row=0, column=0, sticky="nesw")
 
         self._linesEvalFrame = Frame(self._master, bg="white", bd=10)

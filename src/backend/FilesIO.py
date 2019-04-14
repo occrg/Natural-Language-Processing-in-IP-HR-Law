@@ -8,7 +8,7 @@ class FilesIO:
 
     _dataFolder = 'data/'
     _storeFolder = _dataFolder + 'store/'
-    _detailsFile = _storeFolder + 'documentDetails-subset.csv'
+    _detailsFile = _storeFolder + 'documentDetails.csv'
     _evaluationsFile = _storeFolder + 'evaluations.csv'
     _pdfFolder = _dataFolder + 'pdf/'
     _pretextFolder = _dataFolder + 'text/before/'
@@ -16,6 +16,18 @@ class FilesIO:
     _wordsFolder = _dataFolder + 'word/list/'
     _countFolder = _dataFolder + 'word/count/'
     _frequenciesFolder = _dataFolder + 'word/frequency/'
+
+
+    def exportPoints(self, filepath, Xs, Ys, Zs):
+        """
+
+        """
+        table = []
+        for p in range(len(Xs)):
+            table.append("%f, %f, %f" % (Xs[p], Ys[p], Zs[p]))
+        newFile = open(filename + '.csv', 'w', errors='replace')
+        newFile.write("\n".join(table))
+        newFile.close()
 
 
     def fillDocumentRecords(self, destination):

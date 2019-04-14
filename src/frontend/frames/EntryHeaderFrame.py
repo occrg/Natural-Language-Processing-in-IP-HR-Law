@@ -21,10 +21,10 @@ class EntryHeaderFrame:
         self._master.grid_columnconfigure(0, weight=1)
 
 
-        self._headerFrame = Frame(self._master, background="pink")
+        self._headerFrame = Frame(self._master)
         self._headerFrame.grid(row=0, sticky="nsew")
 
-        self._entryFrame = Frame(self._master, background="red")
+        self._entryFrame = Frame(self._master)
         self._entryFrame.grid(row=1, sticky="nsew")
 
         self._headerObject = HeaderFrame(self._headerFrame)

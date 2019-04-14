@@ -6,6 +6,7 @@ from matplotlib.figure import Figure
 import numpy as np
 from scipy import stats
 
+from backend.FilesIO import FilesIO
 from backend.Trend import Trend
 
 
@@ -83,7 +84,7 @@ class Graph:
         user_creator_IP = []
         user_creator = []
         for document in self._testDocuments:
-            if document.getClassInformation().getGt():
+             if document.getClassInformation().getGt():
                 date_IP.append(mdates.date2num(document.getPDFmetadata().getDate()))
                 hr_ip_IP.append(document.getClassInformation().getIpRat() - document.getClassInformation().getHrRat())
                 user_creator_IP.append(document.getClassInformation().getCreatorRat() - document.getClassInformation().getUserRat())
