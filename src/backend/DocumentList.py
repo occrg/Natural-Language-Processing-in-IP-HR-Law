@@ -40,9 +40,9 @@ class DocumentList:
         graphUserCreator = Graph('User-Creator/Time', self)
         graphUserCreator.createUserCreatorGraph()
         self._graphs.append(graphUserCreator)
-        graphIPHRUserCreatpr = Graph('User-Creator/IP-HR', self)
-        graphIPHRUserCreatpr.createIPHRUserCreatorGraph()
-        self._graphs.append(graphIPHRUserCreatpr)
+        graphIPHRUserCreator = Graph('User-Creator/IP-HR', self)
+        graphIPHRUserCreator.createIPHRUserCreatorGraph()
+        self._graphs.append(graphIPHRUserCreator)
 
     def getDocuments(self):
         """

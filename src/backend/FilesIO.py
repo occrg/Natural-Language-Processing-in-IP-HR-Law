@@ -8,7 +8,7 @@ class FilesIO:
 
     _dataFolder = 'data/'
     _storeFolder = _dataFolder + 'store/'
-    _detailsFile = _storeFolder + 'documentDetails.csv'
+    _detailsFile = _storeFolder + 'documentDetails-subset.csv'
     _evaluationsFile = _storeFolder + 'evaluations.csv'
     _pdfFolder = _dataFolder + 'pdf/'
     _pretextFolder = _dataFolder + 'text/before/'

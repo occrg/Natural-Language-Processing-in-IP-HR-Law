@@ -1,4 +1,5 @@
 import random
+import math
 from sklearn import svm
 import numpy as np
 from sklearn.model_selection import cross_val_score
@@ -40,13 +41,21 @@ class Classification:
         self._clf = self.__trainData(Xtrain, Ytrain)
         print("formulating XYTest")
         Xtest, Ytest = self.__formulateXY(testDocuments, documentList)
-        print("testing")
-        self._testScore = self.__testData(Xtest, Ytest, testDocuments)
+        print("precit probabilities")
+        probsTest = self._clf.predict_proba(Xtest)
+        self.__assignProbabilities(probsTest, testDocuments)
+        print("calculating score")
+        self._tp, self._tn, self._fp, self._fn = self.__evaluateClassification(probsTest, Ytest)
+        self._testScore = self.__percentageCorrect(self._tp, self._tn, self._fp, self._fn)
         print("user creator")
         self.__userCreatorRatings(testDocuments)
-        print("crossval")
+        print("formulating XYall")
+        Xall = np.append(Xtrain, Xtest, axis=0)
+        Yall = Ytrain.copy()
+        Yall.extend(Ytest)
+        print("cross validating")
         self._crossValScore =                                                \
-            self.__crossValidation(Xtrain, Xtest, Ytrain, Ytest)
+            self.__crossValidation(Xall, Yall, 4)
         print("output")
         for document in documents:
             self.io.outputDocumentData(document)
@@ -74,7 +83,7 @@ class Classification:
         X = np.zeros((len(documents), len(allFeatures)))
         Y = []
         for (r, document) in enumerate(documents):
-            for (w, f) in document.getCount().getFeaturesTfZip():
+            for (w, f) in document.getCount().getFeaturesTfidfZip():
                 X[r][allFeatures.index(w)] = f
             Y.append(document.getClassInformation().getGt())
         return X, Y
@@ -88,23 +97,80 @@ class Classification:
         clf.fit(X, Y)
         return clf
 
-    def __testData(self, X, Y, testDocuments):
+    def __assignProbabilities(self, probabilities, testDocuments):
         """
 
         """
-        probabilities = self._clf.predict_proba(X)
         for (r, document) in enumerate(testDocuments):
             document.getClassInformation().setHrRat(probabilities[r][0])
             document.getClassInformation().setIpRat(probabilities[r][1])
-        return self._clf.score(X, Y)
+
+    def __evaluateClassification(self, probsTest, Ytest):
+        """
+
+        """
+        tp = 0
+        tn = 0
+        fp = 0
+        fn = 0
+        for i in range(len(probsTest)):
+            if Ytest[i] == 1 and probsTest[i][1] > probsTest[i][0]:
+                tp += 1
+            if Ytest[i] == 1 and not probsTest[i][1] > probsTest[i][0]:
+                fn += 1
+            if Ytest[i] == 0 and probsTest[i][1] < probsTest[i][0]:
+                tn += 1
+            if Ytest[i] == 0 and not probsTest[i][1] < probsTest[i][0]:
+                fp += 1
+        return tp, tn, fp, fn
+
+    def __percentageCorrect(self, tp, tn, fp, fn):
+        """
+
+        """
+        return (tp + tn) / (tp + tn + fp + fn)
 
 
-    def __crossValidation(self, Xtrain, Xtest, Ytrain, Ytest):
-        X = np.append(Xtrain, Xtest, axis=0)
-        Y = Ytrain.copy()
-        Y.extend(Ytest)
-        crossValScore =                                                      \
-            cross_val_score(estimator=self._clf, X=X, y=Y, cv=5)
+    def __crossValidation(self, Xall, Yall, split):
+        """
+
+        """
+        crossValScore = []
+        allIndexes = list(range(len(Xall)))
+        remainingIndexes = allIndexes.copy()
+        testNum = math.floor(len(Xall) / split)
+        for i in range(split):
+            print("\ncalculating score %d" % i)
+            if i == split-1:
+                testIndexes = remainingIndexes
+                testNum = len(testIndexes)
+                trainIndexes = [x for x in allIndexes if x not in testIndexes]
+            else:
+                testIndexes = []
+                trainIndexes = allIndexes.copy()
+                for n in range(testNum):
+                    ele = random.choice(remainingIndexes)
+                    testIndexes.append(ele)
+                    trainIndexes.remove(ele)
+                    remainingIndexes.remove(ele)
+            Xtest = np.empty((len(testIndexes), Xall.shape[1]))
+            Xtrain = np.empty((len(trainIndexes), Xall.shape[1]))
+            Ytest = []
+            Ytrain = []
+            for i, n in enumerate(testIndexes):
+                Xtest[i,:] = Xall[n,:]
+                Ytest.append(Yall[n])
+            for i, n in enumerate(trainIndexes):
+                Xtrain[i:,] = Xall[n,:]
+                Ytrain.append(Yall[n])
+
+            print("training data")
+            clf = self.__trainData(Xtrain, Ytrain)
+            print("predicting probabilities")
+            probsTest = clf.predict_proba(Xtest)
+            print("calculating score")
+            tp, tn, fp, fn = self.__evaluateClassification(probsTest, Ytest)
+            crossValScore.append(self.__percentageCorrect(tp, tn, fp, fn))
         return crossValScore
 
 
