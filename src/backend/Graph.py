@@ -158,11 +158,11 @@ class Graph:
             sc = ax.scatter(self._Xs[i], self._Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
             self._scs.append(sc)
 
-        hrTrend = Trend(0, self._Xs[0], self._Ys[0])
+        hrTrend = Trend(0, "Human Rights", "Intellectual Property", self._Xs[0], self._Ys[0])
         ax.plot(hrTrend.getX(), hrTrend.getY(), '-r')
         self._trends.append(hrTrend)
 
-        ipTrend = Trend(1, self._Xs[1], self._Ys[1])
+        ipTrend = Trend(1, "Human Rights", "Intellectual Property", self._Xs[1], self._Ys[1])
         ax.plot(ipTrend.getX(), ipTrend.getY(), '-b')
         self._trends.append(ipTrend)
 
@@ -221,11 +221,11 @@ class Graph:
             self._scs.append(sc)
 
 
-        hrTrend = Trend(0, self._Xs[0], self._Ys[0])
+        hrTrend = Trend(0, "User", "Creator", self._Xs[0], self._Ys[0])
         ax.plot(hrTrend.getX(), hrTrend.getY(), '-r')
         self._trends.append(hrTrend)
 
-        ipTrend = Trend(1, self._Xs[1], self._Ys[1])
+        ipTrend = Trend(1, "User", "Creator", self._Xs[1], self._Ys[1])
         ax.plot(ipTrend.getX(), ipTrend.getY(), '-b')
         self._trends.append(ipTrend)
 
@@ -280,14 +280,6 @@ class Graph:
         for i in range(len(self._Xs)):
             sc = ax.scatter(self._Xs[i], self._Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
             self._scs.append(sc)
-
-        hrTrend = Trend(0, self._Xs[0], self._Ys[0])
-        ax.plot(hrTrend.getX(), hrTrend.getY(), '-r')
-        self._trends.append(hrTrend)
-
-        ipTrend = Trend(1, self._Xs[1], self._Ys[1])
-        ax.plot(ipTrend.getX(), ipTrend.getY(), '-b')
-        self._trends.append(ipTrend)
 
         self._annot = ax.annotate("", xy=(0,0), xytext=(10,10),textcoords="offset points",
                             bbox=dict(boxstyle="round", alpha=0.9,edgecolor=[0,0.733,0.839], fc="w"),

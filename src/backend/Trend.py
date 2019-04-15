@@ -12,11 +12,13 @@ class Trend:
     _statSigLimit = 0.1
 
 
-    def __init__(self, gt, Xs, Ys):
+    def __init__(self, highCategory, lowCategory, gt, Xs, Ys):
         """
 
         """
         self._gt = gt
+        self._highCategory = highCategory
+        self._lowCategory = lowCategory
         XsO = sm.add_constant(Xs)
         model = sm.RLM(Ys, XsO)
         results = model.fit()
@@ -63,3 +65,15 @@ class Trend:
 
         """
         return self._statSigLimit
+
+    def getHighCategory(self):
+        """
+
+        """
+        return self._highCategory
+
+    def getLowCategory(self):
+        """
+
+        """
+        return self._lowCategory
