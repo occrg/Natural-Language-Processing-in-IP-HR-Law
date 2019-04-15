@@ -12,7 +12,7 @@ class Trend:
     _statSigLimit = 0.1
 
 
-    def __init__(self, highCategory, lowCategory, gt, Xs, Ys):
+    def __init__(self, gt, highCategory, lowCategory, Xs, Ys):
         """
 
         """
@@ -20,7 +20,7 @@ class Trend:
         self._highCategory = highCategory
         self._lowCategory = lowCategory
         XsO = sm.add_constant(Xs)
-        model = sm.RLM(Ys, XsO)
+        model = sm.RLM(Ys, XsO, m=sm.robust.norms.LeastSquares)
         results = model.fit()
         self._yintercept = results.params[0]
         self._gradient = results.params[1]

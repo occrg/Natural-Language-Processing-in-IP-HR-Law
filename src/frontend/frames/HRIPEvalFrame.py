@@ -32,7 +32,7 @@ class HRIPEvalFrame:
             self._hripEval.append(Label(self._master, text="Success ratio of graph shown: %f" % classification.getTestScore(), font='Arial 12', bg="white", justify=LEFT, wraplength=940))
             self._hripEval.append(Label(self._master, text="IP (Correct/Incorrect): (%d,%d)" % (tp, fn), font='Arial 12', bg="white", justify=LEFT, wraplength=940))
             self._hripEval.append(Label(self._master, text="HR (Correct/Incorrect): (%d,%d)" % (tn, fp), font='Arial 12', bg="white", justify=LEFT, wraplength=940))
-            self._hripEval.append(Label(self._master, text="\nAverage success ratio across 4-fold cross validation: %.3f, %.3f, %.3f, %.3f" % (crossVal[0], crossVal[1], crossVal[2], crossVal[3]), font='Arial 12', bg="white", justify=LEFT, wraplength=940))
+            self._hripEval.append(Label(self._master, text="\nAverage success ratio across 4-fold cross validation: %f, %.3f, %.3f, %.3f" % (crossVal[0], crossVal[1], crossVal[2], crossVal[3]), font='Arial 12', bg="white", justify=LEFT, wraplength=940))
 
             for c, label in enumerate(self._hripEval):
                 label.grid(row=c+1, column=0, sticky="nw")

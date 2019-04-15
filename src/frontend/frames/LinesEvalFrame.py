@@ -46,9 +46,9 @@ class LinesEvalFrame:
                         r+=1
                         self._master.grid_rowconfigure(r, w=3)
                         if pGradient < trend.getStatSigLimit():
-                            label = Label(self._master, text="%s documents %s trend towards %s over the %s with a slope of %.6f.\nThis was found to be statistically significant with a p-value of %.3f\n\n" % (category, dependentVar, towards, dependentVar, grad, pGradient), wraplength=940, font='Arial 12 bold', bg="white", justify=LEFT)
+                            label = Label(self._master, text="%s documents %s trend towards %s over the %s with a slope of %f.\nThis was found to be statistically significant with a p-value of %.3f\n\n" % (category, dependentVar, towards, dependentVar, grad, pGradient), wraplength=940, font='Arial 12 bold', bg="white", justify=LEFT)
                         else:
-                            label = Label(self._master, text="%s documents %s trend towards %s over the %s with a slope of %.6f.\nThis was found not to be statistically significant with a p-value of %.3f\n\n" % (category, dependentVar, towards, dependentVar, grad, pGradient), wraplength=940, font='Arial 12', bg="white", justify=LEFT)
+                            label = Label(self._master, text="%s documents %s trend towards %s over the %s with a slope of %f.\nThis was found not to be statistically significant with a p-value of %.3f\n\n" % (category, dependentVar, towards, dependentVar, grad, pGradient), wraplength=940, font='Arial 12', bg="white", justify=LEFT)
                         label.grid(row=r, column=0, sticky="nw")
                         self._linesEval.append(label)
                     r+=1

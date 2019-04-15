@@ -99,6 +99,7 @@ class Count:
         """
 
         """
+        self._count = []
         countStrings = self.io.lineSeparatedToList(self._countFolder + filename + '.txt')
         if countStrings == []:
             for w in self._features:

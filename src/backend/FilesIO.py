@@ -8,14 +8,17 @@ class FilesIO:
 
     _dataFolder = 'data/'
     _storeFolder = _dataFolder + 'store/'
-    _detailsFile = _storeFolder + 'documentDetails-subset.csv'
+    _detailsFile = _storeFolder + 'documentDetails.csv'
     _evaluationsFile = _storeFolder + 'evaluations.csv'
     _pdfFolder = _dataFolder + 'pdf/'
     _pretextFolder = _dataFolder + 'text/before/'
     _textFolder = _dataFolder + 'text/after/'
-    _wordsFolder = _dataFolder + 'word/list/'
-    _countFolder = _dataFolder + 'word/count/'
-    _frequenciesFolder = _dataFolder + 'word/frequency/'
+    _wordsFolder = _dataFolder + 'word/'
+    _featureFolder = _wordsFolder + 'feature/'
+    _countFolder = _wordsFolder + 'count/'
+    _tfFolder = _wordsFolder + 'tf/'
+    _idfFolder = _wordsFolder + 'idf/'
+    _tfidfFolder = _wordsFolder + 'tfidf/'
 
 
     def exportPoints(self, filepath, Xs, Ys, Zs):
@@ -90,7 +93,7 @@ class FilesIO:
         except FileNotFoundError as err:
             print(err)
         try:
-            os.remove(self._wordsFolder + filename + '.txt')
+            os.remove(self._featureFolder + filename + '.txt')
         except FileNotFoundError as err:
             print(err)
         try:
@@ -98,7 +101,15 @@ class FilesIO:
         except FileNotFoundError as err:
             print(err)
         try:
-            os.remove(self._frequenciesFolder + filename + '.txt')
+            os.remove(self._tfFolder + filename + '.txt')
+        except FileNotFoundError as err:
+            print(err)
+        try:
+            os.remove(self._idfFolder + filename + '.txt')
+        except FileNotFoundError as err:
+            print(err)
+        try:
+            os.remove(self._tfidfFolder + filename + '.txt')
         except FileNotFoundError as err:
             print(err)
 

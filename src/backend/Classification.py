@@ -32,6 +32,8 @@ class Classification:
         """
 
         """
+        documentList.calculateDocumentFrequencies()
+        documentList.compileAllFeatures()
         documents = documentList.getDocuments()
         trainDocuments = documentList.getTrainTestDocuments(0)
         testDocuments = documentList.getTrainTestDocuments(1)
@@ -89,7 +91,7 @@ class Classification:
         X = np.zeros((len(documents), len(allFeatures)))
         Y = []
         for (r, document) in enumerate(documents):
-            for (w, f) in document.getCount().getFeaturesTfidfZip():
+            for (w, f) in document.getCount().getFeaturesCountZip():
                 X[r][allFeatures.index(w)] = f
             Y.append(document.getClassInformation().getGt())
         return X, Y
@@ -163,11 +165,11 @@ class Classification:
             Xtrain = np.empty((len(trainIndexes), Xall.shape[1]))
             Ytest = []
             Ytrain = []
-            for i, n in enumerate(testIndexes):
-                Xtest[i,:] = Xall[n,:]
+            for j, n in enumerate(testIndexes):
+                Xtest[j,:] = Xall[n,:]
                 Ytest.append(Yall[n])
-            for i, n in enumerate(trainIndexes):
-                Xtrain[i:,] = Xall[n,:]
+            for j, n in enumerate(trainIndexes):
+                Xtrain[j,:] = Xall[n,:]
                 Ytrain.append(Yall[n])
 
             print("training data")

@@ -84,14 +84,18 @@ class Graph:
         user_creator_IP = []
         user_creator = []
         for document in self._testDocuments:
-            if document.getClassInformation().getGt():
-                date_IP.append(mdates.date2num(document.getPDFmetadata().getDate()))
-                hr_ip_IP.append(document.getClassInformation().getIpRat() - document.getClassInformation().getHrRat())
-                user_creator_IP.append(document.getClassInformation().getCreatorRat() - document.getClassInformation().getUserRat())
-            else:
-                date_HR.append(mdates.date2num(document.getPDFmetadata().getDate()))
-                hr_ip_HR.append(document.getClassInformation().getIpRat() - document.getClassInformation().getHrRat())
-                user_creator_HR.append(document.getClassInformation().getCreatorRat() - document.getClassInformation().getUserRat())
+            try:
+                if document.getClassInformation().getGt():
+                    date_IP.append(mdates.date2num(document.getPDFmetadata().getDate()))
+                    hr_ip_IP.append(document.getClassInformation().getIpRat() - document.getClassInformation().getHrRat())
+                    user_creator_IP.append(document.getClassInformation().getCreatorRat() - document.getClassInformation().getUserRat())
+                else:
+                    date_HR.append(mdates.date2num(document.getPDFmetadata().getDate()))
+                    hr_ip_HR.append(document.getClassInformation().getIpRat() - document.getClassInformation().getHrRat())
+                    user_creator_HR.append(document.getClassInformation().getCreatorRat() - document.getClassInformation().getUserRat())
+            except AttributeError as err:
+                print(document.getFilename())
+                print(err)
         date.append(date_HR)
         date.append(date_IP)
         hr_ip.append(hr_ip_HR)
@@ -114,6 +118,7 @@ class Graph:
         Ls = ['Human Rights Journal Article', 'Intellectual Property Journal Article']
         for i in range(len(self._Xs)):
             ax.scatter(self._Xs[i], self._Ys[i], self._Zs[i], s=40, marker='o', c=Cs[i], label=Ls[i])
+            print(len(self._Xs[i]))
 
         fig.legend()
 
@@ -158,11 +163,11 @@ class Graph:
             sc = ax.scatter(self._Xs[i], self._Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
             self._scs.append(sc)
 
-        hrTrend = Trend(0, "Human Rights", "Intellectual Property", self._Xs[0], self._Ys[0])
+        hrTrend = Trend(0, "Intellectual Property", "Human Rights", self._Xs[0], self._Ys[0])
         ax.plot(hrTrend.getX(), hrTrend.getY(), '-r')
         self._trends.append(hrTrend)
 
-        ipTrend = Trend(1, "Human Rights", "Intellectual Property", self._Xs[1], self._Ys[1])
+        ipTrend = Trend(1, "Intellectual Property", "Human Rights", self._Xs[1], self._Ys[1])
         ax.plot(ipTrend.getX(), ipTrend.getY(), '-b')
         self._trends.append(ipTrend)
 
@@ -221,11 +226,11 @@ class Graph:
             self._scs.append(sc)
 
 
-        hrTrend = Trend(0, "User", "Creator", self._Xs[0], self._Ys[0])
+        hrTrend = Trend(0, "Creator", "User", self._Xs[0], self._Ys[0])
         ax.plot(hrTrend.getX(), hrTrend.getY(), '-r')
         self._trends.append(hrTrend)
 
-        ipTrend = Trend(1, "User", "Creator", self._Xs[1], self._Ys[1])
+        ipTrend = Trend(1, "Creator", "User", self._Xs[1], self._Ys[1])
         ax.plot(ipTrend.getX(), ipTrend.getY(), '-b')
         self._trends.append(ipTrend)
 

@@ -20,7 +20,6 @@ class DocumentList:
         """
         self._documents = []
         self.__processDocumentsFromRecords()
-        self._allFeatures = self.__compileAllFeatures()
         self._graphs = []
         self._classification = Classification()
         self.performVisualisations()
@@ -88,7 +87,7 @@ class DocumentList:
         return documents
 
 
-    def __calculateDocumentFrequencies(self):
+    def calculateDocumentFrequencies(self):
         """
 
         """
@@ -97,17 +96,16 @@ class DocumentList:
                 self.__getDocumentsWordLists())
 
 
-    def __compileAllFeatures(self):
+    def compileAllFeatures(self):
         """
 
         """
-        allFeatures = []
+        self._allFeatures = []
         for document in self._documents:
             words = document.getCount().getFeatures()
             for word in words:
-                if word not in allFeatures:
-                    allFeatures.append(word)
-        return allFeatures
+                if word not in self._allFeatures:
+                    self._allFeatures.append(word)
 
 
     def __processDocumentsFromRecords(self):
@@ -120,7 +118,6 @@ class DocumentList:
             document = Document(filename, title, journal, date, test, hrRat, \
                 ipRat, userRat, creatorRat)
             self._documents.append(document)
-        self.__calculateDocumentFrequencies()
 
 
     def __getDocumentsWordLists(self):
