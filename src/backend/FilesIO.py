@@ -149,9 +149,11 @@ class FilesIO:
 
         """
         testScore = classification.getTestScore()
+        tp, tn, fp, fn = classification.getTFPNs()
         crossValScore = classification.getCrossValScore()
         table = []
         table.append(str(testScore))
+        table.append("%s,%s,%s,%s" % (tp, tn, fp, fn))
         table.append(",".join(str(x) for x in crossValScore))
         newFile = open(self._evaluationsFile, 'w', errors='replace')
         newFile.write("\n".join(table))
@@ -169,13 +171,20 @@ class FilesIO:
             testScore = float(line0.replace('\n', ''))
             line1 = lines[1]
             line1 = line1.replace('\n', '')
-            for val in line1.split(','):
+            tpStr, tnStr, fpStr, fnStr = line1.split(',')
+            tp = int(tpStr)
+            tn = int(tnStr)
+            fp = int(fpStr)
+            fn = int(fnStr)
+            line2 = lines[2]
+            line2 = line2.replace('\n', '')
+            for val in line2.split(','):
                 crossValScore.append(float(val))
         except FileNotFoundError as err:
             print(err)
             testScore = 0
             crossValScore.append(0.0)
-        return testScore, crossValScore
+        return testScore, crossValScore, tp, tn, fp, fn
 
 
     def txtFileToString(self, path):

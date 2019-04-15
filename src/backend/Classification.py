@@ -25,7 +25,7 @@ class Classification:
         """
 
         """
-        self._testScore, self._crossValScore = self.io.retrieveEvaluationData()
+        self._testScore, self._crossValScore, self._tp, self._tn, self._fp, self._fn = self.io.retrieveEvaluationData()
 
 
     def classifyDocuments(self, documentList):
@@ -73,6 +73,12 @@ class Classification:
 
         """
         return self._crossValScore
+
+    def getTFPNs(self):
+        """
+
+        """
+        return self._tp, self._tn, self._fp, self._fn
 
 
     def __formulateXY(self, documents, documentList):
