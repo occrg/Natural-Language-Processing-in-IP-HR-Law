@@ -9,7 +9,7 @@ import numpy as np
 """
 class Trend:
 
-    _statSigLimit = 0.1
+    _statSigLimit = 0.05
 
 
     def __init__(self, gt, highCategory, lowCategory, Xs, Ys):

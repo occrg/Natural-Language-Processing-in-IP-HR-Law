@@ -118,7 +118,6 @@ class Graph:
         Ls = ['Human Rights Journal Article', 'Intellectual Property Journal Article']
         for i in range(len(self._Xs)):
             ax.scatter(self._Xs[i], self._Ys[i], self._Zs[i], s=40, marker='o', c=Cs[i], label=Ls[i])
-            print(len(self._Xs[i]))
 
         fig.legend()
 

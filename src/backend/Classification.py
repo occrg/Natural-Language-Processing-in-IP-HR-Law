@@ -1,6 +1,7 @@
 import random
 import math
 from sklearn import svm
+from sklearn.naive_bayes import GaussianNB
 import numpy as np
 from sklearn.model_selection import cross_val_score
 
@@ -48,16 +49,13 @@ class Classification:
         self.__assignProbabilities(probsTest, testDocuments)
         print("calculating score")
         self._tp, self._tn, self._fp, self._fn = self.__evaluateClassification(probsTest, Ytest)
-        self._testScore = self.__percentageCorrect(self._tp, self._tn, self._fp, self._fn)
+        self._testScore = self.__balancedAccuracy(self._tp, self._tn, self._fp, self._fn)
         print("user creator")
         self.__userCreatorRatings(testDocuments)
         print("formulating XYall")
-        Xall = np.append(Xtrain, Xtest, axis=0)
-        Yall = Ytrain.copy()
-        Yall.extend(Ytest)
-        print("cross validating")
-        self._crossValScore =                                                \
-            self.__crossValidation(Xall, Yall, 4)
+        self._Xall = np.append(Xtrain, Xtest, axis=0)
+        self._Yall = Ytrain.copy()
+        self._Yall.extend(Ytest)
         print("output")
         for document in documents:
             self.io.outputDocumentData(document)
@@ -102,6 +100,7 @@ class Classification:
 
         """
         clf = svm.SVC(gamma='scale', probability=True)
+        # clf = MultinomialNB()
         clf.fit(X, Y)
         return clf
 
@@ -112,6 +111,7 @@ class Classification:
         for (r, document) in enumerate(testDocuments):
             document.getClassInformation().setHrRat(probabilities[r][0])
             document.getClassInformation().setIpRat(probabilities[r][1])
+
 
     def __evaluateClassification(self, probsTest, Ytest):
         """
@@ -132,21 +132,30 @@ class Classification:
                 fp += 1
         return tp, tn, fp, fn
 
-    def __percentageCorrect(self, tp, tn, fp, fn):
+    def __accuracy(self, tp, tn, fp, fn):
         """
 
         """
         return (tp + tn) / (tp + tn + fp + fn)
 
 
-    def __crossValidation(self, Xall, Yall, split):
+    def __balancedAccuracy(self, tp, tn, fp, fn):
+        """
+
+        """
+        tpr = tp / (tp + fn)
+        tnr = tn / (tn + fp)
+        return (tpr + tnr) / 2
+
+
+    def calculateCrossValScores(self, split):
         """
 
         """
         crossValScore = []
-        allIndexes = list(range(len(Xall)))
+        allIndexes = list(range(len(self._Xall)))
         remainingIndexes = allIndexes.copy()
-        testNum = math.floor(len(Xall) / split)
+        testNum = math.floor(len(self._Xall) / split)
         for i in range(split):
             print("\ncalculating score %d" % i)
             if i == split-1:
@@ -161,16 +170,16 @@ class Classification:
                     testIndexes.append(ele)
                     trainIndexes.remove(ele)
                     remainingIndexes.remove(ele)
-            Xtest = np.empty((len(testIndexes), Xall.shape[1]))
-            Xtrain = np.empty((len(trainIndexes), Xall.shape[1]))
+            Xtest = np.empty((len(testIndexes), self._Xall.shape[1]))
+            Xtrain = np.empty((len(trainIndexes), self._Xall.shape[1]))
             Ytest = []
             Ytrain = []
             for j, n in enumerate(testIndexes):
-                Xtest[j,:] = Xall[n,:]
-                Ytest.append(Yall[n])
+                Xtest[j,:] = self._Xall[n,:]
+                Ytest.append(self._Yall[n])
             for j, n in enumerate(trainIndexes):
-                Xtrain[j,:] = Xall[n,:]
-                Ytrain.append(Yall[n])
+                Xtrain[j,:] = self._Xall[n,:]
+                Ytrain.append(self._Yall[n])
 
             print("training data")
             clf = self.__trainData(Xtrain, Ytrain)
@@ -178,8 +187,9 @@ class Classification:
             probsTest = clf.predict_proba(Xtest)
             print("calculating score")
             tp, tn, fp, fn = self.__evaluateClassification(probsTest, Ytest)
-            crossValScore.append(self.__percentageCorrect(tp, tn, fp, fn))
-        return crossValScore
+            crossValScore.append(self.__balancedAccuracy(tp, tn, fp, fn))
+        self._crossValScore = crossValScore
+        self.io.outputEvaluationData(self)
 
 
     def __userCreatorRatings(self, documents):
