@@ -69,7 +69,7 @@ class PDFmetadata:
 
         """
         journal, period = self.converter.extractJournalFromText(journal, pdfText.getPretext(), filename)
-        if pdfText.getText == "-":
+        if pdfText.getText() == "-":
             pdfText.cleanText(filename, journal)
         return journal, period
 

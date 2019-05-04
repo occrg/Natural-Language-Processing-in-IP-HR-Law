@@ -19,6 +19,7 @@ class FilesIO:
     _tfFolder = _wordsFolder + 'tf/'
     _idfFolder = _wordsFolder + 'idf/'
     _tfidfFolder = _wordsFolder + 'tfidf/'
+    _tfidfcfFolder = _wordsFolder + 'tfidfcf/'
 
 
     def exportPoints(self, filepath, Xs, Ys, Zs):
@@ -39,7 +40,7 @@ class FilesIO:
         """
         table = []
         table.append("filename,title,journal,date,test,hrRat,ipRat,userRat,creatorRat")
-        filePaths = self.__loadListOfFilePaths('data/pdf/')
+        filePaths = self.__loadListOfFilePaths(self._pdfFolder)
         for path in filePaths:
             root, filenameAndExt = path.rsplit('/', 1)
             filename, ext = filenameAndExt.split('.')
@@ -110,6 +111,10 @@ class FilesIO:
             print(err)
         try:
             os.remove(self._tfidfFolder + filename + '.txt')
+        except FileNotFoundError as err:
+            print(err)
+        try:
+            os.remove(self._tfidfcfFolder + filename + '.txt')
         except FileNotFoundError as err:
             print(err)
 

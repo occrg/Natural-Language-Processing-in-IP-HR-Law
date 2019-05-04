@@ -52,11 +52,15 @@ class HRIPEvalFrame:
 
 
     def __updateCrossValScores(self, classification):
-        crossValLabel = self._hripEval[-1]
-        crossValLabel.destroy()
-        self._hripEval.remove(crossValLabel)
-        classification.calculateCrossValScores(4)
-        crossVal = classification.getCrossValScore()
-        crossValLabel = Label(self._master, text="\nAverage success ratio across 4-fold cross validation: %f, %.3f, %.3f, %.3f" % (crossVal[0], crossVal[1], crossVal[2], crossVal[3]), font='Arial 12', bg="white", justify=LEFT, wraplength=940)
-        self._hripEval.append(crossValLabel)
-        crossValLabel.grid(row=self._tot+1, column=0, sticky="nw")
+        try:
+            classification.calculateCrossValScores(4)
+            crossValLabel = self._hripEval[-1]
+            crossValLabel.destroy()
+            self._hripEval.remove(crossValLabel)
+            crossVal = classification.getCrossValScore()
+            crossValLabel = Label(self._master, text="\nAverage success ratio across 4-fold cross validation: %f, %.3f, %.3f, %.3f" % (crossVal[0], crossVal[1], crossVal[2], crossVal[3]), font='Arial 12', bg="white", justify=LEFT, wraplength=940)
+            self._hripEval.append(crossValLabel)
+            crossValLabel.grid(row=self._tot+1, column=0, sticky="nw")
+        except AttributeError as err:
+            print(err)
+            print("Data must be trained once before it can be cross validated.")

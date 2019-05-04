@@ -20,6 +20,7 @@ class DocumentList:
         """
         self._documents = []
         self.__processDocumentsFromRecords()
+        self.calculateDocumentFrequencies() # TEMP
         self._graphs = []
         self._classification = Classification()
         self.performVisualisations()
@@ -86,14 +87,29 @@ class DocumentList:
                 documents.append(document)
         return documents
 
+    def getGtDocuments(self, gt):
+        documents = []
+        for document in self._documents:
+            if document.getClassInformation().getGt() == gt:
+                documents.append(document)
+        return documents
+
 
     def calculateDocumentFrequencies(self):
         """
 
         """
+        hrDocuments = self.getGtDocuments(0)
+        ipDocuments = self.getGtDocuments(1)
         for document in self._documents:
-            document.getCount().calculateTfidf(document.getFilename(),       \
-                self.__getDocumentsWordLists())
+            if document.getClassInformation().getGt():
+                document.getCount().calculateTfidfCf(document.getFilename(), \
+                    self.__getDocumentsWordLists(ipDocuments),               \
+                    self.__getDocumentsWordLists(hrDocuments))
+            else:
+                document.getCount().calculateTfidfCf(document.getFilename(), \
+                    self.__getDocumentsWordLists(hrDocuments),               \
+                    self.__getDocumentsWordLists(ipDocuments))
 
 
     def compileAllFeatures(self):
@@ -120,11 +136,11 @@ class DocumentList:
             self._documents.append(document)
 
 
-    def __getDocumentsWordLists(self):
+    def __getDocumentsWordLists(self, documents):
         """
 
         """
         wordLists = []
-        for document in self._documents:
+        for document in documents:
             wordLists.append(document.getCount().getFeatures())
         return wordLists

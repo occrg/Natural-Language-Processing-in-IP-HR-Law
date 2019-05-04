@@ -7,6 +7,22 @@ import math
 class FrequencyCalc:
 
 
+    def tfidfcf(self, tfidfZip, classWordLists):
+        """
+
+        """
+        tfidfcf = []
+        N = len(classWordLists)
+        for (w, f) in tfidfZip:
+            ncij = 0
+            for words in classWordLists:
+                if w in words:
+                    ncij += 1
+            v = f * (ncij / N)
+            tfidfcf.append(v)
+        return tfidfcf
+
+
     def tfidf(self, tf, idf):
         """
 
@@ -28,13 +44,13 @@ class FrequencyCalc:
             tf.append(int(n) / sum)
         return tf
 
-    def idf(self, wordCount, wordLists):
+    def idf(self, docWords, wordLists):
         """
 
         """
         idf = []
         N = len(wordLists)
-        for (w, n) in wordCount:
+        for w in docWords:
             nt = 0
             for words in wordLists:
                 if w in words:

@@ -89,7 +89,7 @@ class Classification:
         X = np.zeros((len(documents), len(allFeatures)))
         Y = []
         for (r, document) in enumerate(documents):
-            for (w, f) in document.getCount().getFeaturesCountZip():
+            for (w, f) in document.getCount().getFeaturesTfidfcfZip():
                 X[r][allFeatures.index(w)] = f
             Y.append(document.getClassInformation().getGt())
         return X, Y
