@@ -12,7 +12,7 @@ class App:
     def __init__(self):
         # self.io.fillDocumentRecords('data/store/documentDetails.csv')
         self._documentList = DocumentList()
-        self._ui = UI('IP-HR Analysis', self._documentList)
+        self._ui = UI('HR-IP Analysis', self._documentList)
 
 
 def main():

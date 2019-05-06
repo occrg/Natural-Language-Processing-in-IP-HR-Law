@@ -69,11 +69,11 @@ class DocumentList:
         usercreatorTrends.append(self._trends[2])
         usercreatorTrends.append(self._trends[3])
         graph3D = Graph('3D Graph', date, hr_ip, user_creator, noTrends, self)
-        graphIPHR = Graph('IP-HR/Time', date, hr_ip, user_creator,           \
+        graphIPHR = Graph('HR-IP/Time', date, hr_ip, user_creator,           \
             iphrTrends, self)
         graphUserCreator = Graph('User-Creator/Time', date, hr_ip,           \
             user_creator, usercreatorTrends, self)
-        graphIPHRUserCreator = Graph('User-Creator/IP-HR', date, hr_ip,      \
+        graphIPHRUserCreator = Graph('User-Creator/HR-IP', date, hr_ip,      \
             user_creator, noTrends, self)
 
 
