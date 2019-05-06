@@ -1,18 +1,20 @@
 from tkinter import *
-from tkinter import ttk, filedialog
+from tkinter import filedialog
 
 import shutil
 
-from frontend.tabs.VisualisationTab import VisualisationTab
-from frontend.tabs.ResultsTab import ResultsTab
-from frontend.popups.TestDataOptionsFrame import TestDataOptionsFrame
+from frontend.entry.TestDataOptionsFrame import TestDataOptionsFrame
+from frontend.visualisation.VisualisationTab import VisualisationTab
+from frontend.eval.EvalTab import EvalTab
+
 from backend.Document import Document
+from backend.TrendTools import TrendTools
 
 
 """
 
 """
-class ButtonFrame:
+class ButtonsFrame:
 
     _dataFolder = 'data/'
     _pdfFolder = _dataFolder + 'pdf/'
@@ -56,11 +58,11 @@ class ButtonFrame:
         """
 
         """
-        documentList.performClassifications()
-        documentList.performVisualisations()
+        documentList.generateClassifications()
+        documentList.trendAndVisualise()
         notebook = uiObj.getNotebook()
         notebook.forget(0)
         notebook.forget(0)
-        ResultsTab(uiObj.insertTab(0, 'Results'), documentList)
+        EvalTab(uiObj.insertTab(0, 'Results'), documentList)
         VisualisationTab(uiObj.insertTab(0, 'Visualisations'), documentList.getGraphs())
         notebook.select(0)

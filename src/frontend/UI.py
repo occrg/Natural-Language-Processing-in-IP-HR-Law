@@ -1,9 +1,9 @@
 from tkinter import *
 from tkinter import ttk
 
-from frontend.tabs.FormTab import FormTab
-from frontend.tabs.VisualisationTab import VisualisationTab
-from frontend.tabs.ResultsTab import ResultsTab
+from frontend.entry.EntryTab import EntryTab
+from frontend.visualisation.VisualisationTab import VisualisationTab
+from frontend.eval.EvalTab import EvalTab
 
 
 """
@@ -21,8 +21,8 @@ class UI:
         self._root.geometry("%dx%d+0+0" % (self._width, self._height))
         self._notebook = ttk.Notebook(self._root)
         self._visualisationObj = VisualisationTab(self.addTab('Visualisations'), documentList.getGraphs())
-        self._resultsObj = ResultsTab(self.addTab('Results'), documentList)
-        self._formObj = FormTab(self.addTab('Documents'), self, documentList)
+        self._resultsObj = EvalTab(self.addTab('Results'), documentList)
+        self._formObj = EntryTab(self.addTab('Documents'), self, documentList)
         self._root.mainloop()
 
 

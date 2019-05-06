@@ -93,7 +93,6 @@ class Count:
         """
         return list(zip(self._features, self._tfidfcf))
 
-
     def setFrequency(self, frequency):
         self._frequency = frequency
 

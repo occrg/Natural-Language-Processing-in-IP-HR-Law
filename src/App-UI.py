@@ -1,3 +1,4 @@
+from backend.FilesIO import FilesIO
 from backend.DocumentList import DocumentList
 from frontend.UI import UI
 
@@ -6,8 +7,10 @@ from frontend.UI import UI
 """
 class App:
 
+    io = FilesIO()
 
     def __init__(self):
+        # self.io.fillDocumentRecords('data/store/documentDetails.csv')
         self._documentList = DocumentList()
         self._ui = UI('IP-HR Analysis', self._documentList)
 

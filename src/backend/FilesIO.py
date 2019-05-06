@@ -9,7 +9,8 @@ class FilesIO:
     _dataFolder = 'data/'
     _storeFolder = _dataFolder + 'store/'
     _detailsFile = _storeFolder + 'documentDetails.csv'
-    _evaluationsFile = _storeFolder + 'evaluations.csv'
+    _visualisationEvaluationFile = _storeFolder + 'visualisationEvaluationData.csv'
+    _crossValEvauluationFile = _storeFolder + 'crossValEvaluationData.csv'
     _pdfFolder = _dataFolder + 'pdf/'
     _pretextFolder = _dataFolder + 'text/before/'
     _textFolder = _dataFolder + 'text/after/'
@@ -160,28 +161,26 @@ class FilesIO:
         newFile.write("\n".join(table))
         newFile.close()
 
-    def outputEvaluationData(self, classification):
+    def outputVisualisationEvaluationData(self, classification):
         """
 
         """
         testScore = classification.getTestScore()
         tp, tn, fp, fn = classification.getTFPNs()
-        crossValScore = classification.getCrossValScore()
         table = []
         table.append(str(testScore))
         table.append("%s,%s,%s,%s" % (tp, tn, fp, fn))
-        table.append(",".join(str(x) for x in crossValScore))
-        newFile = open(self._evaluationsFile, 'w', errors='replace')
+        newFile = open(self._visualisationEvaluationFile, 'w', errors='replace')
         newFile.write("\n".join(table))
         newFile.close()
 
-    def retrieveEvaluationData(self):
+    def retrieveVisualisationEvaluationData(self):
         """
 
         """
         crossValScore = []
         try:
-            file = open(self._evaluationsFile, 'r', errors='replace')
+            file = open(self._visualisationEvaluationFile, 'r', errors='replace')
             lines = file.readlines()
             line0 = lines[0]
             testScore = float(line0.replace('\n', ''))
@@ -192,16 +191,56 @@ class FilesIO:
             tn = int(tnStr)
             fp = int(fpStr)
             fn = int(fnStr)
-            line2 = lines[2]
-            line2 = line2.replace('\n', '')
-            for val in line2.split(','):
-                crossValScore.append(float(val))
         except FileNotFoundError as err:
             print(err)
             testScore = 0
-            crossValScore.append(0.0)
-        return testScore, crossValScore, tp, tn, fp, fn
+            tp = 0
+            tn = 0
+            fp = 0
+            fn = 0
+        return testScore, tp, tn, fp, fn
 
+    def outputCrossValEvaluationData(self, crossValidation):
+        """
+
+        """
+        table = []
+        crossValScore = crossValidation.getCrossValScore()
+        trendsCrossVal = crossValidation.getTrendsCrossVal()
+        table.append(",".join(str(x) for x in crossValScore))
+        for trend in trendsCrossVal:
+            table.append(",".join(str(x) for x in trend))
+        newFile = open(self._crossValEvauluationFile, 'w', errors='replace')
+        newFile.write("\n".join(table))
+        newFile.close()
+
+    def retrieveCrossValEvaluationData(self):
+        """
+
+        """
+        crossValScore = []
+        trendsCrossVal = []
+        try:
+            file = open(self._crossValEvauluationFile, 'r', errors='replace')
+            lines = file.readlines()
+            line0 = lines[0]
+            line0 = line0.replace('\n', '')
+            for val in line0.split(','):
+                crossValScore.append(float(val))
+            for line in lines[1:]:
+                trend = []
+                for val in line.split(','):
+                    trend.append(float(val))
+                trendsCrossVal.append(trend)
+
+        except FileNotFoundError as err:
+            print(err)
+            crossValScore.append(0.0)
+            trendsCrossVal.append([0.0])
+            trendsCrossVal.append([0.0])
+            trendsCrossVal.append([0.0])
+            trendsCrossVal.append([0.0])
+        return crossValScore, trendsCrossVal
 
     def txtFileToString(self, path):
         """

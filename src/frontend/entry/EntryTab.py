@@ -1,14 +1,14 @@
 from tkinter import *
 from tkinter import ttk
 
-from frontend.frames.EntryHeaderFrame import EntryHeaderFrame
-from frontend.frames.ButtonFrame import ButtonFrame
+from frontend.entry.EntryHeaderFrame import EntryHeaderFrame
+from frontend.entry.ButtonsFrame import ButtonsFrame
 
 
 """
 
 """
-class FormTab:
+class EntryTab:
     def __init__(self, master, uiObj, documentList):
         """
 
@@ -27,4 +27,4 @@ class FormTab:
 
         self._entryHeaderObject = EntryHeaderFrame(self._entryHeaderFrame, documentList)
         entryObj = self._entryHeaderObject.getEntryObject()
-        self._buttonFooterObject = ButtonFrame(self._buttonFrame, entryObj, uiObj, documentList)
+        self._buttonFooterObject = ButtonsFrame(self._buttonFrame, entryObj, uiObj, documentList)

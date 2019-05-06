@@ -1,7 +1,6 @@
 from tkinter import *
-from tkinter import ttk
 
-from frontend.frames.VisualisationFrame import VisualisationFrame
+from frontend.visualisation.VisualisationFrame import VisualisationFrame
 
 
 """

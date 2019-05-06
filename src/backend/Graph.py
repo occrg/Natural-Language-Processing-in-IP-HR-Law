@@ -7,7 +7,6 @@ import numpy as np
 from scipy import stats
 
 from backend.FilesIO import FilesIO
-from backend.Trend import Trend
 
 
 """
@@ -16,15 +15,24 @@ from backend.Trend import Trend
 class Graph:
 
 
-    def __init__(self, title, documentList):
+    def __init__(self, title, date, hr_ip, user_creator, trends,             \
+        documentList):
         """
 
         """
         self._title = title
-        self._testDocuments = documentList.getTrainTestDocuments(1)
-        self._date, self._hr_ip, self._user_creator = self.__gatherData()
-        self._indexDict = self.__compileIndexDict()
-        self._trends = []
+        self._trends = trends
+        self._indexDict =                                                    \
+            self.__compileIndexDict(documentList.getTrainTestDocuments(1))
+        if title == '3D Graph':
+            self.__create3dGraph(date, hr_ip, user_creator)
+        elif title == 'IP-HR/Time':
+            self.__createIPHRgraph(date, hr_ip, trends)
+        elif title == 'User-Creator/Time':
+            self.__createUserCreatorGraph(date, user_creator, trends)
+        elif title == 'User-Creator/IP-HR':
+            self.__createIPHRUserCreatorGraph(hr_ip, user_creator)
+        documentList.addGraph(self)
 
 
     def getTitle(self):
@@ -57,67 +65,16 @@ class Graph:
         """
         return self._trends
 
-    def getIndependentVar(self):
+    def __create3dGraph(self, Xs, Ys, Zs):
         """
 
         """
-        return self._independentVar
-
-    def getDependentVar(self):
-        """
-
-        """
-        return self._dependentVar
-
-
-    def __gatherData(self):
-        """
-
-        """
-        date_HR = []
-        date_IP = []
-        date = []
-        hr_ip_HR = []
-        hr_ip_IP = []
-        hr_ip = []
-        user_creator_HR = []
-        user_creator_IP = []
-        user_creator = []
-        for document in self._testDocuments:
-            try:
-                if document.getClassInformation().getGt():
-                    date_IP.append(mdates.date2num(document.getPDFmetadata().getDate()))
-                    hr_ip_IP.append(document.getClassInformation().getIpRat() - document.getClassInformation().getHrRat())
-                    user_creator_IP.append(document.getClassInformation().getCreatorRat() - document.getClassInformation().getUserRat())
-                else:
-                    date_HR.append(mdates.date2num(document.getPDFmetadata().getDate()))
-                    hr_ip_HR.append(document.getClassInformation().getIpRat() - document.getClassInformation().getHrRat())
-                    user_creator_HR.append(document.getClassInformation().getCreatorRat() - document.getClassInformation().getUserRat())
-            except AttributeError as err:
-                print(document.getFilename())
-                print(err)
-        date.append(date_HR)
-        date.append(date_IP)
-        hr_ip.append(hr_ip_HR)
-        hr_ip.append(hr_ip_IP)
-        user_creator.append(user_creator_HR)
-        user_creator.append(user_creator_IP)
-        return date, hr_ip, user_creator
-
-
-    def create3dGraph(self):
-        """
-
-        """
-        self._Xs = self._date
-        self._Ys = self._hr_ip
-        self._Zs = self._user_creator
         fig = Figure()
         ax = Axes3D(fig)
-        Cs = ['Red', 'Blue']
+        Cs = ['r', 'b']
         Ls = ['Human Rights Journal Article', 'Intellectual Property Journal Article']
-        for i in range(len(self._Xs)):
-            ax.scatter(self._Xs[i], self._Ys[i], self._Zs[i], s=40, marker='o', c=Cs[i], label=Ls[i])
+        for i in range(len(Xs)):
+            ax.scatter(Xs[i], Ys[i], Zs[i], s=40, marker='o', c=Cs[i], label=Ls[i])
 
         fig.legend()
 
@@ -144,32 +101,19 @@ class Graph:
         self._fig = fig
 
 
-    def createIPHRgraph(self):
+    def __createIPHRgraph(self, Xs, Ys, trends):
         """
 
         """
-        self._Xs = self._date
-        self._Ys = self._hr_ip
-        self._independentVar = "Date of Publication"
-        self._dependentVar = "HR-IP Scale"
-
         fig = plt.figure()
         ax = plt.axes()
-        Cs = ['Red', 'Blue']
+        Cs = ['r', 'b']
         Ls = ['Human Rights Journal Article', 'Intellectual Property Journal Article']
         self._scs = []
-        for i in range(len(self._Xs)):
-            sc = ax.scatter(self._Xs[i], self._Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
+        for i in range(len(Xs)):
+            sc = ax.scatter(Xs[i], Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
+            ax.plot(trends[i].getX(), trends[i].getY(), '-%s' % Cs[i])
             self._scs.append(sc)
-
-        hrTrend = Trend(0, "Intellectual Property", "Human Rights", self._Xs[0], self._Ys[0])
-        ax.plot(hrTrend.getX(), hrTrend.getY(), '-r')
-        self._trends.append(hrTrend)
-
-        ipTrend = Trend(1, "Intellectual Property", "Human Rights", self._Xs[1], self._Ys[1])
-        ax.plot(ipTrend.getX(), ipTrend.getY(), '-b')
-        self._trends.append(ipTrend)
-
 
         self._annot = ax.annotate("", xy=(0,0), xytext=(10,10),textcoords="offset points",
                             bbox=dict(boxstyle="round", alpha=0.9,edgecolor=[0,0.733,0.839], fc="w"),
@@ -187,8 +131,8 @@ class Graph:
 
         plt.legend()
 
-        ax.set_xlabel(self._independentVar, fontsize='large', fontweight='bold')
-        ax.set_ylabel(self._dependentVar, fontsize='large', fontweight='bold')
+        ax.set_xlabel("Date of Publication", fontsize='large', fontweight='bold')
+        ax.set_ylabel("IP-HR Scale", fontsize='large', fontweight='bold')
         years = mdates.YearLocator()
         months = mdates.MonthLocator()
         yearsFmt = mdates.DateFormatter('%Y')
@@ -205,34 +149,20 @@ class Graph:
         self._fig = fig
 
 
-    def createUserCreatorGraph(self):
+    def __createUserCreatorGraph(self, Xs, Ys, trends):
         """
 
         """
-        self._Xs = self._date
-        self._Ys = self._user_creator
-        self._independentVar = "Date of Publication"
-        self._dependentVar = "User-Creator Scale"
-
         fig = plt.figure()
         ax = plt.axes()
-        Cs = ['Red', 'Blue']
+        Cs = ['r', 'b']
         Ls = ['Human Rights Journal Article', 'Intellectual Property Journal Article']
 
         self._scs = []
-        for i in range(len(self._Xs)):
-            sc = ax.scatter(self._Xs[i], self._Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
+        for i in range(len(Xs)):
+            sc = ax.scatter(Xs[i], Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
+            ax.plot(trends[i].getX(), trends[i].getY(), '-%s' % Cs[i])
             self._scs.append(sc)
-
-
-        hrTrend = Trend(0, "Creator", "User", self._Xs[0], self._Ys[0])
-        ax.plot(hrTrend.getX(), hrTrend.getY(), '-r')
-        self._trends.append(hrTrend)
-
-        ipTrend = Trend(1, "Creator", "User", self._Xs[1], self._Ys[1])
-        ax.plot(ipTrend.getX(), ipTrend.getY(), '-b')
-        self._trends.append(ipTrend)
-
 
         self._annot = ax.annotate("", xy=(0,0), xytext=(10,10),textcoords="offset points",
                             bbox=dict(boxstyle="round", alpha=0.9,edgecolor=[0,0.733,0.839], fc="w"),
@@ -247,8 +177,8 @@ class Graph:
         ax.xaxis.tick_bottom()
 
         plt.legend()
-        ax.set_xlabel(self._independentVar, fontsize='large', fontweight='bold')
-        ax.set_ylabel(self._dependentVar, fontsize='large', fontweight='bold')
+        ax.set_xlabel("Date of Publication", fontsize='large', fontweight='bold')
+        ax.set_ylabel("User-Creator Scale", fontsize='large', fontweight='bold')
         years = mdates.YearLocator()
         months = mdates.MonthLocator()
         yearsFmt = mdates.DateFormatter('%Y')
@@ -266,30 +196,24 @@ class Graph:
         self._fig = fig
 
 
-    def createIPHRUserCreatorGraph(self):
+    def __createIPHRUserCreatorGraph(self, Xs, Ys):
         """
 
         """
-        self._Xs = self._hr_ip
-        self._Ys = self._user_creator
-        self._independentVar = "HR-IP Scale"
-        self._dependentVar = "User-Creator Scale"
-
         fig = plt.figure()
         ax = plt.axes()
-        Cs = ['Red', 'Blue']
+        Cs = ['r', 'b']
         Ls = ['Human Rights Journal Article', 'Intellectual Property Journal Article']
 
         self._scs = []
-        for i in range(len(self._Xs)):
-            sc = ax.scatter(self._Xs[i], self._Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
+        for i in range(len(Xs)):
+            sc = ax.scatter(Xs[i], Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
             self._scs.append(sc)
 
         self._annot = ax.annotate("", xy=(0,0), xytext=(10,10),textcoords="offset points",
                             bbox=dict(boxstyle="round", alpha=0.9,edgecolor=[0,0.733,0.839], fc="w"),
                             arrowprops=dict(arrowstyle="->"))
         self._annot.set_visible(False)
-
 
         ax.spines['left'].set_position(('zero'))
         ax.spines['right'].set_color('none')
@@ -299,11 +223,8 @@ class Graph:
         ax.xaxis.tick_bottom()
 
         plt.legend()
-        ax.set_xlabel(self._independentVar, fontsize='large', fontweight='bold')
-        ax.set_ylabel(self._dependentVar, fontsize='large', fontweight='bold')
-        years = mdates.YearLocator()
-        months = mdates.MonthLocator()
-        yearsFmt = mdates.DateFormatter('%Y')
+        ax.set_xlabel("IP-HR Scale", fontsize='large', fontweight='bold')
+        ax.set_ylabel("User-Creator Scale", fontsize='large', fontweight='bold')
         ax.tick_params(axis='x', labelrotation=45, which='major', pad=0)
         ax.tick_params(axis='y', labelrotation=45, which='major', pad=0)
         ax.xaxis.labelpad = 10
@@ -347,13 +268,12 @@ class Graph:
         self._annot.set_text(text)
 
 
-    def __compileIndexDict(self):
+    def __compileIndexDict(self, testDocuments):
         """
 
         """
         indexDict = {}
-        for c, document in enumerate(self._testDocuments):
-            index = self._testDocuments
+        for c, document in enumerate(testDocuments):
             classInfo = document.getClassInformation()
             hr_ip = classInfo.getIpRat() - classInfo.getHrRat()
             user_creator = classInfo.getCreatorRat() - classInfo.getUserRat()

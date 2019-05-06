@@ -1,8 +1,6 @@
 import statsmodels.api as sm
-from scipy import stats
-from sklearn import linear_model
-
 import numpy as np
+
 
 """
 
@@ -12,13 +10,16 @@ class Trend:
     _statSigLimit = 0.05
 
 
-    def __init__(self, gt, highCategory, lowCategory, Xs, Ys):
+    def __init__(self, gt, highCategory, lowCategory, independentVar,        \
+        dependentVar, Xs, Ys):
         """
 
         """
         self._gt = gt
         self._highCategory = highCategory
         self._lowCategory = lowCategory
+        self._independentVar = independentVar
+        self._dependentVar = dependentVar
         XsO = sm.add_constant(Xs)
         model = sm.RLM(Ys, XsO, m=sm.robust.norms.LeastSquares)
         results = model.fit()
@@ -77,3 +78,15 @@ class Trend:
 
         """
         return self._lowCategory
+
+    def getIndependentVar(self):
+        """
+
+        """
+        return self._independentVar
+
+    def getDependentVar(self):
+        """
+
+        """
+        return self._dependentVar

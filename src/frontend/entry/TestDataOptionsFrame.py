@@ -1,5 +1,4 @@
 from tkinter import *
-from tkinter import ttk
 
 from backend.FilesIO import FilesIO
 
@@ -26,10 +25,10 @@ class TestDataOptionsFrame:
 
 
 
-        randomSelectButton = ttk.Button(popup, text="Random Selection", command=lambda: entryObj.assignTestInstances(0.25))
-        selectAllButton = ttk.Button(popup, text="Select All", command=lambda: entryObj.assignTestInstances(1))
-        deselectAllButton = ttk.Button(popup, text="Deselect All", command=lambda: entryObj.assignTestInstances(0))
-        doneButton = ttk.Button(popup, text="Done", command = popup.destroy)
+        randomSelectButton = Button(popup, text="Random Selection", command=lambda: entryObj.assignTestInstances(0.25))
+        selectAllButton = Button(popup, text="Select All", command=lambda: entryObj.assignTestInstances(1))
+        deselectAllButton = Button(popup, text="Deselect All", command=lambda: entryObj.assignTestInstances(0))
+        doneButton = Button(popup, text="Done", command = popup.destroy)
 
         randomSelectButton.grid(row=0, sticky="n")
         selectAllButton.grid(row=1, sticky="n")

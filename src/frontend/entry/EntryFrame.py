@@ -1,9 +1,8 @@
 from tkinter import *
-from tkinter import ttk
 
 import random
 
-from frontend.components.EntryRow import EntryRow
+from frontend.entry.EntryRow import EntryRow
 
 
 """

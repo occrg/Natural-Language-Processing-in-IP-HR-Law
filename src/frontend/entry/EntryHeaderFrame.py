@@ -1,8 +1,8 @@
 from tkinter import *
 from tkinter import ttk
 
-from frontend.frames.HeaderFrame import HeaderFrame
-from frontend.frames.EntryFrame import EntryFrame
+from frontend.entry.HeaderFrame import HeaderFrame
+from frontend.entry.EntryFrame import EntryFrame
 
 
 """
