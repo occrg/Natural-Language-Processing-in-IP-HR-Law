@@ -99,7 +99,7 @@
 		\subsection{Language Features}\label{litrev-langfet}
 			In natural language processing, each document is represented as a set of features where each feature is given a value. The simplest set of features a document can have is the set of unique words that appear in the document. This is known as the bag of words model. It has the benefit of having dense feature spaces, meaning that there is a low number of features which reoccur many times in the document. Dense feature spaces are more computationally efficient than sparse feature spaces. However, bag of words is limited in that these features are less capable of conveying the document's meaning. For example, Wallach points out that the phrase “the department chair couches oﬀers” has a diﬀerent topic to “the chair department oﬀers couches”, yet a bag of words model will represent them as the same\cite{beyond_bag_wallach}. This sort of ambiguity would clearly give inaccurate results so it is worth using a feature a bit more resource heavy that provides more accuracy.  
 
-			The most common feature used is an n-gram model. This is where $n$ words are taken as the feature, giving each feature context. For example, a 5-gram would have the capability to distinguish between the above examples. However, the higher n is the less computationally efficient the processing will be and Tan et al found that the pay-off in computational efficiency was not worth it for n=3 but was for n=2[TAN]. There are methods to improve computational efficiency, such as filtering out all features that do not meet some threshold. Tan et al's found that filtering out all features that appeared in less than three documents or less than 0.5\% of documents helped sufficiently. Implementing bigrams and combining them with the documents' unigrams, resulted in an average F1-score improvement of 0.03 on the Reuters datasets\cite{bigrams_enhance_categorisation}. 
+			The most common feature used is an n-gram model. This is where $n$ words are taken as the feature, giving each feature context. For example, a 5-gram would have the capability to distinguish between the above examples. However, the higher n is the less computationally efficient the processing will be and Tan et al found that the pay-off in computational efficiency was not worth it for n=3 but was for n=2\cite{bigrams_enhance_tan}. There are methods to improve computational efficiency, such as filtering out all features that do not meet some threshold. Tan et al's found that filtering out all features that appeared in less than three documents or less than 0.5\% of documents helped sufficiently. Implementing bigrams and combining them with the documents' unigrams, resulted in an average F1-score improvement of 0.03 on the Reuters datasets\cite{bigrams_enhance_tan}. 
 
 			Alongside changing the type of features, the way that features are counted can be changed. The simplest form of this is counting the features as binary, representing a feature as 1 if it occurs in a document and 0 if it does not. Another simple count is to represent a feature by the number of times it occurs in a document. This method gives more influence to longer documents. Term frequency, shown in Equation \ref{equ:tf}, solves this by dividing the term count by the total number of words in the document. Inverse document frequency, shown in Equation \ref{equ:idf}, gives a higher weight to words that appear in low amounts of words. Term frequency-inverse document frequency (tf-idf) is a combination of its namesake methods, shown in Equation \ref{equ:tfidf}. Lan et al investigate these methods and variants of them and find that term frequency performs better than tf-idf frequency for the Reuters dataset despite tf-idf being the standard.
 			
@@ -113,7 +113,7 @@
 				tf\textnormal{-}idf = tf * idf
 			\end{equation}
 			
-			Liu and Yang proposed a simple improvement to tf-idf named term frequency-inverse document frequency-class frequency (tf-idf-cf), shown in Equation \ref{equ:tfidfcf} this adds weight to a term if it commonly occurs in the document's class. This gave a 0.08 accuracy improvement over tf-idf on the Reuters dataset.
+			Liu and Yang proposed a simple improvement to tf-idf named term frequency-inverse document frequency-class frequency (tf-idf-cf), shown in Equation \ref{equ:tfidfcf}\cite{tfidfcf_categorization_liu}. This adds weight to a term if it commonly occurs in the document's class. This gave a 0.08 accuracy improvement over tf-idf on the Reuters dataset.
 			\begin{equation}\label{equ:tfidfcf}
 				tf\textnormal{-}idf\textnormal{-}cf = tfidf * \frac{n_{cij}}{N_{ci}}
 			\end{equation}
@@ -198,7 +198,7 @@
 				\item Capacity limitations - people have a limited capacity to retain and process informations so too much information can cause important information to be lost. This is why it's important either to limit information in a visualisation or to prioritise the most important information according to Healey's processing order, for example.
 			\end{itemize}
 	\section{Usability}
-		\subsection{User Interface Heuristics}
+		\subsection{User Interface}
 			Nielsen collated his heuristics from existing sets of heuristics with the aim of creating a general set which is as good as possible at explaining the usability problems that occur in real systems\cite{usability_heuristics_nielsen}. These have been highly regarded since he finalised them in 1994. They are as follows: 
 			\begin{itemize}
 				\item The user must be kept informed of the system status;
@@ -214,7 +214,7 @@
 			\end{itemize}
 
 			Nielsen also presents how to measure the severity of usability problems. The severity of a problem is split into three categories: the frequency with which a problem occurs which is how commonly it occurs; the impact of when it occurs which is how easy it is to work around; and the persistence of the problem which is how frequently a user will be bothered by the problem. 
-		\subsection{Code Usability}
+		\subsection{Code Structure}
 			Spinellis outlines the best practices for readable code\cite{code_documentation_spinellis}. Notably, he explains that the 'Don't Repeat Yourself' principle means to write what the code is doing and not how in this context as the code itself shows how an action is done. He also highlights how code should be somewhat self-explanatory and therefore, bad code cannot be rectified with lengthy documentation and the code should be rewritten instead. There are many textbooks on the principles of writing readable and refactorable code. Most suggest using object oriented techniques for this\cite{software_craftsmanship_martin}.  
 
 			Python documentation is standardised by the Python Enhancement Proposals. PEP 8 and PEP 257 are useful for the readability of Python code as they supply a style guide for the code and documentation respectively\cite{pep_guido}. 
