@@ -25,7 +25,8 @@ class Count:
         """
 
         """
-        self._textList = self.tokeniser.splitByWord(text)
+        text = self.tokeniser.splitByWord(text)
+        self._textList = self.tokeniser.removeStopwords(text)
         self.__initialiseFeatures(filename)
         self.__initialiseCount(filename)
         self.__iniialiseTf(filename)

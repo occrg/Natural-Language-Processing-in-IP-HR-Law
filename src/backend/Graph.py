@@ -98,8 +98,8 @@ class Graph:
         ax.text(smallX, 0, bigZ, 'Creator', color=[0,0.733,0.839], fontsize=14, weight='bold')
 
         ax.set_xlabel("Date of Publication", fontsize='large', fontweight='bold')
-        ax.set_ylabel("<- HR | IP ->", fontsize='large', fontweight='bold')
-        ax.set_zlabel("Creator-User scale", fontsize='large', fontweight='bold')
+        ax.set_ylabel("HR-IP Scale", fontsize='large', fontweight='bold')
+        ax.set_zlabel("User-Creator Scale", fontsize='large', fontweight='bold')
         years = mdates.YearLocator()
         months = mdates.MonthLocator()
         yearsFmt = mdates.DateFormatter('%Y')
@@ -153,7 +153,7 @@ class Graph:
         plt.legend()
 
         ax.set_xlabel("Date of Publication", fontsize='large', fontweight='bold')
-        ax.set_ylabel("HR-IP Scale", fontsize='large', fontweight='bold')
+        ax.set_ylabel("<- HR | IP ->", fontsize='large', fontweight='bold')
         years = mdates.YearLocator()
         months = mdates.MonthLocator()
         yearsFmt = mdates.DateFormatter('%Y')

@@ -23,18 +23,17 @@ class Tokeniser:
         text = self.__removePunctuation(text)
         words = text.split(' ')
         words = self.__lowerCaseWords(words)
-        words = self.__removeStopwords(words)
         words = self.__removeStopstrings(words)
         words = list(self.__removeIntegers(words))
         words = self.__removeEmpties(words)
         words = self.__lemmatise(words)
         return words
 
-
     def splitBySentence(self, text):
         """
 
         """
+        text = ''.join(i for i in text if not i.isdigit())
         sentenceBlocks = self.__separatingIntoSentenceBlocks(text)
         sentences = self.__removeEmpties(sentenceBlocks)
         return sentences
@@ -82,7 +81,7 @@ class Tokeniser:
                 lowerCaseWords.append(w.lower())
         return lowerCaseWords
 
-    def __removeStopwords(self, words):
+    def removeStopwords(self, words):
         """
 
         """

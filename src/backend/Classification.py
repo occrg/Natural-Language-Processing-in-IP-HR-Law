@@ -34,7 +34,7 @@ class Classification:
         print("calculating score")
         self._tp, self._tn, self._fp, self._fn =                             \
             self.classTools.evaluateClassification(probsTest, Ytest)
-        self._testScore = self.classTools.balancedAccuracy(                       \
+        self._testScore = self.classTools.balancedAccuracy(                  \
             self._tp, self._tn, self._fp, self._fn)
         print("output")
         for document in documentList.getDocuments():

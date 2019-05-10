@@ -69,7 +69,6 @@ class PDFconverter:
             text = re.sub(r'(International Journal of Cultural Property[\n ,\d]*?Vol.[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
             text = re.sub(r'(International Cultural Property Society[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
             text = re.sub(r'(International Journal of Cultural Property)', '', text, flags=re.IGNORECASE)
-            # text = re.sub(r'([\w\W]*?IJCP[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
             text = re.sub(r'(IJCP[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
         elif journal == "Journal of World Intellectual Property":
             text = re.sub(r'(\d{4} The Author. Journal Compilation)', '', text, flags=re.IGNORECASE)
@@ -118,17 +117,6 @@ class PDFconverter:
                 journal = "Journal of Intellectual Property Law"
                 period = "05-"
             else:
-                # Temporary
-                if filename.startswith("IJHS"):
-                    journal = "International Journal of Heritage Studies"
-                elif filename.startswith("IJCP"):
-                    journal = "International Journal of Cultural Property"
-                elif filename.startswith("JWIP"):
-                    journal = "Journal of World Intellectual Property"
-                elif filename.startswith("JIPL"):
-                    journal = "Journal of Intellectual Property Law"
-                else:
-                    journal = "-"
                 period = "-"
         else:
             if re.match(r'^International Journal of Heritage Studies', text):
@@ -214,10 +202,12 @@ class PDFconverter:
             elif journal == "Journal of World Intellectual Property":
                 if period == "98-05":
                     date = "-1"
-                    if period == "06-":
-                        date = "-"
+                if period == "06-":
+                    date = "-"
             elif journal == "Journal of Intellectual Property Law":
                 date = "-"
+            else:
+                date = "-1"
         except AttributeError as err:
             print(err)
         return date
