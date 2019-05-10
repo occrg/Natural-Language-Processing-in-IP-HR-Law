@@ -1,9 +1,7 @@
 access
 open
-right
 progress
 compulsory
-licence
 free
 collaborative
 reuse
