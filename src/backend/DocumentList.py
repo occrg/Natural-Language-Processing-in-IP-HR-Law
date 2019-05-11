@@ -29,10 +29,10 @@ class DocumentList:
         self.__processDocumentsFromRecords()
         self.__calculateDocumentFrequencies()
         self.__compileAllFeatures()
-        # self.__setRandomTestInstances(0.5) # TEMP
+        # self.__setRandomTestInstances(0.25) # TEMP
         self._classification = Classification()
         # self.generateClassifications() # TEMP
-        self.ucCalc.userCreatorRatings(self._documents)
+        self.ucCalc.userCreatorProportion(self._documents)
         self.trendAndVisualise()
         self._crossValidation = CrossValidation()
         # self._crossValidation.crossValidateAll(self, 4) # TEMP
