@@ -82,6 +82,12 @@ class Count:
         """
         return list(zip(self._features, self._tf))
 
+    def getFeaturesIdfZip(self):
+        """
+
+        """
+        return list(zip(self._features, self._idf))
+
     def getFeaturesTfidfZip(self):
         """
 

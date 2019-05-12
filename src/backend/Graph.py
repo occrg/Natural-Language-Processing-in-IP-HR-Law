@@ -26,7 +26,7 @@ class Graph:
         self._indexDict =                                                    \
             self.__compileIndexDict(documentList.getTrainTestDocuments(1))
         if title == '3D Graph':
-            self.__create3dGraph(date, user_creator, hr_ip)
+            self.__create3dGraph(date, hr_ip, user_creator)
         elif title == 'HR-IP/Time':
             self.__createIPHRgraph(date, hr_ip, trends)
         elif title == 'User-Creator/Time':
@@ -72,11 +72,11 @@ class Graph:
         """
         fig = Figure()
         ax = Axes3D(fig)
-        Ms = ['o', '^']
+        Cs = ['r', 'b']
         Ls = ['Human Rights Journal Article', 'Intellectual Property Journal Article']
 
         for i in range(len(Xs)):
-            ax.scatter(Xs[i], Ys[i], Zs[i], s=40, marker=Ms[i], c=[[0,0.733,0.839]], label=Ls[i])
+            ax.scatter(Xs[i], Ys[i], Zs[i], marker='o', c=Cs[i], s=30, label=Ls[i])
 
         fig.legend()
 
@@ -92,31 +92,14 @@ class Graph:
         smallZ = min(allZs)
         bigZ = max(allZs)
 
-        averageX = int((smallX + bigX) / 2)
-
-        Xplane = np.arange(smallX, bigX, 200)
-        Yplane = np.arange(smallY, bigY, 0.01)
-        Zplane = np.arange(smallZ, bigZ, 0.05)
-        Xzmesh, Zxmesh = np.meshgrid(Xplane, Zplane)
-        Yzmesh, Zymesh = np.meshgrid(Yplane, Zplane)
-        Xymesh, Yxmesh = np.meshgrid(Xplane, Yplane)
-        Xzero = np.full(Yzmesh.shape, averageX)
-        Zzero = np.zeros(Xymesh.shape)
-        Yzero = np.zeros(Xzmesh.shape)
-        YZsurface = ax.plot_surface(Xzmesh, Yzero, Zxmesh,                   \
-            cmap=plt.get_cmap('seismic_r'), alpha=0.2, linewidth=0,          \
-            antialiased=True)
-        XYsurface = ax.plot_surface(Xymesh, Yxmesh, Zzero, alpha=0.2,        \
-            linewidth=0, antialiased=True)
-
-        cbaxes = fig.add_axes([0.05, 0.1, 0.03, 0.8])
-
-        YZcolbar = fig.colorbar(YZsurface, cax=cbaxes, ticks=[-0.7,0.7], shrink=0.2, aspect=5, orientation='vertical')
-        YZcolbar.ax.set_yticklabels(['HR', 'IP'], fontdict={'fontsize':'large', 'fontweight':'bold', 'color':[0,0.733,0.839]})
+        ax.text(smallX, smallY, 0, 'HR', color=[0,0.733,0.839], fontsize=14, weight='bold')
+        ax.text(smallX, bigY, 0, 'IP', color=[0,0.733,0.839], fontsize=14, weight='bold')
+        ax.text(smallX, 0, smallZ, 'User', color=[0,0.733,0.839], fontsize=14, weight='bold')
+        ax.text(smallX, 0, bigZ, 'Creator', color=[0,0.733,0.839], fontsize=14, weight='bold')
 
         ax.set_xlabel("Date of Publication", fontsize='large', fontweight='bold')
-        ax.set_ylabel("User-Creator Scale", fontsize='large', fontweight='bold')
-        ax.set_zlabel("HR-IP Scale", fontsize='large', fontweight='bold')
+        ax.set_ylabel("HR-IP Scale", fontsize='large', fontweight='bold')
+        ax.set_zlabel("User-Creator Scale", fontsize='large', fontweight='bold')
         years = mdates.YearLocator()
         months = mdates.MonthLocator()
         yearsFmt = mdates.DateFormatter('%Y')
@@ -151,9 +134,9 @@ class Graph:
             sc = ax.scatter(Xs[i], Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
             self._scs.append(sc)
             if trends[i].getPgradient() <= trends[i].getStatSigLimit():
-                ax.plot(trends[i].getX(), trends[i].getY(), '-%s' % Cs[i], linewidth=3.0)
+                ax.plot(trends[i].getX(), trends[i].getY(), '-%s' % Cs[i], linewidth=1.0)
             else:
-                ax.plot(trends[i].getX(), trends[i].getY(), '-%s' % Cs[i], linewidth=0.5)
+                ax.plot(trends[i].getX(), trends[i].getY(), '-%s' % Cs[i], linewidth=1.0)
 
         self._annot = ax.annotate("", xy=(0,0), xytext=(10,10),textcoords="offset points",
                             bbox=dict(boxstyle="round", alpha=0.9,edgecolor=[0,0.733,0.839], fc="w"),
@@ -200,11 +183,10 @@ class Graph:
         for i in range(len(Xs)):
             sc = ax.scatter(Xs[i], Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
             self._scs.append(sc)
-            # if trends[i].getPgradient() <= trends[i].getStatSigLimit():
-            #     ax.plot(trends[i].getX(), trends[i].getY(), '-%s' % Cs[i], linewidth=3.0)
-            # else:
-            #     ax.plot(trends[i].getX(), trends[i].getY(), '-%s' % Cs[i], linewidth=0.5)
-            ax.plot(trends[i].getX(), trends[i].getY(), '-%s' % Cs[i], linewidth=3.0)
+            if trends[i].getPgradient() <= trends[i].getStatSigLimit():
+                ax.plot(trends[i].getX(), trends[i].getY(), '-%s' % Cs[i], linewidth=3.0)
+            else:
+                ax.plot(trends[i].getX(), trends[i].getY(), '-%s' % Cs[i], linewidth=0.5)
 
         self._annot = ax.annotate("", xy=(0,0), xytext=(10,10),textcoords="offset points",
                             bbox=dict(boxstyle="round", alpha=0.9,edgecolor=[0,0.733,0.839], fc="w"),
@@ -325,3 +307,76 @@ class Graph:
             indexDict[(date, user_creator)] = c
             indexDict[(hr_ip, user_creator)] = c
         return indexDict
+
+    def __create3dGraphWithPlanes(self, Xs, Ys, Zs):
+        """
+
+        """
+        fig = Figure()
+        ax = Axes3D(fig)
+        Ms = ['o', '^']
+        Ls = ['Human Rights Journal Article', 'Intellectual Property Journal Article']
+
+        for i in range(len(Xs)):
+            ax.scatter(Xs[i], Ys[i], Zs[i], s=40, marker=Ms[i], c=[[0,0.733,0.839]], label=Ls[i])
+
+        fig.legend()
+
+        allXs = Xs[0] + Xs[1]
+        smallX = min(allXs)
+        bigX = max(allXs)
+
+        allYs = Ys[0] + Ys[1]
+        smallY = min(allYs)
+        bigY = max(allYs)
+
+        allZs = Zs[0] + Zs[1]
+        smallZ = min(allZs)
+        bigZ = max(allZs)
+
+        averageX = int((smallX + bigX) / 2)
+
+        ax.text(smallX, smallY, 0, 'User', color=[0,0.733,0.839], fontsize=14, weight='bold')
+        ax.text(smallX, bigY, 0, 'Creator', color=[0,0.733,0.839], fontsize=14, weight='bold')
+
+        Xplane = np.arange(smallX, bigX, 200)
+        Yplane = np.arange(smallY, bigY, 0.01)
+        Zplane = np.arange(smallZ, bigZ, 0.05)
+        Xzmesh, Zxmesh = np.meshgrid(Xplane, Zplane)
+        Yzmesh, Zymesh = np.meshgrid(Yplane, Zplane)
+        Xymesh, Yxmesh = np.meshgrid(Xplane, Yplane)
+        Xzero = np.full(Yzmesh.shape, averageX)
+        Zzero = np.zeros(Xymesh.shape)
+        Yzero = np.zeros(Xzmesh.shape)
+        YZsurface = ax.plot_surface(Xzmesh, Yzero, Zxmesh,                   \
+            cmap=plt.get_cmap('seismic_r'), alpha=0.2, linewidth=0,          \
+            antialiased=True)
+        XYsurface = ax.plot_surface(Xymesh, Yxmesh, Zzero, alpha=0.2,        \
+            linewidth=0, antialiased=True)
+
+        cbaxes = fig.add_axes([0.05, 0.1, 0.03, 0.8])
+
+        YZcolbar = fig.colorbar(YZsurface, cax=cbaxes, ticks=[-0.7,0.7], shrink=0.2, aspect=5, orientation='vertical')
+        YZcolbar.ax.set_yticklabels(['HR', 'IP'], fontdict={'fontsize':'large', 'fontweight':'bold', 'color':[0,0.733,0.839]})
+
+        ax.set_xlabel("Date of Publication", fontsize='large', fontweight='bold')
+        ax.set_ylabel("User-Creator Scale", fontsize='large', fontweight='bold')
+        ax.set_zlabel("HR-IP Scale", fontsize='large', fontweight='bold')
+        years = mdates.YearLocator()
+        months = mdates.MonthLocator()
+        yearsFmt = mdates.DateFormatter('%Y')
+        ax.xaxis.set_major_locator(years)
+        ax.xaxis.set_major_formatter(yearsFmt)
+        ax.xaxis.set_minor_locator(months)
+        ax.tick_params(axis='x', labelrotation=90, which='major', pad=0)
+        ax.tick_params(axis='y', labelrotation=45, which='major', pad=0)
+        ax.tick_params(axis='z', labelrotation=0, which='major', pad=0)
+        ax.xaxis.labelpad = 25
+        ax.yaxis.labelpad = 18
+        ax.zaxis.labelpad = 4
+        ax.xaxis.label.set_color([0,0.733,0.839])
+        ax.yaxis.label.set_color([0,0.733,0.839])
+        ax.zaxis.label.set_color([0,0.733,0.839])
+
+        self._ax = ax
+        self._fig = fig

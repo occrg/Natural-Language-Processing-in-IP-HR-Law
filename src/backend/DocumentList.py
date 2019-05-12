@@ -27,8 +27,8 @@ class DocumentList:
         self._documents = []
         self._graphs = []
         self.__processDocumentsFromRecords()
-        self.__calculateDocumentFrequencies()
         self.__compileAllFeatures()
+        self.__calculateDocumentFrequencies()
         # self.__setRandomTestInstances(0.25) # TEMP
         self._classification = Classification()
         # self.generateClassifications() # TEMP
@@ -36,7 +36,6 @@ class DocumentList:
         self.trendAndVisualise()
         self._crossValidation = CrossValidation()
         # self._crossValidation.crossValidateAll(self, 4) # TEMP
-
 
     def trendAndVisualise(self):
         """
