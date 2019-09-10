@@ -90,6 +90,8 @@ class PDFconverter:
         text = text.replace('ﬁ ', 'fi')
         text = text.replace('ﬂ ', 'fl')
         text = text.replace('ﬀ ', 'ff')
+        text = text.replace('ﬄ ', 'ffl')
+        text = text.replace('ﬃ ', 'ffi')
         return text
 
 

@@ -112,8 +112,6 @@ class UserCreatorRatingsCalc:
                         scale *= -1
                 userRatSent = userBin * scale
                 creatorRatSent = creatorBin * scale
-                if (not userRatSent == 0) or (not creatorRatSent == 0):
-                    print('(%f,%f): %s' % (userRatSent, creatorRatSent, sentence))
                 userRatTot += userRatSent
                 creatorRatTot += creatorRatSent
             userRatMean = userRatTot / len(sentences)

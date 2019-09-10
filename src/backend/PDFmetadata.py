@@ -54,6 +54,12 @@ class PDFmetadata:
         """
 
         """
+        return self._date
+
+    def getDate(self):
+        """
+
+        """
         if isinstance(self._date, str):
             self._date = datetime.datetime(int(self._date[0:4]), int(self._date[5:7]), int(self._date[8:10])).date()
         return self._date

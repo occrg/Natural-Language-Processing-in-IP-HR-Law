@@ -9,7 +9,8 @@ from backend.FilesIO import FilesIO
 
 
 """
-
+Performs and stores cross-validation evaluation on the parent
+DocumentList object.
 """
 class CrossValidation:
 
@@ -20,7 +21,7 @@ class CrossValidation:
 
     def __init__(self):
         """
-
+        Initialises a CrossValidation object from a stored file.
         """
         self._crossValScore, self._trendsCrossVal =                          \
             self.io.retrieveCrossValEvaluationData()
@@ -28,7 +29,14 @@ class CrossValidation:
 
     def crossValidateAll(self, documentList, split):
         """
+        Cross validates the Document objects contained in $documentList.
 
+        Arguments:
+        documentList  (DocumentList)
+            -- the DocumentList object containing the information of
+               the documents to be cross-validated
+        split         (int)
+            -- the number of folds in the cross-validation
         """
         documents = documentList.getDocuments()
         trainIndexesList, testIndexesList =                                  \
@@ -42,20 +50,46 @@ class CrossValidation:
 
     def getCrossValScore(self):
         """
-
+        Returns:
+        self._crossValScore  ([float])
+            -- a list of floats with each float representing a score
+               achieved in the cross-validation of classes
         """
         return self._crossValScore
 
     def getTrendsCrossVal(self):
         """
-
+        Returns:
+        self._trendsCrossVal  ([[float]])
+            -- a list of list of floats with each list representing a
+               different linear regression line and each float
+               representing a score achieved in the cross-validation
+               of that linear regression line
         """
         return self._trendsCrossVal
 
 
     def __calculateIndexes(self, split, docsLen):
         """
+        Generates the train and test indexes for each fold of the
+        cross-validation.
 
+        Arguments:
+        split             (int)
+            -- the number of folds in the cross-validation
+        docsLen           (int)
+            -- the total number of documents to be trained and tested
+               on
+
+        Returns:
+        trainIndexesList  ([[int]])
+            -- a list of lists with each list representing a different
+               train and test and each integer representing the integer
+               of a Document object to be trained on
+        testIndexesList   ([[int]])
+            -- a list of lists with each list representing a different
+               train and test and each integer representing the integer
+               of a Document object to be tested on
         """
         trainIndexesList = []
         testIndexesList = []
@@ -84,7 +118,31 @@ class CrossValidation:
     def __trainSegments(self, Xall, Yall, trainIndexesList, testIndexesList, \
         documents):
         """
+        Trains each different list in $trainIndexesList and tests on
+        the corresponding list in $testIndexesList.
 
+        Arguments:
+        Xall                (np.array)
+            -- a matrix with each row representing a Document object in
+               the parent DocumentList object and each column
+               representing a feature
+        Yall                (np.array)
+            -- a list of ground truths for each Document object in the
+               parent Document object
+        trainIndexesList    ([[int]])
+            -- a list of lists with each list representing a different
+               train and test and each integer representing the integer
+               of a Document object to be trained on
+        testIndexesList     ([[int]])
+            -- a list of lists with each list representing a different
+               train and test and each integer representing the integer
+               of a Document object to be tested on
+
+        Returns:
+        testDocumentsLists  ([[Document]])
+            -- a list of lists with each list representing a different
+               fold of cross-validation and each Document holding the
+               updated test values in that cross validation
         """
         testDocumentsLists = []
         for i in range(len(trainIndexesList)):
@@ -122,7 +180,13 @@ class CrossValidation:
 
     def __crossValidateClassifications(self, testDocumentsLists):
         """
+        Evaluates the performance of each fold.
 
+        Argument:
+        testDocumentsList  ([[Document]])
+            -- a list of lists with each list representing a different
+               fold of cross-validation and each Document representing
+               the updated test values to be evaluted
         """
         crossValScore = []
         for testDocuments in testDocumentsLists:
@@ -142,7 +206,13 @@ class CrossValidation:
 
     def __crossValidatePvalues(self, testDocumentsLists):
         """
+        Generates linear regression lines for each fold.
 
+        Argument:
+        testDocumentsList  ([[Document]])
+            -- a list of lists with each list representing a different
+               fold of cross-validation and each Document representing
+               the updated test values to be evaluted
         """
         self._trendsCrossVal = []
         hr_hrip_time_GraphTrends = []

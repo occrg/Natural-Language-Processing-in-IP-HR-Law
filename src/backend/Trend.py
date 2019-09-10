@@ -21,7 +21,7 @@ class Trend:
         self._independentVar = independentVar
         self._dependentVar = dependentVar
         XsO = sm.add_constant(Xs)
-        model = sm.RLM(Ys, XsO, m=sm.robust.norms.LeastSquares)
+        model = sm.OLS(Ys, XsO)
         results = model.fit()
         self._yintercept = results.params[0]
         self._gradient = results.params[1]

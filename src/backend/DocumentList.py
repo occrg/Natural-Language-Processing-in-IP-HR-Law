@@ -27,15 +27,15 @@ class DocumentList:
         self._documents = []
         self._graphs = []
         self.__processDocumentsFromRecords()
-        self.__compileAllFeatures()
         self.__calculateDocumentFrequencies()
         # self.__setRandomTestInstances(0.25) # TEMP
+        self.__compileTrainingFeatures()
         self._classification = Classification()
         # self.generateClassifications() # TEMP
         self.ucCalc.userCreatorProportion(self._documents)
         self.trendAndVisualise()
         self._crossValidation = CrossValidation()
-        # self._crossValidation.crossValidateAll(self, 4) # TEMP
+        self._crossValidation.crossValidateAll(self, 4) # TEMP
 
     def trendAndVisualise(self):
         """
@@ -53,6 +53,7 @@ class DocumentList:
 
         """
         self._graphs = []
+        self.__calculateDocumentFrequencies()
         self._classification.classifyDocuments(self)
 
 
@@ -130,6 +131,12 @@ class DocumentList:
         """
         return self._allFeatures
 
+    def getTrainingFeatures(self):
+        """
+
+        """
+        return self._trainingFeatures
+
     def getTrainTestDocuments(self, test):
         documents = []
         for document in self._documents:
@@ -172,6 +179,18 @@ class DocumentList:
             for word in words:
                 if word not in self._allFeatures:
                     self._allFeatures.append(word)
+
+
+    def __compileTrainingFeatures(self):
+        """
+
+        """
+        self._trainingFeatures = []
+        for document in self.getTrainTestDocuments(0):
+            words = document.getCount().getFeatures()
+            for word in words:
+                if word not in self._trainingFeatures:
+                    self._trainingFeatures.append(word)
 
 
     def __setRandomTestInstances(self, prop):

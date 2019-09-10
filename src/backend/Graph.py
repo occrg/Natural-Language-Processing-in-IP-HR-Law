@@ -134,9 +134,9 @@ class Graph:
             sc = ax.scatter(Xs[i], Ys[i], s=40, marker='o', c=Cs[i], label=Ls[i])
             self._scs.append(sc)
             if trends[i].getPgradient() <= trends[i].getStatSigLimit():
-                ax.plot(trends[i].getX(), trends[i].getY(), '-%s' % Cs[i], linewidth=1.0)
+                ax.plot(trends[i].getX(), trends[i].getY(), '-%s' % Cs[i], linewidth=3.0)
             else:
-                ax.plot(trends[i].getX(), trends[i].getY(), '-%s' % Cs[i], linewidth=1.0)
+                ax.plot(trends[i].getX(), trends[i].getY(), '-%s' % Cs[i], linewidth=0.5)
 
         self._annot = ax.annotate("", xy=(0,0), xytext=(10,10),textcoords="offset points",
                             bbox=dict(boxstyle="round", alpha=0.9,edgecolor=[0,0.733,0.839], fc="w"),
