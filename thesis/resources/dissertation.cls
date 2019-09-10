@@ -75,7 +75,6 @@
 \usepackage{import}
 % For strict float positioning
 \usepackage{placeins}
-
 \makeatletter
 
 % -----------------------------------------------------------------------------

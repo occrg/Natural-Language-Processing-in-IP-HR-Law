@@ -1,12 +1,103 @@
 \chapter{Conclusion}
 	\section{Chapter Overview}
-		The following chapter evaluates the project as a whole. The project is evaluated against the requirements set out in Section \ref{sec:req}, acompanied by reflection on how these requirements could have been met more effectively. Then, recommendations on how the project can be taken forward are set out before the project is concluded with final remarks.
+		The following chapter evaluates the project as a whole. The final state of the project in each requirement category set out in Section \ref{sec:req}, is presented followed by reflection on where the requirements were met well and how they were failed to be met. Then, recommendations on how the project can be taken forward are set out before the project is concluded with final remarks.
+	\section{Final State}
+		\subsection{Natural Language Processing}
+			Two models were created in this category to be compared against three aims. Both models go through the same pre-processing process. This involves the following steps: 
+
+			\begin{enumerate} 
+				\item Removing metadata;
+				\item Removing glyphs;
+				\item Removing new lines;
+				\item Removing punctuation;
+				\item Changing all letters to lower case;
+				\item Removing all integers;
+				\item Lemmatising words;
+				\item Removing stopwords
+			\end{enumerate} 
+
+			The first model classifies documents in terms of whether they cover the topic of human rights or intellectual property. It takes each unique word as a feature and calculates the value of each feature using tf-idf-cf, specified in Equation \ref{equ:tfidfcf}, and classifies using a support vector machine. The support vector machine assigns probabilities to each document on how likely it is to be from each topic. A score is then assigned to each document using Equation \ref{equ:hrip} and the documents are classified as human rights if the score is less than zero or intellectual property if the score is greater than or equal to zero. Over four-fold cross-validation using 411 journal articles, this achieves an average balanced accuracy score of 0.984 and average p-values of 0.222 and 0.157 for human rights and intellectual property documents respectively. 
+
+			The second model classifies documents in terms of whether their tone suggests that the current legal environment benefits the user or the creator. It assigns each document a score based on Equation \ref{equ:user-creator}. $hrscore$ and $ipscore$ are calculated given the proportion of sentences in a document that contains at least one word from their respective keyword list in Table \ref{tab:keyword-list}. The evaluation was not reliable enough in this section to be presented as a genuine result.  
+		\subsection{Visualisation}
+			These results are visualised using four different visualisations. All visualisations plot articles that originate from human rights journals in red and intellectual property journals in blue.  
+
+			The first visualisation is in 3D and is shown in Figure \ref{fig:3d-float}. It plotted the date that an article was published as the x-axis, hr-ip-scores as the y-axis, and user-creator scores as the z-axis. Luminance is used to represent the distance from the surface as it is difficult to see where points are but annotations are also visible on the edge of the visualisation to make this slightly clearer. 
+
+			The second visualisation is shown in Figure \ref{fig:hr-ip}. It plotted the date an article was published as the x-axis and the hr-ip scores as the y-axis. The third visualisation is shown in Figure \ref{fig:trend-bold}. It plotted the date an article was published as the x-axis and the user-creator scores as the y-axis. The fourth visualisation is shown in Figure \ref{fig:2d-arrow}. It plotted the hr-ip scores as the x-axis and the user-creator scores as the y-axis. 
+
+			All these 2D visualisations have similar features. They have two trend lines to accentuate the trend in human rights and intellectual property documents respectively. This trend line is boldened if the trend is statistically significant. Also, if a point is clicked on, that point shows an annotation of the title of the document, what journal it came from, the date it was published and its filename, as shown in Figure \ref{fig:anomaly}. 
+		\subsection{Usability}
+			There is a user interface which can be opened from a Windows desktop via an executable. The user interface consists of three tabs.  
+
+			The first tab is shown in Figure \ref{fig:ui_3d} and displays the visualisations in four further tabs. The second tab is shown in Figure \ref{fig:ui_eval} and displays the evaluation data of the two models.  There is also a button that causes the tool to re-cross-validate the data. The third tab is shown in Figure \ref{fig:ui_documents} and displays the documents that the model is using. This contains all the functionality relating to the documents. Document metadata can be changed and documents can be added, removed and opened. This is also where test data is selected and the user commands the tool to train and test the documents. 
+
+			There is also backend functionality to make the tool more usable. Automatic metadata extraction means the user does not have to manually input an article's title, journal or date. The storage of data once computed means that it does not have to be recomputed, saving the user considerable time. 
+
+			The code for the tool is organised into an object-oriented structure with common coding principles followed, making it easy to adapt. The functionality of all classes and functions are made clear by comments.
 	\section{Requirement Evaluation}
 		\subsection{Natural Language Processing}
+			\subsubsection{The model accurately represents a large proportion of the documents in the corpus with regards to its classification characteristics}
+				This goal was a clear success in the first model with a balanced accuracy score of 0.98. However, it was less so in the user-creator model which potentially had a balanced accuracy of 0.75 over 20 documents. In reality, this is not enough documents to assess whether the model is accurate. Because of this lack of confidence in the evaluation process, I chose the simplest model possible. The fact that negators are ignored casts doubt on whether the model accurately represents whether documents benefit the user or creator since sentences with the opposite meaning are classified in the same way. However, because I chose a simple model, it is easy to explain what the model does accurately represent. The model represents the net number of sentences that contain keywords based around the creator compared to the number of sentences that contain keywords based around the user. 
+
+				Had I determined ground truths for a sizable number of documents, I would have been able to evaluate properly and develop a model with confidence. This will be where recommended future work is focused. 
+			\subsubsection{The model deduces any trends in the corpus with regards to its classification characteristics if those trends exist}
+				For HR-IP over time, the model very rarely detected statistically significant trends.  In fact, human rights and intellectual property documents appeared very polarised. Dr. Blakely stated in her final evaluation that this supports her hypothesis because ``the two fields operate in a siloed way and don't `speak' to each other, despite having a substantive effect on the same areas (creative/cultural production)''. 
+
+				For User-Creator over time, the model rarely detected statistically significant trends for intellectual property articles but detected them for human rights articles towards user-benefiting language approximately half the time. Dr. Blakely stated that she did not have any expectations for these trends but that trend “was not entirely unexpected”. One benefit of having a very simple model is that it is very clear what the trend is indicating: there seems to be an increasing amount of user-oriented language compared to creator-oriented language in human rights articles over time. 
+
+				I have confidence in the trend detection itself. The future work will be focused on improving the accuracy of the models and seeing whether trends happen to turn up. 
+			\subsubsection{The model must only consider the language of the content of the article}
+				The idea of this aim was to make sure that classifications were correct only because of the legal language used in the article as opposed to other irrelevant elements in it, such as metadata in the footnote. For this reason, a reduced score actually suggests that this aim has been achieved. This was observed when regular expressions were used to remove metadata and brought the accuracy score down from 1 to 0.58. Other methods to meet this aim was adding words that indicated the document's structure to the stopwords list and using term frequency in the feature count because it may have alluded to the word limit of a journal.  
+
+				After a thorough read of the text being classified for a few documents of different formats, I deemed that there is a negligible amount of text included that is not part of the actual content of the article. I will not recommend any further work for the aim to be met.
 		\subsection{Visualisation}
+				These aims were met as a whole with most future work needing to be done to the user-creator model.
+			\subsubsection{The visualisation and its axes' meanings are self-explanatory}
+				Dr. Blakely agreed that this aim was met. This was done using clear labels with arrows where necessary. It occurred to me after finishing the project that a better way of indicating which side of an axis represented which topic could have been done using the axes' major ticks. This would have been a cleaner way to solve this problem. 
+			\subsubsection{It is clear where a point lies on the visualisation's axes}
+				Dr. Blakely agreed that this aim was met. This was done most effectively via the addition of the 2D visualisations which made it obvious where each point was on the axes.  However, Dr. Blakely pointed out that she still wished for points on the 3D visualisation to be clearer. Unfortunately, my desired solution to this to move the axes to the middle of the visualisation was not possible and my solution to add surfaces where I wanted the axes made the visualisation too convoluted. 
+			\subsubsection{The visualisation has all the possible information that a user may require on it}
+				Dr. Blakely agreed that this aim was met. This was done by adding annotations to the 2D visualisations that appear when a point is clicked on. However, Dr. Blakely pointed out that she wished for the same functionality on the 3D visualisation. This was a low priority for me as the annotations would have been difficult to make look presentable and the pay-off would have been low in my opinion because the functionality was already available elsewhere.  
+			\subsubsection{The visualisation clearly indicates any trends deduced by the models}
+				Dr. Blakely agreed that this aim was met. This was done by adding lines representing the linear regression calculations to the 2D visualisations. However, Dr. Blakely again pointed out that she wished for the same functionality on the 3D visualisation.  
+			\subsubsection{The visualisation is aesthetically pleasing}
+				Dr. Blakely agreed that this aim was met. This was done by keeping the visualisation minimalist and adding a colour scheme which applied to the labels. 
+			\subsubsection{Overall}
+				This category of aims has been achieved well overall as Dr. Blakely agreed that each individual aim had been met. The main limiting factor that prevented her from strongly agreeing that the aims had been met was that she wanted the 3D visualisation to have the same extra functionalities as the 2D visualisations. This was due to two main faults in my process. Had I been in more regular contact with Dr. Blakely, I would have known to prioritise functionality in the 3D graph more. This was difficult because of busy schedules on both sides. It was also difficult because of my choice of matplotlib which I found restrictive in 3D. Had I done more research early on in the project, I may have been more willing to experiment with other visualisation libraries which have better 3D functionality.  
 		\subsection{Usability}
+			\subsubsection{The tool does not require any prior Computer Science knowledge to setup or use}
+				This aim was met well. All functionality established in the requirements is available via buttons in the graphical user interface which is easily accessible on a Windows desktop. Dr. Blakely was able to use the system without this knowledge. 
+			\subsubsection{The tool has a graphical user interface which is intuitive}
+				This aim was partially met as all features are accessible in logical places in the user interface. This is due to the following of some of Nielsen's heuristics. The design was kept minimalist meaning the user was never distracted from important features by fancy design. The system matched real-world concepts familiar to the user such as tabs to go to new sections and elevated buttons which sunk when pressed. The system was consistent with looks and actions meaning nothing unexpected. For these reasons, Dr. Blakely had no issues navigating the user interface. However, she was familiar with some of the process that was taking place before use.  
+
+				A user completely new to the project should be able to pick the tool up with ease. I don't believe this is the case. A new user would be unaware of how many test documents are needed, for example, but the user interface does not come with a clear enough set of instructions or data validation which would indicate this. If not enough documents are set as test data, the tool will attempt to perform its tasks with the incorrect data and there will be an error which will not be explained by the user interface. This can be solved by someone who has knowledge of Python and natural language processing but not the new user of the tool. This and other Nielsen's heuristics will be recommended as future work. 
+			\subsubsection{The tool allows for maximum time to be spent on analysis of results}
+				This aim was met well. The intuitive layout of the design means that the functionality is obvious and time does not have to be wasted finding out how things work. The time saved with the automatic data extraction and data storage was significant. However, Dr. Blakely suggested that future users may not want to bother downloading the large dataset and would rather a web app link that encapsulated all functionality. This is discussed in the future work section. 
+			\subsubsection{It is easy to understand the purpose of each section of code}
+				This aim was met via the comments on classes and functions and code that was written intuitively. 
+			\subsubsection{It is easy to expand upon and adapt the overall codebase}
+				This aim was partially met. The object-oriented structure of the code makes it well refactorable and reusable but the lack of automated testing of functionality limits the achievement in this aim. The developer needs to have confidence that the codebase all functions as claimed. My claim that I have thoroughly tested the tool manually is not enough to supply this confidence meaning that the next developer would need to do their own manual tests or write automatic tests as future work. 
+			\subsubsection{Overall}
+				Overall, these aims were met to a reasonable standard considering that natural language processing and visualisation were given higher priority because they were more important in proving the computer science is appropriate for this application.  
 	\section{Future Work}
 		\subsection{Natural Language Processing}
+			Most of the future work here must be focused on the user-creator model. A dataset with a few hundred articles where ground truth has been established would allow for a comprehensive evaluation of any models. This, importantly, will allow for the comparison of models. Should this be a rule-based system, experimentation can take place by changing the threshold of classification so there is a more balanced prediction between creator-benefiting and user-benefiting or the keyword lists can be extended to more comprehensively cover the classes. However, I recommend that a machine learning approach similar to that of the human rights-intellectual property model is taken up because it is known to perform better and needs less manual analysis. 
+
+			Although the human rights-intellectual property model is very accurate, no consistent statistically significant trends were found. In order to be sure that no trends were missed, n-grams can be used as a type of feature over bag of words. This will give more context to the words and therefore provide a better representation of the documents. This will lead to a considerably larger and sparser feature space so I also recommend that the feature space is refined using rules based on how many documents a feature appears in. 
+
+			To further test the human rights-intellectual property model, the dataset should be extended to include articles that are not as polarised as the journals used in this project. This will test the model more and may also show more interesting trends. 
 		\subsection{Visualisation}
+			The next work to be done on visualisations is to bring the 3D visualisation up to standard with the 2D visualisations as Dr. Blakely believes one visualisation with full functionality is preferable to a range of visualisations. This most importantly includes improving the user's ability to locate points on the axes. This can be done by experimenting with more pre-attentive features such as colour maps or size. I recommend exploring other libraries that have more freedom with 3D plotting, such as `gnuplot', in combination with these. Further, 3D visualisations can have added functionality such as annotations for when points are clicked and 3D trend lines.  
 		\subsection{Usability}
+			The next focus on future work on this area should be on making sure the user is fully informed of what is going on in the system. There must be data validation and error messages in order for them to know what problem has occurred and what they need to solve it. Despite the user interface's intuitiveness, there should be full documentation on how to use the tool in case anything is unclear from person to person. There also should be the addition of informing the user of the system status as there is a lot of long wait times for processing and the user needs to be assured that the tool is still processing and an error has not occurred. Another useful feature that should be added is a search feature in the document tab since documents can take a while to find if there are a lot of them.
+			
+			For Dr. Blakely's BILETA presentation, I prepared a PowerPoint presentation to simply explain the natural language processing techniques behind the tool. A similar guide could be added as another tab in the tool to help the user understand how the results came about.
+			
+			Dr. Blakely points out that she cannot see other law academics wanting to put in the time to download large amounts of data and a desktop app. The alternative to downloading data is hosting the data online. This could vary in complexity significantly depending on Dr. Blakely's requirements for this. My recommendation would be to host a web app with shared data between law academics who could alter the dataset. This would not be too much of a jump in terms of infrastructure and would mean that no files would have to be downloaded. 
+
+			The key issue for the further development of the codebase in this project is the lack of automated testing. This should be added by a future developer to give them confidence that everything works as stated and then kept up to date so developers after them will have confidence in their work. 
+		\subsection{Other Fields}
+			Since the tool is easily refactorable, it would be easy to apply to other domains. After discussing with law academics at BILETA, I established that this could be applied to more specific variants of these fields such as patent law and right to health care. 
 	\section{Final Remarks}
+		The project's aims have been met to a good standard given the time frame. The project has met Dr. Blakley's aim showing that natural language processing can be usefully applied to intellectual property and human rights by tailoring skills from natural language processing, data visualisation and usability to suit the domain and then synthesising them into a tool. This was acknowledged at BILETA and the results and future work were enthusiastically discussed by the audience. 

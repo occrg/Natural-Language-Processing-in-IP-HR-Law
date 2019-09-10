@@ -1,23 +1,25 @@
-\chapter{Introduction}
+\chapter{Introduction}\label{sec:intro}
 	\section{Chapter Overview}
 		To open the thesis, this chapter gives a brief background of why the project is being pursued in the law domain. It continues by explaining the project's aims with regards to the given background and then finishes with how the aims intended to add value to the law domain once they had been met. 
-	\section{Project Context}
-		Intellectual Property law is a term typically used to describe the areas of law which establish property protection over intangibles such as ideas, signs and information. This protection is in order to make the advancement of ideas profitable which therefore incentivises this act\cite{ip_edu_bently}.
+	\section{Project Context}\label{sec:context}
+		Intellectual Property law is a term typically used to describe the areas of law which establish property protection over intangibles such as ideas, signs and information. This protection is in order to make the advancement of ideas profitable which incentivises this act\cite{ip_edu_bently}.
 			
-		There is, therefore, a balance to be struck between limited exclusive rights and benefits to the public. While limiting exclusive rights may facilitate progress, benefiting the public, the overprotection of the exclusive property may restrict their access\cite{handbook_ip_hr_geiger}. One example of this is the expansion of copyright terms such as the controversial Copyright Term Extension Act of 1998 which was heavily lobbied for by Disney just years before Mickey Mouse's copyright ran out\cite{mickey_mouse_grzelak}. The trend in extension of copyright terms, illustrated by Figure \ref{fig:ext_us_cop}, illustrates the appearance that the balance is tipping towards exclusivity rights. 
+		There is, therefore, a balance to be struck between limited exclusive rights and benefits to the public. While limiting exclusive rights may facilitate progress, benefiting the public, the overprotection of the exclusive property may restrict their access\cite{handbook_ip_hr_geiger}. One example of this is the expansion of copyright terms such as the controversial Copyright Term Extension Act of 1998 which was heavily lobbied for by Disney just years before Mickey Mouse's copyright ran out\cite{mickey_mouse_grzelak}. The trend in the extension of copyright terms, illustrated by Figure \ref{fig:ext_us_cop}, illustrates the appearance that the balance is tipping towards exclusivity rights. 
 
 		\begin{figure}[h]
     		\centering
-    		\includegraphics[width=0.5\linewidth]{resources/images/extention_of_us_copyright.png}
+    		\includegraphics[width=0.7\linewidth]{resources/images/extention_of_us_copyright.png}
     		\caption{Expansion of U.S. copyright term lengths\cite{copyright_term_length_graph_bell}.}
     		\label{fig:ext_us_cop}
 		\end{figure}
 			
-		This implementation of intellectual property law brings in the question of human rights of access to culture, education and other social and economic rights, but traditionally this has not been included in discussion of intellectual property law. However, recently scholarship and legislation has progrssively begun to incorporate each other's linguistics\cite{mapping_ip_hr_helfer}.
+		This implementation of intellectual property law brings in the question of human rights of access to culture, education and other social and economic rights, but traditionally this has not been included in the discussion of intellectual property law. However, recent scholarship and legislation has progressively begun to incorporate each other's linguistics\cite{mapping_ip_hr_helfer}.
 			
-		Dr. Megan Rae Blakely of Lancaster University is looking for assistance in analysing journals and legal instruments for overlap in languages. As well as the human rights and intellectual property, Dr. Blakely hypothesised that it may be interesting to see how the language in these fields benefit the user and the creator of intellectual property\cite{bileta_proposal_blakely}. In this analysis, I will map the dynamics of this change in legal and social perspective, to make evident moments of significant shifts in language. 
-			
-		Previously, analysis of the intersection between human rights and intellectual property law, such as Helfer's\cite{hr_ip_conflict_coexistence_helfer}, has been limited to more manual case-by-case methods. Supplying a more systematic method using natural language processing that can cope with large amounts of data would give concrete evidence of the relationship between human rights and intellectual proeprty. 
+		Dr. Megan Rae Blakely of Lancaster University is looking to persuade other academics that elements of human rights, especially cultural heritage, should be discussed in the intellectual property field and vice versa. She has determined that showing a strong and growing intersection between the fields will help to achieve these aims. For this reason, she is looking for assistance in analysing journals and legal instruments for overlap in their languages. 
+		
+		As well as the human rights and intellectual property, Dr. Blakely speculated that it may be interesting to see how the language in these fields benefit the user and the creator of intellectual property\cite{bileta_proposal_blakely} particularly because of the development of technology in the last few decades which has created ambiguity over who the user is. This will also help in the investigation over whether copyright is functioning as an incentive for creators to disseminate their works to the public.
+		
+		In this analysis, I will map the dynamics of this change in legal and social perspective, to make evident moments of significant shifts in language. Previously, analysis of the intersection between human rights and intellectual property law, such as Helfer's\cite{hr_ip_conflict_coexistence_helfer}, has been limited to more manual case-by-case methods. Supplying a more systematic method using natural language processing that can cope with large amounts of data could give concrete evidence of the relationship between human rights and intellectual property. 
 	\section{Ground Truths}
 		Dr. Blakely supplied a set of ground truths that she wished to analyse the language of. This consisted of the following:
 		\begin{itemize}
@@ -26,7 +28,7 @@
 			\item Four lists of words, shown in Table \ref{tab:keyword-list}: one that Dr. Blakely expects to see in documents about human rights, one that Dr. Blakely expects to see in documents about intellectual property, one that Dr. Blakely thinks indicates that a segment indicates benefits to the user and one that Dr. Blakely thinks indicates that a segment indicates benefits to the creator.
 		\end{itemize} 
 	\section{Requirements}\label{sec:req}
-		In the early stages of the project, I worked with Dr. Blakely to establish a set of requirements for the project. These requirements can be split into three categories: natural language processing, visualisation, and usability.  
+		In the early stages of the project, I discussed Dr. Blakely's aims for the project. Her key objective was to prove that natural language processing could be used by law academics via a tool to gather evidence on the differing languages in law fields. Bearing this in mind, I established a set of requirements which Dr. Blakely then approved. These requirements can be split into three categories: natural language processing, visualisation, and usability.  
 
 		Each of the following subsections discusses the requirements of a different category. Each subsection starts by specifying the deliverable elements for the category, followed by high-level criteria of how they will be evaluated. All goals needed to be completed by 16th April 2019, when Dr. Blakely presents to the British and Irish Law Education and Technology Association (BILETA) Conference. 
 		\subsection{Natural Language Processing}
@@ -42,12 +44,12 @@
 			These models will be successful if they meet the following criteria: 
 			\begin{itemize}
 				\item The model accurately represents a large proportion of the documents in the corpus with regards to its classification characteristics; 
-				\item The model deduces any trends in the corpus with regards to its classification characteristics, if those trends exist; 
+				\item The model deduces any trends in the corpus with regards to its classification characteristics if those trends exist;
+				\item The model must only consider the language of the content of the article. 
 			\end{itemize}
 			
-			The model must only consider the language of the content of the article. 
 		\subsection{Visualisation}
-			The previously mentioned models will then have to be visualised. Dr. Blakely stated her belief that a modification of Eboch's tone graph\cite{tone_graph_eboch} shown in Figure \ref{fig:eboch_adapt} would be a suitable visualisation for the models. This would involve an x-axis representing time, a y-axis representing human rights-intellectual property and a z-axis representing user-creator. 
+			The previously mentioned models will then have to be visualised. Dr. Blakely showed interest in exploring Eboch's tone graph\cite{tone_graph_eboch}, a modification of which is shown in Figure \ref{fig:eboch_adapt}, to start with. This would involve an x-axis representing time, a y-axis representing human rights-intellectual property and a z-axis representing user-creator. 
 			
 			\begin{figure}[h]
     			\centering
@@ -74,13 +76,14 @@
 			\begin{itemize}
 				\item Allow for input of new documents;
 				\item Display visualisations based on models with given documents as input;
-				\item Display information about success of model.
+				\item Display information about the success of the model.
 			\end{itemize}
 
 			The tool will be successful if it meets the following criteria: 
 			\begin{itemize}
 				\item The tool does not require any prior Computer Science knowledge to setup or use;
 				\item The tool has a graphical user interface which is intuitive; 
+				\item The tool allows for maximum time to be spent on analysis of results.
 			\end{itemize}
 			
 			The second type of stakeholder is the future developers furthering Dr. Blakely's research. These developers will be experts in natural language processing and computer science and so will be able to both use and change the tool to their liking. However, changes to the tool will only be easily changeable if the codebase for it is well written. 
@@ -91,5 +94,15 @@
 				\item It is easy to expand upon and adapt the overall codebase.
 			\end{itemize}
 
+		\section{Project Challenges}
+			The key challenges posed by achieving the requirements set out in Section \ref{sec:req} are presented in the following list:
+			\begin{itemize}
+				\item Managing priorities in a project with significant breadth so all aims have sufficient attention paid to them;
+				\item Working in the law domain which I have had no education in meant a lot of research needed to be done to understand the purpose of the project to motivate my decisions in the project;
+				\item Working in the law domain which has minimal similar established work meant that there was little precedent for my work and that more creativity was needed to solve the problems;
+				\item Understanding the preferences of a client and working around both our busy schedules;
+				\item Explaining computer science concepts in a paletable way to those with no computer science experience.
+			\end{itemize}
+
 		\section{Added Value}
-			This project is original in its application of natural language processing methods to find the relationship between intellectual property and human rights language. None of the individual computing methods used were original, but the added value appears through the iterative process which found the most appropriate visualisation of results for the domain. The outcome of the project will help add value to its domain by illustrating how historical changes in technology have impacted the tone of intellectual property law. Blakely points out that this, in turn, will allow legal professionals to consider how future technological changes will impact their work and adapt accordingly.
+			This project is original in its application of natural language processing methods to find the relationship between intellectual property and human rights language. The individual computing methods used were not original, but the added value appears through the iterative process which found the most appropriate visualisation and tool for the domain. The outcome of the project will help add value to the domain by illustrating how historical changes in technology have impacted the tone of intellectual property law. Blakely points out that this, in turn, will allow legal professionals to consider how future technological changes will impact their work and adapt accordingly.			
