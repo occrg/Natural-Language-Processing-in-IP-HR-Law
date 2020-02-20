@@ -11,6 +11,12 @@ class InfoFrame:
     def __init__(self, master, documentList):
         """
 
+
+        Arguments:
+        master       ()
+            --
+        documentList ()
+            --
         """
         self._master = master
 
@@ -22,6 +28,13 @@ class InfoFrame:
 
 
     def __construct(self, documentList):
+        """
+
+
+        Arguments:
+        documentList ()
+            --
+        """
         self._hripFrame = Frame(self._master, bg="white", bd=10)
         self._hripFrame.grid(row=0, column=0, sticky="nesw")
 
@@ -35,6 +48,10 @@ class InfoFrame:
     def update(self, documentList):
         """
 
+
+        Arguments:
+        documentList ()
+            --
         """
         self._hripFrame.destroy()
         self._trendsFrame.destroy()

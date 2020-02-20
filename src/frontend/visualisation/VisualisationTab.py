@@ -10,6 +10,12 @@ class VisualisationTab:
     def __init__(self, master, graphs):
         """
 
+
+        Arguments:
+        master (ttk.Frame)
+            --
+        graphs ([])
+            --
         """
         self._master = master
         self._tabs = []
@@ -24,6 +30,14 @@ class VisualisationTab:
     def __addTab(self, title):
         """
 
+
+        Arguments:
+        title (string)
+            --
+
+        Returns:
+        tab (ttk.Frame)
+            --
         """
         tab = ttk.Frame(self._notebook)
         self._notebook.add(tab, text=title)

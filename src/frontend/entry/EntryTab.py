@@ -12,6 +12,16 @@ class EntryTab:
     def __init__(self, master, uiObj, documentList):
         """
 
+
+        Arguments:
+        master       ()
+            --
+        entryObj     ()
+            --
+        uiObj        ()
+            --
+        documentList (DocumentList)
+            --
         """
         self._master = master
 

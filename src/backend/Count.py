@@ -3,7 +3,7 @@ from backend.Tokeniser import Tokeniser
 from backend.FrequencyCalc import FrequencyCalc
 
 """
-Stores data relating to feature counts of parent Document object.
+Stores data relating to feature counts of the parent Document.
 """
 class Count:
 
@@ -28,9 +28,9 @@ class Count:
 
         Arguments:
         filename  (str)
-            -- the filename of the parent Document object
+            -- the filename of the parent Document
         text      (str)
-            -- the text in the article of the parent Document object
+            -- the text in the article of the parent Document
         """
         text = self.tokeniser.splitByWord(text)
         self._textList = self.tokeniser.removeStopwords(text)
@@ -46,17 +46,16 @@ class Count:
 
         Arguments:
         filename           (str)
-            -- the filename of the parent Document object
+            -- the filename of the parent Document
         classWordLists     ([[str]])
-            -- a list of list of strings with each list representing
-               the features of a document in the class of the parent
-               Document object and each string representing a feature
-               in that Document object
+            -- a list of list of strings where each list represents a
+               Document within the class of the parent Document and
+               each string represents a feature in the Document's text
         nonClassWordLists  ([[str]])
-            -- a list of list of strings with each list representing
-               the features of a document not in the class of the
-               parent Document object and each string representing a
-               feature in that Document object
+            -- a list of list of strings where each list represents a
+               Document not in the class of the parent Document not in
+               the class of the parent Document object and each string
+               represents a feature in the Document's text
         """
         allWordLists = classWordLists.copy()
         allWordLists.extend(nonClassWordLists)
@@ -91,8 +90,7 @@ class Count:
         """
         Returns:
         self._features  ([str])
-            -- a list of strings with each string representing a unique
-               feature of the parent Document object
+            -- a list of unique features in the parent Document's text
         """
         return self._features
 
@@ -175,7 +173,7 @@ class Count:
 
         Arguments:
         filename  (str)
-            -- the filename of the parent Document object
+            -- the filename of the parent Document
         """
         self._features = self.io.lineSeparatedToList(                        \
             self._featureFolder + filename + '.txt')
@@ -194,7 +192,7 @@ class Count:
 
         Arguments:
         filename  (str)
-            -- the filename of the parent Document object
+            -- the filename of the parent Document
         """
         self._count = []
         countStrings = self.io.lineSeparatedToList(                          \
@@ -215,7 +213,7 @@ class Count:
 
         Arguments:
         filename  (str)
-            -- the filename of the parent Document object
+            -- the filename of the parent Document
         """
         tfStrings = self.io.lineSeparatedToList(                             \
             self._tfFolder + filename + '.txt')

@@ -23,6 +23,16 @@ class ButtonsFrame:
     def __init__(self, master, entryObj, uiObj, documentList):
         """
 
+
+        Arguments:
+        master       ()
+            --
+        entryObj     ()
+            --
+        uiObj        ()
+            --
+        documentList (DocumentList)
+            --
         """
         self._master = master
 
@@ -44,6 +54,14 @@ class ButtonsFrame:
     def __addDocument(self, documentList, entryObj, uiObj):
         """
 
+
+        Arguments:
+        documentList (DocumentList)
+            --
+        entryObj     ()
+            --
+        uiObj        ()
+            --
         """
         filePath = filedialog.askopenfilename(initialdir = "/",title = "Select file",filetypes = (("pdf files","*.pdf"),("all files","*.*")))
         rest, filenameAndExt = filePath.rsplit('/', 1)
@@ -57,6 +75,12 @@ class ButtonsFrame:
     def __trainDataCall(self, documentList, uiObj):
         """
 
+
+        Arguments:
+        documentList (DocumentList)
+            --
+        uiObj        ()
+            --
         """
         documentList.generateClassifications()
         documentList.trendAndVisualise()

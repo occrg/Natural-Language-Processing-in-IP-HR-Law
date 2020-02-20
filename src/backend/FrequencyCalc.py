@@ -10,6 +10,16 @@ class FrequencyCalc:
     def tfidfcf(self, tfidfZip, classWordLists):
         """
 
+
+        Arguments:
+        tdidfZip       ({string: int})
+            --
+        classWordLists ([string])
+            --
+
+        Returns:
+        tfidfcf ([float])
+            --
         """
         tfidfcf = []
         N = len(classWordLists)
@@ -26,6 +36,16 @@ class FrequencyCalc:
     def tfidf(self, tf, idf):
         """
 
+
+        Arguments:
+        tf  ([float])
+            --
+        idf ([float])
+            --
+
+        Returns:
+        tfidf ([float])
+            --
         """
         tfidf = []
         for i in range(len(tf)):
@@ -37,6 +57,14 @@ class FrequencyCalc:
     def tf(self, wordCount):
         """
 
+
+        Arguments:
+        wordCount ({string: int})
+            --
+
+        Returns:
+        tf ([float])
+            --
         """
         tf = []
         sum = self.__totalWords(wordCount)
@@ -47,6 +75,15 @@ class FrequencyCalc:
     def idf(self, docWords, wordLists):
         """
 
+        Arguments:
+        docWords  ([string])
+            --
+        wordLists ([[string]])
+            --
+
+        Returns:
+        idf ([float])
+            --
         """
         idf = []
         N = len(wordLists)
@@ -63,6 +100,14 @@ class FrequencyCalc:
     def __totalWords(self, wordCount):
         """
 
+
+        Arguments:
+        wordCount ({string: int})
+            --
+
+        Retunrs:
+        sum ([int])
+            -- 
         """
         sum = 0
         for (w, n) in wordCount:

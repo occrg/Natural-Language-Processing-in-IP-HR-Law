@@ -20,19 +20,31 @@ class PDFtext:
     def __init__(self, filename):
         """
 
+
+        Arguments:
+        filename (string)
+            --
         """
         self._pretext = self.__initialisePretext(filename)
         self._text = self.__initialiseText(filename)
 
     def getPretext(self):
         """
-
+        Returns:
+        self._pretext (string)
+            --
         """
         return self._pretext
 
     def cleanText(self, filename, journal):
         """
 
+
+        Arguments:
+        filename (string)
+            --
+        journal  (string)
+            --
         """
         text = self.converter.removeMetadataFromText(self._pretext, journal)
         text = self.converter.substituteKerning(text)
@@ -41,12 +53,25 @@ class PDFtext:
 
 
     def getText(self):
+        """
+        Returns:
+        self._text (string)
+            --
+        """
         return self._text
 
 
     def __initialisePretext(self, filename):
         """
 
+
+        Arguments:
+        filename (string)
+            --
+
+        Returns:
+        pretext (string)
+            --
         """
         pretext = self.io.txtFileToString(self._pretextFolder + filename + '.txt')
         if pretext == "-":
@@ -58,6 +83,14 @@ class PDFtext:
     def __initialiseText(self, filename):
         """
 
+
+        Arguments:
+        filename (string)
+            --
+
+        Returns:
+        text (string)
+            -- 
         """
         text = self.io.txtFileToString(self._textFolder + filename + '.txt')
         return text

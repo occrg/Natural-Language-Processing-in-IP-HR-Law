@@ -14,6 +14,22 @@ class Trend:
         dependentVar, Xs, Ys):
         """
 
+
+        Arguments:
+        gt             (int)
+            --
+        highCategory   (string)
+            --
+        lowCategory    (string)
+            --
+        independentVar (string)
+            --
+        dependentVar   (string)
+            --
+        Xs             ([float])
+            --
+        Ys             ([float])
+            --
         """
         self._gt = gt
         self._highCategory = highCategory
@@ -33,60 +49,80 @@ class Trend:
 
     def getX(self):
         """
-
+        Returns:
+        self._x (np.)
+            --
         """
         return self._x
 
     def getY(self):
         """
-
+        Returns:
+        self._y (float)
+            --
         """
         return self._y
 
     def getGradient(self):
         """
-
+        Returns:
+        self._gradient (float)
+            --
         """
         return self._gradient
 
     def getGt(self):
         """
-
+        Returns:
+        self._gt (int)
+            --
         """
         return self._gt
 
     def getPgradient(self):
         """
-
+        Returns:
+        self._pGradient (float)
+            --
         """
         return self._pGradient
 
     def getStatSigLimit(self):
         """
-
+        Returns:
+        self._statSigLimit (float)
+            --
         """
         return self._statSigLimit
 
     def getHighCategory(self):
         """
-
+        Returns:
+        self._highCategory (string)
+            --
         """
         return self._highCategory
 
     def getLowCategory(self):
         """
-
+        Returns:
+        self._lowCategory (string)
+            --
         """
         return self._lowCategory
 
     def getIndependentVar(self):
         """
-
+        Returns:
+        self._independentVar (string)
+            --
         """
         return self._independentVar
 
     def getDependentVar(self):
         """
-
+        Returns:
+        self._dependentVar (string)
+            --
         """
         return self._dependentVar

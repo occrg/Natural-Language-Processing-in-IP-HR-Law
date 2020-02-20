@@ -8,6 +8,10 @@ class HeaderFrame:
     def __init__(self, master):
         """
 
+
+        Arguments:
+        master       ()
+            --
         """
         self._master = master
         self._master.grid_columnconfigure(0, weight=20)

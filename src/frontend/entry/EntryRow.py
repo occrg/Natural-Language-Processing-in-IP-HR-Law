@@ -19,6 +19,16 @@ class EntryRow:
     def __init__(self, master, entryObj, document, documentList):
         """
 
+
+        Arguments:
+        master       ()
+            --
+        entryObj     ()
+            --
+        document     (Document)
+            --
+        documentList (DocumentList)
+            --
         """
         self._master = master
 
@@ -60,21 +70,52 @@ class EntryRow:
 
     def setTestVar(self, val):
         """
-
+        Arguments:
+        val ()
+            --
         """
         self._testVar.set(val)
 
     def __getInt(self, event, var):
+        """
+
+
+        Arguments:
+        var ()
+            --
+        Returns:
+        var.get (int)
+            --
+        """
         return var.get()
 
     def confirmEntry(self):
+        """
+
+        """
         self._document.makeFormChanges(self._titleVar.get(), self._dateVar.get(), self._journalVar.get(), self._testVar.get())
 
     def __removeEntry(self, entryObj, documentList):
+        """
+
+
+        Arguments:
+        entryObj     ()
+            --
+        documentList (DocumentList)
+            --
+        """
         documentList.removeDocument(self._document)
         self._document.removeData()
         entryObj.removeRowFromList(self._master)
         self._master.destroy()
 
     def __openPDF(self, pdfPath):
+        """
+
+
+        Arguments:
+        pdfPath (string)
+            --
+        """
         os.system('xdg-open %s' % pdfPath)

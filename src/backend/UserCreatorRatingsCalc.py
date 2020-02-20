@@ -24,6 +24,10 @@ class UserCreatorRatingsCalc:
     def userCreatorProportion(self, documents):
         """
 
+
+        Arguments:
+        documents ([Document])
+            --
         """
         creatorPhrases =                                                     \
             self.io.lineSeparatedToList(self._creatorPhrasesPath)
@@ -69,6 +73,10 @@ class UserCreatorRatingsCalc:
     def userCreatorScore(self, documents):
         """
 
+
+        Arguments:
+        documents [Document]
+            -- 
         """
         creatorPhrases =                                                     \
             self.io.lineSeparatedToList(self._creatorPhrasesPath)

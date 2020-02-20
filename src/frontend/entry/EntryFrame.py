@@ -12,6 +12,12 @@ class EntryFrame:
     def __init__(self, master, documentList):
         """
 
+
+        Arguments:
+        master       ()
+            --
+        documentList (DocumentList)
+            --
         """
         self._master = master
 

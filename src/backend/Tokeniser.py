@@ -18,6 +18,14 @@ class Tokeniser:
     def splitByWord(self, text):
         """
 
+
+        Arguments:
+        text (string)
+            --
+
+        Returns:
+        words ([string])
+            --
         """
         text = self.__removeNewLines(text)
         text = self.__removePunctuation(text)
@@ -32,6 +40,14 @@ class Tokeniser:
     def splitBySentence(self, text):
         """
 
+
+        Arguments:
+        text (string)
+            --
+
+        Returns:
+        senetences ([string])
+            --
         """
         text = ''.join(i for i in text if not i.isdigit())
         sentenceBlocks = self.__separatingIntoSentenceBlocks(text)
@@ -41,6 +57,16 @@ class Tokeniser:
     def removeSentencesWithoutPhrases(self, phrases, sentences):
         """
 
+
+        Arguments:
+        phrases   ([string])
+            --
+        sentences ([string])
+            --
+
+        Returns:
+        sentencesWithPhrases ([string])
+            --
         """
         sentencesWithPhrases = []
         for sentence in sentences:
@@ -55,6 +81,14 @@ class Tokeniser:
     def __removeNewLines(self, text):
         """
 
+
+        Arguments:
+        text (string)
+            --
+
+        Returns:
+        text (string)
+            --
         """
         text = text.replace('-\n', '')
         text = text.replace('\n', ' ')
@@ -65,6 +99,14 @@ class Tokeniser:
     def __removePunctuation(self, text):
         """
 
+
+        Arguments:
+        text (string)
+            --
+
+        Returns:
+        text (string)
+            --
         """
         punctuation = re.compile(r'[.?…!,¸_/"º`\'‘“””’%:;*()[\]<>{}0-9]')
         text = punctuation.sub("", text)
@@ -74,6 +116,14 @@ class Tokeniser:
     def __lowerCaseWords(self, words):
         """
 
+
+        Arguments:
+        words ([string])
+            --
+
+        Returns:
+        lowerCaseWords ([string])
+            --
         """
         lowerCaseWords = []
         for w in words:
@@ -84,6 +134,14 @@ class Tokeniser:
     def removeStopwords(self, words):
         """
 
+
+        Arguments:
+        words ([string])
+            --
+
+        Returns:
+        wordsWOstops ([string])
+            --
         """
         wordsWOstops = []
         for w in words:
@@ -94,6 +152,14 @@ class Tokeniser:
     def __removeStopstrings(self, words):
         """
 
+
+        Arguments:
+        words ([string])
+            --
+
+        Returns:
+        wordsWOstops ([string])
+            --
         """
         wordsWOstops = []
         for w in words:
@@ -108,6 +174,10 @@ class Tokeniser:
     def __removeIntegers(self, words):
         """
 
+
+        Arguments:
+        words ([string])
+            --
         """
         for w in words:
             try:
@@ -119,6 +189,14 @@ class Tokeniser:
     def __lemmatise(self, words):
         """
 
+
+        Arguments:
+        words ([string])
+            --
+
+        Returns:
+        lemmatisedWords ([string])
+            --
         """
         lemmatisedWords = []
         lemma = nltk.wordnet.WordNetLemmatizer()
@@ -131,6 +209,14 @@ class Tokeniser:
     def __removeEmpties(self, words):
         """
 
+
+        Arguments:
+        words ([string])
+            --
+
+        Returns:
+        words ([string])
+            --
         """
         while '' in words:
             words.remove('')
@@ -139,6 +225,14 @@ class Tokeniser:
     def __separatingIntoSentenceBlocks(self, text):
         """
 
+
+        Arguments:
+        text (string)
+            --
+
+        Returns:
+        sentences ([string])
+            --
         """
         pars = text.split("\n\n")
         parsSplitBySentence = []
@@ -153,6 +247,14 @@ class Tokeniser:
     def __cleanSentence(self, sentence):
         """
 
+
+        Arguments:
+        sentence (string)
+            --
+
+        Returns:
+        cleanedSentence (string)
+            --
         """
         cleanedSentence = []
         sentence = self.__removeNewLines(sentence)

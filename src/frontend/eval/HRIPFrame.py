@@ -8,6 +8,12 @@ class HRIPFrame:
     def __init__(self, master, documentList):
         """
 
+
+        Arguments:
+        master       ()
+            --
+        documentList ()
+            -- 
         """
         self._master = master
 

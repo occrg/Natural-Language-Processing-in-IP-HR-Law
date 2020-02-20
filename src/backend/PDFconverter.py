@@ -23,6 +23,14 @@ class PDFconverter:
     def pdfToString(self, filename):
         """
 
+
+        Arguments:
+        filename ()
+            --
+
+        Returns:
+        text ()
+            --
         """
         rsrcmgr = PDFResourceManager()
         retstr = StringIO()
@@ -55,6 +63,16 @@ class PDFconverter:
     def removeMetadataFromText(self, text, journal):
         """
 
+
+        Arguments:
+        text    (string)
+            --
+        journal (string)
+            --
+
+        Returns:
+        text (string)
+            --
         """
         if journal == "International Journal of Heritage Studies":
             text = re.sub(r'([\w\W]*?Full Terms[\w\W]*?https[\w\W]*?\n\n)', '', text, flags=re.IGNORECASE)
@@ -83,6 +101,14 @@ class PDFconverter:
     def substituteKerning(self, text):
         """
 
+
+        Arguments:
+        text (string)
+            --
+
+        Returns:
+        text (string)
+            --
         """
         text = text.replace('ﬁ ', 'fi')
         text = text.replace('(cid:222)', 'fi')
@@ -98,6 +124,20 @@ class PDFconverter:
     def extractJournalFromText(self, journal, text, filename):
         """
 
+
+        Arguments:
+        journal  ()
+            --
+        text     ()
+            --
+        filename ()
+            --
+
+        Returns:
+        journal (string)
+            --
+        period  (string)
+            --
         """
         if journal == "-":
             if re.match(r'^International Journal of Heritage Studies', text):
@@ -141,6 +181,18 @@ class PDFconverter:
     def extractTitleFromText(self, journal, period, text):
         """
 
+
+        Arguments:
+        journal (string)
+            --
+        period  (string)
+            --
+        text    (string)
+            --
+
+        Returns:
+        title (string)
+            --
         """
         try:
             title = "-"
@@ -167,6 +219,14 @@ class PDFconverter:
     def getTitleFromPDFmetadata(self, filename):
         """
 
+
+        Arguments:
+        filename (string)
+            --
+
+        Returns:
+        title    (string)
+            --
         """
         fp = open(self._pdfFolder + filename + '.pdf', 'rb')
         parser = PDFParser(fp)
@@ -187,6 +247,18 @@ class PDFconverter:
     def extractDateFromText(self, journal, period, text):
         """
 
+
+        Arguments:
+        journal (string)
+            --
+        period  (string)
+            --
+        text    (string)
+            --
+
+        Returns:
+        date (datetime.date)
+            --
         """
         try:
             date = "-"
@@ -217,6 +289,17 @@ class PDFconverter:
     def getDateFromPDFmetadata(self, filename, date, journal):
         """
 
+
+        Arguments:
+        filename (string)
+            --
+        date     ()
+            --
+        journal  (string)
+            -- 
+        Returns:
+        date     (datetime.date)
+            --
         """
         if date == "-":
             updateDate = True

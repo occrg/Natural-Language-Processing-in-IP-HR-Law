@@ -14,21 +14,20 @@ class ClassificationTools:
         scikitlearn functions.
 
         Arguments:
-        documents    ([Document])
-            -- a list of Document objects that are to be restructured
-        documentList (DocumentList)
-            -- the DocumentList object that contains the list of
-               features the model uses
+        documents     ([Document])
+            -- the Documents that are to be restructured
+        documentList  (DocumentList)
+            -- the DocumentList that contains the list of features the
+               model uses
 
         Returns:
-        X             (np.array)
+        X              (np.array)
             -- a matrix where each row represents a different Document
                object from $documents and each column represents a
-               different feature from the training documents in
+               different feature from the training Documents in
                $documentList
-        Y             ([int])
-            -- a list of integers that indicate the ordered ground
-               truth of each Document object in $documents
+        Y              ([int])
+            -- the ordered ground truth of each Document in $documents
         """
         features = documentList.getTrainingFeatures()
         X = np.zeros((len(documents), len(features)))
@@ -46,13 +45,14 @@ class ClassificationTools:
         Trains the given data.
 
         Arguments:
-        X    ()
-            --
-        Y    ()
-            --
+        X    (np.array)
+            -- a matrix where the nth row corresponds to the nth value
+               of Y and each column represents a different feature
+        Y    ([int])
+            -- the ground truths to be trained on
 
         Returns:
-        clf  ()
+        clf  (svm.SVC)
             --
         """
         clf = svm.SVC(gamma='scale', probability=True)
@@ -63,13 +63,16 @@ class ClassificationTools:
     def evaluateClassification(self, probsTest, Ytest):
         """
         Generates the values of a confusion matrix based on
-        probabilities of classes and document ground truths.
+        probabilities of classes and Document ground truths.
 
         Arguments:
         probsTest  ([(float, float)])
-            --
+            -- a list of tuples where the 0th value of the tuple is
+               the probability that the Document belongs to class 0 and
+               the 1st value of the tuple is the probability belongs to
+               class 1
         Ytest      ([int])
-            --
+            -- the classes of each Document
 
         Returns:
         tp   (int)

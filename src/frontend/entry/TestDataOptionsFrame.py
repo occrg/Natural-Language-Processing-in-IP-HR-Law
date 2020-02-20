@@ -12,6 +12,12 @@ class TestDataOptionsFrame:
     def __init__(self, entryObj, documentList):
         """
 
+
+        Arguments:
+        entryObj     ()
+            --
+        documentList (DocumentList)
+            --
         """
         popup = Tk()
         popup.wm_title("Test Data Options")

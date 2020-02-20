@@ -9,9 +9,14 @@ from frontend.entry.EntryFrame import EntryFrame
 
 """
 class EntryHeaderFrame:
-    def __init__(self, master, documentList):
         """
 
+
+        Arguments:
+        master       ()
+            --
+        documentList ()
+            --
         """
         self._master = master
 
@@ -32,4 +37,9 @@ class EntryHeaderFrame:
 
 
     def getEntryObject(self):
+        """
+        Returns:
+        self._entryObject ()
+            -- 
+        """
         return self._entryObject

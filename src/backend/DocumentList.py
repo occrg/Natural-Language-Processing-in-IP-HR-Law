@@ -35,7 +35,7 @@ class DocumentList:
         self.ucCalc.userCreatorProportion(self._documents)
         self.trendAndVisualise()
         self._crossValidation = CrossValidation()
-        self._crossValidation.crossValidateAll(self, 4) # TEMP
+        # self._crossValidation.crossValidateAll(self, 4) # TEMP
 
     def trendAndVisualise(self):
         """
@@ -60,6 +60,14 @@ class DocumentList:
     def __generateVisualisations(self, date, hr_ip, user_creator):
         """
 
+
+        Arguments:
+        date         ()
+            --
+        hr_ip        ()
+            --
+        user_creator ()
+            --
         """
         noTrends = []
         iphrTrends = []
@@ -79,65 +87,96 @@ class DocumentList:
 
     def getDocuments(self):
         """
-
+        Returns:
+        self._documents ([Document])
+            --
         """
         return self._documents
 
     def addDocument(self, document):
         """
-
+        Arguments:
+        document (Document)
+            --
         """
         self._documents.append(document)
 
     def removeDocument(self, document):
         """
-
+        Arguments:
+        document (Document)
+            --
         """
         self._documents.remove(document)
 
     def getGraphs(self):
         """
-
+        Returns:
+        self._graphs ([Graph])
+            --
         """
         return self._graphs
 
     def addGraph(self, graph):
         """
-
+        Arguments:
+        graph (Graph)
+            --
         """
         self._graphs.append(graph)
 
     def getClassification(self):
         """
-
+        Returns:
+        self._classification (Classification)
+            --
         """
         return self._classification
 
     def getTrends(self):
         """
-
+        Returns:
+        self._trends (Trend)
+            --
         """
         return self._trends
 
     def getCrossValidation(self):
         """
-
+        Returns:
+        self._crossValidation (CrossValidation)
+            --
         """
         return self._crossValidation
 
     def getAllFeatures(self):
         """
-
+        Returns:
+        self._allFeatures ([string])
+            --
         """
         return self._allFeatures
 
     def getTrainingFeatures(self):
         """
-
+        Returns:
+        self._trainingFeatures ([string])
+            -- 
         """
         return self._trainingFeatures
 
     def getTrainTestDocuments(self, test):
+        """
+
+
+        Arguments:
+        test (int)
+            --
+
+        Returns:
+        documents ([Document])
+            --
+        """
         documents = []
         for document in self._documents:
             if document.getClassInformation().getTest() == test:
@@ -145,6 +184,17 @@ class DocumentList:
         return documents
 
     def getGtDocuments(self, gt):
+        """
+
+
+        Arguments:
+        gt (int)
+            --
+
+        Returns:
+        documents ([Document])
+            --
+        """
         documents = []
         for document in self._documents:
             if document.getClassInformation().getGt() == gt:
@@ -194,6 +244,13 @@ class DocumentList:
 
 
     def __setRandomTestInstances(self, prop):
+        """
+
+
+        Arguments:
+        prop (float)
+            --
+        """
         total = len(self._documents)
         testNum = int(prop * total)
         trainNum = total - testNum
@@ -222,6 +279,13 @@ class DocumentList:
     def __getDocumentsWordLists(self, documents):
         """
 
+
+        Arguments:
+        documents ([Document])
+            --
+
+        Returns:
+        wordLists ([[string]])
         """
         wordLists = []
         for document in documents:

@@ -10,7 +10,13 @@ from frontend.eval.ButtonsFrame import ButtonsFrame
 class EvalTab:
     def __init__(self, master, documentList):
         """
+        
 
+        Arguments:
+        master       ()
+            --
+        documentList (DocumentList)
+            --
         """
         self._master = master
 

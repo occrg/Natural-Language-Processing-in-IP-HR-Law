@@ -13,6 +13,12 @@ class UI:
     def __init__(self, title, documentList):
         """
 
+
+        Arguments:
+        title        ()
+            --
+        documentList ()
+            --
         """
         self._root = Tk()
         self._width = self._root.winfo_screenwidth()
@@ -29,6 +35,14 @@ class UI:
     def addTab(self, title):
         """
 
+
+        Arguments:
+        title (string)
+            --
+
+        Returns:
+        tab (ttk.Frame)
+            --
         """
         tab = ttk.Frame(self._notebook)
         self._notebook.add(tab, text=title)
@@ -38,6 +52,17 @@ class UI:
     def insertTab(self, place, title):
         """
 
+
+        Arguments:
+        place (int)
+            --
+
+        title (string)
+            --
+
+        Returns:
+        tab (ttk.Frame)
+            --
         """
         tab = ttk.Frame(self._notebook)
         self._notebook.insert(place, tab, text=title)
@@ -46,6 +71,8 @@ class UI:
 
     def getNotebook(self):
         """
-
+        Returns:
+        self._notebook (ttk.Notebook)
+            -- 
         """
         return self._notebook

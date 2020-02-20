@@ -13,6 +13,12 @@ class VisualisationFrame:
     def __init__(self, master, graph):
         """
 
+
+        Arguments:
+        master (ttk.Frame)
+            --
+        graph  ()
+            --
         """
         self._master = master
 
@@ -32,6 +38,6 @@ class VisualisationFrame:
 
     def __on_key_press(self, event):
         """
-
+        
         """
         key_press_handler(event, self._canvas, self._toolbar)

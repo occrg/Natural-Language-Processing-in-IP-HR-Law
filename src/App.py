@@ -10,6 +10,9 @@ class App:
     io = FilesIO()
 
     def __init__(self):
+        """
+
+        """
         # self.io.fillDocumentRecords('data/store/documentDetails.csv')
         self._documentList = DocumentList()
         self._ui = UI('HR-IP Analysis', self._documentList)

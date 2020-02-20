@@ -19,6 +19,20 @@ class Graph:
         documentList):
         """
 
+
+        Arguments:
+        title        (string)
+            --
+        date         ()
+            --
+        hr_ip        ([[float]])
+            --
+        user_creator ([[float]])
+            --
+        trends       ([])
+            --
+        documentList ([Document])
+            --
         """
         self._testDocuments = documentList.getTrainTestDocuments(1)
         self._title = title
@@ -38,37 +52,55 @@ class Graph:
 
     def getTitle(self):
         """
-
+        Returns:
+        self._title (string)
+            --
         """
         return self._title
 
     def getFig(self):
         """
-
+        Returns:
+        self._fig ()
+            --
         """
         return self._fig
 
     def getAx(self):
         """
-
+        Returns:
+        self._ax ()
+            --
         """
         return self._ax
 
     def getAnnot(self):
         """
-
+        Returns:
+        self._annot ()
+            --
         """
         return self._annot
 
     def getTrends(self):
         """
-
+        Returns:
+        self._trends ()
+            --
         """
         return self._trends
 
     def __create3dGraph(self, Xs, Ys, Zs):
         """
 
+
+        Arguments:
+        Xs ([float])
+            --
+        Ys ([float])
+            --
+        Zs ([float])
+            --
         """
         fig = Figure()
         ax = Axes3D(fig)
@@ -123,6 +155,13 @@ class Graph:
     def __createIPHRgraph(self, Xs, Ys, trends):
         """
 
+
+        Arguments:
+        Xs     ([float])
+            --
+        Ys     ([float])
+            --
+        trends ([])
         """
         fig = plt.figure()
         ax = plt.axes()
@@ -223,6 +262,12 @@ class Graph:
     def __createIPHRUserCreatorGraph(self, Xs, Ys):
         """
 
+
+        Arguments:
+        Xs     ([float])
+            --
+        Ys     ([float])
+            --
         """
         fig = plt.figure()
         ax = plt.axes()
@@ -262,6 +307,12 @@ class Graph:
     def hover(self, event, canvas):
         """
 
+
+        Arguments:
+        event  ()
+            --
+        canvas ()
+            -- 
         """
         vis = self._annot.get_visible()
         if event.inaxes == self._ax:
@@ -279,6 +330,12 @@ class Graph:
     def __update_annot(self, sc, ind):
         """
 
+
+        Arguments:
+        sc  ()
+            --
+        ind (int)
+            --
         """
         pos = sc.get_offsets()[ind["ind"][0]]
         document = self._testDocuments[self._indexDict[tuple(pos)]]
@@ -295,6 +352,10 @@ class Graph:
     def __compileIndexDict(self, testDocuments):
         """
 
+
+        Arguments:
+        testDoucments ([Document])
+            --
         """
         indexDict = {}
         for c, document in enumerate(testDocuments):
@@ -311,6 +372,14 @@ class Graph:
     def __create3dGraphWithPlanes(self, Xs, Ys, Zs):
         """
 
+
+        Arguments:
+        Xs ([float])
+            --
+        Ys ([float])
+            --
+        Zs ([float])
+            --
         """
         fig = Figure()
         ax = Axes3D(fig)

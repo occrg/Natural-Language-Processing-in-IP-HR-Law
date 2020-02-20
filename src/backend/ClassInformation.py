@@ -2,7 +2,7 @@ from backend.FilesIO import FilesIO
 
 
 """
-Stores the parent Document object's class related information.
+Stores the parent Document's class related information.
 """
 class ClassInformation:
 
@@ -15,24 +15,23 @@ class ClassInformation:
         Arguments:
         test        (int)
             -- an integer representing whether the parent Document
-               object is a test (1) or a train (0) document
+               object is a test (1) or a training (0) document
         hrRat       (float)
-            -- a float representing the human rights rating of the
-               parent Document object
+            -- a rating of how much the document has language
+               typical of the topic of human rights law
         ipRat       (float)
-            -- a float representing the intellectual property rating of
-               the parent Document object
+            -- a rating of how much the document has language
+               typical of the topic of intellectual property law
         userRat     (float)
-            -- a float representing the user rating of the parent
-               Document object
+            -- a rating of how much the document has language
+               suggesting the protection of the user of intellectual
+               property
         creatorRat  (float)
-            -- a float representing the creator rating of the parent
-               Document object
-
-        Returns:
+            -- a rating of how much the document has language
+               suggesting the protection of the creator of intellectual
+               property
         journal     (str)
-            -- a string representing the journal that the parent
-               Document object comes from
+            -- the journal that the parent Document comes from
         """
         self.deduceGt(journal)
         self._test = int(test)
@@ -67,8 +66,8 @@ class ClassInformation:
         """
         Returns:
         hrRat  (float)
-            -- a float representing the human rights rating of the
-               parent Document object
+            -- a rating of how much the document has language
+               typical of the topic of human rights law
         """
         return self._hrRat
 
@@ -76,8 +75,8 @@ class ClassInformation:
         """
         Arguments:
         hrRat  (float)
-            -- a float representing the human rights rating of the
-               parent Document object
+            -- a rating of how much the document has language
+               typical of the topic of human rights law
         """
         self._hrRat = hrRat
 
@@ -86,8 +85,8 @@ class ClassInformation:
         """
         Returns:
         ipRat  (float)
-            -- a float representing the intellectual property rating of
-               the parent Document object
+            -- a rating of how much the document has language
+               typical of the topic of intellectual property law
         """
         return self._ipRat
 
@@ -95,8 +94,8 @@ class ClassInformation:
         """
         Arguments:
         ipRat  (float)
-            -- a float representing the intellectual property rating of
-               the parent Document object
+            -- a rating of how much the document has language
+               typical of the topic of intellectual property law
         """
         self._ipRat = ipRat
 
@@ -105,8 +104,9 @@ class ClassInformation:
         """
         Returns:
         userRat  (float)
-            -- a float representing the user rating of the parent
-               Document object
+            -- a rating of how much the document has language
+               suggesting the protection of the user of intellectual
+               property
         """
         return self._userRat
 
@@ -114,8 +114,9 @@ class ClassInformation:
         """
         Arguments:
         userRat  (float)
-            -- a float representing the user rating of the parent
-               Document object
+            -- a rating of how much the document has language
+               suggesting the protection of the user of intellectual
+               property
         """
         self._userRat = userRat
 
@@ -124,8 +125,9 @@ class ClassInformation:
         """
         Returns:
         creatorRat  (float)
-            -- a float representing the creator rating of the parent
-               Document object
+            -- a rating of how much the document has language
+               suggesting the protection of the creator of intellectual
+               property
         """
         return self._creatorRat
 
@@ -133,8 +135,9 @@ class ClassInformation:
         """
         Arguments:
         creatorRat  (float)
-            -- a float representing the creator rating of the parent
-               Document object
+            -- a rating of how much the document has language
+               suggesting the protection of the creator of intellectual
+               property
         """
         self._creatorRat = creatorRat
 
@@ -144,7 +147,7 @@ class ClassInformation:
         Returns:
         test  (int)
             -- an integer representing whether the parent Document
-               object is a test (1) or a train (0) document
+               object is a test (1) or a training (0) document
         """
         return self._test
 
@@ -153,20 +156,19 @@ class ClassInformation:
         Arguments:
         test  (int)
             -- an integer representing whether the parent Document
-               object is a test (1) or a train (0) document
+               object is a test (1) or a training (0) document
         """
         self._test = test
 
 
     def deduceGt(self, journal):
         """
-        Assigns the parent Document object's ground truth based on the
-        journal it comes from
+        Assigns the parent Document's ground truth based on the journal
+        it comes from
 
         Arguments:
         journal     (str)
-            -- a string representing the journal that the parent
-               Document object comes from
+            -- the journal that the parent Document comes from
         """
         if journal == "International Journal of Heritage Studies"            \
             or journal == "International Journal of Cultural Property"       \

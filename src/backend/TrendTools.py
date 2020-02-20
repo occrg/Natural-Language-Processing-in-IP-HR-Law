@@ -12,6 +12,10 @@ class TrendTools:
     def arrangeIntoPoints(self, testDocuments):
         """
 
+
+        Arguments:
+        testDocuments ([Document])
+            --
         """
         date_HR = []
         date_IP = []
@@ -46,6 +50,14 @@ class TrendTools:
     def generateTrends(self, date, hr_ip, user_creator):
         """
 
+
+        Arguments:
+        date (datetime.date)
+            --
+        hr_ip ([float])
+            --
+        user_creator ([float])
+            --
         """
         trends = []
         for i in range(len(date)):

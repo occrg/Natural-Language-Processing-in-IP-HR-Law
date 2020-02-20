@@ -29,7 +29,7 @@ class CrossValidation:
 
     def crossValidateAll(self, documentList, split):
         """
-        Cross validates the Document objects contained in $documentList.
+        Cross validates the Document contained in $documentList.
 
         Arguments:
         documentList  (DocumentList)
@@ -127,8 +127,8 @@ class CrossValidation:
                the parent DocumentList object and each column
                representing a feature
         Yall                (np.array)
-            -- a list of ground truths for each Document object in the
-               parent Document object
+            -- a list of ground truths for each Document in the parent
+               Document
         trainIndexesList    ([[int]])
             -- a list of lists with each list representing a different
                train and test and each integer representing the integer
@@ -194,7 +194,8 @@ class CrossValidation:
             Ytest = []
             for document in testDocuments:
                 classInfo = document.getClassInformation()
-                probsTest.append((classInfo.getHrRat(), classInfo.getIpRat()))
+                probsTest.append(                                            \
+                    (classInfo.getHrRat(), classInfo.getIpRat()))
                 Ytest.append(classInfo.getGt())
             tp, tn, fp, fn =                                                 \
                 self.classTools.evaluateClassification(probsTest, Ytest)

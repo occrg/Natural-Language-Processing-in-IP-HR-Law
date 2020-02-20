@@ -9,7 +9,8 @@ class FilesIO:
     _dataFolder = 'data/'
     _storeFolder = _dataFolder + 'store/'
     _detailsFile = _storeFolder + 'documentDetails.csv'
-    _visualisationEvaluationFile = _storeFolder + 'visualisationEvaluationData.csv'
+    _visualisationEvaluationFile =                                           \
+        _storeFolder + 'visualisationEvaluationData.csv'
     _crossValEvauluationFile = _storeFolder + 'crossValEvaluationData.csv'
     _pdfFolder = _dataFolder + 'pdf/'
     _pretextFolder = _dataFolder + 'text/before/'
@@ -26,6 +27,16 @@ class FilesIO:
     def exportPoints(self, filepath, Xs, Ys, Zs):
         """
 
+
+        Arguments:
+        filepath (string)
+            --
+        Xs       ([float])
+            --
+        Ys       ([float])
+            --
+        Zs       ([float])
+            --
         """
         table = []
         for p in range(len(Xs)):
@@ -38,9 +49,14 @@ class FilesIO:
     def fillDocumentRecords(self, destination):
         """
 
+
+        Arguments:
+        destination (string)
+            --
         """
         table = []
-        table.append("filename,title,journal,date,test,hrRat,ipRat,userRat,creatorRat")
+        table.append(                                                        \
+            "filename,title,journal,date,test,hrRat,ipRat,userRat,creatorRat")
         filePaths = self.__loadListOfFilePaths(self._pdfFolder)
         for path in filePaths:
             root, filenameAndExt = path.rsplit('/', 1)
@@ -54,6 +70,10 @@ class FilesIO:
     def __loadListOfFilePaths(self, folder):
         """
 
+
+        Arguments:
+        folder (string)
+            --
         """
         filePaths = []
         for file in os.listdir(folder):
@@ -66,6 +86,10 @@ class FilesIO:
     def removeDocumentData(self, filename):
         """
 
+
+        Arguments:
+        filename (string)
+            --
         """
         file = open(self._detailsFile, 'r', errors='replace')
         table = []
@@ -81,6 +105,10 @@ class FilesIO:
     def removeAssociatedFiles(self, filename):
         """
 
+
+        Arguments:
+        filename (string)
+            --
         """
         try:
             os.remove(self._pdfFolder + filename + '.pdf')
@@ -123,6 +151,10 @@ class FilesIO:
     def outputDocumentData(self, document):
         """
 
+
+        Arguments:
+        document (Document)
+            --
         """
         file = open(self._detailsFile, 'r', errors='replace')
         table = []
@@ -146,15 +178,15 @@ class FilesIO:
                     document.getClassInformation().getCreatorRat())
             table.append(line)
         if alreadyLogged == False:
-            line = '%s,%s,%s,%s,%s,%s,%s,%s,%s' % (                      \
-                document.getFilename(),                                  \
-                document.getPDFmetadata().getTitle(),                    \
-                document.getPDFmetadata().getJournal(),                  \
-                document.getPDFmetadata().getDate(),                     \
-                document.getClassInformation().getTest(),                \
-                document.getClassInformation().getHrRat(),               \
-                document.getClassInformation().getIpRat(),               \
-                document.getClassInformation().getUserRat(),             \
+            line = '%s,%s,%s,%s,%s,%s,%s,%s,%s' % (                          \
+                document.getFilename(),                                      \
+                document.getPDFmetadata().getTitle(),                        \
+                document.getPDFmetadata().getJournal(),                      \
+                document.getPDFmetadata().getDate(),                         \
+                document.getClassInformation().getTest(),                    \
+                document.getClassInformation().getHrRat(),                   \
+                document.getClassInformation().getIpRat(),                   \
+                document.getClassInformation().getUserRat(),                 \
                 document.getClassInformation().getCreatorRat())
             table.append(line)
         newFile = open(self._detailsFile, 'w', errors='replace')
@@ -164,23 +196,41 @@ class FilesIO:
     def outputVisualisationEvaluationData(self, classification):
         """
 
+
+        Arguments:
+        classification (Classification)
+            --
         """
         testScore = classification.getTestScore()
         tp, tn, fp, fn = classification.getTFPNs()
         table = []
         table.append(str(testScore))
         table.append("%s,%s,%s,%s" % (tp, tn, fp, fn))
-        newFile = open(self._visualisationEvaluationFile, 'w', errors='replace')
+        newFile =                                                            \
+            open(self._visualisationEvaluationFile, 'w', errors='replace')
         newFile.write("\n".join(table))
         newFile.close()
 
     def retrieveVisualisationEvaluationData(self):
         """
 
+
+        Returns:
+        testScore (float)
+            --
+        tp        (int)
+            --
+        tn        (int)
+            --
+        fp        (int)
+            --
+        fn        (int)
+            --
         """
         crossValScore = []
         try:
-            file = open(self._visualisationEvaluationFile, 'r', errors='replace')
+            file = open(                                                     \
+                self._visualisationEvaluationFile, 'r', errors='replace')
             lines = file.readlines()
             line0 = lines[0]
             testScore = float(line0.replace('\n', ''))
@@ -203,6 +253,10 @@ class FilesIO:
     def outputCrossValEvaluationData(self, crossValidation):
         """
 
+
+        Arguments:
+        crossValidation (CrossValidation)
+            --
         """
         table = []
         crossValScore = crossValidation.getCrossValScore()
@@ -217,6 +271,12 @@ class FilesIO:
     def retrieveCrossValEvaluationData(self):
         """
 
+
+        Returns:
+        crossValScore  (float)
+            --
+        trendsCrossVal ([float])
+            --
         """
         crossValScore = []
         trendsCrossVal = []
@@ -245,6 +305,14 @@ class FilesIO:
     def txtFileToString(self, path):
         """
 
+
+        Arguments:
+        path (string)
+            --
+
+        Returns:
+        text (string)
+            --
         """
         try:
             file = open('%s' % path, 'r', errors='replace')
@@ -260,6 +328,14 @@ class FilesIO:
     def lineSeparatedToList(self, path):
         """
 
+
+        Arguments:
+        path (string)
+            --
+
+        Returns:
+        phrases ([string])
+            --
         """
         try:
             file = open(path, 'r', errors='replace')
@@ -284,6 +360,12 @@ class FilesIO:
     def stringToTXTfile(self, text, path):
         """
 
+
+        Arguments:
+        text (string)
+            --
+        path (string)
+            --
         """
         newFile = open(path, 'w', errors='replace')
         newFile.write(text + '\n')
@@ -293,6 +375,10 @@ class FilesIO:
     def getFileLinesAsList(self):
         """
 
+
+        Returns:
+        lines ([string])
+            --
         """
         file = open(self._detailsFile, 'r', errors='replace')
         lines = []
@@ -305,6 +391,14 @@ class FilesIO:
     def __loadListOfFilenames(self, folder):
         """
 
+
+        Arguments:
+        folder (string)
+            --
+
+        Returns:
+        names (sting)
+            -- 
         """
         names = []
         for file in os.listdir(folder):

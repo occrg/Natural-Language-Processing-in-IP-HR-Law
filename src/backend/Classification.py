@@ -23,12 +23,12 @@ class Classification:
 
     def classifyDocuments(self, documentList):
         """
-        Train and test documents in $documentList.
+        Train and test Documents in $documentList.
 
         Arguments:
         documentList (DocumentList)
-            -- the DocumentList object containing the information of
-               the documents to be classified
+            -- the object containing the information of the Documents
+               to be classified
         """
         testDocuments, Xtrain, Ytrain, Xtest, Ytest =                        \
             self.__splitDocuments(documentList)
@@ -81,8 +81,7 @@ class Classification:
 
         Returns:
         testDocuments ([Document])
-            -- the list of Document objects the classification is to be
-               tested against
+            -- the Documents the classification is to be tested against
         Xtrain        (np.array)
             -- the matrix of feature counts for the training data
         Ytain         ([int])
@@ -109,11 +108,10 @@ class Classification:
 
         Arguments:
         probabilities ([(float,float)])
-            -- a list of tuples where each probability represents a
-               different class
+            -- a list of tuples where each float represents the
+               probability that the Document belongs to a given class
         testDocuments ([Document])
-            -- the list of Document objects that the classification was
-               tested against
+            -- the Documents that the classification was tested against
         """
         for (r, document) in enumerate(testDocuments):
             document.getClassInformation().setHrRat(probabilities[r][0])
