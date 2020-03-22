@@ -12,3 +12,9 @@ __pycache__/
 *.bcf
 *-blx.bib
 *.gz
+
+
+# Files that cannot be published to Git due to licencing
+src/data/text/before/*
+src/data/text/after/*
+src/data/pdf/*
